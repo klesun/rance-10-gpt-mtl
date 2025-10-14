@@ -8,4 +8,4 @@ And, as we all know, nowadays ChatGPT is a thing so it should be rather easy to 
 I'll put here the scripts and their output, hopefully eventually this project will result in a patch that anyone can run to translate the game to English.
 
 Btw, here is the link to the game:
-[magnet:?xt=urn:btih:56a41b8aca7f2753ad58f96d69def852ddf7dd41&dn=Rance%2010&xl=4262760435](magnet:?xt=urn:btih:56a41b8aca7f2753ad58f96d69def852ddf7dd41&dn=Rance%2010&xl=4262760435)
+magnet:?xt=urn:btih:56a41b8aca7f2753ad58f96d69def852ddf7dd41&dn=Rance%2010&xl=4262760435
