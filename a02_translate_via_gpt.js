@@ -45,23 +45,30 @@ const outputSchema = {
     }
 };
 
-const PROMPT = `Please, translate following lines from Japanese to English according to the supplied schema. The text is from the game Rance X by Alicesoft.`;
+const PROMPT = `Translate every single line from Japanese to English according to the supplied schema. The text is from the game Rance X by Alicesoft.`;
 
-const chunkSize = 200;
+// const chunkSize = 50;
+const chunkSize = 60;
 
 const outputs = [];
 
-for (let chunkStart = 0; chunkStart < inputMessages.length; chunkStart += chunkSize) {
+// skipped for now: 66870 - 128000
+// fetched out of sequence: 128000 - 136060
+
+for (let chunkStart = 66870; chunkStart < inputMessages.length; chunkStart += chunkSize) {
     const chunk = inputMessages.slice(chunkStart, chunkStart + chunkSize);
     console.log("Processing lines after " + chunkStart)
 
+    const startMs = Date.now();
     const output = await openAiClient.responses.parse({
-        model: "gpt-4o",
+        // model: "gpt-4o",
+        // model: "gpt-4o-mini",
+        model: "gpt-4.1-mini",
         // temperature: 0,
         input: [
             { role: "system", content: PROMPT },
             { role: "user", content: [{
-                text: chunk.map(m => m.text).join("\n"),
+                text: JSON.stringify(chunk),
                 type: 'input_text',
             }] }
         ],
@@ -69,6 +76,7 @@ for (let chunkStart = 0; chunkStart < inputMessages.length; chunkStart += chunkS
             format: { name: "TranslationJSONOutput", type: "json_schema", schema: outputSchema },
         },
     });
+    console.log("Chunk translated in " + ((Date.now() - startMs) / 1000).toFixed(1) + " seconds");
 
     if (!output.output_parsed) {
         console.error("__________ FAILED AT " + chunkStart);
@@ -78,12 +86,11 @@ for (let chunkStart = 0; chunkStart < inputMessages.length; chunkStart += chunkS
         throw new Error("Fuking bot");
     }
 
-    outputs.push(output);
-	
-	// debug
-	if (chunkStart > 1000) {
-		break;
-	}
-}
+    const pageFileName = String(chunkStart).padStart(6, "0") + "_" + String(chunkStart + chunkSize).padStart(6, "0") + ".json";
+    await fs.writeFile("./gpt_outputs/" + pageFileName, JSON.stringify(output), "utf8");
 
-await fs.writeFile("zhopa123.json", JSON.stringify(outputs), "utf8");
+    if (output.output_parsed.translationLines?.length !== chunk.length) {
+        console.error("__________ UNEXPECTED NUMBER OF LINES: " + output.output_parsed.translationLines?.length + " AT " + chunkStart);
+        throw new Error("Fuking bot");
+    }
+}
