@@ -30,7 +30,9 @@ for (const line of lines) {
     }
 }
 
-const result = { parsed, unparsed };
+// the s[] lines sometimes also store some displayed text (user interface mostly),
+// but some of the text in s[] are internal constant names, not free form text, so
+// only selected few s[] lines should be touched, exclusively by cherry-picking
 const messageLines = parsed.filter(lr => lr.lineKind === "m");
 const outputJson = "[\n" + messageLines.map(ml => JSON.stringify(ml)).join(",\n") + "\n]";
 
