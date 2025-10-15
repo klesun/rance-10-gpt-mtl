@@ -9,3 +9,6 @@ I'll put here the scripts and their output, hopefully eventually this project wi
 
 Btw, here is the link to the game:
 magnet:?xt=urn:btih:56a41b8aca7f2753ad58f96d69def852ddf7dd41&dn=Rance%2010&xl=4262760435
+
+After:
+<img width="1109" height="844" alt="image" src="https://github.com/user-attachments/assets/5233c5d3-83e8-4e20-807d-a0cbef5e5c81" />
