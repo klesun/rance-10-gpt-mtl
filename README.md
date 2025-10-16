@@ -1,4 +1,4 @@
-God bless the sould of the author of this article:
+God bless the soul of the author of this article:
 https://haniwa.technology/alice-tools/README-ain.html
 
 So, apparently, with [alice-tools](https://github.com/nunuhara/alice-tools) it's _very_ easy to edit the text in the game to translate it.
