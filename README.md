@@ -1,3 +1,5 @@
+Patch installation instruction available [here](https://github.com/klesun/rance-10-gpt-mtl/releases/tag/0.0.1) (Releases page)
+__________
 God bless the soul of the author of this article:
 https://haniwa.technology/alice-tools/README-ain.html
 
