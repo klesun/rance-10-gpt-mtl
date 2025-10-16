@@ -7,6 +7,9 @@ And, as we all know, nowadays ChatGPT is a thing so it should be rather easy to 
 
 I'll put here the scripts and their output, hopefully eventually this project will result in a patch that anyone can run to translate the game to English.
 
+Youtube recordings of the walkthrough with this English patch:
+https://www.youtube.com/playlist?list=PL_mejOc9nYCLg6V_FI9ISiafdjH2CW2Mv
+
 You can obtain the game copy here: (please, support the developer!)
 https://www.dlsite.com/pro/work/=/product_id/VJ011759.html
 
