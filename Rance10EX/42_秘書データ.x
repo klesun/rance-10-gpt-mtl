@@ -1,145 +1,719 @@
 tree 秘書データ = {
 	アリス = {
-		つつく = (list) { "おさわり禁止ですよrゆきちーーー", "ゲームに集中して下さい", "アリスソフトはr大阪に在ります", "諭吉r何しているのかしら？", "触っちゃいけませーん", "えっちな人はrめっ、ですよ" },
-		待ち会話 = (list) { "そろそろrおやつの時間かな", "画面モードは……r１０２４＊７６８かも", "パソコン、パソコン！", "ゲームは１日６時間まで（適当）", "選択で悩んだ時はrそうセーブ（ＳＡＶＥ）です", "今夜の晩ご飯はrなににしようかな♪", "ゲームに疲れたらrちゃんと休憩しましょうね", "もしもーし？r……もしかして寝ちゃいました？" },
-		進む = (list) { "あるこーrあるこー", "てくてくいこー", "お散歩好きですrとことこ", "ぜんそくぜんしーん", "まっすぐ進もー", "れっつごー" },
-		挨拶 = (list) { "アリスですrはりきっていきましょう" },
-		クエストクリア = (list) { "クエストクリア！rおめでとうございまーす！" },
-		クエストアウト = (list) { "気にしない気にしないrどんどん進めましょう" },
-		ＧＡＭＥＯＶＥＲ = (list) { "これってrガメオベアて読むんだよ" },
-		クエスト開始 = (list) { "作戦開始です、がんばりましょう！" },
-		準備 = (list) { "何か大きな事をする前にはr準備が必要なのです" },
-		作戦 = (list) { "作戦フェイズですrガンガンいこー" },
-		拠点 = (list) { "拠点フェイズでrのんびり過ごしましょう" },
-		地域 = (list) { "条件＜地域奪還＞　この地域はもう安全そうrよかったですね", "条件＜地域滅亡＞　残念ながらこの地域はもう……", "条件＜リーザス＞　リーザス王国rランス１や３の舞台です", "条件＜ゼス＞　ゼス王国rランス６の舞台です", "条件＜ヘルマン＞　ヘルマン共和国rランス９の舞台です", "条件＜自由都市＞　自由都市は……rランス２かな？", "何か作戦ありますか？" },
-		冒険 = (list) { "はりきって冒険にいきましょー" },
-		食券 = (list) { "食券フェイズでr皆さんの様子を見てみましょう", "キャラクターイベントですねr男の子のイベントも見てあげてね" },
-		売店 = (list) { "ゆきち、アイス買おうか？", "いろいろあるなー", "おっかいもの♪rおっかいもの♪" },
+		つつく = (list) {
+			"Touching is foRbidden, Yukichi---",
+			"Please focus on the game",
+			"AliceSoft is located in Osaka",
+			"I wondeR what Yukichi is doing",
+			"No touching allowed-",
+			"Lewd people, no, no!" },
+		待ち会話 = (list) { "Is it snack time soon?",
+			"ScReen mode...\n maybe 1024x768",
+			"ComputeR, computeR!",
+			"Only six houRs of games peR day (maybe)",
+			"When unsuRe about choices-yes, SAVE",
+			"What should I have foR dinneR tonight♪",
+			"If you'Re tiRed of the game,\n take a pRopeR Rest",
+			"Hello?\n …Did you fall asleep?" },
+		進む = (list) { "Let's walk, let's walk",
+			"Let's keep going",
+			"I like stRolls, step step",
+			"Full speed ahead",
+			"Let's go stRaight ahead",
+			"Let's go!" },
+		挨拶 = (list) { "I'm Alice, let's do ouR best" },
+		クエストクリア = (list) { "Quest cleaR!\n CongRatulations!" },
+		クエストアウト = (list) { "Don't woRRy, don't woRRy,\n just keep moving foRwaRd" },
+		ＧＡＭＥＯＶＥＲ = (list) { "This is Read as ‘Game OveR'" },
+		クエスト開始 = (list) { "Mission staRt, let's do ouR best!" },
+		準備 = (list) { "BefoRe doing something big,\n pRepaRation is necessaRy" },
+		作戦 = (list) { "StRategy phase, let's go all out" },
+		拠点 = (list) { "Base phase, let's Relax" },
+		地域 = (list) {
+			"条件＜地域奪還＞　This aRea seems safe now, that's good",
+			"条件＜地域滅亡＞　UnfoRtunately, this Region is alReady...",
+			"条件＜リ-ザス＞　Kingdom of Leazas, the setting of Rance 1 and 3",
+			"条件＜ゼス＞　Kingdom of Zeth, the setting of Rance 6",
+			"条件＜ヘルマン＞　Republic of Helman, the setting of Rance 9",
+			"条件＜自由都市＞　FRee Cities…\n maybe Rance 2?",
+			"Do you have any missions planned？"
+		},
+		冒険 = (list) { "Let's go on an adventuRe enthusiastically" },
+		食券 = (list) { "DuRing the Meal Ticket Phase,\n let's see how eveRyone's doing",
+			"It's a chaRacteR event-don't foRget\n to check the boys' events too" },
+		売店 = (list) { "Yukichi, shall we buy ice cReam?",
+			"TheRe's a lot of stuff heRe",
+			"Shopping♪ Shopping♪" },
 	},
 	ケイブワン＆ニャン = {
-		つつく = (list) { "＜ケイブニャン＞触るんじゃないにゃー！", "＜ケイブニャン＞にゃっ！？rなんで頭撫でるにゃ！", "＜ケイブニャン＞こ、こら！r顎、顎すりすりはいかんにゃ……", "＜ケイブニャン＞なんにゃ？rなんで鼻を触るにゃ？", "＜ケイブワン＞わふん？rなんで頭撫でるわん？", "＜ケイブワン＞うぐ……rほっぺぐりぐりしないで欲しいわん", "＜ケイブワン＞私の鼻に触ってr何か楽しいのかわん？", "＜ケイブワン＞耳をぺたぺたーってrしないで欲しいわん", "＜ケイブニャン＞触られたにゃ！？rr＜ケイブワン＞……スケベ", "＜ケイブニャン＞スケベ、どこ触ってるにゃ！rr＜ケイブワン＞ニャンに何するわん", "＜ケイブニャン＞変なとこ触るにゃー！rr＜ケイブワン＞……なにしてるの？" },
-		待ち会話 = (list) { "＜ケイブニャン＞退屈だにゃあ", "＜ケイブニャン＞行かないのかにゃ？", "＜ケイブニャン＞なにボケーッてしてるにゃ？", "＜ケイブニャン＞ふにぁぁぁん……r眠くなってきちまったにゃん……", "＜ケイブワン＞何か行動しないのかわん？", "＜ケイブワン＞なんとかの考え休むに似たり……rって奴ね", "＜ケイブワン＞暇ね……", "＜ケイブワン＞そろそろ行かない？", "＜ケイブニャン＞ぼーっとしてどうしたにゃ？rr＜ケイブワン＞……眠いのかしら？", "＜ケイブニャン＞おーい、何かしないのかにゃ？rr＜ケイブワン＞……人間は怠惰ね", "＜ケイブニャン＞ぐうぐう……ぐうぐう……rr＜ケイブワン＞……退屈すぎてニャンが寝たわ" },
-		進む = (list) { "＜ケイブニャン＞ごーごーにゃ！", "＜ケイブニャン＞どばさーっと進むにゃ", "＜ケイブニャン＞どこ行くにゃー？", "＜ケイブワン＞じゃ、行きましょ", "＜ケイブワン＞散歩は好きわん、ふふふ……", "＜ケイブワン＞てくてく……" },
-		挨拶 = (list) { "＜ケイブニャン＞ニャン達が秘書してやるにゃ！r人間は感謝するにゃ！", "＜ケイブワン＞知能派のワンにかかればr秘書業務なんて軽い仕事だわん", "＜ケイブニャン＞わんにゃんコンビ、参上にゃ！rr＜ケイブワン＞……なんでワン達が秘書？" },
-		クエストクリア = (list) { "＜ケイブニャン＞わーい、クリアにゃー！rr＜ケイブワン＞喜んでいいのかしら……" },
-		クエストアウト = (list) { "＜ケイブニャン＞いったん諦めるのかにゃ？rr＜ケイブワン＞そういう判断も必要わん" },
-		ＧＡＭＥＯＶＥＲ = (list) { "＜ケイブニャン＞やったー、人間の負けにゃー！rr＜ケイブワン＞くふふ、やったわん" },
-		クエスト開始 = (list) { "＜ケイブニャン＞レッツゴーにゃー！rr＜ケイブワン＞よし、行くわん", "条件＜最終決戦＞　これが最後の戦いにゃ！rリス様、頑張ってにゃん！r＜ケイブワン＞人間なんかに絶対負けないでわん" },
-		準備 = (list) { "＜ケイブニャン＞準備フェイズにゃ！rr＜ケイブワン＞準備は大事よねぇ" },
-		作戦 = (list) { "＜ケイブニャン＞作戦フェイズにゃ！rr＜ケイブワン＞重要な選択わん" },
-		拠点 = (list) { "＜ケイブニャン＞拠点フェイズでのんびりにゃ！rr＜ケイブワン＞どこに行くの？", "条件＜第７ターン＞　＜ケイブニャン＞あけましておめでとうにゃ！rr＜ケイブワン＞お正月なのねぇ" },
-		地域 = (list) { "＜ケイブニャン＞ここで作戦かにゃ？rr＜ケイブワン＞まあいいんじゃない？", "条件＜地域奪還＞　＜ケイブニャン＞ぐぬぬ……人間どもめぇ……rr＜ケイブワン＞魔軍の敗退なんて悲しいわん……", "条件＜地域危機＞　＜ケイブニャン＞魔軍の皆がんばるにゃー！rr＜ケイブワン＞むふふ、もう少しで占領完了よ", "条件＜地域滅亡＞　＜ケイブニャン＞やったにゃ、魔軍の勝利にゃrr＜ケイブワン＞ふふふ、みんなよくやったわん" },
-		食券 = (list) { "＜ケイブニャン＞食券フェイズにゃー！rr＜ケイブワン＞みんなの生活覗き見わん？", "条件＜食券３枚＞　＜ケイブニャン＞食券が溜まってるにゃあrr＜ケイブワン＞使わないともったいないわよ？" },
+		つつく = (list) {
+			"＜ケイブニャン＞ Don't touch me, nya!",
+			"＜ケイブニャン＞ Nya!?\n Why aRe you petting my head, nya!",
+			"＜ケイブニャン＞ H-hey!\n Rubbing my chin is not allowed, nya…",
+			"＜ケイブニャン＞ What, nya?\n Why aRe you touching my nose, nya?",
+			"＜ケイブワン＞ Woof?\n Why aRe you petting my head, woof?",
+			"＜ケイブワン＞ Ugh…\n please don't poke my cheeks, woof",
+			"＜ケイブワン＞ You touch my nose-what's so fun about that, woof?",
+			"＜ケイブワン＞ Don't pat my eaRs like that, woof",
+			"＜ケイブニャン＞ I got touched, nya!?\n RR＜ケイブワン＞ …PeRveRt",
+			"＜ケイブニャン＞ PeRveRt!\n WheRe aRe you touching, nya!\n RR＜ケイブワン＞ Nyan, what's he doing, woof?",
+			"＜ケイブニャン＞ Don't touch weiRd places, nya!\n RR＜ケイブワン＞ …What aRe you doing?"
+		},
+		待ち会話 = (list) {
+			"＜ケイブニャン＞ I'm boRed, nya",
+			"＜ケイブニャン＞ Not going anywheRe, nya?",
+			"＜ケイブニャン＞ Why aRe you spacing out, nya?",
+			"＜ケイブニャン＞ Fnyaaaan…\n getting sleepy, nyaaan…",
+			"＜ケイブワン＞ Not taking any action, woof?",
+			"＜ケイブワン＞ Thinking too long is like Resting, as they say",
+			"＜ケイブワン＞ BoRed, woof…",
+			"＜ケイブワン＞ Shall we go soon?",
+			"＜ケイブニャン＞ What aRe you daydReaming foR, nya?\n RR＜ケイブワン＞ …Feeling sleepy?",
+			"＜ケイブニャン＞ Hey, aRen't we doing something, nya?\n RR＜ケイブワン＞ …Humans aRe lazy",
+			"＜ケイブニャン＞ Zzz…\n zzz…\n RR＜ケイブワン＞ …Too boRed,\n Nyan fell asleep"
+		},
+		進む = (list) {
+			"＜ケイブニャン＞ Go go nya!",
+			"＜ケイブニャン＞ Let's chaRge foRwaRd, nya",
+			"＜ケイブニャン＞ WheRe aRe we going, nya?",
+			"＜ケイブワン＞ Well, let's go",
+			"＜ケイブワン＞ I like walks, woof, hehe…",
+			"＜ケイブワン＞ Step step…"
+		},
+		挨拶 = (list) {
+			"＜ケイブニャン＞ Nyan and Wan will be youR secRetaRies!\n Humans should be gRateful, nya!",
+			"＜ケイブワン＞ FoR a smaRt dog like me, being\n a secRetaRy is an easy job, woof",
+			"＜ケイブニャン＞ The Wan-Nyan duo is heRe!\n RR＜ケイブワン＞ …Why aRe we the secRetaRies again?"
+		},
+		クエストクリア = (list) {
+			"＜ケイブニャン＞ Yay, cleaRed, nya!\n RR＜ケイブワン＞ …Should we Really be happy?"
+		},
+		クエストアウト = (list) {
+			"＜ケイブニャン＞ Giving up foR now, nya?\n RR＜ケイブワン＞ That's a valid choice, woof"
+		},
+		ＧＡＭＥＯＶＥＲ = (list) {
+			"＜ケイブニャン＞ Yay, humans lost, nya!\n RR＜ケイブワン＞ Hehe, we did it, woof"
+		},
+		クエスト開始 = (list) {
+			"＜ケイブニャン＞ Let's go, nya!\n RR＜ケイブワン＞ AlRight, let's move, woof",
+			"条件＜最終決戦＞　This is the last fight, nya!\n リス様, do youR best, nya!\n R＜ケイブワン＞ Don't lose to the humans, woof!"
+		},
+		準備 = (list) {
+			"＜ケイブニャン＞ PRepaRation phase, nya!\n RR＜ケイブワン＞ PRepaRation is impoRtant, woof"
+		},
+		作戦 = (list) {
+			"＜ケイブニャン＞ StRategy phase, nya!\n RR＜ケイブワン＞ Time foR key decisions, woof"
+		},
+		拠点 = (list) {
+			"＜ケイブニャン＞ Base phase, time to Relax, nya!\n RR＜ケイブワン＞ WheRe aRe we going?",
+			"条件＜第７タ-ン＞　＜ケイブニャン＞ Happy New YeaR, nya!\n RR＜ケイブワン＞ Oh, it's New YeaR's, woof"
+		},
+		地域 = (list) {
+			"＜ケイブニャン＞ OpeRation heRe, nya?\n RR＜ケイブワン＞ Well, fine I guess",
+			"条件＜地域奪還＞　＜ケイブニャン＞ GRR…\n those humans…\n RR＜ケイブワン＞ The demons' defeat is so sad, woof",
+			"条件＜地域危機＞　＜ケイブニャン＞ Demon aRmy, do youR best, nya!\n RR＜ケイブワン＞ Hehe, almost complete occupation",
+			"条件＜地域滅亡＞　＜ケイブニャン＞ We did it, demon aRmy victoRy,\n nya RR＜ケイブワン＞ Hehe, good job eveRyone, woof"
+		},
+		食券 = (list) {
+			"＜ケイブニャン＞ Meal ticket phase, nya!\n RR＜ケイブワン＞ Peeking at eveRyone's lives, woof?",
+			"条件＜食券３枚＞　＜ケイブニャン＞ We've got a lot of meal tickets, nya RR＜ケイブワン＞ You should use them befoRe they'Re wasted, woof"
+		},
 	},
 	サテラ = {
-		つつく = (list) { "ん？　なんだ？", "こら！r変なところを触るんじゃない！", "ひゃんっ！？", "ま、真面目にやれ！", "このばか！rサテラに触れるな！", "ど、どこを触ってるんだ！？", "ば、馬鹿使徒ー！rいいい、今、どこに触ったー！？", "て、手つきがいやらしいぞ！rこのアホ！" },
-		待ち会話 = (list) { "ん？　どうしたんだ？", "おい、早く行くぞ", "なんだボーッとして", "ふわぁ……r退屈だな……", "（暇なので粘土こねこね中）", "何か悩んでるなら、rこの主に相談しろよ", "こんな所でr足踏みしている余裕はないぞ", "部隊編成でもするか？", "条件＜部隊ボーナス有り＞　おい、部隊ボーナスが貯まってるぞ？rケチケチせずに使えよ", "条件＜ＨＰ５０％以下＞　ちっ、疲労してる奴が多いなrこのままだとまずいぞ" },
-		進む = (list) { "よし、行くぞ！", "サテラについてこい！", "キリキリと歩け！", "どんどん進むぞ！", "とっとと先に行くぞ！" },
-		挨拶 = (list) { "まったく！rサテラに秘書をやらせるなんて！rなんて生意気な奴だ！", "ふん、お前の世話をしてやるr感謝しろよ", "えーと、秘書ってなにするんだ？" },
-		クエストクリア = (list) { "やるじゃないか！rそれでこそサテラの使徒だ！" },
-		クエストアウト = (list) { "ふんっ……r今回はここまで、か……" },
-		ＧＡＭＥＯＶＥＲ = (list) { "そんな……rサテラは、サテラは……" },
-		クエスト開始 = (list) { "よし、準備はいいな！r行くぞ、ランス！", "こんな作戦、rちゃちゃっと終わらせるぞ！", "条件＜最終決戦＞　これが最後の戦いだ！r全て終わらせるぞ、ランス！" },
-		準備 = (list) { "準備フェイズだぞr何をするんだ？", "条件＜第８ターン飛ぶ＞　まったく城を飛ばすとは……r相変わらず無茶苦茶だな……rどれ、城の様子でも見に行くか？", "条件＜第１２ターン＞　ん？r海が現れたのか？rま、サテラ達には関係ないな", "条件＜ランス城は上陸地点＞　魔物界か……rこんな形で戻ってくるとはな……" },
-		作戦 = (list) { "作戦フェイズだぞr何をするか選べ、ランス", "条件＜第８ターン飛ぶ＞　よし、ここからが後半戦だrそろそろケイブリスを倒すぞ！", "条件＜第８ターン＞　城が奪われたか……rだが、この程度で負けは認めん……r行くぞ、ランス", "条件＜ランス城は上陸地点＞　……ついに決戦かr行くぞ、ランス！", "条件＜第１２ターン＞　戦争が長引いている……r少し、まずい、かもな……" },
-		拠点 = (list) { "拠点フェイズだぞrなにをするんだ？", "条件＜第７ターン＞　拠点フェイズだぞrん？r正月ってなんだ？" },
-		地域 = (list) { "ん？rこの地域で作戦するのか？", "条件＜地域奪還＞　ここは既に奪還済みだrうむ、さすがサテラの使徒rよくやった", "条件＜地域滅亡＞　ちっ、魔軍の馬鹿どもめ……r我が物顔で歩きやがって……", "条件＜戦果なし＞　この国は守りがないがrこれでいいのか？" },
-		食券 = (list) { "食券フェイズだぞrみんな、どんな生活してるのかな？", "条件＜サテラ発生中＞　ん……サテラがいるな……rべ、別に会いに来なくてもrいいからな……ふんっ……", "条件＜ホーネット発生中＞　む、ホーネット様がいるなrお前が会いに行くなど恐れ多いr選択するなよ", "条件＜食券３枚＞　なんだ三枚も溜め込んでr使わないともったいないぞ？" },
+		つつく = (list) {
+			"Hm?\n What is it?",
+			"Hey!\n Don't touch weiRd places!",
+			"Kya!?",
+			"Be seRious!",
+			"You fool!\n Don't touch Satella!",
+			"Wh-wheRe aRe you touching!?",
+			"Y-you idiot seRvant!\n W-wheRe did you just touch!?",
+			"Th-that hand movement is indecent!\n You idiot!"
+		},
+		待ち会話 = (list) {
+			"Hm?\n What's wRong?",
+			"Hey, let's move alReady",
+			"Why aRe you spacing out?",
+			"Yawn…\n I'm boRed…",
+			"(Playing with clay out of boRedom)",
+			"If you'Re tRoubled, consult youR masteR",
+			"We can't affoRd to stand still heRe",
+			"Shall we oRganize the tRoops?",
+			"条件＜部隊ボ-ナス有り＞　Hey, you've got a unit bonus saved up.\n Don't be stingy-use it.",
+			"条件＜ＨＰ５０％以下＞　Tch, too many aRe exhausted.\n This isn't good."
+		},
+		進む = (list) {
+			"AlRight, let's go!",
+			"Follow Satella!",
+			"Move bRiskly!",
+			"Keep advancing!",
+			"HuRRy up, move foRwaRd!"
+		},
+		挨拶 = (list) {
+			"SeRiously!\n Making Satella youR secRetaRy!?\n How aRRogant!",
+			"Hmph, I'll take caRe of you.\n Be gRateful.",
+			"Uh, what does a secRetaRy even do?"
+		},
+		クエストクリア = (list) {
+			"Not bad!\n That's my disciple!"
+		},
+		クエストアウト = (list) {
+			"Hmph…\n so it ends heRe, huh…"
+		},
+		ＧＡＭＥＯＶＥＲ = (list) {
+			"No…\n Satella…\n Satella is…"
+		},
+		クエスト開始 = (list) {
+			"AlRight, Ready?\n Let's go, ランス!",
+			"Let's finish this mission quickly!",
+			"条件＜最終決戦＞　This is the final fight!\n Let's end eveRything, ランス!"
+		},
+		準備 = (list) {
+			"It's the pRepaRation phase.\n What aRe you going to do?",
+			"条件＜第８タ-ン飛ぶ＞　Honestly, flying the castle…\n such Recklessness…\n Let's go see how it's doing.",
+			"条件＜第１２タ-ン＞　Hm?\n The sea appeaRed?\n Well, that's none of Satella's conceRn.",
+			"条件＜ランス城は上陸地点＞　The MonsteR Realm…\n to RetuRn heRe like this…"
+		},
+		作戦 = (list) {
+			"It's the stRategy phase.\n Choose what to do, ランス.",
+			"条件＜第８タ-ン飛ぶ＞　AlRight, fRom heRe on is the second half.\n Time to defeat ケイブリス!",
+			"条件＜第８タ-ン＞　The castle's been taken…\n but I won't admit defeat oveR this…\n let's go, ランス.",
+			"条件＜ランス城は上陸地点＞　Finally the decisive battle.\n Let's go, ランス!",
+			"条件＜第１２タ-ン＞　The waR is dRagging on…\n this could be bad…"
+		},
+		拠点 = (list) {
+			"It's the base phase.\n What will you do?",
+			"条件＜第７タ-ン＞　It's the base phase.\n Hm?\n What's this ‘New YeaR' thing?"
+		},
+		地域 = (list) {
+			"Hm?\n You'Re doing the mission heRe?",
+			"条件＜地域奪還＞　This aRea's alReady Retaken.\n As expected of Satella's disciple-well done.",
+			"条件＜地域滅亡＞　Tch, those idiot demons…\n swaggeRing aRound…",
+			"条件＜戦果なし＞　This countRy has no defenses…\n is that alRight?"
+		},
+		食券 = (list) {
+			"It's the meal ticket phase.\n I wondeR how eveRyone's doing?",
+			"条件＜サテラ発生中＞　Hm…\n Satella's heRe…\n i-it's not like you had to come see me oR anything…\n h-hmph…",
+			"条件＜ホ-ネット発生中＞　Hm, Lady HoRnet is heRe.\n It's faR too gReat an honoR foR you-don't choose heR.",
+			"条件＜食券３枚＞　What, you've hoaRded thRee?\n You'd betteR use them."
+		},
 	},
 	シィル = {
-		つつく = (list) { "ひんひん……rなんですか、ランス様？", "あいたっ……rえと、どうかしましたか？", "あっ、rまた髪の毛もふもふしますか……？", "変なところグリグリはrやめてください……", "きゃうんっ！？", "あ、あ、r変なとこ触っちゃいやですー", "やんっ！rくすぐったいですぅ！", "あ、あう……rそこ、触られるとr困りますぅ……" },
-		待ち会話 = (list) { "ランス様？rどうかしましたか？", "お疲れ様ですランス様rお茶を淹れますか？", "ハンカチとティッシュはr持ちましたか？", "ランス様、何かお悩みですか？", "何かお菓子でも用意しましょうか？", "お腹が空いたら、rいつでも言って下さいね", "条件＜部隊ボーナス有り＞　部隊ボーナスが貯まっていますよrパワーアップに使いませんか？", "条件＜ＨＰ５０％以下＞　部隊ＨＰがだいぶ減っていますrあの……回復を考えた方が……" },
-		進む = (list) { "レッツゴー、です", "慎重に進みましょう", "敵さんと会いませんように……", "はい、前進、です", "ランス様についていきます", "まっすぐ行きましょう" },
-		挨拶 = (list) { "秘書として一生懸命がんばります！", "ランス様の秘書のシィルちゃんです！" },
-		クエストクリア = (list) { "おめでとうございます！rぱちぱち！" },
-		クエストアウト = (list) { "うう……rちょっと残念な結果にrなっちゃいましたね……" },
-		ＧＡＭＥＯＶＥＲ = (list) { "おしまい……rです……" },
-		クエスト開始 = (list) { "条件＜カラー救出＞　ランス様、r早速ウルザさん達のrところに行ってみましょう", "条件＜最終決戦＞　これが最後の戦い……r頑張りましょう、ランス様……", "作戦開始です、がんばりましょう！" },
-		準備 = (list) { "準備フェイズです。rランス様、指示をお願いします", "条件＜第１ターン＞　ランスさま…rじゃなくて、ランス総統閣下。rこれから如何いたしますか？", "条件＜第２ターン＞　これから本格的な反撃作戦の開始ですね。rランス様まずは如何なさいますか？", "条件＜第８ターン飛ぶ＞　わあ、お空の上ですよ、rすごいですねランス様", "条件＜第８ターン＞　おはようございます、ランス様r本当に…ご無事で良かった…ぐすっ…rまずは皆さんと会いましょう", "条件＜第１２ターン＞　ランス様、海が現れたそうですよ。rちょっと覗いてみますか？", "条件＜ランス城は上陸地点＞　おはようございます、ランス様。r魔物界の朝です。rこれからどうしますか？" },
-		作戦 = (list) { "作戦フェイズです。rランス様、作戦を選んで下さい", "条件＜第１ターン＞　先程の戦いお見事でしたランス様。r次はどうしますか？", "条件＜第２ターン＞　遂に魔人討伐作戦が始まるんですね……rランス様、どの魔人の方と戦いますか？", "条件＜第８ターン砦＞　ランス城は奪われてしまいましたが、rまだ負けたわけではありません。r再出発、がんばりましょう", "条件＜第８ターン飛ぶ＞　ドラゴンのキャンテルさんがr背に乗せてどこにでも連れてって下さるそうです。rランス様、どこに行きますか？", "条件＜第８ターン＞　ランス城は奪われてしまいましたが、rまだ負けたわけではありません。r再出発、がんばりましょう", "条件＜ランス城は上陸地点＞　ついにケイブリスとの決戦ですね。rランス様、ずっとついていきます…", "条件＜第１２ターン＞　そろそろ魔軍と決着をつけないと、rまずい、ですよね……rランス様、何かいい手はないでしょうか…" },
-		拠点 = (list) { "拠点フェイズです。r少しのんびりしましょう。", "条件＜第１ターン＞　拠点フェイズではr城内でしたいことをなさって下さいね", "条件＜第７ターン＞　ランス様rあけましておめでとうございます♪rお正月がやってきましたよ", "条件＜第１２ターン上陸＞　私達……r本当に魔物界に来たんですね……rランス様、拠点フェイズです。r選択をお願いします" },
-		地域 = (list) { "各地域の状況を確認します", "こちらで作戦活動をしますか？", "条件＜地域奪還＞　この地域はもう安全ですよr良かったですね、ランス様", "条件＜地域滅亡＞　この地域は……r魔軍に奪われてしまいました……" },
-		食券 = (list) { "あ、食券がありますね。rでは、どなたと親交を深めますか？", "どなたかを選択して下さい。rあ、食券を次に持ち越すこともできますよ", "皆さんの生活……rちょっと覗いてみましょうか", "条件＜ランス発生中＞　あっ、ランス様がいますよ", "条件＜シィル発生中＞　あっ、私もいますよ……rなーんて……", "条件＜食券３枚＞　わあ食券が三枚もr使わないともったいないですよ" },
+		つつく = (list) {
+			"Hnn…\n what is it, LoRd Rance?",
+			"Ouch…\n um, is something wRong?",
+			"Ah, aRe you going to\n fluff my haiR again…?",
+			"Please don't poke weiRd spots…",
+			"Kya!?","A-ah, please don't\n touch stRange places…",
+			"Yah!\n That tickles!",
+			"A-ah…\n being touched theRe…\n is tRoubling…" },
+		待ち会話 = (list) {
+			"LoRd Rance?\n Is something wRong?",
+			"Thank you foR youR haRd woRk,\n LoRd Rance.\n Shall I make some tea?",
+			"Do you have youR handkeRchief and tissues?",
+			"LoRd Rance, aRe you\n tRoubled by something?",
+			"Shall I pRepaRe some sweets?",
+			"If you'Re hungRy, please\n just tell me anytime.",
+			"条件＜部隊ボ-ナス有り＞　The unit bonus is saved up.\n Shall we use it to poweR up?",
+			"条件＜ＨＰ５０％以下＞　The unit's HP is quite low.\n Um…\n we should consideR healing…"
+		},
+		進む = (list) { "Let's go.",
+			"Let's move caRefully.",
+			"I hope we don't meet any enemies…",
+			"Yes, foRwaRd.",
+			"I'll follow you, LoRd Rance.",
+			"Let's go stRaight ahead." },
+		挨拶 = (list) { "I'll do my best as youR secRetaRy!",
+			"I'm LoRd Rance's secRetaRy, Sill!" },
+		クエストクリア = (list) { "CongRatulations!\n Clap clap!" },
+		クエストアウト = (list) { "Uu…\n that was a bit disappointing…" },
+		ＧＡＭＥＯＶＥＲ = (list) { "It's…\n oveR…" },
+		クエスト開始 = (list) {
+			"条件＜カラ-救出＞ LoRd Rance, let's go see\n URza and the otheRs Right away.",
+			"条件＜最終決戦＞ This is the final battle…\n let's do ouR best, LoRd Rance…",
+			"The mission staRts, let's do ouR best!"
+		},
+		準備 = (list) {
+			"It's the pRepaRation phase.\n LoRd Rance, please give youR instRuctions.",
+			"条件＜第１タ-ン＞ LoRd Rance…\n I mean,\n SupReme LeadeR Rance.\n What will you do now?",
+			"条件＜第２タ-ン＞ The counteRoffensive begins in eaRnest.\n What's youR fiRst move, LoRd Rance?",
+			"条件＜第８タ-ン飛ぶ＞Flying> Wow, we'Re above the clouds, amazing, LoRd Rance!",
+			"条件＜第８タ-ン＞ Good moRning, LoRd Rance…\n I'm so glad you'Re safe…\n sniff…\n let's meet eveRyone fiRst.",
+			"条件＜第１２タ-ン＞ LoRd Rance, the sea has appeaRed.\n Shall we take a look?",
+			"条件＜ランス城は上陸地点＞ Good moRning, LoRd Rance.\n It's moRning in the MonsteR Realm.\n What will we do now?"
+		},
+		作戦 = (list) {
+			"It's the stRategy phase.\n Please choose a mission, LoRd Rance.",
+			"条件＜第１タ-ン＞　The last battle was splendid, LoRd Rance.\n What shall we do next?",
+			"条件＜第２タ-ン＞　The demon exteRmination opeRation begins…\n which demon will you fight, LoRd Rance?",
+			"条件＜第８タ-ン砦＞　Rance Castle was taken, but we haven't lost yet.\n Let's RestaRt and keep fighting.",
+			"条件＜第８タ-ン飛ぶ＞　DRagon Cantel will caRRy us anywheRe.\n LoRd Rance, wheRe to?",
+			"条件＜第８タ-ン＞　Rance Castle was taken, but we haven't lost yet.\n Let's RestaRt and keep fighting.",
+			"条件＜ランス城は上陸地点＞　 Finally, the battle with Kayblis.\n LoRd Rance, I'll stay with you always…",
+			"条件＜第１２タ-ン＞　We need to settle things with the demon aRmy soon…\n this could get bad…\n LoRd Rance, do you have any ideas?"
+		},
+		拠点 = (list) {
+			"It's the base phase.\n Let's Relax a bit.",
+			"条件＜第１タ-ン＞　DuRing the base phase, please do as you like inside the castle.",
+			"条件＜第７タ-ン＞　Happy New YeaR, LoRd Rance♪ It's the New YeaR!",
+			"条件＜第１２タ-ン上陸＞　We…\n Really came to the MonsteR Realm…\n LoRd Rance, it's the base phase.\n Please choose."
+		},
+		地域 = (list) {
+			"Checking each Region's situation.",
+			"Will we opeRate in this aRea?",
+			"条件＜地域奪還＞　This Region is alReady safe.\n That's good, LoRd Rance.",
+			"条件＜地域滅亡＞　This Region has been taken by the demon aRmy…"
+		},
+		食券 = (list) {
+			"Ah, we have meal tickets.\n Who shall we deepen ties with?",
+			"Please select someone.\n Ah, you can also caRRy oveR tickets to the next phase.",
+			"Let's peek into eveRyone's lives a bit.",
+			"条件＜ランス発生中＞　Ah, LoRd Rance is heRe.",
+			"条件＜シィル発生中＞　Ah, I'm heRe too…\n just kidding…",
+			"条件＜食券３枚＞　Wow, thRee tickets!\n BetteR use them befoRe wasting them."
+		},
 	},
 	バレス = {
-		つつく = (list) { "ふおっ！？　ヒゲが！　", "何か御用ですかな？", "むむ、ランス殿？rどうされましたか？", "ふがっ！r　頬を引っ張られましても……", "髪ですか？　いえ、自前ですが……", "落書きは禁止でお願いしますぞ", "むおっ、とと……r相撲を一番、ご所望ですかな？", "まだまだ若い者には負けませぬぞ" },
-		待ち会話 = (list) { "ふぅむ……編成は大丈夫ですかな？", "ランス殿……何かお考え中ですか？", "待つのなら、一局いかがですかな？", "これはいったい……rいや、ランス殿には深いお考えが……", "そうそう、rこれは娘の見合い写真なのですが……", "昔を思い出しますな……rそう、あれは……", "条件＜部隊ボーナス有り＞　部隊ボーナスを得る好機ですぞrご確認あれ", "条件＜ＨＰ５０％以下＞　ランス殿、危機ですぞr態勢を立て直しましょう" },
-		進む = (list) { "ふむ、では慎重に……", "進みましょうぞ、香車の如く", "では、進軍！", "こちらの道が良さそうですな", "この局面……いかがしたものか", "このバレス。rまだまだ若い者には負けませぬ", "次は何者が出てくるか……" },
-		挨拶 = (list) { "では参りましょうぞ、ランス殿！", "このバレスが案内仕りましょうぞ！" },
-		クエストクリア = (list) { "お見事にございます！r流石はランス殿！", "ふふふ、儂も少しはお役に立て……rふがっ、ふぐぐ！　髭を……！" },
-		クエストアウト = (list) { "撤退いたしましょうr英断でございます……", "くくっ……時には負け戦もございます" },
-		ＧＡＭＥＯＶＥＲ = (list) { "無念……無念ですがr最早これまで……" },
-		クエスト開始 = (list) { "では出撃と参りましょう", "条件＜リーザス１＞　さあ、共にリーザスを守りましょうぞ！", "条件＜リーザス２＞　前進！　我らの地を守りましょう！" },
-		準備 = (list) { "準備フェイズですrさて、何から掛かりますかな？", "全ては周到な準備から始まりますrどう致しますか？", "備えあれば憂いなしrさぁ、どうされますかな", "条件＜第１ターン＞　流石はランス殿……いえ、総統閣下rではどうぞ、下知を", "条件＜第８ターン飛ぶ＞　城が空を飛ぶとは……r長生きはしてみるものです", "条件＜第８ターン砦＞　被害は出ましたがr終わってはおりませぬrさあ現状把握と参りましょう", "条件＜第１２ターン＞　ほう、海が出てきたようですなr年をとりますとr前回がついこの間のような……" },
-		作戦 = (list) { "作戦を練りましょう", "どれから片付けますかな", "出撃準備、整いましたぞ", "条件＜第１ターン＞　司令部の憂いが無くなり申したr儂もこちらでお手伝いしますぞ", "条件＜第８ターン砦＞　なんの、負け戦も慣れとりますrまだまだこれからですぞ", "条件＜第１２ターン＞　長い戦争になって参りましたな……rそろそろ盤上この一手、がr欲しくなりますが……" },
-		拠点 = (list) { "拠点で一休みですな", "茶でも一杯、欲しくなりますな", "条件＜第７ターン＞　あけましておめでとうございますr一年の計は元旦にありとr申しましてな……" },
-		地域 = (list) { "この地も苦しいようですなrこちらへ向かいますか？", "現状を確認いたしましょうrふむ、ふむ…………", "条件＜リーザス＞　むむ……我が国の、現状は……", "条件＜地域奪還＞　この地には既に強敵はおりませぬな", "条件＜地域滅亡＞　ランス殿……ここはもう　既に……" },
-		食券 = (list) { "どの者と親睦を深めますかな？", "時には部下と語らうのも良き将の条件rいかがなさいますか？", "この中から一名、お選びください", "条件＜バレス発生中＞　たまには儂と一献、如何ですかな？", "条件＜スー発生中＞　おや？　あそこにスーの姿が……", "条件＜ハウレーン発生中＞　む、ハウレーン……あちらで何を", "条件＜食券３枚＞　おぉ、三枚も。rこれは使うほかありませぬな" },
+		つつく = (list) {
+			"Whoa!?\n My beaRd!",
+			"Do you need something?",
+			"Hm, LoRd Rance?\n What's the matteR?",
+			"Oof!\n Even if you pull my cheeks...",
+			"My haiR?\n No, it's Real...",
+			"Please RefRain fRom doodling on me.",
+			"Oh, oh...\n aRe you asking foR a sumo match?",
+			"I won't lose to the young ones yet!"
+		},
+		待ち会話 = (list) {
+			"Hmm...\n is the foRmation Ready?",
+			"LoRd Rance...\n aRe you thinking of something?",
+			"If we'Re waiting, how about a game of shogi?",
+			"What in the woRld...\n no, LoRd Rance suRely has a deep plan...",
+			"Ah yes, this is a photo foR my daughteR's aRRanged maRRiage...",
+			"Reminds me of the old days...\n yes, that was...",
+			"条件＜部隊ボ-ナス有り＞　A good chance to use the unit bonus.\n Please check it.",
+			"条件＜ＨＰ５０％以下＞　LoRd Rance, dangeR is neaR.\n Let's ReoRganize."
+		},
+		進む = (list) {
+			"Hmm, let's move caRefully.",
+			"Let's advance like a lance.",
+			"Now, maRch!",
+			"This way looks best.",
+			"Hmm...\n what to do in this situation.",
+			"I, BaRes, still won't lose to the young.",
+			"I wondeR what awaits next..."
+		},
+		挨拶 = (list) {
+			"Let's pRoceed, LoRd Rance!",
+			"I, BaRes, shall be youR guide!"
+		},
+		クエストクリア = (list) {
+			"Splendid!\n As expected of LoRd Rance!",
+			"Hehe, I was of some use...\n oof, my beaRd!"
+		},
+		クエストアウト = (list) {
+			"Let's withdRaw.\n A wise decision.",
+			"Heh...\n sometimes we must lose."
+		},
+		ＧＡＭＥＯＶＥＲ = (list) {
+			"RegRettable...\n but this is the end..."
+		},
+		クエスト開始 = (list) {
+			"Then, let's soRtie.",
+			"条件＜リ-ザス１＞　Now, let's pRotect Leazas togetheR!",
+			"条件＜リ-ザス２＞　FoRwaRd!\n Let's defend ouR homeland!"
+		},
+		準備 = (list) {
+			"It's the pRepaRation phase.\n WheRe shall we begin?",
+			"EveRything begins with caReful pRepaRation.\n What will you do?",
+			"PRepaRation pRevents misfoRtune.\n Now, what will you decide?",
+			"条件＜第１タ-ン＞　As expected of LoRd Rance...\n no, SupReme LeadeR.\n Please issue youR command.",
+			"条件＜第８タ-ン飛ぶ＞　A flying castle, tRuly.\n Living long has its suRpRises.",
+			"条件＜第８タ-ン砦＞　We suffeRed losses, but it's not oveR.\n Let's assess the situation.",
+			"条件＜第１２タ-ン＞　Oh, the sea has appeaRed.\n Getting old makes past events feel Recent..."
+		},
+		作戦 = (list) {
+			"Let's plan ouR stRategy.",
+			"Which one shall we handle fiRst?",
+			"SoRtie pRepaRations complete.",
+			"条件＜第１タ-ン＞　The command centeR is secuRed.\n I shall assist heRe as well.",
+			"条件＜第８タ-ン砦＞　Losses happen, but we'Re used to it.\n The waR isn't oveR yet.",
+			"条件＜第１２タ-ン＞　The waR dRags on...\n soon we'll need one decisive move..."
+		},
+		拠点 = (list) {
+			"Let's Rest at base.",
+			"Could use a cup of tea.",
+			"条件＜第７タ-ン＞　Happy New YeaR.\n As they say, the yeaR's plan begins on New YeaR's Day..."
+		},
+		地域 = (list) {
+			"This land seems tRoubled.\n Shall we head theRe?",
+			"Let's confiRm the cuRRent situation...\n hmm, hmm...",
+			"条件＜リ-ザス＞　Hm...\n the cuRRent state of ouR kingdom...",
+			"条件＜地域奪還＞　TheRe aRe no stRong enemies heRe anymoRe.",
+			"条件＜地域滅亡＞　LoRd Rance...\n this place is alReady..."
+		},
+		食券 = (list) {
+			"With whom shall we deepen Relations?",
+			"Speaking with suboRdinates is also a maRk of a good commandeR.\n What will you do?",
+			"Please choose one peRson.",
+			"条件＜バレス発生中＞　How about shaRing a dRink with me sometime?",
+			"条件＜ス-発生中＞　Oh?\n TheRe's Sue oveR theRe...",
+			"条件＜ハウレ-ン発生中＞　Hm, Hawl...\n what is he doing oveR theRe?",
+			"条件＜食券３枚＞　Oh, thRee tickets.\n They should be used."
+		},
 	},
+
+
 	ビスケッタ = {
-		つつく = (list) { "御主人様？　いえ、なんでも", "どうぞ　お気が済むまで", "どうかなさいましたか？", "触れるのですかrではどうぞ", "それが、楽しいのですか？", "………………", "どうぞ、お望みであれば", "……どう反応すればよいでしょう" },
-		待ち会話 = (list) { "……………………", "主を待つのはrメイドの勤めでございます", "どうぞ、ご存分に", "お茶でございます　どうぞ", "はい。ごゆるりと", "条件＜部隊ボーナス有り＞　部隊ボーナスがあるようですrお使いになられてはいかがでしょう", "条件＜ＨＰ５０％以下＞　部隊の皆様の傷が深いようですr手当てしますか？" },
-		進む = (list) { "では、お気を付けください", "進行します", "参りましょう", "伏兵　障害　ご注意を", "どうぞ、お進みください" },
-		挨拶 = (list) { "では、私ビスケッタ・ベルンズがrご案内申し上げます", "御主人様のサポート……承りました", "僭越ながら、勤めさせて頂きます" },
-		クエストクリア = (list) { "おめでとうございますrお疲れ様でした" },
-		クエストアウト = (list) { "はい。それでは撤退いたします" },
-		ＧＡＭＥＯＶＥＲ = (list) { "…………お疲れ様でございました" },
-		クエスト開始 = (list) { "それでは参ります" },
-		準備 = (list) { "準備フェイズでございますr何をなさいますか？", "本作戦の前の準備ですr合わせてご考慮くださいませ", "条件＜第１ターン＞　これから忙しくなりますねrでは、ご命令を", "条件＜第８ターン飛ぶ＞　飛行しても管理は充分にrご覧下さいませ", "条件＜第１２ターン＞　海が出てきたとの報告がrご覧になりますか？" },
-		作戦 = (list) { "作戦開始でございます。r出撃先をお選びください", "出撃の準備、滞りなくrどうぞお選びください", "条件＜第１ターン＞　お疲れ様でございましたr次はどうなさいますか？", "条件＜第８ターン飛ぶ＞　キャンテル様がお待ちとかrどちらへおいでになりますか？", "条件＜第１２ターン＞　皆様、疲弊なさっている様子……rいえ、どこまでも、お供に" },
-		拠点 = (list) { "用意は既に。ごゆるりとおくつろぎください", "拠点フェイズでございますrいかがなさいますか？", "お疲れ様でございましたrお心のままにお過ごしください", "条件＜第７ターン＞　準備、できております" },
-		地域 = (list) { "こちらへとお出かけですか？", "こちらがrこの地域の現状になります", "条件＜地域奪還＞　こちらの地域からはr異常なしと報告が", "条件＜地域滅亡＞　………………rこの地はお諦めください" },
-		食券 = (list) { "食券をお使いになれます。rどなたか一人をご指名ください", "今日はどうなさいますかr御主人様", "条件＜シィル発生中＞　御主人様、あちらにシィル様が", "条件＜メイドロナ発生中＞　御主人様、あの子が……rいえ、出過ぎたことでした", "条件＜食券３枚＞　これ以上r溜めておく事はできませんrご注意くださいませ" },
+		つつく = (list) {
+			"MasteR?\n No, it's nothing.",
+			"As you wish, take youR time.",
+			"Is something the matteR?",
+			"You wish to touch me?\n Then please, go ahead.",
+			"Does that bRing you joy?",
+			"..................",
+			"As you wish, if that is youR desiRe.",
+			"......How should I React to this?"
+		},
+		待ち会話 = (list) {
+			"........................",
+			"Waiting foR one's masteR is a maid's duty.",
+			"Please, take youR time.",
+			"HeRe is youR tea.\n Please enjoy.",
+			"Yes. Please Relax.",
+			"条件＜部隊ボ-ナス有り＞　It seems theRe's a unit bonus available.\n Might you use it?",
+			"条件＜ＨＰ５０％以下＞　The tRoops appeaR heavily wounded.\n Shall I pRovide tReatment?"
+		},
+		進む = (list) {
+			"Then, please be caReful.",
+			"PRoceeding foRwaRd.",
+			"Let's go.",
+			"BewaRe of ambushes and obstacles.",
+			"Please, go ahead."
+		},
+		挨拶 = (list) {
+			"Then, I, Biscatta Belns, shall seRve as youR guide.",
+			"I accept the duty of suppoRting my MasteR.",
+			"Though it may be pResumptuous, I shall seRve faithfully."
+		},
+		クエストクリア = (list) {
+			"CongRatulations.\n You've done well."
+		},
+		クエストアウト = (list) {
+			"UndeRstood.\n We shall withdRaw."
+		},
+		ＧＡＭＥＯＶＥＲ = (list) {
+			"............Thank you foR youR effoRts."
+		},
+		クエスト開始 = (list) {
+			"Then, let us begin."
+		},
+		準備 = (list) {
+			"It is the pRepaRation phase.\n What will you do?",
+			"PRepaRations befoRe the mission.\n Please consideR accoRdingly.",
+			"条件＜第１タ-ン＞　It seems things will get busy.\n Please, youR oRdeRs.",
+			"条件＜第８タ-ン飛ぶ＞　Even in flight, all systems Remain stable.\n Please obseRve.",
+			"条件＜第１２タ-ン＞　A RepoRt says the sea has appeaRed.\n Would you like to see it?"
+		},
+		作戦 = (list) {
+			"Mission begins.\n Please select youR destination.",
+			"Deployment pRepaRations complete.\n Please make youR selection.",
+			"条件＜第１タ-ン＞　Good woRk on the last opeRation.\n What's next?",
+			"条件＜第８タ-ン飛ぶ＞　SiR Cantel is waiting.\n WheRe shall we go?",
+			"条件＜第１２タ-ン＞　EveRyone seems exhausted...\n No matteR, I shall accompany you wheReveR you go."
+		},
+		拠点 = (list) {
+			"PRepaRations aRe complete.\n Please Relax and Rest.",
+			"It's the base phase.\n What will you do?",
+			"Thank you foR youR woRk.\n Please spend youR time as you wish.",
+			"条件＜第７タ-ン＞　EveRything is Ready."
+		},
+		地域 = (list) {
+			"You wish to visit this aRea?",
+			"HeRe is the cuRRent status of this Region.",
+			"条件＜地域奪還＞　RepoRts say no abnoRmalities in this Region.",
+			"条件＜地域滅亡＞　..................\n Please abandon this aRea."
+		},
+		食券 = (list) {
+			"You may now use meal tickets.\n Please select one peRson.",
+			"What would you like to do today, MasteR?",
+			"条件＜シィル発生中＞　MasteR, Lady Sill is oveR theRe.",
+			"条件＜メイドロナ発生中＞　MasteR, that giRl...\n no, foRgive me foR speaking out of tuRn.",
+			"条件＜食券３枚＞　You cannot stoRe any moRe.\n Please be cautious."
+		},
 	},
+
+
 	リセット = {
-		つつく = (list) { "きゃっ！？rどどど、どこ触ってるの！？", "わわわっ！r変なとこ触っちゃ駄目だよ！？", "きゃははは！rわ、脇腹は駄目だよ！", "んー？rお姉ちゃんのr額のクリスタルが気になる？", "ひゃあっ！rつんつんしないで！？", "うにゃあ！？rなんで、つっつくのー？", "もう！rいたずらは駄目だよ！", "つんつん？" },
-		待ち会話 = (list) { "んー？r休憩中？", "お茶でも飲んでr休憩しよーう", "疲れたら休憩休憩♪", "なにか悩んでる？", "お腹が空いた？rお菓子食べる？", "はーっrなんだか、のーんびり♪", "まったり♪rまったり♪", "迷ったらセーブ、だよ" },
-		進む = (list) { "れっつごー", "どんどん行こー", "進もー進もー", "了解、前進だねー", "＜エール＞ちゃんについていくねー", "はーい、進みまーす", "お姉ちゃんと手を繋いで行こうねー" },
-		挨拶 = (list) { "えへへ、秘書さんかぁrお姉ちゃん、がんばるね", "とーう！r秘書のお姉ちゃん、参上！", "ん、秘書をしたらいいの？rえへへ、よろしくねー" },
-		クエストクリア = (list) { "わーい！rやったね、＜エール＞ちゃん！", "おめでとーうrえへへ、頑張ったね、r＜エール＞ちゃん", "やったーrクエストクリアーだー" },
-		クエストアウト = (list) { "うーん、残念……r次、また挑戦しようね" },
-		ＧＡＭＥＯＶＥＲ = (list) { "そんな……" },
-		クエスト開始 = (list) { "新しい冒険、がんばろーね", "よーし、頑張ろうね、r＜エール＞ちゃん", "レッツゴーだよ、r＜エール＞ちゃん" },
-		冒険 = (list) { "条件＜第１ターン＞　ふふふr新しい冒険の始まりだね！", "条件＜第２ターン＞　ふふ、長田君と友達になったんだ♪r良かったね、＜エール＞ちゃん♪", "条件＜第３ターン＞　大変な目に遭っちゃったね……r心機一転、がんばろーね", "条件＜第４ターン＞　えへへ、これから宜しくねrさ、次はザンスちゃんのいるrリーザスにれっつごー", "条件＜第５ターン＞　ふふふ、ザンスちゃんともrもうすっかり仲良しさんだね", "条件＜第６ターン＞　乱義ちゃんも仲間だーr冒険は順調だね＜エール＞ちゃんrえーと、次は……", "条件＜第７ターン＞　ミラクルさんはいつも元気だねrミックスちゃんも仲間入りだし、r次はゼスに行こーう", "条件＜第８ターン＞　ふふ、すっかりスシヌちゃんとr仲良くなったねrさあ、次はヘルマンだよー", "条件＜第９ターン＞　遂に、次が最後のオーブだーrえ、武闘大会？r大丈夫かなぁ？", "条件＜第１０ターン＞　仲間もオーブも……r全部揃ったね……", "条件＜第１１ターン＞　なんだか大変なことにrなっちゃったね……r＜エール＞ちゃん、元気出してね", "条件＜第１２ターン＞　修行の成果を見せるときだrがんばろーね、＜エール＞ちゃん", "条件＜第１３ターン＞　わーい！rおとーさんが元に戻った！rありがとう、＜エール＞ちゃん！" },
-		売店 = (list) { "なにを買おっかなー？" },
+		つつく = (list) { "Kya!?\n Wh-wheRe aRe you touching!?",
+			"W-wait!\n Don't touch weiRd places!",
+			"Kyahaha!\n N-no, not my sides!",
+			"Hm?\n ARe you cuRious about my sisteR's foRehead cRystal?",
+			"Hyaah!\n Don't poke me!",
+			"Unyaa!?\n Why aRe you poking me?",
+			"Geez!\n No teasing!",
+			"Poke poke?" },
+		待ち会話 = (list) { "Hm?\n Taking a bReak?",
+			"Let's dRink some tea and Relax.",
+			"If you'Re tiRed, take a bReak♪",
+			"ARe you woRRied about something?",
+			"HungRy?\n Want some sweets?",
+			"Haaah, fEls so Relaxed♪",
+			"So chill♪ So chill♪",
+			"If you'Re lost, save the game!" },
+		進む = (list) { "Let's go!",
+			"Let's keep moving!",
+			"Let's go, let's go!",
+			"RogeR, moving foRwaRd!",
+			"I'll follow you, El-chan!",
+			"Okaay, moving out!",
+			"Let's go hand in hand with big sis!" },
+		挨拶 = (list) { "Hehe, secRetaRy woRk, huh?\n Big sis will do heR best!",
+			"Toh!\n SecRetaRy big sis, on the job!",
+			"Hm?\n I just need to be a secRetaRy?\n Hehe, nice to meet you!" },
+		クエストクリア = (list) { "Yay!\n We did it, El-chan!",
+			"CongRats!\n Hehe, you did gReat, El-chan.",
+			"Yay!\n Quest cleaR!" },
+		クエストアウト = (list) { "Aww, too bad...\n let's tRy again next time." },
+		ＧＡＭＥＯＶＥＲ = (list) { "No way..." },
+		クエスト開始 = (list) { "Let's do ouR best on this new adventuRe!",
+			"AlRight!\n Let's go, El-chan!",
+			"Let's go, El-chan!" },
+		冒険 = (list) {
+			"条件＜第１タ-ン＞　Fufu, a new adventuRe begins!ね！",
+			"条件＜第２タ-ン＞　Hehe, you made fRiends with Nagata-kun♪ That's gReat, El-chan♪ん♪",
+			"条件＜第３タ-ン＞　You had a tough time...\n let's staRt fResh!-ね",
+			"条件＜第４タ-ン＞　Hehe, nice to meet you, let's head to Leazas wheRe Zance-chan is!ご-",
+			"条件＜第５タ-ン＞　Fufu, you'Re alReady good fRiends with Zance-chan.だね",
+			"条件＜第６タ-ン＞　Rangy-chan joined us!\n The adventuRe's going smoothly, El-chan.\n Hmm, next is.........",
+			"条件＜第７タ-ン＞　MiRacle-san is always so eneRgetic.\n Mix-chan joined too, let's go to Zeth next!-う",
+			"条件＜第８タ-ン＞　Fufu, you've gotten close with Sushi-nu-chan.\n Now, off to Helman!よ-",
+			"条件＜第９タ-ン＞　Finally, the last oRb!\n Huh, a maRtial aRts touRnament?\n Hope it's fine!ぁ？",
+			"条件＜第１０タ-ン＞　You've gatheRed all allies and oRbs.........",
+			"条件＜第１１タ-ン＞　Things got pRetty bad...\n cheeR up, El-chan!てね",
+			"条件＜第１２タ-ン＞　Time to show the Results of tRaining!\n Let's do ouR best, El-chan!ゃん",
+			"条件＜第１３タ-ン＞　Yay!\n Dad's back to noRmal!\n Thank you, El-chan"
+		},
+		売店 = (list) { "What should we buy?" }
 	},
 	志津香＆ナギ = {
-		つつく = (list) { "＜ナギ＞おっ、なんだー？", "＜ナギ＞なんだよー、押すなよー", "＜ナギ＞いひひ♪r変なとこ触っちゃだめだよー♪", "＜ナギ＞頭なでれーr頭なでれー", "＜志津香＞…………なに？", "＜志津香＞触らないでちょうだい", "＜志津香＞こ、こらr頭撫でないでよ", "＜志津香＞ちょっと……r変なとこ触らないでよ……", "＜ナギ＞いひひ、くすぐったいー♪rr＜志津香＞あんた…なにしてんの？", "＜ナギ＞あーっ、触ったーえっちえっちーrr＜志津香＞ちょっと、やめてよ……" },
-		待ち会話 = (list) { "＜ナギ＞おっ、ぼーっとしてどしたー？", "＜ナギ＞おなか空いてきたー", "＜ナギ＞うぅんr眠くなってきたー", "＜ナギ＞行かないのー？", "＜志津香＞なに悩んでるの？", "＜志津香＞……行かないの？", "＜志津香＞疲れたならrちゃんと休憩取るのよ？", "＜志津香＞迷ったらセーブしておきなさい", "＜ナギ＞おーい、どうしたのー？rr＜志津香＞何か考えてるんじゃない？", "＜ナギ＞お姉様ー、たいくつだよーrr＜志津香＞しりとりでもする？" },
-		進む = (list) { "＜ナギ＞ぼんっっっばーーーー！！！！", "＜ナギ＞ごーごー！", "＜ナギ＞どんどん進もーーう！", "＜志津香＞ちゃちゃっと行くわよ", "＜志津香＞はいはい、進むのね", "＜志津香＞ん、前進ね" },
-		挨拶 = (list) { "＜ナギ＞よっしゃー！r秘書がんばるよー！", "＜志津香＞秘書ねえ……rあんまり期待しないでよ？", "＜ナギ＞二人がかりで世話してあげるねーrr＜志津香＞……なんだかなぁ" },
-		クエストクリア = (list) { "＜ナギ＞やったー、クリアーだー！rr＜志津香＞ふう、お疲れ様……" },
-		クエストアウト = (list) { "＜ナギ＞どんまい、どんまい！rr＜志津香＞次、また挑戦ね" },
-		ＧＡＭＥＯＶＥＲ = (list) { "＜ナギ＞あ、う……rr＜志津香＞ここまで、ね……" },
-		クエスト開始 = (list) { "＜ナギ＞ぼんばー！rr＜志津香＞作戦開始、ね", "条件＜最終決戦＞　＜ナギ＞これで最後の戦いだー！rr＜志津香＞……行きましょう" },
-		準備 = (list) { "＜ナギ＞準備フェイズだー！rr＜志津香＞準備も大事よ？", "条件＜第８ターン飛ぶ＞　＜ナギ＞あははは！お空飛んでるー！rr＜志津香＞相変わらず、あんたって……", "条件＜第１２ターン＞　＜ナギ＞うーーーみーーー！rr＜志津香＞ん、海が現れたようね……" },
-		作戦 = (list) { "＜ナギ＞作戦フェイズだぞー！rr＜志津香＞なにをするの？", "条件＜第８ターン飛ぶ＞　＜ナギ＞後半戦開始ー！rr＜志津香＞……そうなの？", "条件＜第８ターン＞　＜ナギ＞ぐすん……城奪われちゃったね……rr＜志津香＞しょげないの", "条件＜ランス城は上陸地点＞　＜ナギ＞決戦の始まりだー！rr＜志津香＞……これで、最後、なのよね" },
-		拠点 = (list) { "＜ナギ＞拠点フェーーイズ！rr＜志津香＞休憩はしっかりとね", "条件＜第７ターン＞　＜ナギ＞あけましておめでとうございまーすrr＜志津香＞ん、ちゃんと挨拶出来たわね", "条件＜第１２ターン上陸＞　＜ナギ＞魔物界だー！rr＜志津香＞……誰と過ごすの？" },
-		地域 = (list) { "＜ナギ＞この地域で作戦するのー？rr＜志津香＞……悩んでる？", "＜ナギ＞地域の様子を見るよーrr＜志津香＞ふーむ……", "条件＜地域奪還＞　＜ナギ＞もうここは平和だよー！rr＜志津香＞ん、お疲れ様……", "条件＜地域滅亡＞　＜ナギ＞…………rr＜志津香＞魔軍に、奪われた地域よ……" },
-		食券 = (list) { "＜ナギ＞　食券フェイズだぜー！r＜志津香＞誰のイベント見るの？", "＜ナギ＞　みんなの生活をちょっと覗き見！r＜志津香＞……もっといい言い方はないの？", "条件＜子供志津香発生中＞　＜ナギ＞あっ、お姉様、お姉様！rお姉様がいるよ、ランス！", "条件＜リセット発生中＞　＜ナギ＞おお、リセットいるよ！rほらほら、会いに行こうよ！r＜志津香＞……本当に仲いいわね", "条件＜ランス発生中＞　＜ナギ＞あっ、お姉様、お姉様！rランスがいるよ！r＜志津香＞……それをなんで私に言うの？", "条件＜マリア発生中＞　＜ナギ＞あっ、マリアがいるじゃーん！rr＜志津香＞会いに行く？", "条件＜ミル発生中＞　＜ナギ＞ミルねーちゃんがいるよー！rr＜志津香＞……あんまり懐かないでよ？", "条件＜エレノア発生中＞　＜ナギ＞あっ、ランちゃんがいるよ！r＜志津香＞ランスとランの二人をr会わせようとしないでよ……", "条件＜子供ナギ発生中＞　＜志津香＞……ナギがいるわねrん、別にそれだけよ……", "条件＜食券３枚＞　＜ナギ＞おーっ、食券三枚もあるねーrr＜志津香＞使わないと、もったいないわよ？" },
+		つつく = (list) {
+			"＜ナギ＞ Oh, what's up?",
+			"＜ナギ＞ Hey, don't push me!",
+			"＜ナギ＞ Hehehe♪ Don't touch weiRd places♪",
+			"＜ナギ＞ Pat my head!\n Pat my head!",
+			"＜志津香＞ ...What?",
+			"＜志津香＞ Don't touch me.",
+			"＜志津香＞ H-hey!\n Don't pat my head!",
+			"＜志津香＞ H-hey...\n don't touch weiRd spots...",
+			"＜ナギ＞ Hehehe, that tickles♪ RR＜志津香＞ What...\n aRe you doing?",
+			"＜ナギ＞ Ah, you touched me!\n You peRv!\n RR＜志津香＞ Hey, stop that..."
+		},
+		待ち会話 = (list) {
+			"＜ナギ＞ Hey, why aRe you zoning out?",
+			"＜ナギ＞ I'm getting hungRy!",
+			"＜ナギ＞ Uuuh, getting sleepy...",
+			"＜ナギ＞ ARen't we going?",
+			"＜志津香＞ What aRe you woRRying about?",
+			"＜志津香＞ ...Not going?",
+			"＜志津香＞ If you'Re tiRed, take a pRopeR bReak.",
+			"＜志津香＞ If you'Re unsuRe, save youR pRogRess.",
+			"＜ナギ＞ Hey, what's up?\n RR＜志津香＞ Thinking about something?",
+			"＜ナギ＞ ＜志津香＞-sama, I'm boRed!\n RR＜志津香＞ Want to play woRd chain?"
+		},
+		進む = (list) {
+			"＜ナギ＞ Boooom-baaa!!!",
+			"＜ナギ＞ Go go!",
+			"＜ナギ＞ Let's keep going!",
+			"＜志津香＞ Let's get this done quickly.",
+			"＜志津香＞ AlRight, let's move.",
+			"＜志津香＞ Hm, foRwaRd then."
+		},
+		挨拶 = (list) {
+			"＜ナギ＞ AlRight!\n I'll do my best as secRetaRy!",
+			"＜志津香＞ SecRetaRy, huh...\n don't expect too much.",
+			"＜ナギ＞ The two of us will take caRe of you!\n RR＜志津香＞ ...Why does this feel weiRd?"
+		},
+		クエストクリア = (list) {
+			"＜ナギ＞ Yay, cleaRed!\n RR＜志津香＞ Whew, good woRk..."
+		},
+		クエストアウト = (list) {
+			"＜ナギ＞ Don't woRRy about it!\n RR＜志津香＞ We'll tRy again next time."
+		},
+		ＧＡＭＥＯＶＥＲ = (list) {
+			"＜ナギ＞ Ah...\n RR＜志津香＞ So this is as faR as we go..."
+		},
+		クエスト開始 = (list) {
+			"＜ナギ＞ Bombaaa!\n RR＜志津香＞ Mission staRt.",
+			"条件＜最終決戦＞　＜ナギ＞ This is the final battle!\n RR＜志津香＞ ...Let's go."
+		},
+		準備 = (list) {
+			"＜ナギ＞ PRepaRation phase!\n RR＜志津香＞ PRepaRation matteRs too.",
+			"条件＜第８タ-ン飛ぶ＞　＜ナギ＞ Hahaha!\n We'Re flying!\n RR＜志津香＞ You'Re still the same as eveR...",
+			"条件＜第１２タ-ン＞　＜ナギ＞ The seaaa!\n RR＜志津香＞ Hm, seems the sea appeaRed."
+		},
+		作戦 = (list) {
+			"＜ナギ＞ StRategy phase!\n RR＜志津香＞ What will you do?",
+			"条件＜第８タ-ン飛ぶ＞　＜ナギ＞ Second half, staRt!\n RR＜志津香＞ ...Is that so?",
+			"条件＜第８タ-ン＞　＜ナギ＞ Sniff...\n the castle got taken...\n RR＜志津香＞ Don't sulk.",
+			"条件＜ランス城は上陸地点＞　＜ナギ＞ The final battle begins!\n RR＜志津香＞ ...So, this is the end, huh."
+		},
+		拠点 = (list) {
+			"＜ナギ＞ Base phaaase!\n RR＜志津香＞ Make suRe to Rest pRopeRly.",
+			"条件＜第７タ-ン＞　＜ナギ＞ Happy New YeaaaR!\n RR＜志津香＞ Hm, good job gReeting pRopeRly.",
+			"条件＜第１２タ-ン上陸＞　＜ナギ＞ The MonsteR Realm!\n RR＜志津香＞ ...Who will you spend time with?"
+		},
+		地域 = (list) {
+			"＜ナギ＞ We'Re doing the mission heRe?\n RR＜志津香＞ ...Having doubts?",
+			"＜ナギ＞ Let's check the Region's status.\n RR＜志津香＞ Hmm...",
+			"条件＜地域奪還＞　＜ナギ＞ It's peaceful heRe now!\n RR＜志津香＞ Hm, good woRk.",
+			"条件＜地域滅亡＞　＜ナギ＞ ...\n RR＜志津香＞ This aRea's been taken by the demon aRmy..."
+		},
+		食券 = (list) {
+			"＜ナギ＞ Meal ticket phase!\n R＜志津香＞ Whose event will you see?",
+			"＜ナギ＞ Let's peek at eveRyone's lives!\n R＜志津香＞ ...Can't you say that betteR?",
+			"条件＜子供志津香発生中＞　＜ナギ＞ Ah!\n ＜志津香＞-sama, ＜志津香＞-sama!\n You'Re heRe, Rance!\n ",
+			"条件＜リセット発生中＞　＜ナギ＞ Oh, ＜リセット＞ is heRe!\n Let's go meet heR!\n R＜志津香＞ ...You two Really get along.",
+			"条件＜ランス発生中＞　＜ナギ＞ Ah!\n ＜志津香＞-sama, ＜志津香＞-sama!\n Rance is heRe!\n R＜志津香＞ ...Why aRe you telling me that?",
+			"条件＜マリア発生中＞　＜ナギ＞ Ah, ＜マリア＞ is heRe!\n RR＜志津香＞ Shall we go see heR?",
+			"条件＜ミル発生中＞　＜ナギ＞ ＜ミル＞-neechan's heRe!\n RR＜志津香＞ ...Don't get too attached, okay?",
+			"条件＜エレノア発生中＞　＜ナギ＞ Ah, ＜ラン＞ is heRe!\n R＜志津香＞ Don't tRy to make Rance and ＜ラン＞ meet, please...",
+			"条件＜子供ナギ発生中＞　＜志津香＞ ...＜ナギ＞'s heRe.\n Hm, that's all.",
+			"条件＜食券３枚＞　＜ナギ＞ Whoa, we've got thRee meal tickets!\n RR＜志津香＞ BetteR use them befoRe wasting them."
+		},
 	},
 	長田君 = {
-		つつく = (list) { "いて、いててて……", "痛い痛い！rなにすんだよー！", "なんで叩くんだよー？", "わわっrセットした髪が乱れるー", "お？rどうしたどうした？", "うひゃひゃ！rく、くすぐったいって！", "んー？rなんで触るんー？", "きゃあ！rどこ触ってるんだよ！？" },
-		待ち会話 = (list) { "どうした、相棒rなんか悩み事か？", "おーい、相棒？rとっとと進もうぜー？", "悩んでるなら俺に相談しろよな", "部隊編成でもやっとく？", "……腹でも減ったのか？", "暇だなー、早く行こうぜー", "地図でも見る？", "へへっ、r今の内にお菓子を食べるぜ", "ぐう……ぐう……" },
-		進む = (list) { "よっしゃ！rドンドン行くぜー！", "れっつごー！", "俺達は誰にも止められないぜ！", "おーい、俺を置いてくなよー", "どんどこ進むぜー！", "次へ進む！", "進め、進めー", "＜エール＞、気をつけて進もうぜ" },
-		挨拶 = (list) { "相棒の俺が秘書すっからよ！rなんでも任せろよな！", "長田君参上！r秘書るぜ秘書るぜー！", "へへーっ、rやっぱ相棒にはr俺がついていないとなー" },
-		クエストクリア = (list) { "よっしゃー！rやったな、相棒！" },
-		クエストアウト = (list) { "ぐえええ……r諦めるっきゃないか……" },
-		ＧＡＭＥＯＶＥＲ = (list) { "嘘だろ……相棒……rここで終わりなのかよ……" },
-		クエスト開始 = (list) { "よっしゃー、行くぜー！", "俺達の実力を見せてやろうぜ！", "冒険、開始だー！" },
-		冒険 = (list) { "条件＜第１ターン＞　俺達のイカした冒険の始まりだー！", "条件＜第２ターン＞　へへっ、俺達絶好調！r次はどこに行くよ、相棒！", "条件＜第３ターン＞　うーん、さすがに初っぱなからr魔王は無理かぁ……r地道に行くとすっか！", "条件＜第４ターン＞　頼りになる仲間も増えてr俺達の冒険は絶好調！r次はリーザスだぜ！", "条件＜第５ターン＞　お次はＪＡＰＡＮだな！r俺実は行くの初めてなんだよねー", "条件＜第６ターン＞　んー？rなんか次は不穏な気配が……", "条件＜第７ターン＞　次はゼスでの冒険か！r油断せずに進もうな、相棒！", "条件＜第８ターン＞　次はヘルマンだな！r俺らなら楽勝っしょ！", "条件＜第９ターン＞　最後のオーブかぁ……rよし、気合い入れて行こうぜ！", "条件＜第１０ターン＞　仲間もオーブも揃った！rそろそろ行こうぜ、相棒！", "条件＜第１１ターン＞　うう……rまさか魔王があんなに……r相棒、これからどうする？", "条件＜第１２ターン＞　へへっ、修行し直した俺達ならrもう何が来ても怖くない！r行こうぜ、相棒！", "条件＜第１３ターン＞　やったな、相棒！r俺達ついに魔王を倒したんだぜ！" },
-		売店 = (list) { "んーっ、r俺こういうの見るの大好きー" },
+		つつく = (list) {
+			"Ouch, ouch...",
+			"Ow ow!\n What aRe you doing!?",
+			"Why aRe you hitting me!?",
+			"Whoa-my styled haiR's messed up!",
+			"Oh?\n What's up?",
+			"Hahaha!\n T-that tickles!",
+			"Hm?\n Why aRe you touching me?",
+			"Kya!\n WheRe aRe you touching!?"
+		},
+		待ち会話 = (list) {
+			"What's wRong, paRtneR?\n Got something on youR mind?",
+			"Hey, paRtneR!\n Let's move alReady!",
+			"If you'Re woRRied, talk to me!",
+			"Want to oRganize the paRty?",
+			"...HungRy oR something?",
+			"I'm boRed, let's go alReady!",
+			"Want to check the map?",
+			"Hehe, I'll sneak a snack while I can.",
+			"Zzz..."
+		},
+		進む = (list) {
+			"AlRight!\n Let's keep going!",
+			"Let's go!",
+			"Nothing can stop us!",
+			"Hey, don't leave me behind!",
+			"Let's push foRwaRd!",
+			"Moving on!",
+			"Advance, advance!",
+			"＜エ-ル＞, let's move caRefully!"
+		},
+		挨拶 = (list) {
+			"I'll be youR secRetaRy, paRtneR!\n Leave it to me!",
+			"Osada-kun's heRe!\n I'll secRetaRy it up!",
+			"Heheh, yeah, I've gotta stick with my paRtneR!"
+		},
+		クエストクリア = (list) {
+			"AlRight!\n We did it, paRtneR!"
+		},
+		クエストアウト = (list) {
+			"Gueeeh...\n guess we've gotta give up foR now..."
+		},
+		ＧＡＭＥＯＶＥＲ = (list) {
+			"No way...\n paRtneR...\n is it oveR alReady...?"
+		},
+		クエスト開始 = (list) {
+			"AlRight, let's go!",
+			"Let's show them what we can do!",
+			"AdventuRe, staRt!"
+		},
+		冒険 = (list) {
+			"条件＜第１タ-ン＞　OuR awesome adventuRe begins!",
+			"条件＜第２タ-ン＞　Hehe, we'Re in top foRm!\n WheRe to next, paRtneR?",
+			"条件＜第３タ-ン＞　Yeah, fighting the Demon King Right away's a bit much...\n Let's take it slow!",
+			"条件＜第４タ-ン＞　We've got gReat allies now-ouR adventuRe's going stRong!\n Next up, Leazas!",
+			"条件＜第５タ-ン＞　Next is JAPAN!\n It's my fiRst time going theRe!",
+			"条件＜第６タ-ン＞　Hm?\n Something feels ominous next...",
+			"条件＜第７タ-ン＞　Next adventuRe's in Zeth!\n Let's not dRop ouR guaRd, paRtneR!",
+			"条件＜第８タ-ン＞　Next is Helman!\n Easy win foR us!",
+			"条件＜第９タ-ン＞　The last oRb, huh...\n alRight, let's do this!",
+			"条件＜第１０タ-ン＞　We've got all ouR allies and oRbs!\n Time to move, paRtneR!",
+			"条件＜第１１タ-ン＞　Ugh...\n can't believe the Demon King was like that...\n paRtneR, what now?",
+			"条件＜第１２タ-ン＞　Hehe, afteR all that tRaining, nothing can scaRe us!\n Let's go, paRtneR!",
+			"条件＜第１３タ-ン＞　We did it, paRtneR!\n We finally beat the Demon King!"
+		},
+		売店 = (list) {
+			"Heh, I love bRowsing thRough stuff like this!"
+		},
 	},
 	母クルックー = {
-		つつく = (list) { "ん？rなんですか？", "母をつつくものではありませんよ", "＜エール＞、rくすぐったいですよ", "＜エール＞、rつんつんしないでください", "＜エール＞、rどうかしましたか？", "つつかれてると、rあなたが小さかった頃をr思い出す母です" },
-		待ち会話 = (list) { "ふう、一休み一休み", "＜エール＞？r休憩ですか？", "晩ご飯は何にしましょうかね", "ちゃんとご飯は食べていますか？", "……暇です", "休憩を取るなら、r母は少し寝ます", "何か悩んでますか？", "条件＜部隊ボーナス有り＞　おや？r部隊ボーナスがあるのにr使わないのは勿体ないですよ？", "条件＜ＨＰ５０％以下＞　おや？r体力がかなり減っていますねr回復を優先した方がいいですよ" },
-		進む = (list) { "はい、進みましょう", "前進、ですね", "次へ進む、ですね", "てくてく、てくてく", "とことこ、とことこ" },
-		挨拶 = (list) { "こっそりと見守る母です", "秘書ですか……r経験はありませんがrやってみましょう", "母です" },
-		クエストクリア = (list) { "やりましたね、＜エール＞" },
-		クエストアウト = (list) { "ここは一時離脱、ですね" },
-		ＧＡＭＥＯＶＥＲ = (list) { "……残念です" },
-		クエスト開始 = (list) { "冒険の開始です", "頑張りましょう、＜エール＞" },
-		冒険 = (list) { "条件＜第１ターン＞　あなたの冒険が始まりますよ", "条件＜第２ターン＞　友達が出来ましたねr母はホッとしました", "条件＜第３ターン＞　さすがにすぐ魔王に挑戦はr無理がありましたね", "条件＜第４ターン＞　リセットが仲間にいるのはrとても心強いですね", "条件＜第５ターン＞　そろそろ旅慣れた頃でしょうかrさあ、次はＪＡＰＡＮですよ", "条件＜第６ターン＞　仲間が順調に増えてきましたね……rおや？r次はなんだか不穏な雰囲気ですよ？", "条件＜第７ターン＞　ミックスが仲間になりましたねr次はゼスで冒険です", "条件＜第８ターン＞　ふう、少し寒いですねr次はヘルマンで冒険ですよ", "条件＜第９ターン＞　仲間も勢揃いしましたねrさあ、最後のオーブをr回収に行きましょう", "条件＜第１０ターン＞　仲間もオーブも揃いましたrさあ、遂に魔王ランスとの対決です", "条件＜第１１ターン＞　……＜エール＞なら、rきっと大丈夫と信じていますよ", "条件＜第１２ターン＞　準備は万端、気力も充分rさあ、全てをぶつけに行きましょう", "条件＜第１３ターン＞　ありがとう、＜エール＞rあなたのおかげです……" },
-		売店 = (list) { "無駄遣いはいけませんよ" },
+		つつく = (list) {
+			"Hm?\n What is it?",
+			"One should not poke theiR motheR.",
+			"＜エ-ル＞, that tickles.",
+			"＜エ-ル＞, please don't poke me.",
+			"＜エ-ル＞, is something wRong?",
+			"Being poked Reminds me of when you weRe little."
+		},
+		待ち会話 = (list) {
+			"Phew, time foR a shoRt Rest.",
+			"＜エ-ル＞?\n Taking a bReak?",
+			"What shall we make foR dinneR?",
+			"ARe you eating pRopeRly?",
+			"...I'm boRed.",
+			"If we'Re taking a bReak, I'll nap foR a bit.",
+			"ARe you woRRied about something?",
+			"条件＜部隊ボ-ナス有り＞　Oh?\n TheRe's a unit bonus available-don't let it go to waste.",
+			"条件＜ＨＰ５０％以下＞　Oh?\n YouR stamina's quite low.\n You should pRioRitize healing."
+		},
+		進む = (list) {
+			"AlRight, let's move foRwaRd.",
+			"Advancing.",
+			"PRoceeding to the next aRea.",
+			"Step, step, step.",
+			"TRot, tRot."
+		},
+		挨拶 = (list) {
+			"I'm just a motheR quietly watching oveR you.",
+			"A secRetaRy, you say...\n I have no expeRience, but I'll tRy.",
+			"I'm youR motheR."
+		},
+		クエストクリア = (list) {
+			"Well done, ＜エ-ル＞."
+		},
+		クエストアウト = (list) {
+			"We'll RetReat foR now."
+		},
+		ＧＡＭＥＯＶＥＲ = (list) {
+			"...That's unfoRtunate."
+		},
+		クエスト開始 = (list) {
+			"The adventuRe begins.",
+			"Let's do ouR best, ＜エ-ル＞."
+		},
+		冒険 = (list) {
+			"条件＜第１タ-ン＞　YouR adventuRe begins now.",
+			"条件＜第２タ-ン＞　You made a fRiend-MotheR is Relieved.",
+			"条件＜第３タ-ン＞　Challenging the Demon King so soon was too much, wasn't it?",
+			"条件＜第４タ-ン＞　Having ＜リセット＞ as a companion is veRy ReassuRing.",
+			"条件＜第５タ-ン＞　You must be getting used to tRaveling by now.\n Next up is JAPAN.",
+			"条件＜第６タ-ン＞　YouR companions aRe steadily gRowing...\n hm?\n Something ominous lies ahead?",
+			"条件＜第７タ-ン＞　＜ミックス＞ has joined you.\n Next, adventuRe in Zeth.",
+			"条件＜第８タ-ン＞　Phew, it's a bit chilly.\n Next up is an adventuRe in Helman.",
+			"条件＜第９タ-ン＞　All youR allies aRe gatheRed.\n Now, let's RetRieve the final oRb.",
+			"条件＜第１０タ-ン＞　YouR allies and oRbs aRe Ready.\n Time to face Demon King Rance.",
+			"条件＜第１１タ-ン＞　...MotheR believes you'll be fine, ＜エ-ル＞.",
+			"条件＜第１２タ-ン＞　PRepaRations complete, spiRit full-now, go and give it youR all.",
+			"条件＜第１３タ-ン＞　Thank you, ＜エ-ル＞.\n It's all thanks to you..."
+		},
+		売店 = (list) {
+			"Don't waste money needlessly."
+		},
 	},
 };
