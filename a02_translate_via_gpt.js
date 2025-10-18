@@ -47,17 +47,10 @@ const outputSchema = {
 
 const PROMPT = `Translate every single line from Japanese to English according to the supplied schema. The text is from the game Rance X by Alicesoft.`;
 
-// const chunkSize = 50;
-const chunkSize = 60;
-
-const outputs = [];
-
-// skipped for now: 66870 - 128000
 // fetched out of sequence: 128000 - 136060
 
-for (let chunkStart = 66870; chunkStart < inputMessages.length; chunkStart += chunkSize) {
+const translateNextChunk = async (chunkStart, chunkSize) => {
     const chunk = inputMessages.slice(chunkStart, chunkStart + chunkSize);
-    console.log("Processing lines after " + chunkStart)
 
     const startMs = Date.now();
     const output = await openAiClient.responses.parse({
@@ -86,11 +79,20 @@ for (let chunkStart = 66870; chunkStart < inputMessages.length; chunkStart += ch
         throw new Error("Fuking bot");
     }
 
-    const pageFileName = String(chunkStart).padStart(6, "0") + "_" + String(chunkStart + chunkSize).padStart(6, "0") + ".json";
-    await fs.writeFile("./gpt_outputs/" + pageFileName, JSON.stringify(output), "utf8");
-
     if (output.output_parsed.translationLines?.length !== chunk.length) {
         console.error("__________ UNEXPECTED NUMBER OF LINES: " + output.output_parsed.translationLines?.length + " AT " + chunkStart);
         throw new Error("Fuking bot");
     }
+
+    return output;
+};
+
+let chunkStart = 151930;
+while (chunkStart < inputMessages.length) {
+    console.log("Processing lines after " + chunkStart)
+    const output =
+        (await translateNextChunk(chunkStart, 60).catch(() => null)) ??
+        (await translateNextChunk(chunkStart, 50));
+    const pageFileName = String(chunkStart).padStart(6, "0") + "_" + String(chunkStart + output.output_parsed.translationLines.length).padStart(6, "0") + ".json";
+    await fs.writeFile("./gpt_outputs/" + pageFileName, JSON.stringify(output), "utf8");
 }
