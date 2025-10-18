@@ -24,3 +24,14 @@ Before:
 
 After:
 <img width="1109" height="844" alt="image" src="https://github.com/user-attachments/assets/5233c5d3-83e8-4e20-807d-a0cbef5e5c81" />
+
+
+______________________________________
+
+## Steps to Build
+
+1. Run `npm i` to install dependencies (install nodejs if needed)
+2. Run `node regenerate_aai_txt.js` to produce the `regenerated.ain.txt` file
+(assuming that game installation directory is `C:\Program Files\AliceSoft\ランス１０`)
+3. Run `alice ain edit -t regenerated.ain.txt -o "C:\Program Files\AliceSoft\ランス１０\Rance10.ain" "C:\Program Files\AliceSoft\ランス１０\Rance10.ain"` (install alice-tools if needed)
+4. Run `alice ex build -o "C:\Program Files\AliceSoft\ランス１０\Rance10EX.ex" ex/main.x`
