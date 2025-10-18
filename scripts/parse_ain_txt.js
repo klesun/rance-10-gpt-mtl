@@ -23,8 +23,8 @@ for (const line of lines) {
             unparsed.push(line);
             continue;
         }
-        const text = unquote(quotedText);
-        parsed.push({ lineKind, lineNumber, text });
+        const originalJapaneseLine = unquote(quotedText);
+        parsed.push({ lineKind, lineNumber, originalJapaneseLine });
     } else {
         unparsed.push(line);
     }
