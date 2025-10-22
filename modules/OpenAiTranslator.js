@@ -1,5 +1,6 @@
 import {OPENAI_API_KEY} from "./openai_api_key.js";
 import {OpenAI} from "openai";
+import fs from "fs/promises";
 
 const openAiClient = new OpenAI({
     apiKey: OPENAI_API_KEY,
@@ -42,12 +43,16 @@ const outputSchema = {
     }
 };
 
-const PROMPT = `Translate every single line from Japanese to English according to the supplied schema. The text is from the game Rance X by Alicesoft, so please keep names romanization canonical.`;
-
 export const translateNextChunk = async (inputMessages, chunkStart, chunkSize) => {
     const chunk = inputMessages.slice(chunkStart, chunkStart + chunkSize);
 
     const startMs = Date.now();
+    const inputLines = chunk.map(lr => lr.originalJapaneseLine.trim() || "...");
+    console.log("____ trying to translate following _________");
+    console.log(inputLines.map((line, i) => String(i).padStart(3, " ") + ". " + line).join("\n"))
+
+    const PROMPT = `Translate every single line from Japanese to English according to the supplied schema. There are exactly ${chunk.length} lines. The text is from the game Rance X by Alicesoft.`;
+
     const output = await openAiClient.responses.parse({
         // model: "gpt-4o",
         // model: "gpt-4o-mini",
@@ -56,7 +61,7 @@ export const translateNextChunk = async (inputMessages, chunkStart, chunkSize) =
         input: [
             { role: "system", content: PROMPT },
             { role: "user", content: [{
-                text: JSON.stringify(chunk),
+                text: inputLines.join("\n"),
                 type: 'input_text',
             }] }
         ],
@@ -76,7 +81,13 @@ export const translateNextChunk = async (inputMessages, chunkStart, chunkSize) =
 
     if (output.output_parsed.translationLines?.length !== chunk.length) {
         console.error("__________ UNEXPECTED NUMBER OF LINES: " + output.output_parsed.translationLines?.length + " AT " + chunkStart);
+        const filePath = "./gpt_outputs_wrong_lines/" + chunkStart + "_" + (chunkStart + chunkSize) + ".json";
+        await fs.writeFile(filePath, JSON.stringify(output, null, 4), "utf-8");
         throw new Error("Fuking bot");
+    }
+
+    for (let i = 0; i < output.output_parsed.translationLines.length; ++i) {
+        output.output_parsed.translationLines[i].lineNumber = chunk[i].lineNumber;
     }
 
     return output;

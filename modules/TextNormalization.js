@@ -13,6 +13,7 @@ export const replaceUnicode = text => {
         .replace(/…/g, "...")
         .replace(/ /g, " ")
         .replace(/ /g, " ")
+        .replace(/ /g, " ")
         .replace(/―/g, "-")
         .replace(/ー/g, "~")
         .replace(/–/g, "-")
