@@ -1,5 +1,5 @@
 import * as fs from "fs/promises";
-import {replaceUnicode, wrapAt} from "./modules/TextNormalization";
+import {replaceUnicode, wrapAt} from "./modules/TextNormalization.js";
 
 
 const sysTranslations = await fs.readFile("./system_cherry_picks.ain.txt", "utf-8");
@@ -27,9 +27,38 @@ for (const chunkFile of chunkFiles) {
 }
 const LONGEST_LINE = "“More importantly, what we should discuss now is how the other";
 
+// language=file-reference
+const mistranslated_names_str = await fs.readFile("./mistranslated_names.json", "utf-8");
+const mistranslated_names = JSON.parse(mistranslated_names_str);
+mistranslated_names.forEach(char => char.knownMistranslations.sort((a,b) => b.length - a.length));
+
+const normalizeNames = (lineRecord) => {
+    let sentence = lineRecord.translatedEnglishLine;
+    for (const nameRecord of mistranslated_names) {
+        if (!lineRecord.originalJapaneseLine.includes(nameRecord.shortNameJpn)) {
+            continue;
+        }
+        const shortNameEng = nameRecord.shortNameEng;
+        if (sentence.includes(shortNameEng)) {
+            continue;
+        }
+        for (const mistranslation of nameRecord.knownMistranslations) {
+            const beforeUpdate = sentence;
+            sentence = sentence.replaceAll(mistranslation, shortNameEng);
+            if (beforeUpdate !== sentence) {
+                if (lineRecord.lineNumber === 130051) {
+                    console.log("Replace: ", beforeUpdate, mistranslation, sentence);
+                }
+            }
+        }
+    }
+    return sentence;
+};
+
 const output = allLineRecords
     .map(lr => {
-        let text = replaceUnicode(lr.translatedEnglishLine);
+        let text = normalizeNames(lr);
+        text = replaceUnicode(text);
         // if (text.match(/[^\x00-\x7F♪☆○Σ]/)) {
         //     throw new Error("Got unicode characters, please remove: " + text + " at " + lr.lineNumber);
         // }
