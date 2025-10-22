@@ -1,0 +1,1119 @@
+{
+    "id": "resp_005d2ab1edcf6e170068f4a99fc3688194936f4a09411c0455",
+    "object": "response",
+    "created_at": 1760864671,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_005d2ab1edcf6e170068f4a9a0ceec8194a16be47f65f3b985",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"歴代の女王が姿を現した。\",\"translatedEnglishLine\":\"The successive queens appeared.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"先代の女王、モダン・カラー。\",\"translatedEnglishLine\":\"The previous queen, Modern Color.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"先々代女王、ビビッド・カラー。\",\"translatedEnglishLine\":\"The queen before that, Vivid Color.\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"そして、先々々代女王、フル・カラー。\",\"translatedEnglishLine\":\"And the queen before that, Full Color.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「遅い。なにしてた」\",\"translatedEnglishLine\":\"\\\"You're late. What were you doing?\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「ひうっ！？」\",\"translatedEnglishLine\":\"\\\"Eek!?\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"突然怒られ、パステルは肩を竦めた。\",\"translatedEnglishLine\":\"Suddenly scolded, Pastel shrugged her shoulders.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「状況はある程度、知っています。\",\"translatedEnglishLine\":\"\\\"I am aware of the situation to some extent.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"外に魔軍が来て大変なことになってるのよね？」\",\"translatedEnglishLine\":\"The demon army came outside and things have gotten terrible, right?\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「は、はい、その通りですが……\",\"translatedEnglishLine\":\"\\\"Y-yes, that's correct, but...\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"その……遅いというのは……\",\"translatedEnglishLine\":\"Well... as for being late...\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「こういう状況では村を捨てちゃっていいから。\",\"translatedEnglishLine\":\"\\\"In a situation like this, it's fine to abandon the village.\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"ね？　いいわね、パステル？\",\"translatedEnglishLine\":\"Right? That's okay, Pastel?\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"始祖様だって皆だって怒ったりはしないから」\",\"translatedEnglishLine\":\"Even the Founder and everyone won't get angry about it.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「正直、ひやひやした」\",\"translatedEnglishLine\":\"\\\"To be honest, I was worried.\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「がははは、俺だ俺、\",\"translatedEnglishLine\":\"\\\"Gahahaha, it's me, it's me,\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"俺が村を捨てるよう説得したのだ」\",\"translatedEnglishLine\":\"I was the one who persuaded them to abandon the village.\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「あ、あら、ありがとうございます、ランスさん。\",\"translatedEnglishLine\":\"\\\"Ah, oh my, thank you, Rance-san.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"パステルをそんなに気にかけて頂いて……」\",\"translatedEnglishLine\":\"For caring about Pastel so much...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「うむうむ、気にするな、モダンちゃん。\",\"translatedEnglishLine\":\"\\\"Mm-hmm, don't worry about it, Modern-chan.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"英雄として当然のことをしたまでだ」\",\"translatedEnglishLine\":\"I just did what was natural as a hero.\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「さて、出るか……」\",\"translatedEnglishLine\":\"\\\"Well then, shall we go...?\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"一人、悠然とフルが歩き出す。\",\"translatedEnglishLine\":\"Alone, Full started walking calmly.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"それを見て、ビビッドが溜め息を漏らす。\",\"translatedEnglishLine\":\"Seeing that, Vivid let out a sigh.\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「……仕方ない。\",\"translatedEnglishLine\":\"\\\"...It can't be helped.\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"パステル、神具を忘れぬように」\",\"translatedEnglishLine\":\"Pastel, don't forget the sacred tools.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「さあ、行きましょうか」\",\"translatedEnglishLine\":\"\\\"Now, shall we go?\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「あ、ま、待って下さいー！」\",\"translatedEnglishLine\":\"\\\"W-wait, please!\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「くうっ、妾、女王なのに……\",\"translatedEnglishLine\":\"\\\"Ugh, even though I'm a queen...\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"なんだか扱いが……うう……」\",\"translatedEnglishLine\":\"I'm being treated like... ugh...\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「今、戻ったぞー」\",\"translatedEnglishLine\":\"\\\"I'm back now!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「避難の用意は済んでないのか」\",\"translatedEnglishLine\":\"\\\"Are you not ready to evacuate?\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「こ、これはビビッド様。申し訳ありません。\",\"translatedEnglishLine\":\"\\\"T-this is Vivid-sama. I apologize.\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"なにせ、大所帯のものですから、\",\"translatedEnglishLine\":\"Since we are a large group,\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"人を集めるだけで三十分ほどはかかります」\",\"translatedEnglishLine\":\"just gathering people takes about thirty minutes.\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「サクラ、ペンシルカウの住人は\",\"translatedEnglishLine\":\"\\\"Sakura, how many residents does Pencil Cow have now?\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"今、全員で何人ほど？」\",\"translatedEnglishLine\":\"How many are there in total?\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「2000人です」\",\"translatedEnglishLine\":\"\\\"Two thousand.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「人数が増えれば敵に見つかる危険も増える。\",\"translatedEnglishLine\":\"\\\"The more people there are, the greater the risk of being spotted by the enemy.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"ふむ、大仕事になりそうだ」\",\"translatedEnglishLine\":\"Hmm, this looks like a big task.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「がははは！　安心しろ！\",\"translatedEnglishLine\":\"\\\"Gahahaha! Don't worry!\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"俺様はゼスの民族大移動も成功させた英雄だ！」\",\"translatedEnglishLine\":\"I am the hero who successfully led the great migration of the Zeths!\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「まるで自分一人の偉業のように……」\",\"translatedEnglishLine\":\"\\\"As if it were a feat done by himself alone...\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「ま、とりあえず頑張りましょう」\",\"translatedEnglishLine\":\"\\\"Well, for now, let's do our best.\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「頑張る前にまずは休憩だ。\",\"translatedEnglishLine\":\"\\\"Before trying hard, let's take a break.\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"シィル、シーラ、なんか飯」\",\"translatedEnglishLine\":\"Seel, Sheera, get us some food.\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「あ、はいはい」\",\"translatedEnglishLine\":\"\\\"Ah, yes, yes.\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「少々お待ち下さい」\",\"translatedEnglishLine\":\"\\\"Please wait a moment.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「ん……？\",\"translatedEnglishLine\":\"\\\"Hmm...?\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"そちらの金髪、見覚えがあるような……」\",\"translatedEnglishLine\":\"That blonde over there looks familiar...\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「シーラはヘルマンの大統領だからな。\",\"translatedEnglishLine\":\"\\\"Sheera is the president of Hellman, after all.\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"法王の就任式とかで会ったんだろ」\",\"translatedEnglishLine\":\"You probably met her at the pope's inauguration ceremony.\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「ヘルマン……大統領……」\",\"translatedEnglishLine\":\"\\\"Hellman... president...\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「って！　一年前、カラーの森に\",\"translatedEnglishLine\":\"\\\"Wait! One year ago, in the Color Forest,\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"ヘルマンが攻め込んだ原因ではないかー！」\",\"translatedEnglishLine\":\"Wasn't she the cause of Hellman's invasion!?\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「貴様ーーーッ！\",\"translatedEnglishLine\":\"\\\"You bastard---!\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"何をしれっとペンシルカウに来ておるかーッ！」\",\"translatedEnglishLine\":\"How dare you come to Pencil Cow so casually!\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"パステルがシーラの首を掴んで\",\"translatedEnglishLine\":\"Pastel grabbed Sheera by the neck\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"ガクガクと前後に揺さぶる。\",\"translatedEnglishLine\":\"and shook her back and forth.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「き、貴様らヘルマンが何度\",\"translatedEnglishLine\":\"\\\"Y-you Hellmans, how many times\"},{\"lineNumber\":61,\"originalJapaneseLine\":\"この村に攻め込んできたか\",\"translatedEnglishLine\":\"have you attacked this village,\"},{\"lineNumber\":62,\"originalJapaneseLine\":\"忘れたとでも言うつもりかーッ！？\",\"translatedEnglishLine\":\"do you intend to say you've forgotten!?\\\"\"},{\"lineNumber\":63,\"originalJapaneseLine\":\"「すすす、すみません、\",\"translatedEnglishLine\":\"\\\"S-sorry,\"},{\"lineNumber\":64,\"originalJapaneseLine\":\"カラーの女王であるパステル様には、\",\"translatedEnglishLine\":\"to Pastel-sama, queen of Color,\"},{\"lineNumber\":65,\"originalJapaneseLine\":\"今後、せ、正式に、しゃ、謝罪を……」\",\"translatedEnglishLine\":\"I will f-formally apologize from now on...\\\"\"},{\"lineNumber\":66,\"originalJapaneseLine\":\"「……お前、そんなにずっと\",\"translatedEnglishLine\":\"\\\"...You, don't you get tired\"},{\"lineNumber\":67,\"originalJapaneseLine\":\"ギャーギャー騒いで疲れないのか？」\",\"translatedEnglishLine\":\"of noisily yelling all the time?\\\"\"},{\"lineNumber\":68,\"originalJapaneseLine\":\"「誰のせいじゃーーーーッ！」\",\"translatedEnglishLine\":\"\\\"Whose fault is itーーー!\\\"\"},{\"lineNumber\":69,\"originalJapaneseLine\":\"「とにかく今は体を休めて、\",\"translatedEnglishLine\":\"\\\"Anyway, rest your body now,\"},{\"lineNumber\":70,\"originalJapaneseLine\":\"準備が整い次第、出発だ」\",\"translatedEnglishLine\":\"and depart as soon as preparations are complete.\\\"\"},{\"lineNumber\":71,\"originalJapaneseLine\":\"「お前が仕切るなーーーーッ！」\",\"translatedEnglishLine\":\"\\\"Don't you take commandーーー!\\\"\"},{\"lineNumber\":72,\"originalJapaneseLine\":\"「う、うぐっ……\",\"translatedEnglishLine\":\"\\\"U-ugh...\"},{\"lineNumber\":73,\"originalJapaneseLine\":\"こいつ、嫌いじゃあ……」\",\"translatedEnglishLine\":\"I don't dislike this one...\\\"\"},{\"lineNumber\":74,\"originalJapaneseLine\":\"「はいはい、もう相変わらずね、パステルは」\",\"translatedEnglishLine\":\"\\\"Alright, alright, as usual, Pastel is just the same.\\\"\"},{\"lineNumber\":75,\"originalJapaneseLine\":\"「おかーさん、いいこ、いいこ」\",\"translatedEnglishLine\":\"\\\"Mommy, good girl, good girl.\\\"\"},{\"lineNumber\":76,\"originalJapaneseLine\":\"子供と母親に頭を撫でられて、\",\"translatedEnglishLine\":\"With a child and mother patting her head,\"},{\"lineNumber\":77,\"originalJapaneseLine\":\"パステルはグスグス泣き続けた。\",\"translatedEnglishLine\":\"Pastel kept sobbing quietly.\"},{\"lineNumber\":78,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":79,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"....\"},{\"lineNumber\":80,\"originalJapaneseLine\":\"ペンシルカウのカラーが皆、\",\"translatedEnglishLine\":\"All the Colors of Pencil Cow,\"},{\"lineNumber\":81,\"originalJapaneseLine\":\"最低限の荷物だけ持ち、脱出の準備を整えた。\",\"translatedEnglishLine\":\"carried only the bare essentials and prepared to evacuate.\"},{\"lineNumber\":82,\"originalJapaneseLine\":\"村の広場に、2000人ものカラーが並ぶ。\",\"translatedEnglishLine\":\"Two thousand Colors lined up in the village square.\"},{\"lineNumber\":83,\"originalJapaneseLine\":\"「うーむ、さすが美女と美少女ばかりのカラー、\",\"translatedEnglishLine\":\"\\\"Hmm, as expected of Colors with nothing but beautiful women and girls,\"},{\"lineNumber\":84,\"originalJapaneseLine\":\"これだけいると壮観だな」\",\"translatedEnglishLine\":\"seeing this many together is spectacular.\\\"\"},{\"lineNumber\":85,\"originalJapaneseLine\":\"「で、これからどっちに向かって逃げる？\",\"translatedEnglishLine\":\"\\\"So, which way are we fleeing now?\"},{\"lineNumber\":86,\"originalJapaneseLine\":\"どう進むにしろ森を真っ直ぐ突っ切るから、\",\"translatedEnglishLine\":\"Whichever way we go, we'll have to cut straight through the forest,\"},{\"lineNumber\":87,\"originalJapaneseLine\":\"危険ではあるが……」\",\"translatedEnglishLine\":\"which is dangerous though...\\\"\"},{\"lineNumber\":88,\"originalJapaneseLine\":\"「それならご安心を。\",\"translatedEnglishLine\":\"\\\"Then rest assured.\"},{\"lineNumber\":89,\"originalJapaneseLine\":\"私についてきて下さい」\",\"translatedEnglishLine\":\"Please follow me.\\\"\"},{\"lineNumber\":90,\"originalJapaneseLine\":\"「うむ、よかろう」\",\"translatedEnglishLine\":\"\\\"Yes, very well.\\\"\"},{\"lineNumber\":91,\"originalJapaneseLine\":\"「皆の者、移動を開始する！\",\"translatedEnglishLine\":\"\\\"Everyone, begin moving!\"},{\"lineNumber\":92,\"originalJapaneseLine\":\"子供を優先して、焦らず、急いでくれ！」\",\"translatedEnglishLine\":\"Prioritize the children, don't panic, but hurry!\\\"\"},{\"lineNumber\":93,\"originalJapaneseLine\":\"簡単な荷物だけを持った\",\"translatedEnglishLine\":\"Carrying only simple belongings,\"},{\"lineNumber\":94,\"originalJapaneseLine\":\"2000人のカラーが移動を始める。\",\"translatedEnglishLine\":\"two thousand Colors began to move.\"},{\"lineNumber\":95,\"originalJapaneseLine\":\"その誰もが、おそらく最後に見るであろう\",\"translatedEnglishLine\":\"Each of them probably saw for the last time\"},{\"lineNumber\":96,\"originalJapaneseLine\":\"生まれ育った村を未練がましく見ていた。\",\"translatedEnglishLine\":\"the village where they were born and raised with lingering attachment.\"},{\"lineNumber\":97,\"originalJapaneseLine\":\"それでも村を覆う火に煽られるように、\",\"translatedEnglishLine\":\"Still, as if urged on by the flames covering the village,\"},{\"lineNumber\":98,\"originalJapaneseLine\":\"彼女達は歩を進めた。\",\"translatedEnglishLine\":\"they continued walking forward.\"},{\"lineNumber\":99,\"originalJapaneseLine\":\"ランス達がサクラについていくと、\",\"translatedEnglishLine\":\"When Rance and the others followed Sakura,\"},{\"lineNumber\":100,\"originalJapaneseLine\":\"大きな地下洞窟に着いた。\",\"translatedEnglishLine\":\"they arrived at a large underground cave.\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "133018",
+                                "originalJapaneseLine": "歴代の女王が姿を現した。",
+                                "translatedEnglishLine": "The successive queens appeared."
+                            },
+                            {
+                                "lineNumber": "133019",
+                                "originalJapaneseLine": "先代の女王、モダン・カラー。",
+                                "translatedEnglishLine": "The previous queen, Modern Color."
+                            },
+                            {
+                                "lineNumber": "133020",
+                                "originalJapaneseLine": "先々代女王、ビビッド・カラー。",
+                                "translatedEnglishLine": "The queen before that, Vivid Color."
+                            },
+                            {
+                                "lineNumber": "133021",
+                                "originalJapaneseLine": "そして、先々々代女王、フル・カラー。",
+                                "translatedEnglishLine": "And the queen before that, Full Color."
+                            },
+                            {
+                                "lineNumber": "133022",
+                                "originalJapaneseLine": "「遅い。なにしてた」",
+                                "translatedEnglishLine": "\"You're late. What were you doing?\""
+                            },
+                            {
+                                "lineNumber": "133023",
+                                "originalJapaneseLine": "「ひうっ！？」",
+                                "translatedEnglishLine": "\"Eek!?\""
+                            },
+                            {
+                                "lineNumber": "133024",
+                                "originalJapaneseLine": "突然怒られ、パステルは肩を竦めた。",
+                                "translatedEnglishLine": "Suddenly scolded, Pastel shrugged her shoulders."
+                            },
+                            {
+                                "lineNumber": "133025",
+                                "originalJapaneseLine": "「状況はある程度、知っています。",
+                                "translatedEnglishLine": "\"I am aware of the situation to some extent."
+                            },
+                            {
+                                "lineNumber": "133026",
+                                "originalJapaneseLine": "外に魔軍が来て大変なことになってるのよね？」",
+                                "translatedEnglishLine": "The demon army came outside and things have gotten terrible, right?\""
+                            },
+                            {
+                                "lineNumber": "133027",
+                                "originalJapaneseLine": "「は、はい、その通りですが……",
+                                "translatedEnglishLine": "\"Y-yes, that's correct, but...\""
+                            },
+                            {
+                                "lineNumber": "133028",
+                                "originalJapaneseLine": "その……遅いというのは……",
+                                "translatedEnglishLine": "Well... as for being late...\""
+                            },
+                            {
+                                "lineNumber": "133029",
+                                "originalJapaneseLine": "「こういう状況では村を捨てちゃっていいから。",
+                                "translatedEnglishLine": "\"In a situation like this, it's fine to abandon the village."
+                            },
+                            {
+                                "lineNumber": "133030",
+                                "originalJapaneseLine": "ね？　いいわね、パステル？",
+                                "translatedEnglishLine": "Right? That's okay, Pastel?"
+                            },
+                            {
+                                "lineNumber": "133031",
+                                "originalJapaneseLine": "始祖様だって皆だって怒ったりはしないから」",
+                                "translatedEnglishLine": "Even the Founder and everyone won't get angry about it.\""
+                            },
+                            {
+                                "lineNumber": "133032",
+                                "originalJapaneseLine": "「正直、ひやひやした」",
+                                "translatedEnglishLine": "\"To be honest, I was worried.\""
+                            },
+                            {
+                                "lineNumber": "133033",
+                                "originalJapaneseLine": "「がははは、俺だ俺、",
+                                "translatedEnglishLine": "\"Gahahaha, it's me, it's me,"
+                            },
+                            {
+                                "lineNumber": "133034",
+                                "originalJapaneseLine": "俺が村を捨てるよう説得したのだ」",
+                                "translatedEnglishLine": "I was the one who persuaded them to abandon the village.\""
+                            },
+                            {
+                                "lineNumber": "133035",
+                                "originalJapaneseLine": "「あ、あら、ありがとうございます、ランスさん。",
+                                "translatedEnglishLine": "\"Ah, oh my, thank you, Rance-san."
+                            },
+                            {
+                                "lineNumber": "133036",
+                                "originalJapaneseLine": "パステルをそんなに気にかけて頂いて……」",
+                                "translatedEnglishLine": "For caring about Pastel so much...\""
+                            },
+                            {
+                                "lineNumber": "133037",
+                                "originalJapaneseLine": "「うむうむ、気にするな、モダンちゃん。",
+                                "translatedEnglishLine": "\"Mm-hmm, don't worry about it, Modern-chan."
+                            },
+                            {
+                                "lineNumber": "133038",
+                                "originalJapaneseLine": "英雄として当然のことをしたまでだ」",
+                                "translatedEnglishLine": "I just did what was natural as a hero.\""
+                            },
+                            {
+                                "lineNumber": "133039",
+                                "originalJapaneseLine": "「さて、出るか……」",
+                                "translatedEnglishLine": "\"Well then, shall we go...?\""
+                            },
+                            {
+                                "lineNumber": "133040",
+                                "originalJapaneseLine": "一人、悠然とフルが歩き出す。",
+                                "translatedEnglishLine": "Alone, Full started walking calmly."
+                            },
+                            {
+                                "lineNumber": "133041",
+                                "originalJapaneseLine": "それを見て、ビビッドが溜め息を漏らす。",
+                                "translatedEnglishLine": "Seeing that, Vivid let out a sigh."
+                            },
+                            {
+                                "lineNumber": "133042",
+                                "originalJapaneseLine": "「……仕方ない。",
+                                "translatedEnglishLine": "\"...It can't be helped."
+                            },
+                            {
+                                "lineNumber": "133043",
+                                "originalJapaneseLine": "パステル、神具を忘れぬように」",
+                                "translatedEnglishLine": "Pastel, don't forget the sacred tools.\""
+                            },
+                            {
+                                "lineNumber": "133044",
+                                "originalJapaneseLine": "「さあ、行きましょうか」",
+                                "translatedEnglishLine": "\"Now, shall we go?\""
+                            },
+                            {
+                                "lineNumber": "133045",
+                                "originalJapaneseLine": "「あ、ま、待って下さいー！」",
+                                "translatedEnglishLine": "\"W-wait, please!\""
+                            },
+                            {
+                                "lineNumber": "133046",
+                                "originalJapaneseLine": "「くうっ、妾、女王なのに……",
+                                "translatedEnglishLine": "\"Ugh, even though I'm a queen..."
+                            },
+                            {
+                                "lineNumber": "133047",
+                                "originalJapaneseLine": "なんだか扱いが……うう……」",
+                                "translatedEnglishLine": "I'm being treated like... ugh...\""
+                            },
+                            {
+                                "lineNumber": "133048",
+                                "originalJapaneseLine": "「今、戻ったぞー」",
+                                "translatedEnglishLine": "\"I'm back now!\""
+                            },
+                            {
+                                "lineNumber": "133049",
+                                "originalJapaneseLine": "「避難の用意は済んでないのか」",
+                                "translatedEnglishLine": "\"Are you not ready to evacuate?\""
+                            },
+                            {
+                                "lineNumber": "133050",
+                                "originalJapaneseLine": "「こ、これはビビッド様。申し訳ありません。",
+                                "translatedEnglishLine": "\"T-this is Vivid-sama. I apologize."
+                            },
+                            {
+                                "lineNumber": "133051",
+                                "originalJapaneseLine": "なにせ、大所帯のものですから、",
+                                "translatedEnglishLine": "Since we are a large group,"
+                            },
+                            {
+                                "lineNumber": "133052",
+                                "originalJapaneseLine": "人を集めるだけで三十分ほどはかかります」",
+                                "translatedEnglishLine": "just gathering people takes about thirty minutes.\""
+                            },
+                            {
+                                "lineNumber": "133053",
+                                "originalJapaneseLine": "「サクラ、ペンシルカウの住人は",
+                                "translatedEnglishLine": "\"Sakura, how many residents does Pencil Cow have now?"
+                            },
+                            {
+                                "lineNumber": "133054",
+                                "originalJapaneseLine": "今、全員で何人ほど？」",
+                                "translatedEnglishLine": "How many are there in total?\""
+                            },
+                            {
+                                "lineNumber": "133055",
+                                "originalJapaneseLine": "「2000人です」",
+                                "translatedEnglishLine": "\"Two thousand.\""
+                            },
+                            {
+                                "lineNumber": "133056",
+                                "originalJapaneseLine": "「人数が増えれば敵に見つかる危険も増える。",
+                                "translatedEnglishLine": "\"The more people there are, the greater the risk of being spotted by the enemy."
+                            },
+                            {
+                                "lineNumber": "133057",
+                                "originalJapaneseLine": "ふむ、大仕事になりそうだ」",
+                                "translatedEnglishLine": "Hmm, this looks like a big task.\""
+                            },
+                            {
+                                "lineNumber": "133058",
+                                "originalJapaneseLine": "「がははは！　安心しろ！",
+                                "translatedEnglishLine": "\"Gahahaha! Don't worry!"
+                            },
+                            {
+                                "lineNumber": "133059",
+                                "originalJapaneseLine": "俺様はゼスの民族大移動も成功させた英雄だ！」",
+                                "translatedEnglishLine": "I am the hero who successfully led the great migration of the Zeths!\""
+                            },
+                            {
+                                "lineNumber": "133060",
+                                "originalJapaneseLine": "「まるで自分一人の偉業のように……」",
+                                "translatedEnglishLine": "\"As if it were a feat done by himself alone...\""
+                            },
+                            {
+                                "lineNumber": "133061",
+                                "originalJapaneseLine": "「ま、とりあえず頑張りましょう」",
+                                "translatedEnglishLine": "\"Well, for now, let's do our best.\""
+                            },
+                            {
+                                "lineNumber": "133062",
+                                "originalJapaneseLine": "「頑張る前にまずは休憩だ。",
+                                "translatedEnglishLine": "\"Before trying hard, let's take a break."
+                            },
+                            {
+                                "lineNumber": "133063",
+                                "originalJapaneseLine": "シィル、シーラ、なんか飯」",
+                                "translatedEnglishLine": "Seel, Sheera, get us some food.\""
+                            },
+                            {
+                                "lineNumber": "133064",
+                                "originalJapaneseLine": "「あ、はいはい」",
+                                "translatedEnglishLine": "\"Ah, yes, yes.\""
+                            },
+                            {
+                                "lineNumber": "133065",
+                                "originalJapaneseLine": "「少々お待ち下さい」",
+                                "translatedEnglishLine": "\"Please wait a moment.\""
+                            },
+                            {
+                                "lineNumber": "133066",
+                                "originalJapaneseLine": "「ん……？",
+                                "translatedEnglishLine": "\"Hmm...?\""
+                            },
+                            {
+                                "lineNumber": "133067",
+                                "originalJapaneseLine": "そちらの金髪、見覚えがあるような……」",
+                                "translatedEnglishLine": "That blonde over there looks familiar...\""
+                            },
+                            {
+                                "lineNumber": "133068",
+                                "originalJapaneseLine": "「シーラはヘルマンの大統領だからな。",
+                                "translatedEnglishLine": "\"Sheera is the president of Hellman, after all."
+                            },
+                            {
+                                "lineNumber": "133069",
+                                "originalJapaneseLine": "法王の就任式とかで会ったんだろ」",
+                                "translatedEnglishLine": "You probably met her at the pope's inauguration ceremony.\""
+                            },
+                            {
+                                "lineNumber": "133070",
+                                "originalJapaneseLine": "「ヘルマン……大統領……」",
+                                "translatedEnglishLine": "\"Hellman... president...\""
+                            },
+                            {
+                                "lineNumber": "133071",
+                                "originalJapaneseLine": "「って！　一年前、カラーの森に",
+                                "translatedEnglishLine": "\"Wait! One year ago, in the Color Forest,"
+                            },
+                            {
+                                "lineNumber": "133072",
+                                "originalJapaneseLine": "ヘルマンが攻め込んだ原因ではないかー！」",
+                                "translatedEnglishLine": "Wasn't she the cause of Hellman's invasion!?\""
+                            },
+                            {
+                                "lineNumber": "133073",
+                                "originalJapaneseLine": "「貴様ーーーッ！",
+                                "translatedEnglishLine": "\"You bastard---!"
+                            },
+                            {
+                                "lineNumber": "133074",
+                                "originalJapaneseLine": "何をしれっとペンシルカウに来ておるかーッ！」",
+                                "translatedEnglishLine": "How dare you come to Pencil Cow so casually!\""
+                            },
+                            {
+                                "lineNumber": "133075",
+                                "originalJapaneseLine": "パステルがシーラの首を掴んで",
+                                "translatedEnglishLine": "Pastel grabbed Sheera by the neck"
+                            },
+                            {
+                                "lineNumber": "133076",
+                                "originalJapaneseLine": "ガクガクと前後に揺さぶる。",
+                                "translatedEnglishLine": "and shook her back and forth."
+                            },
+                            {
+                                "lineNumber": "133077",
+                                "originalJapaneseLine": "「き、貴様らヘルマンが何度",
+                                "translatedEnglishLine": "\"Y-you Hellmans, how many times"
+                            },
+                            {
+                                "lineNumber": "133078",
+                                "originalJapaneseLine": "この村に攻め込んできたか",
+                                "translatedEnglishLine": "have you attacked this village,"
+                            },
+                            {
+                                "lineNumber": "133079",
+                                "originalJapaneseLine": "忘れたとでも言うつもりかーッ！？",
+                                "translatedEnglishLine": "do you intend to say you've forgotten!?\""
+                            },
+                            {
+                                "lineNumber": "133080",
+                                "originalJapaneseLine": "「すすす、すみません、",
+                                "translatedEnglishLine": "\"S-sorry,"
+                            },
+                            {
+                                "lineNumber": "133081",
+                                "originalJapaneseLine": "カラーの女王であるパステル様には、",
+                                "translatedEnglishLine": "to Pastel-sama, queen of Color,"
+                            },
+                            {
+                                "lineNumber": "133082",
+                                "originalJapaneseLine": "今後、せ、正式に、しゃ、謝罪を……」",
+                                "translatedEnglishLine": "I will f-formally apologize from now on...\""
+                            },
+                            {
+                                "lineNumber": "133083",
+                                "originalJapaneseLine": "「……お前、そんなにずっと",
+                                "translatedEnglishLine": "\"...You, don't you get tired"
+                            },
+                            {
+                                "lineNumber": "133084",
+                                "originalJapaneseLine": "ギャーギャー騒いで疲れないのか？」",
+                                "translatedEnglishLine": "of noisily yelling all the time?\""
+                            },
+                            {
+                                "lineNumber": "133085",
+                                "originalJapaneseLine": "「誰のせいじゃーーーーッ！」",
+                                "translatedEnglishLine": "\"Whose fault is itーーー!\""
+                            },
+                            {
+                                "lineNumber": "133086",
+                                "originalJapaneseLine": "「とにかく今は体を休めて、",
+                                "translatedEnglishLine": "\"Anyway, rest your body now,"
+                            },
+                            {
+                                "lineNumber": "133087",
+                                "originalJapaneseLine": "準備が整い次第、出発だ」",
+                                "translatedEnglishLine": "and depart as soon as preparations are complete.\""
+                            },
+                            {
+                                "lineNumber": "133088",
+                                "originalJapaneseLine": "「お前が仕切るなーーーーッ！」",
+                                "translatedEnglishLine": "\"Don't you take commandーーー!\""
+                            },
+                            {
+                                "lineNumber": "133089",
+                                "originalJapaneseLine": "「う、うぐっ……",
+                                "translatedEnglishLine": "\"U-ugh..."
+                            },
+                            {
+                                "lineNumber": "133090",
+                                "originalJapaneseLine": "こいつ、嫌いじゃあ……」",
+                                "translatedEnglishLine": "I don't dislike this one...\""
+                            },
+                            {
+                                "lineNumber": "133091",
+                                "originalJapaneseLine": "「はいはい、もう相変わらずね、パステルは」",
+                                "translatedEnglishLine": "\"Alright, alright, as usual, Pastel is just the same.\""
+                            },
+                            {
+                                "lineNumber": "133092",
+                                "originalJapaneseLine": "「おかーさん、いいこ、いいこ」",
+                                "translatedEnglishLine": "\"Mommy, good girl, good girl.\""
+                            },
+                            {
+                                "lineNumber": "133093",
+                                "originalJapaneseLine": "子供と母親に頭を撫でられて、",
+                                "translatedEnglishLine": "With a child and mother patting her head,"
+                            },
+                            {
+                                "lineNumber": "133094",
+                                "originalJapaneseLine": "パステルはグスグス泣き続けた。",
+                                "translatedEnglishLine": "Pastel kept sobbing quietly."
+                            },
+                            {
+                                "lineNumber": "133095",
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "........"
+                            },
+                            {
+                                "lineNumber": "133096",
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "...."
+                            },
+                            {
+                                "lineNumber": "133097",
+                                "originalJapaneseLine": "ペンシルカウのカラーが皆、",
+                                "translatedEnglishLine": "All the Colors of Pencil Cow,"
+                            },
+                            {
+                                "lineNumber": "133098",
+                                "originalJapaneseLine": "最低限の荷物だけ持ち、脱出の準備を整えた。",
+                                "translatedEnglishLine": "carried only the bare essentials and prepared to evacuate."
+                            },
+                            {
+                                "lineNumber": "133099",
+                                "originalJapaneseLine": "村の広場に、2000人ものカラーが並ぶ。",
+                                "translatedEnglishLine": "Two thousand Colors lined up in the village square."
+                            },
+                            {
+                                "lineNumber": "133100",
+                                "originalJapaneseLine": "「うーむ、さすが美女と美少女ばかりのカラー、",
+                                "translatedEnglishLine": "\"Hmm, as expected of Colors with nothing but beautiful women and girls,"
+                            },
+                            {
+                                "lineNumber": "133101",
+                                "originalJapaneseLine": "これだけいると壮観だな」",
+                                "translatedEnglishLine": "seeing this many together is spectacular.\""
+                            },
+                            {
+                                "lineNumber": "133102",
+                                "originalJapaneseLine": "「で、これからどっちに向かって逃げる？",
+                                "translatedEnglishLine": "\"So, which way are we fleeing now?"
+                            },
+                            {
+                                "lineNumber": "133103",
+                                "originalJapaneseLine": "どう進むにしろ森を真っ直ぐ突っ切るから、",
+                                "translatedEnglishLine": "Whichever way we go, we'll have to cut straight through the forest,"
+                            },
+                            {
+                                "lineNumber": "133104",
+                                "originalJapaneseLine": "危険ではあるが……」",
+                                "translatedEnglishLine": "which is dangerous though...\""
+                            },
+                            {
+                                "lineNumber": "133105",
+                                "originalJapaneseLine": "「それならご安心を。",
+                                "translatedEnglishLine": "\"Then rest assured."
+                            },
+                            {
+                                "lineNumber": "133106",
+                                "originalJapaneseLine": "私についてきて下さい」",
+                                "translatedEnglishLine": "Please follow me.\""
+                            },
+                            {
+                                "lineNumber": "133107",
+                                "originalJapaneseLine": "「うむ、よかろう」",
+                                "translatedEnglishLine": "\"Yes, very well.\""
+                            },
+                            {
+                                "lineNumber": "133108",
+                                "originalJapaneseLine": "「皆の者、移動を開始する！",
+                                "translatedEnglishLine": "\"Everyone, begin moving!"
+                            },
+                            {
+                                "lineNumber": "133109",
+                                "originalJapaneseLine": "子供を優先して、焦らず、急いでくれ！」",
+                                "translatedEnglishLine": "Prioritize the children, don't panic, but hurry!\""
+                            },
+                            {
+                                "lineNumber": "133110",
+                                "originalJapaneseLine": "簡単な荷物だけを持った",
+                                "translatedEnglishLine": "Carrying only simple belongings,"
+                            },
+                            {
+                                "lineNumber": "133111",
+                                "originalJapaneseLine": "2000人のカラーが移動を始める。",
+                                "translatedEnglishLine": "two thousand Colors began to move."
+                            },
+                            {
+                                "lineNumber": "133112",
+                                "originalJapaneseLine": "その誰もが、おそらく最後に見るであろう",
+                                "translatedEnglishLine": "Each of them probably saw for the last time"
+                            },
+                            {
+                                "lineNumber": "133113",
+                                "originalJapaneseLine": "生まれ育った村を未練がましく見ていた。",
+                                "translatedEnglishLine": "the village where they were born and raised with lingering attachment."
+                            },
+                            {
+                                "lineNumber": "133114",
+                                "originalJapaneseLine": "それでも村を覆う火に煽られるように、",
+                                "translatedEnglishLine": "Still, as if urged on by the flames covering the village,"
+                            },
+                            {
+                                "lineNumber": "133115",
+                                "originalJapaneseLine": "彼女達は歩を進めた。",
+                                "translatedEnglishLine": "they continued walking forward."
+                            },
+                            {
+                                "lineNumber": "133116",
+                                "originalJapaneseLine": "ランス達がサクラについていくと、",
+                                "translatedEnglishLine": "When Rance and the others followed Sakura,"
+                            },
+                            {
+                                "lineNumber": "133117",
+                                "originalJapaneseLine": "大きな地下洞窟に着いた。",
+                                "translatedEnglishLine": "they arrived at a large underground cave."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1382,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 3614,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4996
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"歴代の女王が姿を現した。\",\"translatedEnglishLine\":\"The successive queens appeared.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"先代の女王、モダン・カラー。\",\"translatedEnglishLine\":\"The previous queen, Modern Color.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"先々代女王、ビビッド・カラー。\",\"translatedEnglishLine\":\"The queen before that, Vivid Color.\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"そして、先々々代女王、フル・カラー。\",\"translatedEnglishLine\":\"And the queen before that, Full Color.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「遅い。なにしてた」\",\"translatedEnglishLine\":\"\\\"You're late. What were you doing?\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「ひうっ！？」\",\"translatedEnglishLine\":\"\\\"Eek!?\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"突然怒られ、パステルは肩を竦めた。\",\"translatedEnglishLine\":\"Suddenly scolded, Pastel shrugged her shoulders.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「状況はある程度、知っています。\",\"translatedEnglishLine\":\"\\\"I am aware of the situation to some extent.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"外に魔軍が来て大変なことになってるのよね？」\",\"translatedEnglishLine\":\"The demon army came outside and things have gotten terrible, right?\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「は、はい、その通りですが……\",\"translatedEnglishLine\":\"\\\"Y-yes, that's correct, but...\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"その……遅いというのは……\",\"translatedEnglishLine\":\"Well... as for being late...\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「こういう状況では村を捨てちゃっていいから。\",\"translatedEnglishLine\":\"\\\"In a situation like this, it's fine to abandon the village.\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"ね？　いいわね、パステル？\",\"translatedEnglishLine\":\"Right? That's okay, Pastel?\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"始祖様だって皆だって怒ったりはしないから」\",\"translatedEnglishLine\":\"Even the Founder and everyone won't get angry about it.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「正直、ひやひやした」\",\"translatedEnglishLine\":\"\\\"To be honest, I was worried.\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「がははは、俺だ俺、\",\"translatedEnglishLine\":\"\\\"Gahahaha, it's me, it's me,\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"俺が村を捨てるよう説得したのだ」\",\"translatedEnglishLine\":\"I was the one who persuaded them to abandon the village.\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「あ、あら、ありがとうございます、ランスさん。\",\"translatedEnglishLine\":\"\\\"Ah, oh my, thank you, Rance-san.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"パステルをそんなに気にかけて頂いて……」\",\"translatedEnglishLine\":\"For caring about Pastel so much...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「うむうむ、気にするな、モダンちゃん。\",\"translatedEnglishLine\":\"\\\"Mm-hmm, don't worry about it, Modern-chan.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"英雄として当然のことをしたまでだ」\",\"translatedEnglishLine\":\"I just did what was natural as a hero.\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「さて、出るか……」\",\"translatedEnglishLine\":\"\\\"Well then, shall we go...?\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"一人、悠然とフルが歩き出す。\",\"translatedEnglishLine\":\"Alone, Full started walking calmly.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"それを見て、ビビッドが溜め息を漏らす。\",\"translatedEnglishLine\":\"Seeing that, Vivid let out a sigh.\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「……仕方ない。\",\"translatedEnglishLine\":\"\\\"...It can't be helped.\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"パステル、神具を忘れぬように」\",\"translatedEnglishLine\":\"Pastel, don't forget the sacred tools.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「さあ、行きましょうか」\",\"translatedEnglishLine\":\"\\\"Now, shall we go?\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「あ、ま、待って下さいー！」\",\"translatedEnglishLine\":\"\\\"W-wait, please!\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「くうっ、妾、女王なのに……\",\"translatedEnglishLine\":\"\\\"Ugh, even though I'm a queen...\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"なんだか扱いが……うう……」\",\"translatedEnglishLine\":\"I'm being treated like... ugh...\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「今、戻ったぞー」\",\"translatedEnglishLine\":\"\\\"I'm back now!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「避難の用意は済んでないのか」\",\"translatedEnglishLine\":\"\\\"Are you not ready to evacuate?\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「こ、これはビビッド様。申し訳ありません。\",\"translatedEnglishLine\":\"\\\"T-this is Vivid-sama. I apologize.\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"なにせ、大所帯のものですから、\",\"translatedEnglishLine\":\"Since we are a large group,\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"人を集めるだけで三十分ほどはかかります」\",\"translatedEnglishLine\":\"just gathering people takes about thirty minutes.\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「サクラ、ペンシルカウの住人は\",\"translatedEnglishLine\":\"\\\"Sakura, how many residents does Pencil Cow have now?\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"今、全員で何人ほど？」\",\"translatedEnglishLine\":\"How many are there in total?\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「2000人です」\",\"translatedEnglishLine\":\"\\\"Two thousand.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「人数が増えれば敵に見つかる危険も増える。\",\"translatedEnglishLine\":\"\\\"The more people there are, the greater the risk of being spotted by the enemy.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"ふむ、大仕事になりそうだ」\",\"translatedEnglishLine\":\"Hmm, this looks like a big task.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「がははは！　安心しろ！\",\"translatedEnglishLine\":\"\\\"Gahahaha! Don't worry!\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"俺様はゼスの民族大移動も成功させた英雄だ！」\",\"translatedEnglishLine\":\"I am the hero who successfully led the great migration of the Zeths!\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「まるで自分一人の偉業のように……」\",\"translatedEnglishLine\":\"\\\"As if it were a feat done by himself alone...\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「ま、とりあえず頑張りましょう」\",\"translatedEnglishLine\":\"\\\"Well, for now, let's do our best.\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「頑張る前にまずは休憩だ。\",\"translatedEnglishLine\":\"\\\"Before trying hard, let's take a break.\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"シィル、シーラ、なんか飯」\",\"translatedEnglishLine\":\"Seel, Sheera, get us some food.\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「あ、はいはい」\",\"translatedEnglishLine\":\"\\\"Ah, yes, yes.\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「少々お待ち下さい」\",\"translatedEnglishLine\":\"\\\"Please wait a moment.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「ん……？\",\"translatedEnglishLine\":\"\\\"Hmm...?\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"そちらの金髪、見覚えがあるような……」\",\"translatedEnglishLine\":\"That blonde over there looks familiar...\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「シーラはヘルマンの大統領だからな。\",\"translatedEnglishLine\":\"\\\"Sheera is the president of Hellman, after all.\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"法王の就任式とかで会ったんだろ」\",\"translatedEnglishLine\":\"You probably met her at the pope's inauguration ceremony.\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「ヘルマン……大統領……」\",\"translatedEnglishLine\":\"\\\"Hellman... president...\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「って！　一年前、カラーの森に\",\"translatedEnglishLine\":\"\\\"Wait! One year ago, in the Color Forest,\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"ヘルマンが攻め込んだ原因ではないかー！」\",\"translatedEnglishLine\":\"Wasn't she the cause of Hellman's invasion!?\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「貴様ーーーッ！\",\"translatedEnglishLine\":\"\\\"You bastard---!\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"何をしれっとペンシルカウに来ておるかーッ！」\",\"translatedEnglishLine\":\"How dare you come to Pencil Cow so casually!\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"パステルがシーラの首を掴んで\",\"translatedEnglishLine\":\"Pastel grabbed Sheera by the neck\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"ガクガクと前後に揺さぶる。\",\"translatedEnglishLine\":\"and shook her back and forth.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「き、貴様らヘルマンが何度\",\"translatedEnglishLine\":\"\\\"Y-you Hellmans, how many times\"},{\"lineNumber\":61,\"originalJapaneseLine\":\"この村に攻め込んできたか\",\"translatedEnglishLine\":\"have you attacked this village,\"},{\"lineNumber\":62,\"originalJapaneseLine\":\"忘れたとでも言うつもりかーッ！？\",\"translatedEnglishLine\":\"do you intend to say you've forgotten!?\\\"\"},{\"lineNumber\":63,\"originalJapaneseLine\":\"「すすす、すみません、\",\"translatedEnglishLine\":\"\\\"S-sorry,\"},{\"lineNumber\":64,\"originalJapaneseLine\":\"カラーの女王であるパステル様には、\",\"translatedEnglishLine\":\"to Pastel-sama, queen of Color,\"},{\"lineNumber\":65,\"originalJapaneseLine\":\"今後、せ、正式に、しゃ、謝罪を……」\",\"translatedEnglishLine\":\"I will f-formally apologize from now on...\\\"\"},{\"lineNumber\":66,\"originalJapaneseLine\":\"「……お前、そんなにずっと\",\"translatedEnglishLine\":\"\\\"...You, don't you get tired\"},{\"lineNumber\":67,\"originalJapaneseLine\":\"ギャーギャー騒いで疲れないのか？」\",\"translatedEnglishLine\":\"of noisily yelling all the time?\\\"\"},{\"lineNumber\":68,\"originalJapaneseLine\":\"「誰のせいじゃーーーーッ！」\",\"translatedEnglishLine\":\"\\\"Whose fault is itーーー!\\\"\"},{\"lineNumber\":69,\"originalJapaneseLine\":\"「とにかく今は体を休めて、\",\"translatedEnglishLine\":\"\\\"Anyway, rest your body now,\"},{\"lineNumber\":70,\"originalJapaneseLine\":\"準備が整い次第、出発だ」\",\"translatedEnglishLine\":\"and depart as soon as preparations are complete.\\\"\"},{\"lineNumber\":71,\"originalJapaneseLine\":\"「お前が仕切るなーーーーッ！」\",\"translatedEnglishLine\":\"\\\"Don't you take commandーーー!\\\"\"},{\"lineNumber\":72,\"originalJapaneseLine\":\"「う、うぐっ……\",\"translatedEnglishLine\":\"\\\"U-ugh...\"},{\"lineNumber\":73,\"originalJapaneseLine\":\"こいつ、嫌いじゃあ……」\",\"translatedEnglishLine\":\"I don't dislike this one...\\\"\"},{\"lineNumber\":74,\"originalJapaneseLine\":\"「はいはい、もう相変わらずね、パステルは」\",\"translatedEnglishLine\":\"\\\"Alright, alright, as usual, Pastel is just the same.\\\"\"},{\"lineNumber\":75,\"originalJapaneseLine\":\"「おかーさん、いいこ、いいこ」\",\"translatedEnglishLine\":\"\\\"Mommy, good girl, good girl.\\\"\"},{\"lineNumber\":76,\"originalJapaneseLine\":\"子供と母親に頭を撫でられて、\",\"translatedEnglishLine\":\"With a child and mother patting her head,\"},{\"lineNumber\":77,\"originalJapaneseLine\":\"パステルはグスグス泣き続けた。\",\"translatedEnglishLine\":\"Pastel kept sobbing quietly.\"},{\"lineNumber\":78,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":79,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"....\"},{\"lineNumber\":80,\"originalJapaneseLine\":\"ペンシルカウのカラーが皆、\",\"translatedEnglishLine\":\"All the Colors of Pencil Cow,\"},{\"lineNumber\":81,\"originalJapaneseLine\":\"最低限の荷物だけ持ち、脱出の準備を整えた。\",\"translatedEnglishLine\":\"carried only the bare essentials and prepared to evacuate.\"},{\"lineNumber\":82,\"originalJapaneseLine\":\"村の広場に、2000人ものカラーが並ぶ。\",\"translatedEnglishLine\":\"Two thousand Colors lined up in the village square.\"},{\"lineNumber\":83,\"originalJapaneseLine\":\"「うーむ、さすが美女と美少女ばかりのカラー、\",\"translatedEnglishLine\":\"\\\"Hmm, as expected of Colors with nothing but beautiful women and girls,\"},{\"lineNumber\":84,\"originalJapaneseLine\":\"これだけいると壮観だな」\",\"translatedEnglishLine\":\"seeing this many together is spectacular.\\\"\"},{\"lineNumber\":85,\"originalJapaneseLine\":\"「で、これからどっちに向かって逃げる？\",\"translatedEnglishLine\":\"\\\"So, which way are we fleeing now?\"},{\"lineNumber\":86,\"originalJapaneseLine\":\"どう進むにしろ森を真っ直ぐ突っ切るから、\",\"translatedEnglishLine\":\"Whichever way we go, we'll have to cut straight through the forest,\"},{\"lineNumber\":87,\"originalJapaneseLine\":\"危険ではあるが……」\",\"translatedEnglishLine\":\"which is dangerous though...\\\"\"},{\"lineNumber\":88,\"originalJapaneseLine\":\"「それならご安心を。\",\"translatedEnglishLine\":\"\\\"Then rest assured.\"},{\"lineNumber\":89,\"originalJapaneseLine\":\"私についてきて下さい」\",\"translatedEnglishLine\":\"Please follow me.\\\"\"},{\"lineNumber\":90,\"originalJapaneseLine\":\"「うむ、よかろう」\",\"translatedEnglishLine\":\"\\\"Yes, very well.\\\"\"},{\"lineNumber\":91,\"originalJapaneseLine\":\"「皆の者、移動を開始する！\",\"translatedEnglishLine\":\"\\\"Everyone, begin moving!\"},{\"lineNumber\":92,\"originalJapaneseLine\":\"子供を優先して、焦らず、急いでくれ！」\",\"translatedEnglishLine\":\"Prioritize the children, don't panic, but hurry!\\\"\"},{\"lineNumber\":93,\"originalJapaneseLine\":\"簡単な荷物だけを持った\",\"translatedEnglishLine\":\"Carrying only simple belongings,\"},{\"lineNumber\":94,\"originalJapaneseLine\":\"2000人のカラーが移動を始める。\",\"translatedEnglishLine\":\"two thousand Colors began to move.\"},{\"lineNumber\":95,\"originalJapaneseLine\":\"その誰もが、おそらく最後に見るであろう\",\"translatedEnglishLine\":\"Each of them probably saw for the last time\"},{\"lineNumber\":96,\"originalJapaneseLine\":\"生まれ育った村を未練がましく見ていた。\",\"translatedEnglishLine\":\"the village where they were born and raised with lingering attachment.\"},{\"lineNumber\":97,\"originalJapaneseLine\":\"それでも村を覆う火に煽られるように、\",\"translatedEnglishLine\":\"Still, as if urged on by the flames covering the village,\"},{\"lineNumber\":98,\"originalJapaneseLine\":\"彼女達は歩を進めた。\",\"translatedEnglishLine\":\"they continued walking forward.\"},{\"lineNumber\":99,\"originalJapaneseLine\":\"ランス達がサクラについていくと、\",\"translatedEnglishLine\":\"When Rance and the others followed Sakura,\"},{\"lineNumber\":100,\"originalJapaneseLine\":\"大きな地下洞窟に着いた。\",\"translatedEnglishLine\":\"they arrived at a large underground cave.\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "133018",
+                "originalJapaneseLine": "歴代の女王が姿を現した。",
+                "translatedEnglishLine": "The successive queens appeared."
+            },
+            {
+                "lineNumber": "133019",
+                "originalJapaneseLine": "先代の女王、モダン・カラー。",
+                "translatedEnglishLine": "The previous queen, Modern Color."
+            },
+            {
+                "lineNumber": "133020",
+                "originalJapaneseLine": "先々代女王、ビビッド・カラー。",
+                "translatedEnglishLine": "The queen before that, Vivid Color."
+            },
+            {
+                "lineNumber": "133021",
+                "originalJapaneseLine": "そして、先々々代女王、フル・カラー。",
+                "translatedEnglishLine": "And the queen before that, Full Color."
+            },
+            {
+                "lineNumber": "133022",
+                "originalJapaneseLine": "「遅い。なにしてた」",
+                "translatedEnglishLine": "\"You're late. What were you doing?\""
+            },
+            {
+                "lineNumber": "133023",
+                "originalJapaneseLine": "「ひうっ！？」",
+                "translatedEnglishLine": "\"Eek!?\""
+            },
+            {
+                "lineNumber": "133024",
+                "originalJapaneseLine": "突然怒られ、パステルは肩を竦めた。",
+                "translatedEnglishLine": "Suddenly scolded, Pastel shrugged her shoulders."
+            },
+            {
+                "lineNumber": "133025",
+                "originalJapaneseLine": "「状況はある程度、知っています。",
+                "translatedEnglishLine": "\"I am aware of the situation to some extent."
+            },
+            {
+                "lineNumber": "133026",
+                "originalJapaneseLine": "外に魔軍が来て大変なことになってるのよね？」",
+                "translatedEnglishLine": "The demon army came outside and things have gotten terrible, right?\""
+            },
+            {
+                "lineNumber": "133027",
+                "originalJapaneseLine": "「は、はい、その通りですが……",
+                "translatedEnglishLine": "\"Y-yes, that's correct, but...\""
+            },
+            {
+                "lineNumber": "133028",
+                "originalJapaneseLine": "その……遅いというのは……",
+                "translatedEnglishLine": "Well... as for being late...\""
+            },
+            {
+                "lineNumber": "133029",
+                "originalJapaneseLine": "「こういう状況では村を捨てちゃっていいから。",
+                "translatedEnglishLine": "\"In a situation like this, it's fine to abandon the village."
+            },
+            {
+                "lineNumber": "133030",
+                "originalJapaneseLine": "ね？　いいわね、パステル？",
+                "translatedEnglishLine": "Right? That's okay, Pastel?"
+            },
+            {
+                "lineNumber": "133031",
+                "originalJapaneseLine": "始祖様だって皆だって怒ったりはしないから」",
+                "translatedEnglishLine": "Even the Founder and everyone won't get angry about it.\""
+            },
+            {
+                "lineNumber": "133032",
+                "originalJapaneseLine": "「正直、ひやひやした」",
+                "translatedEnglishLine": "\"To be honest, I was worried.\""
+            },
+            {
+                "lineNumber": "133033",
+                "originalJapaneseLine": "「がははは、俺だ俺、",
+                "translatedEnglishLine": "\"Gahahaha, it's me, it's me,"
+            },
+            {
+                "lineNumber": "133034",
+                "originalJapaneseLine": "俺が村を捨てるよう説得したのだ」",
+                "translatedEnglishLine": "I was the one who persuaded them to abandon the village.\""
+            },
+            {
+                "lineNumber": "133035",
+                "originalJapaneseLine": "「あ、あら、ありがとうございます、ランスさん。",
+                "translatedEnglishLine": "\"Ah, oh my, thank you, Rance-san."
+            },
+            {
+                "lineNumber": "133036",
+                "originalJapaneseLine": "パステルをそんなに気にかけて頂いて……」",
+                "translatedEnglishLine": "For caring about Pastel so much...\""
+            },
+            {
+                "lineNumber": "133037",
+                "originalJapaneseLine": "「うむうむ、気にするな、モダンちゃん。",
+                "translatedEnglishLine": "\"Mm-hmm, don't worry about it, Modern-chan."
+            },
+            {
+                "lineNumber": "133038",
+                "originalJapaneseLine": "英雄として当然のことをしたまでだ」",
+                "translatedEnglishLine": "I just did what was natural as a hero.\""
+            },
+            {
+                "lineNumber": "133039",
+                "originalJapaneseLine": "「さて、出るか……」",
+                "translatedEnglishLine": "\"Well then, shall we go...?\""
+            },
+            {
+                "lineNumber": "133040",
+                "originalJapaneseLine": "一人、悠然とフルが歩き出す。",
+                "translatedEnglishLine": "Alone, Full started walking calmly."
+            },
+            {
+                "lineNumber": "133041",
+                "originalJapaneseLine": "それを見て、ビビッドが溜め息を漏らす。",
+                "translatedEnglishLine": "Seeing that, Vivid let out a sigh."
+            },
+            {
+                "lineNumber": "133042",
+                "originalJapaneseLine": "「……仕方ない。",
+                "translatedEnglishLine": "\"...It can't be helped."
+            },
+            {
+                "lineNumber": "133043",
+                "originalJapaneseLine": "パステル、神具を忘れぬように」",
+                "translatedEnglishLine": "Pastel, don't forget the sacred tools.\""
+            },
+            {
+                "lineNumber": "133044",
+                "originalJapaneseLine": "「さあ、行きましょうか」",
+                "translatedEnglishLine": "\"Now, shall we go?\""
+            },
+            {
+                "lineNumber": "133045",
+                "originalJapaneseLine": "「あ、ま、待って下さいー！」",
+                "translatedEnglishLine": "\"W-wait, please!\""
+            },
+            {
+                "lineNumber": "133046",
+                "originalJapaneseLine": "「くうっ、妾、女王なのに……",
+                "translatedEnglishLine": "\"Ugh, even though I'm a queen..."
+            },
+            {
+                "lineNumber": "133047",
+                "originalJapaneseLine": "なんだか扱いが……うう……」",
+                "translatedEnglishLine": "I'm being treated like... ugh...\""
+            },
+            {
+                "lineNumber": "133048",
+                "originalJapaneseLine": "「今、戻ったぞー」",
+                "translatedEnglishLine": "\"I'm back now!\""
+            },
+            {
+                "lineNumber": "133049",
+                "originalJapaneseLine": "「避難の用意は済んでないのか」",
+                "translatedEnglishLine": "\"Are you not ready to evacuate?\""
+            },
+            {
+                "lineNumber": "133050",
+                "originalJapaneseLine": "「こ、これはビビッド様。申し訳ありません。",
+                "translatedEnglishLine": "\"T-this is Vivid-sama. I apologize."
+            },
+            {
+                "lineNumber": "133051",
+                "originalJapaneseLine": "なにせ、大所帯のものですから、",
+                "translatedEnglishLine": "Since we are a large group,"
+            },
+            {
+                "lineNumber": "133052",
+                "originalJapaneseLine": "人を集めるだけで三十分ほどはかかります」",
+                "translatedEnglishLine": "just gathering people takes about thirty minutes.\""
+            },
+            {
+                "lineNumber": "133053",
+                "originalJapaneseLine": "「サクラ、ペンシルカウの住人は",
+                "translatedEnglishLine": "\"Sakura, how many residents does Pencil Cow have now?"
+            },
+            {
+                "lineNumber": "133054",
+                "originalJapaneseLine": "今、全員で何人ほど？」",
+                "translatedEnglishLine": "How many are there in total?\""
+            },
+            {
+                "lineNumber": "133055",
+                "originalJapaneseLine": "「2000人です」",
+                "translatedEnglishLine": "\"Two thousand.\""
+            },
+            {
+                "lineNumber": "133056",
+                "originalJapaneseLine": "「人数が増えれば敵に見つかる危険も増える。",
+                "translatedEnglishLine": "\"The more people there are, the greater the risk of being spotted by the enemy."
+            },
+            {
+                "lineNumber": "133057",
+                "originalJapaneseLine": "ふむ、大仕事になりそうだ」",
+                "translatedEnglishLine": "Hmm, this looks like a big task.\""
+            },
+            {
+                "lineNumber": "133058",
+                "originalJapaneseLine": "「がははは！　安心しろ！",
+                "translatedEnglishLine": "\"Gahahaha! Don't worry!"
+            },
+            {
+                "lineNumber": "133059",
+                "originalJapaneseLine": "俺様はゼスの民族大移動も成功させた英雄だ！」",
+                "translatedEnglishLine": "I am the hero who successfully led the great migration of the Zeths!\""
+            },
+            {
+                "lineNumber": "133060",
+                "originalJapaneseLine": "「まるで自分一人の偉業のように……」",
+                "translatedEnglishLine": "\"As if it were a feat done by himself alone...\""
+            },
+            {
+                "lineNumber": "133061",
+                "originalJapaneseLine": "「ま、とりあえず頑張りましょう」",
+                "translatedEnglishLine": "\"Well, for now, let's do our best.\""
+            },
+            {
+                "lineNumber": "133062",
+                "originalJapaneseLine": "「頑張る前にまずは休憩だ。",
+                "translatedEnglishLine": "\"Before trying hard, let's take a break."
+            },
+            {
+                "lineNumber": "133063",
+                "originalJapaneseLine": "シィル、シーラ、なんか飯」",
+                "translatedEnglishLine": "Seel, Sheera, get us some food.\""
+            },
+            {
+                "lineNumber": "133064",
+                "originalJapaneseLine": "「あ、はいはい」",
+                "translatedEnglishLine": "\"Ah, yes, yes.\""
+            },
+            {
+                "lineNumber": "133065",
+                "originalJapaneseLine": "「少々お待ち下さい」",
+                "translatedEnglishLine": "\"Please wait a moment.\""
+            },
+            {
+                "lineNumber": "133066",
+                "originalJapaneseLine": "「ん……？",
+                "translatedEnglishLine": "\"Hmm...?\""
+            },
+            {
+                "lineNumber": "133067",
+                "originalJapaneseLine": "そちらの金髪、見覚えがあるような……」",
+                "translatedEnglishLine": "That blonde over there looks familiar...\""
+            },
+            {
+                "lineNumber": "133068",
+                "originalJapaneseLine": "「シーラはヘルマンの大統領だからな。",
+                "translatedEnglishLine": "\"Sheera is the president of Hellman, after all."
+            },
+            {
+                "lineNumber": "133069",
+                "originalJapaneseLine": "法王の就任式とかで会ったんだろ」",
+                "translatedEnglishLine": "You probably met her at the pope's inauguration ceremony.\""
+            },
+            {
+                "lineNumber": "133070",
+                "originalJapaneseLine": "「ヘルマン……大統領……」",
+                "translatedEnglishLine": "\"Hellman... president...\""
+            },
+            {
+                "lineNumber": "133071",
+                "originalJapaneseLine": "「って！　一年前、カラーの森に",
+                "translatedEnglishLine": "\"Wait! One year ago, in the Color Forest,"
+            },
+            {
+                "lineNumber": "133072",
+                "originalJapaneseLine": "ヘルマンが攻め込んだ原因ではないかー！」",
+                "translatedEnglishLine": "Wasn't she the cause of Hellman's invasion!?\""
+            },
+            {
+                "lineNumber": "133073",
+                "originalJapaneseLine": "「貴様ーーーッ！",
+                "translatedEnglishLine": "\"You bastard---!"
+            },
+            {
+                "lineNumber": "133074",
+                "originalJapaneseLine": "何をしれっとペンシルカウに来ておるかーッ！」",
+                "translatedEnglishLine": "How dare you come to Pencil Cow so casually!\""
+            },
+            {
+                "lineNumber": "133075",
+                "originalJapaneseLine": "パステルがシーラの首を掴んで",
+                "translatedEnglishLine": "Pastel grabbed Sheera by the neck"
+            },
+            {
+                "lineNumber": "133076",
+                "originalJapaneseLine": "ガクガクと前後に揺さぶる。",
+                "translatedEnglishLine": "and shook her back and forth."
+            },
+            {
+                "lineNumber": "133077",
+                "originalJapaneseLine": "「き、貴様らヘルマンが何度",
+                "translatedEnglishLine": "\"Y-you Hellmans, how many times"
+            },
+            {
+                "lineNumber": "133078",
+                "originalJapaneseLine": "この村に攻め込んできたか",
+                "translatedEnglishLine": "have you attacked this village,"
+            },
+            {
+                "lineNumber": "133079",
+                "originalJapaneseLine": "忘れたとでも言うつもりかーッ！？",
+                "translatedEnglishLine": "do you intend to say you've forgotten!?\""
+            },
+            {
+                "lineNumber": "133080",
+                "originalJapaneseLine": "「すすす、すみません、",
+                "translatedEnglishLine": "\"S-sorry,"
+            },
+            {
+                "lineNumber": "133081",
+                "originalJapaneseLine": "カラーの女王であるパステル様には、",
+                "translatedEnglishLine": "to Pastel-sama, queen of Color,"
+            },
+            {
+                "lineNumber": "133082",
+                "originalJapaneseLine": "今後、せ、正式に、しゃ、謝罪を……」",
+                "translatedEnglishLine": "I will f-formally apologize from now on...\""
+            },
+            {
+                "lineNumber": "133083",
+                "originalJapaneseLine": "「……お前、そんなにずっと",
+                "translatedEnglishLine": "\"...You, don't you get tired"
+            },
+            {
+                "lineNumber": "133084",
+                "originalJapaneseLine": "ギャーギャー騒いで疲れないのか？」",
+                "translatedEnglishLine": "of noisily yelling all the time?\""
+            },
+            {
+                "lineNumber": "133085",
+                "originalJapaneseLine": "「誰のせいじゃーーーーッ！」",
+                "translatedEnglishLine": "\"Whose fault is itーーー!\""
+            },
+            {
+                "lineNumber": "133086",
+                "originalJapaneseLine": "「とにかく今は体を休めて、",
+                "translatedEnglishLine": "\"Anyway, rest your body now,"
+            },
+            {
+                "lineNumber": "133087",
+                "originalJapaneseLine": "準備が整い次第、出発だ」",
+                "translatedEnglishLine": "and depart as soon as preparations are complete.\""
+            },
+            {
+                "lineNumber": "133088",
+                "originalJapaneseLine": "「お前が仕切るなーーーーッ！」",
+                "translatedEnglishLine": "\"Don't you take commandーーー!\""
+            },
+            {
+                "lineNumber": "133089",
+                "originalJapaneseLine": "「う、うぐっ……",
+                "translatedEnglishLine": "\"U-ugh..."
+            },
+            {
+                "lineNumber": "133090",
+                "originalJapaneseLine": "こいつ、嫌いじゃあ……」",
+                "translatedEnglishLine": "I don't dislike this one...\""
+            },
+            {
+                "lineNumber": "133091",
+                "originalJapaneseLine": "「はいはい、もう相変わらずね、パステルは」",
+                "translatedEnglishLine": "\"Alright, alright, as usual, Pastel is just the same.\""
+            },
+            {
+                "lineNumber": "133092",
+                "originalJapaneseLine": "「おかーさん、いいこ、いいこ」",
+                "translatedEnglishLine": "\"Mommy, good girl, good girl.\""
+            },
+            {
+                "lineNumber": "133093",
+                "originalJapaneseLine": "子供と母親に頭を撫でられて、",
+                "translatedEnglishLine": "With a child and mother patting her head,"
+            },
+            {
+                "lineNumber": "133094",
+                "originalJapaneseLine": "パステルはグスグス泣き続けた。",
+                "translatedEnglishLine": "Pastel kept sobbing quietly."
+            },
+            {
+                "lineNumber": "133095",
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": "133096",
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "...."
+            },
+            {
+                "lineNumber": "133097",
+                "originalJapaneseLine": "ペンシルカウのカラーが皆、",
+                "translatedEnglishLine": "All the Colors of Pencil Cow,"
+            },
+            {
+                "lineNumber": "133098",
+                "originalJapaneseLine": "最低限の荷物だけ持ち、脱出の準備を整えた。",
+                "translatedEnglishLine": "carried only the bare essentials and prepared to evacuate."
+            },
+            {
+                "lineNumber": "133099",
+                "originalJapaneseLine": "村の広場に、2000人ものカラーが並ぶ。",
+                "translatedEnglishLine": "Two thousand Colors lined up in the village square."
+            },
+            {
+                "lineNumber": "133100",
+                "originalJapaneseLine": "「うーむ、さすが美女と美少女ばかりのカラー、",
+                "translatedEnglishLine": "\"Hmm, as expected of Colors with nothing but beautiful women and girls,"
+            },
+            {
+                "lineNumber": "133101",
+                "originalJapaneseLine": "これだけいると壮観だな」",
+                "translatedEnglishLine": "seeing this many together is spectacular.\""
+            },
+            {
+                "lineNumber": "133102",
+                "originalJapaneseLine": "「で、これからどっちに向かって逃げる？",
+                "translatedEnglishLine": "\"So, which way are we fleeing now?"
+            },
+            {
+                "lineNumber": "133103",
+                "originalJapaneseLine": "どう進むにしろ森を真っ直ぐ突っ切るから、",
+                "translatedEnglishLine": "Whichever way we go, we'll have to cut straight through the forest,"
+            },
+            {
+                "lineNumber": "133104",
+                "originalJapaneseLine": "危険ではあるが……」",
+                "translatedEnglishLine": "which is dangerous though...\""
+            },
+            {
+                "lineNumber": "133105",
+                "originalJapaneseLine": "「それならご安心を。",
+                "translatedEnglishLine": "\"Then rest assured."
+            },
+            {
+                "lineNumber": "133106",
+                "originalJapaneseLine": "私についてきて下さい」",
+                "translatedEnglishLine": "Please follow me.\""
+            },
+            {
+                "lineNumber": "133107",
+                "originalJapaneseLine": "「うむ、よかろう」",
+                "translatedEnglishLine": "\"Yes, very well.\""
+            },
+            {
+                "lineNumber": "133108",
+                "originalJapaneseLine": "「皆の者、移動を開始する！",
+                "translatedEnglishLine": "\"Everyone, begin moving!"
+            },
+            {
+                "lineNumber": "133109",
+                "originalJapaneseLine": "子供を優先して、焦らず、急いでくれ！」",
+                "translatedEnglishLine": "Prioritize the children, don't panic, but hurry!\""
+            },
+            {
+                "lineNumber": "133110",
+                "originalJapaneseLine": "簡単な荷物だけを持った",
+                "translatedEnglishLine": "Carrying only simple belongings,"
+            },
+            {
+                "lineNumber": "133111",
+                "originalJapaneseLine": "2000人のカラーが移動を始める。",
+                "translatedEnglishLine": "two thousand Colors began to move."
+            },
+            {
+                "lineNumber": "133112",
+                "originalJapaneseLine": "その誰もが、おそらく最後に見るであろう",
+                "translatedEnglishLine": "Each of them probably saw for the last time"
+            },
+            {
+                "lineNumber": "133113",
+                "originalJapaneseLine": "生まれ育った村を未練がましく見ていた。",
+                "translatedEnglishLine": "the village where they were born and raised with lingering attachment."
+            },
+            {
+                "lineNumber": "133114",
+                "originalJapaneseLine": "それでも村を覆う火に煽られるように、",
+                "translatedEnglishLine": "Still, as if urged on by the flames covering the village,"
+            },
+            {
+                "lineNumber": "133115",
+                "originalJapaneseLine": "彼女達は歩を進めた。",
+                "translatedEnglishLine": "they continued walking forward."
+            },
+            {
+                "lineNumber": "133116",
+                "originalJapaneseLine": "ランス達がサクラについていくと、",
+                "translatedEnglishLine": "When Rance and the others followed Sakura,"
+            },
+            {
+                "lineNumber": "133117",
+                "originalJapaneseLine": "大きな地下洞窟に着いた。",
+                "translatedEnglishLine": "they arrived at a large underground cave."
+            }
+        ]
+    }
+}

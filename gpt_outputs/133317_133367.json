@@ -1,0 +1,619 @@
+{
+    "id": "resp_003d674cf86a7fcb0068f4aa89c25c819384641b3e63f4d8d3",
+    "object": "response",
+    "created_at": 1760864905,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_003d674cf86a7fcb0068f4aa8a4a3c8193a1ce431a02c1c1ee",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「おー」\",\"translatedEnglishLine\":\"\\\"Oh—\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"リセットが後ろに下がり、パステルと手を繋いだ。\",\"translatedEnglishLine\":\"Reset stepped back and held Pastel's hand.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「えへへ、おとーさんとお話してきちゃった」\",\"translatedEnglishLine\":\"\\\"Ehehe, I went and talked with Daddy.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「ぐぐぐ……あの男……調子に乗りおって……ッ！」\",\"translatedEnglishLine\":\"\\\"Grrr... That man... getting cocky...!\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「？　おかーさん、どうして怒ってるの？」\",\"translatedEnglishLine\":\"\\\"? Mom, why are you angry?\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「やかましい、やかましい、ふんっ、ふんっ」\",\"translatedEnglishLine\":\"\\\"Noisy, noisy, hmph, hmph.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"拗ねたパステルはぷいっとそっぽを向いた。\",\"translatedEnglishLine\":\"Sulking, Pastel turned away with a pout.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「いーこ、いーこ」\",\"translatedEnglishLine\":\"\\\"Good girl, good girl.\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"リセットに頭を撫でられ、\",\"translatedEnglishLine\":\"Reset patted her head,\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"パステルが落ち着きを取り戻す。\",\"translatedEnglishLine\":\"and Pastel regained her composure.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「…………ふんっ」\",\"translatedEnglishLine\":\"\\\"...Hmph.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"2000人のカラーが洞窟の中を静かに進んでいく。\",\"translatedEnglishLine\":\"Two thousand soldiers quietly advanced through the cave.\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「パステル様！\",\"translatedEnglishLine\":\"\\\"Lady Pastel!\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"ペンシルカウに魔軍が来ました！」\",\"translatedEnglishLine\":\"The demon army has come to Pencil Cow!\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「遂に村が見つかったか……\",\"translatedEnglishLine\":\"\\\"The village has finally been found...\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"では、ここも？」\",\"translatedEnglishLine\":\"Then, what about here?\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「ご安心下さい、村に仕掛けたトラップにかかり、\",\"translatedEnglishLine\":\"\\\"Please rest assured, they've been caught by the traps set in the village,\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"まだこの洞窟の発見には至ってはいないようです」\",\"translatedEnglishLine\":\"and it seems they have not yet discovered this cave.\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ただ、いずれは気づかれるかと……」\",\"translatedEnglishLine\":\"\\\"However, they will probably notice sooner or later...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「ちっ、面倒な。\",\"translatedEnglishLine\":\"\\\"Tch, what a pain.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"急ぐぞ！」\",\"translatedEnglishLine\":\"Let's hurry!\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「だー！　なんてうっとうしい奴だ！\",\"translatedEnglishLine\":\"\\\"Daa! What an annoying guy!\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"硬すぎるぞー！」\",\"translatedEnglishLine\":\"He's way too tough!\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「す、すごい強いですね……」\",\"translatedEnglishLine\":\"\\\"He’s so, so strong...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「どうしますか、ランス様？」\",\"translatedEnglishLine\":\"\\\"What shall we do, Lord Rance?\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「もうこいつの相手いやだ。\",\"translatedEnglishLine\":\"\\\"I'm done dealing with this guy.\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"めんどい」\",\"translatedEnglishLine\":\"It's a hassle.\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「おい、サクラ。\",\"translatedEnglishLine\":\"\\\"Hey, Sakura.\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"別の道はないのか？」\",\"translatedEnglishLine\":\"Isn’t there another path?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「少し回り道になりますが……」\",\"translatedEnglishLine\":\"\\\"It’s a bit of a detour, but...\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「こいつの相手するよりマシだ。\",\"translatedEnglishLine\":\"\\\"Better than dealing with this one.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"そっちで行くぞ」\",\"translatedEnglishLine\":\"Let's go that way.\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「はい」\",\"translatedEnglishLine\":\"\\\"Yes.\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"洞窟を進むランス達の耳に、なにかが届く。\",\"translatedEnglishLine\":\"As Rance and the others proceeded through the cave, something reached their ears.\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「……………………」\",\"translatedEnglishLine\":\"\\\"....................\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「……おい、シィル。\",\"translatedEnglishLine\":\"\\\"...Hey, Sheila.\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"今、何か音しなかったか？」\",\"translatedEnglishLine\":\"Did you hear something just now?\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「は、はい……何かは分かりませんが、\",\"translatedEnglishLine\":\"\\\"Y-Yes... I’m not sure what it was,\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"ずぅっと後ろの方で何か音がしたような……」\",\"translatedEnglishLine\":\"but it sounded like something at the far back...\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\".\",\"translatedEnglishLine\":\".\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"＜ずぅぅぅん……ずず……＞\",\"translatedEnglishLine\":\"<Duuuuun... zzz...>\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"洞窟が小さく揺れ、\",\"translatedEnglishLine\":\"The cave trembled slightly,\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"パラパラと天井から砂が落ちてきた。\",\"translatedEnglishLine\":\"and sand fell trickling from the ceiling.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「あっ、今のはハッキリ聞こえました！\",\"translatedEnglishLine\":\"\\\"Ah, I clearly heard that just now!\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"何か爆発するような音でしたよ！？」\",\"translatedEnglishLine\":\"It sounded like some kind of explosion!?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「最後尾でなにかあったか？」\",\"translatedEnglishLine\":\"\\\"Did something happen at the rear?\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「大変、大変！　ランス、大変よ！」\",\"translatedEnglishLine\":\"\\\"It's bad, bad! Rance, it's bad!\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"そのとき、かなみがランス達の前に着地した。\",\"translatedEnglishLine\":\"At that moment, Kanami landed in front of Rance and the others.\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「おお、かなみ、どうした。\",\"translatedEnglishLine\":\"\\\"Oh, Kanami, what’s wrong?\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"今、最後尾の様子を見に行かせようかと\",\"translatedEnglishLine\":\"I was just about to send someone to check on the rear.\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "133318",
+                                "originalJapaneseLine": "「おー」",
+                                "translatedEnglishLine": "\"Oh—\""
+                            },
+                            {
+                                "lineNumber": "133319",
+                                "originalJapaneseLine": "リセットが後ろに下がり、パステルと手を繋いだ。",
+                                "translatedEnglishLine": "Reset stepped back and held Pastel's hand."
+                            },
+                            {
+                                "lineNumber": "133320",
+                                "originalJapaneseLine": "「えへへ、おとーさんとお話してきちゃった」",
+                                "translatedEnglishLine": "\"Ehehe, I went and talked with Daddy.\""
+                            },
+                            {
+                                "lineNumber": "133321",
+                                "originalJapaneseLine": "「ぐぐぐ……あの男……調子に乗りおって……ッ！」",
+                                "translatedEnglishLine": "\"Grrr... That man... getting cocky...!\""
+                            },
+                            {
+                                "lineNumber": "133322",
+                                "originalJapaneseLine": "「？　おかーさん、どうして怒ってるの？」",
+                                "translatedEnglishLine": "\"? Mom, why are you angry?\""
+                            },
+                            {
+                                "lineNumber": "133323",
+                                "originalJapaneseLine": "「やかましい、やかましい、ふんっ、ふんっ」",
+                                "translatedEnglishLine": "\"Noisy, noisy, hmph, hmph.\""
+                            },
+                            {
+                                "lineNumber": "133324",
+                                "originalJapaneseLine": "拗ねたパステルはぷいっとそっぽを向いた。",
+                                "translatedEnglishLine": "Sulking, Pastel turned away with a pout."
+                            },
+                            {
+                                "lineNumber": "133325",
+                                "originalJapaneseLine": "「いーこ、いーこ」",
+                                "translatedEnglishLine": "\"Good girl, good girl.\""
+                            },
+                            {
+                                "lineNumber": "133326",
+                                "originalJapaneseLine": "リセットに頭を撫でられ、",
+                                "translatedEnglishLine": "Reset patted her head,"
+                            },
+                            {
+                                "lineNumber": "133327",
+                                "originalJapaneseLine": "パステルが落ち着きを取り戻す。",
+                                "translatedEnglishLine": "and Pastel regained her composure."
+                            },
+                            {
+                                "lineNumber": "133328",
+                                "originalJapaneseLine": "「…………ふんっ」",
+                                "translatedEnglishLine": "\"...Hmph.\""
+                            },
+                            {
+                                "lineNumber": "133329",
+                                "originalJapaneseLine": "2000人のカラーが洞窟の中を静かに進んでいく。",
+                                "translatedEnglishLine": "Two thousand soldiers quietly advanced through the cave."
+                            },
+                            {
+                                "lineNumber": "133330",
+                                "originalJapaneseLine": "「パステル様！",
+                                "translatedEnglishLine": "\"Lady Pastel!"
+                            },
+                            {
+                                "lineNumber": "133331",
+                                "originalJapaneseLine": "ペンシルカウに魔軍が来ました！」",
+                                "translatedEnglishLine": "The demon army has come to Pencil Cow!\""
+                            },
+                            {
+                                "lineNumber": "133332",
+                                "originalJapaneseLine": "「遂に村が見つかったか……",
+                                "translatedEnglishLine": "\"The village has finally been found..."
+                            },
+                            {
+                                "lineNumber": "133333",
+                                "originalJapaneseLine": "では、ここも？」",
+                                "translatedEnglishLine": "Then, what about here?\""
+                            },
+                            {
+                                "lineNumber": "133334",
+                                "originalJapaneseLine": "「ご安心下さい、村に仕掛けたトラップにかかり、",
+                                "translatedEnglishLine": "\"Please rest assured, they've been caught by the traps set in the village,"
+                            },
+                            {
+                                "lineNumber": "133335",
+                                "originalJapaneseLine": "まだこの洞窟の発見には至ってはいないようです」",
+                                "translatedEnglishLine": "and it seems they have not yet discovered this cave.\""
+                            },
+                            {
+                                "lineNumber": "133336",
+                                "originalJapaneseLine": "「ただ、いずれは気づかれるかと……」",
+                                "translatedEnglishLine": "\"However, they will probably notice sooner or later...\""
+                            },
+                            {
+                                "lineNumber": "133337",
+                                "originalJapaneseLine": "「ちっ、面倒な。",
+                                "translatedEnglishLine": "\"Tch, what a pain."
+                            },
+                            {
+                                "lineNumber": "133338",
+                                "originalJapaneseLine": "急ぐぞ！」",
+                                "translatedEnglishLine": "Let's hurry!\""
+                            },
+                            {
+                                "lineNumber": "133339",
+                                "originalJapaneseLine": "「だー！　なんてうっとうしい奴だ！",
+                                "translatedEnglishLine": "\"Daa! What an annoying guy!"
+                            },
+                            {
+                                "lineNumber": "133340",
+                                "originalJapaneseLine": "硬すぎるぞー！」",
+                                "translatedEnglishLine": "He's way too tough!\""
+                            },
+                            {
+                                "lineNumber": "133341",
+                                "originalJapaneseLine": "「す、すごい強いですね……」",
+                                "translatedEnglishLine": "\"He’s so, so strong...\""
+                            },
+                            {
+                                "lineNumber": "133342",
+                                "originalJapaneseLine": "「どうしますか、ランス様？」",
+                                "translatedEnglishLine": "\"What shall we do, Lord Rance?\""
+                            },
+                            {
+                                "lineNumber": "133343",
+                                "originalJapaneseLine": "「もうこいつの相手いやだ。",
+                                "translatedEnglishLine": "\"I'm done dealing with this guy."
+                            },
+                            {
+                                "lineNumber": "133344",
+                                "originalJapaneseLine": "めんどい」",
+                                "translatedEnglishLine": "It's a hassle.\""
+                            },
+                            {
+                                "lineNumber": "133345",
+                                "originalJapaneseLine": "「おい、サクラ。",
+                                "translatedEnglishLine": "\"Hey, Sakura."
+                            },
+                            {
+                                "lineNumber": "133346",
+                                "originalJapaneseLine": "別の道はないのか？」",
+                                "translatedEnglishLine": "Isn’t there another path?\""
+                            },
+                            {
+                                "lineNumber": "133347",
+                                "originalJapaneseLine": "「少し回り道になりますが……」",
+                                "translatedEnglishLine": "\"It’s a bit of a detour, but...\""
+                            },
+                            {
+                                "lineNumber": "133348",
+                                "originalJapaneseLine": "「こいつの相手するよりマシだ。",
+                                "translatedEnglishLine": "\"Better than dealing with this one."
+                            },
+                            {
+                                "lineNumber": "133349",
+                                "originalJapaneseLine": "そっちで行くぞ」",
+                                "translatedEnglishLine": "Let's go that way.\""
+                            },
+                            {
+                                "lineNumber": "133350",
+                                "originalJapaneseLine": "「はい」",
+                                "translatedEnglishLine": "\"Yes.\""
+                            },
+                            {
+                                "lineNumber": "133351",
+                                "originalJapaneseLine": "洞窟を進むランス達の耳に、なにかが届く。",
+                                "translatedEnglishLine": "As Rance and the others proceeded through the cave, something reached their ears."
+                            },
+                            {
+                                "lineNumber": "133352",
+                                "originalJapaneseLine": "「……………………」",
+                                "translatedEnglishLine": "\"....................\""
+                            },
+                            {
+                                "lineNumber": "133353",
+                                "originalJapaneseLine": "「……おい、シィル。",
+                                "translatedEnglishLine": "\"...Hey, Sheila."
+                            },
+                            {
+                                "lineNumber": "133354",
+                                "originalJapaneseLine": "今、何か音しなかったか？」",
+                                "translatedEnglishLine": "Did you hear something just now?\""
+                            },
+                            {
+                                "lineNumber": "133355",
+                                "originalJapaneseLine": "「は、はい……何かは分かりませんが、",
+                                "translatedEnglishLine": "\"Y-Yes... I’m not sure what it was,"
+                            },
+                            {
+                                "lineNumber": "133356",
+                                "originalJapaneseLine": "ずぅっと後ろの方で何か音がしたような……」",
+                                "translatedEnglishLine": "but it sounded like something at the far back...\""
+                            },
+                            {
+                                "lineNumber": "133357",
+                                "originalJapaneseLine": ".",
+                                "translatedEnglishLine": "."
+                            },
+                            {
+                                "lineNumber": "133358",
+                                "originalJapaneseLine": "＜ずぅぅぅん……ずず……＞",
+                                "translatedEnglishLine": "<Duuuuun... zzz...>"
+                            },
+                            {
+                                "lineNumber": "133359",
+                                "originalJapaneseLine": "洞窟が小さく揺れ、",
+                                "translatedEnglishLine": "The cave trembled slightly,"
+                            },
+                            {
+                                "lineNumber": "133360",
+                                "originalJapaneseLine": "パラパラと天井から砂が落ちてきた。",
+                                "translatedEnglishLine": "and sand fell trickling from the ceiling."
+                            },
+                            {
+                                "lineNumber": "133361",
+                                "originalJapaneseLine": "「あっ、今のはハッキリ聞こえました！",
+                                "translatedEnglishLine": "\"Ah, I clearly heard that just now!"
+                            },
+                            {
+                                "lineNumber": "133362",
+                                "originalJapaneseLine": "何か爆発するような音でしたよ！？」",
+                                "translatedEnglishLine": "It sounded like some kind of explosion!?\""
+                            },
+                            {
+                                "lineNumber": "133363",
+                                "originalJapaneseLine": "「最後尾でなにかあったか？」",
+                                "translatedEnglishLine": "\"Did something happen at the rear?\""
+                            },
+                            {
+                                "lineNumber": "133364",
+                                "originalJapaneseLine": "「大変、大変！　ランス、大変よ！」",
+                                "translatedEnglishLine": "\"It's bad, bad! Rance, it's bad!\""
+                            },
+                            {
+                                "lineNumber": "133365",
+                                "originalJapaneseLine": "そのとき、かなみがランス達の前に着地した。",
+                                "translatedEnglishLine": "At that moment, Kanami landed in front of Rance and the others."
+                            },
+                            {
+                                "lineNumber": "133366",
+                                "originalJapaneseLine": "「おお、かなみ、どうした。",
+                                "translatedEnglishLine": "\"Oh, Kanami, what’s wrong?"
+                            },
+                            {
+                                "lineNumber": "133367",
+                                "originalJapaneseLine": "今、最後尾の様子を見に行かせようかと",
+                                "translatedEnglishLine": "I was just about to send someone to check on the rear."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 752,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1780,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 2532
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「おー」\",\"translatedEnglishLine\":\"\\\"Oh—\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"リセットが後ろに下がり、パステルと手を繋いだ。\",\"translatedEnglishLine\":\"Reset stepped back and held Pastel's hand.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「えへへ、おとーさんとお話してきちゃった」\",\"translatedEnglishLine\":\"\\\"Ehehe, I went and talked with Daddy.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「ぐぐぐ……あの男……調子に乗りおって……ッ！」\",\"translatedEnglishLine\":\"\\\"Grrr... That man... getting cocky...!\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「？　おかーさん、どうして怒ってるの？」\",\"translatedEnglishLine\":\"\\\"? Mom, why are you angry?\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「やかましい、やかましい、ふんっ、ふんっ」\",\"translatedEnglishLine\":\"\\\"Noisy, noisy, hmph, hmph.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"拗ねたパステルはぷいっとそっぽを向いた。\",\"translatedEnglishLine\":\"Sulking, Pastel turned away with a pout.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「いーこ、いーこ」\",\"translatedEnglishLine\":\"\\\"Good girl, good girl.\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"リセットに頭を撫でられ、\",\"translatedEnglishLine\":\"Reset patted her head,\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"パステルが落ち着きを取り戻す。\",\"translatedEnglishLine\":\"and Pastel regained her composure.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「…………ふんっ」\",\"translatedEnglishLine\":\"\\\"...Hmph.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"2000人のカラーが洞窟の中を静かに進んでいく。\",\"translatedEnglishLine\":\"Two thousand soldiers quietly advanced through the cave.\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「パステル様！\",\"translatedEnglishLine\":\"\\\"Lady Pastel!\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"ペンシルカウに魔軍が来ました！」\",\"translatedEnglishLine\":\"The demon army has come to Pencil Cow!\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「遂に村が見つかったか……\",\"translatedEnglishLine\":\"\\\"The village has finally been found...\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"では、ここも？」\",\"translatedEnglishLine\":\"Then, what about here?\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「ご安心下さい、村に仕掛けたトラップにかかり、\",\"translatedEnglishLine\":\"\\\"Please rest assured, they've been caught by the traps set in the village,\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"まだこの洞窟の発見には至ってはいないようです」\",\"translatedEnglishLine\":\"and it seems they have not yet discovered this cave.\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ただ、いずれは気づかれるかと……」\",\"translatedEnglishLine\":\"\\\"However, they will probably notice sooner or later...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「ちっ、面倒な。\",\"translatedEnglishLine\":\"\\\"Tch, what a pain.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"急ぐぞ！」\",\"translatedEnglishLine\":\"Let's hurry!\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「だー！　なんてうっとうしい奴だ！\",\"translatedEnglishLine\":\"\\\"Daa! What an annoying guy!\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"硬すぎるぞー！」\",\"translatedEnglishLine\":\"He's way too tough!\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「す、すごい強いですね……」\",\"translatedEnglishLine\":\"\\\"He’s so, so strong...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「どうしますか、ランス様？」\",\"translatedEnglishLine\":\"\\\"What shall we do, Lord Rance?\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「もうこいつの相手いやだ。\",\"translatedEnglishLine\":\"\\\"I'm done dealing with this guy.\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"めんどい」\",\"translatedEnglishLine\":\"It's a hassle.\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「おい、サクラ。\",\"translatedEnglishLine\":\"\\\"Hey, Sakura.\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"別の道はないのか？」\",\"translatedEnglishLine\":\"Isn’t there another path?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「少し回り道になりますが……」\",\"translatedEnglishLine\":\"\\\"It’s a bit of a detour, but...\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「こいつの相手するよりマシだ。\",\"translatedEnglishLine\":\"\\\"Better than dealing with this one.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"そっちで行くぞ」\",\"translatedEnglishLine\":\"Let's go that way.\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「はい」\",\"translatedEnglishLine\":\"\\\"Yes.\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"洞窟を進むランス達の耳に、なにかが届く。\",\"translatedEnglishLine\":\"As Rance and the others proceeded through the cave, something reached their ears.\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「……………………」\",\"translatedEnglishLine\":\"\\\"....................\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「……おい、シィル。\",\"translatedEnglishLine\":\"\\\"...Hey, Sheila.\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"今、何か音しなかったか？」\",\"translatedEnglishLine\":\"Did you hear something just now?\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「は、はい……何かは分かりませんが、\",\"translatedEnglishLine\":\"\\\"Y-Yes... I’m not sure what it was,\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"ずぅっと後ろの方で何か音がしたような……」\",\"translatedEnglishLine\":\"but it sounded like something at the far back...\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\".\",\"translatedEnglishLine\":\".\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"＜ずぅぅぅん……ずず……＞\",\"translatedEnglishLine\":\"<Duuuuun... zzz...>\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"洞窟が小さく揺れ、\",\"translatedEnglishLine\":\"The cave trembled slightly,\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"パラパラと天井から砂が落ちてきた。\",\"translatedEnglishLine\":\"and sand fell trickling from the ceiling.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「あっ、今のはハッキリ聞こえました！\",\"translatedEnglishLine\":\"\\\"Ah, I clearly heard that just now!\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"何か爆発するような音でしたよ！？」\",\"translatedEnglishLine\":\"It sounded like some kind of explosion!?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「最後尾でなにかあったか？」\",\"translatedEnglishLine\":\"\\\"Did something happen at the rear?\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「大変、大変！　ランス、大変よ！」\",\"translatedEnglishLine\":\"\\\"It's bad, bad! Rance, it's bad!\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"そのとき、かなみがランス達の前に着地した。\",\"translatedEnglishLine\":\"At that moment, Kanami landed in front of Rance and the others.\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「おお、かなみ、どうした。\",\"translatedEnglishLine\":\"\\\"Oh, Kanami, what’s wrong?\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"今、最後尾の様子を見に行かせようかと\",\"translatedEnglishLine\":\"I was just about to send someone to check on the rear.\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "133318",
+                "originalJapaneseLine": "「おー」",
+                "translatedEnglishLine": "\"Oh—\""
+            },
+            {
+                "lineNumber": "133319",
+                "originalJapaneseLine": "リセットが後ろに下がり、パステルと手を繋いだ。",
+                "translatedEnglishLine": "Reset stepped back and held Pastel's hand."
+            },
+            {
+                "lineNumber": "133320",
+                "originalJapaneseLine": "「えへへ、おとーさんとお話してきちゃった」",
+                "translatedEnglishLine": "\"Ehehe, I went and talked with Daddy.\""
+            },
+            {
+                "lineNumber": "133321",
+                "originalJapaneseLine": "「ぐぐぐ……あの男……調子に乗りおって……ッ！」",
+                "translatedEnglishLine": "\"Grrr... That man... getting cocky...!\""
+            },
+            {
+                "lineNumber": "133322",
+                "originalJapaneseLine": "「？　おかーさん、どうして怒ってるの？」",
+                "translatedEnglishLine": "\"? Mom, why are you angry?\""
+            },
+            {
+                "lineNumber": "133323",
+                "originalJapaneseLine": "「やかましい、やかましい、ふんっ、ふんっ」",
+                "translatedEnglishLine": "\"Noisy, noisy, hmph, hmph.\""
+            },
+            {
+                "lineNumber": "133324",
+                "originalJapaneseLine": "拗ねたパステルはぷいっとそっぽを向いた。",
+                "translatedEnglishLine": "Sulking, Pastel turned away with a pout."
+            },
+            {
+                "lineNumber": "133325",
+                "originalJapaneseLine": "「いーこ、いーこ」",
+                "translatedEnglishLine": "\"Good girl, good girl.\""
+            },
+            {
+                "lineNumber": "133326",
+                "originalJapaneseLine": "リセットに頭を撫でられ、",
+                "translatedEnglishLine": "Reset patted her head,"
+            },
+            {
+                "lineNumber": "133327",
+                "originalJapaneseLine": "パステルが落ち着きを取り戻す。",
+                "translatedEnglishLine": "and Pastel regained her composure."
+            },
+            {
+                "lineNumber": "133328",
+                "originalJapaneseLine": "「…………ふんっ」",
+                "translatedEnglishLine": "\"...Hmph.\""
+            },
+            {
+                "lineNumber": "133329",
+                "originalJapaneseLine": "2000人のカラーが洞窟の中を静かに進んでいく。",
+                "translatedEnglishLine": "Two thousand soldiers quietly advanced through the cave."
+            },
+            {
+                "lineNumber": "133330",
+                "originalJapaneseLine": "「パステル様！",
+                "translatedEnglishLine": "\"Lady Pastel!"
+            },
+            {
+                "lineNumber": "133331",
+                "originalJapaneseLine": "ペンシルカウに魔軍が来ました！」",
+                "translatedEnglishLine": "The demon army has come to Pencil Cow!\""
+            },
+            {
+                "lineNumber": "133332",
+                "originalJapaneseLine": "「遂に村が見つかったか……",
+                "translatedEnglishLine": "\"The village has finally been found..."
+            },
+            {
+                "lineNumber": "133333",
+                "originalJapaneseLine": "では、ここも？」",
+                "translatedEnglishLine": "Then, what about here?\""
+            },
+            {
+                "lineNumber": "133334",
+                "originalJapaneseLine": "「ご安心下さい、村に仕掛けたトラップにかかり、",
+                "translatedEnglishLine": "\"Please rest assured, they've been caught by the traps set in the village,"
+            },
+            {
+                "lineNumber": "133335",
+                "originalJapaneseLine": "まだこの洞窟の発見には至ってはいないようです」",
+                "translatedEnglishLine": "and it seems they have not yet discovered this cave.\""
+            },
+            {
+                "lineNumber": "133336",
+                "originalJapaneseLine": "「ただ、いずれは気づかれるかと……」",
+                "translatedEnglishLine": "\"However, they will probably notice sooner or later...\""
+            },
+            {
+                "lineNumber": "133337",
+                "originalJapaneseLine": "「ちっ、面倒な。",
+                "translatedEnglishLine": "\"Tch, what a pain."
+            },
+            {
+                "lineNumber": "133338",
+                "originalJapaneseLine": "急ぐぞ！」",
+                "translatedEnglishLine": "Let's hurry!\""
+            },
+            {
+                "lineNumber": "133339",
+                "originalJapaneseLine": "「だー！　なんてうっとうしい奴だ！",
+                "translatedEnglishLine": "\"Daa! What an annoying guy!"
+            },
+            {
+                "lineNumber": "133340",
+                "originalJapaneseLine": "硬すぎるぞー！」",
+                "translatedEnglishLine": "He's way too tough!\""
+            },
+            {
+                "lineNumber": "133341",
+                "originalJapaneseLine": "「す、すごい強いですね……」",
+                "translatedEnglishLine": "\"He’s so, so strong...\""
+            },
+            {
+                "lineNumber": "133342",
+                "originalJapaneseLine": "「どうしますか、ランス様？」",
+                "translatedEnglishLine": "\"What shall we do, Lord Rance?\""
+            },
+            {
+                "lineNumber": "133343",
+                "originalJapaneseLine": "「もうこいつの相手いやだ。",
+                "translatedEnglishLine": "\"I'm done dealing with this guy."
+            },
+            {
+                "lineNumber": "133344",
+                "originalJapaneseLine": "めんどい」",
+                "translatedEnglishLine": "It's a hassle.\""
+            },
+            {
+                "lineNumber": "133345",
+                "originalJapaneseLine": "「おい、サクラ。",
+                "translatedEnglishLine": "\"Hey, Sakura."
+            },
+            {
+                "lineNumber": "133346",
+                "originalJapaneseLine": "別の道はないのか？」",
+                "translatedEnglishLine": "Isn’t there another path?\""
+            },
+            {
+                "lineNumber": "133347",
+                "originalJapaneseLine": "「少し回り道になりますが……」",
+                "translatedEnglishLine": "\"It’s a bit of a detour, but...\""
+            },
+            {
+                "lineNumber": "133348",
+                "originalJapaneseLine": "「こいつの相手するよりマシだ。",
+                "translatedEnglishLine": "\"Better than dealing with this one."
+            },
+            {
+                "lineNumber": "133349",
+                "originalJapaneseLine": "そっちで行くぞ」",
+                "translatedEnglishLine": "Let's go that way.\""
+            },
+            {
+                "lineNumber": "133350",
+                "originalJapaneseLine": "「はい」",
+                "translatedEnglishLine": "\"Yes.\""
+            },
+            {
+                "lineNumber": "133351",
+                "originalJapaneseLine": "洞窟を進むランス達の耳に、なにかが届く。",
+                "translatedEnglishLine": "As Rance and the others proceeded through the cave, something reached their ears."
+            },
+            {
+                "lineNumber": "133352",
+                "originalJapaneseLine": "「……………………」",
+                "translatedEnglishLine": "\"....................\""
+            },
+            {
+                "lineNumber": "133353",
+                "originalJapaneseLine": "「……おい、シィル。",
+                "translatedEnglishLine": "\"...Hey, Sheila."
+            },
+            {
+                "lineNumber": "133354",
+                "originalJapaneseLine": "今、何か音しなかったか？」",
+                "translatedEnglishLine": "Did you hear something just now?\""
+            },
+            {
+                "lineNumber": "133355",
+                "originalJapaneseLine": "「は、はい……何かは分かりませんが、",
+                "translatedEnglishLine": "\"Y-Yes... I’m not sure what it was,"
+            },
+            {
+                "lineNumber": "133356",
+                "originalJapaneseLine": "ずぅっと後ろの方で何か音がしたような……」",
+                "translatedEnglishLine": "but it sounded like something at the far back...\""
+            },
+            {
+                "lineNumber": "133357",
+                "originalJapaneseLine": ".",
+                "translatedEnglishLine": "."
+            },
+            {
+                "lineNumber": "133358",
+                "originalJapaneseLine": "＜ずぅぅぅん……ずず……＞",
+                "translatedEnglishLine": "<Duuuuun... zzz...>"
+            },
+            {
+                "lineNumber": "133359",
+                "originalJapaneseLine": "洞窟が小さく揺れ、",
+                "translatedEnglishLine": "The cave trembled slightly,"
+            },
+            {
+                "lineNumber": "133360",
+                "originalJapaneseLine": "パラパラと天井から砂が落ちてきた。",
+                "translatedEnglishLine": "and sand fell trickling from the ceiling."
+            },
+            {
+                "lineNumber": "133361",
+                "originalJapaneseLine": "「あっ、今のはハッキリ聞こえました！",
+                "translatedEnglishLine": "\"Ah, I clearly heard that just now!"
+            },
+            {
+                "lineNumber": "133362",
+                "originalJapaneseLine": "何か爆発するような音でしたよ！？」",
+                "translatedEnglishLine": "It sounded like some kind of explosion!?\""
+            },
+            {
+                "lineNumber": "133363",
+                "originalJapaneseLine": "「最後尾でなにかあったか？」",
+                "translatedEnglishLine": "\"Did something happen at the rear?\""
+            },
+            {
+                "lineNumber": "133364",
+                "originalJapaneseLine": "「大変、大変！　ランス、大変よ！」",
+                "translatedEnglishLine": "\"It's bad, bad! Rance, it's bad!\""
+            },
+            {
+                "lineNumber": "133365",
+                "originalJapaneseLine": "そのとき、かなみがランス達の前に着地した。",
+                "translatedEnglishLine": "At that moment, Kanami landed in front of Rance and the others."
+            },
+            {
+                "lineNumber": "133366",
+                "originalJapaneseLine": "「おお、かなみ、どうした。",
+                "translatedEnglishLine": "\"Oh, Kanami, what’s wrong?"
+            },
+            {
+                "lineNumber": "133367",
+                "originalJapaneseLine": "今、最後尾の様子を見に行かせようかと",
+                "translatedEnglishLine": "I was just about to send someone to check on the rear."
+            }
+        ]
+    }
+}

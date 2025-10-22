@@ -1,7 +1,7 @@
 import { OpenAI } from "openai";
 import { promises as fs } from "fs";
-import {OPENAI_API_KEY} from "./modules/openai_api_key";
-import {translateNextChunk} from "./modules/OpenAiTranslator";
+import {OPENAI_API_KEY} from "../modules/openai_api_key";
+import {translateNextChunk} from "../modules/OpenAiTranslator";
 
 const inputJson = await fs.readFile("./Rance10.ain.json", "utf8");
 const inputMessages = JSON.parse(inputJson);

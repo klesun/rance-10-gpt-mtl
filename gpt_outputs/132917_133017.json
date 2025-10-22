@@ -1,0 +1,1119 @@
+{
+    "id": "resp_0faa08905360cd7a0068f4a96e7d0c8195b6c279b09e9eabb3",
+    "object": "response",
+    "created_at": 1760864622,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0faa08905360cd7a0068f4a96f144881958c455d32e6b542b7",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「わーい、もふもふ、もこもこ」\",\"translatedEnglishLine\":\"\\\"Yay, fluffy and soft\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「ふふふ……」\",\"translatedEnglishLine\":\"\\\"Hehehe...\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「だー、こらこらこら！\",\"translatedEnglishLine\":\"\\\"Hey, hey, hey!\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"リセット！　人間に懐くでないわ！」\",\"translatedEnglishLine\":\"\\\"Reset! Don’t get attached to humans!\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「ではなくて……」\",\"translatedEnglishLine\":\"\\\"That's not it...\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「何故貴様がここにおる」\",\"translatedEnglishLine\":\"\\\"Why are you here?\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「そんなことはどうでもいいわい」\",\"translatedEnglishLine\":\"\\\"That doesn't matter.\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「あいたぁっ！？」\",\"translatedEnglishLine\":\"\\\"Ouch!?\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「ちょ、チョップしおったな……\",\"translatedEnglishLine\":\"\\\"You just did a chop...\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"こ、この、誇り高きカラーの女王の頭に……」\",\"translatedEnglishLine\":\"\\\"On the head of the proud Queen of Colars...\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「お前らここでのんびりと何しとる」\",\"translatedEnglishLine\":\"\\\"What are you all leisurely doing here?\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「何しとるって……」\",\"translatedEnglishLine\":\"\\\"Doing? Well...\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「敵は大軍団なんだぞ、\",\"translatedEnglishLine\":\"\\\"The enemy is a huge army,\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"森の侵入結界でも隠しきれんだろ。\",\"translatedEnglishLine\":\"\\\"You can't even hide it with the forest intrusion barrier.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"なんで誰も逃げる準備もしていない」\",\"translatedEnglishLine\":\"\\\"Why is no one preparing to escape?\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「ふ、ふん、そんなことは分かっておるわ！」\",\"translatedEnglishLine\":\"\\\"Hmph! I know that already!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「何を考えとるのか知らんが、\",\"translatedEnglishLine\":\"\\\"I don't know what you're thinking, but,\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"村を捨ててすぐに逃げるぞ」\",\"translatedEnglishLine\":\"I'm going to abandon the village and run away immediately.\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「この村を捨てるじゃと！？\",\"translatedEnglishLine\":\"\\\"Abandon this village!?\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"馬鹿を申すな！　このたわけが！\",\"translatedEnglishLine\":\"Don't be foolish, you idiot!\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「この村は先祖代々が守り続けたペンシルカウ！」\",\"translatedEnglishLine\":\"\\\"This village, Pensilcow, has been protected by our ancestors for generations!\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「始祖様を始めとした、この村を作った者達が、\",\"translatedEnglishLine\":\"\\\"Our founders and those who built this village,\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"どれほどの苦労をしたと思っておるのじゃ！」\",\"translatedEnglishLine\":\"do you have any idea how much hardship they endured!?\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「あー……\",\"translatedEnglishLine\":\"\\\"Ah...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"やっぱり、そういうこと考えてたか」\",\"translatedEnglishLine\":\"So you were thinking that after all.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「む、なんじゃ……\",\"translatedEnglishLine\":\"\\\"Hm? What is it...\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"そのアホを見るような目は……」\",\"translatedEnglishLine\":\"Those eyes that look at me like I’m an idiot...\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「アホ」\",\"translatedEnglishLine\":\"\\\"Idiot.\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「なあっ！？」\",\"translatedEnglishLine\":\"\\\"Hey!?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「それで全員お陀仏になったら意味ないだろうが」\",\"translatedEnglishLine\":\"\\\"If everyone dies because of that, it’s meaningless.\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「やかましい！　やかましい！\",\"translatedEnglishLine\":\"\\\"Shut up! Shut up!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"とにかく人間の言うこと……\",\"translatedEnglishLine\":\"Anyway, what humans say...\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"それも貴様の言うことなんぞ絶対に聞かんわ！」\",\"translatedEnglishLine\":\"I absolutely won’t listen to anything you say!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「……その、パステル様はずっとこの調子で」\",\"translatedEnglishLine\":\"\\\"...Well, Pastel-sama has been like this all along.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「む、君は確かパステルの部下の子。\",\"translatedEnglishLine\":\"\\\"Hmm, you are certainly Pastel’s subordinate child.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"そうか、ずっとこの調子か……」\",\"translatedEnglishLine\":\"I see, you’ve been like this the whole time...\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「いっそ、パステルだけ置いて\",\"translatedEnglishLine\":\"\\\"Would it be better to just leave Pastel behind\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"他の皆だけで逃げるか」\",\"translatedEnglishLine\":\"and let everyone else escape?\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「アホか！」\",\"translatedEnglishLine\":\"\\\"Are you an idiot!?\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「さすがにそういうわけには……」\",\"translatedEnglishLine\":\"\\\"That’s definitely not an option...\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「……仕方ないな、そこまで言うなら分かった。\",\"translatedEnglishLine\":\"\\\"...It can’t be helped, if you say so. I understand.\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"無理強いはせん」\",\"translatedEnglishLine\":\"I won't force you.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「む、う？　いつになく素直な……」\",\"translatedEnglishLine\":\"\\\"Hmm? Unusually obedient...\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「俺様、ちょっと小便」\",\"translatedEnglishLine\":\"\\\"I’m gonna take a little piss.\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「あ、おい、どこへ……ッ！？」\",\"translatedEnglishLine\":\"\\\"Ah, hey, where are you going...?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"ランスが部屋を出て行った。\",\"translatedEnglishLine\":\"Rance left the room.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"五分後――\",\"translatedEnglishLine\":\"Five minutes later—\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「あの男……まだ戻ってこんのか……？」\",\"translatedEnglishLine\":\"\\\"That man... hasn't come back yet...?\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「ええい、近くにいると鬱陶しい癖に、\",\"translatedEnglishLine\":\"\\\"Ugh, he’s annoying when nearby,\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"姿が見えぬとそれはそれでおっかない奴め」\",\"translatedEnglishLine\":\"but when out of sight, he’s scary too.\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「ぱ、パステル様！　大変です！」\",\"translatedEnglishLine\":\"\\\"P-Pastel-sama! It’s terrible!\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「なんじゃ！？　まさか、ついに魔軍が……！？」\",\"translatedEnglishLine\":\"\\\"What!? Could it be that the demon army has finally...!?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「い、いえ、違います、とにかくすぐ外へ……ッ！」\",\"translatedEnglishLine\":\"\\\"N-no, it’s not that. Just get outside immediately...!\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「いったい何が……？」\",\"translatedEnglishLine\":\"\\\"What on earth is... going on?\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"＜メラメラ、メラメラ……＞\",\"translatedEnglishLine\":\"<Flames crackling...> \"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「わぁーーーーッ！\",\"translatedEnglishLine\":\"\\\"Waaaaaah!\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"むむむ、村が燃えておる！　村が燃えておるー！」\",\"translatedEnglishLine\":\"\\\"Mmm, the village is burning! The village is burning!\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"村が燃えていた。\",\"translatedEnglishLine\":\"The village was on fire.\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「燃やしたのは俺だーッ！」\",\"translatedEnglishLine\":\"\\\"I’m the one who set it on fire!\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「アホかーーーーーーーッ！」\",\"translatedEnglishLine\":\"\\\"Are you an idiot!?!?!\\\"\"},{\"lineNumber\":61,\"originalJapaneseLine\":\"「私も手伝いました」\",\"translatedEnglishLine\":\"\\\"I helped too.\\\"\"},{\"lineNumber\":62,\"originalJapaneseLine\":\"「法王！　貴様は何度カラーの村を\",\"translatedEnglishLine\":\"\\\"Pope! How many times must you put the Colar village in danger—\\\"\"},{\"lineNumber\":63,\"originalJapaneseLine\":\"危機に陥れれば気が済むんじゃ――！」\",\"translatedEnglishLine\":\"before you’re satisfied!?\\\"\"},{\"lineNumber\":64,\"originalJapaneseLine\":\"「火はいいですね……\",\"translatedEnglishLine\":\"\\\"Fire is nice, isn’t it...?\"},{\"lineNumber\":65,\"originalJapaneseLine\":\"ワクワクします……」\",\"translatedEnglishLine\":\"It makes me excited...\\\"\"},{\"lineNumber\":66,\"originalJapaneseLine\":\"「聞かんかー！　今度こそ完膚無きまでに殺すー！」\",\"translatedEnglishLine\":\"\\\"Won’t you listen!? This time, I will kill you utterly!\\\"\"},{\"lineNumber\":67,\"originalJapaneseLine\":\"「これでそのうち魔物にここがバレる。\",\"translatedEnglishLine\":\"\\\"Now the demons will eventually discover this place.\"},{\"lineNumber\":68,\"originalJapaneseLine\":\"すぐに逃げないと、大変なことになるなー」\",\"translatedEnglishLine\":\"If we don’t escape quickly, it’s going to be bad.\\\"\"},{\"lineNumber\":69,\"originalJapaneseLine\":\"「うわぁーん！　アホかー！　おのれはアホかー！」\",\"translatedEnglishLine\":\"\\\"Waaaaah! Are you an idiot!? You are an idiot!?\\\"\"},{\"lineNumber\":70,\"originalJapaneseLine\":\"「えーい、泣くな、泣くな。\",\"translatedEnglishLine\":\"\\\"Hey, don’t cry, don’t cry.\"},{\"lineNumber\":71,\"originalJapaneseLine\":\"泣いてる暇はないぞ」\",\"translatedEnglishLine\":\"There’s no time to cry.\\\"\"},{\"lineNumber\":72,\"originalJapaneseLine\":\"「これで逃げるしか選択肢はなくなった。\",\"translatedEnglishLine\":\"\\\"Now there’s no choice but to run away.\"},{\"lineNumber\":73,\"originalJapaneseLine\":\"さあ、どうする」\",\"translatedEnglishLine\":\"Now, what will you do?\\\"\"},{\"lineNumber\":74,\"originalJapaneseLine\":\"「くっ、くぅぅぅ……この男は……」\",\"translatedEnglishLine\":\"\\\"Ugh, ughhh... this man...\\\"\"},{\"lineNumber\":75,\"originalJapaneseLine\":\"「おかーさん……」\",\"translatedEnglishLine\":\"\\\"Mom...\\\"\"},{\"lineNumber\":76,\"originalJapaneseLine\":\"リセットが心配そうに\",\"translatedEnglishLine\":\"Reset anxiously\"},{\"lineNumber\":77,\"originalJapaneseLine\":\"パステルのスカートをつまんだ。\",\"translatedEnglishLine\":\"pinched Pastel’s skirt.\"},{\"lineNumber\":78,\"originalJapaneseLine\":\"「ぐっ……ぐぅうぅぅう〜〜〜……」\",\"translatedEnglishLine\":\"\\\"Ugh... guuuuu...\\\"\"},{\"lineNumber\":79,\"originalJapaneseLine\":\"カクンとパステルは首を垂れた。\",\"translatedEnglishLine\":\"Pastel dropped her head with a thud.\"},{\"lineNumber\":80,\"originalJapaneseLine\":\"「……ペンシルカウを……ぐっ、放棄する……」\",\"translatedEnglishLine\":\"\\\"...We will... abandon Pensilcow...\\\"\"},{\"lineNumber\":81,\"originalJapaneseLine\":\"「皆の者、女王の言葉を聞きましたね！\",\"translatedEnglishLine\":\"\\\"Everyone, you heard the queen’s words!\"},{\"lineNumber\":82,\"originalJapaneseLine\":\"すぐに避難の用意を！」\",\"translatedEnglishLine\":\"Prepare to evacuate immediately!\\\"\"},{\"lineNumber\":83,\"originalJapaneseLine\":\"サクラの言葉に、村中にいたカラーの一族が\",\"translatedEnglishLine\":\"At Sakura’s words, the Colar clan throughout the village\"},{\"lineNumber\":84,\"originalJapaneseLine\":\"逃亡の準備を始める。\",\"translatedEnglishLine\":\"began preparing to flee.\"},{\"lineNumber\":85,\"originalJapaneseLine\":\"「おーおー、騒がしくなってきたな」\",\"translatedEnglishLine\":\"\\\"Oh my, it’s getting noisy.\\\"\"},{\"lineNumber\":86,\"originalJapaneseLine\":\"「パステル様は神具の用意を」\",\"translatedEnglishLine\":\"\\\"Pastel-sama, prepare the sacred relics.\\\"\"},{\"lineNumber\":87,\"originalJapaneseLine\":\"「うむ」\",\"translatedEnglishLine\":\"\\\"Yes.\\\"\"},{\"lineNumber\":88,\"originalJapaneseLine\":\"「神具？」\",\"translatedEnglishLine\":\"\\\"Sacred relics?\\\"\"},{\"lineNumber\":89,\"originalJapaneseLine\":\"ランス達はペンシルカウのすぐ近くの\",\"translatedEnglishLine\":\"Rance and the others stepped inside a cave near Pensilcow.\"},{\"lineNumber\":90,\"originalJapaneseLine\":\"洞窟の中に足を踏み入れていた。\",\"translatedEnglishLine\":\"They entered the cave.\"},{\"lineNumber\":91,\"originalJapaneseLine\":\"「おい、こんな場所になんの用事だ？」\",\"translatedEnglishLine\":\"\\\"Hey, what business do you have in a place like this?\\\"\"},{\"lineNumber\":92,\"originalJapaneseLine\":\"「ついてくるなーーーッ！」\",\"translatedEnglishLine\":\"\\\"Don’t follow me!\\\"\"},{\"lineNumber\":93,\"originalJapaneseLine\":\"「ええい、洞窟内でキンキン騒ぐな」\",\"translatedEnglishLine\":\"\\\"Ugh, don’t make so much noise inside the cave.\\\"\"},{\"lineNumber\":94,\"originalJapaneseLine\":\"「えーと、ここは確か……」\",\"translatedEnglishLine\":\"\\\"Umm, this is certainly...\\\"\"},{\"lineNumber\":95,\"originalJapaneseLine\":\"「おばーちゃん達がいる場所だよ」\",\"translatedEnglishLine\":\"\\\"The place where the grandmas are.\\\"\"},{\"lineNumber\":96,\"originalJapaneseLine\":\"「そーだそーだ、\",\"translatedEnglishLine\":\"\\\"Yeah, that's right,\"},{\"lineNumber\":97,\"originalJapaneseLine\":\"カラー歴代の女王の霊が眠ってる場所だ」\",\"translatedEnglishLine\":\"Where the spirits of Colar’s past queens rest.\\\"\"},{\"lineNumber\":98,\"originalJapaneseLine\":\"「ということは」\",\"translatedEnglishLine\":\"\\\"Which means...\\\"\"},{\"lineNumber\":99,\"originalJapaneseLine\":\"聖地に入った途端、\",\"translatedEnglishLine\":\"The moment they entered the sacred land,\"},{\"lineNumber\":100,\"originalJapaneseLine\":\"\",\"translatedEnglishLine\":\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "132918",
+                                "originalJapaneseLine": "「わーい、もふもふ、もこもこ」",
+                                "translatedEnglishLine": "\"Yay, fluffy and soft\""
+                            },
+                            {
+                                "lineNumber": "132919",
+                                "originalJapaneseLine": "「ふふふ……」",
+                                "translatedEnglishLine": "\"Hehehe...\""
+                            },
+                            {
+                                "lineNumber": "132920",
+                                "originalJapaneseLine": "「だー、こらこらこら！",
+                                "translatedEnglishLine": "\"Hey, hey, hey!\""
+                            },
+                            {
+                                "lineNumber": "132921",
+                                "originalJapaneseLine": "リセット！　人間に懐くでないわ！」",
+                                "translatedEnglishLine": "\"Reset! Don’t get attached to humans!\""
+                            },
+                            {
+                                "lineNumber": "132922",
+                                "originalJapaneseLine": "「ではなくて……」",
+                                "translatedEnglishLine": "\"That's not it...\""
+                            },
+                            {
+                                "lineNumber": "132923",
+                                "originalJapaneseLine": "「何故貴様がここにおる」",
+                                "translatedEnglishLine": "\"Why are you here?\""
+                            },
+                            {
+                                "lineNumber": "132924",
+                                "originalJapaneseLine": "「そんなことはどうでもいいわい」",
+                                "translatedEnglishLine": "\"That doesn't matter.\""
+                            },
+                            {
+                                "lineNumber": "132925",
+                                "originalJapaneseLine": "「あいたぁっ！？」",
+                                "translatedEnglishLine": "\"Ouch!?\""
+                            },
+                            {
+                                "lineNumber": "132926",
+                                "originalJapaneseLine": "「ちょ、チョップしおったな……",
+                                "translatedEnglishLine": "\"You just did a chop...\""
+                            },
+                            {
+                                "lineNumber": "132927",
+                                "originalJapaneseLine": "こ、この、誇り高きカラーの女王の頭に……」",
+                                "translatedEnglishLine": "\"On the head of the proud Queen of Colars...\""
+                            },
+                            {
+                                "lineNumber": "132928",
+                                "originalJapaneseLine": "「お前らここでのんびりと何しとる」",
+                                "translatedEnglishLine": "\"What are you all leisurely doing here?\""
+                            },
+                            {
+                                "lineNumber": "132929",
+                                "originalJapaneseLine": "「何しとるって……」",
+                                "translatedEnglishLine": "\"Doing? Well...\""
+                            },
+                            {
+                                "lineNumber": "132930",
+                                "originalJapaneseLine": "「敵は大軍団なんだぞ、",
+                                "translatedEnglishLine": "\"The enemy is a huge army,\""
+                            },
+                            {
+                                "lineNumber": "132931",
+                                "originalJapaneseLine": "森の侵入結界でも隠しきれんだろ。",
+                                "translatedEnglishLine": "\"You can't even hide it with the forest intrusion barrier.\""
+                            },
+                            {
+                                "lineNumber": "132932",
+                                "originalJapaneseLine": "なんで誰も逃げる準備もしていない」",
+                                "translatedEnglishLine": "\"Why is no one preparing to escape?\""
+                            },
+                            {
+                                "lineNumber": "132933",
+                                "originalJapaneseLine": "「ふ、ふん、そんなことは分かっておるわ！」",
+                                "translatedEnglishLine": "\"Hmph! I know that already!\""
+                            },
+                            {
+                                "lineNumber": "132934",
+                                "originalJapaneseLine": "「何を考えとるのか知らんが、",
+                                "translatedEnglishLine": "\"I don't know what you're thinking, but,"
+                            },
+                            {
+                                "lineNumber": "132935",
+                                "originalJapaneseLine": "村を捨ててすぐに逃げるぞ」",
+                                "translatedEnglishLine": "I'm going to abandon the village and run away immediately.\""
+                            },
+                            {
+                                "lineNumber": "132936",
+                                "originalJapaneseLine": "「この村を捨てるじゃと！？",
+                                "translatedEnglishLine": "\"Abandon this village!?\""
+                            },
+                            {
+                                "lineNumber": "132937",
+                                "originalJapaneseLine": "馬鹿を申すな！　このたわけが！",
+                                "translatedEnglishLine": "Don't be foolish, you idiot!\""
+                            },
+                            {
+                                "lineNumber": "132938",
+                                "originalJapaneseLine": "「この村は先祖代々が守り続けたペンシルカウ！」",
+                                "translatedEnglishLine": "\"This village, Pensilcow, has been protected by our ancestors for generations!\""
+                            },
+                            {
+                                "lineNumber": "132939",
+                                "originalJapaneseLine": "「始祖様を始めとした、この村を作った者達が、",
+                                "translatedEnglishLine": "\"Our founders and those who built this village,"
+                            },
+                            {
+                                "lineNumber": "132940",
+                                "originalJapaneseLine": "どれほどの苦労をしたと思っておるのじゃ！」",
+                                "translatedEnglishLine": "do you have any idea how much hardship they endured!?\""
+                            },
+                            {
+                                "lineNumber": "132941",
+                                "originalJapaneseLine": "「あー……",
+                                "translatedEnglishLine": "\"Ah...\""
+                            },
+                            {
+                                "lineNumber": "132942",
+                                "originalJapaneseLine": "やっぱり、そういうこと考えてたか」",
+                                "translatedEnglishLine": "So you were thinking that after all.\""
+                            },
+                            {
+                                "lineNumber": "132943",
+                                "originalJapaneseLine": "「む、なんじゃ……",
+                                "translatedEnglishLine": "\"Hm? What is it...\""
+                            },
+                            {
+                                "lineNumber": "132944",
+                                "originalJapaneseLine": "そのアホを見るような目は……」",
+                                "translatedEnglishLine": "Those eyes that look at me like I’m an idiot...\""
+                            },
+                            {
+                                "lineNumber": "132945",
+                                "originalJapaneseLine": "「アホ」",
+                                "translatedEnglishLine": "\"Idiot.\""
+                            },
+                            {
+                                "lineNumber": "132946",
+                                "originalJapaneseLine": "「なあっ！？」",
+                                "translatedEnglishLine": "\"Hey!?\""
+                            },
+                            {
+                                "lineNumber": "132947",
+                                "originalJapaneseLine": "「それで全員お陀仏になったら意味ないだろうが」",
+                                "translatedEnglishLine": "\"If everyone dies because of that, it’s meaningless.\""
+                            },
+                            {
+                                "lineNumber": "132948",
+                                "originalJapaneseLine": "「やかましい！　やかましい！",
+                                "translatedEnglishLine": "\"Shut up! Shut up!\""
+                            },
+                            {
+                                "lineNumber": "132949",
+                                "originalJapaneseLine": "とにかく人間の言うこと……",
+                                "translatedEnglishLine": "Anyway, what humans say..."
+                            },
+                            {
+                                "lineNumber": "132950",
+                                "originalJapaneseLine": "それも貴様の言うことなんぞ絶対に聞かんわ！」",
+                                "translatedEnglishLine": "I absolutely won’t listen to anything you say!\""
+                            },
+                            {
+                                "lineNumber": "132951",
+                                "originalJapaneseLine": "「……その、パステル様はずっとこの調子で」",
+                                "translatedEnglishLine": "\"...Well, Pastel-sama has been like this all along.\""
+                            },
+                            {
+                                "lineNumber": "132952",
+                                "originalJapaneseLine": "「む、君は確かパステルの部下の子。",
+                                "translatedEnglishLine": "\"Hmm, you are certainly Pastel’s subordinate child."
+                            },
+                            {
+                                "lineNumber": "132953",
+                                "originalJapaneseLine": "そうか、ずっとこの調子か……」",
+                                "translatedEnglishLine": "I see, you’ve been like this the whole time...\""
+                            },
+                            {
+                                "lineNumber": "132954",
+                                "originalJapaneseLine": "「いっそ、パステルだけ置いて",
+                                "translatedEnglishLine": "\"Would it be better to just leave Pastel behind"
+                            },
+                            {
+                                "lineNumber": "132955",
+                                "originalJapaneseLine": "他の皆だけで逃げるか」",
+                                "translatedEnglishLine": "and let everyone else escape?\""
+                            },
+                            {
+                                "lineNumber": "132956",
+                                "originalJapaneseLine": "「アホか！」",
+                                "translatedEnglishLine": "\"Are you an idiot!?\""
+                            },
+                            {
+                                "lineNumber": "132957",
+                                "originalJapaneseLine": "「さすがにそういうわけには……」",
+                                "translatedEnglishLine": "\"That’s definitely not an option...\""
+                            },
+                            {
+                                "lineNumber": "132958",
+                                "originalJapaneseLine": "「……仕方ないな、そこまで言うなら分かった。",
+                                "translatedEnglishLine": "\"...It can’t be helped, if you say so. I understand.\""
+                            },
+                            {
+                                "lineNumber": "132959",
+                                "originalJapaneseLine": "無理強いはせん」",
+                                "translatedEnglishLine": "I won't force you.\""
+                            },
+                            {
+                                "lineNumber": "132960",
+                                "originalJapaneseLine": "「む、う？　いつになく素直な……」",
+                                "translatedEnglishLine": "\"Hmm? Unusually obedient...\""
+                            },
+                            {
+                                "lineNumber": "132961",
+                                "originalJapaneseLine": "「俺様、ちょっと小便」",
+                                "translatedEnglishLine": "\"I’m gonna take a little piss.\""
+                            },
+                            {
+                                "lineNumber": "132962",
+                                "originalJapaneseLine": "「あ、おい、どこへ……ッ！？」",
+                                "translatedEnglishLine": "\"Ah, hey, where are you going...?\""
+                            },
+                            {
+                                "lineNumber": "132963",
+                                "originalJapaneseLine": "ランスが部屋を出て行った。",
+                                "translatedEnglishLine": "Rance left the room."
+                            },
+                            {
+                                "lineNumber": "132964",
+                                "originalJapaneseLine": "五分後――",
+                                "translatedEnglishLine": "Five minutes later—"
+                            },
+                            {
+                                "lineNumber": "132965",
+                                "originalJapaneseLine": "「あの男……まだ戻ってこんのか……？」",
+                                "translatedEnglishLine": "\"That man... hasn't come back yet...?\""
+                            },
+                            {
+                                "lineNumber": "132966",
+                                "originalJapaneseLine": "「ええい、近くにいると鬱陶しい癖に、",
+                                "translatedEnglishLine": "\"Ugh, he’s annoying when nearby,"
+                            },
+                            {
+                                "lineNumber": "132967",
+                                "originalJapaneseLine": "姿が見えぬとそれはそれでおっかない奴め」",
+                                "translatedEnglishLine": "but when out of sight, he’s scary too.\""
+                            },
+                            {
+                                "lineNumber": "132968",
+                                "originalJapaneseLine": "「ぱ、パステル様！　大変です！」",
+                                "translatedEnglishLine": "\"P-Pastel-sama! It’s terrible!\""
+                            },
+                            {
+                                "lineNumber": "132969",
+                                "originalJapaneseLine": "「なんじゃ！？　まさか、ついに魔軍が……！？」",
+                                "translatedEnglishLine": "\"What!? Could it be that the demon army has finally...!?\""
+                            },
+                            {
+                                "lineNumber": "132970",
+                                "originalJapaneseLine": "「い、いえ、違います、とにかくすぐ外へ……ッ！」",
+                                "translatedEnglishLine": "\"N-no, it’s not that. Just get outside immediately...!\""
+                            },
+                            {
+                                "lineNumber": "132971",
+                                "originalJapaneseLine": "「いったい何が……？」",
+                                "translatedEnglishLine": "\"What on earth is... going on?\""
+                            },
+                            {
+                                "lineNumber": "132972",
+                                "originalJapaneseLine": "＜メラメラ、メラメラ……＞",
+                                "translatedEnglishLine": "<Flames crackling...> "
+                            },
+                            {
+                                "lineNumber": "132973",
+                                "originalJapaneseLine": "「わぁーーーーッ！",
+                                "translatedEnglishLine": "\"Waaaaaah!\""
+                            },
+                            {
+                                "lineNumber": "132974",
+                                "originalJapaneseLine": "むむむ、村が燃えておる！　村が燃えておるー！」",
+                                "translatedEnglishLine": "\"Mmm, the village is burning! The village is burning!\""
+                            },
+                            {
+                                "lineNumber": "132975",
+                                "originalJapaneseLine": "村が燃えていた。",
+                                "translatedEnglishLine": "The village was on fire."
+                            },
+                            {
+                                "lineNumber": "132976",
+                                "originalJapaneseLine": "「燃やしたのは俺だーッ！」",
+                                "translatedEnglishLine": "\"I’m the one who set it on fire!\""
+                            },
+                            {
+                                "lineNumber": "132977",
+                                "originalJapaneseLine": "「アホかーーーーーーーッ！」",
+                                "translatedEnglishLine": "\"Are you an idiot!?!?!\""
+                            },
+                            {
+                                "lineNumber": "132978",
+                                "originalJapaneseLine": "「私も手伝いました」",
+                                "translatedEnglishLine": "\"I helped too.\""
+                            },
+                            {
+                                "lineNumber": "132979",
+                                "originalJapaneseLine": "「法王！　貴様は何度カラーの村を",
+                                "translatedEnglishLine": "\"Pope! How many times must you put the Colar village in danger—\""
+                            },
+                            {
+                                "lineNumber": "132980",
+                                "originalJapaneseLine": "危機に陥れれば気が済むんじゃ――！」",
+                                "translatedEnglishLine": "before you’re satisfied!?\""
+                            },
+                            {
+                                "lineNumber": "132981",
+                                "originalJapaneseLine": "「火はいいですね……",
+                                "translatedEnglishLine": "\"Fire is nice, isn’t it...?"
+                            },
+                            {
+                                "lineNumber": "132982",
+                                "originalJapaneseLine": "ワクワクします……」",
+                                "translatedEnglishLine": "It makes me excited...\""
+                            },
+                            {
+                                "lineNumber": "132983",
+                                "originalJapaneseLine": "「聞かんかー！　今度こそ完膚無きまでに殺すー！」",
+                                "translatedEnglishLine": "\"Won’t you listen!? This time, I will kill you utterly!\""
+                            },
+                            {
+                                "lineNumber": "132984",
+                                "originalJapaneseLine": "「これでそのうち魔物にここがバレる。",
+                                "translatedEnglishLine": "\"Now the demons will eventually discover this place."
+                            },
+                            {
+                                "lineNumber": "132985",
+                                "originalJapaneseLine": "すぐに逃げないと、大変なことになるなー」",
+                                "translatedEnglishLine": "If we don’t escape quickly, it’s going to be bad.\""
+                            },
+                            {
+                                "lineNumber": "132986",
+                                "originalJapaneseLine": "「うわぁーん！　アホかー！　おのれはアホかー！」",
+                                "translatedEnglishLine": "\"Waaaaah! Are you an idiot!? You are an idiot!?\""
+                            },
+                            {
+                                "lineNumber": "132987",
+                                "originalJapaneseLine": "「えーい、泣くな、泣くな。",
+                                "translatedEnglishLine": "\"Hey, don’t cry, don’t cry."
+                            },
+                            {
+                                "lineNumber": "132988",
+                                "originalJapaneseLine": "泣いてる暇はないぞ」",
+                                "translatedEnglishLine": "There’s no time to cry.\""
+                            },
+                            {
+                                "lineNumber": "132989",
+                                "originalJapaneseLine": "「これで逃げるしか選択肢はなくなった。",
+                                "translatedEnglishLine": "\"Now there’s no choice but to run away."
+                            },
+                            {
+                                "lineNumber": "132990",
+                                "originalJapaneseLine": "さあ、どうする」",
+                                "translatedEnglishLine": "Now, what will you do?\""
+                            },
+                            {
+                                "lineNumber": "132991",
+                                "originalJapaneseLine": "「くっ、くぅぅぅ……この男は……」",
+                                "translatedEnglishLine": "\"Ugh, ughhh... this man...\""
+                            },
+                            {
+                                "lineNumber": "132992",
+                                "originalJapaneseLine": "「おかーさん……」",
+                                "translatedEnglishLine": "\"Mom...\""
+                            },
+                            {
+                                "lineNumber": "132993",
+                                "originalJapaneseLine": "リセットが心配そうに",
+                                "translatedEnglishLine": "Reset anxiously"
+                            },
+                            {
+                                "lineNumber": "132994",
+                                "originalJapaneseLine": "パステルのスカートをつまんだ。",
+                                "translatedEnglishLine": "pinched Pastel’s skirt."
+                            },
+                            {
+                                "lineNumber": "132995",
+                                "originalJapaneseLine": "「ぐっ……ぐぅうぅぅう〜〜〜……」",
+                                "translatedEnglishLine": "\"Ugh... guuuuu...\""
+                            },
+                            {
+                                "lineNumber": "132996",
+                                "originalJapaneseLine": "カクンとパステルは首を垂れた。",
+                                "translatedEnglishLine": "Pastel dropped her head with a thud."
+                            },
+                            {
+                                "lineNumber": "132997",
+                                "originalJapaneseLine": "「……ペンシルカウを……ぐっ、放棄する……」",
+                                "translatedEnglishLine": "\"...We will... abandon Pensilcow...\""
+                            },
+                            {
+                                "lineNumber": "132998",
+                                "originalJapaneseLine": "「皆の者、女王の言葉を聞きましたね！",
+                                "translatedEnglishLine": "\"Everyone, you heard the queen’s words!"
+                            },
+                            {
+                                "lineNumber": "132999",
+                                "originalJapaneseLine": "すぐに避難の用意を！」",
+                                "translatedEnglishLine": "Prepare to evacuate immediately!\""
+                            },
+                            {
+                                "lineNumber": "133000",
+                                "originalJapaneseLine": "サクラの言葉に、村中にいたカラーの一族が",
+                                "translatedEnglishLine": "At Sakura’s words, the Colar clan throughout the village"
+                            },
+                            {
+                                "lineNumber": "133001",
+                                "originalJapaneseLine": "逃亡の準備を始める。",
+                                "translatedEnglishLine": "began preparing to flee."
+                            },
+                            {
+                                "lineNumber": "133002",
+                                "originalJapaneseLine": "「おーおー、騒がしくなってきたな」",
+                                "translatedEnglishLine": "\"Oh my, it’s getting noisy.\""
+                            },
+                            {
+                                "lineNumber": "133003",
+                                "originalJapaneseLine": "「パステル様は神具の用意を」",
+                                "translatedEnglishLine": "\"Pastel-sama, prepare the sacred relics.\""
+                            },
+                            {
+                                "lineNumber": "133004",
+                                "originalJapaneseLine": "「うむ」",
+                                "translatedEnglishLine": "\"Yes.\""
+                            },
+                            {
+                                "lineNumber": "133005",
+                                "originalJapaneseLine": "「神具？」",
+                                "translatedEnglishLine": "\"Sacred relics?\""
+                            },
+                            {
+                                "lineNumber": "133006",
+                                "originalJapaneseLine": "ランス達はペンシルカウのすぐ近くの",
+                                "translatedEnglishLine": "Rance and the others stepped inside a cave near Pensilcow."
+                            },
+                            {
+                                "lineNumber": "133007",
+                                "originalJapaneseLine": "洞窟の中に足を踏み入れていた。",
+                                "translatedEnglishLine": "They entered the cave."
+                            },
+                            {
+                                "lineNumber": "133008",
+                                "originalJapaneseLine": "「おい、こんな場所になんの用事だ？」",
+                                "translatedEnglishLine": "\"Hey, what business do you have in a place like this?\""
+                            },
+                            {
+                                "lineNumber": "133009",
+                                "originalJapaneseLine": "「ついてくるなーーーッ！」",
+                                "translatedEnglishLine": "\"Don’t follow me!\""
+                            },
+                            {
+                                "lineNumber": "133010",
+                                "originalJapaneseLine": "「ええい、洞窟内でキンキン騒ぐな」",
+                                "translatedEnglishLine": "\"Ugh, don’t make so much noise inside the cave.\""
+                            },
+                            {
+                                "lineNumber": "133011",
+                                "originalJapaneseLine": "「えーと、ここは確か……」",
+                                "translatedEnglishLine": "\"Umm, this is certainly...\""
+                            },
+                            {
+                                "lineNumber": "133012",
+                                "originalJapaneseLine": "「おばーちゃん達がいる場所だよ」",
+                                "translatedEnglishLine": "\"The place where the grandmas are.\""
+                            },
+                            {
+                                "lineNumber": "133013",
+                                "originalJapaneseLine": "「そーだそーだ、",
+                                "translatedEnglishLine": "\"Yeah, that's right,"
+                            },
+                            {
+                                "lineNumber": "133014",
+                                "originalJapaneseLine": "カラー歴代の女王の霊が眠ってる場所だ」",
+                                "translatedEnglishLine": "Where the spirits of Colar’s past queens rest.\""
+                            },
+                            {
+                                "lineNumber": "133015",
+                                "originalJapaneseLine": "「ということは」",
+                                "translatedEnglishLine": "\"Which means...\""
+                            },
+                            {
+                                "lineNumber": "133016",
+                                "originalJapaneseLine": "聖地に入った途端、",
+                                "translatedEnglishLine": "The moment they entered the sacred land,"
+                            },
+                            {
+                                "lineNumber": "133017",
+                                "originalJapaneseLine": "",
+                                "translatedEnglishLine": ""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1405,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 3647,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 5052
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「わーい、もふもふ、もこもこ」\",\"translatedEnglishLine\":\"\\\"Yay, fluffy and soft\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「ふふふ……」\",\"translatedEnglishLine\":\"\\\"Hehehe...\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「だー、こらこらこら！\",\"translatedEnglishLine\":\"\\\"Hey, hey, hey!\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"リセット！　人間に懐くでないわ！」\",\"translatedEnglishLine\":\"\\\"Reset! Don’t get attached to humans!\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「ではなくて……」\",\"translatedEnglishLine\":\"\\\"That's not it...\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「何故貴様がここにおる」\",\"translatedEnglishLine\":\"\\\"Why are you here?\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「そんなことはどうでもいいわい」\",\"translatedEnglishLine\":\"\\\"That doesn't matter.\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「あいたぁっ！？」\",\"translatedEnglishLine\":\"\\\"Ouch!?\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「ちょ、チョップしおったな……\",\"translatedEnglishLine\":\"\\\"You just did a chop...\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"こ、この、誇り高きカラーの女王の頭に……」\",\"translatedEnglishLine\":\"\\\"On the head of the proud Queen of Colars...\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「お前らここでのんびりと何しとる」\",\"translatedEnglishLine\":\"\\\"What are you all leisurely doing here?\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「何しとるって……」\",\"translatedEnglishLine\":\"\\\"Doing? Well...\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「敵は大軍団なんだぞ、\",\"translatedEnglishLine\":\"\\\"The enemy is a huge army,\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"森の侵入結界でも隠しきれんだろ。\",\"translatedEnglishLine\":\"\\\"You can't even hide it with the forest intrusion barrier.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"なんで誰も逃げる準備もしていない」\",\"translatedEnglishLine\":\"\\\"Why is no one preparing to escape?\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「ふ、ふん、そんなことは分かっておるわ！」\",\"translatedEnglishLine\":\"\\\"Hmph! I know that already!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「何を考えとるのか知らんが、\",\"translatedEnglishLine\":\"\\\"I don't know what you're thinking, but,\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"村を捨ててすぐに逃げるぞ」\",\"translatedEnglishLine\":\"I'm going to abandon the village and run away immediately.\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「この村を捨てるじゃと！？\",\"translatedEnglishLine\":\"\\\"Abandon this village!?\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"馬鹿を申すな！　このたわけが！\",\"translatedEnglishLine\":\"Don't be foolish, you idiot!\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「この村は先祖代々が守り続けたペンシルカウ！」\",\"translatedEnglishLine\":\"\\\"This village, Pensilcow, has been protected by our ancestors for generations!\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「始祖様を始めとした、この村を作った者達が、\",\"translatedEnglishLine\":\"\\\"Our founders and those who built this village,\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"どれほどの苦労をしたと思っておるのじゃ！」\",\"translatedEnglishLine\":\"do you have any idea how much hardship they endured!?\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「あー……\",\"translatedEnglishLine\":\"\\\"Ah...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"やっぱり、そういうこと考えてたか」\",\"translatedEnglishLine\":\"So you were thinking that after all.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「む、なんじゃ……\",\"translatedEnglishLine\":\"\\\"Hm? What is it...\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"そのアホを見るような目は……」\",\"translatedEnglishLine\":\"Those eyes that look at me like I’m an idiot...\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「アホ」\",\"translatedEnglishLine\":\"\\\"Idiot.\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「なあっ！？」\",\"translatedEnglishLine\":\"\\\"Hey!?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「それで全員お陀仏になったら意味ないだろうが」\",\"translatedEnglishLine\":\"\\\"If everyone dies because of that, it’s meaningless.\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「やかましい！　やかましい！\",\"translatedEnglishLine\":\"\\\"Shut up! Shut up!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"とにかく人間の言うこと……\",\"translatedEnglishLine\":\"Anyway, what humans say...\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"それも貴様の言うことなんぞ絶対に聞かんわ！」\",\"translatedEnglishLine\":\"I absolutely won’t listen to anything you say!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「……その、パステル様はずっとこの調子で」\",\"translatedEnglishLine\":\"\\\"...Well, Pastel-sama has been like this all along.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「む、君は確かパステルの部下の子。\",\"translatedEnglishLine\":\"\\\"Hmm, you are certainly Pastel’s subordinate child.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"そうか、ずっとこの調子か……」\",\"translatedEnglishLine\":\"I see, you’ve been like this the whole time...\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「いっそ、パステルだけ置いて\",\"translatedEnglishLine\":\"\\\"Would it be better to just leave Pastel behind\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"他の皆だけで逃げるか」\",\"translatedEnglishLine\":\"and let everyone else escape?\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「アホか！」\",\"translatedEnglishLine\":\"\\\"Are you an idiot!?\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「さすがにそういうわけには……」\",\"translatedEnglishLine\":\"\\\"That’s definitely not an option...\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「……仕方ないな、そこまで言うなら分かった。\",\"translatedEnglishLine\":\"\\\"...It can’t be helped, if you say so. I understand.\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"無理強いはせん」\",\"translatedEnglishLine\":\"I won't force you.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「む、う？　いつになく素直な……」\",\"translatedEnglishLine\":\"\\\"Hmm? Unusually obedient...\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「俺様、ちょっと小便」\",\"translatedEnglishLine\":\"\\\"I’m gonna take a little piss.\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「あ、おい、どこへ……ッ！？」\",\"translatedEnglishLine\":\"\\\"Ah, hey, where are you going...?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"ランスが部屋を出て行った。\",\"translatedEnglishLine\":\"Rance left the room.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"五分後――\",\"translatedEnglishLine\":\"Five minutes later—\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「あの男……まだ戻ってこんのか……？」\",\"translatedEnglishLine\":\"\\\"That man... hasn't come back yet...?\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「ええい、近くにいると鬱陶しい癖に、\",\"translatedEnglishLine\":\"\\\"Ugh, he’s annoying when nearby,\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"姿が見えぬとそれはそれでおっかない奴め」\",\"translatedEnglishLine\":\"but when out of sight, he’s scary too.\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「ぱ、パステル様！　大変です！」\",\"translatedEnglishLine\":\"\\\"P-Pastel-sama! It’s terrible!\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「なんじゃ！？　まさか、ついに魔軍が……！？」\",\"translatedEnglishLine\":\"\\\"What!? Could it be that the demon army has finally...!?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「い、いえ、違います、とにかくすぐ外へ……ッ！」\",\"translatedEnglishLine\":\"\\\"N-no, it’s not that. Just get outside immediately...!\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「いったい何が……？」\",\"translatedEnglishLine\":\"\\\"What on earth is... going on?\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"＜メラメラ、メラメラ……＞\",\"translatedEnglishLine\":\"<Flames crackling...> \"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「わぁーーーーッ！\",\"translatedEnglishLine\":\"\\\"Waaaaaah!\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"むむむ、村が燃えておる！　村が燃えておるー！」\",\"translatedEnglishLine\":\"\\\"Mmm, the village is burning! The village is burning!\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"村が燃えていた。\",\"translatedEnglishLine\":\"The village was on fire.\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「燃やしたのは俺だーッ！」\",\"translatedEnglishLine\":\"\\\"I’m the one who set it on fire!\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「アホかーーーーーーーッ！」\",\"translatedEnglishLine\":\"\\\"Are you an idiot!?!?!\\\"\"},{\"lineNumber\":61,\"originalJapaneseLine\":\"「私も手伝いました」\",\"translatedEnglishLine\":\"\\\"I helped too.\\\"\"},{\"lineNumber\":62,\"originalJapaneseLine\":\"「法王！　貴様は何度カラーの村を\",\"translatedEnglishLine\":\"\\\"Pope! How many times must you put the Colar village in danger—\\\"\"},{\"lineNumber\":63,\"originalJapaneseLine\":\"危機に陥れれば気が済むんじゃ――！」\",\"translatedEnglishLine\":\"before you’re satisfied!?\\\"\"},{\"lineNumber\":64,\"originalJapaneseLine\":\"「火はいいですね……\",\"translatedEnglishLine\":\"\\\"Fire is nice, isn’t it...?\"},{\"lineNumber\":65,\"originalJapaneseLine\":\"ワクワクします……」\",\"translatedEnglishLine\":\"It makes me excited...\\\"\"},{\"lineNumber\":66,\"originalJapaneseLine\":\"「聞かんかー！　今度こそ完膚無きまでに殺すー！」\",\"translatedEnglishLine\":\"\\\"Won’t you listen!? This time, I will kill you utterly!\\\"\"},{\"lineNumber\":67,\"originalJapaneseLine\":\"「これでそのうち魔物にここがバレる。\",\"translatedEnglishLine\":\"\\\"Now the demons will eventually discover this place.\"},{\"lineNumber\":68,\"originalJapaneseLine\":\"すぐに逃げないと、大変なことになるなー」\",\"translatedEnglishLine\":\"If we don’t escape quickly, it’s going to be bad.\\\"\"},{\"lineNumber\":69,\"originalJapaneseLine\":\"「うわぁーん！　アホかー！　おのれはアホかー！」\",\"translatedEnglishLine\":\"\\\"Waaaaah! Are you an idiot!? You are an idiot!?\\\"\"},{\"lineNumber\":70,\"originalJapaneseLine\":\"「えーい、泣くな、泣くな。\",\"translatedEnglishLine\":\"\\\"Hey, don’t cry, don’t cry.\"},{\"lineNumber\":71,\"originalJapaneseLine\":\"泣いてる暇はないぞ」\",\"translatedEnglishLine\":\"There’s no time to cry.\\\"\"},{\"lineNumber\":72,\"originalJapaneseLine\":\"「これで逃げるしか選択肢はなくなった。\",\"translatedEnglishLine\":\"\\\"Now there’s no choice but to run away.\"},{\"lineNumber\":73,\"originalJapaneseLine\":\"さあ、どうする」\",\"translatedEnglishLine\":\"Now, what will you do?\\\"\"},{\"lineNumber\":74,\"originalJapaneseLine\":\"「くっ、くぅぅぅ……この男は……」\",\"translatedEnglishLine\":\"\\\"Ugh, ughhh... this man...\\\"\"},{\"lineNumber\":75,\"originalJapaneseLine\":\"「おかーさん……」\",\"translatedEnglishLine\":\"\\\"Mom...\\\"\"},{\"lineNumber\":76,\"originalJapaneseLine\":\"リセットが心配そうに\",\"translatedEnglishLine\":\"Reset anxiously\"},{\"lineNumber\":77,\"originalJapaneseLine\":\"パステルのスカートをつまんだ。\",\"translatedEnglishLine\":\"pinched Pastel’s skirt.\"},{\"lineNumber\":78,\"originalJapaneseLine\":\"「ぐっ……ぐぅうぅぅう〜〜〜……」\",\"translatedEnglishLine\":\"\\\"Ugh... guuuuu...\\\"\"},{\"lineNumber\":79,\"originalJapaneseLine\":\"カクンとパステルは首を垂れた。\",\"translatedEnglishLine\":\"Pastel dropped her head with a thud.\"},{\"lineNumber\":80,\"originalJapaneseLine\":\"「……ペンシルカウを……ぐっ、放棄する……」\",\"translatedEnglishLine\":\"\\\"...We will... abandon Pensilcow...\\\"\"},{\"lineNumber\":81,\"originalJapaneseLine\":\"「皆の者、女王の言葉を聞きましたね！\",\"translatedEnglishLine\":\"\\\"Everyone, you heard the queen’s words!\"},{\"lineNumber\":82,\"originalJapaneseLine\":\"すぐに避難の用意を！」\",\"translatedEnglishLine\":\"Prepare to evacuate immediately!\\\"\"},{\"lineNumber\":83,\"originalJapaneseLine\":\"サクラの言葉に、村中にいたカラーの一族が\",\"translatedEnglishLine\":\"At Sakura’s words, the Colar clan throughout the village\"},{\"lineNumber\":84,\"originalJapaneseLine\":\"逃亡の準備を始める。\",\"translatedEnglishLine\":\"began preparing to flee.\"},{\"lineNumber\":85,\"originalJapaneseLine\":\"「おーおー、騒がしくなってきたな」\",\"translatedEnglishLine\":\"\\\"Oh my, it’s getting noisy.\\\"\"},{\"lineNumber\":86,\"originalJapaneseLine\":\"「パステル様は神具の用意を」\",\"translatedEnglishLine\":\"\\\"Pastel-sama, prepare the sacred relics.\\\"\"},{\"lineNumber\":87,\"originalJapaneseLine\":\"「うむ」\",\"translatedEnglishLine\":\"\\\"Yes.\\\"\"},{\"lineNumber\":88,\"originalJapaneseLine\":\"「神具？」\",\"translatedEnglishLine\":\"\\\"Sacred relics?\\\"\"},{\"lineNumber\":89,\"originalJapaneseLine\":\"ランス達はペンシルカウのすぐ近くの\",\"translatedEnglishLine\":\"Rance and the others stepped inside a cave near Pensilcow.\"},{\"lineNumber\":90,\"originalJapaneseLine\":\"洞窟の中に足を踏み入れていた。\",\"translatedEnglishLine\":\"They entered the cave.\"},{\"lineNumber\":91,\"originalJapaneseLine\":\"「おい、こんな場所になんの用事だ？」\",\"translatedEnglishLine\":\"\\\"Hey, what business do you have in a place like this?\\\"\"},{\"lineNumber\":92,\"originalJapaneseLine\":\"「ついてくるなーーーッ！」\",\"translatedEnglishLine\":\"\\\"Don’t follow me!\\\"\"},{\"lineNumber\":93,\"originalJapaneseLine\":\"「ええい、洞窟内でキンキン騒ぐな」\",\"translatedEnglishLine\":\"\\\"Ugh, don’t make so much noise inside the cave.\\\"\"},{\"lineNumber\":94,\"originalJapaneseLine\":\"「えーと、ここは確か……」\",\"translatedEnglishLine\":\"\\\"Umm, this is certainly...\\\"\"},{\"lineNumber\":95,\"originalJapaneseLine\":\"「おばーちゃん達がいる場所だよ」\",\"translatedEnglishLine\":\"\\\"The place where the grandmas are.\\\"\"},{\"lineNumber\":96,\"originalJapaneseLine\":\"「そーだそーだ、\",\"translatedEnglishLine\":\"\\\"Yeah, that's right,\"},{\"lineNumber\":97,\"originalJapaneseLine\":\"カラー歴代の女王の霊が眠ってる場所だ」\",\"translatedEnglishLine\":\"Where the spirits of Colar’s past queens rest.\\\"\"},{\"lineNumber\":98,\"originalJapaneseLine\":\"「ということは」\",\"translatedEnglishLine\":\"\\\"Which means...\\\"\"},{\"lineNumber\":99,\"originalJapaneseLine\":\"聖地に入った途端、\",\"translatedEnglishLine\":\"The moment they entered the sacred land,\"},{\"lineNumber\":100,\"originalJapaneseLine\":\"\",\"translatedEnglishLine\":\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "132918",
+                "originalJapaneseLine": "「わーい、もふもふ、もこもこ」",
+                "translatedEnglishLine": "\"Yay, fluffy and soft\""
+            },
+            {
+                "lineNumber": "132919",
+                "originalJapaneseLine": "「ふふふ……」",
+                "translatedEnglishLine": "\"Hehehe...\""
+            },
+            {
+                "lineNumber": "132920",
+                "originalJapaneseLine": "「だー、こらこらこら！",
+                "translatedEnglishLine": "\"Hey, hey, hey!\""
+            },
+            {
+                "lineNumber": "132921",
+                "originalJapaneseLine": "リセット！　人間に懐くでないわ！」",
+                "translatedEnglishLine": "\"Reset! Don’t get attached to humans!\""
+            },
+            {
+                "lineNumber": "132922",
+                "originalJapaneseLine": "「ではなくて……」",
+                "translatedEnglishLine": "\"That's not it...\""
+            },
+            {
+                "lineNumber": "132923",
+                "originalJapaneseLine": "「何故貴様がここにおる」",
+                "translatedEnglishLine": "\"Why are you here?\""
+            },
+            {
+                "lineNumber": "132924",
+                "originalJapaneseLine": "「そんなことはどうでもいいわい」",
+                "translatedEnglishLine": "\"That doesn't matter.\""
+            },
+            {
+                "lineNumber": "132925",
+                "originalJapaneseLine": "「あいたぁっ！？」",
+                "translatedEnglishLine": "\"Ouch!?\""
+            },
+            {
+                "lineNumber": "132926",
+                "originalJapaneseLine": "「ちょ、チョップしおったな……",
+                "translatedEnglishLine": "\"You just did a chop...\""
+            },
+            {
+                "lineNumber": "132927",
+                "originalJapaneseLine": "こ、この、誇り高きカラーの女王の頭に……」",
+                "translatedEnglishLine": "\"On the head of the proud Queen of Colars...\""
+            },
+            {
+                "lineNumber": "132928",
+                "originalJapaneseLine": "「お前らここでのんびりと何しとる」",
+                "translatedEnglishLine": "\"What are you all leisurely doing here?\""
+            },
+            {
+                "lineNumber": "132929",
+                "originalJapaneseLine": "「何しとるって……」",
+                "translatedEnglishLine": "\"Doing? Well...\""
+            },
+            {
+                "lineNumber": "132930",
+                "originalJapaneseLine": "「敵は大軍団なんだぞ、",
+                "translatedEnglishLine": "\"The enemy is a huge army,\""
+            },
+            {
+                "lineNumber": "132931",
+                "originalJapaneseLine": "森の侵入結界でも隠しきれんだろ。",
+                "translatedEnglishLine": "\"You can't even hide it with the forest intrusion barrier.\""
+            },
+            {
+                "lineNumber": "132932",
+                "originalJapaneseLine": "なんで誰も逃げる準備もしていない」",
+                "translatedEnglishLine": "\"Why is no one preparing to escape?\""
+            },
+            {
+                "lineNumber": "132933",
+                "originalJapaneseLine": "「ふ、ふん、そんなことは分かっておるわ！」",
+                "translatedEnglishLine": "\"Hmph! I know that already!\""
+            },
+            {
+                "lineNumber": "132934",
+                "originalJapaneseLine": "「何を考えとるのか知らんが、",
+                "translatedEnglishLine": "\"I don't know what you're thinking, but,"
+            },
+            {
+                "lineNumber": "132935",
+                "originalJapaneseLine": "村を捨ててすぐに逃げるぞ」",
+                "translatedEnglishLine": "I'm going to abandon the village and run away immediately.\""
+            },
+            {
+                "lineNumber": "132936",
+                "originalJapaneseLine": "「この村を捨てるじゃと！？",
+                "translatedEnglishLine": "\"Abandon this village!?\""
+            },
+            {
+                "lineNumber": "132937",
+                "originalJapaneseLine": "馬鹿を申すな！　このたわけが！",
+                "translatedEnglishLine": "Don't be foolish, you idiot!\""
+            },
+            {
+                "lineNumber": "132938",
+                "originalJapaneseLine": "「この村は先祖代々が守り続けたペンシルカウ！」",
+                "translatedEnglishLine": "\"This village, Pensilcow, has been protected by our ancestors for generations!\""
+            },
+            {
+                "lineNumber": "132939",
+                "originalJapaneseLine": "「始祖様を始めとした、この村を作った者達が、",
+                "translatedEnglishLine": "\"Our founders and those who built this village,"
+            },
+            {
+                "lineNumber": "132940",
+                "originalJapaneseLine": "どれほどの苦労をしたと思っておるのじゃ！」",
+                "translatedEnglishLine": "do you have any idea how much hardship they endured!?\""
+            },
+            {
+                "lineNumber": "132941",
+                "originalJapaneseLine": "「あー……",
+                "translatedEnglishLine": "\"Ah...\""
+            },
+            {
+                "lineNumber": "132942",
+                "originalJapaneseLine": "やっぱり、そういうこと考えてたか」",
+                "translatedEnglishLine": "So you were thinking that after all.\""
+            },
+            {
+                "lineNumber": "132943",
+                "originalJapaneseLine": "「む、なんじゃ……",
+                "translatedEnglishLine": "\"Hm? What is it...\""
+            },
+            {
+                "lineNumber": "132944",
+                "originalJapaneseLine": "そのアホを見るような目は……」",
+                "translatedEnglishLine": "Those eyes that look at me like I’m an idiot...\""
+            },
+            {
+                "lineNumber": "132945",
+                "originalJapaneseLine": "「アホ」",
+                "translatedEnglishLine": "\"Idiot.\""
+            },
+            {
+                "lineNumber": "132946",
+                "originalJapaneseLine": "「なあっ！？」",
+                "translatedEnglishLine": "\"Hey!?\""
+            },
+            {
+                "lineNumber": "132947",
+                "originalJapaneseLine": "「それで全員お陀仏になったら意味ないだろうが」",
+                "translatedEnglishLine": "\"If everyone dies because of that, it’s meaningless.\""
+            },
+            {
+                "lineNumber": "132948",
+                "originalJapaneseLine": "「やかましい！　やかましい！",
+                "translatedEnglishLine": "\"Shut up! Shut up!\""
+            },
+            {
+                "lineNumber": "132949",
+                "originalJapaneseLine": "とにかく人間の言うこと……",
+                "translatedEnglishLine": "Anyway, what humans say..."
+            },
+            {
+                "lineNumber": "132950",
+                "originalJapaneseLine": "それも貴様の言うことなんぞ絶対に聞かんわ！」",
+                "translatedEnglishLine": "I absolutely won’t listen to anything you say!\""
+            },
+            {
+                "lineNumber": "132951",
+                "originalJapaneseLine": "「……その、パステル様はずっとこの調子で」",
+                "translatedEnglishLine": "\"...Well, Pastel-sama has been like this all along.\""
+            },
+            {
+                "lineNumber": "132952",
+                "originalJapaneseLine": "「む、君は確かパステルの部下の子。",
+                "translatedEnglishLine": "\"Hmm, you are certainly Pastel’s subordinate child."
+            },
+            {
+                "lineNumber": "132953",
+                "originalJapaneseLine": "そうか、ずっとこの調子か……」",
+                "translatedEnglishLine": "I see, you’ve been like this the whole time...\""
+            },
+            {
+                "lineNumber": "132954",
+                "originalJapaneseLine": "「いっそ、パステルだけ置いて",
+                "translatedEnglishLine": "\"Would it be better to just leave Pastel behind"
+            },
+            {
+                "lineNumber": "132955",
+                "originalJapaneseLine": "他の皆だけで逃げるか」",
+                "translatedEnglishLine": "and let everyone else escape?\""
+            },
+            {
+                "lineNumber": "132956",
+                "originalJapaneseLine": "「アホか！」",
+                "translatedEnglishLine": "\"Are you an idiot!?\""
+            },
+            {
+                "lineNumber": "132957",
+                "originalJapaneseLine": "「さすがにそういうわけには……」",
+                "translatedEnglishLine": "\"That’s definitely not an option...\""
+            },
+            {
+                "lineNumber": "132958",
+                "originalJapaneseLine": "「……仕方ないな、そこまで言うなら分かった。",
+                "translatedEnglishLine": "\"...It can’t be helped, if you say so. I understand.\""
+            },
+            {
+                "lineNumber": "132959",
+                "originalJapaneseLine": "無理強いはせん」",
+                "translatedEnglishLine": "I won't force you.\""
+            },
+            {
+                "lineNumber": "132960",
+                "originalJapaneseLine": "「む、う？　いつになく素直な……」",
+                "translatedEnglishLine": "\"Hmm? Unusually obedient...\""
+            },
+            {
+                "lineNumber": "132961",
+                "originalJapaneseLine": "「俺様、ちょっと小便」",
+                "translatedEnglishLine": "\"I’m gonna take a little piss.\""
+            },
+            {
+                "lineNumber": "132962",
+                "originalJapaneseLine": "「あ、おい、どこへ……ッ！？」",
+                "translatedEnglishLine": "\"Ah, hey, where are you going...?\""
+            },
+            {
+                "lineNumber": "132963",
+                "originalJapaneseLine": "ランスが部屋を出て行った。",
+                "translatedEnglishLine": "Rance left the room."
+            },
+            {
+                "lineNumber": "132964",
+                "originalJapaneseLine": "五分後――",
+                "translatedEnglishLine": "Five minutes later—"
+            },
+            {
+                "lineNumber": "132965",
+                "originalJapaneseLine": "「あの男……まだ戻ってこんのか……？」",
+                "translatedEnglishLine": "\"That man... hasn't come back yet...?\""
+            },
+            {
+                "lineNumber": "132966",
+                "originalJapaneseLine": "「ええい、近くにいると鬱陶しい癖に、",
+                "translatedEnglishLine": "\"Ugh, he’s annoying when nearby,"
+            },
+            {
+                "lineNumber": "132967",
+                "originalJapaneseLine": "姿が見えぬとそれはそれでおっかない奴め」",
+                "translatedEnglishLine": "but when out of sight, he’s scary too.\""
+            },
+            {
+                "lineNumber": "132968",
+                "originalJapaneseLine": "「ぱ、パステル様！　大変です！」",
+                "translatedEnglishLine": "\"P-Pastel-sama! It’s terrible!\""
+            },
+            {
+                "lineNumber": "132969",
+                "originalJapaneseLine": "「なんじゃ！？　まさか、ついに魔軍が……！？」",
+                "translatedEnglishLine": "\"What!? Could it be that the demon army has finally...!?\""
+            },
+            {
+                "lineNumber": "132970",
+                "originalJapaneseLine": "「い、いえ、違います、とにかくすぐ外へ……ッ！」",
+                "translatedEnglishLine": "\"N-no, it’s not that. Just get outside immediately...!\""
+            },
+            {
+                "lineNumber": "132971",
+                "originalJapaneseLine": "「いったい何が……？」",
+                "translatedEnglishLine": "\"What on earth is... going on?\""
+            },
+            {
+                "lineNumber": "132972",
+                "originalJapaneseLine": "＜メラメラ、メラメラ……＞",
+                "translatedEnglishLine": "<Flames crackling...> "
+            },
+            {
+                "lineNumber": "132973",
+                "originalJapaneseLine": "「わぁーーーーッ！",
+                "translatedEnglishLine": "\"Waaaaaah!\""
+            },
+            {
+                "lineNumber": "132974",
+                "originalJapaneseLine": "むむむ、村が燃えておる！　村が燃えておるー！」",
+                "translatedEnglishLine": "\"Mmm, the village is burning! The village is burning!\""
+            },
+            {
+                "lineNumber": "132975",
+                "originalJapaneseLine": "村が燃えていた。",
+                "translatedEnglishLine": "The village was on fire."
+            },
+            {
+                "lineNumber": "132976",
+                "originalJapaneseLine": "「燃やしたのは俺だーッ！」",
+                "translatedEnglishLine": "\"I’m the one who set it on fire!\""
+            },
+            {
+                "lineNumber": "132977",
+                "originalJapaneseLine": "「アホかーーーーーーーッ！」",
+                "translatedEnglishLine": "\"Are you an idiot!?!?!\""
+            },
+            {
+                "lineNumber": "132978",
+                "originalJapaneseLine": "「私も手伝いました」",
+                "translatedEnglishLine": "\"I helped too.\""
+            },
+            {
+                "lineNumber": "132979",
+                "originalJapaneseLine": "「法王！　貴様は何度カラーの村を",
+                "translatedEnglishLine": "\"Pope! How many times must you put the Colar village in danger—\""
+            },
+            {
+                "lineNumber": "132980",
+                "originalJapaneseLine": "危機に陥れれば気が済むんじゃ――！」",
+                "translatedEnglishLine": "before you’re satisfied!?\""
+            },
+            {
+                "lineNumber": "132981",
+                "originalJapaneseLine": "「火はいいですね……",
+                "translatedEnglishLine": "\"Fire is nice, isn’t it...?"
+            },
+            {
+                "lineNumber": "132982",
+                "originalJapaneseLine": "ワクワクします……」",
+                "translatedEnglishLine": "It makes me excited...\""
+            },
+            {
+                "lineNumber": "132983",
+                "originalJapaneseLine": "「聞かんかー！　今度こそ完膚無きまでに殺すー！」",
+                "translatedEnglishLine": "\"Won’t you listen!? This time, I will kill you utterly!\""
+            },
+            {
+                "lineNumber": "132984",
+                "originalJapaneseLine": "「これでそのうち魔物にここがバレる。",
+                "translatedEnglishLine": "\"Now the demons will eventually discover this place."
+            },
+            {
+                "lineNumber": "132985",
+                "originalJapaneseLine": "すぐに逃げないと、大変なことになるなー」",
+                "translatedEnglishLine": "If we don’t escape quickly, it’s going to be bad.\""
+            },
+            {
+                "lineNumber": "132986",
+                "originalJapaneseLine": "「うわぁーん！　アホかー！　おのれはアホかー！」",
+                "translatedEnglishLine": "\"Waaaaah! Are you an idiot!? You are an idiot!?\""
+            },
+            {
+                "lineNumber": "132987",
+                "originalJapaneseLine": "「えーい、泣くな、泣くな。",
+                "translatedEnglishLine": "\"Hey, don’t cry, don’t cry."
+            },
+            {
+                "lineNumber": "132988",
+                "originalJapaneseLine": "泣いてる暇はないぞ」",
+                "translatedEnglishLine": "There’s no time to cry.\""
+            },
+            {
+                "lineNumber": "132989",
+                "originalJapaneseLine": "「これで逃げるしか選択肢はなくなった。",
+                "translatedEnglishLine": "\"Now there’s no choice but to run away."
+            },
+            {
+                "lineNumber": "132990",
+                "originalJapaneseLine": "さあ、どうする」",
+                "translatedEnglishLine": "Now, what will you do?\""
+            },
+            {
+                "lineNumber": "132991",
+                "originalJapaneseLine": "「くっ、くぅぅぅ……この男は……」",
+                "translatedEnglishLine": "\"Ugh, ughhh... this man...\""
+            },
+            {
+                "lineNumber": "132992",
+                "originalJapaneseLine": "「おかーさん……」",
+                "translatedEnglishLine": "\"Mom...\""
+            },
+            {
+                "lineNumber": "132993",
+                "originalJapaneseLine": "リセットが心配そうに",
+                "translatedEnglishLine": "Reset anxiously"
+            },
+            {
+                "lineNumber": "132994",
+                "originalJapaneseLine": "パステルのスカートをつまんだ。",
+                "translatedEnglishLine": "pinched Pastel’s skirt."
+            },
+            {
+                "lineNumber": "132995",
+                "originalJapaneseLine": "「ぐっ……ぐぅうぅぅう〜〜〜……」",
+                "translatedEnglishLine": "\"Ugh... guuuuu...\""
+            },
+            {
+                "lineNumber": "132996",
+                "originalJapaneseLine": "カクンとパステルは首を垂れた。",
+                "translatedEnglishLine": "Pastel dropped her head with a thud."
+            },
+            {
+                "lineNumber": "132997",
+                "originalJapaneseLine": "「……ペンシルカウを……ぐっ、放棄する……」",
+                "translatedEnglishLine": "\"...We will... abandon Pensilcow...\""
+            },
+            {
+                "lineNumber": "132998",
+                "originalJapaneseLine": "「皆の者、女王の言葉を聞きましたね！",
+                "translatedEnglishLine": "\"Everyone, you heard the queen’s words!"
+            },
+            {
+                "lineNumber": "132999",
+                "originalJapaneseLine": "すぐに避難の用意を！」",
+                "translatedEnglishLine": "Prepare to evacuate immediately!\""
+            },
+            {
+                "lineNumber": "133000",
+                "originalJapaneseLine": "サクラの言葉に、村中にいたカラーの一族が",
+                "translatedEnglishLine": "At Sakura’s words, the Colar clan throughout the village"
+            },
+            {
+                "lineNumber": "133001",
+                "originalJapaneseLine": "逃亡の準備を始める。",
+                "translatedEnglishLine": "began preparing to flee."
+            },
+            {
+                "lineNumber": "133002",
+                "originalJapaneseLine": "「おーおー、騒がしくなってきたな」",
+                "translatedEnglishLine": "\"Oh my, it’s getting noisy.\""
+            },
+            {
+                "lineNumber": "133003",
+                "originalJapaneseLine": "「パステル様は神具の用意を」",
+                "translatedEnglishLine": "\"Pastel-sama, prepare the sacred relics.\""
+            },
+            {
+                "lineNumber": "133004",
+                "originalJapaneseLine": "「うむ」",
+                "translatedEnglishLine": "\"Yes.\""
+            },
+            {
+                "lineNumber": "133005",
+                "originalJapaneseLine": "「神具？」",
+                "translatedEnglishLine": "\"Sacred relics?\""
+            },
+            {
+                "lineNumber": "133006",
+                "originalJapaneseLine": "ランス達はペンシルカウのすぐ近くの",
+                "translatedEnglishLine": "Rance and the others stepped inside a cave near Pensilcow."
+            },
+            {
+                "lineNumber": "133007",
+                "originalJapaneseLine": "洞窟の中に足を踏み入れていた。",
+                "translatedEnglishLine": "They entered the cave."
+            },
+            {
+                "lineNumber": "133008",
+                "originalJapaneseLine": "「おい、こんな場所になんの用事だ？」",
+                "translatedEnglishLine": "\"Hey, what business do you have in a place like this?\""
+            },
+            {
+                "lineNumber": "133009",
+                "originalJapaneseLine": "「ついてくるなーーーッ！」",
+                "translatedEnglishLine": "\"Don’t follow me!\""
+            },
+            {
+                "lineNumber": "133010",
+                "originalJapaneseLine": "「ええい、洞窟内でキンキン騒ぐな」",
+                "translatedEnglishLine": "\"Ugh, don’t make so much noise inside the cave.\""
+            },
+            {
+                "lineNumber": "133011",
+                "originalJapaneseLine": "「えーと、ここは確か……」",
+                "translatedEnglishLine": "\"Umm, this is certainly...\""
+            },
+            {
+                "lineNumber": "133012",
+                "originalJapaneseLine": "「おばーちゃん達がいる場所だよ」",
+                "translatedEnglishLine": "\"The place where the grandmas are.\""
+            },
+            {
+                "lineNumber": "133013",
+                "originalJapaneseLine": "「そーだそーだ、",
+                "translatedEnglishLine": "\"Yeah, that's right,"
+            },
+            {
+                "lineNumber": "133014",
+                "originalJapaneseLine": "カラー歴代の女王の霊が眠ってる場所だ」",
+                "translatedEnglishLine": "Where the spirits of Colar’s past queens rest.\""
+            },
+            {
+                "lineNumber": "133015",
+                "originalJapaneseLine": "「ということは」",
+                "translatedEnglishLine": "\"Which means...\""
+            },
+            {
+                "lineNumber": "133016",
+                "originalJapaneseLine": "聖地に入った途端、",
+                "translatedEnglishLine": "The moment they entered the sacred land,"
+            },
+            {
+                "lineNumber": "133017",
+                "originalJapaneseLine": "",
+                "translatedEnglishLine": ""
+            }
+        ]
+    }
+}
