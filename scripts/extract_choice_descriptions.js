@@ -1,6 +1,6 @@
 
 import fs from "fs/promises";
-import {replaceUnicode, wrapAt} from "./modules/TextNormalization.js";
+import {replaceUnicode, wrapAt} from "../modules/TextNormalization.js";
 
 const translations = `出発します\tWe're departing.
 手段は選ばない\tI’ll use any means necessary.
