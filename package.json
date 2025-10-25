@@ -1,6 +1,7 @@
 {
     "scripts": {
-        "regenerate-ain": "node regenerate_aai_txt.js && C:\\deleteMe\\tutorial-adding-cards\\alice-tools\\alice.exe ain edit -t regenerated.ain.txt -o \"C:\\g\\AliceSoft\\ランス１０\\Rance10.ain\" \"C:\\g\\AliceSoft\\ランス１０\\Rance10.backup.ain\""
+        "regenerate-ain": "node regenerate_aai_txt.js && C:\\deleteMe\\tutorial-adding-cards\\alice-tools\\alice.exe ain edit -t regenerated.ain.txt -o \"C:\\g\\AliceSoft\\ランス１０\\Rance10.ain\" \"C:\\g\\AliceSoft\\ランス１０\\Rance10.backup.ain\"",
+        "regenerate-ex": "C:\\deleteMe\\tutorial-adding-cards\\alice-tools\\alice.exe ex build -o \"C:\\g\\AliceSoft\\ランス１０\\Rance10EX.ex\" Rance10EX/main.x"
     },
     "devDependencies": {
         "canvas": "^3.2.0",

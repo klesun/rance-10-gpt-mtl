@@ -34,4 +34,4 @@ ______________________________________
 2. Run `node regenerate_aai_txt.js` to produce the `regenerated.ain.txt` file
 (assuming that game installation directory is `C:\Program Files\AliceSoft\ランス１０`)
 3. Run `alice ain edit -t regenerated.ain.txt -o "C:\Program Files\AliceSoft\ランス１０\Rance10.ain" "C:\Program Files\AliceSoft\ランス１０\Rance10.ain"` (install alice-tools if needed)
-4. Run `alice ex build -o "C:\Program Files\AliceSoft\ランス１０\Rance10EX.ex" ex/main.x`
+4. Run `alice ex build -o "C:\Program Files\AliceSoft\ランス１０\Rance10EX.ex" Rance10EX/main.x`
