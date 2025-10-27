@@ -1977,7 +1977,11 @@ const matches = questDataText.matchAll(/説明 = (".*")/g);
 for (const match of [...matches].reverse()) {
     const [whole, capture] = match;
     const jpn = JSON.parse(capture);
-    const eng = translations.find(t => t.jpn === jpn).eng;
+    const found = translations.find(t => t.jpn === jpn);
+    if (!found) {
+        continue;
+    }
+    const eng = found.eng;
     const normalized = replaceUnicode(eng)
         .replace(/[^\x00-\x7F♪☆○Σ]/g, ".")
         .replace(/r/g, "R"); // it's very stupid, but the engine interprets "r" as a line break, so we are replacing it with "R" everywhere
