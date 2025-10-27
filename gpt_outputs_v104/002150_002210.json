@@ -1,0 +1,719 @@
+{
+    "id": "resp_07ebfbe61d0b76510068ffe96820e081959e22398959796004",
+    "object": "response",
+    "created_at": 1761601896,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_07ebfbe61d0b76510068ffe9689bdc81958b1f373030b59696",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　って感じかな」\",\"translatedEnglishLine\":\"\\\"Something like that, I guess.\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「忙しく動き回っていたのだなぁ」\",\"translatedEnglishLine\":\"\\\"You've been busy running around, huh.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「まあ、ね……」\",\"translatedEnglishLine\":\"\\\"Well, yeah...\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「あの頃、大して役に立たなかったし……\",\"translatedEnglishLine\":\"\\\"Back then, I wasn't really useful...\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　今だってどれだけ役立てるか分からないけど」\",\"translatedEnglishLine\":\"But even now, I don't know how much I can help.\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「それでもあたしらは命がけで\",\"translatedEnglishLine\":\"\\\"Even so, we risked our lives,\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　色んな思いを抱えて戦って……\",\"translatedEnglishLine\":\"fighting with all sorts of feelings in our hearts...\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　それで勝って平和にしたんだ」\",\"translatedEnglishLine\":\"And we won, bringing peace.\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「それを簡単にご破算にされちゃ\",\"translatedEnglishLine\":\"\\\"It would be unbearable if all that were just thrown away so easily.\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　たまらないからね」\",\"translatedEnglishLine\":\"\\\"I just can't stand it.\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「ふーん……」\",\"translatedEnglishLine\":\"\\\"Hmm...\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「男勝りな性格とは裏腹に、\",\"translatedEnglishLine\":\"\\\"Despite her tomboyish personality,\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　プリマは真面目で良い子だな」\",\"translatedEnglishLine\":\"Prima is serious and a good girl.\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「……馬鹿にしてんのかよ」\",\"translatedEnglishLine\":\"\\\"...Are you mocking me or what?\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「ほらほら、訓練の邪魔すんなら、\",\"translatedEnglishLine\":\"\\\"Hey, hey, if you're going to disturb the training,\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　よそへ行ってくれ」\",\"translatedEnglishLine\":\"please go somewhere else.\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「はいはい……\",\"translatedEnglishLine\":\"\\\"Alright, alright...\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　…………ん？」\",\"translatedEnglishLine\":\"...Hmm?\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「なあ、あの中庭の入り口から、\",\"translatedEnglishLine\":\"\\\"Hey, from the entrance of that courtyard,\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　いじめっ子のニヤつき方しながら\",\"translatedEnglishLine\":\"someone's coming with a bully's smirk,\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　近づいてきてるの、メガデスじゃ……」\",\"translatedEnglishLine\":\"isn't that Megades approaching...?\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「あ、あ、あ！\",\"translatedEnglishLine\":\"\\\"Ah, ah, ah!\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　やっぱりあたしがよそに行く！」\",\"translatedEnglishLine\":\"I really will go somewhere else!\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「それじゃ！」\",\"translatedEnglishLine\":\"\\\"Well then!\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「……逃げた」\",\"translatedEnglishLine\":\"\\\"...She ran away.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「あーあー、行っちゃったかー。\",\"translatedEnglishLine\":\"\\\"Ah, she really left, huh.\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　モロミちゃん見て逃げ打つとか生意気だね」\",\"translatedEnglishLine\":\"So bold to run away when Moromi's watching.\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「お前……\",\"translatedEnglishLine\":\"\\\"You...\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"　相変わらずプリマに嫌われてるのな」\",\"translatedEnglishLine\":\"still hate Prima as always, huh?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「モロミちゃんはこんなに\",\"translatedEnglishLine\":\"\\\"Moromi loves Prima so much,\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　プリマが大好きなのにねー、\",\"translatedEnglishLine\":\"yet Prima hates her so much—\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　不っ思議ー☆」\",\"translatedEnglishLine\":\"How strange☆\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「こんなドS女に好かれるとは……\",\"translatedEnglishLine\":\"\\\"To be liked by such a sadistic woman...,\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　真面目な良い子なのにプリマも可哀想な奴」\",\"translatedEnglishLine\":\"Prima's a serious good girl, so she must be a poor soul.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「あぁん？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"野戦テント内でプリマとキャロリが\",\"translatedEnglishLine\":\"Inside the field tent, Prima and Caroly\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"あれこれと相談していた。\",\"translatedEnglishLine\":\"were discussing various things.\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「で、先程のと混ぜ合わせると、\",\"translatedEnglishLine\":\"\\\"So, if we mix this with what we had earlier,\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　打ち身、切り傷によく効く塗り薬の完成です。\",\"translatedEnglishLine\":\"we can make an ointment effective for bruises and cuts.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　こねこね」\",\"translatedEnglishLine\":\"Knead knead.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「ふーん、なるほどね……」\",\"translatedEnglishLine\":\"\\\"Hmm, I see...\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「や、勉強になるよ。\",\"translatedEnglishLine\":\"\\\"Yeah, this is educational.\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　簡単な手当なら出来るけど、\",\"translatedEnglishLine\":\"I can do basic first aid,\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　薬を作ったりは苦手でね」\",\"translatedEnglishLine\":\"but making medicines isn't my strong suit.\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「こんな状況じゃ\",\"translatedEnglishLine\":\"\\\"In a situation like this,\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　薬もいずれ貴重になるだろうしね」\",\"translatedEnglishLine\":\"medicines will likely become valuable eventually.\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「そうですね。\",\"translatedEnglishLine\":\"\\\"That's true.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　私も薬を作るのは久し振りです」\",\"translatedEnglishLine\":\"It's been a while since I made medicine too.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「神魔法の使い手は少ない。\",\"translatedEnglishLine\":\"\\\"There are few users of divine magic.\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　病人や怪我人連中は、私達に頼るしかないんだ。\",\"translatedEnglishLine\":\"The sick and injured have no choice but to rely on us.\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　薬切らしてます〜ってのだけは避けたいからね」\",\"translatedEnglishLine\":\"We definitely want to avoid ever running out of medicine.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「ふふ。\",\"translatedEnglishLine\":\"\\\"Hehe.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　……はい、そうですね」\",\"translatedEnglishLine\":\"...Yes, that's right.\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「ん、な、なに笑ってるのさ」\",\"translatedEnglishLine\":\"\\\"H-Hey, what are you laughing at?\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「あ、すみません。\",\"translatedEnglishLine\":\"\\\"Ah, sorry.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　ふふ、私、プリマさんって、\",\"translatedEnglishLine\":\"Hehe, I thought Prima-san would be\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　もっと怖い方かと思っていたので」\",\"translatedEnglishLine\":\"more frightening.\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「お優しいんですね」\",\"translatedEnglishLine\":\"\\\"You're kind.\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「か、勘弁してよ。\",\"translatedEnglishLine\":\"\\\"P-please, give me a break.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　あ〜、それよりこっちなんだけど」\",\"translatedEnglishLine\":\"Ah, but more importantly, about this here.\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "266784",
+                                "originalJapaneseLine": "　って感じかな」",
+                                "translatedEnglishLine": "\"Something like that, I guess.\""
+                            },
+                            {
+                                "lineNumber": "266785",
+                                "originalJapaneseLine": "「忙しく動き回っていたのだなぁ」",
+                                "translatedEnglishLine": "\"You've been busy running around, huh.\""
+                            },
+                            {
+                                "lineNumber": "266786",
+                                "originalJapaneseLine": "「まあ、ね……」",
+                                "translatedEnglishLine": "\"Well, yeah...\""
+                            },
+                            {
+                                "lineNumber": "266787",
+                                "originalJapaneseLine": "「あの頃、大して役に立たなかったし……",
+                                "translatedEnglishLine": "\"Back then, I wasn't really useful...\""
+                            },
+                            {
+                                "lineNumber": "266788",
+                                "originalJapaneseLine": "　今だってどれだけ役立てるか分からないけど」",
+                                "translatedEnglishLine": "But even now, I don't know how much I can help.\""
+                            },
+                            {
+                                "lineNumber": "266789",
+                                "originalJapaneseLine": "「それでもあたしらは命がけで",
+                                "translatedEnglishLine": "\"Even so, we risked our lives,"
+                            },
+                            {
+                                "lineNumber": "266790",
+                                "originalJapaneseLine": "　色んな思いを抱えて戦って……",
+                                "translatedEnglishLine": "fighting with all sorts of feelings in our hearts..."
+                            },
+                            {
+                                "lineNumber": "266791",
+                                "originalJapaneseLine": "　それで勝って平和にしたんだ」",
+                                "translatedEnglishLine": "And we won, bringing peace.\""
+                            },
+                            {
+                                "lineNumber": "266792",
+                                "originalJapaneseLine": "「それを簡単にご破算にされちゃ",
+                                "translatedEnglishLine": "\"It would be unbearable if all that were just thrown away so easily.\""
+                            },
+                            {
+                                "lineNumber": "266793",
+                                "originalJapaneseLine": "　たまらないからね」",
+                                "translatedEnglishLine": "\"I just can't stand it.\""
+                            },
+                            {
+                                "lineNumber": "266794",
+                                "originalJapaneseLine": "「ふーん……」",
+                                "translatedEnglishLine": "\"Hmm...\""
+                            },
+                            {
+                                "lineNumber": "266795",
+                                "originalJapaneseLine": "「男勝りな性格とは裏腹に、",
+                                "translatedEnglishLine": "\"Despite her tomboyish personality,"
+                            },
+                            {
+                                "lineNumber": "266796",
+                                "originalJapaneseLine": "　プリマは真面目で良い子だな」",
+                                "translatedEnglishLine": "Prima is serious and a good girl.\""
+                            },
+                            {
+                                "lineNumber": "266797",
+                                "originalJapaneseLine": "「……馬鹿にしてんのかよ」",
+                                "translatedEnglishLine": "\"...Are you mocking me or what?\""
+                            },
+                            {
+                                "lineNumber": "266798",
+                                "originalJapaneseLine": "「ほらほら、訓練の邪魔すんなら、",
+                                "translatedEnglishLine": "\"Hey, hey, if you're going to disturb the training,"
+                            },
+                            {
+                                "lineNumber": "266799",
+                                "originalJapaneseLine": "　よそへ行ってくれ」",
+                                "translatedEnglishLine": "please go somewhere else.\""
+                            },
+                            {
+                                "lineNumber": "266800",
+                                "originalJapaneseLine": "「はいはい……",
+                                "translatedEnglishLine": "\"Alright, alright...\""
+                            },
+                            {
+                                "lineNumber": "266801",
+                                "originalJapaneseLine": "　…………ん？」",
+                                "translatedEnglishLine": "...Hmm?\""
+                            },
+                            {
+                                "lineNumber": "266802",
+                                "originalJapaneseLine": "「なあ、あの中庭の入り口から、",
+                                "translatedEnglishLine": "\"Hey, from the entrance of that courtyard,"
+                            },
+                            {
+                                "lineNumber": "266803",
+                                "originalJapaneseLine": "　いじめっ子のニヤつき方しながら",
+                                "translatedEnglishLine": "someone's coming with a bully's smirk,"
+                            },
+                            {
+                                "lineNumber": "266804",
+                                "originalJapaneseLine": "　近づいてきてるの、メガデスじゃ……」",
+                                "translatedEnglishLine": "isn't that Megades approaching...?\""
+                            },
+                            {
+                                "lineNumber": "266805",
+                                "originalJapaneseLine": "「あ、あ、あ！",
+                                "translatedEnglishLine": "\"Ah, ah, ah!"
+                            },
+                            {
+                                "lineNumber": "266806",
+                                "originalJapaneseLine": "　やっぱりあたしがよそに行く！」",
+                                "translatedEnglishLine": "I really will go somewhere else!\""
+                            },
+                            {
+                                "lineNumber": "266807",
+                                "originalJapaneseLine": "「それじゃ！」",
+                                "translatedEnglishLine": "\"Well then!\""
+                            },
+                            {
+                                "lineNumber": "266808",
+                                "originalJapaneseLine": "「……逃げた」",
+                                "translatedEnglishLine": "\"...She ran away.\""
+                            },
+                            {
+                                "lineNumber": "266809",
+                                "originalJapaneseLine": "「あーあー、行っちゃったかー。",
+                                "translatedEnglishLine": "\"Ah, she really left, huh."
+                            },
+                            {
+                                "lineNumber": "266810",
+                                "originalJapaneseLine": "　モロミちゃん見て逃げ打つとか生意気だね」",
+                                "translatedEnglishLine": "So bold to run away when Moromi's watching.\""
+                            },
+                            {
+                                "lineNumber": "266811",
+                                "originalJapaneseLine": "「お前……",
+                                "translatedEnglishLine": "\"You..."
+                            },
+                            {
+                                "lineNumber": "266812",
+                                "originalJapaneseLine": "　相変わらずプリマに嫌われてるのな」",
+                                "translatedEnglishLine": "still hate Prima as always, huh?\""
+                            },
+                            {
+                                "lineNumber": "266813",
+                                "originalJapaneseLine": "「モロミちゃんはこんなに",
+                                "translatedEnglishLine": "\"Moromi loves Prima so much,"
+                            },
+                            {
+                                "lineNumber": "266814",
+                                "originalJapaneseLine": "　プリマが大好きなのにねー、",
+                                "translatedEnglishLine": "yet Prima hates her so much—"
+                            },
+                            {
+                                "lineNumber": "266815",
+                                "originalJapaneseLine": "　不っ思議ー☆」",
+                                "translatedEnglishLine": "How strange☆\""
+                            },
+                            {
+                                "lineNumber": "266816",
+                                "originalJapaneseLine": "「こんなドS女に好かれるとは……",
+                                "translatedEnglishLine": "\"To be liked by such a sadistic woman...,"
+                            },
+                            {
+                                "lineNumber": "266817",
+                                "originalJapaneseLine": "　真面目な良い子なのにプリマも可哀想な奴」",
+                                "translatedEnglishLine": "Prima's a serious good girl, so she must be a poor soul.\""
+                            },
+                            {
+                                "lineNumber": "266818",
+                                "originalJapaneseLine": "「あぁん？」",
+                                "translatedEnglishLine": "\"Huh?\""
+                            },
+                            {
+                                "lineNumber": "266819",
+                                "originalJapaneseLine": "野戦テント内でプリマとキャロリが",
+                                "translatedEnglishLine": "Inside the field tent, Prima and Caroly"
+                            },
+                            {
+                                "lineNumber": "266820",
+                                "originalJapaneseLine": "あれこれと相談していた。",
+                                "translatedEnglishLine": "were discussing various things."
+                            },
+                            {
+                                "lineNumber": "266821",
+                                "originalJapaneseLine": "「で、先程のと混ぜ合わせると、",
+                                "translatedEnglishLine": "\"So, if we mix this with what we had earlier,"
+                            },
+                            {
+                                "lineNumber": "266822",
+                                "originalJapaneseLine": "　打ち身、切り傷によく効く塗り薬の完成です。",
+                                "translatedEnglishLine": "we can make an ointment effective for bruises and cuts."
+                            },
+                            {
+                                "lineNumber": "266823",
+                                "originalJapaneseLine": "　こねこね」",
+                                "translatedEnglishLine": "Knead knead.\""
+                            },
+                            {
+                                "lineNumber": "266824",
+                                "originalJapaneseLine": "「ふーん、なるほどね……」",
+                                "translatedEnglishLine": "\"Hmm, I see...\""
+                            },
+                            {
+                                "lineNumber": "266825",
+                                "originalJapaneseLine": "「や、勉強になるよ。",
+                                "translatedEnglishLine": "\"Yeah, this is educational."
+                            },
+                            {
+                                "lineNumber": "266826",
+                                "originalJapaneseLine": "　簡単な手当なら出来るけど、",
+                                "translatedEnglishLine": "I can do basic first aid,"
+                            },
+                            {
+                                "lineNumber": "266827",
+                                "originalJapaneseLine": "　薬を作ったりは苦手でね」",
+                                "translatedEnglishLine": "but making medicines isn't my strong suit.\""
+                            },
+                            {
+                                "lineNumber": "266828",
+                                "originalJapaneseLine": "「こんな状況じゃ",
+                                "translatedEnglishLine": "\"In a situation like this,"
+                            },
+                            {
+                                "lineNumber": "266829",
+                                "originalJapaneseLine": "　薬もいずれ貴重になるだろうしね」",
+                                "translatedEnglishLine": "medicines will likely become valuable eventually.\""
+                            },
+                            {
+                                "lineNumber": "266830",
+                                "originalJapaneseLine": "「そうですね。",
+                                "translatedEnglishLine": "\"That's true."
+                            },
+                            {
+                                "lineNumber": "266831",
+                                "originalJapaneseLine": "　私も薬を作るのは久し振りです」",
+                                "translatedEnglishLine": "It's been a while since I made medicine too.\""
+                            },
+                            {
+                                "lineNumber": "266832",
+                                "originalJapaneseLine": "「神魔法の使い手は少ない。",
+                                "translatedEnglishLine": "\"There are few users of divine magic."
+                            },
+                            {
+                                "lineNumber": "266833",
+                                "originalJapaneseLine": "　病人や怪我人連中は、私達に頼るしかないんだ。",
+                                "translatedEnglishLine": "The sick and injured have no choice but to rely on us."
+                            },
+                            {
+                                "lineNumber": "266834",
+                                "originalJapaneseLine": "　薬切らしてます〜ってのだけは避けたいからね」",
+                                "translatedEnglishLine": "We definitely want to avoid ever running out of medicine.\""
+                            },
+                            {
+                                "lineNumber": "266835",
+                                "originalJapaneseLine": "「ふふ。",
+                                "translatedEnglishLine": "\"Hehe."
+                            },
+                            {
+                                "lineNumber": "266836",
+                                "originalJapaneseLine": "　……はい、そうですね」",
+                                "translatedEnglishLine": "...Yes, that's right.\""
+                            },
+                            {
+                                "lineNumber": "266837",
+                                "originalJapaneseLine": "「ん、な、なに笑ってるのさ」",
+                                "translatedEnglishLine": "\"H-Hey, what are you laughing at?\""
+                            },
+                            {
+                                "lineNumber": "266838",
+                                "originalJapaneseLine": "「あ、すみません。",
+                                "translatedEnglishLine": "\"Ah, sorry."
+                            },
+                            {
+                                "lineNumber": "266839",
+                                "originalJapaneseLine": "　ふふ、私、プリマさんって、",
+                                "translatedEnglishLine": "Hehe, I thought Prima-san would be"
+                            },
+                            {
+                                "lineNumber": "266840",
+                                "originalJapaneseLine": "　もっと怖い方かと思っていたので」",
+                                "translatedEnglishLine": "more frightening.\""
+                            },
+                            {
+                                "lineNumber": "266841",
+                                "originalJapaneseLine": "「お優しいんですね」",
+                                "translatedEnglishLine": "\"You're kind.\""
+                            },
+                            {
+                                "lineNumber": "266842",
+                                "originalJapaneseLine": "「か、勘弁してよ。",
+                                "translatedEnglishLine": "\"P-please, give me a break."
+                            },
+                            {
+                                "lineNumber": "266843",
+                                "originalJapaneseLine": "　あ〜、それよりこっちなんだけど」",
+                                "translatedEnglishLine": "Ah, but more importantly, about this here.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1784,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2054,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3838
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　って感じかな」\",\"translatedEnglishLine\":\"\\\"Something like that, I guess.\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「忙しく動き回っていたのだなぁ」\",\"translatedEnglishLine\":\"\\\"You've been busy running around, huh.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「まあ、ね……」\",\"translatedEnglishLine\":\"\\\"Well, yeah...\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「あの頃、大して役に立たなかったし……\",\"translatedEnglishLine\":\"\\\"Back then, I wasn't really useful...\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　今だってどれだけ役立てるか分からないけど」\",\"translatedEnglishLine\":\"But even now, I don't know how much I can help.\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「それでもあたしらは命がけで\",\"translatedEnglishLine\":\"\\\"Even so, we risked our lives,\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　色んな思いを抱えて戦って……\",\"translatedEnglishLine\":\"fighting with all sorts of feelings in our hearts...\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　それで勝って平和にしたんだ」\",\"translatedEnglishLine\":\"And we won, bringing peace.\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「それを簡単にご破算にされちゃ\",\"translatedEnglishLine\":\"\\\"It would be unbearable if all that were just thrown away so easily.\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　たまらないからね」\",\"translatedEnglishLine\":\"\\\"I just can't stand it.\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「ふーん……」\",\"translatedEnglishLine\":\"\\\"Hmm...\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「男勝りな性格とは裏腹に、\",\"translatedEnglishLine\":\"\\\"Despite her tomboyish personality,\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　プリマは真面目で良い子だな」\",\"translatedEnglishLine\":\"Prima is serious and a good girl.\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「……馬鹿にしてんのかよ」\",\"translatedEnglishLine\":\"\\\"...Are you mocking me or what?\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「ほらほら、訓練の邪魔すんなら、\",\"translatedEnglishLine\":\"\\\"Hey, hey, if you're going to disturb the training,\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　よそへ行ってくれ」\",\"translatedEnglishLine\":\"please go somewhere else.\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「はいはい……\",\"translatedEnglishLine\":\"\\\"Alright, alright...\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　…………ん？」\",\"translatedEnglishLine\":\"...Hmm?\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「なあ、あの中庭の入り口から、\",\"translatedEnglishLine\":\"\\\"Hey, from the entrance of that courtyard,\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　いじめっ子のニヤつき方しながら\",\"translatedEnglishLine\":\"someone's coming with a bully's smirk,\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　近づいてきてるの、メガデスじゃ……」\",\"translatedEnglishLine\":\"isn't that Megades approaching...?\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「あ、あ、あ！\",\"translatedEnglishLine\":\"\\\"Ah, ah, ah!\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　やっぱりあたしがよそに行く！」\",\"translatedEnglishLine\":\"I really will go somewhere else!\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「それじゃ！」\",\"translatedEnglishLine\":\"\\\"Well then!\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「……逃げた」\",\"translatedEnglishLine\":\"\\\"...She ran away.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「あーあー、行っちゃったかー。\",\"translatedEnglishLine\":\"\\\"Ah, she really left, huh.\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　モロミちゃん見て逃げ打つとか生意気だね」\",\"translatedEnglishLine\":\"So bold to run away when Moromi's watching.\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「お前……\",\"translatedEnglishLine\":\"\\\"You...\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"　相変わらずプリマに嫌われてるのな」\",\"translatedEnglishLine\":\"still hate Prima as always, huh?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「モロミちゃんはこんなに\",\"translatedEnglishLine\":\"\\\"Moromi loves Prima so much,\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　プリマが大好きなのにねー、\",\"translatedEnglishLine\":\"yet Prima hates her so much—\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　不っ思議ー☆」\",\"translatedEnglishLine\":\"How strange☆\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「こんなドS女に好かれるとは……\",\"translatedEnglishLine\":\"\\\"To be liked by such a sadistic woman...,\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　真面目な良い子なのにプリマも可哀想な奴」\",\"translatedEnglishLine\":\"Prima's a serious good girl, so she must be a poor soul.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「あぁん？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"野戦テント内でプリマとキャロリが\",\"translatedEnglishLine\":\"Inside the field tent, Prima and Caroly\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"あれこれと相談していた。\",\"translatedEnglishLine\":\"were discussing various things.\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「で、先程のと混ぜ合わせると、\",\"translatedEnglishLine\":\"\\\"So, if we mix this with what we had earlier,\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　打ち身、切り傷によく効く塗り薬の完成です。\",\"translatedEnglishLine\":\"we can make an ointment effective for bruises and cuts.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　こねこね」\",\"translatedEnglishLine\":\"Knead knead.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「ふーん、なるほどね……」\",\"translatedEnglishLine\":\"\\\"Hmm, I see...\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「や、勉強になるよ。\",\"translatedEnglishLine\":\"\\\"Yeah, this is educational.\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　簡単な手当なら出来るけど、\",\"translatedEnglishLine\":\"I can do basic first aid,\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　薬を作ったりは苦手でね」\",\"translatedEnglishLine\":\"but making medicines isn't my strong suit.\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「こんな状況じゃ\",\"translatedEnglishLine\":\"\\\"In a situation like this,\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　薬もいずれ貴重になるだろうしね」\",\"translatedEnglishLine\":\"medicines will likely become valuable eventually.\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「そうですね。\",\"translatedEnglishLine\":\"\\\"That's true.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　私も薬を作るのは久し振りです」\",\"translatedEnglishLine\":\"It's been a while since I made medicine too.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「神魔法の使い手は少ない。\",\"translatedEnglishLine\":\"\\\"There are few users of divine magic.\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　病人や怪我人連中は、私達に頼るしかないんだ。\",\"translatedEnglishLine\":\"The sick and injured have no choice but to rely on us.\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　薬切らしてます〜ってのだけは避けたいからね」\",\"translatedEnglishLine\":\"We definitely want to avoid ever running out of medicine.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「ふふ。\",\"translatedEnglishLine\":\"\\\"Hehe.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　……はい、そうですね」\",\"translatedEnglishLine\":\"...Yes, that's right.\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「ん、な、なに笑ってるのさ」\",\"translatedEnglishLine\":\"\\\"H-Hey, what are you laughing at?\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「あ、すみません。\",\"translatedEnglishLine\":\"\\\"Ah, sorry.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　ふふ、私、プリマさんって、\",\"translatedEnglishLine\":\"Hehe, I thought Prima-san would be\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　もっと怖い方かと思っていたので」\",\"translatedEnglishLine\":\"more frightening.\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「お優しいんですね」\",\"translatedEnglishLine\":\"\\\"You're kind.\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「か、勘弁してよ。\",\"translatedEnglishLine\":\"\\\"P-please, give me a break.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　あ〜、それよりこっちなんだけど」\",\"translatedEnglishLine\":\"Ah, but more importantly, about this here.\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "266784",
+                "originalJapaneseLine": "　って感じかな」",
+                "translatedEnglishLine": "\"Something like that, I guess.\""
+            },
+            {
+                "lineNumber": "266785",
+                "originalJapaneseLine": "「忙しく動き回っていたのだなぁ」",
+                "translatedEnglishLine": "\"You've been busy running around, huh.\""
+            },
+            {
+                "lineNumber": "266786",
+                "originalJapaneseLine": "「まあ、ね……」",
+                "translatedEnglishLine": "\"Well, yeah...\""
+            },
+            {
+                "lineNumber": "266787",
+                "originalJapaneseLine": "「あの頃、大して役に立たなかったし……",
+                "translatedEnglishLine": "\"Back then, I wasn't really useful...\""
+            },
+            {
+                "lineNumber": "266788",
+                "originalJapaneseLine": "　今だってどれだけ役立てるか分からないけど」",
+                "translatedEnglishLine": "But even now, I don't know how much I can help.\""
+            },
+            {
+                "lineNumber": "266789",
+                "originalJapaneseLine": "「それでもあたしらは命がけで",
+                "translatedEnglishLine": "\"Even so, we risked our lives,"
+            },
+            {
+                "lineNumber": "266790",
+                "originalJapaneseLine": "　色んな思いを抱えて戦って……",
+                "translatedEnglishLine": "fighting with all sorts of feelings in our hearts..."
+            },
+            {
+                "lineNumber": "266791",
+                "originalJapaneseLine": "　それで勝って平和にしたんだ」",
+                "translatedEnglishLine": "And we won, bringing peace.\""
+            },
+            {
+                "lineNumber": "266792",
+                "originalJapaneseLine": "「それを簡単にご破算にされちゃ",
+                "translatedEnglishLine": "\"It would be unbearable if all that were just thrown away so easily.\""
+            },
+            {
+                "lineNumber": "266793",
+                "originalJapaneseLine": "　たまらないからね」",
+                "translatedEnglishLine": "\"I just can't stand it.\""
+            },
+            {
+                "lineNumber": "266794",
+                "originalJapaneseLine": "「ふーん……」",
+                "translatedEnglishLine": "\"Hmm...\""
+            },
+            {
+                "lineNumber": "266795",
+                "originalJapaneseLine": "「男勝りな性格とは裏腹に、",
+                "translatedEnglishLine": "\"Despite her tomboyish personality,"
+            },
+            {
+                "lineNumber": "266796",
+                "originalJapaneseLine": "　プリマは真面目で良い子だな」",
+                "translatedEnglishLine": "Prima is serious and a good girl.\""
+            },
+            {
+                "lineNumber": "266797",
+                "originalJapaneseLine": "「……馬鹿にしてんのかよ」",
+                "translatedEnglishLine": "\"...Are you mocking me or what?\""
+            },
+            {
+                "lineNumber": "266798",
+                "originalJapaneseLine": "「ほらほら、訓練の邪魔すんなら、",
+                "translatedEnglishLine": "\"Hey, hey, if you're going to disturb the training,"
+            },
+            {
+                "lineNumber": "266799",
+                "originalJapaneseLine": "　よそへ行ってくれ」",
+                "translatedEnglishLine": "please go somewhere else.\""
+            },
+            {
+                "lineNumber": "266800",
+                "originalJapaneseLine": "「はいはい……",
+                "translatedEnglishLine": "\"Alright, alright...\""
+            },
+            {
+                "lineNumber": "266801",
+                "originalJapaneseLine": "　…………ん？」",
+                "translatedEnglishLine": "...Hmm?\""
+            },
+            {
+                "lineNumber": "266802",
+                "originalJapaneseLine": "「なあ、あの中庭の入り口から、",
+                "translatedEnglishLine": "\"Hey, from the entrance of that courtyard,"
+            },
+            {
+                "lineNumber": "266803",
+                "originalJapaneseLine": "　いじめっ子のニヤつき方しながら",
+                "translatedEnglishLine": "someone's coming with a bully's smirk,"
+            },
+            {
+                "lineNumber": "266804",
+                "originalJapaneseLine": "　近づいてきてるの、メガデスじゃ……」",
+                "translatedEnglishLine": "isn't that Megades approaching...?\""
+            },
+            {
+                "lineNumber": "266805",
+                "originalJapaneseLine": "「あ、あ、あ！",
+                "translatedEnglishLine": "\"Ah, ah, ah!"
+            },
+            {
+                "lineNumber": "266806",
+                "originalJapaneseLine": "　やっぱりあたしがよそに行く！」",
+                "translatedEnglishLine": "I really will go somewhere else!\""
+            },
+            {
+                "lineNumber": "266807",
+                "originalJapaneseLine": "「それじゃ！」",
+                "translatedEnglishLine": "\"Well then!\""
+            },
+            {
+                "lineNumber": "266808",
+                "originalJapaneseLine": "「……逃げた」",
+                "translatedEnglishLine": "\"...She ran away.\""
+            },
+            {
+                "lineNumber": "266809",
+                "originalJapaneseLine": "「あーあー、行っちゃったかー。",
+                "translatedEnglishLine": "\"Ah, she really left, huh."
+            },
+            {
+                "lineNumber": "266810",
+                "originalJapaneseLine": "　モロミちゃん見て逃げ打つとか生意気だね」",
+                "translatedEnglishLine": "So bold to run away when Moromi's watching.\""
+            },
+            {
+                "lineNumber": "266811",
+                "originalJapaneseLine": "「お前……",
+                "translatedEnglishLine": "\"You..."
+            },
+            {
+                "lineNumber": "266812",
+                "originalJapaneseLine": "　相変わらずプリマに嫌われてるのな」",
+                "translatedEnglishLine": "still hate Prima as always, huh?\""
+            },
+            {
+                "lineNumber": "266813",
+                "originalJapaneseLine": "「モロミちゃんはこんなに",
+                "translatedEnglishLine": "\"Moromi loves Prima so much,"
+            },
+            {
+                "lineNumber": "266814",
+                "originalJapaneseLine": "　プリマが大好きなのにねー、",
+                "translatedEnglishLine": "yet Prima hates her so much—"
+            },
+            {
+                "lineNumber": "266815",
+                "originalJapaneseLine": "　不っ思議ー☆」",
+                "translatedEnglishLine": "How strange☆\""
+            },
+            {
+                "lineNumber": "266816",
+                "originalJapaneseLine": "「こんなドS女に好かれるとは……",
+                "translatedEnglishLine": "\"To be liked by such a sadistic woman...,"
+            },
+            {
+                "lineNumber": "266817",
+                "originalJapaneseLine": "　真面目な良い子なのにプリマも可哀想な奴」",
+                "translatedEnglishLine": "Prima's a serious good girl, so she must be a poor soul.\""
+            },
+            {
+                "lineNumber": "266818",
+                "originalJapaneseLine": "「あぁん？」",
+                "translatedEnglishLine": "\"Huh?\""
+            },
+            {
+                "lineNumber": "266819",
+                "originalJapaneseLine": "野戦テント内でプリマとキャロリが",
+                "translatedEnglishLine": "Inside the field tent, Prima and Caroly"
+            },
+            {
+                "lineNumber": "266820",
+                "originalJapaneseLine": "あれこれと相談していた。",
+                "translatedEnglishLine": "were discussing various things."
+            },
+            {
+                "lineNumber": "266821",
+                "originalJapaneseLine": "「で、先程のと混ぜ合わせると、",
+                "translatedEnglishLine": "\"So, if we mix this with what we had earlier,"
+            },
+            {
+                "lineNumber": "266822",
+                "originalJapaneseLine": "　打ち身、切り傷によく効く塗り薬の完成です。",
+                "translatedEnglishLine": "we can make an ointment effective for bruises and cuts."
+            },
+            {
+                "lineNumber": "266823",
+                "originalJapaneseLine": "　こねこね」",
+                "translatedEnglishLine": "Knead knead.\""
+            },
+            {
+                "lineNumber": "266824",
+                "originalJapaneseLine": "「ふーん、なるほどね……」",
+                "translatedEnglishLine": "\"Hmm, I see...\""
+            },
+            {
+                "lineNumber": "266825",
+                "originalJapaneseLine": "「や、勉強になるよ。",
+                "translatedEnglishLine": "\"Yeah, this is educational."
+            },
+            {
+                "lineNumber": "266826",
+                "originalJapaneseLine": "　簡単な手当なら出来るけど、",
+                "translatedEnglishLine": "I can do basic first aid,"
+            },
+            {
+                "lineNumber": "266827",
+                "originalJapaneseLine": "　薬を作ったりは苦手でね」",
+                "translatedEnglishLine": "but making medicines isn't my strong suit.\""
+            },
+            {
+                "lineNumber": "266828",
+                "originalJapaneseLine": "「こんな状況じゃ",
+                "translatedEnglishLine": "\"In a situation like this,"
+            },
+            {
+                "lineNumber": "266829",
+                "originalJapaneseLine": "　薬もいずれ貴重になるだろうしね」",
+                "translatedEnglishLine": "medicines will likely become valuable eventually.\""
+            },
+            {
+                "lineNumber": "266830",
+                "originalJapaneseLine": "「そうですね。",
+                "translatedEnglishLine": "\"That's true."
+            },
+            {
+                "lineNumber": "266831",
+                "originalJapaneseLine": "　私も薬を作るのは久し振りです」",
+                "translatedEnglishLine": "It's been a while since I made medicine too.\""
+            },
+            {
+                "lineNumber": "266832",
+                "originalJapaneseLine": "「神魔法の使い手は少ない。",
+                "translatedEnglishLine": "\"There are few users of divine magic."
+            },
+            {
+                "lineNumber": "266833",
+                "originalJapaneseLine": "　病人や怪我人連中は、私達に頼るしかないんだ。",
+                "translatedEnglishLine": "The sick and injured have no choice but to rely on us."
+            },
+            {
+                "lineNumber": "266834",
+                "originalJapaneseLine": "　薬切らしてます〜ってのだけは避けたいからね」",
+                "translatedEnglishLine": "We definitely want to avoid ever running out of medicine.\""
+            },
+            {
+                "lineNumber": "266835",
+                "originalJapaneseLine": "「ふふ。",
+                "translatedEnglishLine": "\"Hehe."
+            },
+            {
+                "lineNumber": "266836",
+                "originalJapaneseLine": "　……はい、そうですね」",
+                "translatedEnglishLine": "...Yes, that's right.\""
+            },
+            {
+                "lineNumber": "266837",
+                "originalJapaneseLine": "「ん、な、なに笑ってるのさ」",
+                "translatedEnglishLine": "\"H-Hey, what are you laughing at?\""
+            },
+            {
+                "lineNumber": "266838",
+                "originalJapaneseLine": "「あ、すみません。",
+                "translatedEnglishLine": "\"Ah, sorry."
+            },
+            {
+                "lineNumber": "266839",
+                "originalJapaneseLine": "　ふふ、私、プリマさんって、",
+                "translatedEnglishLine": "Hehe, I thought Prima-san would be"
+            },
+            {
+                "lineNumber": "266840",
+                "originalJapaneseLine": "　もっと怖い方かと思っていたので」",
+                "translatedEnglishLine": "more frightening.\""
+            },
+            {
+                "lineNumber": "266841",
+                "originalJapaneseLine": "「お優しいんですね」",
+                "translatedEnglishLine": "\"You're kind.\""
+            },
+            {
+                "lineNumber": "266842",
+                "originalJapaneseLine": "「か、勘弁してよ。",
+                "translatedEnglishLine": "\"P-please, give me a break."
+            },
+            {
+                "lineNumber": "266843",
+                "originalJapaneseLine": "　あ〜、それよりこっちなんだけど」",
+                "translatedEnglishLine": "Ah, but more importantly, about this here.\""
+            }
+        ]
+    }
+}

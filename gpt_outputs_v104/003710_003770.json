@@ -1,0 +1,719 @@
+{
+    "id": "resp_09f0a03c2ee7e4cf0068ffecc8f04c8194995ab5e588f74718",
+    "object": "response",
+    "created_at": 1761602761,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_09f0a03c2ee7e4cf0068ffecc96c6481948f9c2c6c56382db1",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　あんな言い方良くないわ、姉さん。\",\"translatedEnglishLine\":\"That way of speaking isn't good, sister.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　パイアールは私達の為にしてくれたのに」\",\"translatedEnglishLine\":\"Paiar did it for us.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「な、なによ……\",\"translatedEnglishLine\":\"W-What...?\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　だってあいつが適当ばっかり言うから\",\"translatedEnglishLine\":\"Because that guy just keeps saying random things.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「まあ……\",\"translatedEnglishLine\":\"Well...\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　とにかく試してみましょうか\",\"translatedEnglishLine\":\"Anyway, shall we try it out?\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「うん、そうね」\",\"translatedEnglishLine\":\"Yeah, that's right.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「あれ？\",\"translatedEnglishLine\":\"Huh?\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　数値がてんで低いじゃない。\",\"translatedEnglishLine\":\"The numbers are totally low.\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　300どころか100にも満たない\",\"translatedEnglishLine\":\"Not even close to 300, barely reaching 100.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「……こっちもね」\",\"translatedEnglishLine\":\"...This one too.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「この数値……\",\"translatedEnglishLine\":\"These values...\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　どうやったら上がるわけ？」\",\"translatedEnglishLine\":\"How exactly are they supposed to go up?\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"二人は数値を上げる為に\",\"translatedEnglishLine\":\"The two tried various things\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"色々なことを試しに行ってみた。\",\"translatedEnglishLine\":\"to raise their numbers.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"走ったり、戦ったり、歌ったり、\",\"translatedEnglishLine\":\"Running, fighting, singing,\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"本当に様々なことを試みた。\",\"translatedEnglishLine\":\"They tried all sorts of different things.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"次第にいらいらが募りだしたサイゼルのせいで、\",\"translatedEnglishLine\":\"Due to Saizel's growing irritation,\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"喧嘩が始まっても、頑張り続けた。\",\"translatedEnglishLine\":\"even when arguments started, they kept at it.\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「だ……」\",\"translatedEnglishLine\":\"Da...\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「だーーー！\",\"translatedEnglishLine\":\"Daaah!\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　数値まったく上がらないじゃないのよー！」\",\"translatedEnglishLine\":\"The numbers aren't going up at all!\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「うーん、この数値、\",\"translatedEnglishLine\":\"Hmm, these values,\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　どうやったら上がるのかしら……」\",\"translatedEnglishLine\":\"I wonder how they can be increased...\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「パイアールにも分からないと言っていたし……\",\"translatedEnglishLine\":\"Paiar said he didn't know either...\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　弱ったわね……」\",\"translatedEnglishLine\":\"This is troubling...\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「ま、まあ、不用意に合体せずに\",\"translatedEnglishLine\":\"Well, if we think about not merging recklessly,\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　済んでいると思えばそれはそれで……」\",\"translatedEnglishLine\":\"then maybe it's not so bad...\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「ちぇっ、せっかく、\",\"translatedEnglishLine\":\"Tch, just when I thought,\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　地上最強の力を手に入れたと思ったのに\",\"translatedEnglishLine\":\"I'd gained the strongest power on earth.\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"そのうち、二人はブレスレットのことも、\",\"translatedEnglishLine\":\"Eventually, the two even forgot about the bracelets,\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"バスワルドのことも忘れてしまうのだった。\",\"translatedEnglishLine\":\"and also about Baswald.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"ただ、その方が良かったのかも知れない。\",\"translatedEnglishLine\":\"Perhaps it was better that way.\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"この世界に生きる生物にとっては。\",\"translatedEnglishLine\":\"For the creatures living in this world.\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"サイゼルはいない。\",\"translatedEnglishLine\":\"Saizel is not here.\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"ハウゼルはいない。\",\"translatedEnglishLine\":\"Hauzel is not here.\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"サイゼルはいる。\",\"translatedEnglishLine\":\"Saizel is here.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"ハウゼルはいる。\",\"translatedEnglishLine\":\"Hauzel is here.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"二人は、一人に。\",\"translatedEnglishLine\":\"The two became one.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"無の存在に。\",\"translatedEnglishLine\":\"An existence of nothingness.\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"破壊神バスワルドが温泉に顕現していた。\",\"translatedEnglishLine\":\"The god of destruction, Baswald, had manifested in the hot spring.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"正確には湯に浸かっているのではなく、\",\"translatedEnglishLine\":\"More precisely, he wasn't soaking in the water,\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"温泉の水面に穴を開けて、\",\"translatedEnglishLine\":\"but had made a hole in the surface of the hot spring,\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"バスワルドがふわふわと浮いていた。\",\"translatedEnglishLine\":\"and Baswald floated gently.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「あいつ、何してんだ……」\",\"translatedEnglishLine\":\"What is that guy doing...?\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「しかし……\",\"translatedEnglishLine\":\"However...\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　うーん、中々いい体だ」\",\"translatedEnglishLine\":\"Hmm, quite a good body.\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「問題は……\",\"translatedEnglishLine\":\"The problem is...\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　えいっ」\",\"translatedEnglishLine\":\"Ei!\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"ランスがシュポーンと湯桶を投げつける。\",\"translatedEnglishLine\":\"Rance threw a hot water bucket with a splash.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"バシュンッ！\",\"translatedEnglishLine\":\"Splash!\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"しかし湯桶はバスワルドに接近した途端、\",\"translatedEnglishLine\":\"But as soon as the bucket approached Baswald,\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"周囲の空間ごと削り取られ消滅した。\",\"translatedEnglishLine\":\"it was scraped away along with the surrounding space and disappeared.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「うーん、近づくのは危険そうだな……」\",\"translatedEnglishLine\":\"Hmm, it looks dangerous to get close...\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「ぷるるっ。\",\"translatedEnglishLine\":\"*Shiver*.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　ちと寒くなってきた……\",\"translatedEnglishLine\":\"I'm starting to feel a bit cold...\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "268344",
+                                "originalJapaneseLine": "　あんな言い方良くないわ、姉さん。",
+                                "translatedEnglishLine": "That way of speaking isn't good, sister."
+                            },
+                            {
+                                "lineNumber": "268345",
+                                "originalJapaneseLine": "　パイアールは私達の為にしてくれたのに」",
+                                "translatedEnglishLine": "Paiar did it for us."
+                            },
+                            {
+                                "lineNumber": "268346",
+                                "originalJapaneseLine": "「な、なによ……",
+                                "translatedEnglishLine": "W-What...?"
+                            },
+                            {
+                                "lineNumber": "268347",
+                                "originalJapaneseLine": "　だってあいつが適当ばっかり言うから",
+                                "translatedEnglishLine": "Because that guy just keeps saying random things."
+                            },
+                            {
+                                "lineNumber": "268348",
+                                "originalJapaneseLine": "「まあ……",
+                                "translatedEnglishLine": "Well..."
+                            },
+                            {
+                                "lineNumber": "268349",
+                                "originalJapaneseLine": "　とにかく試してみましょうか",
+                                "translatedEnglishLine": "Anyway, shall we try it out?"
+                            },
+                            {
+                                "lineNumber": "268350",
+                                "originalJapaneseLine": "「うん、そうね」",
+                                "translatedEnglishLine": "Yeah, that's right."
+                            },
+                            {
+                                "lineNumber": "268351",
+                                "originalJapaneseLine": "「あれ？",
+                                "translatedEnglishLine": "Huh?"
+                            },
+                            {
+                                "lineNumber": "268352",
+                                "originalJapaneseLine": "　数値がてんで低いじゃない。",
+                                "translatedEnglishLine": "The numbers are totally low."
+                            },
+                            {
+                                "lineNumber": "268353",
+                                "originalJapaneseLine": "　300どころか100にも満たない",
+                                "translatedEnglishLine": "Not even close to 300, barely reaching 100."
+                            },
+                            {
+                                "lineNumber": "268354",
+                                "originalJapaneseLine": "「……こっちもね」",
+                                "translatedEnglishLine": "...This one too."
+                            },
+                            {
+                                "lineNumber": "268355",
+                                "originalJapaneseLine": "「この数値……",
+                                "translatedEnglishLine": "These values..."
+                            },
+                            {
+                                "lineNumber": "268356",
+                                "originalJapaneseLine": "　どうやったら上がるわけ？」",
+                                "translatedEnglishLine": "How exactly are they supposed to go up?"
+                            },
+                            {
+                                "lineNumber": "268357",
+                                "originalJapaneseLine": "二人は数値を上げる為に",
+                                "translatedEnglishLine": "The two tried various things"
+                            },
+                            {
+                                "lineNumber": "268358",
+                                "originalJapaneseLine": "色々なことを試しに行ってみた。",
+                                "translatedEnglishLine": "to raise their numbers."
+                            },
+                            {
+                                "lineNumber": "268359",
+                                "originalJapaneseLine": "走ったり、戦ったり、歌ったり、",
+                                "translatedEnglishLine": "Running, fighting, singing,"
+                            },
+                            {
+                                "lineNumber": "268360",
+                                "originalJapaneseLine": "本当に様々なことを試みた。",
+                                "translatedEnglishLine": "They tried all sorts of different things."
+                            },
+                            {
+                                "lineNumber": "268361",
+                                "originalJapaneseLine": "次第にいらいらが募りだしたサイゼルのせいで、",
+                                "translatedEnglishLine": "Due to Saizel's growing irritation,"
+                            },
+                            {
+                                "lineNumber": "268362",
+                                "originalJapaneseLine": "喧嘩が始まっても、頑張り続けた。",
+                                "translatedEnglishLine": "even when arguments started, they kept at it."
+                            },
+                            {
+                                "lineNumber": "268363",
+                                "originalJapaneseLine": "「だ……」",
+                                "translatedEnglishLine": "Da..."
+                            },
+                            {
+                                "lineNumber": "268364",
+                                "originalJapaneseLine": "「だーーー！",
+                                "translatedEnglishLine": "Daaah!"
+                            },
+                            {
+                                "lineNumber": "268365",
+                                "originalJapaneseLine": "　数値まったく上がらないじゃないのよー！」",
+                                "translatedEnglishLine": "The numbers aren't going up at all!"
+                            },
+                            {
+                                "lineNumber": "268366",
+                                "originalJapaneseLine": "「うーん、この数値、",
+                                "translatedEnglishLine": "Hmm, these values,"
+                            },
+                            {
+                                "lineNumber": "268367",
+                                "originalJapaneseLine": "　どうやったら上がるのかしら……」",
+                                "translatedEnglishLine": "I wonder how they can be increased..."
+                            },
+                            {
+                                "lineNumber": "268368",
+                                "originalJapaneseLine": "「パイアールにも分からないと言っていたし……",
+                                "translatedEnglishLine": "Paiar said he didn't know either..."
+                            },
+                            {
+                                "lineNumber": "268369",
+                                "originalJapaneseLine": "　弱ったわね……」",
+                                "translatedEnglishLine": "This is troubling..."
+                            },
+                            {
+                                "lineNumber": "268370",
+                                "originalJapaneseLine": "「ま、まあ、不用意に合体せずに",
+                                "translatedEnglishLine": "Well, if we think about not merging recklessly,"
+                            },
+                            {
+                                "lineNumber": "268371",
+                                "originalJapaneseLine": "　済んでいると思えばそれはそれで……」",
+                                "translatedEnglishLine": "then maybe it's not so bad..."
+                            },
+                            {
+                                "lineNumber": "268372",
+                                "originalJapaneseLine": "「ちぇっ、せっかく、",
+                                "translatedEnglishLine": "Tch, just when I thought,"
+                            },
+                            {
+                                "lineNumber": "268373",
+                                "originalJapaneseLine": "　地上最強の力を手に入れたと思ったのに",
+                                "translatedEnglishLine": "I'd gained the strongest power on earth."
+                            },
+                            {
+                                "lineNumber": "268374",
+                                "originalJapaneseLine": "そのうち、二人はブレスレットのことも、",
+                                "translatedEnglishLine": "Eventually, the two even forgot about the bracelets,"
+                            },
+                            {
+                                "lineNumber": "268375",
+                                "originalJapaneseLine": "バスワルドのことも忘れてしまうのだった。",
+                                "translatedEnglishLine": "and also about Baswald."
+                            },
+                            {
+                                "lineNumber": "268376",
+                                "originalJapaneseLine": "ただ、その方が良かったのかも知れない。",
+                                "translatedEnglishLine": "Perhaps it was better that way."
+                            },
+                            {
+                                "lineNumber": "268377",
+                                "originalJapaneseLine": "この世界に生きる生物にとっては。",
+                                "translatedEnglishLine": "For the creatures living in this world."
+                            },
+                            {
+                                "lineNumber": "268378",
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "........"
+                            },
+                            {
+                                "lineNumber": "268379",
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": "268380",
+                                "originalJapaneseLine": "サイゼルはいない。",
+                                "translatedEnglishLine": "Saizel is not here."
+                            },
+                            {
+                                "lineNumber": "268381",
+                                "originalJapaneseLine": "ハウゼルはいない。",
+                                "translatedEnglishLine": "Hauzel is not here."
+                            },
+                            {
+                                "lineNumber": "268382",
+                                "originalJapaneseLine": "サイゼルはいる。",
+                                "translatedEnglishLine": "Saizel is here."
+                            },
+                            {
+                                "lineNumber": "268383",
+                                "originalJapaneseLine": "ハウゼルはいる。",
+                                "translatedEnglishLine": "Hauzel is here."
+                            },
+                            {
+                                "lineNumber": "268384",
+                                "originalJapaneseLine": "二人は、一人に。",
+                                "translatedEnglishLine": "The two became one."
+                            },
+                            {
+                                "lineNumber": "268385",
+                                "originalJapaneseLine": "無の存在に。",
+                                "translatedEnglishLine": "An existence of nothingness."
+                            },
+                            {
+                                "lineNumber": "268386",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "........"
+                            },
+                            {
+                                "lineNumber": "268387",
+                                "originalJapaneseLine": "破壊神バスワルドが温泉に顕現していた。",
+                                "translatedEnglishLine": "The god of destruction, Baswald, had manifested in the hot spring."
+                            },
+                            {
+                                "lineNumber": "268388",
+                                "originalJapaneseLine": "正確には湯に浸かっているのではなく、",
+                                "translatedEnglishLine": "More precisely, he wasn't soaking in the water,"
+                            },
+                            {
+                                "lineNumber": "268389",
+                                "originalJapaneseLine": "温泉の水面に穴を開けて、",
+                                "translatedEnglishLine": "but had made a hole in the surface of the hot spring,"
+                            },
+                            {
+                                "lineNumber": "268390",
+                                "originalJapaneseLine": "バスワルドがふわふわと浮いていた。",
+                                "translatedEnglishLine": "and Baswald floated gently."
+                            },
+                            {
+                                "lineNumber": "268391",
+                                "originalJapaneseLine": "「あいつ、何してんだ……」",
+                                "translatedEnglishLine": "What is that guy doing...?"
+                            },
+                            {
+                                "lineNumber": "268392",
+                                "originalJapaneseLine": "「しかし……",
+                                "translatedEnglishLine": "However..."
+                            },
+                            {
+                                "lineNumber": "268393",
+                                "originalJapaneseLine": "　うーん、中々いい体だ」",
+                                "translatedEnglishLine": "Hmm, quite a good body."
+                            },
+                            {
+                                "lineNumber": "268394",
+                                "originalJapaneseLine": "「問題は……",
+                                "translatedEnglishLine": "The problem is..."
+                            },
+                            {
+                                "lineNumber": "268395",
+                                "originalJapaneseLine": "　えいっ」",
+                                "translatedEnglishLine": "Ei!"
+                            },
+                            {
+                                "lineNumber": "268396",
+                                "originalJapaneseLine": "ランスがシュポーンと湯桶を投げつける。",
+                                "translatedEnglishLine": "Rance threw a hot water bucket with a splash."
+                            },
+                            {
+                                "lineNumber": "268397",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "........"
+                            },
+                            {
+                                "lineNumber": "268398",
+                                "originalJapaneseLine": "バシュンッ！",
+                                "translatedEnglishLine": "Splash!"
+                            },
+                            {
+                                "lineNumber": "268399",
+                                "originalJapaneseLine": "しかし湯桶はバスワルドに接近した途端、",
+                                "translatedEnglishLine": "But as soon as the bucket approached Baswald,"
+                            },
+                            {
+                                "lineNumber": "268400",
+                                "originalJapaneseLine": "周囲の空間ごと削り取られ消滅した。",
+                                "translatedEnglishLine": "it was scraped away along with the surrounding space and disappeared."
+                            },
+                            {
+                                "lineNumber": "268401",
+                                "originalJapaneseLine": "「うーん、近づくのは危険そうだな……」",
+                                "translatedEnglishLine": "Hmm, it looks dangerous to get close..."
+                            },
+                            {
+                                "lineNumber": "268402",
+                                "originalJapaneseLine": "「ぷるるっ。",
+                                "translatedEnglishLine": "*Shiver*."
+                            },
+                            {
+                                "lineNumber": "268403",
+                                "originalJapaneseLine": "　ちと寒くなってきた……",
+                                "translatedEnglishLine": "I'm starting to feel a bit cold..."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1750,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1918,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3668
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　あんな言い方良くないわ、姉さん。\",\"translatedEnglishLine\":\"That way of speaking isn't good, sister.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　パイアールは私達の為にしてくれたのに」\",\"translatedEnglishLine\":\"Paiar did it for us.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「な、なによ……\",\"translatedEnglishLine\":\"W-What...?\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　だってあいつが適当ばっかり言うから\",\"translatedEnglishLine\":\"Because that guy just keeps saying random things.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「まあ……\",\"translatedEnglishLine\":\"Well...\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　とにかく試してみましょうか\",\"translatedEnglishLine\":\"Anyway, shall we try it out?\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「うん、そうね」\",\"translatedEnglishLine\":\"Yeah, that's right.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「あれ？\",\"translatedEnglishLine\":\"Huh?\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　数値がてんで低いじゃない。\",\"translatedEnglishLine\":\"The numbers are totally low.\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　300どころか100にも満たない\",\"translatedEnglishLine\":\"Not even close to 300, barely reaching 100.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「……こっちもね」\",\"translatedEnglishLine\":\"...This one too.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「この数値……\",\"translatedEnglishLine\":\"These values...\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　どうやったら上がるわけ？」\",\"translatedEnglishLine\":\"How exactly are they supposed to go up?\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"二人は数値を上げる為に\",\"translatedEnglishLine\":\"The two tried various things\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"色々なことを試しに行ってみた。\",\"translatedEnglishLine\":\"to raise their numbers.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"走ったり、戦ったり、歌ったり、\",\"translatedEnglishLine\":\"Running, fighting, singing,\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"本当に様々なことを試みた。\",\"translatedEnglishLine\":\"They tried all sorts of different things.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"次第にいらいらが募りだしたサイゼルのせいで、\",\"translatedEnglishLine\":\"Due to Saizel's growing irritation,\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"喧嘩が始まっても、頑張り続けた。\",\"translatedEnglishLine\":\"even when arguments started, they kept at it.\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「だ……」\",\"translatedEnglishLine\":\"Da...\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「だーーー！\",\"translatedEnglishLine\":\"Daaah!\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　数値まったく上がらないじゃないのよー！」\",\"translatedEnglishLine\":\"The numbers aren't going up at all!\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「うーん、この数値、\",\"translatedEnglishLine\":\"Hmm, these values,\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　どうやったら上がるのかしら……」\",\"translatedEnglishLine\":\"I wonder how they can be increased...\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「パイアールにも分からないと言っていたし……\",\"translatedEnglishLine\":\"Paiar said he didn't know either...\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　弱ったわね……」\",\"translatedEnglishLine\":\"This is troubling...\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「ま、まあ、不用意に合体せずに\",\"translatedEnglishLine\":\"Well, if we think about not merging recklessly,\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　済んでいると思えばそれはそれで……」\",\"translatedEnglishLine\":\"then maybe it's not so bad...\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「ちぇっ、せっかく、\",\"translatedEnglishLine\":\"Tch, just when I thought,\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　地上最強の力を手に入れたと思ったのに\",\"translatedEnglishLine\":\"I'd gained the strongest power on earth.\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"そのうち、二人はブレスレットのことも、\",\"translatedEnglishLine\":\"Eventually, the two even forgot about the bracelets,\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"バスワルドのことも忘れてしまうのだった。\",\"translatedEnglishLine\":\"and also about Baswald.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"ただ、その方が良かったのかも知れない。\",\"translatedEnglishLine\":\"Perhaps it was better that way.\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"この世界に生きる生物にとっては。\",\"translatedEnglishLine\":\"For the creatures living in this world.\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"サイゼルはいない。\",\"translatedEnglishLine\":\"Saizel is not here.\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"ハウゼルはいない。\",\"translatedEnglishLine\":\"Hauzel is not here.\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"サイゼルはいる。\",\"translatedEnglishLine\":\"Saizel is here.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"ハウゼルはいる。\",\"translatedEnglishLine\":\"Hauzel is here.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"二人は、一人に。\",\"translatedEnglishLine\":\"The two became one.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"無の存在に。\",\"translatedEnglishLine\":\"An existence of nothingness.\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"破壊神バスワルドが温泉に顕現していた。\",\"translatedEnglishLine\":\"The god of destruction, Baswald, had manifested in the hot spring.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"正確には湯に浸かっているのではなく、\",\"translatedEnglishLine\":\"More precisely, he wasn't soaking in the water,\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"温泉の水面に穴を開けて、\",\"translatedEnglishLine\":\"but had made a hole in the surface of the hot spring,\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"バスワルドがふわふわと浮いていた。\",\"translatedEnglishLine\":\"and Baswald floated gently.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「あいつ、何してんだ……」\",\"translatedEnglishLine\":\"What is that guy doing...?\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「しかし……\",\"translatedEnglishLine\":\"However...\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　うーん、中々いい体だ」\",\"translatedEnglishLine\":\"Hmm, quite a good body.\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「問題は……\",\"translatedEnglishLine\":\"The problem is...\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　えいっ」\",\"translatedEnglishLine\":\"Ei!\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"ランスがシュポーンと湯桶を投げつける。\",\"translatedEnglishLine\":\"Rance threw a hot water bucket with a splash.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"バシュンッ！\",\"translatedEnglishLine\":\"Splash!\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"しかし湯桶はバスワルドに接近した途端、\",\"translatedEnglishLine\":\"But as soon as the bucket approached Baswald,\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"周囲の空間ごと削り取られ消滅した。\",\"translatedEnglishLine\":\"it was scraped away along with the surrounding space and disappeared.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「うーん、近づくのは危険そうだな……」\",\"translatedEnglishLine\":\"Hmm, it looks dangerous to get close...\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「ぷるるっ。\",\"translatedEnglishLine\":\"*Shiver*.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　ちと寒くなってきた……\",\"translatedEnglishLine\":\"I'm starting to feel a bit cold...\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "268344",
+                "originalJapaneseLine": "　あんな言い方良くないわ、姉さん。",
+                "translatedEnglishLine": "That way of speaking isn't good, sister."
+            },
+            {
+                "lineNumber": "268345",
+                "originalJapaneseLine": "　パイアールは私達の為にしてくれたのに」",
+                "translatedEnglishLine": "Paiar did it for us."
+            },
+            {
+                "lineNumber": "268346",
+                "originalJapaneseLine": "「な、なによ……",
+                "translatedEnglishLine": "W-What...?"
+            },
+            {
+                "lineNumber": "268347",
+                "originalJapaneseLine": "　だってあいつが適当ばっかり言うから",
+                "translatedEnglishLine": "Because that guy just keeps saying random things."
+            },
+            {
+                "lineNumber": "268348",
+                "originalJapaneseLine": "「まあ……",
+                "translatedEnglishLine": "Well..."
+            },
+            {
+                "lineNumber": "268349",
+                "originalJapaneseLine": "　とにかく試してみましょうか",
+                "translatedEnglishLine": "Anyway, shall we try it out?"
+            },
+            {
+                "lineNumber": "268350",
+                "originalJapaneseLine": "「うん、そうね」",
+                "translatedEnglishLine": "Yeah, that's right."
+            },
+            {
+                "lineNumber": "268351",
+                "originalJapaneseLine": "「あれ？",
+                "translatedEnglishLine": "Huh?"
+            },
+            {
+                "lineNumber": "268352",
+                "originalJapaneseLine": "　数値がてんで低いじゃない。",
+                "translatedEnglishLine": "The numbers are totally low."
+            },
+            {
+                "lineNumber": "268353",
+                "originalJapaneseLine": "　300どころか100にも満たない",
+                "translatedEnglishLine": "Not even close to 300, barely reaching 100."
+            },
+            {
+                "lineNumber": "268354",
+                "originalJapaneseLine": "「……こっちもね」",
+                "translatedEnglishLine": "...This one too."
+            },
+            {
+                "lineNumber": "268355",
+                "originalJapaneseLine": "「この数値……",
+                "translatedEnglishLine": "These values..."
+            },
+            {
+                "lineNumber": "268356",
+                "originalJapaneseLine": "　どうやったら上がるわけ？」",
+                "translatedEnglishLine": "How exactly are they supposed to go up?"
+            },
+            {
+                "lineNumber": "268357",
+                "originalJapaneseLine": "二人は数値を上げる為に",
+                "translatedEnglishLine": "The two tried various things"
+            },
+            {
+                "lineNumber": "268358",
+                "originalJapaneseLine": "色々なことを試しに行ってみた。",
+                "translatedEnglishLine": "to raise their numbers."
+            },
+            {
+                "lineNumber": "268359",
+                "originalJapaneseLine": "走ったり、戦ったり、歌ったり、",
+                "translatedEnglishLine": "Running, fighting, singing,"
+            },
+            {
+                "lineNumber": "268360",
+                "originalJapaneseLine": "本当に様々なことを試みた。",
+                "translatedEnglishLine": "They tried all sorts of different things."
+            },
+            {
+                "lineNumber": "268361",
+                "originalJapaneseLine": "次第にいらいらが募りだしたサイゼルのせいで、",
+                "translatedEnglishLine": "Due to Saizel's growing irritation,"
+            },
+            {
+                "lineNumber": "268362",
+                "originalJapaneseLine": "喧嘩が始まっても、頑張り続けた。",
+                "translatedEnglishLine": "even when arguments started, they kept at it."
+            },
+            {
+                "lineNumber": "268363",
+                "originalJapaneseLine": "「だ……」",
+                "translatedEnglishLine": "Da..."
+            },
+            {
+                "lineNumber": "268364",
+                "originalJapaneseLine": "「だーーー！",
+                "translatedEnglishLine": "Daaah!"
+            },
+            {
+                "lineNumber": "268365",
+                "originalJapaneseLine": "　数値まったく上がらないじゃないのよー！」",
+                "translatedEnglishLine": "The numbers aren't going up at all!"
+            },
+            {
+                "lineNumber": "268366",
+                "originalJapaneseLine": "「うーん、この数値、",
+                "translatedEnglishLine": "Hmm, these values,"
+            },
+            {
+                "lineNumber": "268367",
+                "originalJapaneseLine": "　どうやったら上がるのかしら……」",
+                "translatedEnglishLine": "I wonder how they can be increased..."
+            },
+            {
+                "lineNumber": "268368",
+                "originalJapaneseLine": "「パイアールにも分からないと言っていたし……",
+                "translatedEnglishLine": "Paiar said he didn't know either..."
+            },
+            {
+                "lineNumber": "268369",
+                "originalJapaneseLine": "　弱ったわね……」",
+                "translatedEnglishLine": "This is troubling..."
+            },
+            {
+                "lineNumber": "268370",
+                "originalJapaneseLine": "「ま、まあ、不用意に合体せずに",
+                "translatedEnglishLine": "Well, if we think about not merging recklessly,"
+            },
+            {
+                "lineNumber": "268371",
+                "originalJapaneseLine": "　済んでいると思えばそれはそれで……」",
+                "translatedEnglishLine": "then maybe it's not so bad..."
+            },
+            {
+                "lineNumber": "268372",
+                "originalJapaneseLine": "「ちぇっ、せっかく、",
+                "translatedEnglishLine": "Tch, just when I thought,"
+            },
+            {
+                "lineNumber": "268373",
+                "originalJapaneseLine": "　地上最強の力を手に入れたと思ったのに",
+                "translatedEnglishLine": "I'd gained the strongest power on earth."
+            },
+            {
+                "lineNumber": "268374",
+                "originalJapaneseLine": "そのうち、二人はブレスレットのことも、",
+                "translatedEnglishLine": "Eventually, the two even forgot about the bracelets,"
+            },
+            {
+                "lineNumber": "268375",
+                "originalJapaneseLine": "バスワルドのことも忘れてしまうのだった。",
+                "translatedEnglishLine": "and also about Baswald."
+            },
+            {
+                "lineNumber": "268376",
+                "originalJapaneseLine": "ただ、その方が良かったのかも知れない。",
+                "translatedEnglishLine": "Perhaps it was better that way."
+            },
+            {
+                "lineNumber": "268377",
+                "originalJapaneseLine": "この世界に生きる生物にとっては。",
+                "translatedEnglishLine": "For the creatures living in this world."
+            },
+            {
+                "lineNumber": "268378",
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": "268379",
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": "268380",
+                "originalJapaneseLine": "サイゼルはいない。",
+                "translatedEnglishLine": "Saizel is not here."
+            },
+            {
+                "lineNumber": "268381",
+                "originalJapaneseLine": "ハウゼルはいない。",
+                "translatedEnglishLine": "Hauzel is not here."
+            },
+            {
+                "lineNumber": "268382",
+                "originalJapaneseLine": "サイゼルはいる。",
+                "translatedEnglishLine": "Saizel is here."
+            },
+            {
+                "lineNumber": "268383",
+                "originalJapaneseLine": "ハウゼルはいる。",
+                "translatedEnglishLine": "Hauzel is here."
+            },
+            {
+                "lineNumber": "268384",
+                "originalJapaneseLine": "二人は、一人に。",
+                "translatedEnglishLine": "The two became one."
+            },
+            {
+                "lineNumber": "268385",
+                "originalJapaneseLine": "無の存在に。",
+                "translatedEnglishLine": "An existence of nothingness."
+            },
+            {
+                "lineNumber": "268386",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": "268387",
+                "originalJapaneseLine": "破壊神バスワルドが温泉に顕現していた。",
+                "translatedEnglishLine": "The god of destruction, Baswald, had manifested in the hot spring."
+            },
+            {
+                "lineNumber": "268388",
+                "originalJapaneseLine": "正確には湯に浸かっているのではなく、",
+                "translatedEnglishLine": "More precisely, he wasn't soaking in the water,"
+            },
+            {
+                "lineNumber": "268389",
+                "originalJapaneseLine": "温泉の水面に穴を開けて、",
+                "translatedEnglishLine": "but had made a hole in the surface of the hot spring,"
+            },
+            {
+                "lineNumber": "268390",
+                "originalJapaneseLine": "バスワルドがふわふわと浮いていた。",
+                "translatedEnglishLine": "and Baswald floated gently."
+            },
+            {
+                "lineNumber": "268391",
+                "originalJapaneseLine": "「あいつ、何してんだ……」",
+                "translatedEnglishLine": "What is that guy doing...?"
+            },
+            {
+                "lineNumber": "268392",
+                "originalJapaneseLine": "「しかし……",
+                "translatedEnglishLine": "However..."
+            },
+            {
+                "lineNumber": "268393",
+                "originalJapaneseLine": "　うーん、中々いい体だ」",
+                "translatedEnglishLine": "Hmm, quite a good body."
+            },
+            {
+                "lineNumber": "268394",
+                "originalJapaneseLine": "「問題は……",
+                "translatedEnglishLine": "The problem is..."
+            },
+            {
+                "lineNumber": "268395",
+                "originalJapaneseLine": "　えいっ」",
+                "translatedEnglishLine": "Ei!"
+            },
+            {
+                "lineNumber": "268396",
+                "originalJapaneseLine": "ランスがシュポーンと湯桶を投げつける。",
+                "translatedEnglishLine": "Rance threw a hot water bucket with a splash."
+            },
+            {
+                "lineNumber": "268397",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": "268398",
+                "originalJapaneseLine": "バシュンッ！",
+                "translatedEnglishLine": "Splash!"
+            },
+            {
+                "lineNumber": "268399",
+                "originalJapaneseLine": "しかし湯桶はバスワルドに接近した途端、",
+                "translatedEnglishLine": "But as soon as the bucket approached Baswald,"
+            },
+            {
+                "lineNumber": "268400",
+                "originalJapaneseLine": "周囲の空間ごと削り取られ消滅した。",
+                "translatedEnglishLine": "it was scraped away along with the surrounding space and disappeared."
+            },
+            {
+                "lineNumber": "268401",
+                "originalJapaneseLine": "「うーん、近づくのは危険そうだな……」",
+                "translatedEnglishLine": "Hmm, it looks dangerous to get close..."
+            },
+            {
+                "lineNumber": "268402",
+                "originalJapaneseLine": "「ぷるるっ。",
+                "translatedEnglishLine": "*Shiver*."
+            },
+            {
+                "lineNumber": "268403",
+                "originalJapaneseLine": "　ちと寒くなってきた……",
+                "translatedEnglishLine": "I'm starting to feel a bit cold..."
+            }
+        ]
+    }
+}

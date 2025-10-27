@@ -1,0 +1,719 @@
+{
+    "id": "resp_0045677f47e377790068ffece0ac308196a073883073ad5a0b",
+    "object": "response",
+    "created_at": 1761602784,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0045677f47e377790068ffece113608196bd8edfc15a8b77b8",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　あいつ、迷惑だなあ」\",\"translatedEnglishLine\":\"That guy is such a nuisance.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"音もなくバスワルドが\",\"translatedEnglishLine\":\"Buswald silently\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"ランスへと視線を向ける。\",\"translatedEnglishLine\":\"turned his gaze towards Rance.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「あ、こっち見てる」\",\"translatedEnglishLine\":\"Ah, he's looking this way.\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「我は破壊を司る神、バスワルド」\",\"translatedEnglishLine\":\"I am Buswald, the god who governs destruction.\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「世界に破滅が近づいた時、\",\"translatedEnglishLine\":\"When doom approaches the world,\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　破滅を防ぐ為に、世界を破壊する者」\",\"translatedEnglishLine\":\"I am the one who destroys the world to prevent destruction.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「我を我にし、\",\"translatedEnglishLine\":\"The one who called me to be myself,\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　呼び出したのは貴様か？」\",\"translatedEnglishLine\":\"was it you?\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「いや、違うぞ」\",\"translatedEnglishLine\":\"No, that's not it.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「入ったらお前もうその姿だったぞ」\",\"translatedEnglishLine\":\"You were already in that form when you entered.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「なんで自分がその姿になってるのか\",\"translatedEnglishLine\":\"Don't you even understand why you look like that?\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　もしかして自分で分かってないのか？」\",\"translatedEnglishLine\":\"Could it be that you don't know yourself?\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「お前、どじっこさん？」\",\"translatedEnglishLine\":\"Are you a clumsy person?\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"ピカー。\",\"translatedEnglishLine\":\"*Flash*.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"バスワルドが光りだし――\",\"translatedEnglishLine\":\"Buswald began to shine—\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"ポンッ。\",\"translatedEnglishLine\":\"*Pop*.\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"ハウゼルとサイゼルの二人に戻った。\",\"translatedEnglishLine\":\"They returned to being Hauzel and Saizel, the two of them.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「あ〜……\",\"translatedEnglishLine\":\"Ah...\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　また合体しちゃってたのか……」\",\"translatedEnglishLine\":\"We ended up combining again, huh...\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「う〜ん……\",\"translatedEnglishLine\":\"Hmm...\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　でも、なんでまた……」\",\"translatedEnglishLine\":\"But why again...\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「ようやく元に戻ったか」\",\"translatedEnglishLine\":\"Finally, we're back to normal.\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「きゃっ……\",\"translatedEnglishLine\":\"Kya...\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　す、すみません、総統……\",\"translatedEnglishLine\":\"S-sorry, Commander...\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　ご迷惑を……」\",\"translatedEnglishLine\":\"For causing trouble...\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「ちょ、ちょっと！\",\"translatedEnglishLine\":\"H-hey! \"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　見るんじゃないわよ！」\",\"translatedEnglishLine\":\"Don't look!\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「君達いったい何してたんだ？」\",\"translatedEnglishLine\":\"What exactly were you two doing?\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「な、なにって……\",\"translatedEnglishLine\":\"W-what...?\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　二人だけだったから、\",\"translatedEnglishLine\":\"Since it was just the two of us,\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　ちょっと遊んでただけよ」\",\"translatedEnglishLine\":\"we were just playing a little.\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「遊び？」\",\"translatedEnglishLine\":\"Playing?\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「そ、水温変える遊び」\",\"translatedEnglishLine\":\"Y-yeah, playing with changing the water temperature.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「ふ〜……\",\"translatedEnglishLine\":\"Phew...\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　いいお湯ね、ハウゼル」\",\"translatedEnglishLine\":\"Nice hot water, Hauzel.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「そうねぇ、姉さん」\",\"translatedEnglishLine\":\"That's right, sis.\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"姉妹が二人でまったりと温泉を楽しんでいた。\",\"translatedEnglishLine\":\"The two sisters were leisurely enjoying the hot springs together.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「あんっ、姉さん、水温がぬるくなってる」\",\"translatedEnglishLine\":\"Ah, sis, the water's gotten lukewarm.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「あら、勝手に力漏れちゃってたかしら。\",\"translatedEnglishLine\":\"Oh dear, did my power leak out on its own?\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　まあ、いいんじゃない？　これくらいで」\",\"translatedEnglishLine\":\"Well, isn't it fine like this?\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「駄目よ、後で入る人達が困るわ。\",\"translatedEnglishLine\":\"No, the people who come in later will be troubled.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　んしょ」\",\"translatedEnglishLine\":\"Here we go.\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「きゃっ、熱くなってきた」\",\"translatedEnglishLine\":\"Kya, it's getting hot!\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「やったわねぇ。\",\"translatedEnglishLine\":\"You did it!\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　えいえいっ、えいえいっ」\",\"translatedEnglishLine\":\"Heave ho, heave ho!\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「あ、きゃっ、ふふ、駄目よ姉さん\",\"translatedEnglishLine\":\"Ah, kya, hehe, no, sis,\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　今度は冷たくなりすぎよ」\",\"translatedEnglishLine\":\"now it's too cold.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"サイゼルは冷たく、\",\"translatedEnglishLine\":\"Saizel made it cold,\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"ハウゼルは熱く。\",\"translatedEnglishLine\":\"Hauzel made it hot.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"炎と氷の力を互いに行使して、\",\"translatedEnglishLine\":\"They used the powers of fire and ice against each other,\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"水温を変えていく。\",\"translatedEnglishLine\":\"changing the water temperature.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"それは互いの力が、\",\"translatedEnglishLine\":\"Their powers,\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"丁度打ち消し合うような力で。\",\"translatedEnglishLine\":\"were exactly the kind that canceled each other out.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"などとしていると――\",\"translatedEnglishLine\":\"As they continued playing—\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "268404",
+                                "originalJapaneseLine": "　あいつ、迷惑だなあ」",
+                                "translatedEnglishLine": "That guy is such a nuisance."
+                            },
+                            {
+                                "lineNumber": "268405",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "............"
+                            },
+                            {
+                                "lineNumber": "268406",
+                                "originalJapaneseLine": "音もなくバスワルドが",
+                                "translatedEnglishLine": "Buswald silently"
+                            },
+                            {
+                                "lineNumber": "268407",
+                                "originalJapaneseLine": "ランスへと視線を向ける。",
+                                "translatedEnglishLine": "turned his gaze towards Rance."
+                            },
+                            {
+                                "lineNumber": "268408",
+                                "originalJapaneseLine": "「あ、こっち見てる」",
+                                "translatedEnglishLine": "Ah, he's looking this way."
+                            },
+                            {
+                                "lineNumber": "268409",
+                                "originalJapaneseLine": "「我は破壊を司る神、バスワルド」",
+                                "translatedEnglishLine": "I am Buswald, the god who governs destruction."
+                            },
+                            {
+                                "lineNumber": "268410",
+                                "originalJapaneseLine": "「世界に破滅が近づいた時、",
+                                "translatedEnglishLine": "When doom approaches the world,"
+                            },
+                            {
+                                "lineNumber": "268411",
+                                "originalJapaneseLine": "　破滅を防ぐ為に、世界を破壊する者」",
+                                "translatedEnglishLine": "I am the one who destroys the world to prevent destruction."
+                            },
+                            {
+                                "lineNumber": "268412",
+                                "originalJapaneseLine": "「我を我にし、",
+                                "translatedEnglishLine": "The one who called me to be myself,"
+                            },
+                            {
+                                "lineNumber": "268413",
+                                "originalJapaneseLine": "　呼び出したのは貴様か？」",
+                                "translatedEnglishLine": "was it you?"
+                            },
+                            {
+                                "lineNumber": "268414",
+                                "originalJapaneseLine": "「いや、違うぞ」",
+                                "translatedEnglishLine": "No, that's not it."
+                            },
+                            {
+                                "lineNumber": "268415",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "............"
+                            },
+                            {
+                                "lineNumber": "268416",
+                                "originalJapaneseLine": "「入ったらお前もうその姿だったぞ」",
+                                "translatedEnglishLine": "You were already in that form when you entered."
+                            },
+                            {
+                                "lineNumber": "268417",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "............"
+                            },
+                            {
+                                "lineNumber": "268418",
+                                "originalJapaneseLine": "「なんで自分がその姿になってるのか",
+                                "translatedEnglishLine": "Don't you even understand why you look like that?"
+                            },
+                            {
+                                "lineNumber": "268419",
+                                "originalJapaneseLine": "　もしかして自分で分かってないのか？」",
+                                "translatedEnglishLine": "Could it be that you don't know yourself?"
+                            },
+                            {
+                                "lineNumber": "268420",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "............"
+                            },
+                            {
+                                "lineNumber": "268421",
+                                "originalJapaneseLine": "「お前、どじっこさん？」",
+                                "translatedEnglishLine": "Are you a clumsy person?"
+                            },
+                            {
+                                "lineNumber": "268422",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "............"
+                            },
+                            {
+                                "lineNumber": "268423",
+                                "originalJapaneseLine": "ピカー。",
+                                "translatedEnglishLine": "*Flash*."
+                            },
+                            {
+                                "lineNumber": "268424",
+                                "originalJapaneseLine": "バスワルドが光りだし――",
+                                "translatedEnglishLine": "Buswald began to shine—"
+                            },
+                            {
+                                "lineNumber": "268425",
+                                "originalJapaneseLine": "ポンッ。",
+                                "translatedEnglishLine": "*Pop*."
+                            },
+                            {
+                                "lineNumber": "268426",
+                                "originalJapaneseLine": "ハウゼルとサイゼルの二人に戻った。",
+                                "translatedEnglishLine": "They returned to being Hauzel and Saizel, the two of them."
+                            },
+                            {
+                                "lineNumber": "268427",
+                                "originalJapaneseLine": "「あ〜……",
+                                "translatedEnglishLine": "Ah..."
+                            },
+                            {
+                                "lineNumber": "268428",
+                                "originalJapaneseLine": "　また合体しちゃってたのか……」",
+                                "translatedEnglishLine": "We ended up combining again, huh..."
+                            },
+                            {
+                                "lineNumber": "268429",
+                                "originalJapaneseLine": "「う〜ん……",
+                                "translatedEnglishLine": "Hmm..."
+                            },
+                            {
+                                "lineNumber": "268430",
+                                "originalJapaneseLine": "　でも、なんでまた……」",
+                                "translatedEnglishLine": "But why again..."
+                            },
+                            {
+                                "lineNumber": "268431",
+                                "originalJapaneseLine": "「ようやく元に戻ったか」",
+                                "translatedEnglishLine": "Finally, we're back to normal."
+                            },
+                            {
+                                "lineNumber": "268432",
+                                "originalJapaneseLine": "「きゃっ……",
+                                "translatedEnglishLine": "Kya..."
+                            },
+                            {
+                                "lineNumber": "268433",
+                                "originalJapaneseLine": "　す、すみません、総統……",
+                                "translatedEnglishLine": "S-sorry, Commander..."
+                            },
+                            {
+                                "lineNumber": "268434",
+                                "originalJapaneseLine": "　ご迷惑を……」",
+                                "translatedEnglishLine": "For causing trouble..."
+                            },
+                            {
+                                "lineNumber": "268435",
+                                "originalJapaneseLine": "「ちょ、ちょっと！",
+                                "translatedEnglishLine": "H-hey! "
+                            },
+                            {
+                                "lineNumber": "268436",
+                                "originalJapaneseLine": "　見るんじゃないわよ！」",
+                                "translatedEnglishLine": "Don't look!"
+                            },
+                            {
+                                "lineNumber": "268437",
+                                "originalJapaneseLine": "「君達いったい何してたんだ？」",
+                                "translatedEnglishLine": "What exactly were you two doing?"
+                            },
+                            {
+                                "lineNumber": "268438",
+                                "originalJapaneseLine": "「な、なにって……",
+                                "translatedEnglishLine": "W-what...?"
+                            },
+                            {
+                                "lineNumber": "268439",
+                                "originalJapaneseLine": "　二人だけだったから、",
+                                "translatedEnglishLine": "Since it was just the two of us,"
+                            },
+                            {
+                                "lineNumber": "268440",
+                                "originalJapaneseLine": "　ちょっと遊んでただけよ」",
+                                "translatedEnglishLine": "we were just playing a little."
+                            },
+                            {
+                                "lineNumber": "268441",
+                                "originalJapaneseLine": "「遊び？」",
+                                "translatedEnglishLine": "Playing?"
+                            },
+                            {
+                                "lineNumber": "268442",
+                                "originalJapaneseLine": "「そ、水温変える遊び」",
+                                "translatedEnglishLine": "Y-yeah, playing with changing the water temperature."
+                            },
+                            {
+                                "lineNumber": "268443",
+                                "originalJapaneseLine": "「ふ〜……",
+                                "translatedEnglishLine": "Phew..."
+                            },
+                            {
+                                "lineNumber": "268444",
+                                "originalJapaneseLine": "　いいお湯ね、ハウゼル」",
+                                "translatedEnglishLine": "Nice hot water, Hauzel."
+                            },
+                            {
+                                "lineNumber": "268445",
+                                "originalJapaneseLine": "「そうねぇ、姉さん」",
+                                "translatedEnglishLine": "That's right, sis."
+                            },
+                            {
+                                "lineNumber": "268446",
+                                "originalJapaneseLine": "姉妹が二人でまったりと温泉を楽しんでいた。",
+                                "translatedEnglishLine": "The two sisters were leisurely enjoying the hot springs together."
+                            },
+                            {
+                                "lineNumber": "268447",
+                                "originalJapaneseLine": "「あんっ、姉さん、水温がぬるくなってる」",
+                                "translatedEnglishLine": "Ah, sis, the water's gotten lukewarm."
+                            },
+                            {
+                                "lineNumber": "268448",
+                                "originalJapaneseLine": "「あら、勝手に力漏れちゃってたかしら。",
+                                "translatedEnglishLine": "Oh dear, did my power leak out on its own?"
+                            },
+                            {
+                                "lineNumber": "268449",
+                                "originalJapaneseLine": "　まあ、いいんじゃない？　これくらいで」",
+                                "translatedEnglishLine": "Well, isn't it fine like this?"
+                            },
+                            {
+                                "lineNumber": "268450",
+                                "originalJapaneseLine": "「駄目よ、後で入る人達が困るわ。",
+                                "translatedEnglishLine": "No, the people who come in later will be troubled."
+                            },
+                            {
+                                "lineNumber": "268451",
+                                "originalJapaneseLine": "　んしょ」",
+                                "translatedEnglishLine": "Here we go."
+                            },
+                            {
+                                "lineNumber": "268452",
+                                "originalJapaneseLine": "「きゃっ、熱くなってきた」",
+                                "translatedEnglishLine": "Kya, it's getting hot!"
+                            },
+                            {
+                                "lineNumber": "268453",
+                                "originalJapaneseLine": "「やったわねぇ。",
+                                "translatedEnglishLine": "You did it!"
+                            },
+                            {
+                                "lineNumber": "268454",
+                                "originalJapaneseLine": "　えいえいっ、えいえいっ」",
+                                "translatedEnglishLine": "Heave ho, heave ho!"
+                            },
+                            {
+                                "lineNumber": "268455",
+                                "originalJapaneseLine": "「あ、きゃっ、ふふ、駄目よ姉さん",
+                                "translatedEnglishLine": "Ah, kya, hehe, no, sis,"
+                            },
+                            {
+                                "lineNumber": "268456",
+                                "originalJapaneseLine": "　今度は冷たくなりすぎよ」",
+                                "translatedEnglishLine": "now it's too cold."
+                            },
+                            {
+                                "lineNumber": "268457",
+                                "originalJapaneseLine": "サイゼルは冷たく、",
+                                "translatedEnglishLine": "Saizel made it cold,"
+                            },
+                            {
+                                "lineNumber": "268458",
+                                "originalJapaneseLine": "ハウゼルは熱く。",
+                                "translatedEnglishLine": "Hauzel made it hot."
+                            },
+                            {
+                                "lineNumber": "268459",
+                                "originalJapaneseLine": "炎と氷の力を互いに行使して、",
+                                "translatedEnglishLine": "They used the powers of fire and ice against each other,"
+                            },
+                            {
+                                "lineNumber": "268460",
+                                "originalJapaneseLine": "水温を変えていく。",
+                                "translatedEnglishLine": "changing the water temperature."
+                            },
+                            {
+                                "lineNumber": "268461",
+                                "originalJapaneseLine": "それは互いの力が、",
+                                "translatedEnglishLine": "Their powers,"
+                            },
+                            {
+                                "lineNumber": "268462",
+                                "originalJapaneseLine": "丁度打ち消し合うような力で。",
+                                "translatedEnglishLine": "were exactly the kind that canceled each other out."
+                            },
+                            {
+                                "lineNumber": "268463",
+                                "originalJapaneseLine": "などとしていると――",
+                                "translatedEnglishLine": "As they continued playing—"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1709,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1872,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3581
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　あいつ、迷惑だなあ」\",\"translatedEnglishLine\":\"That guy is such a nuisance.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"音もなくバスワルドが\",\"translatedEnglishLine\":\"Buswald silently\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"ランスへと視線を向ける。\",\"translatedEnglishLine\":\"turned his gaze towards Rance.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「あ、こっち見てる」\",\"translatedEnglishLine\":\"Ah, he's looking this way.\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「我は破壊を司る神、バスワルド」\",\"translatedEnglishLine\":\"I am Buswald, the god who governs destruction.\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「世界に破滅が近づいた時、\",\"translatedEnglishLine\":\"When doom approaches the world,\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　破滅を防ぐ為に、世界を破壊する者」\",\"translatedEnglishLine\":\"I am the one who destroys the world to prevent destruction.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「我を我にし、\",\"translatedEnglishLine\":\"The one who called me to be myself,\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　呼び出したのは貴様か？」\",\"translatedEnglishLine\":\"was it you?\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「いや、違うぞ」\",\"translatedEnglishLine\":\"No, that's not it.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「入ったらお前もうその姿だったぞ」\",\"translatedEnglishLine\":\"You were already in that form when you entered.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「なんで自分がその姿になってるのか\",\"translatedEnglishLine\":\"Don't you even understand why you look like that?\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　もしかして自分で分かってないのか？」\",\"translatedEnglishLine\":\"Could it be that you don't know yourself?\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「お前、どじっこさん？」\",\"translatedEnglishLine\":\"Are you a clumsy person?\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"ピカー。\",\"translatedEnglishLine\":\"*Flash*.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"バスワルドが光りだし――\",\"translatedEnglishLine\":\"Buswald began to shine—\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"ポンッ。\",\"translatedEnglishLine\":\"*Pop*.\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"ハウゼルとサイゼルの二人に戻った。\",\"translatedEnglishLine\":\"They returned to being Hauzel and Saizel, the two of them.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「あ〜……\",\"translatedEnglishLine\":\"Ah...\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　また合体しちゃってたのか……」\",\"translatedEnglishLine\":\"We ended up combining again, huh...\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「う〜ん……\",\"translatedEnglishLine\":\"Hmm...\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　でも、なんでまた……」\",\"translatedEnglishLine\":\"But why again...\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「ようやく元に戻ったか」\",\"translatedEnglishLine\":\"Finally, we're back to normal.\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「きゃっ……\",\"translatedEnglishLine\":\"Kya...\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　す、すみません、総統……\",\"translatedEnglishLine\":\"S-sorry, Commander...\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　ご迷惑を……」\",\"translatedEnglishLine\":\"For causing trouble...\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「ちょ、ちょっと！\",\"translatedEnglishLine\":\"H-hey! \"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　見るんじゃないわよ！」\",\"translatedEnglishLine\":\"Don't look!\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「君達いったい何してたんだ？」\",\"translatedEnglishLine\":\"What exactly were you two doing?\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「な、なにって……\",\"translatedEnglishLine\":\"W-what...?\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　二人だけだったから、\",\"translatedEnglishLine\":\"Since it was just the two of us,\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　ちょっと遊んでただけよ」\",\"translatedEnglishLine\":\"we were just playing a little.\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「遊び？」\",\"translatedEnglishLine\":\"Playing?\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「そ、水温変える遊び」\",\"translatedEnglishLine\":\"Y-yeah, playing with changing the water temperature.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「ふ〜……\",\"translatedEnglishLine\":\"Phew...\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　いいお湯ね、ハウゼル」\",\"translatedEnglishLine\":\"Nice hot water, Hauzel.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「そうねぇ、姉さん」\",\"translatedEnglishLine\":\"That's right, sis.\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"姉妹が二人でまったりと温泉を楽しんでいた。\",\"translatedEnglishLine\":\"The two sisters were leisurely enjoying the hot springs together.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「あんっ、姉さん、水温がぬるくなってる」\",\"translatedEnglishLine\":\"Ah, sis, the water's gotten lukewarm.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「あら、勝手に力漏れちゃってたかしら。\",\"translatedEnglishLine\":\"Oh dear, did my power leak out on its own?\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　まあ、いいんじゃない？　これくらいで」\",\"translatedEnglishLine\":\"Well, isn't it fine like this?\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「駄目よ、後で入る人達が困るわ。\",\"translatedEnglishLine\":\"No, the people who come in later will be troubled.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　んしょ」\",\"translatedEnglishLine\":\"Here we go.\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「きゃっ、熱くなってきた」\",\"translatedEnglishLine\":\"Kya, it's getting hot!\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「やったわねぇ。\",\"translatedEnglishLine\":\"You did it!\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　えいえいっ、えいえいっ」\",\"translatedEnglishLine\":\"Heave ho, heave ho!\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「あ、きゃっ、ふふ、駄目よ姉さん\",\"translatedEnglishLine\":\"Ah, kya, hehe, no, sis,\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　今度は冷たくなりすぎよ」\",\"translatedEnglishLine\":\"now it's too cold.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"サイゼルは冷たく、\",\"translatedEnglishLine\":\"Saizel made it cold,\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"ハウゼルは熱く。\",\"translatedEnglishLine\":\"Hauzel made it hot.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"炎と氷の力を互いに行使して、\",\"translatedEnglishLine\":\"They used the powers of fire and ice against each other,\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"水温を変えていく。\",\"translatedEnglishLine\":\"changing the water temperature.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"それは互いの力が、\",\"translatedEnglishLine\":\"Their powers,\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"丁度打ち消し合うような力で。\",\"translatedEnglishLine\":\"were exactly the kind that canceled each other out.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"などとしていると――\",\"translatedEnglishLine\":\"As they continued playing—\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "268404",
+                "originalJapaneseLine": "　あいつ、迷惑だなあ」",
+                "translatedEnglishLine": "That guy is such a nuisance."
+            },
+            {
+                "lineNumber": "268405",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "............"
+            },
+            {
+                "lineNumber": "268406",
+                "originalJapaneseLine": "音もなくバスワルドが",
+                "translatedEnglishLine": "Buswald silently"
+            },
+            {
+                "lineNumber": "268407",
+                "originalJapaneseLine": "ランスへと視線を向ける。",
+                "translatedEnglishLine": "turned his gaze towards Rance."
+            },
+            {
+                "lineNumber": "268408",
+                "originalJapaneseLine": "「あ、こっち見てる」",
+                "translatedEnglishLine": "Ah, he's looking this way."
+            },
+            {
+                "lineNumber": "268409",
+                "originalJapaneseLine": "「我は破壊を司る神、バスワルド」",
+                "translatedEnglishLine": "I am Buswald, the god who governs destruction."
+            },
+            {
+                "lineNumber": "268410",
+                "originalJapaneseLine": "「世界に破滅が近づいた時、",
+                "translatedEnglishLine": "When doom approaches the world,"
+            },
+            {
+                "lineNumber": "268411",
+                "originalJapaneseLine": "　破滅を防ぐ為に、世界を破壊する者」",
+                "translatedEnglishLine": "I am the one who destroys the world to prevent destruction."
+            },
+            {
+                "lineNumber": "268412",
+                "originalJapaneseLine": "「我を我にし、",
+                "translatedEnglishLine": "The one who called me to be myself,"
+            },
+            {
+                "lineNumber": "268413",
+                "originalJapaneseLine": "　呼び出したのは貴様か？」",
+                "translatedEnglishLine": "was it you?"
+            },
+            {
+                "lineNumber": "268414",
+                "originalJapaneseLine": "「いや、違うぞ」",
+                "translatedEnglishLine": "No, that's not it."
+            },
+            {
+                "lineNumber": "268415",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "............"
+            },
+            {
+                "lineNumber": "268416",
+                "originalJapaneseLine": "「入ったらお前もうその姿だったぞ」",
+                "translatedEnglishLine": "You were already in that form when you entered."
+            },
+            {
+                "lineNumber": "268417",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "............"
+            },
+            {
+                "lineNumber": "268418",
+                "originalJapaneseLine": "「なんで自分がその姿になってるのか",
+                "translatedEnglishLine": "Don't you even understand why you look like that?"
+            },
+            {
+                "lineNumber": "268419",
+                "originalJapaneseLine": "　もしかして自分で分かってないのか？」",
+                "translatedEnglishLine": "Could it be that you don't know yourself?"
+            },
+            {
+                "lineNumber": "268420",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "............"
+            },
+            {
+                "lineNumber": "268421",
+                "originalJapaneseLine": "「お前、どじっこさん？」",
+                "translatedEnglishLine": "Are you a clumsy person?"
+            },
+            {
+                "lineNumber": "268422",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "............"
+            },
+            {
+                "lineNumber": "268423",
+                "originalJapaneseLine": "ピカー。",
+                "translatedEnglishLine": "*Flash*."
+            },
+            {
+                "lineNumber": "268424",
+                "originalJapaneseLine": "バスワルドが光りだし――",
+                "translatedEnglishLine": "Buswald began to shine—"
+            },
+            {
+                "lineNumber": "268425",
+                "originalJapaneseLine": "ポンッ。",
+                "translatedEnglishLine": "*Pop*."
+            },
+            {
+                "lineNumber": "268426",
+                "originalJapaneseLine": "ハウゼルとサイゼルの二人に戻った。",
+                "translatedEnglishLine": "They returned to being Hauzel and Saizel, the two of them."
+            },
+            {
+                "lineNumber": "268427",
+                "originalJapaneseLine": "「あ〜……",
+                "translatedEnglishLine": "Ah..."
+            },
+            {
+                "lineNumber": "268428",
+                "originalJapaneseLine": "　また合体しちゃってたのか……」",
+                "translatedEnglishLine": "We ended up combining again, huh..."
+            },
+            {
+                "lineNumber": "268429",
+                "originalJapaneseLine": "「う〜ん……",
+                "translatedEnglishLine": "Hmm..."
+            },
+            {
+                "lineNumber": "268430",
+                "originalJapaneseLine": "　でも、なんでまた……」",
+                "translatedEnglishLine": "But why again..."
+            },
+            {
+                "lineNumber": "268431",
+                "originalJapaneseLine": "「ようやく元に戻ったか」",
+                "translatedEnglishLine": "Finally, we're back to normal."
+            },
+            {
+                "lineNumber": "268432",
+                "originalJapaneseLine": "「きゃっ……",
+                "translatedEnglishLine": "Kya..."
+            },
+            {
+                "lineNumber": "268433",
+                "originalJapaneseLine": "　す、すみません、総統……",
+                "translatedEnglishLine": "S-sorry, Commander..."
+            },
+            {
+                "lineNumber": "268434",
+                "originalJapaneseLine": "　ご迷惑を……」",
+                "translatedEnglishLine": "For causing trouble..."
+            },
+            {
+                "lineNumber": "268435",
+                "originalJapaneseLine": "「ちょ、ちょっと！",
+                "translatedEnglishLine": "H-hey! "
+            },
+            {
+                "lineNumber": "268436",
+                "originalJapaneseLine": "　見るんじゃないわよ！」",
+                "translatedEnglishLine": "Don't look!"
+            },
+            {
+                "lineNumber": "268437",
+                "originalJapaneseLine": "「君達いったい何してたんだ？」",
+                "translatedEnglishLine": "What exactly were you two doing?"
+            },
+            {
+                "lineNumber": "268438",
+                "originalJapaneseLine": "「な、なにって……",
+                "translatedEnglishLine": "W-what...?"
+            },
+            {
+                "lineNumber": "268439",
+                "originalJapaneseLine": "　二人だけだったから、",
+                "translatedEnglishLine": "Since it was just the two of us,"
+            },
+            {
+                "lineNumber": "268440",
+                "originalJapaneseLine": "　ちょっと遊んでただけよ」",
+                "translatedEnglishLine": "we were just playing a little."
+            },
+            {
+                "lineNumber": "268441",
+                "originalJapaneseLine": "「遊び？」",
+                "translatedEnglishLine": "Playing?"
+            },
+            {
+                "lineNumber": "268442",
+                "originalJapaneseLine": "「そ、水温変える遊び」",
+                "translatedEnglishLine": "Y-yeah, playing with changing the water temperature."
+            },
+            {
+                "lineNumber": "268443",
+                "originalJapaneseLine": "「ふ〜……",
+                "translatedEnglishLine": "Phew..."
+            },
+            {
+                "lineNumber": "268444",
+                "originalJapaneseLine": "　いいお湯ね、ハウゼル」",
+                "translatedEnglishLine": "Nice hot water, Hauzel."
+            },
+            {
+                "lineNumber": "268445",
+                "originalJapaneseLine": "「そうねぇ、姉さん」",
+                "translatedEnglishLine": "That's right, sis."
+            },
+            {
+                "lineNumber": "268446",
+                "originalJapaneseLine": "姉妹が二人でまったりと温泉を楽しんでいた。",
+                "translatedEnglishLine": "The two sisters were leisurely enjoying the hot springs together."
+            },
+            {
+                "lineNumber": "268447",
+                "originalJapaneseLine": "「あんっ、姉さん、水温がぬるくなってる」",
+                "translatedEnglishLine": "Ah, sis, the water's gotten lukewarm."
+            },
+            {
+                "lineNumber": "268448",
+                "originalJapaneseLine": "「あら、勝手に力漏れちゃってたかしら。",
+                "translatedEnglishLine": "Oh dear, did my power leak out on its own?"
+            },
+            {
+                "lineNumber": "268449",
+                "originalJapaneseLine": "　まあ、いいんじゃない？　これくらいで」",
+                "translatedEnglishLine": "Well, isn't it fine like this?"
+            },
+            {
+                "lineNumber": "268450",
+                "originalJapaneseLine": "「駄目よ、後で入る人達が困るわ。",
+                "translatedEnglishLine": "No, the people who come in later will be troubled."
+            },
+            {
+                "lineNumber": "268451",
+                "originalJapaneseLine": "　んしょ」",
+                "translatedEnglishLine": "Here we go."
+            },
+            {
+                "lineNumber": "268452",
+                "originalJapaneseLine": "「きゃっ、熱くなってきた」",
+                "translatedEnglishLine": "Kya, it's getting hot!"
+            },
+            {
+                "lineNumber": "268453",
+                "originalJapaneseLine": "「やったわねぇ。",
+                "translatedEnglishLine": "You did it!"
+            },
+            {
+                "lineNumber": "268454",
+                "originalJapaneseLine": "　えいえいっ、えいえいっ」",
+                "translatedEnglishLine": "Heave ho, heave ho!"
+            },
+            {
+                "lineNumber": "268455",
+                "originalJapaneseLine": "「あ、きゃっ、ふふ、駄目よ姉さん",
+                "translatedEnglishLine": "Ah, kya, hehe, no, sis,"
+            },
+            {
+                "lineNumber": "268456",
+                "originalJapaneseLine": "　今度は冷たくなりすぎよ」",
+                "translatedEnglishLine": "now it's too cold."
+            },
+            {
+                "lineNumber": "268457",
+                "originalJapaneseLine": "サイゼルは冷たく、",
+                "translatedEnglishLine": "Saizel made it cold,"
+            },
+            {
+                "lineNumber": "268458",
+                "originalJapaneseLine": "ハウゼルは熱く。",
+                "translatedEnglishLine": "Hauzel made it hot."
+            },
+            {
+                "lineNumber": "268459",
+                "originalJapaneseLine": "炎と氷の力を互いに行使して、",
+                "translatedEnglishLine": "They used the powers of fire and ice against each other,"
+            },
+            {
+                "lineNumber": "268460",
+                "originalJapaneseLine": "水温を変えていく。",
+                "translatedEnglishLine": "changing the water temperature."
+            },
+            {
+                "lineNumber": "268461",
+                "originalJapaneseLine": "それは互いの力が、",
+                "translatedEnglishLine": "Their powers,"
+            },
+            {
+                "lineNumber": "268462",
+                "originalJapaneseLine": "丁度打ち消し合うような力で。",
+                "translatedEnglishLine": "were exactly the kind that canceled each other out."
+            },
+            {
+                "lineNumber": "268463",
+                "originalJapaneseLine": "などとしていると――",
+                "translatedEnglishLine": "As they continued playing—"
+            }
+        ]
+    }
+}

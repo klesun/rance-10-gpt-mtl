@@ -1,0 +1,719 @@
+{
+    "id": "resp_0a6151c71520c8c50068ffe997dda88190a2a644f4be97906b",
+    "object": "response",
+    "created_at": 1761601943,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0a6151c71520c8c50068ffe9986d188190a288372d3d394de7",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 1,\n      \"originalJapaneseLine\": \"「ふふ、はい」\",\n      \"translatedEnglishLine\": \"\\\"Hehe, yes.\\\"\"\n    },\n    {\n      \"lineNumber\": 2,\n      \"originalJapaneseLine\": \"キャロリのまとめてくれたリストを見ながら、\",\n      \"translatedEnglishLine\": \"While looking at the list that Karori had compiled,\"\n    },\n    {\n      \"lineNumber\": 3,\n      \"originalJapaneseLine\": \"プリマは照れ隠しに次の調合を聞いていた。\",\n      \"translatedEnglishLine\": \"Prima asked about the next concoction to hide her embarrassment.\"\n    },\n    {\n      \"lineNumber\": 4,\n      \"originalJapaneseLine\": \"「あ、それにはこの薬草も入れるといいよ〜」\",\n      \"translatedEnglishLine\": \"\\\"Ah, you should also add this herb to it~\\\"\"\n    },\n    {\n      \"lineNumber\": 5,\n      \"originalJapaneseLine\": \"「へ？　そうなの？」\",\n      \"translatedEnglishLine\": \"\\\"Huh? Really?\\\"\"\n    },\n    {\n      \"lineNumber\": 6,\n      \"originalJapaneseLine\": \"「へー、全然知りませんでした」\",\n      \"translatedEnglishLine\": \"\\\"Wow, I had no idea at all.\\\"\"\n    },\n    {\n      \"lineNumber\": 7,\n      \"originalJapaneseLine\": \"「うん、精力が増してねぇ、\",\n      \"translatedEnglishLine\": \"\\\"Yeah, it increases vitality,\"\n    },\n    {\n      \"lineNumber\": 8,\n      \"originalJapaneseLine\": \"　心臓の動悸が速くなって、\",\n      \"translatedEnglishLine\": \"the heartbeat speeds up,\"\n    },\n    {\n      \"lineNumber\": 9,\n      \"originalJapaneseLine\": \"　軽い興奮状態になって……」\",\n      \"translatedEnglishLine\": \"and you get into a light state of excitement...\\\"\"\n    },\n    {\n      \"lineNumber\": 10,\n      \"originalJapaneseLine\": \"「もう媚薬として使うと効果抜群！」\",\n      \"translatedEnglishLine\": \"\\\"It’s super effective as an aphrodisiac!\\\"\"\n    },\n    {\n      \"lineNumber\": 11,\n      \"originalJapaneseLine\": \"「媚薬を作る気はないよ！？」\",\n      \"translatedEnglishLine\": \"\\\"I have no intention of making aphrodisiacs!?\\\"\"\n    },\n    {\n      \"lineNumber\": 12,\n      \"originalJapaneseLine\": \"「道理でまったく知らないと思った……」\",\n      \"translatedEnglishLine\": \"\\\"No wonder I didn’t know anything about it...\\\"\"\n    },\n    {\n      \"lineNumber\": 13,\n      \"originalJapaneseLine\": \"「えー、でも本当に効果あるんだよー？\",\n      \"translatedEnglishLine\": \"\\\"Eh, but it really works, you know?\\\"\"\n    },\n    {\n      \"lineNumber\": 14,\n      \"originalJapaneseLine\": \"　ちーっともそんな気なかった女性もとろとろ。\",\n      \"translatedEnglishLine\": \"Even women who didn’t have any such feelings become drowsy.\"\n    },\n    {\n      \"lineNumber\": 15,\n      \"originalJapaneseLine\": \"　作り方も簡単でこんな風にー……」\",\n      \"translatedEnglishLine\": \"It’s easy to make, like this—...\\\"\"\n    },\n    {\n      \"lineNumber\": 16,\n      \"originalJapaneseLine\": \"「だーっ、作るな作るな！」\",\n      \"translatedEnglishLine\": \"\\\"Nooo, don’t make it, don’t!\\\"\"\n    },\n    {\n      \"lineNumber\": 17,\n      \"originalJapaneseLine\": \"「出来ちゃった……」\",\n      \"translatedEnglishLine\": \"\\\"It got made...\\\"\"\n    },\n    {\n      \"lineNumber\": 18,\n      \"originalJapaneseLine\": \"「出来ちゃいましたね……\",\n      \"translatedEnglishLine\": \"\\\"It’s been made...\\\"\"\n    },\n    {\n      \"lineNumber\": 19,\n      \"originalJapaneseLine\": \"　強力な胃薬……」\",\n      \"translatedEnglishLine\": \"A powerful stomach medicine...\\\"\"\n    },\n    {\n      \"lineNumber\": 20,\n      \"originalJapaneseLine\": \"「に、媚薬効果も混ぜたものー♪」\",\n      \"translatedEnglishLine\": \"\\\"And it also has aphrodisiac effects mixed in♪\\\"\"\n    },\n    {\n      \"lineNumber\": 21,\n      \"originalJapaneseLine\": \"「これ……\",\n      \"translatedEnglishLine\": \"\\\"This...\\\"\"\n    },\n    {\n      \"lineNumber\": 22,\n      \"originalJapaneseLine\": \"　一応胃薬として効くことは効くんだよね」\",\n      \"translatedEnglishLine\": \"Should work as a stomach medicine at least.\\\"\"\n    },\n    {\n      \"lineNumber\": 23,\n      \"originalJapaneseLine\": \"「そのはずですよ……」\",\n      \"translatedEnglishLine\": \"\\\"It should...\\\"\"\n    },\n    {\n      \"lineNumber\": 24,\n      \"originalJapaneseLine\": \"「媚薬効果はともかく……\",\n      \"translatedEnglishLine\": \"\\\"Putting the aphrodisiac effect aside...\\\"\"\n    },\n    {\n      \"lineNumber\": 25,\n      \"originalJapaneseLine\": \"　胃薬としては効果があるかどうか、\",\n      \"translatedEnglishLine\": \"whether it really works as a stomach medicine,\"\n    },\n    {\n      \"lineNumber\": 26,\n      \"originalJapaneseLine\": \"　ちゃんと確認しないと……」\",\n      \"translatedEnglishLine\": \"we have to properly check...\\\"\"\n    },\n    {\n      \"lineNumber\": 27,\n      \"originalJapaneseLine\": \"「の、飲むんですか！？\",\n      \"translatedEnglishLine\": \"\\\"Y-you’re going to drink it!?\\\"\"\n    },\n    {\n      \"lineNumber\": 28,\n      \"originalJapaneseLine\": \"「自分で作ったもの、自分で飲まずに、\",\n      \"translatedEnglishLine\": \"\\\"If you don’t drink what you make yourself,\"\n    },\n    {\n      \"lineNumber\": 29,\n      \"originalJapaneseLine\": \"　人に飲ませるわけにはいかないだろう」\",\n      \"translatedEnglishLine\": \"you can't make others drink it.\\\"\"\n    },\n    {\n      \"lineNumber\": 30,\n      \"originalJapaneseLine\": \"「それに、作ったものを捨てるってのも……\",\n      \"translatedEnglishLine\": \"\\\"Also, throwing away what you made is...\"\n    },\n    {\n      \"lineNumber\": 31,\n      \"originalJapaneseLine\": \"「あはは、晩ご飯の残り物処分する\",\n      \"translatedEnglishLine\": \"\\\"Haha, like how a mother disposes of leftover dinner\"\n    },\n    {\n      \"lineNumber\": 32,\n      \"originalJapaneseLine\": \"　お母さんみたいだね」\",\n      \"translatedEnglishLine\": \"stuff.\\\"\"\n    },\n    {\n      \"lineNumber\": 33,\n      \"originalJapaneseLine\": \"「黙ってな！」\",\n      \"translatedEnglishLine\": \"\\\"Shut up!\\\"\"\n    },\n    {\n      \"lineNumber\": 34,\n      \"originalJapaneseLine\": \"「媚薬効果なんて、\",\n      \"translatedEnglishLine\": \"\\\"Aphrodisiac effects,\"\n    },\n    {\n      \"lineNumber\": 35,\n      \"originalJapaneseLine\": \"　別に死ぬわけじゃあるまいし、\",\n      \"translatedEnglishLine\": \"it’s not like it’ll kill me or anything,\"\n    },\n    {\n      \"lineNumber\": 36,\n      \"originalJapaneseLine\": \"　こんなもん大したことないよ」\",\n      \"translatedEnglishLine\": \"so it’s not a big deal.\\\"\"\n    },\n    {\n      \"lineNumber\": 37,\n      \"originalJapaneseLine\": \"「あっ」\",\n      \"translatedEnglishLine\": \"\\\"Ah!\\\"\"\n    },\n    {\n      \"lineNumber\": 38,\n      \"originalJapaneseLine\": \"言うが早いか、\",\n      \"translatedEnglishLine\": \"Before she could finish saying that,\"\n    },\n    {\n      \"lineNumber\": 39,\n      \"originalJapaneseLine\": \"プリマは媚薬効果つき胃薬をひょいパク。\",\n      \"translatedEnglishLine\": \"Prima quickly popped the aphrodisiac-effect stomach medicine into her mouth.\"\n    },\n    {\n      \"lineNumber\": 40,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 41,\n      \"originalJapaneseLine\": \"「プリマさん？」\",\n      \"translatedEnglishLine\": \"\\\"Prima-san?\\\"\"\n    },\n    {\n      \"lineNumber\": 42,\n      \"originalJapaneseLine\": \"「――さっきまでキリキリしていた\",\n      \"translatedEnglishLine\": \"\\\"—the sharp stomach pain I had just now\"\n    },\n    {\n      \"lineNumber\": 43,\n      \"originalJapaneseLine\": \"　胃の痛みがすーっと消えた」\",\n      \"translatedEnglishLine\": \"has completely disappeared.\\\"\"\n    },\n    {\n      \"lineNumber\": 44,\n      \"originalJapaneseLine\": \"「うふふん。\",\n      \"translatedEnglishLine\": \"\\\"Ufufun.\"\n    },\n    {\n      \"lineNumber\": 45,\n      \"originalJapaneseLine\": \"　私だって薬師のはしくれだもーん」\",\n      \"translatedEnglishLine\": \"I’m also an apprentice pharmacist, after all.\\\"\"\n    },\n    {\n      \"lineNumber\": 46,\n      \"originalJapaneseLine\": \"「……なーんか納得いかない」\",\n      \"translatedEnglishLine\": \"\\\"...Somehow, I’m not convinced.\\\"\"\n    },\n    {\n      \"lineNumber\": 47,\n      \"originalJapaneseLine\": \"「あ、あの、体の変化はそれ以外は？」\",\n      \"translatedEnglishLine\": \"\\\"U-um, are there any other changes to your body?\\\"\"\n    },\n    {\n      \"lineNumber\": 48,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 49,\n      \"originalJapaneseLine\": \"プリマは自分の顔を覆って、\",\n      \"translatedEnglishLine\": \"Prima covered her face,\"\n    },\n    {\n      \"lineNumber\": 50,\n      \"originalJapaneseLine\": \"黙ってしまった。\",\n      \"translatedEnglishLine\": \"and fell silent.\"\n    },\n    {\n      \"lineNumber\": 51,\n      \"originalJapaneseLine\": \"「あ、あのぉ〜？\",\n      \"translatedEnglishLine\": \"\\\"U-um~?\"\n    },\n    {\n      \"lineNumber\": 52,\n      \"originalJapaneseLine\": \"　プリマさん？」\",\n      \"translatedEnglishLine\": \"Prima-san?\\\"\"\n    },\n    {\n      \"lineNumber\": 53,\n      \"originalJapaneseLine\": \"「うわ、すごい……」\",\n      \"translatedEnglishLine\": \"\\\"Wow, incredible...\\\"\"\n    },\n    {\n      \"lineNumber\": 54,\n      \"originalJapaneseLine\": \"「すごいんですか！？\",\n      \"translatedEnglishLine\": \"\\\"Is it really that incredible!?\\\"\"\n    },\n    {\n      \"lineNumber\": 55,\n      \"originalJapaneseLine\": \"「完っっ全に……予想以上だった……」\",\n      \"translatedEnglishLine\": \"\\\"Com-pletely... beyond expectations...\\\"\"\n    },\n    {\n      \"lineNumber\": 56,\n      \"originalJapaneseLine\": \"「天才エロ薬師、\",\n      \"translatedEnglishLine\": \"\\\"The genius erotic pharmacist,\"\n    },\n    {\n      \"lineNumber\": 57,\n      \"originalJapaneseLine\": \"　ミル・ヨークスのお手製だもーん。\",\n      \"translatedEnglishLine\": \"Mil Yorks’ own handiwork, after all.\"\n    },\n    {\n      \"lineNumber\": 58,\n      \"originalJapaneseLine\": \"　そりゃガツンと効くものじゃないとねー」\",\n      \"translatedEnglishLine\": \"It has to hit hard, right?\\\"\"\n    },\n    {\n      \"lineNumber\": 59,\n      \"originalJapaneseLine\": \"「ほーら、体がー、\",\n      \"translatedEnglishLine\": \"\\\"See, your body—\"\n    },\n    {\n      \"lineNumber\": 60,\n      \"originalJapaneseLine\": \"　どんどん熱くなってくるでしょ？」\",\n      \"translatedEnglishLine\": \"is getting hotter and hotter, isn’t it?\\\"\"\n    }\n  ]\n}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "266844",
+                                "originalJapaneseLine": "「ふふ、はい」",
+                                "translatedEnglishLine": "\"Hehe, yes.\""
+                            },
+                            {
+                                "lineNumber": "266845",
+                                "originalJapaneseLine": "キャロリのまとめてくれたリストを見ながら、",
+                                "translatedEnglishLine": "While looking at the list that Karori had compiled,"
+                            },
+                            {
+                                "lineNumber": "266846",
+                                "originalJapaneseLine": "プリマは照れ隠しに次の調合を聞いていた。",
+                                "translatedEnglishLine": "Prima asked about the next concoction to hide her embarrassment."
+                            },
+                            {
+                                "lineNumber": "266847",
+                                "originalJapaneseLine": "「あ、それにはこの薬草も入れるといいよ〜」",
+                                "translatedEnglishLine": "\"Ah, you should also add this herb to it~\""
+                            },
+                            {
+                                "lineNumber": "266848",
+                                "originalJapaneseLine": "「へ？　そうなの？」",
+                                "translatedEnglishLine": "\"Huh? Really?\""
+                            },
+                            {
+                                "lineNumber": "266849",
+                                "originalJapaneseLine": "「へー、全然知りませんでした」",
+                                "translatedEnglishLine": "\"Wow, I had no idea at all.\""
+                            },
+                            {
+                                "lineNumber": "266850",
+                                "originalJapaneseLine": "「うん、精力が増してねぇ、",
+                                "translatedEnglishLine": "\"Yeah, it increases vitality,"
+                            },
+                            {
+                                "lineNumber": "266851",
+                                "originalJapaneseLine": "　心臓の動悸が速くなって、",
+                                "translatedEnglishLine": "the heartbeat speeds up,"
+                            },
+                            {
+                                "lineNumber": "266852",
+                                "originalJapaneseLine": "　軽い興奮状態になって……」",
+                                "translatedEnglishLine": "and you get into a light state of excitement...\""
+                            },
+                            {
+                                "lineNumber": "266853",
+                                "originalJapaneseLine": "「もう媚薬として使うと効果抜群！」",
+                                "translatedEnglishLine": "\"It’s super effective as an aphrodisiac!\""
+                            },
+                            {
+                                "lineNumber": "266854",
+                                "originalJapaneseLine": "「媚薬を作る気はないよ！？」",
+                                "translatedEnglishLine": "\"I have no intention of making aphrodisiacs!?\""
+                            },
+                            {
+                                "lineNumber": "266855",
+                                "originalJapaneseLine": "「道理でまったく知らないと思った……」",
+                                "translatedEnglishLine": "\"No wonder I didn’t know anything about it...\""
+                            },
+                            {
+                                "lineNumber": "266856",
+                                "originalJapaneseLine": "「えー、でも本当に効果あるんだよー？",
+                                "translatedEnglishLine": "\"Eh, but it really works, you know?\""
+                            },
+                            {
+                                "lineNumber": "266857",
+                                "originalJapaneseLine": "　ちーっともそんな気なかった女性もとろとろ。",
+                                "translatedEnglishLine": "Even women who didn’t have any such feelings become drowsy."
+                            },
+                            {
+                                "lineNumber": "266858",
+                                "originalJapaneseLine": "　作り方も簡単でこんな風にー……」",
+                                "translatedEnglishLine": "It’s easy to make, like this—...\""
+                            },
+                            {
+                                "lineNumber": "266859",
+                                "originalJapaneseLine": "「だーっ、作るな作るな！」",
+                                "translatedEnglishLine": "\"Nooo, don’t make it, don’t!\""
+                            },
+                            {
+                                "lineNumber": "266860",
+                                "originalJapaneseLine": "「出来ちゃった……」",
+                                "translatedEnglishLine": "\"It got made...\""
+                            },
+                            {
+                                "lineNumber": "266861",
+                                "originalJapaneseLine": "「出来ちゃいましたね……",
+                                "translatedEnglishLine": "\"It’s been made...\""
+                            },
+                            {
+                                "lineNumber": "266862",
+                                "originalJapaneseLine": "　強力な胃薬……」",
+                                "translatedEnglishLine": "A powerful stomach medicine...\""
+                            },
+                            {
+                                "lineNumber": "266863",
+                                "originalJapaneseLine": "「に、媚薬効果も混ぜたものー♪」",
+                                "translatedEnglishLine": "\"And it also has aphrodisiac effects mixed in♪\""
+                            },
+                            {
+                                "lineNumber": "266864",
+                                "originalJapaneseLine": "「これ……",
+                                "translatedEnglishLine": "\"This...\""
+                            },
+                            {
+                                "lineNumber": "266865",
+                                "originalJapaneseLine": "　一応胃薬として効くことは効くんだよね」",
+                                "translatedEnglishLine": "Should work as a stomach medicine at least.\""
+                            },
+                            {
+                                "lineNumber": "266866",
+                                "originalJapaneseLine": "「そのはずですよ……」",
+                                "translatedEnglishLine": "\"It should...\""
+                            },
+                            {
+                                "lineNumber": "266867",
+                                "originalJapaneseLine": "「媚薬効果はともかく……",
+                                "translatedEnglishLine": "\"Putting the aphrodisiac effect aside...\""
+                            },
+                            {
+                                "lineNumber": "266868",
+                                "originalJapaneseLine": "　胃薬としては効果があるかどうか、",
+                                "translatedEnglishLine": "whether it really works as a stomach medicine,"
+                            },
+                            {
+                                "lineNumber": "266869",
+                                "originalJapaneseLine": "　ちゃんと確認しないと……」",
+                                "translatedEnglishLine": "we have to properly check...\""
+                            },
+                            {
+                                "lineNumber": "266870",
+                                "originalJapaneseLine": "「の、飲むんですか！？",
+                                "translatedEnglishLine": "\"Y-you’re going to drink it!?\""
+                            },
+                            {
+                                "lineNumber": "266871",
+                                "originalJapaneseLine": "「自分で作ったもの、自分で飲まずに、",
+                                "translatedEnglishLine": "\"If you don’t drink what you make yourself,"
+                            },
+                            {
+                                "lineNumber": "266872",
+                                "originalJapaneseLine": "　人に飲ませるわけにはいかないだろう」",
+                                "translatedEnglishLine": "you can't make others drink it.\""
+                            },
+                            {
+                                "lineNumber": "266873",
+                                "originalJapaneseLine": "「それに、作ったものを捨てるってのも……",
+                                "translatedEnglishLine": "\"Also, throwing away what you made is..."
+                            },
+                            {
+                                "lineNumber": "266874",
+                                "originalJapaneseLine": "「あはは、晩ご飯の残り物処分する",
+                                "translatedEnglishLine": "\"Haha, like how a mother disposes of leftover dinner"
+                            },
+                            {
+                                "lineNumber": "266875",
+                                "originalJapaneseLine": "　お母さんみたいだね」",
+                                "translatedEnglishLine": "stuff.\""
+                            },
+                            {
+                                "lineNumber": "266876",
+                                "originalJapaneseLine": "「黙ってな！」",
+                                "translatedEnglishLine": "\"Shut up!\""
+                            },
+                            {
+                                "lineNumber": "266877",
+                                "originalJapaneseLine": "「媚薬効果なんて、",
+                                "translatedEnglishLine": "\"Aphrodisiac effects,"
+                            },
+                            {
+                                "lineNumber": "266878",
+                                "originalJapaneseLine": "　別に死ぬわけじゃあるまいし、",
+                                "translatedEnglishLine": "it’s not like it’ll kill me or anything,"
+                            },
+                            {
+                                "lineNumber": "266879",
+                                "originalJapaneseLine": "　こんなもん大したことないよ」",
+                                "translatedEnglishLine": "so it’s not a big deal.\""
+                            },
+                            {
+                                "lineNumber": "266880",
+                                "originalJapaneseLine": "「あっ」",
+                                "translatedEnglishLine": "\"Ah!\""
+                            },
+                            {
+                                "lineNumber": "266881",
+                                "originalJapaneseLine": "言うが早いか、",
+                                "translatedEnglishLine": "Before she could finish saying that,"
+                            },
+                            {
+                                "lineNumber": "266882",
+                                "originalJapaneseLine": "プリマは媚薬効果つき胃薬をひょいパク。",
+                                "translatedEnglishLine": "Prima quickly popped the aphrodisiac-effect stomach medicine into her mouth."
+                            },
+                            {
+                                "lineNumber": "266883",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "266884",
+                                "originalJapaneseLine": "「プリマさん？」",
+                                "translatedEnglishLine": "\"Prima-san?\""
+                            },
+                            {
+                                "lineNumber": "266885",
+                                "originalJapaneseLine": "「――さっきまでキリキリしていた",
+                                "translatedEnglishLine": "\"—the sharp stomach pain I had just now"
+                            },
+                            {
+                                "lineNumber": "266886",
+                                "originalJapaneseLine": "　胃の痛みがすーっと消えた」",
+                                "translatedEnglishLine": "has completely disappeared.\""
+                            },
+                            {
+                                "lineNumber": "266887",
+                                "originalJapaneseLine": "「うふふん。",
+                                "translatedEnglishLine": "\"Ufufun."
+                            },
+                            {
+                                "lineNumber": "266888",
+                                "originalJapaneseLine": "　私だって薬師のはしくれだもーん」",
+                                "translatedEnglishLine": "I’m also an apprentice pharmacist, after all.\""
+                            },
+                            {
+                                "lineNumber": "266889",
+                                "originalJapaneseLine": "「……なーんか納得いかない」",
+                                "translatedEnglishLine": "\"...Somehow, I’m not convinced.\""
+                            },
+                            {
+                                "lineNumber": "266890",
+                                "originalJapaneseLine": "「あ、あの、体の変化はそれ以外は？」",
+                                "translatedEnglishLine": "\"U-um, are there any other changes to your body?\""
+                            },
+                            {
+                                "lineNumber": "266891",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "266892",
+                                "originalJapaneseLine": "プリマは自分の顔を覆って、",
+                                "translatedEnglishLine": "Prima covered her face,"
+                            },
+                            {
+                                "lineNumber": "266893",
+                                "originalJapaneseLine": "黙ってしまった。",
+                                "translatedEnglishLine": "and fell silent."
+                            },
+                            {
+                                "lineNumber": "266894",
+                                "originalJapaneseLine": "「あ、あのぉ〜？",
+                                "translatedEnglishLine": "\"U-um~?"
+                            },
+                            {
+                                "lineNumber": "266895",
+                                "originalJapaneseLine": "　プリマさん？」",
+                                "translatedEnglishLine": "Prima-san?\""
+                            },
+                            {
+                                "lineNumber": "266896",
+                                "originalJapaneseLine": "「うわ、すごい……」",
+                                "translatedEnglishLine": "\"Wow, incredible...\""
+                            },
+                            {
+                                "lineNumber": "266897",
+                                "originalJapaneseLine": "「すごいんですか！？",
+                                "translatedEnglishLine": "\"Is it really that incredible!?\""
+                            },
+                            {
+                                "lineNumber": "266898",
+                                "originalJapaneseLine": "「完っっ全に……予想以上だった……」",
+                                "translatedEnglishLine": "\"Com-pletely... beyond expectations...\""
+                            },
+                            {
+                                "lineNumber": "266899",
+                                "originalJapaneseLine": "「天才エロ薬師、",
+                                "translatedEnglishLine": "\"The genius erotic pharmacist,"
+                            },
+                            {
+                                "lineNumber": "266900",
+                                "originalJapaneseLine": "　ミル・ヨークスのお手製だもーん。",
+                                "translatedEnglishLine": "Mil Yorks’ own handiwork, after all."
+                            },
+                            {
+                                "lineNumber": "266901",
+                                "originalJapaneseLine": "　そりゃガツンと効くものじゃないとねー」",
+                                "translatedEnglishLine": "It has to hit hard, right?\""
+                            },
+                            {
+                                "lineNumber": "266902",
+                                "originalJapaneseLine": "「ほーら、体がー、",
+                                "translatedEnglishLine": "\"See, your body—"
+                            },
+                            {
+                                "lineNumber": "266903",
+                                "originalJapaneseLine": "　どんどん熱くなってくるでしょ？」",
+                                "translatedEnglishLine": "is getting hotter and hotter, isn’t it?\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1795,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2804,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4599
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 1,\n      \"originalJapaneseLine\": \"「ふふ、はい」\",\n      \"translatedEnglishLine\": \"\\\"Hehe, yes.\\\"\"\n    },\n    {\n      \"lineNumber\": 2,\n      \"originalJapaneseLine\": \"キャロリのまとめてくれたリストを見ながら、\",\n      \"translatedEnglishLine\": \"While looking at the list that Karori had compiled,\"\n    },\n    {\n      \"lineNumber\": 3,\n      \"originalJapaneseLine\": \"プリマは照れ隠しに次の調合を聞いていた。\",\n      \"translatedEnglishLine\": \"Prima asked about the next concoction to hide her embarrassment.\"\n    },\n    {\n      \"lineNumber\": 4,\n      \"originalJapaneseLine\": \"「あ、それにはこの薬草も入れるといいよ〜」\",\n      \"translatedEnglishLine\": \"\\\"Ah, you should also add this herb to it~\\\"\"\n    },\n    {\n      \"lineNumber\": 5,\n      \"originalJapaneseLine\": \"「へ？　そうなの？」\",\n      \"translatedEnglishLine\": \"\\\"Huh? Really?\\\"\"\n    },\n    {\n      \"lineNumber\": 6,\n      \"originalJapaneseLine\": \"「へー、全然知りませんでした」\",\n      \"translatedEnglishLine\": \"\\\"Wow, I had no idea at all.\\\"\"\n    },\n    {\n      \"lineNumber\": 7,\n      \"originalJapaneseLine\": \"「うん、精力が増してねぇ、\",\n      \"translatedEnglishLine\": \"\\\"Yeah, it increases vitality,\"\n    },\n    {\n      \"lineNumber\": 8,\n      \"originalJapaneseLine\": \"　心臓の動悸が速くなって、\",\n      \"translatedEnglishLine\": \"the heartbeat speeds up,\"\n    },\n    {\n      \"lineNumber\": 9,\n      \"originalJapaneseLine\": \"　軽い興奮状態になって……」\",\n      \"translatedEnglishLine\": \"and you get into a light state of excitement...\\\"\"\n    },\n    {\n      \"lineNumber\": 10,\n      \"originalJapaneseLine\": \"「もう媚薬として使うと効果抜群！」\",\n      \"translatedEnglishLine\": \"\\\"It’s super effective as an aphrodisiac!\\\"\"\n    },\n    {\n      \"lineNumber\": 11,\n      \"originalJapaneseLine\": \"「媚薬を作る気はないよ！？」\",\n      \"translatedEnglishLine\": \"\\\"I have no intention of making aphrodisiacs!?\\\"\"\n    },\n    {\n      \"lineNumber\": 12,\n      \"originalJapaneseLine\": \"「道理でまったく知らないと思った……」\",\n      \"translatedEnglishLine\": \"\\\"No wonder I didn’t know anything about it...\\\"\"\n    },\n    {\n      \"lineNumber\": 13,\n      \"originalJapaneseLine\": \"「えー、でも本当に効果あるんだよー？\",\n      \"translatedEnglishLine\": \"\\\"Eh, but it really works, you know?\\\"\"\n    },\n    {\n      \"lineNumber\": 14,\n      \"originalJapaneseLine\": \"　ちーっともそんな気なかった女性もとろとろ。\",\n      \"translatedEnglishLine\": \"Even women who didn’t have any such feelings become drowsy.\"\n    },\n    {\n      \"lineNumber\": 15,\n      \"originalJapaneseLine\": \"　作り方も簡単でこんな風にー……」\",\n      \"translatedEnglishLine\": \"It’s easy to make, like this—...\\\"\"\n    },\n    {\n      \"lineNumber\": 16,\n      \"originalJapaneseLine\": \"「だーっ、作るな作るな！」\",\n      \"translatedEnglishLine\": \"\\\"Nooo, don’t make it, don’t!\\\"\"\n    },\n    {\n      \"lineNumber\": 17,\n      \"originalJapaneseLine\": \"「出来ちゃった……」\",\n      \"translatedEnglishLine\": \"\\\"It got made...\\\"\"\n    },\n    {\n      \"lineNumber\": 18,\n      \"originalJapaneseLine\": \"「出来ちゃいましたね……\",\n      \"translatedEnglishLine\": \"\\\"It’s been made...\\\"\"\n    },\n    {\n      \"lineNumber\": 19,\n      \"originalJapaneseLine\": \"　強力な胃薬……」\",\n      \"translatedEnglishLine\": \"A powerful stomach medicine...\\\"\"\n    },\n    {\n      \"lineNumber\": 20,\n      \"originalJapaneseLine\": \"「に、媚薬効果も混ぜたものー♪」\",\n      \"translatedEnglishLine\": \"\\\"And it also has aphrodisiac effects mixed in♪\\\"\"\n    },\n    {\n      \"lineNumber\": 21,\n      \"originalJapaneseLine\": \"「これ……\",\n      \"translatedEnglishLine\": \"\\\"This...\\\"\"\n    },\n    {\n      \"lineNumber\": 22,\n      \"originalJapaneseLine\": \"　一応胃薬として効くことは効くんだよね」\",\n      \"translatedEnglishLine\": \"Should work as a stomach medicine at least.\\\"\"\n    },\n    {\n      \"lineNumber\": 23,\n      \"originalJapaneseLine\": \"「そのはずですよ……」\",\n      \"translatedEnglishLine\": \"\\\"It should...\\\"\"\n    },\n    {\n      \"lineNumber\": 24,\n      \"originalJapaneseLine\": \"「媚薬効果はともかく……\",\n      \"translatedEnglishLine\": \"\\\"Putting the aphrodisiac effect aside...\\\"\"\n    },\n    {\n      \"lineNumber\": 25,\n      \"originalJapaneseLine\": \"　胃薬としては効果があるかどうか、\",\n      \"translatedEnglishLine\": \"whether it really works as a stomach medicine,\"\n    },\n    {\n      \"lineNumber\": 26,\n      \"originalJapaneseLine\": \"　ちゃんと確認しないと……」\",\n      \"translatedEnglishLine\": \"we have to properly check...\\\"\"\n    },\n    {\n      \"lineNumber\": 27,\n      \"originalJapaneseLine\": \"「の、飲むんですか！？\",\n      \"translatedEnglishLine\": \"\\\"Y-you’re going to drink it!?\\\"\"\n    },\n    {\n      \"lineNumber\": 28,\n      \"originalJapaneseLine\": \"「自分で作ったもの、自分で飲まずに、\",\n      \"translatedEnglishLine\": \"\\\"If you don’t drink what you make yourself,\"\n    },\n    {\n      \"lineNumber\": 29,\n      \"originalJapaneseLine\": \"　人に飲ませるわけにはいかないだろう」\",\n      \"translatedEnglishLine\": \"you can't make others drink it.\\\"\"\n    },\n    {\n      \"lineNumber\": 30,\n      \"originalJapaneseLine\": \"「それに、作ったものを捨てるってのも……\",\n      \"translatedEnglishLine\": \"\\\"Also, throwing away what you made is...\"\n    },\n    {\n      \"lineNumber\": 31,\n      \"originalJapaneseLine\": \"「あはは、晩ご飯の残り物処分する\",\n      \"translatedEnglishLine\": \"\\\"Haha, like how a mother disposes of leftover dinner\"\n    },\n    {\n      \"lineNumber\": 32,\n      \"originalJapaneseLine\": \"　お母さんみたいだね」\",\n      \"translatedEnglishLine\": \"stuff.\\\"\"\n    },\n    {\n      \"lineNumber\": 33,\n      \"originalJapaneseLine\": \"「黙ってな！」\",\n      \"translatedEnglishLine\": \"\\\"Shut up!\\\"\"\n    },\n    {\n      \"lineNumber\": 34,\n      \"originalJapaneseLine\": \"「媚薬効果なんて、\",\n      \"translatedEnglishLine\": \"\\\"Aphrodisiac effects,\"\n    },\n    {\n      \"lineNumber\": 35,\n      \"originalJapaneseLine\": \"　別に死ぬわけじゃあるまいし、\",\n      \"translatedEnglishLine\": \"it’s not like it’ll kill me or anything,\"\n    },\n    {\n      \"lineNumber\": 36,\n      \"originalJapaneseLine\": \"　こんなもん大したことないよ」\",\n      \"translatedEnglishLine\": \"so it’s not a big deal.\\\"\"\n    },\n    {\n      \"lineNumber\": 37,\n      \"originalJapaneseLine\": \"「あっ」\",\n      \"translatedEnglishLine\": \"\\\"Ah!\\\"\"\n    },\n    {\n      \"lineNumber\": 38,\n      \"originalJapaneseLine\": \"言うが早いか、\",\n      \"translatedEnglishLine\": \"Before she could finish saying that,\"\n    },\n    {\n      \"lineNumber\": 39,\n      \"originalJapaneseLine\": \"プリマは媚薬効果つき胃薬をひょいパク。\",\n      \"translatedEnglishLine\": \"Prima quickly popped the aphrodisiac-effect stomach medicine into her mouth.\"\n    },\n    {\n      \"lineNumber\": 40,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 41,\n      \"originalJapaneseLine\": \"「プリマさん？」\",\n      \"translatedEnglishLine\": \"\\\"Prima-san?\\\"\"\n    },\n    {\n      \"lineNumber\": 42,\n      \"originalJapaneseLine\": \"「――さっきまでキリキリしていた\",\n      \"translatedEnglishLine\": \"\\\"—the sharp stomach pain I had just now\"\n    },\n    {\n      \"lineNumber\": 43,\n      \"originalJapaneseLine\": \"　胃の痛みがすーっと消えた」\",\n      \"translatedEnglishLine\": \"has completely disappeared.\\\"\"\n    },\n    {\n      \"lineNumber\": 44,\n      \"originalJapaneseLine\": \"「うふふん。\",\n      \"translatedEnglishLine\": \"\\\"Ufufun.\"\n    },\n    {\n      \"lineNumber\": 45,\n      \"originalJapaneseLine\": \"　私だって薬師のはしくれだもーん」\",\n      \"translatedEnglishLine\": \"I’m also an apprentice pharmacist, after all.\\\"\"\n    },\n    {\n      \"lineNumber\": 46,\n      \"originalJapaneseLine\": \"「……なーんか納得いかない」\",\n      \"translatedEnglishLine\": \"\\\"...Somehow, I’m not convinced.\\\"\"\n    },\n    {\n      \"lineNumber\": 47,\n      \"originalJapaneseLine\": \"「あ、あの、体の変化はそれ以外は？」\",\n      \"translatedEnglishLine\": \"\\\"U-um, are there any other changes to your body?\\\"\"\n    },\n    {\n      \"lineNumber\": 48,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 49,\n      \"originalJapaneseLine\": \"プリマは自分の顔を覆って、\",\n      \"translatedEnglishLine\": \"Prima covered her face,\"\n    },\n    {\n      \"lineNumber\": 50,\n      \"originalJapaneseLine\": \"黙ってしまった。\",\n      \"translatedEnglishLine\": \"and fell silent.\"\n    },\n    {\n      \"lineNumber\": 51,\n      \"originalJapaneseLine\": \"「あ、あのぉ〜？\",\n      \"translatedEnglishLine\": \"\\\"U-um~?\"\n    },\n    {\n      \"lineNumber\": 52,\n      \"originalJapaneseLine\": \"　プリマさん？」\",\n      \"translatedEnglishLine\": \"Prima-san?\\\"\"\n    },\n    {\n      \"lineNumber\": 53,\n      \"originalJapaneseLine\": \"「うわ、すごい……」\",\n      \"translatedEnglishLine\": \"\\\"Wow, incredible...\\\"\"\n    },\n    {\n      \"lineNumber\": 54,\n      \"originalJapaneseLine\": \"「すごいんですか！？\",\n      \"translatedEnglishLine\": \"\\\"Is it really that incredible!?\\\"\"\n    },\n    {\n      \"lineNumber\": 55,\n      \"originalJapaneseLine\": \"「完っっ全に……予想以上だった……」\",\n      \"translatedEnglishLine\": \"\\\"Com-pletely... beyond expectations...\\\"\"\n    },\n    {\n      \"lineNumber\": 56,\n      \"originalJapaneseLine\": \"「天才エロ薬師、\",\n      \"translatedEnglishLine\": \"\\\"The genius erotic pharmacist,\"\n    },\n    {\n      \"lineNumber\": 57,\n      \"originalJapaneseLine\": \"　ミル・ヨークスのお手製だもーん。\",\n      \"translatedEnglishLine\": \"Mil Yorks’ own handiwork, after all.\"\n    },\n    {\n      \"lineNumber\": 58,\n      \"originalJapaneseLine\": \"　そりゃガツンと効くものじゃないとねー」\",\n      \"translatedEnglishLine\": \"It has to hit hard, right?\\\"\"\n    },\n    {\n      \"lineNumber\": 59,\n      \"originalJapaneseLine\": \"「ほーら、体がー、\",\n      \"translatedEnglishLine\": \"\\\"See, your body—\"\n    },\n    {\n      \"lineNumber\": 60,\n      \"originalJapaneseLine\": \"　どんどん熱くなってくるでしょ？」\",\n      \"translatedEnglishLine\": \"is getting hotter and hotter, isn’t it?\\\"\"\n    }\n  ]\n}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "266844",
+                "originalJapaneseLine": "「ふふ、はい」",
+                "translatedEnglishLine": "\"Hehe, yes.\""
+            },
+            {
+                "lineNumber": "266845",
+                "originalJapaneseLine": "キャロリのまとめてくれたリストを見ながら、",
+                "translatedEnglishLine": "While looking at the list that Karori had compiled,"
+            },
+            {
+                "lineNumber": "266846",
+                "originalJapaneseLine": "プリマは照れ隠しに次の調合を聞いていた。",
+                "translatedEnglishLine": "Prima asked about the next concoction to hide her embarrassment."
+            },
+            {
+                "lineNumber": "266847",
+                "originalJapaneseLine": "「あ、それにはこの薬草も入れるといいよ〜」",
+                "translatedEnglishLine": "\"Ah, you should also add this herb to it~\""
+            },
+            {
+                "lineNumber": "266848",
+                "originalJapaneseLine": "「へ？　そうなの？」",
+                "translatedEnglishLine": "\"Huh? Really?\""
+            },
+            {
+                "lineNumber": "266849",
+                "originalJapaneseLine": "「へー、全然知りませんでした」",
+                "translatedEnglishLine": "\"Wow, I had no idea at all.\""
+            },
+            {
+                "lineNumber": "266850",
+                "originalJapaneseLine": "「うん、精力が増してねぇ、",
+                "translatedEnglishLine": "\"Yeah, it increases vitality,"
+            },
+            {
+                "lineNumber": "266851",
+                "originalJapaneseLine": "　心臓の動悸が速くなって、",
+                "translatedEnglishLine": "the heartbeat speeds up,"
+            },
+            {
+                "lineNumber": "266852",
+                "originalJapaneseLine": "　軽い興奮状態になって……」",
+                "translatedEnglishLine": "and you get into a light state of excitement...\""
+            },
+            {
+                "lineNumber": "266853",
+                "originalJapaneseLine": "「もう媚薬として使うと効果抜群！」",
+                "translatedEnglishLine": "\"It’s super effective as an aphrodisiac!\""
+            },
+            {
+                "lineNumber": "266854",
+                "originalJapaneseLine": "「媚薬を作る気はないよ！？」",
+                "translatedEnglishLine": "\"I have no intention of making aphrodisiacs!?\""
+            },
+            {
+                "lineNumber": "266855",
+                "originalJapaneseLine": "「道理でまったく知らないと思った……」",
+                "translatedEnglishLine": "\"No wonder I didn’t know anything about it...\""
+            },
+            {
+                "lineNumber": "266856",
+                "originalJapaneseLine": "「えー、でも本当に効果あるんだよー？",
+                "translatedEnglishLine": "\"Eh, but it really works, you know?\""
+            },
+            {
+                "lineNumber": "266857",
+                "originalJapaneseLine": "　ちーっともそんな気なかった女性もとろとろ。",
+                "translatedEnglishLine": "Even women who didn’t have any such feelings become drowsy."
+            },
+            {
+                "lineNumber": "266858",
+                "originalJapaneseLine": "　作り方も簡単でこんな風にー……」",
+                "translatedEnglishLine": "It’s easy to make, like this—...\""
+            },
+            {
+                "lineNumber": "266859",
+                "originalJapaneseLine": "「だーっ、作るな作るな！」",
+                "translatedEnglishLine": "\"Nooo, don’t make it, don’t!\""
+            },
+            {
+                "lineNumber": "266860",
+                "originalJapaneseLine": "「出来ちゃった……」",
+                "translatedEnglishLine": "\"It got made...\""
+            },
+            {
+                "lineNumber": "266861",
+                "originalJapaneseLine": "「出来ちゃいましたね……",
+                "translatedEnglishLine": "\"It’s been made...\""
+            },
+            {
+                "lineNumber": "266862",
+                "originalJapaneseLine": "　強力な胃薬……」",
+                "translatedEnglishLine": "A powerful stomach medicine...\""
+            },
+            {
+                "lineNumber": "266863",
+                "originalJapaneseLine": "「に、媚薬効果も混ぜたものー♪」",
+                "translatedEnglishLine": "\"And it also has aphrodisiac effects mixed in♪\""
+            },
+            {
+                "lineNumber": "266864",
+                "originalJapaneseLine": "「これ……",
+                "translatedEnglishLine": "\"This...\""
+            },
+            {
+                "lineNumber": "266865",
+                "originalJapaneseLine": "　一応胃薬として効くことは効くんだよね」",
+                "translatedEnglishLine": "Should work as a stomach medicine at least.\""
+            },
+            {
+                "lineNumber": "266866",
+                "originalJapaneseLine": "「そのはずですよ……」",
+                "translatedEnglishLine": "\"It should...\""
+            },
+            {
+                "lineNumber": "266867",
+                "originalJapaneseLine": "「媚薬効果はともかく……",
+                "translatedEnglishLine": "\"Putting the aphrodisiac effect aside...\""
+            },
+            {
+                "lineNumber": "266868",
+                "originalJapaneseLine": "　胃薬としては効果があるかどうか、",
+                "translatedEnglishLine": "whether it really works as a stomach medicine,"
+            },
+            {
+                "lineNumber": "266869",
+                "originalJapaneseLine": "　ちゃんと確認しないと……」",
+                "translatedEnglishLine": "we have to properly check...\""
+            },
+            {
+                "lineNumber": "266870",
+                "originalJapaneseLine": "「の、飲むんですか！？",
+                "translatedEnglishLine": "\"Y-you’re going to drink it!?\""
+            },
+            {
+                "lineNumber": "266871",
+                "originalJapaneseLine": "「自分で作ったもの、自分で飲まずに、",
+                "translatedEnglishLine": "\"If you don’t drink what you make yourself,"
+            },
+            {
+                "lineNumber": "266872",
+                "originalJapaneseLine": "　人に飲ませるわけにはいかないだろう」",
+                "translatedEnglishLine": "you can't make others drink it.\""
+            },
+            {
+                "lineNumber": "266873",
+                "originalJapaneseLine": "「それに、作ったものを捨てるってのも……",
+                "translatedEnglishLine": "\"Also, throwing away what you made is..."
+            },
+            {
+                "lineNumber": "266874",
+                "originalJapaneseLine": "「あはは、晩ご飯の残り物処分する",
+                "translatedEnglishLine": "\"Haha, like how a mother disposes of leftover dinner"
+            },
+            {
+                "lineNumber": "266875",
+                "originalJapaneseLine": "　お母さんみたいだね」",
+                "translatedEnglishLine": "stuff.\""
+            },
+            {
+                "lineNumber": "266876",
+                "originalJapaneseLine": "「黙ってな！」",
+                "translatedEnglishLine": "\"Shut up!\""
+            },
+            {
+                "lineNumber": "266877",
+                "originalJapaneseLine": "「媚薬効果なんて、",
+                "translatedEnglishLine": "\"Aphrodisiac effects,"
+            },
+            {
+                "lineNumber": "266878",
+                "originalJapaneseLine": "　別に死ぬわけじゃあるまいし、",
+                "translatedEnglishLine": "it’s not like it’ll kill me or anything,"
+            },
+            {
+                "lineNumber": "266879",
+                "originalJapaneseLine": "　こんなもん大したことないよ」",
+                "translatedEnglishLine": "so it’s not a big deal.\""
+            },
+            {
+                "lineNumber": "266880",
+                "originalJapaneseLine": "「あっ」",
+                "translatedEnglishLine": "\"Ah!\""
+            },
+            {
+                "lineNumber": "266881",
+                "originalJapaneseLine": "言うが早いか、",
+                "translatedEnglishLine": "Before she could finish saying that,"
+            },
+            {
+                "lineNumber": "266882",
+                "originalJapaneseLine": "プリマは媚薬効果つき胃薬をひょいパク。",
+                "translatedEnglishLine": "Prima quickly popped the aphrodisiac-effect stomach medicine into her mouth."
+            },
+            {
+                "lineNumber": "266883",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "266884",
+                "originalJapaneseLine": "「プリマさん？」",
+                "translatedEnglishLine": "\"Prima-san?\""
+            },
+            {
+                "lineNumber": "266885",
+                "originalJapaneseLine": "「――さっきまでキリキリしていた",
+                "translatedEnglishLine": "\"—the sharp stomach pain I had just now"
+            },
+            {
+                "lineNumber": "266886",
+                "originalJapaneseLine": "　胃の痛みがすーっと消えた」",
+                "translatedEnglishLine": "has completely disappeared.\""
+            },
+            {
+                "lineNumber": "266887",
+                "originalJapaneseLine": "「うふふん。",
+                "translatedEnglishLine": "\"Ufufun."
+            },
+            {
+                "lineNumber": "266888",
+                "originalJapaneseLine": "　私だって薬師のはしくれだもーん」",
+                "translatedEnglishLine": "I’m also an apprentice pharmacist, after all.\""
+            },
+            {
+                "lineNumber": "266889",
+                "originalJapaneseLine": "「……なーんか納得いかない」",
+                "translatedEnglishLine": "\"...Somehow, I’m not convinced.\""
+            },
+            {
+                "lineNumber": "266890",
+                "originalJapaneseLine": "「あ、あの、体の変化はそれ以外は？」",
+                "translatedEnglishLine": "\"U-um, are there any other changes to your body?\""
+            },
+            {
+                "lineNumber": "266891",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "266892",
+                "originalJapaneseLine": "プリマは自分の顔を覆って、",
+                "translatedEnglishLine": "Prima covered her face,"
+            },
+            {
+                "lineNumber": "266893",
+                "originalJapaneseLine": "黙ってしまった。",
+                "translatedEnglishLine": "and fell silent."
+            },
+            {
+                "lineNumber": "266894",
+                "originalJapaneseLine": "「あ、あのぉ〜？",
+                "translatedEnglishLine": "\"U-um~?"
+            },
+            {
+                "lineNumber": "266895",
+                "originalJapaneseLine": "　プリマさん？」",
+                "translatedEnglishLine": "Prima-san?\""
+            },
+            {
+                "lineNumber": "266896",
+                "originalJapaneseLine": "「うわ、すごい……」",
+                "translatedEnglishLine": "\"Wow, incredible...\""
+            },
+            {
+                "lineNumber": "266897",
+                "originalJapaneseLine": "「すごいんですか！？",
+                "translatedEnglishLine": "\"Is it really that incredible!?\""
+            },
+            {
+                "lineNumber": "266898",
+                "originalJapaneseLine": "「完っっ全に……予想以上だった……」",
+                "translatedEnglishLine": "\"Com-pletely... beyond expectations...\""
+            },
+            {
+                "lineNumber": "266899",
+                "originalJapaneseLine": "「天才エロ薬師、",
+                "translatedEnglishLine": "\"The genius erotic pharmacist,"
+            },
+            {
+                "lineNumber": "266900",
+                "originalJapaneseLine": "　ミル・ヨークスのお手製だもーん。",
+                "translatedEnglishLine": "Mil Yorks’ own handiwork, after all."
+            },
+            {
+                "lineNumber": "266901",
+                "originalJapaneseLine": "　そりゃガツンと効くものじゃないとねー」",
+                "translatedEnglishLine": "It has to hit hard, right?\""
+            },
+            {
+                "lineNumber": "266902",
+                "originalJapaneseLine": "「ほーら、体がー、",
+                "translatedEnglishLine": "\"See, your body—"
+            },
+            {
+                "lineNumber": "266903",
+                "originalJapaneseLine": "　どんどん熱くなってくるでしょ？」",
+                "translatedEnglishLine": "is getting hotter and hotter, isn’t it?\""
+            }
+        ]
+    }
+}

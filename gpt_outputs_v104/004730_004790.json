@@ -1,0 +1,719 @@
+{
+    "id": "resp_0418ba309e8ef77f0068ffeed8ef1481959a66eaf3ecf45984",
+    "object": "response",
+    "created_at": 1761603288,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0418ba309e8ef77f0068ffeed973108195948ecaa6f33b223d",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「正確に言うと、\",\"translatedEnglishLine\":\"\\\"To be precise,\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　導く者-ｼｭﾒﾙﾂ･ｶｲｾﾞﾘﾝ-の、\",\"translatedEnglishLine\":\" the Guiding One - Shumerutsu Kaizerin - and\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　私に賛同してくれる者で作った村よ」\",\"translatedEnglishLine\":\" those who agree with me created the village.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「君はまだそんなことをしとったのか……」\",\"translatedEnglishLine\":\"\\\"You were still doing something like that...\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「ふふ、と言っても、\",\"translatedEnglishLine\":\"\\\"Hehe, but even so,\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　活動は休止中なんだけどね」\",\"translatedEnglishLine\":\" the activities are currently on hold.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「あ、あの、何かに襲われた……\",\"translatedEnglishLine\":\"\\\"Um, did something attack you...?\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　とかでしょうか？」\",\"translatedEnglishLine\":\" Was it something like that?\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「破壊神ラ・バスワルド」\",\"translatedEnglishLine\":\"\\\"The god of destruction, La Baswald.\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「なに？」\",\"translatedEnglishLine\":\"\\\"What?\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「突然現れて、この村を壊滅させた、\",\"translatedEnglishLine\":\"\\\"Suddenly appeared and devastated this village,\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　神の名前よ」\",\"translatedEnglishLine\":\" that is the name of the god.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「行動や容姿から間違いないと思う。\",\"translatedEnglishLine\":\"\\\"From its behavior and appearance, I'm sure.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　破壊の神にして、\",\"translatedEnglishLine\":\" The god of destruction,\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　この世界に作られたストッパー」\",\"translatedEnglishLine\":\" and a stopper created for this world.\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「ストッパー？」\",\"translatedEnglishLine\":\"\\\"Stopper?\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「ごめんなさい、元法王でも\",\"translatedEnglishLine\":\"\\\"I'm sorry, but even as a former Pope,\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　神の全てを知っているわけではないの。\",\"translatedEnglishLine\":\" I don't know everything about the gods.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　分かるのはここまで」\",\"translatedEnglishLine\":\" This is as far as I understand.\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「おそらく、世界の有り様が、\",\"translatedEnglishLine\":\"\\\"Probably, when the state of the world\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　何かの方向に対して傾きすぎた時、\",\"translatedEnglishLine\":\" leans too much in a certain direction,\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　発動する世界の抑止装置か何かだと思う」\",\"translatedEnglishLine\":\" I think it activates as some kind of cosmic suppressant.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「何かってなんだ？」\",\"translatedEnglishLine\":\"\\\"What do you mean by 'some kind of'?\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「おそらく完全汚染人間が増えすぎると、\",\"translatedEnglishLine\":\"\\\"Probably when fully corrupted humans become too many,\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　破壊に出向いてくるんじゃないかしら」\",\"translatedEnglishLine\":\" it comes out to destroy them.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「だって私達にだけ\",\"translatedEnglishLine\":\"\\\"Because it kept relentlessly attacking only us.\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　執拗に攻撃を繰り返していたから」\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「えーと、完全汚染人間というのは……」\",\"translatedEnglishLine\":\"\\\"Um, what's a fully corrupted human...?\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「魂が汚れすぎて、\",\"translatedEnglishLine\":\"\\\"A person whose soul is so corrupted,\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　もう浄化も転生も出来なくなった人のこと」\",\"translatedEnglishLine\":\" that they can no longer be purified or reincarnated.\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「私のような、ね」\",\"translatedEnglishLine\":\"\\\"Someone like me, yeah.\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「そんな天界からもゴミにしかならない、\",\"translatedEnglishLine\":\"\\\"Souls so filthy they become nothing but garbage even in heaven,\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　汚れきった魂を処理するのが、\",\"translatedEnglishLine\":\" cleaning up those completely corrupted souls,\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　おそらくあの神の正体じゃないかしら」\",\"translatedEnglishLine\":\" is probably the true nature of that god.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「アムちゃんの話はよく分からん。\",\"translatedEnglishLine\":\"\\\"I don't quite understand Am-chan's story.\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　分からんが……」\",\"translatedEnglishLine\":\" I don't get it, but...\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「なんとなくだが、\",\"translatedEnglishLine\":\"\\\"Somehow,\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　君の自業自得なのではないか」\",\"translatedEnglishLine\":\" I feel it's your own fault.\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「うん、そうみたい」\",\"translatedEnglishLine\":\"\\\"Yeah, it seems so.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「しかし、神が暴走してる、ねえ……」\",\"translatedEnglishLine\":\"\\\"But a god running wild, huh...\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「事情は分かった。\",\"translatedEnglishLine\":\"\\\"I understand the situation.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　俺には無関係ってこともな。\",\"translatedEnglishLine\":\" And that it has nothing to do with me.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　避難だ、避難」\",\"translatedEnglishLine\":\" Evacuate, evacuate.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「あら、無関係なんかじゃないわよ」\",\"translatedEnglishLine\":\"\\\"Oh no, it's not unrelated at all.\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「だって、バスワルドは、\",\"translatedEnglishLine\":\"\\\"Because Baswald is,\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　ハウゼルさんとサイゼルさんが\",\"translatedEnglishLine\":\" the combined form of Hauser-san and Saizel-san.\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　合体した姿なのだから」\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「ええっ！？」\",\"translatedEnglishLine\":\"\\\"Eh!?\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「なんだとぉ？」\",\"translatedEnglishLine\":\"\\\"What did you say!?\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「こらー！　シィルー！\",\"translatedEnglishLine\":\"\\\"Hey! Seel!\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　遅れるなー！」\",\"translatedEnglishLine\":\" Don't lag behind!\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「ひぃひぃ、ま、待って下さいー！」\",\"translatedEnglishLine\":\"\\\"Hii hii, p-please wait!\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「で、バスワルドの中身が、\",\"translatedEnglishLine\":\"\\\"So, the core of Baswald,\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　ハウゼルとサイゼルというのは本当だろうな！？\",\"translatedEnglishLine\":\" being Hauser and Saizel, is that true!?\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　嘘だったら、承知せんぞ！」\",\"translatedEnglishLine\":\" If it's a lie, I won't forgive you!\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"ランスに抱えられたアムが\",\"translatedEnglishLine\":\"Am, carried in Rance's arms,\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"にっこりと笑いながら答える。\",\"translatedEnglishLine\":\" smiles warmly and answers.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「大丈夫、大丈夫。\",\"translatedEnglishLine\":\"\\\"It's okay, it's okay.\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "269364",
+                                "originalJapaneseLine": "「正確に言うと、",
+                                "translatedEnglishLine": "\"To be precise,"
+                            },
+                            {
+                                "lineNumber": "269365",
+                                "originalJapaneseLine": "　導く者-ｼｭﾒﾙﾂ･ｶｲｾﾞﾘﾝ-の、",
+                                "translatedEnglishLine": " the Guiding One - Shumerutsu Kaizerin - and"
+                            },
+                            {
+                                "lineNumber": "269366",
+                                "originalJapaneseLine": "　私に賛同してくれる者で作った村よ」",
+                                "translatedEnglishLine": " those who agree with me created the village.\""
+                            },
+                            {
+                                "lineNumber": "269367",
+                                "originalJapaneseLine": "「君はまだそんなことをしとったのか……」",
+                                "translatedEnglishLine": "\"You were still doing something like that...\""
+                            },
+                            {
+                                "lineNumber": "269368",
+                                "originalJapaneseLine": "「ふふ、と言っても、",
+                                "translatedEnglishLine": "\"Hehe, but even so,"
+                            },
+                            {
+                                "lineNumber": "269369",
+                                "originalJapaneseLine": "　活動は休止中なんだけどね」",
+                                "translatedEnglishLine": " the activities are currently on hold.\""
+                            },
+                            {
+                                "lineNumber": "269370",
+                                "originalJapaneseLine": "「あ、あの、何かに襲われた……",
+                                "translatedEnglishLine": "\"Um, did something attack you...?"
+                            },
+                            {
+                                "lineNumber": "269371",
+                                "originalJapaneseLine": "　とかでしょうか？」",
+                                "translatedEnglishLine": " Was it something like that?\""
+                            },
+                            {
+                                "lineNumber": "269372",
+                                "originalJapaneseLine": "「破壊神ラ・バスワルド」",
+                                "translatedEnglishLine": "\"The god of destruction, La Baswald.\""
+                            },
+                            {
+                                "lineNumber": "269373",
+                                "originalJapaneseLine": "「なに？」",
+                                "translatedEnglishLine": "\"What?\""
+                            },
+                            {
+                                "lineNumber": "269374",
+                                "originalJapaneseLine": "「突然現れて、この村を壊滅させた、",
+                                "translatedEnglishLine": "\"Suddenly appeared and devastated this village,"
+                            },
+                            {
+                                "lineNumber": "269375",
+                                "originalJapaneseLine": "　神の名前よ」",
+                                "translatedEnglishLine": " that is the name of the god.\""
+                            },
+                            {
+                                "lineNumber": "269376",
+                                "originalJapaneseLine": "「行動や容姿から間違いないと思う。",
+                                "translatedEnglishLine": "\"From its behavior and appearance, I'm sure."
+                            },
+                            {
+                                "lineNumber": "269377",
+                                "originalJapaneseLine": "　破壊の神にして、",
+                                "translatedEnglishLine": " The god of destruction,"
+                            },
+                            {
+                                "lineNumber": "269378",
+                                "originalJapaneseLine": "　この世界に作られたストッパー」",
+                                "translatedEnglishLine": " and a stopper created for this world.\""
+                            },
+                            {
+                                "lineNumber": "269379",
+                                "originalJapaneseLine": "「ストッパー？」",
+                                "translatedEnglishLine": "\"Stopper?\""
+                            },
+                            {
+                                "lineNumber": "269380",
+                                "originalJapaneseLine": "「ごめんなさい、元法王でも",
+                                "translatedEnglishLine": "\"I'm sorry, but even as a former Pope,"
+                            },
+                            {
+                                "lineNumber": "269381",
+                                "originalJapaneseLine": "　神の全てを知っているわけではないの。",
+                                "translatedEnglishLine": " I don't know everything about the gods."
+                            },
+                            {
+                                "lineNumber": "269382",
+                                "originalJapaneseLine": "　分かるのはここまで」",
+                                "translatedEnglishLine": " This is as far as I understand.\""
+                            },
+                            {
+                                "lineNumber": "269383",
+                                "originalJapaneseLine": "「おそらく、世界の有り様が、",
+                                "translatedEnglishLine": "\"Probably, when the state of the world"
+                            },
+                            {
+                                "lineNumber": "269384",
+                                "originalJapaneseLine": "　何かの方向に対して傾きすぎた時、",
+                                "translatedEnglishLine": " leans too much in a certain direction,"
+                            },
+                            {
+                                "lineNumber": "269385",
+                                "originalJapaneseLine": "　発動する世界の抑止装置か何かだと思う」",
+                                "translatedEnglishLine": " I think it activates as some kind of cosmic suppressant.\""
+                            },
+                            {
+                                "lineNumber": "269386",
+                                "originalJapaneseLine": "「何かってなんだ？」",
+                                "translatedEnglishLine": "\"What do you mean by 'some kind of'?\""
+                            },
+                            {
+                                "lineNumber": "269387",
+                                "originalJapaneseLine": "「おそらく完全汚染人間が増えすぎると、",
+                                "translatedEnglishLine": "\"Probably when fully corrupted humans become too many,"
+                            },
+                            {
+                                "lineNumber": "269388",
+                                "originalJapaneseLine": "　破壊に出向いてくるんじゃないかしら」",
+                                "translatedEnglishLine": " it comes out to destroy them.\""
+                            },
+                            {
+                                "lineNumber": "269389",
+                                "originalJapaneseLine": "「だって私達にだけ",
+                                "translatedEnglishLine": "\"Because it kept relentlessly attacking only us."
+                            },
+                            {
+                                "lineNumber": "269390",
+                                "originalJapaneseLine": "　執拗に攻撃を繰り返していたから」",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": "269391",
+                                "originalJapaneseLine": "「えーと、完全汚染人間というのは……」",
+                                "translatedEnglishLine": "\"Um, what's a fully corrupted human...?\""
+                            },
+                            {
+                                "lineNumber": "269392",
+                                "originalJapaneseLine": "「魂が汚れすぎて、",
+                                "translatedEnglishLine": "\"A person whose soul is so corrupted,"
+                            },
+                            {
+                                "lineNumber": "269393",
+                                "originalJapaneseLine": "　もう浄化も転生も出来なくなった人のこと」",
+                                "translatedEnglishLine": " that they can no longer be purified or reincarnated.\""
+                            },
+                            {
+                                "lineNumber": "269394",
+                                "originalJapaneseLine": "「私のような、ね」",
+                                "translatedEnglishLine": "\"Someone like me, yeah.\""
+                            },
+                            {
+                                "lineNumber": "269395",
+                                "originalJapaneseLine": "「そんな天界からもゴミにしかならない、",
+                                "translatedEnglishLine": "\"Souls so filthy they become nothing but garbage even in heaven,"
+                            },
+                            {
+                                "lineNumber": "269396",
+                                "originalJapaneseLine": "　汚れきった魂を処理するのが、",
+                                "translatedEnglishLine": " cleaning up those completely corrupted souls,"
+                            },
+                            {
+                                "lineNumber": "269397",
+                                "originalJapaneseLine": "　おそらくあの神の正体じゃないかしら」",
+                                "translatedEnglishLine": " is probably the true nature of that god.\""
+                            },
+                            {
+                                "lineNumber": "269398",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "269399",
+                                "originalJapaneseLine": "「アムちゃんの話はよく分からん。",
+                                "translatedEnglishLine": "\"I don't quite understand Am-chan's story."
+                            },
+                            {
+                                "lineNumber": "269400",
+                                "originalJapaneseLine": "　分からんが……」",
+                                "translatedEnglishLine": " I don't get it, but...\""
+                            },
+                            {
+                                "lineNumber": "269401",
+                                "originalJapaneseLine": "「なんとなくだが、",
+                                "translatedEnglishLine": "\"Somehow,"
+                            },
+                            {
+                                "lineNumber": "269402",
+                                "originalJapaneseLine": "　君の自業自得なのではないか」",
+                                "translatedEnglishLine": " I feel it's your own fault.\""
+                            },
+                            {
+                                "lineNumber": "269403",
+                                "originalJapaneseLine": "「うん、そうみたい」",
+                                "translatedEnglishLine": "\"Yeah, it seems so.\""
+                            },
+                            {
+                                "lineNumber": "269404",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "269405",
+                                "originalJapaneseLine": "「しかし、神が暴走してる、ねえ……」",
+                                "translatedEnglishLine": "\"But a god running wild, huh...\""
+                            },
+                            {
+                                "lineNumber": "269406",
+                                "originalJapaneseLine": "「事情は分かった。",
+                                "translatedEnglishLine": "\"I understand the situation."
+                            },
+                            {
+                                "lineNumber": "269407",
+                                "originalJapaneseLine": "　俺には無関係ってこともな。",
+                                "translatedEnglishLine": " And that it has nothing to do with me."
+                            },
+                            {
+                                "lineNumber": "269408",
+                                "originalJapaneseLine": "　避難だ、避難」",
+                                "translatedEnglishLine": " Evacuate, evacuate.\""
+                            },
+                            {
+                                "lineNumber": "269409",
+                                "originalJapaneseLine": "「あら、無関係なんかじゃないわよ」",
+                                "translatedEnglishLine": "\"Oh no, it's not unrelated at all.\""
+                            },
+                            {
+                                "lineNumber": "269410",
+                                "originalJapaneseLine": "「だって、バスワルドは、",
+                                "translatedEnglishLine": "\"Because Baswald is,"
+                            },
+                            {
+                                "lineNumber": "269411",
+                                "originalJapaneseLine": "　ハウゼルさんとサイゼルさんが",
+                                "translatedEnglishLine": " the combined form of Hauser-san and Saizel-san."
+                            },
+                            {
+                                "lineNumber": "269412",
+                                "originalJapaneseLine": "　合体した姿なのだから」",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": "269413",
+                                "originalJapaneseLine": "「ええっ！？」",
+                                "translatedEnglishLine": "\"Eh!?\""
+                            },
+                            {
+                                "lineNumber": "269414",
+                                "originalJapaneseLine": "「なんだとぉ？」",
+                                "translatedEnglishLine": "\"What did you say!?\""
+                            },
+                            {
+                                "lineNumber": "269415",
+                                "originalJapaneseLine": "「こらー！　シィルー！",
+                                "translatedEnglishLine": "\"Hey! Seel!"
+                            },
+                            {
+                                "lineNumber": "269416",
+                                "originalJapaneseLine": "　遅れるなー！」",
+                                "translatedEnglishLine": " Don't lag behind!\""
+                            },
+                            {
+                                "lineNumber": "269417",
+                                "originalJapaneseLine": "「ひぃひぃ、ま、待って下さいー！」",
+                                "translatedEnglishLine": "\"Hii hii, p-please wait!\""
+                            },
+                            {
+                                "lineNumber": "269418",
+                                "originalJapaneseLine": "「で、バスワルドの中身が、",
+                                "translatedEnglishLine": "\"So, the core of Baswald,"
+                            },
+                            {
+                                "lineNumber": "269419",
+                                "originalJapaneseLine": "　ハウゼルとサイゼルというのは本当だろうな！？",
+                                "translatedEnglishLine": " being Hauser and Saizel, is that true!?"
+                            },
+                            {
+                                "lineNumber": "269420",
+                                "originalJapaneseLine": "　嘘だったら、承知せんぞ！」",
+                                "translatedEnglishLine": " If it's a lie, I won't forgive you!\""
+                            },
+                            {
+                                "lineNumber": "269421",
+                                "originalJapaneseLine": "ランスに抱えられたアムが",
+                                "translatedEnglishLine": "Am, carried in Rance's arms,"
+                            },
+                            {
+                                "lineNumber": "269422",
+                                "originalJapaneseLine": "にっこりと笑いながら答える。",
+                                "translatedEnglishLine": " smiles warmly and answers."
+                            },
+                            {
+                                "lineNumber": "269423",
+                                "originalJapaneseLine": "「大丈夫、大丈夫。",
+                                "translatedEnglishLine": "\"It's okay, it's okay."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1814,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2075,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3889
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「正確に言うと、\",\"translatedEnglishLine\":\"\\\"To be precise,\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　導く者-ｼｭﾒﾙﾂ･ｶｲｾﾞﾘﾝ-の、\",\"translatedEnglishLine\":\" the Guiding One - Shumerutsu Kaizerin - and\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　私に賛同してくれる者で作った村よ」\",\"translatedEnglishLine\":\" those who agree with me created the village.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「君はまだそんなことをしとったのか……」\",\"translatedEnglishLine\":\"\\\"You were still doing something like that...\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「ふふ、と言っても、\",\"translatedEnglishLine\":\"\\\"Hehe, but even so,\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　活動は休止中なんだけどね」\",\"translatedEnglishLine\":\" the activities are currently on hold.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「あ、あの、何かに襲われた……\",\"translatedEnglishLine\":\"\\\"Um, did something attack you...?\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　とかでしょうか？」\",\"translatedEnglishLine\":\" Was it something like that?\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「破壊神ラ・バスワルド」\",\"translatedEnglishLine\":\"\\\"The god of destruction, La Baswald.\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「なに？」\",\"translatedEnglishLine\":\"\\\"What?\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「突然現れて、この村を壊滅させた、\",\"translatedEnglishLine\":\"\\\"Suddenly appeared and devastated this village,\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　神の名前よ」\",\"translatedEnglishLine\":\" that is the name of the god.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「行動や容姿から間違いないと思う。\",\"translatedEnglishLine\":\"\\\"From its behavior and appearance, I'm sure.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　破壊の神にして、\",\"translatedEnglishLine\":\" The god of destruction,\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　この世界に作られたストッパー」\",\"translatedEnglishLine\":\" and a stopper created for this world.\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「ストッパー？」\",\"translatedEnglishLine\":\"\\\"Stopper?\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「ごめんなさい、元法王でも\",\"translatedEnglishLine\":\"\\\"I'm sorry, but even as a former Pope,\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　神の全てを知っているわけではないの。\",\"translatedEnglishLine\":\" I don't know everything about the gods.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　分かるのはここまで」\",\"translatedEnglishLine\":\" This is as far as I understand.\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「おそらく、世界の有り様が、\",\"translatedEnglishLine\":\"\\\"Probably, when the state of the world\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　何かの方向に対して傾きすぎた時、\",\"translatedEnglishLine\":\" leans too much in a certain direction,\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　発動する世界の抑止装置か何かだと思う」\",\"translatedEnglishLine\":\" I think it activates as some kind of cosmic suppressant.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「何かってなんだ？」\",\"translatedEnglishLine\":\"\\\"What do you mean by 'some kind of'?\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「おそらく完全汚染人間が増えすぎると、\",\"translatedEnglishLine\":\"\\\"Probably when fully corrupted humans become too many,\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　破壊に出向いてくるんじゃないかしら」\",\"translatedEnglishLine\":\" it comes out to destroy them.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「だって私達にだけ\",\"translatedEnglishLine\":\"\\\"Because it kept relentlessly attacking only us.\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　執拗に攻撃を繰り返していたから」\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「えーと、完全汚染人間というのは……」\",\"translatedEnglishLine\":\"\\\"Um, what's a fully corrupted human...?\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「魂が汚れすぎて、\",\"translatedEnglishLine\":\"\\\"A person whose soul is so corrupted,\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　もう浄化も転生も出来なくなった人のこと」\",\"translatedEnglishLine\":\" that they can no longer be purified or reincarnated.\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「私のような、ね」\",\"translatedEnglishLine\":\"\\\"Someone like me, yeah.\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「そんな天界からもゴミにしかならない、\",\"translatedEnglishLine\":\"\\\"Souls so filthy they become nothing but garbage even in heaven,\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　汚れきった魂を処理するのが、\",\"translatedEnglishLine\":\" cleaning up those completely corrupted souls,\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　おそらくあの神の正体じゃないかしら」\",\"translatedEnglishLine\":\" is probably the true nature of that god.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「アムちゃんの話はよく分からん。\",\"translatedEnglishLine\":\"\\\"I don't quite understand Am-chan's story.\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　分からんが……」\",\"translatedEnglishLine\":\" I don't get it, but...\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「なんとなくだが、\",\"translatedEnglishLine\":\"\\\"Somehow,\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　君の自業自得なのではないか」\",\"translatedEnglishLine\":\" I feel it's your own fault.\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「うん、そうみたい」\",\"translatedEnglishLine\":\"\\\"Yeah, it seems so.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「しかし、神が暴走してる、ねえ……」\",\"translatedEnglishLine\":\"\\\"But a god running wild, huh...\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「事情は分かった。\",\"translatedEnglishLine\":\"\\\"I understand the situation.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　俺には無関係ってこともな。\",\"translatedEnglishLine\":\" And that it has nothing to do with me.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　避難だ、避難」\",\"translatedEnglishLine\":\" Evacuate, evacuate.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「あら、無関係なんかじゃないわよ」\",\"translatedEnglishLine\":\"\\\"Oh no, it's not unrelated at all.\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「だって、バスワルドは、\",\"translatedEnglishLine\":\"\\\"Because Baswald is,\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　ハウゼルさんとサイゼルさんが\",\"translatedEnglishLine\":\" the combined form of Hauser-san and Saizel-san.\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　合体した姿なのだから」\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「ええっ！？」\",\"translatedEnglishLine\":\"\\\"Eh!?\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「なんだとぉ？」\",\"translatedEnglishLine\":\"\\\"What did you say!?\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「こらー！　シィルー！\",\"translatedEnglishLine\":\"\\\"Hey! Seel!\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　遅れるなー！」\",\"translatedEnglishLine\":\" Don't lag behind!\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「ひぃひぃ、ま、待って下さいー！」\",\"translatedEnglishLine\":\"\\\"Hii hii, p-please wait!\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「で、バスワルドの中身が、\",\"translatedEnglishLine\":\"\\\"So, the core of Baswald,\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　ハウゼルとサイゼルというのは本当だろうな！？\",\"translatedEnglishLine\":\" being Hauser and Saizel, is that true!?\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　嘘だったら、承知せんぞ！」\",\"translatedEnglishLine\":\" If it's a lie, I won't forgive you!\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"ランスに抱えられたアムが\",\"translatedEnglishLine\":\"Am, carried in Rance's arms,\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"にっこりと笑いながら答える。\",\"translatedEnglishLine\":\" smiles warmly and answers.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「大丈夫、大丈夫。\",\"translatedEnglishLine\":\"\\\"It's okay, it's okay.\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "269364",
+                "originalJapaneseLine": "「正確に言うと、",
+                "translatedEnglishLine": "\"To be precise,"
+            },
+            {
+                "lineNumber": "269365",
+                "originalJapaneseLine": "　導く者-ｼｭﾒﾙﾂ･ｶｲｾﾞﾘﾝ-の、",
+                "translatedEnglishLine": " the Guiding One - Shumerutsu Kaizerin - and"
+            },
+            {
+                "lineNumber": "269366",
+                "originalJapaneseLine": "　私に賛同してくれる者で作った村よ」",
+                "translatedEnglishLine": " those who agree with me created the village.\""
+            },
+            {
+                "lineNumber": "269367",
+                "originalJapaneseLine": "「君はまだそんなことをしとったのか……」",
+                "translatedEnglishLine": "\"You were still doing something like that...\""
+            },
+            {
+                "lineNumber": "269368",
+                "originalJapaneseLine": "「ふふ、と言っても、",
+                "translatedEnglishLine": "\"Hehe, but even so,"
+            },
+            {
+                "lineNumber": "269369",
+                "originalJapaneseLine": "　活動は休止中なんだけどね」",
+                "translatedEnglishLine": " the activities are currently on hold.\""
+            },
+            {
+                "lineNumber": "269370",
+                "originalJapaneseLine": "「あ、あの、何かに襲われた……",
+                "translatedEnglishLine": "\"Um, did something attack you...?"
+            },
+            {
+                "lineNumber": "269371",
+                "originalJapaneseLine": "　とかでしょうか？」",
+                "translatedEnglishLine": " Was it something like that?\""
+            },
+            {
+                "lineNumber": "269372",
+                "originalJapaneseLine": "「破壊神ラ・バスワルド」",
+                "translatedEnglishLine": "\"The god of destruction, La Baswald.\""
+            },
+            {
+                "lineNumber": "269373",
+                "originalJapaneseLine": "「なに？」",
+                "translatedEnglishLine": "\"What?\""
+            },
+            {
+                "lineNumber": "269374",
+                "originalJapaneseLine": "「突然現れて、この村を壊滅させた、",
+                "translatedEnglishLine": "\"Suddenly appeared and devastated this village,"
+            },
+            {
+                "lineNumber": "269375",
+                "originalJapaneseLine": "　神の名前よ」",
+                "translatedEnglishLine": " that is the name of the god.\""
+            },
+            {
+                "lineNumber": "269376",
+                "originalJapaneseLine": "「行動や容姿から間違いないと思う。",
+                "translatedEnglishLine": "\"From its behavior and appearance, I'm sure."
+            },
+            {
+                "lineNumber": "269377",
+                "originalJapaneseLine": "　破壊の神にして、",
+                "translatedEnglishLine": " The god of destruction,"
+            },
+            {
+                "lineNumber": "269378",
+                "originalJapaneseLine": "　この世界に作られたストッパー」",
+                "translatedEnglishLine": " and a stopper created for this world.\""
+            },
+            {
+                "lineNumber": "269379",
+                "originalJapaneseLine": "「ストッパー？」",
+                "translatedEnglishLine": "\"Stopper?\""
+            },
+            {
+                "lineNumber": "269380",
+                "originalJapaneseLine": "「ごめんなさい、元法王でも",
+                "translatedEnglishLine": "\"I'm sorry, but even as a former Pope,"
+            },
+            {
+                "lineNumber": "269381",
+                "originalJapaneseLine": "　神の全てを知っているわけではないの。",
+                "translatedEnglishLine": " I don't know everything about the gods."
+            },
+            {
+                "lineNumber": "269382",
+                "originalJapaneseLine": "　分かるのはここまで」",
+                "translatedEnglishLine": " This is as far as I understand.\""
+            },
+            {
+                "lineNumber": "269383",
+                "originalJapaneseLine": "「おそらく、世界の有り様が、",
+                "translatedEnglishLine": "\"Probably, when the state of the world"
+            },
+            {
+                "lineNumber": "269384",
+                "originalJapaneseLine": "　何かの方向に対して傾きすぎた時、",
+                "translatedEnglishLine": " leans too much in a certain direction,"
+            },
+            {
+                "lineNumber": "269385",
+                "originalJapaneseLine": "　発動する世界の抑止装置か何かだと思う」",
+                "translatedEnglishLine": " I think it activates as some kind of cosmic suppressant.\""
+            },
+            {
+                "lineNumber": "269386",
+                "originalJapaneseLine": "「何かってなんだ？」",
+                "translatedEnglishLine": "\"What do you mean by 'some kind of'?\""
+            },
+            {
+                "lineNumber": "269387",
+                "originalJapaneseLine": "「おそらく完全汚染人間が増えすぎると、",
+                "translatedEnglishLine": "\"Probably when fully corrupted humans become too many,"
+            },
+            {
+                "lineNumber": "269388",
+                "originalJapaneseLine": "　破壊に出向いてくるんじゃないかしら」",
+                "translatedEnglishLine": " it comes out to destroy them.\""
+            },
+            {
+                "lineNumber": "269389",
+                "originalJapaneseLine": "「だって私達にだけ",
+                "translatedEnglishLine": "\"Because it kept relentlessly attacking only us."
+            },
+            {
+                "lineNumber": "269390",
+                "originalJapaneseLine": "　執拗に攻撃を繰り返していたから」",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": "269391",
+                "originalJapaneseLine": "「えーと、完全汚染人間というのは……」",
+                "translatedEnglishLine": "\"Um, what's a fully corrupted human...?\""
+            },
+            {
+                "lineNumber": "269392",
+                "originalJapaneseLine": "「魂が汚れすぎて、",
+                "translatedEnglishLine": "\"A person whose soul is so corrupted,"
+            },
+            {
+                "lineNumber": "269393",
+                "originalJapaneseLine": "　もう浄化も転生も出来なくなった人のこと」",
+                "translatedEnglishLine": " that they can no longer be purified or reincarnated.\""
+            },
+            {
+                "lineNumber": "269394",
+                "originalJapaneseLine": "「私のような、ね」",
+                "translatedEnglishLine": "\"Someone like me, yeah.\""
+            },
+            {
+                "lineNumber": "269395",
+                "originalJapaneseLine": "「そんな天界からもゴミにしかならない、",
+                "translatedEnglishLine": "\"Souls so filthy they become nothing but garbage even in heaven,"
+            },
+            {
+                "lineNumber": "269396",
+                "originalJapaneseLine": "　汚れきった魂を処理するのが、",
+                "translatedEnglishLine": " cleaning up those completely corrupted souls,"
+            },
+            {
+                "lineNumber": "269397",
+                "originalJapaneseLine": "　おそらくあの神の正体じゃないかしら」",
+                "translatedEnglishLine": " is probably the true nature of that god.\""
+            },
+            {
+                "lineNumber": "269398",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "269399",
+                "originalJapaneseLine": "「アムちゃんの話はよく分からん。",
+                "translatedEnglishLine": "\"I don't quite understand Am-chan's story."
+            },
+            {
+                "lineNumber": "269400",
+                "originalJapaneseLine": "　分からんが……」",
+                "translatedEnglishLine": " I don't get it, but...\""
+            },
+            {
+                "lineNumber": "269401",
+                "originalJapaneseLine": "「なんとなくだが、",
+                "translatedEnglishLine": "\"Somehow,"
+            },
+            {
+                "lineNumber": "269402",
+                "originalJapaneseLine": "　君の自業自得なのではないか」",
+                "translatedEnglishLine": " I feel it's your own fault.\""
+            },
+            {
+                "lineNumber": "269403",
+                "originalJapaneseLine": "「うん、そうみたい」",
+                "translatedEnglishLine": "\"Yeah, it seems so.\""
+            },
+            {
+                "lineNumber": "269404",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "269405",
+                "originalJapaneseLine": "「しかし、神が暴走してる、ねえ……」",
+                "translatedEnglishLine": "\"But a god running wild, huh...\""
+            },
+            {
+                "lineNumber": "269406",
+                "originalJapaneseLine": "「事情は分かった。",
+                "translatedEnglishLine": "\"I understand the situation."
+            },
+            {
+                "lineNumber": "269407",
+                "originalJapaneseLine": "　俺には無関係ってこともな。",
+                "translatedEnglishLine": " And that it has nothing to do with me."
+            },
+            {
+                "lineNumber": "269408",
+                "originalJapaneseLine": "　避難だ、避難」",
+                "translatedEnglishLine": " Evacuate, evacuate.\""
+            },
+            {
+                "lineNumber": "269409",
+                "originalJapaneseLine": "「あら、無関係なんかじゃないわよ」",
+                "translatedEnglishLine": "\"Oh no, it's not unrelated at all.\""
+            },
+            {
+                "lineNumber": "269410",
+                "originalJapaneseLine": "「だって、バスワルドは、",
+                "translatedEnglishLine": "\"Because Baswald is,"
+            },
+            {
+                "lineNumber": "269411",
+                "originalJapaneseLine": "　ハウゼルさんとサイゼルさんが",
+                "translatedEnglishLine": " the combined form of Hauser-san and Saizel-san."
+            },
+            {
+                "lineNumber": "269412",
+                "originalJapaneseLine": "　合体した姿なのだから」",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": "269413",
+                "originalJapaneseLine": "「ええっ！？」",
+                "translatedEnglishLine": "\"Eh!?\""
+            },
+            {
+                "lineNumber": "269414",
+                "originalJapaneseLine": "「なんだとぉ？」",
+                "translatedEnglishLine": "\"What did you say!?\""
+            },
+            {
+                "lineNumber": "269415",
+                "originalJapaneseLine": "「こらー！　シィルー！",
+                "translatedEnglishLine": "\"Hey! Seel!"
+            },
+            {
+                "lineNumber": "269416",
+                "originalJapaneseLine": "　遅れるなー！」",
+                "translatedEnglishLine": " Don't lag behind!\""
+            },
+            {
+                "lineNumber": "269417",
+                "originalJapaneseLine": "「ひぃひぃ、ま、待って下さいー！」",
+                "translatedEnglishLine": "\"Hii hii, p-please wait!\""
+            },
+            {
+                "lineNumber": "269418",
+                "originalJapaneseLine": "「で、バスワルドの中身が、",
+                "translatedEnglishLine": "\"So, the core of Baswald,"
+            },
+            {
+                "lineNumber": "269419",
+                "originalJapaneseLine": "　ハウゼルとサイゼルというのは本当だろうな！？",
+                "translatedEnglishLine": " being Hauser and Saizel, is that true!?"
+            },
+            {
+                "lineNumber": "269420",
+                "originalJapaneseLine": "　嘘だったら、承知せんぞ！」",
+                "translatedEnglishLine": " If it's a lie, I won't forgive you!\""
+            },
+            {
+                "lineNumber": "269421",
+                "originalJapaneseLine": "ランスに抱えられたアムが",
+                "translatedEnglishLine": "Am, carried in Rance's arms,"
+            },
+            {
+                "lineNumber": "269422",
+                "originalJapaneseLine": "にっこりと笑いながら答える。",
+                "translatedEnglishLine": " smiles warmly and answers."
+            },
+            {
+                "lineNumber": "269423",
+                "originalJapaneseLine": "「大丈夫、大丈夫。",
+                "translatedEnglishLine": "\"It's okay, it's okay."
+            }
+        ]
+    }
+}

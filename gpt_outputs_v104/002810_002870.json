@@ -1,0 +1,719 @@
+{
+    "id": "resp_0b0b8b643e8979f40068ffeaf134108197a456971fbdf982e6",
+    "object": "response",
+    "created_at": 1761602289,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0b0b8b643e8979f40068ffeaf1893c8197b66b560fe21ce139",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 1,\n      \"originalJapaneseLine\": \"通りがかる人のチェックに入った。\",\n      \"translatedEnglishLine\": \"Started checking the people passing by.\"\n    },\n    {\n      \"lineNumber\": 2,\n      \"originalJapaneseLine\": \"「ふ〜〜〜む……」\",\n      \"translatedEnglishLine\": \"\\\"Hmmmmm...\\\"\"\n    },\n    {\n      \"lineNumber\": 3,\n      \"originalJapaneseLine\": \"「顔はいいけど、\",\n      \"translatedEnglishLine\": \"\\\"Good face, but...\"\n    },\n    {\n      \"lineNumber\": 4,\n      \"originalJapaneseLine\": \"　ちょっち趣味じゃないかな〜」\",\n      \"translatedEnglishLine\": \"Not really my type~\\\"\"\n    },\n    {\n      \"lineNumber\": 5,\n      \"originalJapaneseLine\": \"「童貞はめんどいから嫌い」\",\n      \"translatedEnglishLine\": \"\\\"I hate virgins because they're troublesome.\\\"\"\n    },\n    {\n      \"lineNumber\": 6,\n      \"originalJapaneseLine\": \"「……へ？」\",\n      \"translatedEnglishLine\": \"\\\"...Huh?\\\"\"\n    },\n    {\n      \"lineNumber\": 7,\n      \"originalJapaneseLine\": \"「うーん、小便臭いのはパス」\",\n      \"translatedEnglishLine\": \"\\\"Hmm, I’ll pass if he smells like urine.\\\"\"\n    },\n    {\n      \"lineNumber\": 8,\n      \"originalJapaneseLine\": \"「しょ……\",\n      \"translatedEnglishLine\": \"\\\"Sho...\\\"\"\n    },\n    {\n      \"lineNumber\": 9,\n      \"originalJapaneseLine\": \"　なんですか？」\",\n      \"translatedEnglishLine\": \"What's that?\\\"\"\n    },\n    {\n      \"lineNumber\": 10,\n      \"originalJapaneseLine\": \"「顔がいいのは分かるけど……\",\n      \"translatedEnglishLine\": \"\\\"I get that he has a nice face, but...\"\n    },\n    {\n      \"lineNumber\": 11,\n      \"originalJapaneseLine\": \"　モロミちゃんの好みじゃないよね」\",\n      \"translatedEnglishLine\": \"He’s not Moromi-chan’s type, right?\\\"\"\n    },\n    {\n      \"lineNumber\": 12,\n      \"originalJapaneseLine\": \"「歯の浮くようなこと言われたら、\",\n      \"translatedEnglishLine\": \"\\\"If someone says something corny like that,\"\n    },\n    {\n      \"lineNumber\": 13,\n      \"originalJapaneseLine\": \"　思わず殴っちゃいそう……」\",\n      \"translatedEnglishLine\": \"I’d probably end up wanting to punch them...\\\"\"\n    },\n    {\n      \"lineNumber\": 14,\n      \"originalJapaneseLine\": \"「……後が面倒臭そうだしなぁ」\",\n      \"translatedEnglishLine\": \"\\\"...And dealing with the aftermath seems like a pain.\\\"\"\n    },\n    {\n      \"lineNumber\": 15,\n      \"originalJapaneseLine\": \"「あら、モロミさん？\",\n      \"translatedEnglishLine\": \"\\\"Oh, Moromi-san?\"\n    },\n    {\n      \"lineNumber\": 16,\n      \"originalJapaneseLine\": \"　こんなところで何をしてるんです？」\",\n      \"translatedEnglishLine\": \"What are you doing in a place like this?\\\"\"\n    },\n    {\n      \"lineNumber\": 17,\n      \"originalJapaneseLine\": \"「あははー、なんでもないなーい。\",\n      \"translatedEnglishLine\": \"\\\"Ahaha, it’s nothing at all.\"\n    },\n    {\n      \"lineNumber\": 18,\n      \"originalJapaneseLine\": \"　失礼しまーす☆」\",\n      \"translatedEnglishLine\": \"Excuse me~☆\\\"\"\n    },\n    {\n      \"lineNumber\": 19,\n      \"originalJapaneseLine\": \"「？」\",\n      \"translatedEnglishLine\": \"\\\"?\\\"\"\n    },\n    {\n      \"lineNumber\": 20,\n      \"originalJapaneseLine\": \"「……一瞬、かなりグッと来た」\",\n      \"translatedEnglishLine\": \"\\\"...For a moment, I felt quite drawn.\"\n    },\n    {\n      \"lineNumber\": 21,\n      \"originalJapaneseLine\": \"「来たは来たけど……\",\n      \"translatedEnglishLine\": \"\\\"I did feel drawn, but...\"\n    },\n    {\n      \"lineNumber\": 22,\n      \"originalJapaneseLine\": \"　あれ、見た目に反して芯は強いタイプな気がする」\",\n      \"translatedEnglishLine\": \"I get the feeling he's the type with a strong core, despite appearances.\\\"\"\n    },\n    {\n      \"lineNumber\": 23,\n      \"originalJapaneseLine\": \"「モロミちゃん、\",\n      \"translatedEnglishLine\": \"\\\"Moromi-chan,\"\n    },\n    {\n      \"lineNumber\": 24,\n      \"originalJapaneseLine\": \"　最後には折れてくれる子が好きー」\",\n      \"translatedEnglishLine\": \"likes girls who eventually give in.\\\"\"\n    },\n    {\n      \"lineNumber\": 25,\n      \"originalJapaneseLine\": \"「悪くない……悪くない、けど……\",\n      \"translatedEnglishLine\": \"\\\"Not bad... not bad, but...\"\n    },\n    {\n      \"lineNumber\": 26,\n      \"originalJapaneseLine\": \"　うーん、もう一声……」\",\n      \"translatedEnglishLine\": \"Hmm, could be just a bit more...\\\"\"\n    },\n    {\n      \"lineNumber\": 27,\n      \"originalJapaneseLine\": \"「なんだい？\",\n      \"translatedEnglishLine\": \"\\\"What’s the matter?\"\n    },\n    {\n      \"lineNumber\": 28,\n      \"originalJapaneseLine\": \"　人のことエロ親父みたいな目でじろじろ見て……」\",\n      \"translatedEnglishLine\": \"Why are you staring at me like a pervy old man...?\\\"\"\n    },\n    {\n      \"lineNumber\": 29,\n      \"originalJapaneseLine\": \"「おや、これはメガデス殿。ﾇﾇﾇ」\",\n      \"translatedEnglishLine\": \"\\\"Oh, this is Lord Megadeth. Nunu-nu.\\\"\"\n    },\n    {\n      \"lineNumber\": 30,\n      \"originalJapaneseLine\": \"「お前らが来るとややこしいだろうが。\",\n      \"translatedEnglishLine\": \"\\\"It gets complicated when you guys show up.\"\n    },\n    {\n      \"lineNumber\": 31,\n      \"originalJapaneseLine\": \"　名前的に。絡むな。失せろ」\",\n      \"translatedEnglishLine\": \"By name alone. Don’t get involved. Scram.\\\"\"\n    },\n    {\n      \"lineNumber\": 32,\n      \"originalJapaneseLine\": \"「ぐっすん……ﾇﾇﾇ」\",\n      \"translatedEnglishLine\": \"\\\"Sniff... Nunu-nu.\\\"\"\n    },\n    {\n      \"lineNumber\": 33,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 34,\n      \"originalJapaneseLine\": \"「ないわー」\",\n      \"translatedEnglishLine\": \"\\\"No way—\\\"\"\n    },\n    {\n      \"lineNumber\": 35,\n      \"originalJapaneseLine\": \"「妾を今、馬鹿にせんかったかー！？」\",\n      \"translatedEnglishLine\": \"\\\"Did you just make fun of me!?\"\n    },\n    {\n      \"lineNumber\": 36,\n      \"originalJapaneseLine\": \"「ぐうぐう……」\",\n      \"translatedEnglishLine\": \"\\\"Gugu...\\\" (sleeping/snoring sound)\"\n    },\n    {\n      \"lineNumber\": 37,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 38,\n      \"originalJapaneseLine\": \"「はぷっ……」\",\n      \"translatedEnglishLine\": \"\\\"Hap...\\\"\"\n    },\n    {\n      \"lineNumber\": 39,\n      \"originalJapaneseLine\": \"なんとなくメガデスは、\",\n      \"translatedEnglishLine\": \"For some reason, Megadeth\"\n    },\n    {\n      \"lineNumber\": 40,\n      \"originalJapaneseLine\": \"セスナにキス＆胸を揉んでみた。\",\n      \"translatedEnglishLine\": \"tried kissing and groping Sesna's chest.\"\n    },\n    {\n      \"lineNumber\": 41,\n      \"originalJapaneseLine\": \"「…………んっ、もが」\",\n      \"translatedEnglishLine\": \"\\\"...Ngh, moga.\\\"\"\n    },\n    {\n      \"lineNumber\": 42,\n      \"originalJapaneseLine\": \"「あ、はよー」\",\n      \"translatedEnglishLine\": \"\\\"Ah, good morning.\\\"\"\n    },\n    {\n      \"lineNumber\": 43,\n      \"originalJapaneseLine\": \"「…………どったの？」\",\n      \"translatedEnglishLine\": \"\\\"...What’s wrong?\\\"\"\n    },\n    {\n      \"lineNumber\": 44,\n      \"originalJapaneseLine\": \"「他に言うことないんかい」\",\n      \"translatedEnglishLine\": \"\\\"Don’t you have anything else to say?\\\"\"\n    },\n    {\n      \"lineNumber\": 45,\n      \"originalJapaneseLine\": \"「……モロミちゃんの……することだし」\",\n      \"translatedEnglishLine\": \"\\\"...It's Moromi-chan's... thing to do after all.\\\"\"\n    },\n    {\n      \"lineNumber\": 46,\n      \"originalJapaneseLine\": \"「慣れた……よね」\",\n      \"translatedEnglishLine\": \"\\\"You’ve gotten used to it... right?\\\"\"\n    },\n    {\n      \"lineNumber\": 47,\n      \"originalJapaneseLine\": \"「私のことよく理解してくれてありがとー。\",\n      \"translatedEnglishLine\": \"\\\"Thanks for understanding me so well.\"\n    },\n    {\n      \"lineNumber\": 48,\n      \"originalJapaneseLine\": \"　ほれ、ふらふら歩いてっと危ないから\",\n      \"translatedEnglishLine\": \"Here, you better not wander around unsteadily, it’s dangerous.\"\n    },\n    {\n      \"lineNumber\": 49,\n      \"originalJapaneseLine\": \"　セスナは部屋に戻って寝とけー」\",\n      \"translatedEnglishLine\": \"Sesna, go back to your room and get some sleep.\\\"\"\n    },\n    {\n      \"lineNumber\": 50,\n      \"originalJapaneseLine\": \"「うぃ……\",\n      \"translatedEnglishLine\": \"\\\"Yeah...\\\"\"\n    },\n    {\n      \"lineNumber\": 51,\n      \"originalJapaneseLine\": \"　そーする……」\",\n      \"translatedEnglishLine\": \"I’ll do that...\\\"\"\n    },\n    {\n      \"lineNumber\": 52,\n      \"originalJapaneseLine\": \"「おっ……おおっ……」\",\n      \"translatedEnglishLine\": \"\\\"Oh... ohh...\\\"\"\n    },\n    {\n      \"lineNumber\": 53,\n      \"originalJapaneseLine\": \"「……ぐう」\",\n      \"translatedEnglishLine\": \"\\\"...Guu.\\\" (snoring sound)\"\n    },\n    {\n      \"lineNumber\": 54,\n      \"originalJapaneseLine\": \"「はーっ、こんなに人がいる城で、\",\n      \"translatedEnglishLine\": \"\\\"Haaah, in a castle with so many people,\"\n    },\n    {\n      \"lineNumber\": 55,\n      \"originalJapaneseLine\": \"　バシッとはまる子が一人もいないとは、\",\n      \"translatedEnglishLine\": \"not a single girl just perfectly fits,\"\n    },\n    {\n      \"lineNumber\": 56,\n      \"originalJapaneseLine\": \"　今日はアンラッキーデーかなー」\",\n      \"translatedEnglishLine\": \"guess today’s an unlucky day.\\\"\"\n    },\n    {\n      \"lineNumber\": 57,\n      \"originalJapaneseLine\": \"「普段は強がってるけど、\",\n      \"translatedEnglishLine\": \"\\\"Usually they act tough, but\"\n    },\n    {\n      \"lineNumber\": 58,\n      \"originalJapaneseLine\": \"　きゃいんきゃいんって\",\n      \"translatedEnglishLine\": \"are there any girls who might cry, crying like 'kyain-kyain'?\"\n    },\n    {\n      \"lineNumber\": 59,\n      \"originalJapaneseLine\": \"　泣いてくれそうな子はいないかなー」\",\n      \"translatedEnglishLine\": \"\\\"I wonder if there’s a girl who’d cry like that...\\\"\"\n    },\n    {\n      \"lineNumber\": 60,\n      \"originalJapaneseLine\": \"「おっ……？」\",\n      \"translatedEnglishLine\": \"\\\"Oh... ?\\\"\"\n    }\n  ]\n}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "267444",
+                                "originalJapaneseLine": "通りがかる人のチェックに入った。",
+                                "translatedEnglishLine": "Started checking the people passing by."
+                            },
+                            {
+                                "lineNumber": "267445",
+                                "originalJapaneseLine": "「ふ〜〜〜む……」",
+                                "translatedEnglishLine": "\"Hmmmmm...\""
+                            },
+                            {
+                                "lineNumber": "267446",
+                                "originalJapaneseLine": "「顔はいいけど、",
+                                "translatedEnglishLine": "\"Good face, but..."
+                            },
+                            {
+                                "lineNumber": "267447",
+                                "originalJapaneseLine": "　ちょっち趣味じゃないかな〜」",
+                                "translatedEnglishLine": "Not really my type~\""
+                            },
+                            {
+                                "lineNumber": "267448",
+                                "originalJapaneseLine": "「童貞はめんどいから嫌い」",
+                                "translatedEnglishLine": "\"I hate virgins because they're troublesome.\""
+                            },
+                            {
+                                "lineNumber": "267449",
+                                "originalJapaneseLine": "「……へ？」",
+                                "translatedEnglishLine": "\"...Huh?\""
+                            },
+                            {
+                                "lineNumber": "267450",
+                                "originalJapaneseLine": "「うーん、小便臭いのはパス」",
+                                "translatedEnglishLine": "\"Hmm, I’ll pass if he smells like urine.\""
+                            },
+                            {
+                                "lineNumber": "267451",
+                                "originalJapaneseLine": "「しょ……",
+                                "translatedEnglishLine": "\"Sho...\""
+                            },
+                            {
+                                "lineNumber": "267452",
+                                "originalJapaneseLine": "　なんですか？」",
+                                "translatedEnglishLine": "What's that?\""
+                            },
+                            {
+                                "lineNumber": "267453",
+                                "originalJapaneseLine": "「顔がいいのは分かるけど……",
+                                "translatedEnglishLine": "\"I get that he has a nice face, but..."
+                            },
+                            {
+                                "lineNumber": "267454",
+                                "originalJapaneseLine": "　モロミちゃんの好みじゃないよね」",
+                                "translatedEnglishLine": "He’s not Moromi-chan’s type, right?\""
+                            },
+                            {
+                                "lineNumber": "267455",
+                                "originalJapaneseLine": "「歯の浮くようなこと言われたら、",
+                                "translatedEnglishLine": "\"If someone says something corny like that,"
+                            },
+                            {
+                                "lineNumber": "267456",
+                                "originalJapaneseLine": "　思わず殴っちゃいそう……」",
+                                "translatedEnglishLine": "I’d probably end up wanting to punch them...\""
+                            },
+                            {
+                                "lineNumber": "267457",
+                                "originalJapaneseLine": "「……後が面倒臭そうだしなぁ」",
+                                "translatedEnglishLine": "\"...And dealing with the aftermath seems like a pain.\""
+                            },
+                            {
+                                "lineNumber": "267458",
+                                "originalJapaneseLine": "「あら、モロミさん？",
+                                "translatedEnglishLine": "\"Oh, Moromi-san?"
+                            },
+                            {
+                                "lineNumber": "267459",
+                                "originalJapaneseLine": "　こんなところで何をしてるんです？」",
+                                "translatedEnglishLine": "What are you doing in a place like this?\""
+                            },
+                            {
+                                "lineNumber": "267460",
+                                "originalJapaneseLine": "「あははー、なんでもないなーい。",
+                                "translatedEnglishLine": "\"Ahaha, it’s nothing at all."
+                            },
+                            {
+                                "lineNumber": "267461",
+                                "originalJapaneseLine": "　失礼しまーす☆」",
+                                "translatedEnglishLine": "Excuse me~☆\""
+                            },
+                            {
+                                "lineNumber": "267462",
+                                "originalJapaneseLine": "「？」",
+                                "translatedEnglishLine": "\"?\""
+                            },
+                            {
+                                "lineNumber": "267463",
+                                "originalJapaneseLine": "「……一瞬、かなりグッと来た」",
+                                "translatedEnglishLine": "\"...For a moment, I felt quite drawn."
+                            },
+                            {
+                                "lineNumber": "267464",
+                                "originalJapaneseLine": "「来たは来たけど……",
+                                "translatedEnglishLine": "\"I did feel drawn, but..."
+                            },
+                            {
+                                "lineNumber": "267465",
+                                "originalJapaneseLine": "　あれ、見た目に反して芯は強いタイプな気がする」",
+                                "translatedEnglishLine": "I get the feeling he's the type with a strong core, despite appearances.\""
+                            },
+                            {
+                                "lineNumber": "267466",
+                                "originalJapaneseLine": "「モロミちゃん、",
+                                "translatedEnglishLine": "\"Moromi-chan,"
+                            },
+                            {
+                                "lineNumber": "267467",
+                                "originalJapaneseLine": "　最後には折れてくれる子が好きー」",
+                                "translatedEnglishLine": "likes girls who eventually give in.\""
+                            },
+                            {
+                                "lineNumber": "267468",
+                                "originalJapaneseLine": "「悪くない……悪くない、けど……",
+                                "translatedEnglishLine": "\"Not bad... not bad, but..."
+                            },
+                            {
+                                "lineNumber": "267469",
+                                "originalJapaneseLine": "　うーん、もう一声……」",
+                                "translatedEnglishLine": "Hmm, could be just a bit more...\""
+                            },
+                            {
+                                "lineNumber": "267470",
+                                "originalJapaneseLine": "「なんだい？",
+                                "translatedEnglishLine": "\"What’s the matter?"
+                            },
+                            {
+                                "lineNumber": "267471",
+                                "originalJapaneseLine": "　人のことエロ親父みたいな目でじろじろ見て……」",
+                                "translatedEnglishLine": "Why are you staring at me like a pervy old man...?\""
+                            },
+                            {
+                                "lineNumber": "267472",
+                                "originalJapaneseLine": "「おや、これはメガデス殿。ﾇﾇﾇ」",
+                                "translatedEnglishLine": "\"Oh, this is Lord Megadeth. Nunu-nu.\""
+                            },
+                            {
+                                "lineNumber": "267473",
+                                "originalJapaneseLine": "「お前らが来るとややこしいだろうが。",
+                                "translatedEnglishLine": "\"It gets complicated when you guys show up."
+                            },
+                            {
+                                "lineNumber": "267474",
+                                "originalJapaneseLine": "　名前的に。絡むな。失せろ」",
+                                "translatedEnglishLine": "By name alone. Don’t get involved. Scram.\""
+                            },
+                            {
+                                "lineNumber": "267475",
+                                "originalJapaneseLine": "「ぐっすん……ﾇﾇﾇ」",
+                                "translatedEnglishLine": "\"Sniff... Nunu-nu.\""
+                            },
+                            {
+                                "lineNumber": "267476",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "267477",
+                                "originalJapaneseLine": "「ないわー」",
+                                "translatedEnglishLine": "\"No way—\""
+                            },
+                            {
+                                "lineNumber": "267478",
+                                "originalJapaneseLine": "「妾を今、馬鹿にせんかったかー！？」",
+                                "translatedEnglishLine": "\"Did you just make fun of me!?"
+                            },
+                            {
+                                "lineNumber": "267479",
+                                "originalJapaneseLine": "「ぐうぐう……」",
+                                "translatedEnglishLine": "\"Gugu...\" (sleeping/snoring sound)"
+                            },
+                            {
+                                "lineNumber": "267480",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "267481",
+                                "originalJapaneseLine": "「はぷっ……」",
+                                "translatedEnglishLine": "\"Hap...\""
+                            },
+                            {
+                                "lineNumber": "267482",
+                                "originalJapaneseLine": "なんとなくメガデスは、",
+                                "translatedEnglishLine": "For some reason, Megadeth"
+                            },
+                            {
+                                "lineNumber": "267483",
+                                "originalJapaneseLine": "セスナにキス＆胸を揉んでみた。",
+                                "translatedEnglishLine": "tried kissing and groping Sesna's chest."
+                            },
+                            {
+                                "lineNumber": "267484",
+                                "originalJapaneseLine": "「…………んっ、もが」",
+                                "translatedEnglishLine": "\"...Ngh, moga.\""
+                            },
+                            {
+                                "lineNumber": "267485",
+                                "originalJapaneseLine": "「あ、はよー」",
+                                "translatedEnglishLine": "\"Ah, good morning.\""
+                            },
+                            {
+                                "lineNumber": "267486",
+                                "originalJapaneseLine": "「…………どったの？」",
+                                "translatedEnglishLine": "\"...What’s wrong?\""
+                            },
+                            {
+                                "lineNumber": "267487",
+                                "originalJapaneseLine": "「他に言うことないんかい」",
+                                "translatedEnglishLine": "\"Don’t you have anything else to say?\""
+                            },
+                            {
+                                "lineNumber": "267488",
+                                "originalJapaneseLine": "「……モロミちゃんの……することだし」",
+                                "translatedEnglishLine": "\"...It's Moromi-chan's... thing to do after all.\""
+                            },
+                            {
+                                "lineNumber": "267489",
+                                "originalJapaneseLine": "「慣れた……よね」",
+                                "translatedEnglishLine": "\"You’ve gotten used to it... right?\""
+                            },
+                            {
+                                "lineNumber": "267490",
+                                "originalJapaneseLine": "「私のことよく理解してくれてありがとー。",
+                                "translatedEnglishLine": "\"Thanks for understanding me so well."
+                            },
+                            {
+                                "lineNumber": "267491",
+                                "originalJapaneseLine": "　ほれ、ふらふら歩いてっと危ないから",
+                                "translatedEnglishLine": "Here, you better not wander around unsteadily, it’s dangerous."
+                            },
+                            {
+                                "lineNumber": "267492",
+                                "originalJapaneseLine": "　セスナは部屋に戻って寝とけー」",
+                                "translatedEnglishLine": "Sesna, go back to your room and get some sleep.\""
+                            },
+                            {
+                                "lineNumber": "267493",
+                                "originalJapaneseLine": "「うぃ……",
+                                "translatedEnglishLine": "\"Yeah...\""
+                            },
+                            {
+                                "lineNumber": "267494",
+                                "originalJapaneseLine": "　そーする……」",
+                                "translatedEnglishLine": "I’ll do that...\""
+                            },
+                            {
+                                "lineNumber": "267495",
+                                "originalJapaneseLine": "「おっ……おおっ……」",
+                                "translatedEnglishLine": "\"Oh... ohh...\""
+                            },
+                            {
+                                "lineNumber": "267496",
+                                "originalJapaneseLine": "「……ぐう」",
+                                "translatedEnglishLine": "\"...Guu.\" (snoring sound)"
+                            },
+                            {
+                                "lineNumber": "267497",
+                                "originalJapaneseLine": "「はーっ、こんなに人がいる城で、",
+                                "translatedEnglishLine": "\"Haaah, in a castle with so many people,"
+                            },
+                            {
+                                "lineNumber": "267498",
+                                "originalJapaneseLine": "　バシッとはまる子が一人もいないとは、",
+                                "translatedEnglishLine": "not a single girl just perfectly fits,"
+                            },
+                            {
+                                "lineNumber": "267499",
+                                "originalJapaneseLine": "　今日はアンラッキーデーかなー」",
+                                "translatedEnglishLine": "guess today’s an unlucky day.\""
+                            },
+                            {
+                                "lineNumber": "267500",
+                                "originalJapaneseLine": "「普段は強がってるけど、",
+                                "translatedEnglishLine": "\"Usually they act tough, but"
+                            },
+                            {
+                                "lineNumber": "267501",
+                                "originalJapaneseLine": "　きゃいんきゃいんって",
+                                "translatedEnglishLine": "are there any girls who might cry, crying like 'kyain-kyain'?"
+                            },
+                            {
+                                "lineNumber": "267502",
+                                "originalJapaneseLine": "　泣いてくれそうな子はいないかなー」",
+                                "translatedEnglishLine": "\"I wonder if there’s a girl who’d cry like that...\""
+                            },
+                            {
+                                "lineNumber": "267503",
+                                "originalJapaneseLine": "「おっ……？」",
+                                "translatedEnglishLine": "\"Oh... ?\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1752,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2785,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4537
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 1,\n      \"originalJapaneseLine\": \"通りがかる人のチェックに入った。\",\n      \"translatedEnglishLine\": \"Started checking the people passing by.\"\n    },\n    {\n      \"lineNumber\": 2,\n      \"originalJapaneseLine\": \"「ふ〜〜〜む……」\",\n      \"translatedEnglishLine\": \"\\\"Hmmmmm...\\\"\"\n    },\n    {\n      \"lineNumber\": 3,\n      \"originalJapaneseLine\": \"「顔はいいけど、\",\n      \"translatedEnglishLine\": \"\\\"Good face, but...\"\n    },\n    {\n      \"lineNumber\": 4,\n      \"originalJapaneseLine\": \"　ちょっち趣味じゃないかな〜」\",\n      \"translatedEnglishLine\": \"Not really my type~\\\"\"\n    },\n    {\n      \"lineNumber\": 5,\n      \"originalJapaneseLine\": \"「童貞はめんどいから嫌い」\",\n      \"translatedEnglishLine\": \"\\\"I hate virgins because they're troublesome.\\\"\"\n    },\n    {\n      \"lineNumber\": 6,\n      \"originalJapaneseLine\": \"「……へ？」\",\n      \"translatedEnglishLine\": \"\\\"...Huh?\\\"\"\n    },\n    {\n      \"lineNumber\": 7,\n      \"originalJapaneseLine\": \"「うーん、小便臭いのはパス」\",\n      \"translatedEnglishLine\": \"\\\"Hmm, I’ll pass if he smells like urine.\\\"\"\n    },\n    {\n      \"lineNumber\": 8,\n      \"originalJapaneseLine\": \"「しょ……\",\n      \"translatedEnglishLine\": \"\\\"Sho...\\\"\"\n    },\n    {\n      \"lineNumber\": 9,\n      \"originalJapaneseLine\": \"　なんですか？」\",\n      \"translatedEnglishLine\": \"What's that?\\\"\"\n    },\n    {\n      \"lineNumber\": 10,\n      \"originalJapaneseLine\": \"「顔がいいのは分かるけど……\",\n      \"translatedEnglishLine\": \"\\\"I get that he has a nice face, but...\"\n    },\n    {\n      \"lineNumber\": 11,\n      \"originalJapaneseLine\": \"　モロミちゃんの好みじゃないよね」\",\n      \"translatedEnglishLine\": \"He’s not Moromi-chan’s type, right?\\\"\"\n    },\n    {\n      \"lineNumber\": 12,\n      \"originalJapaneseLine\": \"「歯の浮くようなこと言われたら、\",\n      \"translatedEnglishLine\": \"\\\"If someone says something corny like that,\"\n    },\n    {\n      \"lineNumber\": 13,\n      \"originalJapaneseLine\": \"　思わず殴っちゃいそう……」\",\n      \"translatedEnglishLine\": \"I’d probably end up wanting to punch them...\\\"\"\n    },\n    {\n      \"lineNumber\": 14,\n      \"originalJapaneseLine\": \"「……後が面倒臭そうだしなぁ」\",\n      \"translatedEnglishLine\": \"\\\"...And dealing with the aftermath seems like a pain.\\\"\"\n    },\n    {\n      \"lineNumber\": 15,\n      \"originalJapaneseLine\": \"「あら、モロミさん？\",\n      \"translatedEnglishLine\": \"\\\"Oh, Moromi-san?\"\n    },\n    {\n      \"lineNumber\": 16,\n      \"originalJapaneseLine\": \"　こんなところで何をしてるんです？」\",\n      \"translatedEnglishLine\": \"What are you doing in a place like this?\\\"\"\n    },\n    {\n      \"lineNumber\": 17,\n      \"originalJapaneseLine\": \"「あははー、なんでもないなーい。\",\n      \"translatedEnglishLine\": \"\\\"Ahaha, it’s nothing at all.\"\n    },\n    {\n      \"lineNumber\": 18,\n      \"originalJapaneseLine\": \"　失礼しまーす☆」\",\n      \"translatedEnglishLine\": \"Excuse me~☆\\\"\"\n    },\n    {\n      \"lineNumber\": 19,\n      \"originalJapaneseLine\": \"「？」\",\n      \"translatedEnglishLine\": \"\\\"?\\\"\"\n    },\n    {\n      \"lineNumber\": 20,\n      \"originalJapaneseLine\": \"「……一瞬、かなりグッと来た」\",\n      \"translatedEnglishLine\": \"\\\"...For a moment, I felt quite drawn.\"\n    },\n    {\n      \"lineNumber\": 21,\n      \"originalJapaneseLine\": \"「来たは来たけど……\",\n      \"translatedEnglishLine\": \"\\\"I did feel drawn, but...\"\n    },\n    {\n      \"lineNumber\": 22,\n      \"originalJapaneseLine\": \"　あれ、見た目に反して芯は強いタイプな気がする」\",\n      \"translatedEnglishLine\": \"I get the feeling he's the type with a strong core, despite appearances.\\\"\"\n    },\n    {\n      \"lineNumber\": 23,\n      \"originalJapaneseLine\": \"「モロミちゃん、\",\n      \"translatedEnglishLine\": \"\\\"Moromi-chan,\"\n    },\n    {\n      \"lineNumber\": 24,\n      \"originalJapaneseLine\": \"　最後には折れてくれる子が好きー」\",\n      \"translatedEnglishLine\": \"likes girls who eventually give in.\\\"\"\n    },\n    {\n      \"lineNumber\": 25,\n      \"originalJapaneseLine\": \"「悪くない……悪くない、けど……\",\n      \"translatedEnglishLine\": \"\\\"Not bad... not bad, but...\"\n    },\n    {\n      \"lineNumber\": 26,\n      \"originalJapaneseLine\": \"　うーん、もう一声……」\",\n      \"translatedEnglishLine\": \"Hmm, could be just a bit more...\\\"\"\n    },\n    {\n      \"lineNumber\": 27,\n      \"originalJapaneseLine\": \"「なんだい？\",\n      \"translatedEnglishLine\": \"\\\"What’s the matter?\"\n    },\n    {\n      \"lineNumber\": 28,\n      \"originalJapaneseLine\": \"　人のことエロ親父みたいな目でじろじろ見て……」\",\n      \"translatedEnglishLine\": \"Why are you staring at me like a pervy old man...?\\\"\"\n    },\n    {\n      \"lineNumber\": 29,\n      \"originalJapaneseLine\": \"「おや、これはメガデス殿。ﾇﾇﾇ」\",\n      \"translatedEnglishLine\": \"\\\"Oh, this is Lord Megadeth. Nunu-nu.\\\"\"\n    },\n    {\n      \"lineNumber\": 30,\n      \"originalJapaneseLine\": \"「お前らが来るとややこしいだろうが。\",\n      \"translatedEnglishLine\": \"\\\"It gets complicated when you guys show up.\"\n    },\n    {\n      \"lineNumber\": 31,\n      \"originalJapaneseLine\": \"　名前的に。絡むな。失せろ」\",\n      \"translatedEnglishLine\": \"By name alone. Don’t get involved. Scram.\\\"\"\n    },\n    {\n      \"lineNumber\": 32,\n      \"originalJapaneseLine\": \"「ぐっすん……ﾇﾇﾇ」\",\n      \"translatedEnglishLine\": \"\\\"Sniff... Nunu-nu.\\\"\"\n    },\n    {\n      \"lineNumber\": 33,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 34,\n      \"originalJapaneseLine\": \"「ないわー」\",\n      \"translatedEnglishLine\": \"\\\"No way—\\\"\"\n    },\n    {\n      \"lineNumber\": 35,\n      \"originalJapaneseLine\": \"「妾を今、馬鹿にせんかったかー！？」\",\n      \"translatedEnglishLine\": \"\\\"Did you just make fun of me!?\"\n    },\n    {\n      \"lineNumber\": 36,\n      \"originalJapaneseLine\": \"「ぐうぐう……」\",\n      \"translatedEnglishLine\": \"\\\"Gugu...\\\" (sleeping/snoring sound)\"\n    },\n    {\n      \"lineNumber\": 37,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 38,\n      \"originalJapaneseLine\": \"「はぷっ……」\",\n      \"translatedEnglishLine\": \"\\\"Hap...\\\"\"\n    },\n    {\n      \"lineNumber\": 39,\n      \"originalJapaneseLine\": \"なんとなくメガデスは、\",\n      \"translatedEnglishLine\": \"For some reason, Megadeth\"\n    },\n    {\n      \"lineNumber\": 40,\n      \"originalJapaneseLine\": \"セスナにキス＆胸を揉んでみた。\",\n      \"translatedEnglishLine\": \"tried kissing and groping Sesna's chest.\"\n    },\n    {\n      \"lineNumber\": 41,\n      \"originalJapaneseLine\": \"「…………んっ、もが」\",\n      \"translatedEnglishLine\": \"\\\"...Ngh, moga.\\\"\"\n    },\n    {\n      \"lineNumber\": 42,\n      \"originalJapaneseLine\": \"「あ、はよー」\",\n      \"translatedEnglishLine\": \"\\\"Ah, good morning.\\\"\"\n    },\n    {\n      \"lineNumber\": 43,\n      \"originalJapaneseLine\": \"「…………どったの？」\",\n      \"translatedEnglishLine\": \"\\\"...What’s wrong?\\\"\"\n    },\n    {\n      \"lineNumber\": 44,\n      \"originalJapaneseLine\": \"「他に言うことないんかい」\",\n      \"translatedEnglishLine\": \"\\\"Don’t you have anything else to say?\\\"\"\n    },\n    {\n      \"lineNumber\": 45,\n      \"originalJapaneseLine\": \"「……モロミちゃんの……することだし」\",\n      \"translatedEnglishLine\": \"\\\"...It's Moromi-chan's... thing to do after all.\\\"\"\n    },\n    {\n      \"lineNumber\": 46,\n      \"originalJapaneseLine\": \"「慣れた……よね」\",\n      \"translatedEnglishLine\": \"\\\"You’ve gotten used to it... right?\\\"\"\n    },\n    {\n      \"lineNumber\": 47,\n      \"originalJapaneseLine\": \"「私のことよく理解してくれてありがとー。\",\n      \"translatedEnglishLine\": \"\\\"Thanks for understanding me so well.\"\n    },\n    {\n      \"lineNumber\": 48,\n      \"originalJapaneseLine\": \"　ほれ、ふらふら歩いてっと危ないから\",\n      \"translatedEnglishLine\": \"Here, you better not wander around unsteadily, it’s dangerous.\"\n    },\n    {\n      \"lineNumber\": 49,\n      \"originalJapaneseLine\": \"　セスナは部屋に戻って寝とけー」\",\n      \"translatedEnglishLine\": \"Sesna, go back to your room and get some sleep.\\\"\"\n    },\n    {\n      \"lineNumber\": 50,\n      \"originalJapaneseLine\": \"「うぃ……\",\n      \"translatedEnglishLine\": \"\\\"Yeah...\\\"\"\n    },\n    {\n      \"lineNumber\": 51,\n      \"originalJapaneseLine\": \"　そーする……」\",\n      \"translatedEnglishLine\": \"I’ll do that...\\\"\"\n    },\n    {\n      \"lineNumber\": 52,\n      \"originalJapaneseLine\": \"「おっ……おおっ……」\",\n      \"translatedEnglishLine\": \"\\\"Oh... ohh...\\\"\"\n    },\n    {\n      \"lineNumber\": 53,\n      \"originalJapaneseLine\": \"「……ぐう」\",\n      \"translatedEnglishLine\": \"\\\"...Guu.\\\" (snoring sound)\"\n    },\n    {\n      \"lineNumber\": 54,\n      \"originalJapaneseLine\": \"「はーっ、こんなに人がいる城で、\",\n      \"translatedEnglishLine\": \"\\\"Haaah, in a castle with so many people,\"\n    },\n    {\n      \"lineNumber\": 55,\n      \"originalJapaneseLine\": \"　バシッとはまる子が一人もいないとは、\",\n      \"translatedEnglishLine\": \"not a single girl just perfectly fits,\"\n    },\n    {\n      \"lineNumber\": 56,\n      \"originalJapaneseLine\": \"　今日はアンラッキーデーかなー」\",\n      \"translatedEnglishLine\": \"guess today’s an unlucky day.\\\"\"\n    },\n    {\n      \"lineNumber\": 57,\n      \"originalJapaneseLine\": \"「普段は強がってるけど、\",\n      \"translatedEnglishLine\": \"\\\"Usually they act tough, but\"\n    },\n    {\n      \"lineNumber\": 58,\n      \"originalJapaneseLine\": \"　きゃいんきゃいんって\",\n      \"translatedEnglishLine\": \"are there any girls who might cry, crying like 'kyain-kyain'?\"\n    },\n    {\n      \"lineNumber\": 59,\n      \"originalJapaneseLine\": \"　泣いてくれそうな子はいないかなー」\",\n      \"translatedEnglishLine\": \"\\\"I wonder if there’s a girl who’d cry like that...\\\"\"\n    },\n    {\n      \"lineNumber\": 60,\n      \"originalJapaneseLine\": \"「おっ……？」\",\n      \"translatedEnglishLine\": \"\\\"Oh... ?\\\"\"\n    }\n  ]\n}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "267444",
+                "originalJapaneseLine": "通りがかる人のチェックに入った。",
+                "translatedEnglishLine": "Started checking the people passing by."
+            },
+            {
+                "lineNumber": "267445",
+                "originalJapaneseLine": "「ふ〜〜〜む……」",
+                "translatedEnglishLine": "\"Hmmmmm...\""
+            },
+            {
+                "lineNumber": "267446",
+                "originalJapaneseLine": "「顔はいいけど、",
+                "translatedEnglishLine": "\"Good face, but..."
+            },
+            {
+                "lineNumber": "267447",
+                "originalJapaneseLine": "　ちょっち趣味じゃないかな〜」",
+                "translatedEnglishLine": "Not really my type~\""
+            },
+            {
+                "lineNumber": "267448",
+                "originalJapaneseLine": "「童貞はめんどいから嫌い」",
+                "translatedEnglishLine": "\"I hate virgins because they're troublesome.\""
+            },
+            {
+                "lineNumber": "267449",
+                "originalJapaneseLine": "「……へ？」",
+                "translatedEnglishLine": "\"...Huh?\""
+            },
+            {
+                "lineNumber": "267450",
+                "originalJapaneseLine": "「うーん、小便臭いのはパス」",
+                "translatedEnglishLine": "\"Hmm, I’ll pass if he smells like urine.\""
+            },
+            {
+                "lineNumber": "267451",
+                "originalJapaneseLine": "「しょ……",
+                "translatedEnglishLine": "\"Sho...\""
+            },
+            {
+                "lineNumber": "267452",
+                "originalJapaneseLine": "　なんですか？」",
+                "translatedEnglishLine": "What's that?\""
+            },
+            {
+                "lineNumber": "267453",
+                "originalJapaneseLine": "「顔がいいのは分かるけど……",
+                "translatedEnglishLine": "\"I get that he has a nice face, but..."
+            },
+            {
+                "lineNumber": "267454",
+                "originalJapaneseLine": "　モロミちゃんの好みじゃないよね」",
+                "translatedEnglishLine": "He’s not Moromi-chan’s type, right?\""
+            },
+            {
+                "lineNumber": "267455",
+                "originalJapaneseLine": "「歯の浮くようなこと言われたら、",
+                "translatedEnglishLine": "\"If someone says something corny like that,"
+            },
+            {
+                "lineNumber": "267456",
+                "originalJapaneseLine": "　思わず殴っちゃいそう……」",
+                "translatedEnglishLine": "I’d probably end up wanting to punch them...\""
+            },
+            {
+                "lineNumber": "267457",
+                "originalJapaneseLine": "「……後が面倒臭そうだしなぁ」",
+                "translatedEnglishLine": "\"...And dealing with the aftermath seems like a pain.\""
+            },
+            {
+                "lineNumber": "267458",
+                "originalJapaneseLine": "「あら、モロミさん？",
+                "translatedEnglishLine": "\"Oh, Moromi-san?"
+            },
+            {
+                "lineNumber": "267459",
+                "originalJapaneseLine": "　こんなところで何をしてるんです？」",
+                "translatedEnglishLine": "What are you doing in a place like this?\""
+            },
+            {
+                "lineNumber": "267460",
+                "originalJapaneseLine": "「あははー、なんでもないなーい。",
+                "translatedEnglishLine": "\"Ahaha, it’s nothing at all."
+            },
+            {
+                "lineNumber": "267461",
+                "originalJapaneseLine": "　失礼しまーす☆」",
+                "translatedEnglishLine": "Excuse me~☆\""
+            },
+            {
+                "lineNumber": "267462",
+                "originalJapaneseLine": "「？」",
+                "translatedEnglishLine": "\"?\""
+            },
+            {
+                "lineNumber": "267463",
+                "originalJapaneseLine": "「……一瞬、かなりグッと来た」",
+                "translatedEnglishLine": "\"...For a moment, I felt quite drawn."
+            },
+            {
+                "lineNumber": "267464",
+                "originalJapaneseLine": "「来たは来たけど……",
+                "translatedEnglishLine": "\"I did feel drawn, but..."
+            },
+            {
+                "lineNumber": "267465",
+                "originalJapaneseLine": "　あれ、見た目に反して芯は強いタイプな気がする」",
+                "translatedEnglishLine": "I get the feeling he's the type with a strong core, despite appearances.\""
+            },
+            {
+                "lineNumber": "267466",
+                "originalJapaneseLine": "「モロミちゃん、",
+                "translatedEnglishLine": "\"Moromi-chan,"
+            },
+            {
+                "lineNumber": "267467",
+                "originalJapaneseLine": "　最後には折れてくれる子が好きー」",
+                "translatedEnglishLine": "likes girls who eventually give in.\""
+            },
+            {
+                "lineNumber": "267468",
+                "originalJapaneseLine": "「悪くない……悪くない、けど……",
+                "translatedEnglishLine": "\"Not bad... not bad, but..."
+            },
+            {
+                "lineNumber": "267469",
+                "originalJapaneseLine": "　うーん、もう一声……」",
+                "translatedEnglishLine": "Hmm, could be just a bit more...\""
+            },
+            {
+                "lineNumber": "267470",
+                "originalJapaneseLine": "「なんだい？",
+                "translatedEnglishLine": "\"What’s the matter?"
+            },
+            {
+                "lineNumber": "267471",
+                "originalJapaneseLine": "　人のことエロ親父みたいな目でじろじろ見て……」",
+                "translatedEnglishLine": "Why are you staring at me like a pervy old man...?\""
+            },
+            {
+                "lineNumber": "267472",
+                "originalJapaneseLine": "「おや、これはメガデス殿。ﾇﾇﾇ」",
+                "translatedEnglishLine": "\"Oh, this is Lord Megadeth. Nunu-nu.\""
+            },
+            {
+                "lineNumber": "267473",
+                "originalJapaneseLine": "「お前らが来るとややこしいだろうが。",
+                "translatedEnglishLine": "\"It gets complicated when you guys show up."
+            },
+            {
+                "lineNumber": "267474",
+                "originalJapaneseLine": "　名前的に。絡むな。失せろ」",
+                "translatedEnglishLine": "By name alone. Don’t get involved. Scram.\""
+            },
+            {
+                "lineNumber": "267475",
+                "originalJapaneseLine": "「ぐっすん……ﾇﾇﾇ」",
+                "translatedEnglishLine": "\"Sniff... Nunu-nu.\""
+            },
+            {
+                "lineNumber": "267476",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "267477",
+                "originalJapaneseLine": "「ないわー」",
+                "translatedEnglishLine": "\"No way—\""
+            },
+            {
+                "lineNumber": "267478",
+                "originalJapaneseLine": "「妾を今、馬鹿にせんかったかー！？」",
+                "translatedEnglishLine": "\"Did you just make fun of me!?"
+            },
+            {
+                "lineNumber": "267479",
+                "originalJapaneseLine": "「ぐうぐう……」",
+                "translatedEnglishLine": "\"Gugu...\" (sleeping/snoring sound)"
+            },
+            {
+                "lineNumber": "267480",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "267481",
+                "originalJapaneseLine": "「はぷっ……」",
+                "translatedEnglishLine": "\"Hap...\""
+            },
+            {
+                "lineNumber": "267482",
+                "originalJapaneseLine": "なんとなくメガデスは、",
+                "translatedEnglishLine": "For some reason, Megadeth"
+            },
+            {
+                "lineNumber": "267483",
+                "originalJapaneseLine": "セスナにキス＆胸を揉んでみた。",
+                "translatedEnglishLine": "tried kissing and groping Sesna's chest."
+            },
+            {
+                "lineNumber": "267484",
+                "originalJapaneseLine": "「…………んっ、もが」",
+                "translatedEnglishLine": "\"...Ngh, moga.\""
+            },
+            {
+                "lineNumber": "267485",
+                "originalJapaneseLine": "「あ、はよー」",
+                "translatedEnglishLine": "\"Ah, good morning.\""
+            },
+            {
+                "lineNumber": "267486",
+                "originalJapaneseLine": "「…………どったの？」",
+                "translatedEnglishLine": "\"...What’s wrong?\""
+            },
+            {
+                "lineNumber": "267487",
+                "originalJapaneseLine": "「他に言うことないんかい」",
+                "translatedEnglishLine": "\"Don’t you have anything else to say?\""
+            },
+            {
+                "lineNumber": "267488",
+                "originalJapaneseLine": "「……モロミちゃんの……することだし」",
+                "translatedEnglishLine": "\"...It's Moromi-chan's... thing to do after all.\""
+            },
+            {
+                "lineNumber": "267489",
+                "originalJapaneseLine": "「慣れた……よね」",
+                "translatedEnglishLine": "\"You’ve gotten used to it... right?\""
+            },
+            {
+                "lineNumber": "267490",
+                "originalJapaneseLine": "「私のことよく理解してくれてありがとー。",
+                "translatedEnglishLine": "\"Thanks for understanding me so well."
+            },
+            {
+                "lineNumber": "267491",
+                "originalJapaneseLine": "　ほれ、ふらふら歩いてっと危ないから",
+                "translatedEnglishLine": "Here, you better not wander around unsteadily, it’s dangerous."
+            },
+            {
+                "lineNumber": "267492",
+                "originalJapaneseLine": "　セスナは部屋に戻って寝とけー」",
+                "translatedEnglishLine": "Sesna, go back to your room and get some sleep.\""
+            },
+            {
+                "lineNumber": "267493",
+                "originalJapaneseLine": "「うぃ……",
+                "translatedEnglishLine": "\"Yeah...\""
+            },
+            {
+                "lineNumber": "267494",
+                "originalJapaneseLine": "　そーする……」",
+                "translatedEnglishLine": "I’ll do that...\""
+            },
+            {
+                "lineNumber": "267495",
+                "originalJapaneseLine": "「おっ……おおっ……」",
+                "translatedEnglishLine": "\"Oh... ohh...\""
+            },
+            {
+                "lineNumber": "267496",
+                "originalJapaneseLine": "「……ぐう」",
+                "translatedEnglishLine": "\"...Guu.\" (snoring sound)"
+            },
+            {
+                "lineNumber": "267497",
+                "originalJapaneseLine": "「はーっ、こんなに人がいる城で、",
+                "translatedEnglishLine": "\"Haaah, in a castle with so many people,"
+            },
+            {
+                "lineNumber": "267498",
+                "originalJapaneseLine": "　バシッとはまる子が一人もいないとは、",
+                "translatedEnglishLine": "not a single girl just perfectly fits,"
+            },
+            {
+                "lineNumber": "267499",
+                "originalJapaneseLine": "　今日はアンラッキーデーかなー」",
+                "translatedEnglishLine": "guess today’s an unlucky day.\""
+            },
+            {
+                "lineNumber": "267500",
+                "originalJapaneseLine": "「普段は強がってるけど、",
+                "translatedEnglishLine": "\"Usually they act tough, but"
+            },
+            {
+                "lineNumber": "267501",
+                "originalJapaneseLine": "　きゃいんきゃいんって",
+                "translatedEnglishLine": "are there any girls who might cry, crying like 'kyain-kyain'?"
+            },
+            {
+                "lineNumber": "267502",
+                "originalJapaneseLine": "　泣いてくれそうな子はいないかなー」",
+                "translatedEnglishLine": "\"I wonder if there’s a girl who’d cry like that...\""
+            },
+            {
+                "lineNumber": "267503",
+                "originalJapaneseLine": "「おっ……？」",
+                "translatedEnglishLine": "\"Oh... ?\""
+            }
+        ]
+    }
+}

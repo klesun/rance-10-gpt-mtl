@@ -1,0 +1,719 @@
+{
+    "id": "resp_0c69be0aebb374210068ffe613eb34819796b15aabbe6c4bfd",
+    "object": "response",
+    "created_at": 1761601043,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0c69be0aebb374210068ffe6147db48197a1fba4b315728f69",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 1,\n      \"originalJapaneseLine\": \"翔竜山の山頂付近には\",\n      \"translatedEnglishLine\": \"Near the summit of Mount Shoryu\"\n    },\n    {\n      \"lineNumber\": 2,\n      \"originalJapaneseLine\": \"魔王城が作られようとしていた。\",\n      \"translatedEnglishLine\": \"a demon lord's castle was about to be built.\"\n    },\n    {\n      \"lineNumber\": 3,\n      \"originalJapaneseLine\": \"まだまだ作り始めたばかりの城であり、\",\n      \"translatedEnglishLine\": \"It was a castle just beginning to be constructed,\"\n    },\n    {\n      \"lineNumber\": 4,\n      \"originalJapaneseLine\": \"玉座の間と呼ぶべき魔王の部屋にすら、\",\n      \"translatedEnglishLine\": \"and even in the demon lord's chamber that should be called the throne room,\"\n    },\n    {\n      \"lineNumber\": 5,\n      \"originalJapaneseLine\": \"現在も多くの魔物が忙しそうに働いていた。\",\n      \"translatedEnglishLine\": \"many demons were busily working.\"\n    },\n    {\n      \"lineNumber\": 6,\n      \"originalJapaneseLine\": \"「ほーんと、突貫工事って感じ。\",\n      \"translatedEnglishLine\": \"\\\"Really feels like rushed construction.\"\n    },\n    {\n      \"lineNumber\": 7,\n      \"originalJapaneseLine\": \"　これが魔王の新しい城だなんてねぇ」\",\n      \"translatedEnglishLine\": \"I can't believe this is supposed to be the new castle of the demon lord.\\\"\"\n    },\n    {\n      \"lineNumber\": 8,\n      \"originalJapaneseLine\": \"魔王ランスの部下である、\",\n      \"translatedEnglishLine\": \"Saizel, a subordinate of Demon Lord Rance,\"\n    },\n    {\n      \"lineNumber\": 9,\n      \"originalJapaneseLine\": \"魔人サイゼルが魔王の部屋を見渡しながら、\",\n      \"translatedEnglishLine\": \"the demon Saizel, glanced over the demon lord’s room,\"\n    },\n    {\n      \"lineNumber\": 10,\n      \"originalJapaneseLine\": \"呆れ気味に溜め息を吐きだした。\",\n      \"translatedEnglishLine\": \"and let out a sigh, somewhat exasperated.\"\n    },\n    {\n      \"lineNumber\": 11,\n      \"originalJapaneseLine\": \"「これから……\",\n      \"translatedEnglishLine\": \"\\\"From now on...\"\n    },\n    {\n      \"lineNumber\": 12,\n      \"originalJapaneseLine\": \"　一体、どうなってしまうのかしら」\",\n      \"translatedEnglishLine\": \"What on earth will happen?\"\n    },\n    {\n      \"lineNumber\": 13,\n      \"originalJapaneseLine\": \"「それ、魔人である私達が考えても\",\n      \"translatedEnglishLine\": \"\\\"Even if we demons think about it,\"\n    },\n    {\n      \"lineNumber\": 14,\n      \"originalJapaneseLine\": \"　意味ないんじゃない？」\",\n      \"translatedEnglishLine\": \"it probably doesn't mean anything, right?\\\"\"\n    },\n    {\n      \"lineNumber\": 15,\n      \"originalJapaneseLine\": \"「それは……そうなのよね……」\",\n      \"translatedEnglishLine\": \"\\\"That's... true...\\\"\"\n    },\n    {\n      \"lineNumber\": 16,\n      \"originalJapaneseLine\": \"「結局、私達魔人は魔王様の命令に、\",\n      \"translatedEnglishLine\": \"\\\"After all, we demons cannot\"\n    },\n    {\n      \"lineNumber\": 17,\n      \"originalJapaneseLine\": \"　逆らうことは出来ないのだから」\",\n      \"translatedEnglishLine\": \"disobey the orders of the demon lord.\\\"\"\n    },\n    {\n      \"lineNumber\": 18,\n      \"originalJapaneseLine\": \"「そそ。\",\n      \"translatedEnglishLine\": \"\\\"Exactly.\"\n    },\n    {\n      \"lineNumber\": 19,\n      \"originalJapaneseLine\": \"　人類を殺せっていうなら、そうするし、\",\n      \"translatedEnglishLine\": \"If he says to kill humans, we do so,\"\n    },\n    {\n      \"lineNumber\": 20,\n      \"originalJapaneseLine\": \"　人類圏には不可侵だって言うなら従うだけ」\",\n      \"translatedEnglishLine\": \"and if he says humans’ territory is off-limits, we just obey.\\\"\"\n    },\n    {\n      \"lineNumber\": 21,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"............\\\"\"\n    },\n    {\n      \"lineNumber\": 22,\n      \"originalJapaneseLine\": \"「……んもう。\",\n      \"translatedEnglishLine\": \"\\\"...Geez.\"\n    },\n    {\n      \"lineNumber\": 23,\n      \"originalJapaneseLine\": \"　そんな顔しなくても心配いらないわよ。\",\n      \"translatedEnglishLine\": \"You don't have to make that face, there's no need to worry.\"\n    },\n    {\n      \"lineNumber\": 24,\n      \"originalJapaneseLine\": \"　ランスの奴、人間の頃と性格変わってないし」\",\n      \"translatedEnglishLine\": \"Rance hasn’t changed his personality since when he was human.\\\"\"\n    },\n    {\n      \"lineNumber\": 25,\n      \"originalJapaneseLine\": \"「うん……\",\n      \"translatedEnglishLine\": \"\\\"Yeah...\"\n    },\n    {\n      \"lineNumber\": 26,\n      \"originalJapaneseLine\": \"　確かに……そうかもね……」\",\n      \"translatedEnglishLine\": \"That's probably true...\\\"\"\n    },\n    {\n      \"lineNumber\": 27,\n      \"originalJapaneseLine\": \"「魔王様ー！\",\n      \"translatedEnglishLine\": \"\\\"Demon Lord!\"\n    },\n    {\n      \"lineNumber\": 28,\n      \"originalJapaneseLine\": \"　魔王様、どこにいらっしゃいますかー！？」\",\n      \"translatedEnglishLine\": \"Demon Lord, where are you!?\"\n    },\n    {\n      \"lineNumber\": 29,\n      \"originalJapaneseLine\": \"「そう、変化なんて何もない。\",\n      \"translatedEnglishLine\": \"\\\"Yes, nothing has changed at all.\"\n    },\n    {\n      \"lineNumber\": 30,\n      \"originalJapaneseLine\": \"　サテラが魔王狂いになったこと以外はね……」\",\n      \"translatedEnglishLine\": \"Except that Satera has become obsessed with the demon lord...\\\"\"\n    },\n    {\n      \"lineNumber\": 31,\n      \"originalJapaneseLine\": \"「今、サテラのこと馬鹿にしたかー！？\",\n      \"translatedEnglishLine\": \"\\\"Did you just mock Satera!?\"\n    },\n    {\n      \"lineNumber\": 32,\n      \"originalJapaneseLine\": \"「うっさいわねー。\",\n      \"translatedEnglishLine\": \"\\\"You're so noisy.\"\n    },\n    {\n      \"lineNumber\": 33,\n      \"originalJapaneseLine\": \"　それより何を騒いでるのよ？」\",\n      \"translatedEnglishLine\": \"More importantly, what’s all the fuss about?\\\"\"\n    },\n    {\n      \"lineNumber\": 34,\n      \"originalJapaneseLine\": \"「魔王様がどこにもいないんだ……\",\n      \"translatedEnglishLine\": \"\\\"The demon lord is nowhere to be found...\"\n    },\n    {\n      \"lineNumber\": 35,\n      \"originalJapaneseLine\": \"　いったい、どこに行ってしまわれたのか……」\",\n      \"translatedEnglishLine\": \"Where on earth has he gone...?\\\"\"\n    },\n    {\n      \"lineNumber\": 36,\n      \"originalJapaneseLine\": \"「……はあ。\",\n      \"translatedEnglishLine\": \"\\\"...Sigh.\"\n    },\n    {\n      \"lineNumber\": 37,\n      \"originalJapaneseLine\": \"　今度の主はほんっと、落ち着きがないわね……」\",\n      \"translatedEnglishLine\": \"This new master really has no composure...\\\"\"\n    },\n    {\n      \"lineNumber\": 38,\n      \"originalJapaneseLine\": \"「む、魔王様の悪口は、\",\n      \"translatedEnglishLine\": \"\\\"I, Satera, will not forgive insults against the demon lord.\"\n    },\n    {\n      \"lineNumber\": 39,\n      \"originalJapaneseLine\": \"　このサテラが許さないぞ」\",\n      \"translatedEnglishLine\": \"\"\n    },\n    {\n      \"lineNumber\": 40,\n      \"originalJapaneseLine\": \"「あー、はいはい。\",\n      \"translatedEnglishLine\": \"\\\"Ah, yeah, yeah.\"\n    },\n    {\n      \"lineNumber\": 41,\n      \"originalJapaneseLine\": \"　ハウゼル、どこ行ったか知ってる？」\",\n      \"translatedEnglishLine\": \"Hauser, do you know where he went?\\\"\"\n    },\n    {\n      \"lineNumber\": 42,\n      \"originalJapaneseLine\": \"「さあ……私にも……\",\n      \"translatedEnglishLine\": \"\\\"Well... I don't know either...\"\n    },\n    {\n      \"lineNumber\": 43,\n      \"originalJapaneseLine\": \"　今朝までは部屋にいらっしゃったと思ったけど」\",\n      \"translatedEnglishLine\": \"I thought he was in the room until this morning.\\\"\"\n    },\n    {\n      \"lineNumber\": 44,\n      \"originalJapaneseLine\": \"「あ、シルキィ。\",\n      \"translatedEnglishLine\": \"\\\"Ah, Silky.\"\n    },\n    {\n      \"lineNumber\": 45,\n      \"originalJapaneseLine\": \"　魔王様がどこに行ったか知らないかしら？」\",\n      \"translatedEnglishLine\": \"Do you know where the demon lord went?\\\"\"\n    },\n    {\n      \"lineNumber\": 46,\n      \"originalJapaneseLine\": \"「え、魔王様いないの？」\",\n      \"translatedEnglishLine\": \"\\\"Eh, the demon lord isn’t here?\\\"\"\n    },\n    {\n      \"lineNumber\": 47,\n      \"originalJapaneseLine\": \"毎日寝る間も惜しんで働く魔物達を不憫に思い、\",\n      \"translatedEnglishLine\": \"Feeling sorry for the demons who work tirelessly every day without rest,\"\n    },\n    {\n      \"lineNumber\": 48,\n      \"originalJapaneseLine\": \"手伝いとして巨大な鉄骨を運んでいた\",\n      \"translatedEnglishLine\": \"Silky, a small demon, was helping carry huge steel beams.\"\n    },\n    {\n      \"lineNumber\": 49,\n      \"originalJapaneseLine\": \"小柄な魔人、シルキィが振り返る。\",\n      \"translatedEnglishLine\": \"The petite demon Silky looked back.\"\n    },\n    {\n      \"lineNumber\": 50,\n      \"originalJapaneseLine\": \"「私も知らないけど……\",\n      \"translatedEnglishLine\": \"\\\"I don't know either, but...\"\n    },\n    {\n      \"lineNumber\": 51,\n      \"originalJapaneseLine\": \"　あ、まさかあれかしら」\",\n      \"translatedEnglishLine\": \"Ah, could it be that thing?\\\"\"\n    },\n    {\n      \"lineNumber\": 52,\n      \"originalJapaneseLine\": \"「む、なんだ？」\",\n      \"translatedEnglishLine\": \"\\\"Huh, what is it?\\\"\"\n    },\n    {\n      \"lineNumber\": 53,\n      \"originalJapaneseLine\": \"「さっき雑談してる時に話してたの」\",\n      \"translatedEnglishLine\": \"\\\"We were just chatting earlier and talking about it.\\\"\"\n    },\n    {\n      \"lineNumber\": 54,\n      \"originalJapaneseLine\": \"「どうやらワーグ、\",\n      \"translatedEnglishLine\": \"\\\"Apparently, Warg\"\n    },\n    {\n      \"lineNumber\": 55,\n      \"originalJapaneseLine\": \"　また魔物の森で暮らしてるらしいから、\",\n      \"translatedEnglishLine\": \"is living again in the demon forest,\"\n    },\n    {\n      \"lineNumber\": 56,\n      \"originalJapaneseLine\": \"　なんとか一緒に暮らせないかしら、って」\",\n      \"translatedEnglishLine\": \"and they're thinking about whether they can somehow live together.\\\"\"\n    },\n    {\n      \"lineNumber\": 57,\n      \"originalJapaneseLine\": \"「……それだ」\",\n      \"translatedEnglishLine\": \"\\\"...That's it.\\\"\"\n    },\n    {\n      \"lineNumber\": 58,\n      \"originalJapaneseLine\": \"「それねえ……」\",\n      \"translatedEnglishLine\": \"\\\"That, huh...\\\"\"\n    },\n    {\n      \"lineNumber\": 59,\n      \"originalJapaneseLine\": \"「ワーグを迎えに行かれたのかしら。\",\n      \"translatedEnglishLine\": \"\\\"Maybe the demon lord went to pick up Warg.\"\n    },\n    {\n      \"lineNumber\": 60,\n      \"originalJapaneseLine\": \"　あれで魔王様、お優しいところがあるから」\",\n      \"translatedEnglishLine\": \"After all, the demon lord has a kind side.\\\"\"\n    }\n  ]\n}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "265534",
+                                "originalJapaneseLine": "翔竜山の山頂付近には",
+                                "translatedEnglishLine": "Near the summit of Mount Shoryu"
+                            },
+                            {
+                                "lineNumber": "265535",
+                                "originalJapaneseLine": "魔王城が作られようとしていた。",
+                                "translatedEnglishLine": "a demon lord's castle was about to be built."
+                            },
+                            {
+                                "lineNumber": "265536",
+                                "originalJapaneseLine": "まだまだ作り始めたばかりの城であり、",
+                                "translatedEnglishLine": "It was a castle just beginning to be constructed,"
+                            },
+                            {
+                                "lineNumber": "265537",
+                                "originalJapaneseLine": "玉座の間と呼ぶべき魔王の部屋にすら、",
+                                "translatedEnglishLine": "and even in the demon lord's chamber that should be called the throne room,"
+                            },
+                            {
+                                "lineNumber": "265538",
+                                "originalJapaneseLine": "現在も多くの魔物が忙しそうに働いていた。",
+                                "translatedEnglishLine": "many demons were busily working."
+                            },
+                            {
+                                "lineNumber": "265539",
+                                "originalJapaneseLine": "「ほーんと、突貫工事って感じ。",
+                                "translatedEnglishLine": "\"Really feels like rushed construction."
+                            },
+                            {
+                                "lineNumber": "265540",
+                                "originalJapaneseLine": "　これが魔王の新しい城だなんてねぇ」",
+                                "translatedEnglishLine": "I can't believe this is supposed to be the new castle of the demon lord.\""
+                            },
+                            {
+                                "lineNumber": "265541",
+                                "originalJapaneseLine": "魔王ランスの部下である、",
+                                "translatedEnglishLine": "Saizel, a subordinate of Demon Lord Rance,"
+                            },
+                            {
+                                "lineNumber": "265542",
+                                "originalJapaneseLine": "魔人サイゼルが魔王の部屋を見渡しながら、",
+                                "translatedEnglishLine": "the demon Saizel, glanced over the demon lord’s room,"
+                            },
+                            {
+                                "lineNumber": "265543",
+                                "originalJapaneseLine": "呆れ気味に溜め息を吐きだした。",
+                                "translatedEnglishLine": "and let out a sigh, somewhat exasperated."
+                            },
+                            {
+                                "lineNumber": "265544",
+                                "originalJapaneseLine": "「これから……",
+                                "translatedEnglishLine": "\"From now on..."
+                            },
+                            {
+                                "lineNumber": "265545",
+                                "originalJapaneseLine": "　一体、どうなってしまうのかしら」",
+                                "translatedEnglishLine": "What on earth will happen?"
+                            },
+                            {
+                                "lineNumber": "265546",
+                                "originalJapaneseLine": "「それ、魔人である私達が考えても",
+                                "translatedEnglishLine": "\"Even if we demons think about it,"
+                            },
+                            {
+                                "lineNumber": "265547",
+                                "originalJapaneseLine": "　意味ないんじゃない？」",
+                                "translatedEnglishLine": "it probably doesn't mean anything, right?\""
+                            },
+                            {
+                                "lineNumber": "265548",
+                                "originalJapaneseLine": "「それは……そうなのよね……」",
+                                "translatedEnglishLine": "\"That's... true...\""
+                            },
+                            {
+                                "lineNumber": "265549",
+                                "originalJapaneseLine": "「結局、私達魔人は魔王様の命令に、",
+                                "translatedEnglishLine": "\"After all, we demons cannot"
+                            },
+                            {
+                                "lineNumber": "265550",
+                                "originalJapaneseLine": "　逆らうことは出来ないのだから」",
+                                "translatedEnglishLine": "disobey the orders of the demon lord.\""
+                            },
+                            {
+                                "lineNumber": "265551",
+                                "originalJapaneseLine": "「そそ。",
+                                "translatedEnglishLine": "\"Exactly."
+                            },
+                            {
+                                "lineNumber": "265552",
+                                "originalJapaneseLine": "　人類を殺せっていうなら、そうするし、",
+                                "translatedEnglishLine": "If he says to kill humans, we do so,"
+                            },
+                            {
+                                "lineNumber": "265553",
+                                "originalJapaneseLine": "　人類圏には不可侵だって言うなら従うだけ」",
+                                "translatedEnglishLine": "and if he says humans’ territory is off-limits, we just obey.\""
+                            },
+                            {
+                                "lineNumber": "265554",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "265555",
+                                "originalJapaneseLine": "「……んもう。",
+                                "translatedEnglishLine": "\"...Geez."
+                            },
+                            {
+                                "lineNumber": "265556",
+                                "originalJapaneseLine": "　そんな顔しなくても心配いらないわよ。",
+                                "translatedEnglishLine": "You don't have to make that face, there's no need to worry."
+                            },
+                            {
+                                "lineNumber": "265557",
+                                "originalJapaneseLine": "　ランスの奴、人間の頃と性格変わってないし」",
+                                "translatedEnglishLine": "Rance hasn’t changed his personality since when he was human.\""
+                            },
+                            {
+                                "lineNumber": "265558",
+                                "originalJapaneseLine": "「うん……",
+                                "translatedEnglishLine": "\"Yeah..."
+                            },
+                            {
+                                "lineNumber": "265559",
+                                "originalJapaneseLine": "　確かに……そうかもね……」",
+                                "translatedEnglishLine": "That's probably true...\""
+                            },
+                            {
+                                "lineNumber": "265560",
+                                "originalJapaneseLine": "「魔王様ー！",
+                                "translatedEnglishLine": "\"Demon Lord!"
+                            },
+                            {
+                                "lineNumber": "265561",
+                                "originalJapaneseLine": "　魔王様、どこにいらっしゃいますかー！？」",
+                                "translatedEnglishLine": "Demon Lord, where are you!?"
+                            },
+                            {
+                                "lineNumber": "265562",
+                                "originalJapaneseLine": "「そう、変化なんて何もない。",
+                                "translatedEnglishLine": "\"Yes, nothing has changed at all."
+                            },
+                            {
+                                "lineNumber": "265563",
+                                "originalJapaneseLine": "　サテラが魔王狂いになったこと以外はね……」",
+                                "translatedEnglishLine": "Except that Satera has become obsessed with the demon lord...\""
+                            },
+                            {
+                                "lineNumber": "265564",
+                                "originalJapaneseLine": "「今、サテラのこと馬鹿にしたかー！？",
+                                "translatedEnglishLine": "\"Did you just mock Satera!?"
+                            },
+                            {
+                                "lineNumber": "265565",
+                                "originalJapaneseLine": "「うっさいわねー。",
+                                "translatedEnglishLine": "\"You're so noisy."
+                            },
+                            {
+                                "lineNumber": "265566",
+                                "originalJapaneseLine": "　それより何を騒いでるのよ？」",
+                                "translatedEnglishLine": "More importantly, what’s all the fuss about?\""
+                            },
+                            {
+                                "lineNumber": "265567",
+                                "originalJapaneseLine": "「魔王様がどこにもいないんだ……",
+                                "translatedEnglishLine": "\"The demon lord is nowhere to be found..."
+                            },
+                            {
+                                "lineNumber": "265568",
+                                "originalJapaneseLine": "　いったい、どこに行ってしまわれたのか……」",
+                                "translatedEnglishLine": "Where on earth has he gone...?\""
+                            },
+                            {
+                                "lineNumber": "265569",
+                                "originalJapaneseLine": "「……はあ。",
+                                "translatedEnglishLine": "\"...Sigh."
+                            },
+                            {
+                                "lineNumber": "265570",
+                                "originalJapaneseLine": "　今度の主はほんっと、落ち着きがないわね……」",
+                                "translatedEnglishLine": "This new master really has no composure...\""
+                            },
+                            {
+                                "lineNumber": "265571",
+                                "originalJapaneseLine": "「む、魔王様の悪口は、",
+                                "translatedEnglishLine": "\"I, Satera, will not forgive insults against the demon lord."
+                            },
+                            {
+                                "lineNumber": "265572",
+                                "originalJapaneseLine": "　このサテラが許さないぞ」",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": "265573",
+                                "originalJapaneseLine": "「あー、はいはい。",
+                                "translatedEnglishLine": "\"Ah, yeah, yeah."
+                            },
+                            {
+                                "lineNumber": "265574",
+                                "originalJapaneseLine": "　ハウゼル、どこ行ったか知ってる？」",
+                                "translatedEnglishLine": "Hauser, do you know where he went?\""
+                            },
+                            {
+                                "lineNumber": "265575",
+                                "originalJapaneseLine": "「さあ……私にも……",
+                                "translatedEnglishLine": "\"Well... I don't know either..."
+                            },
+                            {
+                                "lineNumber": "265576",
+                                "originalJapaneseLine": "　今朝までは部屋にいらっしゃったと思ったけど」",
+                                "translatedEnglishLine": "I thought he was in the room until this morning.\""
+                            },
+                            {
+                                "lineNumber": "265577",
+                                "originalJapaneseLine": "「あ、シルキィ。",
+                                "translatedEnglishLine": "\"Ah, Silky."
+                            },
+                            {
+                                "lineNumber": "265578",
+                                "originalJapaneseLine": "　魔王様がどこに行ったか知らないかしら？」",
+                                "translatedEnglishLine": "Do you know where the demon lord went?\""
+                            },
+                            {
+                                "lineNumber": "265579",
+                                "originalJapaneseLine": "「え、魔王様いないの？」",
+                                "translatedEnglishLine": "\"Eh, the demon lord isn’t here?\""
+                            },
+                            {
+                                "lineNumber": "265580",
+                                "originalJapaneseLine": "毎日寝る間も惜しんで働く魔物達を不憫に思い、",
+                                "translatedEnglishLine": "Feeling sorry for the demons who work tirelessly every day without rest,"
+                            },
+                            {
+                                "lineNumber": "265581",
+                                "originalJapaneseLine": "手伝いとして巨大な鉄骨を運んでいた",
+                                "translatedEnglishLine": "Silky, a small demon, was helping carry huge steel beams."
+                            },
+                            {
+                                "lineNumber": "265582",
+                                "originalJapaneseLine": "小柄な魔人、シルキィが振り返る。",
+                                "translatedEnglishLine": "The petite demon Silky looked back."
+                            },
+                            {
+                                "lineNumber": "265583",
+                                "originalJapaneseLine": "「私も知らないけど……",
+                                "translatedEnglishLine": "\"I don't know either, but..."
+                            },
+                            {
+                                "lineNumber": "265584",
+                                "originalJapaneseLine": "　あ、まさかあれかしら」",
+                                "translatedEnglishLine": "Ah, could it be that thing?\""
+                            },
+                            {
+                                "lineNumber": "265585",
+                                "originalJapaneseLine": "「む、なんだ？」",
+                                "translatedEnglishLine": "\"Huh, what is it?\""
+                            },
+                            {
+                                "lineNumber": "265586",
+                                "originalJapaneseLine": "「さっき雑談してる時に話してたの」",
+                                "translatedEnglishLine": "\"We were just chatting earlier and talking about it.\""
+                            },
+                            {
+                                "lineNumber": "265587",
+                                "originalJapaneseLine": "「どうやらワーグ、",
+                                "translatedEnglishLine": "\"Apparently, Warg"
+                            },
+                            {
+                                "lineNumber": "265588",
+                                "originalJapaneseLine": "　また魔物の森で暮らしてるらしいから、",
+                                "translatedEnglishLine": "is living again in the demon forest,"
+                            },
+                            {
+                                "lineNumber": "265589",
+                                "originalJapaneseLine": "　なんとか一緒に暮らせないかしら、って」",
+                                "translatedEnglishLine": "and they're thinking about whether they can somehow live together.\""
+                            },
+                            {
+                                "lineNumber": "265590",
+                                "originalJapaneseLine": "「……それだ」",
+                                "translatedEnglishLine": "\"...That's it.\""
+                            },
+                            {
+                                "lineNumber": "265591",
+                                "originalJapaneseLine": "「それねえ……」",
+                                "translatedEnglishLine": "\"That, huh...\""
+                            },
+                            {
+                                "lineNumber": "265592",
+                                "originalJapaneseLine": "「ワーグを迎えに行かれたのかしら。",
+                                "translatedEnglishLine": "\"Maybe the demon lord went to pick up Warg."
+                            },
+                            {
+                                "lineNumber": "265593",
+                                "originalJapaneseLine": "　あれで魔王様、お優しいところがあるから」",
+                                "translatedEnglishLine": "After all, the demon lord has a kind side.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1861,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2887,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4748
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 1,\n      \"originalJapaneseLine\": \"翔竜山の山頂付近には\",\n      \"translatedEnglishLine\": \"Near the summit of Mount Shoryu\"\n    },\n    {\n      \"lineNumber\": 2,\n      \"originalJapaneseLine\": \"魔王城が作られようとしていた。\",\n      \"translatedEnglishLine\": \"a demon lord's castle was about to be built.\"\n    },\n    {\n      \"lineNumber\": 3,\n      \"originalJapaneseLine\": \"まだまだ作り始めたばかりの城であり、\",\n      \"translatedEnglishLine\": \"It was a castle just beginning to be constructed,\"\n    },\n    {\n      \"lineNumber\": 4,\n      \"originalJapaneseLine\": \"玉座の間と呼ぶべき魔王の部屋にすら、\",\n      \"translatedEnglishLine\": \"and even in the demon lord's chamber that should be called the throne room,\"\n    },\n    {\n      \"lineNumber\": 5,\n      \"originalJapaneseLine\": \"現在も多くの魔物が忙しそうに働いていた。\",\n      \"translatedEnglishLine\": \"many demons were busily working.\"\n    },\n    {\n      \"lineNumber\": 6,\n      \"originalJapaneseLine\": \"「ほーんと、突貫工事って感じ。\",\n      \"translatedEnglishLine\": \"\\\"Really feels like rushed construction.\"\n    },\n    {\n      \"lineNumber\": 7,\n      \"originalJapaneseLine\": \"　これが魔王の新しい城だなんてねぇ」\",\n      \"translatedEnglishLine\": \"I can't believe this is supposed to be the new castle of the demon lord.\\\"\"\n    },\n    {\n      \"lineNumber\": 8,\n      \"originalJapaneseLine\": \"魔王ランスの部下である、\",\n      \"translatedEnglishLine\": \"Saizel, a subordinate of Demon Lord Rance,\"\n    },\n    {\n      \"lineNumber\": 9,\n      \"originalJapaneseLine\": \"魔人サイゼルが魔王の部屋を見渡しながら、\",\n      \"translatedEnglishLine\": \"the demon Saizel, glanced over the demon lord’s room,\"\n    },\n    {\n      \"lineNumber\": 10,\n      \"originalJapaneseLine\": \"呆れ気味に溜め息を吐きだした。\",\n      \"translatedEnglishLine\": \"and let out a sigh, somewhat exasperated.\"\n    },\n    {\n      \"lineNumber\": 11,\n      \"originalJapaneseLine\": \"「これから……\",\n      \"translatedEnglishLine\": \"\\\"From now on...\"\n    },\n    {\n      \"lineNumber\": 12,\n      \"originalJapaneseLine\": \"　一体、どうなってしまうのかしら」\",\n      \"translatedEnglishLine\": \"What on earth will happen?\"\n    },\n    {\n      \"lineNumber\": 13,\n      \"originalJapaneseLine\": \"「それ、魔人である私達が考えても\",\n      \"translatedEnglishLine\": \"\\\"Even if we demons think about it,\"\n    },\n    {\n      \"lineNumber\": 14,\n      \"originalJapaneseLine\": \"　意味ないんじゃない？」\",\n      \"translatedEnglishLine\": \"it probably doesn't mean anything, right?\\\"\"\n    },\n    {\n      \"lineNumber\": 15,\n      \"originalJapaneseLine\": \"「それは……そうなのよね……」\",\n      \"translatedEnglishLine\": \"\\\"That's... true...\\\"\"\n    },\n    {\n      \"lineNumber\": 16,\n      \"originalJapaneseLine\": \"「結局、私達魔人は魔王様の命令に、\",\n      \"translatedEnglishLine\": \"\\\"After all, we demons cannot\"\n    },\n    {\n      \"lineNumber\": 17,\n      \"originalJapaneseLine\": \"　逆らうことは出来ないのだから」\",\n      \"translatedEnglishLine\": \"disobey the orders of the demon lord.\\\"\"\n    },\n    {\n      \"lineNumber\": 18,\n      \"originalJapaneseLine\": \"「そそ。\",\n      \"translatedEnglishLine\": \"\\\"Exactly.\"\n    },\n    {\n      \"lineNumber\": 19,\n      \"originalJapaneseLine\": \"　人類を殺せっていうなら、そうするし、\",\n      \"translatedEnglishLine\": \"If he says to kill humans, we do so,\"\n    },\n    {\n      \"lineNumber\": 20,\n      \"originalJapaneseLine\": \"　人類圏には不可侵だって言うなら従うだけ」\",\n      \"translatedEnglishLine\": \"and if he says humans’ territory is off-limits, we just obey.\\\"\"\n    },\n    {\n      \"lineNumber\": 21,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"............\\\"\"\n    },\n    {\n      \"lineNumber\": 22,\n      \"originalJapaneseLine\": \"「……んもう。\",\n      \"translatedEnglishLine\": \"\\\"...Geez.\"\n    },\n    {\n      \"lineNumber\": 23,\n      \"originalJapaneseLine\": \"　そんな顔しなくても心配いらないわよ。\",\n      \"translatedEnglishLine\": \"You don't have to make that face, there's no need to worry.\"\n    },\n    {\n      \"lineNumber\": 24,\n      \"originalJapaneseLine\": \"　ランスの奴、人間の頃と性格変わってないし」\",\n      \"translatedEnglishLine\": \"Rance hasn’t changed his personality since when he was human.\\\"\"\n    },\n    {\n      \"lineNumber\": 25,\n      \"originalJapaneseLine\": \"「うん……\",\n      \"translatedEnglishLine\": \"\\\"Yeah...\"\n    },\n    {\n      \"lineNumber\": 26,\n      \"originalJapaneseLine\": \"　確かに……そうかもね……」\",\n      \"translatedEnglishLine\": \"That's probably true...\\\"\"\n    },\n    {\n      \"lineNumber\": 27,\n      \"originalJapaneseLine\": \"「魔王様ー！\",\n      \"translatedEnglishLine\": \"\\\"Demon Lord!\"\n    },\n    {\n      \"lineNumber\": 28,\n      \"originalJapaneseLine\": \"　魔王様、どこにいらっしゃいますかー！？」\",\n      \"translatedEnglishLine\": \"Demon Lord, where are you!?\"\n    },\n    {\n      \"lineNumber\": 29,\n      \"originalJapaneseLine\": \"「そう、変化なんて何もない。\",\n      \"translatedEnglishLine\": \"\\\"Yes, nothing has changed at all.\"\n    },\n    {\n      \"lineNumber\": 30,\n      \"originalJapaneseLine\": \"　サテラが魔王狂いになったこと以外はね……」\",\n      \"translatedEnglishLine\": \"Except that Satera has become obsessed with the demon lord...\\\"\"\n    },\n    {\n      \"lineNumber\": 31,\n      \"originalJapaneseLine\": \"「今、サテラのこと馬鹿にしたかー！？\",\n      \"translatedEnglishLine\": \"\\\"Did you just mock Satera!?\"\n    },\n    {\n      \"lineNumber\": 32,\n      \"originalJapaneseLine\": \"「うっさいわねー。\",\n      \"translatedEnglishLine\": \"\\\"You're so noisy.\"\n    },\n    {\n      \"lineNumber\": 33,\n      \"originalJapaneseLine\": \"　それより何を騒いでるのよ？」\",\n      \"translatedEnglishLine\": \"More importantly, what’s all the fuss about?\\\"\"\n    },\n    {\n      \"lineNumber\": 34,\n      \"originalJapaneseLine\": \"「魔王様がどこにもいないんだ……\",\n      \"translatedEnglishLine\": \"\\\"The demon lord is nowhere to be found...\"\n    },\n    {\n      \"lineNumber\": 35,\n      \"originalJapaneseLine\": \"　いったい、どこに行ってしまわれたのか……」\",\n      \"translatedEnglishLine\": \"Where on earth has he gone...?\\\"\"\n    },\n    {\n      \"lineNumber\": 36,\n      \"originalJapaneseLine\": \"「……はあ。\",\n      \"translatedEnglishLine\": \"\\\"...Sigh.\"\n    },\n    {\n      \"lineNumber\": 37,\n      \"originalJapaneseLine\": \"　今度の主はほんっと、落ち着きがないわね……」\",\n      \"translatedEnglishLine\": \"This new master really has no composure...\\\"\"\n    },\n    {\n      \"lineNumber\": 38,\n      \"originalJapaneseLine\": \"「む、魔王様の悪口は、\",\n      \"translatedEnglishLine\": \"\\\"I, Satera, will not forgive insults against the demon lord.\"\n    },\n    {\n      \"lineNumber\": 39,\n      \"originalJapaneseLine\": \"　このサテラが許さないぞ」\",\n      \"translatedEnglishLine\": \"\"\n    },\n    {\n      \"lineNumber\": 40,\n      \"originalJapaneseLine\": \"「あー、はいはい。\",\n      \"translatedEnglishLine\": \"\\\"Ah, yeah, yeah.\"\n    },\n    {\n      \"lineNumber\": 41,\n      \"originalJapaneseLine\": \"　ハウゼル、どこ行ったか知ってる？」\",\n      \"translatedEnglishLine\": \"Hauser, do you know where he went?\\\"\"\n    },\n    {\n      \"lineNumber\": 42,\n      \"originalJapaneseLine\": \"「さあ……私にも……\",\n      \"translatedEnglishLine\": \"\\\"Well... I don't know either...\"\n    },\n    {\n      \"lineNumber\": 43,\n      \"originalJapaneseLine\": \"　今朝までは部屋にいらっしゃったと思ったけど」\",\n      \"translatedEnglishLine\": \"I thought he was in the room until this morning.\\\"\"\n    },\n    {\n      \"lineNumber\": 44,\n      \"originalJapaneseLine\": \"「あ、シルキィ。\",\n      \"translatedEnglishLine\": \"\\\"Ah, Silky.\"\n    },\n    {\n      \"lineNumber\": 45,\n      \"originalJapaneseLine\": \"　魔王様がどこに行ったか知らないかしら？」\",\n      \"translatedEnglishLine\": \"Do you know where the demon lord went?\\\"\"\n    },\n    {\n      \"lineNumber\": 46,\n      \"originalJapaneseLine\": \"「え、魔王様いないの？」\",\n      \"translatedEnglishLine\": \"\\\"Eh, the demon lord isn’t here?\\\"\"\n    },\n    {\n      \"lineNumber\": 47,\n      \"originalJapaneseLine\": \"毎日寝る間も惜しんで働く魔物達を不憫に思い、\",\n      \"translatedEnglishLine\": \"Feeling sorry for the demons who work tirelessly every day without rest,\"\n    },\n    {\n      \"lineNumber\": 48,\n      \"originalJapaneseLine\": \"手伝いとして巨大な鉄骨を運んでいた\",\n      \"translatedEnglishLine\": \"Silky, a small demon, was helping carry huge steel beams.\"\n    },\n    {\n      \"lineNumber\": 49,\n      \"originalJapaneseLine\": \"小柄な魔人、シルキィが振り返る。\",\n      \"translatedEnglishLine\": \"The petite demon Silky looked back.\"\n    },\n    {\n      \"lineNumber\": 50,\n      \"originalJapaneseLine\": \"「私も知らないけど……\",\n      \"translatedEnglishLine\": \"\\\"I don't know either, but...\"\n    },\n    {\n      \"lineNumber\": 51,\n      \"originalJapaneseLine\": \"　あ、まさかあれかしら」\",\n      \"translatedEnglishLine\": \"Ah, could it be that thing?\\\"\"\n    },\n    {\n      \"lineNumber\": 52,\n      \"originalJapaneseLine\": \"「む、なんだ？」\",\n      \"translatedEnglishLine\": \"\\\"Huh, what is it?\\\"\"\n    },\n    {\n      \"lineNumber\": 53,\n      \"originalJapaneseLine\": \"「さっき雑談してる時に話してたの」\",\n      \"translatedEnglishLine\": \"\\\"We were just chatting earlier and talking about it.\\\"\"\n    },\n    {\n      \"lineNumber\": 54,\n      \"originalJapaneseLine\": \"「どうやらワーグ、\",\n      \"translatedEnglishLine\": \"\\\"Apparently, Warg\"\n    },\n    {\n      \"lineNumber\": 55,\n      \"originalJapaneseLine\": \"　また魔物の森で暮らしてるらしいから、\",\n      \"translatedEnglishLine\": \"is living again in the demon forest,\"\n    },\n    {\n      \"lineNumber\": 56,\n      \"originalJapaneseLine\": \"　なんとか一緒に暮らせないかしら、って」\",\n      \"translatedEnglishLine\": \"and they're thinking about whether they can somehow live together.\\\"\"\n    },\n    {\n      \"lineNumber\": 57,\n      \"originalJapaneseLine\": \"「……それだ」\",\n      \"translatedEnglishLine\": \"\\\"...That's it.\\\"\"\n    },\n    {\n      \"lineNumber\": 58,\n      \"originalJapaneseLine\": \"「それねえ……」\",\n      \"translatedEnglishLine\": \"\\\"That, huh...\\\"\"\n    },\n    {\n      \"lineNumber\": 59,\n      \"originalJapaneseLine\": \"「ワーグを迎えに行かれたのかしら。\",\n      \"translatedEnglishLine\": \"\\\"Maybe the demon lord went to pick up Warg.\"\n    },\n    {\n      \"lineNumber\": 60,\n      \"originalJapaneseLine\": \"　あれで魔王様、お優しいところがあるから」\",\n      \"translatedEnglishLine\": \"After all, the demon lord has a kind side.\\\"\"\n    }\n  ]\n}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "265534",
+                "originalJapaneseLine": "翔竜山の山頂付近には",
+                "translatedEnglishLine": "Near the summit of Mount Shoryu"
+            },
+            {
+                "lineNumber": "265535",
+                "originalJapaneseLine": "魔王城が作られようとしていた。",
+                "translatedEnglishLine": "a demon lord's castle was about to be built."
+            },
+            {
+                "lineNumber": "265536",
+                "originalJapaneseLine": "まだまだ作り始めたばかりの城であり、",
+                "translatedEnglishLine": "It was a castle just beginning to be constructed,"
+            },
+            {
+                "lineNumber": "265537",
+                "originalJapaneseLine": "玉座の間と呼ぶべき魔王の部屋にすら、",
+                "translatedEnglishLine": "and even in the demon lord's chamber that should be called the throne room,"
+            },
+            {
+                "lineNumber": "265538",
+                "originalJapaneseLine": "現在も多くの魔物が忙しそうに働いていた。",
+                "translatedEnglishLine": "many demons were busily working."
+            },
+            {
+                "lineNumber": "265539",
+                "originalJapaneseLine": "「ほーんと、突貫工事って感じ。",
+                "translatedEnglishLine": "\"Really feels like rushed construction."
+            },
+            {
+                "lineNumber": "265540",
+                "originalJapaneseLine": "　これが魔王の新しい城だなんてねぇ」",
+                "translatedEnglishLine": "I can't believe this is supposed to be the new castle of the demon lord.\""
+            },
+            {
+                "lineNumber": "265541",
+                "originalJapaneseLine": "魔王ランスの部下である、",
+                "translatedEnglishLine": "Saizel, a subordinate of Demon Lord Rance,"
+            },
+            {
+                "lineNumber": "265542",
+                "originalJapaneseLine": "魔人サイゼルが魔王の部屋を見渡しながら、",
+                "translatedEnglishLine": "the demon Saizel, glanced over the demon lord’s room,"
+            },
+            {
+                "lineNumber": "265543",
+                "originalJapaneseLine": "呆れ気味に溜め息を吐きだした。",
+                "translatedEnglishLine": "and let out a sigh, somewhat exasperated."
+            },
+            {
+                "lineNumber": "265544",
+                "originalJapaneseLine": "「これから……",
+                "translatedEnglishLine": "\"From now on..."
+            },
+            {
+                "lineNumber": "265545",
+                "originalJapaneseLine": "　一体、どうなってしまうのかしら」",
+                "translatedEnglishLine": "What on earth will happen?"
+            },
+            {
+                "lineNumber": "265546",
+                "originalJapaneseLine": "「それ、魔人である私達が考えても",
+                "translatedEnglishLine": "\"Even if we demons think about it,"
+            },
+            {
+                "lineNumber": "265547",
+                "originalJapaneseLine": "　意味ないんじゃない？」",
+                "translatedEnglishLine": "it probably doesn't mean anything, right?\""
+            },
+            {
+                "lineNumber": "265548",
+                "originalJapaneseLine": "「それは……そうなのよね……」",
+                "translatedEnglishLine": "\"That's... true...\""
+            },
+            {
+                "lineNumber": "265549",
+                "originalJapaneseLine": "「結局、私達魔人は魔王様の命令に、",
+                "translatedEnglishLine": "\"After all, we demons cannot"
+            },
+            {
+                "lineNumber": "265550",
+                "originalJapaneseLine": "　逆らうことは出来ないのだから」",
+                "translatedEnglishLine": "disobey the orders of the demon lord.\""
+            },
+            {
+                "lineNumber": "265551",
+                "originalJapaneseLine": "「そそ。",
+                "translatedEnglishLine": "\"Exactly."
+            },
+            {
+                "lineNumber": "265552",
+                "originalJapaneseLine": "　人類を殺せっていうなら、そうするし、",
+                "translatedEnglishLine": "If he says to kill humans, we do so,"
+            },
+            {
+                "lineNumber": "265553",
+                "originalJapaneseLine": "　人類圏には不可侵だって言うなら従うだけ」",
+                "translatedEnglishLine": "and if he says humans’ territory is off-limits, we just obey.\""
+            },
+            {
+                "lineNumber": "265554",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "265555",
+                "originalJapaneseLine": "「……んもう。",
+                "translatedEnglishLine": "\"...Geez."
+            },
+            {
+                "lineNumber": "265556",
+                "originalJapaneseLine": "　そんな顔しなくても心配いらないわよ。",
+                "translatedEnglishLine": "You don't have to make that face, there's no need to worry."
+            },
+            {
+                "lineNumber": "265557",
+                "originalJapaneseLine": "　ランスの奴、人間の頃と性格変わってないし」",
+                "translatedEnglishLine": "Rance hasn’t changed his personality since when he was human.\""
+            },
+            {
+                "lineNumber": "265558",
+                "originalJapaneseLine": "「うん……",
+                "translatedEnglishLine": "\"Yeah..."
+            },
+            {
+                "lineNumber": "265559",
+                "originalJapaneseLine": "　確かに……そうかもね……」",
+                "translatedEnglishLine": "That's probably true...\""
+            },
+            {
+                "lineNumber": "265560",
+                "originalJapaneseLine": "「魔王様ー！",
+                "translatedEnglishLine": "\"Demon Lord!"
+            },
+            {
+                "lineNumber": "265561",
+                "originalJapaneseLine": "　魔王様、どこにいらっしゃいますかー！？」",
+                "translatedEnglishLine": "Demon Lord, where are you!?"
+            },
+            {
+                "lineNumber": "265562",
+                "originalJapaneseLine": "「そう、変化なんて何もない。",
+                "translatedEnglishLine": "\"Yes, nothing has changed at all."
+            },
+            {
+                "lineNumber": "265563",
+                "originalJapaneseLine": "　サテラが魔王狂いになったこと以外はね……」",
+                "translatedEnglishLine": "Except that Satera has become obsessed with the demon lord...\""
+            },
+            {
+                "lineNumber": "265564",
+                "originalJapaneseLine": "「今、サテラのこと馬鹿にしたかー！？",
+                "translatedEnglishLine": "\"Did you just mock Satera!?"
+            },
+            {
+                "lineNumber": "265565",
+                "originalJapaneseLine": "「うっさいわねー。",
+                "translatedEnglishLine": "\"You're so noisy."
+            },
+            {
+                "lineNumber": "265566",
+                "originalJapaneseLine": "　それより何を騒いでるのよ？」",
+                "translatedEnglishLine": "More importantly, what’s all the fuss about?\""
+            },
+            {
+                "lineNumber": "265567",
+                "originalJapaneseLine": "「魔王様がどこにもいないんだ……",
+                "translatedEnglishLine": "\"The demon lord is nowhere to be found..."
+            },
+            {
+                "lineNumber": "265568",
+                "originalJapaneseLine": "　いったい、どこに行ってしまわれたのか……」",
+                "translatedEnglishLine": "Where on earth has he gone...?\""
+            },
+            {
+                "lineNumber": "265569",
+                "originalJapaneseLine": "「……はあ。",
+                "translatedEnglishLine": "\"...Sigh."
+            },
+            {
+                "lineNumber": "265570",
+                "originalJapaneseLine": "　今度の主はほんっと、落ち着きがないわね……」",
+                "translatedEnglishLine": "This new master really has no composure...\""
+            },
+            {
+                "lineNumber": "265571",
+                "originalJapaneseLine": "「む、魔王様の悪口は、",
+                "translatedEnglishLine": "\"I, Satera, will not forgive insults against the demon lord."
+            },
+            {
+                "lineNumber": "265572",
+                "originalJapaneseLine": "　このサテラが許さないぞ」",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": "265573",
+                "originalJapaneseLine": "「あー、はいはい。",
+                "translatedEnglishLine": "\"Ah, yeah, yeah."
+            },
+            {
+                "lineNumber": "265574",
+                "originalJapaneseLine": "　ハウゼル、どこ行ったか知ってる？」",
+                "translatedEnglishLine": "Hauser, do you know where he went?\""
+            },
+            {
+                "lineNumber": "265575",
+                "originalJapaneseLine": "「さあ……私にも……",
+                "translatedEnglishLine": "\"Well... I don't know either..."
+            },
+            {
+                "lineNumber": "265576",
+                "originalJapaneseLine": "　今朝までは部屋にいらっしゃったと思ったけど」",
+                "translatedEnglishLine": "I thought he was in the room until this morning.\""
+            },
+            {
+                "lineNumber": "265577",
+                "originalJapaneseLine": "「あ、シルキィ。",
+                "translatedEnglishLine": "\"Ah, Silky."
+            },
+            {
+                "lineNumber": "265578",
+                "originalJapaneseLine": "　魔王様がどこに行ったか知らないかしら？」",
+                "translatedEnglishLine": "Do you know where the demon lord went?\""
+            },
+            {
+                "lineNumber": "265579",
+                "originalJapaneseLine": "「え、魔王様いないの？」",
+                "translatedEnglishLine": "\"Eh, the demon lord isn’t here?\""
+            },
+            {
+                "lineNumber": "265580",
+                "originalJapaneseLine": "毎日寝る間も惜しんで働く魔物達を不憫に思い、",
+                "translatedEnglishLine": "Feeling sorry for the demons who work tirelessly every day without rest,"
+            },
+            {
+                "lineNumber": "265581",
+                "originalJapaneseLine": "手伝いとして巨大な鉄骨を運んでいた",
+                "translatedEnglishLine": "Silky, a small demon, was helping carry huge steel beams."
+            },
+            {
+                "lineNumber": "265582",
+                "originalJapaneseLine": "小柄な魔人、シルキィが振り返る。",
+                "translatedEnglishLine": "The petite demon Silky looked back."
+            },
+            {
+                "lineNumber": "265583",
+                "originalJapaneseLine": "「私も知らないけど……",
+                "translatedEnglishLine": "\"I don't know either, but..."
+            },
+            {
+                "lineNumber": "265584",
+                "originalJapaneseLine": "　あ、まさかあれかしら」",
+                "translatedEnglishLine": "Ah, could it be that thing?\""
+            },
+            {
+                "lineNumber": "265585",
+                "originalJapaneseLine": "「む、なんだ？」",
+                "translatedEnglishLine": "\"Huh, what is it?\""
+            },
+            {
+                "lineNumber": "265586",
+                "originalJapaneseLine": "「さっき雑談してる時に話してたの」",
+                "translatedEnglishLine": "\"We were just chatting earlier and talking about it.\""
+            },
+            {
+                "lineNumber": "265587",
+                "originalJapaneseLine": "「どうやらワーグ、",
+                "translatedEnglishLine": "\"Apparently, Warg"
+            },
+            {
+                "lineNumber": "265588",
+                "originalJapaneseLine": "　また魔物の森で暮らしてるらしいから、",
+                "translatedEnglishLine": "is living again in the demon forest,"
+            },
+            {
+                "lineNumber": "265589",
+                "originalJapaneseLine": "　なんとか一緒に暮らせないかしら、って」",
+                "translatedEnglishLine": "and they're thinking about whether they can somehow live together.\""
+            },
+            {
+                "lineNumber": "265590",
+                "originalJapaneseLine": "「……それだ」",
+                "translatedEnglishLine": "\"...That's it.\""
+            },
+            {
+                "lineNumber": "265591",
+                "originalJapaneseLine": "「それねえ……」",
+                "translatedEnglishLine": "\"That, huh...\""
+            },
+            {
+                "lineNumber": "265592",
+                "originalJapaneseLine": "「ワーグを迎えに行かれたのかしら。",
+                "translatedEnglishLine": "\"Maybe the demon lord went to pick up Warg."
+            },
+            {
+                "lineNumber": "265593",
+                "originalJapaneseLine": "　あれで魔王様、お優しいところがあるから」",
+                "translatedEnglishLine": "After all, the demon lord has a kind side.\""
+            }
+        ]
+    }
+}

@@ -1,0 +1,719 @@
+{
+    "id": "resp_0c6d649d6f068e8b0068ffed3b7ed08197878ec4b5623ee5e6",
+    "object": "response",
+    "created_at": 1761602875,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0c6d649d6f068e8b0068ffed3c2fc48197942379c948f7c63c",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　秘密の取引現場を見てしまったので\",\"translatedEnglishLine\":\"Because we saw a secret deal taking place,\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　命を狙われる我々だ」\",\"translatedEnglishLine\":\"we are being targeted for assassination.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「いや、まったく」\",\"translatedEnglishLine\":\"\\\"No, not at all.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「……ふふ、まいったな」\",\"translatedEnglishLine\":\"\\\"...Hehe, I'm at a loss.\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「めっちゃ嬉しそうじゃないですか！？」\",\"translatedEnglishLine\":\"\\\"You look super happy, don't you!?\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「まあ、晩ご飯までには帰れるだろう」\",\"translatedEnglishLine\":\"\\\"Well, we'll probably be back by dinner.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「呑気！！！！」\",\"translatedEnglishLine\":\"\\\"So carefree!!!!\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「あっ、追っ手が来たでござるよ」\",\"translatedEnglishLine\":\"\\\"Ah, pursuers have come!\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「いーーーやーーー！？」\",\"translatedEnglishLine\":\"\\\"Noooo!?\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「にょほほほほほ。\",\"translatedEnglishLine\":\"\\\"Nyohohohoho.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　楽しいでござるねー」\",\"translatedEnglishLine\":\"This is so much fun!\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"鈴女はランス城での生活を満喫していた。\",\"translatedEnglishLine\":\"Suzujo was thoroughly enjoying life at Rance Castle.\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"城内を歩くランスの肩には、\",\"translatedEnglishLine\":\"On Rance's shoulder as he walked inside the castle,\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"いつものように鈴女が乗っていた。\",\"translatedEnglishLine\":\"as usual, Suzujo was perched.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"ただし、おばけの姿で。\",\"translatedEnglishLine\":\"However, in the form of a ghost.\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「にーんじゃなんだ♪　にーんじゃなんだ♪\",\"translatedEnglishLine\":\"\\\"I'm a ninja, you know♪ I'm a ninja, you know♪\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　にーんじゃなんだけれど♪」\",\"translatedEnglishLine\":\"I'm a ninja, after all♪\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「だ、け、ど、カーエルにはっ♪\",\"translatedEnglishLine\":\"\\\"Bu-t, for a frog♪\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　……おろ？」\",\"translatedEnglishLine\":\"...Huh?\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ランス、どうしたでござる？」\",\"translatedEnglishLine\":\"\\\"Rance, what's wrong?\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「お前、その餅お化けの姿禁止ー！」\",\"translatedEnglishLine\":\"\\\"You’re forbidden from being in that mochi ghost form!\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「えー」\",\"translatedEnglishLine\":\"\\\"Ehh?\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「色気もへったくれもないではないか。\",\"translatedEnglishLine\":\"\\\"There’s no charm or anything like that.\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　見ててつまらん」\",\"translatedEnglishLine\":\"It's boring to watch.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「でも、こっちの方が楽でござるからして」\",\"translatedEnglishLine\":\"\\\"But it's easier this way.\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「楽とかしんどいってあるのか？」\",\"translatedEnglishLine\":\"\\\"Is there really an 'easy' or 'hard' with that?\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「あるでござるよ」\",\"translatedEnglishLine\":\"\\\"There is.\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「それに誰に迷惑をかけるわけでなし」\",\"translatedEnglishLine\":\"\\\"Besides, it doesn’t bother anyone.\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「うぐっ！？」\",\"translatedEnglishLine\":\"\\\"Ugh!?\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「おろ？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「なーにを変な顔してるんだ、お前は」\",\"translatedEnglishLine\":\"\\\"Why are you making such a weird face?\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「い、いえ……\",\"translatedEnglishLine\":\"\\\"N-no...\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　城内におばけがいらっしゃったので」\",\"translatedEnglishLine\":\"Because there was a ghost inside the castle.\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「ん？」\",\"translatedEnglishLine\":\"\\\"Hm?\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「ん〜〜〜〜？」\",\"translatedEnglishLine\":\"\\\"Hmm~~~~?\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「もしかして、おばけ苦手さん？」\",\"translatedEnglishLine\":\"\\\"Could it be you’re afraid of ghosts?\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「……ッ！」\",\"translatedEnglishLine\":\"\\\"...!\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「あ〜、そういえば、\",\"translatedEnglishLine\":\"\\\"Ah, now that you mention it,\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　そんな話を聞いたことがあるような、\",\"translatedEnglishLine\":\"I think I heard a story like that,\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　ないような……」\",\"translatedEnglishLine\":\"or maybe not...\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"\\\"Sigh...\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　子供の頃からおばけやモンスターが\",\"translatedEnglishLine\":\"I've been no good with ghosts and monsters since I was a child...\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　駄目で……」\",\"translatedEnglishLine\":\"\\\"...not good at all.\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「メットかぶってる間は\",\"translatedEnglishLine\":\"\\\"You were fine while wearing your helmet,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　平気だった筈だろ」\",\"translatedEnglishLine\":\"so it should have been okay.\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「はい……その、ですが……」\",\"translatedEnglishLine\":\"\\\"Yes... well, but...\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「子供の頃に想像していた\",\"translatedEnglishLine\":\"\\\"It looked exactly like the scary ghost I imagined as a child...\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　怖いおばけのイメージそのままだったので……」\",\"translatedEnglishLine\":\"the image of a frightening ghost...\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「……お前、貧困な想像力のガキだったんだな」\",\"translatedEnglishLine\":\"\\\"...You were a kid with a poor imagination, weren't you?\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「誰の姿がベタなおばけでござるか」\",\"translatedEnglishLine\":\"\\\"Who exactly looks like a cliché ghost?\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「なんにしても鈴女、\",\"translatedEnglishLine\":\"\\\"Anyway, Suzujo,\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　これでお前の姿に迷惑してる奴も\",\"translatedEnglishLine\":\"now you know there are people troubled by your form,\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　いると分かっただろう」\",\"translatedEnglishLine\":\"right?\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「ま、そういうことなら、\",\"translatedEnglishLine\":\"\\\"Well, if that's the case,\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　人型になるでござるかねー」\",\"translatedEnglishLine\":\"perhaps you should change into a human form.\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「とってんぱーの……\",\"translatedEnglishLine\":\"\\\"Tottenpaa...\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "268584",
+                                "originalJapaneseLine": "　秘密の取引現場を見てしまったので",
+                                "translatedEnglishLine": "Because we saw a secret deal taking place,"
+                            },
+                            {
+                                "lineNumber": "268585",
+                                "originalJapaneseLine": "　命を狙われる我々だ」",
+                                "translatedEnglishLine": "we are being targeted for assassination."
+                            },
+                            {
+                                "lineNumber": "268586",
+                                "originalJapaneseLine": "「いや、まったく」",
+                                "translatedEnglishLine": "\"No, not at all.\""
+                            },
+                            {
+                                "lineNumber": "268587",
+                                "originalJapaneseLine": "「……ふふ、まいったな」",
+                                "translatedEnglishLine": "\"...Hehe, I'm at a loss.\""
+                            },
+                            {
+                                "lineNumber": "268588",
+                                "originalJapaneseLine": "「めっちゃ嬉しそうじゃないですか！？」",
+                                "translatedEnglishLine": "\"You look super happy, don't you!?\""
+                            },
+                            {
+                                "lineNumber": "268589",
+                                "originalJapaneseLine": "「まあ、晩ご飯までには帰れるだろう」",
+                                "translatedEnglishLine": "\"Well, we'll probably be back by dinner.\""
+                            },
+                            {
+                                "lineNumber": "268590",
+                                "originalJapaneseLine": "「呑気！！！！」",
+                                "translatedEnglishLine": "\"So carefree!!!!\""
+                            },
+                            {
+                                "lineNumber": "268591",
+                                "originalJapaneseLine": "「あっ、追っ手が来たでござるよ」",
+                                "translatedEnglishLine": "\"Ah, pursuers have come!\""
+                            },
+                            {
+                                "lineNumber": "268592",
+                                "originalJapaneseLine": "「いーーーやーーー！？」",
+                                "translatedEnglishLine": "\"Noooo!?\""
+                            },
+                            {
+                                "lineNumber": "268593",
+                                "originalJapaneseLine": "「にょほほほほほ。",
+                                "translatedEnglishLine": "\"Nyohohohoho."
+                            },
+                            {
+                                "lineNumber": "268594",
+                                "originalJapaneseLine": "　楽しいでござるねー」",
+                                "translatedEnglishLine": "This is so much fun!\""
+                            },
+                            {
+                                "lineNumber": "268595",
+                                "originalJapaneseLine": "鈴女はランス城での生活を満喫していた。",
+                                "translatedEnglishLine": "Suzujo was thoroughly enjoying life at Rance Castle."
+                            },
+                            {
+                                "lineNumber": "268596",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "268597",
+                                "originalJapaneseLine": "城内を歩くランスの肩には、",
+                                "translatedEnglishLine": "On Rance's shoulder as he walked inside the castle,"
+                            },
+                            {
+                                "lineNumber": "268598",
+                                "originalJapaneseLine": "いつものように鈴女が乗っていた。",
+                                "translatedEnglishLine": "as usual, Suzujo was perched."
+                            },
+                            {
+                                "lineNumber": "268599",
+                                "originalJapaneseLine": "ただし、おばけの姿で。",
+                                "translatedEnglishLine": "However, in the form of a ghost."
+                            },
+                            {
+                                "lineNumber": "268600",
+                                "originalJapaneseLine": "「にーんじゃなんだ♪　にーんじゃなんだ♪",
+                                "translatedEnglishLine": "\"I'm a ninja, you know♪ I'm a ninja, you know♪"
+                            },
+                            {
+                                "lineNumber": "268601",
+                                "originalJapaneseLine": "　にーんじゃなんだけれど♪」",
+                                "translatedEnglishLine": "I'm a ninja, after all♪\""
+                            },
+                            {
+                                "lineNumber": "268602",
+                                "originalJapaneseLine": "「だ、け、ど、カーエルにはっ♪",
+                                "translatedEnglishLine": "\"Bu-t, for a frog♪"
+                            },
+                            {
+                                "lineNumber": "268603",
+                                "originalJapaneseLine": "　……おろ？」",
+                                "translatedEnglishLine": "...Huh?\""
+                            },
+                            {
+                                "lineNumber": "268604",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "268605",
+                                "originalJapaneseLine": "「ランス、どうしたでござる？」",
+                                "translatedEnglishLine": "\"Rance, what's wrong?\""
+                            },
+                            {
+                                "lineNumber": "268606",
+                                "originalJapaneseLine": "「お前、その餅お化けの姿禁止ー！」",
+                                "translatedEnglishLine": "\"You’re forbidden from being in that mochi ghost form!\""
+                            },
+                            {
+                                "lineNumber": "268607",
+                                "originalJapaneseLine": "「えー」",
+                                "translatedEnglishLine": "\"Ehh?\""
+                            },
+                            {
+                                "lineNumber": "268608",
+                                "originalJapaneseLine": "「色気もへったくれもないではないか。",
+                                "translatedEnglishLine": "\"There’s no charm or anything like that."
+                            },
+                            {
+                                "lineNumber": "268609",
+                                "originalJapaneseLine": "　見ててつまらん」",
+                                "translatedEnglishLine": "It's boring to watch.\""
+                            },
+                            {
+                                "lineNumber": "268610",
+                                "originalJapaneseLine": "「でも、こっちの方が楽でござるからして」",
+                                "translatedEnglishLine": "\"But it's easier this way.\""
+                            },
+                            {
+                                "lineNumber": "268611",
+                                "originalJapaneseLine": "「楽とかしんどいってあるのか？」",
+                                "translatedEnglishLine": "\"Is there really an 'easy' or 'hard' with that?\""
+                            },
+                            {
+                                "lineNumber": "268612",
+                                "originalJapaneseLine": "「あるでござるよ」",
+                                "translatedEnglishLine": "\"There is.\""
+                            },
+                            {
+                                "lineNumber": "268613",
+                                "originalJapaneseLine": "「それに誰に迷惑をかけるわけでなし」",
+                                "translatedEnglishLine": "\"Besides, it doesn’t bother anyone.\""
+                            },
+                            {
+                                "lineNumber": "268614",
+                                "originalJapaneseLine": "「うぐっ！？」",
+                                "translatedEnglishLine": "\"Ugh!?\""
+                            },
+                            {
+                                "lineNumber": "268615",
+                                "originalJapaneseLine": "「おろ？」",
+                                "translatedEnglishLine": "\"Huh?\""
+                            },
+                            {
+                                "lineNumber": "268616",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "268617",
+                                "originalJapaneseLine": "「なーにを変な顔してるんだ、お前は」",
+                                "translatedEnglishLine": "\"Why are you making such a weird face?\""
+                            },
+                            {
+                                "lineNumber": "268618",
+                                "originalJapaneseLine": "「い、いえ……",
+                                "translatedEnglishLine": "\"N-no...\""
+                            },
+                            {
+                                "lineNumber": "268619",
+                                "originalJapaneseLine": "　城内におばけがいらっしゃったので」",
+                                "translatedEnglishLine": "Because there was a ghost inside the castle.\""
+                            },
+                            {
+                                "lineNumber": "268620",
+                                "originalJapaneseLine": "「ん？」",
+                                "translatedEnglishLine": "\"Hm?\""
+                            },
+                            {
+                                "lineNumber": "268621",
+                                "originalJapaneseLine": "「ん〜〜〜〜？」",
+                                "translatedEnglishLine": "\"Hmm~~~~?\""
+                            },
+                            {
+                                "lineNumber": "268622",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "268623",
+                                "originalJapaneseLine": "「もしかして、おばけ苦手さん？」",
+                                "translatedEnglishLine": "\"Could it be you’re afraid of ghosts?\""
+                            },
+                            {
+                                "lineNumber": "268624",
+                                "originalJapaneseLine": "「……ッ！」",
+                                "translatedEnglishLine": "\"...!\""
+                            },
+                            {
+                                "lineNumber": "268625",
+                                "originalJapaneseLine": "「あ〜、そういえば、",
+                                "translatedEnglishLine": "\"Ah, now that you mention it,"
+                            },
+                            {
+                                "lineNumber": "268626",
+                                "originalJapaneseLine": "　そんな話を聞いたことがあるような、",
+                                "translatedEnglishLine": "I think I heard a story like that,"
+                            },
+                            {
+                                "lineNumber": "268627",
+                                "originalJapaneseLine": "　ないような……」",
+                                "translatedEnglishLine": "or maybe not...\""
+                            },
+                            {
+                                "lineNumber": "268628",
+                                "originalJapaneseLine": "「はあ……",
+                                "translatedEnglishLine": "\"Sigh...\""
+                            },
+                            {
+                                "lineNumber": "268629",
+                                "originalJapaneseLine": "　子供の頃からおばけやモンスターが",
+                                "translatedEnglishLine": "I've been no good with ghosts and monsters since I was a child..."
+                            },
+                            {
+                                "lineNumber": "268630",
+                                "originalJapaneseLine": "　駄目で……」",
+                                "translatedEnglishLine": "\"...not good at all.\""
+                            },
+                            {
+                                "lineNumber": "268631",
+                                "originalJapaneseLine": "「メットかぶってる間は",
+                                "translatedEnglishLine": "\"You were fine while wearing your helmet,"
+                            },
+                            {
+                                "lineNumber": "268632",
+                                "originalJapaneseLine": "　平気だった筈だろ」",
+                                "translatedEnglishLine": "so it should have been okay.\""
+                            },
+                            {
+                                "lineNumber": "268633",
+                                "originalJapaneseLine": "「はい……その、ですが……」",
+                                "translatedEnglishLine": "\"Yes... well, but...\""
+                            },
+                            {
+                                "lineNumber": "268634",
+                                "originalJapaneseLine": "「子供の頃に想像していた",
+                                "translatedEnglishLine": "\"It looked exactly like the scary ghost I imagined as a child..."
+                            },
+                            {
+                                "lineNumber": "268635",
+                                "originalJapaneseLine": "　怖いおばけのイメージそのままだったので……」",
+                                "translatedEnglishLine": "the image of a frightening ghost...\""
+                            },
+                            {
+                                "lineNumber": "268636",
+                                "originalJapaneseLine": "「……お前、貧困な想像力のガキだったんだな」",
+                                "translatedEnglishLine": "\"...You were a kid with a poor imagination, weren't you?\""
+                            },
+                            {
+                                "lineNumber": "268637",
+                                "originalJapaneseLine": "「誰の姿がベタなおばけでござるか」",
+                                "translatedEnglishLine": "\"Who exactly looks like a cliché ghost?\""
+                            },
+                            {
+                                "lineNumber": "268638",
+                                "originalJapaneseLine": "「なんにしても鈴女、",
+                                "translatedEnglishLine": "\"Anyway, Suzujo,"
+                            },
+                            {
+                                "lineNumber": "268639",
+                                "originalJapaneseLine": "　これでお前の姿に迷惑してる奴も",
+                                "translatedEnglishLine": "now you know there are people troubled by your form,"
+                            },
+                            {
+                                "lineNumber": "268640",
+                                "originalJapaneseLine": "　いると分かっただろう」",
+                                "translatedEnglishLine": "right?\""
+                            },
+                            {
+                                "lineNumber": "268641",
+                                "originalJapaneseLine": "「ま、そういうことなら、",
+                                "translatedEnglishLine": "\"Well, if that's the case,"
+                            },
+                            {
+                                "lineNumber": "268642",
+                                "originalJapaneseLine": "　人型になるでござるかねー」",
+                                "translatedEnglishLine": "perhaps you should change into a human form.\""
+                            },
+                            {
+                                "lineNumber": "268643",
+                                "originalJapaneseLine": "「とってんぱーの……",
+                                "translatedEnglishLine": "\"Tottenpaa...\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1725,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1980,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3705
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　秘密の取引現場を見てしまったので\",\"translatedEnglishLine\":\"Because we saw a secret deal taking place,\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　命を狙われる我々だ」\",\"translatedEnglishLine\":\"we are being targeted for assassination.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「いや、まったく」\",\"translatedEnglishLine\":\"\\\"No, not at all.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「……ふふ、まいったな」\",\"translatedEnglishLine\":\"\\\"...Hehe, I'm at a loss.\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「めっちゃ嬉しそうじゃないですか！？」\",\"translatedEnglishLine\":\"\\\"You look super happy, don't you!?\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「まあ、晩ご飯までには帰れるだろう」\",\"translatedEnglishLine\":\"\\\"Well, we'll probably be back by dinner.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「呑気！！！！」\",\"translatedEnglishLine\":\"\\\"So carefree!!!!\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「あっ、追っ手が来たでござるよ」\",\"translatedEnglishLine\":\"\\\"Ah, pursuers have come!\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「いーーーやーーー！？」\",\"translatedEnglishLine\":\"\\\"Noooo!?\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「にょほほほほほ。\",\"translatedEnglishLine\":\"\\\"Nyohohohoho.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　楽しいでござるねー」\",\"translatedEnglishLine\":\"This is so much fun!\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"鈴女はランス城での生活を満喫していた。\",\"translatedEnglishLine\":\"Suzujo was thoroughly enjoying life at Rance Castle.\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"城内を歩くランスの肩には、\",\"translatedEnglishLine\":\"On Rance's shoulder as he walked inside the castle,\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"いつものように鈴女が乗っていた。\",\"translatedEnglishLine\":\"as usual, Suzujo was perched.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"ただし、おばけの姿で。\",\"translatedEnglishLine\":\"However, in the form of a ghost.\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「にーんじゃなんだ♪　にーんじゃなんだ♪\",\"translatedEnglishLine\":\"\\\"I'm a ninja, you know♪ I'm a ninja, you know♪\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　にーんじゃなんだけれど♪」\",\"translatedEnglishLine\":\"I'm a ninja, after all♪\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「だ、け、ど、カーエルにはっ♪\",\"translatedEnglishLine\":\"\\\"Bu-t, for a frog♪\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　……おろ？」\",\"translatedEnglishLine\":\"...Huh?\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ランス、どうしたでござる？」\",\"translatedEnglishLine\":\"\\\"Rance, what's wrong?\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「お前、その餅お化けの姿禁止ー！」\",\"translatedEnglishLine\":\"\\\"You’re forbidden from being in that mochi ghost form!\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「えー」\",\"translatedEnglishLine\":\"\\\"Ehh?\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「色気もへったくれもないではないか。\",\"translatedEnglishLine\":\"\\\"There’s no charm or anything like that.\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　見ててつまらん」\",\"translatedEnglishLine\":\"It's boring to watch.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「でも、こっちの方が楽でござるからして」\",\"translatedEnglishLine\":\"\\\"But it's easier this way.\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「楽とかしんどいってあるのか？」\",\"translatedEnglishLine\":\"\\\"Is there really an 'easy' or 'hard' with that?\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「あるでござるよ」\",\"translatedEnglishLine\":\"\\\"There is.\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「それに誰に迷惑をかけるわけでなし」\",\"translatedEnglishLine\":\"\\\"Besides, it doesn’t bother anyone.\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「うぐっ！？」\",\"translatedEnglishLine\":\"\\\"Ugh!?\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「おろ？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「なーにを変な顔してるんだ、お前は」\",\"translatedEnglishLine\":\"\\\"Why are you making such a weird face?\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「い、いえ……\",\"translatedEnglishLine\":\"\\\"N-no...\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　城内におばけがいらっしゃったので」\",\"translatedEnglishLine\":\"Because there was a ghost inside the castle.\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「ん？」\",\"translatedEnglishLine\":\"\\\"Hm?\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「ん〜〜〜〜？」\",\"translatedEnglishLine\":\"\\\"Hmm~~~~?\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「もしかして、おばけ苦手さん？」\",\"translatedEnglishLine\":\"\\\"Could it be you’re afraid of ghosts?\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「……ッ！」\",\"translatedEnglishLine\":\"\\\"...!\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「あ〜、そういえば、\",\"translatedEnglishLine\":\"\\\"Ah, now that you mention it,\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　そんな話を聞いたことがあるような、\",\"translatedEnglishLine\":\"I think I heard a story like that,\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　ないような……」\",\"translatedEnglishLine\":\"or maybe not...\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"\\\"Sigh...\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　子供の頃からおばけやモンスターが\",\"translatedEnglishLine\":\"I've been no good with ghosts and monsters since I was a child...\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　駄目で……」\",\"translatedEnglishLine\":\"\\\"...not good at all.\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「メットかぶってる間は\",\"translatedEnglishLine\":\"\\\"You were fine while wearing your helmet,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　平気だった筈だろ」\",\"translatedEnglishLine\":\"so it should have been okay.\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「はい……その、ですが……」\",\"translatedEnglishLine\":\"\\\"Yes... well, but...\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「子供の頃に想像していた\",\"translatedEnglishLine\":\"\\\"It looked exactly like the scary ghost I imagined as a child...\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　怖いおばけのイメージそのままだったので……」\",\"translatedEnglishLine\":\"the image of a frightening ghost...\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「……お前、貧困な想像力のガキだったんだな」\",\"translatedEnglishLine\":\"\\\"...You were a kid with a poor imagination, weren't you?\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「誰の姿がベタなおばけでござるか」\",\"translatedEnglishLine\":\"\\\"Who exactly looks like a cliché ghost?\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「なんにしても鈴女、\",\"translatedEnglishLine\":\"\\\"Anyway, Suzujo,\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　これでお前の姿に迷惑してる奴も\",\"translatedEnglishLine\":\"now you know there are people troubled by your form,\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　いると分かっただろう」\",\"translatedEnglishLine\":\"right?\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「ま、そういうことなら、\",\"translatedEnglishLine\":\"\\\"Well, if that's the case,\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　人型になるでござるかねー」\",\"translatedEnglishLine\":\"perhaps you should change into a human form.\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「とってんぱーの……\",\"translatedEnglishLine\":\"\\\"Tottenpaa...\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "268584",
+                "originalJapaneseLine": "　秘密の取引現場を見てしまったので",
+                "translatedEnglishLine": "Because we saw a secret deal taking place,"
+            },
+            {
+                "lineNumber": "268585",
+                "originalJapaneseLine": "　命を狙われる我々だ」",
+                "translatedEnglishLine": "we are being targeted for assassination."
+            },
+            {
+                "lineNumber": "268586",
+                "originalJapaneseLine": "「いや、まったく」",
+                "translatedEnglishLine": "\"No, not at all.\""
+            },
+            {
+                "lineNumber": "268587",
+                "originalJapaneseLine": "「……ふふ、まいったな」",
+                "translatedEnglishLine": "\"...Hehe, I'm at a loss.\""
+            },
+            {
+                "lineNumber": "268588",
+                "originalJapaneseLine": "「めっちゃ嬉しそうじゃないですか！？」",
+                "translatedEnglishLine": "\"You look super happy, don't you!?\""
+            },
+            {
+                "lineNumber": "268589",
+                "originalJapaneseLine": "「まあ、晩ご飯までには帰れるだろう」",
+                "translatedEnglishLine": "\"Well, we'll probably be back by dinner.\""
+            },
+            {
+                "lineNumber": "268590",
+                "originalJapaneseLine": "「呑気！！！！」",
+                "translatedEnglishLine": "\"So carefree!!!!\""
+            },
+            {
+                "lineNumber": "268591",
+                "originalJapaneseLine": "「あっ、追っ手が来たでござるよ」",
+                "translatedEnglishLine": "\"Ah, pursuers have come!\""
+            },
+            {
+                "lineNumber": "268592",
+                "originalJapaneseLine": "「いーーーやーーー！？」",
+                "translatedEnglishLine": "\"Noooo!?\""
+            },
+            {
+                "lineNumber": "268593",
+                "originalJapaneseLine": "「にょほほほほほ。",
+                "translatedEnglishLine": "\"Nyohohohoho."
+            },
+            {
+                "lineNumber": "268594",
+                "originalJapaneseLine": "　楽しいでござるねー」",
+                "translatedEnglishLine": "This is so much fun!\""
+            },
+            {
+                "lineNumber": "268595",
+                "originalJapaneseLine": "鈴女はランス城での生活を満喫していた。",
+                "translatedEnglishLine": "Suzujo was thoroughly enjoying life at Rance Castle."
+            },
+            {
+                "lineNumber": "268596",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "268597",
+                "originalJapaneseLine": "城内を歩くランスの肩には、",
+                "translatedEnglishLine": "On Rance's shoulder as he walked inside the castle,"
+            },
+            {
+                "lineNumber": "268598",
+                "originalJapaneseLine": "いつものように鈴女が乗っていた。",
+                "translatedEnglishLine": "as usual, Suzujo was perched."
+            },
+            {
+                "lineNumber": "268599",
+                "originalJapaneseLine": "ただし、おばけの姿で。",
+                "translatedEnglishLine": "However, in the form of a ghost."
+            },
+            {
+                "lineNumber": "268600",
+                "originalJapaneseLine": "「にーんじゃなんだ♪　にーんじゃなんだ♪",
+                "translatedEnglishLine": "\"I'm a ninja, you know♪ I'm a ninja, you know♪"
+            },
+            {
+                "lineNumber": "268601",
+                "originalJapaneseLine": "　にーんじゃなんだけれど♪」",
+                "translatedEnglishLine": "I'm a ninja, after all♪\""
+            },
+            {
+                "lineNumber": "268602",
+                "originalJapaneseLine": "「だ、け、ど、カーエルにはっ♪",
+                "translatedEnglishLine": "\"Bu-t, for a frog♪"
+            },
+            {
+                "lineNumber": "268603",
+                "originalJapaneseLine": "　……おろ？」",
+                "translatedEnglishLine": "...Huh?\""
+            },
+            {
+                "lineNumber": "268604",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "268605",
+                "originalJapaneseLine": "「ランス、どうしたでござる？」",
+                "translatedEnglishLine": "\"Rance, what's wrong?\""
+            },
+            {
+                "lineNumber": "268606",
+                "originalJapaneseLine": "「お前、その餅お化けの姿禁止ー！」",
+                "translatedEnglishLine": "\"You’re forbidden from being in that mochi ghost form!\""
+            },
+            {
+                "lineNumber": "268607",
+                "originalJapaneseLine": "「えー」",
+                "translatedEnglishLine": "\"Ehh?\""
+            },
+            {
+                "lineNumber": "268608",
+                "originalJapaneseLine": "「色気もへったくれもないではないか。",
+                "translatedEnglishLine": "\"There’s no charm or anything like that."
+            },
+            {
+                "lineNumber": "268609",
+                "originalJapaneseLine": "　見ててつまらん」",
+                "translatedEnglishLine": "It's boring to watch.\""
+            },
+            {
+                "lineNumber": "268610",
+                "originalJapaneseLine": "「でも、こっちの方が楽でござるからして」",
+                "translatedEnglishLine": "\"But it's easier this way.\""
+            },
+            {
+                "lineNumber": "268611",
+                "originalJapaneseLine": "「楽とかしんどいってあるのか？」",
+                "translatedEnglishLine": "\"Is there really an 'easy' or 'hard' with that?\""
+            },
+            {
+                "lineNumber": "268612",
+                "originalJapaneseLine": "「あるでござるよ」",
+                "translatedEnglishLine": "\"There is.\""
+            },
+            {
+                "lineNumber": "268613",
+                "originalJapaneseLine": "「それに誰に迷惑をかけるわけでなし」",
+                "translatedEnglishLine": "\"Besides, it doesn’t bother anyone.\""
+            },
+            {
+                "lineNumber": "268614",
+                "originalJapaneseLine": "「うぐっ！？」",
+                "translatedEnglishLine": "\"Ugh!?\""
+            },
+            {
+                "lineNumber": "268615",
+                "originalJapaneseLine": "「おろ？」",
+                "translatedEnglishLine": "\"Huh?\""
+            },
+            {
+                "lineNumber": "268616",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "268617",
+                "originalJapaneseLine": "「なーにを変な顔してるんだ、お前は」",
+                "translatedEnglishLine": "\"Why are you making such a weird face?\""
+            },
+            {
+                "lineNumber": "268618",
+                "originalJapaneseLine": "「い、いえ……",
+                "translatedEnglishLine": "\"N-no...\""
+            },
+            {
+                "lineNumber": "268619",
+                "originalJapaneseLine": "　城内におばけがいらっしゃったので」",
+                "translatedEnglishLine": "Because there was a ghost inside the castle.\""
+            },
+            {
+                "lineNumber": "268620",
+                "originalJapaneseLine": "「ん？」",
+                "translatedEnglishLine": "\"Hm?\""
+            },
+            {
+                "lineNumber": "268621",
+                "originalJapaneseLine": "「ん〜〜〜〜？」",
+                "translatedEnglishLine": "\"Hmm~~~~?\""
+            },
+            {
+                "lineNumber": "268622",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "268623",
+                "originalJapaneseLine": "「もしかして、おばけ苦手さん？」",
+                "translatedEnglishLine": "\"Could it be you’re afraid of ghosts?\""
+            },
+            {
+                "lineNumber": "268624",
+                "originalJapaneseLine": "「……ッ！」",
+                "translatedEnglishLine": "\"...!\""
+            },
+            {
+                "lineNumber": "268625",
+                "originalJapaneseLine": "「あ〜、そういえば、",
+                "translatedEnglishLine": "\"Ah, now that you mention it,"
+            },
+            {
+                "lineNumber": "268626",
+                "originalJapaneseLine": "　そんな話を聞いたことがあるような、",
+                "translatedEnglishLine": "I think I heard a story like that,"
+            },
+            {
+                "lineNumber": "268627",
+                "originalJapaneseLine": "　ないような……」",
+                "translatedEnglishLine": "or maybe not...\""
+            },
+            {
+                "lineNumber": "268628",
+                "originalJapaneseLine": "「はあ……",
+                "translatedEnglishLine": "\"Sigh...\""
+            },
+            {
+                "lineNumber": "268629",
+                "originalJapaneseLine": "　子供の頃からおばけやモンスターが",
+                "translatedEnglishLine": "I've been no good with ghosts and monsters since I was a child..."
+            },
+            {
+                "lineNumber": "268630",
+                "originalJapaneseLine": "　駄目で……」",
+                "translatedEnglishLine": "\"...not good at all.\""
+            },
+            {
+                "lineNumber": "268631",
+                "originalJapaneseLine": "「メットかぶってる間は",
+                "translatedEnglishLine": "\"You were fine while wearing your helmet,"
+            },
+            {
+                "lineNumber": "268632",
+                "originalJapaneseLine": "　平気だった筈だろ」",
+                "translatedEnglishLine": "so it should have been okay.\""
+            },
+            {
+                "lineNumber": "268633",
+                "originalJapaneseLine": "「はい……その、ですが……」",
+                "translatedEnglishLine": "\"Yes... well, but...\""
+            },
+            {
+                "lineNumber": "268634",
+                "originalJapaneseLine": "「子供の頃に想像していた",
+                "translatedEnglishLine": "\"It looked exactly like the scary ghost I imagined as a child..."
+            },
+            {
+                "lineNumber": "268635",
+                "originalJapaneseLine": "　怖いおばけのイメージそのままだったので……」",
+                "translatedEnglishLine": "the image of a frightening ghost...\""
+            },
+            {
+                "lineNumber": "268636",
+                "originalJapaneseLine": "「……お前、貧困な想像力のガキだったんだな」",
+                "translatedEnglishLine": "\"...You were a kid with a poor imagination, weren't you?\""
+            },
+            {
+                "lineNumber": "268637",
+                "originalJapaneseLine": "「誰の姿がベタなおばけでござるか」",
+                "translatedEnglishLine": "\"Who exactly looks like a cliché ghost?\""
+            },
+            {
+                "lineNumber": "268638",
+                "originalJapaneseLine": "「なんにしても鈴女、",
+                "translatedEnglishLine": "\"Anyway, Suzujo,"
+            },
+            {
+                "lineNumber": "268639",
+                "originalJapaneseLine": "　これでお前の姿に迷惑してる奴も",
+                "translatedEnglishLine": "now you know there are people troubled by your form,"
+            },
+            {
+                "lineNumber": "268640",
+                "originalJapaneseLine": "　いると分かっただろう」",
+                "translatedEnglishLine": "right?\""
+            },
+            {
+                "lineNumber": "268641",
+                "originalJapaneseLine": "「ま、そういうことなら、",
+                "translatedEnglishLine": "\"Well, if that's the case,"
+            },
+            {
+                "lineNumber": "268642",
+                "originalJapaneseLine": "　人型になるでござるかねー」",
+                "translatedEnglishLine": "perhaps you should change into a human form.\""
+            },
+            {
+                "lineNumber": "268643",
+                "originalJapaneseLine": "「とってんぱーの……",
+                "translatedEnglishLine": "\"Tottenpaa...\""
+            }
+        ]
+    }
+}

@@ -1,0 +1,719 @@
+{
+    "id": "resp_099b2e5014b222a90068ffebd1b58081939692e1c0a7871ef1",
+    "object": "response",
+    "created_at": 1761602513,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_099b2e5014b222a90068ffebd243dc819381ae69e56b7063e3",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"セスナはとっても眠そうに、\",\"translatedEnglishLine\":\"Sesna looked very sleepy,\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"お目々をこしこし、のんびりと現れた。\",\"translatedEnglishLine\":\"rubbing her eyes, she appeared leisurely.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「完っっっ全に、いつものセスナだ……」\",\"translatedEnglishLine\":\"\\\"Completely, just like the usual Sesna...\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「おい、どうなってる！？\",\"translatedEnglishLine\":\"\\\"Hey, what's going on!?\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　もう眠らないんじゃなかったのか！？」\",\"translatedEnglishLine\":\"\\\"Weren't you supposed to not sleep anymore!?\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「あ〜……それなんです、が……」\",\"translatedEnglishLine\":\"\\\"Ah... about that...\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「多分、魔人ワーグのおかげで……\",\"translatedEnglishLine\":\"\\\"Probably, thanks to the demon Warg...\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　また眠れるように……なりました、よ？」\",\"translatedEnglishLine\":\"I've become able to sleep again, you know?\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「なんだとぉ！？」\",\"translatedEnglishLine\":\"\\\"What!?\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「……隊長、一つ……いい？」\",\"translatedEnglishLine\":\"\\\"...Captain, may I ask something?\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「……なんだ」\",\"translatedEnglishLine\":\"\\\"...What is it?\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「眠れるって……\",\"translatedEnglishLine\":\"\\\"Being able to sleep...\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　いいね」\",\"translatedEnglishLine\":\"That's a good thing.\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"グッと、セスナは力強く親指を立て――\",\"translatedEnglishLine\":\"Firmly, Sesna gave a strong thumbs up—\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"寝た。\",\"translatedEnglishLine\":\"and fell asleep.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「このアホーーー！」\",\"translatedEnglishLine\":\"\\\"You idiot!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「ぐうーーーーーーー……」\",\"translatedEnglishLine\":\"\\\"Guuuuuu...\\\" (snoring sound)\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「おうのう……駄目だ、完全に寝てやがる……」\",\"translatedEnglishLine\":\"\\\"Oh no... no good, she's completely asleep...\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「うう……\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　ランス様、どうなさいますか？」\",\"translatedEnglishLine\":\"Sir Rance, what will you do?\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「どうもこうもあるか！\",\"translatedEnglishLine\":\"\\\"There's no other choice!\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　ここまで来た以上戦う以外の選択はなーい！」\",\"translatedEnglishLine\":\"Since we've come this far, there's no choice but to fight!\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"どさっ。\",\"translatedEnglishLine\":\"Thud.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"その時、また誰かが眠り、倒れた。\",\"translatedEnglishLine\":\"At that moment, someone else fell asleep and collapsed.\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「ぐっ……」\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「ええい、いいから行くぞー！\",\"translatedEnglishLine\":\"\\\"Damn it, let's just go!\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　ワーグなんてぱこーんと倒してくれるわー！」\",\"translatedEnglishLine\":\"We'll knock out Warg with a single blow!\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"サイゼルとハウゼルの部屋で、\",\"translatedEnglishLine\":\"In Saizel and Howzel's room,\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"ランスが笑っていた。\",\"translatedEnglishLine\":\"Rance was laughing.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「がはははははは！\",\"translatedEnglishLine\":\"\\\"Gahahahaha!\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　あー、すっきりー！」\",\"translatedEnglishLine\":\"Ahh, feeling refreshed!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"ベッドには汗にまみれた\",\"translatedEnglishLine\":\"On the bed lay both Saizel and Howzel, drenched in sweat,\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"サイゼルとハウゼルが\",\"translatedEnglishLine\":\"Saizel and Howzel\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"息も絶え絶えで倒れている。\",\"translatedEnglishLine\":\"collapsed, breathless.\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「う、くうっ……\",\"translatedEnglishLine\":\"\\\"Ugh, kuh...\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　毎日、毎日、襲われて……\",\"translatedEnglishLine\":\"Every day, every day, being attacked...\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　もう最悪、ぐっすん……」\",\"translatedEnglishLine\":\"It's just the worst, sniff...\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「うう……\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　サイゼル、大丈夫だった？」\",\"translatedEnglishLine\":\"Saizel, are you okay?\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「う、うん……大丈夫……\",\"translatedEnglishLine\":\"\\\"Y-Yeah... I'm okay...\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　それより、ハウゼルは？」\",\"translatedEnglishLine\":\"More importantly, how about Howzel?\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「あっ……\",\"translatedEnglishLine\":\"\\\"Ah...\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　うん、私も平気……」\",\"translatedEnglishLine\":\"Y-yeah, I'm fine too...\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ふふ、本当……？」\",\"translatedEnglishLine\":\"\\\"Hehe, really...?\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"半ばレイプのようにランスに襲われ、\",\"translatedEnglishLine\":\"Having been assaulted by Rance almost like rape,\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"それでも最愛の妹であるハウゼルに心配されれば、\",\"translatedEnglishLine\":\"even so, being worried over by her beloved little sister Howzel,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"心の中のもやが一気に晴れるのをサイゼルは感じた。\",\"translatedEnglishLine\":\"Saizel felt the haze in her heart suddenly clear away.\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"最近はランスによく襲われる為、\",\"translatedEnglishLine\":\"Lately, because Rance attacked them frequently,\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"二人で喧嘩する余裕すらなかった。\",\"translatedEnglishLine\":\"they didn't even have the energy to quarrel between themselves.\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"互いに心配しあい、互いに笑い合う。\",\"translatedEnglishLine\":\"They worried for each other, and laughed together.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"穏やかな日々が続いていた。\",\"translatedEnglishLine\":\"Peaceful days continued.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"最愛の人と心が通じ合う喜び、\",\"translatedEnglishLine\":\"The joy of hearts connecting with a beloved person,\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"互いにそれだけを感じられていた。\",\"translatedEnglishLine\":\"They could feel nothing but that.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"そして、二人の唇がゆっくりと近づき、\",\"translatedEnglishLine\":\"Then, their lips slowly drew closer,\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"キスを交わす。\",\"translatedEnglishLine\":\"and they exchanged a kiss.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"こうしている間だけは、\",\"translatedEnglishLine\":\"Only while they were like this,\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"世界から色も音も消え失せる。\",\"translatedEnglishLine\":\"all color and sound disappeared from the world.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"そして、相手のことすら。\",\"translatedEnglishLine\":\"And even thoughts of anyone else.\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "267864",
+                                "originalJapaneseLine": "セスナはとっても眠そうに、",
+                                "translatedEnglishLine": "Sesna looked very sleepy,"
+                            },
+                            {
+                                "lineNumber": "267865",
+                                "originalJapaneseLine": "お目々をこしこし、のんびりと現れた。",
+                                "translatedEnglishLine": "rubbing her eyes, she appeared leisurely."
+                            },
+                            {
+                                "lineNumber": "267866",
+                                "originalJapaneseLine": "「完っっっ全に、いつものセスナだ……」",
+                                "translatedEnglishLine": "\"Completely, just like the usual Sesna...\""
+                            },
+                            {
+                                "lineNumber": "267867",
+                                "originalJapaneseLine": "「おい、どうなってる！？",
+                                "translatedEnglishLine": "\"Hey, what's going on!?\""
+                            },
+                            {
+                                "lineNumber": "267868",
+                                "originalJapaneseLine": "　もう眠らないんじゃなかったのか！？」",
+                                "translatedEnglishLine": "\"Weren't you supposed to not sleep anymore!?\""
+                            },
+                            {
+                                "lineNumber": "267869",
+                                "originalJapaneseLine": "「あ〜……それなんです、が……」",
+                                "translatedEnglishLine": "\"Ah... about that...\""
+                            },
+                            {
+                                "lineNumber": "267870",
+                                "originalJapaneseLine": "「多分、魔人ワーグのおかげで……",
+                                "translatedEnglishLine": "\"Probably, thanks to the demon Warg..."
+                            },
+                            {
+                                "lineNumber": "267871",
+                                "originalJapaneseLine": "　また眠れるように……なりました、よ？」",
+                                "translatedEnglishLine": "I've become able to sleep again, you know?\""
+                            },
+                            {
+                                "lineNumber": "267872",
+                                "originalJapaneseLine": "「なんだとぉ！？」",
+                                "translatedEnglishLine": "\"What!?\""
+                            },
+                            {
+                                "lineNumber": "267873",
+                                "originalJapaneseLine": "「……隊長、一つ……いい？」",
+                                "translatedEnglishLine": "\"...Captain, may I ask something?\""
+                            },
+                            {
+                                "lineNumber": "267874",
+                                "originalJapaneseLine": "「……なんだ」",
+                                "translatedEnglishLine": "\"...What is it?\""
+                            },
+                            {
+                                "lineNumber": "267875",
+                                "originalJapaneseLine": "「眠れるって……",
+                                "translatedEnglishLine": "\"Being able to sleep..."
+                            },
+                            {
+                                "lineNumber": "267876",
+                                "originalJapaneseLine": "　いいね」",
+                                "translatedEnglishLine": "That's a good thing.\""
+                            },
+                            {
+                                "lineNumber": "267877",
+                                "originalJapaneseLine": "グッと、セスナは力強く親指を立て――",
+                                "translatedEnglishLine": "Firmly, Sesna gave a strong thumbs up—"
+                            },
+                            {
+                                "lineNumber": "267878",
+                                "originalJapaneseLine": "寝た。",
+                                "translatedEnglishLine": "and fell asleep."
+                            },
+                            {
+                                "lineNumber": "267879",
+                                "originalJapaneseLine": "「このアホーーー！」",
+                                "translatedEnglishLine": "\"You idiot!\""
+                            },
+                            {
+                                "lineNumber": "267880",
+                                "originalJapaneseLine": "「ぐうーーーーーーー……」",
+                                "translatedEnglishLine": "\"Guuuuuu...\" (snoring sound)"
+                            },
+                            {
+                                "lineNumber": "267881",
+                                "originalJapaneseLine": "「おうのう……駄目だ、完全に寝てやがる……」",
+                                "translatedEnglishLine": "\"Oh no... no good, she's completely asleep...\""
+                            },
+                            {
+                                "lineNumber": "267882",
+                                "originalJapaneseLine": "「うう……",
+                                "translatedEnglishLine": "\"Ugh...\""
+                            },
+                            {
+                                "lineNumber": "267883",
+                                "originalJapaneseLine": "　ランス様、どうなさいますか？」",
+                                "translatedEnglishLine": "Sir Rance, what will you do?\""
+                            },
+                            {
+                                "lineNumber": "267884",
+                                "originalJapaneseLine": "「どうもこうもあるか！",
+                                "translatedEnglishLine": "\"There's no other choice!"
+                            },
+                            {
+                                "lineNumber": "267885",
+                                "originalJapaneseLine": "　ここまで来た以上戦う以外の選択はなーい！」",
+                                "translatedEnglishLine": "Since we've come this far, there's no choice but to fight!\""
+                            },
+                            {
+                                "lineNumber": "267886",
+                                "originalJapaneseLine": "どさっ。",
+                                "translatedEnglishLine": "Thud."
+                            },
+                            {
+                                "lineNumber": "267887",
+                                "originalJapaneseLine": "その時、また誰かが眠り、倒れた。",
+                                "translatedEnglishLine": "At that moment, someone else fell asleep and collapsed."
+                            },
+                            {
+                                "lineNumber": "267888",
+                                "originalJapaneseLine": "「ぐっ……」",
+                                "translatedEnglishLine": "\"Ugh...\""
+                            },
+                            {
+                                "lineNumber": "267889",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "267890",
+                                "originalJapaneseLine": "「ええい、いいから行くぞー！",
+                                "translatedEnglishLine": "\"Damn it, let's just go!"
+                            },
+                            {
+                                "lineNumber": "267891",
+                                "originalJapaneseLine": "　ワーグなんてぱこーんと倒してくれるわー！」",
+                                "translatedEnglishLine": "We'll knock out Warg with a single blow!\""
+                            },
+                            {
+                                "lineNumber": "267892",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "267893",
+                                "originalJapaneseLine": "サイゼルとハウゼルの部屋で、",
+                                "translatedEnglishLine": "In Saizel and Howzel's room,"
+                            },
+                            {
+                                "lineNumber": "267894",
+                                "originalJapaneseLine": "ランスが笑っていた。",
+                                "translatedEnglishLine": "Rance was laughing."
+                            },
+                            {
+                                "lineNumber": "267895",
+                                "originalJapaneseLine": "「がはははははは！",
+                                "translatedEnglishLine": "\"Gahahahaha!"
+                            },
+                            {
+                                "lineNumber": "267896",
+                                "originalJapaneseLine": "　あー、すっきりー！」",
+                                "translatedEnglishLine": "Ahh, feeling refreshed!\""
+                            },
+                            {
+                                "lineNumber": "267897",
+                                "originalJapaneseLine": "ベッドには汗にまみれた",
+                                "translatedEnglishLine": "On the bed lay both Saizel and Howzel, drenched in sweat,"
+                            },
+                            {
+                                "lineNumber": "267898",
+                                "originalJapaneseLine": "サイゼルとハウゼルが",
+                                "translatedEnglishLine": "Saizel and Howzel"
+                            },
+                            {
+                                "lineNumber": "267899",
+                                "originalJapaneseLine": "息も絶え絶えで倒れている。",
+                                "translatedEnglishLine": "collapsed, breathless."
+                            },
+                            {
+                                "lineNumber": "267900",
+                                "originalJapaneseLine": "「う、くうっ……",
+                                "translatedEnglishLine": "\"Ugh, kuh...\""
+                            },
+                            {
+                                "lineNumber": "267901",
+                                "originalJapaneseLine": "　毎日、毎日、襲われて……",
+                                "translatedEnglishLine": "Every day, every day, being attacked..."
+                            },
+                            {
+                                "lineNumber": "267902",
+                                "originalJapaneseLine": "　もう最悪、ぐっすん……」",
+                                "translatedEnglishLine": "It's just the worst, sniff...\""
+                            },
+                            {
+                                "lineNumber": "267903",
+                                "originalJapaneseLine": "「うう……",
+                                "translatedEnglishLine": "\"Ugh...\""
+                            },
+                            {
+                                "lineNumber": "267904",
+                                "originalJapaneseLine": "　サイゼル、大丈夫だった？」",
+                                "translatedEnglishLine": "Saizel, are you okay?\""
+                            },
+                            {
+                                "lineNumber": "267905",
+                                "originalJapaneseLine": "「う、うん……大丈夫……",
+                                "translatedEnglishLine": "\"Y-Yeah... I'm okay..."
+                            },
+                            {
+                                "lineNumber": "267906",
+                                "originalJapaneseLine": "　それより、ハウゼルは？」",
+                                "translatedEnglishLine": "More importantly, how about Howzel?\""
+                            },
+                            {
+                                "lineNumber": "267907",
+                                "originalJapaneseLine": "「あっ……",
+                                "translatedEnglishLine": "\"Ah..."
+                            },
+                            {
+                                "lineNumber": "267908",
+                                "originalJapaneseLine": "　うん、私も平気……」",
+                                "translatedEnglishLine": "Y-yeah, I'm fine too...\""
+                            },
+                            {
+                                "lineNumber": "267909",
+                                "originalJapaneseLine": "「ふふ、本当……？」",
+                                "translatedEnglishLine": "\"Hehe, really...?\""
+                            },
+                            {
+                                "lineNumber": "267910",
+                                "originalJapaneseLine": "半ばレイプのようにランスに襲われ、",
+                                "translatedEnglishLine": "Having been assaulted by Rance almost like rape,"
+                            },
+                            {
+                                "lineNumber": "267911",
+                                "originalJapaneseLine": "それでも最愛の妹であるハウゼルに心配されれば、",
+                                "translatedEnglishLine": "even so, being worried over by her beloved little sister Howzel,"
+                            },
+                            {
+                                "lineNumber": "267912",
+                                "originalJapaneseLine": "心の中のもやが一気に晴れるのをサイゼルは感じた。",
+                                "translatedEnglishLine": "Saizel felt the haze in her heart suddenly clear away."
+                            },
+                            {
+                                "lineNumber": "267913",
+                                "originalJapaneseLine": "最近はランスによく襲われる為、",
+                                "translatedEnglishLine": "Lately, because Rance attacked them frequently,"
+                            },
+                            {
+                                "lineNumber": "267914",
+                                "originalJapaneseLine": "二人で喧嘩する余裕すらなかった。",
+                                "translatedEnglishLine": "they didn't even have the energy to quarrel between themselves."
+                            },
+                            {
+                                "lineNumber": "267915",
+                                "originalJapaneseLine": "互いに心配しあい、互いに笑い合う。",
+                                "translatedEnglishLine": "They worried for each other, and laughed together."
+                            },
+                            {
+                                "lineNumber": "267916",
+                                "originalJapaneseLine": "穏やかな日々が続いていた。",
+                                "translatedEnglishLine": "Peaceful days continued."
+                            },
+                            {
+                                "lineNumber": "267917",
+                                "originalJapaneseLine": "最愛の人と心が通じ合う喜び、",
+                                "translatedEnglishLine": "The joy of hearts connecting with a beloved person,"
+                            },
+                            {
+                                "lineNumber": "267918",
+                                "originalJapaneseLine": "互いにそれだけを感じられていた。",
+                                "translatedEnglishLine": "They could feel nothing but that."
+                            },
+                            {
+                                "lineNumber": "267919",
+                                "originalJapaneseLine": "そして、二人の唇がゆっくりと近づき、",
+                                "translatedEnglishLine": "Then, their lips slowly drew closer,"
+                            },
+                            {
+                                "lineNumber": "267920",
+                                "originalJapaneseLine": "キスを交わす。",
+                                "translatedEnglishLine": "and they exchanged a kiss."
+                            },
+                            {
+                                "lineNumber": "267921",
+                                "originalJapaneseLine": "こうしている間だけは、",
+                                "translatedEnglishLine": "Only while they were like this,"
+                            },
+                            {
+                                "lineNumber": "267922",
+                                "originalJapaneseLine": "世界から色も音も消え失せる。",
+                                "translatedEnglishLine": "all color and sound disappeared from the world."
+                            },
+                            {
+                                "lineNumber": "267923",
+                                "originalJapaneseLine": "そして、相手のことすら。",
+                                "translatedEnglishLine": "And even thoughts of anyone else."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1759,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2025,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3784
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"セスナはとっても眠そうに、\",\"translatedEnglishLine\":\"Sesna looked very sleepy,\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"お目々をこしこし、のんびりと現れた。\",\"translatedEnglishLine\":\"rubbing her eyes, she appeared leisurely.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「完っっっ全に、いつものセスナだ……」\",\"translatedEnglishLine\":\"\\\"Completely, just like the usual Sesna...\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「おい、どうなってる！？\",\"translatedEnglishLine\":\"\\\"Hey, what's going on!?\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　もう眠らないんじゃなかったのか！？」\",\"translatedEnglishLine\":\"\\\"Weren't you supposed to not sleep anymore!?\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「あ〜……それなんです、が……」\",\"translatedEnglishLine\":\"\\\"Ah... about that...\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「多分、魔人ワーグのおかげで……\",\"translatedEnglishLine\":\"\\\"Probably, thanks to the demon Warg...\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　また眠れるように……なりました、よ？」\",\"translatedEnglishLine\":\"I've become able to sleep again, you know?\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「なんだとぉ！？」\",\"translatedEnglishLine\":\"\\\"What!?\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「……隊長、一つ……いい？」\",\"translatedEnglishLine\":\"\\\"...Captain, may I ask something?\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「……なんだ」\",\"translatedEnglishLine\":\"\\\"...What is it?\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「眠れるって……\",\"translatedEnglishLine\":\"\\\"Being able to sleep...\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　いいね」\",\"translatedEnglishLine\":\"That's a good thing.\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"グッと、セスナは力強く親指を立て――\",\"translatedEnglishLine\":\"Firmly, Sesna gave a strong thumbs up—\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"寝た。\",\"translatedEnglishLine\":\"and fell asleep.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「このアホーーー！」\",\"translatedEnglishLine\":\"\\\"You idiot!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「ぐうーーーーーーー……」\",\"translatedEnglishLine\":\"\\\"Guuuuuu...\\\" (snoring sound)\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「おうのう……駄目だ、完全に寝てやがる……」\",\"translatedEnglishLine\":\"\\\"Oh no... no good, she's completely asleep...\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「うう……\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　ランス様、どうなさいますか？」\",\"translatedEnglishLine\":\"Sir Rance, what will you do?\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「どうもこうもあるか！\",\"translatedEnglishLine\":\"\\\"There's no other choice!\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　ここまで来た以上戦う以外の選択はなーい！」\",\"translatedEnglishLine\":\"Since we've come this far, there's no choice but to fight!\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"どさっ。\",\"translatedEnglishLine\":\"Thud.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"その時、また誰かが眠り、倒れた。\",\"translatedEnglishLine\":\"At that moment, someone else fell asleep and collapsed.\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「ぐっ……」\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「ええい、いいから行くぞー！\",\"translatedEnglishLine\":\"\\\"Damn it, let's just go!\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　ワーグなんてぱこーんと倒してくれるわー！」\",\"translatedEnglishLine\":\"We'll knock out Warg with a single blow!\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"サイゼルとハウゼルの部屋で、\",\"translatedEnglishLine\":\"In Saizel and Howzel's room,\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"ランスが笑っていた。\",\"translatedEnglishLine\":\"Rance was laughing.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「がはははははは！\",\"translatedEnglishLine\":\"\\\"Gahahahaha!\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　あー、すっきりー！」\",\"translatedEnglishLine\":\"Ahh, feeling refreshed!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"ベッドには汗にまみれた\",\"translatedEnglishLine\":\"On the bed lay both Saizel and Howzel, drenched in sweat,\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"サイゼルとハウゼルが\",\"translatedEnglishLine\":\"Saizel and Howzel\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"息も絶え絶えで倒れている。\",\"translatedEnglishLine\":\"collapsed, breathless.\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「う、くうっ……\",\"translatedEnglishLine\":\"\\\"Ugh, kuh...\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　毎日、毎日、襲われて……\",\"translatedEnglishLine\":\"Every day, every day, being attacked...\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　もう最悪、ぐっすん……」\",\"translatedEnglishLine\":\"It's just the worst, sniff...\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「うう……\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　サイゼル、大丈夫だった？」\",\"translatedEnglishLine\":\"Saizel, are you okay?\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「う、うん……大丈夫……\",\"translatedEnglishLine\":\"\\\"Y-Yeah... I'm okay...\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　それより、ハウゼルは？」\",\"translatedEnglishLine\":\"More importantly, how about Howzel?\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「あっ……\",\"translatedEnglishLine\":\"\\\"Ah...\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　うん、私も平気……」\",\"translatedEnglishLine\":\"Y-yeah, I'm fine too...\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ふふ、本当……？」\",\"translatedEnglishLine\":\"\\\"Hehe, really...?\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"半ばレイプのようにランスに襲われ、\",\"translatedEnglishLine\":\"Having been assaulted by Rance almost like rape,\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"それでも最愛の妹であるハウゼルに心配されれば、\",\"translatedEnglishLine\":\"even so, being worried over by her beloved little sister Howzel,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"心の中のもやが一気に晴れるのをサイゼルは感じた。\",\"translatedEnglishLine\":\"Saizel felt the haze in her heart suddenly clear away.\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"最近はランスによく襲われる為、\",\"translatedEnglishLine\":\"Lately, because Rance attacked them frequently,\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"二人で喧嘩する余裕すらなかった。\",\"translatedEnglishLine\":\"they didn't even have the energy to quarrel between themselves.\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"互いに心配しあい、互いに笑い合う。\",\"translatedEnglishLine\":\"They worried for each other, and laughed together.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"穏やかな日々が続いていた。\",\"translatedEnglishLine\":\"Peaceful days continued.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"最愛の人と心が通じ合う喜び、\",\"translatedEnglishLine\":\"The joy of hearts connecting with a beloved person,\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"互いにそれだけを感じられていた。\",\"translatedEnglishLine\":\"They could feel nothing but that.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"そして、二人の唇がゆっくりと近づき、\",\"translatedEnglishLine\":\"Then, their lips slowly drew closer,\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"キスを交わす。\",\"translatedEnglishLine\":\"and they exchanged a kiss.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"こうしている間だけは、\",\"translatedEnglishLine\":\"Only while they were like this,\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"世界から色も音も消え失せる。\",\"translatedEnglishLine\":\"all color and sound disappeared from the world.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"そして、相手のことすら。\",\"translatedEnglishLine\":\"And even thoughts of anyone else.\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "267864",
+                "originalJapaneseLine": "セスナはとっても眠そうに、",
+                "translatedEnglishLine": "Sesna looked very sleepy,"
+            },
+            {
+                "lineNumber": "267865",
+                "originalJapaneseLine": "お目々をこしこし、のんびりと現れた。",
+                "translatedEnglishLine": "rubbing her eyes, she appeared leisurely."
+            },
+            {
+                "lineNumber": "267866",
+                "originalJapaneseLine": "「完っっっ全に、いつものセスナだ……」",
+                "translatedEnglishLine": "\"Completely, just like the usual Sesna...\""
+            },
+            {
+                "lineNumber": "267867",
+                "originalJapaneseLine": "「おい、どうなってる！？",
+                "translatedEnglishLine": "\"Hey, what's going on!?\""
+            },
+            {
+                "lineNumber": "267868",
+                "originalJapaneseLine": "　もう眠らないんじゃなかったのか！？」",
+                "translatedEnglishLine": "\"Weren't you supposed to not sleep anymore!?\""
+            },
+            {
+                "lineNumber": "267869",
+                "originalJapaneseLine": "「あ〜……それなんです、が……」",
+                "translatedEnglishLine": "\"Ah... about that...\""
+            },
+            {
+                "lineNumber": "267870",
+                "originalJapaneseLine": "「多分、魔人ワーグのおかげで……",
+                "translatedEnglishLine": "\"Probably, thanks to the demon Warg..."
+            },
+            {
+                "lineNumber": "267871",
+                "originalJapaneseLine": "　また眠れるように……なりました、よ？」",
+                "translatedEnglishLine": "I've become able to sleep again, you know?\""
+            },
+            {
+                "lineNumber": "267872",
+                "originalJapaneseLine": "「なんだとぉ！？」",
+                "translatedEnglishLine": "\"What!?\""
+            },
+            {
+                "lineNumber": "267873",
+                "originalJapaneseLine": "「……隊長、一つ……いい？」",
+                "translatedEnglishLine": "\"...Captain, may I ask something?\""
+            },
+            {
+                "lineNumber": "267874",
+                "originalJapaneseLine": "「……なんだ」",
+                "translatedEnglishLine": "\"...What is it?\""
+            },
+            {
+                "lineNumber": "267875",
+                "originalJapaneseLine": "「眠れるって……",
+                "translatedEnglishLine": "\"Being able to sleep..."
+            },
+            {
+                "lineNumber": "267876",
+                "originalJapaneseLine": "　いいね」",
+                "translatedEnglishLine": "That's a good thing.\""
+            },
+            {
+                "lineNumber": "267877",
+                "originalJapaneseLine": "グッと、セスナは力強く親指を立て――",
+                "translatedEnglishLine": "Firmly, Sesna gave a strong thumbs up—"
+            },
+            {
+                "lineNumber": "267878",
+                "originalJapaneseLine": "寝た。",
+                "translatedEnglishLine": "and fell asleep."
+            },
+            {
+                "lineNumber": "267879",
+                "originalJapaneseLine": "「このアホーーー！」",
+                "translatedEnglishLine": "\"You idiot!\""
+            },
+            {
+                "lineNumber": "267880",
+                "originalJapaneseLine": "「ぐうーーーーーーー……」",
+                "translatedEnglishLine": "\"Guuuuuu...\" (snoring sound)"
+            },
+            {
+                "lineNumber": "267881",
+                "originalJapaneseLine": "「おうのう……駄目だ、完全に寝てやがる……」",
+                "translatedEnglishLine": "\"Oh no... no good, she's completely asleep...\""
+            },
+            {
+                "lineNumber": "267882",
+                "originalJapaneseLine": "「うう……",
+                "translatedEnglishLine": "\"Ugh...\""
+            },
+            {
+                "lineNumber": "267883",
+                "originalJapaneseLine": "　ランス様、どうなさいますか？」",
+                "translatedEnglishLine": "Sir Rance, what will you do?\""
+            },
+            {
+                "lineNumber": "267884",
+                "originalJapaneseLine": "「どうもこうもあるか！",
+                "translatedEnglishLine": "\"There's no other choice!"
+            },
+            {
+                "lineNumber": "267885",
+                "originalJapaneseLine": "　ここまで来た以上戦う以外の選択はなーい！」",
+                "translatedEnglishLine": "Since we've come this far, there's no choice but to fight!\""
+            },
+            {
+                "lineNumber": "267886",
+                "originalJapaneseLine": "どさっ。",
+                "translatedEnglishLine": "Thud."
+            },
+            {
+                "lineNumber": "267887",
+                "originalJapaneseLine": "その時、また誰かが眠り、倒れた。",
+                "translatedEnglishLine": "At that moment, someone else fell asleep and collapsed."
+            },
+            {
+                "lineNumber": "267888",
+                "originalJapaneseLine": "「ぐっ……」",
+                "translatedEnglishLine": "\"Ugh...\""
+            },
+            {
+                "lineNumber": "267889",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "267890",
+                "originalJapaneseLine": "「ええい、いいから行くぞー！",
+                "translatedEnglishLine": "\"Damn it, let's just go!"
+            },
+            {
+                "lineNumber": "267891",
+                "originalJapaneseLine": "　ワーグなんてぱこーんと倒してくれるわー！」",
+                "translatedEnglishLine": "We'll knock out Warg with a single blow!\""
+            },
+            {
+                "lineNumber": "267892",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "267893",
+                "originalJapaneseLine": "サイゼルとハウゼルの部屋で、",
+                "translatedEnglishLine": "In Saizel and Howzel's room,"
+            },
+            {
+                "lineNumber": "267894",
+                "originalJapaneseLine": "ランスが笑っていた。",
+                "translatedEnglishLine": "Rance was laughing."
+            },
+            {
+                "lineNumber": "267895",
+                "originalJapaneseLine": "「がはははははは！",
+                "translatedEnglishLine": "\"Gahahahaha!"
+            },
+            {
+                "lineNumber": "267896",
+                "originalJapaneseLine": "　あー、すっきりー！」",
+                "translatedEnglishLine": "Ahh, feeling refreshed!\""
+            },
+            {
+                "lineNumber": "267897",
+                "originalJapaneseLine": "ベッドには汗にまみれた",
+                "translatedEnglishLine": "On the bed lay both Saizel and Howzel, drenched in sweat,"
+            },
+            {
+                "lineNumber": "267898",
+                "originalJapaneseLine": "サイゼルとハウゼルが",
+                "translatedEnglishLine": "Saizel and Howzel"
+            },
+            {
+                "lineNumber": "267899",
+                "originalJapaneseLine": "息も絶え絶えで倒れている。",
+                "translatedEnglishLine": "collapsed, breathless."
+            },
+            {
+                "lineNumber": "267900",
+                "originalJapaneseLine": "「う、くうっ……",
+                "translatedEnglishLine": "\"Ugh, kuh...\""
+            },
+            {
+                "lineNumber": "267901",
+                "originalJapaneseLine": "　毎日、毎日、襲われて……",
+                "translatedEnglishLine": "Every day, every day, being attacked..."
+            },
+            {
+                "lineNumber": "267902",
+                "originalJapaneseLine": "　もう最悪、ぐっすん……」",
+                "translatedEnglishLine": "It's just the worst, sniff...\""
+            },
+            {
+                "lineNumber": "267903",
+                "originalJapaneseLine": "「うう……",
+                "translatedEnglishLine": "\"Ugh...\""
+            },
+            {
+                "lineNumber": "267904",
+                "originalJapaneseLine": "　サイゼル、大丈夫だった？」",
+                "translatedEnglishLine": "Saizel, are you okay?\""
+            },
+            {
+                "lineNumber": "267905",
+                "originalJapaneseLine": "「う、うん……大丈夫……",
+                "translatedEnglishLine": "\"Y-Yeah... I'm okay..."
+            },
+            {
+                "lineNumber": "267906",
+                "originalJapaneseLine": "　それより、ハウゼルは？」",
+                "translatedEnglishLine": "More importantly, how about Howzel?\""
+            },
+            {
+                "lineNumber": "267907",
+                "originalJapaneseLine": "「あっ……",
+                "translatedEnglishLine": "\"Ah..."
+            },
+            {
+                "lineNumber": "267908",
+                "originalJapaneseLine": "　うん、私も平気……」",
+                "translatedEnglishLine": "Y-yeah, I'm fine too...\""
+            },
+            {
+                "lineNumber": "267909",
+                "originalJapaneseLine": "「ふふ、本当……？」",
+                "translatedEnglishLine": "\"Hehe, really...?\""
+            },
+            {
+                "lineNumber": "267910",
+                "originalJapaneseLine": "半ばレイプのようにランスに襲われ、",
+                "translatedEnglishLine": "Having been assaulted by Rance almost like rape,"
+            },
+            {
+                "lineNumber": "267911",
+                "originalJapaneseLine": "それでも最愛の妹であるハウゼルに心配されれば、",
+                "translatedEnglishLine": "even so, being worried over by her beloved little sister Howzel,"
+            },
+            {
+                "lineNumber": "267912",
+                "originalJapaneseLine": "心の中のもやが一気に晴れるのをサイゼルは感じた。",
+                "translatedEnglishLine": "Saizel felt the haze in her heart suddenly clear away."
+            },
+            {
+                "lineNumber": "267913",
+                "originalJapaneseLine": "最近はランスによく襲われる為、",
+                "translatedEnglishLine": "Lately, because Rance attacked them frequently,"
+            },
+            {
+                "lineNumber": "267914",
+                "originalJapaneseLine": "二人で喧嘩する余裕すらなかった。",
+                "translatedEnglishLine": "they didn't even have the energy to quarrel between themselves."
+            },
+            {
+                "lineNumber": "267915",
+                "originalJapaneseLine": "互いに心配しあい、互いに笑い合う。",
+                "translatedEnglishLine": "They worried for each other, and laughed together."
+            },
+            {
+                "lineNumber": "267916",
+                "originalJapaneseLine": "穏やかな日々が続いていた。",
+                "translatedEnglishLine": "Peaceful days continued."
+            },
+            {
+                "lineNumber": "267917",
+                "originalJapaneseLine": "最愛の人と心が通じ合う喜び、",
+                "translatedEnglishLine": "The joy of hearts connecting with a beloved person,"
+            },
+            {
+                "lineNumber": "267918",
+                "originalJapaneseLine": "互いにそれだけを感じられていた。",
+                "translatedEnglishLine": "They could feel nothing but that."
+            },
+            {
+                "lineNumber": "267919",
+                "originalJapaneseLine": "そして、二人の唇がゆっくりと近づき、",
+                "translatedEnglishLine": "Then, their lips slowly drew closer,"
+            },
+            {
+                "lineNumber": "267920",
+                "originalJapaneseLine": "キスを交わす。",
+                "translatedEnglishLine": "and they exchanged a kiss."
+            },
+            {
+                "lineNumber": "267921",
+                "originalJapaneseLine": "こうしている間だけは、",
+                "translatedEnglishLine": "Only while they were like this,"
+            },
+            {
+                "lineNumber": "267922",
+                "originalJapaneseLine": "世界から色も音も消え失せる。",
+                "translatedEnglishLine": "all color and sound disappeared from the world."
+            },
+            {
+                "lineNumber": "267923",
+                "originalJapaneseLine": "そして、相手のことすら。",
+                "translatedEnglishLine": "And even thoughts of anyone else."
+            }
+        ]
+    }
+}

@@ -1,0 +1,719 @@
+{
+    "id": "resp_0eef5d7154ad922b0068ffe88eba088193811c051b3f51aa05",
+    "object": "response",
+    "created_at": 1761601678,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0eef5d7154ad922b0068ffe88fa49481938d452508667f27e4",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「……？」\",\"translatedEnglishLine\":\"\\\"...?'\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「貴方……帰らないの？」\",\"translatedEnglishLine\":\"\\\"You... aren't going home?\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「遊びに来た」\",\"translatedEnglishLine\":\"\\\"I came to visit.\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「あ、遊びに、って……\",\"translatedEnglishLine\":\"\\\"Ah, when you say 'to visit'...\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　私の家に……？」\",\"translatedEnglishLine\":\"...to my house...?\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「……まずかった？」\",\"translatedEnglishLine\":\"\\\"...Was that bad?\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「うぅん！　全然まずくない！\",\"translatedEnglishLine\":\"\\\"No! Not bad at all!\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　むしろ！　とっても！　嬉しい！」\",\"translatedEnglishLine\":\"\\\"Rather! I'm very! happy!\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「……黙りなさい、ラッシー」\",\"translatedEnglishLine\":\"\\\"...Be quiet, Lassie.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「来てもらえたのは……\",\"translatedEnglishLine\":\"\\\"That you came...\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　えと、その……いいけど……\",\"translatedEnglishLine\":\"\\\"Um, well... it's fine, but...\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　私、こういうの不慣れだから……」\",\"translatedEnglishLine\":\"\\\"I'm not used to this kind of thing...\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「あんまり、ちゃんと……\",\"translatedEnglishLine\":\"\\\"I might not be able to properly...\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　おもてなし、できない、かも……」\",\"translatedEnglishLine\":\"\\\"...entertain you well...\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「？　別にいいよ？」\",\"translatedEnglishLine\":\"\\\"? It's okay, really.\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「う……」\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「？？」\",\"translatedEnglishLine\":\"\\\"??\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「わ、分かった……\",\"translatedEnglishLine\":\"\\\"O-Okay...\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　ちょっと待ってなさい。\",\"translatedEnglishLine\":\"\\\"Wait here a moment.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　今、お茶淹れる、から……」\",\"translatedEnglishLine\":\"\\\"I'll make some tea now...\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「うん、待ってる。\",\"translatedEnglishLine\":\"\\\"Okay, I'll wait.\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　あ、これ菓子折です」\",\"translatedEnglishLine\":\"\\\"Ah, this is a box of sweets.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"（ランスは失礼だったから、\",\"translatedEnglishLine\":\"(Rance was rude, so...)\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　あんまり気負わずに済んだけど……）\",\"translatedEnglishLine\":\"...I didn’t have to worry too much.)\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「うわーん、緊張するよー」\",\"translatedEnglishLine\":\"\\\"Waaah, I’m nervous!\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「黙りなさい、ラッシー」\",\"translatedEnglishLine\":\"\\\"Be quiet, Lassie.\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「それに大丈夫よ。\",\"translatedEnglishLine\":\"\\\"Besides, it's all right.\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　こんな日の為に準備だけは\",\"translatedEnglishLine\":\"\\\"I've made sure to prepare,\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　欠かさなかったのだから」\",\"translatedEnglishLine\":\"\\\"I never forgot, for a day like this.\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「急な来客の為の準備ー。\",\"translatedEnglishLine\":\"\\\"Preparation for sudden guests.\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　そんなの今まで来なかったけど、\",\"translatedEnglishLine\":\"\\\"I never had any before, but...\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　常に準備してて良かったー」\",\"translatedEnglishLine\":\"\\\"I'm glad I always kept ready.\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「本当に黙りなさい、ラッシー」\",\"translatedEnglishLine\":\"\\\"Seriously, be quiet, Lassie.\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「お、おまたせ」\",\"translatedEnglishLine\":\"\\\"S-sorry to keep you waiting.\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「おかまいなく〜……」\",\"translatedEnglishLine\":\"\\\"Please don't fuss over me~...\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「あっ、勝手に紅茶にしたけど、\",\"translatedEnglishLine\":\"\\\"Ah, I went ahead and made tea,\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　他の飲み物の方が良かったかしら……\",\"translatedEnglishLine\":\"Maybe another drink would have been better...?\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　えっと、何か飲みたいものあればなんでも」\",\"translatedEnglishLine\":\"Um, if there's anything you'd like to drink, just say so.\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「ん？　美味しいよ？」\",\"translatedEnglishLine\":\"\\\"Hm? It's delicious, you know?\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「えっと、そう……？」\",\"translatedEnglishLine\":\"\\\"Uh, is that so...?\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「そ、それじゃあ……\",\"translatedEnglishLine\":\"\\\"W-well then...\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　……こほん」\",\"translatedEnglishLine\":\"...Ahem.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「改めてようこそ。\",\"translatedEnglishLine\":\"\\\"Welcome again.\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　歓迎するわ」\",\"translatedEnglishLine\":\"\\\"I welcome you.\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「……うい。\",\"translatedEnglishLine\":\"\\\"...Okay.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　よろしくお願いします」\",\"translatedEnglishLine\":\"\\\"Please take care of me.\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「ところで……\",\"translatedEnglishLine\":\"\\\"By the way...\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　さっきから気になっていたのだけど、\",\"translatedEnglishLine\":\"I've been curious for a while now,\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　貴方、眠くないの？」\",\"translatedEnglishLine\":\"Aren't you sleepy?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「ん〜……」\",\"translatedEnglishLine\":\"\\\"Hmm...\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「眠いけど……\",\"translatedEnglishLine\":\"\\\"I'm sleepy, but...\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　なんか……寝ないね……」\",\"translatedEnglishLine\":\"I somehow... just can't sleep...\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「なんで？」\",\"translatedEnglishLine\":\"\\\"Why is that?\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「いや、聞かれても私にも分からないけど、\",\"translatedEnglishLine\":\"\\\"Well, even if you ask me, I don't really know,\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　うぅん……」\",\"translatedEnglishLine\":\"Hmm...\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「私が眠らせられないものは、\",\"translatedEnglishLine\":\"\\\"The only ones I can't make sleep are those who\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　睡眠という概念自体がない存在だけ」\",\"translatedEnglishLine\":\"lack the very concept of sleep itself.\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "266424",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "266425",
+                                "originalJapaneseLine": "「……？」",
+                                "translatedEnglishLine": "\"...?'\""
+                            },
+                            {
+                                "lineNumber": "266426",
+                                "originalJapaneseLine": "「貴方……帰らないの？」",
+                                "translatedEnglishLine": "\"You... aren't going home?\""
+                            },
+                            {
+                                "lineNumber": "266427",
+                                "originalJapaneseLine": "「遊びに来た」",
+                                "translatedEnglishLine": "\"I came to visit.\""
+                            },
+                            {
+                                "lineNumber": "266428",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "266429",
+                                "originalJapaneseLine": "「あ、遊びに、って……",
+                                "translatedEnglishLine": "\"Ah, when you say 'to visit'...\""
+                            },
+                            {
+                                "lineNumber": "266430",
+                                "originalJapaneseLine": "　私の家に……？」",
+                                "translatedEnglishLine": "...to my house...?\""
+                            },
+                            {
+                                "lineNumber": "266431",
+                                "originalJapaneseLine": "「……まずかった？」",
+                                "translatedEnglishLine": "\"...Was that bad?\""
+                            },
+                            {
+                                "lineNumber": "266432",
+                                "originalJapaneseLine": "「うぅん！　全然まずくない！",
+                                "translatedEnglishLine": "\"No! Not bad at all!\""
+                            },
+                            {
+                                "lineNumber": "266433",
+                                "originalJapaneseLine": "　むしろ！　とっても！　嬉しい！」",
+                                "translatedEnglishLine": "\"Rather! I'm very! happy!\""
+                            },
+                            {
+                                "lineNumber": "266434",
+                                "originalJapaneseLine": "「……黙りなさい、ラッシー」",
+                                "translatedEnglishLine": "\"...Be quiet, Lassie.\""
+                            },
+                            {
+                                "lineNumber": "266435",
+                                "originalJapaneseLine": "「来てもらえたのは……",
+                                "translatedEnglishLine": "\"That you came...\""
+                            },
+                            {
+                                "lineNumber": "266436",
+                                "originalJapaneseLine": "　えと、その……いいけど……",
+                                "translatedEnglishLine": "\"Um, well... it's fine, but...\""
+                            },
+                            {
+                                "lineNumber": "266437",
+                                "originalJapaneseLine": "　私、こういうの不慣れだから……」",
+                                "translatedEnglishLine": "\"I'm not used to this kind of thing...\""
+                            },
+                            {
+                                "lineNumber": "266438",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "266439",
+                                "originalJapaneseLine": "「あんまり、ちゃんと……",
+                                "translatedEnglishLine": "\"I might not be able to properly...\""
+                            },
+                            {
+                                "lineNumber": "266440",
+                                "originalJapaneseLine": "　おもてなし、できない、かも……」",
+                                "translatedEnglishLine": "\"...entertain you well...\""
+                            },
+                            {
+                                "lineNumber": "266441",
+                                "originalJapaneseLine": "「？　別にいいよ？」",
+                                "translatedEnglishLine": "\"? It's okay, really.\""
+                            },
+                            {
+                                "lineNumber": "266442",
+                                "originalJapaneseLine": "「う……」",
+                                "translatedEnglishLine": "\"Ugh...\""
+                            },
+                            {
+                                "lineNumber": "266443",
+                                "originalJapaneseLine": "「？？」",
+                                "translatedEnglishLine": "\"??\""
+                            },
+                            {
+                                "lineNumber": "266444",
+                                "originalJapaneseLine": "「わ、分かった……",
+                                "translatedEnglishLine": "\"O-Okay...\""
+                            },
+                            {
+                                "lineNumber": "266445",
+                                "originalJapaneseLine": "　ちょっと待ってなさい。",
+                                "translatedEnglishLine": "\"Wait here a moment.\""
+                            },
+                            {
+                                "lineNumber": "266446",
+                                "originalJapaneseLine": "　今、お茶淹れる、から……」",
+                                "translatedEnglishLine": "\"I'll make some tea now...\""
+                            },
+                            {
+                                "lineNumber": "266447",
+                                "originalJapaneseLine": "「うん、待ってる。",
+                                "translatedEnglishLine": "\"Okay, I'll wait.\""
+                            },
+                            {
+                                "lineNumber": "266448",
+                                "originalJapaneseLine": "　あ、これ菓子折です」",
+                                "translatedEnglishLine": "\"Ah, this is a box of sweets.\""
+                            },
+                            {
+                                "lineNumber": "266449",
+                                "originalJapaneseLine": "（ランスは失礼だったから、",
+                                "translatedEnglishLine": "(Rance was rude, so...)"
+                            },
+                            {
+                                "lineNumber": "266450",
+                                "originalJapaneseLine": "　あんまり気負わずに済んだけど……）",
+                                "translatedEnglishLine": "...I didn’t have to worry too much.)"
+                            },
+                            {
+                                "lineNumber": "266451",
+                                "originalJapaneseLine": "「うわーん、緊張するよー」",
+                                "translatedEnglishLine": "\"Waaah, I’m nervous!\""
+                            },
+                            {
+                                "lineNumber": "266452",
+                                "originalJapaneseLine": "「黙りなさい、ラッシー」",
+                                "translatedEnglishLine": "\"Be quiet, Lassie.\""
+                            },
+                            {
+                                "lineNumber": "266453",
+                                "originalJapaneseLine": "「それに大丈夫よ。",
+                                "translatedEnglishLine": "\"Besides, it's all right.\""
+                            },
+                            {
+                                "lineNumber": "266454",
+                                "originalJapaneseLine": "　こんな日の為に準備だけは",
+                                "translatedEnglishLine": "\"I've made sure to prepare,\""
+                            },
+                            {
+                                "lineNumber": "266455",
+                                "originalJapaneseLine": "　欠かさなかったのだから」",
+                                "translatedEnglishLine": "\"I never forgot, for a day like this.\""
+                            },
+                            {
+                                "lineNumber": "266456",
+                                "originalJapaneseLine": "「急な来客の為の準備ー。",
+                                "translatedEnglishLine": "\"Preparation for sudden guests.\""
+                            },
+                            {
+                                "lineNumber": "266457",
+                                "originalJapaneseLine": "　そんなの今まで来なかったけど、",
+                                "translatedEnglishLine": "\"I never had any before, but...\""
+                            },
+                            {
+                                "lineNumber": "266458",
+                                "originalJapaneseLine": "　常に準備してて良かったー」",
+                                "translatedEnglishLine": "\"I'm glad I always kept ready.\""
+                            },
+                            {
+                                "lineNumber": "266459",
+                                "originalJapaneseLine": "「本当に黙りなさい、ラッシー」",
+                                "translatedEnglishLine": "\"Seriously, be quiet, Lassie.\""
+                            },
+                            {
+                                "lineNumber": "266460",
+                                "originalJapaneseLine": "「お、おまたせ」",
+                                "translatedEnglishLine": "\"S-sorry to keep you waiting.\""
+                            },
+                            {
+                                "lineNumber": "266461",
+                                "originalJapaneseLine": "「おかまいなく〜……」",
+                                "translatedEnglishLine": "\"Please don't fuss over me~...\""
+                            },
+                            {
+                                "lineNumber": "266462",
+                                "originalJapaneseLine": "「あっ、勝手に紅茶にしたけど、",
+                                "translatedEnglishLine": "\"Ah, I went ahead and made tea,"
+                            },
+                            {
+                                "lineNumber": "266463",
+                                "originalJapaneseLine": "　他の飲み物の方が良かったかしら……",
+                                "translatedEnglishLine": "Maybe another drink would have been better...?\""
+                            },
+                            {
+                                "lineNumber": "266464",
+                                "originalJapaneseLine": "　えっと、何か飲みたいものあればなんでも」",
+                                "translatedEnglishLine": "Um, if there's anything you'd like to drink, just say so.\""
+                            },
+                            {
+                                "lineNumber": "266465",
+                                "originalJapaneseLine": "「ん？　美味しいよ？」",
+                                "translatedEnglishLine": "\"Hm? It's delicious, you know?\""
+                            },
+                            {
+                                "lineNumber": "266466",
+                                "originalJapaneseLine": "「えっと、そう……？」",
+                                "translatedEnglishLine": "\"Uh, is that so...?\""
+                            },
+                            {
+                                "lineNumber": "266467",
+                                "originalJapaneseLine": "「そ、それじゃあ……",
+                                "translatedEnglishLine": "\"W-well then...\""
+                            },
+                            {
+                                "lineNumber": "266468",
+                                "originalJapaneseLine": "　……こほん」",
+                                "translatedEnglishLine": "...Ahem.\""
+                            },
+                            {
+                                "lineNumber": "266469",
+                                "originalJapaneseLine": "「改めてようこそ。",
+                                "translatedEnglishLine": "\"Welcome again.\""
+                            },
+                            {
+                                "lineNumber": "266470",
+                                "originalJapaneseLine": "　歓迎するわ」",
+                                "translatedEnglishLine": "\"I welcome you.\""
+                            },
+                            {
+                                "lineNumber": "266471",
+                                "originalJapaneseLine": "「……うい。",
+                                "translatedEnglishLine": "\"...Okay.\""
+                            },
+                            {
+                                "lineNumber": "266472",
+                                "originalJapaneseLine": "　よろしくお願いします」",
+                                "translatedEnglishLine": "\"Please take care of me.\""
+                            },
+                            {
+                                "lineNumber": "266473",
+                                "originalJapaneseLine": "「ところで……",
+                                "translatedEnglishLine": "\"By the way...\""
+                            },
+                            {
+                                "lineNumber": "266474",
+                                "originalJapaneseLine": "　さっきから気になっていたのだけど、",
+                                "translatedEnglishLine": "I've been curious for a while now,"
+                            },
+                            {
+                                "lineNumber": "266475",
+                                "originalJapaneseLine": "　貴方、眠くないの？」",
+                                "translatedEnglishLine": "Aren't you sleepy?\""
+                            },
+                            {
+                                "lineNumber": "266476",
+                                "originalJapaneseLine": "「ん〜……」",
+                                "translatedEnglishLine": "\"Hmm...\""
+                            },
+                            {
+                                "lineNumber": "266477",
+                                "originalJapaneseLine": "「眠いけど……",
+                                "translatedEnglishLine": "\"I'm sleepy, but...\""
+                            },
+                            {
+                                "lineNumber": "266478",
+                                "originalJapaneseLine": "　なんか……寝ないね……」",
+                                "translatedEnglishLine": "I somehow... just can't sleep...\""
+                            },
+                            {
+                                "lineNumber": "266479",
+                                "originalJapaneseLine": "「なんで？」",
+                                "translatedEnglishLine": "\"Why is that?\""
+                            },
+                            {
+                                "lineNumber": "266480",
+                                "originalJapaneseLine": "「いや、聞かれても私にも分からないけど、",
+                                "translatedEnglishLine": "\"Well, even if you ask me, I don't really know,"
+                            },
+                            {
+                                "lineNumber": "266481",
+                                "originalJapaneseLine": "　うぅん……」",
+                                "translatedEnglishLine": "Hmm...\""
+                            },
+                            {
+                                "lineNumber": "266482",
+                                "originalJapaneseLine": "「私が眠らせられないものは、",
+                                "translatedEnglishLine": "\"The only ones I can't make sleep are those who"
+                            },
+                            {
+                                "lineNumber": "266483",
+                                "originalJapaneseLine": "　睡眠という概念自体がない存在だけ」",
+                                "translatedEnglishLine": "lack the very concept of sleep itself.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1659,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1888,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3547
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「……？」\",\"translatedEnglishLine\":\"\\\"...?'\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「貴方……帰らないの？」\",\"translatedEnglishLine\":\"\\\"You... aren't going home?\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「遊びに来た」\",\"translatedEnglishLine\":\"\\\"I came to visit.\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「あ、遊びに、って……\",\"translatedEnglishLine\":\"\\\"Ah, when you say 'to visit'...\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　私の家に……？」\",\"translatedEnglishLine\":\"...to my house...?\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「……まずかった？」\",\"translatedEnglishLine\":\"\\\"...Was that bad?\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「うぅん！　全然まずくない！\",\"translatedEnglishLine\":\"\\\"No! Not bad at all!\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　むしろ！　とっても！　嬉しい！」\",\"translatedEnglishLine\":\"\\\"Rather! I'm very! happy!\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「……黙りなさい、ラッシー」\",\"translatedEnglishLine\":\"\\\"...Be quiet, Lassie.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「来てもらえたのは……\",\"translatedEnglishLine\":\"\\\"That you came...\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　えと、その……いいけど……\",\"translatedEnglishLine\":\"\\\"Um, well... it's fine, but...\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　私、こういうの不慣れだから……」\",\"translatedEnglishLine\":\"\\\"I'm not used to this kind of thing...\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「あんまり、ちゃんと……\",\"translatedEnglishLine\":\"\\\"I might not be able to properly...\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　おもてなし、できない、かも……」\",\"translatedEnglishLine\":\"\\\"...entertain you well...\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「？　別にいいよ？」\",\"translatedEnglishLine\":\"\\\"? It's okay, really.\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「う……」\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「？？」\",\"translatedEnglishLine\":\"\\\"??\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「わ、分かった……\",\"translatedEnglishLine\":\"\\\"O-Okay...\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　ちょっと待ってなさい。\",\"translatedEnglishLine\":\"\\\"Wait here a moment.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　今、お茶淹れる、から……」\",\"translatedEnglishLine\":\"\\\"I'll make some tea now...\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「うん、待ってる。\",\"translatedEnglishLine\":\"\\\"Okay, I'll wait.\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　あ、これ菓子折です」\",\"translatedEnglishLine\":\"\\\"Ah, this is a box of sweets.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"（ランスは失礼だったから、\",\"translatedEnglishLine\":\"(Rance was rude, so...)\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　あんまり気負わずに済んだけど……）\",\"translatedEnglishLine\":\"...I didn’t have to worry too much.)\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「うわーん、緊張するよー」\",\"translatedEnglishLine\":\"\\\"Waaah, I’m nervous!\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「黙りなさい、ラッシー」\",\"translatedEnglishLine\":\"\\\"Be quiet, Lassie.\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「それに大丈夫よ。\",\"translatedEnglishLine\":\"\\\"Besides, it's all right.\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　こんな日の為に準備だけは\",\"translatedEnglishLine\":\"\\\"I've made sure to prepare,\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　欠かさなかったのだから」\",\"translatedEnglishLine\":\"\\\"I never forgot, for a day like this.\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「急な来客の為の準備ー。\",\"translatedEnglishLine\":\"\\\"Preparation for sudden guests.\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　そんなの今まで来なかったけど、\",\"translatedEnglishLine\":\"\\\"I never had any before, but...\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　常に準備してて良かったー」\",\"translatedEnglishLine\":\"\\\"I'm glad I always kept ready.\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「本当に黙りなさい、ラッシー」\",\"translatedEnglishLine\":\"\\\"Seriously, be quiet, Lassie.\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「お、おまたせ」\",\"translatedEnglishLine\":\"\\\"S-sorry to keep you waiting.\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「おかまいなく〜……」\",\"translatedEnglishLine\":\"\\\"Please don't fuss over me~...\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「あっ、勝手に紅茶にしたけど、\",\"translatedEnglishLine\":\"\\\"Ah, I went ahead and made tea,\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　他の飲み物の方が良かったかしら……\",\"translatedEnglishLine\":\"Maybe another drink would have been better...?\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　えっと、何か飲みたいものあればなんでも」\",\"translatedEnglishLine\":\"Um, if there's anything you'd like to drink, just say so.\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「ん？　美味しいよ？」\",\"translatedEnglishLine\":\"\\\"Hm? It's delicious, you know?\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「えっと、そう……？」\",\"translatedEnglishLine\":\"\\\"Uh, is that so...?\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「そ、それじゃあ……\",\"translatedEnglishLine\":\"\\\"W-well then...\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　……こほん」\",\"translatedEnglishLine\":\"...Ahem.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「改めてようこそ。\",\"translatedEnglishLine\":\"\\\"Welcome again.\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　歓迎するわ」\",\"translatedEnglishLine\":\"\\\"I welcome you.\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「……うい。\",\"translatedEnglishLine\":\"\\\"...Okay.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　よろしくお願いします」\",\"translatedEnglishLine\":\"\\\"Please take care of me.\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「ところで……\",\"translatedEnglishLine\":\"\\\"By the way...\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　さっきから気になっていたのだけど、\",\"translatedEnglishLine\":\"I've been curious for a while now,\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　貴方、眠くないの？」\",\"translatedEnglishLine\":\"Aren't you sleepy?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「ん〜……」\",\"translatedEnglishLine\":\"\\\"Hmm...\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「眠いけど……\",\"translatedEnglishLine\":\"\\\"I'm sleepy, but...\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　なんか……寝ないね……」\",\"translatedEnglishLine\":\"I somehow... just can't sleep...\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「なんで？」\",\"translatedEnglishLine\":\"\\\"Why is that?\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「いや、聞かれても私にも分からないけど、\",\"translatedEnglishLine\":\"\\\"Well, even if you ask me, I don't really know,\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　うぅん……」\",\"translatedEnglishLine\":\"Hmm...\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「私が眠らせられないものは、\",\"translatedEnglishLine\":\"\\\"The only ones I can't make sleep are those who\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　睡眠という概念自体がない存在だけ」\",\"translatedEnglishLine\":\"lack the very concept of sleep itself.\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "266424",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "266425",
+                "originalJapaneseLine": "「……？」",
+                "translatedEnglishLine": "\"...?'\""
+            },
+            {
+                "lineNumber": "266426",
+                "originalJapaneseLine": "「貴方……帰らないの？」",
+                "translatedEnglishLine": "\"You... aren't going home?\""
+            },
+            {
+                "lineNumber": "266427",
+                "originalJapaneseLine": "「遊びに来た」",
+                "translatedEnglishLine": "\"I came to visit.\""
+            },
+            {
+                "lineNumber": "266428",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "266429",
+                "originalJapaneseLine": "「あ、遊びに、って……",
+                "translatedEnglishLine": "\"Ah, when you say 'to visit'...\""
+            },
+            {
+                "lineNumber": "266430",
+                "originalJapaneseLine": "　私の家に……？」",
+                "translatedEnglishLine": "...to my house...?\""
+            },
+            {
+                "lineNumber": "266431",
+                "originalJapaneseLine": "「……まずかった？」",
+                "translatedEnglishLine": "\"...Was that bad?\""
+            },
+            {
+                "lineNumber": "266432",
+                "originalJapaneseLine": "「うぅん！　全然まずくない！",
+                "translatedEnglishLine": "\"No! Not bad at all!\""
+            },
+            {
+                "lineNumber": "266433",
+                "originalJapaneseLine": "　むしろ！　とっても！　嬉しい！」",
+                "translatedEnglishLine": "\"Rather! I'm very! happy!\""
+            },
+            {
+                "lineNumber": "266434",
+                "originalJapaneseLine": "「……黙りなさい、ラッシー」",
+                "translatedEnglishLine": "\"...Be quiet, Lassie.\""
+            },
+            {
+                "lineNumber": "266435",
+                "originalJapaneseLine": "「来てもらえたのは……",
+                "translatedEnglishLine": "\"That you came...\""
+            },
+            {
+                "lineNumber": "266436",
+                "originalJapaneseLine": "　えと、その……いいけど……",
+                "translatedEnglishLine": "\"Um, well... it's fine, but...\""
+            },
+            {
+                "lineNumber": "266437",
+                "originalJapaneseLine": "　私、こういうの不慣れだから……」",
+                "translatedEnglishLine": "\"I'm not used to this kind of thing...\""
+            },
+            {
+                "lineNumber": "266438",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "266439",
+                "originalJapaneseLine": "「あんまり、ちゃんと……",
+                "translatedEnglishLine": "\"I might not be able to properly...\""
+            },
+            {
+                "lineNumber": "266440",
+                "originalJapaneseLine": "　おもてなし、できない、かも……」",
+                "translatedEnglishLine": "\"...entertain you well...\""
+            },
+            {
+                "lineNumber": "266441",
+                "originalJapaneseLine": "「？　別にいいよ？」",
+                "translatedEnglishLine": "\"? It's okay, really.\""
+            },
+            {
+                "lineNumber": "266442",
+                "originalJapaneseLine": "「う……」",
+                "translatedEnglishLine": "\"Ugh...\""
+            },
+            {
+                "lineNumber": "266443",
+                "originalJapaneseLine": "「？？」",
+                "translatedEnglishLine": "\"??\""
+            },
+            {
+                "lineNumber": "266444",
+                "originalJapaneseLine": "「わ、分かった……",
+                "translatedEnglishLine": "\"O-Okay...\""
+            },
+            {
+                "lineNumber": "266445",
+                "originalJapaneseLine": "　ちょっと待ってなさい。",
+                "translatedEnglishLine": "\"Wait here a moment.\""
+            },
+            {
+                "lineNumber": "266446",
+                "originalJapaneseLine": "　今、お茶淹れる、から……」",
+                "translatedEnglishLine": "\"I'll make some tea now...\""
+            },
+            {
+                "lineNumber": "266447",
+                "originalJapaneseLine": "「うん、待ってる。",
+                "translatedEnglishLine": "\"Okay, I'll wait.\""
+            },
+            {
+                "lineNumber": "266448",
+                "originalJapaneseLine": "　あ、これ菓子折です」",
+                "translatedEnglishLine": "\"Ah, this is a box of sweets.\""
+            },
+            {
+                "lineNumber": "266449",
+                "originalJapaneseLine": "（ランスは失礼だったから、",
+                "translatedEnglishLine": "(Rance was rude, so...)"
+            },
+            {
+                "lineNumber": "266450",
+                "originalJapaneseLine": "　あんまり気負わずに済んだけど……）",
+                "translatedEnglishLine": "...I didn’t have to worry too much.)"
+            },
+            {
+                "lineNumber": "266451",
+                "originalJapaneseLine": "「うわーん、緊張するよー」",
+                "translatedEnglishLine": "\"Waaah, I’m nervous!\""
+            },
+            {
+                "lineNumber": "266452",
+                "originalJapaneseLine": "「黙りなさい、ラッシー」",
+                "translatedEnglishLine": "\"Be quiet, Lassie.\""
+            },
+            {
+                "lineNumber": "266453",
+                "originalJapaneseLine": "「それに大丈夫よ。",
+                "translatedEnglishLine": "\"Besides, it's all right.\""
+            },
+            {
+                "lineNumber": "266454",
+                "originalJapaneseLine": "　こんな日の為に準備だけは",
+                "translatedEnglishLine": "\"I've made sure to prepare,\""
+            },
+            {
+                "lineNumber": "266455",
+                "originalJapaneseLine": "　欠かさなかったのだから」",
+                "translatedEnglishLine": "\"I never forgot, for a day like this.\""
+            },
+            {
+                "lineNumber": "266456",
+                "originalJapaneseLine": "「急な来客の為の準備ー。",
+                "translatedEnglishLine": "\"Preparation for sudden guests.\""
+            },
+            {
+                "lineNumber": "266457",
+                "originalJapaneseLine": "　そんなの今まで来なかったけど、",
+                "translatedEnglishLine": "\"I never had any before, but...\""
+            },
+            {
+                "lineNumber": "266458",
+                "originalJapaneseLine": "　常に準備してて良かったー」",
+                "translatedEnglishLine": "\"I'm glad I always kept ready.\""
+            },
+            {
+                "lineNumber": "266459",
+                "originalJapaneseLine": "「本当に黙りなさい、ラッシー」",
+                "translatedEnglishLine": "\"Seriously, be quiet, Lassie.\""
+            },
+            {
+                "lineNumber": "266460",
+                "originalJapaneseLine": "「お、おまたせ」",
+                "translatedEnglishLine": "\"S-sorry to keep you waiting.\""
+            },
+            {
+                "lineNumber": "266461",
+                "originalJapaneseLine": "「おかまいなく〜……」",
+                "translatedEnglishLine": "\"Please don't fuss over me~...\""
+            },
+            {
+                "lineNumber": "266462",
+                "originalJapaneseLine": "「あっ、勝手に紅茶にしたけど、",
+                "translatedEnglishLine": "\"Ah, I went ahead and made tea,"
+            },
+            {
+                "lineNumber": "266463",
+                "originalJapaneseLine": "　他の飲み物の方が良かったかしら……",
+                "translatedEnglishLine": "Maybe another drink would have been better...?\""
+            },
+            {
+                "lineNumber": "266464",
+                "originalJapaneseLine": "　えっと、何か飲みたいものあればなんでも」",
+                "translatedEnglishLine": "Um, if there's anything you'd like to drink, just say so.\""
+            },
+            {
+                "lineNumber": "266465",
+                "originalJapaneseLine": "「ん？　美味しいよ？」",
+                "translatedEnglishLine": "\"Hm? It's delicious, you know?\""
+            },
+            {
+                "lineNumber": "266466",
+                "originalJapaneseLine": "「えっと、そう……？」",
+                "translatedEnglishLine": "\"Uh, is that so...?\""
+            },
+            {
+                "lineNumber": "266467",
+                "originalJapaneseLine": "「そ、それじゃあ……",
+                "translatedEnglishLine": "\"W-well then...\""
+            },
+            {
+                "lineNumber": "266468",
+                "originalJapaneseLine": "　……こほん」",
+                "translatedEnglishLine": "...Ahem.\""
+            },
+            {
+                "lineNumber": "266469",
+                "originalJapaneseLine": "「改めてようこそ。",
+                "translatedEnglishLine": "\"Welcome again.\""
+            },
+            {
+                "lineNumber": "266470",
+                "originalJapaneseLine": "　歓迎するわ」",
+                "translatedEnglishLine": "\"I welcome you.\""
+            },
+            {
+                "lineNumber": "266471",
+                "originalJapaneseLine": "「……うい。",
+                "translatedEnglishLine": "\"...Okay.\""
+            },
+            {
+                "lineNumber": "266472",
+                "originalJapaneseLine": "　よろしくお願いします」",
+                "translatedEnglishLine": "\"Please take care of me.\""
+            },
+            {
+                "lineNumber": "266473",
+                "originalJapaneseLine": "「ところで……",
+                "translatedEnglishLine": "\"By the way...\""
+            },
+            {
+                "lineNumber": "266474",
+                "originalJapaneseLine": "　さっきから気になっていたのだけど、",
+                "translatedEnglishLine": "I've been curious for a while now,"
+            },
+            {
+                "lineNumber": "266475",
+                "originalJapaneseLine": "　貴方、眠くないの？」",
+                "translatedEnglishLine": "Aren't you sleepy?\""
+            },
+            {
+                "lineNumber": "266476",
+                "originalJapaneseLine": "「ん〜……」",
+                "translatedEnglishLine": "\"Hmm...\""
+            },
+            {
+                "lineNumber": "266477",
+                "originalJapaneseLine": "「眠いけど……",
+                "translatedEnglishLine": "\"I'm sleepy, but...\""
+            },
+            {
+                "lineNumber": "266478",
+                "originalJapaneseLine": "　なんか……寝ないね……」",
+                "translatedEnglishLine": "I somehow... just can't sleep...\""
+            },
+            {
+                "lineNumber": "266479",
+                "originalJapaneseLine": "「なんで？」",
+                "translatedEnglishLine": "\"Why is that?\""
+            },
+            {
+                "lineNumber": "266480",
+                "originalJapaneseLine": "「いや、聞かれても私にも分からないけど、",
+                "translatedEnglishLine": "\"Well, even if you ask me, I don't really know,"
+            },
+            {
+                "lineNumber": "266481",
+                "originalJapaneseLine": "　うぅん……」",
+                "translatedEnglishLine": "Hmm...\""
+            },
+            {
+                "lineNumber": "266482",
+                "originalJapaneseLine": "「私が眠らせられないものは、",
+                "translatedEnglishLine": "\"The only ones I can't make sleep are those who"
+            },
+            {
+                "lineNumber": "266483",
+                "originalJapaneseLine": "　睡眠という概念自体がない存在だけ」",
+                "translatedEnglishLine": "lack the very concept of sleep itself.\""
+            }
+        ]
+    }
+}

@@ -1,0 +1,719 @@
+{
+    "id": "resp_04560bd3c6ee078b0068ffeb7f389c81969837eabd0d163137",
+    "object": "response",
+    "created_at": 1761602431,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_04560bd3c6ee078b0068ffeb7facc48196960c7270a9d3a82c",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「あ、牛乳飲むなら、私にもよろー」\",\"translatedEnglishLine\":\"\\\"Ah, if you're drinking milk, save some for me too.\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「まったく、総統を顎で使いやがって」\",\"translatedEnglishLine\":\"\\\"Good grief, bossing the Supreme Commander around like that.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「あー、気持ちえがったー」\",\"translatedEnglishLine\":\"\\\"Ahh, that felt so good.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「ふう、これからお前どうすんだ？」\",\"translatedEnglishLine\":\"\\\"Phew, what are you going to do from now on?\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「んー、討伐隊の一部が訓練やるらしいし、\",\"translatedEnglishLine\":\"\\\"Hmm, I heard part of the extermination squad is doing training,\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　一応顔くらいは出すけど、ランスは？」\",\"translatedEnglishLine\":\"I'll probably just show up briefly, but what about you, Rance?\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「がははは、お昼寝だ！\",\"translatedEnglishLine\":\"\\\"Gahaha, I'm taking a nap!\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　体がぽかぽかして眠いからな！」\",\"translatedEnglishLine\":\"My body's all warm and sleepy!\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「働けよー、総統だろー」\",\"translatedEnglishLine\":\"\\\"Work, will you—you're the Supreme Commander!\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「手足動かすのは雑魚の仕事。\",\"translatedEnglishLine\":\"\\\"Moving hands and feet is the job of the small fry.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　トップの俺様は大事な場面でだけ働けばいいのだ」\",\"translatedEnglishLine\":\"The top dog like me only needs to work at important moments.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「んじゃな」\",\"translatedEnglishLine\":\"\\\"Well then.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「あいよー。\",\"translatedEnglishLine\":\"\\\"Alrighty.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　なんか面白いことあったら\",\"translatedEnglishLine\":\"If anything interesting happens,\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　私も誘えー」\",\"translatedEnglishLine\":\"invite me too!\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「なんかあったらなー」\",\"translatedEnglishLine\":\"\\\"If anything does happen.\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"友達のような不思議な距離感で、\",\"translatedEnglishLine\":\"With a strange distance between them like friends,\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"二人はセックスしてお風呂に入って別れるのだった。\",\"translatedEnglishLine\":\"the two had sex, took a bath, and then parted ways.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「はいはい、邪魔だよ！　どいたどいた！」\",\"translatedEnglishLine\":\"\\\"Alright, alright, you're in the way! Move, move!\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「とっ、プリマ？」\",\"translatedEnglishLine\":\"\\\"P-Prima?\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"城の入り口、荷物の搬入口には\",\"translatedEnglishLine\":\"At the castle entrance, the cargo loading gate,\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"プリマと手伝いと思わしき数人の兵が、\",\"translatedEnglishLine\":\"Prima and several soldiers who seemed to be helping,\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"大量の段ボールと格闘していた。\",\"translatedEnglishLine\":\"were struggling with a large number of cardboard boxes.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「ラキラキ製薬から届いた箱は、\",\"translatedEnglishLine\":\"\\\"Boxes delivered from Rakiraki Pharmaceuticals,\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　すぐそれと分かるようにサイン入れといて！\",\"translatedEnglishLine\":\"mark them with a sign so they can be recognized immediately!\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　あ、箱は慎重に扱うようにね！」\",\"translatedEnglishLine\":\"Oh, and handle the boxes carefully!\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「医療班！　こちらの搬入はもう\",\"translatedEnglishLine\":\"\\\"Medical team! Is it alright to add more to this shipment now?\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　追加してしまって構わないか！？」\",\"translatedEnglishLine\":\"\\\"Is it okay to add more stuff?\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「はーい！　こっちもう、空きます！\",\"translatedEnglishLine\":\"\\\"Okay! This side is clearing out now!\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　みんな、武具班が来たから急いでー！」\",\"translatedEnglishLine\":\"Everyone, the weapons unit is here, so hurry up!\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「よぉーっし！　お前ら、運べ運べ運べー！」\",\"translatedEnglishLine\":\"\\\"Alright! You guys, carry, carry, carry!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「す、すみません、プリマさーん！\",\"translatedEnglishLine\":\"\\\"E-excuse me, Prima-san!\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　リストの確認とサインお願いしまーす！」\",\"translatedEnglishLine\":\"Please confirm the list and sign!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「はいはい、了解ー！」\",\"translatedEnglishLine\":\"\\\"Okay, okay, got it!\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「……明日が本番だというのに、\",\"translatedEnglishLine\":\"\\\"...Even though the real event is tomorrow,\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　その前から戦争のような忙しさだな」\",\"translatedEnglishLine\":\"we've been as busy as if it's war already.\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「本当にねぇ〜。\",\"translatedEnglishLine\":\"\\\"Truly, yeah.\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　少しは手を抜かないと保たないだろうに」\",\"translatedEnglishLine\":\"If we don't take it a bit easy, we won't last.\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「そう思う……なら……\",\"translatedEnglishLine\":\"\\\"If you think so... then...\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　モロミちゃんも……手伝って、よ……\",\"translatedEnglishLine\":\"Moromi-chan... help me too...\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　私の荷物……持って……」\",\"translatedEnglishLine\":\"Carry my luggage... please...\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「え、やだ」\",\"translatedEnglishLine\":\"\\\"Eh, no.\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「まったく、こいつは……」\",\"translatedEnglishLine\":\"\\\"Honestly, this one...\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「まあ……とか言いながら……\",\"translatedEnglishLine\":\"\\\"Well... while saying that...\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　見ていてくれてる……だけ……\",\"translatedEnglishLine\":\"she's just watching... that's all...\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　モロミちゃん……良い子……だよ？」\",\"translatedEnglishLine\":\"Moromi-chan... is a good girl, you know?\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「あぁん？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「……ぐう」\",\"translatedEnglishLine\":\"\\\"...gulp\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「おいてめこら。\",\"translatedEnglishLine\":\"\\\"Hey you all.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　寝逃げやめろや」\",\"translatedEnglishLine\":\"Stop running off to sleep.\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「はいはい、セスナ。\",\"translatedEnglishLine\":\"\\\"Alright, alright, Setsuna.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　寝てるなら荷物もらってくよ」\",\"translatedEnglishLine\":\"If you're sleeping, I'll take your luggage.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「隊長。\",\"translatedEnglishLine\":\"\\\"Captain.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　手伝うかもう休むかどっちかにしな。\",\"translatedEnglishLine\":\"Either help out or take a rest.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　明日は忙しくなるんだから」\",\"translatedEnglishLine\":\"Tomorrow's going to be busy.\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「お、おお……」\",\"translatedEnglishLine\":\"\\\"O-oh...\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「はいはい、通るよ通るよー」\",\"translatedEnglishLine\":\"\\\"Okay, okay, coming through, coming through!\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "267684",
+                                "originalJapaneseLine": "「あ、牛乳飲むなら、私にもよろー」",
+                                "translatedEnglishLine": "\"Ah, if you're drinking milk, save some for me too.\""
+                            },
+                            {
+                                "lineNumber": "267685",
+                                "originalJapaneseLine": "「まったく、総統を顎で使いやがって」",
+                                "translatedEnglishLine": "\"Good grief, bossing the Supreme Commander around like that.\""
+                            },
+                            {
+                                "lineNumber": "267686",
+                                "originalJapaneseLine": "「あー、気持ちえがったー」",
+                                "translatedEnglishLine": "\"Ahh, that felt so good.\""
+                            },
+                            {
+                                "lineNumber": "267687",
+                                "originalJapaneseLine": "「ふう、これからお前どうすんだ？」",
+                                "translatedEnglishLine": "\"Phew, what are you going to do from now on?\""
+                            },
+                            {
+                                "lineNumber": "267688",
+                                "originalJapaneseLine": "「んー、討伐隊の一部が訓練やるらしいし、",
+                                "translatedEnglishLine": "\"Hmm, I heard part of the extermination squad is doing training,"
+                            },
+                            {
+                                "lineNumber": "267689",
+                                "originalJapaneseLine": "　一応顔くらいは出すけど、ランスは？」",
+                                "translatedEnglishLine": "I'll probably just show up briefly, but what about you, Rance?\""
+                            },
+                            {
+                                "lineNumber": "267690",
+                                "originalJapaneseLine": "「がははは、お昼寝だ！",
+                                "translatedEnglishLine": "\"Gahaha, I'm taking a nap!"
+                            },
+                            {
+                                "lineNumber": "267691",
+                                "originalJapaneseLine": "　体がぽかぽかして眠いからな！」",
+                                "translatedEnglishLine": "My body's all warm and sleepy!\""
+                            },
+                            {
+                                "lineNumber": "267692",
+                                "originalJapaneseLine": "「働けよー、総統だろー」",
+                                "translatedEnglishLine": "\"Work, will you—you're the Supreme Commander!\""
+                            },
+                            {
+                                "lineNumber": "267693",
+                                "originalJapaneseLine": "「手足動かすのは雑魚の仕事。",
+                                "translatedEnglishLine": "\"Moving hands and feet is the job of the small fry."
+                            },
+                            {
+                                "lineNumber": "267694",
+                                "originalJapaneseLine": "　トップの俺様は大事な場面でだけ働けばいいのだ」",
+                                "translatedEnglishLine": "The top dog like me only needs to work at important moments.\""
+                            },
+                            {
+                                "lineNumber": "267695",
+                                "originalJapaneseLine": "「んじゃな」",
+                                "translatedEnglishLine": "\"Well then.\""
+                            },
+                            {
+                                "lineNumber": "267696",
+                                "originalJapaneseLine": "「あいよー。",
+                                "translatedEnglishLine": "\"Alrighty."
+                            },
+                            {
+                                "lineNumber": "267697",
+                                "originalJapaneseLine": "　なんか面白いことあったら",
+                                "translatedEnglishLine": "If anything interesting happens,"
+                            },
+                            {
+                                "lineNumber": "267698",
+                                "originalJapaneseLine": "　私も誘えー」",
+                                "translatedEnglishLine": "invite me too!\""
+                            },
+                            {
+                                "lineNumber": "267699",
+                                "originalJapaneseLine": "「なんかあったらなー」",
+                                "translatedEnglishLine": "\"If anything does happen.\""
+                            },
+                            {
+                                "lineNumber": "267700",
+                                "originalJapaneseLine": "友達のような不思議な距離感で、",
+                                "translatedEnglishLine": "With a strange distance between them like friends,"
+                            },
+                            {
+                                "lineNumber": "267701",
+                                "originalJapaneseLine": "二人はセックスしてお風呂に入って別れるのだった。",
+                                "translatedEnglishLine": "the two had sex, took a bath, and then parted ways."
+                            },
+                            {
+                                "lineNumber": "267702",
+                                "originalJapaneseLine": "「はいはい、邪魔だよ！　どいたどいた！」",
+                                "translatedEnglishLine": "\"Alright, alright, you're in the way! Move, move!\""
+                            },
+                            {
+                                "lineNumber": "267703",
+                                "originalJapaneseLine": "「とっ、プリマ？」",
+                                "translatedEnglishLine": "\"P-Prima?\""
+                            },
+                            {
+                                "lineNumber": "267704",
+                                "originalJapaneseLine": "城の入り口、荷物の搬入口には",
+                                "translatedEnglishLine": "At the castle entrance, the cargo loading gate,"
+                            },
+                            {
+                                "lineNumber": "267705",
+                                "originalJapaneseLine": "プリマと手伝いと思わしき数人の兵が、",
+                                "translatedEnglishLine": "Prima and several soldiers who seemed to be helping,"
+                            },
+                            {
+                                "lineNumber": "267706",
+                                "originalJapaneseLine": "大量の段ボールと格闘していた。",
+                                "translatedEnglishLine": "were struggling with a large number of cardboard boxes."
+                            },
+                            {
+                                "lineNumber": "267707",
+                                "originalJapaneseLine": "「ラキラキ製薬から届いた箱は、",
+                                "translatedEnglishLine": "\"Boxes delivered from Rakiraki Pharmaceuticals,"
+                            },
+                            {
+                                "lineNumber": "267708",
+                                "originalJapaneseLine": "　すぐそれと分かるようにサイン入れといて！",
+                                "translatedEnglishLine": "mark them with a sign so they can be recognized immediately!"
+                            },
+                            {
+                                "lineNumber": "267709",
+                                "originalJapaneseLine": "　あ、箱は慎重に扱うようにね！」",
+                                "translatedEnglishLine": "Oh, and handle the boxes carefully!\""
+                            },
+                            {
+                                "lineNumber": "267710",
+                                "originalJapaneseLine": "「医療班！　こちらの搬入はもう",
+                                "translatedEnglishLine": "\"Medical team! Is it alright to add more to this shipment now?\""
+                            },
+                            {
+                                "lineNumber": "267711",
+                                "originalJapaneseLine": "　追加してしまって構わないか！？」",
+                                "translatedEnglishLine": "\"Is it okay to add more stuff?\""
+                            },
+                            {
+                                "lineNumber": "267712",
+                                "originalJapaneseLine": "「はーい！　こっちもう、空きます！",
+                                "translatedEnglishLine": "\"Okay! This side is clearing out now!"
+                            },
+                            {
+                                "lineNumber": "267713",
+                                "originalJapaneseLine": "　みんな、武具班が来たから急いでー！」",
+                                "translatedEnglishLine": "Everyone, the weapons unit is here, so hurry up!\""
+                            },
+                            {
+                                "lineNumber": "267714",
+                                "originalJapaneseLine": "「よぉーっし！　お前ら、運べ運べ運べー！」",
+                                "translatedEnglishLine": "\"Alright! You guys, carry, carry, carry!\""
+                            },
+                            {
+                                "lineNumber": "267715",
+                                "originalJapaneseLine": "「す、すみません、プリマさーん！",
+                                "translatedEnglishLine": "\"E-excuse me, Prima-san!"
+                            },
+                            {
+                                "lineNumber": "267716",
+                                "originalJapaneseLine": "　リストの確認とサインお願いしまーす！」",
+                                "translatedEnglishLine": "Please confirm the list and sign!\""
+                            },
+                            {
+                                "lineNumber": "267717",
+                                "originalJapaneseLine": "「はいはい、了解ー！」",
+                                "translatedEnglishLine": "\"Okay, okay, got it!\""
+                            },
+                            {
+                                "lineNumber": "267718",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "267719",
+                                "originalJapaneseLine": "「……明日が本番だというのに、",
+                                "translatedEnglishLine": "\"...Even though the real event is tomorrow,"
+                            },
+                            {
+                                "lineNumber": "267720",
+                                "originalJapaneseLine": "　その前から戦争のような忙しさだな」",
+                                "translatedEnglishLine": "we've been as busy as if it's war already.\""
+                            },
+                            {
+                                "lineNumber": "267721",
+                                "originalJapaneseLine": "「本当にねぇ〜。",
+                                "translatedEnglishLine": "\"Truly, yeah."
+                            },
+                            {
+                                "lineNumber": "267722",
+                                "originalJapaneseLine": "　少しは手を抜かないと保たないだろうに」",
+                                "translatedEnglishLine": "If we don't take it a bit easy, we won't last.\""
+                            },
+                            {
+                                "lineNumber": "267723",
+                                "originalJapaneseLine": "「そう思う……なら……",
+                                "translatedEnglishLine": "\"If you think so... then..."
+                            },
+                            {
+                                "lineNumber": "267724",
+                                "originalJapaneseLine": "　モロミちゃんも……手伝って、よ……",
+                                "translatedEnglishLine": "Moromi-chan... help me too..."
+                            },
+                            {
+                                "lineNumber": "267725",
+                                "originalJapaneseLine": "　私の荷物……持って……」",
+                                "translatedEnglishLine": "Carry my luggage... please...\""
+                            },
+                            {
+                                "lineNumber": "267726",
+                                "originalJapaneseLine": "「え、やだ」",
+                                "translatedEnglishLine": "\"Eh, no.\""
+                            },
+                            {
+                                "lineNumber": "267727",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "267728",
+                                "originalJapaneseLine": "「まったく、こいつは……」",
+                                "translatedEnglishLine": "\"Honestly, this one...\""
+                            },
+                            {
+                                "lineNumber": "267729",
+                                "originalJapaneseLine": "「まあ……とか言いながら……",
+                                "translatedEnglishLine": "\"Well... while saying that..."
+                            },
+                            {
+                                "lineNumber": "267730",
+                                "originalJapaneseLine": "　見ていてくれてる……だけ……",
+                                "translatedEnglishLine": "she's just watching... that's all..."
+                            },
+                            {
+                                "lineNumber": "267731",
+                                "originalJapaneseLine": "　モロミちゃん……良い子……だよ？」",
+                                "translatedEnglishLine": "Moromi-chan... is a good girl, you know?\""
+                            },
+                            {
+                                "lineNumber": "267732",
+                                "originalJapaneseLine": "「あぁん？」",
+                                "translatedEnglishLine": "\"Huh?\""
+                            },
+                            {
+                                "lineNumber": "267733",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "267734",
+                                "originalJapaneseLine": "「……ぐう」",
+                                "translatedEnglishLine": "\"...gulp\""
+                            },
+                            {
+                                "lineNumber": "267735",
+                                "originalJapaneseLine": "「おいてめこら。",
+                                "translatedEnglishLine": "\"Hey you all."
+                            },
+                            {
+                                "lineNumber": "267736",
+                                "originalJapaneseLine": "　寝逃げやめろや」",
+                                "translatedEnglishLine": "Stop running off to sleep.\""
+                            },
+                            {
+                                "lineNumber": "267737",
+                                "originalJapaneseLine": "「はいはい、セスナ。",
+                                "translatedEnglishLine": "\"Alright, alright, Setsuna."
+                            },
+                            {
+                                "lineNumber": "267738",
+                                "originalJapaneseLine": "　寝てるなら荷物もらってくよ」",
+                                "translatedEnglishLine": "If you're sleeping, I'll take your luggage.\""
+                            },
+                            {
+                                "lineNumber": "267739",
+                                "originalJapaneseLine": "「隊長。",
+                                "translatedEnglishLine": "\"Captain."
+                            },
+                            {
+                                "lineNumber": "267740",
+                                "originalJapaneseLine": "　手伝うかもう休むかどっちかにしな。",
+                                "translatedEnglishLine": "Either help out or take a rest."
+                            },
+                            {
+                                "lineNumber": "267741",
+                                "originalJapaneseLine": "　明日は忙しくなるんだから」",
+                                "translatedEnglishLine": "Tomorrow's going to be busy.\""
+                            },
+                            {
+                                "lineNumber": "267742",
+                                "originalJapaneseLine": "「お、おお……」",
+                                "translatedEnglishLine": "\"O-oh...\""
+                            },
+                            {
+                                "lineNumber": "267743",
+                                "originalJapaneseLine": "「はいはい、通るよ通るよー」",
+                                "translatedEnglishLine": "\"Okay, okay, coming through, coming through!\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1805,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2123,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3928
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「あ、牛乳飲むなら、私にもよろー」\",\"translatedEnglishLine\":\"\\\"Ah, if you're drinking milk, save some for me too.\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「まったく、総統を顎で使いやがって」\",\"translatedEnglishLine\":\"\\\"Good grief, bossing the Supreme Commander around like that.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「あー、気持ちえがったー」\",\"translatedEnglishLine\":\"\\\"Ahh, that felt so good.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「ふう、これからお前どうすんだ？」\",\"translatedEnglishLine\":\"\\\"Phew, what are you going to do from now on?\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「んー、討伐隊の一部が訓練やるらしいし、\",\"translatedEnglishLine\":\"\\\"Hmm, I heard part of the extermination squad is doing training,\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　一応顔くらいは出すけど、ランスは？」\",\"translatedEnglishLine\":\"I'll probably just show up briefly, but what about you, Rance?\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「がははは、お昼寝だ！\",\"translatedEnglishLine\":\"\\\"Gahaha, I'm taking a nap!\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　体がぽかぽかして眠いからな！」\",\"translatedEnglishLine\":\"My body's all warm and sleepy!\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「働けよー、総統だろー」\",\"translatedEnglishLine\":\"\\\"Work, will you—you're the Supreme Commander!\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「手足動かすのは雑魚の仕事。\",\"translatedEnglishLine\":\"\\\"Moving hands and feet is the job of the small fry.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　トップの俺様は大事な場面でだけ働けばいいのだ」\",\"translatedEnglishLine\":\"The top dog like me only needs to work at important moments.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「んじゃな」\",\"translatedEnglishLine\":\"\\\"Well then.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「あいよー。\",\"translatedEnglishLine\":\"\\\"Alrighty.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　なんか面白いことあったら\",\"translatedEnglishLine\":\"If anything interesting happens,\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　私も誘えー」\",\"translatedEnglishLine\":\"invite me too!\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「なんかあったらなー」\",\"translatedEnglishLine\":\"\\\"If anything does happen.\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"友達のような不思議な距離感で、\",\"translatedEnglishLine\":\"With a strange distance between them like friends,\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"二人はセックスしてお風呂に入って別れるのだった。\",\"translatedEnglishLine\":\"the two had sex, took a bath, and then parted ways.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「はいはい、邪魔だよ！　どいたどいた！」\",\"translatedEnglishLine\":\"\\\"Alright, alright, you're in the way! Move, move!\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「とっ、プリマ？」\",\"translatedEnglishLine\":\"\\\"P-Prima?\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"城の入り口、荷物の搬入口には\",\"translatedEnglishLine\":\"At the castle entrance, the cargo loading gate,\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"プリマと手伝いと思わしき数人の兵が、\",\"translatedEnglishLine\":\"Prima and several soldiers who seemed to be helping,\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"大量の段ボールと格闘していた。\",\"translatedEnglishLine\":\"were struggling with a large number of cardboard boxes.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「ラキラキ製薬から届いた箱は、\",\"translatedEnglishLine\":\"\\\"Boxes delivered from Rakiraki Pharmaceuticals,\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　すぐそれと分かるようにサイン入れといて！\",\"translatedEnglishLine\":\"mark them with a sign so they can be recognized immediately!\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　あ、箱は慎重に扱うようにね！」\",\"translatedEnglishLine\":\"Oh, and handle the boxes carefully!\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「医療班！　こちらの搬入はもう\",\"translatedEnglishLine\":\"\\\"Medical team! Is it alright to add more to this shipment now?\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　追加してしまって構わないか！？」\",\"translatedEnglishLine\":\"\\\"Is it okay to add more stuff?\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「はーい！　こっちもう、空きます！\",\"translatedEnglishLine\":\"\\\"Okay! This side is clearing out now!\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　みんな、武具班が来たから急いでー！」\",\"translatedEnglishLine\":\"Everyone, the weapons unit is here, so hurry up!\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「よぉーっし！　お前ら、運べ運べ運べー！」\",\"translatedEnglishLine\":\"\\\"Alright! You guys, carry, carry, carry!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「す、すみません、プリマさーん！\",\"translatedEnglishLine\":\"\\\"E-excuse me, Prima-san!\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　リストの確認とサインお願いしまーす！」\",\"translatedEnglishLine\":\"Please confirm the list and sign!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「はいはい、了解ー！」\",\"translatedEnglishLine\":\"\\\"Okay, okay, got it!\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「……明日が本番だというのに、\",\"translatedEnglishLine\":\"\\\"...Even though the real event is tomorrow,\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　その前から戦争のような忙しさだな」\",\"translatedEnglishLine\":\"we've been as busy as if it's war already.\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「本当にねぇ〜。\",\"translatedEnglishLine\":\"\\\"Truly, yeah.\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　少しは手を抜かないと保たないだろうに」\",\"translatedEnglishLine\":\"If we don't take it a bit easy, we won't last.\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「そう思う……なら……\",\"translatedEnglishLine\":\"\\\"If you think so... then...\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　モロミちゃんも……手伝って、よ……\",\"translatedEnglishLine\":\"Moromi-chan... help me too...\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　私の荷物……持って……」\",\"translatedEnglishLine\":\"Carry my luggage... please...\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「え、やだ」\",\"translatedEnglishLine\":\"\\\"Eh, no.\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「まったく、こいつは……」\",\"translatedEnglishLine\":\"\\\"Honestly, this one...\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「まあ……とか言いながら……\",\"translatedEnglishLine\":\"\\\"Well... while saying that...\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　見ていてくれてる……だけ……\",\"translatedEnglishLine\":\"she's just watching... that's all...\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　モロミちゃん……良い子……だよ？」\",\"translatedEnglishLine\":\"Moromi-chan... is a good girl, you know?\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「あぁん？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「……ぐう」\",\"translatedEnglishLine\":\"\\\"...gulp\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「おいてめこら。\",\"translatedEnglishLine\":\"\\\"Hey you all.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　寝逃げやめろや」\",\"translatedEnglishLine\":\"Stop running off to sleep.\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「はいはい、セスナ。\",\"translatedEnglishLine\":\"\\\"Alright, alright, Setsuna.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　寝てるなら荷物もらってくよ」\",\"translatedEnglishLine\":\"If you're sleeping, I'll take your luggage.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「隊長。\",\"translatedEnglishLine\":\"\\\"Captain.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　手伝うかもう休むかどっちかにしな。\",\"translatedEnglishLine\":\"Either help out or take a rest.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　明日は忙しくなるんだから」\",\"translatedEnglishLine\":\"Tomorrow's going to be busy.\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「お、おお……」\",\"translatedEnglishLine\":\"\\\"O-oh...\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「はいはい、通るよ通るよー」\",\"translatedEnglishLine\":\"\\\"Okay, okay, coming through, coming through!\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "267684",
+                "originalJapaneseLine": "「あ、牛乳飲むなら、私にもよろー」",
+                "translatedEnglishLine": "\"Ah, if you're drinking milk, save some for me too.\""
+            },
+            {
+                "lineNumber": "267685",
+                "originalJapaneseLine": "「まったく、総統を顎で使いやがって」",
+                "translatedEnglishLine": "\"Good grief, bossing the Supreme Commander around like that.\""
+            },
+            {
+                "lineNumber": "267686",
+                "originalJapaneseLine": "「あー、気持ちえがったー」",
+                "translatedEnglishLine": "\"Ahh, that felt so good.\""
+            },
+            {
+                "lineNumber": "267687",
+                "originalJapaneseLine": "「ふう、これからお前どうすんだ？」",
+                "translatedEnglishLine": "\"Phew, what are you going to do from now on?\""
+            },
+            {
+                "lineNumber": "267688",
+                "originalJapaneseLine": "「んー、討伐隊の一部が訓練やるらしいし、",
+                "translatedEnglishLine": "\"Hmm, I heard part of the extermination squad is doing training,"
+            },
+            {
+                "lineNumber": "267689",
+                "originalJapaneseLine": "　一応顔くらいは出すけど、ランスは？」",
+                "translatedEnglishLine": "I'll probably just show up briefly, but what about you, Rance?\""
+            },
+            {
+                "lineNumber": "267690",
+                "originalJapaneseLine": "「がははは、お昼寝だ！",
+                "translatedEnglishLine": "\"Gahaha, I'm taking a nap!"
+            },
+            {
+                "lineNumber": "267691",
+                "originalJapaneseLine": "　体がぽかぽかして眠いからな！」",
+                "translatedEnglishLine": "My body's all warm and sleepy!\""
+            },
+            {
+                "lineNumber": "267692",
+                "originalJapaneseLine": "「働けよー、総統だろー」",
+                "translatedEnglishLine": "\"Work, will you—you're the Supreme Commander!\""
+            },
+            {
+                "lineNumber": "267693",
+                "originalJapaneseLine": "「手足動かすのは雑魚の仕事。",
+                "translatedEnglishLine": "\"Moving hands and feet is the job of the small fry."
+            },
+            {
+                "lineNumber": "267694",
+                "originalJapaneseLine": "　トップの俺様は大事な場面でだけ働けばいいのだ」",
+                "translatedEnglishLine": "The top dog like me only needs to work at important moments.\""
+            },
+            {
+                "lineNumber": "267695",
+                "originalJapaneseLine": "「んじゃな」",
+                "translatedEnglishLine": "\"Well then.\""
+            },
+            {
+                "lineNumber": "267696",
+                "originalJapaneseLine": "「あいよー。",
+                "translatedEnglishLine": "\"Alrighty."
+            },
+            {
+                "lineNumber": "267697",
+                "originalJapaneseLine": "　なんか面白いことあったら",
+                "translatedEnglishLine": "If anything interesting happens,"
+            },
+            {
+                "lineNumber": "267698",
+                "originalJapaneseLine": "　私も誘えー」",
+                "translatedEnglishLine": "invite me too!\""
+            },
+            {
+                "lineNumber": "267699",
+                "originalJapaneseLine": "「なんかあったらなー」",
+                "translatedEnglishLine": "\"If anything does happen.\""
+            },
+            {
+                "lineNumber": "267700",
+                "originalJapaneseLine": "友達のような不思議な距離感で、",
+                "translatedEnglishLine": "With a strange distance between them like friends,"
+            },
+            {
+                "lineNumber": "267701",
+                "originalJapaneseLine": "二人はセックスしてお風呂に入って別れるのだった。",
+                "translatedEnglishLine": "the two had sex, took a bath, and then parted ways."
+            },
+            {
+                "lineNumber": "267702",
+                "originalJapaneseLine": "「はいはい、邪魔だよ！　どいたどいた！」",
+                "translatedEnglishLine": "\"Alright, alright, you're in the way! Move, move!\""
+            },
+            {
+                "lineNumber": "267703",
+                "originalJapaneseLine": "「とっ、プリマ？」",
+                "translatedEnglishLine": "\"P-Prima?\""
+            },
+            {
+                "lineNumber": "267704",
+                "originalJapaneseLine": "城の入り口、荷物の搬入口には",
+                "translatedEnglishLine": "At the castle entrance, the cargo loading gate,"
+            },
+            {
+                "lineNumber": "267705",
+                "originalJapaneseLine": "プリマと手伝いと思わしき数人の兵が、",
+                "translatedEnglishLine": "Prima and several soldiers who seemed to be helping,"
+            },
+            {
+                "lineNumber": "267706",
+                "originalJapaneseLine": "大量の段ボールと格闘していた。",
+                "translatedEnglishLine": "were struggling with a large number of cardboard boxes."
+            },
+            {
+                "lineNumber": "267707",
+                "originalJapaneseLine": "「ラキラキ製薬から届いた箱は、",
+                "translatedEnglishLine": "\"Boxes delivered from Rakiraki Pharmaceuticals,"
+            },
+            {
+                "lineNumber": "267708",
+                "originalJapaneseLine": "　すぐそれと分かるようにサイン入れといて！",
+                "translatedEnglishLine": "mark them with a sign so they can be recognized immediately!"
+            },
+            {
+                "lineNumber": "267709",
+                "originalJapaneseLine": "　あ、箱は慎重に扱うようにね！」",
+                "translatedEnglishLine": "Oh, and handle the boxes carefully!\""
+            },
+            {
+                "lineNumber": "267710",
+                "originalJapaneseLine": "「医療班！　こちらの搬入はもう",
+                "translatedEnglishLine": "\"Medical team! Is it alright to add more to this shipment now?\""
+            },
+            {
+                "lineNumber": "267711",
+                "originalJapaneseLine": "　追加してしまって構わないか！？」",
+                "translatedEnglishLine": "\"Is it okay to add more stuff?\""
+            },
+            {
+                "lineNumber": "267712",
+                "originalJapaneseLine": "「はーい！　こっちもう、空きます！",
+                "translatedEnglishLine": "\"Okay! This side is clearing out now!"
+            },
+            {
+                "lineNumber": "267713",
+                "originalJapaneseLine": "　みんな、武具班が来たから急いでー！」",
+                "translatedEnglishLine": "Everyone, the weapons unit is here, so hurry up!\""
+            },
+            {
+                "lineNumber": "267714",
+                "originalJapaneseLine": "「よぉーっし！　お前ら、運べ運べ運べー！」",
+                "translatedEnglishLine": "\"Alright! You guys, carry, carry, carry!\""
+            },
+            {
+                "lineNumber": "267715",
+                "originalJapaneseLine": "「す、すみません、プリマさーん！",
+                "translatedEnglishLine": "\"E-excuse me, Prima-san!"
+            },
+            {
+                "lineNumber": "267716",
+                "originalJapaneseLine": "　リストの確認とサインお願いしまーす！」",
+                "translatedEnglishLine": "Please confirm the list and sign!\""
+            },
+            {
+                "lineNumber": "267717",
+                "originalJapaneseLine": "「はいはい、了解ー！」",
+                "translatedEnglishLine": "\"Okay, okay, got it!\""
+            },
+            {
+                "lineNumber": "267718",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "267719",
+                "originalJapaneseLine": "「……明日が本番だというのに、",
+                "translatedEnglishLine": "\"...Even though the real event is tomorrow,"
+            },
+            {
+                "lineNumber": "267720",
+                "originalJapaneseLine": "　その前から戦争のような忙しさだな」",
+                "translatedEnglishLine": "we've been as busy as if it's war already.\""
+            },
+            {
+                "lineNumber": "267721",
+                "originalJapaneseLine": "「本当にねぇ〜。",
+                "translatedEnglishLine": "\"Truly, yeah."
+            },
+            {
+                "lineNumber": "267722",
+                "originalJapaneseLine": "　少しは手を抜かないと保たないだろうに」",
+                "translatedEnglishLine": "If we don't take it a bit easy, we won't last.\""
+            },
+            {
+                "lineNumber": "267723",
+                "originalJapaneseLine": "「そう思う……なら……",
+                "translatedEnglishLine": "\"If you think so... then..."
+            },
+            {
+                "lineNumber": "267724",
+                "originalJapaneseLine": "　モロミちゃんも……手伝って、よ……",
+                "translatedEnglishLine": "Moromi-chan... help me too..."
+            },
+            {
+                "lineNumber": "267725",
+                "originalJapaneseLine": "　私の荷物……持って……」",
+                "translatedEnglishLine": "Carry my luggage... please...\""
+            },
+            {
+                "lineNumber": "267726",
+                "originalJapaneseLine": "「え、やだ」",
+                "translatedEnglishLine": "\"Eh, no.\""
+            },
+            {
+                "lineNumber": "267727",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "267728",
+                "originalJapaneseLine": "「まったく、こいつは……」",
+                "translatedEnglishLine": "\"Honestly, this one...\""
+            },
+            {
+                "lineNumber": "267729",
+                "originalJapaneseLine": "「まあ……とか言いながら……",
+                "translatedEnglishLine": "\"Well... while saying that..."
+            },
+            {
+                "lineNumber": "267730",
+                "originalJapaneseLine": "　見ていてくれてる……だけ……",
+                "translatedEnglishLine": "she's just watching... that's all..."
+            },
+            {
+                "lineNumber": "267731",
+                "originalJapaneseLine": "　モロミちゃん……良い子……だよ？」",
+                "translatedEnglishLine": "Moromi-chan... is a good girl, you know?\""
+            },
+            {
+                "lineNumber": "267732",
+                "originalJapaneseLine": "「あぁん？」",
+                "translatedEnglishLine": "\"Huh?\""
+            },
+            {
+                "lineNumber": "267733",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "267734",
+                "originalJapaneseLine": "「……ぐう」",
+                "translatedEnglishLine": "\"...gulp\""
+            },
+            {
+                "lineNumber": "267735",
+                "originalJapaneseLine": "「おいてめこら。",
+                "translatedEnglishLine": "\"Hey you all."
+            },
+            {
+                "lineNumber": "267736",
+                "originalJapaneseLine": "　寝逃げやめろや」",
+                "translatedEnglishLine": "Stop running off to sleep.\""
+            },
+            {
+                "lineNumber": "267737",
+                "originalJapaneseLine": "「はいはい、セスナ。",
+                "translatedEnglishLine": "\"Alright, alright, Setsuna."
+            },
+            {
+                "lineNumber": "267738",
+                "originalJapaneseLine": "　寝てるなら荷物もらってくよ」",
+                "translatedEnglishLine": "If you're sleeping, I'll take your luggage.\""
+            },
+            {
+                "lineNumber": "267739",
+                "originalJapaneseLine": "「隊長。",
+                "translatedEnglishLine": "\"Captain."
+            },
+            {
+                "lineNumber": "267740",
+                "originalJapaneseLine": "　手伝うかもう休むかどっちかにしな。",
+                "translatedEnglishLine": "Either help out or take a rest."
+            },
+            {
+                "lineNumber": "267741",
+                "originalJapaneseLine": "　明日は忙しくなるんだから」",
+                "translatedEnglishLine": "Tomorrow's going to be busy.\""
+            },
+            {
+                "lineNumber": "267742",
+                "originalJapaneseLine": "「お、おお……」",
+                "translatedEnglishLine": "\"O-oh...\""
+            },
+            {
+                "lineNumber": "267743",
+                "originalJapaneseLine": "「はいはい、通るよ通るよー」",
+                "translatedEnglishLine": "\"Okay, okay, coming through, coming through!\""
+            }
+        ]
+    }
+}

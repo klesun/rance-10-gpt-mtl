@@ -1,0 +1,719 @@
+{
+    "id": "resp_0aff26e2eb75d6980068ffe681a99c8190864d7d52e6f57328",
+    "object": "response",
+    "created_at": 1761601153,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0aff26e2eb75d6980068ffe6826be081909a314dbb602ca02e",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　そうだったよな？」\",\"translatedEnglishLine\":\"That’s right, isn’t it?\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「うっ……」\",\"translatedEnglishLine\":\"Ugh...\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「それは、そう、だけど……」\",\"translatedEnglishLine\":\"Well, yes, but...\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「な、なに、考えているのよ？」\",\"translatedEnglishLine\":\"W-What are you thinking?\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「う、うううう……」\",\"translatedEnglishLine\":\"U-uuu...\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「怖いよー！」\",\"translatedEnglishLine\":\"I'm scared!\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「ぐふふふふ……」\",\"translatedEnglishLine\":\"Hehehehehe...\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"ヘルマンの都市内に、\",\"translatedEnglishLine\":\"Inside the city of Helman,\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"白いもこもことした何かがあった。\",\"translatedEnglishLine\":\"There was something white and fluffy.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"そのもこもことは――\",\"translatedEnglishLine\":\"That fluffiness was—\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"ワーグをくるんでいるラッシーだった。\",\"translatedEnglishLine\":\"Rassie wrapping Warg.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「おーい、ワーグ。\",\"translatedEnglishLine\":\"Hey, Warg.\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　そろそろ服、脱げたかー？」\",\"translatedEnglishLine\":\"Have you taken off your clothes yet?\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「ま、まだ……」\",\"translatedEnglishLine\":\"N-Not yet...\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「そーかそーか。\",\"translatedEnglishLine\":\"I see, I see.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　出来るだけ早くなー」\",\"translatedEnglishLine\":\"Try to do it as soon as possible.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ぐへへへ、初めて戦った時から、\",\"translatedEnglishLine\":\"Hehehe, ever since we first fought,\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　ストリップ状態のワーグと一発やりたかったのだ」\",\"translatedEnglishLine\":\"I've wanted to do it with Warg in a stripped state.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「そ……そんな理由、で……」\",\"translatedEnglishLine\":\"Th-That kind of reason...\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「周りの奴らは全員寝てるんだろ？\",\"translatedEnglishLine\":\"Everyone around is sleeping, right?\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　それなら気にすることないではないか」\",\"translatedEnglishLine\":\"If so, there’s nothing to worry about.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「そ、そうかも知れない、けど……\",\"translatedEnglishLine\":\"Th-That might be true, but...\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　で、でもでも……」\",\"translatedEnglishLine\":\"B-But, but still...\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「そろそろ脱げたか？」\",\"translatedEnglishLine\":\"Have you taken them off yet?\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「へ……？」\",\"translatedEnglishLine\":\"Huh...?\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「なに開けてるのよー！\",\"translatedEnglishLine\":\"What are you opening—!\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　えっち、えっちー！」\",\"translatedEnglishLine\":\"You pervert, pervert!\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「えーい、やかましいぞ、イルカめ。\",\"translatedEnglishLine\":\"Hey, shut up, you dolphin.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　ってそれよりちっとも脱いでないではないか」\",\"translatedEnglishLine\":\"But more importantly, you haven’t taken anything off at all.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「あ、う……だ、だって……」\",\"translatedEnglishLine\":\"Ah, ugh... b-because...\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「まあワーグはこういうの慣れてないだろうから、\",\"translatedEnglishLine\":\"Well, Warg probably isn’t used to this kind of thing,\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　躊躇する気持ちも分からんではないが……」\",\"translatedEnglishLine\":\"So I can understand why you’re hesitant...\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「うううう……\",\"translatedEnglishLine\":\"Uuuu...\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　あの、あの、い、いいから、一旦閉じて……」\",\"translatedEnglishLine\":\"Um, um, it’s fine, just close it for now...\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「……おい、あれ、まさか下着？」\",\"translatedEnglishLine\":\"Hey, wait, is that underwear?\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「いや、そんなまさか……\",\"translatedEnglishLine\":\"No, no way...\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　にしたって大胆な服装だなぁ」\",\"translatedEnglishLine\":\"But still, that’s quite a bold outfit.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「――ッ！」\",\"translatedEnglishLine\":\"—!\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「あ、こら！　勝手に閉じるんじゃない！\",\"translatedEnglishLine\":\"Hey, stop closing it without permission!\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　いいかー、ちゃんと脱げよー！」\",\"translatedEnglishLine\":\"Alright? Take them off properly!\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「う、うう……」\",\"translatedEnglishLine\":\"U-ugh...\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「分かった……わよぉ……」\",\"translatedEnglishLine\":\"Okay... fine...\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"地面に、パサリ、パサリと、\",\"translatedEnglishLine\":\"One by one, pieces of Warg’s clothes fell softly to the ground.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"次々にワーグの衣服が脱げ落ちていく。\",\"translatedEnglishLine\":\"Warg’s clothes slipped off one after another.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「おほほほ、いーねーいーねー」\",\"translatedEnglishLine\":\"Oh ho ho, that’s good, that’s good.\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「どうだ、脱いだかー？」\",\"translatedEnglishLine\":\"Well, have you taken them off?\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「脱いだ、けど……」\",\"translatedEnglishLine\":\"I took them off, but...\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「なら、とっとと出てこい！\",\"translatedEnglishLine\":\"Then hurry and come out!\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　そーら、ラッシー、どっか行けー！」\",\"translatedEnglishLine\":\"Hey, Rassie, go somewhere else!\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「あっ、ちょ、ちょっと！？」\",\"translatedEnglishLine\":\"Ah, w-wait a minute!?\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「…………ッ」\",\"translatedEnglishLine\":\"........!\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"バサーッと全裸姿のワーグが、街の真ん中に現れた。\",\"translatedEnglishLine\":\"Warg, completely naked, appeared in the middle of the town with a flourish.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「うわっ！？　なんだ、あれ！？」\",\"translatedEnglishLine\":\"Whoa!? What’s that!?\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「きゃあ、やだ！　は、裸の女の子！？」\",\"translatedEnglishLine\":\"Kyaah, no way! Is that a naked girl!?\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「なんだなんだ、ラレラレ石の撮影か！？\",\"translatedEnglishLine\":\"What’s going on, is this filming for the Larelare Stone!?\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　うひょー、可愛い女の子じやないか！」\",\"translatedEnglishLine\":\"Whoa, isn’t that a cute girl!\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「あぁああああああああぁぁぁあ……！\",\"translatedEnglishLine\":\"Aaaaaaahhhhhhh...\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "265714",
+                                "originalJapaneseLine": "　そうだったよな？」",
+                                "translatedEnglishLine": "That’s right, isn’t it?"
+                            },
+                            {
+                                "lineNumber": "265715",
+                                "originalJapaneseLine": "「うっ……」",
+                                "translatedEnglishLine": "Ugh..."
+                            },
+                            {
+                                "lineNumber": "265716",
+                                "originalJapaneseLine": "「それは、そう、だけど……」",
+                                "translatedEnglishLine": "Well, yes, but..."
+                            },
+                            {
+                                "lineNumber": "265717",
+                                "originalJapaneseLine": "「な、なに、考えているのよ？」",
+                                "translatedEnglishLine": "W-What are you thinking?"
+                            },
+                            {
+                                "lineNumber": "265718",
+                                "originalJapaneseLine": "「う、うううう……」",
+                                "translatedEnglishLine": "U-uuu..."
+                            },
+                            {
+                                "lineNumber": "265719",
+                                "originalJapaneseLine": "「怖いよー！」",
+                                "translatedEnglishLine": "I'm scared!"
+                            },
+                            {
+                                "lineNumber": "265720",
+                                "originalJapaneseLine": "「ぐふふふふ……」",
+                                "translatedEnglishLine": "Hehehehehe..."
+                            },
+                            {
+                                "lineNumber": "265721",
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "........"
+                            },
+                            {
+                                "lineNumber": "265722",
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": "265723",
+                                "originalJapaneseLine": "ヘルマンの都市内に、",
+                                "translatedEnglishLine": "Inside the city of Helman,"
+                            },
+                            {
+                                "lineNumber": "265724",
+                                "originalJapaneseLine": "白いもこもことした何かがあった。",
+                                "translatedEnglishLine": "There was something white and fluffy."
+                            },
+                            {
+                                "lineNumber": "265725",
+                                "originalJapaneseLine": "そのもこもことは――",
+                                "translatedEnglishLine": "That fluffiness was—"
+                            },
+                            {
+                                "lineNumber": "265726",
+                                "originalJapaneseLine": "ワーグをくるんでいるラッシーだった。",
+                                "translatedEnglishLine": "Rassie wrapping Warg."
+                            },
+                            {
+                                "lineNumber": "265727",
+                                "originalJapaneseLine": "「おーい、ワーグ。",
+                                "translatedEnglishLine": "Hey, Warg."
+                            },
+                            {
+                                "lineNumber": "265728",
+                                "originalJapaneseLine": "　そろそろ服、脱げたかー？」",
+                                "translatedEnglishLine": "Have you taken off your clothes yet?"
+                            },
+                            {
+                                "lineNumber": "265729",
+                                "originalJapaneseLine": "「ま、まだ……」",
+                                "translatedEnglishLine": "N-Not yet..."
+                            },
+                            {
+                                "lineNumber": "265730",
+                                "originalJapaneseLine": "「そーかそーか。",
+                                "translatedEnglishLine": "I see, I see."
+                            },
+                            {
+                                "lineNumber": "265731",
+                                "originalJapaneseLine": "　出来るだけ早くなー」",
+                                "translatedEnglishLine": "Try to do it as soon as possible."
+                            },
+                            {
+                                "lineNumber": "265732",
+                                "originalJapaneseLine": "「ぐへへへ、初めて戦った時から、",
+                                "translatedEnglishLine": "Hehehe, ever since we first fought,"
+                            },
+                            {
+                                "lineNumber": "265733",
+                                "originalJapaneseLine": "　ストリップ状態のワーグと一発やりたかったのだ」",
+                                "translatedEnglishLine": "I've wanted to do it with Warg in a stripped state."
+                            },
+                            {
+                                "lineNumber": "265734",
+                                "originalJapaneseLine": "「そ……そんな理由、で……」",
+                                "translatedEnglishLine": "Th-That kind of reason..."
+                            },
+                            {
+                                "lineNumber": "265735",
+                                "originalJapaneseLine": "「周りの奴らは全員寝てるんだろ？",
+                                "translatedEnglishLine": "Everyone around is sleeping, right?"
+                            },
+                            {
+                                "lineNumber": "265736",
+                                "originalJapaneseLine": "　それなら気にすることないではないか」",
+                                "translatedEnglishLine": "If so, there’s nothing to worry about."
+                            },
+                            {
+                                "lineNumber": "265737",
+                                "originalJapaneseLine": "「そ、そうかも知れない、けど……",
+                                "translatedEnglishLine": "Th-That might be true, but..."
+                            },
+                            {
+                                "lineNumber": "265738",
+                                "originalJapaneseLine": "　で、でもでも……」",
+                                "translatedEnglishLine": "B-But, but still..."
+                            },
+                            {
+                                "lineNumber": "265739",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "........"
+                            },
+                            {
+                                "lineNumber": "265740",
+                                "originalJapaneseLine": "「そろそろ脱げたか？」",
+                                "translatedEnglishLine": "Have you taken them off yet?"
+                            },
+                            {
+                                "lineNumber": "265741",
+                                "originalJapaneseLine": "「へ……？」",
+                                "translatedEnglishLine": "Huh...?"
+                            },
+                            {
+                                "lineNumber": "265742",
+                                "originalJapaneseLine": "「なに開けてるのよー！",
+                                "translatedEnglishLine": "What are you opening—!"
+                            },
+                            {
+                                "lineNumber": "265743",
+                                "originalJapaneseLine": "　えっち、えっちー！」",
+                                "translatedEnglishLine": "You pervert, pervert!"
+                            },
+                            {
+                                "lineNumber": "265744",
+                                "originalJapaneseLine": "「えーい、やかましいぞ、イルカめ。",
+                                "translatedEnglishLine": "Hey, shut up, you dolphin."
+                            },
+                            {
+                                "lineNumber": "265745",
+                                "originalJapaneseLine": "　ってそれよりちっとも脱いでないではないか」",
+                                "translatedEnglishLine": "But more importantly, you haven’t taken anything off at all."
+                            },
+                            {
+                                "lineNumber": "265746",
+                                "originalJapaneseLine": "「あ、う……だ、だって……」",
+                                "translatedEnglishLine": "Ah, ugh... b-because..."
+                            },
+                            {
+                                "lineNumber": "265747",
+                                "originalJapaneseLine": "「まあワーグはこういうの慣れてないだろうから、",
+                                "translatedEnglishLine": "Well, Warg probably isn’t used to this kind of thing,"
+                            },
+                            {
+                                "lineNumber": "265748",
+                                "originalJapaneseLine": "　躊躇する気持ちも分からんではないが……」",
+                                "translatedEnglishLine": "So I can understand why you’re hesitant..."
+                            },
+                            {
+                                "lineNumber": "265749",
+                                "originalJapaneseLine": "「うううう……",
+                                "translatedEnglishLine": "Uuuu..."
+                            },
+                            {
+                                "lineNumber": "265750",
+                                "originalJapaneseLine": "　あの、あの、い、いいから、一旦閉じて……」",
+                                "translatedEnglishLine": "Um, um, it’s fine, just close it for now..."
+                            },
+                            {
+                                "lineNumber": "265751",
+                                "originalJapaneseLine": "「……おい、あれ、まさか下着？」",
+                                "translatedEnglishLine": "Hey, wait, is that underwear?"
+                            },
+                            {
+                                "lineNumber": "265752",
+                                "originalJapaneseLine": "「いや、そんなまさか……",
+                                "translatedEnglishLine": "No, no way..."
+                            },
+                            {
+                                "lineNumber": "265753",
+                                "originalJapaneseLine": "　にしたって大胆な服装だなぁ」",
+                                "translatedEnglishLine": "But still, that’s quite a bold outfit."
+                            },
+                            {
+                                "lineNumber": "265754",
+                                "originalJapaneseLine": "「――ッ！」",
+                                "translatedEnglishLine": "—!"
+                            },
+                            {
+                                "lineNumber": "265755",
+                                "originalJapaneseLine": "「あ、こら！　勝手に閉じるんじゃない！",
+                                "translatedEnglishLine": "Hey, stop closing it without permission!"
+                            },
+                            {
+                                "lineNumber": "265756",
+                                "originalJapaneseLine": "　いいかー、ちゃんと脱げよー！」",
+                                "translatedEnglishLine": "Alright? Take them off properly!"
+                            },
+                            {
+                                "lineNumber": "265757",
+                                "originalJapaneseLine": "「う、うう……」",
+                                "translatedEnglishLine": "U-ugh..."
+                            },
+                            {
+                                "lineNumber": "265758",
+                                "originalJapaneseLine": "「分かった……わよぉ……」",
+                                "translatedEnglishLine": "Okay... fine..."
+                            },
+                            {
+                                "lineNumber": "265759",
+                                "originalJapaneseLine": "地面に、パサリ、パサリと、",
+                                "translatedEnglishLine": "One by one, pieces of Warg’s clothes fell softly to the ground."
+                            },
+                            {
+                                "lineNumber": "265760",
+                                "originalJapaneseLine": "次々にワーグの衣服が脱げ落ちていく。",
+                                "translatedEnglishLine": "Warg’s clothes slipped off one after another."
+                            },
+                            {
+                                "lineNumber": "265761",
+                                "originalJapaneseLine": "「おほほほ、いーねーいーねー」",
+                                "translatedEnglishLine": "Oh ho ho, that’s good, that’s good."
+                            },
+                            {
+                                "lineNumber": "265762",
+                                "originalJapaneseLine": "「どうだ、脱いだかー？」",
+                                "translatedEnglishLine": "Well, have you taken them off?"
+                            },
+                            {
+                                "lineNumber": "265763",
+                                "originalJapaneseLine": "「脱いだ、けど……」",
+                                "translatedEnglishLine": "I took them off, but..."
+                            },
+                            {
+                                "lineNumber": "265764",
+                                "originalJapaneseLine": "「なら、とっとと出てこい！",
+                                "translatedEnglishLine": "Then hurry and come out!"
+                            },
+                            {
+                                "lineNumber": "265765",
+                                "originalJapaneseLine": "　そーら、ラッシー、どっか行けー！」",
+                                "translatedEnglishLine": "Hey, Rassie, go somewhere else!"
+                            },
+                            {
+                                "lineNumber": "265766",
+                                "originalJapaneseLine": "「あっ、ちょ、ちょっと！？」",
+                                "translatedEnglishLine": "Ah, w-wait a minute!?"
+                            },
+                            {
+                                "lineNumber": "265767",
+                                "originalJapaneseLine": "「…………ッ」",
+                                "translatedEnglishLine": "........!"
+                            },
+                            {
+                                "lineNumber": "265768",
+                                "originalJapaneseLine": "バサーッと全裸姿のワーグが、街の真ん中に現れた。",
+                                "translatedEnglishLine": "Warg, completely naked, appeared in the middle of the town with a flourish."
+                            },
+                            {
+                                "lineNumber": "265769",
+                                "originalJapaneseLine": "「うわっ！？　なんだ、あれ！？」",
+                                "translatedEnglishLine": "Whoa!? What’s that!?"
+                            },
+                            {
+                                "lineNumber": "265770",
+                                "originalJapaneseLine": "「きゃあ、やだ！　は、裸の女の子！？」",
+                                "translatedEnglishLine": "Kyaah, no way! Is that a naked girl!?"
+                            },
+                            {
+                                "lineNumber": "265771",
+                                "originalJapaneseLine": "「なんだなんだ、ラレラレ石の撮影か！？",
+                                "translatedEnglishLine": "What’s going on, is this filming for the Larelare Stone!?"
+                            },
+                            {
+                                "lineNumber": "265772",
+                                "originalJapaneseLine": "　うひょー、可愛い女の子じやないか！」",
+                                "translatedEnglishLine": "Whoa, isn’t that a cute girl!"
+                            },
+                            {
+                                "lineNumber": "265773",
+                                "originalJapaneseLine": "「あぁああああああああぁぁぁあ……！",
+                                "translatedEnglishLine": "Aaaaaaahhhhhhh..."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1800,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2029,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3829
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　そうだったよな？」\",\"translatedEnglishLine\":\"That’s right, isn’t it?\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「うっ……」\",\"translatedEnglishLine\":\"Ugh...\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「それは、そう、だけど……」\",\"translatedEnglishLine\":\"Well, yes, but...\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「な、なに、考えているのよ？」\",\"translatedEnglishLine\":\"W-What are you thinking?\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「う、うううう……」\",\"translatedEnglishLine\":\"U-uuu...\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「怖いよー！」\",\"translatedEnglishLine\":\"I'm scared!\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「ぐふふふふ……」\",\"translatedEnglishLine\":\"Hehehehehe...\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"ヘルマンの都市内に、\",\"translatedEnglishLine\":\"Inside the city of Helman,\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"白いもこもことした何かがあった。\",\"translatedEnglishLine\":\"There was something white and fluffy.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"そのもこもことは――\",\"translatedEnglishLine\":\"That fluffiness was—\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"ワーグをくるんでいるラッシーだった。\",\"translatedEnglishLine\":\"Rassie wrapping Warg.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「おーい、ワーグ。\",\"translatedEnglishLine\":\"Hey, Warg.\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　そろそろ服、脱げたかー？」\",\"translatedEnglishLine\":\"Have you taken off your clothes yet?\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「ま、まだ……」\",\"translatedEnglishLine\":\"N-Not yet...\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「そーかそーか。\",\"translatedEnglishLine\":\"I see, I see.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　出来るだけ早くなー」\",\"translatedEnglishLine\":\"Try to do it as soon as possible.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ぐへへへ、初めて戦った時から、\",\"translatedEnglishLine\":\"Hehehe, ever since we first fought,\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　ストリップ状態のワーグと一発やりたかったのだ」\",\"translatedEnglishLine\":\"I've wanted to do it with Warg in a stripped state.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「そ……そんな理由、で……」\",\"translatedEnglishLine\":\"Th-That kind of reason...\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「周りの奴らは全員寝てるんだろ？\",\"translatedEnglishLine\":\"Everyone around is sleeping, right?\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　それなら気にすることないではないか」\",\"translatedEnglishLine\":\"If so, there’s nothing to worry about.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「そ、そうかも知れない、けど……\",\"translatedEnglishLine\":\"Th-That might be true, but...\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　で、でもでも……」\",\"translatedEnglishLine\":\"B-But, but still...\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「そろそろ脱げたか？」\",\"translatedEnglishLine\":\"Have you taken them off yet?\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「へ……？」\",\"translatedEnglishLine\":\"Huh...?\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「なに開けてるのよー！\",\"translatedEnglishLine\":\"What are you opening—!\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　えっち、えっちー！」\",\"translatedEnglishLine\":\"You pervert, pervert!\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「えーい、やかましいぞ、イルカめ。\",\"translatedEnglishLine\":\"Hey, shut up, you dolphin.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　ってそれよりちっとも脱いでないではないか」\",\"translatedEnglishLine\":\"But more importantly, you haven’t taken anything off at all.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「あ、う……だ、だって……」\",\"translatedEnglishLine\":\"Ah, ugh... b-because...\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「まあワーグはこういうの慣れてないだろうから、\",\"translatedEnglishLine\":\"Well, Warg probably isn’t used to this kind of thing,\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　躊躇する気持ちも分からんではないが……」\",\"translatedEnglishLine\":\"So I can understand why you’re hesitant...\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「うううう……\",\"translatedEnglishLine\":\"Uuuu...\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　あの、あの、い、いいから、一旦閉じて……」\",\"translatedEnglishLine\":\"Um, um, it’s fine, just close it for now...\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「……おい、あれ、まさか下着？」\",\"translatedEnglishLine\":\"Hey, wait, is that underwear?\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「いや、そんなまさか……\",\"translatedEnglishLine\":\"No, no way...\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　にしたって大胆な服装だなぁ」\",\"translatedEnglishLine\":\"But still, that’s quite a bold outfit.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「――ッ！」\",\"translatedEnglishLine\":\"—!\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「あ、こら！　勝手に閉じるんじゃない！\",\"translatedEnglishLine\":\"Hey, stop closing it without permission!\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　いいかー、ちゃんと脱げよー！」\",\"translatedEnglishLine\":\"Alright? Take them off properly!\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「う、うう……」\",\"translatedEnglishLine\":\"U-ugh...\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「分かった……わよぉ……」\",\"translatedEnglishLine\":\"Okay... fine...\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"地面に、パサリ、パサリと、\",\"translatedEnglishLine\":\"One by one, pieces of Warg’s clothes fell softly to the ground.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"次々にワーグの衣服が脱げ落ちていく。\",\"translatedEnglishLine\":\"Warg’s clothes slipped off one after another.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「おほほほ、いーねーいーねー」\",\"translatedEnglishLine\":\"Oh ho ho, that’s good, that’s good.\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「どうだ、脱いだかー？」\",\"translatedEnglishLine\":\"Well, have you taken them off?\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「脱いだ、けど……」\",\"translatedEnglishLine\":\"I took them off, but...\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「なら、とっとと出てこい！\",\"translatedEnglishLine\":\"Then hurry and come out!\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　そーら、ラッシー、どっか行けー！」\",\"translatedEnglishLine\":\"Hey, Rassie, go somewhere else!\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「あっ、ちょ、ちょっと！？」\",\"translatedEnglishLine\":\"Ah, w-wait a minute!?\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「…………ッ」\",\"translatedEnglishLine\":\"........!\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"バサーッと全裸姿のワーグが、街の真ん中に現れた。\",\"translatedEnglishLine\":\"Warg, completely naked, appeared in the middle of the town with a flourish.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「うわっ！？　なんだ、あれ！？」\",\"translatedEnglishLine\":\"Whoa!? What’s that!?\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「きゃあ、やだ！　は、裸の女の子！？」\",\"translatedEnglishLine\":\"Kyaah, no way! Is that a naked girl!?\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「なんだなんだ、ラレラレ石の撮影か！？\",\"translatedEnglishLine\":\"What’s going on, is this filming for the Larelare Stone!?\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　うひょー、可愛い女の子じやないか！」\",\"translatedEnglishLine\":\"Whoa, isn’t that a cute girl!\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「あぁああああああああぁぁぁあ……！\",\"translatedEnglishLine\":\"Aaaaaaahhhhhhh...\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "265714",
+                "originalJapaneseLine": "　そうだったよな？」",
+                "translatedEnglishLine": "That’s right, isn’t it?"
+            },
+            {
+                "lineNumber": "265715",
+                "originalJapaneseLine": "「うっ……」",
+                "translatedEnglishLine": "Ugh..."
+            },
+            {
+                "lineNumber": "265716",
+                "originalJapaneseLine": "「それは、そう、だけど……」",
+                "translatedEnglishLine": "Well, yes, but..."
+            },
+            {
+                "lineNumber": "265717",
+                "originalJapaneseLine": "「な、なに、考えているのよ？」",
+                "translatedEnglishLine": "W-What are you thinking?"
+            },
+            {
+                "lineNumber": "265718",
+                "originalJapaneseLine": "「う、うううう……」",
+                "translatedEnglishLine": "U-uuu..."
+            },
+            {
+                "lineNumber": "265719",
+                "originalJapaneseLine": "「怖いよー！」",
+                "translatedEnglishLine": "I'm scared!"
+            },
+            {
+                "lineNumber": "265720",
+                "originalJapaneseLine": "「ぐふふふふ……」",
+                "translatedEnglishLine": "Hehehehehe..."
+            },
+            {
+                "lineNumber": "265721",
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": "265722",
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": "265723",
+                "originalJapaneseLine": "ヘルマンの都市内に、",
+                "translatedEnglishLine": "Inside the city of Helman,"
+            },
+            {
+                "lineNumber": "265724",
+                "originalJapaneseLine": "白いもこもことした何かがあった。",
+                "translatedEnglishLine": "There was something white and fluffy."
+            },
+            {
+                "lineNumber": "265725",
+                "originalJapaneseLine": "そのもこもことは――",
+                "translatedEnglishLine": "That fluffiness was—"
+            },
+            {
+                "lineNumber": "265726",
+                "originalJapaneseLine": "ワーグをくるんでいるラッシーだった。",
+                "translatedEnglishLine": "Rassie wrapping Warg."
+            },
+            {
+                "lineNumber": "265727",
+                "originalJapaneseLine": "「おーい、ワーグ。",
+                "translatedEnglishLine": "Hey, Warg."
+            },
+            {
+                "lineNumber": "265728",
+                "originalJapaneseLine": "　そろそろ服、脱げたかー？」",
+                "translatedEnglishLine": "Have you taken off your clothes yet?"
+            },
+            {
+                "lineNumber": "265729",
+                "originalJapaneseLine": "「ま、まだ……」",
+                "translatedEnglishLine": "N-Not yet..."
+            },
+            {
+                "lineNumber": "265730",
+                "originalJapaneseLine": "「そーかそーか。",
+                "translatedEnglishLine": "I see, I see."
+            },
+            {
+                "lineNumber": "265731",
+                "originalJapaneseLine": "　出来るだけ早くなー」",
+                "translatedEnglishLine": "Try to do it as soon as possible."
+            },
+            {
+                "lineNumber": "265732",
+                "originalJapaneseLine": "「ぐへへへ、初めて戦った時から、",
+                "translatedEnglishLine": "Hehehe, ever since we first fought,"
+            },
+            {
+                "lineNumber": "265733",
+                "originalJapaneseLine": "　ストリップ状態のワーグと一発やりたかったのだ」",
+                "translatedEnglishLine": "I've wanted to do it with Warg in a stripped state."
+            },
+            {
+                "lineNumber": "265734",
+                "originalJapaneseLine": "「そ……そんな理由、で……」",
+                "translatedEnglishLine": "Th-That kind of reason..."
+            },
+            {
+                "lineNumber": "265735",
+                "originalJapaneseLine": "「周りの奴らは全員寝てるんだろ？",
+                "translatedEnglishLine": "Everyone around is sleeping, right?"
+            },
+            {
+                "lineNumber": "265736",
+                "originalJapaneseLine": "　それなら気にすることないではないか」",
+                "translatedEnglishLine": "If so, there’s nothing to worry about."
+            },
+            {
+                "lineNumber": "265737",
+                "originalJapaneseLine": "「そ、そうかも知れない、けど……",
+                "translatedEnglishLine": "Th-That might be true, but..."
+            },
+            {
+                "lineNumber": "265738",
+                "originalJapaneseLine": "　で、でもでも……」",
+                "translatedEnglishLine": "B-But, but still..."
+            },
+            {
+                "lineNumber": "265739",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": "265740",
+                "originalJapaneseLine": "「そろそろ脱げたか？」",
+                "translatedEnglishLine": "Have you taken them off yet?"
+            },
+            {
+                "lineNumber": "265741",
+                "originalJapaneseLine": "「へ……？」",
+                "translatedEnglishLine": "Huh...?"
+            },
+            {
+                "lineNumber": "265742",
+                "originalJapaneseLine": "「なに開けてるのよー！",
+                "translatedEnglishLine": "What are you opening—!"
+            },
+            {
+                "lineNumber": "265743",
+                "originalJapaneseLine": "　えっち、えっちー！」",
+                "translatedEnglishLine": "You pervert, pervert!"
+            },
+            {
+                "lineNumber": "265744",
+                "originalJapaneseLine": "「えーい、やかましいぞ、イルカめ。",
+                "translatedEnglishLine": "Hey, shut up, you dolphin."
+            },
+            {
+                "lineNumber": "265745",
+                "originalJapaneseLine": "　ってそれよりちっとも脱いでないではないか」",
+                "translatedEnglishLine": "But more importantly, you haven’t taken anything off at all."
+            },
+            {
+                "lineNumber": "265746",
+                "originalJapaneseLine": "「あ、う……だ、だって……」",
+                "translatedEnglishLine": "Ah, ugh... b-because..."
+            },
+            {
+                "lineNumber": "265747",
+                "originalJapaneseLine": "「まあワーグはこういうの慣れてないだろうから、",
+                "translatedEnglishLine": "Well, Warg probably isn’t used to this kind of thing,"
+            },
+            {
+                "lineNumber": "265748",
+                "originalJapaneseLine": "　躊躇する気持ちも分からんではないが……」",
+                "translatedEnglishLine": "So I can understand why you’re hesitant..."
+            },
+            {
+                "lineNumber": "265749",
+                "originalJapaneseLine": "「うううう……",
+                "translatedEnglishLine": "Uuuu..."
+            },
+            {
+                "lineNumber": "265750",
+                "originalJapaneseLine": "　あの、あの、い、いいから、一旦閉じて……」",
+                "translatedEnglishLine": "Um, um, it’s fine, just close it for now..."
+            },
+            {
+                "lineNumber": "265751",
+                "originalJapaneseLine": "「……おい、あれ、まさか下着？」",
+                "translatedEnglishLine": "Hey, wait, is that underwear?"
+            },
+            {
+                "lineNumber": "265752",
+                "originalJapaneseLine": "「いや、そんなまさか……",
+                "translatedEnglishLine": "No, no way..."
+            },
+            {
+                "lineNumber": "265753",
+                "originalJapaneseLine": "　にしたって大胆な服装だなぁ」",
+                "translatedEnglishLine": "But still, that’s quite a bold outfit."
+            },
+            {
+                "lineNumber": "265754",
+                "originalJapaneseLine": "「――ッ！」",
+                "translatedEnglishLine": "—!"
+            },
+            {
+                "lineNumber": "265755",
+                "originalJapaneseLine": "「あ、こら！　勝手に閉じるんじゃない！",
+                "translatedEnglishLine": "Hey, stop closing it without permission!"
+            },
+            {
+                "lineNumber": "265756",
+                "originalJapaneseLine": "　いいかー、ちゃんと脱げよー！」",
+                "translatedEnglishLine": "Alright? Take them off properly!"
+            },
+            {
+                "lineNumber": "265757",
+                "originalJapaneseLine": "「う、うう……」",
+                "translatedEnglishLine": "U-ugh..."
+            },
+            {
+                "lineNumber": "265758",
+                "originalJapaneseLine": "「分かった……わよぉ……」",
+                "translatedEnglishLine": "Okay... fine..."
+            },
+            {
+                "lineNumber": "265759",
+                "originalJapaneseLine": "地面に、パサリ、パサリと、",
+                "translatedEnglishLine": "One by one, pieces of Warg’s clothes fell softly to the ground."
+            },
+            {
+                "lineNumber": "265760",
+                "originalJapaneseLine": "次々にワーグの衣服が脱げ落ちていく。",
+                "translatedEnglishLine": "Warg’s clothes slipped off one after another."
+            },
+            {
+                "lineNumber": "265761",
+                "originalJapaneseLine": "「おほほほ、いーねーいーねー」",
+                "translatedEnglishLine": "Oh ho ho, that’s good, that’s good."
+            },
+            {
+                "lineNumber": "265762",
+                "originalJapaneseLine": "「どうだ、脱いだかー？」",
+                "translatedEnglishLine": "Well, have you taken them off?"
+            },
+            {
+                "lineNumber": "265763",
+                "originalJapaneseLine": "「脱いだ、けど……」",
+                "translatedEnglishLine": "I took them off, but..."
+            },
+            {
+                "lineNumber": "265764",
+                "originalJapaneseLine": "「なら、とっとと出てこい！",
+                "translatedEnglishLine": "Then hurry and come out!"
+            },
+            {
+                "lineNumber": "265765",
+                "originalJapaneseLine": "　そーら、ラッシー、どっか行けー！」",
+                "translatedEnglishLine": "Hey, Rassie, go somewhere else!"
+            },
+            {
+                "lineNumber": "265766",
+                "originalJapaneseLine": "「あっ、ちょ、ちょっと！？」",
+                "translatedEnglishLine": "Ah, w-wait a minute!?"
+            },
+            {
+                "lineNumber": "265767",
+                "originalJapaneseLine": "「…………ッ」",
+                "translatedEnglishLine": "........!"
+            },
+            {
+                "lineNumber": "265768",
+                "originalJapaneseLine": "バサーッと全裸姿のワーグが、街の真ん中に現れた。",
+                "translatedEnglishLine": "Warg, completely naked, appeared in the middle of the town with a flourish."
+            },
+            {
+                "lineNumber": "265769",
+                "originalJapaneseLine": "「うわっ！？　なんだ、あれ！？」",
+                "translatedEnglishLine": "Whoa!? What’s that!?"
+            },
+            {
+                "lineNumber": "265770",
+                "originalJapaneseLine": "「きゃあ、やだ！　は、裸の女の子！？」",
+                "translatedEnglishLine": "Kyaah, no way! Is that a naked girl!?"
+            },
+            {
+                "lineNumber": "265771",
+                "originalJapaneseLine": "「なんだなんだ、ラレラレ石の撮影か！？",
+                "translatedEnglishLine": "What’s going on, is this filming for the Larelare Stone!?"
+            },
+            {
+                "lineNumber": "265772",
+                "originalJapaneseLine": "　うひょー、可愛い女の子じやないか！」",
+                "translatedEnglishLine": "Whoa, isn’t that a cute girl!"
+            },
+            {
+                "lineNumber": "265773",
+                "originalJapaneseLine": "「あぁああああああああぁぁぁあ……！",
+                "translatedEnglishLine": "Aaaaaaahhhhhhh..."
+            }
+        ]
+    }
+}

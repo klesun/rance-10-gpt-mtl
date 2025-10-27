@@ -1,0 +1,719 @@
+{
+    "id": "resp_0c3367808f3339990068ffe9d24a6c819491b527be1952a618",
+    "object": "response",
+    "created_at": 1761602002,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0c3367808f3339990068ffe9d2ba2481948720e072db956482",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「本当はアレ、会社の寮だから、\",\"translatedEnglishLine\":\"\\\"Actually, that place is the company's dormitory,\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　社員以外の人は入っちゃいけなかったんだけどね」\",\"translatedEnglishLine\":\"so people other than employees weren't supposed to enter.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「会社？」\",\"translatedEnglishLine\":\"\\\"Company?\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「前にあたしがOLを\",\"translatedEnglishLine\":\"\\\"Do you remember when I said I worked as an office lady before?\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　やってたって言ったの覚えてる？\",\"translatedEnglishLine\":\"Do you remember that?\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　その時に務めてた会社だよ」\",\"translatedEnglishLine\":\"That's the company where I used to work.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「あー、なんかそんなこと言ってたような……」\",\"translatedEnglishLine\":\"\\\"Ah, yeah, I think you said something like that...\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「しかし、OL姿のプリマか……\",\"translatedEnglishLine\":\"\\\"But, Prima in an office lady outfit... hmmm,\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　ほほう、想像するだに中々……」\",\"translatedEnglishLine\":\"just imagining it is quite something...\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「お茶くみ頼まれるついでに、\",\"translatedEnglishLine\":\"\\\"Did you get harassed when asked to fetch tea or something?\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　セクハラされたりせんかったか？\",\"translatedEnglishLine\":\"Were you sexually harassed?\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　ケツ撫でられたり、乳揉まれたり」\",\"translatedEnglishLine\":\"Like having your butt touched or your breasts groped?\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「された。\",\"translatedEnglishLine\":\"\\\"I was.\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　されまくった」\",\"translatedEnglishLine\":\"I was harassed endlessly.\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「なんだと！？\",\"translatedEnglishLine\":\"\\\"What!?\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「尻撫でられて乳揉まれてなんてしょっちゅう。\",\"translatedEnglishLine\":\"\\\"Having my butt touched and breasts groped was a daily thing.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　ちょっとした連絡事項の度に、\",\"translatedEnglishLine\":\"Every little message meant several minutes of deep kissing,\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　数分くらいディープキスかまされたりね」\",\"translatedEnglishLine\":\"it seems.\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「ああ、社内でレイプされたこともあるよ。\",\"translatedEnglishLine\":\"\\\"Yeah, I've even been raped inside the company.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　嫌だって言ってもやめてくれず、\",\"translatedEnglishLine\":\"Even when I told them no, they wouldn't stop,\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　他の人に気づかれないよう資料室で、とか……」\",\"translatedEnglishLine\":\"happened in the document room so no one else would notice...\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「ななな、なんだとー！？」\",\"translatedEnglishLine\":\"\\\"W-what the hell!?\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「俺様のプリマになんて奴だ！\",\"translatedEnglishLine\":\"\\\"Who the hell does that to my Prima!\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　ぶっ殺す！」\",\"translatedEnglishLine\":\"I'll kill them!\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「相手、メガデスだけどね」\",\"translatedEnglishLine\":\"\\\"The guy was Megadesu, though.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「は？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「あいつ、あたしを追っかけて、\",\"translatedEnglishLine\":\"\\\"That guy followed me and\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"　入社してきたんだ……」\",\"translatedEnglishLine\":\"joined the company...\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「なーんだ」\",\"translatedEnglishLine\":\"\\\"I see.\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「なーんだ、じゃない！\",\"translatedEnglishLine\":\"\\\"Not 'I see'! How much trouble I went through because of him!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　あいつのせいであたしがどれだけ苦労したか！」\",\"translatedEnglishLine\":\"\\\"Because of that guy, I suffered so much!\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「あたしが周囲の目を気にしてるのを分かって、\",\"translatedEnglishLine\":\"\\\"He knew I was conscious of others watching,\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　調子に乗ってあれやこれやと……」\",\"translatedEnglishLine\":\"and got cocky, doing all sorts of things...\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「あれやこれや？」\",\"translatedEnglishLine\":\"\\\"All sorts of things?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「ノーパンノーブラで仕事させられたり、\",\"translatedEnglishLine\":\"\\\"Made me work without panties or a bra,\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　バイブ入れた状態で仕事させられたり、\",\"translatedEnglishLine\":\"made me work while wearing a vibrator,\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　会議中、机の下からイタズラされたり……」\",\"translatedEnglishLine\":\"and messed with under the desk during meetings...\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「ほうほうほう、いいねぇ」\",\"translatedEnglishLine\":\"\\\"Oh, oh, oh, sounds good.\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「ちっとも、よくない！」\",\"translatedEnglishLine\":\"\\\"Not good at all!\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「それで……それで……」\",\"translatedEnglishLine\":\"\\\"So... so...\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「それで？」\",\"translatedEnglishLine\":\"\\\"And?\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「何故か、メガデスと同棲に」\",\"translatedEnglishLine\":\"\\\"For some reason, I ended up living together with Megadesu.\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「昼も夜も抱かれまくりか！」\",\"translatedEnglishLine\":\"\\\"Getting hugged all day and night!\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「ああ、そうだよ！\",\"translatedEnglishLine\":\"\\\"Yeah, that's right!\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　ちくしょー！」\",\"translatedEnglishLine\":\"Damn it!\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「がははは、それは大変だったな」\",\"translatedEnglishLine\":\"\\\"Hahaha, that must have been tough.\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「はあ……」\",\"translatedEnglishLine\":\"\\\"Haa...\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「……もう、我慢の限界だ」\",\"translatedEnglishLine\":\"\\\"...I'm at my breaking point.\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「限界だったのか？\",\"translatedEnglishLine\":\"\\\"You've reached your limit?\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　結構楽しそうに思えるが」\",\"translatedEnglishLine\":\"You sound like you were having fun, though.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「んなわけあるか！！！！」\",\"translatedEnglishLine\":\"\\\"No way!!!\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「…………決めた」\",\"translatedEnglishLine\":\"\\\"...I've decided.\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「おお、目が据わってるぞ、プリマ」\",\"translatedEnglishLine\":\"\\\"Oh, your eyes are steely, Prima.\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「あたし！　メガデスに絶縁状を叩きつける！」\",\"translatedEnglishLine\":\"\\\"I'm going to throw a letter of severance at Megadesu!\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「おいこら、メガデスって呼ぶなっつってんだろ」\",\"translatedEnglishLine\":\"\\\"Hey, don't call me Megadesu, I told you!\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「ひいいいいいいいいいいい！？」\",\"translatedEnglishLine\":\"\\\"Eeeeeeeeeek!?\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「あーあー、すっかり格付け済んじゃって……\",\"translatedEnglishLine\":\"\\\"Ahh, you've already made up your mind about the ranking...\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　駄目そうだな、これは」\",\"translatedEnglishLine\":\"Looks hopeless, this.\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「んー？　てか、なんの話？」\",\"translatedEnglishLine\":\"\\\"Hmm? By the way, what's this about?\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "266964",
+                                "originalJapaneseLine": "「本当はアレ、会社の寮だから、",
+                                "translatedEnglishLine": "\"Actually, that place is the company's dormitory,"
+                            },
+                            {
+                                "lineNumber": "266965",
+                                "originalJapaneseLine": "　社員以外の人は入っちゃいけなかったんだけどね」",
+                                "translatedEnglishLine": "so people other than employees weren't supposed to enter.\""
+                            },
+                            {
+                                "lineNumber": "266966",
+                                "originalJapaneseLine": "「会社？」",
+                                "translatedEnglishLine": "\"Company?\""
+                            },
+                            {
+                                "lineNumber": "266967",
+                                "originalJapaneseLine": "「前にあたしがOLを",
+                                "translatedEnglishLine": "\"Do you remember when I said I worked as an office lady before?"
+                            },
+                            {
+                                "lineNumber": "266968",
+                                "originalJapaneseLine": "　やってたって言ったの覚えてる？",
+                                "translatedEnglishLine": "Do you remember that?"
+                            },
+                            {
+                                "lineNumber": "266969",
+                                "originalJapaneseLine": "　その時に務めてた会社だよ」",
+                                "translatedEnglishLine": "That's the company where I used to work.\""
+                            },
+                            {
+                                "lineNumber": "266970",
+                                "originalJapaneseLine": "「あー、なんかそんなこと言ってたような……」",
+                                "translatedEnglishLine": "\"Ah, yeah, I think you said something like that...\""
+                            },
+                            {
+                                "lineNumber": "266971",
+                                "originalJapaneseLine": "「しかし、OL姿のプリマか……",
+                                "translatedEnglishLine": "\"But, Prima in an office lady outfit... hmmm,"
+                            },
+                            {
+                                "lineNumber": "266972",
+                                "originalJapaneseLine": "　ほほう、想像するだに中々……」",
+                                "translatedEnglishLine": "just imagining it is quite something...\""
+                            },
+                            {
+                                "lineNumber": "266973",
+                                "originalJapaneseLine": "「お茶くみ頼まれるついでに、",
+                                "translatedEnglishLine": "\"Did you get harassed when asked to fetch tea or something?"
+                            },
+                            {
+                                "lineNumber": "266974",
+                                "originalJapaneseLine": "　セクハラされたりせんかったか？",
+                                "translatedEnglishLine": "Were you sexually harassed?"
+                            },
+                            {
+                                "lineNumber": "266975",
+                                "originalJapaneseLine": "　ケツ撫でられたり、乳揉まれたり」",
+                                "translatedEnglishLine": "Like having your butt touched or your breasts groped?\""
+                            },
+                            {
+                                "lineNumber": "266976",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "266977",
+                                "originalJapaneseLine": "「された。",
+                                "translatedEnglishLine": "\"I was."
+                            },
+                            {
+                                "lineNumber": "266978",
+                                "originalJapaneseLine": "　されまくった」",
+                                "translatedEnglishLine": "I was harassed endlessly.\""
+                            },
+                            {
+                                "lineNumber": "266979",
+                                "originalJapaneseLine": "「なんだと！？",
+                                "translatedEnglishLine": "\"What!?"
+                            },
+                            {
+                                "lineNumber": "266980",
+                                "originalJapaneseLine": "「尻撫でられて乳揉まれてなんてしょっちゅう。",
+                                "translatedEnglishLine": "\"Having my butt touched and breasts groped was a daily thing."
+                            },
+                            {
+                                "lineNumber": "266981",
+                                "originalJapaneseLine": "　ちょっとした連絡事項の度に、",
+                                "translatedEnglishLine": "Every little message meant several minutes of deep kissing,"
+                            },
+                            {
+                                "lineNumber": "266982",
+                                "originalJapaneseLine": "　数分くらいディープキスかまされたりね」",
+                                "translatedEnglishLine": "it seems.\""
+                            },
+                            {
+                                "lineNumber": "266983",
+                                "originalJapaneseLine": "「ああ、社内でレイプされたこともあるよ。",
+                                "translatedEnglishLine": "\"Yeah, I've even been raped inside the company."
+                            },
+                            {
+                                "lineNumber": "266984",
+                                "originalJapaneseLine": "　嫌だって言ってもやめてくれず、",
+                                "translatedEnglishLine": "Even when I told them no, they wouldn't stop,"
+                            },
+                            {
+                                "lineNumber": "266985",
+                                "originalJapaneseLine": "　他の人に気づかれないよう資料室で、とか……」",
+                                "translatedEnglishLine": "happened in the document room so no one else would notice...\""
+                            },
+                            {
+                                "lineNumber": "266986",
+                                "originalJapaneseLine": "「ななな、なんだとー！？」",
+                                "translatedEnglishLine": "\"W-what the hell!?\""
+                            },
+                            {
+                                "lineNumber": "266987",
+                                "originalJapaneseLine": "「俺様のプリマになんて奴だ！",
+                                "translatedEnglishLine": "\"Who the hell does that to my Prima!"
+                            },
+                            {
+                                "lineNumber": "266988",
+                                "originalJapaneseLine": "　ぶっ殺す！」",
+                                "translatedEnglishLine": "I'll kill them!\""
+                            },
+                            {
+                                "lineNumber": "266989",
+                                "originalJapaneseLine": "「相手、メガデスだけどね」",
+                                "translatedEnglishLine": "\"The guy was Megadesu, though.\""
+                            },
+                            {
+                                "lineNumber": "266990",
+                                "originalJapaneseLine": "「は？」",
+                                "translatedEnglishLine": "\"Huh?\""
+                            },
+                            {
+                                "lineNumber": "266991",
+                                "originalJapaneseLine": "「あいつ、あたしを追っかけて、",
+                                "translatedEnglishLine": "\"That guy followed me and"
+                            },
+                            {
+                                "lineNumber": "266992",
+                                "originalJapaneseLine": "　入社してきたんだ……」",
+                                "translatedEnglishLine": "joined the company...\""
+                            },
+                            {
+                                "lineNumber": "266993",
+                                "originalJapaneseLine": "「なーんだ」",
+                                "translatedEnglishLine": "\"I see.\""
+                            },
+                            {
+                                "lineNumber": "266994",
+                                "originalJapaneseLine": "「なーんだ、じゃない！",
+                                "translatedEnglishLine": "\"Not 'I see'! How much trouble I went through because of him!\""
+                            },
+                            {
+                                "lineNumber": "266995",
+                                "originalJapaneseLine": "　あいつのせいであたしがどれだけ苦労したか！」",
+                                "translatedEnglishLine": "\"Because of that guy, I suffered so much!\""
+                            },
+                            {
+                                "lineNumber": "266996",
+                                "originalJapaneseLine": "「あたしが周囲の目を気にしてるのを分かって、",
+                                "translatedEnglishLine": "\"He knew I was conscious of others watching,"
+                            },
+                            {
+                                "lineNumber": "266997",
+                                "originalJapaneseLine": "　調子に乗ってあれやこれやと……」",
+                                "translatedEnglishLine": "and got cocky, doing all sorts of things...\""
+                            },
+                            {
+                                "lineNumber": "266998",
+                                "originalJapaneseLine": "「あれやこれや？」",
+                                "translatedEnglishLine": "\"All sorts of things?\""
+                            },
+                            {
+                                "lineNumber": "266999",
+                                "originalJapaneseLine": "「ノーパンノーブラで仕事させられたり、",
+                                "translatedEnglishLine": "\"Made me work without panties or a bra,"
+                            },
+                            {
+                                "lineNumber": "267000",
+                                "originalJapaneseLine": "　バイブ入れた状態で仕事させられたり、",
+                                "translatedEnglishLine": "made me work while wearing a vibrator,"
+                            },
+                            {
+                                "lineNumber": "267001",
+                                "originalJapaneseLine": "　会議中、机の下からイタズラされたり……」",
+                                "translatedEnglishLine": "and messed with under the desk during meetings...\""
+                            },
+                            {
+                                "lineNumber": "267002",
+                                "originalJapaneseLine": "「ほうほうほう、いいねぇ」",
+                                "translatedEnglishLine": "\"Oh, oh, oh, sounds good.\""
+                            },
+                            {
+                                "lineNumber": "267003",
+                                "originalJapaneseLine": "「ちっとも、よくない！」",
+                                "translatedEnglishLine": "\"Not good at all!\""
+                            },
+                            {
+                                "lineNumber": "267004",
+                                "originalJapaneseLine": "「それで……それで……」",
+                                "translatedEnglishLine": "\"So... so...\""
+                            },
+                            {
+                                "lineNumber": "267005",
+                                "originalJapaneseLine": "「それで？」",
+                                "translatedEnglishLine": "\"And?\""
+                            },
+                            {
+                                "lineNumber": "267006",
+                                "originalJapaneseLine": "「何故か、メガデスと同棲に」",
+                                "translatedEnglishLine": "\"For some reason, I ended up living together with Megadesu.\""
+                            },
+                            {
+                                "lineNumber": "267007",
+                                "originalJapaneseLine": "「昼も夜も抱かれまくりか！」",
+                                "translatedEnglishLine": "\"Getting hugged all day and night!\""
+                            },
+                            {
+                                "lineNumber": "267008",
+                                "originalJapaneseLine": "「ああ、そうだよ！",
+                                "translatedEnglishLine": "\"Yeah, that's right!"
+                            },
+                            {
+                                "lineNumber": "267009",
+                                "originalJapaneseLine": "　ちくしょー！」",
+                                "translatedEnglishLine": "Damn it!\""
+                            },
+                            {
+                                "lineNumber": "267010",
+                                "originalJapaneseLine": "「がははは、それは大変だったな」",
+                                "translatedEnglishLine": "\"Hahaha, that must have been tough.\""
+                            },
+                            {
+                                "lineNumber": "267011",
+                                "originalJapaneseLine": "「はあ……」",
+                                "translatedEnglishLine": "\"Haa...\""
+                            },
+                            {
+                                "lineNumber": "267012",
+                                "originalJapaneseLine": "「……もう、我慢の限界だ」",
+                                "translatedEnglishLine": "\"...I'm at my breaking point.\""
+                            },
+                            {
+                                "lineNumber": "267013",
+                                "originalJapaneseLine": "「限界だったのか？",
+                                "translatedEnglishLine": "\"You've reached your limit?"
+                            },
+                            {
+                                "lineNumber": "267014",
+                                "originalJapaneseLine": "　結構楽しそうに思えるが」",
+                                "translatedEnglishLine": "You sound like you were having fun, though.\""
+                            },
+                            {
+                                "lineNumber": "267015",
+                                "originalJapaneseLine": "「んなわけあるか！！！！」",
+                                "translatedEnglishLine": "\"No way!!!\""
+                            },
+                            {
+                                "lineNumber": "267016",
+                                "originalJapaneseLine": "「…………決めた」",
+                                "translatedEnglishLine": "\"...I've decided.\""
+                            },
+                            {
+                                "lineNumber": "267017",
+                                "originalJapaneseLine": "「おお、目が据わってるぞ、プリマ」",
+                                "translatedEnglishLine": "\"Oh, your eyes are steely, Prima.\""
+                            },
+                            {
+                                "lineNumber": "267018",
+                                "originalJapaneseLine": "「あたし！　メガデスに絶縁状を叩きつける！」",
+                                "translatedEnglishLine": "\"I'm going to throw a letter of severance at Megadesu!\""
+                            },
+                            {
+                                "lineNumber": "267019",
+                                "originalJapaneseLine": "「おいこら、メガデスって呼ぶなっつってんだろ」",
+                                "translatedEnglishLine": "\"Hey, don't call me Megadesu, I told you!\""
+                            },
+                            {
+                                "lineNumber": "267020",
+                                "originalJapaneseLine": "「ひいいいいいいいいいいい！？」",
+                                "translatedEnglishLine": "\"Eeeeeeeeeek!?\""
+                            },
+                            {
+                                "lineNumber": "267021",
+                                "originalJapaneseLine": "「あーあー、すっかり格付け済んじゃって……",
+                                "translatedEnglishLine": "\"Ahh, you've already made up your mind about the ranking..."
+                            },
+                            {
+                                "lineNumber": "267022",
+                                "originalJapaneseLine": "　駄目そうだな、これは」",
+                                "translatedEnglishLine": "Looks hopeless, this.\""
+                            },
+                            {
+                                "lineNumber": "267023",
+                                "originalJapaneseLine": "「んー？　てか、なんの話？」",
+                                "translatedEnglishLine": "\"Hmm? By the way, what's this about?\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1826,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2138,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3964
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「本当はアレ、会社の寮だから、\",\"translatedEnglishLine\":\"\\\"Actually, that place is the company's dormitory,\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　社員以外の人は入っちゃいけなかったんだけどね」\",\"translatedEnglishLine\":\"so people other than employees weren't supposed to enter.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「会社？」\",\"translatedEnglishLine\":\"\\\"Company?\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「前にあたしがOLを\",\"translatedEnglishLine\":\"\\\"Do you remember when I said I worked as an office lady before?\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　やってたって言ったの覚えてる？\",\"translatedEnglishLine\":\"Do you remember that?\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　その時に務めてた会社だよ」\",\"translatedEnglishLine\":\"That's the company where I used to work.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「あー、なんかそんなこと言ってたような……」\",\"translatedEnglishLine\":\"\\\"Ah, yeah, I think you said something like that...\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「しかし、OL姿のプリマか……\",\"translatedEnglishLine\":\"\\\"But, Prima in an office lady outfit... hmmm,\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　ほほう、想像するだに中々……」\",\"translatedEnglishLine\":\"just imagining it is quite something...\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「お茶くみ頼まれるついでに、\",\"translatedEnglishLine\":\"\\\"Did you get harassed when asked to fetch tea or something?\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　セクハラされたりせんかったか？\",\"translatedEnglishLine\":\"Were you sexually harassed?\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　ケツ撫でられたり、乳揉まれたり」\",\"translatedEnglishLine\":\"Like having your butt touched or your breasts groped?\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「された。\",\"translatedEnglishLine\":\"\\\"I was.\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　されまくった」\",\"translatedEnglishLine\":\"I was harassed endlessly.\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「なんだと！？\",\"translatedEnglishLine\":\"\\\"What!?\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「尻撫でられて乳揉まれてなんてしょっちゅう。\",\"translatedEnglishLine\":\"\\\"Having my butt touched and breasts groped was a daily thing.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　ちょっとした連絡事項の度に、\",\"translatedEnglishLine\":\"Every little message meant several minutes of deep kissing,\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　数分くらいディープキスかまされたりね」\",\"translatedEnglishLine\":\"it seems.\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「ああ、社内でレイプされたこともあるよ。\",\"translatedEnglishLine\":\"\\\"Yeah, I've even been raped inside the company.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　嫌だって言ってもやめてくれず、\",\"translatedEnglishLine\":\"Even when I told them no, they wouldn't stop,\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　他の人に気づかれないよう資料室で、とか……」\",\"translatedEnglishLine\":\"happened in the document room so no one else would notice...\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「ななな、なんだとー！？」\",\"translatedEnglishLine\":\"\\\"W-what the hell!?\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「俺様のプリマになんて奴だ！\",\"translatedEnglishLine\":\"\\\"Who the hell does that to my Prima!\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　ぶっ殺す！」\",\"translatedEnglishLine\":\"I'll kill them!\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「相手、メガデスだけどね」\",\"translatedEnglishLine\":\"\\\"The guy was Megadesu, though.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「は？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「あいつ、あたしを追っかけて、\",\"translatedEnglishLine\":\"\\\"That guy followed me and\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"　入社してきたんだ……」\",\"translatedEnglishLine\":\"joined the company...\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「なーんだ」\",\"translatedEnglishLine\":\"\\\"I see.\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「なーんだ、じゃない！\",\"translatedEnglishLine\":\"\\\"Not 'I see'! How much trouble I went through because of him!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　あいつのせいであたしがどれだけ苦労したか！」\",\"translatedEnglishLine\":\"\\\"Because of that guy, I suffered so much!\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「あたしが周囲の目を気にしてるのを分かって、\",\"translatedEnglishLine\":\"\\\"He knew I was conscious of others watching,\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　調子に乗ってあれやこれやと……」\",\"translatedEnglishLine\":\"and got cocky, doing all sorts of things...\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「あれやこれや？」\",\"translatedEnglishLine\":\"\\\"All sorts of things?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「ノーパンノーブラで仕事させられたり、\",\"translatedEnglishLine\":\"\\\"Made me work without panties or a bra,\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　バイブ入れた状態で仕事させられたり、\",\"translatedEnglishLine\":\"made me work while wearing a vibrator,\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　会議中、机の下からイタズラされたり……」\",\"translatedEnglishLine\":\"and messed with under the desk during meetings...\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「ほうほうほう、いいねぇ」\",\"translatedEnglishLine\":\"\\\"Oh, oh, oh, sounds good.\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「ちっとも、よくない！」\",\"translatedEnglishLine\":\"\\\"Not good at all!\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「それで……それで……」\",\"translatedEnglishLine\":\"\\\"So... so...\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「それで？」\",\"translatedEnglishLine\":\"\\\"And?\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「何故か、メガデスと同棲に」\",\"translatedEnglishLine\":\"\\\"For some reason, I ended up living together with Megadesu.\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「昼も夜も抱かれまくりか！」\",\"translatedEnglishLine\":\"\\\"Getting hugged all day and night!\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「ああ、そうだよ！\",\"translatedEnglishLine\":\"\\\"Yeah, that's right!\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　ちくしょー！」\",\"translatedEnglishLine\":\"Damn it!\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「がははは、それは大変だったな」\",\"translatedEnglishLine\":\"\\\"Hahaha, that must have been tough.\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「はあ……」\",\"translatedEnglishLine\":\"\\\"Haa...\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「……もう、我慢の限界だ」\",\"translatedEnglishLine\":\"\\\"...I'm at my breaking point.\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「限界だったのか？\",\"translatedEnglishLine\":\"\\\"You've reached your limit?\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　結構楽しそうに思えるが」\",\"translatedEnglishLine\":\"You sound like you were having fun, though.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「んなわけあるか！！！！」\",\"translatedEnglishLine\":\"\\\"No way!!!\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「…………決めた」\",\"translatedEnglishLine\":\"\\\"...I've decided.\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「おお、目が据わってるぞ、プリマ」\",\"translatedEnglishLine\":\"\\\"Oh, your eyes are steely, Prima.\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「あたし！　メガデスに絶縁状を叩きつける！」\",\"translatedEnglishLine\":\"\\\"I'm going to throw a letter of severance at Megadesu!\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「おいこら、メガデスって呼ぶなっつってんだろ」\",\"translatedEnglishLine\":\"\\\"Hey, don't call me Megadesu, I told you!\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「ひいいいいいいいいいいい！？」\",\"translatedEnglishLine\":\"\\\"Eeeeeeeeeek!?\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「あーあー、すっかり格付け済んじゃって……\",\"translatedEnglishLine\":\"\\\"Ahh, you've already made up your mind about the ranking...\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　駄目そうだな、これは」\",\"translatedEnglishLine\":\"Looks hopeless, this.\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「んー？　てか、なんの話？」\",\"translatedEnglishLine\":\"\\\"Hmm? By the way, what's this about?\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "266964",
+                "originalJapaneseLine": "「本当はアレ、会社の寮だから、",
+                "translatedEnglishLine": "\"Actually, that place is the company's dormitory,"
+            },
+            {
+                "lineNumber": "266965",
+                "originalJapaneseLine": "　社員以外の人は入っちゃいけなかったんだけどね」",
+                "translatedEnglishLine": "so people other than employees weren't supposed to enter.\""
+            },
+            {
+                "lineNumber": "266966",
+                "originalJapaneseLine": "「会社？」",
+                "translatedEnglishLine": "\"Company?\""
+            },
+            {
+                "lineNumber": "266967",
+                "originalJapaneseLine": "「前にあたしがOLを",
+                "translatedEnglishLine": "\"Do you remember when I said I worked as an office lady before?"
+            },
+            {
+                "lineNumber": "266968",
+                "originalJapaneseLine": "　やってたって言ったの覚えてる？",
+                "translatedEnglishLine": "Do you remember that?"
+            },
+            {
+                "lineNumber": "266969",
+                "originalJapaneseLine": "　その時に務めてた会社だよ」",
+                "translatedEnglishLine": "That's the company where I used to work.\""
+            },
+            {
+                "lineNumber": "266970",
+                "originalJapaneseLine": "「あー、なんかそんなこと言ってたような……」",
+                "translatedEnglishLine": "\"Ah, yeah, I think you said something like that...\""
+            },
+            {
+                "lineNumber": "266971",
+                "originalJapaneseLine": "「しかし、OL姿のプリマか……",
+                "translatedEnglishLine": "\"But, Prima in an office lady outfit... hmmm,"
+            },
+            {
+                "lineNumber": "266972",
+                "originalJapaneseLine": "　ほほう、想像するだに中々……」",
+                "translatedEnglishLine": "just imagining it is quite something...\""
+            },
+            {
+                "lineNumber": "266973",
+                "originalJapaneseLine": "「お茶くみ頼まれるついでに、",
+                "translatedEnglishLine": "\"Did you get harassed when asked to fetch tea or something?"
+            },
+            {
+                "lineNumber": "266974",
+                "originalJapaneseLine": "　セクハラされたりせんかったか？",
+                "translatedEnglishLine": "Were you sexually harassed?"
+            },
+            {
+                "lineNumber": "266975",
+                "originalJapaneseLine": "　ケツ撫でられたり、乳揉まれたり」",
+                "translatedEnglishLine": "Like having your butt touched or your breasts groped?\""
+            },
+            {
+                "lineNumber": "266976",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "266977",
+                "originalJapaneseLine": "「された。",
+                "translatedEnglishLine": "\"I was."
+            },
+            {
+                "lineNumber": "266978",
+                "originalJapaneseLine": "　されまくった」",
+                "translatedEnglishLine": "I was harassed endlessly.\""
+            },
+            {
+                "lineNumber": "266979",
+                "originalJapaneseLine": "「なんだと！？",
+                "translatedEnglishLine": "\"What!?"
+            },
+            {
+                "lineNumber": "266980",
+                "originalJapaneseLine": "「尻撫でられて乳揉まれてなんてしょっちゅう。",
+                "translatedEnglishLine": "\"Having my butt touched and breasts groped was a daily thing."
+            },
+            {
+                "lineNumber": "266981",
+                "originalJapaneseLine": "　ちょっとした連絡事項の度に、",
+                "translatedEnglishLine": "Every little message meant several minutes of deep kissing,"
+            },
+            {
+                "lineNumber": "266982",
+                "originalJapaneseLine": "　数分くらいディープキスかまされたりね」",
+                "translatedEnglishLine": "it seems.\""
+            },
+            {
+                "lineNumber": "266983",
+                "originalJapaneseLine": "「ああ、社内でレイプされたこともあるよ。",
+                "translatedEnglishLine": "\"Yeah, I've even been raped inside the company."
+            },
+            {
+                "lineNumber": "266984",
+                "originalJapaneseLine": "　嫌だって言ってもやめてくれず、",
+                "translatedEnglishLine": "Even when I told them no, they wouldn't stop,"
+            },
+            {
+                "lineNumber": "266985",
+                "originalJapaneseLine": "　他の人に気づかれないよう資料室で、とか……」",
+                "translatedEnglishLine": "happened in the document room so no one else would notice...\""
+            },
+            {
+                "lineNumber": "266986",
+                "originalJapaneseLine": "「ななな、なんだとー！？」",
+                "translatedEnglishLine": "\"W-what the hell!?\""
+            },
+            {
+                "lineNumber": "266987",
+                "originalJapaneseLine": "「俺様のプリマになんて奴だ！",
+                "translatedEnglishLine": "\"Who the hell does that to my Prima!"
+            },
+            {
+                "lineNumber": "266988",
+                "originalJapaneseLine": "　ぶっ殺す！」",
+                "translatedEnglishLine": "I'll kill them!\""
+            },
+            {
+                "lineNumber": "266989",
+                "originalJapaneseLine": "「相手、メガデスだけどね」",
+                "translatedEnglishLine": "\"The guy was Megadesu, though.\""
+            },
+            {
+                "lineNumber": "266990",
+                "originalJapaneseLine": "「は？」",
+                "translatedEnglishLine": "\"Huh?\""
+            },
+            {
+                "lineNumber": "266991",
+                "originalJapaneseLine": "「あいつ、あたしを追っかけて、",
+                "translatedEnglishLine": "\"That guy followed me and"
+            },
+            {
+                "lineNumber": "266992",
+                "originalJapaneseLine": "　入社してきたんだ……」",
+                "translatedEnglishLine": "joined the company...\""
+            },
+            {
+                "lineNumber": "266993",
+                "originalJapaneseLine": "「なーんだ」",
+                "translatedEnglishLine": "\"I see.\""
+            },
+            {
+                "lineNumber": "266994",
+                "originalJapaneseLine": "「なーんだ、じゃない！",
+                "translatedEnglishLine": "\"Not 'I see'! How much trouble I went through because of him!\""
+            },
+            {
+                "lineNumber": "266995",
+                "originalJapaneseLine": "　あいつのせいであたしがどれだけ苦労したか！」",
+                "translatedEnglishLine": "\"Because of that guy, I suffered so much!\""
+            },
+            {
+                "lineNumber": "266996",
+                "originalJapaneseLine": "「あたしが周囲の目を気にしてるのを分かって、",
+                "translatedEnglishLine": "\"He knew I was conscious of others watching,"
+            },
+            {
+                "lineNumber": "266997",
+                "originalJapaneseLine": "　調子に乗ってあれやこれやと……」",
+                "translatedEnglishLine": "and got cocky, doing all sorts of things...\""
+            },
+            {
+                "lineNumber": "266998",
+                "originalJapaneseLine": "「あれやこれや？」",
+                "translatedEnglishLine": "\"All sorts of things?\""
+            },
+            {
+                "lineNumber": "266999",
+                "originalJapaneseLine": "「ノーパンノーブラで仕事させられたり、",
+                "translatedEnglishLine": "\"Made me work without panties or a bra,"
+            },
+            {
+                "lineNumber": "267000",
+                "originalJapaneseLine": "　バイブ入れた状態で仕事させられたり、",
+                "translatedEnglishLine": "made me work while wearing a vibrator,"
+            },
+            {
+                "lineNumber": "267001",
+                "originalJapaneseLine": "　会議中、机の下からイタズラされたり……」",
+                "translatedEnglishLine": "and messed with under the desk during meetings...\""
+            },
+            {
+                "lineNumber": "267002",
+                "originalJapaneseLine": "「ほうほうほう、いいねぇ」",
+                "translatedEnglishLine": "\"Oh, oh, oh, sounds good.\""
+            },
+            {
+                "lineNumber": "267003",
+                "originalJapaneseLine": "「ちっとも、よくない！」",
+                "translatedEnglishLine": "\"Not good at all!\""
+            },
+            {
+                "lineNumber": "267004",
+                "originalJapaneseLine": "「それで……それで……」",
+                "translatedEnglishLine": "\"So... so...\""
+            },
+            {
+                "lineNumber": "267005",
+                "originalJapaneseLine": "「それで？」",
+                "translatedEnglishLine": "\"And?\""
+            },
+            {
+                "lineNumber": "267006",
+                "originalJapaneseLine": "「何故か、メガデスと同棲に」",
+                "translatedEnglishLine": "\"For some reason, I ended up living together with Megadesu.\""
+            },
+            {
+                "lineNumber": "267007",
+                "originalJapaneseLine": "「昼も夜も抱かれまくりか！」",
+                "translatedEnglishLine": "\"Getting hugged all day and night!\""
+            },
+            {
+                "lineNumber": "267008",
+                "originalJapaneseLine": "「ああ、そうだよ！",
+                "translatedEnglishLine": "\"Yeah, that's right!"
+            },
+            {
+                "lineNumber": "267009",
+                "originalJapaneseLine": "　ちくしょー！」",
+                "translatedEnglishLine": "Damn it!\""
+            },
+            {
+                "lineNumber": "267010",
+                "originalJapaneseLine": "「がははは、それは大変だったな」",
+                "translatedEnglishLine": "\"Hahaha, that must have been tough.\""
+            },
+            {
+                "lineNumber": "267011",
+                "originalJapaneseLine": "「はあ……」",
+                "translatedEnglishLine": "\"Haa...\""
+            },
+            {
+                "lineNumber": "267012",
+                "originalJapaneseLine": "「……もう、我慢の限界だ」",
+                "translatedEnglishLine": "\"...I'm at my breaking point.\""
+            },
+            {
+                "lineNumber": "267013",
+                "originalJapaneseLine": "「限界だったのか？",
+                "translatedEnglishLine": "\"You've reached your limit?"
+            },
+            {
+                "lineNumber": "267014",
+                "originalJapaneseLine": "　結構楽しそうに思えるが」",
+                "translatedEnglishLine": "You sound like you were having fun, though.\""
+            },
+            {
+                "lineNumber": "267015",
+                "originalJapaneseLine": "「んなわけあるか！！！！」",
+                "translatedEnglishLine": "\"No way!!!\""
+            },
+            {
+                "lineNumber": "267016",
+                "originalJapaneseLine": "「…………決めた」",
+                "translatedEnglishLine": "\"...I've decided.\""
+            },
+            {
+                "lineNumber": "267017",
+                "originalJapaneseLine": "「おお、目が据わってるぞ、プリマ」",
+                "translatedEnglishLine": "\"Oh, your eyes are steely, Prima.\""
+            },
+            {
+                "lineNumber": "267018",
+                "originalJapaneseLine": "「あたし！　メガデスに絶縁状を叩きつける！」",
+                "translatedEnglishLine": "\"I'm going to throw a letter of severance at Megadesu!\""
+            },
+            {
+                "lineNumber": "267019",
+                "originalJapaneseLine": "「おいこら、メガデスって呼ぶなっつってんだろ」",
+                "translatedEnglishLine": "\"Hey, don't call me Megadesu, I told you!\""
+            },
+            {
+                "lineNumber": "267020",
+                "originalJapaneseLine": "「ひいいいいいいいいいいい！？」",
+                "translatedEnglishLine": "\"Eeeeeeeeeek!?\""
+            },
+            {
+                "lineNumber": "267021",
+                "originalJapaneseLine": "「あーあー、すっかり格付け済んじゃって……",
+                "translatedEnglishLine": "\"Ahh, you've already made up your mind about the ranking..."
+            },
+            {
+                "lineNumber": "267022",
+                "originalJapaneseLine": "　駄目そうだな、これは」",
+                "translatedEnglishLine": "Looks hopeless, this.\""
+            },
+            {
+                "lineNumber": "267023",
+                "originalJapaneseLine": "「んー？　てか、なんの話？」",
+                "translatedEnglishLine": "\"Hmm? By the way, what's this about?\""
+            }
+        ]
+    }
+}

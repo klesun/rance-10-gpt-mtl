@@ -1,0 +1,719 @@
+{
+    "id": "resp_00b263fe83f3f7550068ffef54816881958ed83338bed45bde",
+    "object": "response",
+    "created_at": 1761603412,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_00b263fe83f3f7550068ffef5527948195a9c630e7d60c5f8a",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「本人に出来ないことは、\",\"translatedEnglishLine\":\"\\\"Things that the person themselves can't do,\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　私の命令でも難しいけど……」\",\"translatedEnglishLine\":\"are difficult even with my orders...\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「ま、やるだけやってみましょうか」\",\"translatedEnglishLine\":\"\\\"Well, let's just try doing whatever we can.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"最初に感じたのは――苦痛。\",\"translatedEnglishLine\":\"The first thing I felt was—pain.\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"一つのものが二つに別たれる\",\"translatedEnglishLine\":\"One thing splitting into two.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"苦しみと痛みだった。\",\"translatedEnglishLine\":\"It was suffering and pain.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"しかし、その痛みも次第に薄れていった。\",\"translatedEnglishLine\":\"However, that pain gradually faded away.\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"誰もがそうであるように。\",\"translatedEnglishLine\":\"As it is for everyone.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「う、うくっ……いったい、なにが……」\",\"translatedEnglishLine\":\"\\\"U-ugh... what on earth is...\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「けほっ……けほっ……」\",\"translatedEnglishLine\":\"\\\"Cough... cough...\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「お……」\",\"translatedEnglishLine\":\"\\\"Oh...\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「おーーーっ！\",\"translatedEnglishLine\":\"\\\"Oohhh!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　元に戻ったー！」\",\"translatedEnglishLine\":\"\\\"We've returned to how we were!\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「わー、良かったですー」\",\"translatedEnglishLine\":\"\\\"Wow, that's great!\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ランスさんに、シィルさん？\",\"translatedEnglishLine\":\"\\\"Rance-san and Sylph-san?\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　えーと……私達、一体……」\",\"translatedEnglishLine\":\"Umm... what exactly are we...?\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「あ、そうか……\",\"translatedEnglishLine\":\"\\\"Ah, right...\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　あのわけの分からない奴……\",\"translatedEnglishLine\":\"That incomprehensible guy...\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　確か、バスワルドってのになって……」\",\"translatedEnglishLine\":\"He apparently became something called Baswold...\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「なんか……\",\"translatedEnglishLine\":\"\\\"Somehow...\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　色々と迷惑かけちゃったみたいね」\",\"translatedEnglishLine\":\"It seems like we caused a lot of trouble.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「おう、俺様が元に戻してやったのだ。\",\"translatedEnglishLine\":\"\\\"Yeah, I was the one who put you back to normal.\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　感謝して敬えよ」\",\"translatedEnglishLine\":\"Be thankful and show respect.\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「あはは……」\",\"translatedEnglishLine\":\"\\\"Ahaha...\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「で、結局バスワルドってなんだ？」\",\"translatedEnglishLine\":\"\\\"So, after all, what exactly is Baswold?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「うーん……」\",\"translatedEnglishLine\":\"\\\"Hmm...\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「……ごめん。\",\"translatedEnglishLine\":\"\\\"...Sorry.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　私達にも分からない」\",\"translatedEnglishLine\":\"We don't understand it either.\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「でも、なんか……\",\"translatedEnglishLine\":\"\\\"But somehow...\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　私達ってそうなるみたいね」\",\"translatedEnglishLine\":\"it seems that's what happens to us.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「え……\",\"translatedEnglishLine\":\"\\\"Eh...\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　それじゃあいつかまたあんな風に……」\",\"translatedEnglishLine\":\"Then someday, it might happen again like that...\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「いえ、それは大丈夫かと思います」\",\"translatedEnglishLine\":\"\\\"No, I think that will be okay.\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「ここのところいつも抱えていた、\",\"translatedEnglishLine\":\"\\\"Lately, the certainty we always held,\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　いつかきっと元に戻る……\",\"translatedEnglishLine\":\"that someday we’d surely return to normal...\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　という確信が消えました」\",\"translatedEnglishLine\":\"has disappeared.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「少し……\",\"translatedEnglishLine\":\"\\\"A little...\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　胸にぽっかりと穴が開いたよう……」\",\"translatedEnglishLine\":\"it feels as if there's a hollow hole in my chest...\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「そう、ね……\",\"translatedEnglishLine\":\"\\\"Yes, that's right...\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　それこそ、半身を失ったよう……」\",\"translatedEnglishLine\":\"It truly feels like having lost half of oneself...\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「あら……\",\"translatedEnglishLine\":\"\\\"Oh...\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　でも悪いことばかりじゃないわ」\",\"translatedEnglishLine\":\"But it's not all bad.\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「えっ……」\",\"translatedEnglishLine\":\"\\\"Eh...?\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「だって……\",\"translatedEnglishLine\":\"\\\"Because...\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"アムがハウゼルの手を取り、\",\"translatedEnglishLine\":\"Am took Hauseru’s hand,\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"サイゼルの手と繋がせた。\",\"translatedEnglishLine\":\"and linked it with Saizel’s hand.\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「一人では手を繋ぐことは出来ない」\",\"translatedEnglishLine\":\"\\\"One cannot hold hands alone.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「ね？　だから……」\",\"translatedEnglishLine\":\"\\\"Right? So...\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「貴方達は、二人のままでいいのよ」\",\"translatedEnglishLine\":\"\\\"It’s fine for you two to remain as two.\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「そう、ですね……」\",\"translatedEnglishLine\":\"\\\"Yes, that’s right...\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「ん……\",\"translatedEnglishLine\":\"\\\"Mm...\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　ま、まあ、いっか……」\",\"translatedEnglishLine\":\"Well, I guess it’s fine...\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「二人のままで……」\",\"translatedEnglishLine\":\"\\\"Remaining as two...\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「いや、その前に、なんなの？\",\"translatedEnglishLine\":\"\\\"No, before that, what is it?\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "269604",
+                                "originalJapaneseLine": "「本人に出来ないことは、",
+                                "translatedEnglishLine": "\"Things that the person themselves can't do,"
+                            },
+                            {
+                                "lineNumber": "269605",
+                                "originalJapaneseLine": "　私の命令でも難しいけど……」",
+                                "translatedEnglishLine": "are difficult even with my orders...\""
+                            },
+                            {
+                                "lineNumber": "269606",
+                                "originalJapaneseLine": "「ま、やるだけやってみましょうか」",
+                                "translatedEnglishLine": "\"Well, let's just try doing whatever we can.\""
+                            },
+                            {
+                                "lineNumber": "269607",
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "............"
+                            },
+                            {
+                                "lineNumber": "269608",
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": "269609",
+                                "originalJapaneseLine": "最初に感じたのは――苦痛。",
+                                "translatedEnglishLine": "The first thing I felt was—pain."
+                            },
+                            {
+                                "lineNumber": "269610",
+                                "originalJapaneseLine": "一つのものが二つに別たれる",
+                                "translatedEnglishLine": "One thing splitting into two."
+                            },
+                            {
+                                "lineNumber": "269611",
+                                "originalJapaneseLine": "苦しみと痛みだった。",
+                                "translatedEnglishLine": "It was suffering and pain."
+                            },
+                            {
+                                "lineNumber": "269612",
+                                "originalJapaneseLine": "しかし、その痛みも次第に薄れていった。",
+                                "translatedEnglishLine": "However, that pain gradually faded away."
+                            },
+                            {
+                                "lineNumber": "269613",
+                                "originalJapaneseLine": "誰もがそうであるように。",
+                                "translatedEnglishLine": "As it is for everyone."
+                            },
+                            {
+                                "lineNumber": "269614",
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "............"
+                            },
+                            {
+                                "lineNumber": "269615",
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": "269616",
+                                "originalJapaneseLine": "「う、うくっ……いったい、なにが……」",
+                                "translatedEnglishLine": "\"U-ugh... what on earth is...\""
+                            },
+                            {
+                                "lineNumber": "269617",
+                                "originalJapaneseLine": "「けほっ……けほっ……」",
+                                "translatedEnglishLine": "\"Cough... cough...\""
+                            },
+                            {
+                                "lineNumber": "269618",
+                                "originalJapaneseLine": "「お……」",
+                                "translatedEnglishLine": "\"Oh...\""
+                            },
+                            {
+                                "lineNumber": "269619",
+                                "originalJapaneseLine": "「おーーーっ！",
+                                "translatedEnglishLine": "\"Oohhh!\""
+                            },
+                            {
+                                "lineNumber": "269620",
+                                "originalJapaneseLine": "　元に戻ったー！」",
+                                "translatedEnglishLine": "\"We've returned to how we were!\""
+                            },
+                            {
+                                "lineNumber": "269621",
+                                "originalJapaneseLine": "「わー、良かったですー」",
+                                "translatedEnglishLine": "\"Wow, that's great!\""
+                            },
+                            {
+                                "lineNumber": "269622",
+                                "originalJapaneseLine": "「ランスさんに、シィルさん？",
+                                "translatedEnglishLine": "\"Rance-san and Sylph-san?"
+                            },
+                            {
+                                "lineNumber": "269623",
+                                "originalJapaneseLine": "　えーと……私達、一体……」",
+                                "translatedEnglishLine": "Umm... what exactly are we...?\""
+                            },
+                            {
+                                "lineNumber": "269624",
+                                "originalJapaneseLine": "「あ、そうか……",
+                                "translatedEnglishLine": "\"Ah, right..."
+                            },
+                            {
+                                "lineNumber": "269625",
+                                "originalJapaneseLine": "　あのわけの分からない奴……",
+                                "translatedEnglishLine": "That incomprehensible guy..."
+                            },
+                            {
+                                "lineNumber": "269626",
+                                "originalJapaneseLine": "　確か、バスワルドってのになって……」",
+                                "translatedEnglishLine": "He apparently became something called Baswold...\""
+                            },
+                            {
+                                "lineNumber": "269627",
+                                "originalJapaneseLine": "「なんか……",
+                                "translatedEnglishLine": "\"Somehow..."
+                            },
+                            {
+                                "lineNumber": "269628",
+                                "originalJapaneseLine": "　色々と迷惑かけちゃったみたいね」",
+                                "translatedEnglishLine": "It seems like we caused a lot of trouble.\""
+                            },
+                            {
+                                "lineNumber": "269629",
+                                "originalJapaneseLine": "「おう、俺様が元に戻してやったのだ。",
+                                "translatedEnglishLine": "\"Yeah, I was the one who put you back to normal."
+                            },
+                            {
+                                "lineNumber": "269630",
+                                "originalJapaneseLine": "　感謝して敬えよ」",
+                                "translatedEnglishLine": "Be thankful and show respect.\""
+                            },
+                            {
+                                "lineNumber": "269631",
+                                "originalJapaneseLine": "「あはは……」",
+                                "translatedEnglishLine": "\"Ahaha...\""
+                            },
+                            {
+                                "lineNumber": "269632",
+                                "originalJapaneseLine": "「で、結局バスワルドってなんだ？」",
+                                "translatedEnglishLine": "\"So, after all, what exactly is Baswold?\""
+                            },
+                            {
+                                "lineNumber": "269633",
+                                "originalJapaneseLine": "「うーん……」",
+                                "translatedEnglishLine": "\"Hmm...\""
+                            },
+                            {
+                                "lineNumber": "269634",
+                                "originalJapaneseLine": "「……ごめん。",
+                                "translatedEnglishLine": "\"...Sorry."
+                            },
+                            {
+                                "lineNumber": "269635",
+                                "originalJapaneseLine": "　私達にも分からない」",
+                                "translatedEnglishLine": "We don't understand it either.\""
+                            },
+                            {
+                                "lineNumber": "269636",
+                                "originalJapaneseLine": "「でも、なんか……",
+                                "translatedEnglishLine": "\"But somehow..."
+                            },
+                            {
+                                "lineNumber": "269637",
+                                "originalJapaneseLine": "　私達ってそうなるみたいね」",
+                                "translatedEnglishLine": "it seems that's what happens to us.\""
+                            },
+                            {
+                                "lineNumber": "269638",
+                                "originalJapaneseLine": "「え……",
+                                "translatedEnglishLine": "\"Eh..."
+                            },
+                            {
+                                "lineNumber": "269639",
+                                "originalJapaneseLine": "　それじゃあいつかまたあんな風に……」",
+                                "translatedEnglishLine": "Then someday, it might happen again like that...\""
+                            },
+                            {
+                                "lineNumber": "269640",
+                                "originalJapaneseLine": "「いえ、それは大丈夫かと思います」",
+                                "translatedEnglishLine": "\"No, I think that will be okay.\""
+                            },
+                            {
+                                "lineNumber": "269641",
+                                "originalJapaneseLine": "「ここのところいつも抱えていた、",
+                                "translatedEnglishLine": "\"Lately, the certainty we always held,"
+                            },
+                            {
+                                "lineNumber": "269642",
+                                "originalJapaneseLine": "　いつかきっと元に戻る……",
+                                "translatedEnglishLine": "that someday we’d surely return to normal..."
+                            },
+                            {
+                                "lineNumber": "269643",
+                                "originalJapaneseLine": "　という確信が消えました」",
+                                "translatedEnglishLine": "has disappeared.\""
+                            },
+                            {
+                                "lineNumber": "269644",
+                                "originalJapaneseLine": "「少し……",
+                                "translatedEnglishLine": "\"A little..."
+                            },
+                            {
+                                "lineNumber": "269645",
+                                "originalJapaneseLine": "　胸にぽっかりと穴が開いたよう……」",
+                                "translatedEnglishLine": "it feels as if there's a hollow hole in my chest...\""
+                            },
+                            {
+                                "lineNumber": "269646",
+                                "originalJapaneseLine": "「そう、ね……",
+                                "translatedEnglishLine": "\"Yes, that's right..."
+                            },
+                            {
+                                "lineNumber": "269647",
+                                "originalJapaneseLine": "　それこそ、半身を失ったよう……」",
+                                "translatedEnglishLine": "It truly feels like having lost half of oneself...\""
+                            },
+                            {
+                                "lineNumber": "269648",
+                                "originalJapaneseLine": "「あら……",
+                                "translatedEnglishLine": "\"Oh..."
+                            },
+                            {
+                                "lineNumber": "269649",
+                                "originalJapaneseLine": "　でも悪いことばかりじゃないわ」",
+                                "translatedEnglishLine": "But it's not all bad.\""
+                            },
+                            {
+                                "lineNumber": "269650",
+                                "originalJapaneseLine": "「えっ……」",
+                                "translatedEnglishLine": "\"Eh...?\""
+                            },
+                            {
+                                "lineNumber": "269651",
+                                "originalJapaneseLine": "「だって……",
+                                "translatedEnglishLine": "\"Because...\""
+                            },
+                            {
+                                "lineNumber": "269652",
+                                "originalJapaneseLine": "アムがハウゼルの手を取り、",
+                                "translatedEnglishLine": "Am took Hauseru’s hand,"
+                            },
+                            {
+                                "lineNumber": "269653",
+                                "originalJapaneseLine": "サイゼルの手と繋がせた。",
+                                "translatedEnglishLine": "and linked it with Saizel’s hand."
+                            },
+                            {
+                                "lineNumber": "269654",
+                                "originalJapaneseLine": "「一人では手を繋ぐことは出来ない」",
+                                "translatedEnglishLine": "\"One cannot hold hands alone.\""
+                            },
+                            {
+                                "lineNumber": "269655",
+                                "originalJapaneseLine": "「ね？　だから……」",
+                                "translatedEnglishLine": "\"Right? So...\""
+                            },
+                            {
+                                "lineNumber": "269656",
+                                "originalJapaneseLine": "「貴方達は、二人のままでいいのよ」",
+                                "translatedEnglishLine": "\"It’s fine for you two to remain as two.\""
+                            },
+                            {
+                                "lineNumber": "269657",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "269658",
+                                "originalJapaneseLine": "「そう、ですね……」",
+                                "translatedEnglishLine": "\"Yes, that’s right...\""
+                            },
+                            {
+                                "lineNumber": "269659",
+                                "originalJapaneseLine": "「ん……",
+                                "translatedEnglishLine": "\"Mm..."
+                            },
+                            {
+                                "lineNumber": "269660",
+                                "originalJapaneseLine": "　ま、まあ、いっか……」",
+                                "translatedEnglishLine": "Well, I guess it’s fine...\""
+                            },
+                            {
+                                "lineNumber": "269661",
+                                "originalJapaneseLine": "「二人のままで……」",
+                                "translatedEnglishLine": "\"Remaining as two...\""
+                            },
+                            {
+                                "lineNumber": "269662",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "269663",
+                                "originalJapaneseLine": "「いや、その前に、なんなの？",
+                                "translatedEnglishLine": "\"No, before that, what is it?\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1645,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1834,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3479
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「本人に出来ないことは、\",\"translatedEnglishLine\":\"\\\"Things that the person themselves can't do,\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　私の命令でも難しいけど……」\",\"translatedEnglishLine\":\"are difficult even with my orders...\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「ま、やるだけやってみましょうか」\",\"translatedEnglishLine\":\"\\\"Well, let's just try doing whatever we can.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"最初に感じたのは――苦痛。\",\"translatedEnglishLine\":\"The first thing I felt was—pain.\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"一つのものが二つに別たれる\",\"translatedEnglishLine\":\"One thing splitting into two.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"苦しみと痛みだった。\",\"translatedEnglishLine\":\"It was suffering and pain.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"しかし、その痛みも次第に薄れていった。\",\"translatedEnglishLine\":\"However, that pain gradually faded away.\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"誰もがそうであるように。\",\"translatedEnglishLine\":\"As it is for everyone.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「う、うくっ……いったい、なにが……」\",\"translatedEnglishLine\":\"\\\"U-ugh... what on earth is...\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「けほっ……けほっ……」\",\"translatedEnglishLine\":\"\\\"Cough... cough...\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「お……」\",\"translatedEnglishLine\":\"\\\"Oh...\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「おーーーっ！\",\"translatedEnglishLine\":\"\\\"Oohhh!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　元に戻ったー！」\",\"translatedEnglishLine\":\"\\\"We've returned to how we were!\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「わー、良かったですー」\",\"translatedEnglishLine\":\"\\\"Wow, that's great!\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ランスさんに、シィルさん？\",\"translatedEnglishLine\":\"\\\"Rance-san and Sylph-san?\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　えーと……私達、一体……」\",\"translatedEnglishLine\":\"Umm... what exactly are we...?\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「あ、そうか……\",\"translatedEnglishLine\":\"\\\"Ah, right...\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　あのわけの分からない奴……\",\"translatedEnglishLine\":\"That incomprehensible guy...\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　確か、バスワルドってのになって……」\",\"translatedEnglishLine\":\"He apparently became something called Baswold...\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「なんか……\",\"translatedEnglishLine\":\"\\\"Somehow...\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　色々と迷惑かけちゃったみたいね」\",\"translatedEnglishLine\":\"It seems like we caused a lot of trouble.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「おう、俺様が元に戻してやったのだ。\",\"translatedEnglishLine\":\"\\\"Yeah, I was the one who put you back to normal.\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　感謝して敬えよ」\",\"translatedEnglishLine\":\"Be thankful and show respect.\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「あはは……」\",\"translatedEnglishLine\":\"\\\"Ahaha...\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「で、結局バスワルドってなんだ？」\",\"translatedEnglishLine\":\"\\\"So, after all, what exactly is Baswold?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「うーん……」\",\"translatedEnglishLine\":\"\\\"Hmm...\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「……ごめん。\",\"translatedEnglishLine\":\"\\\"...Sorry.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　私達にも分からない」\",\"translatedEnglishLine\":\"We don't understand it either.\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「でも、なんか……\",\"translatedEnglishLine\":\"\\\"But somehow...\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　私達ってそうなるみたいね」\",\"translatedEnglishLine\":\"it seems that's what happens to us.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「え……\",\"translatedEnglishLine\":\"\\\"Eh...\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　それじゃあいつかまたあんな風に……」\",\"translatedEnglishLine\":\"Then someday, it might happen again like that...\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「いえ、それは大丈夫かと思います」\",\"translatedEnglishLine\":\"\\\"No, I think that will be okay.\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「ここのところいつも抱えていた、\",\"translatedEnglishLine\":\"\\\"Lately, the certainty we always held,\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　いつかきっと元に戻る……\",\"translatedEnglishLine\":\"that someday we’d surely return to normal...\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　という確信が消えました」\",\"translatedEnglishLine\":\"has disappeared.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「少し……\",\"translatedEnglishLine\":\"\\\"A little...\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　胸にぽっかりと穴が開いたよう……」\",\"translatedEnglishLine\":\"it feels as if there's a hollow hole in my chest...\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「そう、ね……\",\"translatedEnglishLine\":\"\\\"Yes, that's right...\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　それこそ、半身を失ったよう……」\",\"translatedEnglishLine\":\"It truly feels like having lost half of oneself...\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「あら……\",\"translatedEnglishLine\":\"\\\"Oh...\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　でも悪いことばかりじゃないわ」\",\"translatedEnglishLine\":\"But it's not all bad.\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「えっ……」\",\"translatedEnglishLine\":\"\\\"Eh...?\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「だって……\",\"translatedEnglishLine\":\"\\\"Because...\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"アムがハウゼルの手を取り、\",\"translatedEnglishLine\":\"Am took Hauseru’s hand,\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"サイゼルの手と繋がせた。\",\"translatedEnglishLine\":\"and linked it with Saizel’s hand.\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「一人では手を繋ぐことは出来ない」\",\"translatedEnglishLine\":\"\\\"One cannot hold hands alone.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「ね？　だから……」\",\"translatedEnglishLine\":\"\\\"Right? So...\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「貴方達は、二人のままでいいのよ」\",\"translatedEnglishLine\":\"\\\"It’s fine for you two to remain as two.\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「そう、ですね……」\",\"translatedEnglishLine\":\"\\\"Yes, that’s right...\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「ん……\",\"translatedEnglishLine\":\"\\\"Mm...\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　ま、まあ、いっか……」\",\"translatedEnglishLine\":\"Well, I guess it’s fine...\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「二人のままで……」\",\"translatedEnglishLine\":\"\\\"Remaining as two...\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「いや、その前に、なんなの？\",\"translatedEnglishLine\":\"\\\"No, before that, what is it?\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "269604",
+                "originalJapaneseLine": "「本人に出来ないことは、",
+                "translatedEnglishLine": "\"Things that the person themselves can't do,"
+            },
+            {
+                "lineNumber": "269605",
+                "originalJapaneseLine": "　私の命令でも難しいけど……」",
+                "translatedEnglishLine": "are difficult even with my orders...\""
+            },
+            {
+                "lineNumber": "269606",
+                "originalJapaneseLine": "「ま、やるだけやってみましょうか」",
+                "translatedEnglishLine": "\"Well, let's just try doing whatever we can.\""
+            },
+            {
+                "lineNumber": "269607",
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "............"
+            },
+            {
+                "lineNumber": "269608",
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": "269609",
+                "originalJapaneseLine": "最初に感じたのは――苦痛。",
+                "translatedEnglishLine": "The first thing I felt was—pain."
+            },
+            {
+                "lineNumber": "269610",
+                "originalJapaneseLine": "一つのものが二つに別たれる",
+                "translatedEnglishLine": "One thing splitting into two."
+            },
+            {
+                "lineNumber": "269611",
+                "originalJapaneseLine": "苦しみと痛みだった。",
+                "translatedEnglishLine": "It was suffering and pain."
+            },
+            {
+                "lineNumber": "269612",
+                "originalJapaneseLine": "しかし、その痛みも次第に薄れていった。",
+                "translatedEnglishLine": "However, that pain gradually faded away."
+            },
+            {
+                "lineNumber": "269613",
+                "originalJapaneseLine": "誰もがそうであるように。",
+                "translatedEnglishLine": "As it is for everyone."
+            },
+            {
+                "lineNumber": "269614",
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "............"
+            },
+            {
+                "lineNumber": "269615",
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": "269616",
+                "originalJapaneseLine": "「う、うくっ……いったい、なにが……」",
+                "translatedEnglishLine": "\"U-ugh... what on earth is...\""
+            },
+            {
+                "lineNumber": "269617",
+                "originalJapaneseLine": "「けほっ……けほっ……」",
+                "translatedEnglishLine": "\"Cough... cough...\""
+            },
+            {
+                "lineNumber": "269618",
+                "originalJapaneseLine": "「お……」",
+                "translatedEnglishLine": "\"Oh...\""
+            },
+            {
+                "lineNumber": "269619",
+                "originalJapaneseLine": "「おーーーっ！",
+                "translatedEnglishLine": "\"Oohhh!\""
+            },
+            {
+                "lineNumber": "269620",
+                "originalJapaneseLine": "　元に戻ったー！」",
+                "translatedEnglishLine": "\"We've returned to how we were!\""
+            },
+            {
+                "lineNumber": "269621",
+                "originalJapaneseLine": "「わー、良かったですー」",
+                "translatedEnglishLine": "\"Wow, that's great!\""
+            },
+            {
+                "lineNumber": "269622",
+                "originalJapaneseLine": "「ランスさんに、シィルさん？",
+                "translatedEnglishLine": "\"Rance-san and Sylph-san?"
+            },
+            {
+                "lineNumber": "269623",
+                "originalJapaneseLine": "　えーと……私達、一体……」",
+                "translatedEnglishLine": "Umm... what exactly are we...?\""
+            },
+            {
+                "lineNumber": "269624",
+                "originalJapaneseLine": "「あ、そうか……",
+                "translatedEnglishLine": "\"Ah, right..."
+            },
+            {
+                "lineNumber": "269625",
+                "originalJapaneseLine": "　あのわけの分からない奴……",
+                "translatedEnglishLine": "That incomprehensible guy..."
+            },
+            {
+                "lineNumber": "269626",
+                "originalJapaneseLine": "　確か、バスワルドってのになって……」",
+                "translatedEnglishLine": "He apparently became something called Baswold...\""
+            },
+            {
+                "lineNumber": "269627",
+                "originalJapaneseLine": "「なんか……",
+                "translatedEnglishLine": "\"Somehow..."
+            },
+            {
+                "lineNumber": "269628",
+                "originalJapaneseLine": "　色々と迷惑かけちゃったみたいね」",
+                "translatedEnglishLine": "It seems like we caused a lot of trouble.\""
+            },
+            {
+                "lineNumber": "269629",
+                "originalJapaneseLine": "「おう、俺様が元に戻してやったのだ。",
+                "translatedEnglishLine": "\"Yeah, I was the one who put you back to normal."
+            },
+            {
+                "lineNumber": "269630",
+                "originalJapaneseLine": "　感謝して敬えよ」",
+                "translatedEnglishLine": "Be thankful and show respect.\""
+            },
+            {
+                "lineNumber": "269631",
+                "originalJapaneseLine": "「あはは……」",
+                "translatedEnglishLine": "\"Ahaha...\""
+            },
+            {
+                "lineNumber": "269632",
+                "originalJapaneseLine": "「で、結局バスワルドってなんだ？」",
+                "translatedEnglishLine": "\"So, after all, what exactly is Baswold?\""
+            },
+            {
+                "lineNumber": "269633",
+                "originalJapaneseLine": "「うーん……」",
+                "translatedEnglishLine": "\"Hmm...\""
+            },
+            {
+                "lineNumber": "269634",
+                "originalJapaneseLine": "「……ごめん。",
+                "translatedEnglishLine": "\"...Sorry."
+            },
+            {
+                "lineNumber": "269635",
+                "originalJapaneseLine": "　私達にも分からない」",
+                "translatedEnglishLine": "We don't understand it either.\""
+            },
+            {
+                "lineNumber": "269636",
+                "originalJapaneseLine": "「でも、なんか……",
+                "translatedEnglishLine": "\"But somehow..."
+            },
+            {
+                "lineNumber": "269637",
+                "originalJapaneseLine": "　私達ってそうなるみたいね」",
+                "translatedEnglishLine": "it seems that's what happens to us.\""
+            },
+            {
+                "lineNumber": "269638",
+                "originalJapaneseLine": "「え……",
+                "translatedEnglishLine": "\"Eh..."
+            },
+            {
+                "lineNumber": "269639",
+                "originalJapaneseLine": "　それじゃあいつかまたあんな風に……」",
+                "translatedEnglishLine": "Then someday, it might happen again like that...\""
+            },
+            {
+                "lineNumber": "269640",
+                "originalJapaneseLine": "「いえ、それは大丈夫かと思います」",
+                "translatedEnglishLine": "\"No, I think that will be okay.\""
+            },
+            {
+                "lineNumber": "269641",
+                "originalJapaneseLine": "「ここのところいつも抱えていた、",
+                "translatedEnglishLine": "\"Lately, the certainty we always held,"
+            },
+            {
+                "lineNumber": "269642",
+                "originalJapaneseLine": "　いつかきっと元に戻る……",
+                "translatedEnglishLine": "that someday we’d surely return to normal..."
+            },
+            {
+                "lineNumber": "269643",
+                "originalJapaneseLine": "　という確信が消えました」",
+                "translatedEnglishLine": "has disappeared.\""
+            },
+            {
+                "lineNumber": "269644",
+                "originalJapaneseLine": "「少し……",
+                "translatedEnglishLine": "\"A little..."
+            },
+            {
+                "lineNumber": "269645",
+                "originalJapaneseLine": "　胸にぽっかりと穴が開いたよう……」",
+                "translatedEnglishLine": "it feels as if there's a hollow hole in my chest...\""
+            },
+            {
+                "lineNumber": "269646",
+                "originalJapaneseLine": "「そう、ね……",
+                "translatedEnglishLine": "\"Yes, that's right..."
+            },
+            {
+                "lineNumber": "269647",
+                "originalJapaneseLine": "　それこそ、半身を失ったよう……」",
+                "translatedEnglishLine": "It truly feels like having lost half of oneself...\""
+            },
+            {
+                "lineNumber": "269648",
+                "originalJapaneseLine": "「あら……",
+                "translatedEnglishLine": "\"Oh..."
+            },
+            {
+                "lineNumber": "269649",
+                "originalJapaneseLine": "　でも悪いことばかりじゃないわ」",
+                "translatedEnglishLine": "But it's not all bad.\""
+            },
+            {
+                "lineNumber": "269650",
+                "originalJapaneseLine": "「えっ……」",
+                "translatedEnglishLine": "\"Eh...?\""
+            },
+            {
+                "lineNumber": "269651",
+                "originalJapaneseLine": "「だって……",
+                "translatedEnglishLine": "\"Because...\""
+            },
+            {
+                "lineNumber": "269652",
+                "originalJapaneseLine": "アムがハウゼルの手を取り、",
+                "translatedEnglishLine": "Am took Hauseru’s hand,"
+            },
+            {
+                "lineNumber": "269653",
+                "originalJapaneseLine": "サイゼルの手と繋がせた。",
+                "translatedEnglishLine": "and linked it with Saizel’s hand."
+            },
+            {
+                "lineNumber": "269654",
+                "originalJapaneseLine": "「一人では手を繋ぐことは出来ない」",
+                "translatedEnglishLine": "\"One cannot hold hands alone.\""
+            },
+            {
+                "lineNumber": "269655",
+                "originalJapaneseLine": "「ね？　だから……」",
+                "translatedEnglishLine": "\"Right? So...\""
+            },
+            {
+                "lineNumber": "269656",
+                "originalJapaneseLine": "「貴方達は、二人のままでいいのよ」",
+                "translatedEnglishLine": "\"It’s fine for you two to remain as two.\""
+            },
+            {
+                "lineNumber": "269657",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "269658",
+                "originalJapaneseLine": "「そう、ですね……」",
+                "translatedEnglishLine": "\"Yes, that’s right...\""
+            },
+            {
+                "lineNumber": "269659",
+                "originalJapaneseLine": "「ん……",
+                "translatedEnglishLine": "\"Mm..."
+            },
+            {
+                "lineNumber": "269660",
+                "originalJapaneseLine": "　ま、まあ、いっか……」",
+                "translatedEnglishLine": "Well, I guess it’s fine...\""
+            },
+            {
+                "lineNumber": "269661",
+                "originalJapaneseLine": "「二人のままで……」",
+                "translatedEnglishLine": "\"Remaining as two...\""
+            },
+            {
+                "lineNumber": "269662",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "269663",
+                "originalJapaneseLine": "「いや、その前に、なんなの？",
+                "translatedEnglishLine": "\"No, before that, what is it?\""
+            }
+        ]
+    }
+}

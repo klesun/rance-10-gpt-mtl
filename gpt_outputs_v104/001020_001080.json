@@ -1,0 +1,719 @@
+{
+    "id": "resp_0f33ddfca66a330d0068ffe6639c288193a373468fa2ba4b58",
+    "object": "response",
+    "created_at": 1761601123,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0f33ddfca66a330d0068ffe664658881939495d5ecb6d3f803",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「皆……\",\"translatedEnglishLine\":\"\\\"Everyone...\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　いつもの生活に戻りなさい」\",\"translatedEnglishLine\":\"Please return to your usual lives.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"（ん、香りが変わった……？）\",\"translatedEnglishLine\":\"(Huh, the scent has changed...?)\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"ワーグから放たれる\",\"translatedEnglishLine\":\"The pheromones emitted by Warg\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"フェロモンの種類が少し変わった。\",\"translatedEnglishLine\":\"have changed their type slightly.\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「なんだなんだ？\",\"translatedEnglishLine\":\"\\\"What's going on?\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　フェロモンの制御が出来るようになったのか？」\",\"translatedEnglishLine\":\"Have you become able to control the pheromones?\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「だったら良かったんだけどね。\",\"translatedEnglishLine\":\"\\\"That would have been good, but...\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　実際は逆」\",\"translatedEnglishLine\":\"Actually, it's the opposite.\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「能力がパワーアップしてしまったの……」\",\"translatedEnglishLine\":\"\\\"My ability has powered up...\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「なんだと？」\",\"translatedEnglishLine\":\"\\\"What?!\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「はいはい、そこのごっつい鎧の兄ちゃん、\",\"translatedEnglishLine\":\"\\\"Alright, alright, you big armored guy over there,\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　ちょっと通るよ、ごめんよー」\",\"translatedEnglishLine\":\"just passing through, sorry!\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「うおっ！？\",\"translatedEnglishLine\":\"\\\"Whoa!?\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　な、なんだ、お前、起きてるのか！？」\",\"translatedEnglishLine\":\"W-what, you're awake?!\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「はあ？\",\"translatedEnglishLine\":\"\\\"Huh?\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　変なこと言う兄ちゃんだな、\",\"translatedEnglishLine\":\"You say weird things, man.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　俺が眠ってるように見えるのか？」\",\"translatedEnglishLine\":\"Do I look like I'm sleeping?\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"男は首をかしげながら行ってしまった。\",\"translatedEnglishLine\":\"The man tilted his head and went away.\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"そして、よく周りを見渡せば、\",\"translatedEnglishLine\":\"And when looking carefully around,\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"起きているのは今の男のみならず、\",\"translatedEnglishLine\":\"not only that man was awake,\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"おそらく街中の全員が同様だった。\",\"translatedEnglishLine\":\"but probably everyone in the city was the same.\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"ランスが驚いている間に、\",\"translatedEnglishLine\":\"While Rance was surprised,\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"街のそこかしこで皆が働き、会話し、\",\"translatedEnglishLine\":\"people were working, talking,\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"歩き回るどこにでもある街の光景が広がった。\",\"translatedEnglishLine\":\"and walking around everywhere — a common city scene appeared.\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「おい、どうなってる、ワーグ。\",\"translatedEnglishLine\":\"\\\"Hey, what's going on, Warg?\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　お前の能力は周囲にいる生き物を\",\"translatedEnglishLine\":\"Wasn't your ability to put all living things around you\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"　問答無用で眠らせるんじゃなかったのか？」\",\"translatedEnglishLine\":\"to sleep without question?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「眠っているわよ、みんな」\",\"translatedEnglishLine\":\"\\\"They are all asleep.\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「え、だって……」\",\"translatedEnglishLine\":\"\\\"Eh, but...\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「眠っている間の生き物を、\",\"translatedEnglishLine\":\"\\\"I have become able to freely control living beings while they sleep.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　自由に操れるようになっちゃったのよ」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「今は普段通りの\",\"translatedEnglishLine\":\"\\\"Right now, I’m commanding them to live their usual lives.\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　生活をしなさいって命令してる」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「寝てるから記憶は残らないけどね……\",\"translatedEnglishLine\":\"\\\"Because they're sleeping, they don’t retain memories...\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　眠っている分の仕事はしているから、\",\"translatedEnglishLine\":\"but they’re doing the work even while asleep,\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　微々たる差だけど混乱も少ないでしょ」\",\"translatedEnglishLine\":\"so the difference is minimal and there's little confusion.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「ふーん……\",\"translatedEnglishLine\":\"\\\"Hmm...\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　みんなお前の操り人形ってわけか」\",\"translatedEnglishLine\":\"So everyone is your puppet, huh.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「ぱっと見普通に起きてるのと変わらんし、\",\"translatedEnglishLine\":\"\\\"At a glance, they don't seem different from being normally awake,\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　こいつら戦わせたりも出来そうだな」\",\"translatedEnglishLine\":\"and it seems like you could even make them fight.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「しないけどね。\",\"translatedEnglishLine\":\"\\\"But I won’t do that.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　絶対。\",\"translatedEnglishLine\":\"Absolutely.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　しないけどね」\",\"translatedEnglishLine\":\"I just won’t.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「しないよー！」\",\"translatedEnglishLine\":\"\\\"I won’t do it!\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「はいはい、分かってる。\",\"translatedEnglishLine\":\"\\\"Okay, okay, I got it.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　そんな怯えるな」\",\"translatedEnglishLine\":\"Don’t be so scared.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「しかし、あれだな……操り人形か……」\",\"translatedEnglishLine\":\"\\\"But still... puppets, huh...\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「なに？」\",\"translatedEnglishLine\":\"\\\"What?\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「君は本当にお人形遊びが好きなんだな」\",\"translatedEnglishLine\":\"\\\"You really like playing with dolls, don’t you?\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「な、なによ、その顔は」\",\"translatedEnglishLine\":\"\\\"W-what’s with that look?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「む〜、しかし……\",\"translatedEnglishLine\":\"\\\"Mmm, but...\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"　これだけ面白い状況で何もしないというのも……」\",\"translatedEnglishLine\":\"it would be something not to do anything in such an interesting situation...\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"ぴこーん。\",\"translatedEnglishLine\":\"Ding-ding.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"ランスは悪いことを思いついた。\",\"translatedEnglishLine\":\"Rance thought of something bad.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「ぐふふ、ワーグちゃん？」\",\"translatedEnglishLine\":\"\\\"Gufufu, Warg-chan?\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「え、な、なに？」\",\"translatedEnglishLine\":\"\\\"Eh, wh-what?\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「魔人は魔王様――\",\"translatedEnglishLine\":\"\\\"A demon is a demon lord—\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　つまり俺の言うことには絶対服従。\",\"translatedEnglishLine\":\"meaning absolute obedience to whatever I say.\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "265654",
+                                "originalJapaneseLine": "「皆……",
+                                "translatedEnglishLine": "\"Everyone...\""
+                            },
+                            {
+                                "lineNumber": "265655",
+                                "originalJapaneseLine": "　いつもの生活に戻りなさい」",
+                                "translatedEnglishLine": "Please return to your usual lives.\""
+                            },
+                            {
+                                "lineNumber": "265656",
+                                "originalJapaneseLine": "（ん、香りが変わった……？）",
+                                "translatedEnglishLine": "(Huh, the scent has changed...?)"
+                            },
+                            {
+                                "lineNumber": "265657",
+                                "originalJapaneseLine": "ワーグから放たれる",
+                                "translatedEnglishLine": "The pheromones emitted by Warg"
+                            },
+                            {
+                                "lineNumber": "265658",
+                                "originalJapaneseLine": "フェロモンの種類が少し変わった。",
+                                "translatedEnglishLine": "have changed their type slightly."
+                            },
+                            {
+                                "lineNumber": "265659",
+                                "originalJapaneseLine": "「なんだなんだ？",
+                                "translatedEnglishLine": "\"What's going on?"
+                            },
+                            {
+                                "lineNumber": "265660",
+                                "originalJapaneseLine": "　フェロモンの制御が出来るようになったのか？」",
+                                "translatedEnglishLine": "Have you become able to control the pheromones?\""
+                            },
+                            {
+                                "lineNumber": "265661",
+                                "originalJapaneseLine": "「だったら良かったんだけどね。",
+                                "translatedEnglishLine": "\"That would have been good, but..."
+                            },
+                            {
+                                "lineNumber": "265662",
+                                "originalJapaneseLine": "　実際は逆」",
+                                "translatedEnglishLine": "Actually, it's the opposite.\""
+                            },
+                            {
+                                "lineNumber": "265663",
+                                "originalJapaneseLine": "「能力がパワーアップしてしまったの……」",
+                                "translatedEnglishLine": "\"My ability has powered up...\""
+                            },
+                            {
+                                "lineNumber": "265664",
+                                "originalJapaneseLine": "「なんだと？」",
+                                "translatedEnglishLine": "\"What?!\""
+                            },
+                            {
+                                "lineNumber": "265665",
+                                "originalJapaneseLine": "「はいはい、そこのごっつい鎧の兄ちゃん、",
+                                "translatedEnglishLine": "\"Alright, alright, you big armored guy over there,"
+                            },
+                            {
+                                "lineNumber": "265666",
+                                "originalJapaneseLine": "　ちょっと通るよ、ごめんよー」",
+                                "translatedEnglishLine": "just passing through, sorry!\""
+                            },
+                            {
+                                "lineNumber": "265667",
+                                "originalJapaneseLine": "「うおっ！？",
+                                "translatedEnglishLine": "\"Whoa!?"
+                            },
+                            {
+                                "lineNumber": "265668",
+                                "originalJapaneseLine": "　な、なんだ、お前、起きてるのか！？」",
+                                "translatedEnglishLine": "W-what, you're awake?!\""
+                            },
+                            {
+                                "lineNumber": "265669",
+                                "originalJapaneseLine": "「はあ？",
+                                "translatedEnglishLine": "\"Huh?"
+                            },
+                            {
+                                "lineNumber": "265670",
+                                "originalJapaneseLine": "　変なこと言う兄ちゃんだな、",
+                                "translatedEnglishLine": "You say weird things, man."
+                            },
+                            {
+                                "lineNumber": "265671",
+                                "originalJapaneseLine": "　俺が眠ってるように見えるのか？」",
+                                "translatedEnglishLine": "Do I look like I'm sleeping?\""
+                            },
+                            {
+                                "lineNumber": "265672",
+                                "originalJapaneseLine": "男は首をかしげながら行ってしまった。",
+                                "translatedEnglishLine": "The man tilted his head and went away."
+                            },
+                            {
+                                "lineNumber": "265673",
+                                "originalJapaneseLine": "そして、よく周りを見渡せば、",
+                                "translatedEnglishLine": "And when looking carefully around,"
+                            },
+                            {
+                                "lineNumber": "265674",
+                                "originalJapaneseLine": "起きているのは今の男のみならず、",
+                                "translatedEnglishLine": "not only that man was awake,"
+                            },
+                            {
+                                "lineNumber": "265675",
+                                "originalJapaneseLine": "おそらく街中の全員が同様だった。",
+                                "translatedEnglishLine": "but probably everyone in the city was the same."
+                            },
+                            {
+                                "lineNumber": "265676",
+                                "originalJapaneseLine": "ランスが驚いている間に、",
+                                "translatedEnglishLine": "While Rance was surprised,"
+                            },
+                            {
+                                "lineNumber": "265677",
+                                "originalJapaneseLine": "街のそこかしこで皆が働き、会話し、",
+                                "translatedEnglishLine": "people were working, talking,"
+                            },
+                            {
+                                "lineNumber": "265678",
+                                "originalJapaneseLine": "歩き回るどこにでもある街の光景が広がった。",
+                                "translatedEnglishLine": "and walking around everywhere — a common city scene appeared."
+                            },
+                            {
+                                "lineNumber": "265679",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "265680",
+                                "originalJapaneseLine": "「おい、どうなってる、ワーグ。",
+                                "translatedEnglishLine": "\"Hey, what's going on, Warg?"
+                            },
+                            {
+                                "lineNumber": "265681",
+                                "originalJapaneseLine": "　お前の能力は周囲にいる生き物を",
+                                "translatedEnglishLine": "Wasn't your ability to put all living things around you"
+                            },
+                            {
+                                "lineNumber": "265682",
+                                "originalJapaneseLine": "　問答無用で眠らせるんじゃなかったのか？」",
+                                "translatedEnglishLine": "to sleep without question?\""
+                            },
+                            {
+                                "lineNumber": "265683",
+                                "originalJapaneseLine": "「眠っているわよ、みんな」",
+                                "translatedEnglishLine": "\"They are all asleep.\""
+                            },
+                            {
+                                "lineNumber": "265684",
+                                "originalJapaneseLine": "「え、だって……」",
+                                "translatedEnglishLine": "\"Eh, but...\""
+                            },
+                            {
+                                "lineNumber": "265685",
+                                "originalJapaneseLine": "「眠っている間の生き物を、",
+                                "translatedEnglishLine": "\"I have become able to freely control living beings while they sleep."
+                            },
+                            {
+                                "lineNumber": "265686",
+                                "originalJapaneseLine": "　自由に操れるようになっちゃったのよ」",
+                                "translatedEnglishLine": "\""
+                            },
+                            {
+                                "lineNumber": "265687",
+                                "originalJapaneseLine": "「今は普段通りの",
+                                "translatedEnglishLine": "\"Right now, I’m commanding them to live their usual lives."
+                            },
+                            {
+                                "lineNumber": "265688",
+                                "originalJapaneseLine": "　生活をしなさいって命令してる」",
+                                "translatedEnglishLine": "\""
+                            },
+                            {
+                                "lineNumber": "265689",
+                                "originalJapaneseLine": "「寝てるから記憶は残らないけどね……",
+                                "translatedEnglishLine": "\"Because they're sleeping, they don’t retain memories..."
+                            },
+                            {
+                                "lineNumber": "265690",
+                                "originalJapaneseLine": "　眠っている分の仕事はしているから、",
+                                "translatedEnglishLine": "but they’re doing the work even while asleep,"
+                            },
+                            {
+                                "lineNumber": "265691",
+                                "originalJapaneseLine": "　微々たる差だけど混乱も少ないでしょ」",
+                                "translatedEnglishLine": "so the difference is minimal and there's little confusion.\""
+                            },
+                            {
+                                "lineNumber": "265692",
+                                "originalJapaneseLine": "「ふーん……",
+                                "translatedEnglishLine": "\"Hmm..."
+                            },
+                            {
+                                "lineNumber": "265693",
+                                "originalJapaneseLine": "　みんなお前の操り人形ってわけか」",
+                                "translatedEnglishLine": "So everyone is your puppet, huh.\""
+                            },
+                            {
+                                "lineNumber": "265694",
+                                "originalJapaneseLine": "「ぱっと見普通に起きてるのと変わらんし、",
+                                "translatedEnglishLine": "\"At a glance, they don't seem different from being normally awake,"
+                            },
+                            {
+                                "lineNumber": "265695",
+                                "originalJapaneseLine": "　こいつら戦わせたりも出来そうだな」",
+                                "translatedEnglishLine": "and it seems like you could even make them fight.\""
+                            },
+                            {
+                                "lineNumber": "265696",
+                                "originalJapaneseLine": "「しないけどね。",
+                                "translatedEnglishLine": "\"But I won’t do that."
+                            },
+                            {
+                                "lineNumber": "265697",
+                                "originalJapaneseLine": "　絶対。",
+                                "translatedEnglishLine": "Absolutely."
+                            },
+                            {
+                                "lineNumber": "265698",
+                                "originalJapaneseLine": "　しないけどね」",
+                                "translatedEnglishLine": "I just won’t.\""
+                            },
+                            {
+                                "lineNumber": "265699",
+                                "originalJapaneseLine": "「しないよー！」",
+                                "translatedEnglishLine": "\"I won’t do it!\""
+                            },
+                            {
+                                "lineNumber": "265700",
+                                "originalJapaneseLine": "「はいはい、分かってる。",
+                                "translatedEnglishLine": "\"Okay, okay, I got it."
+                            },
+                            {
+                                "lineNumber": "265701",
+                                "originalJapaneseLine": "　そんな怯えるな」",
+                                "translatedEnglishLine": "Don’t be so scared.\""
+                            },
+                            {
+                                "lineNumber": "265702",
+                                "originalJapaneseLine": "「しかし、あれだな……操り人形か……」",
+                                "translatedEnglishLine": "\"But still... puppets, huh...\""
+                            },
+                            {
+                                "lineNumber": "265703",
+                                "originalJapaneseLine": "「なに？」",
+                                "translatedEnglishLine": "\"What?\""
+                            },
+                            {
+                                "lineNumber": "265704",
+                                "originalJapaneseLine": "「君は本当にお人形遊びが好きなんだな」",
+                                "translatedEnglishLine": "\"You really like playing with dolls, don’t you?\""
+                            },
+                            {
+                                "lineNumber": "265705",
+                                "originalJapaneseLine": "「な、なによ、その顔は」",
+                                "translatedEnglishLine": "\"W-what’s with that look?\""
+                            },
+                            {
+                                "lineNumber": "265706",
+                                "originalJapaneseLine": "「む〜、しかし……",
+                                "translatedEnglishLine": "\"Mmm, but..."
+                            },
+                            {
+                                "lineNumber": "265707",
+                                "originalJapaneseLine": "　これだけ面白い状況で何もしないというのも……」",
+                                "translatedEnglishLine": "it would be something not to do anything in such an interesting situation...\""
+                            },
+                            {
+                                "lineNumber": "265708",
+                                "originalJapaneseLine": "ぴこーん。",
+                                "translatedEnglishLine": "Ding-ding."
+                            },
+                            {
+                                "lineNumber": "265709",
+                                "originalJapaneseLine": "ランスは悪いことを思いついた。",
+                                "translatedEnglishLine": "Rance thought of something bad."
+                            },
+                            {
+                                "lineNumber": "265710",
+                                "originalJapaneseLine": "「ぐふふ、ワーグちゃん？」",
+                                "translatedEnglishLine": "\"Gufufu, Warg-chan?\""
+                            },
+                            {
+                                "lineNumber": "265711",
+                                "originalJapaneseLine": "「え、な、なに？」",
+                                "translatedEnglishLine": "\"Eh, wh-what?\""
+                            },
+                            {
+                                "lineNumber": "265712",
+                                "originalJapaneseLine": "「魔人は魔王様――",
+                                "translatedEnglishLine": "\"A demon is a demon lord—"
+                            },
+                            {
+                                "lineNumber": "265713",
+                                "originalJapaneseLine": "　つまり俺の言うことには絶対服従。",
+                                "translatedEnglishLine": "meaning absolute obedience to whatever I say."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1774,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2018,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3792
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「皆……\",\"translatedEnglishLine\":\"\\\"Everyone...\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　いつもの生活に戻りなさい」\",\"translatedEnglishLine\":\"Please return to your usual lives.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"（ん、香りが変わった……？）\",\"translatedEnglishLine\":\"(Huh, the scent has changed...?)\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"ワーグから放たれる\",\"translatedEnglishLine\":\"The pheromones emitted by Warg\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"フェロモンの種類が少し変わった。\",\"translatedEnglishLine\":\"have changed their type slightly.\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「なんだなんだ？\",\"translatedEnglishLine\":\"\\\"What's going on?\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　フェロモンの制御が出来るようになったのか？」\",\"translatedEnglishLine\":\"Have you become able to control the pheromones?\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「だったら良かったんだけどね。\",\"translatedEnglishLine\":\"\\\"That would have been good, but...\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　実際は逆」\",\"translatedEnglishLine\":\"Actually, it's the opposite.\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「能力がパワーアップしてしまったの……」\",\"translatedEnglishLine\":\"\\\"My ability has powered up...\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「なんだと？」\",\"translatedEnglishLine\":\"\\\"What?!\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「はいはい、そこのごっつい鎧の兄ちゃん、\",\"translatedEnglishLine\":\"\\\"Alright, alright, you big armored guy over there,\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　ちょっと通るよ、ごめんよー」\",\"translatedEnglishLine\":\"just passing through, sorry!\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「うおっ！？\",\"translatedEnglishLine\":\"\\\"Whoa!?\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　な、なんだ、お前、起きてるのか！？」\",\"translatedEnglishLine\":\"W-what, you're awake?!\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「はあ？\",\"translatedEnglishLine\":\"\\\"Huh?\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　変なこと言う兄ちゃんだな、\",\"translatedEnglishLine\":\"You say weird things, man.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　俺が眠ってるように見えるのか？」\",\"translatedEnglishLine\":\"Do I look like I'm sleeping?\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"男は首をかしげながら行ってしまった。\",\"translatedEnglishLine\":\"The man tilted his head and went away.\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"そして、よく周りを見渡せば、\",\"translatedEnglishLine\":\"And when looking carefully around,\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"起きているのは今の男のみならず、\",\"translatedEnglishLine\":\"not only that man was awake,\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"おそらく街中の全員が同様だった。\",\"translatedEnglishLine\":\"but probably everyone in the city was the same.\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"ランスが驚いている間に、\",\"translatedEnglishLine\":\"While Rance was surprised,\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"街のそこかしこで皆が働き、会話し、\",\"translatedEnglishLine\":\"people were working, talking,\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"歩き回るどこにでもある街の光景が広がった。\",\"translatedEnglishLine\":\"and walking around everywhere — a common city scene appeared.\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「おい、どうなってる、ワーグ。\",\"translatedEnglishLine\":\"\\\"Hey, what's going on, Warg?\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　お前の能力は周囲にいる生き物を\",\"translatedEnglishLine\":\"Wasn't your ability to put all living things around you\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"　問答無用で眠らせるんじゃなかったのか？」\",\"translatedEnglishLine\":\"to sleep without question?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「眠っているわよ、みんな」\",\"translatedEnglishLine\":\"\\\"They are all asleep.\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「え、だって……」\",\"translatedEnglishLine\":\"\\\"Eh, but...\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「眠っている間の生き物を、\",\"translatedEnglishLine\":\"\\\"I have become able to freely control living beings while they sleep.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　自由に操れるようになっちゃったのよ」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「今は普段通りの\",\"translatedEnglishLine\":\"\\\"Right now, I’m commanding them to live their usual lives.\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　生活をしなさいって命令してる」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「寝てるから記憶は残らないけどね……\",\"translatedEnglishLine\":\"\\\"Because they're sleeping, they don’t retain memories...\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　眠っている分の仕事はしているから、\",\"translatedEnglishLine\":\"but they’re doing the work even while asleep,\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　微々たる差だけど混乱も少ないでしょ」\",\"translatedEnglishLine\":\"so the difference is minimal and there's little confusion.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「ふーん……\",\"translatedEnglishLine\":\"\\\"Hmm...\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　みんなお前の操り人形ってわけか」\",\"translatedEnglishLine\":\"So everyone is your puppet, huh.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「ぱっと見普通に起きてるのと変わらんし、\",\"translatedEnglishLine\":\"\\\"At a glance, they don't seem different from being normally awake,\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　こいつら戦わせたりも出来そうだな」\",\"translatedEnglishLine\":\"and it seems like you could even make them fight.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「しないけどね。\",\"translatedEnglishLine\":\"\\\"But I won’t do that.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　絶対。\",\"translatedEnglishLine\":\"Absolutely.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　しないけどね」\",\"translatedEnglishLine\":\"I just won’t.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「しないよー！」\",\"translatedEnglishLine\":\"\\\"I won’t do it!\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「はいはい、分かってる。\",\"translatedEnglishLine\":\"\\\"Okay, okay, I got it.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　そんな怯えるな」\",\"translatedEnglishLine\":\"Don’t be so scared.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「しかし、あれだな……操り人形か……」\",\"translatedEnglishLine\":\"\\\"But still... puppets, huh...\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「なに？」\",\"translatedEnglishLine\":\"\\\"What?\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「君は本当にお人形遊びが好きなんだな」\",\"translatedEnglishLine\":\"\\\"You really like playing with dolls, don’t you?\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「な、なによ、その顔は」\",\"translatedEnglishLine\":\"\\\"W-what’s with that look?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「む〜、しかし……\",\"translatedEnglishLine\":\"\\\"Mmm, but...\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"　これだけ面白い状況で何もしないというのも……」\",\"translatedEnglishLine\":\"it would be something not to do anything in such an interesting situation...\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"ぴこーん。\",\"translatedEnglishLine\":\"Ding-ding.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"ランスは悪いことを思いついた。\",\"translatedEnglishLine\":\"Rance thought of something bad.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「ぐふふ、ワーグちゃん？」\",\"translatedEnglishLine\":\"\\\"Gufufu, Warg-chan?\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「え、な、なに？」\",\"translatedEnglishLine\":\"\\\"Eh, wh-what?\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「魔人は魔王様――\",\"translatedEnglishLine\":\"\\\"A demon is a demon lord—\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　つまり俺の言うことには絶対服従。\",\"translatedEnglishLine\":\"meaning absolute obedience to whatever I say.\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "265654",
+                "originalJapaneseLine": "「皆……",
+                "translatedEnglishLine": "\"Everyone...\""
+            },
+            {
+                "lineNumber": "265655",
+                "originalJapaneseLine": "　いつもの生活に戻りなさい」",
+                "translatedEnglishLine": "Please return to your usual lives.\""
+            },
+            {
+                "lineNumber": "265656",
+                "originalJapaneseLine": "（ん、香りが変わった……？）",
+                "translatedEnglishLine": "(Huh, the scent has changed...?)"
+            },
+            {
+                "lineNumber": "265657",
+                "originalJapaneseLine": "ワーグから放たれる",
+                "translatedEnglishLine": "The pheromones emitted by Warg"
+            },
+            {
+                "lineNumber": "265658",
+                "originalJapaneseLine": "フェロモンの種類が少し変わった。",
+                "translatedEnglishLine": "have changed their type slightly."
+            },
+            {
+                "lineNumber": "265659",
+                "originalJapaneseLine": "「なんだなんだ？",
+                "translatedEnglishLine": "\"What's going on?"
+            },
+            {
+                "lineNumber": "265660",
+                "originalJapaneseLine": "　フェロモンの制御が出来るようになったのか？」",
+                "translatedEnglishLine": "Have you become able to control the pheromones?\""
+            },
+            {
+                "lineNumber": "265661",
+                "originalJapaneseLine": "「だったら良かったんだけどね。",
+                "translatedEnglishLine": "\"That would have been good, but..."
+            },
+            {
+                "lineNumber": "265662",
+                "originalJapaneseLine": "　実際は逆」",
+                "translatedEnglishLine": "Actually, it's the opposite.\""
+            },
+            {
+                "lineNumber": "265663",
+                "originalJapaneseLine": "「能力がパワーアップしてしまったの……」",
+                "translatedEnglishLine": "\"My ability has powered up...\""
+            },
+            {
+                "lineNumber": "265664",
+                "originalJapaneseLine": "「なんだと？」",
+                "translatedEnglishLine": "\"What?!\""
+            },
+            {
+                "lineNumber": "265665",
+                "originalJapaneseLine": "「はいはい、そこのごっつい鎧の兄ちゃん、",
+                "translatedEnglishLine": "\"Alright, alright, you big armored guy over there,"
+            },
+            {
+                "lineNumber": "265666",
+                "originalJapaneseLine": "　ちょっと通るよ、ごめんよー」",
+                "translatedEnglishLine": "just passing through, sorry!\""
+            },
+            {
+                "lineNumber": "265667",
+                "originalJapaneseLine": "「うおっ！？",
+                "translatedEnglishLine": "\"Whoa!?"
+            },
+            {
+                "lineNumber": "265668",
+                "originalJapaneseLine": "　な、なんだ、お前、起きてるのか！？」",
+                "translatedEnglishLine": "W-what, you're awake?!\""
+            },
+            {
+                "lineNumber": "265669",
+                "originalJapaneseLine": "「はあ？",
+                "translatedEnglishLine": "\"Huh?"
+            },
+            {
+                "lineNumber": "265670",
+                "originalJapaneseLine": "　変なこと言う兄ちゃんだな、",
+                "translatedEnglishLine": "You say weird things, man."
+            },
+            {
+                "lineNumber": "265671",
+                "originalJapaneseLine": "　俺が眠ってるように見えるのか？」",
+                "translatedEnglishLine": "Do I look like I'm sleeping?\""
+            },
+            {
+                "lineNumber": "265672",
+                "originalJapaneseLine": "男は首をかしげながら行ってしまった。",
+                "translatedEnglishLine": "The man tilted his head and went away."
+            },
+            {
+                "lineNumber": "265673",
+                "originalJapaneseLine": "そして、よく周りを見渡せば、",
+                "translatedEnglishLine": "And when looking carefully around,"
+            },
+            {
+                "lineNumber": "265674",
+                "originalJapaneseLine": "起きているのは今の男のみならず、",
+                "translatedEnglishLine": "not only that man was awake,"
+            },
+            {
+                "lineNumber": "265675",
+                "originalJapaneseLine": "おそらく街中の全員が同様だった。",
+                "translatedEnglishLine": "but probably everyone in the city was the same."
+            },
+            {
+                "lineNumber": "265676",
+                "originalJapaneseLine": "ランスが驚いている間に、",
+                "translatedEnglishLine": "While Rance was surprised,"
+            },
+            {
+                "lineNumber": "265677",
+                "originalJapaneseLine": "街のそこかしこで皆が働き、会話し、",
+                "translatedEnglishLine": "people were working, talking,"
+            },
+            {
+                "lineNumber": "265678",
+                "originalJapaneseLine": "歩き回るどこにでもある街の光景が広がった。",
+                "translatedEnglishLine": "and walking around everywhere — a common city scene appeared."
+            },
+            {
+                "lineNumber": "265679",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "265680",
+                "originalJapaneseLine": "「おい、どうなってる、ワーグ。",
+                "translatedEnglishLine": "\"Hey, what's going on, Warg?"
+            },
+            {
+                "lineNumber": "265681",
+                "originalJapaneseLine": "　お前の能力は周囲にいる生き物を",
+                "translatedEnglishLine": "Wasn't your ability to put all living things around you"
+            },
+            {
+                "lineNumber": "265682",
+                "originalJapaneseLine": "　問答無用で眠らせるんじゃなかったのか？」",
+                "translatedEnglishLine": "to sleep without question?\""
+            },
+            {
+                "lineNumber": "265683",
+                "originalJapaneseLine": "「眠っているわよ、みんな」",
+                "translatedEnglishLine": "\"They are all asleep.\""
+            },
+            {
+                "lineNumber": "265684",
+                "originalJapaneseLine": "「え、だって……」",
+                "translatedEnglishLine": "\"Eh, but...\""
+            },
+            {
+                "lineNumber": "265685",
+                "originalJapaneseLine": "「眠っている間の生き物を、",
+                "translatedEnglishLine": "\"I have become able to freely control living beings while they sleep."
+            },
+            {
+                "lineNumber": "265686",
+                "originalJapaneseLine": "　自由に操れるようになっちゃったのよ」",
+                "translatedEnglishLine": "\""
+            },
+            {
+                "lineNumber": "265687",
+                "originalJapaneseLine": "「今は普段通りの",
+                "translatedEnglishLine": "\"Right now, I’m commanding them to live their usual lives."
+            },
+            {
+                "lineNumber": "265688",
+                "originalJapaneseLine": "　生活をしなさいって命令してる」",
+                "translatedEnglishLine": "\""
+            },
+            {
+                "lineNumber": "265689",
+                "originalJapaneseLine": "「寝てるから記憶は残らないけどね……",
+                "translatedEnglishLine": "\"Because they're sleeping, they don’t retain memories..."
+            },
+            {
+                "lineNumber": "265690",
+                "originalJapaneseLine": "　眠っている分の仕事はしているから、",
+                "translatedEnglishLine": "but they’re doing the work even while asleep,"
+            },
+            {
+                "lineNumber": "265691",
+                "originalJapaneseLine": "　微々たる差だけど混乱も少ないでしょ」",
+                "translatedEnglishLine": "so the difference is minimal and there's little confusion.\""
+            },
+            {
+                "lineNumber": "265692",
+                "originalJapaneseLine": "「ふーん……",
+                "translatedEnglishLine": "\"Hmm..."
+            },
+            {
+                "lineNumber": "265693",
+                "originalJapaneseLine": "　みんなお前の操り人形ってわけか」",
+                "translatedEnglishLine": "So everyone is your puppet, huh.\""
+            },
+            {
+                "lineNumber": "265694",
+                "originalJapaneseLine": "「ぱっと見普通に起きてるのと変わらんし、",
+                "translatedEnglishLine": "\"At a glance, they don't seem different from being normally awake,"
+            },
+            {
+                "lineNumber": "265695",
+                "originalJapaneseLine": "　こいつら戦わせたりも出来そうだな」",
+                "translatedEnglishLine": "and it seems like you could even make them fight.\""
+            },
+            {
+                "lineNumber": "265696",
+                "originalJapaneseLine": "「しないけどね。",
+                "translatedEnglishLine": "\"But I won’t do that."
+            },
+            {
+                "lineNumber": "265697",
+                "originalJapaneseLine": "　絶対。",
+                "translatedEnglishLine": "Absolutely."
+            },
+            {
+                "lineNumber": "265698",
+                "originalJapaneseLine": "　しないけどね」",
+                "translatedEnglishLine": "I just won’t.\""
+            },
+            {
+                "lineNumber": "265699",
+                "originalJapaneseLine": "「しないよー！」",
+                "translatedEnglishLine": "\"I won’t do it!\""
+            },
+            {
+                "lineNumber": "265700",
+                "originalJapaneseLine": "「はいはい、分かってる。",
+                "translatedEnglishLine": "\"Okay, okay, I got it."
+            },
+            {
+                "lineNumber": "265701",
+                "originalJapaneseLine": "　そんな怯えるな」",
+                "translatedEnglishLine": "Don’t be so scared.\""
+            },
+            {
+                "lineNumber": "265702",
+                "originalJapaneseLine": "「しかし、あれだな……操り人形か……」",
+                "translatedEnglishLine": "\"But still... puppets, huh...\""
+            },
+            {
+                "lineNumber": "265703",
+                "originalJapaneseLine": "「なに？」",
+                "translatedEnglishLine": "\"What?\""
+            },
+            {
+                "lineNumber": "265704",
+                "originalJapaneseLine": "「君は本当にお人形遊びが好きなんだな」",
+                "translatedEnglishLine": "\"You really like playing with dolls, don’t you?\""
+            },
+            {
+                "lineNumber": "265705",
+                "originalJapaneseLine": "「な、なによ、その顔は」",
+                "translatedEnglishLine": "\"W-what’s with that look?\""
+            },
+            {
+                "lineNumber": "265706",
+                "originalJapaneseLine": "「む〜、しかし……",
+                "translatedEnglishLine": "\"Mmm, but..."
+            },
+            {
+                "lineNumber": "265707",
+                "originalJapaneseLine": "　これだけ面白い状況で何もしないというのも……」",
+                "translatedEnglishLine": "it would be something not to do anything in such an interesting situation...\""
+            },
+            {
+                "lineNumber": "265708",
+                "originalJapaneseLine": "ぴこーん。",
+                "translatedEnglishLine": "Ding-ding."
+            },
+            {
+                "lineNumber": "265709",
+                "originalJapaneseLine": "ランスは悪いことを思いついた。",
+                "translatedEnglishLine": "Rance thought of something bad."
+            },
+            {
+                "lineNumber": "265710",
+                "originalJapaneseLine": "「ぐふふ、ワーグちゃん？」",
+                "translatedEnglishLine": "\"Gufufu, Warg-chan?\""
+            },
+            {
+                "lineNumber": "265711",
+                "originalJapaneseLine": "「え、な、なに？」",
+                "translatedEnglishLine": "\"Eh, wh-what?\""
+            },
+            {
+                "lineNumber": "265712",
+                "originalJapaneseLine": "「魔人は魔王様――",
+                "translatedEnglishLine": "\"A demon is a demon lord—"
+            },
+            {
+                "lineNumber": "265713",
+                "originalJapaneseLine": "　つまり俺の言うことには絶対服従。",
+                "translatedEnglishLine": "meaning absolute obedience to whatever I say."
+            }
+        ]
+    }
+}

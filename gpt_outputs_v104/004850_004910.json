@@ -1,0 +1,719 @@
+{
+    "id": "resp_02edd561d0ebbfa10068ffef1060fc81958cf8ac496288445e",
+    "object": "response",
+    "created_at": 1761603344,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_02edd561d0ebbfa10068ffef111bb481958149ba0073a44d39",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":269484,\"originalJapaneseLine\":\"不思議と記憶に残っている。\",\"translatedEnglishLine\":\"Strangely, it remains in my memory.\"},{\"lineNumber\":269485,\"originalJapaneseLine\":\"この世界の破壊。\",\"translatedEnglishLine\":\"The destruction of this world.\"},{\"lineNumber\":269486,\"originalJapaneseLine\":\"そして世界のリセット、\",\"translatedEnglishLine\":\"And the reset of the world,\"},{\"lineNumber\":269487,\"originalJapaneseLine\":\"それこそがこの神に与えられた\",\"translatedEnglishLine\":\"That was the only role given to this god.\"},{\"lineNumber\":269488,\"originalJapaneseLine\":\"唯一の役割だった。\",\"translatedEnglishLine\":\"It was the sole duty.\"},{\"lineNumber\":269489,\"originalJapaneseLine\":\"ゆっくりと手をかざす。\",\"translatedEnglishLine\":\"Slowly, he held up his hand.\"},{\"lineNumber\":269490,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":269491,\"originalJapaneseLine\":\"初めて明確に、力なき人間に、\",\"translatedEnglishLine\":\"For the first time clearly, to powerless humans,\"},{\"lineNumber\":269492,\"originalJapaneseLine\":\"破壊が振り下ろされようとしていた。\",\"translatedEnglishLine\":\"Destruction was about to be brought down.\"},{\"lineNumber\":269493,\"originalJapaneseLine\":\"「こらー！　やめんかー！\",\"translatedEnglishLine\":\"\\\"Hey! Stop that!\\\"\"},{\"lineNumber\":269494,\"originalJapaneseLine\":\"　ハウゼル、サイゼルー！」\",\"translatedEnglishLine\":\"\\\"Howzer, Saizer!\\\"\"},{\"lineNumber\":269495,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":269496,\"originalJapaneseLine\":\"「あわわ……\",\"translatedEnglishLine\":\"\\\"Awawa...\\\"\"},{\"lineNumber\":269497,\"originalJapaneseLine\":\"　ほ、本当に神様ですよ、ランス様……\",\"translatedEnglishLine\":\"\\\"I-It's really God, Lord Rance...\\\"\"},{\"lineNumber\":269498,\"originalJapaneseLine\":\"　に、逃げた方がいいんじゃ……」\",\"translatedEnglishLine\":\"\\\"S-shouldn't we run away...?\\\"\"},{\"lineNumber\":269499,\"originalJapaneseLine\":\"ただ対峙しているだけで、\",\"translatedEnglishLine\":\"Just by facing him,\"},{\"lineNumber\":269500,\"originalJapaneseLine\":\"それが如何に危険な存在か、\",\"translatedEnglishLine\":\"One's instinct is told how dangerous he is.\"},{\"lineNumber\":269501,\"originalJapaneseLine\":\"本能に訴えかけられる。\",\"translatedEnglishLine\":\"It appeals to the instincts.\"},{\"lineNumber\":269502,\"originalJapaneseLine\":\"あれに逆らってはいけない。\",\"translatedEnglishLine\":\"You must not oppose him.\"},{\"lineNumber\":269503,\"originalJapaneseLine\":\"あれに触れてはいけない。\",\"translatedEnglishLine\":\"You must not touch him.\"},{\"lineNumber\":269504,\"originalJapaneseLine\":\"命ある者であれば、\",\"translatedEnglishLine\":\"If you are a living being,\"},{\"lineNumber\":269505,\"originalJapaneseLine\":\"それは誰しも理解できるものだった。\",\"translatedEnglishLine\":\"It's something everyone can understand.\"},{\"lineNumber\":269506,\"originalJapaneseLine\":\"「関係あるかー！\",\"translatedEnglishLine\":\"\\\"Who cares!\\\"\"},{\"lineNumber\":269507,\"originalJapaneseLine\":\"　ハウゼルもサイゼルも俺の女の一人！\",\"translatedEnglishLine\":\"Both Howzer and Saizer are my women!\"},{\"lineNumber\":269508,\"originalJapaneseLine\":\"　何も言わずにバイバイさせるか！」\",\"translatedEnglishLine\":\"I'm not going to just say goodbye without a word!\\\"\"},{\"lineNumber\":269509,\"originalJapaneseLine\":\"「えー……\",\"translatedEnglishLine\":\"\\\"Eh...\\\"\"},{\"lineNumber\":269510,\"originalJapaneseLine\":\"　でも、ランス様も何も言わずに\",\"translatedEnglishLine\":\"\\\"But Lord Rance also left without saying anything,\"},{\"lineNumber\":269511,\"originalJapaneseLine\":\"　出て行ったじゃないですかぁ」\",\"translatedEnglishLine\":\"didn't he?\\\"\"},{\"lineNumber\":269512,\"originalJapaneseLine\":\"「俺はいいが、俺の女は駄目！」\",\"translatedEnglishLine\":\"\\\"I don't mind, but my women are out of the question!\\\"\"},{\"lineNumber\":269513,\"originalJapaneseLine\":\"「うう……\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":269514,\"originalJapaneseLine\":\"　志津香さんやリセットちゃん、\",\"translatedEnglishLine\":\"Shizuka-san and Reset-chan,\"},{\"lineNumber\":269515,\"originalJapaneseLine\":\"　きっと心配してますよ……」\",\"translatedEnglishLine\":\"I'm sure they're worried...\\\"\"},{\"lineNumber\":269516,\"originalJapaneseLine\":\"「ずっと聞いていたい会話だけど、\",\"translatedEnglishLine\":\"\\\"It's a conversation I'd like to keep listening to,\"},{\"lineNumber\":269517,\"originalJapaneseLine\":\"　意見を言ってもいいかしら？」\",\"translatedEnglishLine\":\"but may I give my opinion?\\\"\"},{\"lineNumber\":269518,\"originalJapaneseLine\":\"「前向きな意見なら許す。\",\"translatedEnglishLine\":\"\\\"If it’s a constructive opinion, I will allow it.\"},{\"lineNumber\":269519,\"originalJapaneseLine\":\"　言ってみなさい」\",\"translatedEnglishLine\":\"Speak up.\\\"\"},{\"lineNumber\":269520,\"originalJapaneseLine\":\"「むしろ悪いニュース」\",\"translatedEnglishLine\":\"\\\"Actually, it's bad news.\"},{\"lineNumber\":269521,\"originalJapaneseLine\":\"「あの子の目的が今、分かったの」\",\"translatedEnglishLine\":\"I just understood that girl's purpose.\"},{\"lineNumber\":269522,\"originalJapaneseLine\":\"「も、目的って……」\",\"translatedEnglishLine\":\"\\\"P-Purpose...?\\\"\"},{\"lineNumber\":269523,\"originalJapaneseLine\":\"「世界の破壊ですって」\",\"translatedEnglishLine\":\"\\\"It's the destruction of the world.\\\"\"},{\"lineNumber\":269524,\"originalJapaneseLine\":\"「え、えーーーー！？」\",\"translatedEnglishLine\":\"\\\"W-what!?!?\\\"\"},{\"lineNumber\":269525,\"originalJapaneseLine\":\"「ふん、ならばどついて元に戻すだけだ」\",\"translatedEnglishLine\":\"\\\"Hmph, then I’ll just hit her and make her revert.\\\"\"},{\"lineNumber\":269526,\"originalJapaneseLine\":\"「で、でも、あれが\",\"translatedEnglishLine\":\"\\\"B-But, that is\"},{\"lineNumber\":269527,\"originalJapaneseLine\":\"　ハウゼルさんやサイゼルさんの\",\"translatedEnglishLine\":\"Howzer-san and Saizer-san’s\"},{\"lineNumber\":269528,\"originalJapaneseLine\":\"　本来の姿、なんですよね……？」\",\"translatedEnglishLine\":\"original form, right...?\\\"\"},{\"lineNumber\":269529,\"originalJapaneseLine\":\"「元に戻ったものを、\",\"translatedEnglishLine\":\"\\\"Once they return to their original form,\"},{\"lineNumber\":269530,\"originalJapaneseLine\":\"　また二つに分けるなんて、\",\"translatedEnglishLine\":\"can they really be split into two again?\"},{\"lineNumber\":269531,\"originalJapaneseLine\":\"　できるんでしょうか……」\",\"translatedEnglishLine\":\"Can that be done...?\\\"\"},{\"lineNumber\":269532,\"originalJapaneseLine\":\"「シィルちゃん、\",\"translatedEnglishLine\":\"\\\"Seal-chan,\"},{\"lineNumber\":269533,\"originalJapaneseLine\":\"　一つ思い違いがあるわ」\",\"translatedEnglishLine\":\"there's one misconception you have.\\\"\"},{\"lineNumber\":269534,\"originalJapaneseLine\":\"「それが出来なければ、\",\"translatedEnglishLine\":\"\\\"If that can’t be done,\"},{\"lineNumber\":269535,\"originalJapaneseLine\":\"　世界は今日滅ぶだけよ」\",\"translatedEnglishLine\":\"the world will be destroyed today.\\\"\"},{\"lineNumber\":269536,\"originalJapaneseLine\":\"「選択の余地はないけれど……\",\"translatedEnglishLine\":\"\\\"We have no choice, but...\"},{\"lineNumber\":269537,\"originalJapaneseLine\":\"　ランス君、出来そう？」\",\"translatedEnglishLine\":\"Rance-kun, do you think you can do it?\\\"\"},{\"lineNumber\":269538,\"originalJapaneseLine\":\"「けっ！\",\"translatedEnglishLine\":\"\\\"Hmph!\"},{\"lineNumber\":269539,\"originalJapaneseLine\":\"　アムちゃん、俺を見くびるな！」\",\"translatedEnglishLine\":\"Am-chan, don’t underestimate me!\\\"\"},{\"lineNumber\":269540,\"originalJapaneseLine\":\"「俺様が今までに何度、\",\"translatedEnglishLine\":\"\\\"How many times do you think I’ve saved the world!?\"},{\"lineNumber\":269541,\"originalJapaneseLine\":\"　世界を救ったと思ってる！」\",\"translatedEnglishLine\":\"I’m the great me who’s done it before!\\\"\"},{\"lineNumber\":269542,\"originalJapaneseLine\":\"「今回だって楽勝だ！\",\"translatedEnglishLine\":\"\\\"This time will be a breeze too!\"},{\"lineNumber\":269543,\"originalJapaneseLine\":\"　行くぞー！」\",\"translatedEnglishLine\":\"Let’s go!\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "269484",
+                                "originalJapaneseLine": "不思議と記憶に残っている。",
+                                "translatedEnglishLine": "Strangely, it remains in my memory."
+                            },
+                            {
+                                "lineNumber": "269485",
+                                "originalJapaneseLine": "この世界の破壊。",
+                                "translatedEnglishLine": "The destruction of this world."
+                            },
+                            {
+                                "lineNumber": "269486",
+                                "originalJapaneseLine": "そして世界のリセット、",
+                                "translatedEnglishLine": "And the reset of the world,"
+                            },
+                            {
+                                "lineNumber": "269487",
+                                "originalJapaneseLine": "それこそがこの神に与えられた",
+                                "translatedEnglishLine": "That was the only role given to this god."
+                            },
+                            {
+                                "lineNumber": "269488",
+                                "originalJapaneseLine": "唯一の役割だった。",
+                                "translatedEnglishLine": "It was the sole duty."
+                            },
+                            {
+                                "lineNumber": "269489",
+                                "originalJapaneseLine": "ゆっくりと手をかざす。",
+                                "translatedEnglishLine": "Slowly, he held up his hand."
+                            },
+                            {
+                                "lineNumber": "269490",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "269491",
+                                "originalJapaneseLine": "初めて明確に、力なき人間に、",
+                                "translatedEnglishLine": "For the first time clearly, to powerless humans,"
+                            },
+                            {
+                                "lineNumber": "269492",
+                                "originalJapaneseLine": "破壊が振り下ろされようとしていた。",
+                                "translatedEnglishLine": "Destruction was about to be brought down."
+                            },
+                            {
+                                "lineNumber": "269493",
+                                "originalJapaneseLine": "「こらー！　やめんかー！",
+                                "translatedEnglishLine": "\"Hey! Stop that!\""
+                            },
+                            {
+                                "lineNumber": "269494",
+                                "originalJapaneseLine": "　ハウゼル、サイゼルー！」",
+                                "translatedEnglishLine": "\"Howzer, Saizer!\""
+                            },
+                            {
+                                "lineNumber": "269495",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "269496",
+                                "originalJapaneseLine": "「あわわ……",
+                                "translatedEnglishLine": "\"Awawa...\""
+                            },
+                            {
+                                "lineNumber": "269497",
+                                "originalJapaneseLine": "　ほ、本当に神様ですよ、ランス様……",
+                                "translatedEnglishLine": "\"I-It's really God, Lord Rance...\""
+                            },
+                            {
+                                "lineNumber": "269498",
+                                "originalJapaneseLine": "　に、逃げた方がいいんじゃ……」",
+                                "translatedEnglishLine": "\"S-shouldn't we run away...?\""
+                            },
+                            {
+                                "lineNumber": "269499",
+                                "originalJapaneseLine": "ただ対峙しているだけで、",
+                                "translatedEnglishLine": "Just by facing him,"
+                            },
+                            {
+                                "lineNumber": "269500",
+                                "originalJapaneseLine": "それが如何に危険な存在か、",
+                                "translatedEnglishLine": "One's instinct is told how dangerous he is."
+                            },
+                            {
+                                "lineNumber": "269501",
+                                "originalJapaneseLine": "本能に訴えかけられる。",
+                                "translatedEnglishLine": "It appeals to the instincts."
+                            },
+                            {
+                                "lineNumber": "269502",
+                                "originalJapaneseLine": "あれに逆らってはいけない。",
+                                "translatedEnglishLine": "You must not oppose him."
+                            },
+                            {
+                                "lineNumber": "269503",
+                                "originalJapaneseLine": "あれに触れてはいけない。",
+                                "translatedEnglishLine": "You must not touch him."
+                            },
+                            {
+                                "lineNumber": "269504",
+                                "originalJapaneseLine": "命ある者であれば、",
+                                "translatedEnglishLine": "If you are a living being,"
+                            },
+                            {
+                                "lineNumber": "269505",
+                                "originalJapaneseLine": "それは誰しも理解できるものだった。",
+                                "translatedEnglishLine": "It's something everyone can understand."
+                            },
+                            {
+                                "lineNumber": "269506",
+                                "originalJapaneseLine": "「関係あるかー！",
+                                "translatedEnglishLine": "\"Who cares!\""
+                            },
+                            {
+                                "lineNumber": "269507",
+                                "originalJapaneseLine": "　ハウゼルもサイゼルも俺の女の一人！",
+                                "translatedEnglishLine": "Both Howzer and Saizer are my women!"
+                            },
+                            {
+                                "lineNumber": "269508",
+                                "originalJapaneseLine": "　何も言わずにバイバイさせるか！」",
+                                "translatedEnglishLine": "I'm not going to just say goodbye without a word!\""
+                            },
+                            {
+                                "lineNumber": "269509",
+                                "originalJapaneseLine": "「えー……",
+                                "translatedEnglishLine": "\"Eh...\""
+                            },
+                            {
+                                "lineNumber": "269510",
+                                "originalJapaneseLine": "　でも、ランス様も何も言わずに",
+                                "translatedEnglishLine": "\"But Lord Rance also left without saying anything,"
+                            },
+                            {
+                                "lineNumber": "269511",
+                                "originalJapaneseLine": "　出て行ったじゃないですかぁ」",
+                                "translatedEnglishLine": "didn't he?\""
+                            },
+                            {
+                                "lineNumber": "269512",
+                                "originalJapaneseLine": "「俺はいいが、俺の女は駄目！」",
+                                "translatedEnglishLine": "\"I don't mind, but my women are out of the question!\""
+                            },
+                            {
+                                "lineNumber": "269513",
+                                "originalJapaneseLine": "「うう……",
+                                "translatedEnglishLine": "\"Ugh...\""
+                            },
+                            {
+                                "lineNumber": "269514",
+                                "originalJapaneseLine": "　志津香さんやリセットちゃん、",
+                                "translatedEnglishLine": "Shizuka-san and Reset-chan,"
+                            },
+                            {
+                                "lineNumber": "269515",
+                                "originalJapaneseLine": "　きっと心配してますよ……」",
+                                "translatedEnglishLine": "I'm sure they're worried...\""
+                            },
+                            {
+                                "lineNumber": "269516",
+                                "originalJapaneseLine": "「ずっと聞いていたい会話だけど、",
+                                "translatedEnglishLine": "\"It's a conversation I'd like to keep listening to,"
+                            },
+                            {
+                                "lineNumber": "269517",
+                                "originalJapaneseLine": "　意見を言ってもいいかしら？」",
+                                "translatedEnglishLine": "but may I give my opinion?\""
+                            },
+                            {
+                                "lineNumber": "269518",
+                                "originalJapaneseLine": "「前向きな意見なら許す。",
+                                "translatedEnglishLine": "\"If it’s a constructive opinion, I will allow it."
+                            },
+                            {
+                                "lineNumber": "269519",
+                                "originalJapaneseLine": "　言ってみなさい」",
+                                "translatedEnglishLine": "Speak up.\""
+                            },
+                            {
+                                "lineNumber": "269520",
+                                "originalJapaneseLine": "「むしろ悪いニュース」",
+                                "translatedEnglishLine": "\"Actually, it's bad news."
+                            },
+                            {
+                                "lineNumber": "269521",
+                                "originalJapaneseLine": "「あの子の目的が今、分かったの」",
+                                "translatedEnglishLine": "I just understood that girl's purpose."
+                            },
+                            {
+                                "lineNumber": "269522",
+                                "originalJapaneseLine": "「も、目的って……」",
+                                "translatedEnglishLine": "\"P-Purpose...?\""
+                            },
+                            {
+                                "lineNumber": "269523",
+                                "originalJapaneseLine": "「世界の破壊ですって」",
+                                "translatedEnglishLine": "\"It's the destruction of the world.\""
+                            },
+                            {
+                                "lineNumber": "269524",
+                                "originalJapaneseLine": "「え、えーーーー！？」",
+                                "translatedEnglishLine": "\"W-what!?!?\""
+                            },
+                            {
+                                "lineNumber": "269525",
+                                "originalJapaneseLine": "「ふん、ならばどついて元に戻すだけだ」",
+                                "translatedEnglishLine": "\"Hmph, then I’ll just hit her and make her revert.\""
+                            },
+                            {
+                                "lineNumber": "269526",
+                                "originalJapaneseLine": "「で、でも、あれが",
+                                "translatedEnglishLine": "\"B-But, that is"
+                            },
+                            {
+                                "lineNumber": "269527",
+                                "originalJapaneseLine": "　ハウゼルさんやサイゼルさんの",
+                                "translatedEnglishLine": "Howzer-san and Saizer-san’s"
+                            },
+                            {
+                                "lineNumber": "269528",
+                                "originalJapaneseLine": "　本来の姿、なんですよね……？」",
+                                "translatedEnglishLine": "original form, right...?\""
+                            },
+                            {
+                                "lineNumber": "269529",
+                                "originalJapaneseLine": "「元に戻ったものを、",
+                                "translatedEnglishLine": "\"Once they return to their original form,"
+                            },
+                            {
+                                "lineNumber": "269530",
+                                "originalJapaneseLine": "　また二つに分けるなんて、",
+                                "translatedEnglishLine": "can they really be split into two again?"
+                            },
+                            {
+                                "lineNumber": "269531",
+                                "originalJapaneseLine": "　できるんでしょうか……」",
+                                "translatedEnglishLine": "Can that be done...?\""
+                            },
+                            {
+                                "lineNumber": "269532",
+                                "originalJapaneseLine": "「シィルちゃん、",
+                                "translatedEnglishLine": "\"Seal-chan,"
+                            },
+                            {
+                                "lineNumber": "269533",
+                                "originalJapaneseLine": "　一つ思い違いがあるわ」",
+                                "translatedEnglishLine": "there's one misconception you have.\""
+                            },
+                            {
+                                "lineNumber": "269534",
+                                "originalJapaneseLine": "「それが出来なければ、",
+                                "translatedEnglishLine": "\"If that can’t be done,"
+                            },
+                            {
+                                "lineNumber": "269535",
+                                "originalJapaneseLine": "　世界は今日滅ぶだけよ」",
+                                "translatedEnglishLine": "the world will be destroyed today.\""
+                            },
+                            {
+                                "lineNumber": "269536",
+                                "originalJapaneseLine": "「選択の余地はないけれど……",
+                                "translatedEnglishLine": "\"We have no choice, but..."
+                            },
+                            {
+                                "lineNumber": "269537",
+                                "originalJapaneseLine": "　ランス君、出来そう？」",
+                                "translatedEnglishLine": "Rance-kun, do you think you can do it?\""
+                            },
+                            {
+                                "lineNumber": "269538",
+                                "originalJapaneseLine": "「けっ！",
+                                "translatedEnglishLine": "\"Hmph!"
+                            },
+                            {
+                                "lineNumber": "269539",
+                                "originalJapaneseLine": "　アムちゃん、俺を見くびるな！」",
+                                "translatedEnglishLine": "Am-chan, don’t underestimate me!\""
+                            },
+                            {
+                                "lineNumber": "269540",
+                                "originalJapaneseLine": "「俺様が今までに何度、",
+                                "translatedEnglishLine": "\"How many times do you think I’ve saved the world!?"
+                            },
+                            {
+                                "lineNumber": "269541",
+                                "originalJapaneseLine": "　世界を救ったと思ってる！」",
+                                "translatedEnglishLine": "I’m the great me who’s done it before!\""
+                            },
+                            {
+                                "lineNumber": "269542",
+                                "originalJapaneseLine": "「今回だって楽勝だ！",
+                                "translatedEnglishLine": "\"This time will be a breeze too!"
+                            },
+                            {
+                                "lineNumber": "269543",
+                                "originalJapaneseLine": "　行くぞー！」",
+                                "translatedEnglishLine": "Let’s go!\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1708,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2024,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3732
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":269484,\"originalJapaneseLine\":\"不思議と記憶に残っている。\",\"translatedEnglishLine\":\"Strangely, it remains in my memory.\"},{\"lineNumber\":269485,\"originalJapaneseLine\":\"この世界の破壊。\",\"translatedEnglishLine\":\"The destruction of this world.\"},{\"lineNumber\":269486,\"originalJapaneseLine\":\"そして世界のリセット、\",\"translatedEnglishLine\":\"And the reset of the world,\"},{\"lineNumber\":269487,\"originalJapaneseLine\":\"それこそがこの神に与えられた\",\"translatedEnglishLine\":\"That was the only role given to this god.\"},{\"lineNumber\":269488,\"originalJapaneseLine\":\"唯一の役割だった。\",\"translatedEnglishLine\":\"It was the sole duty.\"},{\"lineNumber\":269489,\"originalJapaneseLine\":\"ゆっくりと手をかざす。\",\"translatedEnglishLine\":\"Slowly, he held up his hand.\"},{\"lineNumber\":269490,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":269491,\"originalJapaneseLine\":\"初めて明確に、力なき人間に、\",\"translatedEnglishLine\":\"For the first time clearly, to powerless humans,\"},{\"lineNumber\":269492,\"originalJapaneseLine\":\"破壊が振り下ろされようとしていた。\",\"translatedEnglishLine\":\"Destruction was about to be brought down.\"},{\"lineNumber\":269493,\"originalJapaneseLine\":\"「こらー！　やめんかー！\",\"translatedEnglishLine\":\"\\\"Hey! Stop that!\\\"\"},{\"lineNumber\":269494,\"originalJapaneseLine\":\"　ハウゼル、サイゼルー！」\",\"translatedEnglishLine\":\"\\\"Howzer, Saizer!\\\"\"},{\"lineNumber\":269495,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":269496,\"originalJapaneseLine\":\"「あわわ……\",\"translatedEnglishLine\":\"\\\"Awawa...\\\"\"},{\"lineNumber\":269497,\"originalJapaneseLine\":\"　ほ、本当に神様ですよ、ランス様……\",\"translatedEnglishLine\":\"\\\"I-It's really God, Lord Rance...\\\"\"},{\"lineNumber\":269498,\"originalJapaneseLine\":\"　に、逃げた方がいいんじゃ……」\",\"translatedEnglishLine\":\"\\\"S-shouldn't we run away...?\\\"\"},{\"lineNumber\":269499,\"originalJapaneseLine\":\"ただ対峙しているだけで、\",\"translatedEnglishLine\":\"Just by facing him,\"},{\"lineNumber\":269500,\"originalJapaneseLine\":\"それが如何に危険な存在か、\",\"translatedEnglishLine\":\"One's instinct is told how dangerous he is.\"},{\"lineNumber\":269501,\"originalJapaneseLine\":\"本能に訴えかけられる。\",\"translatedEnglishLine\":\"It appeals to the instincts.\"},{\"lineNumber\":269502,\"originalJapaneseLine\":\"あれに逆らってはいけない。\",\"translatedEnglishLine\":\"You must not oppose him.\"},{\"lineNumber\":269503,\"originalJapaneseLine\":\"あれに触れてはいけない。\",\"translatedEnglishLine\":\"You must not touch him.\"},{\"lineNumber\":269504,\"originalJapaneseLine\":\"命ある者であれば、\",\"translatedEnglishLine\":\"If you are a living being,\"},{\"lineNumber\":269505,\"originalJapaneseLine\":\"それは誰しも理解できるものだった。\",\"translatedEnglishLine\":\"It's something everyone can understand.\"},{\"lineNumber\":269506,\"originalJapaneseLine\":\"「関係あるかー！\",\"translatedEnglishLine\":\"\\\"Who cares!\\\"\"},{\"lineNumber\":269507,\"originalJapaneseLine\":\"　ハウゼルもサイゼルも俺の女の一人！\",\"translatedEnglishLine\":\"Both Howzer and Saizer are my women!\"},{\"lineNumber\":269508,\"originalJapaneseLine\":\"　何も言わずにバイバイさせるか！」\",\"translatedEnglishLine\":\"I'm not going to just say goodbye without a word!\\\"\"},{\"lineNumber\":269509,\"originalJapaneseLine\":\"「えー……\",\"translatedEnglishLine\":\"\\\"Eh...\\\"\"},{\"lineNumber\":269510,\"originalJapaneseLine\":\"　でも、ランス様も何も言わずに\",\"translatedEnglishLine\":\"\\\"But Lord Rance also left without saying anything,\"},{\"lineNumber\":269511,\"originalJapaneseLine\":\"　出て行ったじゃないですかぁ」\",\"translatedEnglishLine\":\"didn't he?\\\"\"},{\"lineNumber\":269512,\"originalJapaneseLine\":\"「俺はいいが、俺の女は駄目！」\",\"translatedEnglishLine\":\"\\\"I don't mind, but my women are out of the question!\\\"\"},{\"lineNumber\":269513,\"originalJapaneseLine\":\"「うう……\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":269514,\"originalJapaneseLine\":\"　志津香さんやリセットちゃん、\",\"translatedEnglishLine\":\"Shizuka-san and Reset-chan,\"},{\"lineNumber\":269515,\"originalJapaneseLine\":\"　きっと心配してますよ……」\",\"translatedEnglishLine\":\"I'm sure they're worried...\\\"\"},{\"lineNumber\":269516,\"originalJapaneseLine\":\"「ずっと聞いていたい会話だけど、\",\"translatedEnglishLine\":\"\\\"It's a conversation I'd like to keep listening to,\"},{\"lineNumber\":269517,\"originalJapaneseLine\":\"　意見を言ってもいいかしら？」\",\"translatedEnglishLine\":\"but may I give my opinion?\\\"\"},{\"lineNumber\":269518,\"originalJapaneseLine\":\"「前向きな意見なら許す。\",\"translatedEnglishLine\":\"\\\"If it’s a constructive opinion, I will allow it.\"},{\"lineNumber\":269519,\"originalJapaneseLine\":\"　言ってみなさい」\",\"translatedEnglishLine\":\"Speak up.\\\"\"},{\"lineNumber\":269520,\"originalJapaneseLine\":\"「むしろ悪いニュース」\",\"translatedEnglishLine\":\"\\\"Actually, it's bad news.\"},{\"lineNumber\":269521,\"originalJapaneseLine\":\"「あの子の目的が今、分かったの」\",\"translatedEnglishLine\":\"I just understood that girl's purpose.\"},{\"lineNumber\":269522,\"originalJapaneseLine\":\"「も、目的って……」\",\"translatedEnglishLine\":\"\\\"P-Purpose...?\\\"\"},{\"lineNumber\":269523,\"originalJapaneseLine\":\"「世界の破壊ですって」\",\"translatedEnglishLine\":\"\\\"It's the destruction of the world.\\\"\"},{\"lineNumber\":269524,\"originalJapaneseLine\":\"「え、えーーーー！？」\",\"translatedEnglishLine\":\"\\\"W-what!?!?\\\"\"},{\"lineNumber\":269525,\"originalJapaneseLine\":\"「ふん、ならばどついて元に戻すだけだ」\",\"translatedEnglishLine\":\"\\\"Hmph, then I’ll just hit her and make her revert.\\\"\"},{\"lineNumber\":269526,\"originalJapaneseLine\":\"「で、でも、あれが\",\"translatedEnglishLine\":\"\\\"B-But, that is\"},{\"lineNumber\":269527,\"originalJapaneseLine\":\"　ハウゼルさんやサイゼルさんの\",\"translatedEnglishLine\":\"Howzer-san and Saizer-san’s\"},{\"lineNumber\":269528,\"originalJapaneseLine\":\"　本来の姿、なんですよね……？」\",\"translatedEnglishLine\":\"original form, right...?\\\"\"},{\"lineNumber\":269529,\"originalJapaneseLine\":\"「元に戻ったものを、\",\"translatedEnglishLine\":\"\\\"Once they return to their original form,\"},{\"lineNumber\":269530,\"originalJapaneseLine\":\"　また二つに分けるなんて、\",\"translatedEnglishLine\":\"can they really be split into two again?\"},{\"lineNumber\":269531,\"originalJapaneseLine\":\"　できるんでしょうか……」\",\"translatedEnglishLine\":\"Can that be done...?\\\"\"},{\"lineNumber\":269532,\"originalJapaneseLine\":\"「シィルちゃん、\",\"translatedEnglishLine\":\"\\\"Seal-chan,\"},{\"lineNumber\":269533,\"originalJapaneseLine\":\"　一つ思い違いがあるわ」\",\"translatedEnglishLine\":\"there's one misconception you have.\\\"\"},{\"lineNumber\":269534,\"originalJapaneseLine\":\"「それが出来なければ、\",\"translatedEnglishLine\":\"\\\"If that can’t be done,\"},{\"lineNumber\":269535,\"originalJapaneseLine\":\"　世界は今日滅ぶだけよ」\",\"translatedEnglishLine\":\"the world will be destroyed today.\\\"\"},{\"lineNumber\":269536,\"originalJapaneseLine\":\"「選択の余地はないけれど……\",\"translatedEnglishLine\":\"\\\"We have no choice, but...\"},{\"lineNumber\":269537,\"originalJapaneseLine\":\"　ランス君、出来そう？」\",\"translatedEnglishLine\":\"Rance-kun, do you think you can do it?\\\"\"},{\"lineNumber\":269538,\"originalJapaneseLine\":\"「けっ！\",\"translatedEnglishLine\":\"\\\"Hmph!\"},{\"lineNumber\":269539,\"originalJapaneseLine\":\"　アムちゃん、俺を見くびるな！」\",\"translatedEnglishLine\":\"Am-chan, don’t underestimate me!\\\"\"},{\"lineNumber\":269540,\"originalJapaneseLine\":\"「俺様が今までに何度、\",\"translatedEnglishLine\":\"\\\"How many times do you think I’ve saved the world!?\"},{\"lineNumber\":269541,\"originalJapaneseLine\":\"　世界を救ったと思ってる！」\",\"translatedEnglishLine\":\"I’m the great me who’s done it before!\\\"\"},{\"lineNumber\":269542,\"originalJapaneseLine\":\"「今回だって楽勝だ！\",\"translatedEnglishLine\":\"\\\"This time will be a breeze too!\"},{\"lineNumber\":269543,\"originalJapaneseLine\":\"　行くぞー！」\",\"translatedEnglishLine\":\"Let’s go!\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "269484",
+                "originalJapaneseLine": "不思議と記憶に残っている。",
+                "translatedEnglishLine": "Strangely, it remains in my memory."
+            },
+            {
+                "lineNumber": "269485",
+                "originalJapaneseLine": "この世界の破壊。",
+                "translatedEnglishLine": "The destruction of this world."
+            },
+            {
+                "lineNumber": "269486",
+                "originalJapaneseLine": "そして世界のリセット、",
+                "translatedEnglishLine": "And the reset of the world,"
+            },
+            {
+                "lineNumber": "269487",
+                "originalJapaneseLine": "それこそがこの神に与えられた",
+                "translatedEnglishLine": "That was the only role given to this god."
+            },
+            {
+                "lineNumber": "269488",
+                "originalJapaneseLine": "唯一の役割だった。",
+                "translatedEnglishLine": "It was the sole duty."
+            },
+            {
+                "lineNumber": "269489",
+                "originalJapaneseLine": "ゆっくりと手をかざす。",
+                "translatedEnglishLine": "Slowly, he held up his hand."
+            },
+            {
+                "lineNumber": "269490",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "269491",
+                "originalJapaneseLine": "初めて明確に、力なき人間に、",
+                "translatedEnglishLine": "For the first time clearly, to powerless humans,"
+            },
+            {
+                "lineNumber": "269492",
+                "originalJapaneseLine": "破壊が振り下ろされようとしていた。",
+                "translatedEnglishLine": "Destruction was about to be brought down."
+            },
+            {
+                "lineNumber": "269493",
+                "originalJapaneseLine": "「こらー！　やめんかー！",
+                "translatedEnglishLine": "\"Hey! Stop that!\""
+            },
+            {
+                "lineNumber": "269494",
+                "originalJapaneseLine": "　ハウゼル、サイゼルー！」",
+                "translatedEnglishLine": "\"Howzer, Saizer!\""
+            },
+            {
+                "lineNumber": "269495",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "269496",
+                "originalJapaneseLine": "「あわわ……",
+                "translatedEnglishLine": "\"Awawa...\""
+            },
+            {
+                "lineNumber": "269497",
+                "originalJapaneseLine": "　ほ、本当に神様ですよ、ランス様……",
+                "translatedEnglishLine": "\"I-It's really God, Lord Rance...\""
+            },
+            {
+                "lineNumber": "269498",
+                "originalJapaneseLine": "　に、逃げた方がいいんじゃ……」",
+                "translatedEnglishLine": "\"S-shouldn't we run away...?\""
+            },
+            {
+                "lineNumber": "269499",
+                "originalJapaneseLine": "ただ対峙しているだけで、",
+                "translatedEnglishLine": "Just by facing him,"
+            },
+            {
+                "lineNumber": "269500",
+                "originalJapaneseLine": "それが如何に危険な存在か、",
+                "translatedEnglishLine": "One's instinct is told how dangerous he is."
+            },
+            {
+                "lineNumber": "269501",
+                "originalJapaneseLine": "本能に訴えかけられる。",
+                "translatedEnglishLine": "It appeals to the instincts."
+            },
+            {
+                "lineNumber": "269502",
+                "originalJapaneseLine": "あれに逆らってはいけない。",
+                "translatedEnglishLine": "You must not oppose him."
+            },
+            {
+                "lineNumber": "269503",
+                "originalJapaneseLine": "あれに触れてはいけない。",
+                "translatedEnglishLine": "You must not touch him."
+            },
+            {
+                "lineNumber": "269504",
+                "originalJapaneseLine": "命ある者であれば、",
+                "translatedEnglishLine": "If you are a living being,"
+            },
+            {
+                "lineNumber": "269505",
+                "originalJapaneseLine": "それは誰しも理解できるものだった。",
+                "translatedEnglishLine": "It's something everyone can understand."
+            },
+            {
+                "lineNumber": "269506",
+                "originalJapaneseLine": "「関係あるかー！",
+                "translatedEnglishLine": "\"Who cares!\""
+            },
+            {
+                "lineNumber": "269507",
+                "originalJapaneseLine": "　ハウゼルもサイゼルも俺の女の一人！",
+                "translatedEnglishLine": "Both Howzer and Saizer are my women!"
+            },
+            {
+                "lineNumber": "269508",
+                "originalJapaneseLine": "　何も言わずにバイバイさせるか！」",
+                "translatedEnglishLine": "I'm not going to just say goodbye without a word!\""
+            },
+            {
+                "lineNumber": "269509",
+                "originalJapaneseLine": "「えー……",
+                "translatedEnglishLine": "\"Eh...\""
+            },
+            {
+                "lineNumber": "269510",
+                "originalJapaneseLine": "　でも、ランス様も何も言わずに",
+                "translatedEnglishLine": "\"But Lord Rance also left without saying anything,"
+            },
+            {
+                "lineNumber": "269511",
+                "originalJapaneseLine": "　出て行ったじゃないですかぁ」",
+                "translatedEnglishLine": "didn't he?\""
+            },
+            {
+                "lineNumber": "269512",
+                "originalJapaneseLine": "「俺はいいが、俺の女は駄目！」",
+                "translatedEnglishLine": "\"I don't mind, but my women are out of the question!\""
+            },
+            {
+                "lineNumber": "269513",
+                "originalJapaneseLine": "「うう……",
+                "translatedEnglishLine": "\"Ugh...\""
+            },
+            {
+                "lineNumber": "269514",
+                "originalJapaneseLine": "　志津香さんやリセットちゃん、",
+                "translatedEnglishLine": "Shizuka-san and Reset-chan,"
+            },
+            {
+                "lineNumber": "269515",
+                "originalJapaneseLine": "　きっと心配してますよ……」",
+                "translatedEnglishLine": "I'm sure they're worried...\""
+            },
+            {
+                "lineNumber": "269516",
+                "originalJapaneseLine": "「ずっと聞いていたい会話だけど、",
+                "translatedEnglishLine": "\"It's a conversation I'd like to keep listening to,"
+            },
+            {
+                "lineNumber": "269517",
+                "originalJapaneseLine": "　意見を言ってもいいかしら？」",
+                "translatedEnglishLine": "but may I give my opinion?\""
+            },
+            {
+                "lineNumber": "269518",
+                "originalJapaneseLine": "「前向きな意見なら許す。",
+                "translatedEnglishLine": "\"If it’s a constructive opinion, I will allow it."
+            },
+            {
+                "lineNumber": "269519",
+                "originalJapaneseLine": "　言ってみなさい」",
+                "translatedEnglishLine": "Speak up.\""
+            },
+            {
+                "lineNumber": "269520",
+                "originalJapaneseLine": "「むしろ悪いニュース」",
+                "translatedEnglishLine": "\"Actually, it's bad news."
+            },
+            {
+                "lineNumber": "269521",
+                "originalJapaneseLine": "「あの子の目的が今、分かったの」",
+                "translatedEnglishLine": "I just understood that girl's purpose."
+            },
+            {
+                "lineNumber": "269522",
+                "originalJapaneseLine": "「も、目的って……」",
+                "translatedEnglishLine": "\"P-Purpose...?\""
+            },
+            {
+                "lineNumber": "269523",
+                "originalJapaneseLine": "「世界の破壊ですって」",
+                "translatedEnglishLine": "\"It's the destruction of the world.\""
+            },
+            {
+                "lineNumber": "269524",
+                "originalJapaneseLine": "「え、えーーーー！？」",
+                "translatedEnglishLine": "\"W-what!?!?\""
+            },
+            {
+                "lineNumber": "269525",
+                "originalJapaneseLine": "「ふん、ならばどついて元に戻すだけだ」",
+                "translatedEnglishLine": "\"Hmph, then I’ll just hit her and make her revert.\""
+            },
+            {
+                "lineNumber": "269526",
+                "originalJapaneseLine": "「で、でも、あれが",
+                "translatedEnglishLine": "\"B-But, that is"
+            },
+            {
+                "lineNumber": "269527",
+                "originalJapaneseLine": "　ハウゼルさんやサイゼルさんの",
+                "translatedEnglishLine": "Howzer-san and Saizer-san’s"
+            },
+            {
+                "lineNumber": "269528",
+                "originalJapaneseLine": "　本来の姿、なんですよね……？」",
+                "translatedEnglishLine": "original form, right...?\""
+            },
+            {
+                "lineNumber": "269529",
+                "originalJapaneseLine": "「元に戻ったものを、",
+                "translatedEnglishLine": "\"Once they return to their original form,"
+            },
+            {
+                "lineNumber": "269530",
+                "originalJapaneseLine": "　また二つに分けるなんて、",
+                "translatedEnglishLine": "can they really be split into two again?"
+            },
+            {
+                "lineNumber": "269531",
+                "originalJapaneseLine": "　できるんでしょうか……」",
+                "translatedEnglishLine": "Can that be done...?\""
+            },
+            {
+                "lineNumber": "269532",
+                "originalJapaneseLine": "「シィルちゃん、",
+                "translatedEnglishLine": "\"Seal-chan,"
+            },
+            {
+                "lineNumber": "269533",
+                "originalJapaneseLine": "　一つ思い違いがあるわ」",
+                "translatedEnglishLine": "there's one misconception you have.\""
+            },
+            {
+                "lineNumber": "269534",
+                "originalJapaneseLine": "「それが出来なければ、",
+                "translatedEnglishLine": "\"If that can’t be done,"
+            },
+            {
+                "lineNumber": "269535",
+                "originalJapaneseLine": "　世界は今日滅ぶだけよ」",
+                "translatedEnglishLine": "the world will be destroyed today.\""
+            },
+            {
+                "lineNumber": "269536",
+                "originalJapaneseLine": "「選択の余地はないけれど……",
+                "translatedEnglishLine": "\"We have no choice, but..."
+            },
+            {
+                "lineNumber": "269537",
+                "originalJapaneseLine": "　ランス君、出来そう？」",
+                "translatedEnglishLine": "Rance-kun, do you think you can do it?\""
+            },
+            {
+                "lineNumber": "269538",
+                "originalJapaneseLine": "「けっ！",
+                "translatedEnglishLine": "\"Hmph!"
+            },
+            {
+                "lineNumber": "269539",
+                "originalJapaneseLine": "　アムちゃん、俺を見くびるな！」",
+                "translatedEnglishLine": "Am-chan, don’t underestimate me!\""
+            },
+            {
+                "lineNumber": "269540",
+                "originalJapaneseLine": "「俺様が今までに何度、",
+                "translatedEnglishLine": "\"How many times do you think I’ve saved the world!?"
+            },
+            {
+                "lineNumber": "269541",
+                "originalJapaneseLine": "　世界を救ったと思ってる！」",
+                "translatedEnglishLine": "I’m the great me who’s done it before!\""
+            },
+            {
+                "lineNumber": "269542",
+                "originalJapaneseLine": "「今回だって楽勝だ！",
+                "translatedEnglishLine": "\"This time will be a breeze too!"
+            },
+            {
+                "lineNumber": "269543",
+                "originalJapaneseLine": "　行くぞー！」",
+                "translatedEnglishLine": "Let’s go!\""
+            }
+        ]
+    }
+}

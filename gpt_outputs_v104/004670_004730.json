@@ -1,0 +1,719 @@
+{
+    "id": "resp_0bc2b1d25168f0f90068ffeebe192481949f41105288f0da1b",
+    "object": "response",
+    "created_at": 1761603262,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0bc2b1d25168f0f90068ffeebf65fc8194b77922e54998a5fd",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"最後に言えた言葉はたったそれだけ。\",\"translatedEnglishLine\":\"The only words spoken at the end were just those.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"互いの体が発光し、\",\"translatedEnglishLine\":\"Their bodies began to glow,\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"互いの顔から表情が消え、\",\"translatedEnglishLine\":\"The expressions vanished from their faces,\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"互いの体が近づく。\",\"translatedEnglishLine\":\"Their bodies moved closer to each other.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"そして――\",\"translatedEnglishLine\":\"And then—\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"サイゼルはいない。\",\"translatedEnglishLine\":\"Saizel was gone.\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"ハウゼルはいない。\",\"translatedEnglishLine\":\"Hauzel was gone.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"サイゼルはいる。\",\"translatedEnglishLine\":\"Saizel existed.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"ハウゼルはいる。\",\"translatedEnglishLine\":\"Hauzel existed.\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"二人は、一人に。\",\"translatedEnglishLine\":\"The two became one.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"無の存在に。\",\"translatedEnglishLine\":\"They became an existence of nothingness.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"そして、破壊の象徴に……\",\"translatedEnglishLine\":\"And then, a symbol of destruction...\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"破壊の神、ラ・バスワルドが、\",\"translatedEnglishLine\":\"The god of destruction, La Baswald,\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"この世界に初めて顕現した。\",\"translatedEnglishLine\":\"manifested in this world for the first time.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"そこにあったのは、破壊。\",\"translatedEnglishLine\":\"What was there was destruction.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"粉々に踏み潰されたような破壊とも違う。\",\"translatedEnglishLine\":\"Not destruction as if something were smashed to pieces.\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"建物や地面が丸くえぐり取られている。\",\"translatedEnglishLine\":\"Buildings and the ground were gouged out in round shapes.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"空間が削られたような破壊だった。\",\"translatedEnglishLine\":\"It was destruction as if space itself had been shaved away.\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「いったい、なにがあったら、\",\"translatedEnglishLine\":\"\\\"What on earth must have happened,\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　こんなことになるんだ？」\",\"translatedEnglishLine\":\"to cause something like this?\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「うう……ひどい、ですね……」\",\"translatedEnglishLine\":\"\\\"Ugh... it's terrible, isn't it...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"その村にたまたま来ていたのは、\",\"translatedEnglishLine\":\"By chance, the ones who came to that village were,\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"ランスと、その奴隷のシィルだった。\",\"translatedEnglishLine\":\"Rance and his slave, Shiru.\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「な、なんだか嫌な予感がしますよ？\",\"translatedEnglishLine\":\"\\\"I-I've got a bad feeling about this, you know?\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　離れませんか、ランス様？」\",\"translatedEnglishLine\":\"Shouldn't we leave, Master Rance?\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「うーむ……\",\"translatedEnglishLine\":\"\\\"Hmm...\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　それもそうだなぁ」\",\"translatedEnglishLine\":\"I guess you're right.\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「あら、そこにいるのは、\",\"translatedEnglishLine\":\"\\\"Oh, isn't that over there,\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　ランス君とシィルちゃんじゃない」\",\"translatedEnglishLine\":\"Rance-kun and Shiru-chan?\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「こ、この……\",\"translatedEnglishLine\":\"\\\"Th-this...\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　ねっとりと絡みつく優しい声は」\",\"translatedEnglishLine\":\"That sticky, clinging gentle voice is...\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「アムちゃんか！？」\",\"translatedEnglishLine\":\"\\\"Amu-chan!?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「正解。\",\"translatedEnglishLine\":\"\\\"Correct.\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　覚えていてくれたなんて、\",\"translatedEnglishLine\":\"I'm so happy that you remembered me.\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　とっても嬉しいわ」\",\"translatedEnglishLine\":\"It's really wonderful.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「声はすれども姿は見えず……\",\"translatedEnglishLine\":\"\\\"I hear your voice, but I can't see you...\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　どこにいるんだ？」\",\"translatedEnglishLine\":\"Where are you?\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「ランス君、足下、足下」\",\"translatedEnglishLine\":\"Rance-kun, under your feet, under your feet.\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「……足下？」\",\"translatedEnglishLine\":\"\\\"...Under my feet?\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「きゃああああああああ！\",\"translatedEnglishLine\":\"\\\"Kyaaaaaaa!\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　ら、ランス様！　アムさんが……！」\",\"translatedEnglishLine\":\"M-Master Rance! Amu-san is...!\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「うわっ、気持ちわるっ！\",\"translatedEnglishLine\":\"\\\"Ugh, that's disgusting!\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　アムちゃん、なんだその格好！？」\",\"translatedEnglishLine\":\"Amu-chan, what's with that appearance!?\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"地面に這いつくばったアムが、\",\"translatedEnglishLine\":\"Amu was crawling on the ground,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"両手をよちよちと使って近づいてきていた。\",\"translatedEnglishLine\":\"using both hands awkwardly to approach.\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"彼女には下半身がなかった。\",\"translatedEnglishLine\":\"She had no lower body.\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「いやー、死ぬかと思ったわ」\",\"translatedEnglishLine\":\"\\\"Well, I thought I was going to die.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「むしろ、なんで死んでないんだ」\",\"translatedEnglishLine\":\"\\\"Rather, why are you still alive?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「見る？\",\"translatedEnglishLine\":\"\\\"Do you want to see?\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"　下腹部から下がないんだけど……」\",\"translatedEnglishLine\":\"I don't have anything below my lower abdomen...\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「そんなもん見せんでいい！」\",\"translatedEnglishLine\":\"\\\"No need to show me that!\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「まあ……アムちゃんだからな……\",\"translatedEnglishLine\":\"\\\"Well... it's Amu-chan... if her lower body is gone, it doesn't mean she's dead.\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　下半身がないくらいなら死なんか」\",\"translatedEnglishLine\":\"If her lower body is gone, that alone doesn't mean death.\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「で、何があったんだ？\",\"translatedEnglishLine\":\"\\\"So, what happened?\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　村も滅茶苦茶になってるが……」\",\"translatedEnglishLine\":\"The village is a complete mess too...\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「この村はね、私の作った村なの」\",\"translatedEnglishLine\":\"This village is one I created.\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "269304",
+                                "originalJapaneseLine": "最後に言えた言葉はたったそれだけ。",
+                                "translatedEnglishLine": "The only words spoken at the end were just those."
+                            },
+                            {
+                                "lineNumber": "269305",
+                                "originalJapaneseLine": "互いの体が発光し、",
+                                "translatedEnglishLine": "Their bodies began to glow,"
+                            },
+                            {
+                                "lineNumber": "269306",
+                                "originalJapaneseLine": "互いの顔から表情が消え、",
+                                "translatedEnglishLine": "The expressions vanished from their faces,"
+                            },
+                            {
+                                "lineNumber": "269307",
+                                "originalJapaneseLine": "互いの体が近づく。",
+                                "translatedEnglishLine": "Their bodies moved closer to each other."
+                            },
+                            {
+                                "lineNumber": "269308",
+                                "originalJapaneseLine": "そして――",
+                                "translatedEnglishLine": "And then—"
+                            },
+                            {
+                                "lineNumber": "269309",
+                                "originalJapaneseLine": "サイゼルはいない。",
+                                "translatedEnglishLine": "Saizel was gone."
+                            },
+                            {
+                                "lineNumber": "269310",
+                                "originalJapaneseLine": "ハウゼルはいない。",
+                                "translatedEnglishLine": "Hauzel was gone."
+                            },
+                            {
+                                "lineNumber": "269311",
+                                "originalJapaneseLine": "サイゼルはいる。",
+                                "translatedEnglishLine": "Saizel existed."
+                            },
+                            {
+                                "lineNumber": "269312",
+                                "originalJapaneseLine": "ハウゼルはいる。",
+                                "translatedEnglishLine": "Hauzel existed."
+                            },
+                            {
+                                "lineNumber": "269313",
+                                "originalJapaneseLine": "二人は、一人に。",
+                                "translatedEnglishLine": "The two became one."
+                            },
+                            {
+                                "lineNumber": "269314",
+                                "originalJapaneseLine": "無の存在に。",
+                                "translatedEnglishLine": "They became an existence of nothingness."
+                            },
+                            {
+                                "lineNumber": "269315",
+                                "originalJapaneseLine": "そして、破壊の象徴に……",
+                                "translatedEnglishLine": "And then, a symbol of destruction..."
+                            },
+                            {
+                                "lineNumber": "269316",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "269317",
+                                "originalJapaneseLine": "破壊の神、ラ・バスワルドが、",
+                                "translatedEnglishLine": "The god of destruction, La Baswald,"
+                            },
+                            {
+                                "lineNumber": "269318",
+                                "originalJapaneseLine": "この世界に初めて顕現した。",
+                                "translatedEnglishLine": "manifested in this world for the first time."
+                            },
+                            {
+                                "lineNumber": "269319",
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "........"
+                            },
+                            {
+                                "lineNumber": "269320",
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": "269321",
+                                "originalJapaneseLine": "そこにあったのは、破壊。",
+                                "translatedEnglishLine": "What was there was destruction."
+                            },
+                            {
+                                "lineNumber": "269322",
+                                "originalJapaneseLine": "粉々に踏み潰されたような破壊とも違う。",
+                                "translatedEnglishLine": "Not destruction as if something were smashed to pieces."
+                            },
+                            {
+                                "lineNumber": "269323",
+                                "originalJapaneseLine": "建物や地面が丸くえぐり取られている。",
+                                "translatedEnglishLine": "Buildings and the ground were gouged out in round shapes."
+                            },
+                            {
+                                "lineNumber": "269324",
+                                "originalJapaneseLine": "空間が削られたような破壊だった。",
+                                "translatedEnglishLine": "It was destruction as if space itself had been shaved away."
+                            },
+                            {
+                                "lineNumber": "269325",
+                                "originalJapaneseLine": "「いったい、なにがあったら、",
+                                "translatedEnglishLine": "\"What on earth must have happened,"
+                            },
+                            {
+                                "lineNumber": "269326",
+                                "originalJapaneseLine": "　こんなことになるんだ？」",
+                                "translatedEnglishLine": "to cause something like this?\""
+                            },
+                            {
+                                "lineNumber": "269327",
+                                "originalJapaneseLine": "「うう……ひどい、ですね……」",
+                                "translatedEnglishLine": "\"Ugh... it's terrible, isn't it...\""
+                            },
+                            {
+                                "lineNumber": "269328",
+                                "originalJapaneseLine": "その村にたまたま来ていたのは、",
+                                "translatedEnglishLine": "By chance, the ones who came to that village were,"
+                            },
+                            {
+                                "lineNumber": "269329",
+                                "originalJapaneseLine": "ランスと、その奴隷のシィルだった。",
+                                "translatedEnglishLine": "Rance and his slave, Shiru."
+                            },
+                            {
+                                "lineNumber": "269330",
+                                "originalJapaneseLine": "「な、なんだか嫌な予感がしますよ？",
+                                "translatedEnglishLine": "\"I-I've got a bad feeling about this, you know?"
+                            },
+                            {
+                                "lineNumber": "269331",
+                                "originalJapaneseLine": "　離れませんか、ランス様？」",
+                                "translatedEnglishLine": "Shouldn't we leave, Master Rance?\""
+                            },
+                            {
+                                "lineNumber": "269332",
+                                "originalJapaneseLine": "「うーむ……",
+                                "translatedEnglishLine": "\"Hmm..."
+                            },
+                            {
+                                "lineNumber": "269333",
+                                "originalJapaneseLine": "　それもそうだなぁ」",
+                                "translatedEnglishLine": "I guess you're right."
+                            },
+                            {
+                                "lineNumber": "269334",
+                                "originalJapaneseLine": "「あら、そこにいるのは、",
+                                "translatedEnglishLine": "\"Oh, isn't that over there,"
+                            },
+                            {
+                                "lineNumber": "269335",
+                                "originalJapaneseLine": "　ランス君とシィルちゃんじゃない」",
+                                "translatedEnglishLine": "Rance-kun and Shiru-chan?\""
+                            },
+                            {
+                                "lineNumber": "269336",
+                                "originalJapaneseLine": "「こ、この……",
+                                "translatedEnglishLine": "\"Th-this..."
+                            },
+                            {
+                                "lineNumber": "269337",
+                                "originalJapaneseLine": "　ねっとりと絡みつく優しい声は」",
+                                "translatedEnglishLine": "That sticky, clinging gentle voice is..."
+                            },
+                            {
+                                "lineNumber": "269338",
+                                "originalJapaneseLine": "「アムちゃんか！？」",
+                                "translatedEnglishLine": "\"Amu-chan!?\""
+                            },
+                            {
+                                "lineNumber": "269339",
+                                "originalJapaneseLine": "「正解。",
+                                "translatedEnglishLine": "\"Correct."
+                            },
+                            {
+                                "lineNumber": "269340",
+                                "originalJapaneseLine": "　覚えていてくれたなんて、",
+                                "translatedEnglishLine": "I'm so happy that you remembered me."
+                            },
+                            {
+                                "lineNumber": "269341",
+                                "originalJapaneseLine": "　とっても嬉しいわ」",
+                                "translatedEnglishLine": "It's really wonderful.\""
+                            },
+                            {
+                                "lineNumber": "269342",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "269343",
+                                "originalJapaneseLine": "「声はすれども姿は見えず……",
+                                "translatedEnglishLine": "\"I hear your voice, but I can't see you..."
+                            },
+                            {
+                                "lineNumber": "269344",
+                                "originalJapaneseLine": "　どこにいるんだ？」",
+                                "translatedEnglishLine": "Where are you?\""
+                            },
+                            {
+                                "lineNumber": "269345",
+                                "originalJapaneseLine": "「ランス君、足下、足下」",
+                                "translatedEnglishLine": "Rance-kun, under your feet, under your feet."
+                            },
+                            {
+                                "lineNumber": "269346",
+                                "originalJapaneseLine": "「……足下？」",
+                                "translatedEnglishLine": "\"...Under my feet?\""
+                            },
+                            {
+                                "lineNumber": "269347",
+                                "originalJapaneseLine": "「きゃああああああああ！",
+                                "translatedEnglishLine": "\"Kyaaaaaaa!"
+                            },
+                            {
+                                "lineNumber": "269348",
+                                "originalJapaneseLine": "　ら、ランス様！　アムさんが……！」",
+                                "translatedEnglishLine": "M-Master Rance! Amu-san is...!\""
+                            },
+                            {
+                                "lineNumber": "269349",
+                                "originalJapaneseLine": "「うわっ、気持ちわるっ！",
+                                "translatedEnglishLine": "\"Ugh, that's disgusting!"
+                            },
+                            {
+                                "lineNumber": "269350",
+                                "originalJapaneseLine": "　アムちゃん、なんだその格好！？」",
+                                "translatedEnglishLine": "Amu-chan, what's with that appearance!?\""
+                            },
+                            {
+                                "lineNumber": "269351",
+                                "originalJapaneseLine": "地面に這いつくばったアムが、",
+                                "translatedEnglishLine": "Amu was crawling on the ground,"
+                            },
+                            {
+                                "lineNumber": "269352",
+                                "originalJapaneseLine": "両手をよちよちと使って近づいてきていた。",
+                                "translatedEnglishLine": "using both hands awkwardly to approach."
+                            },
+                            {
+                                "lineNumber": "269353",
+                                "originalJapaneseLine": "彼女には下半身がなかった。",
+                                "translatedEnglishLine": "She had no lower body."
+                            },
+                            {
+                                "lineNumber": "269354",
+                                "originalJapaneseLine": "「いやー、死ぬかと思ったわ」",
+                                "translatedEnglishLine": "\"Well, I thought I was going to die.\""
+                            },
+                            {
+                                "lineNumber": "269355",
+                                "originalJapaneseLine": "「むしろ、なんで死んでないんだ」",
+                                "translatedEnglishLine": "\"Rather, why are you still alive?\""
+                            },
+                            {
+                                "lineNumber": "269356",
+                                "originalJapaneseLine": "「見る？",
+                                "translatedEnglishLine": "\"Do you want to see?"
+                            },
+                            {
+                                "lineNumber": "269357",
+                                "originalJapaneseLine": "　下腹部から下がないんだけど……」",
+                                "translatedEnglishLine": "I don't have anything below my lower abdomen...\""
+                            },
+                            {
+                                "lineNumber": "269358",
+                                "originalJapaneseLine": "「そんなもん見せんでいい！」",
+                                "translatedEnglishLine": "\"No need to show me that!\""
+                            },
+                            {
+                                "lineNumber": "269359",
+                                "originalJapaneseLine": "「まあ……アムちゃんだからな……",
+                                "translatedEnglishLine": "\"Well... it's Amu-chan... if her lower body is gone, it doesn't mean she's dead.\""
+                            },
+                            {
+                                "lineNumber": "269360",
+                                "originalJapaneseLine": "　下半身がないくらいなら死なんか」",
+                                "translatedEnglishLine": "If her lower body is gone, that alone doesn't mean death.\""
+                            },
+                            {
+                                "lineNumber": "269361",
+                                "originalJapaneseLine": "「で、何があったんだ？",
+                                "translatedEnglishLine": "\"So, what happened?\""
+                            },
+                            {
+                                "lineNumber": "269362",
+                                "originalJapaneseLine": "　村も滅茶苦茶になってるが……」",
+                                "translatedEnglishLine": "The village is a complete mess too..."
+                            },
+                            {
+                                "lineNumber": "269363",
+                                "originalJapaneseLine": "「この村はね、私の作った村なの」",
+                                "translatedEnglishLine": "This village is one I created."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1715,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1971,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3686
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"最後に言えた言葉はたったそれだけ。\",\"translatedEnglishLine\":\"The only words spoken at the end were just those.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"互いの体が発光し、\",\"translatedEnglishLine\":\"Their bodies began to glow,\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"互いの顔から表情が消え、\",\"translatedEnglishLine\":\"The expressions vanished from their faces,\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"互いの体が近づく。\",\"translatedEnglishLine\":\"Their bodies moved closer to each other.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"そして――\",\"translatedEnglishLine\":\"And then—\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"サイゼルはいない。\",\"translatedEnglishLine\":\"Saizel was gone.\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"ハウゼルはいない。\",\"translatedEnglishLine\":\"Hauzel was gone.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"サイゼルはいる。\",\"translatedEnglishLine\":\"Saizel existed.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"ハウゼルはいる。\",\"translatedEnglishLine\":\"Hauzel existed.\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"二人は、一人に。\",\"translatedEnglishLine\":\"The two became one.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"無の存在に。\",\"translatedEnglishLine\":\"They became an existence of nothingness.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"そして、破壊の象徴に……\",\"translatedEnglishLine\":\"And then, a symbol of destruction...\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"破壊の神、ラ・バスワルドが、\",\"translatedEnglishLine\":\"The god of destruction, La Baswald,\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"この世界に初めて顕現した。\",\"translatedEnglishLine\":\"manifested in this world for the first time.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"そこにあったのは、破壊。\",\"translatedEnglishLine\":\"What was there was destruction.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"粉々に踏み潰されたような破壊とも違う。\",\"translatedEnglishLine\":\"Not destruction as if something were smashed to pieces.\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"建物や地面が丸くえぐり取られている。\",\"translatedEnglishLine\":\"Buildings and the ground were gouged out in round shapes.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"空間が削られたような破壊だった。\",\"translatedEnglishLine\":\"It was destruction as if space itself had been shaved away.\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「いったい、なにがあったら、\",\"translatedEnglishLine\":\"\\\"What on earth must have happened,\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　こんなことになるんだ？」\",\"translatedEnglishLine\":\"to cause something like this?\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「うう……ひどい、ですね……」\",\"translatedEnglishLine\":\"\\\"Ugh... it's terrible, isn't it...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"その村にたまたま来ていたのは、\",\"translatedEnglishLine\":\"By chance, the ones who came to that village were,\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"ランスと、その奴隷のシィルだった。\",\"translatedEnglishLine\":\"Rance and his slave, Shiru.\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「な、なんだか嫌な予感がしますよ？\",\"translatedEnglishLine\":\"\\\"I-I've got a bad feeling about this, you know?\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　離れませんか、ランス様？」\",\"translatedEnglishLine\":\"Shouldn't we leave, Master Rance?\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「うーむ……\",\"translatedEnglishLine\":\"\\\"Hmm...\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　それもそうだなぁ」\",\"translatedEnglishLine\":\"I guess you're right.\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「あら、そこにいるのは、\",\"translatedEnglishLine\":\"\\\"Oh, isn't that over there,\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　ランス君とシィルちゃんじゃない」\",\"translatedEnglishLine\":\"Rance-kun and Shiru-chan?\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「こ、この……\",\"translatedEnglishLine\":\"\\\"Th-this...\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　ねっとりと絡みつく優しい声は」\",\"translatedEnglishLine\":\"That sticky, clinging gentle voice is...\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「アムちゃんか！？」\",\"translatedEnglishLine\":\"\\\"Amu-chan!?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「正解。\",\"translatedEnglishLine\":\"\\\"Correct.\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　覚えていてくれたなんて、\",\"translatedEnglishLine\":\"I'm so happy that you remembered me.\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　とっても嬉しいわ」\",\"translatedEnglishLine\":\"It's really wonderful.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「声はすれども姿は見えず……\",\"translatedEnglishLine\":\"\\\"I hear your voice, but I can't see you...\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　どこにいるんだ？」\",\"translatedEnglishLine\":\"Where are you?\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「ランス君、足下、足下」\",\"translatedEnglishLine\":\"Rance-kun, under your feet, under your feet.\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「……足下？」\",\"translatedEnglishLine\":\"\\\"...Under my feet?\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「きゃああああああああ！\",\"translatedEnglishLine\":\"\\\"Kyaaaaaaa!\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　ら、ランス様！　アムさんが……！」\",\"translatedEnglishLine\":\"M-Master Rance! Amu-san is...!\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「うわっ、気持ちわるっ！\",\"translatedEnglishLine\":\"\\\"Ugh, that's disgusting!\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　アムちゃん、なんだその格好！？」\",\"translatedEnglishLine\":\"Amu-chan, what's with that appearance!?\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"地面に這いつくばったアムが、\",\"translatedEnglishLine\":\"Amu was crawling on the ground,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"両手をよちよちと使って近づいてきていた。\",\"translatedEnglishLine\":\"using both hands awkwardly to approach.\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"彼女には下半身がなかった。\",\"translatedEnglishLine\":\"She had no lower body.\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「いやー、死ぬかと思ったわ」\",\"translatedEnglishLine\":\"\\\"Well, I thought I was going to die.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「むしろ、なんで死んでないんだ」\",\"translatedEnglishLine\":\"\\\"Rather, why are you still alive?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「見る？\",\"translatedEnglishLine\":\"\\\"Do you want to see?\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"　下腹部から下がないんだけど……」\",\"translatedEnglishLine\":\"I don't have anything below my lower abdomen...\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「そんなもん見せんでいい！」\",\"translatedEnglishLine\":\"\\\"No need to show me that!\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「まあ……アムちゃんだからな……\",\"translatedEnglishLine\":\"\\\"Well... it's Amu-chan... if her lower body is gone, it doesn't mean she's dead.\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　下半身がないくらいなら死なんか」\",\"translatedEnglishLine\":\"If her lower body is gone, that alone doesn't mean death.\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「で、何があったんだ？\",\"translatedEnglishLine\":\"\\\"So, what happened?\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　村も滅茶苦茶になってるが……」\",\"translatedEnglishLine\":\"The village is a complete mess too...\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「この村はね、私の作った村なの」\",\"translatedEnglishLine\":\"This village is one I created.\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "269304",
+                "originalJapaneseLine": "最後に言えた言葉はたったそれだけ。",
+                "translatedEnglishLine": "The only words spoken at the end were just those."
+            },
+            {
+                "lineNumber": "269305",
+                "originalJapaneseLine": "互いの体が発光し、",
+                "translatedEnglishLine": "Their bodies began to glow,"
+            },
+            {
+                "lineNumber": "269306",
+                "originalJapaneseLine": "互いの顔から表情が消え、",
+                "translatedEnglishLine": "The expressions vanished from their faces,"
+            },
+            {
+                "lineNumber": "269307",
+                "originalJapaneseLine": "互いの体が近づく。",
+                "translatedEnglishLine": "Their bodies moved closer to each other."
+            },
+            {
+                "lineNumber": "269308",
+                "originalJapaneseLine": "そして――",
+                "translatedEnglishLine": "And then—"
+            },
+            {
+                "lineNumber": "269309",
+                "originalJapaneseLine": "サイゼルはいない。",
+                "translatedEnglishLine": "Saizel was gone."
+            },
+            {
+                "lineNumber": "269310",
+                "originalJapaneseLine": "ハウゼルはいない。",
+                "translatedEnglishLine": "Hauzel was gone."
+            },
+            {
+                "lineNumber": "269311",
+                "originalJapaneseLine": "サイゼルはいる。",
+                "translatedEnglishLine": "Saizel existed."
+            },
+            {
+                "lineNumber": "269312",
+                "originalJapaneseLine": "ハウゼルはいる。",
+                "translatedEnglishLine": "Hauzel existed."
+            },
+            {
+                "lineNumber": "269313",
+                "originalJapaneseLine": "二人は、一人に。",
+                "translatedEnglishLine": "The two became one."
+            },
+            {
+                "lineNumber": "269314",
+                "originalJapaneseLine": "無の存在に。",
+                "translatedEnglishLine": "They became an existence of nothingness."
+            },
+            {
+                "lineNumber": "269315",
+                "originalJapaneseLine": "そして、破壊の象徴に……",
+                "translatedEnglishLine": "And then, a symbol of destruction..."
+            },
+            {
+                "lineNumber": "269316",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "269317",
+                "originalJapaneseLine": "破壊の神、ラ・バスワルドが、",
+                "translatedEnglishLine": "The god of destruction, La Baswald,"
+            },
+            {
+                "lineNumber": "269318",
+                "originalJapaneseLine": "この世界に初めて顕現した。",
+                "translatedEnglishLine": "manifested in this world for the first time."
+            },
+            {
+                "lineNumber": "269319",
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": "269320",
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": "269321",
+                "originalJapaneseLine": "そこにあったのは、破壊。",
+                "translatedEnglishLine": "What was there was destruction."
+            },
+            {
+                "lineNumber": "269322",
+                "originalJapaneseLine": "粉々に踏み潰されたような破壊とも違う。",
+                "translatedEnglishLine": "Not destruction as if something were smashed to pieces."
+            },
+            {
+                "lineNumber": "269323",
+                "originalJapaneseLine": "建物や地面が丸くえぐり取られている。",
+                "translatedEnglishLine": "Buildings and the ground were gouged out in round shapes."
+            },
+            {
+                "lineNumber": "269324",
+                "originalJapaneseLine": "空間が削られたような破壊だった。",
+                "translatedEnglishLine": "It was destruction as if space itself had been shaved away."
+            },
+            {
+                "lineNumber": "269325",
+                "originalJapaneseLine": "「いったい、なにがあったら、",
+                "translatedEnglishLine": "\"What on earth must have happened,"
+            },
+            {
+                "lineNumber": "269326",
+                "originalJapaneseLine": "　こんなことになるんだ？」",
+                "translatedEnglishLine": "to cause something like this?\""
+            },
+            {
+                "lineNumber": "269327",
+                "originalJapaneseLine": "「うう……ひどい、ですね……」",
+                "translatedEnglishLine": "\"Ugh... it's terrible, isn't it...\""
+            },
+            {
+                "lineNumber": "269328",
+                "originalJapaneseLine": "その村にたまたま来ていたのは、",
+                "translatedEnglishLine": "By chance, the ones who came to that village were,"
+            },
+            {
+                "lineNumber": "269329",
+                "originalJapaneseLine": "ランスと、その奴隷のシィルだった。",
+                "translatedEnglishLine": "Rance and his slave, Shiru."
+            },
+            {
+                "lineNumber": "269330",
+                "originalJapaneseLine": "「な、なんだか嫌な予感がしますよ？",
+                "translatedEnglishLine": "\"I-I've got a bad feeling about this, you know?"
+            },
+            {
+                "lineNumber": "269331",
+                "originalJapaneseLine": "　離れませんか、ランス様？」",
+                "translatedEnglishLine": "Shouldn't we leave, Master Rance?\""
+            },
+            {
+                "lineNumber": "269332",
+                "originalJapaneseLine": "「うーむ……",
+                "translatedEnglishLine": "\"Hmm..."
+            },
+            {
+                "lineNumber": "269333",
+                "originalJapaneseLine": "　それもそうだなぁ」",
+                "translatedEnglishLine": "I guess you're right."
+            },
+            {
+                "lineNumber": "269334",
+                "originalJapaneseLine": "「あら、そこにいるのは、",
+                "translatedEnglishLine": "\"Oh, isn't that over there,"
+            },
+            {
+                "lineNumber": "269335",
+                "originalJapaneseLine": "　ランス君とシィルちゃんじゃない」",
+                "translatedEnglishLine": "Rance-kun and Shiru-chan?\""
+            },
+            {
+                "lineNumber": "269336",
+                "originalJapaneseLine": "「こ、この……",
+                "translatedEnglishLine": "\"Th-this..."
+            },
+            {
+                "lineNumber": "269337",
+                "originalJapaneseLine": "　ねっとりと絡みつく優しい声は」",
+                "translatedEnglishLine": "That sticky, clinging gentle voice is..."
+            },
+            {
+                "lineNumber": "269338",
+                "originalJapaneseLine": "「アムちゃんか！？」",
+                "translatedEnglishLine": "\"Amu-chan!?\""
+            },
+            {
+                "lineNumber": "269339",
+                "originalJapaneseLine": "「正解。",
+                "translatedEnglishLine": "\"Correct."
+            },
+            {
+                "lineNumber": "269340",
+                "originalJapaneseLine": "　覚えていてくれたなんて、",
+                "translatedEnglishLine": "I'm so happy that you remembered me."
+            },
+            {
+                "lineNumber": "269341",
+                "originalJapaneseLine": "　とっても嬉しいわ」",
+                "translatedEnglishLine": "It's really wonderful.\""
+            },
+            {
+                "lineNumber": "269342",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "269343",
+                "originalJapaneseLine": "「声はすれども姿は見えず……",
+                "translatedEnglishLine": "\"I hear your voice, but I can't see you..."
+            },
+            {
+                "lineNumber": "269344",
+                "originalJapaneseLine": "　どこにいるんだ？」",
+                "translatedEnglishLine": "Where are you?\""
+            },
+            {
+                "lineNumber": "269345",
+                "originalJapaneseLine": "「ランス君、足下、足下」",
+                "translatedEnglishLine": "Rance-kun, under your feet, under your feet."
+            },
+            {
+                "lineNumber": "269346",
+                "originalJapaneseLine": "「……足下？」",
+                "translatedEnglishLine": "\"...Under my feet?\""
+            },
+            {
+                "lineNumber": "269347",
+                "originalJapaneseLine": "「きゃああああああああ！",
+                "translatedEnglishLine": "\"Kyaaaaaaa!"
+            },
+            {
+                "lineNumber": "269348",
+                "originalJapaneseLine": "　ら、ランス様！　アムさんが……！」",
+                "translatedEnglishLine": "M-Master Rance! Amu-san is...!\""
+            },
+            {
+                "lineNumber": "269349",
+                "originalJapaneseLine": "「うわっ、気持ちわるっ！",
+                "translatedEnglishLine": "\"Ugh, that's disgusting!"
+            },
+            {
+                "lineNumber": "269350",
+                "originalJapaneseLine": "　アムちゃん、なんだその格好！？」",
+                "translatedEnglishLine": "Amu-chan, what's with that appearance!?\""
+            },
+            {
+                "lineNumber": "269351",
+                "originalJapaneseLine": "地面に這いつくばったアムが、",
+                "translatedEnglishLine": "Amu was crawling on the ground,"
+            },
+            {
+                "lineNumber": "269352",
+                "originalJapaneseLine": "両手をよちよちと使って近づいてきていた。",
+                "translatedEnglishLine": "using both hands awkwardly to approach."
+            },
+            {
+                "lineNumber": "269353",
+                "originalJapaneseLine": "彼女には下半身がなかった。",
+                "translatedEnglishLine": "She had no lower body."
+            },
+            {
+                "lineNumber": "269354",
+                "originalJapaneseLine": "「いやー、死ぬかと思ったわ」",
+                "translatedEnglishLine": "\"Well, I thought I was going to die.\""
+            },
+            {
+                "lineNumber": "269355",
+                "originalJapaneseLine": "「むしろ、なんで死んでないんだ」",
+                "translatedEnglishLine": "\"Rather, why are you still alive?\""
+            },
+            {
+                "lineNumber": "269356",
+                "originalJapaneseLine": "「見る？",
+                "translatedEnglishLine": "\"Do you want to see?"
+            },
+            {
+                "lineNumber": "269357",
+                "originalJapaneseLine": "　下腹部から下がないんだけど……」",
+                "translatedEnglishLine": "I don't have anything below my lower abdomen...\""
+            },
+            {
+                "lineNumber": "269358",
+                "originalJapaneseLine": "「そんなもん見せんでいい！」",
+                "translatedEnglishLine": "\"No need to show me that!\""
+            },
+            {
+                "lineNumber": "269359",
+                "originalJapaneseLine": "「まあ……アムちゃんだからな……",
+                "translatedEnglishLine": "\"Well... it's Amu-chan... if her lower body is gone, it doesn't mean she's dead.\""
+            },
+            {
+                "lineNumber": "269360",
+                "originalJapaneseLine": "　下半身がないくらいなら死なんか」",
+                "translatedEnglishLine": "If her lower body is gone, that alone doesn't mean death.\""
+            },
+            {
+                "lineNumber": "269361",
+                "originalJapaneseLine": "「で、何があったんだ？",
+                "translatedEnglishLine": "\"So, what happened?\""
+            },
+            {
+                "lineNumber": "269362",
+                "originalJapaneseLine": "　村も滅茶苦茶になってるが……」",
+                "translatedEnglishLine": "The village is a complete mess too..."
+            },
+            {
+                "lineNumber": "269363",
+                "originalJapaneseLine": "「この村はね、私の作った村なの」",
+                "translatedEnglishLine": "This village is one I created."
+            }
+        ]
+    }
+}

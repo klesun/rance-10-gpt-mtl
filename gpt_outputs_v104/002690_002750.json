@@ -1,0 +1,719 @@
+{
+    "id": "resp_0ec1e8b37e40d9e60068ffeab3470c81908e5c360533fa5ab3",
+    "object": "response",
+    "created_at": 1761602227,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0ec1e8b37e40d9e60068ffeab3ddb081908a487b2e2944640f",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「ん〜……\",\"translatedEnglishLine\":\"\\\"Mmm...\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　それもいいけど〜」\",\"translatedEnglishLine\":\"That's nice too, but~\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「そろそろモロミちゃん、\",\"translatedEnglishLine\":\"\\\"Moromi-chan, it's about time,\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　自分の夢、叶えたいなーって気も」\",\"translatedEnglishLine\":\"I feel like you want to make your own dream come true.\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「ほう、そんなもんあったのか。\",\"translatedEnglishLine\":\"\\\"Oh, so you had that kind of thing.\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　なんだ？」\",\"translatedEnglishLine\":\"What is it?\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「お嫁さん☆」\",\"translatedEnglishLine\":\"\\\"A bride☆\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「おかしいな。\",\"translatedEnglishLine\":\"\\\"That's strange.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　もう酔いが回ってきたようだ」\",\"translatedEnglishLine\":\"It seems the drunkenness is already setting in.\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「おいこら」\",\"translatedEnglishLine\":\"\\\"Hey, you there.\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「そーゆーことは小出し小出しで話さんか。\",\"translatedEnglishLine\":\"\\\"Don't spread out revelations like that all at once.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　心臓が止まるかと思ったぞ。\",\"translatedEnglishLine\":\"I thought my heart was going to stop.\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　おい、アタゴちゃん、杯が空いてるぞ」\",\"translatedEnglishLine\":\"Hey, Atago-chan, your cup is empty.\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「あ、ああ、はいはい。どうもね」\",\"translatedEnglishLine\":\"\\\"Ah, ah, yes, yes. Thanks.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「おいこら、私の話にもっと興味向けろや」\",\"translatedEnglishLine\":\"\\\"Hey, pay more attention to what I'm saying.\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「ん〜……また今度な」\",\"translatedEnglishLine\":\"\\\"Mmm... maybe next time.\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「てめぇ……」\",\"translatedEnglishLine\":\"\\\"You...!\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"その後もランス達は美味しいお酒と共に、\",\"translatedEnglishLine\":\"After that, Rance and the others continued,\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"下らない話に花を咲かせた。\",\"translatedEnglishLine\":\"blooming in silly conversations with delicious alcohol.\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ふう……もういい時間ね……\",\"translatedEnglishLine\":\"\\\"Phew... it's already late...\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　そろそろお開きにしない？」\",\"translatedEnglishLine\":\"Shall we call it a night soon?\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「ん、そうだねー。\",\"translatedEnglishLine\":\"\\\"Mhm, that's right.\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　たらふく食べて、たらふく飲んだし」\",\"translatedEnglishLine\":\"We've eaten and drunk our fill.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「では……」\",\"translatedEnglishLine\":\"\\\"Well then...\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「そろそろメインディッシュだな」\",\"translatedEnglishLine\":\"\\\"It's about time for the main dish.\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「はあ？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「私達が本当にただお酒を楽しむ為だけに\",\"translatedEnglishLine\":\"\\\"Did we really come here just to enjoy some drinks?\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　ここに来たと？」\",\"translatedEnglishLine\":\"Is that what you think?\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「アタゴちゃん、私達に注がれてもう結構、\",\"translatedEnglishLine\":\"\\\"Atago-chan, we've been poured so much by you,\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　飲んでー、飲んでー、飲まれて飲んだよねー」\",\"translatedEnglishLine\":\"drinking and drinking, getting drunk, right?\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「そう！　俺達は最初っから！\",\"translatedEnglishLine\":\"\\\"Exactly! From the very start,\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　美味しく楽しい酒宴などする気は皆無！」\",\"translatedEnglishLine\":\"we never planned to have a delicious and fun drinking party!\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「そうなのだー☆」\",\"translatedEnglishLine\":\"\\\"That's right☆\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「その目的は酔ってへろへろになった\",\"translatedEnglishLine\":\"\\\"The goal was to take advantage of a drunken,\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　アタゴちゃんを犯すことだったのだー！」\",\"translatedEnglishLine\":\"helpless Atago-chan!\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「なのだー☆\",\"translatedEnglishLine\":\"\\\"That's it☆\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　ばばーんっと☆」\",\"translatedEnglishLine\":\"Ta-da☆\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「なっ……！？」\",\"translatedEnglishLine\":\"\\\"Wha...!?!\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「おほほほ、そんなことも知らずに、\",\"translatedEnglishLine\":\"\\\"Oh ho ho ho, without even knowing that,\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　楽しそうにカパカパとお酒を飲みおって」\",\"translatedEnglishLine\":\"you're happily gulping down the drinks.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「んーふふ、すっかりお酒が回った頃でしょ。\",\"translatedEnglishLine\":\"\\\"Mmm, hehe, the alcohol must be fully kicking in by now.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　そろそろ我慢しなくてもいいよねー」\",\"translatedEnglishLine\":\"It's about time to stop holding back, right?\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「んな、なななな……」\",\"translatedEnglishLine\":\"\\\"N-no no no...\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「ふっ……」\",\"translatedEnglishLine\":\"\\\"Hmph...\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「お？」\",\"translatedEnglishLine\":\"\\\"Oh?\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「こちとら長年酒場のお姉さんしてんのよ？」\",\"translatedEnglishLine\":\"\\\"I've been a bar hostess for many years, you know?\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「あんた達とは飲める量が違うの。\",\"translatedEnglishLine\":\"\\\"The amount I can drink is different from yours.\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　この程度でどうにかなるわけが――」\",\"translatedEnglishLine\":\"There's no way something like this would make me—\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「あ、あれ？」\",\"translatedEnglishLine\":\"\\\"H-huh?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"立ち上がろうとした途端、全身から力が抜け、\",\"translatedEnglishLine\":\"The moment she tried to stand up, strength left her entire body,\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"アタゴはその場にぺたりと座り込んだ。\",\"translatedEnglishLine\":\"and Atago plopped down right there.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「えへっ☆\",\"translatedEnglishLine\":\"\\\"Ehe☆\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　お酒に変な薬入れてたりして☆」\",\"translatedEnglishLine\":\"Maybe we put something strange in the alcohol☆\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「そ、そこまでするー！？」\",\"translatedEnglishLine\":\"\\\"Y-you'd go that far!?\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「うわ、やばっ！\",\"translatedEnglishLine\":\"\\\"Whoa, no way!\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　本当に力ちっとも入らない！」\",\"translatedEnglishLine\":\"I really have no strength at all!\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「と、とにかく、帰ってちょうだい！\",\"translatedEnglishLine\":\"\\\"A-anyway, please go home!\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "267324",
+                                "originalJapaneseLine": "「ん〜……",
+                                "translatedEnglishLine": "\"Mmm...\""
+                            },
+                            {
+                                "lineNumber": "267325",
+                                "originalJapaneseLine": "　それもいいけど〜」",
+                                "translatedEnglishLine": "That's nice too, but~\""
+                            },
+                            {
+                                "lineNumber": "267326",
+                                "originalJapaneseLine": "「そろそろモロミちゃん、",
+                                "translatedEnglishLine": "\"Moromi-chan, it's about time,"
+                            },
+                            {
+                                "lineNumber": "267327",
+                                "originalJapaneseLine": "　自分の夢、叶えたいなーって気も」",
+                                "translatedEnglishLine": "I feel like you want to make your own dream come true.\""
+                            },
+                            {
+                                "lineNumber": "267328",
+                                "originalJapaneseLine": "「ほう、そんなもんあったのか。",
+                                "translatedEnglishLine": "\"Oh, so you had that kind of thing."
+                            },
+                            {
+                                "lineNumber": "267329",
+                                "originalJapaneseLine": "　なんだ？」",
+                                "translatedEnglishLine": "What is it?\""
+                            },
+                            {
+                                "lineNumber": "267330",
+                                "originalJapaneseLine": "「お嫁さん☆」",
+                                "translatedEnglishLine": "\"A bride☆\""
+                            },
+                            {
+                                "lineNumber": "267331",
+                                "originalJapaneseLine": "「おかしいな。",
+                                "translatedEnglishLine": "\"That's strange."
+                            },
+                            {
+                                "lineNumber": "267332",
+                                "originalJapaneseLine": "　もう酔いが回ってきたようだ」",
+                                "translatedEnglishLine": "It seems the drunkenness is already setting in.\""
+                            },
+                            {
+                                "lineNumber": "267333",
+                                "originalJapaneseLine": "「おいこら」",
+                                "translatedEnglishLine": "\"Hey, you there.\""
+                            },
+                            {
+                                "lineNumber": "267334",
+                                "originalJapaneseLine": "「そーゆーことは小出し小出しで話さんか。",
+                                "translatedEnglishLine": "\"Don't spread out revelations like that all at once."
+                            },
+                            {
+                                "lineNumber": "267335",
+                                "originalJapaneseLine": "　心臓が止まるかと思ったぞ。",
+                                "translatedEnglishLine": "I thought my heart was going to stop."
+                            },
+                            {
+                                "lineNumber": "267336",
+                                "originalJapaneseLine": "　おい、アタゴちゃん、杯が空いてるぞ」",
+                                "translatedEnglishLine": "Hey, Atago-chan, your cup is empty.\""
+                            },
+                            {
+                                "lineNumber": "267337",
+                                "originalJapaneseLine": "「あ、ああ、はいはい。どうもね」",
+                                "translatedEnglishLine": "\"Ah, ah, yes, yes. Thanks.\""
+                            },
+                            {
+                                "lineNumber": "267338",
+                                "originalJapaneseLine": "「おいこら、私の話にもっと興味向けろや」",
+                                "translatedEnglishLine": "\"Hey, pay more attention to what I'm saying.\""
+                            },
+                            {
+                                "lineNumber": "267339",
+                                "originalJapaneseLine": "「ん〜……また今度な」",
+                                "translatedEnglishLine": "\"Mmm... maybe next time.\""
+                            },
+                            {
+                                "lineNumber": "267340",
+                                "originalJapaneseLine": "「てめぇ……」",
+                                "translatedEnglishLine": "\"You...!\""
+                            },
+                            {
+                                "lineNumber": "267341",
+                                "originalJapaneseLine": "その後もランス達は美味しいお酒と共に、",
+                                "translatedEnglishLine": "After that, Rance and the others continued,"
+                            },
+                            {
+                                "lineNumber": "267342",
+                                "originalJapaneseLine": "下らない話に花を咲かせた。",
+                                "translatedEnglishLine": "blooming in silly conversations with delicious alcohol."
+                            },
+                            {
+                                "lineNumber": "267343",
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "............"
+                            },
+                            {
+                                "lineNumber": "267344",
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": "267345",
+                                "originalJapaneseLine": "「ふう……もういい時間ね……",
+                                "translatedEnglishLine": "\"Phew... it's already late..."
+                            },
+                            {
+                                "lineNumber": "267346",
+                                "originalJapaneseLine": "　そろそろお開きにしない？」",
+                                "translatedEnglishLine": "Shall we call it a night soon?\""
+                            },
+                            {
+                                "lineNumber": "267347",
+                                "originalJapaneseLine": "「ん、そうだねー。",
+                                "translatedEnglishLine": "\"Mhm, that's right."
+                            },
+                            {
+                                "lineNumber": "267348",
+                                "originalJapaneseLine": "　たらふく食べて、たらふく飲んだし」",
+                                "translatedEnglishLine": "We've eaten and drunk our fill.\""
+                            },
+                            {
+                                "lineNumber": "267349",
+                                "originalJapaneseLine": "「では……」",
+                                "translatedEnglishLine": "\"Well then...\""
+                            },
+                            {
+                                "lineNumber": "267350",
+                                "originalJapaneseLine": "「そろそろメインディッシュだな」",
+                                "translatedEnglishLine": "\"It's about time for the main dish.\""
+                            },
+                            {
+                                "lineNumber": "267351",
+                                "originalJapaneseLine": "「はあ？」",
+                                "translatedEnglishLine": "\"Huh?\""
+                            },
+                            {
+                                "lineNumber": "267352",
+                                "originalJapaneseLine": "「私達が本当にただお酒を楽しむ為だけに",
+                                "translatedEnglishLine": "\"Did we really come here just to enjoy some drinks?"
+                            },
+                            {
+                                "lineNumber": "267353",
+                                "originalJapaneseLine": "　ここに来たと？」",
+                                "translatedEnglishLine": "Is that what you think?\""
+                            },
+                            {
+                                "lineNumber": "267354",
+                                "originalJapaneseLine": "「アタゴちゃん、私達に注がれてもう結構、",
+                                "translatedEnglishLine": "\"Atago-chan, we've been poured so much by you,"
+                            },
+                            {
+                                "lineNumber": "267355",
+                                "originalJapaneseLine": "　飲んでー、飲んでー、飲まれて飲んだよねー」",
+                                "translatedEnglishLine": "drinking and drinking, getting drunk, right?\""
+                            },
+                            {
+                                "lineNumber": "267356",
+                                "originalJapaneseLine": "「そう！　俺達は最初っから！",
+                                "translatedEnglishLine": "\"Exactly! From the very start,"
+                            },
+                            {
+                                "lineNumber": "267357",
+                                "originalJapaneseLine": "　美味しく楽しい酒宴などする気は皆無！」",
+                                "translatedEnglishLine": "we never planned to have a delicious and fun drinking party!\""
+                            },
+                            {
+                                "lineNumber": "267358",
+                                "originalJapaneseLine": "「そうなのだー☆」",
+                                "translatedEnglishLine": "\"That's right☆\""
+                            },
+                            {
+                                "lineNumber": "267359",
+                                "originalJapaneseLine": "「その目的は酔ってへろへろになった",
+                                "translatedEnglishLine": "\"The goal was to take advantage of a drunken,"
+                            },
+                            {
+                                "lineNumber": "267360",
+                                "originalJapaneseLine": "　アタゴちゃんを犯すことだったのだー！」",
+                                "translatedEnglishLine": "helpless Atago-chan!\""
+                            },
+                            {
+                                "lineNumber": "267361",
+                                "originalJapaneseLine": "「なのだー☆",
+                                "translatedEnglishLine": "\"That's it☆"
+                            },
+                            {
+                                "lineNumber": "267362",
+                                "originalJapaneseLine": "　ばばーんっと☆」",
+                                "translatedEnglishLine": "Ta-da☆\""
+                            },
+                            {
+                                "lineNumber": "267363",
+                                "originalJapaneseLine": "「なっ……！？」",
+                                "translatedEnglishLine": "\"Wha...!?!\""
+                            },
+                            {
+                                "lineNumber": "267364",
+                                "originalJapaneseLine": "「おほほほ、そんなことも知らずに、",
+                                "translatedEnglishLine": "\"Oh ho ho ho, without even knowing that,"
+                            },
+                            {
+                                "lineNumber": "267365",
+                                "originalJapaneseLine": "　楽しそうにカパカパとお酒を飲みおって」",
+                                "translatedEnglishLine": "you're happily gulping down the drinks.\""
+                            },
+                            {
+                                "lineNumber": "267366",
+                                "originalJapaneseLine": "「んーふふ、すっかりお酒が回った頃でしょ。",
+                                "translatedEnglishLine": "\"Mmm, hehe, the alcohol must be fully kicking in by now."
+                            },
+                            {
+                                "lineNumber": "267367",
+                                "originalJapaneseLine": "　そろそろ我慢しなくてもいいよねー」",
+                                "translatedEnglishLine": "It's about time to stop holding back, right?\""
+                            },
+                            {
+                                "lineNumber": "267368",
+                                "originalJapaneseLine": "「んな、なななな……」",
+                                "translatedEnglishLine": "\"N-no no no...\""
+                            },
+                            {
+                                "lineNumber": "267369",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "267370",
+                                "originalJapaneseLine": "「ふっ……」",
+                                "translatedEnglishLine": "\"Hmph...\""
+                            },
+                            {
+                                "lineNumber": "267371",
+                                "originalJapaneseLine": "「お？」",
+                                "translatedEnglishLine": "\"Oh?\""
+                            },
+                            {
+                                "lineNumber": "267372",
+                                "originalJapaneseLine": "「こちとら長年酒場のお姉さんしてんのよ？」",
+                                "translatedEnglishLine": "\"I've been a bar hostess for many years, you know?"
+                            },
+                            {
+                                "lineNumber": "267373",
+                                "originalJapaneseLine": "「あんた達とは飲める量が違うの。",
+                                "translatedEnglishLine": "\"The amount I can drink is different from yours."
+                            },
+                            {
+                                "lineNumber": "267374",
+                                "originalJapaneseLine": "　この程度でどうにかなるわけが――」",
+                                "translatedEnglishLine": "There's no way something like this would make me—"
+                            },
+                            {
+                                "lineNumber": "267375",
+                                "originalJapaneseLine": "「あ、あれ？」",
+                                "translatedEnglishLine": "\"H-huh?\""
+                            },
+                            {
+                                "lineNumber": "267376",
+                                "originalJapaneseLine": "立ち上がろうとした途端、全身から力が抜け、",
+                                "translatedEnglishLine": "The moment she tried to stand up, strength left her entire body,"
+                            },
+                            {
+                                "lineNumber": "267377",
+                                "originalJapaneseLine": "アタゴはその場にぺたりと座り込んだ。",
+                                "translatedEnglishLine": "and Atago plopped down right there."
+                            },
+                            {
+                                "lineNumber": "267378",
+                                "originalJapaneseLine": "「えへっ☆",
+                                "translatedEnglishLine": "\"Ehe☆"
+                            },
+                            {
+                                "lineNumber": "267379",
+                                "originalJapaneseLine": "　お酒に変な薬入れてたりして☆」",
+                                "translatedEnglishLine": "Maybe we put something strange in the alcohol☆\""
+                            },
+                            {
+                                "lineNumber": "267380",
+                                "originalJapaneseLine": "「そ、そこまでするー！？」",
+                                "translatedEnglishLine": "\"Y-you'd go that far!?\""
+                            },
+                            {
+                                "lineNumber": "267381",
+                                "originalJapaneseLine": "「うわ、やばっ！",
+                                "translatedEnglishLine": "\"Whoa, no way!"
+                            },
+                            {
+                                "lineNumber": "267382",
+                                "originalJapaneseLine": "　本当に力ちっとも入らない！」",
+                                "translatedEnglishLine": "I really have no strength at all!\""
+                            },
+                            {
+                                "lineNumber": "267383",
+                                "originalJapaneseLine": "「と、とにかく、帰ってちょうだい！",
+                                "translatedEnglishLine": "\"A-anyway, please go home!\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1776,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2050,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3826
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「ん〜……\",\"translatedEnglishLine\":\"\\\"Mmm...\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　それもいいけど〜」\",\"translatedEnglishLine\":\"That's nice too, but~\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「そろそろモロミちゃん、\",\"translatedEnglishLine\":\"\\\"Moromi-chan, it's about time,\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　自分の夢、叶えたいなーって気も」\",\"translatedEnglishLine\":\"I feel like you want to make your own dream come true.\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「ほう、そんなもんあったのか。\",\"translatedEnglishLine\":\"\\\"Oh, so you had that kind of thing.\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　なんだ？」\",\"translatedEnglishLine\":\"What is it?\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「お嫁さん☆」\",\"translatedEnglishLine\":\"\\\"A bride☆\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「おかしいな。\",\"translatedEnglishLine\":\"\\\"That's strange.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　もう酔いが回ってきたようだ」\",\"translatedEnglishLine\":\"It seems the drunkenness is already setting in.\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「おいこら」\",\"translatedEnglishLine\":\"\\\"Hey, you there.\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「そーゆーことは小出し小出しで話さんか。\",\"translatedEnglishLine\":\"\\\"Don't spread out revelations like that all at once.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　心臓が止まるかと思ったぞ。\",\"translatedEnglishLine\":\"I thought my heart was going to stop.\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　おい、アタゴちゃん、杯が空いてるぞ」\",\"translatedEnglishLine\":\"Hey, Atago-chan, your cup is empty.\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「あ、ああ、はいはい。どうもね」\",\"translatedEnglishLine\":\"\\\"Ah, ah, yes, yes. Thanks.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「おいこら、私の話にもっと興味向けろや」\",\"translatedEnglishLine\":\"\\\"Hey, pay more attention to what I'm saying.\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「ん〜……また今度な」\",\"translatedEnglishLine\":\"\\\"Mmm... maybe next time.\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「てめぇ……」\",\"translatedEnglishLine\":\"\\\"You...!\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"その後もランス達は美味しいお酒と共に、\",\"translatedEnglishLine\":\"After that, Rance and the others continued,\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"下らない話に花を咲かせた。\",\"translatedEnglishLine\":\"blooming in silly conversations with delicious alcohol.\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ふう……もういい時間ね……\",\"translatedEnglishLine\":\"\\\"Phew... it's already late...\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　そろそろお開きにしない？」\",\"translatedEnglishLine\":\"Shall we call it a night soon?\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「ん、そうだねー。\",\"translatedEnglishLine\":\"\\\"Mhm, that's right.\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　たらふく食べて、たらふく飲んだし」\",\"translatedEnglishLine\":\"We've eaten and drunk our fill.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「では……」\",\"translatedEnglishLine\":\"\\\"Well then...\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「そろそろメインディッシュだな」\",\"translatedEnglishLine\":\"\\\"It's about time for the main dish.\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「はあ？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「私達が本当にただお酒を楽しむ為だけに\",\"translatedEnglishLine\":\"\\\"Did we really come here just to enjoy some drinks?\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　ここに来たと？」\",\"translatedEnglishLine\":\"Is that what you think?\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「アタゴちゃん、私達に注がれてもう結構、\",\"translatedEnglishLine\":\"\\\"Atago-chan, we've been poured so much by you,\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　飲んでー、飲んでー、飲まれて飲んだよねー」\",\"translatedEnglishLine\":\"drinking and drinking, getting drunk, right?\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「そう！　俺達は最初っから！\",\"translatedEnglishLine\":\"\\\"Exactly! From the very start,\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　美味しく楽しい酒宴などする気は皆無！」\",\"translatedEnglishLine\":\"we never planned to have a delicious and fun drinking party!\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「そうなのだー☆」\",\"translatedEnglishLine\":\"\\\"That's right☆\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「その目的は酔ってへろへろになった\",\"translatedEnglishLine\":\"\\\"The goal was to take advantage of a drunken,\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　アタゴちゃんを犯すことだったのだー！」\",\"translatedEnglishLine\":\"helpless Atago-chan!\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「なのだー☆\",\"translatedEnglishLine\":\"\\\"That's it☆\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　ばばーんっと☆」\",\"translatedEnglishLine\":\"Ta-da☆\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「なっ……！？」\",\"translatedEnglishLine\":\"\\\"Wha...!?!\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「おほほほ、そんなことも知らずに、\",\"translatedEnglishLine\":\"\\\"Oh ho ho ho, without even knowing that,\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　楽しそうにカパカパとお酒を飲みおって」\",\"translatedEnglishLine\":\"you're happily gulping down the drinks.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「んーふふ、すっかりお酒が回った頃でしょ。\",\"translatedEnglishLine\":\"\\\"Mmm, hehe, the alcohol must be fully kicking in by now.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　そろそろ我慢しなくてもいいよねー」\",\"translatedEnglishLine\":\"It's about time to stop holding back, right?\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「んな、なななな……」\",\"translatedEnglishLine\":\"\\\"N-no no no...\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「ふっ……」\",\"translatedEnglishLine\":\"\\\"Hmph...\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「お？」\",\"translatedEnglishLine\":\"\\\"Oh?\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「こちとら長年酒場のお姉さんしてんのよ？」\",\"translatedEnglishLine\":\"\\\"I've been a bar hostess for many years, you know?\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「あんた達とは飲める量が違うの。\",\"translatedEnglishLine\":\"\\\"The amount I can drink is different from yours.\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　この程度でどうにかなるわけが――」\",\"translatedEnglishLine\":\"There's no way something like this would make me—\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「あ、あれ？」\",\"translatedEnglishLine\":\"\\\"H-huh?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"立ち上がろうとした途端、全身から力が抜け、\",\"translatedEnglishLine\":\"The moment she tried to stand up, strength left her entire body,\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"アタゴはその場にぺたりと座り込んだ。\",\"translatedEnglishLine\":\"and Atago plopped down right there.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「えへっ☆\",\"translatedEnglishLine\":\"\\\"Ehe☆\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　お酒に変な薬入れてたりして☆」\",\"translatedEnglishLine\":\"Maybe we put something strange in the alcohol☆\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「そ、そこまでするー！？」\",\"translatedEnglishLine\":\"\\\"Y-you'd go that far!?\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「うわ、やばっ！\",\"translatedEnglishLine\":\"\\\"Whoa, no way!\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　本当に力ちっとも入らない！」\",\"translatedEnglishLine\":\"I really have no strength at all!\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「と、とにかく、帰ってちょうだい！\",\"translatedEnglishLine\":\"\\\"A-anyway, please go home!\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "267324",
+                "originalJapaneseLine": "「ん〜……",
+                "translatedEnglishLine": "\"Mmm...\""
+            },
+            {
+                "lineNumber": "267325",
+                "originalJapaneseLine": "　それもいいけど〜」",
+                "translatedEnglishLine": "That's nice too, but~\""
+            },
+            {
+                "lineNumber": "267326",
+                "originalJapaneseLine": "「そろそろモロミちゃん、",
+                "translatedEnglishLine": "\"Moromi-chan, it's about time,"
+            },
+            {
+                "lineNumber": "267327",
+                "originalJapaneseLine": "　自分の夢、叶えたいなーって気も」",
+                "translatedEnglishLine": "I feel like you want to make your own dream come true.\""
+            },
+            {
+                "lineNumber": "267328",
+                "originalJapaneseLine": "「ほう、そんなもんあったのか。",
+                "translatedEnglishLine": "\"Oh, so you had that kind of thing."
+            },
+            {
+                "lineNumber": "267329",
+                "originalJapaneseLine": "　なんだ？」",
+                "translatedEnglishLine": "What is it?\""
+            },
+            {
+                "lineNumber": "267330",
+                "originalJapaneseLine": "「お嫁さん☆」",
+                "translatedEnglishLine": "\"A bride☆\""
+            },
+            {
+                "lineNumber": "267331",
+                "originalJapaneseLine": "「おかしいな。",
+                "translatedEnglishLine": "\"That's strange."
+            },
+            {
+                "lineNumber": "267332",
+                "originalJapaneseLine": "　もう酔いが回ってきたようだ」",
+                "translatedEnglishLine": "It seems the drunkenness is already setting in.\""
+            },
+            {
+                "lineNumber": "267333",
+                "originalJapaneseLine": "「おいこら」",
+                "translatedEnglishLine": "\"Hey, you there.\""
+            },
+            {
+                "lineNumber": "267334",
+                "originalJapaneseLine": "「そーゆーことは小出し小出しで話さんか。",
+                "translatedEnglishLine": "\"Don't spread out revelations like that all at once."
+            },
+            {
+                "lineNumber": "267335",
+                "originalJapaneseLine": "　心臓が止まるかと思ったぞ。",
+                "translatedEnglishLine": "I thought my heart was going to stop."
+            },
+            {
+                "lineNumber": "267336",
+                "originalJapaneseLine": "　おい、アタゴちゃん、杯が空いてるぞ」",
+                "translatedEnglishLine": "Hey, Atago-chan, your cup is empty.\""
+            },
+            {
+                "lineNumber": "267337",
+                "originalJapaneseLine": "「あ、ああ、はいはい。どうもね」",
+                "translatedEnglishLine": "\"Ah, ah, yes, yes. Thanks.\""
+            },
+            {
+                "lineNumber": "267338",
+                "originalJapaneseLine": "「おいこら、私の話にもっと興味向けろや」",
+                "translatedEnglishLine": "\"Hey, pay more attention to what I'm saying.\""
+            },
+            {
+                "lineNumber": "267339",
+                "originalJapaneseLine": "「ん〜……また今度な」",
+                "translatedEnglishLine": "\"Mmm... maybe next time.\""
+            },
+            {
+                "lineNumber": "267340",
+                "originalJapaneseLine": "「てめぇ……」",
+                "translatedEnglishLine": "\"You...!\""
+            },
+            {
+                "lineNumber": "267341",
+                "originalJapaneseLine": "その後もランス達は美味しいお酒と共に、",
+                "translatedEnglishLine": "After that, Rance and the others continued,"
+            },
+            {
+                "lineNumber": "267342",
+                "originalJapaneseLine": "下らない話に花を咲かせた。",
+                "translatedEnglishLine": "blooming in silly conversations with delicious alcohol."
+            },
+            {
+                "lineNumber": "267343",
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "............"
+            },
+            {
+                "lineNumber": "267344",
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": "267345",
+                "originalJapaneseLine": "「ふう……もういい時間ね……",
+                "translatedEnglishLine": "\"Phew... it's already late..."
+            },
+            {
+                "lineNumber": "267346",
+                "originalJapaneseLine": "　そろそろお開きにしない？」",
+                "translatedEnglishLine": "Shall we call it a night soon?\""
+            },
+            {
+                "lineNumber": "267347",
+                "originalJapaneseLine": "「ん、そうだねー。",
+                "translatedEnglishLine": "\"Mhm, that's right."
+            },
+            {
+                "lineNumber": "267348",
+                "originalJapaneseLine": "　たらふく食べて、たらふく飲んだし」",
+                "translatedEnglishLine": "We've eaten and drunk our fill.\""
+            },
+            {
+                "lineNumber": "267349",
+                "originalJapaneseLine": "「では……」",
+                "translatedEnglishLine": "\"Well then...\""
+            },
+            {
+                "lineNumber": "267350",
+                "originalJapaneseLine": "「そろそろメインディッシュだな」",
+                "translatedEnglishLine": "\"It's about time for the main dish.\""
+            },
+            {
+                "lineNumber": "267351",
+                "originalJapaneseLine": "「はあ？」",
+                "translatedEnglishLine": "\"Huh?\""
+            },
+            {
+                "lineNumber": "267352",
+                "originalJapaneseLine": "「私達が本当にただお酒を楽しむ為だけに",
+                "translatedEnglishLine": "\"Did we really come here just to enjoy some drinks?"
+            },
+            {
+                "lineNumber": "267353",
+                "originalJapaneseLine": "　ここに来たと？」",
+                "translatedEnglishLine": "Is that what you think?\""
+            },
+            {
+                "lineNumber": "267354",
+                "originalJapaneseLine": "「アタゴちゃん、私達に注がれてもう結構、",
+                "translatedEnglishLine": "\"Atago-chan, we've been poured so much by you,"
+            },
+            {
+                "lineNumber": "267355",
+                "originalJapaneseLine": "　飲んでー、飲んでー、飲まれて飲んだよねー」",
+                "translatedEnglishLine": "drinking and drinking, getting drunk, right?\""
+            },
+            {
+                "lineNumber": "267356",
+                "originalJapaneseLine": "「そう！　俺達は最初っから！",
+                "translatedEnglishLine": "\"Exactly! From the very start,"
+            },
+            {
+                "lineNumber": "267357",
+                "originalJapaneseLine": "　美味しく楽しい酒宴などする気は皆無！」",
+                "translatedEnglishLine": "we never planned to have a delicious and fun drinking party!\""
+            },
+            {
+                "lineNumber": "267358",
+                "originalJapaneseLine": "「そうなのだー☆」",
+                "translatedEnglishLine": "\"That's right☆\""
+            },
+            {
+                "lineNumber": "267359",
+                "originalJapaneseLine": "「その目的は酔ってへろへろになった",
+                "translatedEnglishLine": "\"The goal was to take advantage of a drunken,"
+            },
+            {
+                "lineNumber": "267360",
+                "originalJapaneseLine": "　アタゴちゃんを犯すことだったのだー！」",
+                "translatedEnglishLine": "helpless Atago-chan!\""
+            },
+            {
+                "lineNumber": "267361",
+                "originalJapaneseLine": "「なのだー☆",
+                "translatedEnglishLine": "\"That's it☆"
+            },
+            {
+                "lineNumber": "267362",
+                "originalJapaneseLine": "　ばばーんっと☆」",
+                "translatedEnglishLine": "Ta-da☆\""
+            },
+            {
+                "lineNumber": "267363",
+                "originalJapaneseLine": "「なっ……！？」",
+                "translatedEnglishLine": "\"Wha...!?!\""
+            },
+            {
+                "lineNumber": "267364",
+                "originalJapaneseLine": "「おほほほ、そんなことも知らずに、",
+                "translatedEnglishLine": "\"Oh ho ho ho, without even knowing that,"
+            },
+            {
+                "lineNumber": "267365",
+                "originalJapaneseLine": "　楽しそうにカパカパとお酒を飲みおって」",
+                "translatedEnglishLine": "you're happily gulping down the drinks.\""
+            },
+            {
+                "lineNumber": "267366",
+                "originalJapaneseLine": "「んーふふ、すっかりお酒が回った頃でしょ。",
+                "translatedEnglishLine": "\"Mmm, hehe, the alcohol must be fully kicking in by now."
+            },
+            {
+                "lineNumber": "267367",
+                "originalJapaneseLine": "　そろそろ我慢しなくてもいいよねー」",
+                "translatedEnglishLine": "It's about time to stop holding back, right?\""
+            },
+            {
+                "lineNumber": "267368",
+                "originalJapaneseLine": "「んな、なななな……」",
+                "translatedEnglishLine": "\"N-no no no...\""
+            },
+            {
+                "lineNumber": "267369",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "267370",
+                "originalJapaneseLine": "「ふっ……」",
+                "translatedEnglishLine": "\"Hmph...\""
+            },
+            {
+                "lineNumber": "267371",
+                "originalJapaneseLine": "「お？」",
+                "translatedEnglishLine": "\"Oh?\""
+            },
+            {
+                "lineNumber": "267372",
+                "originalJapaneseLine": "「こちとら長年酒場のお姉さんしてんのよ？」",
+                "translatedEnglishLine": "\"I've been a bar hostess for many years, you know?"
+            },
+            {
+                "lineNumber": "267373",
+                "originalJapaneseLine": "「あんた達とは飲める量が違うの。",
+                "translatedEnglishLine": "\"The amount I can drink is different from yours."
+            },
+            {
+                "lineNumber": "267374",
+                "originalJapaneseLine": "　この程度でどうにかなるわけが――」",
+                "translatedEnglishLine": "There's no way something like this would make me—"
+            },
+            {
+                "lineNumber": "267375",
+                "originalJapaneseLine": "「あ、あれ？」",
+                "translatedEnglishLine": "\"H-huh?\""
+            },
+            {
+                "lineNumber": "267376",
+                "originalJapaneseLine": "立ち上がろうとした途端、全身から力が抜け、",
+                "translatedEnglishLine": "The moment she tried to stand up, strength left her entire body,"
+            },
+            {
+                "lineNumber": "267377",
+                "originalJapaneseLine": "アタゴはその場にぺたりと座り込んだ。",
+                "translatedEnglishLine": "and Atago plopped down right there."
+            },
+            {
+                "lineNumber": "267378",
+                "originalJapaneseLine": "「えへっ☆",
+                "translatedEnglishLine": "\"Ehe☆"
+            },
+            {
+                "lineNumber": "267379",
+                "originalJapaneseLine": "　お酒に変な薬入れてたりして☆」",
+                "translatedEnglishLine": "Maybe we put something strange in the alcohol☆\""
+            },
+            {
+                "lineNumber": "267380",
+                "originalJapaneseLine": "「そ、そこまでするー！？」",
+                "translatedEnglishLine": "\"Y-you'd go that far!?\""
+            },
+            {
+                "lineNumber": "267381",
+                "originalJapaneseLine": "「うわ、やばっ！",
+                "translatedEnglishLine": "\"Whoa, no way!"
+            },
+            {
+                "lineNumber": "267382",
+                "originalJapaneseLine": "　本当に力ちっとも入らない！」",
+                "translatedEnglishLine": "I really have no strength at all!\""
+            },
+            {
+                "lineNumber": "267383",
+                "originalJapaneseLine": "「と、とにかく、帰ってちょうだい！",
+                "translatedEnglishLine": "\"A-anyway, please go home!\""
+            }
+        ]
+    }
+}

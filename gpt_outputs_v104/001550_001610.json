@@ -1,0 +1,719 @@
+{
+    "id": "resp_07a8ce0767fdb47e0068ffe805cd74819587dbffc332e4ae6c",
+    "object": "response",
+    "created_at": 1761601541,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_07a8ce0767fdb47e0068ffe806b4a48195842149d1b1478131",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「いや、つーん、って……」\",\"translatedEnglishLine\":\"\\\"No, it's like a 'tsuun'...\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「ふんっ……」\",\"translatedEnglishLine\":\"\\\"Hmph...\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"ワーグの機嫌は中々直らなかった。\",\"translatedEnglishLine\":\"Warg's mood didn't improve easily.\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"ランスの長い長い、魔王生活の一幕だった。\",\"translatedEnglishLine\":\"It was a scene from Rance's long, long life as a Demon King.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「…………おおう」\",\"translatedEnglishLine\":\"\\\"...Oh.\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「ん、あそこにいるのは……」\",\"translatedEnglishLine\":\"\\\"Hm, is that over there...?\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「ぐう、ぐう……」\",\"translatedEnglishLine\":\"\\\"Guu, guu...\\\" (snoring)\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"中庭に行くと、\",\"translatedEnglishLine\":\"When he went to the courtyard,\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"セスナがぐうぐうと眠っていた。\",\"translatedEnglishLine\":\"Sesuna was sound asleep, snoring loudly.\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「こいつ、立ったまま寝てやがる」\",\"translatedEnglishLine\":\"\\\"This girl is sleeping while standing up.\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「うーむ、相変わらずの、\",\"translatedEnglishLine\":\"\\\"Hmm, as always,\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　超寝ぼすけ娘……」\",\"translatedEnglishLine\":\"a super heavy sleeper girl...\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"もみもみ。\",\"translatedEnglishLine\":\"Squeeze squeeze.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"ランスはなんとなくセスナの胸を揉んだ。\",\"translatedEnglishLine\":\"Rance absentmindedly fondled Sesuna's chest.\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「まったく起きん……」\",\"translatedEnglishLine\":\"\\\"She just won't wake up...\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「ぐふふ……\",\"translatedEnglishLine\":\"\\\"Gufufu...\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　これでは悪い奴にレイプされ放題ではないか。\",\"translatedEnglishLine\":\"At this rate, bad guys could rape her as they please.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　ああ、心配だ、心配だなぁ、もみもみ」\",\"translatedEnglishLine\":\"Ah, I'm so worried, so worried, squeeze squeeze.\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「……おおっ」\",\"translatedEnglishLine\":\"\\\"...Oh!\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「まったく、ようやく起きたか」\",\"translatedEnglishLine\":\"\\\"Good grief, you've finally woken up.\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"\\\"Haa... (sigh)\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　また、寝てました……」\",\"translatedEnglishLine\":\"I fell asleep again...\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「ところで……」\",\"translatedEnglishLine\":\"\\\"By the way...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「……胸……揉んでる？」\",\"translatedEnglishLine\":\"\\\"...Are you... fondling my chest?\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「おーっと気づかなかった！\",\"translatedEnglishLine\":\"\\\"Oh— I didn't notice!\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　がははは、起こそうとしたら手が滑ったわー！」\",\"translatedEnglishLine\":\"Hahaha, when I tried to wake you, my hand slipped!\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「むう……\",\"translatedEnglishLine\":\"\\\"Mmm...\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"　…………相変わらずのエロ野郎」\",\"translatedEnglishLine\":\"...Still the same pervert as always.\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「しかし、その寝ぼすけ癖はどうにかならんのか？\",\"translatedEnglishLine\":\"\\\"But can't you do something about that heavy sleeper habit?\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　襲ったのが俺だから良かったようなものの、\",\"translatedEnglishLine\":\"It's only because I was the one who attacked you that it's fine,\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　それでは悪い奴に襲われるぞ？」\",\"translatedEnglishLine\":\"otherwise, you'd get attacked by bad guys, you know?\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「…………ん？」\",\"translatedEnglishLine\":\"\\\"...Hm?\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「まあ……仕方ない……\",\"translatedEnglishLine\":\"\\\"Well... it can't be helped...\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　眠いものは……眠い、ので……」\",\"translatedEnglishLine\":\"When you're sleepy... you're sleepy... so...\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「うーん、相変わらずな奴」\",\"translatedEnglishLine\":\"\\\"Hmm, still the same old you.\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「相変わらず？\",\"translatedEnglishLine\":\"\\\"The same as always?\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　それは違う……」\",\"translatedEnglishLine\":\"That's not true...\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「私もこのままではいかんと思い……\",\"translatedEnglishLine\":\"\\\"I also thought I couldn't go on like this...\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　修行……してました、実は」\",\"translatedEnglishLine\":\"So I've been training... actually.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「寝てる間にレイプ……されないよう……\",\"translatedEnglishLine\":\"\\\"So that I won't be raped while sleeping...\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　眠ったまま……抵抗できます……」\",\"translatedEnglishLine\":\"I can resist even while asleep...\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「名付けて睡拳-ｽｲｹﾝ-」\",\"translatedEnglishLine\":\"\\\"I call it Sleep Fist - Suiken.\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「ほう、では早速やってみろ」\",\"translatedEnglishLine\":\"\\\"Oh? Then let's see you try it out immediately.\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「……いいよ」\",\"translatedEnglishLine\":\"\\\"...Alright.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ふん……\",\"translatedEnglishLine\":\"\\\"Hmph...\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　こう、精神統一して……」\",\"translatedEnglishLine\":\"Like this, I focus my mind...\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「ぐう……」\",\"translatedEnglishLine\":\"\\\"Guu...\\\" (snoring)\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「お、寝た。\",\"translatedEnglishLine\":\"\\\"Oh, she fell asleep.\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　では早速襲ってみるか」\",\"translatedEnglishLine\":\"Well then, let's try attacking her immediately.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"ランスは一瞬の躊躇すらなく、\",\"translatedEnglishLine\":\"Without a moment's hesitation, Rance\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"セスナの胸に手を伸ばした。\",\"translatedEnglishLine\":\"reached out to Sesuna's chest.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「ふっ……！」\",\"translatedEnglishLine\":\"\\\"Hmph...!\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「お、おおっ！？」\",\"translatedEnglishLine\":\"\\\"Oh, oh!?!\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"がしっとセスナの手がランスの手を掴んだ。\",\"translatedEnglishLine\":\"Sesuna's hand grabbed Rance's hand firmly.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「むっ、ちょこざいな！\",\"translatedEnglishLine\":\"\\\"Ugh, how sneaky!\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　ならばもう片方の手で！」\",\"translatedEnglishLine\":\"\\\"Then with my other hand!\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"がしっ！\",\"translatedEnglishLine\":\"Grab!\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"もう片方の手もセスナの手に阻まれた。\",\"translatedEnglishLine\":\"His other hand was also blocked by Sesuna's hand.\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "266184",
+                                "originalJapaneseLine": "「いや、つーん、って……」",
+                                "translatedEnglishLine": "\"No, it's like a 'tsuun'...\""
+                            },
+                            {
+                                "lineNumber": "266185",
+                                "originalJapaneseLine": "「ふんっ……」",
+                                "translatedEnglishLine": "\"Hmph...\""
+                            },
+                            {
+                                "lineNumber": "266186",
+                                "originalJapaneseLine": "ワーグの機嫌は中々直らなかった。",
+                                "translatedEnglishLine": "Warg's mood didn't improve easily."
+                            },
+                            {
+                                "lineNumber": "266187",
+                                "originalJapaneseLine": "ランスの長い長い、魔王生活の一幕だった。",
+                                "translatedEnglishLine": "It was a scene from Rance's long, long life as a Demon King."
+                            },
+                            {
+                                "lineNumber": "266188",
+                                "originalJapaneseLine": "「…………おおう」",
+                                "translatedEnglishLine": "\"...Oh.\""
+                            },
+                            {
+                                "lineNumber": "266189",
+                                "originalJapaneseLine": "「ん、あそこにいるのは……」",
+                                "translatedEnglishLine": "\"Hm, is that over there...?\""
+                            },
+                            {
+                                "lineNumber": "266190",
+                                "originalJapaneseLine": "「ぐう、ぐう……」",
+                                "translatedEnglishLine": "\"Guu, guu...\" (snoring)"
+                            },
+                            {
+                                "lineNumber": "266191",
+                                "originalJapaneseLine": "中庭に行くと、",
+                                "translatedEnglishLine": "When he went to the courtyard,"
+                            },
+                            {
+                                "lineNumber": "266192",
+                                "originalJapaneseLine": "セスナがぐうぐうと眠っていた。",
+                                "translatedEnglishLine": "Sesuna was sound asleep, snoring loudly."
+                            },
+                            {
+                                "lineNumber": "266193",
+                                "originalJapaneseLine": "「こいつ、立ったまま寝てやがる」",
+                                "translatedEnglishLine": "\"This girl is sleeping while standing up.\""
+                            },
+                            {
+                                "lineNumber": "266194",
+                                "originalJapaneseLine": "「うーむ、相変わらずの、",
+                                "translatedEnglishLine": "\"Hmm, as always,"
+                            },
+                            {
+                                "lineNumber": "266195",
+                                "originalJapaneseLine": "　超寝ぼすけ娘……」",
+                                "translatedEnglishLine": "a super heavy sleeper girl...\""
+                            },
+                            {
+                                "lineNumber": "266196",
+                                "originalJapaneseLine": "もみもみ。",
+                                "translatedEnglishLine": "Squeeze squeeze."
+                            },
+                            {
+                                "lineNumber": "266197",
+                                "originalJapaneseLine": "ランスはなんとなくセスナの胸を揉んだ。",
+                                "translatedEnglishLine": "Rance absentmindedly fondled Sesuna's chest."
+                            },
+                            {
+                                "lineNumber": "266198",
+                                "originalJapaneseLine": "「まったく起きん……」",
+                                "translatedEnglishLine": "\"She just won't wake up...\""
+                            },
+                            {
+                                "lineNumber": "266199",
+                                "originalJapaneseLine": "「ぐふふ……",
+                                "translatedEnglishLine": "\"Gufufu..."
+                            },
+                            {
+                                "lineNumber": "266200",
+                                "originalJapaneseLine": "　これでは悪い奴にレイプされ放題ではないか。",
+                                "translatedEnglishLine": "At this rate, bad guys could rape her as they please."
+                            },
+                            {
+                                "lineNumber": "266201",
+                                "originalJapaneseLine": "　ああ、心配だ、心配だなぁ、もみもみ」",
+                                "translatedEnglishLine": "Ah, I'm so worried, so worried, squeeze squeeze.\""
+                            },
+                            {
+                                "lineNumber": "266202",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"...\""
+                            },
+                            {
+                                "lineNumber": "266203",
+                                "originalJapaneseLine": "「……おおっ」",
+                                "translatedEnglishLine": "\"...Oh!\""
+                            },
+                            {
+                                "lineNumber": "266204",
+                                "originalJapaneseLine": "「まったく、ようやく起きたか」",
+                                "translatedEnglishLine": "\"Good grief, you've finally woken up.\""
+                            },
+                            {
+                                "lineNumber": "266205",
+                                "originalJapaneseLine": "「はあ……",
+                                "translatedEnglishLine": "\"Haa... (sigh)"
+                            },
+                            {
+                                "lineNumber": "266206",
+                                "originalJapaneseLine": "　また、寝てました……」",
+                                "translatedEnglishLine": "I fell asleep again...\""
+                            },
+                            {
+                                "lineNumber": "266207",
+                                "originalJapaneseLine": "「ところで……」",
+                                "translatedEnglishLine": "\"By the way...\""
+                            },
+                            {
+                                "lineNumber": "266208",
+                                "originalJapaneseLine": "「……胸……揉んでる？」",
+                                "translatedEnglishLine": "\"...Are you... fondling my chest?\""
+                            },
+                            {
+                                "lineNumber": "266209",
+                                "originalJapaneseLine": "「おーっと気づかなかった！",
+                                "translatedEnglishLine": "\"Oh— I didn't notice!"
+                            },
+                            {
+                                "lineNumber": "266210",
+                                "originalJapaneseLine": "　がははは、起こそうとしたら手が滑ったわー！」",
+                                "translatedEnglishLine": "Hahaha, when I tried to wake you, my hand slipped!\""
+                            },
+                            {
+                                "lineNumber": "266211",
+                                "originalJapaneseLine": "「むう……",
+                                "translatedEnglishLine": "\"Mmm...\""
+                            },
+                            {
+                                "lineNumber": "266212",
+                                "originalJapaneseLine": "　…………相変わらずのエロ野郎」",
+                                "translatedEnglishLine": "...Still the same pervert as always.\""
+                            },
+                            {
+                                "lineNumber": "266213",
+                                "originalJapaneseLine": "「しかし、その寝ぼすけ癖はどうにかならんのか？",
+                                "translatedEnglishLine": "\"But can't you do something about that heavy sleeper habit?"
+                            },
+                            {
+                                "lineNumber": "266214",
+                                "originalJapaneseLine": "　襲ったのが俺だから良かったようなものの、",
+                                "translatedEnglishLine": "It's only because I was the one who attacked you that it's fine,"
+                            },
+                            {
+                                "lineNumber": "266215",
+                                "originalJapaneseLine": "　それでは悪い奴に襲われるぞ？」",
+                                "translatedEnglishLine": "otherwise, you'd get attacked by bad guys, you know?\""
+                            },
+                            {
+                                "lineNumber": "266216",
+                                "originalJapaneseLine": "「…………ん？」",
+                                "translatedEnglishLine": "\"...Hm?\""
+                            },
+                            {
+                                "lineNumber": "266217",
+                                "originalJapaneseLine": "「まあ……仕方ない……",
+                                "translatedEnglishLine": "\"Well... it can't be helped..."
+                            },
+                            {
+                                "lineNumber": "266218",
+                                "originalJapaneseLine": "　眠いものは……眠い、ので……」",
+                                "translatedEnglishLine": "When you're sleepy... you're sleepy... so...\""
+                            },
+                            {
+                                "lineNumber": "266219",
+                                "originalJapaneseLine": "「うーん、相変わらずな奴」",
+                                "translatedEnglishLine": "\"Hmm, still the same old you.\""
+                            },
+                            {
+                                "lineNumber": "266220",
+                                "originalJapaneseLine": "「相変わらず？",
+                                "translatedEnglishLine": "\"The same as always?"
+                            },
+                            {
+                                "lineNumber": "266221",
+                                "originalJapaneseLine": "　それは違う……」",
+                                "translatedEnglishLine": "That's not true...\""
+                            },
+                            {
+                                "lineNumber": "266222",
+                                "originalJapaneseLine": "「私もこのままではいかんと思い……",
+                                "translatedEnglishLine": "\"I also thought I couldn't go on like this..."
+                            },
+                            {
+                                "lineNumber": "266223",
+                                "originalJapaneseLine": "　修行……してました、実は」",
+                                "translatedEnglishLine": "So I've been training... actually.\""
+                            },
+                            {
+                                "lineNumber": "266224",
+                                "originalJapaneseLine": "「寝てる間にレイプ……されないよう……",
+                                "translatedEnglishLine": "\"So that I won't be raped while sleeping..."
+                            },
+                            {
+                                "lineNumber": "266225",
+                                "originalJapaneseLine": "　眠ったまま……抵抗できます……」",
+                                "translatedEnglishLine": "I can resist even while asleep...\""
+                            },
+                            {
+                                "lineNumber": "266226",
+                                "originalJapaneseLine": "「名付けて睡拳-ｽｲｹﾝ-」",
+                                "translatedEnglishLine": "\"I call it Sleep Fist - Suiken.\""
+                            },
+                            {
+                                "lineNumber": "266227",
+                                "originalJapaneseLine": "「ほう、では早速やってみろ」",
+                                "translatedEnglishLine": "\"Oh? Then let's see you try it out immediately.\""
+                            },
+                            {
+                                "lineNumber": "266228",
+                                "originalJapaneseLine": "「……いいよ」",
+                                "translatedEnglishLine": "\"...Alright.\""
+                            },
+                            {
+                                "lineNumber": "266229",
+                                "originalJapaneseLine": "「ふん……",
+                                "translatedEnglishLine": "\"Hmph..."
+                            },
+                            {
+                                "lineNumber": "266230",
+                                "originalJapaneseLine": "　こう、精神統一して……」",
+                                "translatedEnglishLine": "Like this, I focus my mind...\""
+                            },
+                            {
+                                "lineNumber": "266231",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"...\""
+                            },
+                            {
+                                "lineNumber": "266232",
+                                "originalJapaneseLine": "「ぐう……」",
+                                "translatedEnglishLine": "\"Guu...\" (snoring)"
+                            },
+                            {
+                                "lineNumber": "266233",
+                                "originalJapaneseLine": "「お、寝た。",
+                                "translatedEnglishLine": "\"Oh, she fell asleep."
+                            },
+                            {
+                                "lineNumber": "266234",
+                                "originalJapaneseLine": "　では早速襲ってみるか」",
+                                "translatedEnglishLine": "Well then, let's try attacking her immediately.\""
+                            },
+                            {
+                                "lineNumber": "266235",
+                                "originalJapaneseLine": "ランスは一瞬の躊躇すらなく、",
+                                "translatedEnglishLine": "Without a moment's hesitation, Rance"
+                            },
+                            {
+                                "lineNumber": "266236",
+                                "originalJapaneseLine": "セスナの胸に手を伸ばした。",
+                                "translatedEnglishLine": "reached out to Sesuna's chest."
+                            },
+                            {
+                                "lineNumber": "266237",
+                                "originalJapaneseLine": "「ふっ……！」",
+                                "translatedEnglishLine": "\"Hmph...!\""
+                            },
+                            {
+                                "lineNumber": "266238",
+                                "originalJapaneseLine": "「お、おおっ！？」",
+                                "translatedEnglishLine": "\"Oh, oh!?!\""
+                            },
+                            {
+                                "lineNumber": "266239",
+                                "originalJapaneseLine": "がしっとセスナの手がランスの手を掴んだ。",
+                                "translatedEnglishLine": "Sesuna's hand grabbed Rance's hand firmly."
+                            },
+                            {
+                                "lineNumber": "266240",
+                                "originalJapaneseLine": "「むっ、ちょこざいな！",
+                                "translatedEnglishLine": "\"Ugh, how sneaky!\""
+                            },
+                            {
+                                "lineNumber": "266241",
+                                "originalJapaneseLine": "　ならばもう片方の手で！」",
+                                "translatedEnglishLine": "\"Then with my other hand!\""
+                            },
+                            {
+                                "lineNumber": "266242",
+                                "originalJapaneseLine": "がしっ！",
+                                "translatedEnglishLine": "Grab!"
+                            },
+                            {
+                                "lineNumber": "266243",
+                                "originalJapaneseLine": "もう片方の手もセスナの手に阻まれた。",
+                                "translatedEnglishLine": "His other hand was also blocked by Sesuna's hand."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1734,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2016,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3750
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「いや、つーん、って……」\",\"translatedEnglishLine\":\"\\\"No, it's like a 'tsuun'...\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「ふんっ……」\",\"translatedEnglishLine\":\"\\\"Hmph...\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"ワーグの機嫌は中々直らなかった。\",\"translatedEnglishLine\":\"Warg's mood didn't improve easily.\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"ランスの長い長い、魔王生活の一幕だった。\",\"translatedEnglishLine\":\"It was a scene from Rance's long, long life as a Demon King.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「…………おおう」\",\"translatedEnglishLine\":\"\\\"...Oh.\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「ん、あそこにいるのは……」\",\"translatedEnglishLine\":\"\\\"Hm, is that over there...?\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「ぐう、ぐう……」\",\"translatedEnglishLine\":\"\\\"Guu, guu...\\\" (snoring)\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"中庭に行くと、\",\"translatedEnglishLine\":\"When he went to the courtyard,\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"セスナがぐうぐうと眠っていた。\",\"translatedEnglishLine\":\"Sesuna was sound asleep, snoring loudly.\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「こいつ、立ったまま寝てやがる」\",\"translatedEnglishLine\":\"\\\"This girl is sleeping while standing up.\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「うーむ、相変わらずの、\",\"translatedEnglishLine\":\"\\\"Hmm, as always,\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　超寝ぼすけ娘……」\",\"translatedEnglishLine\":\"a super heavy sleeper girl...\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"もみもみ。\",\"translatedEnglishLine\":\"Squeeze squeeze.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"ランスはなんとなくセスナの胸を揉んだ。\",\"translatedEnglishLine\":\"Rance absentmindedly fondled Sesuna's chest.\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「まったく起きん……」\",\"translatedEnglishLine\":\"\\\"She just won't wake up...\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「ぐふふ……\",\"translatedEnglishLine\":\"\\\"Gufufu...\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　これでは悪い奴にレイプされ放題ではないか。\",\"translatedEnglishLine\":\"At this rate, bad guys could rape her as they please.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　ああ、心配だ、心配だなぁ、もみもみ」\",\"translatedEnglishLine\":\"Ah, I'm so worried, so worried, squeeze squeeze.\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「……おおっ」\",\"translatedEnglishLine\":\"\\\"...Oh!\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「まったく、ようやく起きたか」\",\"translatedEnglishLine\":\"\\\"Good grief, you've finally woken up.\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"\\\"Haa... (sigh)\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　また、寝てました……」\",\"translatedEnglishLine\":\"I fell asleep again...\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「ところで……」\",\"translatedEnglishLine\":\"\\\"By the way...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「……胸……揉んでる？」\",\"translatedEnglishLine\":\"\\\"...Are you... fondling my chest?\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「おーっと気づかなかった！\",\"translatedEnglishLine\":\"\\\"Oh— I didn't notice!\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　がははは、起こそうとしたら手が滑ったわー！」\",\"translatedEnglishLine\":\"Hahaha, when I tried to wake you, my hand slipped!\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「むう……\",\"translatedEnglishLine\":\"\\\"Mmm...\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"　…………相変わらずのエロ野郎」\",\"translatedEnglishLine\":\"...Still the same pervert as always.\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「しかし、その寝ぼすけ癖はどうにかならんのか？\",\"translatedEnglishLine\":\"\\\"But can't you do something about that heavy sleeper habit?\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　襲ったのが俺だから良かったようなものの、\",\"translatedEnglishLine\":\"It's only because I was the one who attacked you that it's fine,\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　それでは悪い奴に襲われるぞ？」\",\"translatedEnglishLine\":\"otherwise, you'd get attacked by bad guys, you know?\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「…………ん？」\",\"translatedEnglishLine\":\"\\\"...Hm?\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「まあ……仕方ない……\",\"translatedEnglishLine\":\"\\\"Well... it can't be helped...\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　眠いものは……眠い、ので……」\",\"translatedEnglishLine\":\"When you're sleepy... you're sleepy... so...\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「うーん、相変わらずな奴」\",\"translatedEnglishLine\":\"\\\"Hmm, still the same old you.\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「相変わらず？\",\"translatedEnglishLine\":\"\\\"The same as always?\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　それは違う……」\",\"translatedEnglishLine\":\"That's not true...\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「私もこのままではいかんと思い……\",\"translatedEnglishLine\":\"\\\"I also thought I couldn't go on like this...\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　修行……してました、実は」\",\"translatedEnglishLine\":\"So I've been training... actually.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「寝てる間にレイプ……されないよう……\",\"translatedEnglishLine\":\"\\\"So that I won't be raped while sleeping...\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　眠ったまま……抵抗できます……」\",\"translatedEnglishLine\":\"I can resist even while asleep...\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「名付けて睡拳-ｽｲｹﾝ-」\",\"translatedEnglishLine\":\"\\\"I call it Sleep Fist - Suiken.\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「ほう、では早速やってみろ」\",\"translatedEnglishLine\":\"\\\"Oh? Then let's see you try it out immediately.\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「……いいよ」\",\"translatedEnglishLine\":\"\\\"...Alright.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ふん……\",\"translatedEnglishLine\":\"\\\"Hmph...\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　こう、精神統一して……」\",\"translatedEnglishLine\":\"Like this, I focus my mind...\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「ぐう……」\",\"translatedEnglishLine\":\"\\\"Guu...\\\" (snoring)\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「お、寝た。\",\"translatedEnglishLine\":\"\\\"Oh, she fell asleep.\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　では早速襲ってみるか」\",\"translatedEnglishLine\":\"Well then, let's try attacking her immediately.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"ランスは一瞬の躊躇すらなく、\",\"translatedEnglishLine\":\"Without a moment's hesitation, Rance\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"セスナの胸に手を伸ばした。\",\"translatedEnglishLine\":\"reached out to Sesuna's chest.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「ふっ……！」\",\"translatedEnglishLine\":\"\\\"Hmph...!\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「お、おおっ！？」\",\"translatedEnglishLine\":\"\\\"Oh, oh!?!\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"がしっとセスナの手がランスの手を掴んだ。\",\"translatedEnglishLine\":\"Sesuna's hand grabbed Rance's hand firmly.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「むっ、ちょこざいな！\",\"translatedEnglishLine\":\"\\\"Ugh, how sneaky!\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　ならばもう片方の手で！」\",\"translatedEnglishLine\":\"\\\"Then with my other hand!\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"がしっ！\",\"translatedEnglishLine\":\"Grab!\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"もう片方の手もセスナの手に阻まれた。\",\"translatedEnglishLine\":\"His other hand was also blocked by Sesuna's hand.\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "266184",
+                "originalJapaneseLine": "「いや、つーん、って……」",
+                "translatedEnglishLine": "\"No, it's like a 'tsuun'...\""
+            },
+            {
+                "lineNumber": "266185",
+                "originalJapaneseLine": "「ふんっ……」",
+                "translatedEnglishLine": "\"Hmph...\""
+            },
+            {
+                "lineNumber": "266186",
+                "originalJapaneseLine": "ワーグの機嫌は中々直らなかった。",
+                "translatedEnglishLine": "Warg's mood didn't improve easily."
+            },
+            {
+                "lineNumber": "266187",
+                "originalJapaneseLine": "ランスの長い長い、魔王生活の一幕だった。",
+                "translatedEnglishLine": "It was a scene from Rance's long, long life as a Demon King."
+            },
+            {
+                "lineNumber": "266188",
+                "originalJapaneseLine": "「…………おおう」",
+                "translatedEnglishLine": "\"...Oh.\""
+            },
+            {
+                "lineNumber": "266189",
+                "originalJapaneseLine": "「ん、あそこにいるのは……」",
+                "translatedEnglishLine": "\"Hm, is that over there...?\""
+            },
+            {
+                "lineNumber": "266190",
+                "originalJapaneseLine": "「ぐう、ぐう……」",
+                "translatedEnglishLine": "\"Guu, guu...\" (snoring)"
+            },
+            {
+                "lineNumber": "266191",
+                "originalJapaneseLine": "中庭に行くと、",
+                "translatedEnglishLine": "When he went to the courtyard,"
+            },
+            {
+                "lineNumber": "266192",
+                "originalJapaneseLine": "セスナがぐうぐうと眠っていた。",
+                "translatedEnglishLine": "Sesuna was sound asleep, snoring loudly."
+            },
+            {
+                "lineNumber": "266193",
+                "originalJapaneseLine": "「こいつ、立ったまま寝てやがる」",
+                "translatedEnglishLine": "\"This girl is sleeping while standing up.\""
+            },
+            {
+                "lineNumber": "266194",
+                "originalJapaneseLine": "「うーむ、相変わらずの、",
+                "translatedEnglishLine": "\"Hmm, as always,"
+            },
+            {
+                "lineNumber": "266195",
+                "originalJapaneseLine": "　超寝ぼすけ娘……」",
+                "translatedEnglishLine": "a super heavy sleeper girl...\""
+            },
+            {
+                "lineNumber": "266196",
+                "originalJapaneseLine": "もみもみ。",
+                "translatedEnglishLine": "Squeeze squeeze."
+            },
+            {
+                "lineNumber": "266197",
+                "originalJapaneseLine": "ランスはなんとなくセスナの胸を揉んだ。",
+                "translatedEnglishLine": "Rance absentmindedly fondled Sesuna's chest."
+            },
+            {
+                "lineNumber": "266198",
+                "originalJapaneseLine": "「まったく起きん……」",
+                "translatedEnglishLine": "\"She just won't wake up...\""
+            },
+            {
+                "lineNumber": "266199",
+                "originalJapaneseLine": "「ぐふふ……",
+                "translatedEnglishLine": "\"Gufufu..."
+            },
+            {
+                "lineNumber": "266200",
+                "originalJapaneseLine": "　これでは悪い奴にレイプされ放題ではないか。",
+                "translatedEnglishLine": "At this rate, bad guys could rape her as they please."
+            },
+            {
+                "lineNumber": "266201",
+                "originalJapaneseLine": "　ああ、心配だ、心配だなぁ、もみもみ」",
+                "translatedEnglishLine": "Ah, I'm so worried, so worried, squeeze squeeze.\""
+            },
+            {
+                "lineNumber": "266202",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"...\""
+            },
+            {
+                "lineNumber": "266203",
+                "originalJapaneseLine": "「……おおっ」",
+                "translatedEnglishLine": "\"...Oh!\""
+            },
+            {
+                "lineNumber": "266204",
+                "originalJapaneseLine": "「まったく、ようやく起きたか」",
+                "translatedEnglishLine": "\"Good grief, you've finally woken up.\""
+            },
+            {
+                "lineNumber": "266205",
+                "originalJapaneseLine": "「はあ……",
+                "translatedEnglishLine": "\"Haa... (sigh)"
+            },
+            {
+                "lineNumber": "266206",
+                "originalJapaneseLine": "　また、寝てました……」",
+                "translatedEnglishLine": "I fell asleep again...\""
+            },
+            {
+                "lineNumber": "266207",
+                "originalJapaneseLine": "「ところで……」",
+                "translatedEnglishLine": "\"By the way...\""
+            },
+            {
+                "lineNumber": "266208",
+                "originalJapaneseLine": "「……胸……揉んでる？」",
+                "translatedEnglishLine": "\"...Are you... fondling my chest?\""
+            },
+            {
+                "lineNumber": "266209",
+                "originalJapaneseLine": "「おーっと気づかなかった！",
+                "translatedEnglishLine": "\"Oh— I didn't notice!"
+            },
+            {
+                "lineNumber": "266210",
+                "originalJapaneseLine": "　がははは、起こそうとしたら手が滑ったわー！」",
+                "translatedEnglishLine": "Hahaha, when I tried to wake you, my hand slipped!\""
+            },
+            {
+                "lineNumber": "266211",
+                "originalJapaneseLine": "「むう……",
+                "translatedEnglishLine": "\"Mmm...\""
+            },
+            {
+                "lineNumber": "266212",
+                "originalJapaneseLine": "　…………相変わらずのエロ野郎」",
+                "translatedEnglishLine": "...Still the same pervert as always.\""
+            },
+            {
+                "lineNumber": "266213",
+                "originalJapaneseLine": "「しかし、その寝ぼすけ癖はどうにかならんのか？",
+                "translatedEnglishLine": "\"But can't you do something about that heavy sleeper habit?"
+            },
+            {
+                "lineNumber": "266214",
+                "originalJapaneseLine": "　襲ったのが俺だから良かったようなものの、",
+                "translatedEnglishLine": "It's only because I was the one who attacked you that it's fine,"
+            },
+            {
+                "lineNumber": "266215",
+                "originalJapaneseLine": "　それでは悪い奴に襲われるぞ？」",
+                "translatedEnglishLine": "otherwise, you'd get attacked by bad guys, you know?\""
+            },
+            {
+                "lineNumber": "266216",
+                "originalJapaneseLine": "「…………ん？」",
+                "translatedEnglishLine": "\"...Hm?\""
+            },
+            {
+                "lineNumber": "266217",
+                "originalJapaneseLine": "「まあ……仕方ない……",
+                "translatedEnglishLine": "\"Well... it can't be helped..."
+            },
+            {
+                "lineNumber": "266218",
+                "originalJapaneseLine": "　眠いものは……眠い、ので……」",
+                "translatedEnglishLine": "When you're sleepy... you're sleepy... so...\""
+            },
+            {
+                "lineNumber": "266219",
+                "originalJapaneseLine": "「うーん、相変わらずな奴」",
+                "translatedEnglishLine": "\"Hmm, still the same old you.\""
+            },
+            {
+                "lineNumber": "266220",
+                "originalJapaneseLine": "「相変わらず？",
+                "translatedEnglishLine": "\"The same as always?"
+            },
+            {
+                "lineNumber": "266221",
+                "originalJapaneseLine": "　それは違う……」",
+                "translatedEnglishLine": "That's not true...\""
+            },
+            {
+                "lineNumber": "266222",
+                "originalJapaneseLine": "「私もこのままではいかんと思い……",
+                "translatedEnglishLine": "\"I also thought I couldn't go on like this..."
+            },
+            {
+                "lineNumber": "266223",
+                "originalJapaneseLine": "　修行……してました、実は」",
+                "translatedEnglishLine": "So I've been training... actually.\""
+            },
+            {
+                "lineNumber": "266224",
+                "originalJapaneseLine": "「寝てる間にレイプ……されないよう……",
+                "translatedEnglishLine": "\"So that I won't be raped while sleeping..."
+            },
+            {
+                "lineNumber": "266225",
+                "originalJapaneseLine": "　眠ったまま……抵抗できます……」",
+                "translatedEnglishLine": "I can resist even while asleep...\""
+            },
+            {
+                "lineNumber": "266226",
+                "originalJapaneseLine": "「名付けて睡拳-ｽｲｹﾝ-」",
+                "translatedEnglishLine": "\"I call it Sleep Fist - Suiken.\""
+            },
+            {
+                "lineNumber": "266227",
+                "originalJapaneseLine": "「ほう、では早速やってみろ」",
+                "translatedEnglishLine": "\"Oh? Then let's see you try it out immediately.\""
+            },
+            {
+                "lineNumber": "266228",
+                "originalJapaneseLine": "「……いいよ」",
+                "translatedEnglishLine": "\"...Alright.\""
+            },
+            {
+                "lineNumber": "266229",
+                "originalJapaneseLine": "「ふん……",
+                "translatedEnglishLine": "\"Hmph..."
+            },
+            {
+                "lineNumber": "266230",
+                "originalJapaneseLine": "　こう、精神統一して……」",
+                "translatedEnglishLine": "Like this, I focus my mind...\""
+            },
+            {
+                "lineNumber": "266231",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"...\""
+            },
+            {
+                "lineNumber": "266232",
+                "originalJapaneseLine": "「ぐう……」",
+                "translatedEnglishLine": "\"Guu...\" (snoring)"
+            },
+            {
+                "lineNumber": "266233",
+                "originalJapaneseLine": "「お、寝た。",
+                "translatedEnglishLine": "\"Oh, she fell asleep."
+            },
+            {
+                "lineNumber": "266234",
+                "originalJapaneseLine": "　では早速襲ってみるか」",
+                "translatedEnglishLine": "Well then, let's try attacking her immediately.\""
+            },
+            {
+                "lineNumber": "266235",
+                "originalJapaneseLine": "ランスは一瞬の躊躇すらなく、",
+                "translatedEnglishLine": "Without a moment's hesitation, Rance"
+            },
+            {
+                "lineNumber": "266236",
+                "originalJapaneseLine": "セスナの胸に手を伸ばした。",
+                "translatedEnglishLine": "reached out to Sesuna's chest."
+            },
+            {
+                "lineNumber": "266237",
+                "originalJapaneseLine": "「ふっ……！」",
+                "translatedEnglishLine": "\"Hmph...!\""
+            },
+            {
+                "lineNumber": "266238",
+                "originalJapaneseLine": "「お、おおっ！？」",
+                "translatedEnglishLine": "\"Oh, oh!?!\""
+            },
+            {
+                "lineNumber": "266239",
+                "originalJapaneseLine": "がしっとセスナの手がランスの手を掴んだ。",
+                "translatedEnglishLine": "Sesuna's hand grabbed Rance's hand firmly."
+            },
+            {
+                "lineNumber": "266240",
+                "originalJapaneseLine": "「むっ、ちょこざいな！",
+                "translatedEnglishLine": "\"Ugh, how sneaky!\""
+            },
+            {
+                "lineNumber": "266241",
+                "originalJapaneseLine": "　ならばもう片方の手で！」",
+                "translatedEnglishLine": "\"Then with my other hand!\""
+            },
+            {
+                "lineNumber": "266242",
+                "originalJapaneseLine": "がしっ！",
+                "translatedEnglishLine": "Grab!"
+            },
+            {
+                "lineNumber": "266243",
+                "originalJapaneseLine": "もう片方の手もセスナの手に阻まれた。",
+                "translatedEnglishLine": "His other hand was also blocked by Sesuna's hand."
+            }
+        ]
+    }
+}

@@ -1,0 +1,719 @@
+{
+    "id": "resp_0ab74fde2e3c86920068ffe86d22808194adb091ee0e1813bb",
+    "object": "response",
+    "created_at": 1761601645,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0ab74fde2e3c86920068ffe86db56881948d6dc5df7642f610",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「がーん」\",\"translatedEnglishLine\":\"\\\"Gah!\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「まあ……それは仕方ない……\",\"translatedEnglishLine\":\"\\\"Well... it can't be helped...\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　寝なくなるようにする訓練だから」\",\"translatedEnglishLine\":\"It's training to make you stop sleeping.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「これからに期待……」\",\"translatedEnglishLine\":\"\\\"Let's look forward to what's next...\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「やっぱりどう見ても、\",\"translatedEnglishLine\":\"\\\"No matter how you look at it,\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　のどかなお昼寝タイムだ……」\",\"translatedEnglishLine\":\"it's just a peaceful nap time...\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「隊長も……やる？」\",\"translatedEnglishLine\":\"\\\"Captain... want to join?\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「いや、俺はいい……」\",\"translatedEnglishLine\":\"\\\"No, I’m fine...\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「じゃ、私達は修行に戻るね……」\",\"translatedEnglishLine\":\"\\\"Well then, we’ll get back to training...\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「ちょっと……\",\"translatedEnglishLine\":\"\\\"A little...\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　肌寒い……」\",\"translatedEnglishLine\":\"chilly...\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「お〜、じゃあ……こっちゃ来い来い……」\",\"translatedEnglishLine\":\"\\\"Oh~ then... come over here, come here...\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「ぴとっ……」\",\"translatedEnglishLine\":\"\\\"Snuggle...\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「ぎゅう……\",\"translatedEnglishLine\":\"\\\"Squeeze...\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　あったかい…………ね？」\",\"translatedEnglishLine\":\"Warm... isn’t it?\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"二人はそっと寄りそうように抱き合い、\",\"translatedEnglishLine\":\"The two gently cuddled up close,\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"互いの体温を分け合った。\",\"translatedEnglishLine\":\"sharing each other's body warmth.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「はい……\",\"translatedEnglishLine\":\"\\\"Okay...\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　じゃあ、修行スタート」\",\"translatedEnglishLine\":\"Then, let’s start the training.\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「すやぁ……」\",\"translatedEnglishLine\":\"\\\"Zzz...\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ふっ……\",\"translatedEnglishLine\":\"\\\"Hmph...\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　甘いな弟子よ……」\",\"translatedEnglishLine\":\"You're so naive, apprentice...\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「鼻提灯に雑念が混じっておる……\",\"translatedEnglishLine\":\"\\\"There are distracting thoughts in your 'nasal lantern'...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　それでは……免許皆伝は……まだ……まだ……\",\"translatedEnglishLine\":\"So... the full license... is still... not yet...\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　…………ぐう」\",\"translatedEnglishLine\":\"...snore.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「すやすや……」\",\"translatedEnglishLine\":\"\\\"Zzz...\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「ぐうぐう……」\",\"translatedEnglishLine\":\"\\\"Snore snore...\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「俺も……\",\"translatedEnglishLine\":\"\\\"I too...\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　ちょっと寝てくか……」\",\"translatedEnglishLine\":\"I'll sleep a little...\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「ふいーっ……」\",\"translatedEnglishLine\":\"\\\"Phew...\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"地面に腰掛けて目をつぶると\",\"translatedEnglishLine\":\"Sitting on the ground and closing my eyes,\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"温かな風がさわさわと優しく撫でるように吹き、\",\"translatedEnglishLine\":\"a warm breeze gently brushed against me,\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"体がぽかぽかとしてくるようだった。\",\"translatedEnglishLine\":\"making my body feel warm and cozy.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「……すやすや」\",\"translatedEnglishLine\":\"\\\"...Zzz...\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「ぐうぐう……」\",\"translatedEnglishLine\":\"\\\"Snore snore...\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「ぐがー、ぐがー」\",\"translatedEnglishLine\":\"\\\"Guga, guga\\\" (snoring sounds)\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"とても暖かな昼下がり、\",\"translatedEnglishLine\":\"On a very warm afternoon,\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"三人で仲良くお昼寝した。\",\"translatedEnglishLine\":\"the three of them took a nice nap together.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"ランス城近くに作られた\",\"translatedEnglishLine\":\"Near Rance Castle,\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"ワーグの家に客人が来ていた。\",\"translatedEnglishLine\":\"a guest had come to Warg's house.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「どうも……」\",\"translatedEnglishLine\":\"\\\"Hello...\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"セスナがのんびりと手を上げる。\",\"translatedEnglishLine\":\"Setsuna casually raised her hand.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「え、な、なんで……」\",\"translatedEnglishLine\":\"\\\"Eh, wh-why...\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「お礼、言いに来た……」\",\"translatedEnglishLine\":\"\\\"I came to thank you...\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「お礼？」\",\"translatedEnglishLine\":\"\\\"Thank me?\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「貴方のおかげで……\",\"translatedEnglishLine\":\"\\\"Thanks to you...\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　私、また眠れるようになった……から……」\",\"translatedEnglishLine\":\"I’ve been able to sleep again... so...\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「あ、ああ……\",\"translatedEnglishLine\":\"\\\"Ah, ah...\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　その辺りの事情はランスに少し聞いたわ」\",\"translatedEnglishLine\":\"I heard a bit about that situation from Rance.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「ひどい不眠症が、\",\"translatedEnglishLine\":\"\\\"Severe insomnia,\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　私のフェロモンで治ったとか……」\",\"translatedEnglishLine\":\"was cured by my pheromones... or so.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「うい……\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　ありがとう……ございました……」\",\"translatedEnglishLine\":\"Thank you very much...\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「ま……私が何かしたわけでなし……\",\"translatedEnglishLine\":\"\\\"Well... it’s not like I did anything...\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　礼なんて言わなくていいけどね……」\",\"translatedEnglishLine\":\"so you don’t have to thank me or anything...\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「そう……」\",\"translatedEnglishLine\":\"\\\"I see...\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "266364",
+                                "originalJapaneseLine": "「がーん」",
+                                "translatedEnglishLine": "\"Gah!\""
+                            },
+                            {
+                                "lineNumber": "266365",
+                                "originalJapaneseLine": "「まあ……それは仕方ない……",
+                                "translatedEnglishLine": "\"Well... it can't be helped...\""
+                            },
+                            {
+                                "lineNumber": "266366",
+                                "originalJapaneseLine": "　寝なくなるようにする訓練だから」",
+                                "translatedEnglishLine": "It's training to make you stop sleeping.\""
+                            },
+                            {
+                                "lineNumber": "266367",
+                                "originalJapaneseLine": "「これからに期待……」",
+                                "translatedEnglishLine": "\"Let's look forward to what's next...\""
+                            },
+                            {
+                                "lineNumber": "266368",
+                                "originalJapaneseLine": "「やっぱりどう見ても、",
+                                "translatedEnglishLine": "\"No matter how you look at it,"
+                            },
+                            {
+                                "lineNumber": "266369",
+                                "originalJapaneseLine": "　のどかなお昼寝タイムだ……」",
+                                "translatedEnglishLine": "it's just a peaceful nap time...\""
+                            },
+                            {
+                                "lineNumber": "266370",
+                                "originalJapaneseLine": "「隊長も……やる？」",
+                                "translatedEnglishLine": "\"Captain... want to join?\""
+                            },
+                            {
+                                "lineNumber": "266371",
+                                "originalJapaneseLine": "「いや、俺はいい……」",
+                                "translatedEnglishLine": "\"No, I’m fine...\""
+                            },
+                            {
+                                "lineNumber": "266372",
+                                "originalJapaneseLine": "「じゃ、私達は修行に戻るね……」",
+                                "translatedEnglishLine": "\"Well then, we’ll get back to training...\""
+                            },
+                            {
+                                "lineNumber": "266373",
+                                "originalJapaneseLine": "「ちょっと……",
+                                "translatedEnglishLine": "\"A little...\""
+                            },
+                            {
+                                "lineNumber": "266374",
+                                "originalJapaneseLine": "　肌寒い……」",
+                                "translatedEnglishLine": "chilly...\""
+                            },
+                            {
+                                "lineNumber": "266375",
+                                "originalJapaneseLine": "「お〜、じゃあ……こっちゃ来い来い……」",
+                                "translatedEnglishLine": "\"Oh~ then... come over here, come here...\""
+                            },
+                            {
+                                "lineNumber": "266376",
+                                "originalJapaneseLine": "「ぴとっ……」",
+                                "translatedEnglishLine": "\"Snuggle...\""
+                            },
+                            {
+                                "lineNumber": "266377",
+                                "originalJapaneseLine": "「ぎゅう……",
+                                "translatedEnglishLine": "\"Squeeze...\""
+                            },
+                            {
+                                "lineNumber": "266378",
+                                "originalJapaneseLine": "　あったかい…………ね？」",
+                                "translatedEnglishLine": "Warm... isn’t it?\""
+                            },
+                            {
+                                "lineNumber": "266379",
+                                "originalJapaneseLine": "二人はそっと寄りそうように抱き合い、",
+                                "translatedEnglishLine": "The two gently cuddled up close,"
+                            },
+                            {
+                                "lineNumber": "266380",
+                                "originalJapaneseLine": "互いの体温を分け合った。",
+                                "translatedEnglishLine": "sharing each other's body warmth."
+                            },
+                            {
+                                "lineNumber": "266381",
+                                "originalJapaneseLine": "「はい……",
+                                "translatedEnglishLine": "\"Okay...\""
+                            },
+                            {
+                                "lineNumber": "266382",
+                                "originalJapaneseLine": "　じゃあ、修行スタート」",
+                                "translatedEnglishLine": "Then, let’s start the training.\""
+                            },
+                            {
+                                "lineNumber": "266383",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "266384",
+                                "originalJapaneseLine": "「すやぁ……」",
+                                "translatedEnglishLine": "\"Zzz...\""
+                            },
+                            {
+                                "lineNumber": "266385",
+                                "originalJapaneseLine": "「ふっ……",
+                                "translatedEnglishLine": "\"Hmph...\""
+                            },
+                            {
+                                "lineNumber": "266386",
+                                "originalJapaneseLine": "　甘いな弟子よ……」",
+                                "translatedEnglishLine": "You're so naive, apprentice...\""
+                            },
+                            {
+                                "lineNumber": "266387",
+                                "originalJapaneseLine": "「鼻提灯に雑念が混じっておる……",
+                                "translatedEnglishLine": "\"There are distracting thoughts in your 'nasal lantern'...\""
+                            },
+                            {
+                                "lineNumber": "266388",
+                                "originalJapaneseLine": "　それでは……免許皆伝は……まだ……まだ……",
+                                "translatedEnglishLine": "So... the full license... is still... not yet..."
+                            },
+                            {
+                                "lineNumber": "266389",
+                                "originalJapaneseLine": "　…………ぐう」",
+                                "translatedEnglishLine": "...snore.\""
+                            },
+                            {
+                                "lineNumber": "266390",
+                                "originalJapaneseLine": "「すやすや……」",
+                                "translatedEnglishLine": "\"Zzz...\""
+                            },
+                            {
+                                "lineNumber": "266391",
+                                "originalJapaneseLine": "「ぐうぐう……」",
+                                "translatedEnglishLine": "\"Snore snore...\""
+                            },
+                            {
+                                "lineNumber": "266392",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "266393",
+                                "originalJapaneseLine": "「俺も……",
+                                "translatedEnglishLine": "\"I too..."
+                            },
+                            {
+                                "lineNumber": "266394",
+                                "originalJapaneseLine": "　ちょっと寝てくか……」",
+                                "translatedEnglishLine": "I'll sleep a little...\""
+                            },
+                            {
+                                "lineNumber": "266395",
+                                "originalJapaneseLine": "「ふいーっ……」",
+                                "translatedEnglishLine": "\"Phew...\""
+                            },
+                            {
+                                "lineNumber": "266396",
+                                "originalJapaneseLine": "地面に腰掛けて目をつぶると",
+                                "translatedEnglishLine": "Sitting on the ground and closing my eyes,"
+                            },
+                            {
+                                "lineNumber": "266397",
+                                "originalJapaneseLine": "温かな風がさわさわと優しく撫でるように吹き、",
+                                "translatedEnglishLine": "a warm breeze gently brushed against me,"
+                            },
+                            {
+                                "lineNumber": "266398",
+                                "originalJapaneseLine": "体がぽかぽかとしてくるようだった。",
+                                "translatedEnglishLine": "making my body feel warm and cozy."
+                            },
+                            {
+                                "lineNumber": "266399",
+                                "originalJapaneseLine": "「……すやすや」",
+                                "translatedEnglishLine": "\"...Zzz...\""
+                            },
+                            {
+                                "lineNumber": "266400",
+                                "originalJapaneseLine": "「ぐうぐう……」",
+                                "translatedEnglishLine": "\"Snore snore...\""
+                            },
+                            {
+                                "lineNumber": "266401",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "266402",
+                                "originalJapaneseLine": "「ぐがー、ぐがー」",
+                                "translatedEnglishLine": "\"Guga, guga\" (snoring sounds)"
+                            },
+                            {
+                                "lineNumber": "266403",
+                                "originalJapaneseLine": "とても暖かな昼下がり、",
+                                "translatedEnglishLine": "On a very warm afternoon,"
+                            },
+                            {
+                                "lineNumber": "266404",
+                                "originalJapaneseLine": "三人で仲良くお昼寝した。",
+                                "translatedEnglishLine": "the three of them took a nice nap together."
+                            },
+                            {
+                                "lineNumber": "266405",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "266406",
+                                "originalJapaneseLine": "ランス城近くに作られた",
+                                "translatedEnglishLine": "Near Rance Castle,"
+                            },
+                            {
+                                "lineNumber": "266407",
+                                "originalJapaneseLine": "ワーグの家に客人が来ていた。",
+                                "translatedEnglishLine": "a guest had come to Warg's house."
+                            },
+                            {
+                                "lineNumber": "266408",
+                                "originalJapaneseLine": "「どうも……」",
+                                "translatedEnglishLine": "\"Hello...\""
+                            },
+                            {
+                                "lineNumber": "266409",
+                                "originalJapaneseLine": "セスナがのんびりと手を上げる。",
+                                "translatedEnglishLine": "Setsuna casually raised her hand."
+                            },
+                            {
+                                "lineNumber": "266410",
+                                "originalJapaneseLine": "「え、な、なんで……」",
+                                "translatedEnglishLine": "\"Eh, wh-why...\""
+                            },
+                            {
+                                "lineNumber": "266411",
+                                "originalJapaneseLine": "「お礼、言いに来た……」",
+                                "translatedEnglishLine": "\"I came to thank you...\""
+                            },
+                            {
+                                "lineNumber": "266412",
+                                "originalJapaneseLine": "「お礼？」",
+                                "translatedEnglishLine": "\"Thank me?\""
+                            },
+                            {
+                                "lineNumber": "266413",
+                                "originalJapaneseLine": "「貴方のおかげで……",
+                                "translatedEnglishLine": "\"Thanks to you..."
+                            },
+                            {
+                                "lineNumber": "266414",
+                                "originalJapaneseLine": "　私、また眠れるようになった……から……」",
+                                "translatedEnglishLine": "I’ve been able to sleep again... so...\""
+                            },
+                            {
+                                "lineNumber": "266415",
+                                "originalJapaneseLine": "「あ、ああ……",
+                                "translatedEnglishLine": "\"Ah, ah...\""
+                            },
+                            {
+                                "lineNumber": "266416",
+                                "originalJapaneseLine": "　その辺りの事情はランスに少し聞いたわ」",
+                                "translatedEnglishLine": "I heard a bit about that situation from Rance."
+                            },
+                            {
+                                "lineNumber": "266417",
+                                "originalJapaneseLine": "「ひどい不眠症が、",
+                                "translatedEnglishLine": "\"Severe insomnia,"
+                            },
+                            {
+                                "lineNumber": "266418",
+                                "originalJapaneseLine": "　私のフェロモンで治ったとか……」",
+                                "translatedEnglishLine": "was cured by my pheromones... or so.\""
+                            },
+                            {
+                                "lineNumber": "266419",
+                                "originalJapaneseLine": "「うい……",
+                                "translatedEnglishLine": "\"Ugh...\""
+                            },
+                            {
+                                "lineNumber": "266420",
+                                "originalJapaneseLine": "　ありがとう……ございました……」",
+                                "translatedEnglishLine": "Thank you very much...\""
+                            },
+                            {
+                                "lineNumber": "266421",
+                                "originalJapaneseLine": "「ま……私が何かしたわけでなし……",
+                                "translatedEnglishLine": "\"Well... it’s not like I did anything..."
+                            },
+                            {
+                                "lineNumber": "266422",
+                                "originalJapaneseLine": "　礼なんて言わなくていいけどね……」",
+                                "translatedEnglishLine": "so you don’t have to thank me or anything...\""
+                            },
+                            {
+                                "lineNumber": "266423",
+                                "originalJapaneseLine": "「そう……」",
+                                "translatedEnglishLine": "\"I see...\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1659,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1866,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3525
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「がーん」\",\"translatedEnglishLine\":\"\\\"Gah!\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「まあ……それは仕方ない……\",\"translatedEnglishLine\":\"\\\"Well... it can't be helped...\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　寝なくなるようにする訓練だから」\",\"translatedEnglishLine\":\"It's training to make you stop sleeping.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「これからに期待……」\",\"translatedEnglishLine\":\"\\\"Let's look forward to what's next...\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「やっぱりどう見ても、\",\"translatedEnglishLine\":\"\\\"No matter how you look at it,\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　のどかなお昼寝タイムだ……」\",\"translatedEnglishLine\":\"it's just a peaceful nap time...\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「隊長も……やる？」\",\"translatedEnglishLine\":\"\\\"Captain... want to join?\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「いや、俺はいい……」\",\"translatedEnglishLine\":\"\\\"No, I’m fine...\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「じゃ、私達は修行に戻るね……」\",\"translatedEnglishLine\":\"\\\"Well then, we’ll get back to training...\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「ちょっと……\",\"translatedEnglishLine\":\"\\\"A little...\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　肌寒い……」\",\"translatedEnglishLine\":\"chilly...\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「お〜、じゃあ……こっちゃ来い来い……」\",\"translatedEnglishLine\":\"\\\"Oh~ then... come over here, come here...\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「ぴとっ……」\",\"translatedEnglishLine\":\"\\\"Snuggle...\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「ぎゅう……\",\"translatedEnglishLine\":\"\\\"Squeeze...\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　あったかい…………ね？」\",\"translatedEnglishLine\":\"Warm... isn’t it?\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"二人はそっと寄りそうように抱き合い、\",\"translatedEnglishLine\":\"The two gently cuddled up close,\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"互いの体温を分け合った。\",\"translatedEnglishLine\":\"sharing each other's body warmth.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「はい……\",\"translatedEnglishLine\":\"\\\"Okay...\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　じゃあ、修行スタート」\",\"translatedEnglishLine\":\"Then, let’s start the training.\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「すやぁ……」\",\"translatedEnglishLine\":\"\\\"Zzz...\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ふっ……\",\"translatedEnglishLine\":\"\\\"Hmph...\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　甘いな弟子よ……」\",\"translatedEnglishLine\":\"You're so naive, apprentice...\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「鼻提灯に雑念が混じっておる……\",\"translatedEnglishLine\":\"\\\"There are distracting thoughts in your 'nasal lantern'...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　それでは……免許皆伝は……まだ……まだ……\",\"translatedEnglishLine\":\"So... the full license... is still... not yet...\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　…………ぐう」\",\"translatedEnglishLine\":\"...snore.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「すやすや……」\",\"translatedEnglishLine\":\"\\\"Zzz...\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「ぐうぐう……」\",\"translatedEnglishLine\":\"\\\"Snore snore...\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「俺も……\",\"translatedEnglishLine\":\"\\\"I too...\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　ちょっと寝てくか……」\",\"translatedEnglishLine\":\"I'll sleep a little...\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「ふいーっ……」\",\"translatedEnglishLine\":\"\\\"Phew...\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"地面に腰掛けて目をつぶると\",\"translatedEnglishLine\":\"Sitting on the ground and closing my eyes,\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"温かな風がさわさわと優しく撫でるように吹き、\",\"translatedEnglishLine\":\"a warm breeze gently brushed against me,\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"体がぽかぽかとしてくるようだった。\",\"translatedEnglishLine\":\"making my body feel warm and cozy.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「……すやすや」\",\"translatedEnglishLine\":\"\\\"...Zzz...\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「ぐうぐう……」\",\"translatedEnglishLine\":\"\\\"Snore snore...\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「ぐがー、ぐがー」\",\"translatedEnglishLine\":\"\\\"Guga, guga\\\" (snoring sounds)\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"とても暖かな昼下がり、\",\"translatedEnglishLine\":\"On a very warm afternoon,\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"三人で仲良くお昼寝した。\",\"translatedEnglishLine\":\"the three of them took a nice nap together.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"ランス城近くに作られた\",\"translatedEnglishLine\":\"Near Rance Castle,\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"ワーグの家に客人が来ていた。\",\"translatedEnglishLine\":\"a guest had come to Warg's house.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「どうも……」\",\"translatedEnglishLine\":\"\\\"Hello...\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"セスナがのんびりと手を上げる。\",\"translatedEnglishLine\":\"Setsuna casually raised her hand.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「え、な、なんで……」\",\"translatedEnglishLine\":\"\\\"Eh, wh-why...\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「お礼、言いに来た……」\",\"translatedEnglishLine\":\"\\\"I came to thank you...\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「お礼？」\",\"translatedEnglishLine\":\"\\\"Thank me?\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「貴方のおかげで……\",\"translatedEnglishLine\":\"\\\"Thanks to you...\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　私、また眠れるようになった……から……」\",\"translatedEnglishLine\":\"I’ve been able to sleep again... so...\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「あ、ああ……\",\"translatedEnglishLine\":\"\\\"Ah, ah...\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　その辺りの事情はランスに少し聞いたわ」\",\"translatedEnglishLine\":\"I heard a bit about that situation from Rance.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「ひどい不眠症が、\",\"translatedEnglishLine\":\"\\\"Severe insomnia,\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　私のフェロモンで治ったとか……」\",\"translatedEnglishLine\":\"was cured by my pheromones... or so.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「うい……\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　ありがとう……ございました……」\",\"translatedEnglishLine\":\"Thank you very much...\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「ま……私が何かしたわけでなし……\",\"translatedEnglishLine\":\"\\\"Well... it’s not like I did anything...\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　礼なんて言わなくていいけどね……」\",\"translatedEnglishLine\":\"so you don’t have to thank me or anything...\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「そう……」\",\"translatedEnglishLine\":\"\\\"I see...\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "266364",
+                "originalJapaneseLine": "「がーん」",
+                "translatedEnglishLine": "\"Gah!\""
+            },
+            {
+                "lineNumber": "266365",
+                "originalJapaneseLine": "「まあ……それは仕方ない……",
+                "translatedEnglishLine": "\"Well... it can't be helped...\""
+            },
+            {
+                "lineNumber": "266366",
+                "originalJapaneseLine": "　寝なくなるようにする訓練だから」",
+                "translatedEnglishLine": "It's training to make you stop sleeping.\""
+            },
+            {
+                "lineNumber": "266367",
+                "originalJapaneseLine": "「これからに期待……」",
+                "translatedEnglishLine": "\"Let's look forward to what's next...\""
+            },
+            {
+                "lineNumber": "266368",
+                "originalJapaneseLine": "「やっぱりどう見ても、",
+                "translatedEnglishLine": "\"No matter how you look at it,"
+            },
+            {
+                "lineNumber": "266369",
+                "originalJapaneseLine": "　のどかなお昼寝タイムだ……」",
+                "translatedEnglishLine": "it's just a peaceful nap time...\""
+            },
+            {
+                "lineNumber": "266370",
+                "originalJapaneseLine": "「隊長も……やる？」",
+                "translatedEnglishLine": "\"Captain... want to join?\""
+            },
+            {
+                "lineNumber": "266371",
+                "originalJapaneseLine": "「いや、俺はいい……」",
+                "translatedEnglishLine": "\"No, I’m fine...\""
+            },
+            {
+                "lineNumber": "266372",
+                "originalJapaneseLine": "「じゃ、私達は修行に戻るね……」",
+                "translatedEnglishLine": "\"Well then, we’ll get back to training...\""
+            },
+            {
+                "lineNumber": "266373",
+                "originalJapaneseLine": "「ちょっと……",
+                "translatedEnglishLine": "\"A little...\""
+            },
+            {
+                "lineNumber": "266374",
+                "originalJapaneseLine": "　肌寒い……」",
+                "translatedEnglishLine": "chilly...\""
+            },
+            {
+                "lineNumber": "266375",
+                "originalJapaneseLine": "「お〜、じゃあ……こっちゃ来い来い……」",
+                "translatedEnglishLine": "\"Oh~ then... come over here, come here...\""
+            },
+            {
+                "lineNumber": "266376",
+                "originalJapaneseLine": "「ぴとっ……」",
+                "translatedEnglishLine": "\"Snuggle...\""
+            },
+            {
+                "lineNumber": "266377",
+                "originalJapaneseLine": "「ぎゅう……",
+                "translatedEnglishLine": "\"Squeeze...\""
+            },
+            {
+                "lineNumber": "266378",
+                "originalJapaneseLine": "　あったかい…………ね？」",
+                "translatedEnglishLine": "Warm... isn’t it?\""
+            },
+            {
+                "lineNumber": "266379",
+                "originalJapaneseLine": "二人はそっと寄りそうように抱き合い、",
+                "translatedEnglishLine": "The two gently cuddled up close,"
+            },
+            {
+                "lineNumber": "266380",
+                "originalJapaneseLine": "互いの体温を分け合った。",
+                "translatedEnglishLine": "sharing each other's body warmth."
+            },
+            {
+                "lineNumber": "266381",
+                "originalJapaneseLine": "「はい……",
+                "translatedEnglishLine": "\"Okay...\""
+            },
+            {
+                "lineNumber": "266382",
+                "originalJapaneseLine": "　じゃあ、修行スタート」",
+                "translatedEnglishLine": "Then, let’s start the training.\""
+            },
+            {
+                "lineNumber": "266383",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "266384",
+                "originalJapaneseLine": "「すやぁ……」",
+                "translatedEnglishLine": "\"Zzz...\""
+            },
+            {
+                "lineNumber": "266385",
+                "originalJapaneseLine": "「ふっ……",
+                "translatedEnglishLine": "\"Hmph...\""
+            },
+            {
+                "lineNumber": "266386",
+                "originalJapaneseLine": "　甘いな弟子よ……」",
+                "translatedEnglishLine": "You're so naive, apprentice...\""
+            },
+            {
+                "lineNumber": "266387",
+                "originalJapaneseLine": "「鼻提灯に雑念が混じっておる……",
+                "translatedEnglishLine": "\"There are distracting thoughts in your 'nasal lantern'...\""
+            },
+            {
+                "lineNumber": "266388",
+                "originalJapaneseLine": "　それでは……免許皆伝は……まだ……まだ……",
+                "translatedEnglishLine": "So... the full license... is still... not yet..."
+            },
+            {
+                "lineNumber": "266389",
+                "originalJapaneseLine": "　…………ぐう」",
+                "translatedEnglishLine": "...snore.\""
+            },
+            {
+                "lineNumber": "266390",
+                "originalJapaneseLine": "「すやすや……」",
+                "translatedEnglishLine": "\"Zzz...\""
+            },
+            {
+                "lineNumber": "266391",
+                "originalJapaneseLine": "「ぐうぐう……」",
+                "translatedEnglishLine": "\"Snore snore...\""
+            },
+            {
+                "lineNumber": "266392",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "266393",
+                "originalJapaneseLine": "「俺も……",
+                "translatedEnglishLine": "\"I too..."
+            },
+            {
+                "lineNumber": "266394",
+                "originalJapaneseLine": "　ちょっと寝てくか……」",
+                "translatedEnglishLine": "I'll sleep a little...\""
+            },
+            {
+                "lineNumber": "266395",
+                "originalJapaneseLine": "「ふいーっ……」",
+                "translatedEnglishLine": "\"Phew...\""
+            },
+            {
+                "lineNumber": "266396",
+                "originalJapaneseLine": "地面に腰掛けて目をつぶると",
+                "translatedEnglishLine": "Sitting on the ground and closing my eyes,"
+            },
+            {
+                "lineNumber": "266397",
+                "originalJapaneseLine": "温かな風がさわさわと優しく撫でるように吹き、",
+                "translatedEnglishLine": "a warm breeze gently brushed against me,"
+            },
+            {
+                "lineNumber": "266398",
+                "originalJapaneseLine": "体がぽかぽかとしてくるようだった。",
+                "translatedEnglishLine": "making my body feel warm and cozy."
+            },
+            {
+                "lineNumber": "266399",
+                "originalJapaneseLine": "「……すやすや」",
+                "translatedEnglishLine": "\"...Zzz...\""
+            },
+            {
+                "lineNumber": "266400",
+                "originalJapaneseLine": "「ぐうぐう……」",
+                "translatedEnglishLine": "\"Snore snore...\""
+            },
+            {
+                "lineNumber": "266401",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "266402",
+                "originalJapaneseLine": "「ぐがー、ぐがー」",
+                "translatedEnglishLine": "\"Guga, guga\" (snoring sounds)"
+            },
+            {
+                "lineNumber": "266403",
+                "originalJapaneseLine": "とても暖かな昼下がり、",
+                "translatedEnglishLine": "On a very warm afternoon,"
+            },
+            {
+                "lineNumber": "266404",
+                "originalJapaneseLine": "三人で仲良くお昼寝した。",
+                "translatedEnglishLine": "the three of them took a nice nap together."
+            },
+            {
+                "lineNumber": "266405",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "266406",
+                "originalJapaneseLine": "ランス城近くに作られた",
+                "translatedEnglishLine": "Near Rance Castle,"
+            },
+            {
+                "lineNumber": "266407",
+                "originalJapaneseLine": "ワーグの家に客人が来ていた。",
+                "translatedEnglishLine": "a guest had come to Warg's house."
+            },
+            {
+                "lineNumber": "266408",
+                "originalJapaneseLine": "「どうも……」",
+                "translatedEnglishLine": "\"Hello...\""
+            },
+            {
+                "lineNumber": "266409",
+                "originalJapaneseLine": "セスナがのんびりと手を上げる。",
+                "translatedEnglishLine": "Setsuna casually raised her hand."
+            },
+            {
+                "lineNumber": "266410",
+                "originalJapaneseLine": "「え、な、なんで……」",
+                "translatedEnglishLine": "\"Eh, wh-why...\""
+            },
+            {
+                "lineNumber": "266411",
+                "originalJapaneseLine": "「お礼、言いに来た……」",
+                "translatedEnglishLine": "\"I came to thank you...\""
+            },
+            {
+                "lineNumber": "266412",
+                "originalJapaneseLine": "「お礼？」",
+                "translatedEnglishLine": "\"Thank me?\""
+            },
+            {
+                "lineNumber": "266413",
+                "originalJapaneseLine": "「貴方のおかげで……",
+                "translatedEnglishLine": "\"Thanks to you..."
+            },
+            {
+                "lineNumber": "266414",
+                "originalJapaneseLine": "　私、また眠れるようになった……から……」",
+                "translatedEnglishLine": "I’ve been able to sleep again... so...\""
+            },
+            {
+                "lineNumber": "266415",
+                "originalJapaneseLine": "「あ、ああ……",
+                "translatedEnglishLine": "\"Ah, ah...\""
+            },
+            {
+                "lineNumber": "266416",
+                "originalJapaneseLine": "　その辺りの事情はランスに少し聞いたわ」",
+                "translatedEnglishLine": "I heard a bit about that situation from Rance."
+            },
+            {
+                "lineNumber": "266417",
+                "originalJapaneseLine": "「ひどい不眠症が、",
+                "translatedEnglishLine": "\"Severe insomnia,"
+            },
+            {
+                "lineNumber": "266418",
+                "originalJapaneseLine": "　私のフェロモンで治ったとか……」",
+                "translatedEnglishLine": "was cured by my pheromones... or so.\""
+            },
+            {
+                "lineNumber": "266419",
+                "originalJapaneseLine": "「うい……",
+                "translatedEnglishLine": "\"Ugh...\""
+            },
+            {
+                "lineNumber": "266420",
+                "originalJapaneseLine": "　ありがとう……ございました……」",
+                "translatedEnglishLine": "Thank you very much...\""
+            },
+            {
+                "lineNumber": "266421",
+                "originalJapaneseLine": "「ま……私が何かしたわけでなし……",
+                "translatedEnglishLine": "\"Well... it’s not like I did anything..."
+            },
+            {
+                "lineNumber": "266422",
+                "originalJapaneseLine": "　礼なんて言わなくていいけどね……」",
+                "translatedEnglishLine": "so you don’t have to thank me or anything...\""
+            },
+            {
+                "lineNumber": "266423",
+                "originalJapaneseLine": "「そう……」",
+                "translatedEnglishLine": "\"I see...\""
+            }
+        ]
+    }
+}

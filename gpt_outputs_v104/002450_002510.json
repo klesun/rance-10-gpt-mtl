@@ -1,0 +1,719 @@
+{
+    "id": "resp_0e011e004a4f805a0068ffea0e91e881908c7d20ebdb59e1a4",
+    "object": "response",
+    "created_at": 1761602062,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0e011e004a4f805a0068ffea0f45f88190b48f86602beef7cc",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「じゃーにー、プリマー。\",\"translatedEnglishLine\":\"\\\"Journey, Prima.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　今夜も可愛がってあげるから、覚悟しててねー」\",\"translatedEnglishLine\":\"I'll be doting on you again tonight, so be prepared.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「にゃははは☆」\",\"translatedEnglishLine\":\"\\\"Nyahaha☆\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「あ、あっ……」\",\"translatedEnglishLine\":\"\\\"Ah, ah...\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「そんなぁぁぁぁ……」\",\"translatedEnglishLine\":\"\\\"Nooooo...\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"プリマはその場にへなへなと崩れ落ちた。\",\"translatedEnglishLine\":\"Prima collapsed weakly right there.\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「この二人はまるでアレだな……」\",\"translatedEnglishLine\":\"\\\"These two are just like those, huh...\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「いや、やめておこう。\",\"translatedEnglishLine\":\"\\\"No, better not say it.\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　プリマが哀れすぎる」\",\"translatedEnglishLine\":\"Prima is too pitiful.\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「DV旦那とその妻みたいだね」\",\"translatedEnglishLine\":\"\\\"Like a domestic violence husband and his wife.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「なあ！？」\",\"translatedEnglishLine\":\"\\\"Hey!?\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「俺ですら言わんかったことを……」\",\"translatedEnglishLine\":\"\\\"Even I didn't say that...\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「……ぐう」\",\"translatedEnglishLine\":\"\\\"...Grr\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「寝て誤魔化すな」\",\"translatedEnglishLine\":\"\\\"Don't pretend by sleeping.\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「う、うぐぐぐぐぐ……」\",\"translatedEnglishLine\":\"\\\"U-ugugugugu...\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「あ、明日こそ、絶縁状を叩きつけるーー！」\",\"translatedEnglishLine\":\"\\\"Tomorrow for sure, I'll slam down a letter of severance!\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「明日かあ……」\",\"translatedEnglishLine\":\"\\\"Tomorrow, huh...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「こりゃもうしばらくは腐れ縁が続くな……」\",\"translatedEnglishLine\":\"\\\"Looks like this toxic bond will continue for a while...\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「……もう一回言ってくれる？」\",\"translatedEnglishLine\":\"\\\"...Could you say that once more?\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「おう、何度でも言ってやる」\",\"translatedEnglishLine\":\"\\\"Sure, I'll say it as many times as you want.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「俺様はとっても偉い総統閣下。\",\"translatedEnglishLine\":\"\\\"I am the very great Supreme Commander.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　君はそんな俺の部下。\",\"translatedEnglishLine\":\"You are my subordinate.\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　だから抱かせろ」\",\"translatedEnglishLine\":\"So let me hold you.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「やだ」\",\"translatedEnglishLine\":\"\\\"No.\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「たった一言で断るんじゃない！」\",\"translatedEnglishLine\":\"\\\"Don't refuse me with just one word!\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「大体、お前は俺に恩がある筈だぞ。\",\"translatedEnglishLine\":\"\\\"Anyway, you should owe me.\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　ほれ、なんか望みを叶えて……」\",\"translatedEnglishLine\":\"Here, I'll grant you some wishes...\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「えーと、なんかした筈……\",\"translatedEnglishLine\":\"\\\"Umm, I think you did something...\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　なんだっけ」\",\"translatedEnglishLine\":\"What was it again?\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「とにかく、そのお礼として\",\"translatedEnglishLine\":\"Anyway, as thanks for that,\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　あの頃は何度も俺に抱かれたではないか！」\",\"translatedEnglishLine\":\"you were embraced by me many times back then!\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「そうだよ。\",\"translatedEnglishLine\":\"\\\"That's right.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　だからもういいだろ？」\",\"translatedEnglishLine\":\"So it should be enough now, right?\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「ぐっ……\",\"translatedEnglishLine\":\"\\\"Ugh...\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　ああ言えば、こう言う……」\",\"translatedEnglishLine\":\"You say this whenever I say that...\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「とにかく今日は出てってくれ。\",\"translatedEnglishLine\":\"Anyway, please leave today.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　風邪気味で辛いから、\",\"translatedEnglishLine\":\"I'm feeling a little sick with a cold,\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　とっとと早寝するつもりなんだ」\",\"translatedEnglishLine\":\"so I plan to go to bed early.\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「風邪？\",\"translatedEnglishLine\":\"\\\"A cold?\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　そうなのか？」\",\"translatedEnglishLine\":\"Is that so?\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「ん、ああ……\",\"translatedEnglishLine\":\"\\\"Mm, yes...\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　妙に体は熱いし、息切れして……\",\"translatedEnglishLine\":\"My body is strangely hot, and I'm out of breath...\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　…………はあ」\",\"translatedEnglishLine\":\"...Haa\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「いや、それは風邪ではない。\",\"translatedEnglishLine\":\"\\\"No, that's not a cold.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　俺には分かる」\",\"translatedEnglishLine\":\"I can tell.\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「はあ？\",\"translatedEnglishLine\":\"\\\"Huh?\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　医者でもない癖に？」\",\"translatedEnglishLine\":\"Since you're not even a doctor?\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「うむ、分かるのだ。\",\"translatedEnglishLine\":\"\\\"Yes, I know.\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　何故なら、それは――」\",\"translatedEnglishLine\":\"Because that is—\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「俺が君に一服盛ったからなのだー！」\",\"translatedEnglishLine\":\"Because I spiked your drink!\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「はああああ！？」\",\"translatedEnglishLine\":\"\\\"Whaaaaat!?\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「あっ……」\",\"translatedEnglishLine\":\"\\\"Ah...\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"カクン、と――\",\"translatedEnglishLine\":\"With a sudden collapse—\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"足から力が抜けて、プリマが崩れ落ちかける。\",\"translatedEnglishLine\":\"Strength drained from her legs, and Prima almost collapsed.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「は、あっ……あっ……\",\"translatedEnglishLine\":\"\\\"Ha, ah... ah...\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　な、なんだか、体、があ……」\",\"translatedEnglishLine\":\"S-Something's happening to my body...\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「おーおーおー、\",\"translatedEnglishLine\":\"\\\"Oh, oh, oh,\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "267084",
+                                "originalJapaneseLine": "「じゃーにー、プリマー。",
+                                "translatedEnglishLine": "\"Journey, Prima."
+                            },
+                            {
+                                "lineNumber": "267085",
+                                "originalJapaneseLine": "　今夜も可愛がってあげるから、覚悟しててねー」",
+                                "translatedEnglishLine": "I'll be doting on you again tonight, so be prepared.\""
+                            },
+                            {
+                                "lineNumber": "267086",
+                                "originalJapaneseLine": "「にゃははは☆」",
+                                "translatedEnglishLine": "\"Nyahaha☆\""
+                            },
+                            {
+                                "lineNumber": "267087",
+                                "originalJapaneseLine": "「あ、あっ……」",
+                                "translatedEnglishLine": "\"Ah, ah...\""
+                            },
+                            {
+                                "lineNumber": "267088",
+                                "originalJapaneseLine": "「そんなぁぁぁぁ……」",
+                                "translatedEnglishLine": "\"Nooooo...\""
+                            },
+                            {
+                                "lineNumber": "267089",
+                                "originalJapaneseLine": "プリマはその場にへなへなと崩れ落ちた。",
+                                "translatedEnglishLine": "Prima collapsed weakly right there."
+                            },
+                            {
+                                "lineNumber": "267090",
+                                "originalJapaneseLine": "「この二人はまるでアレだな……」",
+                                "translatedEnglishLine": "\"These two are just like those, huh...\""
+                            },
+                            {
+                                "lineNumber": "267091",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "267092",
+                                "originalJapaneseLine": "「いや、やめておこう。",
+                                "translatedEnglishLine": "\"No, better not say it."
+                            },
+                            {
+                                "lineNumber": "267093",
+                                "originalJapaneseLine": "　プリマが哀れすぎる」",
+                                "translatedEnglishLine": "Prima is too pitiful.\""
+                            },
+                            {
+                                "lineNumber": "267094",
+                                "originalJapaneseLine": "「DV旦那とその妻みたいだね」",
+                                "translatedEnglishLine": "\"Like a domestic violence husband and his wife.\""
+                            },
+                            {
+                                "lineNumber": "267095",
+                                "originalJapaneseLine": "「なあ！？」",
+                                "translatedEnglishLine": "\"Hey!?\""
+                            },
+                            {
+                                "lineNumber": "267096",
+                                "originalJapaneseLine": "「俺ですら言わんかったことを……」",
+                                "translatedEnglishLine": "\"Even I didn't say that...\""
+                            },
+                            {
+                                "lineNumber": "267097",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "267098",
+                                "originalJapaneseLine": "「……ぐう」",
+                                "translatedEnglishLine": "\"...Grr\""
+                            },
+                            {
+                                "lineNumber": "267099",
+                                "originalJapaneseLine": "「寝て誤魔化すな」",
+                                "translatedEnglishLine": "\"Don't pretend by sleeping.\""
+                            },
+                            {
+                                "lineNumber": "267100",
+                                "originalJapaneseLine": "「う、うぐぐぐぐぐ……」",
+                                "translatedEnglishLine": "\"U-ugugugugu...\""
+                            },
+                            {
+                                "lineNumber": "267101",
+                                "originalJapaneseLine": "「あ、明日こそ、絶縁状を叩きつけるーー！」",
+                                "translatedEnglishLine": "\"Tomorrow for sure, I'll slam down a letter of severance!\""
+                            },
+                            {
+                                "lineNumber": "267102",
+                                "originalJapaneseLine": "「明日かあ……」",
+                                "translatedEnglishLine": "\"Tomorrow, huh...\""
+                            },
+                            {
+                                "lineNumber": "267103",
+                                "originalJapaneseLine": "「こりゃもうしばらくは腐れ縁が続くな……」",
+                                "translatedEnglishLine": "\"Looks like this toxic bond will continue for a while...\""
+                            },
+                            {
+                                "lineNumber": "267104",
+                                "originalJapaneseLine": "「……もう一回言ってくれる？」",
+                                "translatedEnglishLine": "\"...Could you say that once more?\""
+                            },
+                            {
+                                "lineNumber": "267105",
+                                "originalJapaneseLine": "「おう、何度でも言ってやる」",
+                                "translatedEnglishLine": "\"Sure, I'll say it as many times as you want.\""
+                            },
+                            {
+                                "lineNumber": "267106",
+                                "originalJapaneseLine": "「俺様はとっても偉い総統閣下。",
+                                "translatedEnglishLine": "\"I am the very great Supreme Commander."
+                            },
+                            {
+                                "lineNumber": "267107",
+                                "originalJapaneseLine": "　君はそんな俺の部下。",
+                                "translatedEnglishLine": "You are my subordinate."
+                            },
+                            {
+                                "lineNumber": "267108",
+                                "originalJapaneseLine": "　だから抱かせろ」",
+                                "translatedEnglishLine": "So let me hold you.\""
+                            },
+                            {
+                                "lineNumber": "267109",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "267110",
+                                "originalJapaneseLine": "「やだ」",
+                                "translatedEnglishLine": "\"No.\""
+                            },
+                            {
+                                "lineNumber": "267111",
+                                "originalJapaneseLine": "「たった一言で断るんじゃない！」",
+                                "translatedEnglishLine": "\"Don't refuse me with just one word!\""
+                            },
+                            {
+                                "lineNumber": "267112",
+                                "originalJapaneseLine": "「大体、お前は俺に恩がある筈だぞ。",
+                                "translatedEnglishLine": "\"Anyway, you should owe me."
+                            },
+                            {
+                                "lineNumber": "267113",
+                                "originalJapaneseLine": "　ほれ、なんか望みを叶えて……」",
+                                "translatedEnglishLine": "Here, I'll grant you some wishes...\""
+                            },
+                            {
+                                "lineNumber": "267114",
+                                "originalJapaneseLine": "「えーと、なんかした筈……",
+                                "translatedEnglishLine": "\"Umm, I think you did something..."
+                            },
+                            {
+                                "lineNumber": "267115",
+                                "originalJapaneseLine": "　なんだっけ」",
+                                "translatedEnglishLine": "What was it again?"
+                            },
+                            {
+                                "lineNumber": "267116",
+                                "originalJapaneseLine": "「とにかく、そのお礼として",
+                                "translatedEnglishLine": "Anyway, as thanks for that,"
+                            },
+                            {
+                                "lineNumber": "267117",
+                                "originalJapaneseLine": "　あの頃は何度も俺に抱かれたではないか！」",
+                                "translatedEnglishLine": "you were embraced by me many times back then!\""
+                            },
+                            {
+                                "lineNumber": "267118",
+                                "originalJapaneseLine": "「そうだよ。",
+                                "translatedEnglishLine": "\"That's right."
+                            },
+                            {
+                                "lineNumber": "267119",
+                                "originalJapaneseLine": "　だからもういいだろ？」",
+                                "translatedEnglishLine": "So it should be enough now, right?\""
+                            },
+                            {
+                                "lineNumber": "267120",
+                                "originalJapaneseLine": "「ぐっ……",
+                                "translatedEnglishLine": "\"Ugh..."
+                            },
+                            {
+                                "lineNumber": "267121",
+                                "originalJapaneseLine": "　ああ言えば、こう言う……」",
+                                "translatedEnglishLine": "You say this whenever I say that...\""
+                            },
+                            {
+                                "lineNumber": "267122",
+                                "originalJapaneseLine": "「とにかく今日は出てってくれ。",
+                                "translatedEnglishLine": "Anyway, please leave today."
+                            },
+                            {
+                                "lineNumber": "267123",
+                                "originalJapaneseLine": "　風邪気味で辛いから、",
+                                "translatedEnglishLine": "I'm feeling a little sick with a cold,"
+                            },
+                            {
+                                "lineNumber": "267124",
+                                "originalJapaneseLine": "　とっとと早寝するつもりなんだ」",
+                                "translatedEnglishLine": "so I plan to go to bed early.\""
+                            },
+                            {
+                                "lineNumber": "267125",
+                                "originalJapaneseLine": "「風邪？",
+                                "translatedEnglishLine": "\"A cold?"
+                            },
+                            {
+                                "lineNumber": "267126",
+                                "originalJapaneseLine": "　そうなのか？」",
+                                "translatedEnglishLine": "Is that so?\""
+                            },
+                            {
+                                "lineNumber": "267127",
+                                "originalJapaneseLine": "「ん、ああ……",
+                                "translatedEnglishLine": "\"Mm, yes..."
+                            },
+                            {
+                                "lineNumber": "267128",
+                                "originalJapaneseLine": "　妙に体は熱いし、息切れして……",
+                                "translatedEnglishLine": "My body is strangely hot, and I'm out of breath..."
+                            },
+                            {
+                                "lineNumber": "267129",
+                                "originalJapaneseLine": "　…………はあ」",
+                                "translatedEnglishLine": "...Haa\""
+                            },
+                            {
+                                "lineNumber": "267130",
+                                "originalJapaneseLine": "「いや、それは風邪ではない。",
+                                "translatedEnglishLine": "\"No, that's not a cold."
+                            },
+                            {
+                                "lineNumber": "267131",
+                                "originalJapaneseLine": "　俺には分かる」",
+                                "translatedEnglishLine": "I can tell."
+                            },
+                            {
+                                "lineNumber": "267132",
+                                "originalJapaneseLine": "「はあ？",
+                                "translatedEnglishLine": "\"Huh?"
+                            },
+                            {
+                                "lineNumber": "267133",
+                                "originalJapaneseLine": "　医者でもない癖に？」",
+                                "translatedEnglishLine": "Since you're not even a doctor?\""
+                            },
+                            {
+                                "lineNumber": "267134",
+                                "originalJapaneseLine": "「うむ、分かるのだ。",
+                                "translatedEnglishLine": "\"Yes, I know."
+                            },
+                            {
+                                "lineNumber": "267135",
+                                "originalJapaneseLine": "　何故なら、それは――」",
+                                "translatedEnglishLine": "Because that is—"
+                            },
+                            {
+                                "lineNumber": "267136",
+                                "originalJapaneseLine": "「俺が君に一服盛ったからなのだー！」",
+                                "translatedEnglishLine": "Because I spiked your drink!\""
+                            },
+                            {
+                                "lineNumber": "267137",
+                                "originalJapaneseLine": "「はああああ！？」",
+                                "translatedEnglishLine": "\"Whaaaaat!?\""
+                            },
+                            {
+                                "lineNumber": "267138",
+                                "originalJapaneseLine": "「あっ……」",
+                                "translatedEnglishLine": "\"Ah...\""
+                            },
+                            {
+                                "lineNumber": "267139",
+                                "originalJapaneseLine": "カクン、と――",
+                                "translatedEnglishLine": "With a sudden collapse—"
+                            },
+                            {
+                                "lineNumber": "267140",
+                                "originalJapaneseLine": "足から力が抜けて、プリマが崩れ落ちかける。",
+                                "translatedEnglishLine": "Strength drained from her legs, and Prima almost collapsed."
+                            },
+                            {
+                                "lineNumber": "267141",
+                                "originalJapaneseLine": "「は、あっ……あっ……",
+                                "translatedEnglishLine": "\"Ha, ah... ah...\""
+                            },
+                            {
+                                "lineNumber": "267142",
+                                "originalJapaneseLine": "　な、なんだか、体、があ……」",
+                                "translatedEnglishLine": "S-Something's happening to my body...\""
+                            },
+                            {
+                                "lineNumber": "267143",
+                                "originalJapaneseLine": "「おーおーおー、",
+                                "translatedEnglishLine": "\"Oh, oh, oh,"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1713,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1923,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3636
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「じゃーにー、プリマー。\",\"translatedEnglishLine\":\"\\\"Journey, Prima.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　今夜も可愛がってあげるから、覚悟しててねー」\",\"translatedEnglishLine\":\"I'll be doting on you again tonight, so be prepared.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「にゃははは☆」\",\"translatedEnglishLine\":\"\\\"Nyahaha☆\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「あ、あっ……」\",\"translatedEnglishLine\":\"\\\"Ah, ah...\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「そんなぁぁぁぁ……」\",\"translatedEnglishLine\":\"\\\"Nooooo...\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"プリマはその場にへなへなと崩れ落ちた。\",\"translatedEnglishLine\":\"Prima collapsed weakly right there.\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「この二人はまるでアレだな……」\",\"translatedEnglishLine\":\"\\\"These two are just like those, huh...\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「いや、やめておこう。\",\"translatedEnglishLine\":\"\\\"No, better not say it.\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　プリマが哀れすぎる」\",\"translatedEnglishLine\":\"Prima is too pitiful.\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「DV旦那とその妻みたいだね」\",\"translatedEnglishLine\":\"\\\"Like a domestic violence husband and his wife.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「なあ！？」\",\"translatedEnglishLine\":\"\\\"Hey!?\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「俺ですら言わんかったことを……」\",\"translatedEnglishLine\":\"\\\"Even I didn't say that...\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「……ぐう」\",\"translatedEnglishLine\":\"\\\"...Grr\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「寝て誤魔化すな」\",\"translatedEnglishLine\":\"\\\"Don't pretend by sleeping.\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「う、うぐぐぐぐぐ……」\",\"translatedEnglishLine\":\"\\\"U-ugugugugu...\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「あ、明日こそ、絶縁状を叩きつけるーー！」\",\"translatedEnglishLine\":\"\\\"Tomorrow for sure, I'll slam down a letter of severance!\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「明日かあ……」\",\"translatedEnglishLine\":\"\\\"Tomorrow, huh...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「こりゃもうしばらくは腐れ縁が続くな……」\",\"translatedEnglishLine\":\"\\\"Looks like this toxic bond will continue for a while...\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「……もう一回言ってくれる？」\",\"translatedEnglishLine\":\"\\\"...Could you say that once more?\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「おう、何度でも言ってやる」\",\"translatedEnglishLine\":\"\\\"Sure, I'll say it as many times as you want.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「俺様はとっても偉い総統閣下。\",\"translatedEnglishLine\":\"\\\"I am the very great Supreme Commander.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　君はそんな俺の部下。\",\"translatedEnglishLine\":\"You are my subordinate.\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　だから抱かせろ」\",\"translatedEnglishLine\":\"So let me hold you.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「やだ」\",\"translatedEnglishLine\":\"\\\"No.\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「たった一言で断るんじゃない！」\",\"translatedEnglishLine\":\"\\\"Don't refuse me with just one word!\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「大体、お前は俺に恩がある筈だぞ。\",\"translatedEnglishLine\":\"\\\"Anyway, you should owe me.\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　ほれ、なんか望みを叶えて……」\",\"translatedEnglishLine\":\"Here, I'll grant you some wishes...\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「えーと、なんかした筈……\",\"translatedEnglishLine\":\"\\\"Umm, I think you did something...\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　なんだっけ」\",\"translatedEnglishLine\":\"What was it again?\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「とにかく、そのお礼として\",\"translatedEnglishLine\":\"Anyway, as thanks for that,\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　あの頃は何度も俺に抱かれたではないか！」\",\"translatedEnglishLine\":\"you were embraced by me many times back then!\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「そうだよ。\",\"translatedEnglishLine\":\"\\\"That's right.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　だからもういいだろ？」\",\"translatedEnglishLine\":\"So it should be enough now, right?\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「ぐっ……\",\"translatedEnglishLine\":\"\\\"Ugh...\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　ああ言えば、こう言う……」\",\"translatedEnglishLine\":\"You say this whenever I say that...\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「とにかく今日は出てってくれ。\",\"translatedEnglishLine\":\"Anyway, please leave today.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　風邪気味で辛いから、\",\"translatedEnglishLine\":\"I'm feeling a little sick with a cold,\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　とっとと早寝するつもりなんだ」\",\"translatedEnglishLine\":\"so I plan to go to bed early.\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「風邪？\",\"translatedEnglishLine\":\"\\\"A cold?\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　そうなのか？」\",\"translatedEnglishLine\":\"Is that so?\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「ん、ああ……\",\"translatedEnglishLine\":\"\\\"Mm, yes...\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　妙に体は熱いし、息切れして……\",\"translatedEnglishLine\":\"My body is strangely hot, and I'm out of breath...\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　…………はあ」\",\"translatedEnglishLine\":\"...Haa\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「いや、それは風邪ではない。\",\"translatedEnglishLine\":\"\\\"No, that's not a cold.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　俺には分かる」\",\"translatedEnglishLine\":\"I can tell.\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「はあ？\",\"translatedEnglishLine\":\"\\\"Huh?\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　医者でもない癖に？」\",\"translatedEnglishLine\":\"Since you're not even a doctor?\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「うむ、分かるのだ。\",\"translatedEnglishLine\":\"\\\"Yes, I know.\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　何故なら、それは――」\",\"translatedEnglishLine\":\"Because that is—\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「俺が君に一服盛ったからなのだー！」\",\"translatedEnglishLine\":\"Because I spiked your drink!\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「はああああ！？」\",\"translatedEnglishLine\":\"\\\"Whaaaaat!?\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「あっ……」\",\"translatedEnglishLine\":\"\\\"Ah...\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"カクン、と――\",\"translatedEnglishLine\":\"With a sudden collapse—\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"足から力が抜けて、プリマが崩れ落ちかける。\",\"translatedEnglishLine\":\"Strength drained from her legs, and Prima almost collapsed.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「は、あっ……あっ……\",\"translatedEnglishLine\":\"\\\"Ha, ah... ah...\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　な、なんだか、体、があ……」\",\"translatedEnglishLine\":\"S-Something's happening to my body...\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「おーおーおー、\",\"translatedEnglishLine\":\"\\\"Oh, oh, oh,\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "267084",
+                "originalJapaneseLine": "「じゃーにー、プリマー。",
+                "translatedEnglishLine": "\"Journey, Prima."
+            },
+            {
+                "lineNumber": "267085",
+                "originalJapaneseLine": "　今夜も可愛がってあげるから、覚悟しててねー」",
+                "translatedEnglishLine": "I'll be doting on you again tonight, so be prepared.\""
+            },
+            {
+                "lineNumber": "267086",
+                "originalJapaneseLine": "「にゃははは☆」",
+                "translatedEnglishLine": "\"Nyahaha☆\""
+            },
+            {
+                "lineNumber": "267087",
+                "originalJapaneseLine": "「あ、あっ……」",
+                "translatedEnglishLine": "\"Ah, ah...\""
+            },
+            {
+                "lineNumber": "267088",
+                "originalJapaneseLine": "「そんなぁぁぁぁ……」",
+                "translatedEnglishLine": "\"Nooooo...\""
+            },
+            {
+                "lineNumber": "267089",
+                "originalJapaneseLine": "プリマはその場にへなへなと崩れ落ちた。",
+                "translatedEnglishLine": "Prima collapsed weakly right there."
+            },
+            {
+                "lineNumber": "267090",
+                "originalJapaneseLine": "「この二人はまるでアレだな……」",
+                "translatedEnglishLine": "\"These two are just like those, huh...\""
+            },
+            {
+                "lineNumber": "267091",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "267092",
+                "originalJapaneseLine": "「いや、やめておこう。",
+                "translatedEnglishLine": "\"No, better not say it."
+            },
+            {
+                "lineNumber": "267093",
+                "originalJapaneseLine": "　プリマが哀れすぎる」",
+                "translatedEnglishLine": "Prima is too pitiful.\""
+            },
+            {
+                "lineNumber": "267094",
+                "originalJapaneseLine": "「DV旦那とその妻みたいだね」",
+                "translatedEnglishLine": "\"Like a domestic violence husband and his wife.\""
+            },
+            {
+                "lineNumber": "267095",
+                "originalJapaneseLine": "「なあ！？」",
+                "translatedEnglishLine": "\"Hey!?\""
+            },
+            {
+                "lineNumber": "267096",
+                "originalJapaneseLine": "「俺ですら言わんかったことを……」",
+                "translatedEnglishLine": "\"Even I didn't say that...\""
+            },
+            {
+                "lineNumber": "267097",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "267098",
+                "originalJapaneseLine": "「……ぐう」",
+                "translatedEnglishLine": "\"...Grr\""
+            },
+            {
+                "lineNumber": "267099",
+                "originalJapaneseLine": "「寝て誤魔化すな」",
+                "translatedEnglishLine": "\"Don't pretend by sleeping.\""
+            },
+            {
+                "lineNumber": "267100",
+                "originalJapaneseLine": "「う、うぐぐぐぐぐ……」",
+                "translatedEnglishLine": "\"U-ugugugugu...\""
+            },
+            {
+                "lineNumber": "267101",
+                "originalJapaneseLine": "「あ、明日こそ、絶縁状を叩きつけるーー！」",
+                "translatedEnglishLine": "\"Tomorrow for sure, I'll slam down a letter of severance!\""
+            },
+            {
+                "lineNumber": "267102",
+                "originalJapaneseLine": "「明日かあ……」",
+                "translatedEnglishLine": "\"Tomorrow, huh...\""
+            },
+            {
+                "lineNumber": "267103",
+                "originalJapaneseLine": "「こりゃもうしばらくは腐れ縁が続くな……」",
+                "translatedEnglishLine": "\"Looks like this toxic bond will continue for a while...\""
+            },
+            {
+                "lineNumber": "267104",
+                "originalJapaneseLine": "「……もう一回言ってくれる？」",
+                "translatedEnglishLine": "\"...Could you say that once more?\""
+            },
+            {
+                "lineNumber": "267105",
+                "originalJapaneseLine": "「おう、何度でも言ってやる」",
+                "translatedEnglishLine": "\"Sure, I'll say it as many times as you want.\""
+            },
+            {
+                "lineNumber": "267106",
+                "originalJapaneseLine": "「俺様はとっても偉い総統閣下。",
+                "translatedEnglishLine": "\"I am the very great Supreme Commander."
+            },
+            {
+                "lineNumber": "267107",
+                "originalJapaneseLine": "　君はそんな俺の部下。",
+                "translatedEnglishLine": "You are my subordinate."
+            },
+            {
+                "lineNumber": "267108",
+                "originalJapaneseLine": "　だから抱かせろ」",
+                "translatedEnglishLine": "So let me hold you.\""
+            },
+            {
+                "lineNumber": "267109",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "267110",
+                "originalJapaneseLine": "「やだ」",
+                "translatedEnglishLine": "\"No.\""
+            },
+            {
+                "lineNumber": "267111",
+                "originalJapaneseLine": "「たった一言で断るんじゃない！」",
+                "translatedEnglishLine": "\"Don't refuse me with just one word!\""
+            },
+            {
+                "lineNumber": "267112",
+                "originalJapaneseLine": "「大体、お前は俺に恩がある筈だぞ。",
+                "translatedEnglishLine": "\"Anyway, you should owe me."
+            },
+            {
+                "lineNumber": "267113",
+                "originalJapaneseLine": "　ほれ、なんか望みを叶えて……」",
+                "translatedEnglishLine": "Here, I'll grant you some wishes...\""
+            },
+            {
+                "lineNumber": "267114",
+                "originalJapaneseLine": "「えーと、なんかした筈……",
+                "translatedEnglishLine": "\"Umm, I think you did something..."
+            },
+            {
+                "lineNumber": "267115",
+                "originalJapaneseLine": "　なんだっけ」",
+                "translatedEnglishLine": "What was it again?"
+            },
+            {
+                "lineNumber": "267116",
+                "originalJapaneseLine": "「とにかく、そのお礼として",
+                "translatedEnglishLine": "Anyway, as thanks for that,"
+            },
+            {
+                "lineNumber": "267117",
+                "originalJapaneseLine": "　あの頃は何度も俺に抱かれたではないか！」",
+                "translatedEnglishLine": "you were embraced by me many times back then!\""
+            },
+            {
+                "lineNumber": "267118",
+                "originalJapaneseLine": "「そうだよ。",
+                "translatedEnglishLine": "\"That's right."
+            },
+            {
+                "lineNumber": "267119",
+                "originalJapaneseLine": "　だからもういいだろ？」",
+                "translatedEnglishLine": "So it should be enough now, right?\""
+            },
+            {
+                "lineNumber": "267120",
+                "originalJapaneseLine": "「ぐっ……",
+                "translatedEnglishLine": "\"Ugh..."
+            },
+            {
+                "lineNumber": "267121",
+                "originalJapaneseLine": "　ああ言えば、こう言う……」",
+                "translatedEnglishLine": "You say this whenever I say that...\""
+            },
+            {
+                "lineNumber": "267122",
+                "originalJapaneseLine": "「とにかく今日は出てってくれ。",
+                "translatedEnglishLine": "Anyway, please leave today."
+            },
+            {
+                "lineNumber": "267123",
+                "originalJapaneseLine": "　風邪気味で辛いから、",
+                "translatedEnglishLine": "I'm feeling a little sick with a cold,"
+            },
+            {
+                "lineNumber": "267124",
+                "originalJapaneseLine": "　とっとと早寝するつもりなんだ」",
+                "translatedEnglishLine": "so I plan to go to bed early.\""
+            },
+            {
+                "lineNumber": "267125",
+                "originalJapaneseLine": "「風邪？",
+                "translatedEnglishLine": "\"A cold?"
+            },
+            {
+                "lineNumber": "267126",
+                "originalJapaneseLine": "　そうなのか？」",
+                "translatedEnglishLine": "Is that so?\""
+            },
+            {
+                "lineNumber": "267127",
+                "originalJapaneseLine": "「ん、ああ……",
+                "translatedEnglishLine": "\"Mm, yes..."
+            },
+            {
+                "lineNumber": "267128",
+                "originalJapaneseLine": "　妙に体は熱いし、息切れして……",
+                "translatedEnglishLine": "My body is strangely hot, and I'm out of breath..."
+            },
+            {
+                "lineNumber": "267129",
+                "originalJapaneseLine": "　…………はあ」",
+                "translatedEnglishLine": "...Haa\""
+            },
+            {
+                "lineNumber": "267130",
+                "originalJapaneseLine": "「いや、それは風邪ではない。",
+                "translatedEnglishLine": "\"No, that's not a cold."
+            },
+            {
+                "lineNumber": "267131",
+                "originalJapaneseLine": "　俺には分かる」",
+                "translatedEnglishLine": "I can tell."
+            },
+            {
+                "lineNumber": "267132",
+                "originalJapaneseLine": "「はあ？",
+                "translatedEnglishLine": "\"Huh?"
+            },
+            {
+                "lineNumber": "267133",
+                "originalJapaneseLine": "　医者でもない癖に？」",
+                "translatedEnglishLine": "Since you're not even a doctor?\""
+            },
+            {
+                "lineNumber": "267134",
+                "originalJapaneseLine": "「うむ、分かるのだ。",
+                "translatedEnglishLine": "\"Yes, I know."
+            },
+            {
+                "lineNumber": "267135",
+                "originalJapaneseLine": "　何故なら、それは――」",
+                "translatedEnglishLine": "Because that is—"
+            },
+            {
+                "lineNumber": "267136",
+                "originalJapaneseLine": "「俺が君に一服盛ったからなのだー！」",
+                "translatedEnglishLine": "Because I spiked your drink!\""
+            },
+            {
+                "lineNumber": "267137",
+                "originalJapaneseLine": "「はああああ！？」",
+                "translatedEnglishLine": "\"Whaaaaat!?\""
+            },
+            {
+                "lineNumber": "267138",
+                "originalJapaneseLine": "「あっ……」",
+                "translatedEnglishLine": "\"Ah...\""
+            },
+            {
+                "lineNumber": "267139",
+                "originalJapaneseLine": "カクン、と――",
+                "translatedEnglishLine": "With a sudden collapse—"
+            },
+            {
+                "lineNumber": "267140",
+                "originalJapaneseLine": "足から力が抜けて、プリマが崩れ落ちかける。",
+                "translatedEnglishLine": "Strength drained from her legs, and Prima almost collapsed."
+            },
+            {
+                "lineNumber": "267141",
+                "originalJapaneseLine": "「は、あっ……あっ……",
+                "translatedEnglishLine": "\"Ha, ah... ah...\""
+            },
+            {
+                "lineNumber": "267142",
+                "originalJapaneseLine": "　な、なんだか、体、があ……」",
+                "translatedEnglishLine": "S-Something's happening to my body...\""
+            },
+            {
+                "lineNumber": "267143",
+                "originalJapaneseLine": "「おーおーおー、",
+                "translatedEnglishLine": "\"Oh, oh, oh,"
+            }
+        ]
+    }
+}

@@ -1,0 +1,719 @@
+{
+    "id": "resp_03a9c2eee35c5b430068ffec54294081938660d97e26f9b821",
+    "object": "response",
+    "created_at": 1761602644,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_03a9c2eee35c5b430068ffec54b4848193bc184b51b1c6099d",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"破壊神バスワルドがそこにいる。\",\"translatedEnglishLine\":\"The God of Destruction, Baswald, is there.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"ただそれだけで周囲の空間は何度も削られ、\",\"translatedEnglishLine\":\"Just by that, the surrounding space has been repeatedly carved away,\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"木々は歪な形にされていた。\",\"translatedEnglishLine\":\"and the trees were distorted into strange shapes.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「うーむ、相変わらずすごいパワー。\",\"translatedEnglishLine\":\"\\\"Hmm, as always, incredible power.\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　近づくことも出来んぞ」\",\"translatedEnglishLine\":\"You can't even get close.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「だが、これだけ強きゃ、\",\"translatedEnglishLine\":\"\\\"But if he's this strong,\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　魔軍との戦いで役に立つな」\",\"translatedEnglishLine\":\"he'll be useful against the Demon Army.\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「魔軍の陣地に放り込むか！\",\"translatedEnglishLine\":\"\\\"Shall we throw him into the Demon Army's camp?\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　がはははははははは！」\",\"translatedEnglishLine\":\"Gahahahahahaha!\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「よし、いっちょ力のほどがどれくらいか、\",\"translatedEnglishLine\":\"\\\"Alright, let's see just how strong you really are,\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　俺様に見せてみろ」\",\"translatedEnglishLine\":\"show me your power.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「あ、あれ？」\",\"translatedEnglishLine\":\"\\\"H-Huh?\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「……反応ないですねぇ」\",\"translatedEnglishLine\":\"\\\"...There's no reaction.\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「故障中？」\",\"translatedEnglishLine\":\"\\\"Is he malfunctioning?\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"バスワルドが手をかざした途端――\",\"translatedEnglishLine\":\"The moment Baswald raised his hand—\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「どわああああああああ！？」\",\"translatedEnglishLine\":\"\\\"Dwaaaaaaaah!?\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"ランス達のいる周囲が空間ごと破壊された。\",\"translatedEnglishLine\":\"The space around where Rance and the others were was destroyed.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「こ、こら、なにをする！\",\"translatedEnglishLine\":\"\\\"H-Hey, what are you doing!?\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　危ないじゃないかー！」\",\"translatedEnglishLine\":\"That's dangerous!\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"ランスの罵倒に、\",\"translatedEnglishLine\":\"To Rance's insult,\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"バスワルドは何も答えない。\",\"translatedEnglishLine\":\"Baswald did not respond.\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「あ、あれ？\",\"translatedEnglishLine\":\"\\\"H-Huh?\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　これもしかして……」\",\"translatedEnglishLine\":\"Could this possibly be...?\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「どわああああああああ！？」\",\"translatedEnglishLine\":\"\\\"Dwaaaaaaaah!?\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「ウケケケ！\",\"translatedEnglishLine\":\"\\\"Ukekeke!\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　暴走してやがりますよ！」\",\"translatedEnglishLine\":\"He's running wild!\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「見れば分かるわー！」\",\"translatedEnglishLine\":\"\\\"You can tell just by looking!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"その頃、バスワルド内部――\",\"translatedEnglishLine\":\"Meanwhile, inside Baswald—\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「ちょ、ちょっとどうなってるのよ！\",\"translatedEnglishLine\":\"\\\"W-Wait, what's going on?!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　体がちっとも言うこと聞かない！」\",\"translatedEnglishLine\":\"My body won't listen at all!\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「くっ！　駄目、どうして……！？」\",\"translatedEnglishLine\":\"\\\"Damn! No, why...!?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「ハウゼル！　もっと力を入れて！」\",\"translatedEnglishLine\":\"\\\"Hauser! Put more strength into it!\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「やってる……けど……！\",\"translatedEnglishLine\":\"\\\"I'm trying... but...!\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　くうううう！」\",\"translatedEnglishLine\":\"Ughhhh!\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「全ての破壊。\",\"translatedEnglishLine\":\"Destruction of everything.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　我の存在意義。\",\"translatedEnglishLine\":\"My reason for existence.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　我の――」\",\"translatedEnglishLine\":\"My—\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「ちょいやーーー！\",\"translatedEnglishLine\":\"\\\"Choiyaa---!\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　ストーンふらーっしゅ！」\",\"translatedEnglishLine\":\"Stone Flash!\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"ひゅーん。\",\"translatedEnglishLine\":\"Whoooosh.\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"ランスの石投げアタック。\",\"translatedEnglishLine\":\"Rance's stone-throwing attack.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"ばしゅん！\",\"translatedEnglishLine\":\"Smash!\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"石はバスワルドに当たる直前、\",\"translatedEnglishLine\":\"Just before the stone hit Baswald,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"あっさり空間ごと消滅した。\",\"translatedEnglishLine\":\"it simply vanished along with the space around it.\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「うおっ、こっちも見ずに！」\",\"translatedEnglishLine\":\"\\\"Whoa, he didn't even look this way!\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「あっ……こっち見てる……\",\"translatedEnglishLine\":\"\\\"Ah... he's looking this way...\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　怒ったかな？」\",\"translatedEnglishLine\":\"Is he angry?\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「わ、分かりません……」\",\"translatedEnglishLine\":\"\\\"I-I don't know...\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"ランス達がどきどきしながら\",\"translatedEnglishLine\":\"As Rance and the others nervously\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"見守っていると――\",\"translatedEnglishLine\":\"watched carefully—\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"バスワルドの体がピカー。\",\"translatedEnglishLine\":\"Baswald's body glowed brilliantly.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「うおおお！　またこのパターンか！」\",\"translatedEnglishLine\":\"\\\"Whoaaa! This pattern again!\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「うぅん……\",\"translatedEnglishLine\":\"\\\"Uhn...\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　私達、なにを……」\",\"translatedEnglishLine\":\"What are we...\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "268104",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "268105",
+                                "originalJapaneseLine": "破壊神バスワルドがそこにいる。",
+                                "translatedEnglishLine": "The God of Destruction, Baswald, is there."
+                            },
+                            {
+                                "lineNumber": "268106",
+                                "originalJapaneseLine": "ただそれだけで周囲の空間は何度も削られ、",
+                                "translatedEnglishLine": "Just by that, the surrounding space has been repeatedly carved away,"
+                            },
+                            {
+                                "lineNumber": "268107",
+                                "originalJapaneseLine": "木々は歪な形にされていた。",
+                                "translatedEnglishLine": "and the trees were distorted into strange shapes."
+                            },
+                            {
+                                "lineNumber": "268108",
+                                "originalJapaneseLine": "「うーむ、相変わらずすごいパワー。",
+                                "translatedEnglishLine": "\"Hmm, as always, incredible power."
+                            },
+                            {
+                                "lineNumber": "268109",
+                                "originalJapaneseLine": "　近づくことも出来んぞ」",
+                                "translatedEnglishLine": "You can't even get close.\""
+                            },
+                            {
+                                "lineNumber": "268110",
+                                "originalJapaneseLine": "「だが、これだけ強きゃ、",
+                                "translatedEnglishLine": "\"But if he's this strong,"
+                            },
+                            {
+                                "lineNumber": "268111",
+                                "originalJapaneseLine": "　魔軍との戦いで役に立つな」",
+                                "translatedEnglishLine": "he'll be useful against the Demon Army.\""
+                            },
+                            {
+                                "lineNumber": "268112",
+                                "originalJapaneseLine": "「魔軍の陣地に放り込むか！",
+                                "translatedEnglishLine": "\"Shall we throw him into the Demon Army's camp?"
+                            },
+                            {
+                                "lineNumber": "268113",
+                                "originalJapaneseLine": "　がはははははははは！」",
+                                "translatedEnglishLine": "Gahahahahahaha!\""
+                            },
+                            {
+                                "lineNumber": "268114",
+                                "originalJapaneseLine": "「よし、いっちょ力のほどがどれくらいか、",
+                                "translatedEnglishLine": "\"Alright, let's see just how strong you really are,"
+                            },
+                            {
+                                "lineNumber": "268115",
+                                "originalJapaneseLine": "　俺様に見せてみろ」",
+                                "translatedEnglishLine": "show me your power.\""
+                            },
+                            {
+                                "lineNumber": "268116",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "268117",
+                                "originalJapaneseLine": "「あ、あれ？」",
+                                "translatedEnglishLine": "\"H-Huh?\""
+                            },
+                            {
+                                "lineNumber": "268118",
+                                "originalJapaneseLine": "「……反応ないですねぇ」",
+                                "translatedEnglishLine": "\"...There's no reaction.\""
+                            },
+                            {
+                                "lineNumber": "268119",
+                                "originalJapaneseLine": "「故障中？」",
+                                "translatedEnglishLine": "\"Is he malfunctioning?\""
+                            },
+                            {
+                                "lineNumber": "268120",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "268121",
+                                "originalJapaneseLine": "バスワルドが手をかざした途端――",
+                                "translatedEnglishLine": "The moment Baswald raised his hand—"
+                            },
+                            {
+                                "lineNumber": "268122",
+                                "originalJapaneseLine": "「どわああああああああ！？」",
+                                "translatedEnglishLine": "\"Dwaaaaaaaah!?\""
+                            },
+                            {
+                                "lineNumber": "268123",
+                                "originalJapaneseLine": "ランス達のいる周囲が空間ごと破壊された。",
+                                "translatedEnglishLine": "The space around where Rance and the others were was destroyed."
+                            },
+                            {
+                                "lineNumber": "268124",
+                                "originalJapaneseLine": "「こ、こら、なにをする！",
+                                "translatedEnglishLine": "\"H-Hey, what are you doing!?"
+                            },
+                            {
+                                "lineNumber": "268125",
+                                "originalJapaneseLine": "　危ないじゃないかー！」",
+                                "translatedEnglishLine": "That's dangerous!\""
+                            },
+                            {
+                                "lineNumber": "268126",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "268127",
+                                "originalJapaneseLine": "ランスの罵倒に、",
+                                "translatedEnglishLine": "To Rance's insult,"
+                            },
+                            {
+                                "lineNumber": "268128",
+                                "originalJapaneseLine": "バスワルドは何も答えない。",
+                                "translatedEnglishLine": "Baswald did not respond."
+                            },
+                            {
+                                "lineNumber": "268129",
+                                "originalJapaneseLine": "「あ、あれ？",
+                                "translatedEnglishLine": "\"H-Huh?"
+                            },
+                            {
+                                "lineNumber": "268130",
+                                "originalJapaneseLine": "　これもしかして……」",
+                                "translatedEnglishLine": "Could this possibly be...?"
+                            },
+                            {
+                                "lineNumber": "268131",
+                                "originalJapaneseLine": "「どわああああああああ！？」",
+                                "translatedEnglishLine": "\"Dwaaaaaaaah!?\""
+                            },
+                            {
+                                "lineNumber": "268132",
+                                "originalJapaneseLine": "「ウケケケ！",
+                                "translatedEnglishLine": "\"Ukekeke!"
+                            },
+                            {
+                                "lineNumber": "268133",
+                                "originalJapaneseLine": "　暴走してやがりますよ！」",
+                                "translatedEnglishLine": "He's running wild!\""
+                            },
+                            {
+                                "lineNumber": "268134",
+                                "originalJapaneseLine": "「見れば分かるわー！」",
+                                "translatedEnglishLine": "\"You can tell just by looking!\""
+                            },
+                            {
+                                "lineNumber": "268135",
+                                "originalJapaneseLine": "その頃、バスワルド内部――",
+                                "translatedEnglishLine": "Meanwhile, inside Baswald—"
+                            },
+                            {
+                                "lineNumber": "268136",
+                                "originalJapaneseLine": "「ちょ、ちょっとどうなってるのよ！",
+                                "translatedEnglishLine": "\"W-Wait, what's going on?!\""
+                            },
+                            {
+                                "lineNumber": "268137",
+                                "originalJapaneseLine": "　体がちっとも言うこと聞かない！」",
+                                "translatedEnglishLine": "My body won't listen at all!\""
+                            },
+                            {
+                                "lineNumber": "268138",
+                                "originalJapaneseLine": "「くっ！　駄目、どうして……！？」",
+                                "translatedEnglishLine": "\"Damn! No, why...!?\""
+                            },
+                            {
+                                "lineNumber": "268139",
+                                "originalJapaneseLine": "「ハウゼル！　もっと力を入れて！」",
+                                "translatedEnglishLine": "\"Hauser! Put more strength into it!\""
+                            },
+                            {
+                                "lineNumber": "268140",
+                                "originalJapaneseLine": "「やってる……けど……！",
+                                "translatedEnglishLine": "\"I'm trying... but...!\""
+                            },
+                            {
+                                "lineNumber": "268141",
+                                "originalJapaneseLine": "　くうううう！」",
+                                "translatedEnglishLine": "Ughhhh!\""
+                            },
+                            {
+                                "lineNumber": "268142",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "268143",
+                                "originalJapaneseLine": "「全ての破壊。",
+                                "translatedEnglishLine": "Destruction of everything."
+                            },
+                            {
+                                "lineNumber": "268144",
+                                "originalJapaneseLine": "　我の存在意義。",
+                                "translatedEnglishLine": "My reason for existence."
+                            },
+                            {
+                                "lineNumber": "268145",
+                                "originalJapaneseLine": "　我の――」",
+                                "translatedEnglishLine": "My—"
+                            },
+                            {
+                                "lineNumber": "268146",
+                                "originalJapaneseLine": "「ちょいやーーー！",
+                                "translatedEnglishLine": "\"Choiyaa---!"
+                            },
+                            {
+                                "lineNumber": "268147",
+                                "originalJapaneseLine": "　ストーンふらーっしゅ！」",
+                                "translatedEnglishLine": "Stone Flash!\""
+                            },
+                            {
+                                "lineNumber": "268148",
+                                "originalJapaneseLine": "ひゅーん。",
+                                "translatedEnglishLine": "Whoooosh."
+                            },
+                            {
+                                "lineNumber": "268149",
+                                "originalJapaneseLine": "ランスの石投げアタック。",
+                                "translatedEnglishLine": "Rance's stone-throwing attack."
+                            },
+                            {
+                                "lineNumber": "268150",
+                                "originalJapaneseLine": "ばしゅん！",
+                                "translatedEnglishLine": "Smash!"
+                            },
+                            {
+                                "lineNumber": "268151",
+                                "originalJapaneseLine": "石はバスワルドに当たる直前、",
+                                "translatedEnglishLine": "Just before the stone hit Baswald,"
+                            },
+                            {
+                                "lineNumber": "268152",
+                                "originalJapaneseLine": "あっさり空間ごと消滅した。",
+                                "translatedEnglishLine": "it simply vanished along with the space around it."
+                            },
+                            {
+                                "lineNumber": "268153",
+                                "originalJapaneseLine": "「うおっ、こっちも見ずに！」",
+                                "translatedEnglishLine": "\"Whoa, he didn't even look this way!\""
+                            },
+                            {
+                                "lineNumber": "268154",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "268155",
+                                "originalJapaneseLine": "「あっ……こっち見てる……",
+                                "translatedEnglishLine": "\"Ah... he's looking this way..."
+                            },
+                            {
+                                "lineNumber": "268156",
+                                "originalJapaneseLine": "　怒ったかな？」",
+                                "translatedEnglishLine": "Is he angry?\""
+                            },
+                            {
+                                "lineNumber": "268157",
+                                "originalJapaneseLine": "「わ、分かりません……」",
+                                "translatedEnglishLine": "\"I-I don't know...\""
+                            },
+                            {
+                                "lineNumber": "268158",
+                                "originalJapaneseLine": "ランス達がどきどきしながら",
+                                "translatedEnglishLine": "As Rance and the others nervously"
+                            },
+                            {
+                                "lineNumber": "268159",
+                                "originalJapaneseLine": "見守っていると――",
+                                "translatedEnglishLine": "watched carefully—"
+                            },
+                            {
+                                "lineNumber": "268160",
+                                "originalJapaneseLine": "バスワルドの体がピカー。",
+                                "translatedEnglishLine": "Baswald's body glowed brilliantly."
+                            },
+                            {
+                                "lineNumber": "268161",
+                                "originalJapaneseLine": "「うおおお！　またこのパターンか！」",
+                                "translatedEnglishLine": "\"Whoaaa! This pattern again!\""
+                            },
+                            {
+                                "lineNumber": "268162",
+                                "originalJapaneseLine": "「うぅん……",
+                                "translatedEnglishLine": "\"Uhn..."
+                            },
+                            {
+                                "lineNumber": "268163",
+                                "originalJapaneseLine": "　私達、なにを……」",
+                                "translatedEnglishLine": "What are we...\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1704,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1897,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3601
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"破壊神バスワルドがそこにいる。\",\"translatedEnglishLine\":\"The God of Destruction, Baswald, is there.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"ただそれだけで周囲の空間は何度も削られ、\",\"translatedEnglishLine\":\"Just by that, the surrounding space has been repeatedly carved away,\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"木々は歪な形にされていた。\",\"translatedEnglishLine\":\"and the trees were distorted into strange shapes.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「うーむ、相変わらずすごいパワー。\",\"translatedEnglishLine\":\"\\\"Hmm, as always, incredible power.\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　近づくことも出来んぞ」\",\"translatedEnglishLine\":\"You can't even get close.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「だが、これだけ強きゃ、\",\"translatedEnglishLine\":\"\\\"But if he's this strong,\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　魔軍との戦いで役に立つな」\",\"translatedEnglishLine\":\"he'll be useful against the Demon Army.\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「魔軍の陣地に放り込むか！\",\"translatedEnglishLine\":\"\\\"Shall we throw him into the Demon Army's camp?\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　がはははははははは！」\",\"translatedEnglishLine\":\"Gahahahahahaha!\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「よし、いっちょ力のほどがどれくらいか、\",\"translatedEnglishLine\":\"\\\"Alright, let's see just how strong you really are,\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　俺様に見せてみろ」\",\"translatedEnglishLine\":\"show me your power.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「あ、あれ？」\",\"translatedEnglishLine\":\"\\\"H-Huh?\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「……反応ないですねぇ」\",\"translatedEnglishLine\":\"\\\"...There's no reaction.\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「故障中？」\",\"translatedEnglishLine\":\"\\\"Is he malfunctioning?\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"バスワルドが手をかざした途端――\",\"translatedEnglishLine\":\"The moment Baswald raised his hand—\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「どわああああああああ！？」\",\"translatedEnglishLine\":\"\\\"Dwaaaaaaaah!?\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"ランス達のいる周囲が空間ごと破壊された。\",\"translatedEnglishLine\":\"The space around where Rance and the others were was destroyed.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「こ、こら、なにをする！\",\"translatedEnglishLine\":\"\\\"H-Hey, what are you doing!?\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　危ないじゃないかー！」\",\"translatedEnglishLine\":\"That's dangerous!\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"ランスの罵倒に、\",\"translatedEnglishLine\":\"To Rance's insult,\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"バスワルドは何も答えない。\",\"translatedEnglishLine\":\"Baswald did not respond.\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「あ、あれ？\",\"translatedEnglishLine\":\"\\\"H-Huh?\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　これもしかして……」\",\"translatedEnglishLine\":\"Could this possibly be...?\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「どわああああああああ！？」\",\"translatedEnglishLine\":\"\\\"Dwaaaaaaaah!?\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「ウケケケ！\",\"translatedEnglishLine\":\"\\\"Ukekeke!\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　暴走してやがりますよ！」\",\"translatedEnglishLine\":\"He's running wild!\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「見れば分かるわー！」\",\"translatedEnglishLine\":\"\\\"You can tell just by looking!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"その頃、バスワルド内部――\",\"translatedEnglishLine\":\"Meanwhile, inside Baswald—\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「ちょ、ちょっとどうなってるのよ！\",\"translatedEnglishLine\":\"\\\"W-Wait, what's going on?!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　体がちっとも言うこと聞かない！」\",\"translatedEnglishLine\":\"My body won't listen at all!\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「くっ！　駄目、どうして……！？」\",\"translatedEnglishLine\":\"\\\"Damn! No, why...!?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「ハウゼル！　もっと力を入れて！」\",\"translatedEnglishLine\":\"\\\"Hauser! Put more strength into it!\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「やってる……けど……！\",\"translatedEnglishLine\":\"\\\"I'm trying... but...!\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　くうううう！」\",\"translatedEnglishLine\":\"Ughhhh!\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「全ての破壊。\",\"translatedEnglishLine\":\"Destruction of everything.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　我の存在意義。\",\"translatedEnglishLine\":\"My reason for existence.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　我の――」\",\"translatedEnglishLine\":\"My—\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「ちょいやーーー！\",\"translatedEnglishLine\":\"\\\"Choiyaa---!\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　ストーンふらーっしゅ！」\",\"translatedEnglishLine\":\"Stone Flash!\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"ひゅーん。\",\"translatedEnglishLine\":\"Whoooosh.\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"ランスの石投げアタック。\",\"translatedEnglishLine\":\"Rance's stone-throwing attack.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"ばしゅん！\",\"translatedEnglishLine\":\"Smash!\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"石はバスワルドに当たる直前、\",\"translatedEnglishLine\":\"Just before the stone hit Baswald,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"あっさり空間ごと消滅した。\",\"translatedEnglishLine\":\"it simply vanished along with the space around it.\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「うおっ、こっちも見ずに！」\",\"translatedEnglishLine\":\"\\\"Whoa, he didn't even look this way!\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「あっ……こっち見てる……\",\"translatedEnglishLine\":\"\\\"Ah... he's looking this way...\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　怒ったかな？」\",\"translatedEnglishLine\":\"Is he angry?\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「わ、分かりません……」\",\"translatedEnglishLine\":\"\\\"I-I don't know...\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"ランス達がどきどきしながら\",\"translatedEnglishLine\":\"As Rance and the others nervously\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"見守っていると――\",\"translatedEnglishLine\":\"watched carefully—\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"バスワルドの体がピカー。\",\"translatedEnglishLine\":\"Baswald's body glowed brilliantly.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「うおおお！　またこのパターンか！」\",\"translatedEnglishLine\":\"\\\"Whoaaa! This pattern again!\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「うぅん……\",\"translatedEnglishLine\":\"\\\"Uhn...\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　私達、なにを……」\",\"translatedEnglishLine\":\"What are we...\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "268104",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "268105",
+                "originalJapaneseLine": "破壊神バスワルドがそこにいる。",
+                "translatedEnglishLine": "The God of Destruction, Baswald, is there."
+            },
+            {
+                "lineNumber": "268106",
+                "originalJapaneseLine": "ただそれだけで周囲の空間は何度も削られ、",
+                "translatedEnglishLine": "Just by that, the surrounding space has been repeatedly carved away,"
+            },
+            {
+                "lineNumber": "268107",
+                "originalJapaneseLine": "木々は歪な形にされていた。",
+                "translatedEnglishLine": "and the trees were distorted into strange shapes."
+            },
+            {
+                "lineNumber": "268108",
+                "originalJapaneseLine": "「うーむ、相変わらずすごいパワー。",
+                "translatedEnglishLine": "\"Hmm, as always, incredible power."
+            },
+            {
+                "lineNumber": "268109",
+                "originalJapaneseLine": "　近づくことも出来んぞ」",
+                "translatedEnglishLine": "You can't even get close.\""
+            },
+            {
+                "lineNumber": "268110",
+                "originalJapaneseLine": "「だが、これだけ強きゃ、",
+                "translatedEnglishLine": "\"But if he's this strong,"
+            },
+            {
+                "lineNumber": "268111",
+                "originalJapaneseLine": "　魔軍との戦いで役に立つな」",
+                "translatedEnglishLine": "he'll be useful against the Demon Army.\""
+            },
+            {
+                "lineNumber": "268112",
+                "originalJapaneseLine": "「魔軍の陣地に放り込むか！",
+                "translatedEnglishLine": "\"Shall we throw him into the Demon Army's camp?"
+            },
+            {
+                "lineNumber": "268113",
+                "originalJapaneseLine": "　がはははははははは！」",
+                "translatedEnglishLine": "Gahahahahahaha!\""
+            },
+            {
+                "lineNumber": "268114",
+                "originalJapaneseLine": "「よし、いっちょ力のほどがどれくらいか、",
+                "translatedEnglishLine": "\"Alright, let's see just how strong you really are,"
+            },
+            {
+                "lineNumber": "268115",
+                "originalJapaneseLine": "　俺様に見せてみろ」",
+                "translatedEnglishLine": "show me your power.\""
+            },
+            {
+                "lineNumber": "268116",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "268117",
+                "originalJapaneseLine": "「あ、あれ？」",
+                "translatedEnglishLine": "\"H-Huh?\""
+            },
+            {
+                "lineNumber": "268118",
+                "originalJapaneseLine": "「……反応ないですねぇ」",
+                "translatedEnglishLine": "\"...There's no reaction.\""
+            },
+            {
+                "lineNumber": "268119",
+                "originalJapaneseLine": "「故障中？」",
+                "translatedEnglishLine": "\"Is he malfunctioning?\""
+            },
+            {
+                "lineNumber": "268120",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "268121",
+                "originalJapaneseLine": "バスワルドが手をかざした途端――",
+                "translatedEnglishLine": "The moment Baswald raised his hand—"
+            },
+            {
+                "lineNumber": "268122",
+                "originalJapaneseLine": "「どわああああああああ！？」",
+                "translatedEnglishLine": "\"Dwaaaaaaaah!?\""
+            },
+            {
+                "lineNumber": "268123",
+                "originalJapaneseLine": "ランス達のいる周囲が空間ごと破壊された。",
+                "translatedEnglishLine": "The space around where Rance and the others were was destroyed."
+            },
+            {
+                "lineNumber": "268124",
+                "originalJapaneseLine": "「こ、こら、なにをする！",
+                "translatedEnglishLine": "\"H-Hey, what are you doing!?"
+            },
+            {
+                "lineNumber": "268125",
+                "originalJapaneseLine": "　危ないじゃないかー！」",
+                "translatedEnglishLine": "That's dangerous!\""
+            },
+            {
+                "lineNumber": "268126",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "268127",
+                "originalJapaneseLine": "ランスの罵倒に、",
+                "translatedEnglishLine": "To Rance's insult,"
+            },
+            {
+                "lineNumber": "268128",
+                "originalJapaneseLine": "バスワルドは何も答えない。",
+                "translatedEnglishLine": "Baswald did not respond."
+            },
+            {
+                "lineNumber": "268129",
+                "originalJapaneseLine": "「あ、あれ？",
+                "translatedEnglishLine": "\"H-Huh?"
+            },
+            {
+                "lineNumber": "268130",
+                "originalJapaneseLine": "　これもしかして……」",
+                "translatedEnglishLine": "Could this possibly be...?"
+            },
+            {
+                "lineNumber": "268131",
+                "originalJapaneseLine": "「どわああああああああ！？」",
+                "translatedEnglishLine": "\"Dwaaaaaaaah!?\""
+            },
+            {
+                "lineNumber": "268132",
+                "originalJapaneseLine": "「ウケケケ！",
+                "translatedEnglishLine": "\"Ukekeke!"
+            },
+            {
+                "lineNumber": "268133",
+                "originalJapaneseLine": "　暴走してやがりますよ！」",
+                "translatedEnglishLine": "He's running wild!\""
+            },
+            {
+                "lineNumber": "268134",
+                "originalJapaneseLine": "「見れば分かるわー！」",
+                "translatedEnglishLine": "\"You can tell just by looking!\""
+            },
+            {
+                "lineNumber": "268135",
+                "originalJapaneseLine": "その頃、バスワルド内部――",
+                "translatedEnglishLine": "Meanwhile, inside Baswald—"
+            },
+            {
+                "lineNumber": "268136",
+                "originalJapaneseLine": "「ちょ、ちょっとどうなってるのよ！",
+                "translatedEnglishLine": "\"W-Wait, what's going on?!\""
+            },
+            {
+                "lineNumber": "268137",
+                "originalJapaneseLine": "　体がちっとも言うこと聞かない！」",
+                "translatedEnglishLine": "My body won't listen at all!\""
+            },
+            {
+                "lineNumber": "268138",
+                "originalJapaneseLine": "「くっ！　駄目、どうして……！？」",
+                "translatedEnglishLine": "\"Damn! No, why...!?\""
+            },
+            {
+                "lineNumber": "268139",
+                "originalJapaneseLine": "「ハウゼル！　もっと力を入れて！」",
+                "translatedEnglishLine": "\"Hauser! Put more strength into it!\""
+            },
+            {
+                "lineNumber": "268140",
+                "originalJapaneseLine": "「やってる……けど……！",
+                "translatedEnglishLine": "\"I'm trying... but...!\""
+            },
+            {
+                "lineNumber": "268141",
+                "originalJapaneseLine": "　くうううう！」",
+                "translatedEnglishLine": "Ughhhh!\""
+            },
+            {
+                "lineNumber": "268142",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "268143",
+                "originalJapaneseLine": "「全ての破壊。",
+                "translatedEnglishLine": "Destruction of everything."
+            },
+            {
+                "lineNumber": "268144",
+                "originalJapaneseLine": "　我の存在意義。",
+                "translatedEnglishLine": "My reason for existence."
+            },
+            {
+                "lineNumber": "268145",
+                "originalJapaneseLine": "　我の――」",
+                "translatedEnglishLine": "My—"
+            },
+            {
+                "lineNumber": "268146",
+                "originalJapaneseLine": "「ちょいやーーー！",
+                "translatedEnglishLine": "\"Choiyaa---!"
+            },
+            {
+                "lineNumber": "268147",
+                "originalJapaneseLine": "　ストーンふらーっしゅ！」",
+                "translatedEnglishLine": "Stone Flash!\""
+            },
+            {
+                "lineNumber": "268148",
+                "originalJapaneseLine": "ひゅーん。",
+                "translatedEnglishLine": "Whoooosh."
+            },
+            {
+                "lineNumber": "268149",
+                "originalJapaneseLine": "ランスの石投げアタック。",
+                "translatedEnglishLine": "Rance's stone-throwing attack."
+            },
+            {
+                "lineNumber": "268150",
+                "originalJapaneseLine": "ばしゅん！",
+                "translatedEnglishLine": "Smash!"
+            },
+            {
+                "lineNumber": "268151",
+                "originalJapaneseLine": "石はバスワルドに当たる直前、",
+                "translatedEnglishLine": "Just before the stone hit Baswald,"
+            },
+            {
+                "lineNumber": "268152",
+                "originalJapaneseLine": "あっさり空間ごと消滅した。",
+                "translatedEnglishLine": "it simply vanished along with the space around it."
+            },
+            {
+                "lineNumber": "268153",
+                "originalJapaneseLine": "「うおっ、こっちも見ずに！」",
+                "translatedEnglishLine": "\"Whoa, he didn't even look this way!\""
+            },
+            {
+                "lineNumber": "268154",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "268155",
+                "originalJapaneseLine": "「あっ……こっち見てる……",
+                "translatedEnglishLine": "\"Ah... he's looking this way..."
+            },
+            {
+                "lineNumber": "268156",
+                "originalJapaneseLine": "　怒ったかな？」",
+                "translatedEnglishLine": "Is he angry?\""
+            },
+            {
+                "lineNumber": "268157",
+                "originalJapaneseLine": "「わ、分かりません……」",
+                "translatedEnglishLine": "\"I-I don't know...\""
+            },
+            {
+                "lineNumber": "268158",
+                "originalJapaneseLine": "ランス達がどきどきしながら",
+                "translatedEnglishLine": "As Rance and the others nervously"
+            },
+            {
+                "lineNumber": "268159",
+                "originalJapaneseLine": "見守っていると――",
+                "translatedEnglishLine": "watched carefully—"
+            },
+            {
+                "lineNumber": "268160",
+                "originalJapaneseLine": "バスワルドの体がピカー。",
+                "translatedEnglishLine": "Baswald's body glowed brilliantly."
+            },
+            {
+                "lineNumber": "268161",
+                "originalJapaneseLine": "「うおおお！　またこのパターンか！」",
+                "translatedEnglishLine": "\"Whoaaa! This pattern again!\""
+            },
+            {
+                "lineNumber": "268162",
+                "originalJapaneseLine": "「うぅん……",
+                "translatedEnglishLine": "\"Uhn..."
+            },
+            {
+                "lineNumber": "268163",
+                "originalJapaneseLine": "　私達、なにを……」",
+                "translatedEnglishLine": "What are we...\""
+            }
+        ]
+    }
+}

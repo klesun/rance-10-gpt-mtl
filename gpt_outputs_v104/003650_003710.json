@@ -1,0 +1,719 @@
+{
+    "id": "resp_070c9a5fc587ee940068ffecab429081978a1a00fd90f51573",
+    "object": "response",
+    "created_at": 1761602731,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_070c9a5fc587ee940068ffecaba8a8819791b39d250019e5d7",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　君達みたいな爆弾は置いておけない\",\"translatedEnglishLine\":\"I can't leave bombs like you around.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「そういうアイテムの開発ね……」\",\"translatedEnglishLine\":\"\\\"Developing that kind of item, huh...\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「ま、面倒だけど、\",\"translatedEnglishLine\":\"\\\"Well, it's troublesome, but\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　やるだけやってみるよ」\",\"translatedEnglishLine\":\"I'll give it my best shot.\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「単純な力の制御なら\",\"translatedEnglishLine\":\"\\\"If it's simple power control,\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　方法論がないわけでもないし」\",\"translatedEnglishLine\":\"there are ways to do it.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「……ッ。\",\"translatedEnglishLine\":\"\\\"...!\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　ありがとう、パイアール！」\",\"translatedEnglishLine\":\"Thank you, Piarl!\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「……なによ。\",\"translatedEnglishLine\":\"\\\"...What.\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　あんた意外といいとこあるのね」\",\"translatedEnglishLine\":\"You actually have some good points, huh.\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「あ、気安く触らないでくれる？\",\"translatedEnglishLine\":\"\\\"Ah, please don't touch me so freely,\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　ボディに手の油がつくから」\",\"translatedEnglishLine\":\"your hand oils will get on my body.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「やっぱ可愛くない奴！」\",\"translatedEnglishLine\":\"\\\"I knew you weren't cute after all!\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"果たしてパイアールの発明は成功した。\",\"translatedEnglishLine\":\"Sure enough, Piarl's invention was a success.\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「本当にこんなブレスレットで、\",\"translatedEnglishLine\":\"\\\"Can we really control power properly with a bracelet like this?\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　ちゃんと力が制御できるんでしょうね」\",\"translatedEnglishLine\":\"It'll properly control our power, right?\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ちょっと可愛い……」\",\"translatedEnglishLine\":\"\\\"It's kind of cute...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"渡されたのは色違いの\",\"translatedEnglishLine\":\"What was given were matching bracelets of different colors.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"お揃いのブレスレットだった。\",\"translatedEnglishLine\":\"They were matching bracelets.\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ま、成功はしている筈だよ」\",\"translatedEnglishLine\":\"\\\"Well, it should be a success.\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「ブレスレットに書かれた数値を見て」\",\"translatedEnglishLine\":\"Look at the values written on the bracelets.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「君達が変身するのに、\",\"translatedEnglishLine\":\"I noticed that the particles you emit when transforming\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　その粒子が出ていることに気づいてね。\",\"translatedEnglishLine\":\"match those values.\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　数値化してみた」\",\"translatedEnglishLine\":\"So I quantified it.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「その数値がお互いに300VASにまで\",\"translatedEnglishLine\":\"\\\"When those values each reach 300 VAS,\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　達すると変身できる筈だよ」\",\"translatedEnglishLine\":\"you should be able to transform.\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「？　その数値って、\",\"translatedEnglishLine\":\"\\\"? How do those values increase?\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　どうやったら上がるわけ？」\",\"translatedEnglishLine\":\"\\\"How do you raise them?\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「さあ？\",\"translatedEnglishLine\":\"\\\"Who knows?\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　僕もそこまで知らないよ」\",\"translatedEnglishLine\":\"I don't know that much either.\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「な、なによそれ！」\",\"translatedEnglishLine\":\"\\\"W-What is that!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「とにかくそれで意識を保ったまま、\",\"translatedEnglishLine\":\"\\\"Anyway, by that, you should be able to transform while staying conscious.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　変身が可能になる筈だよ」\",\"translatedEnglishLine\":\"\\\"You can transform while remaining aware.\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「逆に変身をしないようにもできる」\",\"translatedEnglishLine\":\"\\\"It can also prevent transformation.\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「役に立つか立たないんだか、\",\"translatedEnglishLine\":\"I don't know if that's useful or not.\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　よく分からないわねぇ」\",\"translatedEnglishLine\":\"\\\"I really don't understand.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「もう、サイゼル。\",\"translatedEnglishLine\":\"\\\"Geez, Saizel.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　そんな言い方……」\",\"translatedEnglishLine\":\"Don't say it like that...\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「とにかくパイアール、\",\"translatedEnglishLine\":\"\\\"Anyway, Piarl,\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　本当にありがとう」\",\"translatedEnglishLine\":\"thank you so much.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「別に。\",\"translatedEnglishLine\":\"\\\"It's nothing.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　僕は姉さんの為にやっただけだよ」\",\"translatedEnglishLine\":\"I only did it for you, sis.\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「あ、大事なこと言い忘れた」\",\"translatedEnglishLine\":\"\\\"Ah, I forgot to tell you something important.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「変身できる時間は三分だけだから」\",\"translatedEnglishLine\":\"\\\"You can only stay transformed for three minutes.\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「たった三分！？」\",\"translatedEnglishLine\":\"\\\"Only three minutes!?\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「あれだけ強ければ十分でしょ」\",\"translatedEnglishLine\":\"\\\"If you're that strong, three minutes is enough.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「三分以上になると、\",\"translatedEnglishLine\":\"\\\"If it goes over three minutes,\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　僕にもどうなるか分からない」\",\"translatedEnglishLine\":\"I don't even know what'll happen to me.\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「そんな無責任な！」\",\"translatedEnglishLine\":\"\\\"That's so irresponsible!\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「なに言ってるのさ。\",\"translatedEnglishLine\":\"\\\"What are you talking about.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　僕は依頼通りのものは\",\"translatedEnglishLine\":\"I made exactly what you asked for,\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"　ちゃんと作っただろう」\",\"translatedEnglishLine\":\"didn't I?\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「じゃ、後は適当に頑張るんだね」\",\"translatedEnglishLine\":\"\\\"Well then, you just have to do your best from here on.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"ふてぶてしい態度のまま、\",\"translatedEnglishLine\":\"With his insolent attitude,\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"パイアールは城へと戻っていった。\",\"translatedEnglishLine\":\"Piarl returned to the castle.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「まったくもう……\",\"translatedEnglishLine\":\"\\\"Really now...\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　どっか適当な奴よね」\",\"translatedEnglishLine\":\"He's such a careless guy.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「だからと言って、\",\"translatedEnglishLine\":\"\\\"But even so,\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "268284",
+                                "originalJapaneseLine": "　君達みたいな爆弾は置いておけない",
+                                "translatedEnglishLine": "I can't leave bombs like you around."
+                            },
+                            {
+                                "lineNumber": "268285",
+                                "originalJapaneseLine": "「そういうアイテムの開発ね……」",
+                                "translatedEnglishLine": "\"Developing that kind of item, huh...\""
+                            },
+                            {
+                                "lineNumber": "268286",
+                                "originalJapaneseLine": "「ま、面倒だけど、",
+                                "translatedEnglishLine": "\"Well, it's troublesome, but"
+                            },
+                            {
+                                "lineNumber": "268287",
+                                "originalJapaneseLine": "　やるだけやってみるよ」",
+                                "translatedEnglishLine": "I'll give it my best shot.\""
+                            },
+                            {
+                                "lineNumber": "268288",
+                                "originalJapaneseLine": "「単純な力の制御なら",
+                                "translatedEnglishLine": "\"If it's simple power control,"
+                            },
+                            {
+                                "lineNumber": "268289",
+                                "originalJapaneseLine": "　方法論がないわけでもないし」",
+                                "translatedEnglishLine": "there are ways to do it.\""
+                            },
+                            {
+                                "lineNumber": "268290",
+                                "originalJapaneseLine": "「……ッ。",
+                                "translatedEnglishLine": "\"...!\""
+                            },
+                            {
+                                "lineNumber": "268291",
+                                "originalJapaneseLine": "　ありがとう、パイアール！」",
+                                "translatedEnglishLine": "Thank you, Piarl!\""
+                            },
+                            {
+                                "lineNumber": "268292",
+                                "originalJapaneseLine": "「……なによ。",
+                                "translatedEnglishLine": "\"...What.\""
+                            },
+                            {
+                                "lineNumber": "268293",
+                                "originalJapaneseLine": "　あんた意外といいとこあるのね」",
+                                "translatedEnglishLine": "You actually have some good points, huh.\""
+                            },
+                            {
+                                "lineNumber": "268294",
+                                "originalJapaneseLine": "「あ、気安く触らないでくれる？",
+                                "translatedEnglishLine": "\"Ah, please don't touch me so freely,"
+                            },
+                            {
+                                "lineNumber": "268295",
+                                "originalJapaneseLine": "　ボディに手の油がつくから」",
+                                "translatedEnglishLine": "your hand oils will get on my body.\""
+                            },
+                            {
+                                "lineNumber": "268296",
+                                "originalJapaneseLine": "「やっぱ可愛くない奴！」",
+                                "translatedEnglishLine": "\"I knew you weren't cute after all!\""
+                            },
+                            {
+                                "lineNumber": "268297",
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "............"
+                            },
+                            {
+                                "lineNumber": "268298",
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": "268299",
+                                "originalJapaneseLine": "果たしてパイアールの発明は成功した。",
+                                "translatedEnglishLine": "Sure enough, Piarl's invention was a success."
+                            },
+                            {
+                                "lineNumber": "268300",
+                                "originalJapaneseLine": "「本当にこんなブレスレットで、",
+                                "translatedEnglishLine": "\"Can we really control power properly with a bracelet like this?"
+                            },
+                            {
+                                "lineNumber": "268301",
+                                "originalJapaneseLine": "　ちゃんと力が制御できるんでしょうね」",
+                                "translatedEnglishLine": "It'll properly control our power, right?\""
+                            },
+                            {
+                                "lineNumber": "268302",
+                                "originalJapaneseLine": "「ちょっと可愛い……」",
+                                "translatedEnglishLine": "\"It's kind of cute...\""
+                            },
+                            {
+                                "lineNumber": "268303",
+                                "originalJapaneseLine": "渡されたのは色違いの",
+                                "translatedEnglishLine": "What was given were matching bracelets of different colors."
+                            },
+                            {
+                                "lineNumber": "268304",
+                                "originalJapaneseLine": "お揃いのブレスレットだった。",
+                                "translatedEnglishLine": "They were matching bracelets."
+                            },
+                            {
+                                "lineNumber": "268305",
+                                "originalJapaneseLine": "「ま、成功はしている筈だよ」",
+                                "translatedEnglishLine": "\"Well, it should be a success."
+                            },
+                            {
+                                "lineNumber": "268306",
+                                "originalJapaneseLine": "「ブレスレットに書かれた数値を見て」",
+                                "translatedEnglishLine": "Look at the values written on the bracelets."
+                            },
+                            {
+                                "lineNumber": "268307",
+                                "originalJapaneseLine": "「君達が変身するのに、",
+                                "translatedEnglishLine": "I noticed that the particles you emit when transforming"
+                            },
+                            {
+                                "lineNumber": "268308",
+                                "originalJapaneseLine": "　その粒子が出ていることに気づいてね。",
+                                "translatedEnglishLine": "match those values."
+                            },
+                            {
+                                "lineNumber": "268309",
+                                "originalJapaneseLine": "　数値化してみた」",
+                                "translatedEnglishLine": "So I quantified it.\""
+                            },
+                            {
+                                "lineNumber": "268310",
+                                "originalJapaneseLine": "「その数値がお互いに300VASにまで",
+                                "translatedEnglishLine": "\"When those values each reach 300 VAS,"
+                            },
+                            {
+                                "lineNumber": "268311",
+                                "originalJapaneseLine": "　達すると変身できる筈だよ」",
+                                "translatedEnglishLine": "you should be able to transform.\""
+                            },
+                            {
+                                "lineNumber": "268312",
+                                "originalJapaneseLine": "「？　その数値って、",
+                                "translatedEnglishLine": "\"? How do those values increase?"
+                            },
+                            {
+                                "lineNumber": "268313",
+                                "originalJapaneseLine": "　どうやったら上がるわけ？」",
+                                "translatedEnglishLine": "\"How do you raise them?\""
+                            },
+                            {
+                                "lineNumber": "268314",
+                                "originalJapaneseLine": "「さあ？",
+                                "translatedEnglishLine": "\"Who knows?"
+                            },
+                            {
+                                "lineNumber": "268315",
+                                "originalJapaneseLine": "　僕もそこまで知らないよ」",
+                                "translatedEnglishLine": "I don't know that much either.\""
+                            },
+                            {
+                                "lineNumber": "268316",
+                                "originalJapaneseLine": "「な、なによそれ！」",
+                                "translatedEnglishLine": "\"W-What is that!\""
+                            },
+                            {
+                                "lineNumber": "268317",
+                                "originalJapaneseLine": "「とにかくそれで意識を保ったまま、",
+                                "translatedEnglishLine": "\"Anyway, by that, you should be able to transform while staying conscious.\""
+                            },
+                            {
+                                "lineNumber": "268318",
+                                "originalJapaneseLine": "　変身が可能になる筈だよ」",
+                                "translatedEnglishLine": "\"You can transform while remaining aware.\""
+                            },
+                            {
+                                "lineNumber": "268319",
+                                "originalJapaneseLine": "「逆に変身をしないようにもできる」",
+                                "translatedEnglishLine": "\"It can also prevent transformation."
+                            },
+                            {
+                                "lineNumber": "268320",
+                                "originalJapaneseLine": "「役に立つか立たないんだか、",
+                                "translatedEnglishLine": "I don't know if that's useful or not.\""
+                            },
+                            {
+                                "lineNumber": "268321",
+                                "originalJapaneseLine": "　よく分からないわねぇ」",
+                                "translatedEnglishLine": "\"I really don't understand.\""
+                            },
+                            {
+                                "lineNumber": "268322",
+                                "originalJapaneseLine": "「もう、サイゼル。",
+                                "translatedEnglishLine": "\"Geez, Saizel."
+                            },
+                            {
+                                "lineNumber": "268323",
+                                "originalJapaneseLine": "　そんな言い方……」",
+                                "translatedEnglishLine": "Don't say it like that...\""
+                            },
+                            {
+                                "lineNumber": "268324",
+                                "originalJapaneseLine": "「とにかくパイアール、",
+                                "translatedEnglishLine": "\"Anyway, Piarl,"
+                            },
+                            {
+                                "lineNumber": "268325",
+                                "originalJapaneseLine": "　本当にありがとう」",
+                                "translatedEnglishLine": "thank you so much.\""
+                            },
+                            {
+                                "lineNumber": "268326",
+                                "originalJapaneseLine": "「別に。",
+                                "translatedEnglishLine": "\"It's nothing."
+                            },
+                            {
+                                "lineNumber": "268327",
+                                "originalJapaneseLine": "　僕は姉さんの為にやっただけだよ」",
+                                "translatedEnglishLine": "I only did it for you, sis.\""
+                            },
+                            {
+                                "lineNumber": "268328",
+                                "originalJapaneseLine": "「あ、大事なこと言い忘れた」",
+                                "translatedEnglishLine": "\"Ah, I forgot to tell you something important.\""
+                            },
+                            {
+                                "lineNumber": "268329",
+                                "originalJapaneseLine": "「変身できる時間は三分だけだから」",
+                                "translatedEnglishLine": "\"You can only stay transformed for three minutes.\""
+                            },
+                            {
+                                "lineNumber": "268330",
+                                "originalJapaneseLine": "「たった三分！？」",
+                                "translatedEnglishLine": "\"Only three minutes!?\""
+                            },
+                            {
+                                "lineNumber": "268331",
+                                "originalJapaneseLine": "「あれだけ強ければ十分でしょ」",
+                                "translatedEnglishLine": "\"If you're that strong, three minutes is enough.\""
+                            },
+                            {
+                                "lineNumber": "268332",
+                                "originalJapaneseLine": "「三分以上になると、",
+                                "translatedEnglishLine": "\"If it goes over three minutes,"
+                            },
+                            {
+                                "lineNumber": "268333",
+                                "originalJapaneseLine": "　僕にもどうなるか分からない」",
+                                "translatedEnglishLine": "I don't even know what'll happen to me.\""
+                            },
+                            {
+                                "lineNumber": "268334",
+                                "originalJapaneseLine": "「そんな無責任な！」",
+                                "translatedEnglishLine": "\"That's so irresponsible!\""
+                            },
+                            {
+                                "lineNumber": "268335",
+                                "originalJapaneseLine": "「なに言ってるのさ。",
+                                "translatedEnglishLine": "\"What are you talking about."
+                            },
+                            {
+                                "lineNumber": "268336",
+                                "originalJapaneseLine": "　僕は依頼通りのものは",
+                                "translatedEnglishLine": "I made exactly what you asked for,"
+                            },
+                            {
+                                "lineNumber": "268337",
+                                "originalJapaneseLine": "　ちゃんと作っただろう」",
+                                "translatedEnglishLine": "didn't I?\""
+                            },
+                            {
+                                "lineNumber": "268338",
+                                "originalJapaneseLine": "「じゃ、後は適当に頑張るんだね」",
+                                "translatedEnglishLine": "\"Well then, you just have to do your best from here on.\""
+                            },
+                            {
+                                "lineNumber": "268339",
+                                "originalJapaneseLine": "ふてぶてしい態度のまま、",
+                                "translatedEnglishLine": "With his insolent attitude,"
+                            },
+                            {
+                                "lineNumber": "268340",
+                                "originalJapaneseLine": "パイアールは城へと戻っていった。",
+                                "translatedEnglishLine": "Piarl returned to the castle."
+                            },
+                            {
+                                "lineNumber": "268341",
+                                "originalJapaneseLine": "「まったくもう……",
+                                "translatedEnglishLine": "\"Really now...\""
+                            },
+                            {
+                                "lineNumber": "268342",
+                                "originalJapaneseLine": "　どっか適当な奴よね」",
+                                "translatedEnglishLine": "He's such a careless guy."
+                            },
+                            {
+                                "lineNumber": "268343",
+                                "originalJapaneseLine": "「だからと言って、",
+                                "translatedEnglishLine": "\"But even so,"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1714,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1949,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3663
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　君達みたいな爆弾は置いておけない\",\"translatedEnglishLine\":\"I can't leave bombs like you around.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「そういうアイテムの開発ね……」\",\"translatedEnglishLine\":\"\\\"Developing that kind of item, huh...\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「ま、面倒だけど、\",\"translatedEnglishLine\":\"\\\"Well, it's troublesome, but\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　やるだけやってみるよ」\",\"translatedEnglishLine\":\"I'll give it my best shot.\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「単純な力の制御なら\",\"translatedEnglishLine\":\"\\\"If it's simple power control,\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　方法論がないわけでもないし」\",\"translatedEnglishLine\":\"there are ways to do it.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「……ッ。\",\"translatedEnglishLine\":\"\\\"...!\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　ありがとう、パイアール！」\",\"translatedEnglishLine\":\"Thank you, Piarl!\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「……なによ。\",\"translatedEnglishLine\":\"\\\"...What.\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　あんた意外といいとこあるのね」\",\"translatedEnglishLine\":\"You actually have some good points, huh.\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「あ、気安く触らないでくれる？\",\"translatedEnglishLine\":\"\\\"Ah, please don't touch me so freely,\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　ボディに手の油がつくから」\",\"translatedEnglishLine\":\"your hand oils will get on my body.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「やっぱ可愛くない奴！」\",\"translatedEnglishLine\":\"\\\"I knew you weren't cute after all!\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"果たしてパイアールの発明は成功した。\",\"translatedEnglishLine\":\"Sure enough, Piarl's invention was a success.\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「本当にこんなブレスレットで、\",\"translatedEnglishLine\":\"\\\"Can we really control power properly with a bracelet like this?\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　ちゃんと力が制御できるんでしょうね」\",\"translatedEnglishLine\":\"It'll properly control our power, right?\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ちょっと可愛い……」\",\"translatedEnglishLine\":\"\\\"It's kind of cute...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"渡されたのは色違いの\",\"translatedEnglishLine\":\"What was given were matching bracelets of different colors.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"お揃いのブレスレットだった。\",\"translatedEnglishLine\":\"They were matching bracelets.\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ま、成功はしている筈だよ」\",\"translatedEnglishLine\":\"\\\"Well, it should be a success.\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「ブレスレットに書かれた数値を見て」\",\"translatedEnglishLine\":\"Look at the values written on the bracelets.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「君達が変身するのに、\",\"translatedEnglishLine\":\"I noticed that the particles you emit when transforming\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　その粒子が出ていることに気づいてね。\",\"translatedEnglishLine\":\"match those values.\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　数値化してみた」\",\"translatedEnglishLine\":\"So I quantified it.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「その数値がお互いに300VASにまで\",\"translatedEnglishLine\":\"\\\"When those values each reach 300 VAS,\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　達すると変身できる筈だよ」\",\"translatedEnglishLine\":\"you should be able to transform.\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「？　その数値って、\",\"translatedEnglishLine\":\"\\\"? How do those values increase?\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　どうやったら上がるわけ？」\",\"translatedEnglishLine\":\"\\\"How do you raise them?\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「さあ？\",\"translatedEnglishLine\":\"\\\"Who knows?\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　僕もそこまで知らないよ」\",\"translatedEnglishLine\":\"I don't know that much either.\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「な、なによそれ！」\",\"translatedEnglishLine\":\"\\\"W-What is that!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「とにかくそれで意識を保ったまま、\",\"translatedEnglishLine\":\"\\\"Anyway, by that, you should be able to transform while staying conscious.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　変身が可能になる筈だよ」\",\"translatedEnglishLine\":\"\\\"You can transform while remaining aware.\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「逆に変身をしないようにもできる」\",\"translatedEnglishLine\":\"\\\"It can also prevent transformation.\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「役に立つか立たないんだか、\",\"translatedEnglishLine\":\"I don't know if that's useful or not.\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　よく分からないわねぇ」\",\"translatedEnglishLine\":\"\\\"I really don't understand.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「もう、サイゼル。\",\"translatedEnglishLine\":\"\\\"Geez, Saizel.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　そんな言い方……」\",\"translatedEnglishLine\":\"Don't say it like that...\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「とにかくパイアール、\",\"translatedEnglishLine\":\"\\\"Anyway, Piarl,\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　本当にありがとう」\",\"translatedEnglishLine\":\"thank you so much.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「別に。\",\"translatedEnglishLine\":\"\\\"It's nothing.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　僕は姉さんの為にやっただけだよ」\",\"translatedEnglishLine\":\"I only did it for you, sis.\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「あ、大事なこと言い忘れた」\",\"translatedEnglishLine\":\"\\\"Ah, I forgot to tell you something important.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「変身できる時間は三分だけだから」\",\"translatedEnglishLine\":\"\\\"You can only stay transformed for three minutes.\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「たった三分！？」\",\"translatedEnglishLine\":\"\\\"Only three minutes!?\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「あれだけ強ければ十分でしょ」\",\"translatedEnglishLine\":\"\\\"If you're that strong, three minutes is enough.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「三分以上になると、\",\"translatedEnglishLine\":\"\\\"If it goes over three minutes,\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　僕にもどうなるか分からない」\",\"translatedEnglishLine\":\"I don't even know what'll happen to me.\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「そんな無責任な！」\",\"translatedEnglishLine\":\"\\\"That's so irresponsible!\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「なに言ってるのさ。\",\"translatedEnglishLine\":\"\\\"What are you talking about.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　僕は依頼通りのものは\",\"translatedEnglishLine\":\"I made exactly what you asked for,\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"　ちゃんと作っただろう」\",\"translatedEnglishLine\":\"didn't I?\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「じゃ、後は適当に頑張るんだね」\",\"translatedEnglishLine\":\"\\\"Well then, you just have to do your best from here on.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"ふてぶてしい態度のまま、\",\"translatedEnglishLine\":\"With his insolent attitude,\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"パイアールは城へと戻っていった。\",\"translatedEnglishLine\":\"Piarl returned to the castle.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「まったくもう……\",\"translatedEnglishLine\":\"\\\"Really now...\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　どっか適当な奴よね」\",\"translatedEnglishLine\":\"He's such a careless guy.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「だからと言って、\",\"translatedEnglishLine\":\"\\\"But even so,\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "268284",
+                "originalJapaneseLine": "　君達みたいな爆弾は置いておけない",
+                "translatedEnglishLine": "I can't leave bombs like you around."
+            },
+            {
+                "lineNumber": "268285",
+                "originalJapaneseLine": "「そういうアイテムの開発ね……」",
+                "translatedEnglishLine": "\"Developing that kind of item, huh...\""
+            },
+            {
+                "lineNumber": "268286",
+                "originalJapaneseLine": "「ま、面倒だけど、",
+                "translatedEnglishLine": "\"Well, it's troublesome, but"
+            },
+            {
+                "lineNumber": "268287",
+                "originalJapaneseLine": "　やるだけやってみるよ」",
+                "translatedEnglishLine": "I'll give it my best shot.\""
+            },
+            {
+                "lineNumber": "268288",
+                "originalJapaneseLine": "「単純な力の制御なら",
+                "translatedEnglishLine": "\"If it's simple power control,"
+            },
+            {
+                "lineNumber": "268289",
+                "originalJapaneseLine": "　方法論がないわけでもないし」",
+                "translatedEnglishLine": "there are ways to do it.\""
+            },
+            {
+                "lineNumber": "268290",
+                "originalJapaneseLine": "「……ッ。",
+                "translatedEnglishLine": "\"...!\""
+            },
+            {
+                "lineNumber": "268291",
+                "originalJapaneseLine": "　ありがとう、パイアール！」",
+                "translatedEnglishLine": "Thank you, Piarl!\""
+            },
+            {
+                "lineNumber": "268292",
+                "originalJapaneseLine": "「……なによ。",
+                "translatedEnglishLine": "\"...What.\""
+            },
+            {
+                "lineNumber": "268293",
+                "originalJapaneseLine": "　あんた意外といいとこあるのね」",
+                "translatedEnglishLine": "You actually have some good points, huh.\""
+            },
+            {
+                "lineNumber": "268294",
+                "originalJapaneseLine": "「あ、気安く触らないでくれる？",
+                "translatedEnglishLine": "\"Ah, please don't touch me so freely,"
+            },
+            {
+                "lineNumber": "268295",
+                "originalJapaneseLine": "　ボディに手の油がつくから」",
+                "translatedEnglishLine": "your hand oils will get on my body.\""
+            },
+            {
+                "lineNumber": "268296",
+                "originalJapaneseLine": "「やっぱ可愛くない奴！」",
+                "translatedEnglishLine": "\"I knew you weren't cute after all!\""
+            },
+            {
+                "lineNumber": "268297",
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "............"
+            },
+            {
+                "lineNumber": "268298",
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": "268299",
+                "originalJapaneseLine": "果たしてパイアールの発明は成功した。",
+                "translatedEnglishLine": "Sure enough, Piarl's invention was a success."
+            },
+            {
+                "lineNumber": "268300",
+                "originalJapaneseLine": "「本当にこんなブレスレットで、",
+                "translatedEnglishLine": "\"Can we really control power properly with a bracelet like this?"
+            },
+            {
+                "lineNumber": "268301",
+                "originalJapaneseLine": "　ちゃんと力が制御できるんでしょうね」",
+                "translatedEnglishLine": "It'll properly control our power, right?\""
+            },
+            {
+                "lineNumber": "268302",
+                "originalJapaneseLine": "「ちょっと可愛い……」",
+                "translatedEnglishLine": "\"It's kind of cute...\""
+            },
+            {
+                "lineNumber": "268303",
+                "originalJapaneseLine": "渡されたのは色違いの",
+                "translatedEnglishLine": "What was given were matching bracelets of different colors."
+            },
+            {
+                "lineNumber": "268304",
+                "originalJapaneseLine": "お揃いのブレスレットだった。",
+                "translatedEnglishLine": "They were matching bracelets."
+            },
+            {
+                "lineNumber": "268305",
+                "originalJapaneseLine": "「ま、成功はしている筈だよ」",
+                "translatedEnglishLine": "\"Well, it should be a success."
+            },
+            {
+                "lineNumber": "268306",
+                "originalJapaneseLine": "「ブレスレットに書かれた数値を見て」",
+                "translatedEnglishLine": "Look at the values written on the bracelets."
+            },
+            {
+                "lineNumber": "268307",
+                "originalJapaneseLine": "「君達が変身するのに、",
+                "translatedEnglishLine": "I noticed that the particles you emit when transforming"
+            },
+            {
+                "lineNumber": "268308",
+                "originalJapaneseLine": "　その粒子が出ていることに気づいてね。",
+                "translatedEnglishLine": "match those values."
+            },
+            {
+                "lineNumber": "268309",
+                "originalJapaneseLine": "　数値化してみた」",
+                "translatedEnglishLine": "So I quantified it.\""
+            },
+            {
+                "lineNumber": "268310",
+                "originalJapaneseLine": "「その数値がお互いに300VASにまで",
+                "translatedEnglishLine": "\"When those values each reach 300 VAS,"
+            },
+            {
+                "lineNumber": "268311",
+                "originalJapaneseLine": "　達すると変身できる筈だよ」",
+                "translatedEnglishLine": "you should be able to transform.\""
+            },
+            {
+                "lineNumber": "268312",
+                "originalJapaneseLine": "「？　その数値って、",
+                "translatedEnglishLine": "\"? How do those values increase?"
+            },
+            {
+                "lineNumber": "268313",
+                "originalJapaneseLine": "　どうやったら上がるわけ？」",
+                "translatedEnglishLine": "\"How do you raise them?\""
+            },
+            {
+                "lineNumber": "268314",
+                "originalJapaneseLine": "「さあ？",
+                "translatedEnglishLine": "\"Who knows?"
+            },
+            {
+                "lineNumber": "268315",
+                "originalJapaneseLine": "　僕もそこまで知らないよ」",
+                "translatedEnglishLine": "I don't know that much either.\""
+            },
+            {
+                "lineNumber": "268316",
+                "originalJapaneseLine": "「な、なによそれ！」",
+                "translatedEnglishLine": "\"W-What is that!\""
+            },
+            {
+                "lineNumber": "268317",
+                "originalJapaneseLine": "「とにかくそれで意識を保ったまま、",
+                "translatedEnglishLine": "\"Anyway, by that, you should be able to transform while staying conscious.\""
+            },
+            {
+                "lineNumber": "268318",
+                "originalJapaneseLine": "　変身が可能になる筈だよ」",
+                "translatedEnglishLine": "\"You can transform while remaining aware.\""
+            },
+            {
+                "lineNumber": "268319",
+                "originalJapaneseLine": "「逆に変身をしないようにもできる」",
+                "translatedEnglishLine": "\"It can also prevent transformation."
+            },
+            {
+                "lineNumber": "268320",
+                "originalJapaneseLine": "「役に立つか立たないんだか、",
+                "translatedEnglishLine": "I don't know if that's useful or not.\""
+            },
+            {
+                "lineNumber": "268321",
+                "originalJapaneseLine": "　よく分からないわねぇ」",
+                "translatedEnglishLine": "\"I really don't understand.\""
+            },
+            {
+                "lineNumber": "268322",
+                "originalJapaneseLine": "「もう、サイゼル。",
+                "translatedEnglishLine": "\"Geez, Saizel."
+            },
+            {
+                "lineNumber": "268323",
+                "originalJapaneseLine": "　そんな言い方……」",
+                "translatedEnglishLine": "Don't say it like that...\""
+            },
+            {
+                "lineNumber": "268324",
+                "originalJapaneseLine": "「とにかくパイアール、",
+                "translatedEnglishLine": "\"Anyway, Piarl,"
+            },
+            {
+                "lineNumber": "268325",
+                "originalJapaneseLine": "　本当にありがとう」",
+                "translatedEnglishLine": "thank you so much.\""
+            },
+            {
+                "lineNumber": "268326",
+                "originalJapaneseLine": "「別に。",
+                "translatedEnglishLine": "\"It's nothing."
+            },
+            {
+                "lineNumber": "268327",
+                "originalJapaneseLine": "　僕は姉さんの為にやっただけだよ」",
+                "translatedEnglishLine": "I only did it for you, sis.\""
+            },
+            {
+                "lineNumber": "268328",
+                "originalJapaneseLine": "「あ、大事なこと言い忘れた」",
+                "translatedEnglishLine": "\"Ah, I forgot to tell you something important.\""
+            },
+            {
+                "lineNumber": "268329",
+                "originalJapaneseLine": "「変身できる時間は三分だけだから」",
+                "translatedEnglishLine": "\"You can only stay transformed for three minutes.\""
+            },
+            {
+                "lineNumber": "268330",
+                "originalJapaneseLine": "「たった三分！？」",
+                "translatedEnglishLine": "\"Only three minutes!?\""
+            },
+            {
+                "lineNumber": "268331",
+                "originalJapaneseLine": "「あれだけ強ければ十分でしょ」",
+                "translatedEnglishLine": "\"If you're that strong, three minutes is enough.\""
+            },
+            {
+                "lineNumber": "268332",
+                "originalJapaneseLine": "「三分以上になると、",
+                "translatedEnglishLine": "\"If it goes over three minutes,"
+            },
+            {
+                "lineNumber": "268333",
+                "originalJapaneseLine": "　僕にもどうなるか分からない」",
+                "translatedEnglishLine": "I don't even know what'll happen to me.\""
+            },
+            {
+                "lineNumber": "268334",
+                "originalJapaneseLine": "「そんな無責任な！」",
+                "translatedEnglishLine": "\"That's so irresponsible!\""
+            },
+            {
+                "lineNumber": "268335",
+                "originalJapaneseLine": "「なに言ってるのさ。",
+                "translatedEnglishLine": "\"What are you talking about."
+            },
+            {
+                "lineNumber": "268336",
+                "originalJapaneseLine": "　僕は依頼通りのものは",
+                "translatedEnglishLine": "I made exactly what you asked for,"
+            },
+            {
+                "lineNumber": "268337",
+                "originalJapaneseLine": "　ちゃんと作っただろう」",
+                "translatedEnglishLine": "didn't I?\""
+            },
+            {
+                "lineNumber": "268338",
+                "originalJapaneseLine": "「じゃ、後は適当に頑張るんだね」",
+                "translatedEnglishLine": "\"Well then, you just have to do your best from here on.\""
+            },
+            {
+                "lineNumber": "268339",
+                "originalJapaneseLine": "ふてぶてしい態度のまま、",
+                "translatedEnglishLine": "With his insolent attitude,"
+            },
+            {
+                "lineNumber": "268340",
+                "originalJapaneseLine": "パイアールは城へと戻っていった。",
+                "translatedEnglishLine": "Piarl returned to the castle."
+            },
+            {
+                "lineNumber": "268341",
+                "originalJapaneseLine": "「まったくもう……",
+                "translatedEnglishLine": "\"Really now...\""
+            },
+            {
+                "lineNumber": "268342",
+                "originalJapaneseLine": "　どっか適当な奴よね」",
+                "translatedEnglishLine": "He's such a careless guy."
+            },
+            {
+                "lineNumber": "268343",
+                "originalJapaneseLine": "「だからと言って、",
+                "translatedEnglishLine": "\"But even so,"
+            }
+        ]
+    }
+}

@@ -1,0 +1,719 @@
+{
+    "id": "resp_07328f72c9e36c640068ffed9def1c8195a5c11c9244ea1962",
+    "object": "response",
+    "created_at": 1761602973,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_07328f72c9e36c640068ffed9e42c081959fdb8df97ceccceb",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　ウズメ、くのいちの術だけは母上殿に\",\"translatedEnglishLine\":\"Uzume was told by Mother not to learn only the kunoichi techniques.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　覚えてはいけないと言われてるでござる」\",\"translatedEnglishLine\":\"She was told absolutely not to remember them.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「そのせいか、未だに苦手意識が……\",\"translatedEnglishLine\":\"Maybe because of that, she still has a sense of difficulty...\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　というか、恥ずかちぃ……」\",\"translatedEnglishLine\":\"Or rather, she feels embarrassed...\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「ほうほう」\",\"translatedEnglishLine\":\"\\\"Oh, oh.\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「ちらっ」\",\"translatedEnglishLine\":\"\\\"Glance\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「ん、なんでこっち見るんですか？」\",\"translatedEnglishLine\":\"\\\"Hmm, why are you looking this way?\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「くのいちの術は命を削る術。\",\"translatedEnglishLine\":\"\\\"Kunoichi techniques are arts that sap one's life.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　それだけは絶対に覚えるなと、\",\"translatedEnglishLine\":\"That alone you must never learn,\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　母上殿の厳命なのでござる」\",\"translatedEnglishLine\":\"was Mother's strict order.\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「ほうほうほーう！」\",\"translatedEnglishLine\":\"\\\"Oh, oh, ho!\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「ちらっ」\",\"translatedEnglishLine\":\"\\\"Glance\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「だからなんでこっちに、\",\"translatedEnglishLine\":\"\\\"So why do you turn your face this way,\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　くりっと顔を向けるんですか！？」\",\"translatedEnglishLine\":\"and look at me sharply!?\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「え、聞こえないでござる？\",\"translatedEnglishLine\":\"\\\"Eh, can't you hear?\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　ティロリロリン♪\",\"translatedEnglishLine\":\"Tirorirorin♪\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　と、鈴女の好感度の上がる音」\",\"translatedEnglishLine\":\"The sound that raises Suzume's affection.\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「なんで好感度が！？」\",\"translatedEnglishLine\":\"\\\"Why is your affection rising!?\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「母上殿、謙虚……\",\"translatedEnglishLine\":\"\\\"Mother, humble...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　ティロリロリン♪\",\"translatedEnglishLine\":\"Tirorirorin♪\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「ウズメちゃんの好感度が上がった！？」\",\"translatedEnglishLine\":\"\\\"Uzume-chan's affection has increased!?\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ん、ごめんでござる。\",\"translatedEnglishLine\":\"\\\"Hmm, sorry.\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　ウズメそろそろ行かないと」\",\"translatedEnglishLine\":\"Uzume has to go soon.\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「あっ、帰るでござる？」\",\"translatedEnglishLine\":\"\\\"Ah, you're going home?\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「ういうい、あっちで\",\"translatedEnglishLine\":\"\\\"Yes, yes, I feel like someone is calling over there,\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　呼ばれてるような気配がキュピーン」\",\"translatedEnglishLine\":\"a signal of a call—kyupeen.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「え、もう行っちゃうの？\",\"translatedEnglishLine\":\"\\\"Eh, you’re leaving already?\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　せっかく仲良くなれたところなのに……」\",\"translatedEnglishLine\":\"We just got close after all...\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「キューーーン！」\",\"translatedEnglishLine\":\"Kyu---n!\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「え、なんの音ですか？」\",\"translatedEnglishLine\":\"\\\"Eh, what was that sound?\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「う、う、う……」\",\"translatedEnglishLine\":\"\\\"U, u, u...\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「うわーーーい！\",\"translatedEnglishLine\":\"\\\"Wahhh!\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　もう我慢できないでござるー！\",\"translatedEnglishLine\":\"I can't hold it in anymore!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　母上殿ー！」\",\"translatedEnglishLine\":\"Mother!\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「きゃー！　突然抱きつかれたー！？」\",\"translatedEnglishLine\":\"\\\"Kya! I was suddenly hugged!?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「ちょ、ちょっと、ウズメちゃん？」\",\"translatedEnglishLine\":\"\\\"W-wait, Uzume-chan?\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「んー、母上殿の匂い久し振りー。\",\"translatedEnglishLine\":\"\\\"Mmm, it’s been a while since I smelled Mother’s scent.\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　ぐりぐりー」\",\"translatedEnglishLine\":\"Nuzzle, nuzzle.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"後ろから抱きついたウズメが、\",\"translatedEnglishLine\":\"Uzume hugged from behind,\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"髪の中に鼻先を埋めてぐりぐりー。\",\"translatedEnglishLine\":\"pressing her nose into her hair and nuzzling.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「わわわ、顔うずめないでー！？」\",\"translatedEnglishLine\":\"\\\"W-wait, don’t bury your face in me!\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「いやでござるー。\",\"translatedEnglishLine\":\"\\\"No way.\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　ウズメまだまだ甘えたい年頃。\",\"translatedEnglishLine\":\"Uzume is still at an age where she wants to be spoiled.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　んー、母上殿、好き好き好きー」\",\"translatedEnglishLine\":\"Mmm, Mother, I love you, love you, love you.\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「うわわわわわわわー！？」\",\"translatedEnglishLine\":\"\\\"Wawawawawawawa!?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ほうほうほう、\",\"translatedEnglishLine\":\"\\\"Oh, oh, oh,\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　ウズメはかなみ大好きっ子でござるか」\",\"translatedEnglishLine\":\"Uzume is a Kanami love child, is she?\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「ういうい、ウズメは母上殿、\",\"translatedEnglishLine\":\"\\\"Yes, yes, Uzume loves Mother,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　大大大好きっ子でござるー」\",\"translatedEnglishLine\":\"loves her very, very, very much!\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「いやん、そんな好き好き言われちゃ、\",\"translatedEnglishLine\":\"\\\"No way, saying you love me that much,\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　むしろ鈴女が照れる」\",\"translatedEnglishLine\":\"it actually makes Suzume blush.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「なんで鈴女さんが！？」\",\"translatedEnglishLine\":\"\\\"Why Suzume-san!?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「かなみー、好き好き好きー。\",\"translatedEnglishLine\":\"\\\"Kanami, love, love, love.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　むぎゅー」\",\"translatedEnglishLine\":\"Hug.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「なんで鈴女さんまで\",\"translatedEnglishLine\":\"\\\"Why is even Suzume-san\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　抱きついてくるんですか！？」\",\"translatedEnglishLine\":\"hugging me!?\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"と、そんな風に三人で\",\"translatedEnglishLine\":\"And like that, the three of them\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"沢山わちゃわちゃとした。\",\"translatedEnglishLine\":\"had a lot of noisy fun together.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「それじゃ帰るねでござる。\",\"translatedEnglishLine\":\"\\\"Well then, I’ll be going home.\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "268764",
+                                "originalJapaneseLine": "　ウズメ、くのいちの術だけは母上殿に",
+                                "translatedEnglishLine": "Uzume was told by Mother not to learn only the kunoichi techniques."
+                            },
+                            {
+                                "lineNumber": "268765",
+                                "originalJapaneseLine": "　覚えてはいけないと言われてるでござる」",
+                                "translatedEnglishLine": "She was told absolutely not to remember them."
+                            },
+                            {
+                                "lineNumber": "268766",
+                                "originalJapaneseLine": "「そのせいか、未だに苦手意識が……",
+                                "translatedEnglishLine": "Maybe because of that, she still has a sense of difficulty..."
+                            },
+                            {
+                                "lineNumber": "268767",
+                                "originalJapaneseLine": "　というか、恥ずかちぃ……」",
+                                "translatedEnglishLine": "Or rather, she feels embarrassed..."
+                            },
+                            {
+                                "lineNumber": "268768",
+                                "originalJapaneseLine": "「ほうほう」",
+                                "translatedEnglishLine": "\"Oh, oh.\""
+                            },
+                            {
+                                "lineNumber": "268769",
+                                "originalJapaneseLine": "「ちらっ」",
+                                "translatedEnglishLine": "\"Glance\""
+                            },
+                            {
+                                "lineNumber": "268770",
+                                "originalJapaneseLine": "「ん、なんでこっち見るんですか？」",
+                                "translatedEnglishLine": "\"Hmm, why are you looking this way?\""
+                            },
+                            {
+                                "lineNumber": "268771",
+                                "originalJapaneseLine": "「くのいちの術は命を削る術。",
+                                "translatedEnglishLine": "\"Kunoichi techniques are arts that sap one's life."
+                            },
+                            {
+                                "lineNumber": "268772",
+                                "originalJapaneseLine": "　それだけは絶対に覚えるなと、",
+                                "translatedEnglishLine": "That alone you must never learn,"
+                            },
+                            {
+                                "lineNumber": "268773",
+                                "originalJapaneseLine": "　母上殿の厳命なのでござる」",
+                                "translatedEnglishLine": "was Mother's strict order.\""
+                            },
+                            {
+                                "lineNumber": "268774",
+                                "originalJapaneseLine": "「ほうほうほーう！」",
+                                "translatedEnglishLine": "\"Oh, oh, ho!\""
+                            },
+                            {
+                                "lineNumber": "268775",
+                                "originalJapaneseLine": "「ちらっ」",
+                                "translatedEnglishLine": "\"Glance\""
+                            },
+                            {
+                                "lineNumber": "268776",
+                                "originalJapaneseLine": "「だからなんでこっちに、",
+                                "translatedEnglishLine": "\"So why do you turn your face this way,"
+                            },
+                            {
+                                "lineNumber": "268777",
+                                "originalJapaneseLine": "　くりっと顔を向けるんですか！？」",
+                                "translatedEnglishLine": "and look at me sharply!?\""
+                            },
+                            {
+                                "lineNumber": "268778",
+                                "originalJapaneseLine": "「え、聞こえないでござる？",
+                                "translatedEnglishLine": "\"Eh, can't you hear?\""
+                            },
+                            {
+                                "lineNumber": "268779",
+                                "originalJapaneseLine": "　ティロリロリン♪",
+                                "translatedEnglishLine": "Tirorirorin♪"
+                            },
+                            {
+                                "lineNumber": "268780",
+                                "originalJapaneseLine": "　と、鈴女の好感度の上がる音」",
+                                "translatedEnglishLine": "The sound that raises Suzume's affection.\""
+                            },
+                            {
+                                "lineNumber": "268781",
+                                "originalJapaneseLine": "「なんで好感度が！？」",
+                                "translatedEnglishLine": "\"Why is your affection rising!?\""
+                            },
+                            {
+                                "lineNumber": "268782",
+                                "originalJapaneseLine": "「母上殿、謙虚……",
+                                "translatedEnglishLine": "\"Mother, humble...\""
+                            },
+                            {
+                                "lineNumber": "268783",
+                                "originalJapaneseLine": "　ティロリロリン♪",
+                                "translatedEnglishLine": "Tirorirorin♪"
+                            },
+                            {
+                                "lineNumber": "268784",
+                                "originalJapaneseLine": "「ウズメちゃんの好感度が上がった！？」",
+                                "translatedEnglishLine": "\"Uzume-chan's affection has increased!?\""
+                            },
+                            {
+                                "lineNumber": "268785",
+                                "originalJapaneseLine": "「ん、ごめんでござる。",
+                                "translatedEnglishLine": "\"Hmm, sorry."
+                            },
+                            {
+                                "lineNumber": "268786",
+                                "originalJapaneseLine": "　ウズメそろそろ行かないと」",
+                                "translatedEnglishLine": "Uzume has to go soon.\""
+                            },
+                            {
+                                "lineNumber": "268787",
+                                "originalJapaneseLine": "「あっ、帰るでござる？」",
+                                "translatedEnglishLine": "\"Ah, you're going home?\""
+                            },
+                            {
+                                "lineNumber": "268788",
+                                "originalJapaneseLine": "「ういうい、あっちで",
+                                "translatedEnglishLine": "\"Yes, yes, I feel like someone is calling over there,"
+                            },
+                            {
+                                "lineNumber": "268789",
+                                "originalJapaneseLine": "　呼ばれてるような気配がキュピーン」",
+                                "translatedEnglishLine": "a signal of a call—kyupeen.\""
+                            },
+                            {
+                                "lineNumber": "268790",
+                                "originalJapaneseLine": "「え、もう行っちゃうの？",
+                                "translatedEnglishLine": "\"Eh, you’re leaving already?"
+                            },
+                            {
+                                "lineNumber": "268791",
+                                "originalJapaneseLine": "　せっかく仲良くなれたところなのに……」",
+                                "translatedEnglishLine": "We just got close after all...\""
+                            },
+                            {
+                                "lineNumber": "268792",
+                                "originalJapaneseLine": "「キューーーン！」",
+                                "translatedEnglishLine": "Kyu---n!"
+                            },
+                            {
+                                "lineNumber": "268793",
+                                "originalJapaneseLine": "「え、なんの音ですか？」",
+                                "translatedEnglishLine": "\"Eh, what was that sound?\""
+                            },
+                            {
+                                "lineNumber": "268794",
+                                "originalJapaneseLine": "「う、う、う……」",
+                                "translatedEnglishLine": "\"U, u, u...\""
+                            },
+                            {
+                                "lineNumber": "268795",
+                                "originalJapaneseLine": "「うわーーーい！",
+                                "translatedEnglishLine": "\"Wahhh!\""
+                            },
+                            {
+                                "lineNumber": "268796",
+                                "originalJapaneseLine": "　もう我慢できないでござるー！",
+                                "translatedEnglishLine": "I can't hold it in anymore!\""
+                            },
+                            {
+                                "lineNumber": "268797",
+                                "originalJapaneseLine": "　母上殿ー！」",
+                                "translatedEnglishLine": "Mother!\""
+                            },
+                            {
+                                "lineNumber": "268798",
+                                "originalJapaneseLine": "「きゃー！　突然抱きつかれたー！？」",
+                                "translatedEnglishLine": "\"Kya! I was suddenly hugged!?\""
+                            },
+                            {
+                                "lineNumber": "268799",
+                                "originalJapaneseLine": "「ちょ、ちょっと、ウズメちゃん？」",
+                                "translatedEnglishLine": "\"W-wait, Uzume-chan?\""
+                            },
+                            {
+                                "lineNumber": "268800",
+                                "originalJapaneseLine": "「んー、母上殿の匂い久し振りー。",
+                                "translatedEnglishLine": "\"Mmm, it’s been a while since I smelled Mother’s scent."
+                            },
+                            {
+                                "lineNumber": "268801",
+                                "originalJapaneseLine": "　ぐりぐりー」",
+                                "translatedEnglishLine": "Nuzzle, nuzzle.\""
+                            },
+                            {
+                                "lineNumber": "268802",
+                                "originalJapaneseLine": "後ろから抱きついたウズメが、",
+                                "translatedEnglishLine": "Uzume hugged from behind,"
+                            },
+                            {
+                                "lineNumber": "268803",
+                                "originalJapaneseLine": "髪の中に鼻先を埋めてぐりぐりー。",
+                                "translatedEnglishLine": "pressing her nose into her hair and nuzzling."
+                            },
+                            {
+                                "lineNumber": "268804",
+                                "originalJapaneseLine": "「わわわ、顔うずめないでー！？」",
+                                "translatedEnglishLine": "\"W-wait, don’t bury your face in me!\""
+                            },
+                            {
+                                "lineNumber": "268805",
+                                "originalJapaneseLine": "「いやでござるー。",
+                                "translatedEnglishLine": "\"No way."
+                            },
+                            {
+                                "lineNumber": "268806",
+                                "originalJapaneseLine": "　ウズメまだまだ甘えたい年頃。",
+                                "translatedEnglishLine": "Uzume is still at an age where she wants to be spoiled."
+                            },
+                            {
+                                "lineNumber": "268807",
+                                "originalJapaneseLine": "　んー、母上殿、好き好き好きー」",
+                                "translatedEnglishLine": "Mmm, Mother, I love you, love you, love you.\""
+                            },
+                            {
+                                "lineNumber": "268808",
+                                "originalJapaneseLine": "「うわわわわわわわー！？」",
+                                "translatedEnglishLine": "\"Wawawawawawawa!?\""
+                            },
+                            {
+                                "lineNumber": "268809",
+                                "originalJapaneseLine": "「ほうほうほう、",
+                                "translatedEnglishLine": "\"Oh, oh, oh,"
+                            },
+                            {
+                                "lineNumber": "268810",
+                                "originalJapaneseLine": "　ウズメはかなみ大好きっ子でござるか」",
+                                "translatedEnglishLine": "Uzume is a Kanami love child, is she?\""
+                            },
+                            {
+                                "lineNumber": "268811",
+                                "originalJapaneseLine": "「ういうい、ウズメは母上殿、",
+                                "translatedEnglishLine": "\"Yes, yes, Uzume loves Mother,"
+                            },
+                            {
+                                "lineNumber": "268812",
+                                "originalJapaneseLine": "　大大大好きっ子でござるー」",
+                                "translatedEnglishLine": "loves her very, very, very much!\""
+                            },
+                            {
+                                "lineNumber": "268813",
+                                "originalJapaneseLine": "「いやん、そんな好き好き言われちゃ、",
+                                "translatedEnglishLine": "\"No way, saying you love me that much,"
+                            },
+                            {
+                                "lineNumber": "268814",
+                                "originalJapaneseLine": "　むしろ鈴女が照れる」",
+                                "translatedEnglishLine": "it actually makes Suzume blush.\""
+                            },
+                            {
+                                "lineNumber": "268815",
+                                "originalJapaneseLine": "「なんで鈴女さんが！？」",
+                                "translatedEnglishLine": "\"Why Suzume-san!?\""
+                            },
+                            {
+                                "lineNumber": "268816",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "268817",
+                                "originalJapaneseLine": "「かなみー、好き好き好きー。",
+                                "translatedEnglishLine": "\"Kanami, love, love, love."
+                            },
+                            {
+                                "lineNumber": "268818",
+                                "originalJapaneseLine": "　むぎゅー」",
+                                "translatedEnglishLine": "Hug.\""
+                            },
+                            {
+                                "lineNumber": "268819",
+                                "originalJapaneseLine": "「なんで鈴女さんまで",
+                                "translatedEnglishLine": "\"Why is even Suzume-san"
+                            },
+                            {
+                                "lineNumber": "268820",
+                                "originalJapaneseLine": "　抱きついてくるんですか！？」",
+                                "translatedEnglishLine": "hugging me!?\""
+                            },
+                            {
+                                "lineNumber": "268821",
+                                "originalJapaneseLine": "と、そんな風に三人で",
+                                "translatedEnglishLine": "And like that, the three of them"
+                            },
+                            {
+                                "lineNumber": "268822",
+                                "originalJapaneseLine": "沢山わちゃわちゃとした。",
+                                "translatedEnglishLine": "had a lot of noisy fun together."
+                            },
+                            {
+                                "lineNumber": "268823",
+                                "originalJapaneseLine": "「それじゃ帰るねでござる。",
+                                "translatedEnglishLine": "\"Well then, I’ll be going home.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1784,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2071,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3855
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　ウズメ、くのいちの術だけは母上殿に\",\"translatedEnglishLine\":\"Uzume was told by Mother not to learn only the kunoichi techniques.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　覚えてはいけないと言われてるでござる」\",\"translatedEnglishLine\":\"She was told absolutely not to remember them.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「そのせいか、未だに苦手意識が……\",\"translatedEnglishLine\":\"Maybe because of that, she still has a sense of difficulty...\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　というか、恥ずかちぃ……」\",\"translatedEnglishLine\":\"Or rather, she feels embarrassed...\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「ほうほう」\",\"translatedEnglishLine\":\"\\\"Oh, oh.\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「ちらっ」\",\"translatedEnglishLine\":\"\\\"Glance\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「ん、なんでこっち見るんですか？」\",\"translatedEnglishLine\":\"\\\"Hmm, why are you looking this way?\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「くのいちの術は命を削る術。\",\"translatedEnglishLine\":\"\\\"Kunoichi techniques are arts that sap one's life.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　それだけは絶対に覚えるなと、\",\"translatedEnglishLine\":\"That alone you must never learn,\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　母上殿の厳命なのでござる」\",\"translatedEnglishLine\":\"was Mother's strict order.\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「ほうほうほーう！」\",\"translatedEnglishLine\":\"\\\"Oh, oh, ho!\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「ちらっ」\",\"translatedEnglishLine\":\"\\\"Glance\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「だからなんでこっちに、\",\"translatedEnglishLine\":\"\\\"So why do you turn your face this way,\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　くりっと顔を向けるんですか！？」\",\"translatedEnglishLine\":\"and look at me sharply!?\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「え、聞こえないでござる？\",\"translatedEnglishLine\":\"\\\"Eh, can't you hear?\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　ティロリロリン♪\",\"translatedEnglishLine\":\"Tirorirorin♪\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　と、鈴女の好感度の上がる音」\",\"translatedEnglishLine\":\"The sound that raises Suzume's affection.\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「なんで好感度が！？」\",\"translatedEnglishLine\":\"\\\"Why is your affection rising!?\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「母上殿、謙虚……\",\"translatedEnglishLine\":\"\\\"Mother, humble...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　ティロリロリン♪\",\"translatedEnglishLine\":\"Tirorirorin♪\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「ウズメちゃんの好感度が上がった！？」\",\"translatedEnglishLine\":\"\\\"Uzume-chan's affection has increased!?\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ん、ごめんでござる。\",\"translatedEnglishLine\":\"\\\"Hmm, sorry.\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　ウズメそろそろ行かないと」\",\"translatedEnglishLine\":\"Uzume has to go soon.\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「あっ、帰るでござる？」\",\"translatedEnglishLine\":\"\\\"Ah, you're going home?\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「ういうい、あっちで\",\"translatedEnglishLine\":\"\\\"Yes, yes, I feel like someone is calling over there,\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　呼ばれてるような気配がキュピーン」\",\"translatedEnglishLine\":\"a signal of a call—kyupeen.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「え、もう行っちゃうの？\",\"translatedEnglishLine\":\"\\\"Eh, you’re leaving already?\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　せっかく仲良くなれたところなのに……」\",\"translatedEnglishLine\":\"We just got close after all...\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「キューーーン！」\",\"translatedEnglishLine\":\"Kyu---n!\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「え、なんの音ですか？」\",\"translatedEnglishLine\":\"\\\"Eh, what was that sound?\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「う、う、う……」\",\"translatedEnglishLine\":\"\\\"U, u, u...\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「うわーーーい！\",\"translatedEnglishLine\":\"\\\"Wahhh!\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　もう我慢できないでござるー！\",\"translatedEnglishLine\":\"I can't hold it in anymore!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　母上殿ー！」\",\"translatedEnglishLine\":\"Mother!\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「きゃー！　突然抱きつかれたー！？」\",\"translatedEnglishLine\":\"\\\"Kya! I was suddenly hugged!?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「ちょ、ちょっと、ウズメちゃん？」\",\"translatedEnglishLine\":\"\\\"W-wait, Uzume-chan?\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「んー、母上殿の匂い久し振りー。\",\"translatedEnglishLine\":\"\\\"Mmm, it’s been a while since I smelled Mother’s scent.\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　ぐりぐりー」\",\"translatedEnglishLine\":\"Nuzzle, nuzzle.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"後ろから抱きついたウズメが、\",\"translatedEnglishLine\":\"Uzume hugged from behind,\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"髪の中に鼻先を埋めてぐりぐりー。\",\"translatedEnglishLine\":\"pressing her nose into her hair and nuzzling.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「わわわ、顔うずめないでー！？」\",\"translatedEnglishLine\":\"\\\"W-wait, don’t bury your face in me!\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「いやでござるー。\",\"translatedEnglishLine\":\"\\\"No way.\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　ウズメまだまだ甘えたい年頃。\",\"translatedEnglishLine\":\"Uzume is still at an age where she wants to be spoiled.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　んー、母上殿、好き好き好きー」\",\"translatedEnglishLine\":\"Mmm, Mother, I love you, love you, love you.\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「うわわわわわわわー！？」\",\"translatedEnglishLine\":\"\\\"Wawawawawawawa!?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ほうほうほう、\",\"translatedEnglishLine\":\"\\\"Oh, oh, oh,\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　ウズメはかなみ大好きっ子でござるか」\",\"translatedEnglishLine\":\"Uzume is a Kanami love child, is she?\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「ういうい、ウズメは母上殿、\",\"translatedEnglishLine\":\"\\\"Yes, yes, Uzume loves Mother,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　大大大好きっ子でござるー」\",\"translatedEnglishLine\":\"loves her very, very, very much!\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「いやん、そんな好き好き言われちゃ、\",\"translatedEnglishLine\":\"\\\"No way, saying you love me that much,\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　むしろ鈴女が照れる」\",\"translatedEnglishLine\":\"it actually makes Suzume blush.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「なんで鈴女さんが！？」\",\"translatedEnglishLine\":\"\\\"Why Suzume-san!?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「かなみー、好き好き好きー。\",\"translatedEnglishLine\":\"\\\"Kanami, love, love, love.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　むぎゅー」\",\"translatedEnglishLine\":\"Hug.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「なんで鈴女さんまで\",\"translatedEnglishLine\":\"\\\"Why is even Suzume-san\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　抱きついてくるんですか！？」\",\"translatedEnglishLine\":\"hugging me!?\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"と、そんな風に三人で\",\"translatedEnglishLine\":\"And like that, the three of them\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"沢山わちゃわちゃとした。\",\"translatedEnglishLine\":\"had a lot of noisy fun together.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「それじゃ帰るねでござる。\",\"translatedEnglishLine\":\"\\\"Well then, I’ll be going home.\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "268764",
+                "originalJapaneseLine": "　ウズメ、くのいちの術だけは母上殿に",
+                "translatedEnglishLine": "Uzume was told by Mother not to learn only the kunoichi techniques."
+            },
+            {
+                "lineNumber": "268765",
+                "originalJapaneseLine": "　覚えてはいけないと言われてるでござる」",
+                "translatedEnglishLine": "She was told absolutely not to remember them."
+            },
+            {
+                "lineNumber": "268766",
+                "originalJapaneseLine": "「そのせいか、未だに苦手意識が……",
+                "translatedEnglishLine": "Maybe because of that, she still has a sense of difficulty..."
+            },
+            {
+                "lineNumber": "268767",
+                "originalJapaneseLine": "　というか、恥ずかちぃ……」",
+                "translatedEnglishLine": "Or rather, she feels embarrassed..."
+            },
+            {
+                "lineNumber": "268768",
+                "originalJapaneseLine": "「ほうほう」",
+                "translatedEnglishLine": "\"Oh, oh.\""
+            },
+            {
+                "lineNumber": "268769",
+                "originalJapaneseLine": "「ちらっ」",
+                "translatedEnglishLine": "\"Glance\""
+            },
+            {
+                "lineNumber": "268770",
+                "originalJapaneseLine": "「ん、なんでこっち見るんですか？」",
+                "translatedEnglishLine": "\"Hmm, why are you looking this way?\""
+            },
+            {
+                "lineNumber": "268771",
+                "originalJapaneseLine": "「くのいちの術は命を削る術。",
+                "translatedEnglishLine": "\"Kunoichi techniques are arts that sap one's life."
+            },
+            {
+                "lineNumber": "268772",
+                "originalJapaneseLine": "　それだけは絶対に覚えるなと、",
+                "translatedEnglishLine": "That alone you must never learn,"
+            },
+            {
+                "lineNumber": "268773",
+                "originalJapaneseLine": "　母上殿の厳命なのでござる」",
+                "translatedEnglishLine": "was Mother's strict order.\""
+            },
+            {
+                "lineNumber": "268774",
+                "originalJapaneseLine": "「ほうほうほーう！」",
+                "translatedEnglishLine": "\"Oh, oh, ho!\""
+            },
+            {
+                "lineNumber": "268775",
+                "originalJapaneseLine": "「ちらっ」",
+                "translatedEnglishLine": "\"Glance\""
+            },
+            {
+                "lineNumber": "268776",
+                "originalJapaneseLine": "「だからなんでこっちに、",
+                "translatedEnglishLine": "\"So why do you turn your face this way,"
+            },
+            {
+                "lineNumber": "268777",
+                "originalJapaneseLine": "　くりっと顔を向けるんですか！？」",
+                "translatedEnglishLine": "and look at me sharply!?\""
+            },
+            {
+                "lineNumber": "268778",
+                "originalJapaneseLine": "「え、聞こえないでござる？",
+                "translatedEnglishLine": "\"Eh, can't you hear?\""
+            },
+            {
+                "lineNumber": "268779",
+                "originalJapaneseLine": "　ティロリロリン♪",
+                "translatedEnglishLine": "Tirorirorin♪"
+            },
+            {
+                "lineNumber": "268780",
+                "originalJapaneseLine": "　と、鈴女の好感度の上がる音」",
+                "translatedEnglishLine": "The sound that raises Suzume's affection.\""
+            },
+            {
+                "lineNumber": "268781",
+                "originalJapaneseLine": "「なんで好感度が！？」",
+                "translatedEnglishLine": "\"Why is your affection rising!?\""
+            },
+            {
+                "lineNumber": "268782",
+                "originalJapaneseLine": "「母上殿、謙虚……",
+                "translatedEnglishLine": "\"Mother, humble...\""
+            },
+            {
+                "lineNumber": "268783",
+                "originalJapaneseLine": "　ティロリロリン♪",
+                "translatedEnglishLine": "Tirorirorin♪"
+            },
+            {
+                "lineNumber": "268784",
+                "originalJapaneseLine": "「ウズメちゃんの好感度が上がった！？」",
+                "translatedEnglishLine": "\"Uzume-chan's affection has increased!?\""
+            },
+            {
+                "lineNumber": "268785",
+                "originalJapaneseLine": "「ん、ごめんでござる。",
+                "translatedEnglishLine": "\"Hmm, sorry."
+            },
+            {
+                "lineNumber": "268786",
+                "originalJapaneseLine": "　ウズメそろそろ行かないと」",
+                "translatedEnglishLine": "Uzume has to go soon.\""
+            },
+            {
+                "lineNumber": "268787",
+                "originalJapaneseLine": "「あっ、帰るでござる？」",
+                "translatedEnglishLine": "\"Ah, you're going home?\""
+            },
+            {
+                "lineNumber": "268788",
+                "originalJapaneseLine": "「ういうい、あっちで",
+                "translatedEnglishLine": "\"Yes, yes, I feel like someone is calling over there,"
+            },
+            {
+                "lineNumber": "268789",
+                "originalJapaneseLine": "　呼ばれてるような気配がキュピーン」",
+                "translatedEnglishLine": "a signal of a call—kyupeen.\""
+            },
+            {
+                "lineNumber": "268790",
+                "originalJapaneseLine": "「え、もう行っちゃうの？",
+                "translatedEnglishLine": "\"Eh, you’re leaving already?"
+            },
+            {
+                "lineNumber": "268791",
+                "originalJapaneseLine": "　せっかく仲良くなれたところなのに……」",
+                "translatedEnglishLine": "We just got close after all...\""
+            },
+            {
+                "lineNumber": "268792",
+                "originalJapaneseLine": "「キューーーン！」",
+                "translatedEnglishLine": "Kyu---n!"
+            },
+            {
+                "lineNumber": "268793",
+                "originalJapaneseLine": "「え、なんの音ですか？」",
+                "translatedEnglishLine": "\"Eh, what was that sound?\""
+            },
+            {
+                "lineNumber": "268794",
+                "originalJapaneseLine": "「う、う、う……」",
+                "translatedEnglishLine": "\"U, u, u...\""
+            },
+            {
+                "lineNumber": "268795",
+                "originalJapaneseLine": "「うわーーーい！",
+                "translatedEnglishLine": "\"Wahhh!\""
+            },
+            {
+                "lineNumber": "268796",
+                "originalJapaneseLine": "　もう我慢できないでござるー！",
+                "translatedEnglishLine": "I can't hold it in anymore!\""
+            },
+            {
+                "lineNumber": "268797",
+                "originalJapaneseLine": "　母上殿ー！」",
+                "translatedEnglishLine": "Mother!\""
+            },
+            {
+                "lineNumber": "268798",
+                "originalJapaneseLine": "「きゃー！　突然抱きつかれたー！？」",
+                "translatedEnglishLine": "\"Kya! I was suddenly hugged!?\""
+            },
+            {
+                "lineNumber": "268799",
+                "originalJapaneseLine": "「ちょ、ちょっと、ウズメちゃん？」",
+                "translatedEnglishLine": "\"W-wait, Uzume-chan?\""
+            },
+            {
+                "lineNumber": "268800",
+                "originalJapaneseLine": "「んー、母上殿の匂い久し振りー。",
+                "translatedEnglishLine": "\"Mmm, it’s been a while since I smelled Mother’s scent."
+            },
+            {
+                "lineNumber": "268801",
+                "originalJapaneseLine": "　ぐりぐりー」",
+                "translatedEnglishLine": "Nuzzle, nuzzle.\""
+            },
+            {
+                "lineNumber": "268802",
+                "originalJapaneseLine": "後ろから抱きついたウズメが、",
+                "translatedEnglishLine": "Uzume hugged from behind,"
+            },
+            {
+                "lineNumber": "268803",
+                "originalJapaneseLine": "髪の中に鼻先を埋めてぐりぐりー。",
+                "translatedEnglishLine": "pressing her nose into her hair and nuzzling."
+            },
+            {
+                "lineNumber": "268804",
+                "originalJapaneseLine": "「わわわ、顔うずめないでー！？」",
+                "translatedEnglishLine": "\"W-wait, don’t bury your face in me!\""
+            },
+            {
+                "lineNumber": "268805",
+                "originalJapaneseLine": "「いやでござるー。",
+                "translatedEnglishLine": "\"No way."
+            },
+            {
+                "lineNumber": "268806",
+                "originalJapaneseLine": "　ウズメまだまだ甘えたい年頃。",
+                "translatedEnglishLine": "Uzume is still at an age where she wants to be spoiled."
+            },
+            {
+                "lineNumber": "268807",
+                "originalJapaneseLine": "　んー、母上殿、好き好き好きー」",
+                "translatedEnglishLine": "Mmm, Mother, I love you, love you, love you.\""
+            },
+            {
+                "lineNumber": "268808",
+                "originalJapaneseLine": "「うわわわわわわわー！？」",
+                "translatedEnglishLine": "\"Wawawawawawawa!?\""
+            },
+            {
+                "lineNumber": "268809",
+                "originalJapaneseLine": "「ほうほうほう、",
+                "translatedEnglishLine": "\"Oh, oh, oh,"
+            },
+            {
+                "lineNumber": "268810",
+                "originalJapaneseLine": "　ウズメはかなみ大好きっ子でござるか」",
+                "translatedEnglishLine": "Uzume is a Kanami love child, is she?\""
+            },
+            {
+                "lineNumber": "268811",
+                "originalJapaneseLine": "「ういうい、ウズメは母上殿、",
+                "translatedEnglishLine": "\"Yes, yes, Uzume loves Mother,"
+            },
+            {
+                "lineNumber": "268812",
+                "originalJapaneseLine": "　大大大好きっ子でござるー」",
+                "translatedEnglishLine": "loves her very, very, very much!\""
+            },
+            {
+                "lineNumber": "268813",
+                "originalJapaneseLine": "「いやん、そんな好き好き言われちゃ、",
+                "translatedEnglishLine": "\"No way, saying you love me that much,"
+            },
+            {
+                "lineNumber": "268814",
+                "originalJapaneseLine": "　むしろ鈴女が照れる」",
+                "translatedEnglishLine": "it actually makes Suzume blush.\""
+            },
+            {
+                "lineNumber": "268815",
+                "originalJapaneseLine": "「なんで鈴女さんが！？」",
+                "translatedEnglishLine": "\"Why Suzume-san!?\""
+            },
+            {
+                "lineNumber": "268816",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "268817",
+                "originalJapaneseLine": "「かなみー、好き好き好きー。",
+                "translatedEnglishLine": "\"Kanami, love, love, love."
+            },
+            {
+                "lineNumber": "268818",
+                "originalJapaneseLine": "　むぎゅー」",
+                "translatedEnglishLine": "Hug.\""
+            },
+            {
+                "lineNumber": "268819",
+                "originalJapaneseLine": "「なんで鈴女さんまで",
+                "translatedEnglishLine": "\"Why is even Suzume-san"
+            },
+            {
+                "lineNumber": "268820",
+                "originalJapaneseLine": "　抱きついてくるんですか！？」",
+                "translatedEnglishLine": "hugging me!?\""
+            },
+            {
+                "lineNumber": "268821",
+                "originalJapaneseLine": "と、そんな風に三人で",
+                "translatedEnglishLine": "And like that, the three of them"
+            },
+            {
+                "lineNumber": "268822",
+                "originalJapaneseLine": "沢山わちゃわちゃとした。",
+                "translatedEnglishLine": "had a lot of noisy fun together."
+            },
+            {
+                "lineNumber": "268823",
+                "originalJapaneseLine": "「それじゃ帰るねでござる。",
+                "translatedEnglishLine": "\"Well then, I’ll be going home.\""
+            }
+        ]
+    }
+}

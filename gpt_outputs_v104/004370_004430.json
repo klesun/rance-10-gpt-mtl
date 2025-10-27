@@ -1,0 +1,719 @@
+{
+    "id": "resp_0f0a4631d7c2b6c30068ffee19d9ec8194a6b9f9f58b7b0a29",
+    "object": "response",
+    "created_at": 1761603097,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0f0a4631d7c2b6c30068ffee1a53e481948022b4a562251185",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　ににんにん\",\"translatedEnglishLine\":\"Ninin-nin\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「ぱっくんちょ」\",\"translatedEnglishLine\":\"\\\"Chomp!\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「ぬほっおおおおお！\",\"translatedEnglishLine\":\"\\\"Nuhooooooo!\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　こ、これはすごいぞー！」\",\"translatedEnglishLine\":\"Th-this is amazing!\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「にょほほほ、こんな技もあるでござるよー」\",\"translatedEnglishLine\":\"\\\"Nyohhohoho, I also have skills like this!\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「がははははははは！　すごいすごい！\",\"translatedEnglishLine\":\"\\\"Gahahahahaha! Amazing, amazing!\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　鈴女、おもろいからもっとやれ！」\",\"translatedEnglishLine\":\"Sueme, that’s hilarious, do more!\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「ういうい、今夜はエロエロ忍術、\",\"translatedEnglishLine\":\"\\\"Uiui, tonight it’s the erotic erotic ninjutsu,\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　百連発でござるよー」\",\"translatedEnglishLine\":\"One hundred blasts, right here!\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「がはははははは！」\",\"translatedEnglishLine\":\"\\\"Gahahahaha!\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"ランスと鈴女は夜通し楽しく遊ぶのだった。\",\"translatedEnglishLine\":\"Rance and Sueme had fun playing all through the night.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"邪悪なる存在が、\",\"translatedEnglishLine\":\"An evil presence,\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"ランス城の中で笑みをこぼしていた。\",\"translatedEnglishLine\":\"Was smiling inside Rance Castle.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「ククク……」\",\"translatedEnglishLine\":\"\\\"Kukuku...\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「ふっふっふっ……！」\",\"translatedEnglishLine\":\"\\\"Fufufu...!\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「ふぁーーっはっはっはっ！\",\"translatedEnglishLine\":\"\\\"Fahahahaha!\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　妾、降臨！！！！」\",\"translatedEnglishLine\":\"I have descended!!!!\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「ほぎゃーーーーーーーー！！！！」\",\"translatedEnglishLine\":\"\\\"Hogyaaaaaaaaa!!!\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ぐええええええええええ！？\",\"translatedEnglishLine\":\"\\\"Gueeeeeeeee!?\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　なんじゃなんじゃなんじゃーーー！？」\",\"translatedEnglishLine\":\"What, what, what is this!?\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"ヌヌハラはクゥの首根っこひっつかんで、\",\"translatedEnglishLine\":\"Nunuhara grabbed Kuu by the scruff of her neck,\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"ドガーと空き部屋に突入した。\",\"translatedEnglishLine\":\"And barged into an empty room with a thud.\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「なんっっっっで！！！！\",\"translatedEnglishLine\":\"\\\"Whyyyy!!!\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　ここにいるんですかーーー！」\",\"translatedEnglishLine\":\"You're hereーーー!\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「来ちゃった☆」\",\"translatedEnglishLine\":\"\\\"I came☆\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「クキーーーーーー！！！！」\",\"translatedEnglishLine\":\"\\\"Kukiiiiii!!!\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「と、とにかく帰りましょう！\",\"translatedEnglishLine\":\"\\\"A-anyway, let's go home!\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　さあさあ今すぐに！」\",\"translatedEnglishLine\":\"Come on, right now!\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「こ、こらこら！\",\"translatedEnglishLine\":\"\\\"H-hey hey!\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　モニターの前のプレイヤーに\",\"translatedEnglishLine\":\"At least let the player in front of the monitor\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　挨拶くらいはさせんか！」\",\"translatedEnglishLine\":\"Say hello!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「というわけで妾じゃ！」\",\"translatedEnglishLine\":\"\\\"So, I am!\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「え、誰々！？　このプリチーな女の子？」\",\"translatedEnglishLine\":\"\\\"Huh, who? This pretty girl?\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「と思ったモニターの前のお主は、\",\"translatedEnglishLine\":\"\\\"If you thought so, you in front of the monitor,\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　今すぐアリスソフトから発売中の\",\"translatedEnglishLine\":\"You should immediately buy from Alicesoft,\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　どらぺこか、イブニクルを買うのじゃ！」\",\"translatedEnglishLine\":\"Either Dorapeko or Evenicle!\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「良いな！　これは命令じゃぞ！」\",\"translatedEnglishLine\":\"Got it! This is an order!\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「時系列的な順番はないので、\",\"translatedEnglishLine\":\"There's no chronological order,\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　どっちを買うでもオーケー！\",\"translatedEnglishLine\":\"So it's okay to buy either!\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　ご新規さんに優しいのう妾って！」\",\"translatedEnglishLine\":\"I'm so kind to newcomers!\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「あーーーー！\",\"translatedEnglishLine\":\"\\\"Ahーーー!\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　メタい話がぼろぼろとー！」\",\"translatedEnglishLine\":\"So many meta conversations!\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「む？\",\"translatedEnglishLine\":\"\\\"Hm?\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　そもそもお前、なんでここにいんの？\",\"translatedEnglishLine\":\"Why are you here anyway?\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　じゃと？」\",\"translatedEnglishLine\":\"Huh?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「んむ、アリスソフトのブログで、\",\"translatedEnglishLine\":\"\\\"Well, on Alicesoft's blog,\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　キャラ追加人気投票で1位のキャラは\",\"translatedEnglishLine\":\"There was a poll where the character with number one in popularity\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　パッチで追加という企画が行われてのう\",\"translatedEnglishLine\":\"Would be added by patch as a plan,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「1位は鈴女じゃったわけじゃが……\",\"translatedEnglishLine\":\"The number one was Sueme, you see...\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「妾がこっそり入っちゃったら、\",\"translatedEnglishLine\":\"If I sneak in secretly,\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　それって面白いんじゃねー？\",\"translatedEnglishLine\":\"Wouldn't that be interesting?\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　つってこっそりと入ったわけで……\",\"translatedEnglishLine\":\"So I sneaked in quietly...\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「2位や3位の追加がない中、\",\"translatedEnglishLine\":\"While characters ranked second or third weren't added,\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"　順位が48位の妾がここにいるわけで……\",\"translatedEnglishLine\":\"I'm ranked 48th and I'm here...\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「…………\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「……これ妾めっちゃ叩かれる奴じゃね？」\",\"translatedEnglishLine\":\"...This is gonna make me get heavily criticized, isn't it?\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「だからずっと止めてるんですけどー！？」\",\"translatedEnglishLine\":\"That's why I've been stopping it all this time!?\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「うわーん！\",\"translatedEnglishLine\":\"\\\"Waaah!\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　ネットでめっちゃ叩かれるー！」\",\"translatedEnglishLine\":\"I'm getting slammed on the internet!\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「というか分かってるんじゃー！\",\"translatedEnglishLine\":\"Or rather, I know that already!\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "269004",
+                                "originalJapaneseLine": "　ににんにん",
+                                "translatedEnglishLine": "Ninin-nin"
+                            },
+                            {
+                                "lineNumber": "269005",
+                                "originalJapaneseLine": "「ぱっくんちょ」",
+                                "translatedEnglishLine": "\"Chomp!\""
+                            },
+                            {
+                                "lineNumber": "269006",
+                                "originalJapaneseLine": "「ぬほっおおおおお！",
+                                "translatedEnglishLine": "\"Nuhooooooo!\""
+                            },
+                            {
+                                "lineNumber": "269007",
+                                "originalJapaneseLine": "　こ、これはすごいぞー！」",
+                                "translatedEnglishLine": "Th-this is amazing!"
+                            },
+                            {
+                                "lineNumber": "269008",
+                                "originalJapaneseLine": "「にょほほほ、こんな技もあるでござるよー」",
+                                "translatedEnglishLine": "\"Nyohhohoho, I also have skills like this!\""
+                            },
+                            {
+                                "lineNumber": "269009",
+                                "originalJapaneseLine": "「がははははははは！　すごいすごい！",
+                                "translatedEnglishLine": "\"Gahahahahaha! Amazing, amazing!\""
+                            },
+                            {
+                                "lineNumber": "269010",
+                                "originalJapaneseLine": "　鈴女、おもろいからもっとやれ！」",
+                                "translatedEnglishLine": "Sueme, that’s hilarious, do more!\""
+                            },
+                            {
+                                "lineNumber": "269011",
+                                "originalJapaneseLine": "「ういうい、今夜はエロエロ忍術、",
+                                "translatedEnglishLine": "\"Uiui, tonight it’s the erotic erotic ninjutsu,"
+                            },
+                            {
+                                "lineNumber": "269012",
+                                "originalJapaneseLine": "　百連発でござるよー」",
+                                "translatedEnglishLine": "One hundred blasts, right here!\""
+                            },
+                            {
+                                "lineNumber": "269013",
+                                "originalJapaneseLine": "「がはははははは！」",
+                                "translatedEnglishLine": "\"Gahahahaha!\""
+                            },
+                            {
+                                "lineNumber": "269014",
+                                "originalJapaneseLine": "ランスと鈴女は夜通し楽しく遊ぶのだった。",
+                                "translatedEnglishLine": "Rance and Sueme had fun playing all through the night."
+                            },
+                            {
+                                "lineNumber": "269015",
+                                "originalJapaneseLine": "邪悪なる存在が、",
+                                "translatedEnglishLine": "An evil presence,"
+                            },
+                            {
+                                "lineNumber": "269016",
+                                "originalJapaneseLine": "ランス城の中で笑みをこぼしていた。",
+                                "translatedEnglishLine": "Was smiling inside Rance Castle."
+                            },
+                            {
+                                "lineNumber": "269017",
+                                "originalJapaneseLine": "「ククク……」",
+                                "translatedEnglishLine": "\"Kukuku...\""
+                            },
+                            {
+                                "lineNumber": "269018",
+                                "originalJapaneseLine": "「ふっふっふっ……！」",
+                                "translatedEnglishLine": "\"Fufufu...!\""
+                            },
+                            {
+                                "lineNumber": "269019",
+                                "originalJapaneseLine": "「ふぁーーっはっはっはっ！",
+                                "translatedEnglishLine": "\"Fahahahaha!"
+                            },
+                            {
+                                "lineNumber": "269020",
+                                "originalJapaneseLine": "　妾、降臨！！！！」",
+                                "translatedEnglishLine": "I have descended!!!!\""
+                            },
+                            {
+                                "lineNumber": "269021",
+                                "originalJapaneseLine": "「ほぎゃーーーーーーーー！！！！」",
+                                "translatedEnglishLine": "\"Hogyaaaaaaaaa!!!\""
+                            },
+                            {
+                                "lineNumber": "269022",
+                                "originalJapaneseLine": "「ぐええええええええええ！？",
+                                "translatedEnglishLine": "\"Gueeeeeeeee!?\""
+                            },
+                            {
+                                "lineNumber": "269023",
+                                "originalJapaneseLine": "　なんじゃなんじゃなんじゃーーー！？」",
+                                "translatedEnglishLine": "What, what, what is this!?"
+                            },
+                            {
+                                "lineNumber": "269024",
+                                "originalJapaneseLine": "ヌヌハラはクゥの首根っこひっつかんで、",
+                                "translatedEnglishLine": "Nunuhara grabbed Kuu by the scruff of her neck,"
+                            },
+                            {
+                                "lineNumber": "269025",
+                                "originalJapaneseLine": "ドガーと空き部屋に突入した。",
+                                "translatedEnglishLine": "And barged into an empty room with a thud."
+                            },
+                            {
+                                "lineNumber": "269026",
+                                "originalJapaneseLine": "「なんっっっっで！！！！",
+                                "translatedEnglishLine": "\"Whyyyy!!!\""
+                            },
+                            {
+                                "lineNumber": "269027",
+                                "originalJapaneseLine": "　ここにいるんですかーーー！」",
+                                "translatedEnglishLine": "You're hereーーー!\""
+                            },
+                            {
+                                "lineNumber": "269028",
+                                "originalJapaneseLine": "「来ちゃった☆」",
+                                "translatedEnglishLine": "\"I came☆\""
+                            },
+                            {
+                                "lineNumber": "269029",
+                                "originalJapaneseLine": "「クキーーーーーー！！！！」",
+                                "translatedEnglishLine": "\"Kukiiiiii!!!\""
+                            },
+                            {
+                                "lineNumber": "269030",
+                                "originalJapaneseLine": "「と、とにかく帰りましょう！",
+                                "translatedEnglishLine": "\"A-anyway, let's go home!"
+                            },
+                            {
+                                "lineNumber": "269031",
+                                "originalJapaneseLine": "　さあさあ今すぐに！」",
+                                "translatedEnglishLine": "Come on, right now!\""
+                            },
+                            {
+                                "lineNumber": "269032",
+                                "originalJapaneseLine": "「こ、こらこら！",
+                                "translatedEnglishLine": "\"H-hey hey!"
+                            },
+                            {
+                                "lineNumber": "269033",
+                                "originalJapaneseLine": "　モニターの前のプレイヤーに",
+                                "translatedEnglishLine": "At least let the player in front of the monitor"
+                            },
+                            {
+                                "lineNumber": "269034",
+                                "originalJapaneseLine": "　挨拶くらいはさせんか！」",
+                                "translatedEnglishLine": "Say hello!\""
+                            },
+                            {
+                                "lineNumber": "269035",
+                                "originalJapaneseLine": "「というわけで妾じゃ！」",
+                                "translatedEnglishLine": "\"So, I am!\""
+                            },
+                            {
+                                "lineNumber": "269036",
+                                "originalJapaneseLine": "「え、誰々！？　このプリチーな女の子？」",
+                                "translatedEnglishLine": "\"Huh, who? This pretty girl?\""
+                            },
+                            {
+                                "lineNumber": "269037",
+                                "originalJapaneseLine": "「と思ったモニターの前のお主は、",
+                                "translatedEnglishLine": "\"If you thought so, you in front of the monitor,"
+                            },
+                            {
+                                "lineNumber": "269038",
+                                "originalJapaneseLine": "　今すぐアリスソフトから発売中の",
+                                "translatedEnglishLine": "You should immediately buy from Alicesoft,"
+                            },
+                            {
+                                "lineNumber": "269039",
+                                "originalJapaneseLine": "　どらぺこか、イブニクルを買うのじゃ！」",
+                                "translatedEnglishLine": "Either Dorapeko or Evenicle!\""
+                            },
+                            {
+                                "lineNumber": "269040",
+                                "originalJapaneseLine": "「良いな！　これは命令じゃぞ！」",
+                                "translatedEnglishLine": "Got it! This is an order!\""
+                            },
+                            {
+                                "lineNumber": "269041",
+                                "originalJapaneseLine": "「時系列的な順番はないので、",
+                                "translatedEnglishLine": "There's no chronological order,"
+                            },
+                            {
+                                "lineNumber": "269042",
+                                "originalJapaneseLine": "　どっちを買うでもオーケー！",
+                                "translatedEnglishLine": "So it's okay to buy either!\""
+                            },
+                            {
+                                "lineNumber": "269043",
+                                "originalJapaneseLine": "　ご新規さんに優しいのう妾って！」",
+                                "translatedEnglishLine": "I'm so kind to newcomers!\""
+                            },
+                            {
+                                "lineNumber": "269044",
+                                "originalJapaneseLine": "「あーーーー！",
+                                "translatedEnglishLine": "\"Ahーーー!"
+                            },
+                            {
+                                "lineNumber": "269045",
+                                "originalJapaneseLine": "　メタい話がぼろぼろとー！」",
+                                "translatedEnglishLine": "So many meta conversations!\""
+                            },
+                            {
+                                "lineNumber": "269046",
+                                "originalJapaneseLine": "「む？",
+                                "translatedEnglishLine": "\"Hm?"
+                            },
+                            {
+                                "lineNumber": "269047",
+                                "originalJapaneseLine": "　そもそもお前、なんでここにいんの？",
+                                "translatedEnglishLine": "Why are you here anyway?"
+                            },
+                            {
+                                "lineNumber": "269048",
+                                "originalJapaneseLine": "　じゃと？」",
+                                "translatedEnglishLine": "Huh?\""
+                            },
+                            {
+                                "lineNumber": "269049",
+                                "originalJapaneseLine": "「んむ、アリスソフトのブログで、",
+                                "translatedEnglishLine": "\"Well, on Alicesoft's blog,"
+                            },
+                            {
+                                "lineNumber": "269050",
+                                "originalJapaneseLine": "　キャラ追加人気投票で1位のキャラは",
+                                "translatedEnglishLine": "There was a poll where the character with number one in popularity"
+                            },
+                            {
+                                "lineNumber": "269051",
+                                "originalJapaneseLine": "　パッチで追加という企画が行われてのう",
+                                "translatedEnglishLine": "Would be added by patch as a plan,"
+                            },
+                            {
+                                "lineNumber": "269052",
+                                "originalJapaneseLine": "「1位は鈴女じゃったわけじゃが……",
+                                "translatedEnglishLine": "The number one was Sueme, you see..."
+                            },
+                            {
+                                "lineNumber": "269053",
+                                "originalJapaneseLine": "「妾がこっそり入っちゃったら、",
+                                "translatedEnglishLine": "If I sneak in secretly,"
+                            },
+                            {
+                                "lineNumber": "269054",
+                                "originalJapaneseLine": "　それって面白いんじゃねー？",
+                                "translatedEnglishLine": "Wouldn't that be interesting?"
+                            },
+                            {
+                                "lineNumber": "269055",
+                                "originalJapaneseLine": "　つってこっそりと入ったわけで……",
+                                "translatedEnglishLine": "So I sneaked in quietly..."
+                            },
+                            {
+                                "lineNumber": "269056",
+                                "originalJapaneseLine": "「2位や3位の追加がない中、",
+                                "translatedEnglishLine": "While characters ranked second or third weren't added,"
+                            },
+                            {
+                                "lineNumber": "269057",
+                                "originalJapaneseLine": "　順位が48位の妾がここにいるわけで……",
+                                "translatedEnglishLine": "I'm ranked 48th and I'm here..."
+                            },
+                            {
+                                "lineNumber": "269058",
+                                "originalJapaneseLine": "「…………",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": "269059",
+                                "originalJapaneseLine": "「……これ妾めっちゃ叩かれる奴じゃね？」",
+                                "translatedEnglishLine": "...This is gonna make me get heavily criticized, isn't it?"
+                            },
+                            {
+                                "lineNumber": "269060",
+                                "originalJapaneseLine": "「だからずっと止めてるんですけどー！？」",
+                                "translatedEnglishLine": "That's why I've been stopping it all this time!?"
+                            },
+                            {
+                                "lineNumber": "269061",
+                                "originalJapaneseLine": "「うわーん！",
+                                "translatedEnglishLine": "\"Waaah!"
+                            },
+                            {
+                                "lineNumber": "269062",
+                                "originalJapaneseLine": "　ネットでめっちゃ叩かれるー！」",
+                                "translatedEnglishLine": "I'm getting slammed on the internet!\""
+                            },
+                            {
+                                "lineNumber": "269063",
+                                "originalJapaneseLine": "「というか分かってるんじゃー！",
+                                "translatedEnglishLine": "Or rather, I know that already!\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1819,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2059,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3878
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　ににんにん\",\"translatedEnglishLine\":\"Ninin-nin\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「ぱっくんちょ」\",\"translatedEnglishLine\":\"\\\"Chomp!\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「ぬほっおおおおお！\",\"translatedEnglishLine\":\"\\\"Nuhooooooo!\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　こ、これはすごいぞー！」\",\"translatedEnglishLine\":\"Th-this is amazing!\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「にょほほほ、こんな技もあるでござるよー」\",\"translatedEnglishLine\":\"\\\"Nyohhohoho, I also have skills like this!\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「がははははははは！　すごいすごい！\",\"translatedEnglishLine\":\"\\\"Gahahahahaha! Amazing, amazing!\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　鈴女、おもろいからもっとやれ！」\",\"translatedEnglishLine\":\"Sueme, that’s hilarious, do more!\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「ういうい、今夜はエロエロ忍術、\",\"translatedEnglishLine\":\"\\\"Uiui, tonight it’s the erotic erotic ninjutsu,\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　百連発でござるよー」\",\"translatedEnglishLine\":\"One hundred blasts, right here!\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「がはははははは！」\",\"translatedEnglishLine\":\"\\\"Gahahahaha!\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"ランスと鈴女は夜通し楽しく遊ぶのだった。\",\"translatedEnglishLine\":\"Rance and Sueme had fun playing all through the night.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"邪悪なる存在が、\",\"translatedEnglishLine\":\"An evil presence,\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"ランス城の中で笑みをこぼしていた。\",\"translatedEnglishLine\":\"Was smiling inside Rance Castle.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「ククク……」\",\"translatedEnglishLine\":\"\\\"Kukuku...\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「ふっふっふっ……！」\",\"translatedEnglishLine\":\"\\\"Fufufu...!\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「ふぁーーっはっはっはっ！\",\"translatedEnglishLine\":\"\\\"Fahahahaha!\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　妾、降臨！！！！」\",\"translatedEnglishLine\":\"I have descended!!!!\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「ほぎゃーーーーーーーー！！！！」\",\"translatedEnglishLine\":\"\\\"Hogyaaaaaaaaa!!!\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ぐええええええええええ！？\",\"translatedEnglishLine\":\"\\\"Gueeeeeeeee!?\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　なんじゃなんじゃなんじゃーーー！？」\",\"translatedEnglishLine\":\"What, what, what is this!?\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"ヌヌハラはクゥの首根っこひっつかんで、\",\"translatedEnglishLine\":\"Nunuhara grabbed Kuu by the scruff of her neck,\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"ドガーと空き部屋に突入した。\",\"translatedEnglishLine\":\"And barged into an empty room with a thud.\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「なんっっっっで！！！！\",\"translatedEnglishLine\":\"\\\"Whyyyy!!!\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　ここにいるんですかーーー！」\",\"translatedEnglishLine\":\"You're hereーーー!\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「来ちゃった☆」\",\"translatedEnglishLine\":\"\\\"I came☆\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「クキーーーーーー！！！！」\",\"translatedEnglishLine\":\"\\\"Kukiiiiii!!!\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「と、とにかく帰りましょう！\",\"translatedEnglishLine\":\"\\\"A-anyway, let's go home!\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　さあさあ今すぐに！」\",\"translatedEnglishLine\":\"Come on, right now!\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「こ、こらこら！\",\"translatedEnglishLine\":\"\\\"H-hey hey!\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　モニターの前のプレイヤーに\",\"translatedEnglishLine\":\"At least let the player in front of the monitor\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　挨拶くらいはさせんか！」\",\"translatedEnglishLine\":\"Say hello!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「というわけで妾じゃ！」\",\"translatedEnglishLine\":\"\\\"So, I am!\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「え、誰々！？　このプリチーな女の子？」\",\"translatedEnglishLine\":\"\\\"Huh, who? This pretty girl?\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「と思ったモニターの前のお主は、\",\"translatedEnglishLine\":\"\\\"If you thought so, you in front of the monitor,\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　今すぐアリスソフトから発売中の\",\"translatedEnglishLine\":\"You should immediately buy from Alicesoft,\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　どらぺこか、イブニクルを買うのじゃ！」\",\"translatedEnglishLine\":\"Either Dorapeko or Evenicle!\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「良いな！　これは命令じゃぞ！」\",\"translatedEnglishLine\":\"Got it! This is an order!\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「時系列的な順番はないので、\",\"translatedEnglishLine\":\"There's no chronological order,\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　どっちを買うでもオーケー！\",\"translatedEnglishLine\":\"So it's okay to buy either!\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　ご新規さんに優しいのう妾って！」\",\"translatedEnglishLine\":\"I'm so kind to newcomers!\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「あーーーー！\",\"translatedEnglishLine\":\"\\\"Ahーーー!\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　メタい話がぼろぼろとー！」\",\"translatedEnglishLine\":\"So many meta conversations!\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「む？\",\"translatedEnglishLine\":\"\\\"Hm?\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　そもそもお前、なんでここにいんの？\",\"translatedEnglishLine\":\"Why are you here anyway?\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　じゃと？」\",\"translatedEnglishLine\":\"Huh?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「んむ、アリスソフトのブログで、\",\"translatedEnglishLine\":\"\\\"Well, on Alicesoft's blog,\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　キャラ追加人気投票で1位のキャラは\",\"translatedEnglishLine\":\"There was a poll where the character with number one in popularity\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　パッチで追加という企画が行われてのう\",\"translatedEnglishLine\":\"Would be added by patch as a plan,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「1位は鈴女じゃったわけじゃが……\",\"translatedEnglishLine\":\"The number one was Sueme, you see...\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「妾がこっそり入っちゃったら、\",\"translatedEnglishLine\":\"If I sneak in secretly,\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　それって面白いんじゃねー？\",\"translatedEnglishLine\":\"Wouldn't that be interesting?\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　つってこっそりと入ったわけで……\",\"translatedEnglishLine\":\"So I sneaked in quietly...\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「2位や3位の追加がない中、\",\"translatedEnglishLine\":\"While characters ranked second or third weren't added,\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"　順位が48位の妾がここにいるわけで……\",\"translatedEnglishLine\":\"I'm ranked 48th and I'm here...\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「…………\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「……これ妾めっちゃ叩かれる奴じゃね？」\",\"translatedEnglishLine\":\"...This is gonna make me get heavily criticized, isn't it?\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「だからずっと止めてるんですけどー！？」\",\"translatedEnglishLine\":\"That's why I've been stopping it all this time!?\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「うわーん！\",\"translatedEnglishLine\":\"\\\"Waaah!\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　ネットでめっちゃ叩かれるー！」\",\"translatedEnglishLine\":\"I'm getting slammed on the internet!\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「というか分かってるんじゃー！\",\"translatedEnglishLine\":\"Or rather, I know that already!\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "269004",
+                "originalJapaneseLine": "　ににんにん",
+                "translatedEnglishLine": "Ninin-nin"
+            },
+            {
+                "lineNumber": "269005",
+                "originalJapaneseLine": "「ぱっくんちょ」",
+                "translatedEnglishLine": "\"Chomp!\""
+            },
+            {
+                "lineNumber": "269006",
+                "originalJapaneseLine": "「ぬほっおおおおお！",
+                "translatedEnglishLine": "\"Nuhooooooo!\""
+            },
+            {
+                "lineNumber": "269007",
+                "originalJapaneseLine": "　こ、これはすごいぞー！」",
+                "translatedEnglishLine": "Th-this is amazing!"
+            },
+            {
+                "lineNumber": "269008",
+                "originalJapaneseLine": "「にょほほほ、こんな技もあるでござるよー」",
+                "translatedEnglishLine": "\"Nyohhohoho, I also have skills like this!\""
+            },
+            {
+                "lineNumber": "269009",
+                "originalJapaneseLine": "「がははははははは！　すごいすごい！",
+                "translatedEnglishLine": "\"Gahahahahaha! Amazing, amazing!\""
+            },
+            {
+                "lineNumber": "269010",
+                "originalJapaneseLine": "　鈴女、おもろいからもっとやれ！」",
+                "translatedEnglishLine": "Sueme, that’s hilarious, do more!\""
+            },
+            {
+                "lineNumber": "269011",
+                "originalJapaneseLine": "「ういうい、今夜はエロエロ忍術、",
+                "translatedEnglishLine": "\"Uiui, tonight it’s the erotic erotic ninjutsu,"
+            },
+            {
+                "lineNumber": "269012",
+                "originalJapaneseLine": "　百連発でござるよー」",
+                "translatedEnglishLine": "One hundred blasts, right here!\""
+            },
+            {
+                "lineNumber": "269013",
+                "originalJapaneseLine": "「がはははははは！」",
+                "translatedEnglishLine": "\"Gahahahaha!\""
+            },
+            {
+                "lineNumber": "269014",
+                "originalJapaneseLine": "ランスと鈴女は夜通し楽しく遊ぶのだった。",
+                "translatedEnglishLine": "Rance and Sueme had fun playing all through the night."
+            },
+            {
+                "lineNumber": "269015",
+                "originalJapaneseLine": "邪悪なる存在が、",
+                "translatedEnglishLine": "An evil presence,"
+            },
+            {
+                "lineNumber": "269016",
+                "originalJapaneseLine": "ランス城の中で笑みをこぼしていた。",
+                "translatedEnglishLine": "Was smiling inside Rance Castle."
+            },
+            {
+                "lineNumber": "269017",
+                "originalJapaneseLine": "「ククク……」",
+                "translatedEnglishLine": "\"Kukuku...\""
+            },
+            {
+                "lineNumber": "269018",
+                "originalJapaneseLine": "「ふっふっふっ……！」",
+                "translatedEnglishLine": "\"Fufufu...!\""
+            },
+            {
+                "lineNumber": "269019",
+                "originalJapaneseLine": "「ふぁーーっはっはっはっ！",
+                "translatedEnglishLine": "\"Fahahahaha!"
+            },
+            {
+                "lineNumber": "269020",
+                "originalJapaneseLine": "　妾、降臨！！！！」",
+                "translatedEnglishLine": "I have descended!!!!\""
+            },
+            {
+                "lineNumber": "269021",
+                "originalJapaneseLine": "「ほぎゃーーーーーーーー！！！！」",
+                "translatedEnglishLine": "\"Hogyaaaaaaaaa!!!\""
+            },
+            {
+                "lineNumber": "269022",
+                "originalJapaneseLine": "「ぐええええええええええ！？",
+                "translatedEnglishLine": "\"Gueeeeeeeee!?\""
+            },
+            {
+                "lineNumber": "269023",
+                "originalJapaneseLine": "　なんじゃなんじゃなんじゃーーー！？」",
+                "translatedEnglishLine": "What, what, what is this!?"
+            },
+            {
+                "lineNumber": "269024",
+                "originalJapaneseLine": "ヌヌハラはクゥの首根っこひっつかんで、",
+                "translatedEnglishLine": "Nunuhara grabbed Kuu by the scruff of her neck,"
+            },
+            {
+                "lineNumber": "269025",
+                "originalJapaneseLine": "ドガーと空き部屋に突入した。",
+                "translatedEnglishLine": "And barged into an empty room with a thud."
+            },
+            {
+                "lineNumber": "269026",
+                "originalJapaneseLine": "「なんっっっっで！！！！",
+                "translatedEnglishLine": "\"Whyyyy!!!\""
+            },
+            {
+                "lineNumber": "269027",
+                "originalJapaneseLine": "　ここにいるんですかーーー！」",
+                "translatedEnglishLine": "You're hereーーー!\""
+            },
+            {
+                "lineNumber": "269028",
+                "originalJapaneseLine": "「来ちゃった☆」",
+                "translatedEnglishLine": "\"I came☆\""
+            },
+            {
+                "lineNumber": "269029",
+                "originalJapaneseLine": "「クキーーーーーー！！！！」",
+                "translatedEnglishLine": "\"Kukiiiiii!!!\""
+            },
+            {
+                "lineNumber": "269030",
+                "originalJapaneseLine": "「と、とにかく帰りましょう！",
+                "translatedEnglishLine": "\"A-anyway, let's go home!"
+            },
+            {
+                "lineNumber": "269031",
+                "originalJapaneseLine": "　さあさあ今すぐに！」",
+                "translatedEnglishLine": "Come on, right now!\""
+            },
+            {
+                "lineNumber": "269032",
+                "originalJapaneseLine": "「こ、こらこら！",
+                "translatedEnglishLine": "\"H-hey hey!"
+            },
+            {
+                "lineNumber": "269033",
+                "originalJapaneseLine": "　モニターの前のプレイヤーに",
+                "translatedEnglishLine": "At least let the player in front of the monitor"
+            },
+            {
+                "lineNumber": "269034",
+                "originalJapaneseLine": "　挨拶くらいはさせんか！」",
+                "translatedEnglishLine": "Say hello!\""
+            },
+            {
+                "lineNumber": "269035",
+                "originalJapaneseLine": "「というわけで妾じゃ！」",
+                "translatedEnglishLine": "\"So, I am!\""
+            },
+            {
+                "lineNumber": "269036",
+                "originalJapaneseLine": "「え、誰々！？　このプリチーな女の子？」",
+                "translatedEnglishLine": "\"Huh, who? This pretty girl?\""
+            },
+            {
+                "lineNumber": "269037",
+                "originalJapaneseLine": "「と思ったモニターの前のお主は、",
+                "translatedEnglishLine": "\"If you thought so, you in front of the monitor,"
+            },
+            {
+                "lineNumber": "269038",
+                "originalJapaneseLine": "　今すぐアリスソフトから発売中の",
+                "translatedEnglishLine": "You should immediately buy from Alicesoft,"
+            },
+            {
+                "lineNumber": "269039",
+                "originalJapaneseLine": "　どらぺこか、イブニクルを買うのじゃ！」",
+                "translatedEnglishLine": "Either Dorapeko or Evenicle!\""
+            },
+            {
+                "lineNumber": "269040",
+                "originalJapaneseLine": "「良いな！　これは命令じゃぞ！」",
+                "translatedEnglishLine": "Got it! This is an order!\""
+            },
+            {
+                "lineNumber": "269041",
+                "originalJapaneseLine": "「時系列的な順番はないので、",
+                "translatedEnglishLine": "There's no chronological order,"
+            },
+            {
+                "lineNumber": "269042",
+                "originalJapaneseLine": "　どっちを買うでもオーケー！",
+                "translatedEnglishLine": "So it's okay to buy either!\""
+            },
+            {
+                "lineNumber": "269043",
+                "originalJapaneseLine": "　ご新規さんに優しいのう妾って！」",
+                "translatedEnglishLine": "I'm so kind to newcomers!\""
+            },
+            {
+                "lineNumber": "269044",
+                "originalJapaneseLine": "「あーーーー！",
+                "translatedEnglishLine": "\"Ahーーー!"
+            },
+            {
+                "lineNumber": "269045",
+                "originalJapaneseLine": "　メタい話がぼろぼろとー！」",
+                "translatedEnglishLine": "So many meta conversations!\""
+            },
+            {
+                "lineNumber": "269046",
+                "originalJapaneseLine": "「む？",
+                "translatedEnglishLine": "\"Hm?"
+            },
+            {
+                "lineNumber": "269047",
+                "originalJapaneseLine": "　そもそもお前、なんでここにいんの？",
+                "translatedEnglishLine": "Why are you here anyway?"
+            },
+            {
+                "lineNumber": "269048",
+                "originalJapaneseLine": "　じゃと？」",
+                "translatedEnglishLine": "Huh?\""
+            },
+            {
+                "lineNumber": "269049",
+                "originalJapaneseLine": "「んむ、アリスソフトのブログで、",
+                "translatedEnglishLine": "\"Well, on Alicesoft's blog,"
+            },
+            {
+                "lineNumber": "269050",
+                "originalJapaneseLine": "　キャラ追加人気投票で1位のキャラは",
+                "translatedEnglishLine": "There was a poll where the character with number one in popularity"
+            },
+            {
+                "lineNumber": "269051",
+                "originalJapaneseLine": "　パッチで追加という企画が行われてのう",
+                "translatedEnglishLine": "Would be added by patch as a plan,"
+            },
+            {
+                "lineNumber": "269052",
+                "originalJapaneseLine": "「1位は鈴女じゃったわけじゃが……",
+                "translatedEnglishLine": "The number one was Sueme, you see..."
+            },
+            {
+                "lineNumber": "269053",
+                "originalJapaneseLine": "「妾がこっそり入っちゃったら、",
+                "translatedEnglishLine": "If I sneak in secretly,"
+            },
+            {
+                "lineNumber": "269054",
+                "originalJapaneseLine": "　それって面白いんじゃねー？",
+                "translatedEnglishLine": "Wouldn't that be interesting?"
+            },
+            {
+                "lineNumber": "269055",
+                "originalJapaneseLine": "　つってこっそりと入ったわけで……",
+                "translatedEnglishLine": "So I sneaked in quietly..."
+            },
+            {
+                "lineNumber": "269056",
+                "originalJapaneseLine": "「2位や3位の追加がない中、",
+                "translatedEnglishLine": "While characters ranked second or third weren't added,"
+            },
+            {
+                "lineNumber": "269057",
+                "originalJapaneseLine": "　順位が48位の妾がここにいるわけで……",
+                "translatedEnglishLine": "I'm ranked 48th and I'm here..."
+            },
+            {
+                "lineNumber": "269058",
+                "originalJapaneseLine": "「…………",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": "269059",
+                "originalJapaneseLine": "「……これ妾めっちゃ叩かれる奴じゃね？」",
+                "translatedEnglishLine": "...This is gonna make me get heavily criticized, isn't it?"
+            },
+            {
+                "lineNumber": "269060",
+                "originalJapaneseLine": "「だからずっと止めてるんですけどー！？」",
+                "translatedEnglishLine": "That's why I've been stopping it all this time!?"
+            },
+            {
+                "lineNumber": "269061",
+                "originalJapaneseLine": "「うわーん！",
+                "translatedEnglishLine": "\"Waaah!"
+            },
+            {
+                "lineNumber": "269062",
+                "originalJapaneseLine": "　ネットでめっちゃ叩かれるー！」",
+                "translatedEnglishLine": "I'm getting slammed on the internet!\""
+            },
+            {
+                "lineNumber": "269063",
+                "originalJapaneseLine": "「というか分かってるんじゃー！",
+                "translatedEnglishLine": "Or rather, I know that already!\""
+            }
+        ]
+    }
+}

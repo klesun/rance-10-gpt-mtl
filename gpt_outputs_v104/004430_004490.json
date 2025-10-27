@@ -1,0 +1,719 @@
+{
+    "id": "resp_09ca4cb8b486cc130068ffee38af9c8190a0c001eeea32293b",
+    "object": "response",
+    "created_at": 1761603129,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_09ca4cb8b486cc130068ffee3a1d388190bdbadb4d2f52a908",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　これ怒られる奴じゃよなーとはー！\",\"translatedEnglishLine\":\"This is definitely something that'll get me scolded—oh dear!\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「そりゃ、そうですよ！」\",\"translatedEnglishLine\":\"\\\"Of course it will!\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「でも！　でも！」\",\"translatedEnglishLine\":\"\\\"But! But!\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「妾は出しゃばるのがキャラじゃから、\",\"translatedEnglishLine\":\"\\\"Because being pushy is part of my character,\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　出しゃばらずにはおられなかったんじゃー！」\",\"translatedEnglishLine\":\"I just couldn't help but stick my nose in!\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「というか怒られるって分かってるなら、\",\"translatedEnglishLine\":\"\\\"If you know you'll get scolded,\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　しなくていいのでは……？」\",\"translatedEnglishLine\":\"then maybe you shouldn't do it...?\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「……爪痕が残せるかなーと」\",\"translatedEnglishLine\":\"\\\"...I was just thinking if I could leave a mark.\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「なんっで、そう、\",\"translatedEnglishLine\":\"\\\"Why on earth,\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　カメラに写しちゃいけない\",\"translatedEnglishLine\":\"would you do something like a performer who shouldn't be caught on camera?\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　芸人みたいなことするんですか！」\",\"translatedEnglishLine\":\"\\\"Why act like a comedian?!\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「さて、落ち着いたところで、\",\"translatedEnglishLine\":\"\\\"Now that we've calmed down,\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　惜しくも投票結果2位でジーク復活にならず\",\"translatedEnglishLine\":\"let's tease Aurora, who sadly came in second in the votes and didn't get to be revived.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　泣いてるであろうオーロラでもからかいに行くか」\",\"translatedEnglishLine\":\"She’s probably crying, so let's go mess with her.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「うわーん！\",\"translatedEnglishLine\":\"\\\"Waaah!\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　メタネタと内輪ネタがすごいよー！」\",\"translatedEnglishLine\":\"The meta jokes and inside jokes are intense!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「企画から数年後にやった人が、\",\"translatedEnglishLine\":\"\\\"Someone playing this years after the project,\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　なにこれ……\",\"translatedEnglishLine\":\"would be like, 'What is this...'\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"ってなるよー！」\",\"translatedEnglishLine\":\"right?\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「待て待て、\",\"translatedEnglishLine\":\"\\\"Wait wait,\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　メタと内輪は、お主も十八番じゃろ」\",\"translatedEnglishLine\":\"meta and inside jokes are your specialty too, aren't they?\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「私は一応、こっから先は駄目って、\",\"translatedEnglishLine\":\"\\\"I do have a line that I don’t cross, you know!\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　ラインは決めてるんですよー！」\",\"translatedEnglishLine\":\"I've set boundaries beyond which I don’t go!\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「あっ！　横に並ぶとよく分かる！\",\"translatedEnglishLine\":\"\\\"Ah! Side by side, it’s obvious!\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　妾とお主ってツインテ仲間じゃな！」\",\"translatedEnglishLine\":\"You and I are twin-tail buddies after all!\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「うわわわわーーーーーん！\",\"translatedEnglishLine\":\"\\\"Waaahhhhhhhhh!\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　この人は！　この人は！\",\"translatedEnglishLine\":\"This person! This person!\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　くたばれ！　くたばれ！」\",\"translatedEnglishLine\":\"Drop dead! Drop dead!\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「いたっ、いたた！\",\"translatedEnglishLine\":\"\\\"Ouch, ow!\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　ええい、チョップはやめんか！」\",\"translatedEnglishLine\":\"Hey, stop chopping me!\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「だから！　そういうとこが！\",\"translatedEnglishLine\":\"\\\"That’s exactly why!\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　怒られるって！　言ってるんです！\",\"translatedEnglishLine\":\"I’m telling you, you’ll get scolded!\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　怒られるのクゥさんなんですからねー！」\",\"translatedEnglishLine\":\"It’s Ku-san who’s going to get yelled at, you see!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「バランス感覚の欠如！\",\"translatedEnglishLine\":\"\\\"Lack of balance!\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　バランス感覚の欠如ーーー！」\",\"translatedEnglishLine\":\"Lack of balance!!!\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「いやいや！\",\"translatedEnglishLine\":\"\\\"No, no!\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　この世界で興味深い絡みとかすれば、\",\"translatedEnglishLine\":\"If you engage in interesting interactions in this world,\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　それはそれでイーブンではないか！？」\",\"translatedEnglishLine\":\"wouldn’t that balance things out too!?\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「この世界のドラゴン勢との\",\"translatedEnglishLine\":\"\\\"How about interaction with the dragons of this world?\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　絡みとかどうじゃ！？\",\"translatedEnglishLine\":\"What do you think!?\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　色々と興味深い面白話になるのでは！？」\",\"translatedEnglishLine\":\"That could make for many interesting and fun stories!\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「ハンティとか！　カミーラとか！」\",\"translatedEnglishLine\":\"\\\"Like Hanty! Or Camilla!\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「KDとかーーーーー！」\",\"translatedEnglishLine\":\"\\\"Or KD!!!!\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「出たーーーー！？」\",\"translatedEnglishLine\":\"\\\"There it is!!!?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ぬおっ！？　な、なんじゃKD！\",\"translatedEnglishLine\":\"\\\"Whoa!? Wh-what’s with you, KD!\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　わ、妾に文句があるのか！？\",\"translatedEnglishLine\":\"D-do you have a complaint about me!?\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"KDの大きな手が、\",\"translatedEnglishLine\":\"KD’s large hand\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"クゥの小さな双肩にそっと重ねられる。\",\"translatedEnglishLine\":\"gently rests on Ku’s small twin shoulders.\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「やりすぎはよくない」\",\"translatedEnglishLine\":\"\\\"Don’t overdo it.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"それは意外にも、\",\"translatedEnglishLine\":\"Surprisingly,\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"とっても優しい声だった。\",\"translatedEnglishLine\":\"it was a very kind voice.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"そして帰って行った。\",\"translatedEnglishLine\":\"And then he left.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「今のなにーーーー！？！？！？」\",\"translatedEnglishLine\":\"\\\"What was that just now!?!?\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「あんなカオスの塊な奴に\",\"translatedEnglishLine\":\"\\\"To be scolded by someone who's a walking ball of chaos...\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　叱られたのじゃ……妾、悲しい……\",\"translatedEnglishLine\":\"I got scolded... I'm so sad...\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「こーーーなったらもう！\",\"translatedEnglishLine\":\"\\\"Well, if it’s come to this!\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　ヤケクソとばかりに本編のネタバレと行くか！\",\"translatedEnglishLine\":\"I might as well go on and spoil the main story in despair!\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "269064",
+                                "originalJapaneseLine": "　これ怒られる奴じゃよなーとはー！",
+                                "translatedEnglishLine": "This is definitely something that'll get me scolded—oh dear!"
+                            },
+                            {
+                                "lineNumber": "269065",
+                                "originalJapaneseLine": "「そりゃ、そうですよ！」",
+                                "translatedEnglishLine": "\"Of course it will!\""
+                            },
+                            {
+                                "lineNumber": "269066",
+                                "originalJapaneseLine": "「でも！　でも！」",
+                                "translatedEnglishLine": "\"But! But!\""
+                            },
+                            {
+                                "lineNumber": "269067",
+                                "originalJapaneseLine": "「妾は出しゃばるのがキャラじゃから、",
+                                "translatedEnglishLine": "\"Because being pushy is part of my character,"
+                            },
+                            {
+                                "lineNumber": "269068",
+                                "originalJapaneseLine": "　出しゃばらずにはおられなかったんじゃー！」",
+                                "translatedEnglishLine": "I just couldn't help but stick my nose in!\""
+                            },
+                            {
+                                "lineNumber": "269069",
+                                "originalJapaneseLine": "「というか怒られるって分かってるなら、",
+                                "translatedEnglishLine": "\"If you know you'll get scolded,"
+                            },
+                            {
+                                "lineNumber": "269070",
+                                "originalJapaneseLine": "　しなくていいのでは……？」",
+                                "translatedEnglishLine": "then maybe you shouldn't do it...?\""
+                            },
+                            {
+                                "lineNumber": "269071",
+                                "originalJapaneseLine": "「……爪痕が残せるかなーと」",
+                                "translatedEnglishLine": "\"...I was just thinking if I could leave a mark.\""
+                            },
+                            {
+                                "lineNumber": "269072",
+                                "originalJapaneseLine": "「なんっで、そう、",
+                                "translatedEnglishLine": "\"Why on earth,"
+                            },
+                            {
+                                "lineNumber": "269073",
+                                "originalJapaneseLine": "　カメラに写しちゃいけない",
+                                "translatedEnglishLine": "would you do something like a performer who shouldn't be caught on camera?\""
+                            },
+                            {
+                                "lineNumber": "269074",
+                                "originalJapaneseLine": "　芸人みたいなことするんですか！」",
+                                "translatedEnglishLine": "\"Why act like a comedian?!\""
+                            },
+                            {
+                                "lineNumber": "269075",
+                                "originalJapaneseLine": "「さて、落ち着いたところで、",
+                                "translatedEnglishLine": "\"Now that we've calmed down,"
+                            },
+                            {
+                                "lineNumber": "269076",
+                                "originalJapaneseLine": "　惜しくも投票結果2位でジーク復活にならず",
+                                "translatedEnglishLine": "let's tease Aurora, who sadly came in second in the votes and didn't get to be revived."
+                            },
+                            {
+                                "lineNumber": "269077",
+                                "originalJapaneseLine": "　泣いてるであろうオーロラでもからかいに行くか」",
+                                "translatedEnglishLine": "She’s probably crying, so let's go mess with her.\""
+                            },
+                            {
+                                "lineNumber": "269078",
+                                "originalJapaneseLine": "「うわーん！",
+                                "translatedEnglishLine": "\"Waaah!"
+                            },
+                            {
+                                "lineNumber": "269079",
+                                "originalJapaneseLine": "　メタネタと内輪ネタがすごいよー！」",
+                                "translatedEnglishLine": "The meta jokes and inside jokes are intense!\""
+                            },
+                            {
+                                "lineNumber": "269080",
+                                "originalJapaneseLine": "「企画から数年後にやった人が、",
+                                "translatedEnglishLine": "\"Someone playing this years after the project,"
+                            },
+                            {
+                                "lineNumber": "269081",
+                                "originalJapaneseLine": "　なにこれ……",
+                                "translatedEnglishLine": "would be like, 'What is this...'"
+                            },
+                            {
+                                "lineNumber": "269082",
+                                "originalJapaneseLine": "ってなるよー！」",
+                                "translatedEnglishLine": "right?\""
+                            },
+                            {
+                                "lineNumber": "269083",
+                                "originalJapaneseLine": "「待て待て、",
+                                "translatedEnglishLine": "\"Wait wait,"
+                            },
+                            {
+                                "lineNumber": "269084",
+                                "originalJapaneseLine": "　メタと内輪は、お主も十八番じゃろ」",
+                                "translatedEnglishLine": "meta and inside jokes are your specialty too, aren't they?\""
+                            },
+                            {
+                                "lineNumber": "269085",
+                                "originalJapaneseLine": "「私は一応、こっから先は駄目って、",
+                                "translatedEnglishLine": "\"I do have a line that I don’t cross, you know!\""
+                            },
+                            {
+                                "lineNumber": "269086",
+                                "originalJapaneseLine": "　ラインは決めてるんですよー！」",
+                                "translatedEnglishLine": "I've set boundaries beyond which I don’t go!\""
+                            },
+                            {
+                                "lineNumber": "269087",
+                                "originalJapaneseLine": "「あっ！　横に並ぶとよく分かる！",
+                                "translatedEnglishLine": "\"Ah! Side by side, it’s obvious!"
+                            },
+                            {
+                                "lineNumber": "269088",
+                                "originalJapaneseLine": "　妾とお主ってツインテ仲間じゃな！」",
+                                "translatedEnglishLine": "You and I are twin-tail buddies after all!\""
+                            },
+                            {
+                                "lineNumber": "269089",
+                                "originalJapaneseLine": "「うわわわわーーーーーん！",
+                                "translatedEnglishLine": "\"Waaahhhhhhhhh!"
+                            },
+                            {
+                                "lineNumber": "269090",
+                                "originalJapaneseLine": "　この人は！　この人は！",
+                                "translatedEnglishLine": "This person! This person!"
+                            },
+                            {
+                                "lineNumber": "269091",
+                                "originalJapaneseLine": "　くたばれ！　くたばれ！」",
+                                "translatedEnglishLine": "Drop dead! Drop dead!\""
+                            },
+                            {
+                                "lineNumber": "269092",
+                                "originalJapaneseLine": "「いたっ、いたた！",
+                                "translatedEnglishLine": "\"Ouch, ow!"
+                            },
+                            {
+                                "lineNumber": "269093",
+                                "originalJapaneseLine": "　ええい、チョップはやめんか！」",
+                                "translatedEnglishLine": "Hey, stop chopping me!\""
+                            },
+                            {
+                                "lineNumber": "269094",
+                                "originalJapaneseLine": "「だから！　そういうとこが！",
+                                "translatedEnglishLine": "\"That’s exactly why!"
+                            },
+                            {
+                                "lineNumber": "269095",
+                                "originalJapaneseLine": "　怒られるって！　言ってるんです！",
+                                "translatedEnglishLine": "I’m telling you, you’ll get scolded!"
+                            },
+                            {
+                                "lineNumber": "269096",
+                                "originalJapaneseLine": "　怒られるのクゥさんなんですからねー！」",
+                                "translatedEnglishLine": "It’s Ku-san who’s going to get yelled at, you see!\""
+                            },
+                            {
+                                "lineNumber": "269097",
+                                "originalJapaneseLine": "「バランス感覚の欠如！",
+                                "translatedEnglishLine": "\"Lack of balance!"
+                            },
+                            {
+                                "lineNumber": "269098",
+                                "originalJapaneseLine": "　バランス感覚の欠如ーーー！」",
+                                "translatedEnglishLine": "Lack of balance!!!\""
+                            },
+                            {
+                                "lineNumber": "269099",
+                                "originalJapaneseLine": "「いやいや！",
+                                "translatedEnglishLine": "\"No, no!"
+                            },
+                            {
+                                "lineNumber": "269100",
+                                "originalJapaneseLine": "　この世界で興味深い絡みとかすれば、",
+                                "translatedEnglishLine": "If you engage in interesting interactions in this world,"
+                            },
+                            {
+                                "lineNumber": "269101",
+                                "originalJapaneseLine": "　それはそれでイーブンではないか！？」",
+                                "translatedEnglishLine": "wouldn’t that balance things out too!?\""
+                            },
+                            {
+                                "lineNumber": "269102",
+                                "originalJapaneseLine": "「この世界のドラゴン勢との",
+                                "translatedEnglishLine": "\"How about interaction with the dragons of this world?"
+                            },
+                            {
+                                "lineNumber": "269103",
+                                "originalJapaneseLine": "　絡みとかどうじゃ！？",
+                                "translatedEnglishLine": "What do you think!?"
+                            },
+                            {
+                                "lineNumber": "269104",
+                                "originalJapaneseLine": "　色々と興味深い面白話になるのでは！？」",
+                                "translatedEnglishLine": "That could make for many interesting and fun stories!\""
+                            },
+                            {
+                                "lineNumber": "269105",
+                                "originalJapaneseLine": "「ハンティとか！　カミーラとか！」",
+                                "translatedEnglishLine": "\"Like Hanty! Or Camilla!\""
+                            },
+                            {
+                                "lineNumber": "269106",
+                                "originalJapaneseLine": "「KDとかーーーーー！」",
+                                "translatedEnglishLine": "\"Or KD!!!!\""
+                            },
+                            {
+                                "lineNumber": "269107",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "269108",
+                                "originalJapaneseLine": "「出たーーーー！？」",
+                                "translatedEnglishLine": "\"There it is!!!?\""
+                            },
+                            {
+                                "lineNumber": "269109",
+                                "originalJapaneseLine": "「ぬおっ！？　な、なんじゃKD！",
+                                "translatedEnglishLine": "\"Whoa!? Wh-what’s with you, KD!"
+                            },
+                            {
+                                "lineNumber": "269110",
+                                "originalJapaneseLine": "　わ、妾に文句があるのか！？",
+                                "translatedEnglishLine": "D-do you have a complaint about me!?\""
+                            },
+                            {
+                                "lineNumber": "269111",
+                                "originalJapaneseLine": "KDの大きな手が、",
+                                "translatedEnglishLine": "KD’s large hand"
+                            },
+                            {
+                                "lineNumber": "269112",
+                                "originalJapaneseLine": "クゥの小さな双肩にそっと重ねられる。",
+                                "translatedEnglishLine": "gently rests on Ku’s small twin shoulders."
+                            },
+                            {
+                                "lineNumber": "269113",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "269114",
+                                "originalJapaneseLine": "「やりすぎはよくない」",
+                                "translatedEnglishLine": "\"Don’t overdo it.\""
+                            },
+                            {
+                                "lineNumber": "269115",
+                                "originalJapaneseLine": "それは意外にも、",
+                                "translatedEnglishLine": "Surprisingly,"
+                            },
+                            {
+                                "lineNumber": "269116",
+                                "originalJapaneseLine": "とっても優しい声だった。",
+                                "translatedEnglishLine": "it was a very kind voice."
+                            },
+                            {
+                                "lineNumber": "269117",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "269118",
+                                "originalJapaneseLine": "そして帰って行った。",
+                                "translatedEnglishLine": "And then he left."
+                            },
+                            {
+                                "lineNumber": "269119",
+                                "originalJapaneseLine": "「今のなにーーーー！？！？！？」",
+                                "translatedEnglishLine": "\"What was that just now!?!?\""
+                            },
+                            {
+                                "lineNumber": "269120",
+                                "originalJapaneseLine": "「あんなカオスの塊な奴に",
+                                "translatedEnglishLine": "\"To be scolded by someone who's a walking ball of chaos..."
+                            },
+                            {
+                                "lineNumber": "269121",
+                                "originalJapaneseLine": "　叱られたのじゃ……妾、悲しい……",
+                                "translatedEnglishLine": "I got scolded... I'm so sad...\""
+                            },
+                            {
+                                "lineNumber": "269122",
+                                "originalJapaneseLine": "「こーーーなったらもう！",
+                                "translatedEnglishLine": "\"Well, if it’s come to this!"
+                            },
+                            {
+                                "lineNumber": "269123",
+                                "originalJapaneseLine": "　ヤケクソとばかりに本編のネタバレと行くか！",
+                                "translatedEnglishLine": "I might as well go on and spoil the main story in despair!\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1787,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2097,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3884
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　これ怒られる奴じゃよなーとはー！\",\"translatedEnglishLine\":\"This is definitely something that'll get me scolded—oh dear!\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「そりゃ、そうですよ！」\",\"translatedEnglishLine\":\"\\\"Of course it will!\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「でも！　でも！」\",\"translatedEnglishLine\":\"\\\"But! But!\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「妾は出しゃばるのがキャラじゃから、\",\"translatedEnglishLine\":\"\\\"Because being pushy is part of my character,\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　出しゃばらずにはおられなかったんじゃー！」\",\"translatedEnglishLine\":\"I just couldn't help but stick my nose in!\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「というか怒られるって分かってるなら、\",\"translatedEnglishLine\":\"\\\"If you know you'll get scolded,\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　しなくていいのでは……？」\",\"translatedEnglishLine\":\"then maybe you shouldn't do it...?\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「……爪痕が残せるかなーと」\",\"translatedEnglishLine\":\"\\\"...I was just thinking if I could leave a mark.\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「なんっで、そう、\",\"translatedEnglishLine\":\"\\\"Why on earth,\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　カメラに写しちゃいけない\",\"translatedEnglishLine\":\"would you do something like a performer who shouldn't be caught on camera?\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　芸人みたいなことするんですか！」\",\"translatedEnglishLine\":\"\\\"Why act like a comedian?!\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「さて、落ち着いたところで、\",\"translatedEnglishLine\":\"\\\"Now that we've calmed down,\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　惜しくも投票結果2位でジーク復活にならず\",\"translatedEnglishLine\":\"let's tease Aurora, who sadly came in second in the votes and didn't get to be revived.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　泣いてるであろうオーロラでもからかいに行くか」\",\"translatedEnglishLine\":\"She’s probably crying, so let's go mess with her.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「うわーん！\",\"translatedEnglishLine\":\"\\\"Waaah!\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　メタネタと内輪ネタがすごいよー！」\",\"translatedEnglishLine\":\"The meta jokes and inside jokes are intense!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「企画から数年後にやった人が、\",\"translatedEnglishLine\":\"\\\"Someone playing this years after the project,\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　なにこれ……\",\"translatedEnglishLine\":\"would be like, 'What is this...'\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"ってなるよー！」\",\"translatedEnglishLine\":\"right?\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「待て待て、\",\"translatedEnglishLine\":\"\\\"Wait wait,\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　メタと内輪は、お主も十八番じゃろ」\",\"translatedEnglishLine\":\"meta and inside jokes are your specialty too, aren't they?\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「私は一応、こっから先は駄目って、\",\"translatedEnglishLine\":\"\\\"I do have a line that I don’t cross, you know!\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　ラインは決めてるんですよー！」\",\"translatedEnglishLine\":\"I've set boundaries beyond which I don’t go!\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「あっ！　横に並ぶとよく分かる！\",\"translatedEnglishLine\":\"\\\"Ah! Side by side, it’s obvious!\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　妾とお主ってツインテ仲間じゃな！」\",\"translatedEnglishLine\":\"You and I are twin-tail buddies after all!\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「うわわわわーーーーーん！\",\"translatedEnglishLine\":\"\\\"Waaahhhhhhhhh!\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　この人は！　この人は！\",\"translatedEnglishLine\":\"This person! This person!\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　くたばれ！　くたばれ！」\",\"translatedEnglishLine\":\"Drop dead! Drop dead!\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「いたっ、いたた！\",\"translatedEnglishLine\":\"\\\"Ouch, ow!\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　ええい、チョップはやめんか！」\",\"translatedEnglishLine\":\"Hey, stop chopping me!\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「だから！　そういうとこが！\",\"translatedEnglishLine\":\"\\\"That’s exactly why!\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　怒られるって！　言ってるんです！\",\"translatedEnglishLine\":\"I’m telling you, you’ll get scolded!\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　怒られるのクゥさんなんですからねー！」\",\"translatedEnglishLine\":\"It’s Ku-san who’s going to get yelled at, you see!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「バランス感覚の欠如！\",\"translatedEnglishLine\":\"\\\"Lack of balance!\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　バランス感覚の欠如ーーー！」\",\"translatedEnglishLine\":\"Lack of balance!!!\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「いやいや！\",\"translatedEnglishLine\":\"\\\"No, no!\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　この世界で興味深い絡みとかすれば、\",\"translatedEnglishLine\":\"If you engage in interesting interactions in this world,\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　それはそれでイーブンではないか！？」\",\"translatedEnglishLine\":\"wouldn’t that balance things out too!?\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「この世界のドラゴン勢との\",\"translatedEnglishLine\":\"\\\"How about interaction with the dragons of this world?\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　絡みとかどうじゃ！？\",\"translatedEnglishLine\":\"What do you think!?\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　色々と興味深い面白話になるのでは！？」\",\"translatedEnglishLine\":\"That could make for many interesting and fun stories!\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「ハンティとか！　カミーラとか！」\",\"translatedEnglishLine\":\"\\\"Like Hanty! Or Camilla!\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「KDとかーーーーー！」\",\"translatedEnglishLine\":\"\\\"Or KD!!!!\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「出たーーーー！？」\",\"translatedEnglishLine\":\"\\\"There it is!!!?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ぬおっ！？　な、なんじゃKD！\",\"translatedEnglishLine\":\"\\\"Whoa!? Wh-what’s with you, KD!\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　わ、妾に文句があるのか！？\",\"translatedEnglishLine\":\"D-do you have a complaint about me!?\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"KDの大きな手が、\",\"translatedEnglishLine\":\"KD’s large hand\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"クゥの小さな双肩にそっと重ねられる。\",\"translatedEnglishLine\":\"gently rests on Ku’s small twin shoulders.\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「やりすぎはよくない」\",\"translatedEnglishLine\":\"\\\"Don’t overdo it.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"それは意外にも、\",\"translatedEnglishLine\":\"Surprisingly,\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"とっても優しい声だった。\",\"translatedEnglishLine\":\"it was a very kind voice.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"そして帰って行った。\",\"translatedEnglishLine\":\"And then he left.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「今のなにーーーー！？！？！？」\",\"translatedEnglishLine\":\"\\\"What was that just now!?!?\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「あんなカオスの塊な奴に\",\"translatedEnglishLine\":\"\\\"To be scolded by someone who's a walking ball of chaos...\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　叱られたのじゃ……妾、悲しい……\",\"translatedEnglishLine\":\"I got scolded... I'm so sad...\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「こーーーなったらもう！\",\"translatedEnglishLine\":\"\\\"Well, if it’s come to this!\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　ヤケクソとばかりに本編のネタバレと行くか！\",\"translatedEnglishLine\":\"I might as well go on and spoil the main story in despair!\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "269064",
+                "originalJapaneseLine": "　これ怒られる奴じゃよなーとはー！",
+                "translatedEnglishLine": "This is definitely something that'll get me scolded—oh dear!"
+            },
+            {
+                "lineNumber": "269065",
+                "originalJapaneseLine": "「そりゃ、そうですよ！」",
+                "translatedEnglishLine": "\"Of course it will!\""
+            },
+            {
+                "lineNumber": "269066",
+                "originalJapaneseLine": "「でも！　でも！」",
+                "translatedEnglishLine": "\"But! But!\""
+            },
+            {
+                "lineNumber": "269067",
+                "originalJapaneseLine": "「妾は出しゃばるのがキャラじゃから、",
+                "translatedEnglishLine": "\"Because being pushy is part of my character,"
+            },
+            {
+                "lineNumber": "269068",
+                "originalJapaneseLine": "　出しゃばらずにはおられなかったんじゃー！」",
+                "translatedEnglishLine": "I just couldn't help but stick my nose in!\""
+            },
+            {
+                "lineNumber": "269069",
+                "originalJapaneseLine": "「というか怒られるって分かってるなら、",
+                "translatedEnglishLine": "\"If you know you'll get scolded,"
+            },
+            {
+                "lineNumber": "269070",
+                "originalJapaneseLine": "　しなくていいのでは……？」",
+                "translatedEnglishLine": "then maybe you shouldn't do it...?\""
+            },
+            {
+                "lineNumber": "269071",
+                "originalJapaneseLine": "「……爪痕が残せるかなーと」",
+                "translatedEnglishLine": "\"...I was just thinking if I could leave a mark.\""
+            },
+            {
+                "lineNumber": "269072",
+                "originalJapaneseLine": "「なんっで、そう、",
+                "translatedEnglishLine": "\"Why on earth,"
+            },
+            {
+                "lineNumber": "269073",
+                "originalJapaneseLine": "　カメラに写しちゃいけない",
+                "translatedEnglishLine": "would you do something like a performer who shouldn't be caught on camera?\""
+            },
+            {
+                "lineNumber": "269074",
+                "originalJapaneseLine": "　芸人みたいなことするんですか！」",
+                "translatedEnglishLine": "\"Why act like a comedian?!\""
+            },
+            {
+                "lineNumber": "269075",
+                "originalJapaneseLine": "「さて、落ち着いたところで、",
+                "translatedEnglishLine": "\"Now that we've calmed down,"
+            },
+            {
+                "lineNumber": "269076",
+                "originalJapaneseLine": "　惜しくも投票結果2位でジーク復活にならず",
+                "translatedEnglishLine": "let's tease Aurora, who sadly came in second in the votes and didn't get to be revived."
+            },
+            {
+                "lineNumber": "269077",
+                "originalJapaneseLine": "　泣いてるであろうオーロラでもからかいに行くか」",
+                "translatedEnglishLine": "She’s probably crying, so let's go mess with her.\""
+            },
+            {
+                "lineNumber": "269078",
+                "originalJapaneseLine": "「うわーん！",
+                "translatedEnglishLine": "\"Waaah!"
+            },
+            {
+                "lineNumber": "269079",
+                "originalJapaneseLine": "　メタネタと内輪ネタがすごいよー！」",
+                "translatedEnglishLine": "The meta jokes and inside jokes are intense!\""
+            },
+            {
+                "lineNumber": "269080",
+                "originalJapaneseLine": "「企画から数年後にやった人が、",
+                "translatedEnglishLine": "\"Someone playing this years after the project,"
+            },
+            {
+                "lineNumber": "269081",
+                "originalJapaneseLine": "　なにこれ……",
+                "translatedEnglishLine": "would be like, 'What is this...'"
+            },
+            {
+                "lineNumber": "269082",
+                "originalJapaneseLine": "ってなるよー！」",
+                "translatedEnglishLine": "right?\""
+            },
+            {
+                "lineNumber": "269083",
+                "originalJapaneseLine": "「待て待て、",
+                "translatedEnglishLine": "\"Wait wait,"
+            },
+            {
+                "lineNumber": "269084",
+                "originalJapaneseLine": "　メタと内輪は、お主も十八番じゃろ」",
+                "translatedEnglishLine": "meta and inside jokes are your specialty too, aren't they?\""
+            },
+            {
+                "lineNumber": "269085",
+                "originalJapaneseLine": "「私は一応、こっから先は駄目って、",
+                "translatedEnglishLine": "\"I do have a line that I don’t cross, you know!\""
+            },
+            {
+                "lineNumber": "269086",
+                "originalJapaneseLine": "　ラインは決めてるんですよー！」",
+                "translatedEnglishLine": "I've set boundaries beyond which I don’t go!\""
+            },
+            {
+                "lineNumber": "269087",
+                "originalJapaneseLine": "「あっ！　横に並ぶとよく分かる！",
+                "translatedEnglishLine": "\"Ah! Side by side, it’s obvious!"
+            },
+            {
+                "lineNumber": "269088",
+                "originalJapaneseLine": "　妾とお主ってツインテ仲間じゃな！」",
+                "translatedEnglishLine": "You and I are twin-tail buddies after all!\""
+            },
+            {
+                "lineNumber": "269089",
+                "originalJapaneseLine": "「うわわわわーーーーーん！",
+                "translatedEnglishLine": "\"Waaahhhhhhhhh!"
+            },
+            {
+                "lineNumber": "269090",
+                "originalJapaneseLine": "　この人は！　この人は！",
+                "translatedEnglishLine": "This person! This person!"
+            },
+            {
+                "lineNumber": "269091",
+                "originalJapaneseLine": "　くたばれ！　くたばれ！」",
+                "translatedEnglishLine": "Drop dead! Drop dead!\""
+            },
+            {
+                "lineNumber": "269092",
+                "originalJapaneseLine": "「いたっ、いたた！",
+                "translatedEnglishLine": "\"Ouch, ow!"
+            },
+            {
+                "lineNumber": "269093",
+                "originalJapaneseLine": "　ええい、チョップはやめんか！」",
+                "translatedEnglishLine": "Hey, stop chopping me!\""
+            },
+            {
+                "lineNumber": "269094",
+                "originalJapaneseLine": "「だから！　そういうとこが！",
+                "translatedEnglishLine": "\"That’s exactly why!"
+            },
+            {
+                "lineNumber": "269095",
+                "originalJapaneseLine": "　怒られるって！　言ってるんです！",
+                "translatedEnglishLine": "I’m telling you, you’ll get scolded!"
+            },
+            {
+                "lineNumber": "269096",
+                "originalJapaneseLine": "　怒られるのクゥさんなんですからねー！」",
+                "translatedEnglishLine": "It’s Ku-san who’s going to get yelled at, you see!\""
+            },
+            {
+                "lineNumber": "269097",
+                "originalJapaneseLine": "「バランス感覚の欠如！",
+                "translatedEnglishLine": "\"Lack of balance!"
+            },
+            {
+                "lineNumber": "269098",
+                "originalJapaneseLine": "　バランス感覚の欠如ーーー！」",
+                "translatedEnglishLine": "Lack of balance!!!\""
+            },
+            {
+                "lineNumber": "269099",
+                "originalJapaneseLine": "「いやいや！",
+                "translatedEnglishLine": "\"No, no!"
+            },
+            {
+                "lineNumber": "269100",
+                "originalJapaneseLine": "　この世界で興味深い絡みとかすれば、",
+                "translatedEnglishLine": "If you engage in interesting interactions in this world,"
+            },
+            {
+                "lineNumber": "269101",
+                "originalJapaneseLine": "　それはそれでイーブンではないか！？」",
+                "translatedEnglishLine": "wouldn’t that balance things out too!?\""
+            },
+            {
+                "lineNumber": "269102",
+                "originalJapaneseLine": "「この世界のドラゴン勢との",
+                "translatedEnglishLine": "\"How about interaction with the dragons of this world?"
+            },
+            {
+                "lineNumber": "269103",
+                "originalJapaneseLine": "　絡みとかどうじゃ！？",
+                "translatedEnglishLine": "What do you think!?"
+            },
+            {
+                "lineNumber": "269104",
+                "originalJapaneseLine": "　色々と興味深い面白話になるのでは！？」",
+                "translatedEnglishLine": "That could make for many interesting and fun stories!\""
+            },
+            {
+                "lineNumber": "269105",
+                "originalJapaneseLine": "「ハンティとか！　カミーラとか！」",
+                "translatedEnglishLine": "\"Like Hanty! Or Camilla!\""
+            },
+            {
+                "lineNumber": "269106",
+                "originalJapaneseLine": "「KDとかーーーーー！」",
+                "translatedEnglishLine": "\"Or KD!!!!\""
+            },
+            {
+                "lineNumber": "269107",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "269108",
+                "originalJapaneseLine": "「出たーーーー！？」",
+                "translatedEnglishLine": "\"There it is!!!?\""
+            },
+            {
+                "lineNumber": "269109",
+                "originalJapaneseLine": "「ぬおっ！？　な、なんじゃKD！",
+                "translatedEnglishLine": "\"Whoa!? Wh-what’s with you, KD!"
+            },
+            {
+                "lineNumber": "269110",
+                "originalJapaneseLine": "　わ、妾に文句があるのか！？",
+                "translatedEnglishLine": "D-do you have a complaint about me!?\""
+            },
+            {
+                "lineNumber": "269111",
+                "originalJapaneseLine": "KDの大きな手が、",
+                "translatedEnglishLine": "KD’s large hand"
+            },
+            {
+                "lineNumber": "269112",
+                "originalJapaneseLine": "クゥの小さな双肩にそっと重ねられる。",
+                "translatedEnglishLine": "gently rests on Ku’s small twin shoulders."
+            },
+            {
+                "lineNumber": "269113",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "269114",
+                "originalJapaneseLine": "「やりすぎはよくない」",
+                "translatedEnglishLine": "\"Don’t overdo it.\""
+            },
+            {
+                "lineNumber": "269115",
+                "originalJapaneseLine": "それは意外にも、",
+                "translatedEnglishLine": "Surprisingly,"
+            },
+            {
+                "lineNumber": "269116",
+                "originalJapaneseLine": "とっても優しい声だった。",
+                "translatedEnglishLine": "it was a very kind voice."
+            },
+            {
+                "lineNumber": "269117",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "269118",
+                "originalJapaneseLine": "そして帰って行った。",
+                "translatedEnglishLine": "And then he left."
+            },
+            {
+                "lineNumber": "269119",
+                "originalJapaneseLine": "「今のなにーーーー！？！？！？」",
+                "translatedEnglishLine": "\"What was that just now!?!?\""
+            },
+            {
+                "lineNumber": "269120",
+                "originalJapaneseLine": "「あんなカオスの塊な奴に",
+                "translatedEnglishLine": "\"To be scolded by someone who's a walking ball of chaos..."
+            },
+            {
+                "lineNumber": "269121",
+                "originalJapaneseLine": "　叱られたのじゃ……妾、悲しい……",
+                "translatedEnglishLine": "I got scolded... I'm so sad...\""
+            },
+            {
+                "lineNumber": "269122",
+                "originalJapaneseLine": "「こーーーなったらもう！",
+                "translatedEnglishLine": "\"Well, if it’s come to this!"
+            },
+            {
+                "lineNumber": "269123",
+                "originalJapaneseLine": "　ヤケクソとばかりに本編のネタバレと行くか！",
+                "translatedEnglishLine": "I might as well go on and spoil the main story in despair!\""
+            }
+        ]
+    }
+}

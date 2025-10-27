@@ -1,0 +1,719 @@
+{
+    "id": "resp_0e2171ed01003ee90068ffe8b3a6008194b09d31197fb20e05",
+    "object": "response",
+    "created_at": 1761601715,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0e2171ed01003ee90068ffe8b45a8c8194a7bbea52024df4dd",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「おそらく、他者の睡眠というものを、\",\"translatedEnglishLine\":\"\\\"Perhaps, the thing about others' sleep,\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　強制的にコントロールするのが、\",\"translatedEnglishLine\":\"  is that forcibly controlling it,\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　私の力なんだと思うけど……」\",\"translatedEnglishLine\":\"  I think that's my power...\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「貴方にとっての睡眠は、\",\"translatedEnglishLine\":\"\\\"Sleep, to you,\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　魔人である私にも操作できない\",\"translatedEnglishLine\":\"  might be a realm even I, a demon, cannot manipulate...\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　境地にある……の、かも……」\",\"translatedEnglishLine\":\"\\\"...\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「なるほど……」\",\"translatedEnglishLine\":\"\\\"I see...\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「…………ぐう」\",\"translatedEnglishLine\":\"\\\"...snore\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「って、寝るの！？」\",\"translatedEnglishLine\":\"\\\"Wait, you're going to sleep!?\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「……おおっ」\",\"translatedEnglishLine\":\"\\\"...Oh!\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「起きたーーーー！？！？！？」\",\"translatedEnglishLine\":\"\\\"You woke upーーーー!?!?\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「？　そりゃ……起きるよ……」\",\"translatedEnglishLine\":\"\\\"? Of course... I'll wake up...\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「ふ、普通は起きられないのよ……\",\"translatedEnglishLine\":\"\\\"Hmph, normally you can't wake up...\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　貴方みたいな人は初めて見たわ」\",\"translatedEnglishLine\":\"  I've never seen anyone like you before.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「ふ〜ん……」\",\"translatedEnglishLine\":\"\\\"Hmm...\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「うわ、興味なさげ！」\",\"translatedEnglishLine\":\"\\\"Whoa, so uninterested!\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「それよりトランプする？」\",\"translatedEnglishLine\":\"\\\"Anyway, shall we play cards?\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「……本当に、興味ないのね」\",\"translatedEnglishLine\":\"\\\"...You really aren't interested, huh.\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「？　トランプ……嫌い……？」\",\"translatedEnglishLine\":\"\\\"? Cards... you don't like them...?\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「……や、やりたい」\",\"translatedEnglishLine\":\"\\\"...I-I want to play.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「うん、やろ」\",\"translatedEnglishLine\":\"\\\"Yeah, let's do it.\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「う、うん……」\",\"translatedEnglishLine\":\"\\\"Y-yeah...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「はい、フルハウス〜」\",\"translatedEnglishLine\":\"\\\"Here, Full House~\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「ぐっ！」\",\"translatedEnglishLine\":\"\\\"Guh!\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「い、いやに強いのね……」\",\"translatedEnglishLine\":\"\\\"Y-You're surprisingly strong...\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「うわーん！　悔しいー！\",\"translatedEnglishLine\":\"\\\"Wah! I'm so frustrated!\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　ちっとも勝てないー！」\",\"translatedEnglishLine\":\"  I can't win at all!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「いや……なんでだろ……\",\"translatedEnglishLine\":\"\\\"No... I wonder why...?\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　なんか……すごいワーグ、読みやすい……」\",\"translatedEnglishLine\":\"  Somehow... I can read Warg so well...\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「も、もう一度やりましょう。\",\"translatedEnglishLine\":\"\\\"L-Let's play again.\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　今度こそ勝てる気がするの」\",\"translatedEnglishLine\":\"  This time I feel like I can win.\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「……セスナ？」\",\"translatedEnglishLine\":\"\\\"...Setsuna?\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「……ぐう」\",\"translatedEnglishLine\":\"\\\"...snore\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「あ、また寝てる……」\",\"translatedEnglishLine\":\"\\\"Ah, she's sleeping again...\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「ぐうぐう……」\",\"translatedEnglishLine\":\"\\\"Snore snore...\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「ふう……」\",\"translatedEnglishLine\":\"\\\"Phew...\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"ワーグはトランプを置きながら、\",\"translatedEnglishLine\":\"Warg placed the cards down,\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"溜め息を吐きだした。\",\"translatedEnglishLine\":\"and let out a sigh.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"相手が起きるのを待つ、なんて行為は、\",\"translatedEnglishLine\":\"Waiting for the other person to wake up was an action\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"忘れてしまったほど久し振りの出来事だった。\",\"translatedEnglishLine\":\"that had not happened in so long she had nearly forgotten about it.\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「……変な人。\",\"translatedEnglishLine\":\"\\\"...What a strange person.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　すごくマイペースで、すごく勝手で」\",\"translatedEnglishLine\":\"  So very laid-back, and so very self-centered.\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「私を……恐れない人」\",\"translatedEnglishLine\":\"\\\"A person... who does not fear me.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「ん？」\",\"translatedEnglishLine\":\"\\\"Hmm?\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「ぐう、ぐう……\",\"translatedEnglishLine\":\"\\\"Snore, snore... \"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　ぐーーーー……」\",\"translatedEnglishLine\":\"  snoooore...\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"　　＜どさっ＞\",\"translatedEnglishLine\":\"   <sfx>thud</sfx>\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"セスナが音を立てて、\",\"translatedEnglishLine\":\"Setsuna made a sound and\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"ワーグの肩に寄りかかった。\",\"translatedEnglishLine\":\"leaned against Warg's shoulder.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「え、あ、え……ちょ……！\",\"translatedEnglishLine\":\"\\\"Eh, ah, eh... w-wait...!\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　せ、セスナ……！？」\",\"translatedEnglishLine\":\"  S-Setsuna...!?\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「あ、あのあのあの……」\",\"translatedEnglishLine\":\"\\\"Ah, um, um, um...\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"（ち……ち……ち……）\",\"translatedEnglishLine\":\"(Ch... ch... ch...)\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "266484",
+                                "originalJapaneseLine": "「おそらく、他者の睡眠というものを、",
+                                "translatedEnglishLine": "\"Perhaps, the thing about others' sleep,"
+                            },
+                            {
+                                "lineNumber": "266485",
+                                "originalJapaneseLine": "　強制的にコントロールするのが、",
+                                "translatedEnglishLine": "  is that forcibly controlling it,"
+                            },
+                            {
+                                "lineNumber": "266486",
+                                "originalJapaneseLine": "　私の力なんだと思うけど……」",
+                                "translatedEnglishLine": "  I think that's my power...\""
+                            },
+                            {
+                                "lineNumber": "266487",
+                                "originalJapaneseLine": "「貴方にとっての睡眠は、",
+                                "translatedEnglishLine": "\"Sleep, to you,"
+                            },
+                            {
+                                "lineNumber": "266488",
+                                "originalJapaneseLine": "　魔人である私にも操作できない",
+                                "translatedEnglishLine": "  might be a realm even I, a demon, cannot manipulate..."
+                            },
+                            {
+                                "lineNumber": "266489",
+                                "originalJapaneseLine": "　境地にある……の、かも……」",
+                                "translatedEnglishLine": "\"..."
+                            },
+                            {
+                                "lineNumber": "266490",
+                                "originalJapaneseLine": "「なるほど……」",
+                                "translatedEnglishLine": "\"I see...\""
+                            },
+                            {
+                                "lineNumber": "266491",
+                                "originalJapaneseLine": "「…………ぐう」",
+                                "translatedEnglishLine": "\"...snore\""
+                            },
+                            {
+                                "lineNumber": "266492",
+                                "originalJapaneseLine": "「って、寝るの！？」",
+                                "translatedEnglishLine": "\"Wait, you're going to sleep!?\""
+                            },
+                            {
+                                "lineNumber": "266493",
+                                "originalJapaneseLine": "「……おおっ」",
+                                "translatedEnglishLine": "\"...Oh!\""
+                            },
+                            {
+                                "lineNumber": "266494",
+                                "originalJapaneseLine": "「起きたーーーー！？！？！？」",
+                                "translatedEnglishLine": "\"You woke upーーーー!?!?\""
+                            },
+                            {
+                                "lineNumber": "266495",
+                                "originalJapaneseLine": "「？　そりゃ……起きるよ……」",
+                                "translatedEnglishLine": "\"? Of course... I'll wake up...\""
+                            },
+                            {
+                                "lineNumber": "266496",
+                                "originalJapaneseLine": "「ふ、普通は起きられないのよ……",
+                                "translatedEnglishLine": "\"Hmph, normally you can't wake up..."
+                            },
+                            {
+                                "lineNumber": "266497",
+                                "originalJapaneseLine": "　貴方みたいな人は初めて見たわ」",
+                                "translatedEnglishLine": "  I've never seen anyone like you before.\""
+                            },
+                            {
+                                "lineNumber": "266498",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"...\""
+                            },
+                            {
+                                "lineNumber": "266499",
+                                "originalJapaneseLine": "「ふ〜ん……」",
+                                "translatedEnglishLine": "\"Hmm...\""
+                            },
+                            {
+                                "lineNumber": "266500",
+                                "originalJapaneseLine": "「うわ、興味なさげ！」",
+                                "translatedEnglishLine": "\"Whoa, so uninterested!\""
+                            },
+                            {
+                                "lineNumber": "266501",
+                                "originalJapaneseLine": "「それよりトランプする？」",
+                                "translatedEnglishLine": "\"Anyway, shall we play cards?\""
+                            },
+                            {
+                                "lineNumber": "266502",
+                                "originalJapaneseLine": "「……本当に、興味ないのね」",
+                                "translatedEnglishLine": "\"...You really aren't interested, huh.\""
+                            },
+                            {
+                                "lineNumber": "266503",
+                                "originalJapaneseLine": "「？　トランプ……嫌い……？」",
+                                "translatedEnglishLine": "\"? Cards... you don't like them...?\""
+                            },
+                            {
+                                "lineNumber": "266504",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"...\""
+                            },
+                            {
+                                "lineNumber": "266505",
+                                "originalJapaneseLine": "「……や、やりたい」",
+                                "translatedEnglishLine": "\"...I-I want to play.\""
+                            },
+                            {
+                                "lineNumber": "266506",
+                                "originalJapaneseLine": "「うん、やろ」",
+                                "translatedEnglishLine": "\"Yeah, let's do it.\""
+                            },
+                            {
+                                "lineNumber": "266507",
+                                "originalJapaneseLine": "「う、うん……」",
+                                "translatedEnglishLine": "\"Y-yeah...\""
+                            },
+                            {
+                                "lineNumber": "266508",
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": "266509",
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": "266510",
+                                "originalJapaneseLine": "「はい、フルハウス〜」",
+                                "translatedEnglishLine": "\"Here, Full House~\""
+                            },
+                            {
+                                "lineNumber": "266511",
+                                "originalJapaneseLine": "「ぐっ！」",
+                                "translatedEnglishLine": "\"Guh!\""
+                            },
+                            {
+                                "lineNumber": "266512",
+                                "originalJapaneseLine": "「い、いやに強いのね……」",
+                                "translatedEnglishLine": "\"Y-You're surprisingly strong...\""
+                            },
+                            {
+                                "lineNumber": "266513",
+                                "originalJapaneseLine": "「うわーん！　悔しいー！",
+                                "translatedEnglishLine": "\"Wah! I'm so frustrated!"
+                            },
+                            {
+                                "lineNumber": "266514",
+                                "originalJapaneseLine": "　ちっとも勝てないー！」",
+                                "translatedEnglishLine": "  I can't win at all!\""
+                            },
+                            {
+                                "lineNumber": "266515",
+                                "originalJapaneseLine": "「いや……なんでだろ……",
+                                "translatedEnglishLine": "\"No... I wonder why...?"
+                            },
+                            {
+                                "lineNumber": "266516",
+                                "originalJapaneseLine": "　なんか……すごいワーグ、読みやすい……」",
+                                "translatedEnglishLine": "  Somehow... I can read Warg so well...\""
+                            },
+                            {
+                                "lineNumber": "266517",
+                                "originalJapaneseLine": "「も、もう一度やりましょう。",
+                                "translatedEnglishLine": "\"L-Let's play again."
+                            },
+                            {
+                                "lineNumber": "266518",
+                                "originalJapaneseLine": "　今度こそ勝てる気がするの」",
+                                "translatedEnglishLine": "  This time I feel like I can win.\""
+                            },
+                            {
+                                "lineNumber": "266519",
+                                "originalJapaneseLine": "「……セスナ？」",
+                                "translatedEnglishLine": "\"...Setsuna?\""
+                            },
+                            {
+                                "lineNumber": "266520",
+                                "originalJapaneseLine": "「……ぐう」",
+                                "translatedEnglishLine": "\"...snore\""
+                            },
+                            {
+                                "lineNumber": "266521",
+                                "originalJapaneseLine": "「あ、また寝てる……」",
+                                "translatedEnglishLine": "\"Ah, she's sleeping again...\""
+                            },
+                            {
+                                "lineNumber": "266522",
+                                "originalJapaneseLine": "「ぐうぐう……」",
+                                "translatedEnglishLine": "\"Snore snore...\""
+                            },
+                            {
+                                "lineNumber": "266523",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"...\""
+                            },
+                            {
+                                "lineNumber": "266524",
+                                "originalJapaneseLine": "「ふう……」",
+                                "translatedEnglishLine": "\"Phew...\""
+                            },
+                            {
+                                "lineNumber": "266525",
+                                "originalJapaneseLine": "ワーグはトランプを置きながら、",
+                                "translatedEnglishLine": "Warg placed the cards down,"
+                            },
+                            {
+                                "lineNumber": "266526",
+                                "originalJapaneseLine": "溜め息を吐きだした。",
+                                "translatedEnglishLine": "and let out a sigh."
+                            },
+                            {
+                                "lineNumber": "266527",
+                                "originalJapaneseLine": "相手が起きるのを待つ、なんて行為は、",
+                                "translatedEnglishLine": "Waiting for the other person to wake up was an action"
+                            },
+                            {
+                                "lineNumber": "266528",
+                                "originalJapaneseLine": "忘れてしまったほど久し振りの出来事だった。",
+                                "translatedEnglishLine": "that had not happened in so long she had nearly forgotten about it."
+                            },
+                            {
+                                "lineNumber": "266529",
+                                "originalJapaneseLine": "「……変な人。",
+                                "translatedEnglishLine": "\"...What a strange person."
+                            },
+                            {
+                                "lineNumber": "266530",
+                                "originalJapaneseLine": "　すごくマイペースで、すごく勝手で」",
+                                "translatedEnglishLine": "  So very laid-back, and so very self-centered.\""
+                            },
+                            {
+                                "lineNumber": "266531",
+                                "originalJapaneseLine": "「私を……恐れない人」",
+                                "translatedEnglishLine": "\"A person... who does not fear me.\""
+                            },
+                            {
+                                "lineNumber": "266532",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"...\""
+                            },
+                            {
+                                "lineNumber": "266533",
+                                "originalJapaneseLine": "「ん？」",
+                                "translatedEnglishLine": "\"Hmm?\""
+                            },
+                            {
+                                "lineNumber": "266534",
+                                "originalJapaneseLine": "「ぐう、ぐう……",
+                                "translatedEnglishLine": "\"Snore, snore... "
+                            },
+                            {
+                                "lineNumber": "266535",
+                                "originalJapaneseLine": "　ぐーーーー……」",
+                                "translatedEnglishLine": "  snoooore...\""
+                            },
+                            {
+                                "lineNumber": "266536",
+                                "originalJapaneseLine": "　",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": "266537",
+                                "originalJapaneseLine": "　　＜どさっ＞",
+                                "translatedEnglishLine": "   <sfx>thud</sfx>"
+                            },
+                            {
+                                "lineNumber": "266538",
+                                "originalJapaneseLine": "セスナが音を立てて、",
+                                "translatedEnglishLine": "Setsuna made a sound and"
+                            },
+                            {
+                                "lineNumber": "266539",
+                                "originalJapaneseLine": "ワーグの肩に寄りかかった。",
+                                "translatedEnglishLine": "leaned against Warg's shoulder."
+                            },
+                            {
+                                "lineNumber": "266540",
+                                "originalJapaneseLine": "「え、あ、え……ちょ……！",
+                                "translatedEnglishLine": "\"Eh, ah, eh... w-wait...!"
+                            },
+                            {
+                                "lineNumber": "266541",
+                                "originalJapaneseLine": "　せ、セスナ……！？」",
+                                "translatedEnglishLine": "  S-Setsuna...!?\""
+                            },
+                            {
+                                "lineNumber": "266542",
+                                "originalJapaneseLine": "「あ、あのあのあの……」",
+                                "translatedEnglishLine": "\"Ah, um, um, um...\""
+                            },
+                            {
+                                "lineNumber": "266543",
+                                "originalJapaneseLine": "（ち……ち……ち……）",
+                                "translatedEnglishLine": "(Ch... ch... ch...)\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1656,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1872,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3528
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「おそらく、他者の睡眠というものを、\",\"translatedEnglishLine\":\"\\\"Perhaps, the thing about others' sleep,\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　強制的にコントロールするのが、\",\"translatedEnglishLine\":\"  is that forcibly controlling it,\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　私の力なんだと思うけど……」\",\"translatedEnglishLine\":\"  I think that's my power...\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「貴方にとっての睡眠は、\",\"translatedEnglishLine\":\"\\\"Sleep, to you,\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　魔人である私にも操作できない\",\"translatedEnglishLine\":\"  might be a realm even I, a demon, cannot manipulate...\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　境地にある……の、かも……」\",\"translatedEnglishLine\":\"\\\"...\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「なるほど……」\",\"translatedEnglishLine\":\"\\\"I see...\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「…………ぐう」\",\"translatedEnglishLine\":\"\\\"...snore\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「って、寝るの！？」\",\"translatedEnglishLine\":\"\\\"Wait, you're going to sleep!?\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「……おおっ」\",\"translatedEnglishLine\":\"\\\"...Oh!\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「起きたーーーー！？！？！？」\",\"translatedEnglishLine\":\"\\\"You woke upーーーー!?!?\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「？　そりゃ……起きるよ……」\",\"translatedEnglishLine\":\"\\\"? Of course... I'll wake up...\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「ふ、普通は起きられないのよ……\",\"translatedEnglishLine\":\"\\\"Hmph, normally you can't wake up...\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　貴方みたいな人は初めて見たわ」\",\"translatedEnglishLine\":\"  I've never seen anyone like you before.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「ふ〜ん……」\",\"translatedEnglishLine\":\"\\\"Hmm...\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「うわ、興味なさげ！」\",\"translatedEnglishLine\":\"\\\"Whoa, so uninterested!\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「それよりトランプする？」\",\"translatedEnglishLine\":\"\\\"Anyway, shall we play cards?\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「……本当に、興味ないのね」\",\"translatedEnglishLine\":\"\\\"...You really aren't interested, huh.\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「？　トランプ……嫌い……？」\",\"translatedEnglishLine\":\"\\\"? Cards... you don't like them...?\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「……や、やりたい」\",\"translatedEnglishLine\":\"\\\"...I-I want to play.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「うん、やろ」\",\"translatedEnglishLine\":\"\\\"Yeah, let's do it.\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「う、うん……」\",\"translatedEnglishLine\":\"\\\"Y-yeah...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「はい、フルハウス〜」\",\"translatedEnglishLine\":\"\\\"Here, Full House~\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「ぐっ！」\",\"translatedEnglishLine\":\"\\\"Guh!\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「い、いやに強いのね……」\",\"translatedEnglishLine\":\"\\\"Y-You're surprisingly strong...\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「うわーん！　悔しいー！\",\"translatedEnglishLine\":\"\\\"Wah! I'm so frustrated!\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　ちっとも勝てないー！」\",\"translatedEnglishLine\":\"  I can't win at all!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「いや……なんでだろ……\",\"translatedEnglishLine\":\"\\\"No... I wonder why...?\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　なんか……すごいワーグ、読みやすい……」\",\"translatedEnglishLine\":\"  Somehow... I can read Warg so well...\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「も、もう一度やりましょう。\",\"translatedEnglishLine\":\"\\\"L-Let's play again.\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　今度こそ勝てる気がするの」\",\"translatedEnglishLine\":\"  This time I feel like I can win.\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「……セスナ？」\",\"translatedEnglishLine\":\"\\\"...Setsuna?\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「……ぐう」\",\"translatedEnglishLine\":\"\\\"...snore\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「あ、また寝てる……」\",\"translatedEnglishLine\":\"\\\"Ah, she's sleeping again...\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「ぐうぐう……」\",\"translatedEnglishLine\":\"\\\"Snore snore...\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「ふう……」\",\"translatedEnglishLine\":\"\\\"Phew...\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"ワーグはトランプを置きながら、\",\"translatedEnglishLine\":\"Warg placed the cards down,\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"溜め息を吐きだした。\",\"translatedEnglishLine\":\"and let out a sigh.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"相手が起きるのを待つ、なんて行為は、\",\"translatedEnglishLine\":\"Waiting for the other person to wake up was an action\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"忘れてしまったほど久し振りの出来事だった。\",\"translatedEnglishLine\":\"that had not happened in so long she had nearly forgotten about it.\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「……変な人。\",\"translatedEnglishLine\":\"\\\"...What a strange person.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　すごくマイペースで、すごく勝手で」\",\"translatedEnglishLine\":\"  So very laid-back, and so very self-centered.\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「私を……恐れない人」\",\"translatedEnglishLine\":\"\\\"A person... who does not fear me.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「ん？」\",\"translatedEnglishLine\":\"\\\"Hmm?\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「ぐう、ぐう……\",\"translatedEnglishLine\":\"\\\"Snore, snore... \"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　ぐーーーー……」\",\"translatedEnglishLine\":\"  snoooore...\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"　　＜どさっ＞\",\"translatedEnglishLine\":\"   <sfx>thud</sfx>\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"セスナが音を立てて、\",\"translatedEnglishLine\":\"Setsuna made a sound and\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"ワーグの肩に寄りかかった。\",\"translatedEnglishLine\":\"leaned against Warg's shoulder.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「え、あ、え……ちょ……！\",\"translatedEnglishLine\":\"\\\"Eh, ah, eh... w-wait...!\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　せ、セスナ……！？」\",\"translatedEnglishLine\":\"  S-Setsuna...!?\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「あ、あのあのあの……」\",\"translatedEnglishLine\":\"\\\"Ah, um, um, um...\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"（ち……ち……ち……）\",\"translatedEnglishLine\":\"(Ch... ch... ch...)\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "266484",
+                "originalJapaneseLine": "「おそらく、他者の睡眠というものを、",
+                "translatedEnglishLine": "\"Perhaps, the thing about others' sleep,"
+            },
+            {
+                "lineNumber": "266485",
+                "originalJapaneseLine": "　強制的にコントロールするのが、",
+                "translatedEnglishLine": "  is that forcibly controlling it,"
+            },
+            {
+                "lineNumber": "266486",
+                "originalJapaneseLine": "　私の力なんだと思うけど……」",
+                "translatedEnglishLine": "  I think that's my power...\""
+            },
+            {
+                "lineNumber": "266487",
+                "originalJapaneseLine": "「貴方にとっての睡眠は、",
+                "translatedEnglishLine": "\"Sleep, to you,"
+            },
+            {
+                "lineNumber": "266488",
+                "originalJapaneseLine": "　魔人である私にも操作できない",
+                "translatedEnglishLine": "  might be a realm even I, a demon, cannot manipulate..."
+            },
+            {
+                "lineNumber": "266489",
+                "originalJapaneseLine": "　境地にある……の、かも……」",
+                "translatedEnglishLine": "\"..."
+            },
+            {
+                "lineNumber": "266490",
+                "originalJapaneseLine": "「なるほど……」",
+                "translatedEnglishLine": "\"I see...\""
+            },
+            {
+                "lineNumber": "266491",
+                "originalJapaneseLine": "「…………ぐう」",
+                "translatedEnglishLine": "\"...snore\""
+            },
+            {
+                "lineNumber": "266492",
+                "originalJapaneseLine": "「って、寝るの！？」",
+                "translatedEnglishLine": "\"Wait, you're going to sleep!?\""
+            },
+            {
+                "lineNumber": "266493",
+                "originalJapaneseLine": "「……おおっ」",
+                "translatedEnglishLine": "\"...Oh!\""
+            },
+            {
+                "lineNumber": "266494",
+                "originalJapaneseLine": "「起きたーーーー！？！？！？」",
+                "translatedEnglishLine": "\"You woke upーーーー!?!?\""
+            },
+            {
+                "lineNumber": "266495",
+                "originalJapaneseLine": "「？　そりゃ……起きるよ……」",
+                "translatedEnglishLine": "\"? Of course... I'll wake up...\""
+            },
+            {
+                "lineNumber": "266496",
+                "originalJapaneseLine": "「ふ、普通は起きられないのよ……",
+                "translatedEnglishLine": "\"Hmph, normally you can't wake up..."
+            },
+            {
+                "lineNumber": "266497",
+                "originalJapaneseLine": "　貴方みたいな人は初めて見たわ」",
+                "translatedEnglishLine": "  I've never seen anyone like you before.\""
+            },
+            {
+                "lineNumber": "266498",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"...\""
+            },
+            {
+                "lineNumber": "266499",
+                "originalJapaneseLine": "「ふ〜ん……」",
+                "translatedEnglishLine": "\"Hmm...\""
+            },
+            {
+                "lineNumber": "266500",
+                "originalJapaneseLine": "「うわ、興味なさげ！」",
+                "translatedEnglishLine": "\"Whoa, so uninterested!\""
+            },
+            {
+                "lineNumber": "266501",
+                "originalJapaneseLine": "「それよりトランプする？」",
+                "translatedEnglishLine": "\"Anyway, shall we play cards?\""
+            },
+            {
+                "lineNumber": "266502",
+                "originalJapaneseLine": "「……本当に、興味ないのね」",
+                "translatedEnglishLine": "\"...You really aren't interested, huh.\""
+            },
+            {
+                "lineNumber": "266503",
+                "originalJapaneseLine": "「？　トランプ……嫌い……？」",
+                "translatedEnglishLine": "\"? Cards... you don't like them...?\""
+            },
+            {
+                "lineNumber": "266504",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"...\""
+            },
+            {
+                "lineNumber": "266505",
+                "originalJapaneseLine": "「……や、やりたい」",
+                "translatedEnglishLine": "\"...I-I want to play.\""
+            },
+            {
+                "lineNumber": "266506",
+                "originalJapaneseLine": "「うん、やろ」",
+                "translatedEnglishLine": "\"Yeah, let's do it.\""
+            },
+            {
+                "lineNumber": "266507",
+                "originalJapaneseLine": "「う、うん……」",
+                "translatedEnglishLine": "\"Y-yeah...\""
+            },
+            {
+                "lineNumber": "266508",
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": "266509",
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": "266510",
+                "originalJapaneseLine": "「はい、フルハウス〜」",
+                "translatedEnglishLine": "\"Here, Full House~\""
+            },
+            {
+                "lineNumber": "266511",
+                "originalJapaneseLine": "「ぐっ！」",
+                "translatedEnglishLine": "\"Guh!\""
+            },
+            {
+                "lineNumber": "266512",
+                "originalJapaneseLine": "「い、いやに強いのね……」",
+                "translatedEnglishLine": "\"Y-You're surprisingly strong...\""
+            },
+            {
+                "lineNumber": "266513",
+                "originalJapaneseLine": "「うわーん！　悔しいー！",
+                "translatedEnglishLine": "\"Wah! I'm so frustrated!"
+            },
+            {
+                "lineNumber": "266514",
+                "originalJapaneseLine": "　ちっとも勝てないー！」",
+                "translatedEnglishLine": "  I can't win at all!\""
+            },
+            {
+                "lineNumber": "266515",
+                "originalJapaneseLine": "「いや……なんでだろ……",
+                "translatedEnglishLine": "\"No... I wonder why...?"
+            },
+            {
+                "lineNumber": "266516",
+                "originalJapaneseLine": "　なんか……すごいワーグ、読みやすい……」",
+                "translatedEnglishLine": "  Somehow... I can read Warg so well...\""
+            },
+            {
+                "lineNumber": "266517",
+                "originalJapaneseLine": "「も、もう一度やりましょう。",
+                "translatedEnglishLine": "\"L-Let's play again."
+            },
+            {
+                "lineNumber": "266518",
+                "originalJapaneseLine": "　今度こそ勝てる気がするの」",
+                "translatedEnglishLine": "  This time I feel like I can win.\""
+            },
+            {
+                "lineNumber": "266519",
+                "originalJapaneseLine": "「……セスナ？」",
+                "translatedEnglishLine": "\"...Setsuna?\""
+            },
+            {
+                "lineNumber": "266520",
+                "originalJapaneseLine": "「……ぐう」",
+                "translatedEnglishLine": "\"...snore\""
+            },
+            {
+                "lineNumber": "266521",
+                "originalJapaneseLine": "「あ、また寝てる……」",
+                "translatedEnglishLine": "\"Ah, she's sleeping again...\""
+            },
+            {
+                "lineNumber": "266522",
+                "originalJapaneseLine": "「ぐうぐう……」",
+                "translatedEnglishLine": "\"Snore snore...\""
+            },
+            {
+                "lineNumber": "266523",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"...\""
+            },
+            {
+                "lineNumber": "266524",
+                "originalJapaneseLine": "「ふう……」",
+                "translatedEnglishLine": "\"Phew...\""
+            },
+            {
+                "lineNumber": "266525",
+                "originalJapaneseLine": "ワーグはトランプを置きながら、",
+                "translatedEnglishLine": "Warg placed the cards down,"
+            },
+            {
+                "lineNumber": "266526",
+                "originalJapaneseLine": "溜め息を吐きだした。",
+                "translatedEnglishLine": "and let out a sigh."
+            },
+            {
+                "lineNumber": "266527",
+                "originalJapaneseLine": "相手が起きるのを待つ、なんて行為は、",
+                "translatedEnglishLine": "Waiting for the other person to wake up was an action"
+            },
+            {
+                "lineNumber": "266528",
+                "originalJapaneseLine": "忘れてしまったほど久し振りの出来事だった。",
+                "translatedEnglishLine": "that had not happened in so long she had nearly forgotten about it."
+            },
+            {
+                "lineNumber": "266529",
+                "originalJapaneseLine": "「……変な人。",
+                "translatedEnglishLine": "\"...What a strange person."
+            },
+            {
+                "lineNumber": "266530",
+                "originalJapaneseLine": "　すごくマイペースで、すごく勝手で」",
+                "translatedEnglishLine": "  So very laid-back, and so very self-centered.\""
+            },
+            {
+                "lineNumber": "266531",
+                "originalJapaneseLine": "「私を……恐れない人」",
+                "translatedEnglishLine": "\"A person... who does not fear me.\""
+            },
+            {
+                "lineNumber": "266532",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"...\""
+            },
+            {
+                "lineNumber": "266533",
+                "originalJapaneseLine": "「ん？」",
+                "translatedEnglishLine": "\"Hmm?\""
+            },
+            {
+                "lineNumber": "266534",
+                "originalJapaneseLine": "「ぐう、ぐう……",
+                "translatedEnglishLine": "\"Snore, snore... "
+            },
+            {
+                "lineNumber": "266535",
+                "originalJapaneseLine": "　ぐーーーー……」",
+                "translatedEnglishLine": "  snoooore...\""
+            },
+            {
+                "lineNumber": "266536",
+                "originalJapaneseLine": "　",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": "266537",
+                "originalJapaneseLine": "　　＜どさっ＞",
+                "translatedEnglishLine": "   <sfx>thud</sfx>"
+            },
+            {
+                "lineNumber": "266538",
+                "originalJapaneseLine": "セスナが音を立てて、",
+                "translatedEnglishLine": "Setsuna made a sound and"
+            },
+            {
+                "lineNumber": "266539",
+                "originalJapaneseLine": "ワーグの肩に寄りかかった。",
+                "translatedEnglishLine": "leaned against Warg's shoulder."
+            },
+            {
+                "lineNumber": "266540",
+                "originalJapaneseLine": "「え、あ、え……ちょ……！",
+                "translatedEnglishLine": "\"Eh, ah, eh... w-wait...!"
+            },
+            {
+                "lineNumber": "266541",
+                "originalJapaneseLine": "　せ、セスナ……！？」",
+                "translatedEnglishLine": "  S-Setsuna...!?\""
+            },
+            {
+                "lineNumber": "266542",
+                "originalJapaneseLine": "「あ、あのあのあの……」",
+                "translatedEnglishLine": "\"Ah, um, um, um...\""
+            },
+            {
+                "lineNumber": "266543",
+                "originalJapaneseLine": "（ち……ち……ち……）",
+                "translatedEnglishLine": "(Ch... ch... ch...)\""
+            }
+        ]
+    }
+}

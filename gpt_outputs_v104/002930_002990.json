@@ -1,0 +1,719 @@
+{
+    "id": "resp_06e9f95c003d5c2b0068ffeb3990188190961f6e885bdff462",
+    "object": "response",
+    "created_at": 1761602361,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_06e9f95c003d5c2b0068ffeb3a4d7c8190bc29db6677f9d504",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「ふ、ぐえっ！？」\",\"translatedEnglishLine\":\"\\\"F-fwah!?!\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"サテラの持つ鞭が瞬く間に\",\"translatedEnglishLine\":\"The whip in Satera's hand quickly\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"メガデスの細っこい首にしゅるりと巻き付き、\",\"translatedEnglishLine\":\"slithered around Megades' thin neck,\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"力強く締まる。\",\"translatedEnglishLine\":\"and tightened powerfully.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「ぐええええ……！？」\",\"translatedEnglishLine\":\"\\\"Gweeeee...!?\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「――選ばせてやるぞ、人間。\",\"translatedEnglishLine\":\"\\\"—I'll let you choose, human.\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　このまま窒息死するか、\",\"translatedEnglishLine\":\"Either suffocate to death like this,\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　首の骨ごと千切られるか」\",\"translatedEnglishLine\":\"or have your neck snapped clean off.\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「どちらにしろ最後は八つ裂きにして、\",\"translatedEnglishLine\":\"\\\"Either way, in the end, I'll tear you apart,\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　世界の端っこから捨ててやるがな！」\",\"translatedEnglishLine\":\"and throw you away at the edge of the world!\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"サテラの双眸はメガデスに対する\",\"translatedEnglishLine\":\"Satera's eyes sparkled fiercely with\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"殺意と敵意でギラギラと輝いていた。\",\"translatedEnglishLine\":\"murderous intent and hostility toward Megades.\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"（あ、これ、マジであかん奴ー！？）\",\"translatedEnglishLine\":\"(Ah, this is seriously bad—!?)\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「さあ、答えろ！\",\"translatedEnglishLine\":\"\\\"Now, answer me!\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　どう死にたい！」\",\"translatedEnglishLine\":\"How do you want to die!\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「あ、あぐぐぐ……」\",\"translatedEnglishLine\":\"\\\"A-aghghgh...\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"（と、というか……息、息が……\",\"translatedEnglishLine\":\"(Or rather... my breath, my breath...\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　これ……本当に駄目かも……）\",\"translatedEnglishLine\":\"This... might really be no good...)\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「ん……」\",\"translatedEnglishLine\":\"\\\"Nn...\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「はっ！？　ここはどこ、私は誰！？」\",\"translatedEnglishLine\":\"\\\"Hah!? Where is this? Who am I!?\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「私の背中で、\",\"translatedEnglishLine\":\"\\\"On my back,\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　あんたはメガデス・モロミ」\",\"translatedEnglishLine\":\"you are Megades Moromi.\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「あれ？　プリマ？」\",\"translatedEnglishLine\":\"\\\"Huh? Prima?\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"目を覚ませばメガデスはプリマに背負われて、\",\"translatedEnglishLine\":\"When he woke up, Megades was being carried on Prima's back,\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"ランス城の廊下を進んでいた。\",\"translatedEnglishLine\":\"walking down the hallway of Rance Castle.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「えーと……\",\"translatedEnglishLine\":\"\\\"Umm...\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"　何がどうなったんだったっけ？」\",\"translatedEnglishLine\":\"What exactly happened again?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"\\\"Haa...\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　いい気なもんだ」\",\"translatedEnglishLine\":\"You really act all pleased with yourself.\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「あんたが魔人サテラに殺されかけてるから、\",\"translatedEnglishLine\":\"\\\"Because you were almost killed by the demon Satera,\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　あたしが必死に取りなしたんだよ。\",\"translatedEnglishLine\":\"I desperately intervened.\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　大変だったんだからな、なだめるの」\",\"translatedEnglishLine\":\"It was hard work, calming her down.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「あ〜〜〜〜……\",\"translatedEnglishLine\":\"\\\"Ahhhhhh...\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　そういうこと」\",\"translatedEnglishLine\":\"So that's how it was.\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「助けてくれたんだね、\",\"translatedEnglishLine\":\"\\\"You saved me,\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　私のこと嫌ってるのに」\",\"translatedEnglishLine\":\"even though you hate me.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「仕方ないだろ。\",\"translatedEnglishLine\":\"\\\"It couldn't be helped.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　見過ごすのも寝覚めが悪いんだから」\",\"translatedEnglishLine\":\"Turning a blind eye would leave a bad taste in my mouth.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「私、やっぱりプリマのお嫁さんになるね」\",\"translatedEnglishLine\":\"\\\"I've decided, I'll become Prima's bride after all.\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「絶対、嫌だ」\",\"translatedEnglishLine\":\"\\\"Absolutely not.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"\\\"Haa...\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　やっぱり助けるんじゃなかったよ」\",\"translatedEnglishLine\":\"I shouldn't have helped after all.\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ところでさ……」\",\"translatedEnglishLine\":\"\\\"By the way...\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「ん〜？」\",\"translatedEnglishLine\":\"\\\"Hmm~?\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「あんたってさ、\",\"translatedEnglishLine\":\"\\\"You know,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　意外と攻められると弱いタイプ？」\",\"translatedEnglishLine\":\"are you the type that's surprisingly weak when attacked?\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「あはは、あんたのあんな顔、初めて見た」\",\"translatedEnglishLine\":\"\\\"Haha, it's the first time I've seen your face like that.\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「毎日ベッドでひんひん言ってる癖に、\",\"translatedEnglishLine\":\"\\\"Even though you whine every day in bed,\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　生意気抜かすのはこの乳か？」\",\"translatedEnglishLine\":\"it's these boobs that talk big?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「ひやああああああああああ！？」\",\"translatedEnglishLine\":\"\\\"Hyaaaaaaa!?!\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"メガデスは後ろからプリマの乳を鷲掴み。\",\"translatedEnglishLine\":\"Megades grabbed Prima's breasts from behind with a handful.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「おっ、お客さん凝ってるねー」\",\"translatedEnglishLine\":\"\\\"Oh, the customer is really tense, huh?\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「どこに、なにを、してるんだ！？\",\"translatedEnglishLine\":\"\\\"Where, what are you doing!?\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　あんたは素直にお礼を言うことも出来ないの！」\",\"translatedEnglishLine\":\"You can't even properly say thank you!\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「そだね……\",\"translatedEnglishLine\":\"\\\"Yeah...\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　ありがと」\",\"translatedEnglishLine\":\"Thanks.\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「へ？\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "267564",
+                                "originalJapaneseLine": "「ふ、ぐえっ！？」",
+                                "translatedEnglishLine": "\"F-fwah!?!\""
+                            },
+                            {
+                                "lineNumber": "267565",
+                                "originalJapaneseLine": "サテラの持つ鞭が瞬く間に",
+                                "translatedEnglishLine": "The whip in Satera's hand quickly"
+                            },
+                            {
+                                "lineNumber": "267566",
+                                "originalJapaneseLine": "メガデスの細っこい首にしゅるりと巻き付き、",
+                                "translatedEnglishLine": "slithered around Megades' thin neck,"
+                            },
+                            {
+                                "lineNumber": "267567",
+                                "originalJapaneseLine": "力強く締まる。",
+                                "translatedEnglishLine": "and tightened powerfully."
+                            },
+                            {
+                                "lineNumber": "267568",
+                                "originalJapaneseLine": "「ぐええええ……！？」",
+                                "translatedEnglishLine": "\"Gweeeee...!?\""
+                            },
+                            {
+                                "lineNumber": "267569",
+                                "originalJapaneseLine": "「――選ばせてやるぞ、人間。",
+                                "translatedEnglishLine": "\"—I'll let you choose, human."
+                            },
+                            {
+                                "lineNumber": "267570",
+                                "originalJapaneseLine": "　このまま窒息死するか、",
+                                "translatedEnglishLine": "Either suffocate to death like this,"
+                            },
+                            {
+                                "lineNumber": "267571",
+                                "originalJapaneseLine": "　首の骨ごと千切られるか」",
+                                "translatedEnglishLine": "or have your neck snapped clean off.\""
+                            },
+                            {
+                                "lineNumber": "267572",
+                                "originalJapaneseLine": "「どちらにしろ最後は八つ裂きにして、",
+                                "translatedEnglishLine": "\"Either way, in the end, I'll tear you apart,"
+                            },
+                            {
+                                "lineNumber": "267573",
+                                "originalJapaneseLine": "　世界の端っこから捨ててやるがな！」",
+                                "translatedEnglishLine": "and throw you away at the edge of the world!\""
+                            },
+                            {
+                                "lineNumber": "267574",
+                                "originalJapaneseLine": "サテラの双眸はメガデスに対する",
+                                "translatedEnglishLine": "Satera's eyes sparkled fiercely with"
+                            },
+                            {
+                                "lineNumber": "267575",
+                                "originalJapaneseLine": "殺意と敵意でギラギラと輝いていた。",
+                                "translatedEnglishLine": "murderous intent and hostility toward Megades."
+                            },
+                            {
+                                "lineNumber": "267576",
+                                "originalJapaneseLine": "（あ、これ、マジであかん奴ー！？）",
+                                "translatedEnglishLine": "(Ah, this is seriously bad—!?)"
+                            },
+                            {
+                                "lineNumber": "267577",
+                                "originalJapaneseLine": "「さあ、答えろ！",
+                                "translatedEnglishLine": "\"Now, answer me!"
+                            },
+                            {
+                                "lineNumber": "267578",
+                                "originalJapaneseLine": "　どう死にたい！」",
+                                "translatedEnglishLine": "How do you want to die!\""
+                            },
+                            {
+                                "lineNumber": "267579",
+                                "originalJapaneseLine": "「あ、あぐぐぐ……」",
+                                "translatedEnglishLine": "\"A-aghghgh...\""
+                            },
+                            {
+                                "lineNumber": "267580",
+                                "originalJapaneseLine": "（と、というか……息、息が……",
+                                "translatedEnglishLine": "(Or rather... my breath, my breath..."
+                            },
+                            {
+                                "lineNumber": "267581",
+                                "originalJapaneseLine": "　これ……本当に駄目かも……）",
+                                "translatedEnglishLine": "This... might really be no good...)"
+                            },
+                            {
+                                "lineNumber": "267582",
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": "267583",
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": "267584",
+                                "originalJapaneseLine": "「ん……」",
+                                "translatedEnglishLine": "\"Nn...\""
+                            },
+                            {
+                                "lineNumber": "267585",
+                                "originalJapaneseLine": "「はっ！？　ここはどこ、私は誰！？」",
+                                "translatedEnglishLine": "\"Hah!? Where is this? Who am I!?\""
+                            },
+                            {
+                                "lineNumber": "267586",
+                                "originalJapaneseLine": "「私の背中で、",
+                                "translatedEnglishLine": "\"On my back,"
+                            },
+                            {
+                                "lineNumber": "267587",
+                                "originalJapaneseLine": "　あんたはメガデス・モロミ」",
+                                "translatedEnglishLine": "you are Megades Moromi.\""
+                            },
+                            {
+                                "lineNumber": "267588",
+                                "originalJapaneseLine": "「あれ？　プリマ？」",
+                                "translatedEnglishLine": "\"Huh? Prima?\""
+                            },
+                            {
+                                "lineNumber": "267589",
+                                "originalJapaneseLine": "目を覚ませばメガデスはプリマに背負われて、",
+                                "translatedEnglishLine": "When he woke up, Megades was being carried on Prima's back,"
+                            },
+                            {
+                                "lineNumber": "267590",
+                                "originalJapaneseLine": "ランス城の廊下を進んでいた。",
+                                "translatedEnglishLine": "walking down the hallway of Rance Castle."
+                            },
+                            {
+                                "lineNumber": "267591",
+                                "originalJapaneseLine": "「えーと……",
+                                "translatedEnglishLine": "\"Umm..."
+                            },
+                            {
+                                "lineNumber": "267592",
+                                "originalJapaneseLine": "　何がどうなったんだったっけ？」",
+                                "translatedEnglishLine": "What exactly happened again?\""
+                            },
+                            {
+                                "lineNumber": "267593",
+                                "originalJapaneseLine": "「はあ……",
+                                "translatedEnglishLine": "\"Haa..."
+                            },
+                            {
+                                "lineNumber": "267594",
+                                "originalJapaneseLine": "　いい気なもんだ」",
+                                "translatedEnglishLine": "You really act all pleased with yourself.\""
+                            },
+                            {
+                                "lineNumber": "267595",
+                                "originalJapaneseLine": "「あんたが魔人サテラに殺されかけてるから、",
+                                "translatedEnglishLine": "\"Because you were almost killed by the demon Satera,"
+                            },
+                            {
+                                "lineNumber": "267596",
+                                "originalJapaneseLine": "　あたしが必死に取りなしたんだよ。",
+                                "translatedEnglishLine": "I desperately intervened."
+                            },
+                            {
+                                "lineNumber": "267597",
+                                "originalJapaneseLine": "　大変だったんだからな、なだめるの」",
+                                "translatedEnglishLine": "It was hard work, calming her down.\""
+                            },
+                            {
+                                "lineNumber": "267598",
+                                "originalJapaneseLine": "「あ〜〜〜〜……",
+                                "translatedEnglishLine": "\"Ahhhhhh..."
+                            },
+                            {
+                                "lineNumber": "267599",
+                                "originalJapaneseLine": "　そういうこと」",
+                                "translatedEnglishLine": "So that's how it was.\""
+                            },
+                            {
+                                "lineNumber": "267600",
+                                "originalJapaneseLine": "「助けてくれたんだね、",
+                                "translatedEnglishLine": "\"You saved me,"
+                            },
+                            {
+                                "lineNumber": "267601",
+                                "originalJapaneseLine": "　私のこと嫌ってるのに」",
+                                "translatedEnglishLine": "even though you hate me.\""
+                            },
+                            {
+                                "lineNumber": "267602",
+                                "originalJapaneseLine": "「仕方ないだろ。",
+                                "translatedEnglishLine": "\"It couldn't be helped."
+                            },
+                            {
+                                "lineNumber": "267603",
+                                "originalJapaneseLine": "　見過ごすのも寝覚めが悪いんだから」",
+                                "translatedEnglishLine": "Turning a blind eye would leave a bad taste in my mouth.\""
+                            },
+                            {
+                                "lineNumber": "267604",
+                                "originalJapaneseLine": "「私、やっぱりプリマのお嫁さんになるね」",
+                                "translatedEnglishLine": "\"I've decided, I'll become Prima's bride after all.\""
+                            },
+                            {
+                                "lineNumber": "267605",
+                                "originalJapaneseLine": "「絶対、嫌だ」",
+                                "translatedEnglishLine": "\"Absolutely not.\""
+                            },
+                            {
+                                "lineNumber": "267606",
+                                "originalJapaneseLine": "「はあ……",
+                                "translatedEnglishLine": "\"Haa..."
+                            },
+                            {
+                                "lineNumber": "267607",
+                                "originalJapaneseLine": "　やっぱり助けるんじゃなかったよ」",
+                                "translatedEnglishLine": "I shouldn't have helped after all.\""
+                            },
+                            {
+                                "lineNumber": "267608",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "267609",
+                                "originalJapaneseLine": "「ところでさ……」",
+                                "translatedEnglishLine": "\"By the way...\""
+                            },
+                            {
+                                "lineNumber": "267610",
+                                "originalJapaneseLine": "「ん〜？」",
+                                "translatedEnglishLine": "\"Hmm~?\""
+                            },
+                            {
+                                "lineNumber": "267611",
+                                "originalJapaneseLine": "「あんたってさ、",
+                                "translatedEnglishLine": "\"You know,"
+                            },
+                            {
+                                "lineNumber": "267612",
+                                "originalJapaneseLine": "　意外と攻められると弱いタイプ？」",
+                                "translatedEnglishLine": "are you the type that's surprisingly weak when attacked?"
+                            },
+                            {
+                                "lineNumber": "267613",
+                                "originalJapaneseLine": "「あはは、あんたのあんな顔、初めて見た」",
+                                "translatedEnglishLine": "\"Haha, it's the first time I've seen your face like that.\""
+                            },
+                            {
+                                "lineNumber": "267614",
+                                "originalJapaneseLine": "「毎日ベッドでひんひん言ってる癖に、",
+                                "translatedEnglishLine": "\"Even though you whine every day in bed,"
+                            },
+                            {
+                                "lineNumber": "267615",
+                                "originalJapaneseLine": "　生意気抜かすのはこの乳か？」",
+                                "translatedEnglishLine": "it's these boobs that talk big?\""
+                            },
+                            {
+                                "lineNumber": "267616",
+                                "originalJapaneseLine": "「ひやああああああああああ！？」",
+                                "translatedEnglishLine": "\"Hyaaaaaaa!?!\""
+                            },
+                            {
+                                "lineNumber": "267617",
+                                "originalJapaneseLine": "メガデスは後ろからプリマの乳を鷲掴み。",
+                                "translatedEnglishLine": "Megades grabbed Prima's breasts from behind with a handful."
+                            },
+                            {
+                                "lineNumber": "267618",
+                                "originalJapaneseLine": "「おっ、お客さん凝ってるねー」",
+                                "translatedEnglishLine": "\"Oh, the customer is really tense, huh?\""
+                            },
+                            {
+                                "lineNumber": "267619",
+                                "originalJapaneseLine": "「どこに、なにを、してるんだ！？",
+                                "translatedEnglishLine": "\"Where, what are you doing!?\""
+                            },
+                            {
+                                "lineNumber": "267620",
+                                "originalJapaneseLine": "　あんたは素直にお礼を言うことも出来ないの！」",
+                                "translatedEnglishLine": "You can't even properly say thank you!\""
+                            },
+                            {
+                                "lineNumber": "267621",
+                                "originalJapaneseLine": "「そだね……",
+                                "translatedEnglishLine": "\"Yeah..."
+                            },
+                            {
+                                "lineNumber": "267622",
+                                "originalJapaneseLine": "　ありがと」",
+                                "translatedEnglishLine": "Thanks.\""
+                            },
+                            {
+                                "lineNumber": "267623",
+                                "originalJapaneseLine": "「へ？",
+                                "translatedEnglishLine": "\"Huh?\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1769,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2003,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3772
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「ふ、ぐえっ！？」\",\"translatedEnglishLine\":\"\\\"F-fwah!?!\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"サテラの持つ鞭が瞬く間に\",\"translatedEnglishLine\":\"The whip in Satera's hand quickly\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"メガデスの細っこい首にしゅるりと巻き付き、\",\"translatedEnglishLine\":\"slithered around Megades' thin neck,\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"力強く締まる。\",\"translatedEnglishLine\":\"and tightened powerfully.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「ぐええええ……！？」\",\"translatedEnglishLine\":\"\\\"Gweeeee...!?\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「――選ばせてやるぞ、人間。\",\"translatedEnglishLine\":\"\\\"—I'll let you choose, human.\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　このまま窒息死するか、\",\"translatedEnglishLine\":\"Either suffocate to death like this,\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　首の骨ごと千切られるか」\",\"translatedEnglishLine\":\"or have your neck snapped clean off.\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「どちらにしろ最後は八つ裂きにして、\",\"translatedEnglishLine\":\"\\\"Either way, in the end, I'll tear you apart,\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　世界の端っこから捨ててやるがな！」\",\"translatedEnglishLine\":\"and throw you away at the edge of the world!\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"サテラの双眸はメガデスに対する\",\"translatedEnglishLine\":\"Satera's eyes sparkled fiercely with\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"殺意と敵意でギラギラと輝いていた。\",\"translatedEnglishLine\":\"murderous intent and hostility toward Megades.\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"（あ、これ、マジであかん奴ー！？）\",\"translatedEnglishLine\":\"(Ah, this is seriously bad—!?)\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「さあ、答えろ！\",\"translatedEnglishLine\":\"\\\"Now, answer me!\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　どう死にたい！」\",\"translatedEnglishLine\":\"How do you want to die!\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「あ、あぐぐぐ……」\",\"translatedEnglishLine\":\"\\\"A-aghghgh...\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"（と、というか……息、息が……\",\"translatedEnglishLine\":\"(Or rather... my breath, my breath...\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　これ……本当に駄目かも……）\",\"translatedEnglishLine\":\"This... might really be no good...)\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「ん……」\",\"translatedEnglishLine\":\"\\\"Nn...\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「はっ！？　ここはどこ、私は誰！？」\",\"translatedEnglishLine\":\"\\\"Hah!? Where is this? Who am I!?\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「私の背中で、\",\"translatedEnglishLine\":\"\\\"On my back,\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　あんたはメガデス・モロミ」\",\"translatedEnglishLine\":\"you are Megades Moromi.\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「あれ？　プリマ？」\",\"translatedEnglishLine\":\"\\\"Huh? Prima?\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"目を覚ませばメガデスはプリマに背負われて、\",\"translatedEnglishLine\":\"When he woke up, Megades was being carried on Prima's back,\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"ランス城の廊下を進んでいた。\",\"translatedEnglishLine\":\"walking down the hallway of Rance Castle.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「えーと……\",\"translatedEnglishLine\":\"\\\"Umm...\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"　何がどうなったんだったっけ？」\",\"translatedEnglishLine\":\"What exactly happened again?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"\\\"Haa...\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　いい気なもんだ」\",\"translatedEnglishLine\":\"You really act all pleased with yourself.\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「あんたが魔人サテラに殺されかけてるから、\",\"translatedEnglishLine\":\"\\\"Because you were almost killed by the demon Satera,\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　あたしが必死に取りなしたんだよ。\",\"translatedEnglishLine\":\"I desperately intervened.\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　大変だったんだからな、なだめるの」\",\"translatedEnglishLine\":\"It was hard work, calming her down.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「あ〜〜〜〜……\",\"translatedEnglishLine\":\"\\\"Ahhhhhh...\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　そういうこと」\",\"translatedEnglishLine\":\"So that's how it was.\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「助けてくれたんだね、\",\"translatedEnglishLine\":\"\\\"You saved me,\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　私のこと嫌ってるのに」\",\"translatedEnglishLine\":\"even though you hate me.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「仕方ないだろ。\",\"translatedEnglishLine\":\"\\\"It couldn't be helped.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　見過ごすのも寝覚めが悪いんだから」\",\"translatedEnglishLine\":\"Turning a blind eye would leave a bad taste in my mouth.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「私、やっぱりプリマのお嫁さんになるね」\",\"translatedEnglishLine\":\"\\\"I've decided, I'll become Prima's bride after all.\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「絶対、嫌だ」\",\"translatedEnglishLine\":\"\\\"Absolutely not.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"\\\"Haa...\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　やっぱり助けるんじゃなかったよ」\",\"translatedEnglishLine\":\"I shouldn't have helped after all.\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ところでさ……」\",\"translatedEnglishLine\":\"\\\"By the way...\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「ん〜？」\",\"translatedEnglishLine\":\"\\\"Hmm~?\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「あんたってさ、\",\"translatedEnglishLine\":\"\\\"You know,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　意外と攻められると弱いタイプ？」\",\"translatedEnglishLine\":\"are you the type that's surprisingly weak when attacked?\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「あはは、あんたのあんな顔、初めて見た」\",\"translatedEnglishLine\":\"\\\"Haha, it's the first time I've seen your face like that.\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「毎日ベッドでひんひん言ってる癖に、\",\"translatedEnglishLine\":\"\\\"Even though you whine every day in bed,\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　生意気抜かすのはこの乳か？」\",\"translatedEnglishLine\":\"it's these boobs that talk big?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「ひやああああああああああ！？」\",\"translatedEnglishLine\":\"\\\"Hyaaaaaaa!?!\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"メガデスは後ろからプリマの乳を鷲掴み。\",\"translatedEnglishLine\":\"Megades grabbed Prima's breasts from behind with a handful.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「おっ、お客さん凝ってるねー」\",\"translatedEnglishLine\":\"\\\"Oh, the customer is really tense, huh?\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「どこに、なにを、してるんだ！？\",\"translatedEnglishLine\":\"\\\"Where, what are you doing!?\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　あんたは素直にお礼を言うことも出来ないの！」\",\"translatedEnglishLine\":\"You can't even properly say thank you!\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「そだね……\",\"translatedEnglishLine\":\"\\\"Yeah...\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　ありがと」\",\"translatedEnglishLine\":\"Thanks.\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「へ？\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "267564",
+                "originalJapaneseLine": "「ふ、ぐえっ！？」",
+                "translatedEnglishLine": "\"F-fwah!?!\""
+            },
+            {
+                "lineNumber": "267565",
+                "originalJapaneseLine": "サテラの持つ鞭が瞬く間に",
+                "translatedEnglishLine": "The whip in Satera's hand quickly"
+            },
+            {
+                "lineNumber": "267566",
+                "originalJapaneseLine": "メガデスの細っこい首にしゅるりと巻き付き、",
+                "translatedEnglishLine": "slithered around Megades' thin neck,"
+            },
+            {
+                "lineNumber": "267567",
+                "originalJapaneseLine": "力強く締まる。",
+                "translatedEnglishLine": "and tightened powerfully."
+            },
+            {
+                "lineNumber": "267568",
+                "originalJapaneseLine": "「ぐええええ……！？」",
+                "translatedEnglishLine": "\"Gweeeee...!?\""
+            },
+            {
+                "lineNumber": "267569",
+                "originalJapaneseLine": "「――選ばせてやるぞ、人間。",
+                "translatedEnglishLine": "\"—I'll let you choose, human."
+            },
+            {
+                "lineNumber": "267570",
+                "originalJapaneseLine": "　このまま窒息死するか、",
+                "translatedEnglishLine": "Either suffocate to death like this,"
+            },
+            {
+                "lineNumber": "267571",
+                "originalJapaneseLine": "　首の骨ごと千切られるか」",
+                "translatedEnglishLine": "or have your neck snapped clean off.\""
+            },
+            {
+                "lineNumber": "267572",
+                "originalJapaneseLine": "「どちらにしろ最後は八つ裂きにして、",
+                "translatedEnglishLine": "\"Either way, in the end, I'll tear you apart,"
+            },
+            {
+                "lineNumber": "267573",
+                "originalJapaneseLine": "　世界の端っこから捨ててやるがな！」",
+                "translatedEnglishLine": "and throw you away at the edge of the world!\""
+            },
+            {
+                "lineNumber": "267574",
+                "originalJapaneseLine": "サテラの双眸はメガデスに対する",
+                "translatedEnglishLine": "Satera's eyes sparkled fiercely with"
+            },
+            {
+                "lineNumber": "267575",
+                "originalJapaneseLine": "殺意と敵意でギラギラと輝いていた。",
+                "translatedEnglishLine": "murderous intent and hostility toward Megades."
+            },
+            {
+                "lineNumber": "267576",
+                "originalJapaneseLine": "（あ、これ、マジであかん奴ー！？）",
+                "translatedEnglishLine": "(Ah, this is seriously bad—!?)"
+            },
+            {
+                "lineNumber": "267577",
+                "originalJapaneseLine": "「さあ、答えろ！",
+                "translatedEnglishLine": "\"Now, answer me!"
+            },
+            {
+                "lineNumber": "267578",
+                "originalJapaneseLine": "　どう死にたい！」",
+                "translatedEnglishLine": "How do you want to die!\""
+            },
+            {
+                "lineNumber": "267579",
+                "originalJapaneseLine": "「あ、あぐぐぐ……」",
+                "translatedEnglishLine": "\"A-aghghgh...\""
+            },
+            {
+                "lineNumber": "267580",
+                "originalJapaneseLine": "（と、というか……息、息が……",
+                "translatedEnglishLine": "(Or rather... my breath, my breath..."
+            },
+            {
+                "lineNumber": "267581",
+                "originalJapaneseLine": "　これ……本当に駄目かも……）",
+                "translatedEnglishLine": "This... might really be no good...)"
+            },
+            {
+                "lineNumber": "267582",
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": "267583",
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": "267584",
+                "originalJapaneseLine": "「ん……」",
+                "translatedEnglishLine": "\"Nn...\""
+            },
+            {
+                "lineNumber": "267585",
+                "originalJapaneseLine": "「はっ！？　ここはどこ、私は誰！？」",
+                "translatedEnglishLine": "\"Hah!? Where is this? Who am I!?\""
+            },
+            {
+                "lineNumber": "267586",
+                "originalJapaneseLine": "「私の背中で、",
+                "translatedEnglishLine": "\"On my back,"
+            },
+            {
+                "lineNumber": "267587",
+                "originalJapaneseLine": "　あんたはメガデス・モロミ」",
+                "translatedEnglishLine": "you are Megades Moromi.\""
+            },
+            {
+                "lineNumber": "267588",
+                "originalJapaneseLine": "「あれ？　プリマ？」",
+                "translatedEnglishLine": "\"Huh? Prima?\""
+            },
+            {
+                "lineNumber": "267589",
+                "originalJapaneseLine": "目を覚ませばメガデスはプリマに背負われて、",
+                "translatedEnglishLine": "When he woke up, Megades was being carried on Prima's back,"
+            },
+            {
+                "lineNumber": "267590",
+                "originalJapaneseLine": "ランス城の廊下を進んでいた。",
+                "translatedEnglishLine": "walking down the hallway of Rance Castle."
+            },
+            {
+                "lineNumber": "267591",
+                "originalJapaneseLine": "「えーと……",
+                "translatedEnglishLine": "\"Umm..."
+            },
+            {
+                "lineNumber": "267592",
+                "originalJapaneseLine": "　何がどうなったんだったっけ？」",
+                "translatedEnglishLine": "What exactly happened again?\""
+            },
+            {
+                "lineNumber": "267593",
+                "originalJapaneseLine": "「はあ……",
+                "translatedEnglishLine": "\"Haa..."
+            },
+            {
+                "lineNumber": "267594",
+                "originalJapaneseLine": "　いい気なもんだ」",
+                "translatedEnglishLine": "You really act all pleased with yourself.\""
+            },
+            {
+                "lineNumber": "267595",
+                "originalJapaneseLine": "「あんたが魔人サテラに殺されかけてるから、",
+                "translatedEnglishLine": "\"Because you were almost killed by the demon Satera,"
+            },
+            {
+                "lineNumber": "267596",
+                "originalJapaneseLine": "　あたしが必死に取りなしたんだよ。",
+                "translatedEnglishLine": "I desperately intervened."
+            },
+            {
+                "lineNumber": "267597",
+                "originalJapaneseLine": "　大変だったんだからな、なだめるの」",
+                "translatedEnglishLine": "It was hard work, calming her down.\""
+            },
+            {
+                "lineNumber": "267598",
+                "originalJapaneseLine": "「あ〜〜〜〜……",
+                "translatedEnglishLine": "\"Ahhhhhh..."
+            },
+            {
+                "lineNumber": "267599",
+                "originalJapaneseLine": "　そういうこと」",
+                "translatedEnglishLine": "So that's how it was.\""
+            },
+            {
+                "lineNumber": "267600",
+                "originalJapaneseLine": "「助けてくれたんだね、",
+                "translatedEnglishLine": "\"You saved me,"
+            },
+            {
+                "lineNumber": "267601",
+                "originalJapaneseLine": "　私のこと嫌ってるのに」",
+                "translatedEnglishLine": "even though you hate me.\""
+            },
+            {
+                "lineNumber": "267602",
+                "originalJapaneseLine": "「仕方ないだろ。",
+                "translatedEnglishLine": "\"It couldn't be helped."
+            },
+            {
+                "lineNumber": "267603",
+                "originalJapaneseLine": "　見過ごすのも寝覚めが悪いんだから」",
+                "translatedEnglishLine": "Turning a blind eye would leave a bad taste in my mouth.\""
+            },
+            {
+                "lineNumber": "267604",
+                "originalJapaneseLine": "「私、やっぱりプリマのお嫁さんになるね」",
+                "translatedEnglishLine": "\"I've decided, I'll become Prima's bride after all.\""
+            },
+            {
+                "lineNumber": "267605",
+                "originalJapaneseLine": "「絶対、嫌だ」",
+                "translatedEnglishLine": "\"Absolutely not.\""
+            },
+            {
+                "lineNumber": "267606",
+                "originalJapaneseLine": "「はあ……",
+                "translatedEnglishLine": "\"Haa..."
+            },
+            {
+                "lineNumber": "267607",
+                "originalJapaneseLine": "　やっぱり助けるんじゃなかったよ」",
+                "translatedEnglishLine": "I shouldn't have helped after all.\""
+            },
+            {
+                "lineNumber": "267608",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "267609",
+                "originalJapaneseLine": "「ところでさ……」",
+                "translatedEnglishLine": "\"By the way...\""
+            },
+            {
+                "lineNumber": "267610",
+                "originalJapaneseLine": "「ん〜？」",
+                "translatedEnglishLine": "\"Hmm~?\""
+            },
+            {
+                "lineNumber": "267611",
+                "originalJapaneseLine": "「あんたってさ、",
+                "translatedEnglishLine": "\"You know,"
+            },
+            {
+                "lineNumber": "267612",
+                "originalJapaneseLine": "　意外と攻められると弱いタイプ？」",
+                "translatedEnglishLine": "are you the type that's surprisingly weak when attacked?"
+            },
+            {
+                "lineNumber": "267613",
+                "originalJapaneseLine": "「あはは、あんたのあんな顔、初めて見た」",
+                "translatedEnglishLine": "\"Haha, it's the first time I've seen your face like that.\""
+            },
+            {
+                "lineNumber": "267614",
+                "originalJapaneseLine": "「毎日ベッドでひんひん言ってる癖に、",
+                "translatedEnglishLine": "\"Even though you whine every day in bed,"
+            },
+            {
+                "lineNumber": "267615",
+                "originalJapaneseLine": "　生意気抜かすのはこの乳か？」",
+                "translatedEnglishLine": "it's these boobs that talk big?\""
+            },
+            {
+                "lineNumber": "267616",
+                "originalJapaneseLine": "「ひやああああああああああ！？」",
+                "translatedEnglishLine": "\"Hyaaaaaaa!?!\""
+            },
+            {
+                "lineNumber": "267617",
+                "originalJapaneseLine": "メガデスは後ろからプリマの乳を鷲掴み。",
+                "translatedEnglishLine": "Megades grabbed Prima's breasts from behind with a handful."
+            },
+            {
+                "lineNumber": "267618",
+                "originalJapaneseLine": "「おっ、お客さん凝ってるねー」",
+                "translatedEnglishLine": "\"Oh, the customer is really tense, huh?\""
+            },
+            {
+                "lineNumber": "267619",
+                "originalJapaneseLine": "「どこに、なにを、してるんだ！？",
+                "translatedEnglishLine": "\"Where, what are you doing!?\""
+            },
+            {
+                "lineNumber": "267620",
+                "originalJapaneseLine": "　あんたは素直にお礼を言うことも出来ないの！」",
+                "translatedEnglishLine": "You can't even properly say thank you!\""
+            },
+            {
+                "lineNumber": "267621",
+                "originalJapaneseLine": "「そだね……",
+                "translatedEnglishLine": "\"Yeah..."
+            },
+            {
+                "lineNumber": "267622",
+                "originalJapaneseLine": "　ありがと」",
+                "translatedEnglishLine": "Thanks.\""
+            },
+            {
+                "lineNumber": "267623",
+                "originalJapaneseLine": "「へ？",
+                "translatedEnglishLine": "\"Huh?\""
+            }
+        ]
+    }
+}

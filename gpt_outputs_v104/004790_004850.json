@@ -1,0 +1,719 @@
+{
+    "id": "resp_0a68ea8efda6f7560068ffeef6ced481969cc11f0d7fe4cc4f",
+    "object": "response",
+    "created_at": 1761603318,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0a68ea8efda6f7560068ffeef739688196a2d65e814bfb5d97",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　そういうのなんとなく分かるの」\",\"translatedEnglishLine\":\"I kind of understand that feeling.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「元々感じていたのよね……\",\"translatedEnglishLine\":\"I've felt it from the start...\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　本来、一つのものが二つに別たれたような違和感\",\"translatedEnglishLine\":\"It's like an unnatural feeling that one thing was split into two.\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「文字通り、元々は一つだったのなら納得ね」\",\"translatedEnglishLine\":\"Literally, if they were originally one, then it makes sense.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「となれば、\",\"translatedEnglishLine\":\"If that's the case,\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　ランス君としては助けたいでしょ？」\",\"translatedEnglishLine\":\"Lance would want to help, right?\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「ここは協力しましょう？\",\"translatedEnglishLine\":\"Let's cooperate here, shall we?\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　ねえ？」\",\"translatedEnglishLine\":\"Right?\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「激しく嫌な予感しかせんが、\",\"translatedEnglishLine\":\"I only have a very bad feeling about this,\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　ええい、今は仕方ない！」\",\"translatedEnglishLine\":\"Enough, it can't be helped right now!\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「しかし……\",\"translatedEnglishLine\":\"But...\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　これがバスワルドの力か」\",\"translatedEnglishLine\":\"So this is Buswald's power.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"ラ・バスワルドがいるという方向に走っている間、\",\"translatedEnglishLine\":\"While running toward the direction where La Buswald was said to be,\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"球形に削り取られている地面や木々が目に入った。\",\"translatedEnglishLine\":\"I saw the ground and trees carved out into spherical shapes.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「空間ごとやられた、って感じねぇ」\",\"translatedEnglishLine\":\"It feels like the whole space itself was affected.\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「力が暴走しているのかしら、\",\"translatedEnglishLine\":\"Is the power out of control?\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　このままだと本当に世界ごと危ないかも」\",\"translatedEnglishLine\":\"At this rate, the entire world might really be in danger.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ええい、ハウゼルとサイゼルめ！\",\"translatedEnglishLine\":\"Damn you, Houzel and Saizel!\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　元に戻ったらお仕置きしてくれる！」\",\"translatedEnglishLine\":\"I’ll punish you once this is all over!\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「おおっ、見えてきた！\",\"translatedEnglishLine\":\"Oh, I can see it!\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　あれが、そのバスワルドか！」\",\"translatedEnglishLine\":\"Is that the Buswald?\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"ランスが見上げる上空に、\",\"translatedEnglishLine\":\"Above where Lance looked up,\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"空に浮かぶ一つの人影があった。\",\"translatedEnglishLine\":\"There was a single human figure floating in the sky.\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"ラ・バスワルドが見下ろすは巨大な都市。\",\"translatedEnglishLine\":\"La Buswald looked down upon a huge city.\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"沢山の人が――魂ある生き物がいた。\",\"translatedEnglishLine\":\"There were many people—beings with souls.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「あ、あれ……なん、だよ……」\",\"translatedEnglishLine\":\"Th-that... what is that...?\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「人……\",\"translatedEnglishLine\":\"A person...\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　い、いや、神様……？」\",\"translatedEnglishLine\":\"N-no, a god...?\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"誰もそれがなんであるかなど、\",\"translatedEnglishLine\":\"No one understood what it really was.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"理解が及んでない。\",\"translatedEnglishLine\":\"Their comprehension did not reach it.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"それでも、誰もが瞬時に感じた。\",\"translatedEnglishLine\":\"Still, everyone instantly felt it.\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"――危険だと。\",\"translatedEnglishLine\":\"—That it was dangerous.\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「……げろ」\",\"translatedEnglishLine\":\"...Ugh.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「逃げろーーーーー！」\",\"translatedEnglishLine\":\"Run away——!\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"建物が、木々が、街が――\",\"translatedEnglishLine\":\"Buildings, trees, the town—\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"空間ごとえぐられ、削り取られる。\",\"translatedEnglishLine\":\"Were gouged out and carved away along with the space itself.\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"ラ・バスワルドには破壊しようという意思すらない。\",\"translatedEnglishLine\":\"La Buswald didn't even have the intention to destroy.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"そこにいる。\",\"translatedEnglishLine\":\"It was simply there.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"ただそれだけで街の破壊が広がっていた。\",\"translatedEnglishLine\":\"Just by that, the destruction of the city spread.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"辺り一帯に、人々の悲鳴が響き渡る。\",\"translatedEnglishLine\":\"The screams of people echoed throughout the area.\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"その声を、悲鳴を、\",\"translatedEnglishLine\":\"Those voices, those screams,\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"逃げ惑う人々をラ・バスワルドは\",\"translatedEnglishLine\":\"La Buswald looked down on the fleeing people\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"無感情に見下ろしていた。\",\"translatedEnglishLine\":\"indifferently.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"そこになんの感慨もない。\",\"translatedEnglishLine\":\"There was no emotion, none whatsoever.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"いや、ラ・バスワルドには人格そのものがない。\",\"translatedEnglishLine\":\"No, La Buswald had no personality itself.\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"ただ破壊をするという、\",\"translatedEnglishLine\":\"It was simply a single-function system designed for destruction.\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"単一機能のシステムがそこにいた。\",\"translatedEnglishLine\":\"That system was there.\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"あっという間に街は破壊され尽くす。\",\"translatedEnglishLine\":\"In no time, the whole city was utterly destroyed.\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「逃げろ、逃げろ、逃げろーーー！」\",\"translatedEnglishLine\":\"Run! Run! Run——!\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"人々は狂ったように、\",\"translatedEnglishLine\":\"The people repeated it like mad,\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"逃げろ逃げろと繰り返していた。\",\"translatedEnglishLine\":\"shouting 'run, run' over and over.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"何が起きたかすら分かっていない。\",\"translatedEnglishLine\":\"They didn't even understand what had happened.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"それでも、はっきりと\",\"translatedEnglishLine\":\"Nevertheless, clearly,\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"確信を持って言えることがあった。\",\"translatedEnglishLine\":\"there was something they could say with conviction.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"今日、世界は滅ぶのだ――\",\"translatedEnglishLine\":\"Today, the world will perish—\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"するべきことだけは、\",\"translatedEnglishLine\":\"What must be done now is only this,\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "269424",
+                                "originalJapaneseLine": "　そういうのなんとなく分かるの」",
+                                "translatedEnglishLine": "I kind of understand that feeling."
+                            },
+                            {
+                                "lineNumber": "269425",
+                                "originalJapaneseLine": "「元々感じていたのよね……",
+                                "translatedEnglishLine": "I've felt it from the start..."
+                            },
+                            {
+                                "lineNumber": "269426",
+                                "originalJapaneseLine": "　本来、一つのものが二つに別たれたような違和感",
+                                "translatedEnglishLine": "It's like an unnatural feeling that one thing was split into two."
+                            },
+                            {
+                                "lineNumber": "269427",
+                                "originalJapaneseLine": "「文字通り、元々は一つだったのなら納得ね」",
+                                "translatedEnglishLine": "Literally, if they were originally one, then it makes sense."
+                            },
+                            {
+                                "lineNumber": "269428",
+                                "originalJapaneseLine": "「となれば、",
+                                "translatedEnglishLine": "If that's the case,"
+                            },
+                            {
+                                "lineNumber": "269429",
+                                "originalJapaneseLine": "　ランス君としては助けたいでしょ？」",
+                                "translatedEnglishLine": "Lance would want to help, right?"
+                            },
+                            {
+                                "lineNumber": "269430",
+                                "originalJapaneseLine": "「ここは協力しましょう？",
+                                "translatedEnglishLine": "Let's cooperate here, shall we?"
+                            },
+                            {
+                                "lineNumber": "269431",
+                                "originalJapaneseLine": "　ねえ？」",
+                                "translatedEnglishLine": "Right?"
+                            },
+                            {
+                                "lineNumber": "269432",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "........"
+                            },
+                            {
+                                "lineNumber": "269433",
+                                "originalJapaneseLine": "「激しく嫌な予感しかせんが、",
+                                "translatedEnglishLine": "I only have a very bad feeling about this,"
+                            },
+                            {
+                                "lineNumber": "269434",
+                                "originalJapaneseLine": "　ええい、今は仕方ない！」",
+                                "translatedEnglishLine": "Enough, it can't be helped right now!"
+                            },
+                            {
+                                "lineNumber": "269435",
+                                "originalJapaneseLine": "「しかし……",
+                                "translatedEnglishLine": "But..."
+                            },
+                            {
+                                "lineNumber": "269436",
+                                "originalJapaneseLine": "　これがバスワルドの力か」",
+                                "translatedEnglishLine": "So this is Buswald's power."
+                            },
+                            {
+                                "lineNumber": "269437",
+                                "originalJapaneseLine": "ラ・バスワルドがいるという方向に走っている間、",
+                                "translatedEnglishLine": "While running toward the direction where La Buswald was said to be,"
+                            },
+                            {
+                                "lineNumber": "269438",
+                                "originalJapaneseLine": "球形に削り取られている地面や木々が目に入った。",
+                                "translatedEnglishLine": "I saw the ground and trees carved out into spherical shapes."
+                            },
+                            {
+                                "lineNumber": "269439",
+                                "originalJapaneseLine": "「空間ごとやられた、って感じねぇ」",
+                                "translatedEnglishLine": "It feels like the whole space itself was affected."
+                            },
+                            {
+                                "lineNumber": "269440",
+                                "originalJapaneseLine": "「力が暴走しているのかしら、",
+                                "translatedEnglishLine": "Is the power out of control?"
+                            },
+                            {
+                                "lineNumber": "269441",
+                                "originalJapaneseLine": "　このままだと本当に世界ごと危ないかも」",
+                                "translatedEnglishLine": "At this rate, the entire world might really be in danger."
+                            },
+                            {
+                                "lineNumber": "269442",
+                                "originalJapaneseLine": "「ええい、ハウゼルとサイゼルめ！",
+                                "translatedEnglishLine": "Damn you, Houzel and Saizel!"
+                            },
+                            {
+                                "lineNumber": "269443",
+                                "originalJapaneseLine": "　元に戻ったらお仕置きしてくれる！」",
+                                "translatedEnglishLine": "I’ll punish you once this is all over!"
+                            },
+                            {
+                                "lineNumber": "269444",
+                                "originalJapaneseLine": "「おおっ、見えてきた！",
+                                "translatedEnglishLine": "Oh, I can see it!"
+                            },
+                            {
+                                "lineNumber": "269445",
+                                "originalJapaneseLine": "　あれが、そのバスワルドか！」",
+                                "translatedEnglishLine": "Is that the Buswald?"
+                            },
+                            {
+                                "lineNumber": "269446",
+                                "originalJapaneseLine": "ランスが見上げる上空に、",
+                                "translatedEnglishLine": "Above where Lance looked up,"
+                            },
+                            {
+                                "lineNumber": "269447",
+                                "originalJapaneseLine": "空に浮かぶ一つの人影があった。",
+                                "translatedEnglishLine": "There was a single human figure floating in the sky."
+                            },
+                            {
+                                "lineNumber": "269448",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "........"
+                            },
+                            {
+                                "lineNumber": "269449",
+                                "originalJapaneseLine": "ラ・バスワルドが見下ろすは巨大な都市。",
+                                "translatedEnglishLine": "La Buswald looked down upon a huge city."
+                            },
+                            {
+                                "lineNumber": "269450",
+                                "originalJapaneseLine": "沢山の人が――魂ある生き物がいた。",
+                                "translatedEnglishLine": "There were many people—beings with souls."
+                            },
+                            {
+                                "lineNumber": "269451",
+                                "originalJapaneseLine": "「あ、あれ……なん、だよ……」",
+                                "translatedEnglishLine": "Th-that... what is that...?"
+                            },
+                            {
+                                "lineNumber": "269452",
+                                "originalJapaneseLine": "「人……",
+                                "translatedEnglishLine": "A person..."
+                            },
+                            {
+                                "lineNumber": "269453",
+                                "originalJapaneseLine": "　い、いや、神様……？」",
+                                "translatedEnglishLine": "N-no, a god...?"
+                            },
+                            {
+                                "lineNumber": "269454",
+                                "originalJapaneseLine": "誰もそれがなんであるかなど、",
+                                "translatedEnglishLine": "No one understood what it really was."
+                            },
+                            {
+                                "lineNumber": "269455",
+                                "originalJapaneseLine": "理解が及んでない。",
+                                "translatedEnglishLine": "Their comprehension did not reach it."
+                            },
+                            {
+                                "lineNumber": "269456",
+                                "originalJapaneseLine": "それでも、誰もが瞬時に感じた。",
+                                "translatedEnglishLine": "Still, everyone instantly felt it."
+                            },
+                            {
+                                "lineNumber": "269457",
+                                "originalJapaneseLine": "――危険だと。",
+                                "translatedEnglishLine": "—That it was dangerous."
+                            },
+                            {
+                                "lineNumber": "269458",
+                                "originalJapaneseLine": "「……げろ」",
+                                "translatedEnglishLine": "...Ugh."
+                            },
+                            {
+                                "lineNumber": "269459",
+                                "originalJapaneseLine": "「逃げろーーーーー！」",
+                                "translatedEnglishLine": "Run away——!"
+                            },
+                            {
+                                "lineNumber": "269460",
+                                "originalJapaneseLine": "建物が、木々が、街が――",
+                                "translatedEnglishLine": "Buildings, trees, the town—"
+                            },
+                            {
+                                "lineNumber": "269461",
+                                "originalJapaneseLine": "空間ごとえぐられ、削り取られる。",
+                                "translatedEnglishLine": "Were gouged out and carved away along with the space itself."
+                            },
+                            {
+                                "lineNumber": "269462",
+                                "originalJapaneseLine": "ラ・バスワルドには破壊しようという意思すらない。",
+                                "translatedEnglishLine": "La Buswald didn't even have the intention to destroy."
+                            },
+                            {
+                                "lineNumber": "269463",
+                                "originalJapaneseLine": "そこにいる。",
+                                "translatedEnglishLine": "It was simply there."
+                            },
+                            {
+                                "lineNumber": "269464",
+                                "originalJapaneseLine": "ただそれだけで街の破壊が広がっていた。",
+                                "translatedEnglishLine": "Just by that, the destruction of the city spread."
+                            },
+                            {
+                                "lineNumber": "269465",
+                                "originalJapaneseLine": "辺り一帯に、人々の悲鳴が響き渡る。",
+                                "translatedEnglishLine": "The screams of people echoed throughout the area."
+                            },
+                            {
+                                "lineNumber": "269466",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "........"
+                            },
+                            {
+                                "lineNumber": "269467",
+                                "originalJapaneseLine": "その声を、悲鳴を、",
+                                "translatedEnglishLine": "Those voices, those screams,"
+                            },
+                            {
+                                "lineNumber": "269468",
+                                "originalJapaneseLine": "逃げ惑う人々をラ・バスワルドは",
+                                "translatedEnglishLine": "La Buswald looked down on the fleeing people"
+                            },
+                            {
+                                "lineNumber": "269469",
+                                "originalJapaneseLine": "無感情に見下ろしていた。",
+                                "translatedEnglishLine": "indifferently."
+                            },
+                            {
+                                "lineNumber": "269470",
+                                "originalJapaneseLine": "そこになんの感慨もない。",
+                                "translatedEnglishLine": "There was no emotion, none whatsoever."
+                            },
+                            {
+                                "lineNumber": "269471",
+                                "originalJapaneseLine": "いや、ラ・バスワルドには人格そのものがない。",
+                                "translatedEnglishLine": "No, La Buswald had no personality itself."
+                            },
+                            {
+                                "lineNumber": "269472",
+                                "originalJapaneseLine": "ただ破壊をするという、",
+                                "translatedEnglishLine": "It was simply a single-function system designed for destruction."
+                            },
+                            {
+                                "lineNumber": "269473",
+                                "originalJapaneseLine": "単一機能のシステムがそこにいた。",
+                                "translatedEnglishLine": "That system was there."
+                            },
+                            {
+                                "lineNumber": "269474",
+                                "originalJapaneseLine": "あっという間に街は破壊され尽くす。",
+                                "translatedEnglishLine": "In no time, the whole city was utterly destroyed."
+                            },
+                            {
+                                "lineNumber": "269475",
+                                "originalJapaneseLine": "「逃げろ、逃げろ、逃げろーーー！」",
+                                "translatedEnglishLine": "Run! Run! Run——!"
+                            },
+                            {
+                                "lineNumber": "269476",
+                                "originalJapaneseLine": "人々は狂ったように、",
+                                "translatedEnglishLine": "The people repeated it like mad,"
+                            },
+                            {
+                                "lineNumber": "269477",
+                                "originalJapaneseLine": "逃げろ逃げろと繰り返していた。",
+                                "translatedEnglishLine": "shouting 'run, run' over and over."
+                            },
+                            {
+                                "lineNumber": "269478",
+                                "originalJapaneseLine": "何が起きたかすら分かっていない。",
+                                "translatedEnglishLine": "They didn't even understand what had happened."
+                            },
+                            {
+                                "lineNumber": "269479",
+                                "originalJapaneseLine": "それでも、はっきりと",
+                                "translatedEnglishLine": "Nevertheless, clearly,"
+                            },
+                            {
+                                "lineNumber": "269480",
+                                "originalJapaneseLine": "確信を持って言えることがあった。",
+                                "translatedEnglishLine": "there was something they could say with conviction."
+                            },
+                            {
+                                "lineNumber": "269481",
+                                "originalJapaneseLine": "今日、世界は滅ぶのだ――",
+                                "translatedEnglishLine": "Today, the world will perish—"
+                            },
+                            {
+                                "lineNumber": "269482",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "........"
+                            },
+                            {
+                                "lineNumber": "269483",
+                                "originalJapaneseLine": "するべきことだけは、",
+                                "translatedEnglishLine": "What must be done now is only this,"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1790,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2027,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3817
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　そういうのなんとなく分かるの」\",\"translatedEnglishLine\":\"I kind of understand that feeling.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「元々感じていたのよね……\",\"translatedEnglishLine\":\"I've felt it from the start...\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　本来、一つのものが二つに別たれたような違和感\",\"translatedEnglishLine\":\"It's like an unnatural feeling that one thing was split into two.\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「文字通り、元々は一つだったのなら納得ね」\",\"translatedEnglishLine\":\"Literally, if they were originally one, then it makes sense.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「となれば、\",\"translatedEnglishLine\":\"If that's the case,\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　ランス君としては助けたいでしょ？」\",\"translatedEnglishLine\":\"Lance would want to help, right?\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「ここは協力しましょう？\",\"translatedEnglishLine\":\"Let's cooperate here, shall we?\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　ねえ？」\",\"translatedEnglishLine\":\"Right?\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「激しく嫌な予感しかせんが、\",\"translatedEnglishLine\":\"I only have a very bad feeling about this,\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　ええい、今は仕方ない！」\",\"translatedEnglishLine\":\"Enough, it can't be helped right now!\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「しかし……\",\"translatedEnglishLine\":\"But...\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　これがバスワルドの力か」\",\"translatedEnglishLine\":\"So this is Buswald's power.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"ラ・バスワルドがいるという方向に走っている間、\",\"translatedEnglishLine\":\"While running toward the direction where La Buswald was said to be,\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"球形に削り取られている地面や木々が目に入った。\",\"translatedEnglishLine\":\"I saw the ground and trees carved out into spherical shapes.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「空間ごとやられた、って感じねぇ」\",\"translatedEnglishLine\":\"It feels like the whole space itself was affected.\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「力が暴走しているのかしら、\",\"translatedEnglishLine\":\"Is the power out of control?\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　このままだと本当に世界ごと危ないかも」\",\"translatedEnglishLine\":\"At this rate, the entire world might really be in danger.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ええい、ハウゼルとサイゼルめ！\",\"translatedEnglishLine\":\"Damn you, Houzel and Saizel!\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　元に戻ったらお仕置きしてくれる！」\",\"translatedEnglishLine\":\"I’ll punish you once this is all over!\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「おおっ、見えてきた！\",\"translatedEnglishLine\":\"Oh, I can see it!\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　あれが、そのバスワルドか！」\",\"translatedEnglishLine\":\"Is that the Buswald?\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"ランスが見上げる上空に、\",\"translatedEnglishLine\":\"Above where Lance looked up,\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"空に浮かぶ一つの人影があった。\",\"translatedEnglishLine\":\"There was a single human figure floating in the sky.\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"ラ・バスワルドが見下ろすは巨大な都市。\",\"translatedEnglishLine\":\"La Buswald looked down upon a huge city.\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"沢山の人が――魂ある生き物がいた。\",\"translatedEnglishLine\":\"There were many people—beings with souls.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「あ、あれ……なん、だよ……」\",\"translatedEnglishLine\":\"Th-that... what is that...?\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「人……\",\"translatedEnglishLine\":\"A person...\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　い、いや、神様……？」\",\"translatedEnglishLine\":\"N-no, a god...?\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"誰もそれがなんであるかなど、\",\"translatedEnglishLine\":\"No one understood what it really was.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"理解が及んでない。\",\"translatedEnglishLine\":\"Their comprehension did not reach it.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"それでも、誰もが瞬時に感じた。\",\"translatedEnglishLine\":\"Still, everyone instantly felt it.\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"――危険だと。\",\"translatedEnglishLine\":\"—That it was dangerous.\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「……げろ」\",\"translatedEnglishLine\":\"...Ugh.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「逃げろーーーーー！」\",\"translatedEnglishLine\":\"Run away——!\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"建物が、木々が、街が――\",\"translatedEnglishLine\":\"Buildings, trees, the town—\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"空間ごとえぐられ、削り取られる。\",\"translatedEnglishLine\":\"Were gouged out and carved away along with the space itself.\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"ラ・バスワルドには破壊しようという意思すらない。\",\"translatedEnglishLine\":\"La Buswald didn't even have the intention to destroy.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"そこにいる。\",\"translatedEnglishLine\":\"It was simply there.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"ただそれだけで街の破壊が広がっていた。\",\"translatedEnglishLine\":\"Just by that, the destruction of the city spread.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"辺り一帯に、人々の悲鳴が響き渡る。\",\"translatedEnglishLine\":\"The screams of people echoed throughout the area.\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"その声を、悲鳴を、\",\"translatedEnglishLine\":\"Those voices, those screams,\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"逃げ惑う人々をラ・バスワルドは\",\"translatedEnglishLine\":\"La Buswald looked down on the fleeing people\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"無感情に見下ろしていた。\",\"translatedEnglishLine\":\"indifferently.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"そこになんの感慨もない。\",\"translatedEnglishLine\":\"There was no emotion, none whatsoever.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"いや、ラ・バスワルドには人格そのものがない。\",\"translatedEnglishLine\":\"No, La Buswald had no personality itself.\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"ただ破壊をするという、\",\"translatedEnglishLine\":\"It was simply a single-function system designed for destruction.\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"単一機能のシステムがそこにいた。\",\"translatedEnglishLine\":\"That system was there.\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"あっという間に街は破壊され尽くす。\",\"translatedEnglishLine\":\"In no time, the whole city was utterly destroyed.\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「逃げろ、逃げろ、逃げろーーー！」\",\"translatedEnglishLine\":\"Run! Run! Run——!\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"人々は狂ったように、\",\"translatedEnglishLine\":\"The people repeated it like mad,\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"逃げろ逃げろと繰り返していた。\",\"translatedEnglishLine\":\"shouting 'run, run' over and over.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"何が起きたかすら分かっていない。\",\"translatedEnglishLine\":\"They didn't even understand what had happened.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"それでも、はっきりと\",\"translatedEnglishLine\":\"Nevertheless, clearly,\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"確信を持って言えることがあった。\",\"translatedEnglishLine\":\"there was something they could say with conviction.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"今日、世界は滅ぶのだ――\",\"translatedEnglishLine\":\"Today, the world will perish—\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"するべきことだけは、\",\"translatedEnglishLine\":\"What must be done now is only this,\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "269424",
+                "originalJapaneseLine": "　そういうのなんとなく分かるの」",
+                "translatedEnglishLine": "I kind of understand that feeling."
+            },
+            {
+                "lineNumber": "269425",
+                "originalJapaneseLine": "「元々感じていたのよね……",
+                "translatedEnglishLine": "I've felt it from the start..."
+            },
+            {
+                "lineNumber": "269426",
+                "originalJapaneseLine": "　本来、一つのものが二つに別たれたような違和感",
+                "translatedEnglishLine": "It's like an unnatural feeling that one thing was split into two."
+            },
+            {
+                "lineNumber": "269427",
+                "originalJapaneseLine": "「文字通り、元々は一つだったのなら納得ね」",
+                "translatedEnglishLine": "Literally, if they were originally one, then it makes sense."
+            },
+            {
+                "lineNumber": "269428",
+                "originalJapaneseLine": "「となれば、",
+                "translatedEnglishLine": "If that's the case,"
+            },
+            {
+                "lineNumber": "269429",
+                "originalJapaneseLine": "　ランス君としては助けたいでしょ？」",
+                "translatedEnglishLine": "Lance would want to help, right?"
+            },
+            {
+                "lineNumber": "269430",
+                "originalJapaneseLine": "「ここは協力しましょう？",
+                "translatedEnglishLine": "Let's cooperate here, shall we?"
+            },
+            {
+                "lineNumber": "269431",
+                "originalJapaneseLine": "　ねえ？」",
+                "translatedEnglishLine": "Right?"
+            },
+            {
+                "lineNumber": "269432",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": "269433",
+                "originalJapaneseLine": "「激しく嫌な予感しかせんが、",
+                "translatedEnglishLine": "I only have a very bad feeling about this,"
+            },
+            {
+                "lineNumber": "269434",
+                "originalJapaneseLine": "　ええい、今は仕方ない！」",
+                "translatedEnglishLine": "Enough, it can't be helped right now!"
+            },
+            {
+                "lineNumber": "269435",
+                "originalJapaneseLine": "「しかし……",
+                "translatedEnglishLine": "But..."
+            },
+            {
+                "lineNumber": "269436",
+                "originalJapaneseLine": "　これがバスワルドの力か」",
+                "translatedEnglishLine": "So this is Buswald's power."
+            },
+            {
+                "lineNumber": "269437",
+                "originalJapaneseLine": "ラ・バスワルドがいるという方向に走っている間、",
+                "translatedEnglishLine": "While running toward the direction where La Buswald was said to be,"
+            },
+            {
+                "lineNumber": "269438",
+                "originalJapaneseLine": "球形に削り取られている地面や木々が目に入った。",
+                "translatedEnglishLine": "I saw the ground and trees carved out into spherical shapes."
+            },
+            {
+                "lineNumber": "269439",
+                "originalJapaneseLine": "「空間ごとやられた、って感じねぇ」",
+                "translatedEnglishLine": "It feels like the whole space itself was affected."
+            },
+            {
+                "lineNumber": "269440",
+                "originalJapaneseLine": "「力が暴走しているのかしら、",
+                "translatedEnglishLine": "Is the power out of control?"
+            },
+            {
+                "lineNumber": "269441",
+                "originalJapaneseLine": "　このままだと本当に世界ごと危ないかも」",
+                "translatedEnglishLine": "At this rate, the entire world might really be in danger."
+            },
+            {
+                "lineNumber": "269442",
+                "originalJapaneseLine": "「ええい、ハウゼルとサイゼルめ！",
+                "translatedEnglishLine": "Damn you, Houzel and Saizel!"
+            },
+            {
+                "lineNumber": "269443",
+                "originalJapaneseLine": "　元に戻ったらお仕置きしてくれる！」",
+                "translatedEnglishLine": "I’ll punish you once this is all over!"
+            },
+            {
+                "lineNumber": "269444",
+                "originalJapaneseLine": "「おおっ、見えてきた！",
+                "translatedEnglishLine": "Oh, I can see it!"
+            },
+            {
+                "lineNumber": "269445",
+                "originalJapaneseLine": "　あれが、そのバスワルドか！」",
+                "translatedEnglishLine": "Is that the Buswald?"
+            },
+            {
+                "lineNumber": "269446",
+                "originalJapaneseLine": "ランスが見上げる上空に、",
+                "translatedEnglishLine": "Above where Lance looked up,"
+            },
+            {
+                "lineNumber": "269447",
+                "originalJapaneseLine": "空に浮かぶ一つの人影があった。",
+                "translatedEnglishLine": "There was a single human figure floating in the sky."
+            },
+            {
+                "lineNumber": "269448",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": "269449",
+                "originalJapaneseLine": "ラ・バスワルドが見下ろすは巨大な都市。",
+                "translatedEnglishLine": "La Buswald looked down upon a huge city."
+            },
+            {
+                "lineNumber": "269450",
+                "originalJapaneseLine": "沢山の人が――魂ある生き物がいた。",
+                "translatedEnglishLine": "There were many people—beings with souls."
+            },
+            {
+                "lineNumber": "269451",
+                "originalJapaneseLine": "「あ、あれ……なん、だよ……」",
+                "translatedEnglishLine": "Th-that... what is that...?"
+            },
+            {
+                "lineNumber": "269452",
+                "originalJapaneseLine": "「人……",
+                "translatedEnglishLine": "A person..."
+            },
+            {
+                "lineNumber": "269453",
+                "originalJapaneseLine": "　い、いや、神様……？」",
+                "translatedEnglishLine": "N-no, a god...?"
+            },
+            {
+                "lineNumber": "269454",
+                "originalJapaneseLine": "誰もそれがなんであるかなど、",
+                "translatedEnglishLine": "No one understood what it really was."
+            },
+            {
+                "lineNumber": "269455",
+                "originalJapaneseLine": "理解が及んでない。",
+                "translatedEnglishLine": "Their comprehension did not reach it."
+            },
+            {
+                "lineNumber": "269456",
+                "originalJapaneseLine": "それでも、誰もが瞬時に感じた。",
+                "translatedEnglishLine": "Still, everyone instantly felt it."
+            },
+            {
+                "lineNumber": "269457",
+                "originalJapaneseLine": "――危険だと。",
+                "translatedEnglishLine": "—That it was dangerous."
+            },
+            {
+                "lineNumber": "269458",
+                "originalJapaneseLine": "「……げろ」",
+                "translatedEnglishLine": "...Ugh."
+            },
+            {
+                "lineNumber": "269459",
+                "originalJapaneseLine": "「逃げろーーーーー！」",
+                "translatedEnglishLine": "Run away——!"
+            },
+            {
+                "lineNumber": "269460",
+                "originalJapaneseLine": "建物が、木々が、街が――",
+                "translatedEnglishLine": "Buildings, trees, the town—"
+            },
+            {
+                "lineNumber": "269461",
+                "originalJapaneseLine": "空間ごとえぐられ、削り取られる。",
+                "translatedEnglishLine": "Were gouged out and carved away along with the space itself."
+            },
+            {
+                "lineNumber": "269462",
+                "originalJapaneseLine": "ラ・バスワルドには破壊しようという意思すらない。",
+                "translatedEnglishLine": "La Buswald didn't even have the intention to destroy."
+            },
+            {
+                "lineNumber": "269463",
+                "originalJapaneseLine": "そこにいる。",
+                "translatedEnglishLine": "It was simply there."
+            },
+            {
+                "lineNumber": "269464",
+                "originalJapaneseLine": "ただそれだけで街の破壊が広がっていた。",
+                "translatedEnglishLine": "Just by that, the destruction of the city spread."
+            },
+            {
+                "lineNumber": "269465",
+                "originalJapaneseLine": "辺り一帯に、人々の悲鳴が響き渡る。",
+                "translatedEnglishLine": "The screams of people echoed throughout the area."
+            },
+            {
+                "lineNumber": "269466",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": "269467",
+                "originalJapaneseLine": "その声を、悲鳴を、",
+                "translatedEnglishLine": "Those voices, those screams,"
+            },
+            {
+                "lineNumber": "269468",
+                "originalJapaneseLine": "逃げ惑う人々をラ・バスワルドは",
+                "translatedEnglishLine": "La Buswald looked down on the fleeing people"
+            },
+            {
+                "lineNumber": "269469",
+                "originalJapaneseLine": "無感情に見下ろしていた。",
+                "translatedEnglishLine": "indifferently."
+            },
+            {
+                "lineNumber": "269470",
+                "originalJapaneseLine": "そこになんの感慨もない。",
+                "translatedEnglishLine": "There was no emotion, none whatsoever."
+            },
+            {
+                "lineNumber": "269471",
+                "originalJapaneseLine": "いや、ラ・バスワルドには人格そのものがない。",
+                "translatedEnglishLine": "No, La Buswald had no personality itself."
+            },
+            {
+                "lineNumber": "269472",
+                "originalJapaneseLine": "ただ破壊をするという、",
+                "translatedEnglishLine": "It was simply a single-function system designed for destruction."
+            },
+            {
+                "lineNumber": "269473",
+                "originalJapaneseLine": "単一機能のシステムがそこにいた。",
+                "translatedEnglishLine": "That system was there."
+            },
+            {
+                "lineNumber": "269474",
+                "originalJapaneseLine": "あっという間に街は破壊され尽くす。",
+                "translatedEnglishLine": "In no time, the whole city was utterly destroyed."
+            },
+            {
+                "lineNumber": "269475",
+                "originalJapaneseLine": "「逃げろ、逃げろ、逃げろーーー！」",
+                "translatedEnglishLine": "Run! Run! Run——!"
+            },
+            {
+                "lineNumber": "269476",
+                "originalJapaneseLine": "人々は狂ったように、",
+                "translatedEnglishLine": "The people repeated it like mad,"
+            },
+            {
+                "lineNumber": "269477",
+                "originalJapaneseLine": "逃げろ逃げろと繰り返していた。",
+                "translatedEnglishLine": "shouting 'run, run' over and over."
+            },
+            {
+                "lineNumber": "269478",
+                "originalJapaneseLine": "何が起きたかすら分かっていない。",
+                "translatedEnglishLine": "They didn't even understand what had happened."
+            },
+            {
+                "lineNumber": "269479",
+                "originalJapaneseLine": "それでも、はっきりと",
+                "translatedEnglishLine": "Nevertheless, clearly,"
+            },
+            {
+                "lineNumber": "269480",
+                "originalJapaneseLine": "確信を持って言えることがあった。",
+                "translatedEnglishLine": "there was something they could say with conviction."
+            },
+            {
+                "lineNumber": "269481",
+                "originalJapaneseLine": "今日、世界は滅ぶのだ――",
+                "translatedEnglishLine": "Today, the world will perish—"
+            },
+            {
+                "lineNumber": "269482",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": "269483",
+                "originalJapaneseLine": "するべきことだけは、",
+                "translatedEnglishLine": "What must be done now is only this,"
+            }
+        ]
+    }
+}

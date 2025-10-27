@@ -1,0 +1,719 @@
+{
+    "id": "resp_024979bf6018dc840068ffeb997ce081949c2fbfce660671a6",
+    "object": "response",
+    "created_at": 1761602457,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_024979bf6018dc840068ffeb9a02548194a751284a6c086397",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「うーむ、本当に忙しそうだったな」\",\"translatedEnglishLine\":\"\\\"Hmm, they really looked busy.\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「ホントにねー。\",\"translatedEnglishLine\":\"\\\"Really is that.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　ってわけでモロミちゃんそろそろ退散。\",\"translatedEnglishLine\":\"\\\"So, Moromi-chan, it's about time to leave.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　また明日ね、エロ隊長ー」\",\"translatedEnglishLine\":\"\\\"See you tomorrow, pervy captain.\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「…………おおっ」\",\"translatedEnglishLine\":\"\\\"...Oh!\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「あれ？　荷物は……」\",\"translatedEnglishLine\":\"\\\"Huh? The luggage is...\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「行くよセスナー、私の手煩わせんなー」\",\"translatedEnglishLine\":\"\\\"Let's go, Sesna, don't bother me.\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「お、おおっ……」\",\"translatedEnglishLine\":\"\\\"O-oh...\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「なんて騒がしい奴らだ」\",\"translatedEnglishLine\":\"\\\"What noisy guys.\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「皆さんとっても大変そうでしたね……」\",\"translatedEnglishLine\":\"\\\"Everyone seemed to be having a really tough time...\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「まあまあ。\",\"translatedEnglishLine\":\"\\\"Now, now.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　そんなピリピリするな」\",\"translatedEnglishLine\":\"\\\"Don't be so tensed up.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「相手は睡眠を操る魔人なのだろう？\",\"translatedEnglishLine\":\"\\\"The opponent is a demon that manipulates sleep, right?\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　それならうってつけの奴がいる」\",\"translatedEnglishLine\":\"\\\"In that case, there's someone perfect for this.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「なに？\",\"translatedEnglishLine\":\"\\\"What?\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　うってつけの奴だと？」\",\"translatedEnglishLine\":\"\\\"Someone perfect?\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「ああ、最近新たなパワーに目覚めた奴だ」\",\"translatedEnglishLine\":\"\\\"Yeah, someone who's recently awakened a new power.\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「はあああ？」\",\"translatedEnglishLine\":\"\\\"Huh!?\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「来い！　覚醒セスナーーー！」\",\"translatedEnglishLine\":\"\\\"Come! Awakened Sesna---!\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「ふんす！！！！」\",\"translatedEnglishLine\":\"\\\"Hmph!!\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「うわっ、なんだこいつ！？」\",\"translatedEnglishLine\":\"\\\"Whoa, what’s with this one!?\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ふんす、ふんす！\",\"translatedEnglishLine\":\"\\\"Hmph, hmph!\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　魔人、倒す！」\",\"translatedEnglishLine\":\"\\\"I'll defeat the demon!\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「なんだ、こいつ？」\",\"translatedEnglishLine\":\"\\\"What is this?\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「セスナだ。\",\"translatedEnglishLine\":\"\\\"It's Sesna.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　同じ魔人討伐隊のメンバーなんだ、\",\"translatedEnglishLine\":\"\\\"She's a member of the same demon hunting squad,\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　お前も話したことくらいあるだろ」\",\"translatedEnglishLine\":\"\\\"You must have talked to her at least once.\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「えーと？\",\"translatedEnglishLine\":\"\\\"Umm?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　そういえば、いたような……」\",\"translatedEnglishLine\":\"\\\"Now that you mention it, I think she was around...\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「いや、私の知っているその女は、\",\"translatedEnglishLine\":\"\\\"No, the woman I know has\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　もっと眠そうな目をしていたぞ？」\",\"translatedEnglishLine\":\"\\\"more sleepy eyes.\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「ふんす、ふんす！」\",\"translatedEnglishLine\":\"\\\"Hmph, hmph!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「ああもう、うるさい！」\",\"translatedEnglishLine\":\"\\\"Ah, enough already! You're noisy!\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「セスナについてはあたし達が説明するよ」\",\"translatedEnglishLine\":\"\\\"We'll explain about Sesna.\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「元々、寝ぼすけ魔なセスナはー、\",\"translatedEnglishLine\":\"\\\"Originally, Sesna was a total sleepyhead—\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　今までそれはもう昼も夜もなく、\",\"translatedEnglishLine\":\"\\\"all the time, day and night,\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　眠って眠って眠りまくってきたわけだけど」\",\"translatedEnglishLine\":\"\\\"she would sleep and sleep nonstop.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「その……どういうわけか……\",\"translatedEnglishLine\":\"\\\"But, um... for some reason...\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　こないだ誕生日を迎えると共に……」\",\"translatedEnglishLine\":\"\\\"when she recently had her birthday...\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「なんか！　眠れなく！　なりました！」\",\"translatedEnglishLine\":\"\\\"somehow! She became unable! To sleep!\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「……ってことらしくって。\",\"translatedEnglishLine\":\"\\\"...That's what apparently happened.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　実際もうずっと寝てない」\",\"translatedEnglishLine\":\"\\\"In fact, she hasn't slept at all since then.\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「はあ？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「そう！　哀れ、セスナは！\",\"translatedEnglishLine\":\"\\\"Yes! Poor Sesna!\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　一生分の睡眠を先取りしてしまったのだー！」\",\"translatedEnglishLine\":\"\\\"She took a whole lifetime's worth of sleep in advance!\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「……睡眠ってそういうものだったか？」\",\"translatedEnglishLine\":\"\\\"...Is sleep really like that?\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「俺も納得はいかんが、\",\"translatedEnglishLine\":\"\\\"I'm not convinced either, but\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　とにかくそういうことらしい」\",\"translatedEnglishLine\":\"\\\"Anyway, that's apparently how it is.\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「ふんす、ふんす！\",\"translatedEnglishLine\":\"\\\"Hmph, hmph!\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　魔人！　倒す！」\",\"translatedEnglishLine\":\"\\\"I'll defeat the demon!\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「ほーれ、セスナもやる気満々！\",\"translatedEnglishLine\":\"\\\"Look, Sesna is full of motivation too!\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　がははは、心配は無用だ！」\",\"translatedEnglishLine\":\"\\\"Gahaha, no need to worry!\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「セスナ、いけるな？」\",\"translatedEnglishLine\":\"\\\"Sesna, you can do this, right?\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「ふんす！　ふんす！\",\"translatedEnglishLine\":\"\\\"Hmph! Hmph!\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　楽勝！　まかせて！」\",\"translatedEnglishLine\":\"\\\"Piece of cake! Leave it to me!\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"セスナはビシーッと親指を立てた。\",\"translatedEnglishLine\":\"Sesna snapped her fingers and gave a thumbs-up.\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「ま、なんとかなるなる」\",\"translatedEnglishLine\":\"\\\"Well, it'll work out somehow.\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「がははは、待ってろよ、ワーグちゃん！」\",\"translatedEnglishLine\":\"\\\"Gahaha, just wait, Warg-chan!\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "267744",
+                                "originalJapaneseLine": "「うーむ、本当に忙しそうだったな」",
+                                "translatedEnglishLine": "\"Hmm, they really looked busy.\""
+                            },
+                            {
+                                "lineNumber": "267745",
+                                "originalJapaneseLine": "「ホントにねー。",
+                                "translatedEnglishLine": "\"Really is that.\""
+                            },
+                            {
+                                "lineNumber": "267746",
+                                "originalJapaneseLine": "　ってわけでモロミちゃんそろそろ退散。",
+                                "translatedEnglishLine": "\"So, Moromi-chan, it's about time to leave.\""
+                            },
+                            {
+                                "lineNumber": "267747",
+                                "originalJapaneseLine": "　また明日ね、エロ隊長ー」",
+                                "translatedEnglishLine": "\"See you tomorrow, pervy captain.\""
+                            },
+                            {
+                                "lineNumber": "267748",
+                                "originalJapaneseLine": "「…………おおっ」",
+                                "translatedEnglishLine": "\"...Oh!\""
+                            },
+                            {
+                                "lineNumber": "267749",
+                                "originalJapaneseLine": "「あれ？　荷物は……」",
+                                "translatedEnglishLine": "\"Huh? The luggage is...\""
+                            },
+                            {
+                                "lineNumber": "267750",
+                                "originalJapaneseLine": "「行くよセスナー、私の手煩わせんなー」",
+                                "translatedEnglishLine": "\"Let's go, Sesna, don't bother me.\""
+                            },
+                            {
+                                "lineNumber": "267751",
+                                "originalJapaneseLine": "「お、おおっ……」",
+                                "translatedEnglishLine": "\"O-oh...\""
+                            },
+                            {
+                                "lineNumber": "267752",
+                                "originalJapaneseLine": "「なんて騒がしい奴らだ」",
+                                "translatedEnglishLine": "\"What noisy guys.\""
+                            },
+                            {
+                                "lineNumber": "267753",
+                                "originalJapaneseLine": "「皆さんとっても大変そうでしたね……」",
+                                "translatedEnglishLine": "\"Everyone seemed to be having a really tough time...\""
+                            },
+                            {
+                                "lineNumber": "267754",
+                                "originalJapaneseLine": "「まあまあ。",
+                                "translatedEnglishLine": "\"Now, now.\""
+                            },
+                            {
+                                "lineNumber": "267755",
+                                "originalJapaneseLine": "　そんなピリピリするな」",
+                                "translatedEnglishLine": "\"Don't be so tensed up.\""
+                            },
+                            {
+                                "lineNumber": "267756",
+                                "originalJapaneseLine": "「相手は睡眠を操る魔人なのだろう？",
+                                "translatedEnglishLine": "\"The opponent is a demon that manipulates sleep, right?\""
+                            },
+                            {
+                                "lineNumber": "267757",
+                                "originalJapaneseLine": "　それならうってつけの奴がいる」",
+                                "translatedEnglishLine": "\"In that case, there's someone perfect for this.\""
+                            },
+                            {
+                                "lineNumber": "267758",
+                                "originalJapaneseLine": "「なに？",
+                                "translatedEnglishLine": "\"What?\""
+                            },
+                            {
+                                "lineNumber": "267759",
+                                "originalJapaneseLine": "　うってつけの奴だと？」",
+                                "translatedEnglishLine": "\"Someone perfect?\""
+                            },
+                            {
+                                "lineNumber": "267760",
+                                "originalJapaneseLine": "「ああ、最近新たなパワーに目覚めた奴だ」",
+                                "translatedEnglishLine": "\"Yeah, someone who's recently awakened a new power.\""
+                            },
+                            {
+                                "lineNumber": "267761",
+                                "originalJapaneseLine": "「はあああ？」",
+                                "translatedEnglishLine": "\"Huh!?\""
+                            },
+                            {
+                                "lineNumber": "267762",
+                                "originalJapaneseLine": "「来い！　覚醒セスナーーー！」",
+                                "translatedEnglishLine": "\"Come! Awakened Sesna---!\""
+                            },
+                            {
+                                "lineNumber": "267763",
+                                "originalJapaneseLine": "「ふんす！！！！」",
+                                "translatedEnglishLine": "\"Hmph!!\""
+                            },
+                            {
+                                "lineNumber": "267764",
+                                "originalJapaneseLine": "「うわっ、なんだこいつ！？」",
+                                "translatedEnglishLine": "\"Whoa, what’s with this one!?\""
+                            },
+                            {
+                                "lineNumber": "267765",
+                                "originalJapaneseLine": "「ふんす、ふんす！",
+                                "translatedEnglishLine": "\"Hmph, hmph!\""
+                            },
+                            {
+                                "lineNumber": "267766",
+                                "originalJapaneseLine": "　魔人、倒す！」",
+                                "translatedEnglishLine": "\"I'll defeat the demon!\""
+                            },
+                            {
+                                "lineNumber": "267767",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"...\""
+                            },
+                            {
+                                "lineNumber": "267768",
+                                "originalJapaneseLine": "「なんだ、こいつ？」",
+                                "translatedEnglishLine": "\"What is this?\""
+                            },
+                            {
+                                "lineNumber": "267769",
+                                "originalJapaneseLine": "「セスナだ。",
+                                "translatedEnglishLine": "\"It's Sesna.\""
+                            },
+                            {
+                                "lineNumber": "267770",
+                                "originalJapaneseLine": "　同じ魔人討伐隊のメンバーなんだ、",
+                                "translatedEnglishLine": "\"She's a member of the same demon hunting squad,\""
+                            },
+                            {
+                                "lineNumber": "267771",
+                                "originalJapaneseLine": "　お前も話したことくらいあるだろ」",
+                                "translatedEnglishLine": "\"You must have talked to her at least once.\""
+                            },
+                            {
+                                "lineNumber": "267772",
+                                "originalJapaneseLine": "「えーと？",
+                                "translatedEnglishLine": "\"Umm?\""
+                            },
+                            {
+                                "lineNumber": "267773",
+                                "originalJapaneseLine": "　そういえば、いたような……」",
+                                "translatedEnglishLine": "\"Now that you mention it, I think she was around...\""
+                            },
+                            {
+                                "lineNumber": "267774",
+                                "originalJapaneseLine": "「いや、私の知っているその女は、",
+                                "translatedEnglishLine": "\"No, the woman I know has\""
+                            },
+                            {
+                                "lineNumber": "267775",
+                                "originalJapaneseLine": "　もっと眠そうな目をしていたぞ？」",
+                                "translatedEnglishLine": "\"more sleepy eyes.\""
+                            },
+                            {
+                                "lineNumber": "267776",
+                                "originalJapaneseLine": "「ふんす、ふんす！」",
+                                "translatedEnglishLine": "\"Hmph, hmph!\""
+                            },
+                            {
+                                "lineNumber": "267777",
+                                "originalJapaneseLine": "「ああもう、うるさい！」",
+                                "translatedEnglishLine": "\"Ah, enough already! You're noisy!\""
+                            },
+                            {
+                                "lineNumber": "267778",
+                                "originalJapaneseLine": "「セスナについてはあたし達が説明するよ」",
+                                "translatedEnglishLine": "\"We'll explain about Sesna.\""
+                            },
+                            {
+                                "lineNumber": "267779",
+                                "originalJapaneseLine": "「元々、寝ぼすけ魔なセスナはー、",
+                                "translatedEnglishLine": "\"Originally, Sesna was a total sleepyhead—\""
+                            },
+                            {
+                                "lineNumber": "267780",
+                                "originalJapaneseLine": "　今までそれはもう昼も夜もなく、",
+                                "translatedEnglishLine": "\"all the time, day and night,\""
+                            },
+                            {
+                                "lineNumber": "267781",
+                                "originalJapaneseLine": "　眠って眠って眠りまくってきたわけだけど」",
+                                "translatedEnglishLine": "\"she would sleep and sleep nonstop.\""
+                            },
+                            {
+                                "lineNumber": "267782",
+                                "originalJapaneseLine": "「その……どういうわけか……",
+                                "translatedEnglishLine": "\"But, um... for some reason...\""
+                            },
+                            {
+                                "lineNumber": "267783",
+                                "originalJapaneseLine": "　こないだ誕生日を迎えると共に……」",
+                                "translatedEnglishLine": "\"when she recently had her birthday...\""
+                            },
+                            {
+                                "lineNumber": "267784",
+                                "originalJapaneseLine": "「なんか！　眠れなく！　なりました！」",
+                                "translatedEnglishLine": "\"somehow! She became unable! To sleep!\""
+                            },
+                            {
+                                "lineNumber": "267785",
+                                "originalJapaneseLine": "「……ってことらしくって。",
+                                "translatedEnglishLine": "\"...That's what apparently happened.\""
+                            },
+                            {
+                                "lineNumber": "267786",
+                                "originalJapaneseLine": "　実際もうずっと寝てない」",
+                                "translatedEnglishLine": "\"In fact, she hasn't slept at all since then.\""
+                            },
+                            {
+                                "lineNumber": "267787",
+                                "originalJapaneseLine": "「はあ？」",
+                                "translatedEnglishLine": "\"Huh?\""
+                            },
+                            {
+                                "lineNumber": "267788",
+                                "originalJapaneseLine": "「そう！　哀れ、セスナは！",
+                                "translatedEnglishLine": "\"Yes! Poor Sesna!\""
+                            },
+                            {
+                                "lineNumber": "267789",
+                                "originalJapaneseLine": "　一生分の睡眠を先取りしてしまったのだー！」",
+                                "translatedEnglishLine": "\"She took a whole lifetime's worth of sleep in advance!\""
+                            },
+                            {
+                                "lineNumber": "267790",
+                                "originalJapaneseLine": "「……睡眠ってそういうものだったか？」",
+                                "translatedEnglishLine": "\"...Is sleep really like that?\""
+                            },
+                            {
+                                "lineNumber": "267791",
+                                "originalJapaneseLine": "「俺も納得はいかんが、",
+                                "translatedEnglishLine": "\"I'm not convinced either, but\""
+                            },
+                            {
+                                "lineNumber": "267792",
+                                "originalJapaneseLine": "　とにかくそういうことらしい」",
+                                "translatedEnglishLine": "\"Anyway, that's apparently how it is.\""
+                            },
+                            {
+                                "lineNumber": "267793",
+                                "originalJapaneseLine": "「ふんす、ふんす！",
+                                "translatedEnglishLine": "\"Hmph, hmph!\""
+                            },
+                            {
+                                "lineNumber": "267794",
+                                "originalJapaneseLine": "　魔人！　倒す！」",
+                                "translatedEnglishLine": "\"I'll defeat the demon!\""
+                            },
+                            {
+                                "lineNumber": "267795",
+                                "originalJapaneseLine": "「ほーれ、セスナもやる気満々！",
+                                "translatedEnglishLine": "\"Look, Sesna is full of motivation too!\""
+                            },
+                            {
+                                "lineNumber": "267796",
+                                "originalJapaneseLine": "　がははは、心配は無用だ！」",
+                                "translatedEnglishLine": "\"Gahaha, no need to worry!\""
+                            },
+                            {
+                                "lineNumber": "267797",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"...\""
+                            },
+                            {
+                                "lineNumber": "267798",
+                                "originalJapaneseLine": "「セスナ、いけるな？」",
+                                "translatedEnglishLine": "\"Sesna, you can do this, right?\""
+                            },
+                            {
+                                "lineNumber": "267799",
+                                "originalJapaneseLine": "「ふんす！　ふんす！",
+                                "translatedEnglishLine": "\"Hmph! Hmph!\""
+                            },
+                            {
+                                "lineNumber": "267800",
+                                "originalJapaneseLine": "　楽勝！　まかせて！」",
+                                "translatedEnglishLine": "\"Piece of cake! Leave it to me!\""
+                            },
+                            {
+                                "lineNumber": "267801",
+                                "originalJapaneseLine": "セスナはビシーッと親指を立てた。",
+                                "translatedEnglishLine": "Sesna snapped her fingers and gave a thumbs-up."
+                            },
+                            {
+                                "lineNumber": "267802",
+                                "originalJapaneseLine": "「ま、なんとかなるなる」",
+                                "translatedEnglishLine": "\"Well, it'll work out somehow.\""
+                            },
+                            {
+                                "lineNumber": "267803",
+                                "originalJapaneseLine": "「がははは、待ってろよ、ワーグちゃん！」",
+                                "translatedEnglishLine": "\"Gahaha, just wait, Warg-chan!\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1765,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2059,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3824
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「うーむ、本当に忙しそうだったな」\",\"translatedEnglishLine\":\"\\\"Hmm, they really looked busy.\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「ホントにねー。\",\"translatedEnglishLine\":\"\\\"Really is that.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　ってわけでモロミちゃんそろそろ退散。\",\"translatedEnglishLine\":\"\\\"So, Moromi-chan, it's about time to leave.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　また明日ね、エロ隊長ー」\",\"translatedEnglishLine\":\"\\\"See you tomorrow, pervy captain.\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「…………おおっ」\",\"translatedEnglishLine\":\"\\\"...Oh!\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「あれ？　荷物は……」\",\"translatedEnglishLine\":\"\\\"Huh? The luggage is...\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「行くよセスナー、私の手煩わせんなー」\",\"translatedEnglishLine\":\"\\\"Let's go, Sesna, don't bother me.\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「お、おおっ……」\",\"translatedEnglishLine\":\"\\\"O-oh...\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「なんて騒がしい奴らだ」\",\"translatedEnglishLine\":\"\\\"What noisy guys.\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「皆さんとっても大変そうでしたね……」\",\"translatedEnglishLine\":\"\\\"Everyone seemed to be having a really tough time...\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「まあまあ。\",\"translatedEnglishLine\":\"\\\"Now, now.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　そんなピリピリするな」\",\"translatedEnglishLine\":\"\\\"Don't be so tensed up.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「相手は睡眠を操る魔人なのだろう？\",\"translatedEnglishLine\":\"\\\"The opponent is a demon that manipulates sleep, right?\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　それならうってつけの奴がいる」\",\"translatedEnglishLine\":\"\\\"In that case, there's someone perfect for this.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「なに？\",\"translatedEnglishLine\":\"\\\"What?\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　うってつけの奴だと？」\",\"translatedEnglishLine\":\"\\\"Someone perfect?\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「ああ、最近新たなパワーに目覚めた奴だ」\",\"translatedEnglishLine\":\"\\\"Yeah, someone who's recently awakened a new power.\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「はあああ？」\",\"translatedEnglishLine\":\"\\\"Huh!?\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「来い！　覚醒セスナーーー！」\",\"translatedEnglishLine\":\"\\\"Come! Awakened Sesna---!\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「ふんす！！！！」\",\"translatedEnglishLine\":\"\\\"Hmph!!\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「うわっ、なんだこいつ！？」\",\"translatedEnglishLine\":\"\\\"Whoa, what’s with this one!?\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ふんす、ふんす！\",\"translatedEnglishLine\":\"\\\"Hmph, hmph!\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　魔人、倒す！」\",\"translatedEnglishLine\":\"\\\"I'll defeat the demon!\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「なんだ、こいつ？」\",\"translatedEnglishLine\":\"\\\"What is this?\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「セスナだ。\",\"translatedEnglishLine\":\"\\\"It's Sesna.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　同じ魔人討伐隊のメンバーなんだ、\",\"translatedEnglishLine\":\"\\\"She's a member of the same demon hunting squad,\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　お前も話したことくらいあるだろ」\",\"translatedEnglishLine\":\"\\\"You must have talked to her at least once.\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「えーと？\",\"translatedEnglishLine\":\"\\\"Umm?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　そういえば、いたような……」\",\"translatedEnglishLine\":\"\\\"Now that you mention it, I think she was around...\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「いや、私の知っているその女は、\",\"translatedEnglishLine\":\"\\\"No, the woman I know has\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　もっと眠そうな目をしていたぞ？」\",\"translatedEnglishLine\":\"\\\"more sleepy eyes.\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「ふんす、ふんす！」\",\"translatedEnglishLine\":\"\\\"Hmph, hmph!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「ああもう、うるさい！」\",\"translatedEnglishLine\":\"\\\"Ah, enough already! You're noisy!\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「セスナについてはあたし達が説明するよ」\",\"translatedEnglishLine\":\"\\\"We'll explain about Sesna.\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「元々、寝ぼすけ魔なセスナはー、\",\"translatedEnglishLine\":\"\\\"Originally, Sesna was a total sleepyhead—\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　今までそれはもう昼も夜もなく、\",\"translatedEnglishLine\":\"\\\"all the time, day and night,\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　眠って眠って眠りまくってきたわけだけど」\",\"translatedEnglishLine\":\"\\\"she would sleep and sleep nonstop.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「その……どういうわけか……\",\"translatedEnglishLine\":\"\\\"But, um... for some reason...\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　こないだ誕生日を迎えると共に……」\",\"translatedEnglishLine\":\"\\\"when she recently had her birthday...\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「なんか！　眠れなく！　なりました！」\",\"translatedEnglishLine\":\"\\\"somehow! She became unable! To sleep!\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「……ってことらしくって。\",\"translatedEnglishLine\":\"\\\"...That's what apparently happened.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　実際もうずっと寝てない」\",\"translatedEnglishLine\":\"\\\"In fact, she hasn't slept at all since then.\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「はあ？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「そう！　哀れ、セスナは！\",\"translatedEnglishLine\":\"\\\"Yes! Poor Sesna!\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　一生分の睡眠を先取りしてしまったのだー！」\",\"translatedEnglishLine\":\"\\\"She took a whole lifetime's worth of sleep in advance!\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「……睡眠ってそういうものだったか？」\",\"translatedEnglishLine\":\"\\\"...Is sleep really like that?\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「俺も納得はいかんが、\",\"translatedEnglishLine\":\"\\\"I'm not convinced either, but\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　とにかくそういうことらしい」\",\"translatedEnglishLine\":\"\\\"Anyway, that's apparently how it is.\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「ふんす、ふんす！\",\"translatedEnglishLine\":\"\\\"Hmph, hmph!\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　魔人！　倒す！」\",\"translatedEnglishLine\":\"\\\"I'll defeat the demon!\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「ほーれ、セスナもやる気満々！\",\"translatedEnglishLine\":\"\\\"Look, Sesna is full of motivation too!\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　がははは、心配は無用だ！」\",\"translatedEnglishLine\":\"\\\"Gahaha, no need to worry!\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「セスナ、いけるな？」\",\"translatedEnglishLine\":\"\\\"Sesna, you can do this, right?\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「ふんす！　ふんす！\",\"translatedEnglishLine\":\"\\\"Hmph! Hmph!\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　楽勝！　まかせて！」\",\"translatedEnglishLine\":\"\\\"Piece of cake! Leave it to me!\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"セスナはビシーッと親指を立てた。\",\"translatedEnglishLine\":\"Sesna snapped her fingers and gave a thumbs-up.\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「ま、なんとかなるなる」\",\"translatedEnglishLine\":\"\\\"Well, it'll work out somehow.\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「がははは、待ってろよ、ワーグちゃん！」\",\"translatedEnglishLine\":\"\\\"Gahaha, just wait, Warg-chan!\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "267744",
+                "originalJapaneseLine": "「うーむ、本当に忙しそうだったな」",
+                "translatedEnglishLine": "\"Hmm, they really looked busy.\""
+            },
+            {
+                "lineNumber": "267745",
+                "originalJapaneseLine": "「ホントにねー。",
+                "translatedEnglishLine": "\"Really is that.\""
+            },
+            {
+                "lineNumber": "267746",
+                "originalJapaneseLine": "　ってわけでモロミちゃんそろそろ退散。",
+                "translatedEnglishLine": "\"So, Moromi-chan, it's about time to leave.\""
+            },
+            {
+                "lineNumber": "267747",
+                "originalJapaneseLine": "　また明日ね、エロ隊長ー」",
+                "translatedEnglishLine": "\"See you tomorrow, pervy captain.\""
+            },
+            {
+                "lineNumber": "267748",
+                "originalJapaneseLine": "「…………おおっ」",
+                "translatedEnglishLine": "\"...Oh!\""
+            },
+            {
+                "lineNumber": "267749",
+                "originalJapaneseLine": "「あれ？　荷物は……」",
+                "translatedEnglishLine": "\"Huh? The luggage is...\""
+            },
+            {
+                "lineNumber": "267750",
+                "originalJapaneseLine": "「行くよセスナー、私の手煩わせんなー」",
+                "translatedEnglishLine": "\"Let's go, Sesna, don't bother me.\""
+            },
+            {
+                "lineNumber": "267751",
+                "originalJapaneseLine": "「お、おおっ……」",
+                "translatedEnglishLine": "\"O-oh...\""
+            },
+            {
+                "lineNumber": "267752",
+                "originalJapaneseLine": "「なんて騒がしい奴らだ」",
+                "translatedEnglishLine": "\"What noisy guys.\""
+            },
+            {
+                "lineNumber": "267753",
+                "originalJapaneseLine": "「皆さんとっても大変そうでしたね……」",
+                "translatedEnglishLine": "\"Everyone seemed to be having a really tough time...\""
+            },
+            {
+                "lineNumber": "267754",
+                "originalJapaneseLine": "「まあまあ。",
+                "translatedEnglishLine": "\"Now, now.\""
+            },
+            {
+                "lineNumber": "267755",
+                "originalJapaneseLine": "　そんなピリピリするな」",
+                "translatedEnglishLine": "\"Don't be so tensed up.\""
+            },
+            {
+                "lineNumber": "267756",
+                "originalJapaneseLine": "「相手は睡眠を操る魔人なのだろう？",
+                "translatedEnglishLine": "\"The opponent is a demon that manipulates sleep, right?\""
+            },
+            {
+                "lineNumber": "267757",
+                "originalJapaneseLine": "　それならうってつけの奴がいる」",
+                "translatedEnglishLine": "\"In that case, there's someone perfect for this.\""
+            },
+            {
+                "lineNumber": "267758",
+                "originalJapaneseLine": "「なに？",
+                "translatedEnglishLine": "\"What?\""
+            },
+            {
+                "lineNumber": "267759",
+                "originalJapaneseLine": "　うってつけの奴だと？」",
+                "translatedEnglishLine": "\"Someone perfect?\""
+            },
+            {
+                "lineNumber": "267760",
+                "originalJapaneseLine": "「ああ、最近新たなパワーに目覚めた奴だ」",
+                "translatedEnglishLine": "\"Yeah, someone who's recently awakened a new power.\""
+            },
+            {
+                "lineNumber": "267761",
+                "originalJapaneseLine": "「はあああ？」",
+                "translatedEnglishLine": "\"Huh!?\""
+            },
+            {
+                "lineNumber": "267762",
+                "originalJapaneseLine": "「来い！　覚醒セスナーーー！」",
+                "translatedEnglishLine": "\"Come! Awakened Sesna---!\""
+            },
+            {
+                "lineNumber": "267763",
+                "originalJapaneseLine": "「ふんす！！！！」",
+                "translatedEnglishLine": "\"Hmph!!\""
+            },
+            {
+                "lineNumber": "267764",
+                "originalJapaneseLine": "「うわっ、なんだこいつ！？」",
+                "translatedEnglishLine": "\"Whoa, what’s with this one!?\""
+            },
+            {
+                "lineNumber": "267765",
+                "originalJapaneseLine": "「ふんす、ふんす！",
+                "translatedEnglishLine": "\"Hmph, hmph!\""
+            },
+            {
+                "lineNumber": "267766",
+                "originalJapaneseLine": "　魔人、倒す！」",
+                "translatedEnglishLine": "\"I'll defeat the demon!\""
+            },
+            {
+                "lineNumber": "267767",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"...\""
+            },
+            {
+                "lineNumber": "267768",
+                "originalJapaneseLine": "「なんだ、こいつ？」",
+                "translatedEnglishLine": "\"What is this?\""
+            },
+            {
+                "lineNumber": "267769",
+                "originalJapaneseLine": "「セスナだ。",
+                "translatedEnglishLine": "\"It's Sesna.\""
+            },
+            {
+                "lineNumber": "267770",
+                "originalJapaneseLine": "　同じ魔人討伐隊のメンバーなんだ、",
+                "translatedEnglishLine": "\"She's a member of the same demon hunting squad,\""
+            },
+            {
+                "lineNumber": "267771",
+                "originalJapaneseLine": "　お前も話したことくらいあるだろ」",
+                "translatedEnglishLine": "\"You must have talked to her at least once.\""
+            },
+            {
+                "lineNumber": "267772",
+                "originalJapaneseLine": "「えーと？",
+                "translatedEnglishLine": "\"Umm?\""
+            },
+            {
+                "lineNumber": "267773",
+                "originalJapaneseLine": "　そういえば、いたような……」",
+                "translatedEnglishLine": "\"Now that you mention it, I think she was around...\""
+            },
+            {
+                "lineNumber": "267774",
+                "originalJapaneseLine": "「いや、私の知っているその女は、",
+                "translatedEnglishLine": "\"No, the woman I know has\""
+            },
+            {
+                "lineNumber": "267775",
+                "originalJapaneseLine": "　もっと眠そうな目をしていたぞ？」",
+                "translatedEnglishLine": "\"more sleepy eyes.\""
+            },
+            {
+                "lineNumber": "267776",
+                "originalJapaneseLine": "「ふんす、ふんす！」",
+                "translatedEnglishLine": "\"Hmph, hmph!\""
+            },
+            {
+                "lineNumber": "267777",
+                "originalJapaneseLine": "「ああもう、うるさい！」",
+                "translatedEnglishLine": "\"Ah, enough already! You're noisy!\""
+            },
+            {
+                "lineNumber": "267778",
+                "originalJapaneseLine": "「セスナについてはあたし達が説明するよ」",
+                "translatedEnglishLine": "\"We'll explain about Sesna.\""
+            },
+            {
+                "lineNumber": "267779",
+                "originalJapaneseLine": "「元々、寝ぼすけ魔なセスナはー、",
+                "translatedEnglishLine": "\"Originally, Sesna was a total sleepyhead—\""
+            },
+            {
+                "lineNumber": "267780",
+                "originalJapaneseLine": "　今までそれはもう昼も夜もなく、",
+                "translatedEnglishLine": "\"all the time, day and night,\""
+            },
+            {
+                "lineNumber": "267781",
+                "originalJapaneseLine": "　眠って眠って眠りまくってきたわけだけど」",
+                "translatedEnglishLine": "\"she would sleep and sleep nonstop.\""
+            },
+            {
+                "lineNumber": "267782",
+                "originalJapaneseLine": "「その……どういうわけか……",
+                "translatedEnglishLine": "\"But, um... for some reason...\""
+            },
+            {
+                "lineNumber": "267783",
+                "originalJapaneseLine": "　こないだ誕生日を迎えると共に……」",
+                "translatedEnglishLine": "\"when she recently had her birthday...\""
+            },
+            {
+                "lineNumber": "267784",
+                "originalJapaneseLine": "「なんか！　眠れなく！　なりました！」",
+                "translatedEnglishLine": "\"somehow! She became unable! To sleep!\""
+            },
+            {
+                "lineNumber": "267785",
+                "originalJapaneseLine": "「……ってことらしくって。",
+                "translatedEnglishLine": "\"...That's what apparently happened.\""
+            },
+            {
+                "lineNumber": "267786",
+                "originalJapaneseLine": "　実際もうずっと寝てない」",
+                "translatedEnglishLine": "\"In fact, she hasn't slept at all since then.\""
+            },
+            {
+                "lineNumber": "267787",
+                "originalJapaneseLine": "「はあ？」",
+                "translatedEnglishLine": "\"Huh?\""
+            },
+            {
+                "lineNumber": "267788",
+                "originalJapaneseLine": "「そう！　哀れ、セスナは！",
+                "translatedEnglishLine": "\"Yes! Poor Sesna!\""
+            },
+            {
+                "lineNumber": "267789",
+                "originalJapaneseLine": "　一生分の睡眠を先取りしてしまったのだー！」",
+                "translatedEnglishLine": "\"She took a whole lifetime's worth of sleep in advance!\""
+            },
+            {
+                "lineNumber": "267790",
+                "originalJapaneseLine": "「……睡眠ってそういうものだったか？」",
+                "translatedEnglishLine": "\"...Is sleep really like that?\""
+            },
+            {
+                "lineNumber": "267791",
+                "originalJapaneseLine": "「俺も納得はいかんが、",
+                "translatedEnglishLine": "\"I'm not convinced either, but\""
+            },
+            {
+                "lineNumber": "267792",
+                "originalJapaneseLine": "　とにかくそういうことらしい」",
+                "translatedEnglishLine": "\"Anyway, that's apparently how it is.\""
+            },
+            {
+                "lineNumber": "267793",
+                "originalJapaneseLine": "「ふんす、ふんす！",
+                "translatedEnglishLine": "\"Hmph, hmph!\""
+            },
+            {
+                "lineNumber": "267794",
+                "originalJapaneseLine": "　魔人！　倒す！」",
+                "translatedEnglishLine": "\"I'll defeat the demon!\""
+            },
+            {
+                "lineNumber": "267795",
+                "originalJapaneseLine": "「ほーれ、セスナもやる気満々！",
+                "translatedEnglishLine": "\"Look, Sesna is full of motivation too!\""
+            },
+            {
+                "lineNumber": "267796",
+                "originalJapaneseLine": "　がははは、心配は無用だ！」",
+                "translatedEnglishLine": "\"Gahaha, no need to worry!\""
+            },
+            {
+                "lineNumber": "267797",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"...\""
+            },
+            {
+                "lineNumber": "267798",
+                "originalJapaneseLine": "「セスナ、いけるな？」",
+                "translatedEnglishLine": "\"Sesna, you can do this, right?\""
+            },
+            {
+                "lineNumber": "267799",
+                "originalJapaneseLine": "「ふんす！　ふんす！",
+                "translatedEnglishLine": "\"Hmph! Hmph!\""
+            },
+            {
+                "lineNumber": "267800",
+                "originalJapaneseLine": "　楽勝！　まかせて！」",
+                "translatedEnglishLine": "\"Piece of cake! Leave it to me!\""
+            },
+            {
+                "lineNumber": "267801",
+                "originalJapaneseLine": "セスナはビシーッと親指を立てた。",
+                "translatedEnglishLine": "Sesna snapped her fingers and gave a thumbs-up."
+            },
+            {
+                "lineNumber": "267802",
+                "originalJapaneseLine": "「ま、なんとかなるなる」",
+                "translatedEnglishLine": "\"Well, it'll work out somehow.\""
+            },
+            {
+                "lineNumber": "267803",
+                "originalJapaneseLine": "「がははは、待ってろよ、ワーグちゃん！」",
+                "translatedEnglishLine": "\"Gahaha, just wait, Warg-chan!\""
+            }
+        ]
+    }
+}

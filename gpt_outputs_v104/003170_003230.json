@@ -1,0 +1,719 @@
+{
+    "id": "resp_07cd778bda5700b80068ffebb2474481979129b597c9999c30",
+    "object": "response",
+    "created_at": 1761602482,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_07cd778bda5700b80068ffebb2e9f881978c7164679eb98cba",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「……大丈夫かなぁ」\",\"translatedEnglishLine\":\"\\\"...I wonder if it'll be alright.\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\".........\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「しかし……」\",\"translatedEnglishLine\":\"\\\"However...\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「ふんす！　ふんす！\",\"translatedEnglishLine\":\"\\\"Hunsu! Hunsu!\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　魔人！　倒す！」\",\"translatedEnglishLine\":\"\\\"Demon! I'll defeat you!\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"部屋の隅っこではセスナが\",\"translatedEnglishLine\":\"In the corner of the room, Sesna was\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"ぶんぶんハンマーを素振りしていた。\",\"translatedEnglishLine\":\"swinging a hammer vigorously.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「セスナ、すっかりうるさくなったな……」\",\"translatedEnglishLine\":\"\\\"Sesna, you've become really noisy...\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「ん！？　もう行く！？」\",\"translatedEnglishLine\":\"\\\"Hm!? Are we going already!?\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「まだ休憩中だ！」\",\"translatedEnglishLine\":\"\\\"We're still on break!\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「というか……\",\"translatedEnglishLine\":\"\\\"Or rather...\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　お前、テンション高いな」\",\"translatedEnglishLine\":\"you're really hyped up.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「こう〜〜〜……\",\"translatedEnglishLine\":\"\\\"Like this~~~...\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　なんか！　落ち着か！　ない！」\",\"translatedEnglishLine\":\"I just! can't calm down!\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「ふはぁぁぁあ！\",\"translatedEnglishLine\":\"\\\"Fuhahaaaa!\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　すごい！　楽しい！」\",\"translatedEnglishLine\":\"It's amazing! This is fun!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\".........\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「まあ、とにかく休憩中だ。\",\"translatedEnglishLine\":\"\\\"Well, anyway, we're still on break.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　お前も休みなさい」\",\"translatedEnglishLine\":\"You should rest, too.\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「休憩！　必要ない！\",\"translatedEnglishLine\":\"\\\"Break! Not needed!\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　早く早く！　ふんすふんす！」\",\"translatedEnglishLine\":\"Hurry, hurry! Hunsu hunsu!\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ええい、手を引っ張るんじゃない！\",\"translatedEnglishLine\":\"\\\"Hey, don't pull my hand!\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　お前は散歩をねだるわんわんか！」\",\"translatedEnglishLine\":\"Are you a puppy begging for a walk or something!\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「ふんすふんす！」\",\"translatedEnglishLine\":\"\\\"Hunsu hunsu!\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「ふんすふんすじゃない！」\",\"translatedEnglishLine\":\"\\\"It's not hunsu hunsu!\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「ふんすふんす！」\",\"translatedEnglishLine\":\"\\\"Hunsu hunsu!\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\".........\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「……仕方ない、そろそろ行くか」\",\"translatedEnglishLine\":\"\\\"...Can't be helped, let's head out soon.\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「あはは……そうですね……」\",\"translatedEnglishLine\":\"\\\"Ahaha... yes, that's right...\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「ふんすふんす！」\",\"translatedEnglishLine\":\"\\\"Hunsu hunsu!\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「痛い痛い、なんだお前まで。\",\"translatedEnglishLine\":\"\\\"Ouch, ouch, even you now.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　ハンマーで叩くのはやめんか」\",\"translatedEnglishLine\":\"Stop hitting me with that hammer.\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「ぷいっ！」\",\"translatedEnglishLine\":\"\\\"Pui!\\\" (pouting sound)\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「……怒ってるのか？\",\"translatedEnglishLine\":\"\\\"...Are you angry?\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　よく分からん奴め」\",\"translatedEnglishLine\":\"You’re a strange one.\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「やれやれ、疲れたっと。\",\"translatedEnglishLine\":\"\\\"Good grief, I’m tired.\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　歩き通しだったから休息はありがたいね」\",\"translatedEnglishLine\":\"I’m grateful for the break after all that walking.\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「ほんとほんとー。\",\"translatedEnglishLine\":\"\\\"Really, really.\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　おい、セスナー、休憩出来るってさー」\",\"translatedEnglishLine\":\"Hey, Sesna, we get to rest now.\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「ふんすふんす！」\",\"translatedEnglishLine\":\"\\\"Hunsu hunsu!\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「休憩！　必要！　ないです！」\",\"translatedEnglishLine\":\"\\\"Break! Not! necessary!\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「駄ー目だってー、ちゃんと休みな」\",\"translatedEnglishLine\":\"\\\"No way, you have to rest properly.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「ぶーぶー！」\",\"translatedEnglishLine\":\"\\\"Boo boo!\\\" (grumpy sound)\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「セスナ……\",\"translatedEnglishLine\":\"\\\"Sesna...\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　本当に様変わりしたな」\",\"translatedEnglishLine\":\"You've really changed, huh.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ほーんと、\",\"translatedEnglishLine\":\"\\\"Truly,\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　遊びたい盛りのガキみたいだよね」\",\"translatedEnglishLine\":\"you’re like a kid at the peak of wanting to play.\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「それに、我々にはこんな時の為の\",\"translatedEnglishLine\":\"\\\"Besides, we’ve got a trump card for times like this,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　切り札がいるのではないか」\",\"translatedEnglishLine\":\"don’t we?\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「あっ、セスナさんですね！」\",\"translatedEnglishLine\":\"\\\"Ah, it’s Sesna-san!\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「がははは！　そのとぉーーり！」\",\"translatedEnglishLine\":\"\\\"Gahahaha! Exactly!\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「来い！　覚醒セスナーーーーーッ！」\",\"translatedEnglishLine\":\"\\\"Come! Awakened Sesnaaaaa!\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\".........\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「……あれ？　セスナは？」\",\"translatedEnglishLine\":\"\\\"...Huh? Where’s Sesna?\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「ぐうーーーーーーー……」\",\"translatedEnglishLine\":\"\\\"Guuuuuuuu...\\\" (snoring sound)\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「って、寝てるではないかーーー！」\",\"translatedEnglishLine\":\"\\\"Wait, you’re sleeping!\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「……おおっ！\",\"translatedEnglishLine\":\"\\\"...Oh!\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　びっくりした……」\",\"translatedEnglishLine\":\"That surprised me...\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「うい……\",\"translatedEnglishLine\":\"\\\"Ugh...\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　セスナ・ベンビール……来ました、よ？」\",\"translatedEnglishLine\":\"Sesna Bembiru... has arrived, you know?\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "267804",
+                                "originalJapaneseLine": "「……大丈夫かなぁ」",
+                                "translatedEnglishLine": "\"...I wonder if it'll be alright.\""
+                            },
+                            {
+                                "lineNumber": "267805",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\".........\""
+                            },
+                            {
+                                "lineNumber": "267806",
+                                "originalJapaneseLine": "「しかし……」",
+                                "translatedEnglishLine": "\"However...\""
+                            },
+                            {
+                                "lineNumber": "267807",
+                                "originalJapaneseLine": "「ふんす！　ふんす！",
+                                "translatedEnglishLine": "\"Hunsu! Hunsu!\""
+                            },
+                            {
+                                "lineNumber": "267808",
+                                "originalJapaneseLine": "　魔人！　倒す！」",
+                                "translatedEnglishLine": "\"Demon! I'll defeat you!\""
+                            },
+                            {
+                                "lineNumber": "267809",
+                                "originalJapaneseLine": "部屋の隅っこではセスナが",
+                                "translatedEnglishLine": "In the corner of the room, Sesna was"
+                            },
+                            {
+                                "lineNumber": "267810",
+                                "originalJapaneseLine": "ぶんぶんハンマーを素振りしていた。",
+                                "translatedEnglishLine": "swinging a hammer vigorously."
+                            },
+                            {
+                                "lineNumber": "267811",
+                                "originalJapaneseLine": "「セスナ、すっかりうるさくなったな……」",
+                                "translatedEnglishLine": "\"Sesna, you've become really noisy...\""
+                            },
+                            {
+                                "lineNumber": "267812",
+                                "originalJapaneseLine": "「ん！？　もう行く！？」",
+                                "translatedEnglishLine": "\"Hm!? Are we going already!?\""
+                            },
+                            {
+                                "lineNumber": "267813",
+                                "originalJapaneseLine": "「まだ休憩中だ！」",
+                                "translatedEnglishLine": "\"We're still on break!\""
+                            },
+                            {
+                                "lineNumber": "267814",
+                                "originalJapaneseLine": "「というか……",
+                                "translatedEnglishLine": "\"Or rather...\""
+                            },
+                            {
+                                "lineNumber": "267815",
+                                "originalJapaneseLine": "　お前、テンション高いな」",
+                                "translatedEnglishLine": "you're really hyped up.\""
+                            },
+                            {
+                                "lineNumber": "267816",
+                                "originalJapaneseLine": "「こう〜〜〜……",
+                                "translatedEnglishLine": "\"Like this~~~...\""
+                            },
+                            {
+                                "lineNumber": "267817",
+                                "originalJapaneseLine": "　なんか！　落ち着か！　ない！」",
+                                "translatedEnglishLine": "I just! can't calm down!\""
+                            },
+                            {
+                                "lineNumber": "267818",
+                                "originalJapaneseLine": "「ふはぁぁぁあ！",
+                                "translatedEnglishLine": "\"Fuhahaaaa!\""
+                            },
+                            {
+                                "lineNumber": "267819",
+                                "originalJapaneseLine": "　すごい！　楽しい！」",
+                                "translatedEnglishLine": "It's amazing! This is fun!\""
+                            },
+                            {
+                                "lineNumber": "267820",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\".........\""
+                            },
+                            {
+                                "lineNumber": "267821",
+                                "originalJapaneseLine": "「まあ、とにかく休憩中だ。",
+                                "translatedEnglishLine": "\"Well, anyway, we're still on break."
+                            },
+                            {
+                                "lineNumber": "267822",
+                                "originalJapaneseLine": "　お前も休みなさい」",
+                                "translatedEnglishLine": "You should rest, too.\""
+                            },
+                            {
+                                "lineNumber": "267823",
+                                "originalJapaneseLine": "「休憩！　必要ない！",
+                                "translatedEnglishLine": "\"Break! Not needed!\""
+                            },
+                            {
+                                "lineNumber": "267824",
+                                "originalJapaneseLine": "　早く早く！　ふんすふんす！」",
+                                "translatedEnglishLine": "Hurry, hurry! Hunsu hunsu!\""
+                            },
+                            {
+                                "lineNumber": "267825",
+                                "originalJapaneseLine": "「ええい、手を引っ張るんじゃない！",
+                                "translatedEnglishLine": "\"Hey, don't pull my hand!"
+                            },
+                            {
+                                "lineNumber": "267826",
+                                "originalJapaneseLine": "　お前は散歩をねだるわんわんか！」",
+                                "translatedEnglishLine": "Are you a puppy begging for a walk or something!\""
+                            },
+                            {
+                                "lineNumber": "267827",
+                                "originalJapaneseLine": "「ふんすふんす！」",
+                                "translatedEnglishLine": "\"Hunsu hunsu!\""
+                            },
+                            {
+                                "lineNumber": "267828",
+                                "originalJapaneseLine": "「ふんすふんすじゃない！」",
+                                "translatedEnglishLine": "\"It's not hunsu hunsu!\""
+                            },
+                            {
+                                "lineNumber": "267829",
+                                "originalJapaneseLine": "「ふんすふんす！」",
+                                "translatedEnglishLine": "\"Hunsu hunsu!\""
+                            },
+                            {
+                                "lineNumber": "267830",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\".........\""
+                            },
+                            {
+                                "lineNumber": "267831",
+                                "originalJapaneseLine": "「……仕方ない、そろそろ行くか」",
+                                "translatedEnglishLine": "\"...Can't be helped, let's head out soon.\""
+                            },
+                            {
+                                "lineNumber": "267832",
+                                "originalJapaneseLine": "「あはは……そうですね……」",
+                                "translatedEnglishLine": "\"Ahaha... yes, that's right...\""
+                            },
+                            {
+                                "lineNumber": "267833",
+                                "originalJapaneseLine": "「ふんすふんす！」",
+                                "translatedEnglishLine": "\"Hunsu hunsu!\""
+                            },
+                            {
+                                "lineNumber": "267834",
+                                "originalJapaneseLine": "「痛い痛い、なんだお前まで。",
+                                "translatedEnglishLine": "\"Ouch, ouch, even you now."
+                            },
+                            {
+                                "lineNumber": "267835",
+                                "originalJapaneseLine": "　ハンマーで叩くのはやめんか」",
+                                "translatedEnglishLine": "Stop hitting me with that hammer.\""
+                            },
+                            {
+                                "lineNumber": "267836",
+                                "originalJapaneseLine": "「ぷいっ！」",
+                                "translatedEnglishLine": "\"Pui!\" (pouting sound)"
+                            },
+                            {
+                                "lineNumber": "267837",
+                                "originalJapaneseLine": "「……怒ってるのか？",
+                                "translatedEnglishLine": "\"...Are you angry?"
+                            },
+                            {
+                                "lineNumber": "267838",
+                                "originalJapaneseLine": "　よく分からん奴め」",
+                                "translatedEnglishLine": "You’re a strange one.\""
+                            },
+                            {
+                                "lineNumber": "267839",
+                                "originalJapaneseLine": "「やれやれ、疲れたっと。",
+                                "translatedEnglishLine": "\"Good grief, I’m tired."
+                            },
+                            {
+                                "lineNumber": "267840",
+                                "originalJapaneseLine": "　歩き通しだったから休息はありがたいね」",
+                                "translatedEnglishLine": "I’m grateful for the break after all that walking.\""
+                            },
+                            {
+                                "lineNumber": "267841",
+                                "originalJapaneseLine": "「ほんとほんとー。",
+                                "translatedEnglishLine": "\"Really, really."
+                            },
+                            {
+                                "lineNumber": "267842",
+                                "originalJapaneseLine": "　おい、セスナー、休憩出来るってさー」",
+                                "translatedEnglishLine": "Hey, Sesna, we get to rest now.\""
+                            },
+                            {
+                                "lineNumber": "267843",
+                                "originalJapaneseLine": "「ふんすふんす！」",
+                                "translatedEnglishLine": "\"Hunsu hunsu!\""
+                            },
+                            {
+                                "lineNumber": "267844",
+                                "originalJapaneseLine": "「休憩！　必要！　ないです！」",
+                                "translatedEnglishLine": "\"Break! Not! necessary!\""
+                            },
+                            {
+                                "lineNumber": "267845",
+                                "originalJapaneseLine": "「駄ー目だってー、ちゃんと休みな」",
+                                "translatedEnglishLine": "\"No way, you have to rest properly.\""
+                            },
+                            {
+                                "lineNumber": "267846",
+                                "originalJapaneseLine": "「ぶーぶー！」",
+                                "translatedEnglishLine": "\"Boo boo!\" (grumpy sound)"
+                            },
+                            {
+                                "lineNumber": "267847",
+                                "originalJapaneseLine": "「セスナ……",
+                                "translatedEnglishLine": "\"Sesna..."
+                            },
+                            {
+                                "lineNumber": "267848",
+                                "originalJapaneseLine": "　本当に様変わりしたな」",
+                                "translatedEnglishLine": "You've really changed, huh.\""
+                            },
+                            {
+                                "lineNumber": "267849",
+                                "originalJapaneseLine": "「ほーんと、",
+                                "translatedEnglishLine": "\"Truly,"
+                            },
+                            {
+                                "lineNumber": "267850",
+                                "originalJapaneseLine": "　遊びたい盛りのガキみたいだよね」",
+                                "translatedEnglishLine": "you’re like a kid at the peak of wanting to play.\""
+                            },
+                            {
+                                "lineNumber": "267851",
+                                "originalJapaneseLine": "「それに、我々にはこんな時の為の",
+                                "translatedEnglishLine": "\"Besides, we’ve got a trump card for times like this,"
+                            },
+                            {
+                                "lineNumber": "267852",
+                                "originalJapaneseLine": "　切り札がいるのではないか」",
+                                "translatedEnglishLine": "don’t we?\""
+                            },
+                            {
+                                "lineNumber": "267853",
+                                "originalJapaneseLine": "「あっ、セスナさんですね！」",
+                                "translatedEnglishLine": "\"Ah, it’s Sesna-san!\""
+                            },
+                            {
+                                "lineNumber": "267854",
+                                "originalJapaneseLine": "「がははは！　そのとぉーーり！」",
+                                "translatedEnglishLine": "\"Gahahaha! Exactly!\""
+                            },
+                            {
+                                "lineNumber": "267855",
+                                "originalJapaneseLine": "「来い！　覚醒セスナーーーーーッ！」",
+                                "translatedEnglishLine": "\"Come! Awakened Sesnaaaaa!\""
+                            },
+                            {
+                                "lineNumber": "267856",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\".........\""
+                            },
+                            {
+                                "lineNumber": "267857",
+                                "originalJapaneseLine": "「……あれ？　セスナは？」",
+                                "translatedEnglishLine": "\"...Huh? Where’s Sesna?\""
+                            },
+                            {
+                                "lineNumber": "267858",
+                                "originalJapaneseLine": "「ぐうーーーーーーー……」",
+                                "translatedEnglishLine": "\"Guuuuuuuu...\" (snoring sound)"
+                            },
+                            {
+                                "lineNumber": "267859",
+                                "originalJapaneseLine": "「って、寝てるではないかーーー！」",
+                                "translatedEnglishLine": "\"Wait, you’re sleeping!\""
+                            },
+                            {
+                                "lineNumber": "267860",
+                                "originalJapaneseLine": "「……おおっ！",
+                                "translatedEnglishLine": "\"...Oh!"
+                            },
+                            {
+                                "lineNumber": "267861",
+                                "originalJapaneseLine": "　びっくりした……」",
+                                "translatedEnglishLine": "That surprised me...\""
+                            },
+                            {
+                                "lineNumber": "267862",
+                                "originalJapaneseLine": "「うい……",
+                                "translatedEnglishLine": "\"Ugh..."
+                            },
+                            {
+                                "lineNumber": "267863",
+                                "originalJapaneseLine": "　セスナ・ベンビール……来ました、よ？」",
+                                "translatedEnglishLine": "Sesna Bembiru... has arrived, you know?\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1713,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1979,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3692
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「……大丈夫かなぁ」\",\"translatedEnglishLine\":\"\\\"...I wonder if it'll be alright.\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\".........\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「しかし……」\",\"translatedEnglishLine\":\"\\\"However...\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「ふんす！　ふんす！\",\"translatedEnglishLine\":\"\\\"Hunsu! Hunsu!\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　魔人！　倒す！」\",\"translatedEnglishLine\":\"\\\"Demon! I'll defeat you!\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"部屋の隅っこではセスナが\",\"translatedEnglishLine\":\"In the corner of the room, Sesna was\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"ぶんぶんハンマーを素振りしていた。\",\"translatedEnglishLine\":\"swinging a hammer vigorously.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「セスナ、すっかりうるさくなったな……」\",\"translatedEnglishLine\":\"\\\"Sesna, you've become really noisy...\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「ん！？　もう行く！？」\",\"translatedEnglishLine\":\"\\\"Hm!? Are we going already!?\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「まだ休憩中だ！」\",\"translatedEnglishLine\":\"\\\"We're still on break!\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「というか……\",\"translatedEnglishLine\":\"\\\"Or rather...\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　お前、テンション高いな」\",\"translatedEnglishLine\":\"you're really hyped up.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「こう〜〜〜……\",\"translatedEnglishLine\":\"\\\"Like this~~~...\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　なんか！　落ち着か！　ない！」\",\"translatedEnglishLine\":\"I just! can't calm down!\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「ふはぁぁぁあ！\",\"translatedEnglishLine\":\"\\\"Fuhahaaaa!\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　すごい！　楽しい！」\",\"translatedEnglishLine\":\"It's amazing! This is fun!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\".........\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「まあ、とにかく休憩中だ。\",\"translatedEnglishLine\":\"\\\"Well, anyway, we're still on break.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　お前も休みなさい」\",\"translatedEnglishLine\":\"You should rest, too.\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「休憩！　必要ない！\",\"translatedEnglishLine\":\"\\\"Break! Not needed!\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　早く早く！　ふんすふんす！」\",\"translatedEnglishLine\":\"Hurry, hurry! Hunsu hunsu!\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ええい、手を引っ張るんじゃない！\",\"translatedEnglishLine\":\"\\\"Hey, don't pull my hand!\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　お前は散歩をねだるわんわんか！」\",\"translatedEnglishLine\":\"Are you a puppy begging for a walk or something!\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「ふんすふんす！」\",\"translatedEnglishLine\":\"\\\"Hunsu hunsu!\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「ふんすふんすじゃない！」\",\"translatedEnglishLine\":\"\\\"It's not hunsu hunsu!\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「ふんすふんす！」\",\"translatedEnglishLine\":\"\\\"Hunsu hunsu!\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\".........\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「……仕方ない、そろそろ行くか」\",\"translatedEnglishLine\":\"\\\"...Can't be helped, let's head out soon.\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「あはは……そうですね……」\",\"translatedEnglishLine\":\"\\\"Ahaha... yes, that's right...\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「ふんすふんす！」\",\"translatedEnglishLine\":\"\\\"Hunsu hunsu!\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「痛い痛い、なんだお前まで。\",\"translatedEnglishLine\":\"\\\"Ouch, ouch, even you now.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　ハンマーで叩くのはやめんか」\",\"translatedEnglishLine\":\"Stop hitting me with that hammer.\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「ぷいっ！」\",\"translatedEnglishLine\":\"\\\"Pui!\\\" (pouting sound)\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「……怒ってるのか？\",\"translatedEnglishLine\":\"\\\"...Are you angry?\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　よく分からん奴め」\",\"translatedEnglishLine\":\"You’re a strange one.\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「やれやれ、疲れたっと。\",\"translatedEnglishLine\":\"\\\"Good grief, I’m tired.\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　歩き通しだったから休息はありがたいね」\",\"translatedEnglishLine\":\"I’m grateful for the break after all that walking.\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「ほんとほんとー。\",\"translatedEnglishLine\":\"\\\"Really, really.\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　おい、セスナー、休憩出来るってさー」\",\"translatedEnglishLine\":\"Hey, Sesna, we get to rest now.\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「ふんすふんす！」\",\"translatedEnglishLine\":\"\\\"Hunsu hunsu!\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「休憩！　必要！　ないです！」\",\"translatedEnglishLine\":\"\\\"Break! Not! necessary!\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「駄ー目だってー、ちゃんと休みな」\",\"translatedEnglishLine\":\"\\\"No way, you have to rest properly.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「ぶーぶー！」\",\"translatedEnglishLine\":\"\\\"Boo boo!\\\" (grumpy sound)\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「セスナ……\",\"translatedEnglishLine\":\"\\\"Sesna...\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　本当に様変わりしたな」\",\"translatedEnglishLine\":\"You've really changed, huh.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ほーんと、\",\"translatedEnglishLine\":\"\\\"Truly,\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　遊びたい盛りのガキみたいだよね」\",\"translatedEnglishLine\":\"you’re like a kid at the peak of wanting to play.\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「それに、我々にはこんな時の為の\",\"translatedEnglishLine\":\"\\\"Besides, we’ve got a trump card for times like this,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　切り札がいるのではないか」\",\"translatedEnglishLine\":\"don’t we?\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「あっ、セスナさんですね！」\",\"translatedEnglishLine\":\"\\\"Ah, it’s Sesna-san!\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「がははは！　そのとぉーーり！」\",\"translatedEnglishLine\":\"\\\"Gahahaha! Exactly!\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「来い！　覚醒セスナーーーーーッ！」\",\"translatedEnglishLine\":\"\\\"Come! Awakened Sesnaaaaa!\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\".........\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「……あれ？　セスナは？」\",\"translatedEnglishLine\":\"\\\"...Huh? Where’s Sesna?\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「ぐうーーーーーーー……」\",\"translatedEnglishLine\":\"\\\"Guuuuuuuu...\\\" (snoring sound)\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「って、寝てるではないかーーー！」\",\"translatedEnglishLine\":\"\\\"Wait, you’re sleeping!\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「……おおっ！\",\"translatedEnglishLine\":\"\\\"...Oh!\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　びっくりした……」\",\"translatedEnglishLine\":\"That surprised me...\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「うい……\",\"translatedEnglishLine\":\"\\\"Ugh...\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　セスナ・ベンビール……来ました、よ？」\",\"translatedEnglishLine\":\"Sesna Bembiru... has arrived, you know?\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "267804",
+                "originalJapaneseLine": "「……大丈夫かなぁ」",
+                "translatedEnglishLine": "\"...I wonder if it'll be alright.\""
+            },
+            {
+                "lineNumber": "267805",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\".........\""
+            },
+            {
+                "lineNumber": "267806",
+                "originalJapaneseLine": "「しかし……」",
+                "translatedEnglishLine": "\"However...\""
+            },
+            {
+                "lineNumber": "267807",
+                "originalJapaneseLine": "「ふんす！　ふんす！",
+                "translatedEnglishLine": "\"Hunsu! Hunsu!\""
+            },
+            {
+                "lineNumber": "267808",
+                "originalJapaneseLine": "　魔人！　倒す！」",
+                "translatedEnglishLine": "\"Demon! I'll defeat you!\""
+            },
+            {
+                "lineNumber": "267809",
+                "originalJapaneseLine": "部屋の隅っこではセスナが",
+                "translatedEnglishLine": "In the corner of the room, Sesna was"
+            },
+            {
+                "lineNumber": "267810",
+                "originalJapaneseLine": "ぶんぶんハンマーを素振りしていた。",
+                "translatedEnglishLine": "swinging a hammer vigorously."
+            },
+            {
+                "lineNumber": "267811",
+                "originalJapaneseLine": "「セスナ、すっかりうるさくなったな……」",
+                "translatedEnglishLine": "\"Sesna, you've become really noisy...\""
+            },
+            {
+                "lineNumber": "267812",
+                "originalJapaneseLine": "「ん！？　もう行く！？」",
+                "translatedEnglishLine": "\"Hm!? Are we going already!?\""
+            },
+            {
+                "lineNumber": "267813",
+                "originalJapaneseLine": "「まだ休憩中だ！」",
+                "translatedEnglishLine": "\"We're still on break!\""
+            },
+            {
+                "lineNumber": "267814",
+                "originalJapaneseLine": "「というか……",
+                "translatedEnglishLine": "\"Or rather...\""
+            },
+            {
+                "lineNumber": "267815",
+                "originalJapaneseLine": "　お前、テンション高いな」",
+                "translatedEnglishLine": "you're really hyped up.\""
+            },
+            {
+                "lineNumber": "267816",
+                "originalJapaneseLine": "「こう〜〜〜……",
+                "translatedEnglishLine": "\"Like this~~~...\""
+            },
+            {
+                "lineNumber": "267817",
+                "originalJapaneseLine": "　なんか！　落ち着か！　ない！」",
+                "translatedEnglishLine": "I just! can't calm down!\""
+            },
+            {
+                "lineNumber": "267818",
+                "originalJapaneseLine": "「ふはぁぁぁあ！",
+                "translatedEnglishLine": "\"Fuhahaaaa!\""
+            },
+            {
+                "lineNumber": "267819",
+                "originalJapaneseLine": "　すごい！　楽しい！」",
+                "translatedEnglishLine": "It's amazing! This is fun!\""
+            },
+            {
+                "lineNumber": "267820",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\".........\""
+            },
+            {
+                "lineNumber": "267821",
+                "originalJapaneseLine": "「まあ、とにかく休憩中だ。",
+                "translatedEnglishLine": "\"Well, anyway, we're still on break."
+            },
+            {
+                "lineNumber": "267822",
+                "originalJapaneseLine": "　お前も休みなさい」",
+                "translatedEnglishLine": "You should rest, too.\""
+            },
+            {
+                "lineNumber": "267823",
+                "originalJapaneseLine": "「休憩！　必要ない！",
+                "translatedEnglishLine": "\"Break! Not needed!\""
+            },
+            {
+                "lineNumber": "267824",
+                "originalJapaneseLine": "　早く早く！　ふんすふんす！」",
+                "translatedEnglishLine": "Hurry, hurry! Hunsu hunsu!\""
+            },
+            {
+                "lineNumber": "267825",
+                "originalJapaneseLine": "「ええい、手を引っ張るんじゃない！",
+                "translatedEnglishLine": "\"Hey, don't pull my hand!"
+            },
+            {
+                "lineNumber": "267826",
+                "originalJapaneseLine": "　お前は散歩をねだるわんわんか！」",
+                "translatedEnglishLine": "Are you a puppy begging for a walk or something!\""
+            },
+            {
+                "lineNumber": "267827",
+                "originalJapaneseLine": "「ふんすふんす！」",
+                "translatedEnglishLine": "\"Hunsu hunsu!\""
+            },
+            {
+                "lineNumber": "267828",
+                "originalJapaneseLine": "「ふんすふんすじゃない！」",
+                "translatedEnglishLine": "\"It's not hunsu hunsu!\""
+            },
+            {
+                "lineNumber": "267829",
+                "originalJapaneseLine": "「ふんすふんす！」",
+                "translatedEnglishLine": "\"Hunsu hunsu!\""
+            },
+            {
+                "lineNumber": "267830",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\".........\""
+            },
+            {
+                "lineNumber": "267831",
+                "originalJapaneseLine": "「……仕方ない、そろそろ行くか」",
+                "translatedEnglishLine": "\"...Can't be helped, let's head out soon.\""
+            },
+            {
+                "lineNumber": "267832",
+                "originalJapaneseLine": "「あはは……そうですね……」",
+                "translatedEnglishLine": "\"Ahaha... yes, that's right...\""
+            },
+            {
+                "lineNumber": "267833",
+                "originalJapaneseLine": "「ふんすふんす！」",
+                "translatedEnglishLine": "\"Hunsu hunsu!\""
+            },
+            {
+                "lineNumber": "267834",
+                "originalJapaneseLine": "「痛い痛い、なんだお前まで。",
+                "translatedEnglishLine": "\"Ouch, ouch, even you now."
+            },
+            {
+                "lineNumber": "267835",
+                "originalJapaneseLine": "　ハンマーで叩くのはやめんか」",
+                "translatedEnglishLine": "Stop hitting me with that hammer.\""
+            },
+            {
+                "lineNumber": "267836",
+                "originalJapaneseLine": "「ぷいっ！」",
+                "translatedEnglishLine": "\"Pui!\" (pouting sound)"
+            },
+            {
+                "lineNumber": "267837",
+                "originalJapaneseLine": "「……怒ってるのか？",
+                "translatedEnglishLine": "\"...Are you angry?"
+            },
+            {
+                "lineNumber": "267838",
+                "originalJapaneseLine": "　よく分からん奴め」",
+                "translatedEnglishLine": "You’re a strange one.\""
+            },
+            {
+                "lineNumber": "267839",
+                "originalJapaneseLine": "「やれやれ、疲れたっと。",
+                "translatedEnglishLine": "\"Good grief, I’m tired."
+            },
+            {
+                "lineNumber": "267840",
+                "originalJapaneseLine": "　歩き通しだったから休息はありがたいね」",
+                "translatedEnglishLine": "I’m grateful for the break after all that walking.\""
+            },
+            {
+                "lineNumber": "267841",
+                "originalJapaneseLine": "「ほんとほんとー。",
+                "translatedEnglishLine": "\"Really, really."
+            },
+            {
+                "lineNumber": "267842",
+                "originalJapaneseLine": "　おい、セスナー、休憩出来るってさー」",
+                "translatedEnglishLine": "Hey, Sesna, we get to rest now.\""
+            },
+            {
+                "lineNumber": "267843",
+                "originalJapaneseLine": "「ふんすふんす！」",
+                "translatedEnglishLine": "\"Hunsu hunsu!\""
+            },
+            {
+                "lineNumber": "267844",
+                "originalJapaneseLine": "「休憩！　必要！　ないです！」",
+                "translatedEnglishLine": "\"Break! Not! necessary!\""
+            },
+            {
+                "lineNumber": "267845",
+                "originalJapaneseLine": "「駄ー目だってー、ちゃんと休みな」",
+                "translatedEnglishLine": "\"No way, you have to rest properly.\""
+            },
+            {
+                "lineNumber": "267846",
+                "originalJapaneseLine": "「ぶーぶー！」",
+                "translatedEnglishLine": "\"Boo boo!\" (grumpy sound)"
+            },
+            {
+                "lineNumber": "267847",
+                "originalJapaneseLine": "「セスナ……",
+                "translatedEnglishLine": "\"Sesna..."
+            },
+            {
+                "lineNumber": "267848",
+                "originalJapaneseLine": "　本当に様変わりしたな」",
+                "translatedEnglishLine": "You've really changed, huh.\""
+            },
+            {
+                "lineNumber": "267849",
+                "originalJapaneseLine": "「ほーんと、",
+                "translatedEnglishLine": "\"Truly,"
+            },
+            {
+                "lineNumber": "267850",
+                "originalJapaneseLine": "　遊びたい盛りのガキみたいだよね」",
+                "translatedEnglishLine": "you’re like a kid at the peak of wanting to play.\""
+            },
+            {
+                "lineNumber": "267851",
+                "originalJapaneseLine": "「それに、我々にはこんな時の為の",
+                "translatedEnglishLine": "\"Besides, we’ve got a trump card for times like this,"
+            },
+            {
+                "lineNumber": "267852",
+                "originalJapaneseLine": "　切り札がいるのではないか」",
+                "translatedEnglishLine": "don’t we?\""
+            },
+            {
+                "lineNumber": "267853",
+                "originalJapaneseLine": "「あっ、セスナさんですね！」",
+                "translatedEnglishLine": "\"Ah, it’s Sesna-san!\""
+            },
+            {
+                "lineNumber": "267854",
+                "originalJapaneseLine": "「がははは！　そのとぉーーり！」",
+                "translatedEnglishLine": "\"Gahahaha! Exactly!\""
+            },
+            {
+                "lineNumber": "267855",
+                "originalJapaneseLine": "「来い！　覚醒セスナーーーーーッ！」",
+                "translatedEnglishLine": "\"Come! Awakened Sesnaaaaa!\""
+            },
+            {
+                "lineNumber": "267856",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\".........\""
+            },
+            {
+                "lineNumber": "267857",
+                "originalJapaneseLine": "「……あれ？　セスナは？」",
+                "translatedEnglishLine": "\"...Huh? Where’s Sesna?\""
+            },
+            {
+                "lineNumber": "267858",
+                "originalJapaneseLine": "「ぐうーーーーーーー……」",
+                "translatedEnglishLine": "\"Guuuuuuuu...\" (snoring sound)"
+            },
+            {
+                "lineNumber": "267859",
+                "originalJapaneseLine": "「って、寝てるではないかーーー！」",
+                "translatedEnglishLine": "\"Wait, you’re sleeping!\""
+            },
+            {
+                "lineNumber": "267860",
+                "originalJapaneseLine": "「……おおっ！",
+                "translatedEnglishLine": "\"...Oh!"
+            },
+            {
+                "lineNumber": "267861",
+                "originalJapaneseLine": "　びっくりした……」",
+                "translatedEnglishLine": "That surprised me...\""
+            },
+            {
+                "lineNumber": "267862",
+                "originalJapaneseLine": "「うい……",
+                "translatedEnglishLine": "\"Ugh..."
+            },
+            {
+                "lineNumber": "267863",
+                "originalJapaneseLine": "　セスナ・ベンビール……来ました、よ？」",
+                "translatedEnglishLine": "Sesna Bembiru... has arrived, you know?\""
+            }
+        ]
+    }
+}

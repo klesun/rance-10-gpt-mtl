@@ -1,0 +1,719 @@
+{
+    "id": "resp_00cb0dc987a74efe0068ffed1c7f7881938fc182f01ecc7962",
+    "object": "response",
+    "created_at": 1761602844,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_00cb0dc987a74efe0068ffed1d16808193969ea5b1b2d877b3",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　遊んでもらっちゃって」\",\"translatedEnglishLine\":\"Thanks for playing with me.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「なんのなんの、\",\"translatedEnglishLine\":\"Not at all,\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　鈴女も楽しかったでござるよ」\",\"translatedEnglishLine\":\"Suzume also had fun.\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「しかし……」\",\"translatedEnglishLine\":\"However...\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「ランスの子達は可愛いでござるねえ。\",\"translatedEnglishLine\":\"Rance's kids are so cute, aren't they?\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　もう、鈴女メロメロ」\",\"translatedEnglishLine\":\"I'm already head over heels.\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「ふふ……」\",\"translatedEnglishLine\":\"Hehe...\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「さて、ではそろそろ……」\",\"translatedEnglishLine\":\"Well then, it's about time...\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「おや、どっかお出かけ？」\",\"translatedEnglishLine\":\"Oh, are you going somewhere?\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「山菜採りだ。\",\"translatedEnglishLine\":\"We're going for wild vegetable gathering.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　城の近くの森でこの時期採れるのだとか。\",\"translatedEnglishLine\":\"They say you can pick some around the forest near the castle at this time of year.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　よければ来るか？」\",\"translatedEnglishLine\":\"If you like, will you come along?\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「ほうほう、面白そう。\",\"translatedEnglishLine\":\"Oh, sounds interesting.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　じゃあ行くでござるかね」\",\"translatedEnglishLine\":\"Then, shall we go?\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「でも子供達は平気？」\",\"translatedEnglishLine\":\"But what about the kids?\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「面倒なら私達で見ておきますね」\",\"translatedEnglishLine\":\"If it's troublesome, we'll watch over them.\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「かろも見るよー、任せて」\",\"translatedEnglishLine\":\"I'll watch Karo too, leave it to me.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「香様もかろも良い子でござるねー。\",\"translatedEnglishLine\":\"Both Ka-sama and Karo are good kids.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　なでなで」\",\"translatedEnglishLine\":\"*pat pat*\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「えへー」\",\"translatedEnglishLine\":\"Ehe~\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ほいほい、ピグも良い子良い子。\",\"translatedEnglishLine\":\"Alright, Pig, you’re a good boy too.\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　なでなで」\",\"translatedEnglishLine\":\"*pat pat*\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「えへー」\",\"translatedEnglishLine\":\"Ehe~\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「時には羽を伸ばすことも必要でしょうな。\",\"translatedEnglishLine\":\"Sometimes, it's necessary to stretch your wings.\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　安心して行ってきて下され」\",\"translatedEnglishLine\":\"Go with peace of mind.\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「３Ｇもなでなで」\",\"translatedEnglishLine\":\"3G also gets a pat pat.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「…………×３」\",\"translatedEnglishLine\":\"........ x3\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「なんだ、二人揃ってお出かけか？」\",\"translatedEnglishLine\":\"What, you two are going out together?\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「山菜採りに行くでござる。\",\"translatedEnglishLine\":\"We're going for wild vegetable gathering.\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　ランスも来る？」\",\"translatedEnglishLine\":\"Are you coming too, Rance?\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「行かん」\",\"translatedEnglishLine\":\"I won't go.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「俺様はこれからカルタ大会に出るのだ。\",\"translatedEnglishLine\":\"I'm going to participate in the Karuta tournament now.\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　がははは！」\",\"translatedEnglishLine\":\"Gahahaha!\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「あ、行っちゃった。\",\"translatedEnglishLine\":\"Ah, he’s gone.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　冷たいでござるねー」\",\"translatedEnglishLine\":\"So cold.\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「しかし、もう一人くらいは\",\"translatedEnglishLine\":\"But I wish there was one more person...\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　欲しいところだな……」\",\"translatedEnglishLine\":\"We could use one more...\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「ふふふー♪\",\"translatedEnglishLine\":\"Fufufu~♪\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　きょ、う、の、おやつは何かなー？」\",\"translatedEnglishLine\":\"I wonder what today's snack will be?\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「かなみ、ゲットー」\",\"translatedEnglishLine\":\"Kanami, gotcha.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「うむ」\",\"translatedEnglishLine\":\"Hmm.\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「ひいっ！？」\",\"translatedEnglishLine\":\"Eek!?\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「ななな、なんですか！？\",\"translatedEnglishLine\":\"W-What is this!?\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　二人して両側から私を捕まえて！？」\",\"translatedEnglishLine\":\"You two are grabbing me from both sides!?\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ふふふ、さあ、楽しいことをしに行こうな」\",\"translatedEnglishLine\":\"Hehehe, now, let's go have some fun.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「どこに行くかは秘密〜♪」\",\"translatedEnglishLine\":\"Where we’re going is a secret~♪\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「きゃー！？\",\"translatedEnglishLine\":\"Kyaa!?\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　嫌な予感しかしないー！」\",\"translatedEnglishLine\":\"I just have a bad feeling about this!\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「この三人でお出かけなんて、\",\"translatedEnglishLine\":\"Going out with these three,\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　懐かしいでござるねー」\",\"translatedEnglishLine\":\"feels nostalgic.\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「ああ、そうだな。\",\"translatedEnglishLine\":\"Ah, that's right.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　あれは楽しかった」\",\"translatedEnglishLine\":\"That was fun.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「今回も冒険が始まったりしてな」\",\"translatedEnglishLine\":\"Maybe another adventure will start this time too.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「いやー！\",\"translatedEnglishLine\":\"Nooo!\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　なんか不穏なこと言ってるー！？」\",\"translatedEnglishLine\":\"You're saying something ominous!?\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「なーんて冗談で言ってたら、\",\"translatedEnglishLine\":\"Just joking around when suddenly,\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　本当に迷宮で冒険が始まったの図」\",\"translatedEnglishLine\":\"an adventure really began in the labyrinth.\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「なんでー！？」\",\"translatedEnglishLine\":\"Why!?\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「その上、悪い奴らの\",\"translatedEnglishLine\":\"On top of that, bad guys'\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "268524",
+                                "originalJapaneseLine": "　遊んでもらっちゃって」",
+                                "translatedEnglishLine": "Thanks for playing with me."
+                            },
+                            {
+                                "lineNumber": "268525",
+                                "originalJapaneseLine": "「なんのなんの、",
+                                "translatedEnglishLine": "Not at all,"
+                            },
+                            {
+                                "lineNumber": "268526",
+                                "originalJapaneseLine": "　鈴女も楽しかったでござるよ」",
+                                "translatedEnglishLine": "Suzume also had fun."
+                            },
+                            {
+                                "lineNumber": "268527",
+                                "originalJapaneseLine": "「しかし……」",
+                                "translatedEnglishLine": "However..."
+                            },
+                            {
+                                "lineNumber": "268528",
+                                "originalJapaneseLine": "「ランスの子達は可愛いでござるねえ。",
+                                "translatedEnglishLine": "Rance's kids are so cute, aren't they?"
+                            },
+                            {
+                                "lineNumber": "268529",
+                                "originalJapaneseLine": "　もう、鈴女メロメロ」",
+                                "translatedEnglishLine": "I'm already head over heels."
+                            },
+                            {
+                                "lineNumber": "268530",
+                                "originalJapaneseLine": "「ふふ……」",
+                                "translatedEnglishLine": "Hehe..."
+                            },
+                            {
+                                "lineNumber": "268531",
+                                "originalJapaneseLine": "「さて、ではそろそろ……」",
+                                "translatedEnglishLine": "Well then, it's about time..."
+                            },
+                            {
+                                "lineNumber": "268532",
+                                "originalJapaneseLine": "「おや、どっかお出かけ？」",
+                                "translatedEnglishLine": "Oh, are you going somewhere?"
+                            },
+                            {
+                                "lineNumber": "268533",
+                                "originalJapaneseLine": "「山菜採りだ。",
+                                "translatedEnglishLine": "We're going for wild vegetable gathering."
+                            },
+                            {
+                                "lineNumber": "268534",
+                                "originalJapaneseLine": "　城の近くの森でこの時期採れるのだとか。",
+                                "translatedEnglishLine": "They say you can pick some around the forest near the castle at this time of year."
+                            },
+                            {
+                                "lineNumber": "268535",
+                                "originalJapaneseLine": "　よければ来るか？」",
+                                "translatedEnglishLine": "If you like, will you come along?"
+                            },
+                            {
+                                "lineNumber": "268536",
+                                "originalJapaneseLine": "「ほうほう、面白そう。",
+                                "translatedEnglishLine": "Oh, sounds interesting."
+                            },
+                            {
+                                "lineNumber": "268537",
+                                "originalJapaneseLine": "　じゃあ行くでござるかね」",
+                                "translatedEnglishLine": "Then, shall we go?"
+                            },
+                            {
+                                "lineNumber": "268538",
+                                "originalJapaneseLine": "「でも子供達は平気？」",
+                                "translatedEnglishLine": "But what about the kids?"
+                            },
+                            {
+                                "lineNumber": "268539",
+                                "originalJapaneseLine": "「面倒なら私達で見ておきますね」",
+                                "translatedEnglishLine": "If it's troublesome, we'll watch over them."
+                            },
+                            {
+                                "lineNumber": "268540",
+                                "originalJapaneseLine": "「かろも見るよー、任せて」",
+                                "translatedEnglishLine": "I'll watch Karo too, leave it to me."
+                            },
+                            {
+                                "lineNumber": "268541",
+                                "originalJapaneseLine": "「香様もかろも良い子でござるねー。",
+                                "translatedEnglishLine": "Both Ka-sama and Karo are good kids."
+                            },
+                            {
+                                "lineNumber": "268542",
+                                "originalJapaneseLine": "　なでなで」",
+                                "translatedEnglishLine": "*pat pat*"
+                            },
+                            {
+                                "lineNumber": "268543",
+                                "originalJapaneseLine": "「えへー」",
+                                "translatedEnglishLine": "Ehe~"
+                            },
+                            {
+                                "lineNumber": "268544",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "........"
+                            },
+                            {
+                                "lineNumber": "268545",
+                                "originalJapaneseLine": "「ほいほい、ピグも良い子良い子。",
+                                "translatedEnglishLine": "Alright, Pig, you’re a good boy too."
+                            },
+                            {
+                                "lineNumber": "268546",
+                                "originalJapaneseLine": "　なでなで」",
+                                "translatedEnglishLine": "*pat pat*"
+                            },
+                            {
+                                "lineNumber": "268547",
+                                "originalJapaneseLine": "「えへー」",
+                                "translatedEnglishLine": "Ehe~"
+                            },
+                            {
+                                "lineNumber": "268548",
+                                "originalJapaneseLine": "「時には羽を伸ばすことも必要でしょうな。",
+                                "translatedEnglishLine": "Sometimes, it's necessary to stretch your wings."
+                            },
+                            {
+                                "lineNumber": "268549",
+                                "originalJapaneseLine": "　安心して行ってきて下され」",
+                                "translatedEnglishLine": "Go with peace of mind."
+                            },
+                            {
+                                "lineNumber": "268550",
+                                "originalJapaneseLine": "「３Ｇもなでなで」",
+                                "translatedEnglishLine": "3G also gets a pat pat."
+                            },
+                            {
+                                "lineNumber": "268551",
+                                "originalJapaneseLine": "「…………×３」",
+                                "translatedEnglishLine": "........ x3"
+                            },
+                            {
+                                "lineNumber": "268552",
+                                "originalJapaneseLine": "「なんだ、二人揃ってお出かけか？」",
+                                "translatedEnglishLine": "What, you two are going out together?"
+                            },
+                            {
+                                "lineNumber": "268553",
+                                "originalJapaneseLine": "「山菜採りに行くでござる。",
+                                "translatedEnglishLine": "We're going for wild vegetable gathering."
+                            },
+                            {
+                                "lineNumber": "268554",
+                                "originalJapaneseLine": "　ランスも来る？」",
+                                "translatedEnglishLine": "Are you coming too, Rance?"
+                            },
+                            {
+                                "lineNumber": "268555",
+                                "originalJapaneseLine": "「行かん」",
+                                "translatedEnglishLine": "I won't go."
+                            },
+                            {
+                                "lineNumber": "268556",
+                                "originalJapaneseLine": "「俺様はこれからカルタ大会に出るのだ。",
+                                "translatedEnglishLine": "I'm going to participate in the Karuta tournament now."
+                            },
+                            {
+                                "lineNumber": "268557",
+                                "originalJapaneseLine": "　がははは！」",
+                                "translatedEnglishLine": "Gahahaha!"
+                            },
+                            {
+                                "lineNumber": "268558",
+                                "originalJapaneseLine": "「あ、行っちゃった。",
+                                "translatedEnglishLine": "Ah, he’s gone."
+                            },
+                            {
+                                "lineNumber": "268559",
+                                "originalJapaneseLine": "　冷たいでござるねー」",
+                                "translatedEnglishLine": "So cold."
+                            },
+                            {
+                                "lineNumber": "268560",
+                                "originalJapaneseLine": "「しかし、もう一人くらいは",
+                                "translatedEnglishLine": "But I wish there was one more person..."
+                            },
+                            {
+                                "lineNumber": "268561",
+                                "originalJapaneseLine": "　欲しいところだな……」",
+                                "translatedEnglishLine": "We could use one more..."
+                            },
+                            {
+                                "lineNumber": "268562",
+                                "originalJapaneseLine": "「ふふふー♪",
+                                "translatedEnglishLine": "Fufufu~♪"
+                            },
+                            {
+                                "lineNumber": "268563",
+                                "originalJapaneseLine": "　きょ、う、の、おやつは何かなー？」",
+                                "translatedEnglishLine": "I wonder what today's snack will be?"
+                            },
+                            {
+                                "lineNumber": "268564",
+                                "originalJapaneseLine": "「かなみ、ゲットー」",
+                                "translatedEnglishLine": "Kanami, gotcha."
+                            },
+                            {
+                                "lineNumber": "268565",
+                                "originalJapaneseLine": "「うむ」",
+                                "translatedEnglishLine": "Hmm."
+                            },
+                            {
+                                "lineNumber": "268566",
+                                "originalJapaneseLine": "「ひいっ！？」",
+                                "translatedEnglishLine": "Eek!?"
+                            },
+                            {
+                                "lineNumber": "268567",
+                                "originalJapaneseLine": "「ななな、なんですか！？",
+                                "translatedEnglishLine": "W-What is this!?"
+                            },
+                            {
+                                "lineNumber": "268568",
+                                "originalJapaneseLine": "　二人して両側から私を捕まえて！？」",
+                                "translatedEnglishLine": "You two are grabbing me from both sides!?"
+                            },
+                            {
+                                "lineNumber": "268569",
+                                "originalJapaneseLine": "「ふふふ、さあ、楽しいことをしに行こうな」",
+                                "translatedEnglishLine": "Hehehe, now, let's go have some fun."
+                            },
+                            {
+                                "lineNumber": "268570",
+                                "originalJapaneseLine": "「どこに行くかは秘密〜♪」",
+                                "translatedEnglishLine": "Where we’re going is a secret~♪"
+                            },
+                            {
+                                "lineNumber": "268571",
+                                "originalJapaneseLine": "「きゃー！？",
+                                "translatedEnglishLine": "Kyaa!?"
+                            },
+                            {
+                                "lineNumber": "268572",
+                                "originalJapaneseLine": "　嫌な予感しかしないー！」",
+                                "translatedEnglishLine": "I just have a bad feeling about this!"
+                            },
+                            {
+                                "lineNumber": "268573",
+                                "originalJapaneseLine": "「この三人でお出かけなんて、",
+                                "translatedEnglishLine": "Going out with these three,"
+                            },
+                            {
+                                "lineNumber": "268574",
+                                "originalJapaneseLine": "　懐かしいでござるねー」",
+                                "translatedEnglishLine": "feels nostalgic."
+                            },
+                            {
+                                "lineNumber": "268575",
+                                "originalJapaneseLine": "「ああ、そうだな。",
+                                "translatedEnglishLine": "Ah, that's right."
+                            },
+                            {
+                                "lineNumber": "268576",
+                                "originalJapaneseLine": "　あれは楽しかった」",
+                                "translatedEnglishLine": "That was fun."
+                            },
+                            {
+                                "lineNumber": "268577",
+                                "originalJapaneseLine": "「今回も冒険が始まったりしてな」",
+                                "translatedEnglishLine": "Maybe another adventure will start this time too."
+                            },
+                            {
+                                "lineNumber": "268578",
+                                "originalJapaneseLine": "「いやー！",
+                                "translatedEnglishLine": "Nooo!"
+                            },
+                            {
+                                "lineNumber": "268579",
+                                "originalJapaneseLine": "　なんか不穏なこと言ってるー！？」",
+                                "translatedEnglishLine": "You're saying something ominous!?"
+                            },
+                            {
+                                "lineNumber": "268580",
+                                "originalJapaneseLine": "「なーんて冗談で言ってたら、",
+                                "translatedEnglishLine": "Just joking around when suddenly,"
+                            },
+                            {
+                                "lineNumber": "268581",
+                                "originalJapaneseLine": "　本当に迷宮で冒険が始まったの図」",
+                                "translatedEnglishLine": "an adventure really began in the labyrinth."
+                            },
+                            {
+                                "lineNumber": "268582",
+                                "originalJapaneseLine": "「なんでー！？」",
+                                "translatedEnglishLine": "Why!?"
+                            },
+                            {
+                                "lineNumber": "268583",
+                                "originalJapaneseLine": "「その上、悪い奴らの",
+                                "translatedEnglishLine": "On top of that, bad guys'"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1710,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1878,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3588
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　遊んでもらっちゃって」\",\"translatedEnglishLine\":\"Thanks for playing with me.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「なんのなんの、\",\"translatedEnglishLine\":\"Not at all,\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　鈴女も楽しかったでござるよ」\",\"translatedEnglishLine\":\"Suzume also had fun.\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「しかし……」\",\"translatedEnglishLine\":\"However...\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「ランスの子達は可愛いでござるねえ。\",\"translatedEnglishLine\":\"Rance's kids are so cute, aren't they?\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　もう、鈴女メロメロ」\",\"translatedEnglishLine\":\"I'm already head over heels.\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「ふふ……」\",\"translatedEnglishLine\":\"Hehe...\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「さて、ではそろそろ……」\",\"translatedEnglishLine\":\"Well then, it's about time...\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「おや、どっかお出かけ？」\",\"translatedEnglishLine\":\"Oh, are you going somewhere?\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「山菜採りだ。\",\"translatedEnglishLine\":\"We're going for wild vegetable gathering.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　城の近くの森でこの時期採れるのだとか。\",\"translatedEnglishLine\":\"They say you can pick some around the forest near the castle at this time of year.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　よければ来るか？」\",\"translatedEnglishLine\":\"If you like, will you come along?\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「ほうほう、面白そう。\",\"translatedEnglishLine\":\"Oh, sounds interesting.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　じゃあ行くでござるかね」\",\"translatedEnglishLine\":\"Then, shall we go?\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「でも子供達は平気？」\",\"translatedEnglishLine\":\"But what about the kids?\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「面倒なら私達で見ておきますね」\",\"translatedEnglishLine\":\"If it's troublesome, we'll watch over them.\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「かろも見るよー、任せて」\",\"translatedEnglishLine\":\"I'll watch Karo too, leave it to me.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「香様もかろも良い子でござるねー。\",\"translatedEnglishLine\":\"Both Ka-sama and Karo are good kids.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　なでなで」\",\"translatedEnglishLine\":\"*pat pat*\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「えへー」\",\"translatedEnglishLine\":\"Ehe~\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ほいほい、ピグも良い子良い子。\",\"translatedEnglishLine\":\"Alright, Pig, you’re a good boy too.\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　なでなで」\",\"translatedEnglishLine\":\"*pat pat*\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「えへー」\",\"translatedEnglishLine\":\"Ehe~\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「時には羽を伸ばすことも必要でしょうな。\",\"translatedEnglishLine\":\"Sometimes, it's necessary to stretch your wings.\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　安心して行ってきて下され」\",\"translatedEnglishLine\":\"Go with peace of mind.\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「３Ｇもなでなで」\",\"translatedEnglishLine\":\"3G also gets a pat pat.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「…………×３」\",\"translatedEnglishLine\":\"........ x3\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「なんだ、二人揃ってお出かけか？」\",\"translatedEnglishLine\":\"What, you two are going out together?\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「山菜採りに行くでござる。\",\"translatedEnglishLine\":\"We're going for wild vegetable gathering.\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　ランスも来る？」\",\"translatedEnglishLine\":\"Are you coming too, Rance?\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「行かん」\",\"translatedEnglishLine\":\"I won't go.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「俺様はこれからカルタ大会に出るのだ。\",\"translatedEnglishLine\":\"I'm going to participate in the Karuta tournament now.\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　がははは！」\",\"translatedEnglishLine\":\"Gahahaha!\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「あ、行っちゃった。\",\"translatedEnglishLine\":\"Ah, he’s gone.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　冷たいでござるねー」\",\"translatedEnglishLine\":\"So cold.\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「しかし、もう一人くらいは\",\"translatedEnglishLine\":\"But I wish there was one more person...\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　欲しいところだな……」\",\"translatedEnglishLine\":\"We could use one more...\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「ふふふー♪\",\"translatedEnglishLine\":\"Fufufu~♪\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　きょ、う、の、おやつは何かなー？」\",\"translatedEnglishLine\":\"I wonder what today's snack will be?\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「かなみ、ゲットー」\",\"translatedEnglishLine\":\"Kanami, gotcha.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「うむ」\",\"translatedEnglishLine\":\"Hmm.\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「ひいっ！？」\",\"translatedEnglishLine\":\"Eek!?\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「ななな、なんですか！？\",\"translatedEnglishLine\":\"W-What is this!?\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　二人して両側から私を捕まえて！？」\",\"translatedEnglishLine\":\"You two are grabbing me from both sides!?\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ふふふ、さあ、楽しいことをしに行こうな」\",\"translatedEnglishLine\":\"Hehehe, now, let's go have some fun.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「どこに行くかは秘密〜♪」\",\"translatedEnglishLine\":\"Where we’re going is a secret~♪\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「きゃー！？\",\"translatedEnglishLine\":\"Kyaa!?\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　嫌な予感しかしないー！」\",\"translatedEnglishLine\":\"I just have a bad feeling about this!\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「この三人でお出かけなんて、\",\"translatedEnglishLine\":\"Going out with these three,\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　懐かしいでござるねー」\",\"translatedEnglishLine\":\"feels nostalgic.\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「ああ、そうだな。\",\"translatedEnglishLine\":\"Ah, that's right.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　あれは楽しかった」\",\"translatedEnglishLine\":\"That was fun.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「今回も冒険が始まったりしてな」\",\"translatedEnglishLine\":\"Maybe another adventure will start this time too.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「いやー！\",\"translatedEnglishLine\":\"Nooo!\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　なんか不穏なこと言ってるー！？」\",\"translatedEnglishLine\":\"You're saying something ominous!?\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「なーんて冗談で言ってたら、\",\"translatedEnglishLine\":\"Just joking around when suddenly,\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　本当に迷宮で冒険が始まったの図」\",\"translatedEnglishLine\":\"an adventure really began in the labyrinth.\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「なんでー！？」\",\"translatedEnglishLine\":\"Why!?\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「その上、悪い奴らの\",\"translatedEnglishLine\":\"On top of that, bad guys'\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "268524",
+                "originalJapaneseLine": "　遊んでもらっちゃって」",
+                "translatedEnglishLine": "Thanks for playing with me."
+            },
+            {
+                "lineNumber": "268525",
+                "originalJapaneseLine": "「なんのなんの、",
+                "translatedEnglishLine": "Not at all,"
+            },
+            {
+                "lineNumber": "268526",
+                "originalJapaneseLine": "　鈴女も楽しかったでござるよ」",
+                "translatedEnglishLine": "Suzume also had fun."
+            },
+            {
+                "lineNumber": "268527",
+                "originalJapaneseLine": "「しかし……」",
+                "translatedEnglishLine": "However..."
+            },
+            {
+                "lineNumber": "268528",
+                "originalJapaneseLine": "「ランスの子達は可愛いでござるねえ。",
+                "translatedEnglishLine": "Rance's kids are so cute, aren't they?"
+            },
+            {
+                "lineNumber": "268529",
+                "originalJapaneseLine": "　もう、鈴女メロメロ」",
+                "translatedEnglishLine": "I'm already head over heels."
+            },
+            {
+                "lineNumber": "268530",
+                "originalJapaneseLine": "「ふふ……」",
+                "translatedEnglishLine": "Hehe..."
+            },
+            {
+                "lineNumber": "268531",
+                "originalJapaneseLine": "「さて、ではそろそろ……」",
+                "translatedEnglishLine": "Well then, it's about time..."
+            },
+            {
+                "lineNumber": "268532",
+                "originalJapaneseLine": "「おや、どっかお出かけ？」",
+                "translatedEnglishLine": "Oh, are you going somewhere?"
+            },
+            {
+                "lineNumber": "268533",
+                "originalJapaneseLine": "「山菜採りだ。",
+                "translatedEnglishLine": "We're going for wild vegetable gathering."
+            },
+            {
+                "lineNumber": "268534",
+                "originalJapaneseLine": "　城の近くの森でこの時期採れるのだとか。",
+                "translatedEnglishLine": "They say you can pick some around the forest near the castle at this time of year."
+            },
+            {
+                "lineNumber": "268535",
+                "originalJapaneseLine": "　よければ来るか？」",
+                "translatedEnglishLine": "If you like, will you come along?"
+            },
+            {
+                "lineNumber": "268536",
+                "originalJapaneseLine": "「ほうほう、面白そう。",
+                "translatedEnglishLine": "Oh, sounds interesting."
+            },
+            {
+                "lineNumber": "268537",
+                "originalJapaneseLine": "　じゃあ行くでござるかね」",
+                "translatedEnglishLine": "Then, shall we go?"
+            },
+            {
+                "lineNumber": "268538",
+                "originalJapaneseLine": "「でも子供達は平気？」",
+                "translatedEnglishLine": "But what about the kids?"
+            },
+            {
+                "lineNumber": "268539",
+                "originalJapaneseLine": "「面倒なら私達で見ておきますね」",
+                "translatedEnglishLine": "If it's troublesome, we'll watch over them."
+            },
+            {
+                "lineNumber": "268540",
+                "originalJapaneseLine": "「かろも見るよー、任せて」",
+                "translatedEnglishLine": "I'll watch Karo too, leave it to me."
+            },
+            {
+                "lineNumber": "268541",
+                "originalJapaneseLine": "「香様もかろも良い子でござるねー。",
+                "translatedEnglishLine": "Both Ka-sama and Karo are good kids."
+            },
+            {
+                "lineNumber": "268542",
+                "originalJapaneseLine": "　なでなで」",
+                "translatedEnglishLine": "*pat pat*"
+            },
+            {
+                "lineNumber": "268543",
+                "originalJapaneseLine": "「えへー」",
+                "translatedEnglishLine": "Ehe~"
+            },
+            {
+                "lineNumber": "268544",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": "268545",
+                "originalJapaneseLine": "「ほいほい、ピグも良い子良い子。",
+                "translatedEnglishLine": "Alright, Pig, you’re a good boy too."
+            },
+            {
+                "lineNumber": "268546",
+                "originalJapaneseLine": "　なでなで」",
+                "translatedEnglishLine": "*pat pat*"
+            },
+            {
+                "lineNumber": "268547",
+                "originalJapaneseLine": "「えへー」",
+                "translatedEnglishLine": "Ehe~"
+            },
+            {
+                "lineNumber": "268548",
+                "originalJapaneseLine": "「時には羽を伸ばすことも必要でしょうな。",
+                "translatedEnglishLine": "Sometimes, it's necessary to stretch your wings."
+            },
+            {
+                "lineNumber": "268549",
+                "originalJapaneseLine": "　安心して行ってきて下され」",
+                "translatedEnglishLine": "Go with peace of mind."
+            },
+            {
+                "lineNumber": "268550",
+                "originalJapaneseLine": "「３Ｇもなでなで」",
+                "translatedEnglishLine": "3G also gets a pat pat."
+            },
+            {
+                "lineNumber": "268551",
+                "originalJapaneseLine": "「…………×３」",
+                "translatedEnglishLine": "........ x3"
+            },
+            {
+                "lineNumber": "268552",
+                "originalJapaneseLine": "「なんだ、二人揃ってお出かけか？」",
+                "translatedEnglishLine": "What, you two are going out together?"
+            },
+            {
+                "lineNumber": "268553",
+                "originalJapaneseLine": "「山菜採りに行くでござる。",
+                "translatedEnglishLine": "We're going for wild vegetable gathering."
+            },
+            {
+                "lineNumber": "268554",
+                "originalJapaneseLine": "　ランスも来る？」",
+                "translatedEnglishLine": "Are you coming too, Rance?"
+            },
+            {
+                "lineNumber": "268555",
+                "originalJapaneseLine": "「行かん」",
+                "translatedEnglishLine": "I won't go."
+            },
+            {
+                "lineNumber": "268556",
+                "originalJapaneseLine": "「俺様はこれからカルタ大会に出るのだ。",
+                "translatedEnglishLine": "I'm going to participate in the Karuta tournament now."
+            },
+            {
+                "lineNumber": "268557",
+                "originalJapaneseLine": "　がははは！」",
+                "translatedEnglishLine": "Gahahaha!"
+            },
+            {
+                "lineNumber": "268558",
+                "originalJapaneseLine": "「あ、行っちゃった。",
+                "translatedEnglishLine": "Ah, he’s gone."
+            },
+            {
+                "lineNumber": "268559",
+                "originalJapaneseLine": "　冷たいでござるねー」",
+                "translatedEnglishLine": "So cold."
+            },
+            {
+                "lineNumber": "268560",
+                "originalJapaneseLine": "「しかし、もう一人くらいは",
+                "translatedEnglishLine": "But I wish there was one more person..."
+            },
+            {
+                "lineNumber": "268561",
+                "originalJapaneseLine": "　欲しいところだな……」",
+                "translatedEnglishLine": "We could use one more..."
+            },
+            {
+                "lineNumber": "268562",
+                "originalJapaneseLine": "「ふふふー♪",
+                "translatedEnglishLine": "Fufufu~♪"
+            },
+            {
+                "lineNumber": "268563",
+                "originalJapaneseLine": "　きょ、う、の、おやつは何かなー？」",
+                "translatedEnglishLine": "I wonder what today's snack will be?"
+            },
+            {
+                "lineNumber": "268564",
+                "originalJapaneseLine": "「かなみ、ゲットー」",
+                "translatedEnglishLine": "Kanami, gotcha."
+            },
+            {
+                "lineNumber": "268565",
+                "originalJapaneseLine": "「うむ」",
+                "translatedEnglishLine": "Hmm."
+            },
+            {
+                "lineNumber": "268566",
+                "originalJapaneseLine": "「ひいっ！？」",
+                "translatedEnglishLine": "Eek!?"
+            },
+            {
+                "lineNumber": "268567",
+                "originalJapaneseLine": "「ななな、なんですか！？",
+                "translatedEnglishLine": "W-What is this!?"
+            },
+            {
+                "lineNumber": "268568",
+                "originalJapaneseLine": "　二人して両側から私を捕まえて！？」",
+                "translatedEnglishLine": "You two are grabbing me from both sides!?"
+            },
+            {
+                "lineNumber": "268569",
+                "originalJapaneseLine": "「ふふふ、さあ、楽しいことをしに行こうな」",
+                "translatedEnglishLine": "Hehehe, now, let's go have some fun."
+            },
+            {
+                "lineNumber": "268570",
+                "originalJapaneseLine": "「どこに行くかは秘密〜♪」",
+                "translatedEnglishLine": "Where we’re going is a secret~♪"
+            },
+            {
+                "lineNumber": "268571",
+                "originalJapaneseLine": "「きゃー！？",
+                "translatedEnglishLine": "Kyaa!?"
+            },
+            {
+                "lineNumber": "268572",
+                "originalJapaneseLine": "　嫌な予感しかしないー！」",
+                "translatedEnglishLine": "I just have a bad feeling about this!"
+            },
+            {
+                "lineNumber": "268573",
+                "originalJapaneseLine": "「この三人でお出かけなんて、",
+                "translatedEnglishLine": "Going out with these three,"
+            },
+            {
+                "lineNumber": "268574",
+                "originalJapaneseLine": "　懐かしいでござるねー」",
+                "translatedEnglishLine": "feels nostalgic."
+            },
+            {
+                "lineNumber": "268575",
+                "originalJapaneseLine": "「ああ、そうだな。",
+                "translatedEnglishLine": "Ah, that's right."
+            },
+            {
+                "lineNumber": "268576",
+                "originalJapaneseLine": "　あれは楽しかった」",
+                "translatedEnglishLine": "That was fun."
+            },
+            {
+                "lineNumber": "268577",
+                "originalJapaneseLine": "「今回も冒険が始まったりしてな」",
+                "translatedEnglishLine": "Maybe another adventure will start this time too."
+            },
+            {
+                "lineNumber": "268578",
+                "originalJapaneseLine": "「いやー！",
+                "translatedEnglishLine": "Nooo!"
+            },
+            {
+                "lineNumber": "268579",
+                "originalJapaneseLine": "　なんか不穏なこと言ってるー！？」",
+                "translatedEnglishLine": "You're saying something ominous!?"
+            },
+            {
+                "lineNumber": "268580",
+                "originalJapaneseLine": "「なーんて冗談で言ってたら、",
+                "translatedEnglishLine": "Just joking around when suddenly,"
+            },
+            {
+                "lineNumber": "268581",
+                "originalJapaneseLine": "　本当に迷宮で冒険が始まったの図」",
+                "translatedEnglishLine": "an adventure really began in the labyrinth."
+            },
+            {
+                "lineNumber": "268582",
+                "originalJapaneseLine": "「なんでー！？」",
+                "translatedEnglishLine": "Why!?"
+            },
+            {
+                "lineNumber": "268583",
+                "originalJapaneseLine": "「その上、悪い奴らの",
+                "translatedEnglishLine": "On top of that, bad guys'"
+            }
+        ]
+    }
+}

@@ -1,0 +1,719 @@
+{
+    "id": "resp_0a207cd93dc66b820068ffecfe776881959ad31e73fdeb49db",
+    "object": "response",
+    "created_at": 1761602814,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0a207cd93dc66b820068ffecfef5d48195ad7ec9e2937bd07c",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"ピカー。\",\"translatedEnglishLine\":\"*Sparkle.*\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「――というわけです」\",\"translatedEnglishLine\":\"\\\"—And that's why.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「なんで合体しちゃったのかしら」\",\"translatedEnglishLine\":\"\\\"I wonder why they ended up combining.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「君達はなにをしてるんだ、まったく」\",\"translatedEnglishLine\":\"\\\"What are you two doing, seriously?\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「まあ、そんなことはどうでもいいか」\",\"translatedEnglishLine\":\"\\\"Well, that doesn't really matter.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「元に戻ったなら、やるぞ！」\",\"translatedEnglishLine\":\"\\\"Now that we're back to normal, let's do this!\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　　＜じゃきーーーん　ぺしーーん＞\",\"translatedEnglishLine\":\"*<Shing——slash—>*\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"ランスのハイパー兵器は、\",\"translatedEnglishLine\":\"Lance's hyper weapon was\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"あっという間に臨戦態勢。\",\"translatedEnglishLine\":\"instantly ready for battle.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「きゃーー！\",\"translatedEnglishLine\":\"\\\"Kyaaa!\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　ちょ、なに見せてるのよー！」\",\"translatedEnglishLine\":\"\\\"Hey, what are you showing me!?\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「ら、ランス総統！？」\",\"translatedEnglishLine\":\"\\\"L-Lance Supreme Commander!?\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「さっきから手出し出来なくて、\",\"translatedEnglishLine\":\"\\\"I haven't been able to make a move until now,\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　俺様のハイパー兵器もはち切れんばかり！」\",\"translatedEnglishLine\":\"my hyper weapon is about to burst!\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「さー、三人で楽しもうではないか！\",\"translatedEnglishLine\":\"\\\"Alright, let's enjoy ourselves as three!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　がははははははは！」\",\"translatedEnglishLine\":\"\\\"Gahahahahahaha!\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「ぎゃー！　来るなー！」\",\"translatedEnglishLine\":\"\\\"Gyah! Don't come closer!\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ああっ、さ、触らないで……！」\",\"translatedEnglishLine\":\"\\\"Ah, d-don't touch me...!\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"という感じで、\",\"translatedEnglishLine\":\"And like that,\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"ランスは姉妹丼をたっぷり楽しんだ。\",\"translatedEnglishLine\":\"Lance thoroughly enjoyed the sister trio.\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ににんにん。\",\"translatedEnglishLine\":\"\\\"Ninin-nin.\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　鈴女転校生」\",\"translatedEnglishLine\":\"Suzume the transfer student.\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「にんにんとうっ！\",\"translatedEnglishLine\":\"\\\"Nin nin too!\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　しゅたーんしゅたーん！」\",\"translatedEnglishLine\":\"Shutaan shutaan!\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「きゃーきゃーきゃー！」\",\"translatedEnglishLine\":\"\\\"Kyaa kyaa kyaa!\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「速いはやーーーい！\",\"translatedEnglishLine\":\"\\\"So fast, fast!!!\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　あははははははは！」\",\"translatedEnglishLine\":\"\\\"Ahahahahahaha!\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「にょほほ、元気いっぱいなリセットに、\",\"translatedEnglishLine\":\"\\\"Nyohhoho, lively Reset,\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　ナギまで加わって賑やかでござるな〜」\",\"translatedEnglishLine\":\"and even Nagi has joined, it's lively indeed~\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"しゅたーんしゅたーんと、\",\"translatedEnglishLine\":\"With a 'shutaan shutaan' sound,\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"鈴女がリセットとナギをおんぶして\",\"translatedEnglishLine\":\"Suzume piggybacked Reset and Nagi\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"城内を走り回っていた。\",\"translatedEnglishLine\":\"and was running around the castle.\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「ねーねー、もっと速く！　もっと速くー！」\",\"translatedEnglishLine\":\"\\\"Hey hey, faster! Faster!\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「危ないから駄目ー」\",\"translatedEnglishLine\":\"\\\"No, it's dangerous!\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「ぶー」\",\"translatedEnglishLine\":\"\\\"Boo.\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「きゃああっ！？　あ、危ない！？」\",\"translatedEnglishLine\":\"\\\"Kyaaa!? Ah, that was dangerous!?\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「おーっと、ににんにーん☆」\",\"translatedEnglishLine\":\"\\\"Oh! Ninin-neen☆\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"鈴女はクリームとぶつかりそうなところを、\",\"translatedEnglishLine\":\"Suzume was about to collide with Cream,\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"くるーんと前方抱え込み二回宙返りを\",\"translatedEnglishLine\":\"and with a spin and a forward tuck, performed two somersaults\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"しゅたっと決めて避けた。\",\"translatedEnglishLine\":\"landing neatly to avoid the collision.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「にん、ギリギリセーフ」\",\"translatedEnglishLine\":\"\\\"Nin, just barely safe.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「セーフじゃありません！\",\"translatedEnglishLine\":\"\\\"That's not safe!\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　鈴女さん、廊下は走らない！」\",\"translatedEnglishLine\":\"Miss Suzume, don't run in the hallway!\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「やべ、逃げるでござる。\",\"translatedEnglishLine\":\"\\\"Uh oh, gotta run away.\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　ばいばいきーん」\",\"translatedEnglishLine\":\"Bye-bye-keen!\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「あっ、コラ―！」\",\"translatedEnglishLine\":\"\\\"Ah, hey!\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「ほい、たっだいまーでござる」\",\"translatedEnglishLine\":\"\\\"Hey, I'm back!\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「たっだいまー！」\",\"translatedEnglishLine\":\"\\\"I'm back!\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「おやおや、元気いっぱいだな」\",\"translatedEnglishLine\":\"\\\"Oh my, full of energy.\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「あのね、あのね、すごかったの！\",\"translatedEnglishLine\":\"\\\"You know, you know, it was amazing!\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　100歩で城のまわりを散歩するって！\",\"translatedEnglishLine\":\"They said they'd take a walk around the castle in 100 steps!\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　ね！　ナギちゃん！」\",\"translatedEnglishLine\":\"Right! Nagi-chan!\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「そうそう！　一歩一歩がすごいの！\",\"translatedEnglishLine\":\"\\\"Yeah, yeah! Each step is amazing!\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　私とリセット、おんぶしたまま、\",\"translatedEnglishLine\":\"With me and Reset still piggybacked,\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　ビューン！　ビューン！　って！」\",\"translatedEnglishLine\":\"Zoom! Zoom! Like that!\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「そうか。\",\"translatedEnglishLine\":\"\\\"Is that so.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　ところで二人とも、牛乳飲むか？」\",\"translatedEnglishLine\":\"By the way, do you two want to drink some milk?\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「飲むー！」\",\"translatedEnglishLine\":\"\\\"Yes, we want some!\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「ありがとうございます、鈴女さん。\",\"translatedEnglishLine\":\"\\\"Thank you very much, Suzume.\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "268464",
+                                "originalJapaneseLine": "ピカー。",
+                                "translatedEnglishLine": "*Sparkle.*"
+                            },
+                            {
+                                "lineNumber": "268465",
+                                "originalJapaneseLine": "「――というわけです」",
+                                "translatedEnglishLine": "\"—And that's why.\""
+                            },
+                            {
+                                "lineNumber": "268466",
+                                "originalJapaneseLine": "「なんで合体しちゃったのかしら」",
+                                "translatedEnglishLine": "\"I wonder why they ended up combining.\""
+                            },
+                            {
+                                "lineNumber": "268467",
+                                "originalJapaneseLine": "「君達はなにをしてるんだ、まったく」",
+                                "translatedEnglishLine": "\"What are you two doing, seriously?\""
+                            },
+                            {
+                                "lineNumber": "268468",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "268469",
+                                "originalJapaneseLine": "「まあ、そんなことはどうでもいいか」",
+                                "translatedEnglishLine": "\"Well, that doesn't really matter.\""
+                            },
+                            {
+                                "lineNumber": "268470",
+                                "originalJapaneseLine": "「元に戻ったなら、やるぞ！」",
+                                "translatedEnglishLine": "\"Now that we're back to normal, let's do this!\""
+                            },
+                            {
+                                "lineNumber": "268471",
+                                "originalJapaneseLine": "　　＜じゃきーーーん　ぺしーーん＞",
+                                "translatedEnglishLine": "*<Shing——slash—>*"
+                            },
+                            {
+                                "lineNumber": "268472",
+                                "originalJapaneseLine": "ランスのハイパー兵器は、",
+                                "translatedEnglishLine": "Lance's hyper weapon was"
+                            },
+                            {
+                                "lineNumber": "268473",
+                                "originalJapaneseLine": "あっという間に臨戦態勢。",
+                                "translatedEnglishLine": "instantly ready for battle."
+                            },
+                            {
+                                "lineNumber": "268474",
+                                "originalJapaneseLine": "「きゃーー！",
+                                "translatedEnglishLine": "\"Kyaaa!\""
+                            },
+                            {
+                                "lineNumber": "268475",
+                                "originalJapaneseLine": "　ちょ、なに見せてるのよー！」",
+                                "translatedEnglishLine": "\"Hey, what are you showing me!?\""
+                            },
+                            {
+                                "lineNumber": "268476",
+                                "originalJapaneseLine": "「ら、ランス総統！？」",
+                                "translatedEnglishLine": "\"L-Lance Supreme Commander!?\""
+                            },
+                            {
+                                "lineNumber": "268477",
+                                "originalJapaneseLine": "「さっきから手出し出来なくて、",
+                                "translatedEnglishLine": "\"I haven't been able to make a move until now,"
+                            },
+                            {
+                                "lineNumber": "268478",
+                                "originalJapaneseLine": "　俺様のハイパー兵器もはち切れんばかり！」",
+                                "translatedEnglishLine": "my hyper weapon is about to burst!\""
+                            },
+                            {
+                                "lineNumber": "268479",
+                                "originalJapaneseLine": "「さー、三人で楽しもうではないか！",
+                                "translatedEnglishLine": "\"Alright, let's enjoy ourselves as three!\""
+                            },
+                            {
+                                "lineNumber": "268480",
+                                "originalJapaneseLine": "　がははははははは！」",
+                                "translatedEnglishLine": "\"Gahahahahahaha!\""
+                            },
+                            {
+                                "lineNumber": "268481",
+                                "originalJapaneseLine": "「ぎゃー！　来るなー！」",
+                                "translatedEnglishLine": "\"Gyah! Don't come closer!\""
+                            },
+                            {
+                                "lineNumber": "268482",
+                                "originalJapaneseLine": "「ああっ、さ、触らないで……！」",
+                                "translatedEnglishLine": "\"Ah, d-don't touch me...!\""
+                            },
+                            {
+                                "lineNumber": "268483",
+                                "originalJapaneseLine": "という感じで、",
+                                "translatedEnglishLine": "And like that,"
+                            },
+                            {
+                                "lineNumber": "268484",
+                                "originalJapaneseLine": "ランスは姉妹丼をたっぷり楽しんだ。",
+                                "translatedEnglishLine": "Lance thoroughly enjoyed the sister trio."
+                            },
+                            {
+                                "lineNumber": "268485",
+                                "originalJapaneseLine": "「ににんにん。",
+                                "translatedEnglishLine": "\"Ninin-nin."
+                            },
+                            {
+                                "lineNumber": "268486",
+                                "originalJapaneseLine": "　鈴女転校生」",
+                                "translatedEnglishLine": "Suzume the transfer student.\""
+                            },
+                            {
+                                "lineNumber": "268487",
+                                "originalJapaneseLine": "「にんにんとうっ！",
+                                "translatedEnglishLine": "\"Nin nin too!"
+                            },
+                            {
+                                "lineNumber": "268488",
+                                "originalJapaneseLine": "　しゅたーんしゅたーん！」",
+                                "translatedEnglishLine": "Shutaan shutaan!\""
+                            },
+                            {
+                                "lineNumber": "268489",
+                                "originalJapaneseLine": "「きゃーきゃーきゃー！」",
+                                "translatedEnglishLine": "\"Kyaa kyaa kyaa!\""
+                            },
+                            {
+                                "lineNumber": "268490",
+                                "originalJapaneseLine": "「速いはやーーーい！",
+                                "translatedEnglishLine": "\"So fast, fast!!!\""
+                            },
+                            {
+                                "lineNumber": "268491",
+                                "originalJapaneseLine": "　あははははははは！」",
+                                "translatedEnglishLine": "\"Ahahahahahaha!\""
+                            },
+                            {
+                                "lineNumber": "268492",
+                                "originalJapaneseLine": "「にょほほ、元気いっぱいなリセットに、",
+                                "translatedEnglishLine": "\"Nyohhoho, lively Reset,"
+                            },
+                            {
+                                "lineNumber": "268493",
+                                "originalJapaneseLine": "　ナギまで加わって賑やかでござるな〜」",
+                                "translatedEnglishLine": "and even Nagi has joined, it's lively indeed~\""
+                            },
+                            {
+                                "lineNumber": "268494",
+                                "originalJapaneseLine": "しゅたーんしゅたーんと、",
+                                "translatedEnglishLine": "With a 'shutaan shutaan' sound,"
+                            },
+                            {
+                                "lineNumber": "268495",
+                                "originalJapaneseLine": "鈴女がリセットとナギをおんぶして",
+                                "translatedEnglishLine": "Suzume piggybacked Reset and Nagi"
+                            },
+                            {
+                                "lineNumber": "268496",
+                                "originalJapaneseLine": "城内を走り回っていた。",
+                                "translatedEnglishLine": "and was running around the castle."
+                            },
+                            {
+                                "lineNumber": "268497",
+                                "originalJapaneseLine": "「ねーねー、もっと速く！　もっと速くー！」",
+                                "translatedEnglishLine": "\"Hey hey, faster! Faster!\""
+                            },
+                            {
+                                "lineNumber": "268498",
+                                "originalJapaneseLine": "「危ないから駄目ー」",
+                                "translatedEnglishLine": "\"No, it's dangerous!\""
+                            },
+                            {
+                                "lineNumber": "268499",
+                                "originalJapaneseLine": "「ぶー」",
+                                "translatedEnglishLine": "\"Boo.\""
+                            },
+                            {
+                                "lineNumber": "268500",
+                                "originalJapaneseLine": "「きゃああっ！？　あ、危ない！？」",
+                                "translatedEnglishLine": "\"Kyaaa!? Ah, that was dangerous!?\""
+                            },
+                            {
+                                "lineNumber": "268501",
+                                "originalJapaneseLine": "「おーっと、ににんにーん☆」",
+                                "translatedEnglishLine": "\"Oh! Ninin-neen☆\""
+                            },
+                            {
+                                "lineNumber": "268502",
+                                "originalJapaneseLine": "鈴女はクリームとぶつかりそうなところを、",
+                                "translatedEnglishLine": "Suzume was about to collide with Cream,"
+                            },
+                            {
+                                "lineNumber": "268503",
+                                "originalJapaneseLine": "くるーんと前方抱え込み二回宙返りを",
+                                "translatedEnglishLine": "and with a spin and a forward tuck, performed two somersaults"
+                            },
+                            {
+                                "lineNumber": "268504",
+                                "originalJapaneseLine": "しゅたっと決めて避けた。",
+                                "translatedEnglishLine": "landing neatly to avoid the collision."
+                            },
+                            {
+                                "lineNumber": "268505",
+                                "originalJapaneseLine": "「にん、ギリギリセーフ」",
+                                "translatedEnglishLine": "\"Nin, just barely safe.\""
+                            },
+                            {
+                                "lineNumber": "268506",
+                                "originalJapaneseLine": "「セーフじゃありません！",
+                                "translatedEnglishLine": "\"That's not safe!\""
+                            },
+                            {
+                                "lineNumber": "268507",
+                                "originalJapaneseLine": "　鈴女さん、廊下は走らない！」",
+                                "translatedEnglishLine": "Miss Suzume, don't run in the hallway!\""
+                            },
+                            {
+                                "lineNumber": "268508",
+                                "originalJapaneseLine": "「やべ、逃げるでござる。",
+                                "translatedEnglishLine": "\"Uh oh, gotta run away."
+                            },
+                            {
+                                "lineNumber": "268509",
+                                "originalJapaneseLine": "　ばいばいきーん」",
+                                "translatedEnglishLine": "Bye-bye-keen!\""
+                            },
+                            {
+                                "lineNumber": "268510",
+                                "originalJapaneseLine": "「あっ、コラ―！」",
+                                "translatedEnglishLine": "\"Ah, hey!\""
+                            },
+                            {
+                                "lineNumber": "268511",
+                                "originalJapaneseLine": "「ほい、たっだいまーでござる」",
+                                "translatedEnglishLine": "\"Hey, I'm back!\""
+                            },
+                            {
+                                "lineNumber": "268512",
+                                "originalJapaneseLine": "「たっだいまー！」",
+                                "translatedEnglishLine": "\"I'm back!\""
+                            },
+                            {
+                                "lineNumber": "268513",
+                                "originalJapaneseLine": "「おやおや、元気いっぱいだな」",
+                                "translatedEnglishLine": "\"Oh my, full of energy.\""
+                            },
+                            {
+                                "lineNumber": "268514",
+                                "originalJapaneseLine": "「あのね、あのね、すごかったの！",
+                                "translatedEnglishLine": "\"You know, you know, it was amazing!"
+                            },
+                            {
+                                "lineNumber": "268515",
+                                "originalJapaneseLine": "　100歩で城のまわりを散歩するって！",
+                                "translatedEnglishLine": "They said they'd take a walk around the castle in 100 steps!"
+                            },
+                            {
+                                "lineNumber": "268516",
+                                "originalJapaneseLine": "　ね！　ナギちゃん！」",
+                                "translatedEnglishLine": "Right! Nagi-chan!\""
+                            },
+                            {
+                                "lineNumber": "268517",
+                                "originalJapaneseLine": "「そうそう！　一歩一歩がすごいの！",
+                                "translatedEnglishLine": "\"Yeah, yeah! Each step is amazing!"
+                            },
+                            {
+                                "lineNumber": "268518",
+                                "originalJapaneseLine": "　私とリセット、おんぶしたまま、",
+                                "translatedEnglishLine": "With me and Reset still piggybacked,"
+                            },
+                            {
+                                "lineNumber": "268519",
+                                "originalJapaneseLine": "　ビューン！　ビューン！　って！」",
+                                "translatedEnglishLine": "Zoom! Zoom! Like that!\""
+                            },
+                            {
+                                "lineNumber": "268520",
+                                "originalJapaneseLine": "「そうか。",
+                                "translatedEnglishLine": "\"Is that so."
+                            },
+                            {
+                                "lineNumber": "268521",
+                                "originalJapaneseLine": "　ところで二人とも、牛乳飲むか？」",
+                                "translatedEnglishLine": "By the way, do you two want to drink some milk?\""
+                            },
+                            {
+                                "lineNumber": "268522",
+                                "originalJapaneseLine": "「飲むー！」",
+                                "translatedEnglishLine": "\"Yes, we want some!\""
+                            },
+                            {
+                                "lineNumber": "268523",
+                                "originalJapaneseLine": "「ありがとうございます、鈴女さん。",
+                                "translatedEnglishLine": "\"Thank you very much, Suzume.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1786,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2063,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3849
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"ピカー。\",\"translatedEnglishLine\":\"*Sparkle.*\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「――というわけです」\",\"translatedEnglishLine\":\"\\\"—And that's why.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「なんで合体しちゃったのかしら」\",\"translatedEnglishLine\":\"\\\"I wonder why they ended up combining.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「君達はなにをしてるんだ、まったく」\",\"translatedEnglishLine\":\"\\\"What are you two doing, seriously?\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「まあ、そんなことはどうでもいいか」\",\"translatedEnglishLine\":\"\\\"Well, that doesn't really matter.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「元に戻ったなら、やるぞ！」\",\"translatedEnglishLine\":\"\\\"Now that we're back to normal, let's do this!\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　　＜じゃきーーーん　ぺしーーん＞\",\"translatedEnglishLine\":\"*<Shing——slash—>*\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"ランスのハイパー兵器は、\",\"translatedEnglishLine\":\"Lance's hyper weapon was\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"あっという間に臨戦態勢。\",\"translatedEnglishLine\":\"instantly ready for battle.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「きゃーー！\",\"translatedEnglishLine\":\"\\\"Kyaaa!\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"　ちょ、なに見せてるのよー！」\",\"translatedEnglishLine\":\"\\\"Hey, what are you showing me!?\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「ら、ランス総統！？」\",\"translatedEnglishLine\":\"\\\"L-Lance Supreme Commander!?\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「さっきから手出し出来なくて、\",\"translatedEnglishLine\":\"\\\"I haven't been able to make a move until now,\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　俺様のハイパー兵器もはち切れんばかり！」\",\"translatedEnglishLine\":\"my hyper weapon is about to burst!\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「さー、三人で楽しもうではないか！\",\"translatedEnglishLine\":\"\\\"Alright, let's enjoy ourselves as three!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　がははははははは！」\",\"translatedEnglishLine\":\"\\\"Gahahahahahaha!\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「ぎゃー！　来るなー！」\",\"translatedEnglishLine\":\"\\\"Gyah! Don't come closer!\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ああっ、さ、触らないで……！」\",\"translatedEnglishLine\":\"\\\"Ah, d-don't touch me...!\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"という感じで、\",\"translatedEnglishLine\":\"And like that,\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"ランスは姉妹丼をたっぷり楽しんだ。\",\"translatedEnglishLine\":\"Lance thoroughly enjoyed the sister trio.\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ににんにん。\",\"translatedEnglishLine\":\"\\\"Ninin-nin.\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　鈴女転校生」\",\"translatedEnglishLine\":\"Suzume the transfer student.\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「にんにんとうっ！\",\"translatedEnglishLine\":\"\\\"Nin nin too!\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　しゅたーんしゅたーん！」\",\"translatedEnglishLine\":\"Shutaan shutaan!\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「きゃーきゃーきゃー！」\",\"translatedEnglishLine\":\"\\\"Kyaa kyaa kyaa!\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「速いはやーーーい！\",\"translatedEnglishLine\":\"\\\"So fast, fast!!!\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　あははははははは！」\",\"translatedEnglishLine\":\"\\\"Ahahahahahaha!\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「にょほほ、元気いっぱいなリセットに、\",\"translatedEnglishLine\":\"\\\"Nyohhoho, lively Reset,\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　ナギまで加わって賑やかでござるな〜」\",\"translatedEnglishLine\":\"and even Nagi has joined, it's lively indeed~\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"しゅたーんしゅたーんと、\",\"translatedEnglishLine\":\"With a 'shutaan shutaan' sound,\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"鈴女がリセットとナギをおんぶして\",\"translatedEnglishLine\":\"Suzume piggybacked Reset and Nagi\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"城内を走り回っていた。\",\"translatedEnglishLine\":\"and was running around the castle.\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「ねーねー、もっと速く！　もっと速くー！」\",\"translatedEnglishLine\":\"\\\"Hey hey, faster! Faster!\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「危ないから駄目ー」\",\"translatedEnglishLine\":\"\\\"No, it's dangerous!\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「ぶー」\",\"translatedEnglishLine\":\"\\\"Boo.\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「きゃああっ！？　あ、危ない！？」\",\"translatedEnglishLine\":\"\\\"Kyaaa!? Ah, that was dangerous!?\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「おーっと、ににんにーん☆」\",\"translatedEnglishLine\":\"\\\"Oh! Ninin-neen☆\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"鈴女はクリームとぶつかりそうなところを、\",\"translatedEnglishLine\":\"Suzume was about to collide with Cream,\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"くるーんと前方抱え込み二回宙返りを\",\"translatedEnglishLine\":\"and with a spin and a forward tuck, performed two somersaults\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"しゅたっと決めて避けた。\",\"translatedEnglishLine\":\"landing neatly to avoid the collision.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「にん、ギリギリセーフ」\",\"translatedEnglishLine\":\"\\\"Nin, just barely safe.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「セーフじゃありません！\",\"translatedEnglishLine\":\"\\\"That's not safe!\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　鈴女さん、廊下は走らない！」\",\"translatedEnglishLine\":\"Miss Suzume, don't run in the hallway!\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「やべ、逃げるでござる。\",\"translatedEnglishLine\":\"\\\"Uh oh, gotta run away.\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　ばいばいきーん」\",\"translatedEnglishLine\":\"Bye-bye-keen!\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「あっ、コラ―！」\",\"translatedEnglishLine\":\"\\\"Ah, hey!\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「ほい、たっだいまーでござる」\",\"translatedEnglishLine\":\"\\\"Hey, I'm back!\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「たっだいまー！」\",\"translatedEnglishLine\":\"\\\"I'm back!\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「おやおや、元気いっぱいだな」\",\"translatedEnglishLine\":\"\\\"Oh my, full of energy.\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「あのね、あのね、すごかったの！\",\"translatedEnglishLine\":\"\\\"You know, you know, it was amazing!\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　100歩で城のまわりを散歩するって！\",\"translatedEnglishLine\":\"They said they'd take a walk around the castle in 100 steps!\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　ね！　ナギちゃん！」\",\"translatedEnglishLine\":\"Right! Nagi-chan!\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「そうそう！　一歩一歩がすごいの！\",\"translatedEnglishLine\":\"\\\"Yeah, yeah! Each step is amazing!\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　私とリセット、おんぶしたまま、\",\"translatedEnglishLine\":\"With me and Reset still piggybacked,\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　ビューン！　ビューン！　って！」\",\"translatedEnglishLine\":\"Zoom! Zoom! Like that!\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「そうか。\",\"translatedEnglishLine\":\"\\\"Is that so.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　ところで二人とも、牛乳飲むか？」\",\"translatedEnglishLine\":\"By the way, do you two want to drink some milk?\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「飲むー！」\",\"translatedEnglishLine\":\"\\\"Yes, we want some!\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「ありがとうございます、鈴女さん。\",\"translatedEnglishLine\":\"\\\"Thank you very much, Suzume.\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "268464",
+                "originalJapaneseLine": "ピカー。",
+                "translatedEnglishLine": "*Sparkle.*"
+            },
+            {
+                "lineNumber": "268465",
+                "originalJapaneseLine": "「――というわけです」",
+                "translatedEnglishLine": "\"—And that's why.\""
+            },
+            {
+                "lineNumber": "268466",
+                "originalJapaneseLine": "「なんで合体しちゃったのかしら」",
+                "translatedEnglishLine": "\"I wonder why they ended up combining.\""
+            },
+            {
+                "lineNumber": "268467",
+                "originalJapaneseLine": "「君達はなにをしてるんだ、まったく」",
+                "translatedEnglishLine": "\"What are you two doing, seriously?\""
+            },
+            {
+                "lineNumber": "268468",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "268469",
+                "originalJapaneseLine": "「まあ、そんなことはどうでもいいか」",
+                "translatedEnglishLine": "\"Well, that doesn't really matter.\""
+            },
+            {
+                "lineNumber": "268470",
+                "originalJapaneseLine": "「元に戻ったなら、やるぞ！」",
+                "translatedEnglishLine": "\"Now that we're back to normal, let's do this!\""
+            },
+            {
+                "lineNumber": "268471",
+                "originalJapaneseLine": "　　＜じゃきーーーん　ぺしーーん＞",
+                "translatedEnglishLine": "*<Shing——slash—>*"
+            },
+            {
+                "lineNumber": "268472",
+                "originalJapaneseLine": "ランスのハイパー兵器は、",
+                "translatedEnglishLine": "Lance's hyper weapon was"
+            },
+            {
+                "lineNumber": "268473",
+                "originalJapaneseLine": "あっという間に臨戦態勢。",
+                "translatedEnglishLine": "instantly ready for battle."
+            },
+            {
+                "lineNumber": "268474",
+                "originalJapaneseLine": "「きゃーー！",
+                "translatedEnglishLine": "\"Kyaaa!\""
+            },
+            {
+                "lineNumber": "268475",
+                "originalJapaneseLine": "　ちょ、なに見せてるのよー！」",
+                "translatedEnglishLine": "\"Hey, what are you showing me!?\""
+            },
+            {
+                "lineNumber": "268476",
+                "originalJapaneseLine": "「ら、ランス総統！？」",
+                "translatedEnglishLine": "\"L-Lance Supreme Commander!?\""
+            },
+            {
+                "lineNumber": "268477",
+                "originalJapaneseLine": "「さっきから手出し出来なくて、",
+                "translatedEnglishLine": "\"I haven't been able to make a move until now,"
+            },
+            {
+                "lineNumber": "268478",
+                "originalJapaneseLine": "　俺様のハイパー兵器もはち切れんばかり！」",
+                "translatedEnglishLine": "my hyper weapon is about to burst!\""
+            },
+            {
+                "lineNumber": "268479",
+                "originalJapaneseLine": "「さー、三人で楽しもうではないか！",
+                "translatedEnglishLine": "\"Alright, let's enjoy ourselves as three!\""
+            },
+            {
+                "lineNumber": "268480",
+                "originalJapaneseLine": "　がははははははは！」",
+                "translatedEnglishLine": "\"Gahahahahahaha!\""
+            },
+            {
+                "lineNumber": "268481",
+                "originalJapaneseLine": "「ぎゃー！　来るなー！」",
+                "translatedEnglishLine": "\"Gyah! Don't come closer!\""
+            },
+            {
+                "lineNumber": "268482",
+                "originalJapaneseLine": "「ああっ、さ、触らないで……！」",
+                "translatedEnglishLine": "\"Ah, d-don't touch me...!\""
+            },
+            {
+                "lineNumber": "268483",
+                "originalJapaneseLine": "という感じで、",
+                "translatedEnglishLine": "And like that,"
+            },
+            {
+                "lineNumber": "268484",
+                "originalJapaneseLine": "ランスは姉妹丼をたっぷり楽しんだ。",
+                "translatedEnglishLine": "Lance thoroughly enjoyed the sister trio."
+            },
+            {
+                "lineNumber": "268485",
+                "originalJapaneseLine": "「ににんにん。",
+                "translatedEnglishLine": "\"Ninin-nin."
+            },
+            {
+                "lineNumber": "268486",
+                "originalJapaneseLine": "　鈴女転校生」",
+                "translatedEnglishLine": "Suzume the transfer student.\""
+            },
+            {
+                "lineNumber": "268487",
+                "originalJapaneseLine": "「にんにんとうっ！",
+                "translatedEnglishLine": "\"Nin nin too!"
+            },
+            {
+                "lineNumber": "268488",
+                "originalJapaneseLine": "　しゅたーんしゅたーん！」",
+                "translatedEnglishLine": "Shutaan shutaan!\""
+            },
+            {
+                "lineNumber": "268489",
+                "originalJapaneseLine": "「きゃーきゃーきゃー！」",
+                "translatedEnglishLine": "\"Kyaa kyaa kyaa!\""
+            },
+            {
+                "lineNumber": "268490",
+                "originalJapaneseLine": "「速いはやーーーい！",
+                "translatedEnglishLine": "\"So fast, fast!!!\""
+            },
+            {
+                "lineNumber": "268491",
+                "originalJapaneseLine": "　あははははははは！」",
+                "translatedEnglishLine": "\"Ahahahahahaha!\""
+            },
+            {
+                "lineNumber": "268492",
+                "originalJapaneseLine": "「にょほほ、元気いっぱいなリセットに、",
+                "translatedEnglishLine": "\"Nyohhoho, lively Reset,"
+            },
+            {
+                "lineNumber": "268493",
+                "originalJapaneseLine": "　ナギまで加わって賑やかでござるな〜」",
+                "translatedEnglishLine": "and even Nagi has joined, it's lively indeed~\""
+            },
+            {
+                "lineNumber": "268494",
+                "originalJapaneseLine": "しゅたーんしゅたーんと、",
+                "translatedEnglishLine": "With a 'shutaan shutaan' sound,"
+            },
+            {
+                "lineNumber": "268495",
+                "originalJapaneseLine": "鈴女がリセットとナギをおんぶして",
+                "translatedEnglishLine": "Suzume piggybacked Reset and Nagi"
+            },
+            {
+                "lineNumber": "268496",
+                "originalJapaneseLine": "城内を走り回っていた。",
+                "translatedEnglishLine": "and was running around the castle."
+            },
+            {
+                "lineNumber": "268497",
+                "originalJapaneseLine": "「ねーねー、もっと速く！　もっと速くー！」",
+                "translatedEnglishLine": "\"Hey hey, faster! Faster!\""
+            },
+            {
+                "lineNumber": "268498",
+                "originalJapaneseLine": "「危ないから駄目ー」",
+                "translatedEnglishLine": "\"No, it's dangerous!\""
+            },
+            {
+                "lineNumber": "268499",
+                "originalJapaneseLine": "「ぶー」",
+                "translatedEnglishLine": "\"Boo.\""
+            },
+            {
+                "lineNumber": "268500",
+                "originalJapaneseLine": "「きゃああっ！？　あ、危ない！？」",
+                "translatedEnglishLine": "\"Kyaaa!? Ah, that was dangerous!?\""
+            },
+            {
+                "lineNumber": "268501",
+                "originalJapaneseLine": "「おーっと、ににんにーん☆」",
+                "translatedEnglishLine": "\"Oh! Ninin-neen☆\""
+            },
+            {
+                "lineNumber": "268502",
+                "originalJapaneseLine": "鈴女はクリームとぶつかりそうなところを、",
+                "translatedEnglishLine": "Suzume was about to collide with Cream,"
+            },
+            {
+                "lineNumber": "268503",
+                "originalJapaneseLine": "くるーんと前方抱え込み二回宙返りを",
+                "translatedEnglishLine": "and with a spin and a forward tuck, performed two somersaults"
+            },
+            {
+                "lineNumber": "268504",
+                "originalJapaneseLine": "しゅたっと決めて避けた。",
+                "translatedEnglishLine": "landing neatly to avoid the collision."
+            },
+            {
+                "lineNumber": "268505",
+                "originalJapaneseLine": "「にん、ギリギリセーフ」",
+                "translatedEnglishLine": "\"Nin, just barely safe.\""
+            },
+            {
+                "lineNumber": "268506",
+                "originalJapaneseLine": "「セーフじゃありません！",
+                "translatedEnglishLine": "\"That's not safe!\""
+            },
+            {
+                "lineNumber": "268507",
+                "originalJapaneseLine": "　鈴女さん、廊下は走らない！」",
+                "translatedEnglishLine": "Miss Suzume, don't run in the hallway!\""
+            },
+            {
+                "lineNumber": "268508",
+                "originalJapaneseLine": "「やべ、逃げるでござる。",
+                "translatedEnglishLine": "\"Uh oh, gotta run away."
+            },
+            {
+                "lineNumber": "268509",
+                "originalJapaneseLine": "　ばいばいきーん」",
+                "translatedEnglishLine": "Bye-bye-keen!\""
+            },
+            {
+                "lineNumber": "268510",
+                "originalJapaneseLine": "「あっ、コラ―！」",
+                "translatedEnglishLine": "\"Ah, hey!\""
+            },
+            {
+                "lineNumber": "268511",
+                "originalJapaneseLine": "「ほい、たっだいまーでござる」",
+                "translatedEnglishLine": "\"Hey, I'm back!\""
+            },
+            {
+                "lineNumber": "268512",
+                "originalJapaneseLine": "「たっだいまー！」",
+                "translatedEnglishLine": "\"I'm back!\""
+            },
+            {
+                "lineNumber": "268513",
+                "originalJapaneseLine": "「おやおや、元気いっぱいだな」",
+                "translatedEnglishLine": "\"Oh my, full of energy.\""
+            },
+            {
+                "lineNumber": "268514",
+                "originalJapaneseLine": "「あのね、あのね、すごかったの！",
+                "translatedEnglishLine": "\"You know, you know, it was amazing!"
+            },
+            {
+                "lineNumber": "268515",
+                "originalJapaneseLine": "　100歩で城のまわりを散歩するって！",
+                "translatedEnglishLine": "They said they'd take a walk around the castle in 100 steps!"
+            },
+            {
+                "lineNumber": "268516",
+                "originalJapaneseLine": "　ね！　ナギちゃん！」",
+                "translatedEnglishLine": "Right! Nagi-chan!\""
+            },
+            {
+                "lineNumber": "268517",
+                "originalJapaneseLine": "「そうそう！　一歩一歩がすごいの！",
+                "translatedEnglishLine": "\"Yeah, yeah! Each step is amazing!"
+            },
+            {
+                "lineNumber": "268518",
+                "originalJapaneseLine": "　私とリセット、おんぶしたまま、",
+                "translatedEnglishLine": "With me and Reset still piggybacked,"
+            },
+            {
+                "lineNumber": "268519",
+                "originalJapaneseLine": "　ビューン！　ビューン！　って！」",
+                "translatedEnglishLine": "Zoom! Zoom! Like that!\""
+            },
+            {
+                "lineNumber": "268520",
+                "originalJapaneseLine": "「そうか。",
+                "translatedEnglishLine": "\"Is that so."
+            },
+            {
+                "lineNumber": "268521",
+                "originalJapaneseLine": "　ところで二人とも、牛乳飲むか？」",
+                "translatedEnglishLine": "By the way, do you two want to drink some milk?\""
+            },
+            {
+                "lineNumber": "268522",
+                "originalJapaneseLine": "「飲むー！」",
+                "translatedEnglishLine": "\"Yes, we want some!\""
+            },
+            {
+                "lineNumber": "268523",
+                "originalJapaneseLine": "「ありがとうございます、鈴女さん。",
+                "translatedEnglishLine": "\"Thank you very much, Suzume.\""
+            }
+        ]
+    }
+}

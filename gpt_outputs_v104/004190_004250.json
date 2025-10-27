@@ -1,0 +1,719 @@
+{
+    "id": "resp_04e8de160fe980d60068ffedbd5ab881978506f218c8bdb2e6",
+    "object": "response",
+    "created_at": 1761603005,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_04e8de160fe980d60068ffedbe6ab88197901066f48278ca38",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　二人とも、まったねーでござるー」\",\"translatedEnglishLine\":\"See you both later!\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"しゅしゅしゅー。\",\"translatedEnglishLine\":\"Whoosh whoosh whoosh.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"あっという間にウズメは行ってしまった。\",\"translatedEnglishLine\":\"Uzume left in the blink of an eye.\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「なんか……\",\"translatedEnglishLine\":\"\\\"Somehow...\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　別れ方も鈴女さんみたいに、\",\"translatedEnglishLine\":\" even the way she said goodbye was like Suzume-san,\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　さっぱりした子でしたね……」\",\"translatedEnglishLine\":\" a straightforward kind of girl...\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「そんなことないでござるよ。\",\"translatedEnglishLine\":\"\\\"That's not true.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　ウズメは結構寂しがり屋さん」\",\"translatedEnglishLine\":\" Uzume is actually quite lonely.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「だから、次に会った時は、\",\"translatedEnglishLine\":\" So, when you meet her next time,\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　ちゃんと構ってあげてね」\",\"translatedEnglishLine\":\" please make sure to pay proper attention to her.\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「は、はあ……」\",\"translatedEnglishLine\":\"\\\"Y-yeah...\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「でも、次って……」\",\"translatedEnglishLine\":\"\\\"But, the next time...?\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"はたと、何かに気づいたように、\",\"translatedEnglishLine\":\"Suddenly, as if realizing something,\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"かなみの動きが止まる。\",\"translatedEnglishLine\":\" Kanami stopped moving.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「かなみ」\",\"translatedEnglishLine\":\"\\\"Kanami.\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「は、はい！？」\",\"translatedEnglishLine\":\"\\\"Y-yes!?\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「ちょびーっと、\",\"translatedEnglishLine\":\"\\\"Can I say something a little serious?\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　真面目な話していいでござる？」\",\"translatedEnglishLine\":\"\\\"Is that okay?\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"鈴女の表情が真剣なそれに変わる。\",\"translatedEnglishLine\":\"Suzume's expression changed to a serious one.\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「鈴女、多分、もう少しで、\",\"translatedEnglishLine\":\"\\\"Suzume, probably very soon,\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　次のタイミングが来るでござる」\",\"translatedEnglishLine\":\" the next timing will come.\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「次っていうのは、転生の時期のこと」\",\"translatedEnglishLine\":\"\\\"By 'next,' I mean the time of reincarnation.\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「だから……\",\"translatedEnglishLine\":\"\\\"So...\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　もごもごもごもご」\",\"translatedEnglishLine\":\"*mumbling sounds*\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"鈴女の口をかなみが塞いだ。\",\"translatedEnglishLine\":\"Kanami covered Suzume's mouth.\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「もごもご？　なんでござる？」\",\"translatedEnglishLine\":\"\\\"Mumbling? What's that about?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「何も言わなくていいですよ」\",\"translatedEnglishLine\":\"\\\"You don't have to say anything.\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「いつか……またウズメちゃんと\",\"translatedEnglishLine\":\"\\\"Someday... I'll look forward to meeting Uzume-chan again.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　会える日を楽しみにしてます」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「鈴女を惚れさせて、\",\"translatedEnglishLine\":\"\\\"What do you plan to do, making Suzume fall in love?\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　どうする気？」\",\"translatedEnglishLine\":\" What'll you do?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「なんですかそれ！？」\",\"translatedEnglishLine\":\"\\\"What is that!?\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「……かなみも立派になったでござるね」\",\"translatedEnglishLine\":\"\\\"...Kanami, you've grown up well.\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「これなら、鈴女いつでも安心して――」\",\"translatedEnglishLine\":\"\\\"With this, Suzume can always feel at ease—\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「かなみ……」\",\"translatedEnglishLine\":\"\\\"Kanami...\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「あっ……」\",\"translatedEnglishLine\":\"\\\"Ah...\\\"\"},\n\n{\"lineNumber\":42,\"originalJapaneseLine\":\"ぼろりと、かなみの瞳から涙が溢れた。\",\"translatedEnglishLine\":\"Tears welled up and overflowed from Kanami's eyes.\"},\n\n{\"lineNumber\":43,\"originalJapaneseLine\":\"「かなみ」\",\"translatedEnglishLine\":\"\\\"Kanami.\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"鈴女がかなみを抱きしめる。\",\"translatedEnglishLine\":\"Suzume hugged Kanami.\"},\n\n{\"lineNumber\":45,\"originalJapaneseLine\":\"「よしよし、いーこいーこ」\",\"translatedEnglishLine\":\"\\\"There, there, good girl.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"優しく背中をさすると、\",\"translatedEnglishLine\":\"Gently stroking her back,\"},\n\n{\"lineNumber\":47,\"originalJapaneseLine\":\"堰を切ったようにかなみの瞳から\",\"translatedEnglishLine\":\"as if a dam broke, tears started flowing from Kanami's eyes,\"},\n\n{\"lineNumber\":48,\"originalJapaneseLine\":\"涙が次々に溢れて、こぼれる。\",\"translatedEnglishLine\":\"tears continued to overflow and spill.\"},\n\n{\"lineNumber\":49,\"originalJapaneseLine\":\"「あっ……ぁ……ぁ……」\",\"translatedEnglishLine\":\"\\\"Ah... ah... ah...\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「なんで泣くでござる？」\",\"translatedEnglishLine\":\"\\\"Why are you crying?\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「ぅ……」\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「でも……だって……」\",\"translatedEnglishLine\":\"\\\"But... it's because...\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「あんなに違う人……\",\"translatedEnglishLine\":\"\\\"They're such different people...\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"　じゃ、ないですか……」\",\"translatedEnglishLine\":\" aren't they...?\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「うん、そーだね」\",\"translatedEnglishLine\":\"\\\"Yeah, that's right.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「同じなようで……違くて……\",\"translatedEnglishLine\":\"\\\"They seem the same... but they're different...\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　それって……やっぱり……」\",\"translatedEnglishLine\":\" and that means... after all...\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「鈴女さんは……いないって……」\",\"translatedEnglishLine\":\"\\\"That Suzume-san... isn't there anymore...\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「うん、そーだね」\",\"translatedEnglishLine\":\"\\\"Yeah, that's right.\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「だから……\",\"translatedEnglishLine\":\"\\\"So...\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "268824",
+                                "originalJapaneseLine": "　二人とも、まったねーでござるー」",
+                                "translatedEnglishLine": "See you both later!"
+                            },
+                            {
+                                "lineNumber": "268825",
+                                "originalJapaneseLine": "しゅしゅしゅー。",
+                                "translatedEnglishLine": "Whoosh whoosh whoosh."
+                            },
+                            {
+                                "lineNumber": "268826",
+                                "originalJapaneseLine": "あっという間にウズメは行ってしまった。",
+                                "translatedEnglishLine": "Uzume left in the blink of an eye."
+                            },
+                            {
+                                "lineNumber": "268827",
+                                "originalJapaneseLine": "「なんか……",
+                                "translatedEnglishLine": "\"Somehow..."
+                            },
+                            {
+                                "lineNumber": "268828",
+                                "originalJapaneseLine": "　別れ方も鈴女さんみたいに、",
+                                "translatedEnglishLine": " even the way she said goodbye was like Suzume-san,"
+                            },
+                            {
+                                "lineNumber": "268829",
+                                "originalJapaneseLine": "　さっぱりした子でしたね……」",
+                                "translatedEnglishLine": " a straightforward kind of girl...\""
+                            },
+                            {
+                                "lineNumber": "268830",
+                                "originalJapaneseLine": "「そんなことないでござるよ。",
+                                "translatedEnglishLine": "\"That's not true."
+                            },
+                            {
+                                "lineNumber": "268831",
+                                "originalJapaneseLine": "　ウズメは結構寂しがり屋さん」",
+                                "translatedEnglishLine": " Uzume is actually quite lonely."
+                            },
+                            {
+                                "lineNumber": "268832",
+                                "originalJapaneseLine": "「だから、次に会った時は、",
+                                "translatedEnglishLine": " So, when you meet her next time,"
+                            },
+                            {
+                                "lineNumber": "268833",
+                                "originalJapaneseLine": "　ちゃんと構ってあげてね」",
+                                "translatedEnglishLine": " please make sure to pay proper attention to her.\""
+                            },
+                            {
+                                "lineNumber": "268834",
+                                "originalJapaneseLine": "「は、はあ……」",
+                                "translatedEnglishLine": "\"Y-yeah...\""
+                            },
+                            {
+                                "lineNumber": "268835",
+                                "originalJapaneseLine": "「でも、次って……」",
+                                "translatedEnglishLine": "\"But, the next time...?"
+                            },
+                            {
+                                "lineNumber": "268836",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"...\""
+                            },
+                            {
+                                "lineNumber": "268837",
+                                "originalJapaneseLine": "はたと、何かに気づいたように、",
+                                "translatedEnglishLine": "Suddenly, as if realizing something,"
+                            },
+                            {
+                                "lineNumber": "268838",
+                                "originalJapaneseLine": "かなみの動きが止まる。",
+                                "translatedEnglishLine": " Kanami stopped moving."
+                            },
+                            {
+                                "lineNumber": "268839",
+                                "originalJapaneseLine": "「かなみ」",
+                                "translatedEnglishLine": "\"Kanami.\""
+                            },
+                            {
+                                "lineNumber": "268840",
+                                "originalJapaneseLine": "「は、はい！？」",
+                                "translatedEnglishLine": "\"Y-yes!?\""
+                            },
+                            {
+                                "lineNumber": "268841",
+                                "originalJapaneseLine": "「ちょびーっと、",
+                                "translatedEnglishLine": "\"Can I say something a little serious?"
+                            },
+                            {
+                                "lineNumber": "268842",
+                                "originalJapaneseLine": "　真面目な話していいでござる？」",
+                                "translatedEnglishLine": "\"Is that okay?\""
+                            },
+                            {
+                                "lineNumber": "268843",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"...\""
+                            },
+                            {
+                                "lineNumber": "268844",
+                                "originalJapaneseLine": "鈴女の表情が真剣なそれに変わる。",
+                                "translatedEnglishLine": "Suzume's expression changed to a serious one."
+                            },
+                            {
+                                "lineNumber": "268845",
+                                "originalJapaneseLine": "「鈴女、多分、もう少しで、",
+                                "translatedEnglishLine": "\"Suzume, probably very soon,"
+                            },
+                            {
+                                "lineNumber": "268846",
+                                "originalJapaneseLine": "　次のタイミングが来るでござる」",
+                                "translatedEnglishLine": " the next timing will come.\""
+                            },
+                            {
+                                "lineNumber": "268847",
+                                "originalJapaneseLine": "「次っていうのは、転生の時期のこと」",
+                                "translatedEnglishLine": "\"By 'next,' I mean the time of reincarnation.\""
+                            },
+                            {
+                                "lineNumber": "268848",
+                                "originalJapaneseLine": "「だから……",
+                                "translatedEnglishLine": "\"So...\""
+                            },
+                            {
+                                "lineNumber": "268849",
+                                "originalJapaneseLine": "　もごもごもごもご」",
+                                "translatedEnglishLine": "*mumbling sounds*"
+                            },
+                            {
+                                "lineNumber": "268850",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"...\""
+                            },
+                            {
+                                "lineNumber": "268851",
+                                "originalJapaneseLine": "鈴女の口をかなみが塞いだ。",
+                                "translatedEnglishLine": "Kanami covered Suzume's mouth."
+                            },
+                            {
+                                "lineNumber": "268852",
+                                "originalJapaneseLine": "「もごもご？　なんでござる？」",
+                                "translatedEnglishLine": "\"Mumbling? What's that about?\""
+                            },
+                            {
+                                "lineNumber": "268853",
+                                "originalJapaneseLine": "「何も言わなくていいですよ」",
+                                "translatedEnglishLine": "\"You don't have to say anything.\""
+                            },
+                            {
+                                "lineNumber": "268854",
+                                "originalJapaneseLine": "「いつか……またウズメちゃんと",
+                                "translatedEnglishLine": "\"Someday... I'll look forward to meeting Uzume-chan again."
+                            },
+                            {
+                                "lineNumber": "268855",
+                                "originalJapaneseLine": "　会える日を楽しみにしてます」",
+                                "translatedEnglishLine": "\""
+                            },
+                            {
+                                "lineNumber": "268856",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"...\""
+                            },
+                            {
+                                "lineNumber": "268857",
+                                "originalJapaneseLine": "「鈴女を惚れさせて、",
+                                "translatedEnglishLine": "\"What do you plan to do, making Suzume fall in love?"
+                            },
+                            {
+                                "lineNumber": "268858",
+                                "originalJapaneseLine": "　どうする気？」",
+                                "translatedEnglishLine": " What'll you do?\""
+                            },
+                            {
+                                "lineNumber": "268859",
+                                "originalJapaneseLine": "「なんですかそれ！？」",
+                                "translatedEnglishLine": "\"What is that!?\""
+                            },
+                            {
+                                "lineNumber": "268860",
+                                "originalJapaneseLine": "「……かなみも立派になったでござるね」",
+                                "translatedEnglishLine": "\"...Kanami, you've grown up well.\""
+                            },
+                            {
+                                "lineNumber": "268861",
+                                "originalJapaneseLine": "「これなら、鈴女いつでも安心して――」",
+                                "translatedEnglishLine": "\"With this, Suzume can always feel at ease—\""
+                            },
+                            {
+                                "lineNumber": "268862",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"...\""
+                            },
+                            {
+                                "lineNumber": "268863",
+                                "originalJapaneseLine": "「かなみ……」",
+                                "translatedEnglishLine": "\"Kanami...\""
+                            },
+                            {
+                                "lineNumber": "268864",
+                                "originalJapaneseLine": "「あっ……」",
+                                "translatedEnglishLine": "\"Ah...\""
+                            },
+                            {
+                                "lineNumber": "268865",
+                                "originalJapaneseLine": "ぼろりと、かなみの瞳から涙が溢れた。",
+                                "translatedEnglishLine": "Tears welled up and overflowed from Kanami's eyes."
+                            },
+                            {
+                                "lineNumber": "268866",
+                                "originalJapaneseLine": "「かなみ」",
+                                "translatedEnglishLine": "\"Kanami.\""
+                            },
+                            {
+                                "lineNumber": "268867",
+                                "originalJapaneseLine": "鈴女がかなみを抱きしめる。",
+                                "translatedEnglishLine": "Suzume hugged Kanami."
+                            },
+                            {
+                                "lineNumber": "268868",
+                                "originalJapaneseLine": "「よしよし、いーこいーこ」",
+                                "translatedEnglishLine": "\"There, there, good girl.\""
+                            },
+                            {
+                                "lineNumber": "268869",
+                                "originalJapaneseLine": "優しく背中をさすると、",
+                                "translatedEnglishLine": "Gently stroking her back,"
+                            },
+                            {
+                                "lineNumber": "268870",
+                                "originalJapaneseLine": "堰を切ったようにかなみの瞳から",
+                                "translatedEnglishLine": "as if a dam broke, tears started flowing from Kanami's eyes,"
+                            },
+                            {
+                                "lineNumber": "268871",
+                                "originalJapaneseLine": "涙が次々に溢れて、こぼれる。",
+                                "translatedEnglishLine": "tears continued to overflow and spill."
+                            },
+                            {
+                                "lineNumber": "268872",
+                                "originalJapaneseLine": "「あっ……ぁ……ぁ……」",
+                                "translatedEnglishLine": "\"Ah... ah... ah...\""
+                            },
+                            {
+                                "lineNumber": "268873",
+                                "originalJapaneseLine": "「なんで泣くでござる？」",
+                                "translatedEnglishLine": "\"Why are you crying?\""
+                            },
+                            {
+                                "lineNumber": "268874",
+                                "originalJapaneseLine": "「ぅ……」",
+                                "translatedEnglishLine": "\"Ugh...\""
+                            },
+                            {
+                                "lineNumber": "268875",
+                                "originalJapaneseLine": "「でも……だって……」",
+                                "translatedEnglishLine": "\"But... it's because...\""
+                            },
+                            {
+                                "lineNumber": "268876",
+                                "originalJapaneseLine": "「あんなに違う人……",
+                                "translatedEnglishLine": "\"They're such different people...\""
+                            },
+                            {
+                                "lineNumber": "268877",
+                                "originalJapaneseLine": "　じゃ、ないですか……」",
+                                "translatedEnglishLine": " aren't they...?\""
+                            },
+                            {
+                                "lineNumber": "268878",
+                                "originalJapaneseLine": "「うん、そーだね」",
+                                "translatedEnglishLine": "\"Yeah, that's right.\""
+                            },
+                            {
+                                "lineNumber": "268879",
+                                "originalJapaneseLine": "「同じなようで……違くて……",
+                                "translatedEnglishLine": "\"They seem the same... but they're different..."
+                            },
+                            {
+                                "lineNumber": "268880",
+                                "originalJapaneseLine": "　それって……やっぱり……」",
+                                "translatedEnglishLine": " and that means... after all...\""
+                            },
+                            {
+                                "lineNumber": "268881",
+                                "originalJapaneseLine": "「鈴女さんは……いないって……」",
+                                "translatedEnglishLine": "\"That Suzume-san... isn't there anymore...\""
+                            },
+                            {
+                                "lineNumber": "268882",
+                                "originalJapaneseLine": "「うん、そーだね」",
+                                "translatedEnglishLine": "\"Yeah, that's right.\""
+                            },
+                            {
+                                "lineNumber": "268883",
+                                "originalJapaneseLine": "「だから……",
+                                "translatedEnglishLine": "\"So...\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1684,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1902,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3586
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　二人とも、まったねーでござるー」\",\"translatedEnglishLine\":\"See you both later!\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"しゅしゅしゅー。\",\"translatedEnglishLine\":\"Whoosh whoosh whoosh.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"あっという間にウズメは行ってしまった。\",\"translatedEnglishLine\":\"Uzume left in the blink of an eye.\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「なんか……\",\"translatedEnglishLine\":\"\\\"Somehow...\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　別れ方も鈴女さんみたいに、\",\"translatedEnglishLine\":\" even the way she said goodbye was like Suzume-san,\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　さっぱりした子でしたね……」\",\"translatedEnglishLine\":\" a straightforward kind of girl...\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「そんなことないでござるよ。\",\"translatedEnglishLine\":\"\\\"That's not true.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　ウズメは結構寂しがり屋さん」\",\"translatedEnglishLine\":\" Uzume is actually quite lonely.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「だから、次に会った時は、\",\"translatedEnglishLine\":\" So, when you meet her next time,\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　ちゃんと構ってあげてね」\",\"translatedEnglishLine\":\" please make sure to pay proper attention to her.\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「は、はあ……」\",\"translatedEnglishLine\":\"\\\"Y-yeah...\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「でも、次って……」\",\"translatedEnglishLine\":\"\\\"But, the next time...?\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"はたと、何かに気づいたように、\",\"translatedEnglishLine\":\"Suddenly, as if realizing something,\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"かなみの動きが止まる。\",\"translatedEnglishLine\":\" Kanami stopped moving.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「かなみ」\",\"translatedEnglishLine\":\"\\\"Kanami.\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「は、はい！？」\",\"translatedEnglishLine\":\"\\\"Y-yes!?\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「ちょびーっと、\",\"translatedEnglishLine\":\"\\\"Can I say something a little serious?\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　真面目な話していいでござる？」\",\"translatedEnglishLine\":\"\\\"Is that okay?\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"鈴女の表情が真剣なそれに変わる。\",\"translatedEnglishLine\":\"Suzume's expression changed to a serious one.\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「鈴女、多分、もう少しで、\",\"translatedEnglishLine\":\"\\\"Suzume, probably very soon,\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　次のタイミングが来るでござる」\",\"translatedEnglishLine\":\" the next timing will come.\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「次っていうのは、転生の時期のこと」\",\"translatedEnglishLine\":\"\\\"By 'next,' I mean the time of reincarnation.\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「だから……\",\"translatedEnglishLine\":\"\\\"So...\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　もごもごもごもご」\",\"translatedEnglishLine\":\"*mumbling sounds*\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"鈴女の口をかなみが塞いだ。\",\"translatedEnglishLine\":\"Kanami covered Suzume's mouth.\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「もごもご？　なんでござる？」\",\"translatedEnglishLine\":\"\\\"Mumbling? What's that about?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「何も言わなくていいですよ」\",\"translatedEnglishLine\":\"\\\"You don't have to say anything.\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「いつか……またウズメちゃんと\",\"translatedEnglishLine\":\"\\\"Someday... I'll look forward to meeting Uzume-chan again.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　会える日を楽しみにしてます」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「鈴女を惚れさせて、\",\"translatedEnglishLine\":\"\\\"What do you plan to do, making Suzume fall in love?\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　どうする気？」\",\"translatedEnglishLine\":\" What'll you do?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「なんですかそれ！？」\",\"translatedEnglishLine\":\"\\\"What is that!?\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「……かなみも立派になったでござるね」\",\"translatedEnglishLine\":\"\\\"...Kanami, you've grown up well.\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「これなら、鈴女いつでも安心して――」\",\"translatedEnglishLine\":\"\\\"With this, Suzume can always feel at ease—\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「かなみ……」\",\"translatedEnglishLine\":\"\\\"Kanami...\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「あっ……」\",\"translatedEnglishLine\":\"\\\"Ah...\\\"\"},\n\n{\"lineNumber\":42,\"originalJapaneseLine\":\"ぼろりと、かなみの瞳から涙が溢れた。\",\"translatedEnglishLine\":\"Tears welled up and overflowed from Kanami's eyes.\"},\n\n{\"lineNumber\":43,\"originalJapaneseLine\":\"「かなみ」\",\"translatedEnglishLine\":\"\\\"Kanami.\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"鈴女がかなみを抱きしめる。\",\"translatedEnglishLine\":\"Suzume hugged Kanami.\"},\n\n{\"lineNumber\":45,\"originalJapaneseLine\":\"「よしよし、いーこいーこ」\",\"translatedEnglishLine\":\"\\\"There, there, good girl.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"優しく背中をさすると、\",\"translatedEnglishLine\":\"Gently stroking her back,\"},\n\n{\"lineNumber\":47,\"originalJapaneseLine\":\"堰を切ったようにかなみの瞳から\",\"translatedEnglishLine\":\"as if a dam broke, tears started flowing from Kanami's eyes,\"},\n\n{\"lineNumber\":48,\"originalJapaneseLine\":\"涙が次々に溢れて、こぼれる。\",\"translatedEnglishLine\":\"tears continued to overflow and spill.\"},\n\n{\"lineNumber\":49,\"originalJapaneseLine\":\"「あっ……ぁ……ぁ……」\",\"translatedEnglishLine\":\"\\\"Ah... ah... ah...\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「なんで泣くでござる？」\",\"translatedEnglishLine\":\"\\\"Why are you crying?\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「ぅ……」\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「でも……だって……」\",\"translatedEnglishLine\":\"\\\"But... it's because...\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「あんなに違う人……\",\"translatedEnglishLine\":\"\\\"They're such different people...\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"　じゃ、ないですか……」\",\"translatedEnglishLine\":\" aren't they...?\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「うん、そーだね」\",\"translatedEnglishLine\":\"\\\"Yeah, that's right.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「同じなようで……違くて……\",\"translatedEnglishLine\":\"\\\"They seem the same... but they're different...\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　それって……やっぱり……」\",\"translatedEnglishLine\":\" and that means... after all...\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「鈴女さんは……いないって……」\",\"translatedEnglishLine\":\"\\\"That Suzume-san... isn't there anymore...\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「うん、そーだね」\",\"translatedEnglishLine\":\"\\\"Yeah, that's right.\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「だから……\",\"translatedEnglishLine\":\"\\\"So...\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "268824",
+                "originalJapaneseLine": "　二人とも、まったねーでござるー」",
+                "translatedEnglishLine": "See you both later!"
+            },
+            {
+                "lineNumber": "268825",
+                "originalJapaneseLine": "しゅしゅしゅー。",
+                "translatedEnglishLine": "Whoosh whoosh whoosh."
+            },
+            {
+                "lineNumber": "268826",
+                "originalJapaneseLine": "あっという間にウズメは行ってしまった。",
+                "translatedEnglishLine": "Uzume left in the blink of an eye."
+            },
+            {
+                "lineNumber": "268827",
+                "originalJapaneseLine": "「なんか……",
+                "translatedEnglishLine": "\"Somehow..."
+            },
+            {
+                "lineNumber": "268828",
+                "originalJapaneseLine": "　別れ方も鈴女さんみたいに、",
+                "translatedEnglishLine": " even the way she said goodbye was like Suzume-san,"
+            },
+            {
+                "lineNumber": "268829",
+                "originalJapaneseLine": "　さっぱりした子でしたね……」",
+                "translatedEnglishLine": " a straightforward kind of girl...\""
+            },
+            {
+                "lineNumber": "268830",
+                "originalJapaneseLine": "「そんなことないでござるよ。",
+                "translatedEnglishLine": "\"That's not true."
+            },
+            {
+                "lineNumber": "268831",
+                "originalJapaneseLine": "　ウズメは結構寂しがり屋さん」",
+                "translatedEnglishLine": " Uzume is actually quite lonely."
+            },
+            {
+                "lineNumber": "268832",
+                "originalJapaneseLine": "「だから、次に会った時は、",
+                "translatedEnglishLine": " So, when you meet her next time,"
+            },
+            {
+                "lineNumber": "268833",
+                "originalJapaneseLine": "　ちゃんと構ってあげてね」",
+                "translatedEnglishLine": " please make sure to pay proper attention to her.\""
+            },
+            {
+                "lineNumber": "268834",
+                "originalJapaneseLine": "「は、はあ……」",
+                "translatedEnglishLine": "\"Y-yeah...\""
+            },
+            {
+                "lineNumber": "268835",
+                "originalJapaneseLine": "「でも、次って……」",
+                "translatedEnglishLine": "\"But, the next time...?"
+            },
+            {
+                "lineNumber": "268836",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"...\""
+            },
+            {
+                "lineNumber": "268837",
+                "originalJapaneseLine": "はたと、何かに気づいたように、",
+                "translatedEnglishLine": "Suddenly, as if realizing something,"
+            },
+            {
+                "lineNumber": "268838",
+                "originalJapaneseLine": "かなみの動きが止まる。",
+                "translatedEnglishLine": " Kanami stopped moving."
+            },
+            {
+                "lineNumber": "268839",
+                "originalJapaneseLine": "「かなみ」",
+                "translatedEnglishLine": "\"Kanami.\""
+            },
+            {
+                "lineNumber": "268840",
+                "originalJapaneseLine": "「は、はい！？」",
+                "translatedEnglishLine": "\"Y-yes!?\""
+            },
+            {
+                "lineNumber": "268841",
+                "originalJapaneseLine": "「ちょびーっと、",
+                "translatedEnglishLine": "\"Can I say something a little serious?"
+            },
+            {
+                "lineNumber": "268842",
+                "originalJapaneseLine": "　真面目な話していいでござる？」",
+                "translatedEnglishLine": "\"Is that okay?\""
+            },
+            {
+                "lineNumber": "268843",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"...\""
+            },
+            {
+                "lineNumber": "268844",
+                "originalJapaneseLine": "鈴女の表情が真剣なそれに変わる。",
+                "translatedEnglishLine": "Suzume's expression changed to a serious one."
+            },
+            {
+                "lineNumber": "268845",
+                "originalJapaneseLine": "「鈴女、多分、もう少しで、",
+                "translatedEnglishLine": "\"Suzume, probably very soon,"
+            },
+            {
+                "lineNumber": "268846",
+                "originalJapaneseLine": "　次のタイミングが来るでござる」",
+                "translatedEnglishLine": " the next timing will come.\""
+            },
+            {
+                "lineNumber": "268847",
+                "originalJapaneseLine": "「次っていうのは、転生の時期のこと」",
+                "translatedEnglishLine": "\"By 'next,' I mean the time of reincarnation.\""
+            },
+            {
+                "lineNumber": "268848",
+                "originalJapaneseLine": "「だから……",
+                "translatedEnglishLine": "\"So...\""
+            },
+            {
+                "lineNumber": "268849",
+                "originalJapaneseLine": "　もごもごもごもご」",
+                "translatedEnglishLine": "*mumbling sounds*"
+            },
+            {
+                "lineNumber": "268850",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"...\""
+            },
+            {
+                "lineNumber": "268851",
+                "originalJapaneseLine": "鈴女の口をかなみが塞いだ。",
+                "translatedEnglishLine": "Kanami covered Suzume's mouth."
+            },
+            {
+                "lineNumber": "268852",
+                "originalJapaneseLine": "「もごもご？　なんでござる？」",
+                "translatedEnglishLine": "\"Mumbling? What's that about?\""
+            },
+            {
+                "lineNumber": "268853",
+                "originalJapaneseLine": "「何も言わなくていいですよ」",
+                "translatedEnglishLine": "\"You don't have to say anything.\""
+            },
+            {
+                "lineNumber": "268854",
+                "originalJapaneseLine": "「いつか……またウズメちゃんと",
+                "translatedEnglishLine": "\"Someday... I'll look forward to meeting Uzume-chan again."
+            },
+            {
+                "lineNumber": "268855",
+                "originalJapaneseLine": "　会える日を楽しみにしてます」",
+                "translatedEnglishLine": "\""
+            },
+            {
+                "lineNumber": "268856",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"...\""
+            },
+            {
+                "lineNumber": "268857",
+                "originalJapaneseLine": "「鈴女を惚れさせて、",
+                "translatedEnglishLine": "\"What do you plan to do, making Suzume fall in love?"
+            },
+            {
+                "lineNumber": "268858",
+                "originalJapaneseLine": "　どうする気？」",
+                "translatedEnglishLine": " What'll you do?\""
+            },
+            {
+                "lineNumber": "268859",
+                "originalJapaneseLine": "「なんですかそれ！？」",
+                "translatedEnglishLine": "\"What is that!?\""
+            },
+            {
+                "lineNumber": "268860",
+                "originalJapaneseLine": "「……かなみも立派になったでござるね」",
+                "translatedEnglishLine": "\"...Kanami, you've grown up well.\""
+            },
+            {
+                "lineNumber": "268861",
+                "originalJapaneseLine": "「これなら、鈴女いつでも安心して――」",
+                "translatedEnglishLine": "\"With this, Suzume can always feel at ease—\""
+            },
+            {
+                "lineNumber": "268862",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"...\""
+            },
+            {
+                "lineNumber": "268863",
+                "originalJapaneseLine": "「かなみ……」",
+                "translatedEnglishLine": "\"Kanami...\""
+            },
+            {
+                "lineNumber": "268864",
+                "originalJapaneseLine": "「あっ……」",
+                "translatedEnglishLine": "\"Ah...\""
+            },
+            {
+                "lineNumber": "268865",
+                "originalJapaneseLine": "ぼろりと、かなみの瞳から涙が溢れた。",
+                "translatedEnglishLine": "Tears welled up and overflowed from Kanami's eyes."
+            },
+            {
+                "lineNumber": "268866",
+                "originalJapaneseLine": "「かなみ」",
+                "translatedEnglishLine": "\"Kanami.\""
+            },
+            {
+                "lineNumber": "268867",
+                "originalJapaneseLine": "鈴女がかなみを抱きしめる。",
+                "translatedEnglishLine": "Suzume hugged Kanami."
+            },
+            {
+                "lineNumber": "268868",
+                "originalJapaneseLine": "「よしよし、いーこいーこ」",
+                "translatedEnglishLine": "\"There, there, good girl.\""
+            },
+            {
+                "lineNumber": "268869",
+                "originalJapaneseLine": "優しく背中をさすると、",
+                "translatedEnglishLine": "Gently stroking her back,"
+            },
+            {
+                "lineNumber": "268870",
+                "originalJapaneseLine": "堰を切ったようにかなみの瞳から",
+                "translatedEnglishLine": "as if a dam broke, tears started flowing from Kanami's eyes,"
+            },
+            {
+                "lineNumber": "268871",
+                "originalJapaneseLine": "涙が次々に溢れて、こぼれる。",
+                "translatedEnglishLine": "tears continued to overflow and spill."
+            },
+            {
+                "lineNumber": "268872",
+                "originalJapaneseLine": "「あっ……ぁ……ぁ……」",
+                "translatedEnglishLine": "\"Ah... ah... ah...\""
+            },
+            {
+                "lineNumber": "268873",
+                "originalJapaneseLine": "「なんで泣くでござる？」",
+                "translatedEnglishLine": "\"Why are you crying?\""
+            },
+            {
+                "lineNumber": "268874",
+                "originalJapaneseLine": "「ぅ……」",
+                "translatedEnglishLine": "\"Ugh...\""
+            },
+            {
+                "lineNumber": "268875",
+                "originalJapaneseLine": "「でも……だって……」",
+                "translatedEnglishLine": "\"But... it's because...\""
+            },
+            {
+                "lineNumber": "268876",
+                "originalJapaneseLine": "「あんなに違う人……",
+                "translatedEnglishLine": "\"They're such different people...\""
+            },
+            {
+                "lineNumber": "268877",
+                "originalJapaneseLine": "　じゃ、ないですか……」",
+                "translatedEnglishLine": " aren't they...?\""
+            },
+            {
+                "lineNumber": "268878",
+                "originalJapaneseLine": "「うん、そーだね」",
+                "translatedEnglishLine": "\"Yeah, that's right.\""
+            },
+            {
+                "lineNumber": "268879",
+                "originalJapaneseLine": "「同じなようで……違くて……",
+                "translatedEnglishLine": "\"They seem the same... but they're different..."
+            },
+            {
+                "lineNumber": "268880",
+                "originalJapaneseLine": "　それって……やっぱり……」",
+                "translatedEnglishLine": " and that means... after all...\""
+            },
+            {
+                "lineNumber": "268881",
+                "originalJapaneseLine": "「鈴女さんは……いないって……」",
+                "translatedEnglishLine": "\"That Suzume-san... isn't there anymore...\""
+            },
+            {
+                "lineNumber": "268882",
+                "originalJapaneseLine": "「うん、そーだね」",
+                "translatedEnglishLine": "\"Yeah, that's right.\""
+            },
+            {
+                "lineNumber": "268883",
+                "originalJapaneseLine": "「だから……",
+                "translatedEnglishLine": "\"So...\""
+            }
+        ]
+    }
+}

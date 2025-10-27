@@ -1,0 +1,719 @@
+{
+    "id": "resp_0e973798278a7fcf0068ffec8d53ec8195b36923d709b2353b",
+    "object": "response",
+    "created_at": 1761602701,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0e973798278a7fcf0068ffec8dd4a88195bdd1732bb8d50229",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　あったことに違いはあるまい」\",\"translatedEnglishLine\":\"\\\"There is no doubt that it happened.\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「それがなにがしかの理由により、\",\"translatedEnglishLine\":\"\\\"For some reason,\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　魔血魂を飲み込むに至った」\",\"translatedEnglishLine\":\"it ended up engulfing the Demon Blood Soul.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「神であるバスワルドと魔王では、\",\"translatedEnglishLine\":\"\\\"Between Baswald, who is a god, and the Demon King,\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　バスワルドの方が格上の存在」\",\"translatedEnglishLine\":\"Baswald is the superior being.\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「生き物としての格を下げる為、\",\"translatedEnglishLine\":\"\\\"In order to lower its status as a living creature,\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　二つに分けられ今の姿と\",\"translatedEnglishLine\":\"it was split into two, becoming its current form,\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　なったのではないだろうか」\",\"translatedEnglishLine\":\"isn't that so?\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「無論、その影響で力は弱まり、\",\"translatedEnglishLine\":\"\\\"Of course, as a result, its power weakened,\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　神ではなく強い魔人程度に力が収まった……と」\",\"translatedEnglishLine\":\"and its power settled at the level of a strong demon rather than a god...\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「そんなところではないか」\",\"translatedEnglishLine\":\"\\\"Isn't that about right?\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「そう考えれば貴様らは幸福かも知れんな」\",\"translatedEnglishLine\":\"\\\"If you think that way, you might be lucky.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「多くの者は自分の半身を探し求める。\",\"translatedEnglishLine\":\"\\\"Many search for their other half.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　それがこんな近くにいる」\",\"translatedEnglishLine\":\"And yours is so close.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「そして、一つより二つの方が良い。\",\"translatedEnglishLine\":\"\\\"Moreover, two are better than one.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　手を繋ぎ、言葉を交わし、思いを交換する、\",\"translatedEnglishLine\":\"Holding hands, exchanging words, sharing feelings,\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　心通わせる幸福を常に享受できるのだから」\",\"translatedEnglishLine\":\"you can always enjoy the happiness of connected hearts.\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「はは、互いを大事にすることだな」\",\"translatedEnglishLine\":\"\\\"Haha, it's about cherishing each other.\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ああ、そうそう。\",\"translatedEnglishLine\":\"\\\"Yes, exactly.\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　神となった際の空間を削る破壊の力は凄まじい」\",\"translatedEnglishLine\":\"The destructive power that erodes space when becoming a god is tremendous.\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「だが制御出来なければそれはただの災害。\",\"translatedEnglishLine\":\"\\\"But if you can't control it, it's just a disaster.\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　おいそれとは一つにならぬことだな」\",\"translatedEnglishLine\":\"It's not something you can easily combine.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「大事な者を守りたいと思うのなら尚更な」\",\"translatedEnglishLine\":\"\\\"Especially if you want to protect someone important.\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「ん、今までの仮説は正しいのかだと？」\",\"translatedEnglishLine\":\"\\\"Hmm, you ask if the previous hypothesis is correct?\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「……さーてな。\",\"translatedEnglishLine\":\"\\\"...Well, who knows.\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　なんとなくそう思った、\",\"translatedEnglishLine\":\"I just somehow thought so,\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　というだけの話」\",\"translatedEnglishLine\":\"that's all there is to it.\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「なんか……\",\"translatedEnglishLine\":\"\\\"Somehow...\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　これと言った情報はなかった……\",\"translatedEnglishLine\":\"there wasn't any concrete information...\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　っていう感じね」\",\"translatedEnglishLine\":\"that's the feeling.\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"二人はこの力がなんなのか、\",\"translatedEnglishLine\":\"The two were searching for what exactly this power was,\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"そしてそれを制御する為には\",\"translatedEnglishLine\":\"and how to control it.\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"どうしたらいいかを探していた。\",\"translatedEnglishLine\":\"They were looking for what they should do.\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「そうね……\",\"translatedEnglishLine\":\"\\\"That's right...\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　結局、この力がどういうものか\",\"translatedEnglishLine\":\"In the end, we didn't really understand what this power is,\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　よく分からなかったし……」\",\"translatedEnglishLine\":\"that's for sure...\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「これからどうする？」\",\"translatedEnglishLine\":\"\\\"What do we do from here?\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「力を制御する為の……\",\"translatedEnglishLine\":\"\\\"For controlling the power...\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　何かが必要だと思うの」\",\"translatedEnglishLine\":\"I think we need something.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「それ……\",\"translatedEnglishLine\":\"\\\"That...\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　どうしたらいいわけ？」\",\"translatedEnglishLine\":\"What exactly do we do?\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「修行して制御出来るように、\",\"translatedEnglishLine\":\"\\\"Training to control it,\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　っていうのはもう失敗したから……」\",\"translatedEnglishLine\":\"we've already failed at that...\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「そういうアイテムを\",\"translatedEnglishLine\":\"\\\"What about asking someone who can make such an item?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　作れる人に頼む、とか？」\",\"translatedEnglishLine\":\"\\\"Like asking a person who can make something like that?\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「それ、誰か心当たりあるの？」\",\"translatedEnglishLine\":\"\\\"Do you have anyone in mind?\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「そうだ。\",\"translatedEnglishLine\":\"\\\"Yes.\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　あの人に頼んでみる？」\",\"translatedEnglishLine\":\"Shall we ask that person?\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「……あの人？」\",\"translatedEnglishLine\":\"\\\"...That person?\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「やだよ、面倒臭い」\",\"translatedEnglishLine\":\"\\\"No way, that's too much trouble.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"ハウゼル達はにべもなく断られた。\",\"translatedEnglishLine\":\"Housel and the others were flatly rejected.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「ほら、やっぱり駄目じゃん！\",\"translatedEnglishLine\":\"\\\"See, I knew it wouldn't work!\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"　こいつが私達のお願いなんて\",\"translatedEnglishLine\":\"This guy would never listen to our requests!\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　聞いたりなんてしないわよ！」\",\"translatedEnglishLine\":\"He wouldn't even consider it!\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「うう……」\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「……と、言いたいんだけどね」\",\"translatedEnglishLine\":\"\\\"...That's what I want to say, but...\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「え……？」\",\"translatedEnglishLine\":\"\\\"Eh...?\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「僕達の……\",\"translatedEnglishLine\":\"\\\"Our...\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　何よりも姉さんの居住地の近くに、\",\"translatedEnglishLine\":\"more than anything, near older sister's residence,\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "268224",
+                                "originalJapaneseLine": "　あったことに違いはあるまい」",
+                                "translatedEnglishLine": "\"There is no doubt that it happened.\""
+                            },
+                            {
+                                "lineNumber": "268225",
+                                "originalJapaneseLine": "「それがなにがしかの理由により、",
+                                "translatedEnglishLine": "\"For some reason,"
+                            },
+                            {
+                                "lineNumber": "268226",
+                                "originalJapaneseLine": "　魔血魂を飲み込むに至った」",
+                                "translatedEnglishLine": "it ended up engulfing the Demon Blood Soul.\""
+                            },
+                            {
+                                "lineNumber": "268227",
+                                "originalJapaneseLine": "「神であるバスワルドと魔王では、",
+                                "translatedEnglishLine": "\"Between Baswald, who is a god, and the Demon King,"
+                            },
+                            {
+                                "lineNumber": "268228",
+                                "originalJapaneseLine": "　バスワルドの方が格上の存在」",
+                                "translatedEnglishLine": "Baswald is the superior being.\""
+                            },
+                            {
+                                "lineNumber": "268229",
+                                "originalJapaneseLine": "「生き物としての格を下げる為、",
+                                "translatedEnglishLine": "\"In order to lower its status as a living creature,"
+                            },
+                            {
+                                "lineNumber": "268230",
+                                "originalJapaneseLine": "　二つに分けられ今の姿と",
+                                "translatedEnglishLine": "it was split into two, becoming its current form,"
+                            },
+                            {
+                                "lineNumber": "268231",
+                                "originalJapaneseLine": "　なったのではないだろうか」",
+                                "translatedEnglishLine": "isn't that so?\""
+                            },
+                            {
+                                "lineNumber": "268232",
+                                "originalJapaneseLine": "「無論、その影響で力は弱まり、",
+                                "translatedEnglishLine": "\"Of course, as a result, its power weakened,"
+                            },
+                            {
+                                "lineNumber": "268233",
+                                "originalJapaneseLine": "　神ではなく強い魔人程度に力が収まった……と」",
+                                "translatedEnglishLine": "and its power settled at the level of a strong demon rather than a god...\""
+                            },
+                            {
+                                "lineNumber": "268234",
+                                "originalJapaneseLine": "「そんなところではないか」",
+                                "translatedEnglishLine": "\"Isn't that about right?\""
+                            },
+                            {
+                                "lineNumber": "268235",
+                                "originalJapaneseLine": "「そう考えれば貴様らは幸福かも知れんな」",
+                                "translatedEnglishLine": "\"If you think that way, you might be lucky.\""
+                            },
+                            {
+                                "lineNumber": "268236",
+                                "originalJapaneseLine": "「多くの者は自分の半身を探し求める。",
+                                "translatedEnglishLine": "\"Many search for their other half."
+                            },
+                            {
+                                "lineNumber": "268237",
+                                "originalJapaneseLine": "　それがこんな近くにいる」",
+                                "translatedEnglishLine": "And yours is so close.\""
+                            },
+                            {
+                                "lineNumber": "268238",
+                                "originalJapaneseLine": "「そして、一つより二つの方が良い。",
+                                "translatedEnglishLine": "\"Moreover, two are better than one."
+                            },
+                            {
+                                "lineNumber": "268239",
+                                "originalJapaneseLine": "　手を繋ぎ、言葉を交わし、思いを交換する、",
+                                "translatedEnglishLine": "Holding hands, exchanging words, sharing feelings,"
+                            },
+                            {
+                                "lineNumber": "268240",
+                                "originalJapaneseLine": "　心通わせる幸福を常に享受できるのだから」",
+                                "translatedEnglishLine": "you can always enjoy the happiness of connected hearts.\""
+                            },
+                            {
+                                "lineNumber": "268241",
+                                "originalJapaneseLine": "「はは、互いを大事にすることだな」",
+                                "translatedEnglishLine": "\"Haha, it's about cherishing each other.\""
+                            },
+                            {
+                                "lineNumber": "268242",
+                                "originalJapaneseLine": "「ああ、そうそう。",
+                                "translatedEnglishLine": "\"Yes, exactly."
+                            },
+                            {
+                                "lineNumber": "268243",
+                                "originalJapaneseLine": "　神となった際の空間を削る破壊の力は凄まじい」",
+                                "translatedEnglishLine": "The destructive power that erodes space when becoming a god is tremendous.\""
+                            },
+                            {
+                                "lineNumber": "268244",
+                                "originalJapaneseLine": "「だが制御出来なければそれはただの災害。",
+                                "translatedEnglishLine": "\"But if you can't control it, it's just a disaster."
+                            },
+                            {
+                                "lineNumber": "268245",
+                                "originalJapaneseLine": "　おいそれとは一つにならぬことだな」",
+                                "translatedEnglishLine": "It's not something you can easily combine.\""
+                            },
+                            {
+                                "lineNumber": "268246",
+                                "originalJapaneseLine": "「大事な者を守りたいと思うのなら尚更な」",
+                                "translatedEnglishLine": "\"Especially if you want to protect someone important.\""
+                            },
+                            {
+                                "lineNumber": "268247",
+                                "originalJapaneseLine": "「ん、今までの仮説は正しいのかだと？」",
+                                "translatedEnglishLine": "\"Hmm, you ask if the previous hypothesis is correct?\""
+                            },
+                            {
+                                "lineNumber": "268248",
+                                "originalJapaneseLine": "「……さーてな。",
+                                "translatedEnglishLine": "\"...Well, who knows."
+                            },
+                            {
+                                "lineNumber": "268249",
+                                "originalJapaneseLine": "　なんとなくそう思った、",
+                                "translatedEnglishLine": "I just somehow thought so,"
+                            },
+                            {
+                                "lineNumber": "268250",
+                                "originalJapaneseLine": "　というだけの話」",
+                                "translatedEnglishLine": "that's all there is to it.\""
+                            },
+                            {
+                                "lineNumber": "268251",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "268252",
+                                "originalJapaneseLine": "「なんか……",
+                                "translatedEnglishLine": "\"Somehow..."
+                            },
+                            {
+                                "lineNumber": "268253",
+                                "originalJapaneseLine": "　これと言った情報はなかった……",
+                                "translatedEnglishLine": "there wasn't any concrete information..."
+                            },
+                            {
+                                "lineNumber": "268254",
+                                "originalJapaneseLine": "　っていう感じね」",
+                                "translatedEnglishLine": "that's the feeling.\""
+                            },
+                            {
+                                "lineNumber": "268255",
+                                "originalJapaneseLine": "二人はこの力がなんなのか、",
+                                "translatedEnglishLine": "The two were searching for what exactly this power was,"
+                            },
+                            {
+                                "lineNumber": "268256",
+                                "originalJapaneseLine": "そしてそれを制御する為には",
+                                "translatedEnglishLine": "and how to control it."
+                            },
+                            {
+                                "lineNumber": "268257",
+                                "originalJapaneseLine": "どうしたらいいかを探していた。",
+                                "translatedEnglishLine": "They were looking for what they should do."
+                            },
+                            {
+                                "lineNumber": "268258",
+                                "originalJapaneseLine": "「そうね……",
+                                "translatedEnglishLine": "\"That's right..."
+                            },
+                            {
+                                "lineNumber": "268259",
+                                "originalJapaneseLine": "　結局、この力がどういうものか",
+                                "translatedEnglishLine": "In the end, we didn't really understand what this power is,"
+                            },
+                            {
+                                "lineNumber": "268260",
+                                "originalJapaneseLine": "　よく分からなかったし……」",
+                                "translatedEnglishLine": "that's for sure...\""
+                            },
+                            {
+                                "lineNumber": "268261",
+                                "originalJapaneseLine": "「これからどうする？」",
+                                "translatedEnglishLine": "\"What do we do from here?\""
+                            },
+                            {
+                                "lineNumber": "268262",
+                                "originalJapaneseLine": "「力を制御する為の……",
+                                "translatedEnglishLine": "\"For controlling the power..."
+                            },
+                            {
+                                "lineNumber": "268263",
+                                "originalJapaneseLine": "　何かが必要だと思うの」",
+                                "translatedEnglishLine": "I think we need something.\""
+                            },
+                            {
+                                "lineNumber": "268264",
+                                "originalJapaneseLine": "「それ……",
+                                "translatedEnglishLine": "\"That..."
+                            },
+                            {
+                                "lineNumber": "268265",
+                                "originalJapaneseLine": "　どうしたらいいわけ？」",
+                                "translatedEnglishLine": "What exactly do we do?\""
+                            },
+                            {
+                                "lineNumber": "268266",
+                                "originalJapaneseLine": "「修行して制御出来るように、",
+                                "translatedEnglishLine": "\"Training to control it,"
+                            },
+                            {
+                                "lineNumber": "268267",
+                                "originalJapaneseLine": "　っていうのはもう失敗したから……」",
+                                "translatedEnglishLine": "we've already failed at that...\""
+                            },
+                            {
+                                "lineNumber": "268268",
+                                "originalJapaneseLine": "「そういうアイテムを",
+                                "translatedEnglishLine": "\"What about asking someone who can make such an item?\""
+                            },
+                            {
+                                "lineNumber": "268269",
+                                "originalJapaneseLine": "　作れる人に頼む、とか？」",
+                                "translatedEnglishLine": "\"Like asking a person who can make something like that?\""
+                            },
+                            {
+                                "lineNumber": "268270",
+                                "originalJapaneseLine": "「それ、誰か心当たりあるの？」",
+                                "translatedEnglishLine": "\"Do you have anyone in mind?\""
+                            },
+                            {
+                                "lineNumber": "268271",
+                                "originalJapaneseLine": "「そうだ。",
+                                "translatedEnglishLine": "\"Yes."
+                            },
+                            {
+                                "lineNumber": "268272",
+                                "originalJapaneseLine": "　あの人に頼んでみる？」",
+                                "translatedEnglishLine": "Shall we ask that person?\""
+                            },
+                            {
+                                "lineNumber": "268273",
+                                "originalJapaneseLine": "「……あの人？」",
+                                "translatedEnglishLine": "\"...That person?\""
+                            },
+                            {
+                                "lineNumber": "268274",
+                                "originalJapaneseLine": "「やだよ、面倒臭い」",
+                                "translatedEnglishLine": "\"No way, that's too much trouble.\""
+                            },
+                            {
+                                "lineNumber": "268275",
+                                "originalJapaneseLine": "ハウゼル達はにべもなく断られた。",
+                                "translatedEnglishLine": "Housel and the others were flatly rejected."
+                            },
+                            {
+                                "lineNumber": "268276",
+                                "originalJapaneseLine": "「ほら、やっぱり駄目じゃん！",
+                                "translatedEnglishLine": "\"See, I knew it wouldn't work!"
+                            },
+                            {
+                                "lineNumber": "268277",
+                                "originalJapaneseLine": "　こいつが私達のお願いなんて",
+                                "translatedEnglishLine": "This guy would never listen to our requests!"
+                            },
+                            {
+                                "lineNumber": "268278",
+                                "originalJapaneseLine": "　聞いたりなんてしないわよ！」",
+                                "translatedEnglishLine": "He wouldn't even consider it!\""
+                            },
+                            {
+                                "lineNumber": "268279",
+                                "originalJapaneseLine": "「うう……」",
+                                "translatedEnglishLine": "\"Ugh...\""
+                            },
+                            {
+                                "lineNumber": "268280",
+                                "originalJapaneseLine": "「……と、言いたいんだけどね」",
+                                "translatedEnglishLine": "\"...That's what I want to say, but...\""
+                            },
+                            {
+                                "lineNumber": "268281",
+                                "originalJapaneseLine": "「え……？」",
+                                "translatedEnglishLine": "\"Eh...?\""
+                            },
+                            {
+                                "lineNumber": "268282",
+                                "originalJapaneseLine": "「僕達の……",
+                                "translatedEnglishLine": "\"Our..."
+                            },
+                            {
+                                "lineNumber": "268283",
+                                "originalJapaneseLine": "　何よりも姉さんの居住地の近くに、",
+                                "translatedEnglishLine": "more than anything, near older sister's residence,"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1775,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2052,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3827
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　あったことに違いはあるまい」\",\"translatedEnglishLine\":\"\\\"There is no doubt that it happened.\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「それがなにがしかの理由により、\",\"translatedEnglishLine\":\"\\\"For some reason,\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　魔血魂を飲み込むに至った」\",\"translatedEnglishLine\":\"it ended up engulfing the Demon Blood Soul.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「神であるバスワルドと魔王では、\",\"translatedEnglishLine\":\"\\\"Between Baswald, who is a god, and the Demon King,\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　バスワルドの方が格上の存在」\",\"translatedEnglishLine\":\"Baswald is the superior being.\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「生き物としての格を下げる為、\",\"translatedEnglishLine\":\"\\\"In order to lower its status as a living creature,\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　二つに分けられ今の姿と\",\"translatedEnglishLine\":\"it was split into two, becoming its current form,\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　なったのではないだろうか」\",\"translatedEnglishLine\":\"isn't that so?\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「無論、その影響で力は弱まり、\",\"translatedEnglishLine\":\"\\\"Of course, as a result, its power weakened,\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　神ではなく強い魔人程度に力が収まった……と」\",\"translatedEnglishLine\":\"and its power settled at the level of a strong demon rather than a god...\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「そんなところではないか」\",\"translatedEnglishLine\":\"\\\"Isn't that about right?\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「そう考えれば貴様らは幸福かも知れんな」\",\"translatedEnglishLine\":\"\\\"If you think that way, you might be lucky.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「多くの者は自分の半身を探し求める。\",\"translatedEnglishLine\":\"\\\"Many search for their other half.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　それがこんな近くにいる」\",\"translatedEnglishLine\":\"And yours is so close.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「そして、一つより二つの方が良い。\",\"translatedEnglishLine\":\"\\\"Moreover, two are better than one.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　手を繋ぎ、言葉を交わし、思いを交換する、\",\"translatedEnglishLine\":\"Holding hands, exchanging words, sharing feelings,\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　心通わせる幸福を常に享受できるのだから」\",\"translatedEnglishLine\":\"you can always enjoy the happiness of connected hearts.\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「はは、互いを大事にすることだな」\",\"translatedEnglishLine\":\"\\\"Haha, it's about cherishing each other.\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ああ、そうそう。\",\"translatedEnglishLine\":\"\\\"Yes, exactly.\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　神となった際の空間を削る破壊の力は凄まじい」\",\"translatedEnglishLine\":\"The destructive power that erodes space when becoming a god is tremendous.\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「だが制御出来なければそれはただの災害。\",\"translatedEnglishLine\":\"\\\"But if you can't control it, it's just a disaster.\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　おいそれとは一つにならぬことだな」\",\"translatedEnglishLine\":\"It's not something you can easily combine.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「大事な者を守りたいと思うのなら尚更な」\",\"translatedEnglishLine\":\"\\\"Especially if you want to protect someone important.\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「ん、今までの仮説は正しいのかだと？」\",\"translatedEnglishLine\":\"\\\"Hmm, you ask if the previous hypothesis is correct?\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「……さーてな。\",\"translatedEnglishLine\":\"\\\"...Well, who knows.\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　なんとなくそう思った、\",\"translatedEnglishLine\":\"I just somehow thought so,\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　というだけの話」\",\"translatedEnglishLine\":\"that's all there is to it.\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「なんか……\",\"translatedEnglishLine\":\"\\\"Somehow...\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　これと言った情報はなかった……\",\"translatedEnglishLine\":\"there wasn't any concrete information...\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　っていう感じね」\",\"translatedEnglishLine\":\"that's the feeling.\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"二人はこの力がなんなのか、\",\"translatedEnglishLine\":\"The two were searching for what exactly this power was,\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"そしてそれを制御する為には\",\"translatedEnglishLine\":\"and how to control it.\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"どうしたらいいかを探していた。\",\"translatedEnglishLine\":\"They were looking for what they should do.\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「そうね……\",\"translatedEnglishLine\":\"\\\"That's right...\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　結局、この力がどういうものか\",\"translatedEnglishLine\":\"In the end, we didn't really understand what this power is,\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　よく分からなかったし……」\",\"translatedEnglishLine\":\"that's for sure...\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「これからどうする？」\",\"translatedEnglishLine\":\"\\\"What do we do from here?\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「力を制御する為の……\",\"translatedEnglishLine\":\"\\\"For controlling the power...\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　何かが必要だと思うの」\",\"translatedEnglishLine\":\"I think we need something.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「それ……\",\"translatedEnglishLine\":\"\\\"That...\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　どうしたらいいわけ？」\",\"translatedEnglishLine\":\"What exactly do we do?\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「修行して制御出来るように、\",\"translatedEnglishLine\":\"\\\"Training to control it,\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　っていうのはもう失敗したから……」\",\"translatedEnglishLine\":\"we've already failed at that...\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「そういうアイテムを\",\"translatedEnglishLine\":\"\\\"What about asking someone who can make such an item?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　作れる人に頼む、とか？」\",\"translatedEnglishLine\":\"\\\"Like asking a person who can make something like that?\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「それ、誰か心当たりあるの？」\",\"translatedEnglishLine\":\"\\\"Do you have anyone in mind?\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「そうだ。\",\"translatedEnglishLine\":\"\\\"Yes.\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　あの人に頼んでみる？」\",\"translatedEnglishLine\":\"Shall we ask that person?\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「……あの人？」\",\"translatedEnglishLine\":\"\\\"...That person?\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「やだよ、面倒臭い」\",\"translatedEnglishLine\":\"\\\"No way, that's too much trouble.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"ハウゼル達はにべもなく断られた。\",\"translatedEnglishLine\":\"Housel and the others were flatly rejected.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「ほら、やっぱり駄目じゃん！\",\"translatedEnglishLine\":\"\\\"See, I knew it wouldn't work!\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"　こいつが私達のお願いなんて\",\"translatedEnglishLine\":\"This guy would never listen to our requests!\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　聞いたりなんてしないわよ！」\",\"translatedEnglishLine\":\"He wouldn't even consider it!\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「うう……」\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「……と、言いたいんだけどね」\",\"translatedEnglishLine\":\"\\\"...That's what I want to say, but...\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「え……？」\",\"translatedEnglishLine\":\"\\\"Eh...?\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「僕達の……\",\"translatedEnglishLine\":\"\\\"Our...\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　何よりも姉さんの居住地の近くに、\",\"translatedEnglishLine\":\"more than anything, near older sister's residence,\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "268224",
+                "originalJapaneseLine": "　あったことに違いはあるまい」",
+                "translatedEnglishLine": "\"There is no doubt that it happened.\""
+            },
+            {
+                "lineNumber": "268225",
+                "originalJapaneseLine": "「それがなにがしかの理由により、",
+                "translatedEnglishLine": "\"For some reason,"
+            },
+            {
+                "lineNumber": "268226",
+                "originalJapaneseLine": "　魔血魂を飲み込むに至った」",
+                "translatedEnglishLine": "it ended up engulfing the Demon Blood Soul.\""
+            },
+            {
+                "lineNumber": "268227",
+                "originalJapaneseLine": "「神であるバスワルドと魔王では、",
+                "translatedEnglishLine": "\"Between Baswald, who is a god, and the Demon King,"
+            },
+            {
+                "lineNumber": "268228",
+                "originalJapaneseLine": "　バスワルドの方が格上の存在」",
+                "translatedEnglishLine": "Baswald is the superior being.\""
+            },
+            {
+                "lineNumber": "268229",
+                "originalJapaneseLine": "「生き物としての格を下げる為、",
+                "translatedEnglishLine": "\"In order to lower its status as a living creature,"
+            },
+            {
+                "lineNumber": "268230",
+                "originalJapaneseLine": "　二つに分けられ今の姿と",
+                "translatedEnglishLine": "it was split into two, becoming its current form,"
+            },
+            {
+                "lineNumber": "268231",
+                "originalJapaneseLine": "　なったのではないだろうか」",
+                "translatedEnglishLine": "isn't that so?\""
+            },
+            {
+                "lineNumber": "268232",
+                "originalJapaneseLine": "「無論、その影響で力は弱まり、",
+                "translatedEnglishLine": "\"Of course, as a result, its power weakened,"
+            },
+            {
+                "lineNumber": "268233",
+                "originalJapaneseLine": "　神ではなく強い魔人程度に力が収まった……と」",
+                "translatedEnglishLine": "and its power settled at the level of a strong demon rather than a god...\""
+            },
+            {
+                "lineNumber": "268234",
+                "originalJapaneseLine": "「そんなところではないか」",
+                "translatedEnglishLine": "\"Isn't that about right?\""
+            },
+            {
+                "lineNumber": "268235",
+                "originalJapaneseLine": "「そう考えれば貴様らは幸福かも知れんな」",
+                "translatedEnglishLine": "\"If you think that way, you might be lucky.\""
+            },
+            {
+                "lineNumber": "268236",
+                "originalJapaneseLine": "「多くの者は自分の半身を探し求める。",
+                "translatedEnglishLine": "\"Many search for their other half."
+            },
+            {
+                "lineNumber": "268237",
+                "originalJapaneseLine": "　それがこんな近くにいる」",
+                "translatedEnglishLine": "And yours is so close.\""
+            },
+            {
+                "lineNumber": "268238",
+                "originalJapaneseLine": "「そして、一つより二つの方が良い。",
+                "translatedEnglishLine": "\"Moreover, two are better than one."
+            },
+            {
+                "lineNumber": "268239",
+                "originalJapaneseLine": "　手を繋ぎ、言葉を交わし、思いを交換する、",
+                "translatedEnglishLine": "Holding hands, exchanging words, sharing feelings,"
+            },
+            {
+                "lineNumber": "268240",
+                "originalJapaneseLine": "　心通わせる幸福を常に享受できるのだから」",
+                "translatedEnglishLine": "you can always enjoy the happiness of connected hearts.\""
+            },
+            {
+                "lineNumber": "268241",
+                "originalJapaneseLine": "「はは、互いを大事にすることだな」",
+                "translatedEnglishLine": "\"Haha, it's about cherishing each other.\""
+            },
+            {
+                "lineNumber": "268242",
+                "originalJapaneseLine": "「ああ、そうそう。",
+                "translatedEnglishLine": "\"Yes, exactly."
+            },
+            {
+                "lineNumber": "268243",
+                "originalJapaneseLine": "　神となった際の空間を削る破壊の力は凄まじい」",
+                "translatedEnglishLine": "The destructive power that erodes space when becoming a god is tremendous.\""
+            },
+            {
+                "lineNumber": "268244",
+                "originalJapaneseLine": "「だが制御出来なければそれはただの災害。",
+                "translatedEnglishLine": "\"But if you can't control it, it's just a disaster."
+            },
+            {
+                "lineNumber": "268245",
+                "originalJapaneseLine": "　おいそれとは一つにならぬことだな」",
+                "translatedEnglishLine": "It's not something you can easily combine.\""
+            },
+            {
+                "lineNumber": "268246",
+                "originalJapaneseLine": "「大事な者を守りたいと思うのなら尚更な」",
+                "translatedEnglishLine": "\"Especially if you want to protect someone important.\""
+            },
+            {
+                "lineNumber": "268247",
+                "originalJapaneseLine": "「ん、今までの仮説は正しいのかだと？」",
+                "translatedEnglishLine": "\"Hmm, you ask if the previous hypothesis is correct?\""
+            },
+            {
+                "lineNumber": "268248",
+                "originalJapaneseLine": "「……さーてな。",
+                "translatedEnglishLine": "\"...Well, who knows."
+            },
+            {
+                "lineNumber": "268249",
+                "originalJapaneseLine": "　なんとなくそう思った、",
+                "translatedEnglishLine": "I just somehow thought so,"
+            },
+            {
+                "lineNumber": "268250",
+                "originalJapaneseLine": "　というだけの話」",
+                "translatedEnglishLine": "that's all there is to it.\""
+            },
+            {
+                "lineNumber": "268251",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "268252",
+                "originalJapaneseLine": "「なんか……",
+                "translatedEnglishLine": "\"Somehow..."
+            },
+            {
+                "lineNumber": "268253",
+                "originalJapaneseLine": "　これと言った情報はなかった……",
+                "translatedEnglishLine": "there wasn't any concrete information..."
+            },
+            {
+                "lineNumber": "268254",
+                "originalJapaneseLine": "　っていう感じね」",
+                "translatedEnglishLine": "that's the feeling.\""
+            },
+            {
+                "lineNumber": "268255",
+                "originalJapaneseLine": "二人はこの力がなんなのか、",
+                "translatedEnglishLine": "The two were searching for what exactly this power was,"
+            },
+            {
+                "lineNumber": "268256",
+                "originalJapaneseLine": "そしてそれを制御する為には",
+                "translatedEnglishLine": "and how to control it."
+            },
+            {
+                "lineNumber": "268257",
+                "originalJapaneseLine": "どうしたらいいかを探していた。",
+                "translatedEnglishLine": "They were looking for what they should do."
+            },
+            {
+                "lineNumber": "268258",
+                "originalJapaneseLine": "「そうね……",
+                "translatedEnglishLine": "\"That's right..."
+            },
+            {
+                "lineNumber": "268259",
+                "originalJapaneseLine": "　結局、この力がどういうものか",
+                "translatedEnglishLine": "In the end, we didn't really understand what this power is,"
+            },
+            {
+                "lineNumber": "268260",
+                "originalJapaneseLine": "　よく分からなかったし……」",
+                "translatedEnglishLine": "that's for sure...\""
+            },
+            {
+                "lineNumber": "268261",
+                "originalJapaneseLine": "「これからどうする？」",
+                "translatedEnglishLine": "\"What do we do from here?\""
+            },
+            {
+                "lineNumber": "268262",
+                "originalJapaneseLine": "「力を制御する為の……",
+                "translatedEnglishLine": "\"For controlling the power..."
+            },
+            {
+                "lineNumber": "268263",
+                "originalJapaneseLine": "　何かが必要だと思うの」",
+                "translatedEnglishLine": "I think we need something.\""
+            },
+            {
+                "lineNumber": "268264",
+                "originalJapaneseLine": "「それ……",
+                "translatedEnglishLine": "\"That..."
+            },
+            {
+                "lineNumber": "268265",
+                "originalJapaneseLine": "　どうしたらいいわけ？」",
+                "translatedEnglishLine": "What exactly do we do?\""
+            },
+            {
+                "lineNumber": "268266",
+                "originalJapaneseLine": "「修行して制御出来るように、",
+                "translatedEnglishLine": "\"Training to control it,"
+            },
+            {
+                "lineNumber": "268267",
+                "originalJapaneseLine": "　っていうのはもう失敗したから……」",
+                "translatedEnglishLine": "we've already failed at that...\""
+            },
+            {
+                "lineNumber": "268268",
+                "originalJapaneseLine": "「そういうアイテムを",
+                "translatedEnglishLine": "\"What about asking someone who can make such an item?\""
+            },
+            {
+                "lineNumber": "268269",
+                "originalJapaneseLine": "　作れる人に頼む、とか？」",
+                "translatedEnglishLine": "\"Like asking a person who can make something like that?\""
+            },
+            {
+                "lineNumber": "268270",
+                "originalJapaneseLine": "「それ、誰か心当たりあるの？」",
+                "translatedEnglishLine": "\"Do you have anyone in mind?\""
+            },
+            {
+                "lineNumber": "268271",
+                "originalJapaneseLine": "「そうだ。",
+                "translatedEnglishLine": "\"Yes."
+            },
+            {
+                "lineNumber": "268272",
+                "originalJapaneseLine": "　あの人に頼んでみる？」",
+                "translatedEnglishLine": "Shall we ask that person?\""
+            },
+            {
+                "lineNumber": "268273",
+                "originalJapaneseLine": "「……あの人？」",
+                "translatedEnglishLine": "\"...That person?\""
+            },
+            {
+                "lineNumber": "268274",
+                "originalJapaneseLine": "「やだよ、面倒臭い」",
+                "translatedEnglishLine": "\"No way, that's too much trouble.\""
+            },
+            {
+                "lineNumber": "268275",
+                "originalJapaneseLine": "ハウゼル達はにべもなく断られた。",
+                "translatedEnglishLine": "Housel and the others were flatly rejected."
+            },
+            {
+                "lineNumber": "268276",
+                "originalJapaneseLine": "「ほら、やっぱり駄目じゃん！",
+                "translatedEnglishLine": "\"See, I knew it wouldn't work!"
+            },
+            {
+                "lineNumber": "268277",
+                "originalJapaneseLine": "　こいつが私達のお願いなんて",
+                "translatedEnglishLine": "This guy would never listen to our requests!"
+            },
+            {
+                "lineNumber": "268278",
+                "originalJapaneseLine": "　聞いたりなんてしないわよ！」",
+                "translatedEnglishLine": "He wouldn't even consider it!\""
+            },
+            {
+                "lineNumber": "268279",
+                "originalJapaneseLine": "「うう……」",
+                "translatedEnglishLine": "\"Ugh...\""
+            },
+            {
+                "lineNumber": "268280",
+                "originalJapaneseLine": "「……と、言いたいんだけどね」",
+                "translatedEnglishLine": "\"...That's what I want to say, but...\""
+            },
+            {
+                "lineNumber": "268281",
+                "originalJapaneseLine": "「え……？」",
+                "translatedEnglishLine": "\"Eh...?\""
+            },
+            {
+                "lineNumber": "268282",
+                "originalJapaneseLine": "「僕達の……",
+                "translatedEnglishLine": "\"Our..."
+            },
+            {
+                "lineNumber": "268283",
+                "originalJapaneseLine": "　何よりも姉さんの居住地の近くに、",
+                "translatedEnglishLine": "more than anything, near older sister's residence,"
+            }
+        ]
+    }
+}

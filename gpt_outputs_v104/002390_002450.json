@@ -1,0 +1,719 @@
+{
+    "id": "resp_0ca89b2149a747ec0068ffe9f1820c81979d4b54b77d2cbf61",
+    "object": "response",
+    "created_at": 1761602033,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0ca89b2149a747ec0068ffe9f1db088197ac6d31a99e274090",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「なんでも、プリマがお前に\",\"translatedEnglishLine\":\"\\\"Apparently, Prima wants to slap a severance letter on you.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　絶縁状叩きつけたいんだと」\",\"translatedEnglishLine\":\"She said she wants to throw a breakup letter at you.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「それ、本気で言ってるの？」\",\"translatedEnglishLine\":\"\\\"Are you serious about that?\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「う、うぐぅっ！？」\",\"translatedEnglishLine\":\"\\\"U-ugh!?\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「そ、そんな顔、しても！\",\"translatedEnglishLine\":\"\\\"D-don't make that face!\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　だだだ、駄目だよ！」\",\"translatedEnglishLine\":\"No, no, that's not allowed!\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「ももももも、もう私の意思は固いんだ！」\",\"translatedEnglishLine\":\"\\\"M-m-m-my decision is already firm!\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「意思は固いかも知れんが、\",\"translatedEnglishLine\":\"\\\"Your decision might be firm, but\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　すごい及び腰だ」\",\"translatedEnglishLine\":\"you're really hesitant.\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「ちょっと黙ってな！」\",\"translatedEnglishLine\":\"\\\"Be quiet for a moment!\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「ななな、なにさ……」\",\"translatedEnglishLine\":\"\\\"W-w-w-what is this...\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　　＜ドサッ＞\",\"translatedEnglishLine\":\"<Thud>\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「わあっ！？　わわ、なになになに！？」\",\"translatedEnglishLine\":\"\\\"Wah!? Wha-wha-what is this!?!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"メガデスがプリマに抱きついた。\",\"translatedEnglishLine\":\"Megadeth threw herself into Prima's arms.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「やだぁぁぁあ……」\",\"translatedEnglishLine\":\"\\\"Nooooo...\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「えっ、ええええええ！？」\",\"translatedEnglishLine\":\"\\\"Eh, eeeeeeh!?\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「やだ……\",\"translatedEnglishLine\":\"\\\"No...\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　プリマ、お願い、捨てないで……」\",\"translatedEnglishLine\":\"Prima, please, don't throw me away...\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「う、ぐすっ……\",\"translatedEnglishLine\":\"\\\"U-ugh, sniff...\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　私、プリマがいないと駄目、なの……」\",\"translatedEnglishLine\":\"I can't be without Prima...\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「悪いところあるなら直すから……\",\"translatedEnglishLine\":\"\\\"If I have any bad points, I'll fix them...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　ひっく、ぐすっ、だ、だから……」\",\"translatedEnglishLine\":\"Hic, sniff, so, so...\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「お願いだから、捨てないでよぉ……\",\"translatedEnglishLine\":\"\\\"Please, don't throw me away...\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　うぇぇぇぇ……」\",\"translatedEnglishLine\":\"\\\"Waaaaaah...\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「あ、うう……\",\"translatedEnglishLine\":\"\\\"Ah, uh...\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"　きゅ、急にそんなこと言われても……」\",\"translatedEnglishLine\":\"\\\"I-I'm not sure what to say when you suddenly say that...\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「うううううう……」\",\"translatedEnglishLine\":\"\\\"Uuuuuu...\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「むう……\",\"translatedEnglishLine\":\"\\\"Mmm...\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　こんな弱い一面があったとは」\",\"translatedEnglishLine\":\"I didn't know she had such a weak side.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「メガデスの意外な姿だな……」\",\"translatedEnglishLine\":\"It's an unexpected side of Megadeth...\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「で、どうすんだ、プリマ？」\",\"translatedEnglishLine\":\"\\\"So, what will you do, Prima?\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「ど、どう、って言われても……」\",\"translatedEnglishLine\":\"\\\"W-what do you mean what will I do...\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「ひっく、ぐすっ……」\",\"translatedEnglishLine\":\"Hic, sniff...\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"プリマは自分の胸で泣いているメガデスを、\",\"translatedEnglishLine\":\"Prima was frozen, unsure how to handle Megadeth who was crying on her chest.\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"どう扱えばいいのか分からない顔で固まっていた。\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「私としては……\",\"translatedEnglishLine\":\"\\\"As for me...\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　性格直してくれるって言うなら……」\",\"translatedEnglishLine\":\"If you say you'll fix your personality...\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「ま、まあ……」\",\"translatedEnglishLine\":\"\\\"W-well...\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「駄目ってことはないんだけど、さ……」\",\"translatedEnglishLine\":\"It's not like I can't accept it, but...\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「ぐすっ……ひっく……\",\"translatedEnglishLine\":\"\\\"Sniff... hic...\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　じゃ、じゃあこれからも一緒にいていい？」\",\"translatedEnglishLine\":\"S-so, can I stay with you from now on?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"\\\"Hah...\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　分かった分かった。いいよ。許す」\",\"translatedEnglishLine\":\"Okay, okay. Fine. I forgive you.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「ホントにー？\",\"translatedEnglishLine\":\"\\\"Really?\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　良かったー☆」\",\"translatedEnglishLine\":\"Great☆\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「ええええええっ！？」\",\"translatedEnglishLine\":\"\\\"Eeeeeeh!?\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「ああああ、あんた、今までの！\",\"translatedEnglishLine\":\"\\\"Aaaaah, all this time, you were just...\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　――嘘泣き！？」\",\"translatedEnglishLine\":\"—faking those tears!?\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「メガデスのしそうなことではないか」\",\"translatedEnglishLine\":\"That's not something Megadeth would do.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「メガデス、メガデス、うっせーな。\",\"translatedEnglishLine\":\"\\\"Megadeth, Megadeth, shut up already.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　モロミちゃんって呼べっつってんだろうが」\",\"translatedEnglishLine\":\"I told you to call me Moromi-chan.\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「ま、いーや。\",\"translatedEnglishLine\":\"\\\"Ah, whatever.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　はー、真面目な話したら疲れたー。\",\"translatedEnglishLine\":\"Phew, talking seriously is tiring.\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　ご飯でも食べに行こうーっと」\",\"translatedEnglishLine\":\"Let's go grab some food or something.\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「ちょ、ちょっと……」\",\"translatedEnglishLine\":\"\\\"W-wait a minute...\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "267024",
+                                "originalJapaneseLine": "「なんでも、プリマがお前に",
+                                "translatedEnglishLine": "\"Apparently, Prima wants to slap a severance letter on you."
+                            },
+                            {
+                                "lineNumber": "267025",
+                                "originalJapaneseLine": "　絶縁状叩きつけたいんだと」",
+                                "translatedEnglishLine": "She said she wants to throw a breakup letter at you.\""
+                            },
+                            {
+                                "lineNumber": "267026",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "267027",
+                                "originalJapaneseLine": "「それ、本気で言ってるの？」",
+                                "translatedEnglishLine": "\"Are you serious about that?\""
+                            },
+                            {
+                                "lineNumber": "267028",
+                                "originalJapaneseLine": "「う、うぐぅっ！？」",
+                                "translatedEnglishLine": "\"U-ugh!?\""
+                            },
+                            {
+                                "lineNumber": "267029",
+                                "originalJapaneseLine": "「そ、そんな顔、しても！",
+                                "translatedEnglishLine": "\"D-don't make that face!"
+                            },
+                            {
+                                "lineNumber": "267030",
+                                "originalJapaneseLine": "　だだだ、駄目だよ！」",
+                                "translatedEnglishLine": "No, no, that's not allowed!\""
+                            },
+                            {
+                                "lineNumber": "267031",
+                                "originalJapaneseLine": "「ももももも、もう私の意思は固いんだ！」",
+                                "translatedEnglishLine": "\"M-m-m-my decision is already firm!\""
+                            },
+                            {
+                                "lineNumber": "267032",
+                                "originalJapaneseLine": "「意思は固いかも知れんが、",
+                                "translatedEnglishLine": "\"Your decision might be firm, but"
+                            },
+                            {
+                                "lineNumber": "267033",
+                                "originalJapaneseLine": "　すごい及び腰だ」",
+                                "translatedEnglishLine": "you're really hesitant.\""
+                            },
+                            {
+                                "lineNumber": "267034",
+                                "originalJapaneseLine": "「ちょっと黙ってな！」",
+                                "translatedEnglishLine": "\"Be quiet for a moment!\""
+                            },
+                            {
+                                "lineNumber": "267035",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "267036",
+                                "originalJapaneseLine": "「ななな、なにさ……」",
+                                "translatedEnglishLine": "\"W-w-w-what is this...\""
+                            },
+                            {
+                                "lineNumber": "267037",
+                                "originalJapaneseLine": "　",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": "267038",
+                                "originalJapaneseLine": "　　＜ドサッ＞",
+                                "translatedEnglishLine": "<Thud>"
+                            },
+                            {
+                                "lineNumber": "267039",
+                                "originalJapaneseLine": "「わあっ！？　わわ、なになになに！？」",
+                                "translatedEnglishLine": "\"Wah!? Wha-wha-what is this!?!\""
+                            },
+                            {
+                                "lineNumber": "267040",
+                                "originalJapaneseLine": "メガデスがプリマに抱きついた。",
+                                "translatedEnglishLine": "Megadeth threw herself into Prima's arms."
+                            },
+                            {
+                                "lineNumber": "267041",
+                                "originalJapaneseLine": "「やだぁぁぁあ……」",
+                                "translatedEnglishLine": "\"Nooooo...\""
+                            },
+                            {
+                                "lineNumber": "267042",
+                                "originalJapaneseLine": "「えっ、ええええええ！？」",
+                                "translatedEnglishLine": "\"Eh, eeeeeeh!?\""
+                            },
+                            {
+                                "lineNumber": "267043",
+                                "originalJapaneseLine": "「やだ……",
+                                "translatedEnglishLine": "\"No...\""
+                            },
+                            {
+                                "lineNumber": "267044",
+                                "originalJapaneseLine": "　プリマ、お願い、捨てないで……」",
+                                "translatedEnglishLine": "Prima, please, don't throw me away...\""
+                            },
+                            {
+                                "lineNumber": "267045",
+                                "originalJapaneseLine": "「う、ぐすっ……",
+                                "translatedEnglishLine": "\"U-ugh, sniff...\""
+                            },
+                            {
+                                "lineNumber": "267046",
+                                "originalJapaneseLine": "　私、プリマがいないと駄目、なの……」",
+                                "translatedEnglishLine": "I can't be without Prima...\""
+                            },
+                            {
+                                "lineNumber": "267047",
+                                "originalJapaneseLine": "「悪いところあるなら直すから……",
+                                "translatedEnglishLine": "\"If I have any bad points, I'll fix them...\""
+                            },
+                            {
+                                "lineNumber": "267048",
+                                "originalJapaneseLine": "　ひっく、ぐすっ、だ、だから……」",
+                                "translatedEnglishLine": "Hic, sniff, so, so...\""
+                            },
+                            {
+                                "lineNumber": "267049",
+                                "originalJapaneseLine": "「お願いだから、捨てないでよぉ……",
+                                "translatedEnglishLine": "\"Please, don't throw me away...\""
+                            },
+                            {
+                                "lineNumber": "267050",
+                                "originalJapaneseLine": "　うぇぇぇぇ……」",
+                                "translatedEnglishLine": "\"Waaaaaah...\""
+                            },
+                            {
+                                "lineNumber": "267051",
+                                "originalJapaneseLine": "「あ、うう……",
+                                "translatedEnglishLine": "\"Ah, uh...\""
+                            },
+                            {
+                                "lineNumber": "267052",
+                                "originalJapaneseLine": "　きゅ、急にそんなこと言われても……」",
+                                "translatedEnglishLine": "\"I-I'm not sure what to say when you suddenly say that...\""
+                            },
+                            {
+                                "lineNumber": "267053",
+                                "originalJapaneseLine": "「うううううう……」",
+                                "translatedEnglishLine": "\"Uuuuuu...\""
+                            },
+                            {
+                                "lineNumber": "267054",
+                                "originalJapaneseLine": "「むう……",
+                                "translatedEnglishLine": "\"Mmm...\""
+                            },
+                            {
+                                "lineNumber": "267055",
+                                "originalJapaneseLine": "　こんな弱い一面があったとは」",
+                                "translatedEnglishLine": "I didn't know she had such a weak side."
+                            },
+                            {
+                                "lineNumber": "267056",
+                                "originalJapaneseLine": "「メガデスの意外な姿だな……」",
+                                "translatedEnglishLine": "It's an unexpected side of Megadeth..."
+                            },
+                            {
+                                "lineNumber": "267057",
+                                "originalJapaneseLine": "「で、どうすんだ、プリマ？」",
+                                "translatedEnglishLine": "\"So, what will you do, Prima?\""
+                            },
+                            {
+                                "lineNumber": "267058",
+                                "originalJapaneseLine": "「ど、どう、って言われても……」",
+                                "translatedEnglishLine": "\"W-what do you mean what will I do...\""
+                            },
+                            {
+                                "lineNumber": "267059",
+                                "originalJapaneseLine": "「ひっく、ぐすっ……」",
+                                "translatedEnglishLine": "Hic, sniff...\""
+                            },
+                            {
+                                "lineNumber": "267060",
+                                "originalJapaneseLine": "プリマは自分の胸で泣いているメガデスを、",
+                                "translatedEnglishLine": "Prima was frozen, unsure how to handle Megadeth who was crying on her chest."
+                            },
+                            {
+                                "lineNumber": "267061",
+                                "originalJapaneseLine": "どう扱えばいいのか分からない顔で固まっていた。",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": "267062",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "267063",
+                                "originalJapaneseLine": "「私としては……",
+                                "translatedEnglishLine": "\"As for me...\""
+                            },
+                            {
+                                "lineNumber": "267064",
+                                "originalJapaneseLine": "　性格直してくれるって言うなら……」",
+                                "translatedEnglishLine": "If you say you'll fix your personality...\""
+                            },
+                            {
+                                "lineNumber": "267065",
+                                "originalJapaneseLine": "「ま、まあ……」",
+                                "translatedEnglishLine": "\"W-well...\""
+                            },
+                            {
+                                "lineNumber": "267066",
+                                "originalJapaneseLine": "「駄目ってことはないんだけど、さ……」",
+                                "translatedEnglishLine": "It's not like I can't accept it, but..."
+                            },
+                            {
+                                "lineNumber": "267067",
+                                "originalJapaneseLine": "「ぐすっ……ひっく……",
+                                "translatedEnglishLine": "\"Sniff... hic...\""
+                            },
+                            {
+                                "lineNumber": "267068",
+                                "originalJapaneseLine": "　じゃ、じゃあこれからも一緒にいていい？」",
+                                "translatedEnglishLine": "S-so, can I stay with you from now on?\""
+                            },
+                            {
+                                "lineNumber": "267069",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "267070",
+                                "originalJapaneseLine": "「はあ……",
+                                "translatedEnglishLine": "\"Hah...\""
+                            },
+                            {
+                                "lineNumber": "267071",
+                                "originalJapaneseLine": "　分かった分かった。いいよ。許す」",
+                                "translatedEnglishLine": "Okay, okay. Fine. I forgive you.\""
+                            },
+                            {
+                                "lineNumber": "267072",
+                                "originalJapaneseLine": "「ホントにー？",
+                                "translatedEnglishLine": "\"Really?\""
+                            },
+                            {
+                                "lineNumber": "267073",
+                                "originalJapaneseLine": "　良かったー☆」",
+                                "translatedEnglishLine": "Great☆\""
+                            },
+                            {
+                                "lineNumber": "267074",
+                                "originalJapaneseLine": "「ええええええっ！？」",
+                                "translatedEnglishLine": "\"Eeeeeeh!?\""
+                            },
+                            {
+                                "lineNumber": "267075",
+                                "originalJapaneseLine": "「ああああ、あんた、今までの！",
+                                "translatedEnglishLine": "\"Aaaaah, all this time, you were just..."
+                            },
+                            {
+                                "lineNumber": "267076",
+                                "originalJapaneseLine": "　――嘘泣き！？」",
+                                "translatedEnglishLine": "—faking those tears!?\""
+                            },
+                            {
+                                "lineNumber": "267077",
+                                "originalJapaneseLine": "「メガデスのしそうなことではないか」",
+                                "translatedEnglishLine": "That's not something Megadeth would do."
+                            },
+                            {
+                                "lineNumber": "267078",
+                                "originalJapaneseLine": "「メガデス、メガデス、うっせーな。",
+                                "translatedEnglishLine": "\"Megadeth, Megadeth, shut up already."
+                            },
+                            {
+                                "lineNumber": "267079",
+                                "originalJapaneseLine": "　モロミちゃんって呼べっつってんだろうが」",
+                                "translatedEnglishLine": "I told you to call me Moromi-chan.\""
+                            },
+                            {
+                                "lineNumber": "267080",
+                                "originalJapaneseLine": "「ま、いーや。",
+                                "translatedEnglishLine": "\"Ah, whatever."
+                            },
+                            {
+                                "lineNumber": "267081",
+                                "originalJapaneseLine": "　はー、真面目な話したら疲れたー。",
+                                "translatedEnglishLine": "Phew, talking seriously is tiring."
+                            },
+                            {
+                                "lineNumber": "267082",
+                                "originalJapaneseLine": "　ご飯でも食べに行こうーっと」",
+                                "translatedEnglishLine": "Let's go grab some food or something.\""
+                            },
+                            {
+                                "lineNumber": "267083",
+                                "originalJapaneseLine": "「ちょ、ちょっと……」",
+                                "translatedEnglishLine": "\"W-wait a minute...\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1743,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2005,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3748
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「なんでも、プリマがお前に\",\"translatedEnglishLine\":\"\\\"Apparently, Prima wants to slap a severance letter on you.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　絶縁状叩きつけたいんだと」\",\"translatedEnglishLine\":\"She said she wants to throw a breakup letter at you.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「それ、本気で言ってるの？」\",\"translatedEnglishLine\":\"\\\"Are you serious about that?\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「う、うぐぅっ！？」\",\"translatedEnglishLine\":\"\\\"U-ugh!?\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「そ、そんな顔、しても！\",\"translatedEnglishLine\":\"\\\"D-don't make that face!\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　だだだ、駄目だよ！」\",\"translatedEnglishLine\":\"No, no, that's not allowed!\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「ももももも、もう私の意思は固いんだ！」\",\"translatedEnglishLine\":\"\\\"M-m-m-my decision is already firm!\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「意思は固いかも知れんが、\",\"translatedEnglishLine\":\"\\\"Your decision might be firm, but\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　すごい及び腰だ」\",\"translatedEnglishLine\":\"you're really hesitant.\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「ちょっと黙ってな！」\",\"translatedEnglishLine\":\"\\\"Be quiet for a moment!\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「ななな、なにさ……」\",\"translatedEnglishLine\":\"\\\"W-w-w-what is this...\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　　＜ドサッ＞\",\"translatedEnglishLine\":\"<Thud>\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「わあっ！？　わわ、なになになに！？」\",\"translatedEnglishLine\":\"\\\"Wah!? Wha-wha-what is this!?!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"メガデスがプリマに抱きついた。\",\"translatedEnglishLine\":\"Megadeth threw herself into Prima's arms.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「やだぁぁぁあ……」\",\"translatedEnglishLine\":\"\\\"Nooooo...\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「えっ、ええええええ！？」\",\"translatedEnglishLine\":\"\\\"Eh, eeeeeeh!?\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「やだ……\",\"translatedEnglishLine\":\"\\\"No...\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　プリマ、お願い、捨てないで……」\",\"translatedEnglishLine\":\"Prima, please, don't throw me away...\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「う、ぐすっ……\",\"translatedEnglishLine\":\"\\\"U-ugh, sniff...\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　私、プリマがいないと駄目、なの……」\",\"translatedEnglishLine\":\"I can't be without Prima...\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「悪いところあるなら直すから……\",\"translatedEnglishLine\":\"\\\"If I have any bad points, I'll fix them...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　ひっく、ぐすっ、だ、だから……」\",\"translatedEnglishLine\":\"Hic, sniff, so, so...\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「お願いだから、捨てないでよぉ……\",\"translatedEnglishLine\":\"\\\"Please, don't throw me away...\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　うぇぇぇぇ……」\",\"translatedEnglishLine\":\"\\\"Waaaaaah...\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「あ、うう……\",\"translatedEnglishLine\":\"\\\"Ah, uh...\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"　きゅ、急にそんなこと言われても……」\",\"translatedEnglishLine\":\"\\\"I-I'm not sure what to say when you suddenly say that...\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「うううううう……」\",\"translatedEnglishLine\":\"\\\"Uuuuuu...\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「むう……\",\"translatedEnglishLine\":\"\\\"Mmm...\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　こんな弱い一面があったとは」\",\"translatedEnglishLine\":\"I didn't know she had such a weak side.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「メガデスの意外な姿だな……」\",\"translatedEnglishLine\":\"It's an unexpected side of Megadeth...\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「で、どうすんだ、プリマ？」\",\"translatedEnglishLine\":\"\\\"So, what will you do, Prima?\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「ど、どう、って言われても……」\",\"translatedEnglishLine\":\"\\\"W-what do you mean what will I do...\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「ひっく、ぐすっ……」\",\"translatedEnglishLine\":\"Hic, sniff...\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"プリマは自分の胸で泣いているメガデスを、\",\"translatedEnglishLine\":\"Prima was frozen, unsure how to handle Megadeth who was crying on her chest.\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"どう扱えばいいのか分からない顔で固まっていた。\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「私としては……\",\"translatedEnglishLine\":\"\\\"As for me...\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　性格直してくれるって言うなら……」\",\"translatedEnglishLine\":\"If you say you'll fix your personality...\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「ま、まあ……」\",\"translatedEnglishLine\":\"\\\"W-well...\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「駄目ってことはないんだけど、さ……」\",\"translatedEnglishLine\":\"It's not like I can't accept it, but...\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「ぐすっ……ひっく……\",\"translatedEnglishLine\":\"\\\"Sniff... hic...\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　じゃ、じゃあこれからも一緒にいていい？」\",\"translatedEnglishLine\":\"S-so, can I stay with you from now on?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"\\\"Hah...\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　分かった分かった。いいよ。許す」\",\"translatedEnglishLine\":\"Okay, okay. Fine. I forgive you.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「ホントにー？\",\"translatedEnglishLine\":\"\\\"Really?\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　良かったー☆」\",\"translatedEnglishLine\":\"Great☆\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「ええええええっ！？」\",\"translatedEnglishLine\":\"\\\"Eeeeeeh!?\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「ああああ、あんた、今までの！\",\"translatedEnglishLine\":\"\\\"Aaaaah, all this time, you were just...\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　――嘘泣き！？」\",\"translatedEnglishLine\":\"—faking those tears!?\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「メガデスのしそうなことではないか」\",\"translatedEnglishLine\":\"That's not something Megadeth would do.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「メガデス、メガデス、うっせーな。\",\"translatedEnglishLine\":\"\\\"Megadeth, Megadeth, shut up already.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　モロミちゃんって呼べっつってんだろうが」\",\"translatedEnglishLine\":\"I told you to call me Moromi-chan.\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「ま、いーや。\",\"translatedEnglishLine\":\"\\\"Ah, whatever.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　はー、真面目な話したら疲れたー。\",\"translatedEnglishLine\":\"Phew, talking seriously is tiring.\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　ご飯でも食べに行こうーっと」\",\"translatedEnglishLine\":\"Let's go grab some food or something.\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「ちょ、ちょっと……」\",\"translatedEnglishLine\":\"\\\"W-wait a minute...\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "267024",
+                "originalJapaneseLine": "「なんでも、プリマがお前に",
+                "translatedEnglishLine": "\"Apparently, Prima wants to slap a severance letter on you."
+            },
+            {
+                "lineNumber": "267025",
+                "originalJapaneseLine": "　絶縁状叩きつけたいんだと」",
+                "translatedEnglishLine": "She said she wants to throw a breakup letter at you.\""
+            },
+            {
+                "lineNumber": "267026",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "267027",
+                "originalJapaneseLine": "「それ、本気で言ってるの？」",
+                "translatedEnglishLine": "\"Are you serious about that?\""
+            },
+            {
+                "lineNumber": "267028",
+                "originalJapaneseLine": "「う、うぐぅっ！？」",
+                "translatedEnglishLine": "\"U-ugh!?\""
+            },
+            {
+                "lineNumber": "267029",
+                "originalJapaneseLine": "「そ、そんな顔、しても！",
+                "translatedEnglishLine": "\"D-don't make that face!"
+            },
+            {
+                "lineNumber": "267030",
+                "originalJapaneseLine": "　だだだ、駄目だよ！」",
+                "translatedEnglishLine": "No, no, that's not allowed!\""
+            },
+            {
+                "lineNumber": "267031",
+                "originalJapaneseLine": "「ももももも、もう私の意思は固いんだ！」",
+                "translatedEnglishLine": "\"M-m-m-my decision is already firm!\""
+            },
+            {
+                "lineNumber": "267032",
+                "originalJapaneseLine": "「意思は固いかも知れんが、",
+                "translatedEnglishLine": "\"Your decision might be firm, but"
+            },
+            {
+                "lineNumber": "267033",
+                "originalJapaneseLine": "　すごい及び腰だ」",
+                "translatedEnglishLine": "you're really hesitant.\""
+            },
+            {
+                "lineNumber": "267034",
+                "originalJapaneseLine": "「ちょっと黙ってな！」",
+                "translatedEnglishLine": "\"Be quiet for a moment!\""
+            },
+            {
+                "lineNumber": "267035",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "267036",
+                "originalJapaneseLine": "「ななな、なにさ……」",
+                "translatedEnglishLine": "\"W-w-w-what is this...\""
+            },
+            {
+                "lineNumber": "267037",
+                "originalJapaneseLine": "　",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": "267038",
+                "originalJapaneseLine": "　　＜ドサッ＞",
+                "translatedEnglishLine": "<Thud>"
+            },
+            {
+                "lineNumber": "267039",
+                "originalJapaneseLine": "「わあっ！？　わわ、なになになに！？」",
+                "translatedEnglishLine": "\"Wah!? Wha-wha-what is this!?!\""
+            },
+            {
+                "lineNumber": "267040",
+                "originalJapaneseLine": "メガデスがプリマに抱きついた。",
+                "translatedEnglishLine": "Megadeth threw herself into Prima's arms."
+            },
+            {
+                "lineNumber": "267041",
+                "originalJapaneseLine": "「やだぁぁぁあ……」",
+                "translatedEnglishLine": "\"Nooooo...\""
+            },
+            {
+                "lineNumber": "267042",
+                "originalJapaneseLine": "「えっ、ええええええ！？」",
+                "translatedEnglishLine": "\"Eh, eeeeeeh!?\""
+            },
+            {
+                "lineNumber": "267043",
+                "originalJapaneseLine": "「やだ……",
+                "translatedEnglishLine": "\"No...\""
+            },
+            {
+                "lineNumber": "267044",
+                "originalJapaneseLine": "　プリマ、お願い、捨てないで……」",
+                "translatedEnglishLine": "Prima, please, don't throw me away...\""
+            },
+            {
+                "lineNumber": "267045",
+                "originalJapaneseLine": "「う、ぐすっ……",
+                "translatedEnglishLine": "\"U-ugh, sniff...\""
+            },
+            {
+                "lineNumber": "267046",
+                "originalJapaneseLine": "　私、プリマがいないと駄目、なの……」",
+                "translatedEnglishLine": "I can't be without Prima...\""
+            },
+            {
+                "lineNumber": "267047",
+                "originalJapaneseLine": "「悪いところあるなら直すから……",
+                "translatedEnglishLine": "\"If I have any bad points, I'll fix them...\""
+            },
+            {
+                "lineNumber": "267048",
+                "originalJapaneseLine": "　ひっく、ぐすっ、だ、だから……」",
+                "translatedEnglishLine": "Hic, sniff, so, so...\""
+            },
+            {
+                "lineNumber": "267049",
+                "originalJapaneseLine": "「お願いだから、捨てないでよぉ……",
+                "translatedEnglishLine": "\"Please, don't throw me away...\""
+            },
+            {
+                "lineNumber": "267050",
+                "originalJapaneseLine": "　うぇぇぇぇ……」",
+                "translatedEnglishLine": "\"Waaaaaah...\""
+            },
+            {
+                "lineNumber": "267051",
+                "originalJapaneseLine": "「あ、うう……",
+                "translatedEnglishLine": "\"Ah, uh...\""
+            },
+            {
+                "lineNumber": "267052",
+                "originalJapaneseLine": "　きゅ、急にそんなこと言われても……」",
+                "translatedEnglishLine": "\"I-I'm not sure what to say when you suddenly say that...\""
+            },
+            {
+                "lineNumber": "267053",
+                "originalJapaneseLine": "「うううううう……」",
+                "translatedEnglishLine": "\"Uuuuuu...\""
+            },
+            {
+                "lineNumber": "267054",
+                "originalJapaneseLine": "「むう……",
+                "translatedEnglishLine": "\"Mmm...\""
+            },
+            {
+                "lineNumber": "267055",
+                "originalJapaneseLine": "　こんな弱い一面があったとは」",
+                "translatedEnglishLine": "I didn't know she had such a weak side."
+            },
+            {
+                "lineNumber": "267056",
+                "originalJapaneseLine": "「メガデスの意外な姿だな……」",
+                "translatedEnglishLine": "It's an unexpected side of Megadeth..."
+            },
+            {
+                "lineNumber": "267057",
+                "originalJapaneseLine": "「で、どうすんだ、プリマ？」",
+                "translatedEnglishLine": "\"So, what will you do, Prima?\""
+            },
+            {
+                "lineNumber": "267058",
+                "originalJapaneseLine": "「ど、どう、って言われても……」",
+                "translatedEnglishLine": "\"W-what do you mean what will I do...\""
+            },
+            {
+                "lineNumber": "267059",
+                "originalJapaneseLine": "「ひっく、ぐすっ……」",
+                "translatedEnglishLine": "Hic, sniff...\""
+            },
+            {
+                "lineNumber": "267060",
+                "originalJapaneseLine": "プリマは自分の胸で泣いているメガデスを、",
+                "translatedEnglishLine": "Prima was frozen, unsure how to handle Megadeth who was crying on her chest."
+            },
+            {
+                "lineNumber": "267061",
+                "originalJapaneseLine": "どう扱えばいいのか分からない顔で固まっていた。",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": "267062",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "267063",
+                "originalJapaneseLine": "「私としては……",
+                "translatedEnglishLine": "\"As for me...\""
+            },
+            {
+                "lineNumber": "267064",
+                "originalJapaneseLine": "　性格直してくれるって言うなら……」",
+                "translatedEnglishLine": "If you say you'll fix your personality...\""
+            },
+            {
+                "lineNumber": "267065",
+                "originalJapaneseLine": "「ま、まあ……」",
+                "translatedEnglishLine": "\"W-well...\""
+            },
+            {
+                "lineNumber": "267066",
+                "originalJapaneseLine": "「駄目ってことはないんだけど、さ……」",
+                "translatedEnglishLine": "It's not like I can't accept it, but..."
+            },
+            {
+                "lineNumber": "267067",
+                "originalJapaneseLine": "「ぐすっ……ひっく……",
+                "translatedEnglishLine": "\"Sniff... hic...\""
+            },
+            {
+                "lineNumber": "267068",
+                "originalJapaneseLine": "　じゃ、じゃあこれからも一緒にいていい？」",
+                "translatedEnglishLine": "S-so, can I stay with you from now on?\""
+            },
+            {
+                "lineNumber": "267069",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "267070",
+                "originalJapaneseLine": "「はあ……",
+                "translatedEnglishLine": "\"Hah...\""
+            },
+            {
+                "lineNumber": "267071",
+                "originalJapaneseLine": "　分かった分かった。いいよ。許す」",
+                "translatedEnglishLine": "Okay, okay. Fine. I forgive you.\""
+            },
+            {
+                "lineNumber": "267072",
+                "originalJapaneseLine": "「ホントにー？",
+                "translatedEnglishLine": "\"Really?\""
+            },
+            {
+                "lineNumber": "267073",
+                "originalJapaneseLine": "　良かったー☆」",
+                "translatedEnglishLine": "Great☆\""
+            },
+            {
+                "lineNumber": "267074",
+                "originalJapaneseLine": "「ええええええっ！？」",
+                "translatedEnglishLine": "\"Eeeeeeh!?\""
+            },
+            {
+                "lineNumber": "267075",
+                "originalJapaneseLine": "「ああああ、あんた、今までの！",
+                "translatedEnglishLine": "\"Aaaaah, all this time, you were just..."
+            },
+            {
+                "lineNumber": "267076",
+                "originalJapaneseLine": "　――嘘泣き！？」",
+                "translatedEnglishLine": "—faking those tears!?\""
+            },
+            {
+                "lineNumber": "267077",
+                "originalJapaneseLine": "「メガデスのしそうなことではないか」",
+                "translatedEnglishLine": "That's not something Megadeth would do."
+            },
+            {
+                "lineNumber": "267078",
+                "originalJapaneseLine": "「メガデス、メガデス、うっせーな。",
+                "translatedEnglishLine": "\"Megadeth, Megadeth, shut up already."
+            },
+            {
+                "lineNumber": "267079",
+                "originalJapaneseLine": "　モロミちゃんって呼べっつってんだろうが」",
+                "translatedEnglishLine": "I told you to call me Moromi-chan.\""
+            },
+            {
+                "lineNumber": "267080",
+                "originalJapaneseLine": "「ま、いーや。",
+                "translatedEnglishLine": "\"Ah, whatever."
+            },
+            {
+                "lineNumber": "267081",
+                "originalJapaneseLine": "　はー、真面目な話したら疲れたー。",
+                "translatedEnglishLine": "Phew, talking seriously is tiring."
+            },
+            {
+                "lineNumber": "267082",
+                "originalJapaneseLine": "　ご飯でも食べに行こうーっと」",
+                "translatedEnglishLine": "Let's go grab some food or something.\""
+            },
+            {
+                "lineNumber": "267083",
+                "originalJapaneseLine": "「ちょ、ちょっと……」",
+                "translatedEnglishLine": "\"W-wait a minute...\""
+            }
+        ]
+    }
+}

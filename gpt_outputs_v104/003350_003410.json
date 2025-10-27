@@ -1,0 +1,719 @@
+{
+    "id": "resp_06bcc811901f36090068ffec0eaffc8197bd7f47a23f2dea74",
+    "object": "response",
+    "created_at": 1761602574,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_06bcc811901f36090068ffec0f1a84819786c61b102390bb77",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　俺様の城を壊す気かー！\",\"translatedEnglishLine\":\"Are you trying to destroy my castle?!\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「うおっ、こっち見た！」\",\"translatedEnglishLine\":\"\\\"Whoa, it looked this way!\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「我が名はバスワルド……」\",\"translatedEnglishLine\":\"\\\"My name is Baswald...\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「しかも、喋った！」\",\"translatedEnglishLine\":\"\\\"And it spoke!\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"バスワルドと名乗る存在が、\",\"translatedEnglishLine\":\"The being calling itself Baswald,\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"端正な口を開き、\",\"translatedEnglishLine\":\"opened its refined mouth,\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"透明な声を発していた。\",\"translatedEnglishLine\":\"and emitted a clear, transparent voice.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"そして、一言問いかける。\",\"translatedEnglishLine\":\"Then, it asked a single question.\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「我の存在を、\",\"translatedEnglishLine\":\"\\\"Are you the one who has reminded me\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　我に思い出させたは貴様か？」\",\"translatedEnglishLine\":\"of my existence?\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「へ？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「思い出させたん？」\",\"translatedEnglishLine\":\"\\\"You reminded me?\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「いや、別に？」\",\"translatedEnglishLine\":\"\\\"No, not really?\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「とにかくそんなプカプカと\",\"translatedEnglishLine\":\"\\\"Anyway, don't just float around all giddy.\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　浮かれちゃ落ち着かん。\",\"translatedEnglishLine\":\"It's unsettling to see you so careless.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　いいから元に戻れー」\",\"translatedEnglishLine\":\"Just get back to how you were!\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"バスワルドの体から大量の煙がぷしゅー。\",\"translatedEnglishLine\":\"A large amount of smoke hissed out from Baswald's body.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「なんだー！？」\",\"translatedEnglishLine\":\"\\\"What the—!?\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"と、驚いた時には、\",\"translatedEnglishLine\":\"By the time I was surprised,\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"あっという間に煙が晴れていった。\",\"translatedEnglishLine\":\"the smoke had quickly cleared away.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「けほっ、けほっ……\",\"translatedEnglishLine\":\"\\\"Cough, cough...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　もう、なんなのよ……！」\",\"translatedEnglishLine\":\"What the heck is going on...!\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「あ、戻った」\",\"translatedEnglishLine\":\"\\\"Ah, it's back.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「えーと……\",\"translatedEnglishLine\":\"\\\"Um...\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　何がどうなって……\",\"translatedEnglishLine\":\"What exactly happened...?\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「確か……\",\"translatedEnglishLine\":\"\\\"If I recall correctly...\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　ほんの少しだけ元に戻って……\",\"translatedEnglishLine\":\"It only returned to normal a little bit...\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「とにかく、迷惑をかけおって、\",\"translatedEnglishLine\":\"\\\"Anyway, causing such trouble,\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　馬鹿共め」\",\"translatedEnglishLine\":\"you fools.\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「ああっ……\",\"translatedEnglishLine\":\"\\\"Ahhh...\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　すみません、私達、とんでもないことを\",\"translatedEnglishLine\":\"We're sorry, we've caused something terrible.\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「そーですぜ。\",\"translatedEnglishLine\":\"\\\"That's right.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　二人が出した衝撃破に\",\"translatedEnglishLine\":\"The shockwave caused by you two\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　ユキちゃん巻き込まれたですよ？」\",\"translatedEnglishLine\":\"also involved Yuki-chan, you know?\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「ま、ユキちゃんだから平気なんですけど！」\",\"translatedEnglishLine\":\"Well, it's fine because it's Yuki-chan though!\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「うわっ、生首だわ。\",\"translatedEnglishLine\":\"\\\"Ew, it's a severed head.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　気持ち悪っ」\",\"translatedEnglishLine\":\"That's disgusting.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「はぅぅ、やっぱりユキちゃんは、\",\"translatedEnglishLine\":\"\\\"Huhhh, after all, Yuki-chan is cuter as just a head.\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　首だけの方が可愛いねぇ」\",\"translatedEnglishLine\":\"Just the head is cuter, you know.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「さんきゅ！！！！」\",\"translatedEnglishLine\":\"\\\"Thank you!!!!\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「えーい、その辺はどうでもいい。\",\"translatedEnglishLine\":\"\\\"Hey, none of that matters right now.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　元に戻ったとか言ったか？」\",\"translatedEnglishLine\":\"Did you say you returned to normal or something?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「そう、そうですね……\",\"translatedEnglishLine\":\"\\\"Well, yes...\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　アレは元に戻った、という感じでした\",\"translatedEnglishLine\":\"It felt like it did return to normal.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「でも、思い出したわ……\",\"translatedEnglishLine\":\"\\\"But I remembered...\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「私達、本来はあの姿なのよ……\",\"translatedEnglishLine\":\"We originally are that form...\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　それが二つに別れたのが私達」\",\"translatedEnglishLine\":\"We are the ones split into two.\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「そうね……\",\"translatedEnglishLine\":\"\\\"That's right...\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　それは確信を持ってそうだと言える」\",\"translatedEnglishLine\":\"I can say that with certainty.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「それって……\",\"translatedEnglishLine\":\"\\\"That means...\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「なるほど、つまりこういうことか」\",\"translatedEnglishLine\":\"I see, so this is what it means.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「君達は実は合体技があって、\",\"translatedEnglishLine\":\"You two actually have a fusion technique,\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　そうなるとすごく強くなると」\",\"translatedEnglishLine\":\"and when combined, you become very strong.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「え、えええ……\",\"translatedEnglishLine\":\"\\\"Eh, whaaat...?\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　そんな簡単に……\",\"translatedEnglishLine\":\"That easily...?\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「まー、魔人だしな。\",\"translatedEnglishLine\":\"\\\"Well, you're demons after all.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　そういう変なとこあっても\",\"translatedEnglishLine\":\"So even if you have weird traits like that,\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "267984",
+                                "originalJapaneseLine": "　俺様の城を壊す気かー！",
+                                "translatedEnglishLine": "Are you trying to destroy my castle?!"
+                            },
+                            {
+                                "lineNumber": "267985",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "267986",
+                                "originalJapaneseLine": "「うおっ、こっち見た！」",
+                                "translatedEnglishLine": "\"Whoa, it looked this way!\""
+                            },
+                            {
+                                "lineNumber": "267987",
+                                "originalJapaneseLine": "「我が名はバスワルド……」",
+                                "translatedEnglishLine": "\"My name is Baswald...\""
+                            },
+                            {
+                                "lineNumber": "267988",
+                                "originalJapaneseLine": "「しかも、喋った！」",
+                                "translatedEnglishLine": "\"And it spoke!\""
+                            },
+                            {
+                                "lineNumber": "267989",
+                                "originalJapaneseLine": "バスワルドと名乗る存在が、",
+                                "translatedEnglishLine": "The being calling itself Baswald,"
+                            },
+                            {
+                                "lineNumber": "267990",
+                                "originalJapaneseLine": "端正な口を開き、",
+                                "translatedEnglishLine": "opened its refined mouth,"
+                            },
+                            {
+                                "lineNumber": "267991",
+                                "originalJapaneseLine": "透明な声を発していた。",
+                                "translatedEnglishLine": "and emitted a clear, transparent voice."
+                            },
+                            {
+                                "lineNumber": "267992",
+                                "originalJapaneseLine": "そして、一言問いかける。",
+                                "translatedEnglishLine": "Then, it asked a single question."
+                            },
+                            {
+                                "lineNumber": "267993",
+                                "originalJapaneseLine": "「我の存在を、",
+                                "translatedEnglishLine": "\"Are you the one who has reminded me"
+                            },
+                            {
+                                "lineNumber": "267994",
+                                "originalJapaneseLine": "　我に思い出させたは貴様か？」",
+                                "translatedEnglishLine": "of my existence?\""
+                            },
+                            {
+                                "lineNumber": "267995",
+                                "originalJapaneseLine": "「へ？」",
+                                "translatedEnglishLine": "\"Huh?\""
+                            },
+                            {
+                                "lineNumber": "267996",
+                                "originalJapaneseLine": "「思い出させたん？」",
+                                "translatedEnglishLine": "\"You reminded me?\""
+                            },
+                            {
+                                "lineNumber": "267997",
+                                "originalJapaneseLine": "「いや、別に？」",
+                                "translatedEnglishLine": "\"No, not really?\""
+                            },
+                            {
+                                "lineNumber": "267998",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "267999",
+                                "originalJapaneseLine": "「とにかくそんなプカプカと",
+                                "translatedEnglishLine": "\"Anyway, don't just float around all giddy."
+                            },
+                            {
+                                "lineNumber": "268000",
+                                "originalJapaneseLine": "　浮かれちゃ落ち着かん。",
+                                "translatedEnglishLine": "It's unsettling to see you so careless."
+                            },
+                            {
+                                "lineNumber": "268001",
+                                "originalJapaneseLine": "　いいから元に戻れー」",
+                                "translatedEnglishLine": "Just get back to how you were!\""
+                            },
+                            {
+                                "lineNumber": "268002",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "268003",
+                                "originalJapaneseLine": "バスワルドの体から大量の煙がぷしゅー。",
+                                "translatedEnglishLine": "A large amount of smoke hissed out from Baswald's body."
+                            },
+                            {
+                                "lineNumber": "268004",
+                                "originalJapaneseLine": "「なんだー！？」",
+                                "translatedEnglishLine": "\"What the—!?\""
+                            },
+                            {
+                                "lineNumber": "268005",
+                                "originalJapaneseLine": "と、驚いた時には、",
+                                "translatedEnglishLine": "By the time I was surprised,"
+                            },
+                            {
+                                "lineNumber": "268006",
+                                "originalJapaneseLine": "あっという間に煙が晴れていった。",
+                                "translatedEnglishLine": "the smoke had quickly cleared away."
+                            },
+                            {
+                                "lineNumber": "268007",
+                                "originalJapaneseLine": "「けほっ、けほっ……",
+                                "translatedEnglishLine": "\"Cough, cough...\""
+                            },
+                            {
+                                "lineNumber": "268008",
+                                "originalJapaneseLine": "　もう、なんなのよ……！」",
+                                "translatedEnglishLine": "What the heck is going on...!\""
+                            },
+                            {
+                                "lineNumber": "268009",
+                                "originalJapaneseLine": "「あ、戻った」",
+                                "translatedEnglishLine": "\"Ah, it's back.\""
+                            },
+                            {
+                                "lineNumber": "268010",
+                                "originalJapaneseLine": "「えーと……",
+                                "translatedEnglishLine": "\"Um...\""
+                            },
+                            {
+                                "lineNumber": "268011",
+                                "originalJapaneseLine": "　何がどうなって……",
+                                "translatedEnglishLine": "What exactly happened...?"
+                            },
+                            {
+                                "lineNumber": "268012",
+                                "originalJapaneseLine": "「確か……",
+                                "translatedEnglishLine": "\"If I recall correctly...\""
+                            },
+                            {
+                                "lineNumber": "268013",
+                                "originalJapaneseLine": "　ほんの少しだけ元に戻って……",
+                                "translatedEnglishLine": "It only returned to normal a little bit..."
+                            },
+                            {
+                                "lineNumber": "268014",
+                                "originalJapaneseLine": "「とにかく、迷惑をかけおって、",
+                                "translatedEnglishLine": "\"Anyway, causing such trouble,"
+                            },
+                            {
+                                "lineNumber": "268015",
+                                "originalJapaneseLine": "　馬鹿共め」",
+                                "translatedEnglishLine": "you fools.\""
+                            },
+                            {
+                                "lineNumber": "268016",
+                                "originalJapaneseLine": "「ああっ……",
+                                "translatedEnglishLine": "\"Ahhh...\""
+                            },
+                            {
+                                "lineNumber": "268017",
+                                "originalJapaneseLine": "　すみません、私達、とんでもないことを",
+                                "translatedEnglishLine": "We're sorry, we've caused something terrible."
+                            },
+                            {
+                                "lineNumber": "268018",
+                                "originalJapaneseLine": "「そーですぜ。",
+                                "translatedEnglishLine": "\"That's right."
+                            },
+                            {
+                                "lineNumber": "268019",
+                                "originalJapaneseLine": "　二人が出した衝撃破に",
+                                "translatedEnglishLine": "The shockwave caused by you two"
+                            },
+                            {
+                                "lineNumber": "268020",
+                                "originalJapaneseLine": "　ユキちゃん巻き込まれたですよ？」",
+                                "translatedEnglishLine": "also involved Yuki-chan, you know?\""
+                            },
+                            {
+                                "lineNumber": "268021",
+                                "originalJapaneseLine": "「ま、ユキちゃんだから平気なんですけど！」",
+                                "translatedEnglishLine": "Well, it's fine because it's Yuki-chan though!"
+                            },
+                            {
+                                "lineNumber": "268022",
+                                "originalJapaneseLine": "「うわっ、生首だわ。",
+                                "translatedEnglishLine": "\"Ew, it's a severed head."
+                            },
+                            {
+                                "lineNumber": "268023",
+                                "originalJapaneseLine": "　気持ち悪っ」",
+                                "translatedEnglishLine": "That's disgusting.\""
+                            },
+                            {
+                                "lineNumber": "268024",
+                                "originalJapaneseLine": "「はぅぅ、やっぱりユキちゃんは、",
+                                "translatedEnglishLine": "\"Huhhh, after all, Yuki-chan is cuter as just a head.\""
+                            },
+                            {
+                                "lineNumber": "268025",
+                                "originalJapaneseLine": "　首だけの方が可愛いねぇ」",
+                                "translatedEnglishLine": "Just the head is cuter, you know.\""
+                            },
+                            {
+                                "lineNumber": "268026",
+                                "originalJapaneseLine": "「さんきゅ！！！！」",
+                                "translatedEnglishLine": "\"Thank you!!!!\""
+                            },
+                            {
+                                "lineNumber": "268027",
+                                "originalJapaneseLine": "「えーい、その辺はどうでもいい。",
+                                "translatedEnglishLine": "\"Hey, none of that matters right now."
+                            },
+                            {
+                                "lineNumber": "268028",
+                                "originalJapaneseLine": "　元に戻ったとか言ったか？」",
+                                "translatedEnglishLine": "Did you say you returned to normal or something?\""
+                            },
+                            {
+                                "lineNumber": "268029",
+                                "originalJapaneseLine": "「そう、そうですね……",
+                                "translatedEnglishLine": "\"Well, yes...\""
+                            },
+                            {
+                                "lineNumber": "268030",
+                                "originalJapaneseLine": "　アレは元に戻った、という感じでした",
+                                "translatedEnglishLine": "It felt like it did return to normal."
+                            },
+                            {
+                                "lineNumber": "268031",
+                                "originalJapaneseLine": "「でも、思い出したわ……",
+                                "translatedEnglishLine": "\"But I remembered..."
+                            },
+                            {
+                                "lineNumber": "268032",
+                                "originalJapaneseLine": "「私達、本来はあの姿なのよ……",
+                                "translatedEnglishLine": "We originally are that form..."
+                            },
+                            {
+                                "lineNumber": "268033",
+                                "originalJapaneseLine": "　それが二つに別れたのが私達」",
+                                "translatedEnglishLine": "We are the ones split into two."
+                            },
+                            {
+                                "lineNumber": "268034",
+                                "originalJapaneseLine": "「そうね……",
+                                "translatedEnglishLine": "\"That's right..."
+                            },
+                            {
+                                "lineNumber": "268035",
+                                "originalJapaneseLine": "　それは確信を持ってそうだと言える」",
+                                "translatedEnglishLine": "I can say that with certainty."
+                            },
+                            {
+                                "lineNumber": "268036",
+                                "originalJapaneseLine": "「それって……",
+                                "translatedEnglishLine": "\"That means..."
+                            },
+                            {
+                                "lineNumber": "268037",
+                                "originalJapaneseLine": "「なるほど、つまりこういうことか」",
+                                "translatedEnglishLine": "I see, so this is what it means."
+                            },
+                            {
+                                "lineNumber": "268038",
+                                "originalJapaneseLine": "「君達は実は合体技があって、",
+                                "translatedEnglishLine": "You two actually have a fusion technique,"
+                            },
+                            {
+                                "lineNumber": "268039",
+                                "originalJapaneseLine": "　そうなるとすごく強くなると」",
+                                "translatedEnglishLine": "and when combined, you become very strong."
+                            },
+                            {
+                                "lineNumber": "268040",
+                                "originalJapaneseLine": "「え、えええ……",
+                                "translatedEnglishLine": "\"Eh, whaaat...?"
+                            },
+                            {
+                                "lineNumber": "268041",
+                                "originalJapaneseLine": "　そんな簡単に……",
+                                "translatedEnglishLine": "That easily...?"
+                            },
+                            {
+                                "lineNumber": "268042",
+                                "originalJapaneseLine": "「まー、魔人だしな。",
+                                "translatedEnglishLine": "\"Well, you're demons after all."
+                            },
+                            {
+                                "lineNumber": "268043",
+                                "originalJapaneseLine": "　そういう変なとこあっても",
+                                "translatedEnglishLine": "So even if you have weird traits like that,"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1679,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1892,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3571
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　俺様の城を壊す気かー！\",\"translatedEnglishLine\":\"Are you trying to destroy my castle?!\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「うおっ、こっち見た！」\",\"translatedEnglishLine\":\"\\\"Whoa, it looked this way!\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「我が名はバスワルド……」\",\"translatedEnglishLine\":\"\\\"My name is Baswald...\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「しかも、喋った！」\",\"translatedEnglishLine\":\"\\\"And it spoke!\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"バスワルドと名乗る存在が、\",\"translatedEnglishLine\":\"The being calling itself Baswald,\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"端正な口を開き、\",\"translatedEnglishLine\":\"opened its refined mouth,\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"透明な声を発していた。\",\"translatedEnglishLine\":\"and emitted a clear, transparent voice.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"そして、一言問いかける。\",\"translatedEnglishLine\":\"Then, it asked a single question.\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「我の存在を、\",\"translatedEnglishLine\":\"\\\"Are you the one who has reminded me\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　我に思い出させたは貴様か？」\",\"translatedEnglishLine\":\"of my existence?\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「へ？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「思い出させたん？」\",\"translatedEnglishLine\":\"\\\"You reminded me?\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「いや、別に？」\",\"translatedEnglishLine\":\"\\\"No, not really?\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「とにかくそんなプカプカと\",\"translatedEnglishLine\":\"\\\"Anyway, don't just float around all giddy.\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　浮かれちゃ落ち着かん。\",\"translatedEnglishLine\":\"It's unsettling to see you so careless.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　いいから元に戻れー」\",\"translatedEnglishLine\":\"Just get back to how you were!\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"バスワルドの体から大量の煙がぷしゅー。\",\"translatedEnglishLine\":\"A large amount of smoke hissed out from Baswald's body.\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「なんだー！？」\",\"translatedEnglishLine\":\"\\\"What the—!?\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"と、驚いた時には、\",\"translatedEnglishLine\":\"By the time I was surprised,\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"あっという間に煙が晴れていった。\",\"translatedEnglishLine\":\"the smoke had quickly cleared away.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「けほっ、けほっ……\",\"translatedEnglishLine\":\"\\\"Cough, cough...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　もう、なんなのよ……！」\",\"translatedEnglishLine\":\"What the heck is going on...!\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「あ、戻った」\",\"translatedEnglishLine\":\"\\\"Ah, it's back.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「えーと……\",\"translatedEnglishLine\":\"\\\"Um...\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　何がどうなって……\",\"translatedEnglishLine\":\"What exactly happened...?\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「確か……\",\"translatedEnglishLine\":\"\\\"If I recall correctly...\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　ほんの少しだけ元に戻って……\",\"translatedEnglishLine\":\"It only returned to normal a little bit...\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「とにかく、迷惑をかけおって、\",\"translatedEnglishLine\":\"\\\"Anyway, causing such trouble,\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　馬鹿共め」\",\"translatedEnglishLine\":\"you fools.\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「ああっ……\",\"translatedEnglishLine\":\"\\\"Ahhh...\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　すみません、私達、とんでもないことを\",\"translatedEnglishLine\":\"We're sorry, we've caused something terrible.\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「そーですぜ。\",\"translatedEnglishLine\":\"\\\"That's right.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　二人が出した衝撃破に\",\"translatedEnglishLine\":\"The shockwave caused by you two\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　ユキちゃん巻き込まれたですよ？」\",\"translatedEnglishLine\":\"also involved Yuki-chan, you know?\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「ま、ユキちゃんだから平気なんですけど！」\",\"translatedEnglishLine\":\"Well, it's fine because it's Yuki-chan though!\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「うわっ、生首だわ。\",\"translatedEnglishLine\":\"\\\"Ew, it's a severed head.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　気持ち悪っ」\",\"translatedEnglishLine\":\"That's disgusting.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「はぅぅ、やっぱりユキちゃんは、\",\"translatedEnglishLine\":\"\\\"Huhhh, after all, Yuki-chan is cuter as just a head.\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　首だけの方が可愛いねぇ」\",\"translatedEnglishLine\":\"Just the head is cuter, you know.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「さんきゅ！！！！」\",\"translatedEnglishLine\":\"\\\"Thank you!!!!\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「えーい、その辺はどうでもいい。\",\"translatedEnglishLine\":\"\\\"Hey, none of that matters right now.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　元に戻ったとか言ったか？」\",\"translatedEnglishLine\":\"Did you say you returned to normal or something?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「そう、そうですね……\",\"translatedEnglishLine\":\"\\\"Well, yes...\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　アレは元に戻った、という感じでした\",\"translatedEnglishLine\":\"It felt like it did return to normal.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「でも、思い出したわ……\",\"translatedEnglishLine\":\"\\\"But I remembered...\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「私達、本来はあの姿なのよ……\",\"translatedEnglishLine\":\"We originally are that form...\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　それが二つに別れたのが私達」\",\"translatedEnglishLine\":\"We are the ones split into two.\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「そうね……\",\"translatedEnglishLine\":\"\\\"That's right...\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　それは確信を持ってそうだと言える」\",\"translatedEnglishLine\":\"I can say that with certainty.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「それって……\",\"translatedEnglishLine\":\"\\\"That means...\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「なるほど、つまりこういうことか」\",\"translatedEnglishLine\":\"I see, so this is what it means.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「君達は実は合体技があって、\",\"translatedEnglishLine\":\"You two actually have a fusion technique,\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　そうなるとすごく強くなると」\",\"translatedEnglishLine\":\"and when combined, you become very strong.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「え、えええ……\",\"translatedEnglishLine\":\"\\\"Eh, whaaat...?\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　そんな簡単に……\",\"translatedEnglishLine\":\"That easily...?\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「まー、魔人だしな。\",\"translatedEnglishLine\":\"\\\"Well, you're demons after all.\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　そういう変なとこあっても\",\"translatedEnglishLine\":\"So even if you have weird traits like that,\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "267984",
+                "originalJapaneseLine": "　俺様の城を壊す気かー！",
+                "translatedEnglishLine": "Are you trying to destroy my castle?!"
+            },
+            {
+                "lineNumber": "267985",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "267986",
+                "originalJapaneseLine": "「うおっ、こっち見た！」",
+                "translatedEnglishLine": "\"Whoa, it looked this way!\""
+            },
+            {
+                "lineNumber": "267987",
+                "originalJapaneseLine": "「我が名はバスワルド……」",
+                "translatedEnglishLine": "\"My name is Baswald...\""
+            },
+            {
+                "lineNumber": "267988",
+                "originalJapaneseLine": "「しかも、喋った！」",
+                "translatedEnglishLine": "\"And it spoke!\""
+            },
+            {
+                "lineNumber": "267989",
+                "originalJapaneseLine": "バスワルドと名乗る存在が、",
+                "translatedEnglishLine": "The being calling itself Baswald,"
+            },
+            {
+                "lineNumber": "267990",
+                "originalJapaneseLine": "端正な口を開き、",
+                "translatedEnglishLine": "opened its refined mouth,"
+            },
+            {
+                "lineNumber": "267991",
+                "originalJapaneseLine": "透明な声を発していた。",
+                "translatedEnglishLine": "and emitted a clear, transparent voice."
+            },
+            {
+                "lineNumber": "267992",
+                "originalJapaneseLine": "そして、一言問いかける。",
+                "translatedEnglishLine": "Then, it asked a single question."
+            },
+            {
+                "lineNumber": "267993",
+                "originalJapaneseLine": "「我の存在を、",
+                "translatedEnglishLine": "\"Are you the one who has reminded me"
+            },
+            {
+                "lineNumber": "267994",
+                "originalJapaneseLine": "　我に思い出させたは貴様か？」",
+                "translatedEnglishLine": "of my existence?\""
+            },
+            {
+                "lineNumber": "267995",
+                "originalJapaneseLine": "「へ？」",
+                "translatedEnglishLine": "\"Huh?\""
+            },
+            {
+                "lineNumber": "267996",
+                "originalJapaneseLine": "「思い出させたん？」",
+                "translatedEnglishLine": "\"You reminded me?\""
+            },
+            {
+                "lineNumber": "267997",
+                "originalJapaneseLine": "「いや、別に？」",
+                "translatedEnglishLine": "\"No, not really?\""
+            },
+            {
+                "lineNumber": "267998",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "267999",
+                "originalJapaneseLine": "「とにかくそんなプカプカと",
+                "translatedEnglishLine": "\"Anyway, don't just float around all giddy."
+            },
+            {
+                "lineNumber": "268000",
+                "originalJapaneseLine": "　浮かれちゃ落ち着かん。",
+                "translatedEnglishLine": "It's unsettling to see you so careless."
+            },
+            {
+                "lineNumber": "268001",
+                "originalJapaneseLine": "　いいから元に戻れー」",
+                "translatedEnglishLine": "Just get back to how you were!\""
+            },
+            {
+                "lineNumber": "268002",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "268003",
+                "originalJapaneseLine": "バスワルドの体から大量の煙がぷしゅー。",
+                "translatedEnglishLine": "A large amount of smoke hissed out from Baswald's body."
+            },
+            {
+                "lineNumber": "268004",
+                "originalJapaneseLine": "「なんだー！？」",
+                "translatedEnglishLine": "\"What the—!?\""
+            },
+            {
+                "lineNumber": "268005",
+                "originalJapaneseLine": "と、驚いた時には、",
+                "translatedEnglishLine": "By the time I was surprised,"
+            },
+            {
+                "lineNumber": "268006",
+                "originalJapaneseLine": "あっという間に煙が晴れていった。",
+                "translatedEnglishLine": "the smoke had quickly cleared away."
+            },
+            {
+                "lineNumber": "268007",
+                "originalJapaneseLine": "「けほっ、けほっ……",
+                "translatedEnglishLine": "\"Cough, cough...\""
+            },
+            {
+                "lineNumber": "268008",
+                "originalJapaneseLine": "　もう、なんなのよ……！」",
+                "translatedEnglishLine": "What the heck is going on...!\""
+            },
+            {
+                "lineNumber": "268009",
+                "originalJapaneseLine": "「あ、戻った」",
+                "translatedEnglishLine": "\"Ah, it's back.\""
+            },
+            {
+                "lineNumber": "268010",
+                "originalJapaneseLine": "「えーと……",
+                "translatedEnglishLine": "\"Um...\""
+            },
+            {
+                "lineNumber": "268011",
+                "originalJapaneseLine": "　何がどうなって……",
+                "translatedEnglishLine": "What exactly happened...?"
+            },
+            {
+                "lineNumber": "268012",
+                "originalJapaneseLine": "「確か……",
+                "translatedEnglishLine": "\"If I recall correctly...\""
+            },
+            {
+                "lineNumber": "268013",
+                "originalJapaneseLine": "　ほんの少しだけ元に戻って……",
+                "translatedEnglishLine": "It only returned to normal a little bit..."
+            },
+            {
+                "lineNumber": "268014",
+                "originalJapaneseLine": "「とにかく、迷惑をかけおって、",
+                "translatedEnglishLine": "\"Anyway, causing such trouble,"
+            },
+            {
+                "lineNumber": "268015",
+                "originalJapaneseLine": "　馬鹿共め」",
+                "translatedEnglishLine": "you fools.\""
+            },
+            {
+                "lineNumber": "268016",
+                "originalJapaneseLine": "「ああっ……",
+                "translatedEnglishLine": "\"Ahhh...\""
+            },
+            {
+                "lineNumber": "268017",
+                "originalJapaneseLine": "　すみません、私達、とんでもないことを",
+                "translatedEnglishLine": "We're sorry, we've caused something terrible."
+            },
+            {
+                "lineNumber": "268018",
+                "originalJapaneseLine": "「そーですぜ。",
+                "translatedEnglishLine": "\"That's right."
+            },
+            {
+                "lineNumber": "268019",
+                "originalJapaneseLine": "　二人が出した衝撃破に",
+                "translatedEnglishLine": "The shockwave caused by you two"
+            },
+            {
+                "lineNumber": "268020",
+                "originalJapaneseLine": "　ユキちゃん巻き込まれたですよ？」",
+                "translatedEnglishLine": "also involved Yuki-chan, you know?\""
+            },
+            {
+                "lineNumber": "268021",
+                "originalJapaneseLine": "「ま、ユキちゃんだから平気なんですけど！」",
+                "translatedEnglishLine": "Well, it's fine because it's Yuki-chan though!"
+            },
+            {
+                "lineNumber": "268022",
+                "originalJapaneseLine": "「うわっ、生首だわ。",
+                "translatedEnglishLine": "\"Ew, it's a severed head."
+            },
+            {
+                "lineNumber": "268023",
+                "originalJapaneseLine": "　気持ち悪っ」",
+                "translatedEnglishLine": "That's disgusting.\""
+            },
+            {
+                "lineNumber": "268024",
+                "originalJapaneseLine": "「はぅぅ、やっぱりユキちゃんは、",
+                "translatedEnglishLine": "\"Huhhh, after all, Yuki-chan is cuter as just a head.\""
+            },
+            {
+                "lineNumber": "268025",
+                "originalJapaneseLine": "　首だけの方が可愛いねぇ」",
+                "translatedEnglishLine": "Just the head is cuter, you know.\""
+            },
+            {
+                "lineNumber": "268026",
+                "originalJapaneseLine": "「さんきゅ！！！！」",
+                "translatedEnglishLine": "\"Thank you!!!!\""
+            },
+            {
+                "lineNumber": "268027",
+                "originalJapaneseLine": "「えーい、その辺はどうでもいい。",
+                "translatedEnglishLine": "\"Hey, none of that matters right now."
+            },
+            {
+                "lineNumber": "268028",
+                "originalJapaneseLine": "　元に戻ったとか言ったか？」",
+                "translatedEnglishLine": "Did you say you returned to normal or something?\""
+            },
+            {
+                "lineNumber": "268029",
+                "originalJapaneseLine": "「そう、そうですね……",
+                "translatedEnglishLine": "\"Well, yes...\""
+            },
+            {
+                "lineNumber": "268030",
+                "originalJapaneseLine": "　アレは元に戻った、という感じでした",
+                "translatedEnglishLine": "It felt like it did return to normal."
+            },
+            {
+                "lineNumber": "268031",
+                "originalJapaneseLine": "「でも、思い出したわ……",
+                "translatedEnglishLine": "\"But I remembered..."
+            },
+            {
+                "lineNumber": "268032",
+                "originalJapaneseLine": "「私達、本来はあの姿なのよ……",
+                "translatedEnglishLine": "We originally are that form..."
+            },
+            {
+                "lineNumber": "268033",
+                "originalJapaneseLine": "　それが二つに別れたのが私達」",
+                "translatedEnglishLine": "We are the ones split into two."
+            },
+            {
+                "lineNumber": "268034",
+                "originalJapaneseLine": "「そうね……",
+                "translatedEnglishLine": "\"That's right..."
+            },
+            {
+                "lineNumber": "268035",
+                "originalJapaneseLine": "　それは確信を持ってそうだと言える」",
+                "translatedEnglishLine": "I can say that with certainty."
+            },
+            {
+                "lineNumber": "268036",
+                "originalJapaneseLine": "「それって……",
+                "translatedEnglishLine": "\"That means..."
+            },
+            {
+                "lineNumber": "268037",
+                "originalJapaneseLine": "「なるほど、つまりこういうことか」",
+                "translatedEnglishLine": "I see, so this is what it means."
+            },
+            {
+                "lineNumber": "268038",
+                "originalJapaneseLine": "「君達は実は合体技があって、",
+                "translatedEnglishLine": "You two actually have a fusion technique,"
+            },
+            {
+                "lineNumber": "268039",
+                "originalJapaneseLine": "　そうなるとすごく強くなると」",
+                "translatedEnglishLine": "and when combined, you become very strong."
+            },
+            {
+                "lineNumber": "268040",
+                "originalJapaneseLine": "「え、えええ……",
+                "translatedEnglishLine": "\"Eh, whaaat...?"
+            },
+            {
+                "lineNumber": "268041",
+                "originalJapaneseLine": "　そんな簡単に……",
+                "translatedEnglishLine": "That easily...?"
+            },
+            {
+                "lineNumber": "268042",
+                "originalJapaneseLine": "「まー、魔人だしな。",
+                "translatedEnglishLine": "\"Well, you're demons after all."
+            },
+            {
+                "lineNumber": "268043",
+                "originalJapaneseLine": "　そういう変なとこあっても",
+                "translatedEnglishLine": "So even if you have weird traits like that,"
+            }
+        ]
+    }
+}

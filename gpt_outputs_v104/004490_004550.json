@@ -1,0 +1,719 @@
+{
+    "id": "resp_08ca15aff65392e70068ffee6120688194b7647df31974dde4",
+    "object": "response",
+    "created_at": 1761603169,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_08ca15aff65392e70068ffee61d8c48194b31ca4f8cacc6100",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　あんなー！　ラストでシィルがなー！\",\"translatedEnglishLine\":\"Hey! At the very end, Sil disappeared!\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「さーーせーーるーーかーー！！！！」\",\"translatedEnglishLine\":\"S-s-s-sorry!!!!\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「ぐえー！！！！」\",\"translatedEnglishLine\":\"Gweh!!!!\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「お主ーーー！\",\"translatedEnglishLine\":\"You there---!\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　やっていいことと\",\"translatedEnglishLine\":\"There are things you are allowed to do,\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　悪いことがあるじゃろがー！\",\"translatedEnglishLine\":\"and things you are not supposed to do!\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「やっていいことと悪いことを、\",\"translatedEnglishLine\":\"I don't want Ku-san teaching me what's right and wrong—!\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　クゥさんに教えられたくないんですけどー！？\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「あだだ！？\",\"translatedEnglishLine\":\"Ouch!?\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　やめ、やめーーー！！！！\",\"translatedEnglishLine\":\"St-stop it, st-stopp!!!\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"ギャーギャーと騒がしい空き部屋の扉を、\",\"translatedEnglishLine\":\"Lance and Sil watched from a distance the door of an empty room filled with loud yelling.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"ランスとシィルが遠くから見ていた。\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「分からん……\",\"translatedEnglishLine\":\"I don't understand...\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　まったく、なんでかは分からんが\",\"translatedEnglishLine\":\"I truly don't know why.\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「なんっっっか……\",\"translatedEnglishLine\":\"Somehow...\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　あの部屋には近づいては\",\"translatedEnglishLine\":\"I feel like we shouldn't approach that room...\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　いけない気がする……」\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「ど、どうしますか、ランス様……」\",\"translatedEnglishLine\":\"W-what should we do, Lord Lance...?\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「う〜〜〜む……」\",\"translatedEnglishLine\":\"Hmm...\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「あ、ランス君。\",\"translatedEnglishLine\":\"Ah, Lance-kun.\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　前失礼しまーす」\",\"translatedEnglishLine\":\"Excuse me, coming through.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「はいはい、どいたどいた」\",\"translatedEnglishLine\":\"Alright, alright, step aside.\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「え、誰……」\",\"translatedEnglishLine\":\"Huh, who...?\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「ぴぴぴー！　レッドカードでーす！」\",\"translatedEnglishLine\":\"Beep beep beep! That's a red card!\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「はい、一発退場」\",\"translatedEnglishLine\":\"You're out, one strike.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「ぎゃー！　上位存在の横やりがー！」\",\"translatedEnglishLine\":\"Nooo! An interference from a higher being!\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「あ、あの……ランス様？」\",\"translatedEnglishLine\":\"Um, um... Lord Lance?\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「忘れよう。\",\"translatedEnglishLine\":\"Let's forget it.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　なんとなくその方がいい気がする」\",\"translatedEnglishLine\":\"Somehow, that feels better.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「は、はあ……」\",\"translatedEnglishLine\":\"Y-yeah...\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"ランスは見なかったことにして、\",\"translatedEnglishLine\":\"Lance pretended not to have seen anything,\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"綺麗さっぱり忘れた。\",\"translatedEnglishLine\":\"and thoroughly forgot about it.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"世界から魔王というシステムは消え、\",\"translatedEnglishLine\":\"The system of the Demon King disappeared from the world,\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"魔王ランスは人間に戻り、\",\"translatedEnglishLine\":\"Demon King Lance returned to being human,\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"魔人達も人間や魔物に戻った。\",\"translatedEnglishLine\":\"and the demons reverted to humans or monsters.\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"魔人筆頭であったホーネット主導のもと、\",\"translatedEnglishLine\":\"Under the leadership of Hornet, the head demon,\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"人間との融和が進められていた。\",\"translatedEnglishLine\":\"harmony with humans was progressing.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"元魔王の城では、\",\"translatedEnglishLine\":\"At the former Demon King's castle,\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"そのホーネットに賛同した\",\"translatedEnglishLine\":\"many monsters who agreed with Hornet\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"多くの魔物達が忙しそうに働いている。\",\"translatedEnglishLine\":\"were busily working.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"その中で一人――\",\"translatedEnglishLine\":\"Among them, one person—\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"サイゼルが部屋の隅で拗ねていた。\",\"translatedEnglishLine\":\"Saizel was sulking in the corner of the room.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「あれあれー？\",\"translatedEnglishLine\":\"Oh dear~?\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　ご機嫌斜め上の下ですか、サイゼル様」\",\"translatedEnglishLine\":\"Are you in a bad mood, Lady Saizel?\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「別に？\",\"translatedEnglishLine\":\"Not really?\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　なんで私が機嫌悪くしないといけないわけ？」\",\"translatedEnglishLine\":\"Why should I be in a bad mood?\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「知りませんけど？\",\"translatedEnglishLine\":\"I don't know, though?\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　勝手にピリピリしてるの、\",\"translatedEnglishLine\":\"You're the one who's been twitchy on your own,\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　サイゼル様ですけど？」\",\"translatedEnglishLine\":\"Lady Saizel, right?\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「別にピリピリなんて――！」\",\"translatedEnglishLine\":\"I'm not twitchy or anything—!\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「サイゼル」\",\"translatedEnglishLine\":\"Saizel.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「うげっ！」\",\"translatedEnglishLine\":\"Ugh!\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"突然、ホーネットに声をかけられ、\",\"translatedEnglishLine\":\"Suddenly, Hornet spoke to her,\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"サイゼルは何を言われるのかと身構えた。\",\"translatedEnglishLine\":\"and Saizel braced herself for what was to be said.\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"しかし――\",\"translatedEnglishLine\":\"However—\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「ハウゼルの時間を奪ってしまって、\",\"translatedEnglishLine\":\"\\\"Sorry for taking Hausel's time,\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "269124",
+                                "originalJapaneseLine": "　あんなー！　ラストでシィルがなー！",
+                                "translatedEnglishLine": "Hey! At the very end, Sil disappeared!"
+                            },
+                            {
+                                "lineNumber": "269125",
+                                "originalJapaneseLine": "「さーーせーーるーーかーー！！！！」",
+                                "translatedEnglishLine": "S-s-s-sorry!!!!"
+                            },
+                            {
+                                "lineNumber": "269126",
+                                "originalJapaneseLine": "「ぐえー！！！！」",
+                                "translatedEnglishLine": "Gweh!!!!"
+                            },
+                            {
+                                "lineNumber": "269127",
+                                "originalJapaneseLine": "「お主ーーー！",
+                                "translatedEnglishLine": "You there---!"
+                            },
+                            {
+                                "lineNumber": "269128",
+                                "originalJapaneseLine": "　やっていいことと",
+                                "translatedEnglishLine": "There are things you are allowed to do,"
+                            },
+                            {
+                                "lineNumber": "269129",
+                                "originalJapaneseLine": "　悪いことがあるじゃろがー！",
+                                "translatedEnglishLine": "and things you are not supposed to do!"
+                            },
+                            {
+                                "lineNumber": "269130",
+                                "originalJapaneseLine": "「やっていいことと悪いことを、",
+                                "translatedEnglishLine": "I don't want Ku-san teaching me what's right and wrong—!"
+                            },
+                            {
+                                "lineNumber": "269131",
+                                "originalJapaneseLine": "　クゥさんに教えられたくないんですけどー！？",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": "269132",
+                                "originalJapaneseLine": "「あだだ！？",
+                                "translatedEnglishLine": "Ouch!?"
+                            },
+                            {
+                                "lineNumber": "269133",
+                                "originalJapaneseLine": "　やめ、やめーーー！！！！",
+                                "translatedEnglishLine": "St-stop it, st-stopp!!!"
+                            },
+                            {
+                                "lineNumber": "269134",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "........"
+                            },
+                            {
+                                "lineNumber": "269135",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "........"
+                            },
+                            {
+                                "lineNumber": "269136",
+                                "originalJapaneseLine": "ギャーギャーと騒がしい空き部屋の扉を、",
+                                "translatedEnglishLine": "Lance and Sil watched from a distance the door of an empty room filled with loud yelling."
+                            },
+                            {
+                                "lineNumber": "269137",
+                                "originalJapaneseLine": "ランスとシィルが遠くから見ていた。",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": "269138",
+                                "originalJapaneseLine": "「分からん……",
+                                "translatedEnglishLine": "I don't understand..."
+                            },
+                            {
+                                "lineNumber": "269139",
+                                "originalJapaneseLine": "　まったく、なんでかは分からんが",
+                                "translatedEnglishLine": "I truly don't know why."
+                            },
+                            {
+                                "lineNumber": "269140",
+                                "originalJapaneseLine": "「なんっっっか……",
+                                "translatedEnglishLine": "Somehow..."
+                            },
+                            {
+                                "lineNumber": "269141",
+                                "originalJapaneseLine": "　あの部屋には近づいては",
+                                "translatedEnglishLine": "I feel like we shouldn't approach that room..."
+                            },
+                            {
+                                "lineNumber": "269142",
+                                "originalJapaneseLine": "　いけない気がする……」",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": "269143",
+                                "originalJapaneseLine": "「ど、どうしますか、ランス様……」",
+                                "translatedEnglishLine": "W-what should we do, Lord Lance...?"
+                            },
+                            {
+                                "lineNumber": "269144",
+                                "originalJapaneseLine": "「う〜〜〜む……」",
+                                "translatedEnglishLine": "Hmm..."
+                            },
+                            {
+                                "lineNumber": "269145",
+                                "originalJapaneseLine": "「あ、ランス君。",
+                                "translatedEnglishLine": "Ah, Lance-kun."
+                            },
+                            {
+                                "lineNumber": "269146",
+                                "originalJapaneseLine": "　前失礼しまーす」",
+                                "translatedEnglishLine": "Excuse me, coming through."
+                            },
+                            {
+                                "lineNumber": "269147",
+                                "originalJapaneseLine": "「はいはい、どいたどいた」",
+                                "translatedEnglishLine": "Alright, alright, step aside."
+                            },
+                            {
+                                "lineNumber": "269148",
+                                "originalJapaneseLine": "「え、誰……」",
+                                "translatedEnglishLine": "Huh, who...?"
+                            },
+                            {
+                                "lineNumber": "269149",
+                                "originalJapaneseLine": "「ぴぴぴー！　レッドカードでーす！」",
+                                "translatedEnglishLine": "Beep beep beep! That's a red card!"
+                            },
+                            {
+                                "lineNumber": "269150",
+                                "originalJapaneseLine": "「はい、一発退場」",
+                                "translatedEnglishLine": "You're out, one strike."
+                            },
+                            {
+                                "lineNumber": "269151",
+                                "originalJapaneseLine": "「ぎゃー！　上位存在の横やりがー！」",
+                                "translatedEnglishLine": "Nooo! An interference from a higher being!"
+                            },
+                            {
+                                "lineNumber": "269152",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "........"
+                            },
+                            {
+                                "lineNumber": "269153",
+                                "originalJapaneseLine": "「あ、あの……ランス様？」",
+                                "translatedEnglishLine": "Um, um... Lord Lance?"
+                            },
+                            {
+                                "lineNumber": "269154",
+                                "originalJapaneseLine": "「忘れよう。",
+                                "translatedEnglishLine": "Let's forget it."
+                            },
+                            {
+                                "lineNumber": "269155",
+                                "originalJapaneseLine": "　なんとなくその方がいい気がする」",
+                                "translatedEnglishLine": "Somehow, that feels better."
+                            },
+                            {
+                                "lineNumber": "269156",
+                                "originalJapaneseLine": "「は、はあ……」",
+                                "translatedEnglishLine": "Y-yeah..."
+                            },
+                            {
+                                "lineNumber": "269157",
+                                "originalJapaneseLine": "ランスは見なかったことにして、",
+                                "translatedEnglishLine": "Lance pretended not to have seen anything,"
+                            },
+                            {
+                                "lineNumber": "269158",
+                                "originalJapaneseLine": "綺麗さっぱり忘れた。",
+                                "translatedEnglishLine": "and thoroughly forgot about it."
+                            },
+                            {
+                                "lineNumber": "269159",
+                                "originalJapaneseLine": "世界から魔王というシステムは消え、",
+                                "translatedEnglishLine": "The system of the Demon King disappeared from the world,"
+                            },
+                            {
+                                "lineNumber": "269160",
+                                "originalJapaneseLine": "魔王ランスは人間に戻り、",
+                                "translatedEnglishLine": "Demon King Lance returned to being human,"
+                            },
+                            {
+                                "lineNumber": "269161",
+                                "originalJapaneseLine": "魔人達も人間や魔物に戻った。",
+                                "translatedEnglishLine": "and the demons reverted to humans or monsters."
+                            },
+                            {
+                                "lineNumber": "269162",
+                                "originalJapaneseLine": "魔人筆頭であったホーネット主導のもと、",
+                                "translatedEnglishLine": "Under the leadership of Hornet, the head demon,"
+                            },
+                            {
+                                "lineNumber": "269163",
+                                "originalJapaneseLine": "人間との融和が進められていた。",
+                                "translatedEnglishLine": "harmony with humans was progressing."
+                            },
+                            {
+                                "lineNumber": "269164",
+                                "originalJapaneseLine": "元魔王の城では、",
+                                "translatedEnglishLine": "At the former Demon King's castle,"
+                            },
+                            {
+                                "lineNumber": "269165",
+                                "originalJapaneseLine": "そのホーネットに賛同した",
+                                "translatedEnglishLine": "many monsters who agreed with Hornet"
+                            },
+                            {
+                                "lineNumber": "269166",
+                                "originalJapaneseLine": "多くの魔物達が忙しそうに働いている。",
+                                "translatedEnglishLine": "were busily working."
+                            },
+                            {
+                                "lineNumber": "269167",
+                                "originalJapaneseLine": "その中で一人――",
+                                "translatedEnglishLine": "Among them, one person—"
+                            },
+                            {
+                                "lineNumber": "269168",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "........"
+                            },
+                            {
+                                "lineNumber": "269169",
+                                "originalJapaneseLine": "サイゼルが部屋の隅で拗ねていた。",
+                                "translatedEnglishLine": "Saizel was sulking in the corner of the room."
+                            },
+                            {
+                                "lineNumber": "269170",
+                                "originalJapaneseLine": "「あれあれー？",
+                                "translatedEnglishLine": "Oh dear~?"
+                            },
+                            {
+                                "lineNumber": "269171",
+                                "originalJapaneseLine": "　ご機嫌斜め上の下ですか、サイゼル様」",
+                                "translatedEnglishLine": "Are you in a bad mood, Lady Saizel?"
+                            },
+                            {
+                                "lineNumber": "269172",
+                                "originalJapaneseLine": "「別に？",
+                                "translatedEnglishLine": "Not really?"
+                            },
+                            {
+                                "lineNumber": "269173",
+                                "originalJapaneseLine": "　なんで私が機嫌悪くしないといけないわけ？」",
+                                "translatedEnglishLine": "Why should I be in a bad mood?"
+                            },
+                            {
+                                "lineNumber": "269174",
+                                "originalJapaneseLine": "「知りませんけど？",
+                                "translatedEnglishLine": "I don't know, though?"
+                            },
+                            {
+                                "lineNumber": "269175",
+                                "originalJapaneseLine": "　勝手にピリピリしてるの、",
+                                "translatedEnglishLine": "You're the one who's been twitchy on your own,"
+                            },
+                            {
+                                "lineNumber": "269176",
+                                "originalJapaneseLine": "　サイゼル様ですけど？」",
+                                "translatedEnglishLine": "Lady Saizel, right?"
+                            },
+                            {
+                                "lineNumber": "269177",
+                                "originalJapaneseLine": "「別にピリピリなんて――！」",
+                                "translatedEnglishLine": "I'm not twitchy or anything—!"
+                            },
+                            {
+                                "lineNumber": "269178",
+                                "originalJapaneseLine": "「サイゼル」",
+                                "translatedEnglishLine": "Saizel."
+                            },
+                            {
+                                "lineNumber": "269179",
+                                "originalJapaneseLine": "「うげっ！」",
+                                "translatedEnglishLine": "Ugh!"
+                            },
+                            {
+                                "lineNumber": "269180",
+                                "originalJapaneseLine": "突然、ホーネットに声をかけられ、",
+                                "translatedEnglishLine": "Suddenly, Hornet spoke to her,"
+                            },
+                            {
+                                "lineNumber": "269181",
+                                "originalJapaneseLine": "サイゼルは何を言われるのかと身構えた。",
+                                "translatedEnglishLine": "and Saizel braced herself for what was to be said."
+                            },
+                            {
+                                "lineNumber": "269182",
+                                "originalJapaneseLine": "しかし――",
+                                "translatedEnglishLine": "However—"
+                            },
+                            {
+                                "lineNumber": "269183",
+                                "originalJapaneseLine": "「ハウゼルの時間を奪ってしまって、",
+                                "translatedEnglishLine": "\"Sorry for taking Hausel's time,"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1733,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1911,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3644
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　あんなー！　ラストでシィルがなー！\",\"translatedEnglishLine\":\"Hey! At the very end, Sil disappeared!\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「さーーせーーるーーかーー！！！！」\",\"translatedEnglishLine\":\"S-s-s-sorry!!!!\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「ぐえー！！！！」\",\"translatedEnglishLine\":\"Gweh!!!!\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「お主ーーー！\",\"translatedEnglishLine\":\"You there---!\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　やっていいことと\",\"translatedEnglishLine\":\"There are things you are allowed to do,\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　悪いことがあるじゃろがー！\",\"translatedEnglishLine\":\"and things you are not supposed to do!\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「やっていいことと悪いことを、\",\"translatedEnglishLine\":\"I don't want Ku-san teaching me what's right and wrong—!\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　クゥさんに教えられたくないんですけどー！？\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「あだだ！？\",\"translatedEnglishLine\":\"Ouch!?\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　やめ、やめーーー！！！！\",\"translatedEnglishLine\":\"St-stop it, st-stopp!!!\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"ギャーギャーと騒がしい空き部屋の扉を、\",\"translatedEnglishLine\":\"Lance and Sil watched from a distance the door of an empty room filled with loud yelling.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"ランスとシィルが遠くから見ていた。\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「分からん……\",\"translatedEnglishLine\":\"I don't understand...\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　まったく、なんでかは分からんが\",\"translatedEnglishLine\":\"I truly don't know why.\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「なんっっっか……\",\"translatedEnglishLine\":\"Somehow...\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　あの部屋には近づいては\",\"translatedEnglishLine\":\"I feel like we shouldn't approach that room...\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　いけない気がする……」\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「ど、どうしますか、ランス様……」\",\"translatedEnglishLine\":\"W-what should we do, Lord Lance...?\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「う〜〜〜む……」\",\"translatedEnglishLine\":\"Hmm...\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「あ、ランス君。\",\"translatedEnglishLine\":\"Ah, Lance-kun.\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"　前失礼しまーす」\",\"translatedEnglishLine\":\"Excuse me, coming through.\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「はいはい、どいたどいた」\",\"translatedEnglishLine\":\"Alright, alright, step aside.\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「え、誰……」\",\"translatedEnglishLine\":\"Huh, who...?\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「ぴぴぴー！　レッドカードでーす！」\",\"translatedEnglishLine\":\"Beep beep beep! That's a red card!\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「はい、一発退場」\",\"translatedEnglishLine\":\"You're out, one strike.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「ぎゃー！　上位存在の横やりがー！」\",\"translatedEnglishLine\":\"Nooo! An interference from a higher being!\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「あ、あの……ランス様？」\",\"translatedEnglishLine\":\"Um, um... Lord Lance?\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「忘れよう。\",\"translatedEnglishLine\":\"Let's forget it.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　なんとなくその方がいい気がする」\",\"translatedEnglishLine\":\"Somehow, that feels better.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「は、はあ……」\",\"translatedEnglishLine\":\"Y-yeah...\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"ランスは見なかったことにして、\",\"translatedEnglishLine\":\"Lance pretended not to have seen anything,\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"綺麗さっぱり忘れた。\",\"translatedEnglishLine\":\"and thoroughly forgot about it.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"世界から魔王というシステムは消え、\",\"translatedEnglishLine\":\"The system of the Demon King disappeared from the world,\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"魔王ランスは人間に戻り、\",\"translatedEnglishLine\":\"Demon King Lance returned to being human,\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"魔人達も人間や魔物に戻った。\",\"translatedEnglishLine\":\"and the demons reverted to humans or monsters.\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"魔人筆頭であったホーネット主導のもと、\",\"translatedEnglishLine\":\"Under the leadership of Hornet, the head demon,\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"人間との融和が進められていた。\",\"translatedEnglishLine\":\"harmony with humans was progressing.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"元魔王の城では、\",\"translatedEnglishLine\":\"At the former Demon King's castle,\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"そのホーネットに賛同した\",\"translatedEnglishLine\":\"many monsters who agreed with Hornet\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"多くの魔物達が忙しそうに働いている。\",\"translatedEnglishLine\":\"were busily working.\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"その中で一人――\",\"translatedEnglishLine\":\"Among them, one person—\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"サイゼルが部屋の隅で拗ねていた。\",\"translatedEnglishLine\":\"Saizel was sulking in the corner of the room.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「あれあれー？\",\"translatedEnglishLine\":\"Oh dear~?\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　ご機嫌斜め上の下ですか、サイゼル様」\",\"translatedEnglishLine\":\"Are you in a bad mood, Lady Saizel?\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「別に？\",\"translatedEnglishLine\":\"Not really?\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　なんで私が機嫌悪くしないといけないわけ？」\",\"translatedEnglishLine\":\"Why should I be in a bad mood?\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「知りませんけど？\",\"translatedEnglishLine\":\"I don't know, though?\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　勝手にピリピリしてるの、\",\"translatedEnglishLine\":\"You're the one who's been twitchy on your own,\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　サイゼル様ですけど？」\",\"translatedEnglishLine\":\"Lady Saizel, right?\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「別にピリピリなんて――！」\",\"translatedEnglishLine\":\"I'm not twitchy or anything—!\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「サイゼル」\",\"translatedEnglishLine\":\"Saizel.\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「うげっ！」\",\"translatedEnglishLine\":\"Ugh!\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"突然、ホーネットに声をかけられ、\",\"translatedEnglishLine\":\"Suddenly, Hornet spoke to her,\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"サイゼルは何を言われるのかと身構えた。\",\"translatedEnglishLine\":\"and Saizel braced herself for what was to be said.\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"しかし――\",\"translatedEnglishLine\":\"However—\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「ハウゼルの時間を奪ってしまって、\",\"translatedEnglishLine\":\"\\\"Sorry for taking Hausel's time,\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "269124",
+                "originalJapaneseLine": "　あんなー！　ラストでシィルがなー！",
+                "translatedEnglishLine": "Hey! At the very end, Sil disappeared!"
+            },
+            {
+                "lineNumber": "269125",
+                "originalJapaneseLine": "「さーーせーーるーーかーー！！！！」",
+                "translatedEnglishLine": "S-s-s-sorry!!!!"
+            },
+            {
+                "lineNumber": "269126",
+                "originalJapaneseLine": "「ぐえー！！！！」",
+                "translatedEnglishLine": "Gweh!!!!"
+            },
+            {
+                "lineNumber": "269127",
+                "originalJapaneseLine": "「お主ーーー！",
+                "translatedEnglishLine": "You there---!"
+            },
+            {
+                "lineNumber": "269128",
+                "originalJapaneseLine": "　やっていいことと",
+                "translatedEnglishLine": "There are things you are allowed to do,"
+            },
+            {
+                "lineNumber": "269129",
+                "originalJapaneseLine": "　悪いことがあるじゃろがー！",
+                "translatedEnglishLine": "and things you are not supposed to do!"
+            },
+            {
+                "lineNumber": "269130",
+                "originalJapaneseLine": "「やっていいことと悪いことを、",
+                "translatedEnglishLine": "I don't want Ku-san teaching me what's right and wrong—!"
+            },
+            {
+                "lineNumber": "269131",
+                "originalJapaneseLine": "　クゥさんに教えられたくないんですけどー！？",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": "269132",
+                "originalJapaneseLine": "「あだだ！？",
+                "translatedEnglishLine": "Ouch!?"
+            },
+            {
+                "lineNumber": "269133",
+                "originalJapaneseLine": "　やめ、やめーーー！！！！",
+                "translatedEnglishLine": "St-stop it, st-stopp!!!"
+            },
+            {
+                "lineNumber": "269134",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": "269135",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": "269136",
+                "originalJapaneseLine": "ギャーギャーと騒がしい空き部屋の扉を、",
+                "translatedEnglishLine": "Lance and Sil watched from a distance the door of an empty room filled with loud yelling."
+            },
+            {
+                "lineNumber": "269137",
+                "originalJapaneseLine": "ランスとシィルが遠くから見ていた。",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": "269138",
+                "originalJapaneseLine": "「分からん……",
+                "translatedEnglishLine": "I don't understand..."
+            },
+            {
+                "lineNumber": "269139",
+                "originalJapaneseLine": "　まったく、なんでかは分からんが",
+                "translatedEnglishLine": "I truly don't know why."
+            },
+            {
+                "lineNumber": "269140",
+                "originalJapaneseLine": "「なんっっっか……",
+                "translatedEnglishLine": "Somehow..."
+            },
+            {
+                "lineNumber": "269141",
+                "originalJapaneseLine": "　あの部屋には近づいては",
+                "translatedEnglishLine": "I feel like we shouldn't approach that room..."
+            },
+            {
+                "lineNumber": "269142",
+                "originalJapaneseLine": "　いけない気がする……」",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": "269143",
+                "originalJapaneseLine": "「ど、どうしますか、ランス様……」",
+                "translatedEnglishLine": "W-what should we do, Lord Lance...?"
+            },
+            {
+                "lineNumber": "269144",
+                "originalJapaneseLine": "「う〜〜〜む……」",
+                "translatedEnglishLine": "Hmm..."
+            },
+            {
+                "lineNumber": "269145",
+                "originalJapaneseLine": "「あ、ランス君。",
+                "translatedEnglishLine": "Ah, Lance-kun."
+            },
+            {
+                "lineNumber": "269146",
+                "originalJapaneseLine": "　前失礼しまーす」",
+                "translatedEnglishLine": "Excuse me, coming through."
+            },
+            {
+                "lineNumber": "269147",
+                "originalJapaneseLine": "「はいはい、どいたどいた」",
+                "translatedEnglishLine": "Alright, alright, step aside."
+            },
+            {
+                "lineNumber": "269148",
+                "originalJapaneseLine": "「え、誰……」",
+                "translatedEnglishLine": "Huh, who...?"
+            },
+            {
+                "lineNumber": "269149",
+                "originalJapaneseLine": "「ぴぴぴー！　レッドカードでーす！」",
+                "translatedEnglishLine": "Beep beep beep! That's a red card!"
+            },
+            {
+                "lineNumber": "269150",
+                "originalJapaneseLine": "「はい、一発退場」",
+                "translatedEnglishLine": "You're out, one strike."
+            },
+            {
+                "lineNumber": "269151",
+                "originalJapaneseLine": "「ぎゃー！　上位存在の横やりがー！」",
+                "translatedEnglishLine": "Nooo! An interference from a higher being!"
+            },
+            {
+                "lineNumber": "269152",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": "269153",
+                "originalJapaneseLine": "「あ、あの……ランス様？」",
+                "translatedEnglishLine": "Um, um... Lord Lance?"
+            },
+            {
+                "lineNumber": "269154",
+                "originalJapaneseLine": "「忘れよう。",
+                "translatedEnglishLine": "Let's forget it."
+            },
+            {
+                "lineNumber": "269155",
+                "originalJapaneseLine": "　なんとなくその方がいい気がする」",
+                "translatedEnglishLine": "Somehow, that feels better."
+            },
+            {
+                "lineNumber": "269156",
+                "originalJapaneseLine": "「は、はあ……」",
+                "translatedEnglishLine": "Y-yeah..."
+            },
+            {
+                "lineNumber": "269157",
+                "originalJapaneseLine": "ランスは見なかったことにして、",
+                "translatedEnglishLine": "Lance pretended not to have seen anything,"
+            },
+            {
+                "lineNumber": "269158",
+                "originalJapaneseLine": "綺麗さっぱり忘れた。",
+                "translatedEnglishLine": "and thoroughly forgot about it."
+            },
+            {
+                "lineNumber": "269159",
+                "originalJapaneseLine": "世界から魔王というシステムは消え、",
+                "translatedEnglishLine": "The system of the Demon King disappeared from the world,"
+            },
+            {
+                "lineNumber": "269160",
+                "originalJapaneseLine": "魔王ランスは人間に戻り、",
+                "translatedEnglishLine": "Demon King Lance returned to being human,"
+            },
+            {
+                "lineNumber": "269161",
+                "originalJapaneseLine": "魔人達も人間や魔物に戻った。",
+                "translatedEnglishLine": "and the demons reverted to humans or monsters."
+            },
+            {
+                "lineNumber": "269162",
+                "originalJapaneseLine": "魔人筆頭であったホーネット主導のもと、",
+                "translatedEnglishLine": "Under the leadership of Hornet, the head demon,"
+            },
+            {
+                "lineNumber": "269163",
+                "originalJapaneseLine": "人間との融和が進められていた。",
+                "translatedEnglishLine": "harmony with humans was progressing."
+            },
+            {
+                "lineNumber": "269164",
+                "originalJapaneseLine": "元魔王の城では、",
+                "translatedEnglishLine": "At the former Demon King's castle,"
+            },
+            {
+                "lineNumber": "269165",
+                "originalJapaneseLine": "そのホーネットに賛同した",
+                "translatedEnglishLine": "many monsters who agreed with Hornet"
+            },
+            {
+                "lineNumber": "269166",
+                "originalJapaneseLine": "多くの魔物達が忙しそうに働いている。",
+                "translatedEnglishLine": "were busily working."
+            },
+            {
+                "lineNumber": "269167",
+                "originalJapaneseLine": "その中で一人――",
+                "translatedEnglishLine": "Among them, one person—"
+            },
+            {
+                "lineNumber": "269168",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": "269169",
+                "originalJapaneseLine": "サイゼルが部屋の隅で拗ねていた。",
+                "translatedEnglishLine": "Saizel was sulking in the corner of the room."
+            },
+            {
+                "lineNumber": "269170",
+                "originalJapaneseLine": "「あれあれー？",
+                "translatedEnglishLine": "Oh dear~?"
+            },
+            {
+                "lineNumber": "269171",
+                "originalJapaneseLine": "　ご機嫌斜め上の下ですか、サイゼル様」",
+                "translatedEnglishLine": "Are you in a bad mood, Lady Saizel?"
+            },
+            {
+                "lineNumber": "269172",
+                "originalJapaneseLine": "「別に？",
+                "translatedEnglishLine": "Not really?"
+            },
+            {
+                "lineNumber": "269173",
+                "originalJapaneseLine": "　なんで私が機嫌悪くしないといけないわけ？」",
+                "translatedEnglishLine": "Why should I be in a bad mood?"
+            },
+            {
+                "lineNumber": "269174",
+                "originalJapaneseLine": "「知りませんけど？",
+                "translatedEnglishLine": "I don't know, though?"
+            },
+            {
+                "lineNumber": "269175",
+                "originalJapaneseLine": "　勝手にピリピリしてるの、",
+                "translatedEnglishLine": "You're the one who's been twitchy on your own,"
+            },
+            {
+                "lineNumber": "269176",
+                "originalJapaneseLine": "　サイゼル様ですけど？」",
+                "translatedEnglishLine": "Lady Saizel, right?"
+            },
+            {
+                "lineNumber": "269177",
+                "originalJapaneseLine": "「別にピリピリなんて――！」",
+                "translatedEnglishLine": "I'm not twitchy or anything—!"
+            },
+            {
+                "lineNumber": "269178",
+                "originalJapaneseLine": "「サイゼル」",
+                "translatedEnglishLine": "Saizel."
+            },
+            {
+                "lineNumber": "269179",
+                "originalJapaneseLine": "「うげっ！」",
+                "translatedEnglishLine": "Ugh!"
+            },
+            {
+                "lineNumber": "269180",
+                "originalJapaneseLine": "突然、ホーネットに声をかけられ、",
+                "translatedEnglishLine": "Suddenly, Hornet spoke to her,"
+            },
+            {
+                "lineNumber": "269181",
+                "originalJapaneseLine": "サイゼルは何を言われるのかと身構えた。",
+                "translatedEnglishLine": "and Saizel braced herself for what was to be said."
+            },
+            {
+                "lineNumber": "269182",
+                "originalJapaneseLine": "しかし――",
+                "translatedEnglishLine": "However—"
+            },
+            {
+                "lineNumber": "269183",
+                "originalJapaneseLine": "「ハウゼルの時間を奪ってしまって、",
+                "translatedEnglishLine": "\"Sorry for taking Hausel's time,"
+            }
+        ]
+    }
+}

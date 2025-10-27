@@ -1,0 +1,719 @@
+{
+    "id": "resp_0c9661894e364c370068ffe5df03708194b882c803b6f1a056",
+    "object": "response",
+    "created_at": 1761600991,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0c9661894e364c370068ffe5dfaaec8194be5fa6996d3b2a20",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「あー！　あー！　もう！　そういうのやめ！」\",\"translatedEnglishLine\":\"\\\"Ah! Ah! Enough! Stop that!\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「はいはい。受け取りは確認したわ。\",\"translatedEnglishLine\":\"\\\"Alright, alright. I've confirmed receipt.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　話、戻していい？」\",\"translatedEnglishLine\":\"Can we get back to the story?\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「ごめん……」\",\"translatedEnglishLine\":\"\\\"Sorry...\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「食料を奪うんだ。片っ端からね」\",\"translatedEnglishLine\":\"\\\"They're stealing the food. Every last bit.\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「食料がなくなった街は、国に救援を求める。\",\"translatedEnglishLine\":\"\\\"When a town runs out of food, it asks the country for aid.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　結果として、国全体の食糧事情が破綻するわけ」\",\"translatedEnglishLine\":\"\\\"As a result, the entire nation's food situation collapses.\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「死ねば口は減るのにねー」\",\"translatedEnglishLine\":\"\\\"They say if they die, there'd be fewer mouths to feed, though.\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「だからって放っておけるわけないでしょ」\",\"translatedEnglishLine\":\"\\\"But that doesn't mean we can just leave it be.\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「マジックちゃん、スマイルスマイル☆\",\"translatedEnglishLine\":\"\\\"Magic-chan, smile, smile☆\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　同じ釜のメシ食べた仲じゃない」\",\"translatedEnglishLine\":\"\\\"We're comrades who shared the same pot of food.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「……ともかく。それで結局、全員が飢える。\",\"translatedEnglishLine\":\"\\\"...Anyway. In the end, everyone starves.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　この街でも、既に食料は配給制。\",\"translatedEnglishLine\":\"\\\"Even in this town, food is already rationed.\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　それでさえ、もうまかないきれてないわ」\",\"translatedEnglishLine\":\"\\\"And even that is no longer sufficient.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「……よく暴動が起きないな」\",\"translatedEnglishLine\":\"\\\"...It's surprising that riots don't break out.\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「起きない訳じゃないわ。\",\"translatedEnglishLine\":\"\\\"It's not that they don't happen.\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　ただ……暴動する気力さえ、奪われてる……\",\"translatedEnglishLine\":\"\\\"But... even the will to riot has been taken away...\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　そろそろね」\",\"translatedEnglishLine\":\"\\\"It's about time.\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「あっ…………」\",\"translatedEnglishLine\":\"\\\"Ah...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「そろそろ？」\",\"translatedEnglishLine\":\"\\\"About time?\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「ええ。ランスはともかく……\",\"translatedEnglishLine\":\"\\\"Yeah. Leaving Rance aside...\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　他の人たちは見ない方がいいかも」\",\"translatedEnglishLine\":\"\\\"It might be better if others don't see it.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「緑の、目……」\",\"translatedEnglishLine\":\"\\\"Green, eyes...\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「……じゃ、帰るわ。地の果てまで。\",\"translatedEnglishLine\":\"\\\"...Well then, I'm heading back. To the ends of the earth.\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　お疲れっしゅ☆」\",\"translatedEnglishLine\":\"\\\"Good work☆\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「あっ、あっ、メガデス！」\",\"translatedEnglishLine\":\"\\\"Ah, ah, Megadesu!\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「帰りは別ルートでいこ☆\",\"translatedEnglishLine\":\"\\\"Let's take a different route back☆\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　つーか、ついてくんな☆」\",\"translatedEnglishLine\":\"\\\"Or better yet, don't follow me☆\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「ああもう！　そ、それじゃ！」\",\"translatedEnglishLine\":\"\\\"Ah geez! W-well then!\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「……………………」\",\"translatedEnglishLine\":\"\\\"........................\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「メディウサ……戦争中でもお構いなしか」\",\"translatedEnglishLine\":\"\\\"Medusa... doesn't care even during wartime.\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"吐き捨てるサテラも、顔色は少し青い。\",\"translatedEnglishLine\":\"Satella spat out the words, her complexion a little pale.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「…………なんだあれは。胸糞悪い」\",\"translatedEnglishLine\":\"\\\"...What the hell is that? So disgusting.\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「ラグナロックアークの、通信設備よ。\",\"translatedEnglishLine\":\"\\\"It's the communication facility of Ragnarok Arc.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　それを使って、毎日毎日……」\",\"translatedEnglishLine\":\"\\\"Using that, every single day...\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「けっ。いい趣味してやがるのう。\",\"translatedEnglishLine\":\"\\\"Tch. Quite the taste you have.\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　全然変わってねーな、あの蛇女……」\",\"translatedEnglishLine\":\"\\\"That snake woman hasn’t changed one bit...\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「……メディウサは、女士官ばかり狙うの。\",\"translatedEnglishLine\":\"\\\"...Medusa only targets female officers.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　隠れても隠れても……隠しおおせた例はないわ。\",\"translatedEnglishLine\":\"\\\"No matter how much they hide... there’s no example of anyone getting away unnoticed.\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　配下が、見つけてさらってしまうみたいね」\",\"translatedEnglishLine\":\"\\\"Her underlings seem to find and abduct them.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「……めちゃめちゃむかつく女だな。\",\"translatedEnglishLine\":\"\\\"...She’s one hell of an annoying woman.\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　可愛い女の子をいじめて殺してるのか……」\",\"translatedEnglishLine\":\"\\\"Bullying and killing cute girls... huh.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"不快げに眉をひそめたランスに、\",\"translatedEnglishLine\":\"Rance frowned in displeasure,\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"マジックは視線を逸らす。\",\"translatedEnglishLine\":\"and Magic averted her gaze.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「……今日はまだいい方よ。\",\"translatedEnglishLine\":\"\\\"...Today was actually on the better side.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　いたぶられて、心を砕かれて……\",\"translatedEnglishLine\":\"\\\"Tormented, their spirits broken...\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　仲間が、泣き叫びながら殺されていく」\",\"translatedEnglishLine\":\"\\\"Comrades killed while crying and screaming.\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"今までの放送の分を思い出しているのか、\",\"translatedEnglishLine\":\"Perhaps remembering the past broadcasts,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"マジックは口元を押さえた。\",\"translatedEnglishLine\":\"Magic covered her mouth.\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「……混乱は、どんどん広がってるわ。\",\"translatedEnglishLine\":\"\\\"...The chaos is spreading rapidly.\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　逃げ出す子も多いし、\",\"translatedEnglishLine\":\"\\\"Many girls run away,\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　選ばれたら自殺してる子さえいる」\",\"translatedEnglishLine\":\"and some even commit suicide when chosen.\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「士官がそれじゃ、堪らんな」\",\"translatedEnglishLine\":\"\\\"If it's like that for officers, they can't bear it.\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「戦況は、辛うじて支えてるけど……\",\"translatedEnglishLine\":\"\\\"The war situation is barely being sustained, but...\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　ゼスは今、ゆっくりと蝕まれてるの」\",\"translatedEnglishLine\":\"Zethus is slowly being eroded.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「飢えと恐怖か。\",\"translatedEnglishLine\":\"\\\"Hunger and fear, huh.\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　国を揺さぶり、滅ぼすには、なかなか効果的だ」\",\"translatedEnglishLine\":\"\\\"They’re quite effective methods to shake and destroy a nation.\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"RA1年――\",\"translatedEnglishLine\":\"Year RA1――\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"魔王ランスが人類の前に姿を見せ、\",\"translatedEnglishLine\":\"The demon lord Rance appeared before humanity,\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"新たな魔王軍を宣言したこの年――\",\"translatedEnglishLine\":\"and declared his new demon lord army in this year――\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "265474",
+                                "originalJapaneseLine": "「あー！　あー！　もう！　そういうのやめ！」",
+                                "translatedEnglishLine": "\"Ah! Ah! Enough! Stop that!\""
+                            },
+                            {
+                                "lineNumber": "265475",
+                                "originalJapaneseLine": "「はいはい。受け取りは確認したわ。",
+                                "translatedEnglishLine": "\"Alright, alright. I've confirmed receipt.\""
+                            },
+                            {
+                                "lineNumber": "265476",
+                                "originalJapaneseLine": "　話、戻していい？」",
+                                "translatedEnglishLine": "Can we get back to the story?\""
+                            },
+                            {
+                                "lineNumber": "265477",
+                                "originalJapaneseLine": "「ごめん……」",
+                                "translatedEnglishLine": "\"Sorry...\""
+                            },
+                            {
+                                "lineNumber": "265478",
+                                "originalJapaneseLine": "「食料を奪うんだ。片っ端からね」",
+                                "translatedEnglishLine": "\"They're stealing the food. Every last bit.\""
+                            },
+                            {
+                                "lineNumber": "265479",
+                                "originalJapaneseLine": "「食料がなくなった街は、国に救援を求める。",
+                                "translatedEnglishLine": "\"When a town runs out of food, it asks the country for aid.\""
+                            },
+                            {
+                                "lineNumber": "265480",
+                                "originalJapaneseLine": "　結果として、国全体の食糧事情が破綻するわけ」",
+                                "translatedEnglishLine": "\"As a result, the entire nation's food situation collapses.\""
+                            },
+                            {
+                                "lineNumber": "265481",
+                                "originalJapaneseLine": "「死ねば口は減るのにねー」",
+                                "translatedEnglishLine": "\"They say if they die, there'd be fewer mouths to feed, though.\""
+                            },
+                            {
+                                "lineNumber": "265482",
+                                "originalJapaneseLine": "「だからって放っておけるわけないでしょ」",
+                                "translatedEnglishLine": "\"But that doesn't mean we can just leave it be.\""
+                            },
+                            {
+                                "lineNumber": "265483",
+                                "originalJapaneseLine": "「マジックちゃん、スマイルスマイル☆",
+                                "translatedEnglishLine": "\"Magic-chan, smile, smile☆\""
+                            },
+                            {
+                                "lineNumber": "265484",
+                                "originalJapaneseLine": "　同じ釜のメシ食べた仲じゃない」",
+                                "translatedEnglishLine": "\"We're comrades who shared the same pot of food.\""
+                            },
+                            {
+                                "lineNumber": "265485",
+                                "originalJapaneseLine": "「……ともかく。それで結局、全員が飢える。",
+                                "translatedEnglishLine": "\"...Anyway. In the end, everyone starves.\""
+                            },
+                            {
+                                "lineNumber": "265486",
+                                "originalJapaneseLine": "　この街でも、既に食料は配給制。",
+                                "translatedEnglishLine": "\"Even in this town, food is already rationed.\""
+                            },
+                            {
+                                "lineNumber": "265487",
+                                "originalJapaneseLine": "　それでさえ、もうまかないきれてないわ」",
+                                "translatedEnglishLine": "\"And even that is no longer sufficient.\""
+                            },
+                            {
+                                "lineNumber": "265488",
+                                "originalJapaneseLine": "「……よく暴動が起きないな」",
+                                "translatedEnglishLine": "\"...It's surprising that riots don't break out.\""
+                            },
+                            {
+                                "lineNumber": "265489",
+                                "originalJapaneseLine": "「起きない訳じゃないわ。",
+                                "translatedEnglishLine": "\"It's not that they don't happen.\""
+                            },
+                            {
+                                "lineNumber": "265490",
+                                "originalJapaneseLine": "　ただ……暴動する気力さえ、奪われてる……",
+                                "translatedEnglishLine": "\"But... even the will to riot has been taken away...\""
+                            },
+                            {
+                                "lineNumber": "265491",
+                                "originalJapaneseLine": "　そろそろね」",
+                                "translatedEnglishLine": "\"It's about time.\""
+                            },
+                            {
+                                "lineNumber": "265492",
+                                "originalJapaneseLine": "「あっ…………」",
+                                "translatedEnglishLine": "\"Ah...\""
+                            },
+                            {
+                                "lineNumber": "265493",
+                                "originalJapaneseLine": "「そろそろ？」",
+                                "translatedEnglishLine": "\"About time?\""
+                            },
+                            {
+                                "lineNumber": "265494",
+                                "originalJapaneseLine": "「ええ。ランスはともかく……",
+                                "translatedEnglishLine": "\"Yeah. Leaving Rance aside...\""
+                            },
+                            {
+                                "lineNumber": "265495",
+                                "originalJapaneseLine": "　他の人たちは見ない方がいいかも」",
+                                "translatedEnglishLine": "\"It might be better if others don't see it.\""
+                            },
+                            {
+                                "lineNumber": "265496",
+                                "originalJapaneseLine": "「緑の、目……」",
+                                "translatedEnglishLine": "\"Green, eyes...\""
+                            },
+                            {
+                                "lineNumber": "265497",
+                                "originalJapaneseLine": "「……じゃ、帰るわ。地の果てまで。",
+                                "translatedEnglishLine": "\"...Well then, I'm heading back. To the ends of the earth.\""
+                            },
+                            {
+                                "lineNumber": "265498",
+                                "originalJapaneseLine": "　お疲れっしゅ☆」",
+                                "translatedEnglishLine": "\"Good work☆\""
+                            },
+                            {
+                                "lineNumber": "265499",
+                                "originalJapaneseLine": "「あっ、あっ、メガデス！」",
+                                "translatedEnglishLine": "\"Ah, ah, Megadesu!\""
+                            },
+                            {
+                                "lineNumber": "265500",
+                                "originalJapaneseLine": "「帰りは別ルートでいこ☆",
+                                "translatedEnglishLine": "\"Let's take a different route back☆\""
+                            },
+                            {
+                                "lineNumber": "265501",
+                                "originalJapaneseLine": "　つーか、ついてくんな☆」",
+                                "translatedEnglishLine": "\"Or better yet, don't follow me☆\""
+                            },
+                            {
+                                "lineNumber": "265502",
+                                "originalJapaneseLine": "「ああもう！　そ、それじゃ！」",
+                                "translatedEnglishLine": "\"Ah geez! W-well then!\""
+                            },
+                            {
+                                "lineNumber": "265503",
+                                "originalJapaneseLine": "「……………………」",
+                                "translatedEnglishLine": "\"........................\""
+                            },
+                            {
+                                "lineNumber": "265504",
+                                "originalJapaneseLine": "「メディウサ……戦争中でもお構いなしか」",
+                                "translatedEnglishLine": "\"Medusa... doesn't care even during wartime.\""
+                            },
+                            {
+                                "lineNumber": "265505",
+                                "originalJapaneseLine": "吐き捨てるサテラも、顔色は少し青い。",
+                                "translatedEnglishLine": "Satella spat out the words, her complexion a little pale."
+                            },
+                            {
+                                "lineNumber": "265506",
+                                "originalJapaneseLine": "「…………なんだあれは。胸糞悪い」",
+                                "translatedEnglishLine": "\"...What the hell is that? So disgusting.\""
+                            },
+                            {
+                                "lineNumber": "265507",
+                                "originalJapaneseLine": "「ラグナロックアークの、通信設備よ。",
+                                "translatedEnglishLine": "\"It's the communication facility of Ragnarok Arc.\""
+                            },
+                            {
+                                "lineNumber": "265508",
+                                "originalJapaneseLine": "　それを使って、毎日毎日……」",
+                                "translatedEnglishLine": "\"Using that, every single day...\""
+                            },
+                            {
+                                "lineNumber": "265509",
+                                "originalJapaneseLine": "「けっ。いい趣味してやがるのう。",
+                                "translatedEnglishLine": "\"Tch. Quite the taste you have.\""
+                            },
+                            {
+                                "lineNumber": "265510",
+                                "originalJapaneseLine": "　全然変わってねーな、あの蛇女……」",
+                                "translatedEnglishLine": "\"That snake woman hasn’t changed one bit...\""
+                            },
+                            {
+                                "lineNumber": "265511",
+                                "originalJapaneseLine": "「……メディウサは、女士官ばかり狙うの。",
+                                "translatedEnglishLine": "\"...Medusa only targets female officers.\""
+                            },
+                            {
+                                "lineNumber": "265512",
+                                "originalJapaneseLine": "　隠れても隠れても……隠しおおせた例はないわ。",
+                                "translatedEnglishLine": "\"No matter how much they hide... there’s no example of anyone getting away unnoticed.\""
+                            },
+                            {
+                                "lineNumber": "265513",
+                                "originalJapaneseLine": "　配下が、見つけてさらってしまうみたいね」",
+                                "translatedEnglishLine": "\"Her underlings seem to find and abduct them.\""
+                            },
+                            {
+                                "lineNumber": "265514",
+                                "originalJapaneseLine": "「……めちゃめちゃむかつく女だな。",
+                                "translatedEnglishLine": "\"...She’s one hell of an annoying woman.\""
+                            },
+                            {
+                                "lineNumber": "265515",
+                                "originalJapaneseLine": "　可愛い女の子をいじめて殺してるのか……」",
+                                "translatedEnglishLine": "\"Bullying and killing cute girls... huh.\""
+                            },
+                            {
+                                "lineNumber": "265516",
+                                "originalJapaneseLine": "不快げに眉をひそめたランスに、",
+                                "translatedEnglishLine": "Rance frowned in displeasure,"
+                            },
+                            {
+                                "lineNumber": "265517",
+                                "originalJapaneseLine": "マジックは視線を逸らす。",
+                                "translatedEnglishLine": "and Magic averted her gaze."
+                            },
+                            {
+                                "lineNumber": "265518",
+                                "originalJapaneseLine": "「……今日はまだいい方よ。",
+                                "translatedEnglishLine": "\"...Today was actually on the better side.\""
+                            },
+                            {
+                                "lineNumber": "265519",
+                                "originalJapaneseLine": "　いたぶられて、心を砕かれて……",
+                                "translatedEnglishLine": "\"Tormented, their spirits broken...\""
+                            },
+                            {
+                                "lineNumber": "265520",
+                                "originalJapaneseLine": "　仲間が、泣き叫びながら殺されていく」",
+                                "translatedEnglishLine": "\"Comrades killed while crying and screaming.\""
+                            },
+                            {
+                                "lineNumber": "265521",
+                                "originalJapaneseLine": "今までの放送の分を思い出しているのか、",
+                                "translatedEnglishLine": "Perhaps remembering the past broadcasts,"
+                            },
+                            {
+                                "lineNumber": "265522",
+                                "originalJapaneseLine": "マジックは口元を押さえた。",
+                                "translatedEnglishLine": "Magic covered her mouth."
+                            },
+                            {
+                                "lineNumber": "265523",
+                                "originalJapaneseLine": "「……混乱は、どんどん広がってるわ。",
+                                "translatedEnglishLine": "\"...The chaos is spreading rapidly.\""
+                            },
+                            {
+                                "lineNumber": "265524",
+                                "originalJapaneseLine": "　逃げ出す子も多いし、",
+                                "translatedEnglishLine": "\"Many girls run away,"
+                            },
+                            {
+                                "lineNumber": "265525",
+                                "originalJapaneseLine": "　選ばれたら自殺してる子さえいる」",
+                                "translatedEnglishLine": "and some even commit suicide when chosen.\""
+                            },
+                            {
+                                "lineNumber": "265526",
+                                "originalJapaneseLine": "「士官がそれじゃ、堪らんな」",
+                                "translatedEnglishLine": "\"If it's like that for officers, they can't bear it.\""
+                            },
+                            {
+                                "lineNumber": "265527",
+                                "originalJapaneseLine": "「戦況は、辛うじて支えてるけど……",
+                                "translatedEnglishLine": "\"The war situation is barely being sustained, but...\""
+                            },
+                            {
+                                "lineNumber": "265528",
+                                "originalJapaneseLine": "　ゼスは今、ゆっくりと蝕まれてるの」",
+                                "translatedEnglishLine": "Zethus is slowly being eroded.\""
+                            },
+                            {
+                                "lineNumber": "265529",
+                                "originalJapaneseLine": "「飢えと恐怖か。",
+                                "translatedEnglishLine": "\"Hunger and fear, huh.\""
+                            },
+                            {
+                                "lineNumber": "265530",
+                                "originalJapaneseLine": "　国を揺さぶり、滅ぼすには、なかなか効果的だ」",
+                                "translatedEnglishLine": "\"They’re quite effective methods to shake and destroy a nation.\""
+                            },
+                            {
+                                "lineNumber": "265531",
+                                "originalJapaneseLine": "RA1年――",
+                                "translatedEnglishLine": "Year RA1――"
+                            },
+                            {
+                                "lineNumber": "265532",
+                                "originalJapaneseLine": "魔王ランスが人類の前に姿を見せ、",
+                                "translatedEnglishLine": "The demon lord Rance appeared before humanity,"
+                            },
+                            {
+                                "lineNumber": "265533",
+                                "originalJapaneseLine": "新たな魔王軍を宣言したこの年――",
+                                "translatedEnglishLine": "and declared his new demon lord army in this year――"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1922,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2278,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4200
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「あー！　あー！　もう！　そういうのやめ！」\",\"translatedEnglishLine\":\"\\\"Ah! Ah! Enough! Stop that!\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「はいはい。受け取りは確認したわ。\",\"translatedEnglishLine\":\"\\\"Alright, alright. I've confirmed receipt.\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　話、戻していい？」\",\"translatedEnglishLine\":\"Can we get back to the story?\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「ごめん……」\",\"translatedEnglishLine\":\"\\\"Sorry...\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「食料を奪うんだ。片っ端からね」\",\"translatedEnglishLine\":\"\\\"They're stealing the food. Every last bit.\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「食料がなくなった街は、国に救援を求める。\",\"translatedEnglishLine\":\"\\\"When a town runs out of food, it asks the country for aid.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　結果として、国全体の食糧事情が破綻するわけ」\",\"translatedEnglishLine\":\"\\\"As a result, the entire nation's food situation collapses.\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「死ねば口は減るのにねー」\",\"translatedEnglishLine\":\"\\\"They say if they die, there'd be fewer mouths to feed, though.\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「だからって放っておけるわけないでしょ」\",\"translatedEnglishLine\":\"\\\"But that doesn't mean we can just leave it be.\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「マジックちゃん、スマイルスマイル☆\",\"translatedEnglishLine\":\"\\\"Magic-chan, smile, smile☆\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　同じ釜のメシ食べた仲じゃない」\",\"translatedEnglishLine\":\"\\\"We're comrades who shared the same pot of food.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「……ともかく。それで結局、全員が飢える。\",\"translatedEnglishLine\":\"\\\"...Anyway. In the end, everyone starves.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　この街でも、既に食料は配給制。\",\"translatedEnglishLine\":\"\\\"Even in this town, food is already rationed.\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　それでさえ、もうまかないきれてないわ」\",\"translatedEnglishLine\":\"\\\"And even that is no longer sufficient.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「……よく暴動が起きないな」\",\"translatedEnglishLine\":\"\\\"...It's surprising that riots don't break out.\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「起きない訳じゃないわ。\",\"translatedEnglishLine\":\"\\\"It's not that they don't happen.\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　ただ……暴動する気力さえ、奪われてる……\",\"translatedEnglishLine\":\"\\\"But... even the will to riot has been taken away...\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　そろそろね」\",\"translatedEnglishLine\":\"\\\"It's about time.\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「あっ…………」\",\"translatedEnglishLine\":\"\\\"Ah...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「そろそろ？」\",\"translatedEnglishLine\":\"\\\"About time?\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「ええ。ランスはともかく……\",\"translatedEnglishLine\":\"\\\"Yeah. Leaving Rance aside...\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　他の人たちは見ない方がいいかも」\",\"translatedEnglishLine\":\"\\\"It might be better if others don't see it.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「緑の、目……」\",\"translatedEnglishLine\":\"\\\"Green, eyes...\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「……じゃ、帰るわ。地の果てまで。\",\"translatedEnglishLine\":\"\\\"...Well then, I'm heading back. To the ends of the earth.\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　お疲れっしゅ☆」\",\"translatedEnglishLine\":\"\\\"Good work☆\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「あっ、あっ、メガデス！」\",\"translatedEnglishLine\":\"\\\"Ah, ah, Megadesu!\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「帰りは別ルートでいこ☆\",\"translatedEnglishLine\":\"\\\"Let's take a different route back☆\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　つーか、ついてくんな☆」\",\"translatedEnglishLine\":\"\\\"Or better yet, don't follow me☆\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「ああもう！　そ、それじゃ！」\",\"translatedEnglishLine\":\"\\\"Ah geez! W-well then!\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「……………………」\",\"translatedEnglishLine\":\"\\\"........................\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「メディウサ……戦争中でもお構いなしか」\",\"translatedEnglishLine\":\"\\\"Medusa... doesn't care even during wartime.\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"吐き捨てるサテラも、顔色は少し青い。\",\"translatedEnglishLine\":\"Satella spat out the words, her complexion a little pale.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「…………なんだあれは。胸糞悪い」\",\"translatedEnglishLine\":\"\\\"...What the hell is that? So disgusting.\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「ラグナロックアークの、通信設備よ。\",\"translatedEnglishLine\":\"\\\"It's the communication facility of Ragnarok Arc.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　それを使って、毎日毎日……」\",\"translatedEnglishLine\":\"\\\"Using that, every single day...\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「けっ。いい趣味してやがるのう。\",\"translatedEnglishLine\":\"\\\"Tch. Quite the taste you have.\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　全然変わってねーな、あの蛇女……」\",\"translatedEnglishLine\":\"\\\"That snake woman hasn’t changed one bit...\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「……メディウサは、女士官ばかり狙うの。\",\"translatedEnglishLine\":\"\\\"...Medusa only targets female officers.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　隠れても隠れても……隠しおおせた例はないわ。\",\"translatedEnglishLine\":\"\\\"No matter how much they hide... there’s no example of anyone getting away unnoticed.\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　配下が、見つけてさらってしまうみたいね」\",\"translatedEnglishLine\":\"\\\"Her underlings seem to find and abduct them.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「……めちゃめちゃむかつく女だな。\",\"translatedEnglishLine\":\"\\\"...She’s one hell of an annoying woman.\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　可愛い女の子をいじめて殺してるのか……」\",\"translatedEnglishLine\":\"\\\"Bullying and killing cute girls... huh.\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"不快げに眉をひそめたランスに、\",\"translatedEnglishLine\":\"Rance frowned in displeasure,\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"マジックは視線を逸らす。\",\"translatedEnglishLine\":\"and Magic averted her gaze.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「……今日はまだいい方よ。\",\"translatedEnglishLine\":\"\\\"...Today was actually on the better side.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　いたぶられて、心を砕かれて……\",\"translatedEnglishLine\":\"\\\"Tormented, their spirits broken...\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　仲間が、泣き叫びながら殺されていく」\",\"translatedEnglishLine\":\"\\\"Comrades killed while crying and screaming.\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"今までの放送の分を思い出しているのか、\",\"translatedEnglishLine\":\"Perhaps remembering the past broadcasts,\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"マジックは口元を押さえた。\",\"translatedEnglishLine\":\"Magic covered her mouth.\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「……混乱は、どんどん広がってるわ。\",\"translatedEnglishLine\":\"\\\"...The chaos is spreading rapidly.\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　逃げ出す子も多いし、\",\"translatedEnglishLine\":\"\\\"Many girls run away,\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　選ばれたら自殺してる子さえいる」\",\"translatedEnglishLine\":\"and some even commit suicide when chosen.\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「士官がそれじゃ、堪らんな」\",\"translatedEnglishLine\":\"\\\"If it's like that for officers, they can't bear it.\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「戦況は、辛うじて支えてるけど……\",\"translatedEnglishLine\":\"\\\"The war situation is barely being sustained, but...\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　ゼスは今、ゆっくりと蝕まれてるの」\",\"translatedEnglishLine\":\"Zethus is slowly being eroded.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「飢えと恐怖か。\",\"translatedEnglishLine\":\"\\\"Hunger and fear, huh.\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　国を揺さぶり、滅ぼすには、なかなか効果的だ」\",\"translatedEnglishLine\":\"\\\"They’re quite effective methods to shake and destroy a nation.\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"RA1年――\",\"translatedEnglishLine\":\"Year RA1――\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"魔王ランスが人類の前に姿を見せ、\",\"translatedEnglishLine\":\"The demon lord Rance appeared before humanity,\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"新たな魔王軍を宣言したこの年――\",\"translatedEnglishLine\":\"and declared his new demon lord army in this year――\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "265474",
+                "originalJapaneseLine": "「あー！　あー！　もう！　そういうのやめ！」",
+                "translatedEnglishLine": "\"Ah! Ah! Enough! Stop that!\""
+            },
+            {
+                "lineNumber": "265475",
+                "originalJapaneseLine": "「はいはい。受け取りは確認したわ。",
+                "translatedEnglishLine": "\"Alright, alright. I've confirmed receipt.\""
+            },
+            {
+                "lineNumber": "265476",
+                "originalJapaneseLine": "　話、戻していい？」",
+                "translatedEnglishLine": "Can we get back to the story?\""
+            },
+            {
+                "lineNumber": "265477",
+                "originalJapaneseLine": "「ごめん……」",
+                "translatedEnglishLine": "\"Sorry...\""
+            },
+            {
+                "lineNumber": "265478",
+                "originalJapaneseLine": "「食料を奪うんだ。片っ端からね」",
+                "translatedEnglishLine": "\"They're stealing the food. Every last bit.\""
+            },
+            {
+                "lineNumber": "265479",
+                "originalJapaneseLine": "「食料がなくなった街は、国に救援を求める。",
+                "translatedEnglishLine": "\"When a town runs out of food, it asks the country for aid.\""
+            },
+            {
+                "lineNumber": "265480",
+                "originalJapaneseLine": "　結果として、国全体の食糧事情が破綻するわけ」",
+                "translatedEnglishLine": "\"As a result, the entire nation's food situation collapses.\""
+            },
+            {
+                "lineNumber": "265481",
+                "originalJapaneseLine": "「死ねば口は減るのにねー」",
+                "translatedEnglishLine": "\"They say if they die, there'd be fewer mouths to feed, though.\""
+            },
+            {
+                "lineNumber": "265482",
+                "originalJapaneseLine": "「だからって放っておけるわけないでしょ」",
+                "translatedEnglishLine": "\"But that doesn't mean we can just leave it be.\""
+            },
+            {
+                "lineNumber": "265483",
+                "originalJapaneseLine": "「マジックちゃん、スマイルスマイル☆",
+                "translatedEnglishLine": "\"Magic-chan, smile, smile☆\""
+            },
+            {
+                "lineNumber": "265484",
+                "originalJapaneseLine": "　同じ釜のメシ食べた仲じゃない」",
+                "translatedEnglishLine": "\"We're comrades who shared the same pot of food.\""
+            },
+            {
+                "lineNumber": "265485",
+                "originalJapaneseLine": "「……ともかく。それで結局、全員が飢える。",
+                "translatedEnglishLine": "\"...Anyway. In the end, everyone starves.\""
+            },
+            {
+                "lineNumber": "265486",
+                "originalJapaneseLine": "　この街でも、既に食料は配給制。",
+                "translatedEnglishLine": "\"Even in this town, food is already rationed.\""
+            },
+            {
+                "lineNumber": "265487",
+                "originalJapaneseLine": "　それでさえ、もうまかないきれてないわ」",
+                "translatedEnglishLine": "\"And even that is no longer sufficient.\""
+            },
+            {
+                "lineNumber": "265488",
+                "originalJapaneseLine": "「……よく暴動が起きないな」",
+                "translatedEnglishLine": "\"...It's surprising that riots don't break out.\""
+            },
+            {
+                "lineNumber": "265489",
+                "originalJapaneseLine": "「起きない訳じゃないわ。",
+                "translatedEnglishLine": "\"It's not that they don't happen.\""
+            },
+            {
+                "lineNumber": "265490",
+                "originalJapaneseLine": "　ただ……暴動する気力さえ、奪われてる……",
+                "translatedEnglishLine": "\"But... even the will to riot has been taken away...\""
+            },
+            {
+                "lineNumber": "265491",
+                "originalJapaneseLine": "　そろそろね」",
+                "translatedEnglishLine": "\"It's about time.\""
+            },
+            {
+                "lineNumber": "265492",
+                "originalJapaneseLine": "「あっ…………」",
+                "translatedEnglishLine": "\"Ah...\""
+            },
+            {
+                "lineNumber": "265493",
+                "originalJapaneseLine": "「そろそろ？」",
+                "translatedEnglishLine": "\"About time?\""
+            },
+            {
+                "lineNumber": "265494",
+                "originalJapaneseLine": "「ええ。ランスはともかく……",
+                "translatedEnglishLine": "\"Yeah. Leaving Rance aside...\""
+            },
+            {
+                "lineNumber": "265495",
+                "originalJapaneseLine": "　他の人たちは見ない方がいいかも」",
+                "translatedEnglishLine": "\"It might be better if others don't see it.\""
+            },
+            {
+                "lineNumber": "265496",
+                "originalJapaneseLine": "「緑の、目……」",
+                "translatedEnglishLine": "\"Green, eyes...\""
+            },
+            {
+                "lineNumber": "265497",
+                "originalJapaneseLine": "「……じゃ、帰るわ。地の果てまで。",
+                "translatedEnglishLine": "\"...Well then, I'm heading back. To the ends of the earth.\""
+            },
+            {
+                "lineNumber": "265498",
+                "originalJapaneseLine": "　お疲れっしゅ☆」",
+                "translatedEnglishLine": "\"Good work☆\""
+            },
+            {
+                "lineNumber": "265499",
+                "originalJapaneseLine": "「あっ、あっ、メガデス！」",
+                "translatedEnglishLine": "\"Ah, ah, Megadesu!\""
+            },
+            {
+                "lineNumber": "265500",
+                "originalJapaneseLine": "「帰りは別ルートでいこ☆",
+                "translatedEnglishLine": "\"Let's take a different route back☆\""
+            },
+            {
+                "lineNumber": "265501",
+                "originalJapaneseLine": "　つーか、ついてくんな☆」",
+                "translatedEnglishLine": "\"Or better yet, don't follow me☆\""
+            },
+            {
+                "lineNumber": "265502",
+                "originalJapaneseLine": "「ああもう！　そ、それじゃ！」",
+                "translatedEnglishLine": "\"Ah geez! W-well then!\""
+            },
+            {
+                "lineNumber": "265503",
+                "originalJapaneseLine": "「……………………」",
+                "translatedEnglishLine": "\"........................\""
+            },
+            {
+                "lineNumber": "265504",
+                "originalJapaneseLine": "「メディウサ……戦争中でもお構いなしか」",
+                "translatedEnglishLine": "\"Medusa... doesn't care even during wartime.\""
+            },
+            {
+                "lineNumber": "265505",
+                "originalJapaneseLine": "吐き捨てるサテラも、顔色は少し青い。",
+                "translatedEnglishLine": "Satella spat out the words, her complexion a little pale."
+            },
+            {
+                "lineNumber": "265506",
+                "originalJapaneseLine": "「…………なんだあれは。胸糞悪い」",
+                "translatedEnglishLine": "\"...What the hell is that? So disgusting.\""
+            },
+            {
+                "lineNumber": "265507",
+                "originalJapaneseLine": "「ラグナロックアークの、通信設備よ。",
+                "translatedEnglishLine": "\"It's the communication facility of Ragnarok Arc.\""
+            },
+            {
+                "lineNumber": "265508",
+                "originalJapaneseLine": "　それを使って、毎日毎日……」",
+                "translatedEnglishLine": "\"Using that, every single day...\""
+            },
+            {
+                "lineNumber": "265509",
+                "originalJapaneseLine": "「けっ。いい趣味してやがるのう。",
+                "translatedEnglishLine": "\"Tch. Quite the taste you have.\""
+            },
+            {
+                "lineNumber": "265510",
+                "originalJapaneseLine": "　全然変わってねーな、あの蛇女……」",
+                "translatedEnglishLine": "\"That snake woman hasn’t changed one bit...\""
+            },
+            {
+                "lineNumber": "265511",
+                "originalJapaneseLine": "「……メディウサは、女士官ばかり狙うの。",
+                "translatedEnglishLine": "\"...Medusa only targets female officers.\""
+            },
+            {
+                "lineNumber": "265512",
+                "originalJapaneseLine": "　隠れても隠れても……隠しおおせた例はないわ。",
+                "translatedEnglishLine": "\"No matter how much they hide... there’s no example of anyone getting away unnoticed.\""
+            },
+            {
+                "lineNumber": "265513",
+                "originalJapaneseLine": "　配下が、見つけてさらってしまうみたいね」",
+                "translatedEnglishLine": "\"Her underlings seem to find and abduct them.\""
+            },
+            {
+                "lineNumber": "265514",
+                "originalJapaneseLine": "「……めちゃめちゃむかつく女だな。",
+                "translatedEnglishLine": "\"...She’s one hell of an annoying woman.\""
+            },
+            {
+                "lineNumber": "265515",
+                "originalJapaneseLine": "　可愛い女の子をいじめて殺してるのか……」",
+                "translatedEnglishLine": "\"Bullying and killing cute girls... huh.\""
+            },
+            {
+                "lineNumber": "265516",
+                "originalJapaneseLine": "不快げに眉をひそめたランスに、",
+                "translatedEnglishLine": "Rance frowned in displeasure,"
+            },
+            {
+                "lineNumber": "265517",
+                "originalJapaneseLine": "マジックは視線を逸らす。",
+                "translatedEnglishLine": "and Magic averted her gaze."
+            },
+            {
+                "lineNumber": "265518",
+                "originalJapaneseLine": "「……今日はまだいい方よ。",
+                "translatedEnglishLine": "\"...Today was actually on the better side.\""
+            },
+            {
+                "lineNumber": "265519",
+                "originalJapaneseLine": "　いたぶられて、心を砕かれて……",
+                "translatedEnglishLine": "\"Tormented, their spirits broken...\""
+            },
+            {
+                "lineNumber": "265520",
+                "originalJapaneseLine": "　仲間が、泣き叫びながら殺されていく」",
+                "translatedEnglishLine": "\"Comrades killed while crying and screaming.\""
+            },
+            {
+                "lineNumber": "265521",
+                "originalJapaneseLine": "今までの放送の分を思い出しているのか、",
+                "translatedEnglishLine": "Perhaps remembering the past broadcasts,"
+            },
+            {
+                "lineNumber": "265522",
+                "originalJapaneseLine": "マジックは口元を押さえた。",
+                "translatedEnglishLine": "Magic covered her mouth."
+            },
+            {
+                "lineNumber": "265523",
+                "originalJapaneseLine": "「……混乱は、どんどん広がってるわ。",
+                "translatedEnglishLine": "\"...The chaos is spreading rapidly.\""
+            },
+            {
+                "lineNumber": "265524",
+                "originalJapaneseLine": "　逃げ出す子も多いし、",
+                "translatedEnglishLine": "\"Many girls run away,"
+            },
+            {
+                "lineNumber": "265525",
+                "originalJapaneseLine": "　選ばれたら自殺してる子さえいる」",
+                "translatedEnglishLine": "and some even commit suicide when chosen.\""
+            },
+            {
+                "lineNumber": "265526",
+                "originalJapaneseLine": "「士官がそれじゃ、堪らんな」",
+                "translatedEnglishLine": "\"If it's like that for officers, they can't bear it.\""
+            },
+            {
+                "lineNumber": "265527",
+                "originalJapaneseLine": "「戦況は、辛うじて支えてるけど……",
+                "translatedEnglishLine": "\"The war situation is barely being sustained, but...\""
+            },
+            {
+                "lineNumber": "265528",
+                "originalJapaneseLine": "　ゼスは今、ゆっくりと蝕まれてるの」",
+                "translatedEnglishLine": "Zethus is slowly being eroded.\""
+            },
+            {
+                "lineNumber": "265529",
+                "originalJapaneseLine": "「飢えと恐怖か。",
+                "translatedEnglishLine": "\"Hunger and fear, huh.\""
+            },
+            {
+                "lineNumber": "265530",
+                "originalJapaneseLine": "　国を揺さぶり、滅ぼすには、なかなか効果的だ」",
+                "translatedEnglishLine": "\"They’re quite effective methods to shake and destroy a nation.\""
+            },
+            {
+                "lineNumber": "265531",
+                "originalJapaneseLine": "RA1年――",
+                "translatedEnglishLine": "Year RA1――"
+            },
+            {
+                "lineNumber": "265532",
+                "originalJapaneseLine": "魔王ランスが人類の前に姿を見せ、",
+                "translatedEnglishLine": "The demon lord Rance appeared before humanity,"
+            },
+            {
+                "lineNumber": "265533",
+                "originalJapaneseLine": "新たな魔王軍を宣言したこの年――",
+                "translatedEnglishLine": "and declared his new demon lord army in this year――"
+            }
+        ]
+    }
+}

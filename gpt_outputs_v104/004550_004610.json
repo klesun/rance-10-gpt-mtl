@@ -1,0 +1,719 @@
+{
+    "id": "resp_04c057f1d86c93d30068ffee75ed4081909c6a2d410689b1dd",
+    "object": "response",
+    "created_at": 1761603190,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_04c057f1d86c93d30068ffee765da081909be751876fbee25b",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　すみませんね」\",\"translatedEnglishLine\":\"\\\"I'm sorry.\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「えっ……」\",\"translatedEnglishLine\":\"\\\"Eh...?\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「そろそろ休暇をあげられます。\",\"translatedEnglishLine\":\"\\\"It's about time you get some vacation.\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　羽を伸ばさせてあげて下さい」\",\"translatedEnglishLine\":\"Please let yourself relax.\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「では」\",\"translatedEnglishLine\":\"\\\"Well then.\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"柔らかい笑みと共にそれだけ言い、\",\"translatedEnglishLine\":\"Saying just that with a gentle smile,\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"ホーネットは去っていった。\",\"translatedEnglishLine\":\"Hornet left.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「びっくりしたー」\",\"translatedEnglishLine\":\"\\\"You startled me!\\\"\"},\n\n{\"lineNumber\":10,\"originalJapaneseLine\":\"「怒られるかと思っちゃいましたね！\",\"translatedEnglishLine\":\"\\\"I thought you'd get mad at me!\\\"\"},\n\n{\"lineNumber\":11,\"originalJapaneseLine\":\"　サイゼル様！」\",\"translatedEnglishLine\":\"\\\"Lady Saizel!\\\"\"},\n\n{\"lineNumber\":12,\"originalJapaneseLine\":\"「うっさい！」\",\"translatedEnglishLine\":\"\\\"Shut up!\\\"\"},\n\n{\"lineNumber\":13,\"originalJapaneseLine\":\"「サイゼル、待たせてごめんなさい！」\",\"translatedEnglishLine\":\"\\\"Saizel, sorry to keep you waiting!\\\"\"},\n\n{\"lineNumber\":14,\"originalJapaneseLine\":\"「あ、ハウゼル」\",\"translatedEnglishLine\":\"\\\"Ah, Housel.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「いーえー、ちっとも待ってねーよ！\",\"translatedEnglishLine\":\"\\\"No, not at all! I wasn't waiting!\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　行こうぜ、マブい姉ちゃん！」\",\"translatedEnglishLine\":\"Let's go, gorgeous sis!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「あんたは留守番！」\",\"translatedEnglishLine\":\"You stay home!\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「はーい」\",\"translatedEnglishLine\":\"\\\"Okay!\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「くすくす……」\",\"translatedEnglishLine\":\"\\\"Hehehe...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「じゃ、行きましょうか。\",\"translatedEnglishLine\":\"\\\"Well then, shall we go?\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　サイゼル」\",\"translatedEnglishLine\":\"Saizel.\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「う、うん……」\",\"translatedEnglishLine\":\"\\\"Y-yeah...\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「お二人とも、\",\"translatedEnglishLine\":\"\\\"Both of you,\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　行ってらっしゃいませー」\",\"translatedEnglishLine\":\"have a good time.\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「らっしゃっせー」\",\"translatedEnglishLine\":\"\\\"Take care!\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"それはいつものように行われる、\",\"translatedEnglishLine\":\"It was a usual kind of date,\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"空のデート。\",\"translatedEnglishLine\":\"a date in the sky.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"ここなら、世界と隔絶していられる。\",\"translatedEnglishLine\":\"Here, they could be cut off from the world.\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"そう、世界に二人しかいなくなったような。\",\"translatedEnglishLine\":\"Yes, as if only the two of them existed in the world.\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"そんな気分に浸ることが出来る。\",\"translatedEnglishLine\":\"They could immerse themselves in that feeling.\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"しかし、そんな時でも、\",\"translatedEnglishLine\":\"However, even at such times,\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"サイゼルの表情は硬い。\",\"translatedEnglishLine\":\"Saizel's expression remained stiff.\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「ホーネットの奴……\",\"translatedEnglishLine\":\"\\\"That Hornet guy...\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　ちょっと変わったわね」\",\"translatedEnglishLine\":\"has changed a bit, hasn't he.\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「え、ああ、そうね。\",\"translatedEnglishLine\":\"\\\"Eh, yeah, that's right.\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　最近はイキイキとしてらっしゃる」\",\"translatedEnglishLine\":\"He's been lively lately.\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「ふんっ。\",\"translatedEnglishLine\":\"\\\"Hmph.\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　浮かれてるだけよ」\",\"translatedEnglishLine\":\"He's just getting carried away.\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「……サイゼル？」\",\"translatedEnglishLine\":\"\\\"...Saizel?\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"明らかにいつもと違う硬質の声に、\",\"translatedEnglishLine\":\"Housel's face grew puzzled at Saizel's noticeably different, hard tone.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"ハウゼルの顔が怪訝なものになる。\",\"translatedEnglishLine\":\"(This line is part of the previous. It's just the narration that Housel's face became puzzled.)\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「ねえ、魔物と人類が仲良くする為の活動なんて、\",\"translatedEnglishLine\":\"\\\"Hey, activities for monsters and humans to get along,\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　どうでもよくない？　そんなのやめましょうよ」\",\"translatedEnglishLine\":\"don't you think they're pointless? Let's just stop that.\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「ええ、なにを言ってるの……\",\"translatedEnglishLine\":\"\\\"Eh, what are you saying...?\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　急にそんなこと……」\",\"translatedEnglishLine\":\"Suddenly saying something like that...\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「私はハウゼルさえいればそれでいい。\",\"translatedEnglishLine\":\"\\\"As long as I have you, Housel, that's enough.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　そこにユキと火炎もついでにいればね」\",\"translatedEnglishLine\":\"And if Yuki and Kaen are there too, then even better.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「……どうしたの？\",\"translatedEnglishLine\":\"\\\"...What's wrong?\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　今日はどこか変よ？」\",\"translatedEnglishLine\":\"You're acting different today.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「ハウゼル！」\",\"translatedEnglishLine\":\"\\\"Housel!\\\"\"},\n\n{\"lineNumber\":53,\"originalJapaneseLine\":\"「……ッ！」\",\"translatedEnglishLine\":\"\\\"...!\\\"\"},\n\n{\"lineNumber\":54,\"originalJapaneseLine\":\"キッと上げられたサイゼルの顔は、\",\"translatedEnglishLine\":\"Saizel's sharply raised face was painted with,\"},\n\n{\"lineNumber\":55,\"originalJapaneseLine\":\"燃え上がる炎のような怒りに彩られていた。\",\"translatedEnglishLine\":\"an anger like blazing flames.\"},\n\n{\"lineNumber\":56,\"originalJapaneseLine\":\"「どう、したの？\",\"translatedEnglishLine\":\"\\\"What's wrong?\"},\n\n{\"lineNumber\":57,\"originalJapaneseLine\":\"　本当に……変よ？」\",\"translatedEnglishLine\":\"You're really... acting strange.\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「しらばっくれないでよ！」\",\"translatedEnglishLine\":\"\\\"Don't play dumb!\\\"\"},\n\n{\"lineNumber\":59,\"originalJapaneseLine\":\"いつものただ、嫉妬しているのとは違う、\",\"translatedEnglishLine\":\"Her voice was tinged with something different from usual jealousy,\"},\n\n{\"lineNumber\":60,\"originalJapaneseLine\":\"焦りのようなものを滲ませた声色に、\",\"translatedEnglishLine\":\"a tone that leaked a kind of impatience.\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "269184",
+                                "originalJapaneseLine": "　すみませんね」",
+                                "translatedEnglishLine": "\"I'm sorry.\""
+                            },
+                            {
+                                "lineNumber": "269185",
+                                "originalJapaneseLine": "「えっ……」",
+                                "translatedEnglishLine": "\"Eh...?\""
+                            },
+                            {
+                                "lineNumber": "269186",
+                                "originalJapaneseLine": "「そろそろ休暇をあげられます。",
+                                "translatedEnglishLine": "\"It's about time you get some vacation."
+                            },
+                            {
+                                "lineNumber": "269187",
+                                "originalJapaneseLine": "　羽を伸ばさせてあげて下さい」",
+                                "translatedEnglishLine": "Please let yourself relax.\""
+                            },
+                            {
+                                "lineNumber": "269188",
+                                "originalJapaneseLine": "「では」",
+                                "translatedEnglishLine": "\"Well then.\""
+                            },
+                            {
+                                "lineNumber": "269189",
+                                "originalJapaneseLine": "柔らかい笑みと共にそれだけ言い、",
+                                "translatedEnglishLine": "Saying just that with a gentle smile,"
+                            },
+                            {
+                                "lineNumber": "269190",
+                                "originalJapaneseLine": "ホーネットは去っていった。",
+                                "translatedEnglishLine": "Hornet left."
+                            },
+                            {
+                                "lineNumber": "269191",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "269192",
+                                "originalJapaneseLine": "「びっくりしたー」",
+                                "translatedEnglishLine": "\"You startled me!\""
+                            },
+                            {
+                                "lineNumber": "269193",
+                                "originalJapaneseLine": "「怒られるかと思っちゃいましたね！",
+                                "translatedEnglishLine": "\"I thought you'd get mad at me!\""
+                            },
+                            {
+                                "lineNumber": "269194",
+                                "originalJapaneseLine": "　サイゼル様！」",
+                                "translatedEnglishLine": "\"Lady Saizel!\""
+                            },
+                            {
+                                "lineNumber": "269195",
+                                "originalJapaneseLine": "「うっさい！」",
+                                "translatedEnglishLine": "\"Shut up!\""
+                            },
+                            {
+                                "lineNumber": "269196",
+                                "originalJapaneseLine": "「サイゼル、待たせてごめんなさい！」",
+                                "translatedEnglishLine": "\"Saizel, sorry to keep you waiting!\""
+                            },
+                            {
+                                "lineNumber": "269197",
+                                "originalJapaneseLine": "「あ、ハウゼル」",
+                                "translatedEnglishLine": "\"Ah, Housel.\""
+                            },
+                            {
+                                "lineNumber": "269198",
+                                "originalJapaneseLine": "「いーえー、ちっとも待ってねーよ！",
+                                "translatedEnglishLine": "\"No, not at all! I wasn't waiting!\""
+                            },
+                            {
+                                "lineNumber": "269199",
+                                "originalJapaneseLine": "　行こうぜ、マブい姉ちゃん！」",
+                                "translatedEnglishLine": "Let's go, gorgeous sis!\""
+                            },
+                            {
+                                "lineNumber": "269200",
+                                "originalJapaneseLine": "「あんたは留守番！」",
+                                "translatedEnglishLine": "You stay home!\""
+                            },
+                            {
+                                "lineNumber": "269201",
+                                "originalJapaneseLine": "「はーい」",
+                                "translatedEnglishLine": "\"Okay!\""
+                            },
+                            {
+                                "lineNumber": "269202",
+                                "originalJapaneseLine": "「くすくす……」",
+                                "translatedEnglishLine": "\"Hehehe...\""
+                            },
+                            {
+                                "lineNumber": "269203",
+                                "originalJapaneseLine": "「じゃ、行きましょうか。",
+                                "translatedEnglishLine": "\"Well then, shall we go?"
+                            },
+                            {
+                                "lineNumber": "269204",
+                                "originalJapaneseLine": "　サイゼル」",
+                                "translatedEnglishLine": "Saizel.\""
+                            },
+                            {
+                                "lineNumber": "269205",
+                                "originalJapaneseLine": "「う、うん……」",
+                                "translatedEnglishLine": "\"Y-yeah...\""
+                            },
+                            {
+                                "lineNumber": "269206",
+                                "originalJapaneseLine": "「お二人とも、",
+                                "translatedEnglishLine": "\"Both of you,"
+                            },
+                            {
+                                "lineNumber": "269207",
+                                "originalJapaneseLine": "　行ってらっしゃいませー」",
+                                "translatedEnglishLine": "have a good time.\""
+                            },
+                            {
+                                "lineNumber": "269208",
+                                "originalJapaneseLine": "「らっしゃっせー」",
+                                "translatedEnglishLine": "\"Take care!\""
+                            },
+                            {
+                                "lineNumber": "269209",
+                                "originalJapaneseLine": "それはいつものように行われる、",
+                                "translatedEnglishLine": "It was a usual kind of date,"
+                            },
+                            {
+                                "lineNumber": "269210",
+                                "originalJapaneseLine": "空のデート。",
+                                "translatedEnglishLine": "a date in the sky."
+                            },
+                            {
+                                "lineNumber": "269211",
+                                "originalJapaneseLine": "ここなら、世界と隔絶していられる。",
+                                "translatedEnglishLine": "Here, they could be cut off from the world."
+                            },
+                            {
+                                "lineNumber": "269212",
+                                "originalJapaneseLine": "そう、世界に二人しかいなくなったような。",
+                                "translatedEnglishLine": "Yes, as if only the two of them existed in the world."
+                            },
+                            {
+                                "lineNumber": "269213",
+                                "originalJapaneseLine": "そんな気分に浸ることが出来る。",
+                                "translatedEnglishLine": "They could immerse themselves in that feeling."
+                            },
+                            {
+                                "lineNumber": "269214",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "269215",
+                                "originalJapaneseLine": "しかし、そんな時でも、",
+                                "translatedEnglishLine": "However, even at such times,"
+                            },
+                            {
+                                "lineNumber": "269216",
+                                "originalJapaneseLine": "サイゼルの表情は硬い。",
+                                "translatedEnglishLine": "Saizel's expression remained stiff."
+                            },
+                            {
+                                "lineNumber": "269217",
+                                "originalJapaneseLine": "「ホーネットの奴……",
+                                "translatedEnglishLine": "\"That Hornet guy..."
+                            },
+                            {
+                                "lineNumber": "269218",
+                                "originalJapaneseLine": "　ちょっと変わったわね」",
+                                "translatedEnglishLine": "has changed a bit, hasn't he.\""
+                            },
+                            {
+                                "lineNumber": "269219",
+                                "originalJapaneseLine": "「え、ああ、そうね。",
+                                "translatedEnglishLine": "\"Eh, yeah, that's right."
+                            },
+                            {
+                                "lineNumber": "269220",
+                                "originalJapaneseLine": "　最近はイキイキとしてらっしゃる」",
+                                "translatedEnglishLine": "He's been lively lately.\""
+                            },
+                            {
+                                "lineNumber": "269221",
+                                "originalJapaneseLine": "「ふんっ。",
+                                "translatedEnglishLine": "\"Hmph."
+                            },
+                            {
+                                "lineNumber": "269222",
+                                "originalJapaneseLine": "　浮かれてるだけよ」",
+                                "translatedEnglishLine": "He's just getting carried away.\""
+                            },
+                            {
+                                "lineNumber": "269223",
+                                "originalJapaneseLine": "「……サイゼル？」",
+                                "translatedEnglishLine": "\"...Saizel?\""
+                            },
+                            {
+                                "lineNumber": "269224",
+                                "originalJapaneseLine": "明らかにいつもと違う硬質の声に、",
+                                "translatedEnglishLine": "Housel's face grew puzzled at Saizel's noticeably different, hard tone."
+                            },
+                            {
+                                "lineNumber": "269225",
+                                "originalJapaneseLine": "ハウゼルの顔が怪訝なものになる。",
+                                "translatedEnglishLine": "(This line is part of the previous. It's just the narration that Housel's face became puzzled.)"
+                            },
+                            {
+                                "lineNumber": "269226",
+                                "originalJapaneseLine": "「ねえ、魔物と人類が仲良くする為の活動なんて、",
+                                "translatedEnglishLine": "\"Hey, activities for monsters and humans to get along,"
+                            },
+                            {
+                                "lineNumber": "269227",
+                                "originalJapaneseLine": "　どうでもよくない？　そんなのやめましょうよ」",
+                                "translatedEnglishLine": "don't you think they're pointless? Let's just stop that.\""
+                            },
+                            {
+                                "lineNumber": "269228",
+                                "originalJapaneseLine": "「ええ、なにを言ってるの……",
+                                "translatedEnglishLine": "\"Eh, what are you saying...?"
+                            },
+                            {
+                                "lineNumber": "269229",
+                                "originalJapaneseLine": "　急にそんなこと……」",
+                                "translatedEnglishLine": "Suddenly saying something like that...\""
+                            },
+                            {
+                                "lineNumber": "269230",
+                                "originalJapaneseLine": "「私はハウゼルさえいればそれでいい。",
+                                "translatedEnglishLine": "\"As long as I have you, Housel, that's enough."
+                            },
+                            {
+                                "lineNumber": "269231",
+                                "originalJapaneseLine": "　そこにユキと火炎もついでにいればね」",
+                                "translatedEnglishLine": "And if Yuki and Kaen are there too, then even better.\""
+                            },
+                            {
+                                "lineNumber": "269232",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "269233",
+                                "originalJapaneseLine": "「……どうしたの？",
+                                "translatedEnglishLine": "\"...What's wrong?"
+                            },
+                            {
+                                "lineNumber": "269234",
+                                "originalJapaneseLine": "　今日はどこか変よ？」",
+                                "translatedEnglishLine": "You're acting different today.\""
+                            },
+                            {
+                                "lineNumber": "269235",
+                                "originalJapaneseLine": "「ハウゼル！」",
+                                "translatedEnglishLine": "\"Housel!\""
+                            },
+                            {
+                                "lineNumber": "269236",
+                                "originalJapaneseLine": "「……ッ！」",
+                                "translatedEnglishLine": "\"...!\""
+                            },
+                            {
+                                "lineNumber": "269237",
+                                "originalJapaneseLine": "キッと上げられたサイゼルの顔は、",
+                                "translatedEnglishLine": "Saizel's sharply raised face was painted with,"
+                            },
+                            {
+                                "lineNumber": "269238",
+                                "originalJapaneseLine": "燃え上がる炎のような怒りに彩られていた。",
+                                "translatedEnglishLine": "an anger like blazing flames."
+                            },
+                            {
+                                "lineNumber": "269239",
+                                "originalJapaneseLine": "「どう、したの？",
+                                "translatedEnglishLine": "\"What's wrong?"
+                            },
+                            {
+                                "lineNumber": "269240",
+                                "originalJapaneseLine": "　本当に……変よ？」",
+                                "translatedEnglishLine": "You're really... acting strange.\""
+                            },
+                            {
+                                "lineNumber": "269241",
+                                "originalJapaneseLine": "「しらばっくれないでよ！」",
+                                "translatedEnglishLine": "\"Don't play dumb!\""
+                            },
+                            {
+                                "lineNumber": "269242",
+                                "originalJapaneseLine": "いつものただ、嫉妬しているのとは違う、",
+                                "translatedEnglishLine": "Her voice was tinged with something different from usual jealousy,"
+                            },
+                            {
+                                "lineNumber": "269243",
+                                "originalJapaneseLine": "焦りのようなものを滲ませた声色に、",
+                                "translatedEnglishLine": "a tone that leaked a kind of impatience."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1706,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1944,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3650
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　すみませんね」\",\"translatedEnglishLine\":\"\\\"I'm sorry.\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「えっ……」\",\"translatedEnglishLine\":\"\\\"Eh...?\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「そろそろ休暇をあげられます。\",\"translatedEnglishLine\":\"\\\"It's about time you get some vacation.\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　羽を伸ばさせてあげて下さい」\",\"translatedEnglishLine\":\"Please let yourself relax.\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「では」\",\"translatedEnglishLine\":\"\\\"Well then.\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"柔らかい笑みと共にそれだけ言い、\",\"translatedEnglishLine\":\"Saying just that with a gentle smile,\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"ホーネットは去っていった。\",\"translatedEnglishLine\":\"Hornet left.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「びっくりしたー」\",\"translatedEnglishLine\":\"\\\"You startled me!\\\"\"},\n\n{\"lineNumber\":10,\"originalJapaneseLine\":\"「怒られるかと思っちゃいましたね！\",\"translatedEnglishLine\":\"\\\"I thought you'd get mad at me!\\\"\"},\n\n{\"lineNumber\":11,\"originalJapaneseLine\":\"　サイゼル様！」\",\"translatedEnglishLine\":\"\\\"Lady Saizel!\\\"\"},\n\n{\"lineNumber\":12,\"originalJapaneseLine\":\"「うっさい！」\",\"translatedEnglishLine\":\"\\\"Shut up!\\\"\"},\n\n{\"lineNumber\":13,\"originalJapaneseLine\":\"「サイゼル、待たせてごめんなさい！」\",\"translatedEnglishLine\":\"\\\"Saizel, sorry to keep you waiting!\\\"\"},\n\n{\"lineNumber\":14,\"originalJapaneseLine\":\"「あ、ハウゼル」\",\"translatedEnglishLine\":\"\\\"Ah, Housel.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「いーえー、ちっとも待ってねーよ！\",\"translatedEnglishLine\":\"\\\"No, not at all! I wasn't waiting!\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　行こうぜ、マブい姉ちゃん！」\",\"translatedEnglishLine\":\"Let's go, gorgeous sis!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「あんたは留守番！」\",\"translatedEnglishLine\":\"You stay home!\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「はーい」\",\"translatedEnglishLine\":\"\\\"Okay!\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「くすくす……」\",\"translatedEnglishLine\":\"\\\"Hehehe...\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「じゃ、行きましょうか。\",\"translatedEnglishLine\":\"\\\"Well then, shall we go?\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　サイゼル」\",\"translatedEnglishLine\":\"Saizel.\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「う、うん……」\",\"translatedEnglishLine\":\"\\\"Y-yeah...\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「お二人とも、\",\"translatedEnglishLine\":\"\\\"Both of you,\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　行ってらっしゃいませー」\",\"translatedEnglishLine\":\"have a good time.\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「らっしゃっせー」\",\"translatedEnglishLine\":\"\\\"Take care!\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"それはいつものように行われる、\",\"translatedEnglishLine\":\"It was a usual kind of date,\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"空のデート。\",\"translatedEnglishLine\":\"a date in the sky.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"ここなら、世界と隔絶していられる。\",\"translatedEnglishLine\":\"Here, they could be cut off from the world.\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"そう、世界に二人しかいなくなったような。\",\"translatedEnglishLine\":\"Yes, as if only the two of them existed in the world.\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"そんな気分に浸ることが出来る。\",\"translatedEnglishLine\":\"They could immerse themselves in that feeling.\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"しかし、そんな時でも、\",\"translatedEnglishLine\":\"However, even at such times,\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"サイゼルの表情は硬い。\",\"translatedEnglishLine\":\"Saizel's expression remained stiff.\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「ホーネットの奴……\",\"translatedEnglishLine\":\"\\\"That Hornet guy...\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　ちょっと変わったわね」\",\"translatedEnglishLine\":\"has changed a bit, hasn't he.\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「え、ああ、そうね。\",\"translatedEnglishLine\":\"\\\"Eh, yeah, that's right.\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　最近はイキイキとしてらっしゃる」\",\"translatedEnglishLine\":\"He's been lively lately.\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「ふんっ。\",\"translatedEnglishLine\":\"\\\"Hmph.\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　浮かれてるだけよ」\",\"translatedEnglishLine\":\"He's just getting carried away.\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「……サイゼル？」\",\"translatedEnglishLine\":\"\\\"...Saizel?\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"明らかにいつもと違う硬質の声に、\",\"translatedEnglishLine\":\"Housel's face grew puzzled at Saizel's noticeably different, hard tone.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"ハウゼルの顔が怪訝なものになる。\",\"translatedEnglishLine\":\"(This line is part of the previous. It's just the narration that Housel's face became puzzled.)\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「ねえ、魔物と人類が仲良くする為の活動なんて、\",\"translatedEnglishLine\":\"\\\"Hey, activities for monsters and humans to get along,\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　どうでもよくない？　そんなのやめましょうよ」\",\"translatedEnglishLine\":\"don't you think they're pointless? Let's just stop that.\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「ええ、なにを言ってるの……\",\"translatedEnglishLine\":\"\\\"Eh, what are you saying...?\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　急にそんなこと……」\",\"translatedEnglishLine\":\"Suddenly saying something like that...\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「私はハウゼルさえいればそれでいい。\",\"translatedEnglishLine\":\"\\\"As long as I have you, Housel, that's enough.\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　そこにユキと火炎もついでにいればね」\",\"translatedEnglishLine\":\"And if Yuki and Kaen are there too, then even better.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「……どうしたの？\",\"translatedEnglishLine\":\"\\\"...What's wrong?\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"　今日はどこか変よ？」\",\"translatedEnglishLine\":\"You're acting different today.\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「ハウゼル！」\",\"translatedEnglishLine\":\"\\\"Housel!\\\"\"},\n\n{\"lineNumber\":53,\"originalJapaneseLine\":\"「……ッ！」\",\"translatedEnglishLine\":\"\\\"...!\\\"\"},\n\n{\"lineNumber\":54,\"originalJapaneseLine\":\"キッと上げられたサイゼルの顔は、\",\"translatedEnglishLine\":\"Saizel's sharply raised face was painted with,\"},\n\n{\"lineNumber\":55,\"originalJapaneseLine\":\"燃え上がる炎のような怒りに彩られていた。\",\"translatedEnglishLine\":\"an anger like blazing flames.\"},\n\n{\"lineNumber\":56,\"originalJapaneseLine\":\"「どう、したの？\",\"translatedEnglishLine\":\"\\\"What's wrong?\"},\n\n{\"lineNumber\":57,\"originalJapaneseLine\":\"　本当に……変よ？」\",\"translatedEnglishLine\":\"You're really... acting strange.\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「しらばっくれないでよ！」\",\"translatedEnglishLine\":\"\\\"Don't play dumb!\\\"\"},\n\n{\"lineNumber\":59,\"originalJapaneseLine\":\"いつものただ、嫉妬しているのとは違う、\",\"translatedEnglishLine\":\"Her voice was tinged with something different from usual jealousy,\"},\n\n{\"lineNumber\":60,\"originalJapaneseLine\":\"焦りのようなものを滲ませた声色に、\",\"translatedEnglishLine\":\"a tone that leaked a kind of impatience.\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "269184",
+                "originalJapaneseLine": "　すみませんね」",
+                "translatedEnglishLine": "\"I'm sorry.\""
+            },
+            {
+                "lineNumber": "269185",
+                "originalJapaneseLine": "「えっ……」",
+                "translatedEnglishLine": "\"Eh...?\""
+            },
+            {
+                "lineNumber": "269186",
+                "originalJapaneseLine": "「そろそろ休暇をあげられます。",
+                "translatedEnglishLine": "\"It's about time you get some vacation."
+            },
+            {
+                "lineNumber": "269187",
+                "originalJapaneseLine": "　羽を伸ばさせてあげて下さい」",
+                "translatedEnglishLine": "Please let yourself relax.\""
+            },
+            {
+                "lineNumber": "269188",
+                "originalJapaneseLine": "「では」",
+                "translatedEnglishLine": "\"Well then.\""
+            },
+            {
+                "lineNumber": "269189",
+                "originalJapaneseLine": "柔らかい笑みと共にそれだけ言い、",
+                "translatedEnglishLine": "Saying just that with a gentle smile,"
+            },
+            {
+                "lineNumber": "269190",
+                "originalJapaneseLine": "ホーネットは去っていった。",
+                "translatedEnglishLine": "Hornet left."
+            },
+            {
+                "lineNumber": "269191",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "269192",
+                "originalJapaneseLine": "「びっくりしたー」",
+                "translatedEnglishLine": "\"You startled me!\""
+            },
+            {
+                "lineNumber": "269193",
+                "originalJapaneseLine": "「怒られるかと思っちゃいましたね！",
+                "translatedEnglishLine": "\"I thought you'd get mad at me!\""
+            },
+            {
+                "lineNumber": "269194",
+                "originalJapaneseLine": "　サイゼル様！」",
+                "translatedEnglishLine": "\"Lady Saizel!\""
+            },
+            {
+                "lineNumber": "269195",
+                "originalJapaneseLine": "「うっさい！」",
+                "translatedEnglishLine": "\"Shut up!\""
+            },
+            {
+                "lineNumber": "269196",
+                "originalJapaneseLine": "「サイゼル、待たせてごめんなさい！」",
+                "translatedEnglishLine": "\"Saizel, sorry to keep you waiting!\""
+            },
+            {
+                "lineNumber": "269197",
+                "originalJapaneseLine": "「あ、ハウゼル」",
+                "translatedEnglishLine": "\"Ah, Housel.\""
+            },
+            {
+                "lineNumber": "269198",
+                "originalJapaneseLine": "「いーえー、ちっとも待ってねーよ！",
+                "translatedEnglishLine": "\"No, not at all! I wasn't waiting!\""
+            },
+            {
+                "lineNumber": "269199",
+                "originalJapaneseLine": "　行こうぜ、マブい姉ちゃん！」",
+                "translatedEnglishLine": "Let's go, gorgeous sis!\""
+            },
+            {
+                "lineNumber": "269200",
+                "originalJapaneseLine": "「あんたは留守番！」",
+                "translatedEnglishLine": "You stay home!\""
+            },
+            {
+                "lineNumber": "269201",
+                "originalJapaneseLine": "「はーい」",
+                "translatedEnglishLine": "\"Okay!\""
+            },
+            {
+                "lineNumber": "269202",
+                "originalJapaneseLine": "「くすくす……」",
+                "translatedEnglishLine": "\"Hehehe...\""
+            },
+            {
+                "lineNumber": "269203",
+                "originalJapaneseLine": "「じゃ、行きましょうか。",
+                "translatedEnglishLine": "\"Well then, shall we go?"
+            },
+            {
+                "lineNumber": "269204",
+                "originalJapaneseLine": "　サイゼル」",
+                "translatedEnglishLine": "Saizel.\""
+            },
+            {
+                "lineNumber": "269205",
+                "originalJapaneseLine": "「う、うん……」",
+                "translatedEnglishLine": "\"Y-yeah...\""
+            },
+            {
+                "lineNumber": "269206",
+                "originalJapaneseLine": "「お二人とも、",
+                "translatedEnglishLine": "\"Both of you,"
+            },
+            {
+                "lineNumber": "269207",
+                "originalJapaneseLine": "　行ってらっしゃいませー」",
+                "translatedEnglishLine": "have a good time.\""
+            },
+            {
+                "lineNumber": "269208",
+                "originalJapaneseLine": "「らっしゃっせー」",
+                "translatedEnglishLine": "\"Take care!\""
+            },
+            {
+                "lineNumber": "269209",
+                "originalJapaneseLine": "それはいつものように行われる、",
+                "translatedEnglishLine": "It was a usual kind of date,"
+            },
+            {
+                "lineNumber": "269210",
+                "originalJapaneseLine": "空のデート。",
+                "translatedEnglishLine": "a date in the sky."
+            },
+            {
+                "lineNumber": "269211",
+                "originalJapaneseLine": "ここなら、世界と隔絶していられる。",
+                "translatedEnglishLine": "Here, they could be cut off from the world."
+            },
+            {
+                "lineNumber": "269212",
+                "originalJapaneseLine": "そう、世界に二人しかいなくなったような。",
+                "translatedEnglishLine": "Yes, as if only the two of them existed in the world."
+            },
+            {
+                "lineNumber": "269213",
+                "originalJapaneseLine": "そんな気分に浸ることが出来る。",
+                "translatedEnglishLine": "They could immerse themselves in that feeling."
+            },
+            {
+                "lineNumber": "269214",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "269215",
+                "originalJapaneseLine": "しかし、そんな時でも、",
+                "translatedEnglishLine": "However, even at such times,"
+            },
+            {
+                "lineNumber": "269216",
+                "originalJapaneseLine": "サイゼルの表情は硬い。",
+                "translatedEnglishLine": "Saizel's expression remained stiff."
+            },
+            {
+                "lineNumber": "269217",
+                "originalJapaneseLine": "「ホーネットの奴……",
+                "translatedEnglishLine": "\"That Hornet guy..."
+            },
+            {
+                "lineNumber": "269218",
+                "originalJapaneseLine": "　ちょっと変わったわね」",
+                "translatedEnglishLine": "has changed a bit, hasn't he.\""
+            },
+            {
+                "lineNumber": "269219",
+                "originalJapaneseLine": "「え、ああ、そうね。",
+                "translatedEnglishLine": "\"Eh, yeah, that's right."
+            },
+            {
+                "lineNumber": "269220",
+                "originalJapaneseLine": "　最近はイキイキとしてらっしゃる」",
+                "translatedEnglishLine": "He's been lively lately.\""
+            },
+            {
+                "lineNumber": "269221",
+                "originalJapaneseLine": "「ふんっ。",
+                "translatedEnglishLine": "\"Hmph."
+            },
+            {
+                "lineNumber": "269222",
+                "originalJapaneseLine": "　浮かれてるだけよ」",
+                "translatedEnglishLine": "He's just getting carried away.\""
+            },
+            {
+                "lineNumber": "269223",
+                "originalJapaneseLine": "「……サイゼル？」",
+                "translatedEnglishLine": "\"...Saizel?\""
+            },
+            {
+                "lineNumber": "269224",
+                "originalJapaneseLine": "明らかにいつもと違う硬質の声に、",
+                "translatedEnglishLine": "Housel's face grew puzzled at Saizel's noticeably different, hard tone."
+            },
+            {
+                "lineNumber": "269225",
+                "originalJapaneseLine": "ハウゼルの顔が怪訝なものになる。",
+                "translatedEnglishLine": "(This line is part of the previous. It's just the narration that Housel's face became puzzled.)"
+            },
+            {
+                "lineNumber": "269226",
+                "originalJapaneseLine": "「ねえ、魔物と人類が仲良くする為の活動なんて、",
+                "translatedEnglishLine": "\"Hey, activities for monsters and humans to get along,"
+            },
+            {
+                "lineNumber": "269227",
+                "originalJapaneseLine": "　どうでもよくない？　そんなのやめましょうよ」",
+                "translatedEnglishLine": "don't you think they're pointless? Let's just stop that.\""
+            },
+            {
+                "lineNumber": "269228",
+                "originalJapaneseLine": "「ええ、なにを言ってるの……",
+                "translatedEnglishLine": "\"Eh, what are you saying...?"
+            },
+            {
+                "lineNumber": "269229",
+                "originalJapaneseLine": "　急にそんなこと……」",
+                "translatedEnglishLine": "Suddenly saying something like that...\""
+            },
+            {
+                "lineNumber": "269230",
+                "originalJapaneseLine": "「私はハウゼルさえいればそれでいい。",
+                "translatedEnglishLine": "\"As long as I have you, Housel, that's enough."
+            },
+            {
+                "lineNumber": "269231",
+                "originalJapaneseLine": "　そこにユキと火炎もついでにいればね」",
+                "translatedEnglishLine": "And if Yuki and Kaen are there too, then even better.\""
+            },
+            {
+                "lineNumber": "269232",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "269233",
+                "originalJapaneseLine": "「……どうしたの？",
+                "translatedEnglishLine": "\"...What's wrong?"
+            },
+            {
+                "lineNumber": "269234",
+                "originalJapaneseLine": "　今日はどこか変よ？」",
+                "translatedEnglishLine": "You're acting different today.\""
+            },
+            {
+                "lineNumber": "269235",
+                "originalJapaneseLine": "「ハウゼル！」",
+                "translatedEnglishLine": "\"Housel!\""
+            },
+            {
+                "lineNumber": "269236",
+                "originalJapaneseLine": "「……ッ！」",
+                "translatedEnglishLine": "\"...!\""
+            },
+            {
+                "lineNumber": "269237",
+                "originalJapaneseLine": "キッと上げられたサイゼルの顔は、",
+                "translatedEnglishLine": "Saizel's sharply raised face was painted with,"
+            },
+            {
+                "lineNumber": "269238",
+                "originalJapaneseLine": "燃え上がる炎のような怒りに彩られていた。",
+                "translatedEnglishLine": "an anger like blazing flames."
+            },
+            {
+                "lineNumber": "269239",
+                "originalJapaneseLine": "「どう、したの？",
+                "translatedEnglishLine": "\"What's wrong?"
+            },
+            {
+                "lineNumber": "269240",
+                "originalJapaneseLine": "　本当に……変よ？」",
+                "translatedEnglishLine": "You're really... acting strange.\""
+            },
+            {
+                "lineNumber": "269241",
+                "originalJapaneseLine": "「しらばっくれないでよ！」",
+                "translatedEnglishLine": "\"Don't play dumb!\""
+            },
+            {
+                "lineNumber": "269242",
+                "originalJapaneseLine": "いつものただ、嫉妬しているのとは違う、",
+                "translatedEnglishLine": "Her voice was tinged with something different from usual jealousy,"
+            },
+            {
+                "lineNumber": "269243",
+                "originalJapaneseLine": "焦りのようなものを滲ませた声色に、",
+                "translatedEnglishLine": "a tone that leaked a kind of impatience."
+            }
+        ]
+    }
+}

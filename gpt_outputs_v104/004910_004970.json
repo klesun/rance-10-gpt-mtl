@@ -1,0 +1,719 @@
+{
+    "id": "resp_01b29de3e3d20e700068ffef3675d48196b50fa6cdb975af3c",
+    "object": "response",
+    "created_at": 1761603382,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_01b29de3e3d20e700068ffef37167c819692b49aa22369529c",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":269544,\"originalJapaneseLine\":\"「お、おお……\",\"translatedEnglishLine\":\"\\\"O-oh...\\\"\"},{\"lineNumber\":269545,\"originalJapaneseLine\":\"　勝った」\",\"translatedEnglishLine\":\"\\\"We won.\\\"\"},{\"lineNumber\":269546,\"originalJapaneseLine\":\"「……のか？」\",\"translatedEnglishLine\":\"\\\"...Did we?\\\"\"},{\"lineNumber\":269547,\"originalJapaneseLine\":\"「う、動かなくは、なりましたね？」\",\"translatedEnglishLine\":\"\\\"U-uh, it seems they’ve stopped moving, right?\\\"\"},{\"lineNumber\":269548,\"originalJapaneseLine\":\"「ありがとう、ランス君。\",\"translatedEnglishLine\":\"\\\"Thank you, Rance-kun.\"},{\"lineNumber\":269549,\"originalJapaneseLine\":\"　後は私がやるわ」\",\"translatedEnglishLine\":\"I'll take care of the rest.\\\"\"},{\"lineNumber\":269550,\"originalJapaneseLine\":\"「は？　後はやるって、\",\"translatedEnglishLine\":\"\\\"Huh? Take care of the rest?,\"},{\"lineNumber\":269551,\"originalJapaneseLine\":\"　お、おい、いったい何を……」\",\"translatedEnglishLine\":\"H-hey, just what exactly are you planning to...\\\"\"},{\"lineNumber\":269552,\"originalJapaneseLine\":\"ラ・バスワルドは、\",\"translatedEnglishLine\":\"La Baswald,\"},{\"lineNumber\":269553,\"originalJapaneseLine\":\"自分の現状が理解出来ない。\",\"translatedEnglishLine\":\"could not comprehend their current condition.\"},{\"lineNumber\":269554,\"originalJapaneseLine\":\"体が動かない。\",\"translatedEnglishLine\":\"Their body wouldn’t move.\"},{\"lineNumber\":269555,\"originalJapaneseLine\":\"回復を優先させる他ない。\",\"translatedEnglishLine\":\"There was no choice but to prioritize recovery.\"},{\"lineNumber\":269556,\"originalJapaneseLine\":\"しかし、回復の為に、\",\"translatedEnglishLine\":\"However, for the sake of recovery,\"},{\"lineNumber\":269557,\"originalJapaneseLine\":\"体を動かすことすら出来ずにいた。\",\"translatedEnglishLine\":\"they couldn’t even move their body.\"},{\"lineNumber\":269558,\"originalJapaneseLine\":\"と――\",\"translatedEnglishLine\":\"And then—\"},{\"lineNumber\":269559,\"originalJapaneseLine\":\"視界の片隅に、\",\"translatedEnglishLine\":\"In the corner of their vision,\"},{\"lineNumber\":269560,\"originalJapaneseLine\":\"上半身だけの異形のものが、\",\"translatedEnglishLine\":\"a monstrous figure, only a torso,\"},{\"lineNumber\":269561,\"originalJapaneseLine\":\"よちよちと姿を見せた。\",\"translatedEnglishLine\":\"wobbled into view.\"},{\"lineNumber\":269562,\"originalJapaneseLine\":\"そして化け物は笑い、一言だけ喋る――\",\"translatedEnglishLine\":\"And the monster smiled, speaking only one word—\"},{\"lineNumber\":269563,\"originalJapaneseLine\":\"『こんにちは』\",\"translatedEnglishLine\":\"\\\"Hello\\\"\"},{\"lineNumber\":269564,\"originalJapaneseLine\":\"たった一言で無惨にも意識が刈り取られる。\",\"translatedEnglishLine\":\"That single word cruelly shredded their consciousness.\"},{\"lineNumber\":269565,\"originalJapaneseLine\":\"――それはガリガリと、\",\"translatedEnglishLine\":\"—It was like a grating,\"},{\"lineNumber\":269566,\"originalJapaneseLine\":\"魂が削られるような声だった。\",\"translatedEnglishLine\":\"voice scraping away their soul.\"},{\"lineNumber\":269567,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\".........\"},{\"lineNumber\":269568,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":269569,\"originalJapaneseLine\":\"「あ、も、戻ってきた……」\",\"translatedEnglishLine\":\"\\\"Ah, I-I’m coming back...\\\"\"},{\"lineNumber\":269570,\"originalJapaneseLine\":\"「だ、大丈夫……でしょうか？」\",\"translatedEnglishLine\":\"\\\"A-are you... alright?\\\"\"},{\"lineNumber\":269571,\"originalJapaneseLine\":\"「大丈夫よ。\",\"translatedEnglishLine\":\"\\\"I’m fine.\"},{\"lineNumber\":269572,\"originalJapaneseLine\":\"　もう無害化したから」\",\"translatedEnglishLine\":\"They’ve been rendered harmless now.\\\"\"},{\"lineNumber\":269573,\"originalJapaneseLine\":\"アムがラ・バスワルドに抱えられながら\",\"translatedEnglishLine\":\"Amu appeared, carried by La Baswald,\"},{\"lineNumber\":269574,\"originalJapaneseLine\":\"その場に現れた。\",\"translatedEnglishLine\":\"right there on the spot.\"},{\"lineNumber\":269575,\"originalJapaneseLine\":\"「君……もしかして……\",\"translatedEnglishLine\":\"\\\"You... Could it be...\"},{\"lineNumber\":269576,\"originalJapaneseLine\":\"　自分一人でもなんとか\",\"translatedEnglishLine\":\"that you managed somehow on your own?\"},{\"lineNumber\":269577,\"originalJapaneseLine\":\"　出来たのと違うか？」\",\"translatedEnglishLine\":\"\\\"Isn’t that right?\\\"\"},{\"lineNumber\":269578,\"originalJapaneseLine\":\"「というか説得できるなら、\",\"translatedEnglishLine\":\"\\\"I mean, if you could persuade them,\"},{\"lineNumber\":269579,\"originalJapaneseLine\":\"　最初からせんかー！」\",\"translatedEnglishLine\":\"why didn’t you do it from the start!\\\"\"},{\"lineNumber\":269580,\"originalJapaneseLine\":\"「違う違う。\",\"translatedEnglishLine\":\"\\\"No, no.\"},{\"lineNumber\":269581,\"originalJapaneseLine\":\"　ランス君が無力化したから、\",\"translatedEnglishLine\":\"Because Rance-kun was incapacitated,\"},{\"lineNumber\":269582,\"originalJapaneseLine\":\"　私の説得が届いたのよ」\",\"translatedEnglishLine\":\"my persuasion was able to reach them.\\\"\"},{\"lineNumber\":269583,\"originalJapaneseLine\":\"「……ということにしておいて。\",\"translatedEnglishLine\":\"\\\"...Let’s just say that.\"},{\"lineNumber\":269584,\"originalJapaneseLine\":\"　あんまり目立ちたくないの、私」\",\"translatedEnglishLine\":\"I don’t really want to stand out too much.\\\"\"},{\"lineNumber\":269585,\"originalJapaneseLine\":\"「ね？　やっぱり、\",\"translatedEnglishLine\":\"\\\"See? After all,\"},{\"lineNumber\":269586,\"originalJapaneseLine\":\"　世界を救ったのはランス君なのよ」\",\"translatedEnglishLine\":\"it was Rance-kun who saved the world.\\\"\"},{\"lineNumber\":269587,\"originalJapaneseLine\":\"「……煙に巻かれてる気がする」\",\"translatedEnglishLine\":\"\\\"...I feel like you’re trying to pull the wool over my eyes.\\\"\"},{\"lineNumber\":269588,\"originalJapaneseLine\":\"「くすくす……」\",\"translatedEnglishLine\":\"\\\"Hehe...\\\"\"},{\"lineNumber\":269589,\"originalJapaneseLine\":\"「ふふ、それにしても可愛い子……\",\"translatedEnglishLine\":\"\\\"Fufu, what a cute child...\"},{\"lineNumber\":269590,\"originalJapaneseLine\":\"　それに、とても良い子」\",\"translatedEnglishLine\":\"And such a good kid.\\\"\"},{\"lineNumber\":269591,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":269592,\"originalJapaneseLine\":\"アムがラ・バスワルドの頬を、\",\"translatedEnglishLine\":\"Amu gently stroked La Baswald’s cheek,\"},{\"lineNumber\":269593,\"originalJapaneseLine\":\"愛おしげに撫でる。\",\"translatedEnglishLine\":\"with affection.\"},{\"lineNumber\":269594,\"originalJapaneseLine\":\"「こういう子が、\",\"translatedEnglishLine\":\"\\\"This is the kind of child\"},{\"lineNumber\":269595,\"originalJapaneseLine\":\"　一人くらい欲しかったところなの」\",\"translatedEnglishLine\":\"I’ve always wanted at least one of.\\\"\"},{\"lineNumber\":269596,\"originalJapaneseLine\":\"「………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":269597,\"originalJapaneseLine\":\"「もらっていい？」\",\"translatedEnglishLine\":\"\\\"Can I have them?\\\"\"},{\"lineNumber\":269598,\"originalJapaneseLine\":\"「駄ーー目ーーだーー！\",\"translatedEnglishLine\":\"\\\"N-nooo! That’s not allowed!\\\"\"},{\"lineNumber\":269599,\"originalJapaneseLine\":\"　返しなさい！」\",\"translatedEnglishLine\":\"Give them back!\\\"\"},{\"lineNumber\":269600,\"originalJapaneseLine\":\"「はーい」\",\"translatedEnglishLine\":\"\\\"Okaaay.\\\"\"},{\"lineNumber\":269601,\"originalJapaneseLine\":\"「アムちゃん、\",\"translatedEnglishLine\":\"\\\"Amu-chan,\"},{\"lineNumber\":269602,\"originalJapaneseLine\":\"　とっとと命令なりなんなりして、\",\"translatedEnglishLine\":\"hurry up and give some orders or whatever,\"},{\"lineNumber\":269603,\"originalJapaneseLine\":\"　元に戻ってもらえ」\",\"translatedEnglishLine\":\"and get them back to normal.\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "269544",
+                                "originalJapaneseLine": "「お、おお……",
+                                "translatedEnglishLine": "\"O-oh...\""
+                            },
+                            {
+                                "lineNumber": "269545",
+                                "originalJapaneseLine": "　勝った」",
+                                "translatedEnglishLine": "\"We won.\""
+                            },
+                            {
+                                "lineNumber": "269546",
+                                "originalJapaneseLine": "「……のか？」",
+                                "translatedEnglishLine": "\"...Did we?\""
+                            },
+                            {
+                                "lineNumber": "269547",
+                                "originalJapaneseLine": "「う、動かなくは、なりましたね？」",
+                                "translatedEnglishLine": "\"U-uh, it seems they’ve stopped moving, right?\""
+                            },
+                            {
+                                "lineNumber": "269548",
+                                "originalJapaneseLine": "「ありがとう、ランス君。",
+                                "translatedEnglishLine": "\"Thank you, Rance-kun."
+                            },
+                            {
+                                "lineNumber": "269549",
+                                "originalJapaneseLine": "　後は私がやるわ」",
+                                "translatedEnglishLine": "I'll take care of the rest.\""
+                            },
+                            {
+                                "lineNumber": "269550",
+                                "originalJapaneseLine": "「は？　後はやるって、",
+                                "translatedEnglishLine": "\"Huh? Take care of the rest?,"
+                            },
+                            {
+                                "lineNumber": "269551",
+                                "originalJapaneseLine": "　お、おい、いったい何を……」",
+                                "translatedEnglishLine": "H-hey, just what exactly are you planning to...\""
+                            },
+                            {
+                                "lineNumber": "269552",
+                                "originalJapaneseLine": "ラ・バスワルドは、",
+                                "translatedEnglishLine": "La Baswald,"
+                            },
+                            {
+                                "lineNumber": "269553",
+                                "originalJapaneseLine": "自分の現状が理解出来ない。",
+                                "translatedEnglishLine": "could not comprehend their current condition."
+                            },
+                            {
+                                "lineNumber": "269554",
+                                "originalJapaneseLine": "体が動かない。",
+                                "translatedEnglishLine": "Their body wouldn’t move."
+                            },
+                            {
+                                "lineNumber": "269555",
+                                "originalJapaneseLine": "回復を優先させる他ない。",
+                                "translatedEnglishLine": "There was no choice but to prioritize recovery."
+                            },
+                            {
+                                "lineNumber": "269556",
+                                "originalJapaneseLine": "しかし、回復の為に、",
+                                "translatedEnglishLine": "However, for the sake of recovery,"
+                            },
+                            {
+                                "lineNumber": "269557",
+                                "originalJapaneseLine": "体を動かすことすら出来ずにいた。",
+                                "translatedEnglishLine": "they couldn’t even move their body."
+                            },
+                            {
+                                "lineNumber": "269558",
+                                "originalJapaneseLine": "と――",
+                                "translatedEnglishLine": "And then—"
+                            },
+                            {
+                                "lineNumber": "269559",
+                                "originalJapaneseLine": "視界の片隅に、",
+                                "translatedEnglishLine": "In the corner of their vision,"
+                            },
+                            {
+                                "lineNumber": "269560",
+                                "originalJapaneseLine": "上半身だけの異形のものが、",
+                                "translatedEnglishLine": "a monstrous figure, only a torso,"
+                            },
+                            {
+                                "lineNumber": "269561",
+                                "originalJapaneseLine": "よちよちと姿を見せた。",
+                                "translatedEnglishLine": "wobbled into view."
+                            },
+                            {
+                                "lineNumber": "269562",
+                                "originalJapaneseLine": "そして化け物は笑い、一言だけ喋る――",
+                                "translatedEnglishLine": "And the monster smiled, speaking only one word—"
+                            },
+                            {
+                                "lineNumber": "269563",
+                                "originalJapaneseLine": "『こんにちは』",
+                                "translatedEnglishLine": "\"Hello\""
+                            },
+                            {
+                                "lineNumber": "269564",
+                                "originalJapaneseLine": "たった一言で無惨にも意識が刈り取られる。",
+                                "translatedEnglishLine": "That single word cruelly shredded their consciousness."
+                            },
+                            {
+                                "lineNumber": "269565",
+                                "originalJapaneseLine": "――それはガリガリと、",
+                                "translatedEnglishLine": "—It was like a grating,"
+                            },
+                            {
+                                "lineNumber": "269566",
+                                "originalJapaneseLine": "魂が削られるような声だった。",
+                                "translatedEnglishLine": "voice scraping away their soul."
+                            },
+                            {
+                                "lineNumber": "269567",
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "........."
+                            },
+                            {
+                                "lineNumber": "269568",
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": "269569",
+                                "originalJapaneseLine": "「あ、も、戻ってきた……」",
+                                "translatedEnglishLine": "\"Ah, I-I’m coming back...\""
+                            },
+                            {
+                                "lineNumber": "269570",
+                                "originalJapaneseLine": "「だ、大丈夫……でしょうか？」",
+                                "translatedEnglishLine": "\"A-are you... alright?\""
+                            },
+                            {
+                                "lineNumber": "269571",
+                                "originalJapaneseLine": "「大丈夫よ。",
+                                "translatedEnglishLine": "\"I’m fine."
+                            },
+                            {
+                                "lineNumber": "269572",
+                                "originalJapaneseLine": "　もう無害化したから」",
+                                "translatedEnglishLine": "They’ve been rendered harmless now.\""
+                            },
+                            {
+                                "lineNumber": "269573",
+                                "originalJapaneseLine": "アムがラ・バスワルドに抱えられながら",
+                                "translatedEnglishLine": "Amu appeared, carried by La Baswald,"
+                            },
+                            {
+                                "lineNumber": "269574",
+                                "originalJapaneseLine": "その場に現れた。",
+                                "translatedEnglishLine": "right there on the spot."
+                            },
+                            {
+                                "lineNumber": "269575",
+                                "originalJapaneseLine": "「君……もしかして……",
+                                "translatedEnglishLine": "\"You... Could it be..."
+                            },
+                            {
+                                "lineNumber": "269576",
+                                "originalJapaneseLine": "　自分一人でもなんとか",
+                                "translatedEnglishLine": "that you managed somehow on your own?"
+                            },
+                            {
+                                "lineNumber": "269577",
+                                "originalJapaneseLine": "　出来たのと違うか？」",
+                                "translatedEnglishLine": "\"Isn’t that right?\""
+                            },
+                            {
+                                "lineNumber": "269578",
+                                "originalJapaneseLine": "「というか説得できるなら、",
+                                "translatedEnglishLine": "\"I mean, if you could persuade them,"
+                            },
+                            {
+                                "lineNumber": "269579",
+                                "originalJapaneseLine": "　最初からせんかー！」",
+                                "translatedEnglishLine": "why didn’t you do it from the start!\""
+                            },
+                            {
+                                "lineNumber": "269580",
+                                "originalJapaneseLine": "「違う違う。",
+                                "translatedEnglishLine": "\"No, no."
+                            },
+                            {
+                                "lineNumber": "269581",
+                                "originalJapaneseLine": "　ランス君が無力化したから、",
+                                "translatedEnglishLine": "Because Rance-kun was incapacitated,"
+                            },
+                            {
+                                "lineNumber": "269582",
+                                "originalJapaneseLine": "　私の説得が届いたのよ」",
+                                "translatedEnglishLine": "my persuasion was able to reach them.\""
+                            },
+                            {
+                                "lineNumber": "269583",
+                                "originalJapaneseLine": "「……ということにしておいて。",
+                                "translatedEnglishLine": "\"...Let’s just say that."
+                            },
+                            {
+                                "lineNumber": "269584",
+                                "originalJapaneseLine": "　あんまり目立ちたくないの、私」",
+                                "translatedEnglishLine": "I don’t really want to stand out too much.\""
+                            },
+                            {
+                                "lineNumber": "269585",
+                                "originalJapaneseLine": "「ね？　やっぱり、",
+                                "translatedEnglishLine": "\"See? After all,"
+                            },
+                            {
+                                "lineNumber": "269586",
+                                "originalJapaneseLine": "　世界を救ったのはランス君なのよ」",
+                                "translatedEnglishLine": "it was Rance-kun who saved the world.\""
+                            },
+                            {
+                                "lineNumber": "269587",
+                                "originalJapaneseLine": "「……煙に巻かれてる気がする」",
+                                "translatedEnglishLine": "\"...I feel like you’re trying to pull the wool over my eyes.\""
+                            },
+                            {
+                                "lineNumber": "269588",
+                                "originalJapaneseLine": "「くすくす……」",
+                                "translatedEnglishLine": "\"Hehe...\""
+                            },
+                            {
+                                "lineNumber": "269589",
+                                "originalJapaneseLine": "「ふふ、それにしても可愛い子……",
+                                "translatedEnglishLine": "\"Fufu, what a cute child..."
+                            },
+                            {
+                                "lineNumber": "269590",
+                                "originalJapaneseLine": "　それに、とても良い子」",
+                                "translatedEnglishLine": "And such a good kid.\""
+                            },
+                            {
+                                "lineNumber": "269591",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "269592",
+                                "originalJapaneseLine": "アムがラ・バスワルドの頬を、",
+                                "translatedEnglishLine": "Amu gently stroked La Baswald’s cheek,"
+                            },
+                            {
+                                "lineNumber": "269593",
+                                "originalJapaneseLine": "愛おしげに撫でる。",
+                                "translatedEnglishLine": "with affection."
+                            },
+                            {
+                                "lineNumber": "269594",
+                                "originalJapaneseLine": "「こういう子が、",
+                                "translatedEnglishLine": "\"This is the kind of child"
+                            },
+                            {
+                                "lineNumber": "269595",
+                                "originalJapaneseLine": "　一人くらい欲しかったところなの」",
+                                "translatedEnglishLine": "I’ve always wanted at least one of.\""
+                            },
+                            {
+                                "lineNumber": "269596",
+                                "originalJapaneseLine": "「………」",
+                                "translatedEnglishLine": "\"...\""
+                            },
+                            {
+                                "lineNumber": "269597",
+                                "originalJapaneseLine": "「もらっていい？」",
+                                "translatedEnglishLine": "\"Can I have them?\""
+                            },
+                            {
+                                "lineNumber": "269598",
+                                "originalJapaneseLine": "「駄ーー目ーーだーー！",
+                                "translatedEnglishLine": "\"N-nooo! That’s not allowed!\""
+                            },
+                            {
+                                "lineNumber": "269599",
+                                "originalJapaneseLine": "　返しなさい！」",
+                                "translatedEnglishLine": "Give them back!\""
+                            },
+                            {
+                                "lineNumber": "269600",
+                                "originalJapaneseLine": "「はーい」",
+                                "translatedEnglishLine": "\"Okaaay.\""
+                            },
+                            {
+                                "lineNumber": "269601",
+                                "originalJapaneseLine": "「アムちゃん、",
+                                "translatedEnglishLine": "\"Amu-chan,"
+                            },
+                            {
+                                "lineNumber": "269602",
+                                "originalJapaneseLine": "　とっとと命令なりなんなりして、",
+                                "translatedEnglishLine": "hurry up and give some orders or whatever,"
+                            },
+                            {
+                                "lineNumber": "269603",
+                                "originalJapaneseLine": "　元に戻ってもらえ」",
+                                "translatedEnglishLine": "and get them back to normal.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1647,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1931,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3578
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":269544,\"originalJapaneseLine\":\"「お、おお……\",\"translatedEnglishLine\":\"\\\"O-oh...\\\"\"},{\"lineNumber\":269545,\"originalJapaneseLine\":\"　勝った」\",\"translatedEnglishLine\":\"\\\"We won.\\\"\"},{\"lineNumber\":269546,\"originalJapaneseLine\":\"「……のか？」\",\"translatedEnglishLine\":\"\\\"...Did we?\\\"\"},{\"lineNumber\":269547,\"originalJapaneseLine\":\"「う、動かなくは、なりましたね？」\",\"translatedEnglishLine\":\"\\\"U-uh, it seems they’ve stopped moving, right?\\\"\"},{\"lineNumber\":269548,\"originalJapaneseLine\":\"「ありがとう、ランス君。\",\"translatedEnglishLine\":\"\\\"Thank you, Rance-kun.\"},{\"lineNumber\":269549,\"originalJapaneseLine\":\"　後は私がやるわ」\",\"translatedEnglishLine\":\"I'll take care of the rest.\\\"\"},{\"lineNumber\":269550,\"originalJapaneseLine\":\"「は？　後はやるって、\",\"translatedEnglishLine\":\"\\\"Huh? Take care of the rest?,\"},{\"lineNumber\":269551,\"originalJapaneseLine\":\"　お、おい、いったい何を……」\",\"translatedEnglishLine\":\"H-hey, just what exactly are you planning to...\\\"\"},{\"lineNumber\":269552,\"originalJapaneseLine\":\"ラ・バスワルドは、\",\"translatedEnglishLine\":\"La Baswald,\"},{\"lineNumber\":269553,\"originalJapaneseLine\":\"自分の現状が理解出来ない。\",\"translatedEnglishLine\":\"could not comprehend their current condition.\"},{\"lineNumber\":269554,\"originalJapaneseLine\":\"体が動かない。\",\"translatedEnglishLine\":\"Their body wouldn’t move.\"},{\"lineNumber\":269555,\"originalJapaneseLine\":\"回復を優先させる他ない。\",\"translatedEnglishLine\":\"There was no choice but to prioritize recovery.\"},{\"lineNumber\":269556,\"originalJapaneseLine\":\"しかし、回復の為に、\",\"translatedEnglishLine\":\"However, for the sake of recovery,\"},{\"lineNumber\":269557,\"originalJapaneseLine\":\"体を動かすことすら出来ずにいた。\",\"translatedEnglishLine\":\"they couldn’t even move their body.\"},{\"lineNumber\":269558,\"originalJapaneseLine\":\"と――\",\"translatedEnglishLine\":\"And then—\"},{\"lineNumber\":269559,\"originalJapaneseLine\":\"視界の片隅に、\",\"translatedEnglishLine\":\"In the corner of their vision,\"},{\"lineNumber\":269560,\"originalJapaneseLine\":\"上半身だけの異形のものが、\",\"translatedEnglishLine\":\"a monstrous figure, only a torso,\"},{\"lineNumber\":269561,\"originalJapaneseLine\":\"よちよちと姿を見せた。\",\"translatedEnglishLine\":\"wobbled into view.\"},{\"lineNumber\":269562,\"originalJapaneseLine\":\"そして化け物は笑い、一言だけ喋る――\",\"translatedEnglishLine\":\"And the monster smiled, speaking only one word—\"},{\"lineNumber\":269563,\"originalJapaneseLine\":\"『こんにちは』\",\"translatedEnglishLine\":\"\\\"Hello\\\"\"},{\"lineNumber\":269564,\"originalJapaneseLine\":\"たった一言で無惨にも意識が刈り取られる。\",\"translatedEnglishLine\":\"That single word cruelly shredded their consciousness.\"},{\"lineNumber\":269565,\"originalJapaneseLine\":\"――それはガリガリと、\",\"translatedEnglishLine\":\"—It was like a grating,\"},{\"lineNumber\":269566,\"originalJapaneseLine\":\"魂が削られるような声だった。\",\"translatedEnglishLine\":\"voice scraping away their soul.\"},{\"lineNumber\":269567,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\".........\"},{\"lineNumber\":269568,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":269569,\"originalJapaneseLine\":\"「あ、も、戻ってきた……」\",\"translatedEnglishLine\":\"\\\"Ah, I-I’m coming back...\\\"\"},{\"lineNumber\":269570,\"originalJapaneseLine\":\"「だ、大丈夫……でしょうか？」\",\"translatedEnglishLine\":\"\\\"A-are you... alright?\\\"\"},{\"lineNumber\":269571,\"originalJapaneseLine\":\"「大丈夫よ。\",\"translatedEnglishLine\":\"\\\"I’m fine.\"},{\"lineNumber\":269572,\"originalJapaneseLine\":\"　もう無害化したから」\",\"translatedEnglishLine\":\"They’ve been rendered harmless now.\\\"\"},{\"lineNumber\":269573,\"originalJapaneseLine\":\"アムがラ・バスワルドに抱えられながら\",\"translatedEnglishLine\":\"Amu appeared, carried by La Baswald,\"},{\"lineNumber\":269574,\"originalJapaneseLine\":\"その場に現れた。\",\"translatedEnglishLine\":\"right there on the spot.\"},{\"lineNumber\":269575,\"originalJapaneseLine\":\"「君……もしかして……\",\"translatedEnglishLine\":\"\\\"You... Could it be...\"},{\"lineNumber\":269576,\"originalJapaneseLine\":\"　自分一人でもなんとか\",\"translatedEnglishLine\":\"that you managed somehow on your own?\"},{\"lineNumber\":269577,\"originalJapaneseLine\":\"　出来たのと違うか？」\",\"translatedEnglishLine\":\"\\\"Isn’t that right?\\\"\"},{\"lineNumber\":269578,\"originalJapaneseLine\":\"「というか説得できるなら、\",\"translatedEnglishLine\":\"\\\"I mean, if you could persuade them,\"},{\"lineNumber\":269579,\"originalJapaneseLine\":\"　最初からせんかー！」\",\"translatedEnglishLine\":\"why didn’t you do it from the start!\\\"\"},{\"lineNumber\":269580,\"originalJapaneseLine\":\"「違う違う。\",\"translatedEnglishLine\":\"\\\"No, no.\"},{\"lineNumber\":269581,\"originalJapaneseLine\":\"　ランス君が無力化したから、\",\"translatedEnglishLine\":\"Because Rance-kun was incapacitated,\"},{\"lineNumber\":269582,\"originalJapaneseLine\":\"　私の説得が届いたのよ」\",\"translatedEnglishLine\":\"my persuasion was able to reach them.\\\"\"},{\"lineNumber\":269583,\"originalJapaneseLine\":\"「……ということにしておいて。\",\"translatedEnglishLine\":\"\\\"...Let’s just say that.\"},{\"lineNumber\":269584,\"originalJapaneseLine\":\"　あんまり目立ちたくないの、私」\",\"translatedEnglishLine\":\"I don’t really want to stand out too much.\\\"\"},{\"lineNumber\":269585,\"originalJapaneseLine\":\"「ね？　やっぱり、\",\"translatedEnglishLine\":\"\\\"See? After all,\"},{\"lineNumber\":269586,\"originalJapaneseLine\":\"　世界を救ったのはランス君なのよ」\",\"translatedEnglishLine\":\"it was Rance-kun who saved the world.\\\"\"},{\"lineNumber\":269587,\"originalJapaneseLine\":\"「……煙に巻かれてる気がする」\",\"translatedEnglishLine\":\"\\\"...I feel like you’re trying to pull the wool over my eyes.\\\"\"},{\"lineNumber\":269588,\"originalJapaneseLine\":\"「くすくす……」\",\"translatedEnglishLine\":\"\\\"Hehe...\\\"\"},{\"lineNumber\":269589,\"originalJapaneseLine\":\"「ふふ、それにしても可愛い子……\",\"translatedEnglishLine\":\"\\\"Fufu, what a cute child...\"},{\"lineNumber\":269590,\"originalJapaneseLine\":\"　それに、とても良い子」\",\"translatedEnglishLine\":\"And such a good kid.\\\"\"},{\"lineNumber\":269591,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":269592,\"originalJapaneseLine\":\"アムがラ・バスワルドの頬を、\",\"translatedEnglishLine\":\"Amu gently stroked La Baswald’s cheek,\"},{\"lineNumber\":269593,\"originalJapaneseLine\":\"愛おしげに撫でる。\",\"translatedEnglishLine\":\"with affection.\"},{\"lineNumber\":269594,\"originalJapaneseLine\":\"「こういう子が、\",\"translatedEnglishLine\":\"\\\"This is the kind of child\"},{\"lineNumber\":269595,\"originalJapaneseLine\":\"　一人くらい欲しかったところなの」\",\"translatedEnglishLine\":\"I’ve always wanted at least one of.\\\"\"},{\"lineNumber\":269596,\"originalJapaneseLine\":\"「………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":269597,\"originalJapaneseLine\":\"「もらっていい？」\",\"translatedEnglishLine\":\"\\\"Can I have them?\\\"\"},{\"lineNumber\":269598,\"originalJapaneseLine\":\"「駄ーー目ーーだーー！\",\"translatedEnglishLine\":\"\\\"N-nooo! That’s not allowed!\\\"\"},{\"lineNumber\":269599,\"originalJapaneseLine\":\"　返しなさい！」\",\"translatedEnglishLine\":\"Give them back!\\\"\"},{\"lineNumber\":269600,\"originalJapaneseLine\":\"「はーい」\",\"translatedEnglishLine\":\"\\\"Okaaay.\\\"\"},{\"lineNumber\":269601,\"originalJapaneseLine\":\"「アムちゃん、\",\"translatedEnglishLine\":\"\\\"Amu-chan,\"},{\"lineNumber\":269602,\"originalJapaneseLine\":\"　とっとと命令なりなんなりして、\",\"translatedEnglishLine\":\"hurry up and give some orders or whatever,\"},{\"lineNumber\":269603,\"originalJapaneseLine\":\"　元に戻ってもらえ」\",\"translatedEnglishLine\":\"and get them back to normal.\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "269544",
+                "originalJapaneseLine": "「お、おお……",
+                "translatedEnglishLine": "\"O-oh...\""
+            },
+            {
+                "lineNumber": "269545",
+                "originalJapaneseLine": "　勝った」",
+                "translatedEnglishLine": "\"We won.\""
+            },
+            {
+                "lineNumber": "269546",
+                "originalJapaneseLine": "「……のか？」",
+                "translatedEnglishLine": "\"...Did we?\""
+            },
+            {
+                "lineNumber": "269547",
+                "originalJapaneseLine": "「う、動かなくは、なりましたね？」",
+                "translatedEnglishLine": "\"U-uh, it seems they’ve stopped moving, right?\""
+            },
+            {
+                "lineNumber": "269548",
+                "originalJapaneseLine": "「ありがとう、ランス君。",
+                "translatedEnglishLine": "\"Thank you, Rance-kun."
+            },
+            {
+                "lineNumber": "269549",
+                "originalJapaneseLine": "　後は私がやるわ」",
+                "translatedEnglishLine": "I'll take care of the rest.\""
+            },
+            {
+                "lineNumber": "269550",
+                "originalJapaneseLine": "「は？　後はやるって、",
+                "translatedEnglishLine": "\"Huh? Take care of the rest?,"
+            },
+            {
+                "lineNumber": "269551",
+                "originalJapaneseLine": "　お、おい、いったい何を……」",
+                "translatedEnglishLine": "H-hey, just what exactly are you planning to...\""
+            },
+            {
+                "lineNumber": "269552",
+                "originalJapaneseLine": "ラ・バスワルドは、",
+                "translatedEnglishLine": "La Baswald,"
+            },
+            {
+                "lineNumber": "269553",
+                "originalJapaneseLine": "自分の現状が理解出来ない。",
+                "translatedEnglishLine": "could not comprehend their current condition."
+            },
+            {
+                "lineNumber": "269554",
+                "originalJapaneseLine": "体が動かない。",
+                "translatedEnglishLine": "Their body wouldn’t move."
+            },
+            {
+                "lineNumber": "269555",
+                "originalJapaneseLine": "回復を優先させる他ない。",
+                "translatedEnglishLine": "There was no choice but to prioritize recovery."
+            },
+            {
+                "lineNumber": "269556",
+                "originalJapaneseLine": "しかし、回復の為に、",
+                "translatedEnglishLine": "However, for the sake of recovery,"
+            },
+            {
+                "lineNumber": "269557",
+                "originalJapaneseLine": "体を動かすことすら出来ずにいた。",
+                "translatedEnglishLine": "they couldn’t even move their body."
+            },
+            {
+                "lineNumber": "269558",
+                "originalJapaneseLine": "と――",
+                "translatedEnglishLine": "And then—"
+            },
+            {
+                "lineNumber": "269559",
+                "originalJapaneseLine": "視界の片隅に、",
+                "translatedEnglishLine": "In the corner of their vision,"
+            },
+            {
+                "lineNumber": "269560",
+                "originalJapaneseLine": "上半身だけの異形のものが、",
+                "translatedEnglishLine": "a monstrous figure, only a torso,"
+            },
+            {
+                "lineNumber": "269561",
+                "originalJapaneseLine": "よちよちと姿を見せた。",
+                "translatedEnglishLine": "wobbled into view."
+            },
+            {
+                "lineNumber": "269562",
+                "originalJapaneseLine": "そして化け物は笑い、一言だけ喋る――",
+                "translatedEnglishLine": "And the monster smiled, speaking only one word—"
+            },
+            {
+                "lineNumber": "269563",
+                "originalJapaneseLine": "『こんにちは』",
+                "translatedEnglishLine": "\"Hello\""
+            },
+            {
+                "lineNumber": "269564",
+                "originalJapaneseLine": "たった一言で無惨にも意識が刈り取られる。",
+                "translatedEnglishLine": "That single word cruelly shredded their consciousness."
+            },
+            {
+                "lineNumber": "269565",
+                "originalJapaneseLine": "――それはガリガリと、",
+                "translatedEnglishLine": "—It was like a grating,"
+            },
+            {
+                "lineNumber": "269566",
+                "originalJapaneseLine": "魂が削られるような声だった。",
+                "translatedEnglishLine": "voice scraping away their soul."
+            },
+            {
+                "lineNumber": "269567",
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "........."
+            },
+            {
+                "lineNumber": "269568",
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": "269569",
+                "originalJapaneseLine": "「あ、も、戻ってきた……」",
+                "translatedEnglishLine": "\"Ah, I-I’m coming back...\""
+            },
+            {
+                "lineNumber": "269570",
+                "originalJapaneseLine": "「だ、大丈夫……でしょうか？」",
+                "translatedEnglishLine": "\"A-are you... alright?\""
+            },
+            {
+                "lineNumber": "269571",
+                "originalJapaneseLine": "「大丈夫よ。",
+                "translatedEnglishLine": "\"I’m fine."
+            },
+            {
+                "lineNumber": "269572",
+                "originalJapaneseLine": "　もう無害化したから」",
+                "translatedEnglishLine": "They’ve been rendered harmless now.\""
+            },
+            {
+                "lineNumber": "269573",
+                "originalJapaneseLine": "アムがラ・バスワルドに抱えられながら",
+                "translatedEnglishLine": "Amu appeared, carried by La Baswald,"
+            },
+            {
+                "lineNumber": "269574",
+                "originalJapaneseLine": "その場に現れた。",
+                "translatedEnglishLine": "right there on the spot."
+            },
+            {
+                "lineNumber": "269575",
+                "originalJapaneseLine": "「君……もしかして……",
+                "translatedEnglishLine": "\"You... Could it be..."
+            },
+            {
+                "lineNumber": "269576",
+                "originalJapaneseLine": "　自分一人でもなんとか",
+                "translatedEnglishLine": "that you managed somehow on your own?"
+            },
+            {
+                "lineNumber": "269577",
+                "originalJapaneseLine": "　出来たのと違うか？」",
+                "translatedEnglishLine": "\"Isn’t that right?\""
+            },
+            {
+                "lineNumber": "269578",
+                "originalJapaneseLine": "「というか説得できるなら、",
+                "translatedEnglishLine": "\"I mean, if you could persuade them,"
+            },
+            {
+                "lineNumber": "269579",
+                "originalJapaneseLine": "　最初からせんかー！」",
+                "translatedEnglishLine": "why didn’t you do it from the start!\""
+            },
+            {
+                "lineNumber": "269580",
+                "originalJapaneseLine": "「違う違う。",
+                "translatedEnglishLine": "\"No, no."
+            },
+            {
+                "lineNumber": "269581",
+                "originalJapaneseLine": "　ランス君が無力化したから、",
+                "translatedEnglishLine": "Because Rance-kun was incapacitated,"
+            },
+            {
+                "lineNumber": "269582",
+                "originalJapaneseLine": "　私の説得が届いたのよ」",
+                "translatedEnglishLine": "my persuasion was able to reach them.\""
+            },
+            {
+                "lineNumber": "269583",
+                "originalJapaneseLine": "「……ということにしておいて。",
+                "translatedEnglishLine": "\"...Let’s just say that."
+            },
+            {
+                "lineNumber": "269584",
+                "originalJapaneseLine": "　あんまり目立ちたくないの、私」",
+                "translatedEnglishLine": "I don’t really want to stand out too much.\""
+            },
+            {
+                "lineNumber": "269585",
+                "originalJapaneseLine": "「ね？　やっぱり、",
+                "translatedEnglishLine": "\"See? After all,"
+            },
+            {
+                "lineNumber": "269586",
+                "originalJapaneseLine": "　世界を救ったのはランス君なのよ」",
+                "translatedEnglishLine": "it was Rance-kun who saved the world.\""
+            },
+            {
+                "lineNumber": "269587",
+                "originalJapaneseLine": "「……煙に巻かれてる気がする」",
+                "translatedEnglishLine": "\"...I feel like you’re trying to pull the wool over my eyes.\""
+            },
+            {
+                "lineNumber": "269588",
+                "originalJapaneseLine": "「くすくす……」",
+                "translatedEnglishLine": "\"Hehe...\""
+            },
+            {
+                "lineNumber": "269589",
+                "originalJapaneseLine": "「ふふ、それにしても可愛い子……",
+                "translatedEnglishLine": "\"Fufu, what a cute child..."
+            },
+            {
+                "lineNumber": "269590",
+                "originalJapaneseLine": "　それに、とても良い子」",
+                "translatedEnglishLine": "And such a good kid.\""
+            },
+            {
+                "lineNumber": "269591",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "269592",
+                "originalJapaneseLine": "アムがラ・バスワルドの頬を、",
+                "translatedEnglishLine": "Amu gently stroked La Baswald’s cheek,"
+            },
+            {
+                "lineNumber": "269593",
+                "originalJapaneseLine": "愛おしげに撫でる。",
+                "translatedEnglishLine": "with affection."
+            },
+            {
+                "lineNumber": "269594",
+                "originalJapaneseLine": "「こういう子が、",
+                "translatedEnglishLine": "\"This is the kind of child"
+            },
+            {
+                "lineNumber": "269595",
+                "originalJapaneseLine": "　一人くらい欲しかったところなの」",
+                "translatedEnglishLine": "I’ve always wanted at least one of.\""
+            },
+            {
+                "lineNumber": "269596",
+                "originalJapaneseLine": "「………」",
+                "translatedEnglishLine": "\"...\""
+            },
+            {
+                "lineNumber": "269597",
+                "originalJapaneseLine": "「もらっていい？」",
+                "translatedEnglishLine": "\"Can I have them?\""
+            },
+            {
+                "lineNumber": "269598",
+                "originalJapaneseLine": "「駄ーー目ーーだーー！",
+                "translatedEnglishLine": "\"N-nooo! That’s not allowed!\""
+            },
+            {
+                "lineNumber": "269599",
+                "originalJapaneseLine": "　返しなさい！」",
+                "translatedEnglishLine": "Give them back!\""
+            },
+            {
+                "lineNumber": "269600",
+                "originalJapaneseLine": "「はーい」",
+                "translatedEnglishLine": "\"Okaaay.\""
+            },
+            {
+                "lineNumber": "269601",
+                "originalJapaneseLine": "「アムちゃん、",
+                "translatedEnglishLine": "\"Amu-chan,"
+            },
+            {
+                "lineNumber": "269602",
+                "originalJapaneseLine": "　とっとと命令なりなんなりして、",
+                "translatedEnglishLine": "hurry up and give some orders or whatever,"
+            },
+            {
+                "lineNumber": "269603",
+                "originalJapaneseLine": "　元に戻ってもらえ」",
+                "translatedEnglishLine": "and get them back to normal.\""
+            }
+        ]
+    }
+}

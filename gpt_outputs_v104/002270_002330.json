@@ -1,0 +1,719 @@
+{
+    "id": "resp_0b466bdbbe4eec450068ffe9bf80408195ac5713254bce6b84",
+    "object": "response",
+    "created_at": 1761601983,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0b466bdbbe4eec450068ffe9c0430c8195819a10e58a855e6c",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　うずうずー、むずむずーって……\",\"translatedEnglishLine\":\"Tingling and itching... \"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「だー！　耳元で変なこと言うなー！」\",\"translatedEnglishLine\":\"“Ah! Don’t say weird things right next to my ear!”\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「くすくす、いいんだよー、素直になってもー。\",\"translatedEnglishLine\":\"“Hehe, it’s okay, just be honest.”\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　ほら、体がどんどん敏感になっていってるよー」\",\"translatedEnglishLine\":\"See, your body is becoming more and more sensitive.”\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「あふんっ！」\",\"translatedEnglishLine\":\"“Ahhn!”\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「って、変なとこ触んなー！」\",\"translatedEnglishLine\":\"“Hey, don’t touch weird places!”\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「みみみ、ミルちゃんーーー！？」\",\"translatedEnglishLine\":\"“M-M-Mil-chan!?”\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"....\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「よ、ようやく……\",\"translatedEnglishLine\":\"“F-Finally...”\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　薬の効果が収まった」\",\"translatedEnglishLine\":\"The effect of the medicine has worn off.”\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「ちぇーっ、\",\"translatedEnglishLine\":\"“Tch, ”\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　なにもしないなんてつまらないのー」\",\"translatedEnglishLine\":\"Doing nothing is so boring!”\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「うう……ミルちゃん……」\",\"translatedEnglishLine\":\"“Ugh... Mil-chan...”\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「お、薬師が三人で集まってなんの話だ？\",\"translatedEnglishLine\":\"“Oh, what are the three pharmacists talking about?”\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　エロい話か？」\",\"translatedEnglishLine\":\"Is it an erotic story?”\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"“........”\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"“........”\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「そ……\",\"translatedEnglishLine\":\"“Th-”\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　エロい話だよ」\",\"translatedEnglishLine\":\"It’s an erotic story.”\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「なんだと！？」\",\"translatedEnglishLine\":\"“What!?”\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「また三人で薬作ろうねー！」\",\"translatedEnglishLine\":\"“Let’s make medicine together again, the three of us!”\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「うう、それは……\",\"translatedEnglishLine\":\"“Ugh, that is...”\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「絶対に嫌だ！」\",\"translatedEnglishLine\":\"“Absolutely not!”\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「うおー！　なにしとったんじゃー！？\",\"translatedEnglishLine\":\"“Whoa! What were you doing!?”\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　気になるーーー！」\",\"translatedEnglishLine\":\"I’m curious---!”\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「おっ、プリマがいたか。\",\"translatedEnglishLine\":\"“Oh, Prima is here.”\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　丁度良かった」\",\"translatedEnglishLine\":\"Just perfect.”\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「ちょ、ちょっと、なに、\",\"translatedEnglishLine\":\"“W-Wait, what, ”\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　人の部屋に勝手に入って……」\",\"translatedEnglishLine\":\"Entering someone’s room without permission...”\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「――って、あっ」\",\"translatedEnglishLine\":\"“Wait, ah.”\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「ぐう、ぐう……」\",\"translatedEnglishLine\":\"“Snore, snore...”\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「まったく、廊下の真ん中にぶっ倒れて、\",\"translatedEnglishLine\":\"“Honestly, collapsing right in the middle of the hallway,”\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　ぐうすか眠ってたぞ、こいつ」\",\"translatedEnglishLine\":\"Sleeping soundly like this guy.”\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「それでわざわざ運んでくれたの？」\",\"translatedEnglishLine\":\"“So you went out of your way to carry him?”\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「普段なら放置だが……\",\"translatedEnglishLine\":\"“Usually I’d leave him be, but...”\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　この城も男が増えたし、\",\"translatedEnglishLine\":\"There are more men in this castle now,”\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　誰かに犯されでもしたらかなわん」\",\"translatedEnglishLine\":\"So it wouldn’t be good if someone assaulted him.”\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「……そんなことするの、\",\"translatedEnglishLine\":\"“...Though I think the only one who’d do such a thing,”\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　あんたくらいだと思うけど」\",\"translatedEnglishLine\":\"Is probably you.”\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「ま、いいや。\",\"translatedEnglishLine\":\"“Well, whatever.”\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　セスナに代わって礼を言うよ」\",\"translatedEnglishLine\":\"I’ll thank you on behalf of Setsuna.”\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「んー」\",\"translatedEnglishLine\":\"“Mhm.”\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「……おおっ」\",\"translatedEnglishLine\":\"“...Oh!”\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「あ、起きた」\",\"translatedEnglishLine\":\"“Ah, you're awake.”\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「…………ここはどこ？」\",\"translatedEnglishLine\":\"“...Where is this?”\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「お前は……」\",\"translatedEnglishLine\":\"“You are...”\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「？？」\",\"translatedEnglishLine\":\"“??”\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「しかし、よく考えると」\",\"translatedEnglishLine\":\"“But now that I think about it,”\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「なに？」\",\"translatedEnglishLine\":\"“What?”\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「いや、メガデスの相手だけでなく、\",\"translatedEnglishLine\":\"“Well, not only dealing with Megadeth,”\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　セスナの面倒も見たりと、\",\"translatedEnglishLine\":\"But also taking care of Setsuna,”\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　プリマも大変だなぁと」\",\"translatedEnglishLine\":\"Prima has it tough too.”\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「ん〜〜〜……」\",\"translatedEnglishLine\":\"“Hmmmm...”\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「ま、大したことないよ。\",\"translatedEnglishLine\":\"“Well, it’s not a big deal.”\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　一緒に暮らしたこともあったけど、\",\"translatedEnglishLine\":\"We used to live together,”},{\"    },{\"lineNumber\":57,\"originalJapaneseLine\":\"　その時も別に苦労なんてなかったし\",\"translatedEnglishLine\":\"And even then, I didn’t have any troubles.”},{\"    },{\"lineNumber\":58,\"originalJapaneseLine\":\"「ん、一緒に暮らしてたのか？」\",\"translatedEnglishLine\":\"“Hmm, you lived together?”\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「短い間だけどね……」\",\"translatedEnglishLine\":\"“Only for a short time though...”\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「その節はお世話に……なりました……」\",\"translatedEnglishLine\":\"“Thank you for taking care of me at that time…”\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "266904",
+                                "originalJapaneseLine": "　うずうずー、むずむずーって……",
+                                "translatedEnglishLine": "Tingling and itching... "
+                            },
+                            {
+                                "lineNumber": "266905",
+                                "originalJapaneseLine": "「だー！　耳元で変なこと言うなー！」",
+                                "translatedEnglishLine": "“Ah! Don’t say weird things right next to my ear!”"
+                            },
+                            {
+                                "lineNumber": "266906",
+                                "originalJapaneseLine": "「くすくす、いいんだよー、素直になってもー。",
+                                "translatedEnglishLine": "“Hehe, it’s okay, just be honest.”"
+                            },
+                            {
+                                "lineNumber": "266907",
+                                "originalJapaneseLine": "　ほら、体がどんどん敏感になっていってるよー」",
+                                "translatedEnglishLine": "See, your body is becoming more and more sensitive.”"
+                            },
+                            {
+                                "lineNumber": "266908",
+                                "originalJapaneseLine": "「あふんっ！」",
+                                "translatedEnglishLine": "“Ahhn!”"
+                            },
+                            {
+                                "lineNumber": "266909",
+                                "originalJapaneseLine": "「って、変なとこ触んなー！」",
+                                "translatedEnglishLine": "“Hey, don’t touch weird places!”"
+                            },
+                            {
+                                "lineNumber": "266910",
+                                "originalJapaneseLine": "「みみみ、ミルちゃんーーー！？」",
+                                "translatedEnglishLine": "“M-M-Mil-chan!?”"
+                            },
+                            {
+                                "lineNumber": "266911",
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "........"
+                            },
+                            {
+                                "lineNumber": "266912",
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "...."
+                            },
+                            {
+                                "lineNumber": "266913",
+                                "originalJapaneseLine": "「よ、ようやく……",
+                                "translatedEnglishLine": "“F-Finally...”"
+                            },
+                            {
+                                "lineNumber": "266914",
+                                "originalJapaneseLine": "　薬の効果が収まった」",
+                                "translatedEnglishLine": "The effect of the medicine has worn off.”"
+                            },
+                            {
+                                "lineNumber": "266915",
+                                "originalJapaneseLine": "「ちぇーっ、",
+                                "translatedEnglishLine": "“Tch, ”"
+                            },
+                            {
+                                "lineNumber": "266916",
+                                "originalJapaneseLine": "　なにもしないなんてつまらないのー」",
+                                "translatedEnglishLine": "Doing nothing is so boring!”"
+                            },
+                            {
+                                "lineNumber": "266917",
+                                "originalJapaneseLine": "「うう……ミルちゃん……」",
+                                "translatedEnglishLine": "“Ugh... Mil-chan...”"
+                            },
+                            {
+                                "lineNumber": "266918",
+                                "originalJapaneseLine": "「お、薬師が三人で集まってなんの話だ？",
+                                "translatedEnglishLine": "“Oh, what are the three pharmacists talking about?”"
+                            },
+                            {
+                                "lineNumber": "266919",
+                                "originalJapaneseLine": "　エロい話か？」",
+                                "translatedEnglishLine": "Is it an erotic story?”"
+                            },
+                            {
+                                "lineNumber": "266920",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "“........”"
+                            },
+                            {
+                                "lineNumber": "266921",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "“........”"
+                            },
+                            {
+                                "lineNumber": "266922",
+                                "originalJapaneseLine": "「そ……",
+                                "translatedEnglishLine": "“Th-”"
+                            },
+                            {
+                                "lineNumber": "266923",
+                                "originalJapaneseLine": "　エロい話だよ」",
+                                "translatedEnglishLine": "It’s an erotic story.”"
+                            },
+                            {
+                                "lineNumber": "266924",
+                                "originalJapaneseLine": "「なんだと！？」",
+                                "translatedEnglishLine": "“What!?”"
+                            },
+                            {
+                                "lineNumber": "266925",
+                                "originalJapaneseLine": "「また三人で薬作ろうねー！」",
+                                "translatedEnglishLine": "“Let’s make medicine together again, the three of us!”"
+                            },
+                            {
+                                "lineNumber": "266926",
+                                "originalJapaneseLine": "「うう、それは……",
+                                "translatedEnglishLine": "“Ugh, that is...”"
+                            },
+                            {
+                                "lineNumber": "266927",
+                                "originalJapaneseLine": "「絶対に嫌だ！」",
+                                "translatedEnglishLine": "“Absolutely not!”"
+                            },
+                            {
+                                "lineNumber": "266928",
+                                "originalJapaneseLine": "「うおー！　なにしとったんじゃー！？",
+                                "translatedEnglishLine": "“Whoa! What were you doing!?”"
+                            },
+                            {
+                                "lineNumber": "266929",
+                                "originalJapaneseLine": "　気になるーーー！」",
+                                "translatedEnglishLine": "I’m curious---!”"
+                            },
+                            {
+                                "lineNumber": "266930",
+                                "originalJapaneseLine": "「おっ、プリマがいたか。",
+                                "translatedEnglishLine": "“Oh, Prima is here.”"
+                            },
+                            {
+                                "lineNumber": "266931",
+                                "originalJapaneseLine": "　丁度良かった」",
+                                "translatedEnglishLine": "Just perfect.”"
+                            },
+                            {
+                                "lineNumber": "266932",
+                                "originalJapaneseLine": "「ちょ、ちょっと、なに、",
+                                "translatedEnglishLine": "“W-Wait, what, ”"
+                            },
+                            {
+                                "lineNumber": "266933",
+                                "originalJapaneseLine": "　人の部屋に勝手に入って……」",
+                                "translatedEnglishLine": "Entering someone’s room without permission...”"
+                            },
+                            {
+                                "lineNumber": "266934",
+                                "originalJapaneseLine": "「――って、あっ」",
+                                "translatedEnglishLine": "“Wait, ah.”"
+                            },
+                            {
+                                "lineNumber": "266935",
+                                "originalJapaneseLine": "「ぐう、ぐう……」",
+                                "translatedEnglishLine": "“Snore, snore...”"
+                            },
+                            {
+                                "lineNumber": "266936",
+                                "originalJapaneseLine": "「まったく、廊下の真ん中にぶっ倒れて、",
+                                "translatedEnglishLine": "“Honestly, collapsing right in the middle of the hallway,”"
+                            },
+                            {
+                                "lineNumber": "266937",
+                                "originalJapaneseLine": "　ぐうすか眠ってたぞ、こいつ」",
+                                "translatedEnglishLine": "Sleeping soundly like this guy.”"
+                            },
+                            {
+                                "lineNumber": "266938",
+                                "originalJapaneseLine": "「それでわざわざ運んでくれたの？」",
+                                "translatedEnglishLine": "“So you went out of your way to carry him?”"
+                            },
+                            {
+                                "lineNumber": "266939",
+                                "originalJapaneseLine": "「普段なら放置だが……",
+                                "translatedEnglishLine": "“Usually I’d leave him be, but...”"
+                            },
+                            {
+                                "lineNumber": "266940",
+                                "originalJapaneseLine": "　この城も男が増えたし、",
+                                "translatedEnglishLine": "There are more men in this castle now,”"
+                            },
+                            {
+                                "lineNumber": "266941",
+                                "originalJapaneseLine": "　誰かに犯されでもしたらかなわん」",
+                                "translatedEnglishLine": "So it wouldn’t be good if someone assaulted him.”"
+                            },
+                            {
+                                "lineNumber": "266942",
+                                "originalJapaneseLine": "「……そんなことするの、",
+                                "translatedEnglishLine": "“...Though I think the only one who’d do such a thing,”"
+                            },
+                            {
+                                "lineNumber": "266943",
+                                "originalJapaneseLine": "　あんたくらいだと思うけど」",
+                                "translatedEnglishLine": "Is probably you.”"
+                            },
+                            {
+                                "lineNumber": "266944",
+                                "originalJapaneseLine": "「ま、いいや。",
+                                "translatedEnglishLine": "“Well, whatever.”"
+                            },
+                            {
+                                "lineNumber": "266945",
+                                "originalJapaneseLine": "　セスナに代わって礼を言うよ」",
+                                "translatedEnglishLine": "I’ll thank you on behalf of Setsuna.”"
+                            },
+                            {
+                                "lineNumber": "266946",
+                                "originalJapaneseLine": "「んー」",
+                                "translatedEnglishLine": "“Mhm.”"
+                            },
+                            {
+                                "lineNumber": "266947",
+                                "originalJapaneseLine": "「……おおっ」",
+                                "translatedEnglishLine": "“...Oh!”"
+                            },
+                            {
+                                "lineNumber": "266948",
+                                "originalJapaneseLine": "「あ、起きた」",
+                                "translatedEnglishLine": "“Ah, you're awake.”"
+                            },
+                            {
+                                "lineNumber": "266949",
+                                "originalJapaneseLine": "「…………ここはどこ？」",
+                                "translatedEnglishLine": "“...Where is this?”"
+                            },
+                            {
+                                "lineNumber": "266950",
+                                "originalJapaneseLine": "「お前は……」",
+                                "translatedEnglishLine": "“You are...”"
+                            },
+                            {
+                                "lineNumber": "266951",
+                                "originalJapaneseLine": "「？？」",
+                                "translatedEnglishLine": "“??”"
+                            },
+                            {
+                                "lineNumber": "266952",
+                                "originalJapaneseLine": "「しかし、よく考えると」",
+                                "translatedEnglishLine": "“But now that I think about it,”"
+                            },
+                            {
+                                "lineNumber": "266953",
+                                "originalJapaneseLine": "「なに？」",
+                                "translatedEnglishLine": "“What?”"
+                            },
+                            {
+                                "lineNumber": "266954",
+                                "originalJapaneseLine": "「いや、メガデスの相手だけでなく、",
+                                "translatedEnglishLine": "“Well, not only dealing with Megadeth,”"
+                            },
+                            {
+                                "lineNumber": "266955",
+                                "originalJapaneseLine": "　セスナの面倒も見たりと、",
+                                "translatedEnglishLine": "But also taking care of Setsuna,”"
+                            },
+                            {
+                                "lineNumber": "266956",
+                                "originalJapaneseLine": "　プリマも大変だなぁと」",
+                                "translatedEnglishLine": "Prima has it tough too.”"
+                            },
+                            {
+                                "lineNumber": "266957",
+                                "originalJapaneseLine": "「ん〜〜〜……」",
+                                "translatedEnglishLine": "“Hmmmm...”"
+                            },
+                            {
+                                "lineNumber": "266958",
+                                "originalJapaneseLine": "「ま、大したことないよ。",
+                                "translatedEnglishLine": "“Well, it’s not a big deal.”"
+                            },
+                            {
+                                "lineNumber": "266959",
+                                "originalJapaneseLine": "　一緒に暮らしたこともあったけど、",
+                                "translatedEnglishLine": "We used to live together,”},{"
+                            },
+                            {
+                                "lineNumber": "266960",
+                                "originalJapaneseLine": "　その時も別に苦労なんてなかったし",
+                                "translatedEnglishLine": "And even then, I didn’t have any troubles.”},{"
+                            },
+                            {
+                                "lineNumber": "266961",
+                                "originalJapaneseLine": "「ん、一緒に暮らしてたのか？」",
+                                "translatedEnglishLine": "“Hmm, you lived together?”"
+                            },
+                            {
+                                "lineNumber": "266962",
+                                "originalJapaneseLine": "「短い間だけどね……」",
+                                "translatedEnglishLine": "“Only for a short time though...”"
+                            },
+                            {
+                                "lineNumber": "266963",
+                                "originalJapaneseLine": "「その節はお世話に……なりました……」",
+                                "translatedEnglishLine": "“Thank you for taking care of me at that time…”"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1703,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1915,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3618
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　うずうずー、むずむずーって……\",\"translatedEnglishLine\":\"Tingling and itching... \"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「だー！　耳元で変なこと言うなー！」\",\"translatedEnglishLine\":\"“Ah! Don’t say weird things right next to my ear!”\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「くすくす、いいんだよー、素直になってもー。\",\"translatedEnglishLine\":\"“Hehe, it’s okay, just be honest.”\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　ほら、体がどんどん敏感になっていってるよー」\",\"translatedEnglishLine\":\"See, your body is becoming more and more sensitive.”\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「あふんっ！」\",\"translatedEnglishLine\":\"“Ahhn!”\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「って、変なとこ触んなー！」\",\"translatedEnglishLine\":\"“Hey, don’t touch weird places!”\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「みみみ、ミルちゃんーーー！？」\",\"translatedEnglishLine\":\"“M-M-Mil-chan!?”\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"........\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"....\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「よ、ようやく……\",\"translatedEnglishLine\":\"“F-Finally...”\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　薬の効果が収まった」\",\"translatedEnglishLine\":\"The effect of the medicine has worn off.”\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「ちぇーっ、\",\"translatedEnglishLine\":\"“Tch, ”\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　なにもしないなんてつまらないのー」\",\"translatedEnglishLine\":\"Doing nothing is so boring!”\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「うう……ミルちゃん……」\",\"translatedEnglishLine\":\"“Ugh... Mil-chan...”\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「お、薬師が三人で集まってなんの話だ？\",\"translatedEnglishLine\":\"“Oh, what are the three pharmacists talking about?”\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　エロい話か？」\",\"translatedEnglishLine\":\"Is it an erotic story?”\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"“........”\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"“........”\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「そ……\",\"translatedEnglishLine\":\"“Th-”\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　エロい話だよ」\",\"translatedEnglishLine\":\"It’s an erotic story.”\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「なんだと！？」\",\"translatedEnglishLine\":\"“What!?”\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「また三人で薬作ろうねー！」\",\"translatedEnglishLine\":\"“Let’s make medicine together again, the three of us!”\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「うう、それは……\",\"translatedEnglishLine\":\"“Ugh, that is...”\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「絶対に嫌だ！」\",\"translatedEnglishLine\":\"“Absolutely not!”\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「うおー！　なにしとったんじゃー！？\",\"translatedEnglishLine\":\"“Whoa! What were you doing!?”\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　気になるーーー！」\",\"translatedEnglishLine\":\"I’m curious---!”\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「おっ、プリマがいたか。\",\"translatedEnglishLine\":\"“Oh, Prima is here.”\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　丁度良かった」\",\"translatedEnglishLine\":\"Just perfect.”\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「ちょ、ちょっと、なに、\",\"translatedEnglishLine\":\"“W-Wait, what, ”\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　人の部屋に勝手に入って……」\",\"translatedEnglishLine\":\"Entering someone’s room without permission...”\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「――って、あっ」\",\"translatedEnglishLine\":\"“Wait, ah.”\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「ぐう、ぐう……」\",\"translatedEnglishLine\":\"“Snore, snore...”\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「まったく、廊下の真ん中にぶっ倒れて、\",\"translatedEnglishLine\":\"“Honestly, collapsing right in the middle of the hallway,”\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　ぐうすか眠ってたぞ、こいつ」\",\"translatedEnglishLine\":\"Sleeping soundly like this guy.”\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「それでわざわざ運んでくれたの？」\",\"translatedEnglishLine\":\"“So you went out of your way to carry him?”\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「普段なら放置だが……\",\"translatedEnglishLine\":\"“Usually I’d leave him be, but...”\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　この城も男が増えたし、\",\"translatedEnglishLine\":\"There are more men in this castle now,”\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　誰かに犯されでもしたらかなわん」\",\"translatedEnglishLine\":\"So it wouldn’t be good if someone assaulted him.”\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「……そんなことするの、\",\"translatedEnglishLine\":\"“...Though I think the only one who’d do such a thing,”\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　あんたくらいだと思うけど」\",\"translatedEnglishLine\":\"Is probably you.”\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「ま、いいや。\",\"translatedEnglishLine\":\"“Well, whatever.”\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　セスナに代わって礼を言うよ」\",\"translatedEnglishLine\":\"I’ll thank you on behalf of Setsuna.”\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「んー」\",\"translatedEnglishLine\":\"“Mhm.”\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「……おおっ」\",\"translatedEnglishLine\":\"“...Oh!”\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「あ、起きた」\",\"translatedEnglishLine\":\"“Ah, you're awake.”\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「…………ここはどこ？」\",\"translatedEnglishLine\":\"“...Where is this?”\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「お前は……」\",\"translatedEnglishLine\":\"“You are...”\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「？？」\",\"translatedEnglishLine\":\"“??”\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「しかし、よく考えると」\",\"translatedEnglishLine\":\"“But now that I think about it,”\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「なに？」\",\"translatedEnglishLine\":\"“What?”\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「いや、メガデスの相手だけでなく、\",\"translatedEnglishLine\":\"“Well, not only dealing with Megadeth,”\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　セスナの面倒も見たりと、\",\"translatedEnglishLine\":\"But also taking care of Setsuna,”\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　プリマも大変だなぁと」\",\"translatedEnglishLine\":\"Prima has it tough too.”\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「ん〜〜〜……」\",\"translatedEnglishLine\":\"“Hmmmm...”\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「ま、大したことないよ。\",\"translatedEnglishLine\":\"“Well, it’s not a big deal.”\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　一緒に暮らしたこともあったけど、\",\"translatedEnglishLine\":\"We used to live together,”},{\"    },{\"lineNumber\":57,\"originalJapaneseLine\":\"　その時も別に苦労なんてなかったし\",\"translatedEnglishLine\":\"And even then, I didn’t have any troubles.”},{\"    },{\"lineNumber\":58,\"originalJapaneseLine\":\"「ん、一緒に暮らしてたのか？」\",\"translatedEnglishLine\":\"“Hmm, you lived together?”\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「短い間だけどね……」\",\"translatedEnglishLine\":\"“Only for a short time though...”\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「その節はお世話に……なりました……」\",\"translatedEnglishLine\":\"“Thank you for taking care of me at that time…”\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "266904",
+                "originalJapaneseLine": "　うずうずー、むずむずーって……",
+                "translatedEnglishLine": "Tingling and itching... "
+            },
+            {
+                "lineNumber": "266905",
+                "originalJapaneseLine": "「だー！　耳元で変なこと言うなー！」",
+                "translatedEnglishLine": "“Ah! Don’t say weird things right next to my ear!”"
+            },
+            {
+                "lineNumber": "266906",
+                "originalJapaneseLine": "「くすくす、いいんだよー、素直になってもー。",
+                "translatedEnglishLine": "“Hehe, it’s okay, just be honest.”"
+            },
+            {
+                "lineNumber": "266907",
+                "originalJapaneseLine": "　ほら、体がどんどん敏感になっていってるよー」",
+                "translatedEnglishLine": "See, your body is becoming more and more sensitive.”"
+            },
+            {
+                "lineNumber": "266908",
+                "originalJapaneseLine": "「あふんっ！」",
+                "translatedEnglishLine": "“Ahhn!”"
+            },
+            {
+                "lineNumber": "266909",
+                "originalJapaneseLine": "「って、変なとこ触んなー！」",
+                "translatedEnglishLine": "“Hey, don’t touch weird places!”"
+            },
+            {
+                "lineNumber": "266910",
+                "originalJapaneseLine": "「みみみ、ミルちゃんーーー！？」",
+                "translatedEnglishLine": "“M-M-Mil-chan!?”"
+            },
+            {
+                "lineNumber": "266911",
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "........"
+            },
+            {
+                "lineNumber": "266912",
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "...."
+            },
+            {
+                "lineNumber": "266913",
+                "originalJapaneseLine": "「よ、ようやく……",
+                "translatedEnglishLine": "“F-Finally...”"
+            },
+            {
+                "lineNumber": "266914",
+                "originalJapaneseLine": "　薬の効果が収まった」",
+                "translatedEnglishLine": "The effect of the medicine has worn off.”"
+            },
+            {
+                "lineNumber": "266915",
+                "originalJapaneseLine": "「ちぇーっ、",
+                "translatedEnglishLine": "“Tch, ”"
+            },
+            {
+                "lineNumber": "266916",
+                "originalJapaneseLine": "　なにもしないなんてつまらないのー」",
+                "translatedEnglishLine": "Doing nothing is so boring!”"
+            },
+            {
+                "lineNumber": "266917",
+                "originalJapaneseLine": "「うう……ミルちゃん……」",
+                "translatedEnglishLine": "“Ugh... Mil-chan...”"
+            },
+            {
+                "lineNumber": "266918",
+                "originalJapaneseLine": "「お、薬師が三人で集まってなんの話だ？",
+                "translatedEnglishLine": "“Oh, what are the three pharmacists talking about?”"
+            },
+            {
+                "lineNumber": "266919",
+                "originalJapaneseLine": "　エロい話か？」",
+                "translatedEnglishLine": "Is it an erotic story?”"
+            },
+            {
+                "lineNumber": "266920",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "“........”"
+            },
+            {
+                "lineNumber": "266921",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "“........”"
+            },
+            {
+                "lineNumber": "266922",
+                "originalJapaneseLine": "「そ……",
+                "translatedEnglishLine": "“Th-”"
+            },
+            {
+                "lineNumber": "266923",
+                "originalJapaneseLine": "　エロい話だよ」",
+                "translatedEnglishLine": "It’s an erotic story.”"
+            },
+            {
+                "lineNumber": "266924",
+                "originalJapaneseLine": "「なんだと！？」",
+                "translatedEnglishLine": "“What!?”"
+            },
+            {
+                "lineNumber": "266925",
+                "originalJapaneseLine": "「また三人で薬作ろうねー！」",
+                "translatedEnglishLine": "“Let’s make medicine together again, the three of us!”"
+            },
+            {
+                "lineNumber": "266926",
+                "originalJapaneseLine": "「うう、それは……",
+                "translatedEnglishLine": "“Ugh, that is...”"
+            },
+            {
+                "lineNumber": "266927",
+                "originalJapaneseLine": "「絶対に嫌だ！」",
+                "translatedEnglishLine": "“Absolutely not!”"
+            },
+            {
+                "lineNumber": "266928",
+                "originalJapaneseLine": "「うおー！　なにしとったんじゃー！？",
+                "translatedEnglishLine": "“Whoa! What were you doing!?”"
+            },
+            {
+                "lineNumber": "266929",
+                "originalJapaneseLine": "　気になるーーー！」",
+                "translatedEnglishLine": "I’m curious---!”"
+            },
+            {
+                "lineNumber": "266930",
+                "originalJapaneseLine": "「おっ、プリマがいたか。",
+                "translatedEnglishLine": "“Oh, Prima is here.”"
+            },
+            {
+                "lineNumber": "266931",
+                "originalJapaneseLine": "　丁度良かった」",
+                "translatedEnglishLine": "Just perfect.”"
+            },
+            {
+                "lineNumber": "266932",
+                "originalJapaneseLine": "「ちょ、ちょっと、なに、",
+                "translatedEnglishLine": "“W-Wait, what, ”"
+            },
+            {
+                "lineNumber": "266933",
+                "originalJapaneseLine": "　人の部屋に勝手に入って……」",
+                "translatedEnglishLine": "Entering someone’s room without permission...”"
+            },
+            {
+                "lineNumber": "266934",
+                "originalJapaneseLine": "「――って、あっ」",
+                "translatedEnglishLine": "“Wait, ah.”"
+            },
+            {
+                "lineNumber": "266935",
+                "originalJapaneseLine": "「ぐう、ぐう……」",
+                "translatedEnglishLine": "“Snore, snore...”"
+            },
+            {
+                "lineNumber": "266936",
+                "originalJapaneseLine": "「まったく、廊下の真ん中にぶっ倒れて、",
+                "translatedEnglishLine": "“Honestly, collapsing right in the middle of the hallway,”"
+            },
+            {
+                "lineNumber": "266937",
+                "originalJapaneseLine": "　ぐうすか眠ってたぞ、こいつ」",
+                "translatedEnglishLine": "Sleeping soundly like this guy.”"
+            },
+            {
+                "lineNumber": "266938",
+                "originalJapaneseLine": "「それでわざわざ運んでくれたの？」",
+                "translatedEnglishLine": "“So you went out of your way to carry him?”"
+            },
+            {
+                "lineNumber": "266939",
+                "originalJapaneseLine": "「普段なら放置だが……",
+                "translatedEnglishLine": "“Usually I’d leave him be, but...”"
+            },
+            {
+                "lineNumber": "266940",
+                "originalJapaneseLine": "　この城も男が増えたし、",
+                "translatedEnglishLine": "There are more men in this castle now,”"
+            },
+            {
+                "lineNumber": "266941",
+                "originalJapaneseLine": "　誰かに犯されでもしたらかなわん」",
+                "translatedEnglishLine": "So it wouldn’t be good if someone assaulted him.”"
+            },
+            {
+                "lineNumber": "266942",
+                "originalJapaneseLine": "「……そんなことするの、",
+                "translatedEnglishLine": "“...Though I think the only one who’d do such a thing,”"
+            },
+            {
+                "lineNumber": "266943",
+                "originalJapaneseLine": "　あんたくらいだと思うけど」",
+                "translatedEnglishLine": "Is probably you.”"
+            },
+            {
+                "lineNumber": "266944",
+                "originalJapaneseLine": "「ま、いいや。",
+                "translatedEnglishLine": "“Well, whatever.”"
+            },
+            {
+                "lineNumber": "266945",
+                "originalJapaneseLine": "　セスナに代わって礼を言うよ」",
+                "translatedEnglishLine": "I’ll thank you on behalf of Setsuna.”"
+            },
+            {
+                "lineNumber": "266946",
+                "originalJapaneseLine": "「んー」",
+                "translatedEnglishLine": "“Mhm.”"
+            },
+            {
+                "lineNumber": "266947",
+                "originalJapaneseLine": "「……おおっ」",
+                "translatedEnglishLine": "“...Oh!”"
+            },
+            {
+                "lineNumber": "266948",
+                "originalJapaneseLine": "「あ、起きた」",
+                "translatedEnglishLine": "“Ah, you're awake.”"
+            },
+            {
+                "lineNumber": "266949",
+                "originalJapaneseLine": "「…………ここはどこ？」",
+                "translatedEnglishLine": "“...Where is this?”"
+            },
+            {
+                "lineNumber": "266950",
+                "originalJapaneseLine": "「お前は……」",
+                "translatedEnglishLine": "“You are...”"
+            },
+            {
+                "lineNumber": "266951",
+                "originalJapaneseLine": "「？？」",
+                "translatedEnglishLine": "“??”"
+            },
+            {
+                "lineNumber": "266952",
+                "originalJapaneseLine": "「しかし、よく考えると」",
+                "translatedEnglishLine": "“But now that I think about it,”"
+            },
+            {
+                "lineNumber": "266953",
+                "originalJapaneseLine": "「なに？」",
+                "translatedEnglishLine": "“What?”"
+            },
+            {
+                "lineNumber": "266954",
+                "originalJapaneseLine": "「いや、メガデスの相手だけでなく、",
+                "translatedEnglishLine": "“Well, not only dealing with Megadeth,”"
+            },
+            {
+                "lineNumber": "266955",
+                "originalJapaneseLine": "　セスナの面倒も見たりと、",
+                "translatedEnglishLine": "But also taking care of Setsuna,”"
+            },
+            {
+                "lineNumber": "266956",
+                "originalJapaneseLine": "　プリマも大変だなぁと」",
+                "translatedEnglishLine": "Prima has it tough too.”"
+            },
+            {
+                "lineNumber": "266957",
+                "originalJapaneseLine": "「ん〜〜〜……」",
+                "translatedEnglishLine": "“Hmmmm...”"
+            },
+            {
+                "lineNumber": "266958",
+                "originalJapaneseLine": "「ま、大したことないよ。",
+                "translatedEnglishLine": "“Well, it’s not a big deal.”"
+            },
+            {
+                "lineNumber": "266959",
+                "originalJapaneseLine": "　一緒に暮らしたこともあったけど、",
+                "translatedEnglishLine": "We used to live together,”},{"
+            },
+            {
+                "lineNumber": "266960",
+                "originalJapaneseLine": "　その時も別に苦労なんてなかったし",
+                "translatedEnglishLine": "And even then, I didn’t have any troubles.”},{"
+            },
+            {
+                "lineNumber": "266961",
+                "originalJapaneseLine": "「ん、一緒に暮らしてたのか？」",
+                "translatedEnglishLine": "“Hmm, you lived together?”"
+            },
+            {
+                "lineNumber": "266962",
+                "originalJapaneseLine": "「短い間だけどね……」",
+                "translatedEnglishLine": "“Only for a short time though...”"
+            },
+            {
+                "lineNumber": "266963",
+                "originalJapaneseLine": "「その節はお世話に……なりました……」",
+                "translatedEnglishLine": "“Thank you for taking care of me at that time…”"
+            }
+        ]
+    }
+}

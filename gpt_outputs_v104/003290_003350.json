@@ -1,0 +1,719 @@
+{
+    "id": "resp_0ea3240dcc698f980068ffebedf1a48193bee5e7a12b18ce53",
+    "object": "response",
+    "created_at": 1761602541,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0ea3240dcc698f980068ffebee6938819381ad26a5d748e8d0",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"自分の心を見れば、\",\"translatedEnglishLine\":\"If you look into your own heart,\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"それが相手の心である。\",\"translatedEnglishLine\":\"that is the heart of the other person.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"身も心も一つになる喜び、\",\"translatedEnglishLine\":\"The joy of becoming one in body and soul,\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"ただ、それだけを二人は感じていた。\",\"translatedEnglishLine\":\"that was all the two of them felt.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"そして、ゆっくり……\",\"translatedEnglishLine\":\"And then, slowly...\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"磁石が引き合うように、\",\"translatedEnglishLine\":\"Like magnets pulling each other,\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"互いの心が、引き合う。\",\"translatedEnglishLine\":\"their hearts drew toward each other.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「むう……\",\"translatedEnglishLine\":\"\\\"Hmm...\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　相変わらず、俺が無視されてる気がする……」\",\"translatedEnglishLine\":\"I still feel like I'm being ignored...\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「…………ん？」\",\"translatedEnglishLine\":\"\\\"...Hmm?\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「ギャーーーー！　なんだーーー！？」\",\"translatedEnglishLine\":\"\\\"Gyaaah! What the heck!?!\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"それは突然のことだった。\",\"translatedEnglishLine\":\"It happened suddenly.\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"室内が光に満たされる。\",\"translatedEnglishLine\":\"The room was filled with light.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"サイゼルはいない。\",\"translatedEnglishLine\":\"Saizel was gone.\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"ハウゼルはいない。\",\"translatedEnglishLine\":\"Hausel was gone.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"サイゼルはいる。\",\"translatedEnglishLine\":\"Saizel was there.\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"ハウゼルはいる。\",\"translatedEnglishLine\":\"Hausel was there.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"二人は、一人に。\",\"translatedEnglishLine\":\"The two became one.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"無の存在に。\",\"translatedEnglishLine\":\"An existence of nothingness.\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"......\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ららら、ランス様！　大丈夫ですかー！？」\",\"translatedEnglishLine\":\"\\\"La la la, Lord Rance! Are you alright!?\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「なんかここからすっげー音したですけど！？\",\"translatedEnglishLine\":\"\\\"Something made a huge noise from here!?\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　ケケケ！　バスガス爆発許可局局長事件簿！？」\",\"translatedEnglishLine\":\"Hehehe! The head of the Permit Bureau for Bus Gas Explosions’ case files!?\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「ハウゼル様ー！　大丈夫ですかー！？」\",\"translatedEnglishLine\":\"\\\"Lord Hausel! Are you alright!?\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「って、ええええええ！？」\",\"translatedEnglishLine\":\"\\\"W-what the heck!?\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"扉を開くと、そこは空が広がっていた。\",\"translatedEnglishLine\":\"When they opened the door, the sky was spread out there.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"バックリと――\",\"translatedEnglishLine\":\"Wide open—\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"球形に部屋がえぐられていた。\",\"translatedEnglishLine\":\"A spherical section of the room was hollowed out.\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「おおっ、お前らか！」\",\"translatedEnglishLine\":\"\\\"Oh, it’s you guys!\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「ハウゼルとサイゼルが、\",\"translatedEnglishLine\":\"\\\"Hausel and Saizel,\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　ピカーッと光ったと思ったら、\",\"translatedEnglishLine\":\"I thought they flashed brightly,\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　合体してあんな姿に……」\",\"translatedEnglishLine\":\"and then merged into that form...\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「おい、ユキに火炎！\",\"translatedEnglishLine\":\"\\\"Hey, fire at Yuki!\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　ありゃいったいなんなんだ！？」\",\"translatedEnglishLine\":\"What on earth is that!?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「な、な、な、ななななな……」\",\"translatedEnglishLine\":\"\\\"W-w-w-wha-what……\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「なんなんですか、あの人ー！？」\",\"translatedEnglishLine\":\"\\\"Who the heck is that person!?\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「って、お前も知らんのか」\",\"translatedEnglishLine\":\"\\\"You don’t know either?\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「で、この部屋の惨状はどしたん？\",\"translatedEnglishLine\":\"\\\"So, what happened to this room’s wreckage?\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　すっげ風通し良くなってる」\",\"translatedEnglishLine\":\"The ventilation sure improved a lot.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「分からん。\",\"translatedEnglishLine\":\"\\\"I don't know.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　あそこで空中にプカプカ浮いてる奴が、\",\"translatedEnglishLine\":\"The one floating there in midair,\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　多分やったんだと思うが……」\",\"translatedEnglishLine\":\"probably did it, I think…\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"......\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「どうやら……\",\"translatedEnglishLine\":\"\\\"It seems that...\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　近くにいるだけで、\",\"translatedEnglishLine\":\"just being nearby,\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　危険な存在のようです……」\",\"translatedEnglishLine\":\"it is a dangerous existence…\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「きゃあああああああ！？」\",\"translatedEnglishLine\":\"\\\"Kyaaaaa!?!\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"バシン！　バシン！\",\"translatedEnglishLine\":\"Bang! Bang!\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"大きな音を立てる度に、\",\"translatedEnglishLine\":\"With each loud noise,\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"バスワルドの周囲の空間が削られる。\",\"translatedEnglishLine\":\"the space around Baswald was being carved away.\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「おととと！\",\"translatedEnglishLine\":\"\\\"Whoa, whoa, whoa!\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　おい、シィル、大丈夫か！」\",\"translatedEnglishLine\":\"Hey, Seel, are you okay!?\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「は、はいー！」\",\"translatedEnglishLine\":\"\\\"Y-yes!\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「えーい、なんて迷惑な！\",\"translatedEnglishLine\":\"\\\"Darn it, what a nuisance!\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　力が暴走してるって感じだぞ！」\",\"translatedEnglishLine\":\"It feels like the power is going out of control!\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"と、二人が話している間も、\",\"translatedEnglishLine\":\"While the two were talking,\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"室内が破壊されていく。\",\"translatedEnglishLine\":\"the interior kept getting destroyed.\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「こらー！\",\"translatedEnglishLine\":\"\\\"Hey!\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"サイゼルー！　ハウゼルー！\",\"translatedEnglishLine\":\"Saizel! Hausel!\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "267924",
+                                "originalJapaneseLine": "自分の心を見れば、",
+                                "translatedEnglishLine": "If you look into your own heart,"
+                            },
+                            {
+                                "lineNumber": "267925",
+                                "originalJapaneseLine": "それが相手の心である。",
+                                "translatedEnglishLine": "that is the heart of the other person."
+                            },
+                            {
+                                "lineNumber": "267926",
+                                "originalJapaneseLine": "身も心も一つになる喜び、",
+                                "translatedEnglishLine": "The joy of becoming one in body and soul,"
+                            },
+                            {
+                                "lineNumber": "267927",
+                                "originalJapaneseLine": "ただ、それだけを二人は感じていた。",
+                                "translatedEnglishLine": "that was all the two of them felt."
+                            },
+                            {
+                                "lineNumber": "267928",
+                                "originalJapaneseLine": "そして、ゆっくり……",
+                                "translatedEnglishLine": "And then, slowly..."
+                            },
+                            {
+                                "lineNumber": "267929",
+                                "originalJapaneseLine": "磁石が引き合うように、",
+                                "translatedEnglishLine": "Like magnets pulling each other,"
+                            },
+                            {
+                                "lineNumber": "267930",
+                                "originalJapaneseLine": "互いの心が、引き合う。",
+                                "translatedEnglishLine": "their hearts drew toward each other."
+                            },
+                            {
+                                "lineNumber": "267931",
+                                "originalJapaneseLine": "「むう……",
+                                "translatedEnglishLine": "\"Hmm...\""
+                            },
+                            {
+                                "lineNumber": "267932",
+                                "originalJapaneseLine": "　相変わらず、俺が無視されてる気がする……」",
+                                "translatedEnglishLine": "I still feel like I'm being ignored...\""
+                            },
+                            {
+                                "lineNumber": "267933",
+                                "originalJapaneseLine": "「…………ん？」",
+                                "translatedEnglishLine": "\"...Hmm?\""
+                            },
+                            {
+                                "lineNumber": "267934",
+                                "originalJapaneseLine": "「ギャーーーー！　なんだーーー！？」",
+                                "translatedEnglishLine": "\"Gyaaah! What the heck!?!\""
+                            },
+                            {
+                                "lineNumber": "267935",
+                                "originalJapaneseLine": "それは突然のことだった。",
+                                "translatedEnglishLine": "It happened suddenly."
+                            },
+                            {
+                                "lineNumber": "267936",
+                                "originalJapaneseLine": "室内が光に満たされる。",
+                                "translatedEnglishLine": "The room was filled with light."
+                            },
+                            {
+                                "lineNumber": "267937",
+                                "originalJapaneseLine": "サイゼルはいない。",
+                                "translatedEnglishLine": "Saizel was gone."
+                            },
+                            {
+                                "lineNumber": "267938",
+                                "originalJapaneseLine": "ハウゼルはいない。",
+                                "translatedEnglishLine": "Hausel was gone."
+                            },
+                            {
+                                "lineNumber": "267939",
+                                "originalJapaneseLine": "サイゼルはいる。",
+                                "translatedEnglishLine": "Saizel was there."
+                            },
+                            {
+                                "lineNumber": "267940",
+                                "originalJapaneseLine": "ハウゼルはいる。",
+                                "translatedEnglishLine": "Hausel was there."
+                            },
+                            {
+                                "lineNumber": "267941",
+                                "originalJapaneseLine": "二人は、一人に。",
+                                "translatedEnglishLine": "The two became one."
+                            },
+                            {
+                                "lineNumber": "267942",
+                                "originalJapaneseLine": "無の存在に。",
+                                "translatedEnglishLine": "An existence of nothingness."
+                            },
+                            {
+                                "lineNumber": "267943",
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "......"
+                            },
+                            {
+                                "lineNumber": "267944",
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": "267945",
+                                "originalJapaneseLine": "「ららら、ランス様！　大丈夫ですかー！？」",
+                                "translatedEnglishLine": "\"La la la, Lord Rance! Are you alright!?\""
+                            },
+                            {
+                                "lineNumber": "267946",
+                                "originalJapaneseLine": "「なんかここからすっげー音したですけど！？",
+                                "translatedEnglishLine": "\"Something made a huge noise from here!?\""
+                            },
+                            {
+                                "lineNumber": "267947",
+                                "originalJapaneseLine": "　ケケケ！　バスガス爆発許可局局長事件簿！？」",
+                                "translatedEnglishLine": "Hehehe! The head of the Permit Bureau for Bus Gas Explosions’ case files!?\""
+                            },
+                            {
+                                "lineNumber": "267948",
+                                "originalJapaneseLine": "「ハウゼル様ー！　大丈夫ですかー！？」",
+                                "translatedEnglishLine": "\"Lord Hausel! Are you alright!?\""
+                            },
+                            {
+                                "lineNumber": "267949",
+                                "originalJapaneseLine": "「って、ええええええ！？」",
+                                "translatedEnglishLine": "\"W-what the heck!?\""
+                            },
+                            {
+                                "lineNumber": "267950",
+                                "originalJapaneseLine": "扉を開くと、そこは空が広がっていた。",
+                                "translatedEnglishLine": "When they opened the door, the sky was spread out there."
+                            },
+                            {
+                                "lineNumber": "267951",
+                                "originalJapaneseLine": "バックリと――",
+                                "translatedEnglishLine": "Wide open—"
+                            },
+                            {
+                                "lineNumber": "267952",
+                                "originalJapaneseLine": "球形に部屋がえぐられていた。",
+                                "translatedEnglishLine": "A spherical section of the room was hollowed out."
+                            },
+                            {
+                                "lineNumber": "267953",
+                                "originalJapaneseLine": "「おおっ、お前らか！」",
+                                "translatedEnglishLine": "\"Oh, it’s you guys!\""
+                            },
+                            {
+                                "lineNumber": "267954",
+                                "originalJapaneseLine": "「ハウゼルとサイゼルが、",
+                                "translatedEnglishLine": "\"Hausel and Saizel,"
+                            },
+                            {
+                                "lineNumber": "267955",
+                                "originalJapaneseLine": "　ピカーッと光ったと思ったら、",
+                                "translatedEnglishLine": "I thought they flashed brightly,"
+                            },
+                            {
+                                "lineNumber": "267956",
+                                "originalJapaneseLine": "　合体してあんな姿に……」",
+                                "translatedEnglishLine": "and then merged into that form...\""
+                            },
+                            {
+                                "lineNumber": "267957",
+                                "originalJapaneseLine": "「おい、ユキに火炎！",
+                                "translatedEnglishLine": "\"Hey, fire at Yuki!"
+                            },
+                            {
+                                "lineNumber": "267958",
+                                "originalJapaneseLine": "　ありゃいったいなんなんだ！？」",
+                                "translatedEnglishLine": "What on earth is that!?\""
+                            },
+                            {
+                                "lineNumber": "267959",
+                                "originalJapaneseLine": "「な、な、な、ななななな……」",
+                                "translatedEnglishLine": "\"W-w-w-wha-what……\""
+                            },
+                            {
+                                "lineNumber": "267960",
+                                "originalJapaneseLine": "「なんなんですか、あの人ー！？」",
+                                "translatedEnglishLine": "\"Who the heck is that person!?\""
+                            },
+                            {
+                                "lineNumber": "267961",
+                                "originalJapaneseLine": "「って、お前も知らんのか」",
+                                "translatedEnglishLine": "\"You don’t know either?\""
+                            },
+                            {
+                                "lineNumber": "267962",
+                                "originalJapaneseLine": "「で、この部屋の惨状はどしたん？",
+                                "translatedEnglishLine": "\"So, what happened to this room’s wreckage?"
+                            },
+                            {
+                                "lineNumber": "267963",
+                                "originalJapaneseLine": "　すっげ風通し良くなってる」",
+                                "translatedEnglishLine": "The ventilation sure improved a lot.\""
+                            },
+                            {
+                                "lineNumber": "267964",
+                                "originalJapaneseLine": "「分からん。",
+                                "translatedEnglishLine": "\"I don't know."
+                            },
+                            {
+                                "lineNumber": "267965",
+                                "originalJapaneseLine": "　あそこで空中にプカプカ浮いてる奴が、",
+                                "translatedEnglishLine": "The one floating there in midair,"
+                            },
+                            {
+                                "lineNumber": "267966",
+                                "originalJapaneseLine": "　多分やったんだと思うが……」",
+                                "translatedEnglishLine": "probably did it, I think…\""
+                            },
+                            {
+                                "lineNumber": "267967",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"......\""
+                            },
+                            {
+                                "lineNumber": "267968",
+                                "originalJapaneseLine": "「どうやら……",
+                                "translatedEnglishLine": "\"It seems that..."
+                            },
+                            {
+                                "lineNumber": "267969",
+                                "originalJapaneseLine": "　近くにいるだけで、",
+                                "translatedEnglishLine": "just being nearby,"
+                            },
+                            {
+                                "lineNumber": "267970",
+                                "originalJapaneseLine": "　危険な存在のようです……」",
+                                "translatedEnglishLine": "it is a dangerous existence…\""
+                            },
+                            {
+                                "lineNumber": "267971",
+                                "originalJapaneseLine": "「きゃあああああああ！？」",
+                                "translatedEnglishLine": "\"Kyaaaaa!?!\""
+                            },
+                            {
+                                "lineNumber": "267972",
+                                "originalJapaneseLine": "バシン！　バシン！",
+                                "translatedEnglishLine": "Bang! Bang!"
+                            },
+                            {
+                                "lineNumber": "267973",
+                                "originalJapaneseLine": "大きな音を立てる度に、",
+                                "translatedEnglishLine": "With each loud noise,"
+                            },
+                            {
+                                "lineNumber": "267974",
+                                "originalJapaneseLine": "バスワルドの周囲の空間が削られる。",
+                                "translatedEnglishLine": "the space around Baswald was being carved away."
+                            },
+                            {
+                                "lineNumber": "267975",
+                                "originalJapaneseLine": "「おととと！",
+                                "translatedEnglishLine": "\"Whoa, whoa, whoa!"
+                            },
+                            {
+                                "lineNumber": "267976",
+                                "originalJapaneseLine": "　おい、シィル、大丈夫か！」",
+                                "translatedEnglishLine": "Hey, Seel, are you okay!?\""
+                            },
+                            {
+                                "lineNumber": "267977",
+                                "originalJapaneseLine": "「は、はいー！」",
+                                "translatedEnglishLine": "\"Y-yes!\""
+                            },
+                            {
+                                "lineNumber": "267978",
+                                "originalJapaneseLine": "「えーい、なんて迷惑な！",
+                                "translatedEnglishLine": "\"Darn it, what a nuisance!"
+                            },
+                            {
+                                "lineNumber": "267979",
+                                "originalJapaneseLine": "　力が暴走してるって感じだぞ！」",
+                                "translatedEnglishLine": "It feels like the power is going out of control!\""
+                            },
+                            {
+                                "lineNumber": "267980",
+                                "originalJapaneseLine": "と、二人が話している間も、",
+                                "translatedEnglishLine": "While the two were talking,"
+                            },
+                            {
+                                "lineNumber": "267981",
+                                "originalJapaneseLine": "室内が破壊されていく。",
+                                "translatedEnglishLine": "the interior kept getting destroyed."
+                            },
+                            {
+                                "lineNumber": "267982",
+                                "originalJapaneseLine": "「こらー！",
+                                "translatedEnglishLine": "\"Hey!\""
+                            },
+                            {
+                                "lineNumber": "267983",
+                                "originalJapaneseLine": "サイゼルー！　ハウゼルー！",
+                                "translatedEnglishLine": "Saizel! Hausel!\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1725,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1948,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3673
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"自分の心を見れば、\",\"translatedEnglishLine\":\"If you look into your own heart,\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"それが相手の心である。\",\"translatedEnglishLine\":\"that is the heart of the other person.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"身も心も一つになる喜び、\",\"translatedEnglishLine\":\"The joy of becoming one in body and soul,\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"ただ、それだけを二人は感じていた。\",\"translatedEnglishLine\":\"that was all the two of them felt.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"そして、ゆっくり……\",\"translatedEnglishLine\":\"And then, slowly...\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"磁石が引き合うように、\",\"translatedEnglishLine\":\"Like magnets pulling each other,\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"互いの心が、引き合う。\",\"translatedEnglishLine\":\"their hearts drew toward each other.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「むう……\",\"translatedEnglishLine\":\"\\\"Hmm...\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　相変わらず、俺が無視されてる気がする……」\",\"translatedEnglishLine\":\"I still feel like I'm being ignored...\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「…………ん？」\",\"translatedEnglishLine\":\"\\\"...Hmm?\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「ギャーーーー！　なんだーーー！？」\",\"translatedEnglishLine\":\"\\\"Gyaaah! What the heck!?!\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"それは突然のことだった。\",\"translatedEnglishLine\":\"It happened suddenly.\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"室内が光に満たされる。\",\"translatedEnglishLine\":\"The room was filled with light.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"サイゼルはいない。\",\"translatedEnglishLine\":\"Saizel was gone.\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"ハウゼルはいない。\",\"translatedEnglishLine\":\"Hausel was gone.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"サイゼルはいる。\",\"translatedEnglishLine\":\"Saizel was there.\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"ハウゼルはいる。\",\"translatedEnglishLine\":\"Hausel was there.\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"二人は、一人に。\",\"translatedEnglishLine\":\"The two became one.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"無の存在に。\",\"translatedEnglishLine\":\"An existence of nothingness.\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"......\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「ららら、ランス様！　大丈夫ですかー！？」\",\"translatedEnglishLine\":\"\\\"La la la, Lord Rance! Are you alright!?\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「なんかここからすっげー音したですけど！？\",\"translatedEnglishLine\":\"\\\"Something made a huge noise from here!?\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　ケケケ！　バスガス爆発許可局局長事件簿！？」\",\"translatedEnglishLine\":\"Hehehe! The head of the Permit Bureau for Bus Gas Explosions’ case files!?\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「ハウゼル様ー！　大丈夫ですかー！？」\",\"translatedEnglishLine\":\"\\\"Lord Hausel! Are you alright!?\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「って、ええええええ！？」\",\"translatedEnglishLine\":\"\\\"W-what the heck!?\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"扉を開くと、そこは空が広がっていた。\",\"translatedEnglishLine\":\"When they opened the door, the sky was spread out there.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"バックリと――\",\"translatedEnglishLine\":\"Wide open—\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"球形に部屋がえぐられていた。\",\"translatedEnglishLine\":\"A spherical section of the room was hollowed out.\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「おおっ、お前らか！」\",\"translatedEnglishLine\":\"\\\"Oh, it’s you guys!\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「ハウゼルとサイゼルが、\",\"translatedEnglishLine\":\"\\\"Hausel and Saizel,\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"　ピカーッと光ったと思ったら、\",\"translatedEnglishLine\":\"I thought they flashed brightly,\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　合体してあんな姿に……」\",\"translatedEnglishLine\":\"and then merged into that form...\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「おい、ユキに火炎！\",\"translatedEnglishLine\":\"\\\"Hey, fire at Yuki!\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"　ありゃいったいなんなんだ！？」\",\"translatedEnglishLine\":\"What on earth is that!?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「な、な、な、ななななな……」\",\"translatedEnglishLine\":\"\\\"W-w-w-wha-what……\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「なんなんですか、あの人ー！？」\",\"translatedEnglishLine\":\"\\\"Who the heck is that person!?\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「って、お前も知らんのか」\",\"translatedEnglishLine\":\"\\\"You don’t know either?\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「で、この部屋の惨状はどしたん？\",\"translatedEnglishLine\":\"\\\"So, what happened to this room’s wreckage?\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　すっげ風通し良くなってる」\",\"translatedEnglishLine\":\"The ventilation sure improved a lot.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「分からん。\",\"translatedEnglishLine\":\"\\\"I don't know.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　あそこで空中にプカプカ浮いてる奴が、\",\"translatedEnglishLine\":\"The one floating there in midair,\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　多分やったんだと思うが……」\",\"translatedEnglishLine\":\"probably did it, I think…\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"......\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「どうやら……\",\"translatedEnglishLine\":\"\\\"It seems that...\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　近くにいるだけで、\",\"translatedEnglishLine\":\"just being nearby,\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　危険な存在のようです……」\",\"translatedEnglishLine\":\"it is a dangerous existence…\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「きゃあああああああ！？」\",\"translatedEnglishLine\":\"\\\"Kyaaaaa!?!\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"バシン！　バシン！\",\"translatedEnglishLine\":\"Bang! Bang!\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"大きな音を立てる度に、\",\"translatedEnglishLine\":\"With each loud noise,\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"バスワルドの周囲の空間が削られる。\",\"translatedEnglishLine\":\"the space around Baswald was being carved away.\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「おととと！\",\"translatedEnglishLine\":\"\\\"Whoa, whoa, whoa!\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　おい、シィル、大丈夫か！」\",\"translatedEnglishLine\":\"Hey, Seel, are you okay!?\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「は、はいー！」\",\"translatedEnglishLine\":\"\\\"Y-yes!\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「えーい、なんて迷惑な！\",\"translatedEnglishLine\":\"\\\"Darn it, what a nuisance!\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　力が暴走してるって感じだぞ！」\",\"translatedEnglishLine\":\"It feels like the power is going out of control!\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"と、二人が話している間も、\",\"translatedEnglishLine\":\"While the two were talking,\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"室内が破壊されていく。\",\"translatedEnglishLine\":\"the interior kept getting destroyed.\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「こらー！\",\"translatedEnglishLine\":\"\\\"Hey!\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"サイゼルー！　ハウゼルー！\",\"translatedEnglishLine\":\"Saizel! Hausel!\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "267924",
+                "originalJapaneseLine": "自分の心を見れば、",
+                "translatedEnglishLine": "If you look into your own heart,"
+            },
+            {
+                "lineNumber": "267925",
+                "originalJapaneseLine": "それが相手の心である。",
+                "translatedEnglishLine": "that is the heart of the other person."
+            },
+            {
+                "lineNumber": "267926",
+                "originalJapaneseLine": "身も心も一つになる喜び、",
+                "translatedEnglishLine": "The joy of becoming one in body and soul,"
+            },
+            {
+                "lineNumber": "267927",
+                "originalJapaneseLine": "ただ、それだけを二人は感じていた。",
+                "translatedEnglishLine": "that was all the two of them felt."
+            },
+            {
+                "lineNumber": "267928",
+                "originalJapaneseLine": "そして、ゆっくり……",
+                "translatedEnglishLine": "And then, slowly..."
+            },
+            {
+                "lineNumber": "267929",
+                "originalJapaneseLine": "磁石が引き合うように、",
+                "translatedEnglishLine": "Like magnets pulling each other,"
+            },
+            {
+                "lineNumber": "267930",
+                "originalJapaneseLine": "互いの心が、引き合う。",
+                "translatedEnglishLine": "their hearts drew toward each other."
+            },
+            {
+                "lineNumber": "267931",
+                "originalJapaneseLine": "「むう……",
+                "translatedEnglishLine": "\"Hmm...\""
+            },
+            {
+                "lineNumber": "267932",
+                "originalJapaneseLine": "　相変わらず、俺が無視されてる気がする……」",
+                "translatedEnglishLine": "I still feel like I'm being ignored...\""
+            },
+            {
+                "lineNumber": "267933",
+                "originalJapaneseLine": "「…………ん？」",
+                "translatedEnglishLine": "\"...Hmm?\""
+            },
+            {
+                "lineNumber": "267934",
+                "originalJapaneseLine": "「ギャーーーー！　なんだーーー！？」",
+                "translatedEnglishLine": "\"Gyaaah! What the heck!?!\""
+            },
+            {
+                "lineNumber": "267935",
+                "originalJapaneseLine": "それは突然のことだった。",
+                "translatedEnglishLine": "It happened suddenly."
+            },
+            {
+                "lineNumber": "267936",
+                "originalJapaneseLine": "室内が光に満たされる。",
+                "translatedEnglishLine": "The room was filled with light."
+            },
+            {
+                "lineNumber": "267937",
+                "originalJapaneseLine": "サイゼルはいない。",
+                "translatedEnglishLine": "Saizel was gone."
+            },
+            {
+                "lineNumber": "267938",
+                "originalJapaneseLine": "ハウゼルはいない。",
+                "translatedEnglishLine": "Hausel was gone."
+            },
+            {
+                "lineNumber": "267939",
+                "originalJapaneseLine": "サイゼルはいる。",
+                "translatedEnglishLine": "Saizel was there."
+            },
+            {
+                "lineNumber": "267940",
+                "originalJapaneseLine": "ハウゼルはいる。",
+                "translatedEnglishLine": "Hausel was there."
+            },
+            {
+                "lineNumber": "267941",
+                "originalJapaneseLine": "二人は、一人に。",
+                "translatedEnglishLine": "The two became one."
+            },
+            {
+                "lineNumber": "267942",
+                "originalJapaneseLine": "無の存在に。",
+                "translatedEnglishLine": "An existence of nothingness."
+            },
+            {
+                "lineNumber": "267943",
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "......"
+            },
+            {
+                "lineNumber": "267944",
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": "267945",
+                "originalJapaneseLine": "「ららら、ランス様！　大丈夫ですかー！？」",
+                "translatedEnglishLine": "\"La la la, Lord Rance! Are you alright!?\""
+            },
+            {
+                "lineNumber": "267946",
+                "originalJapaneseLine": "「なんかここからすっげー音したですけど！？",
+                "translatedEnglishLine": "\"Something made a huge noise from here!?\""
+            },
+            {
+                "lineNumber": "267947",
+                "originalJapaneseLine": "　ケケケ！　バスガス爆発許可局局長事件簿！？」",
+                "translatedEnglishLine": "Hehehe! The head of the Permit Bureau for Bus Gas Explosions’ case files!?\""
+            },
+            {
+                "lineNumber": "267948",
+                "originalJapaneseLine": "「ハウゼル様ー！　大丈夫ですかー！？」",
+                "translatedEnglishLine": "\"Lord Hausel! Are you alright!?\""
+            },
+            {
+                "lineNumber": "267949",
+                "originalJapaneseLine": "「って、ええええええ！？」",
+                "translatedEnglishLine": "\"W-what the heck!?\""
+            },
+            {
+                "lineNumber": "267950",
+                "originalJapaneseLine": "扉を開くと、そこは空が広がっていた。",
+                "translatedEnglishLine": "When they opened the door, the sky was spread out there."
+            },
+            {
+                "lineNumber": "267951",
+                "originalJapaneseLine": "バックリと――",
+                "translatedEnglishLine": "Wide open—"
+            },
+            {
+                "lineNumber": "267952",
+                "originalJapaneseLine": "球形に部屋がえぐられていた。",
+                "translatedEnglishLine": "A spherical section of the room was hollowed out."
+            },
+            {
+                "lineNumber": "267953",
+                "originalJapaneseLine": "「おおっ、お前らか！」",
+                "translatedEnglishLine": "\"Oh, it’s you guys!\""
+            },
+            {
+                "lineNumber": "267954",
+                "originalJapaneseLine": "「ハウゼルとサイゼルが、",
+                "translatedEnglishLine": "\"Hausel and Saizel,"
+            },
+            {
+                "lineNumber": "267955",
+                "originalJapaneseLine": "　ピカーッと光ったと思ったら、",
+                "translatedEnglishLine": "I thought they flashed brightly,"
+            },
+            {
+                "lineNumber": "267956",
+                "originalJapaneseLine": "　合体してあんな姿に……」",
+                "translatedEnglishLine": "and then merged into that form...\""
+            },
+            {
+                "lineNumber": "267957",
+                "originalJapaneseLine": "「おい、ユキに火炎！",
+                "translatedEnglishLine": "\"Hey, fire at Yuki!"
+            },
+            {
+                "lineNumber": "267958",
+                "originalJapaneseLine": "　ありゃいったいなんなんだ！？」",
+                "translatedEnglishLine": "What on earth is that!?\""
+            },
+            {
+                "lineNumber": "267959",
+                "originalJapaneseLine": "「な、な、な、ななななな……」",
+                "translatedEnglishLine": "\"W-w-w-wha-what……\""
+            },
+            {
+                "lineNumber": "267960",
+                "originalJapaneseLine": "「なんなんですか、あの人ー！？」",
+                "translatedEnglishLine": "\"Who the heck is that person!?\""
+            },
+            {
+                "lineNumber": "267961",
+                "originalJapaneseLine": "「って、お前も知らんのか」",
+                "translatedEnglishLine": "\"You don’t know either?\""
+            },
+            {
+                "lineNumber": "267962",
+                "originalJapaneseLine": "「で、この部屋の惨状はどしたん？",
+                "translatedEnglishLine": "\"So, what happened to this room’s wreckage?"
+            },
+            {
+                "lineNumber": "267963",
+                "originalJapaneseLine": "　すっげ風通し良くなってる」",
+                "translatedEnglishLine": "The ventilation sure improved a lot.\""
+            },
+            {
+                "lineNumber": "267964",
+                "originalJapaneseLine": "「分からん。",
+                "translatedEnglishLine": "\"I don't know."
+            },
+            {
+                "lineNumber": "267965",
+                "originalJapaneseLine": "　あそこで空中にプカプカ浮いてる奴が、",
+                "translatedEnglishLine": "The one floating there in midair,"
+            },
+            {
+                "lineNumber": "267966",
+                "originalJapaneseLine": "　多分やったんだと思うが……」",
+                "translatedEnglishLine": "probably did it, I think…\""
+            },
+            {
+                "lineNumber": "267967",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"......\""
+            },
+            {
+                "lineNumber": "267968",
+                "originalJapaneseLine": "「どうやら……",
+                "translatedEnglishLine": "\"It seems that..."
+            },
+            {
+                "lineNumber": "267969",
+                "originalJapaneseLine": "　近くにいるだけで、",
+                "translatedEnglishLine": "just being nearby,"
+            },
+            {
+                "lineNumber": "267970",
+                "originalJapaneseLine": "　危険な存在のようです……」",
+                "translatedEnglishLine": "it is a dangerous existence…\""
+            },
+            {
+                "lineNumber": "267971",
+                "originalJapaneseLine": "「きゃあああああああ！？」",
+                "translatedEnglishLine": "\"Kyaaaaa!?!\""
+            },
+            {
+                "lineNumber": "267972",
+                "originalJapaneseLine": "バシン！　バシン！",
+                "translatedEnglishLine": "Bang! Bang!"
+            },
+            {
+                "lineNumber": "267973",
+                "originalJapaneseLine": "大きな音を立てる度に、",
+                "translatedEnglishLine": "With each loud noise,"
+            },
+            {
+                "lineNumber": "267974",
+                "originalJapaneseLine": "バスワルドの周囲の空間が削られる。",
+                "translatedEnglishLine": "the space around Baswald was being carved away."
+            },
+            {
+                "lineNumber": "267975",
+                "originalJapaneseLine": "「おととと！",
+                "translatedEnglishLine": "\"Whoa, whoa, whoa!"
+            },
+            {
+                "lineNumber": "267976",
+                "originalJapaneseLine": "　おい、シィル、大丈夫か！」",
+                "translatedEnglishLine": "Hey, Seel, are you okay!?\""
+            },
+            {
+                "lineNumber": "267977",
+                "originalJapaneseLine": "「は、はいー！」",
+                "translatedEnglishLine": "\"Y-yes!\""
+            },
+            {
+                "lineNumber": "267978",
+                "originalJapaneseLine": "「えーい、なんて迷惑な！",
+                "translatedEnglishLine": "\"Darn it, what a nuisance!"
+            },
+            {
+                "lineNumber": "267979",
+                "originalJapaneseLine": "　力が暴走してるって感じだぞ！」",
+                "translatedEnglishLine": "It feels like the power is going out of control!\""
+            },
+            {
+                "lineNumber": "267980",
+                "originalJapaneseLine": "と、二人が話している間も、",
+                "translatedEnglishLine": "While the two were talking,"
+            },
+            {
+                "lineNumber": "267981",
+                "originalJapaneseLine": "室内が破壊されていく。",
+                "translatedEnglishLine": "the interior kept getting destroyed."
+            },
+            {
+                "lineNumber": "267982",
+                "originalJapaneseLine": "「こらー！",
+                "translatedEnglishLine": "\"Hey!\""
+            },
+            {
+                "lineNumber": "267983",
+                "originalJapaneseLine": "サイゼルー！　ハウゼルー！",
+                "translatedEnglishLine": "Saizel! Hausel!\""
+            }
+        ]
+    }
+}

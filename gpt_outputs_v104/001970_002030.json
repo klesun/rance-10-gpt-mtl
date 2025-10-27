@@ -1,0 +1,719 @@
+{
+    "id": "resp_0a74d9a9598288460068ffe8f8cf5881958e1e0ad354fb1a87",
+    "object": "response",
+    "created_at": 1761601784,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0a74d9a9598288460068ffe8f99168819586d91264b6d69912",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「ワーグ……\",\"translatedEnglishLine\":\"\\\"Warg...\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　そんなこと考える……必要ないくらい……\",\"translatedEnglishLine\":\"You’re a good child that there’s no need to think about such things...\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　良い子だし……心配、しすぎだった……」\",\"translatedEnglishLine\":\"You're a good kid... I was worrying too much...\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「ええ、まあ。\",\"translatedEnglishLine\":\"\\\"Yeah, well.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　そう……そうね……\",\"translatedEnglishLine\":\"That's right... yes...\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　私は力を悪用なんてしない」\",\"translatedEnglishLine\":\"I would never misuse my power.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"......\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「でも……それなら……\",\"translatedEnglishLine\":\"\\\"But... if that’s so...\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　セスナはもうここには……来ないのね」\",\"translatedEnglishLine\":\"Then Sesuna won't come here anymore, right?\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「え、来るよ？\",\"translatedEnglishLine\":\"\\\"Huh? She will come, you know?\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　友達でしょ？」\",\"translatedEnglishLine\":\"She’s a friend, right?\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「え、で、でも……」\",\"translatedEnglishLine\":\"\\\"Eh, bu-but...\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「？　私……\",\"translatedEnglishLine\":\"\\\"? I...\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　ワーグのこと、好きだよ？」\",\"translatedEnglishLine\":\"I like you, Warg, you know?\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「す！！！！！！」\",\"translatedEnglishLine\":\"\\\"Su!!!!!!\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"......\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"ワーグの顔が、\",\"translatedEnglishLine\":\"Warg’s face suddenly,\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"カーーーッと一気に赤く染まる。\",\"translatedEnglishLine\":\"blushed bright red all at once.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ワーグ？」\",\"translatedEnglishLine\":\"\\\"Warg?\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"......\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「ええい、もうやめてやれ。\",\"translatedEnglishLine\":\"\\\"Hey, stop it already.\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　ワーグにお前の言葉は劇薬すぎる」\",\"translatedEnglishLine\":\"Your words are too strong a poison for Warg.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「そなの……？」\",\"translatedEnglishLine\":\"\\\"Is that so...?\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「しかし……」\",\"translatedEnglishLine\":\"\\\"But...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「……何も考えてない癖に、\",\"translatedEnglishLine\":\"Even though you don’t think about anything,\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　たまにすごく鋭いなお前は」\",\"translatedEnglishLine\":\"sometimes you’re really sharp.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「考えてるっちゅーねん」\",\"translatedEnglishLine\":\"\\\"I’m thinking, damn it!\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「おっと……\",\"translatedEnglishLine\":\"\\\"Oops...\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"　長居しすぎたか、眠くなってきた……」\",\"translatedEnglishLine\":\"Maybe I stayed too long; I’m getting sleepy...\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「おい、そろそろ帰るぞ、セスナ」\",\"translatedEnglishLine\":\"\\\"Hey, it’s about time to go home, Sesuna.\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「んぅ〜……」\",\"translatedEnglishLine\":\"\\\"Mmm~...\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"セスナは目をこしこしと擦った。\",\"translatedEnglishLine\":\"Sesuna rubbed her eyes.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「眠い……」\",\"translatedEnglishLine\":\"\\\"I’m sleepy...\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「え？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「泊まっていって、いーい？」\",\"translatedEnglishLine\":\"\\\"Can I stay over?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「えええええええ！？」\",\"translatedEnglishLine\":\"\\\"Ehhhh!?\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「ぱ、パジャマパーティー！？」\",\"translatedEnglishLine\":\"\\\"A p-pajama party!?\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「どどど、どうしよう、どうしよう！\",\"translatedEnglishLine\":\"\\\"W-w-what should I do, what should I do!\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　そそそ、そんなのしたことない！」\",\"translatedEnglishLine\":\"I-I-I’ve never done anything like that before!\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「ちょ、落ち着きなさい、ラッシー。\",\"translatedEnglishLine\":\"\\\"H-hey, calm down, Lassie.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　こ、こんなの大したこと……」\",\"translatedEnglishLine\":\"T-this isn’t a big deal...\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「た、大したこと……」\",\"translatedEnglishLine\":\"\\\"I-it’s a big deal...\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「………………う」\",\"translatedEnglishLine\":\"\\\"...........u\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「う〜〜〜〜……」\",\"translatedEnglishLine\":\"\\\"Uuuu~~~~...\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"パジャマパーティーをしている自分を想像し、\",\"translatedEnglishLine\":\"Imagining herself at a pajama party,\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"ワーグは頭からぷしゅーと煙を噴いた。\",\"translatedEnglishLine\":\"Warg let out a ‘psshhh’ of smoke from his head.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「魔人の方が振り回されてるな……\",\"translatedEnglishLine\":\"\\\"The demon is the one being spun around...\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　不思議な二人だ」\",\"translatedEnglishLine\":\"What a strange pair.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"......\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「……？」\",\"translatedEnglishLine\":\"\\\"... ?\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「ぐう……」\",\"translatedEnglishLine\":\"\\\"Guu...\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「……おや？」\",\"translatedEnglishLine\":\"\\\"... Oh?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"......\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「なんでこいつがここに……」\",\"translatedEnglishLine\":\"\\\"Why is this guy here...\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"男風呂の脱衣所に\",\"translatedEnglishLine\":\"In the men's bath changing room,\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"セスナがふらふらぐうぐうと現れた。\",\"translatedEnglishLine\":\"Sesuna appeared, stumbling and snoring.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「……んぅ」\",\"translatedEnglishLine\":\"\\\"... Mmm\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「……お風呂、お風呂」\",\"translatedEnglishLine\":\"\\\"... Bath, bath\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「こいつ……\",\"translatedEnglishLine\":\"\\\"This guy...\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　寝ぼけてやがる」\",\"translatedEnglishLine\":\"He’s half asleep.\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "266604",
+                                "originalJapaneseLine": "「ワーグ……",
+                                "translatedEnglishLine": "\"Warg...\""
+                            },
+                            {
+                                "lineNumber": "266605",
+                                "originalJapaneseLine": "　そんなこと考える……必要ないくらい……",
+                                "translatedEnglishLine": "You’re a good child that there’s no need to think about such things..."
+                            },
+                            {
+                                "lineNumber": "266606",
+                                "originalJapaneseLine": "　良い子だし……心配、しすぎだった……」",
+                                "translatedEnglishLine": "You're a good kid... I was worrying too much...\""
+                            },
+                            {
+                                "lineNumber": "266607",
+                                "originalJapaneseLine": "「ええ、まあ。",
+                                "translatedEnglishLine": "\"Yeah, well."
+                            },
+                            {
+                                "lineNumber": "266608",
+                                "originalJapaneseLine": "　そう……そうね……",
+                                "translatedEnglishLine": "That's right... yes..."
+                            },
+                            {
+                                "lineNumber": "266609",
+                                "originalJapaneseLine": "　私は力を悪用なんてしない」",
+                                "translatedEnglishLine": "I would never misuse my power.\""
+                            },
+                            {
+                                "lineNumber": "266610",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"......\""
+                            },
+                            {
+                                "lineNumber": "266611",
+                                "originalJapaneseLine": "「でも……それなら……",
+                                "translatedEnglishLine": "\"But... if that’s so..."
+                            },
+                            {
+                                "lineNumber": "266612",
+                                "originalJapaneseLine": "　セスナはもうここには……来ないのね」",
+                                "translatedEnglishLine": "Then Sesuna won't come here anymore, right?\""
+                            },
+                            {
+                                "lineNumber": "266613",
+                                "originalJapaneseLine": "「え、来るよ？",
+                                "translatedEnglishLine": "\"Huh? She will come, you know?"
+                            },
+                            {
+                                "lineNumber": "266614",
+                                "originalJapaneseLine": "　友達でしょ？」",
+                                "translatedEnglishLine": "She’s a friend, right?\""
+                            },
+                            {
+                                "lineNumber": "266615",
+                                "originalJapaneseLine": "「え、で、でも……」",
+                                "translatedEnglishLine": "\"Eh, bu-but...\""
+                            },
+                            {
+                                "lineNumber": "266616",
+                                "originalJapaneseLine": "「？　私……",
+                                "translatedEnglishLine": "\"? I..."
+                            },
+                            {
+                                "lineNumber": "266617",
+                                "originalJapaneseLine": "　ワーグのこと、好きだよ？」",
+                                "translatedEnglishLine": "I like you, Warg, you know?\""
+                            },
+                            {
+                                "lineNumber": "266618",
+                                "originalJapaneseLine": "「す！！！！！！」",
+                                "translatedEnglishLine": "\"Su!!!!!!\""
+                            },
+                            {
+                                "lineNumber": "266619",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"......\""
+                            },
+                            {
+                                "lineNumber": "266620",
+                                "originalJapaneseLine": "ワーグの顔が、",
+                                "translatedEnglishLine": "Warg’s face suddenly,"
+                            },
+                            {
+                                "lineNumber": "266621",
+                                "originalJapaneseLine": "カーーーッと一気に赤く染まる。",
+                                "translatedEnglishLine": "blushed bright red all at once."
+                            },
+                            {
+                                "lineNumber": "266622",
+                                "originalJapaneseLine": "「ワーグ？」",
+                                "translatedEnglishLine": "\"Warg?\""
+                            },
+                            {
+                                "lineNumber": "266623",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"......\""
+                            },
+                            {
+                                "lineNumber": "266624",
+                                "originalJapaneseLine": "「ええい、もうやめてやれ。",
+                                "translatedEnglishLine": "\"Hey, stop it already."
+                            },
+                            {
+                                "lineNumber": "266625",
+                                "originalJapaneseLine": "　ワーグにお前の言葉は劇薬すぎる」",
+                                "translatedEnglishLine": "Your words are too strong a poison for Warg.\""
+                            },
+                            {
+                                "lineNumber": "266626",
+                                "originalJapaneseLine": "「そなの……？」",
+                                "translatedEnglishLine": "\"Is that so...?\""
+                            },
+                            {
+                                "lineNumber": "266627",
+                                "originalJapaneseLine": "「しかし……」",
+                                "translatedEnglishLine": "\"But...\""
+                            },
+                            {
+                                "lineNumber": "266628",
+                                "originalJapaneseLine": "「……何も考えてない癖に、",
+                                "translatedEnglishLine": "Even though you don’t think about anything,"
+                            },
+                            {
+                                "lineNumber": "266629",
+                                "originalJapaneseLine": "　たまにすごく鋭いなお前は」",
+                                "translatedEnglishLine": "sometimes you’re really sharp.\""
+                            },
+                            {
+                                "lineNumber": "266630",
+                                "originalJapaneseLine": "「考えてるっちゅーねん」",
+                                "translatedEnglishLine": "\"I’m thinking, damn it!\""
+                            },
+                            {
+                                "lineNumber": "266631",
+                                "originalJapaneseLine": "「おっと……",
+                                "translatedEnglishLine": "\"Oops..."
+                            },
+                            {
+                                "lineNumber": "266632",
+                                "originalJapaneseLine": "　長居しすぎたか、眠くなってきた……」",
+                                "translatedEnglishLine": "Maybe I stayed too long; I’m getting sleepy...\""
+                            },
+                            {
+                                "lineNumber": "266633",
+                                "originalJapaneseLine": "「おい、そろそろ帰るぞ、セスナ」",
+                                "translatedEnglishLine": "\"Hey, it’s about time to go home, Sesuna.\""
+                            },
+                            {
+                                "lineNumber": "266634",
+                                "originalJapaneseLine": "「んぅ〜……」",
+                                "translatedEnglishLine": "\"Mmm~...\""
+                            },
+                            {
+                                "lineNumber": "266635",
+                                "originalJapaneseLine": "セスナは目をこしこしと擦った。",
+                                "translatedEnglishLine": "Sesuna rubbed her eyes."
+                            },
+                            {
+                                "lineNumber": "266636",
+                                "originalJapaneseLine": "「眠い……」",
+                                "translatedEnglishLine": "\"I’m sleepy...\""
+                            },
+                            {
+                                "lineNumber": "266637",
+                                "originalJapaneseLine": "「え？」",
+                                "translatedEnglishLine": "\"Huh?\""
+                            },
+                            {
+                                "lineNumber": "266638",
+                                "originalJapaneseLine": "「泊まっていって、いーい？」",
+                                "translatedEnglishLine": "\"Can I stay over?\""
+                            },
+                            {
+                                "lineNumber": "266639",
+                                "originalJapaneseLine": "「えええええええ！？」",
+                                "translatedEnglishLine": "\"Ehhhh!?\""
+                            },
+                            {
+                                "lineNumber": "266640",
+                                "originalJapaneseLine": "「ぱ、パジャマパーティー！？」",
+                                "translatedEnglishLine": "\"A p-pajama party!?\""
+                            },
+                            {
+                                "lineNumber": "266641",
+                                "originalJapaneseLine": "「どどど、どうしよう、どうしよう！",
+                                "translatedEnglishLine": "\"W-w-what should I do, what should I do!"
+                            },
+                            {
+                                "lineNumber": "266642",
+                                "originalJapaneseLine": "　そそそ、そんなのしたことない！」",
+                                "translatedEnglishLine": "I-I-I’ve never done anything like that before!\""
+                            },
+                            {
+                                "lineNumber": "266643",
+                                "originalJapaneseLine": "「ちょ、落ち着きなさい、ラッシー。",
+                                "translatedEnglishLine": "\"H-hey, calm down, Lassie."
+                            },
+                            {
+                                "lineNumber": "266644",
+                                "originalJapaneseLine": "　こ、こんなの大したこと……」",
+                                "translatedEnglishLine": "T-this isn’t a big deal...\""
+                            },
+                            {
+                                "lineNumber": "266645",
+                                "originalJapaneseLine": "「た、大したこと……」",
+                                "translatedEnglishLine": "\"I-it’s a big deal...\""
+                            },
+                            {
+                                "lineNumber": "266646",
+                                "originalJapaneseLine": "「………………う」",
+                                "translatedEnglishLine": "\"...........u\""
+                            },
+                            {
+                                "lineNumber": "266647",
+                                "originalJapaneseLine": "「う〜〜〜〜……」",
+                                "translatedEnglishLine": "\"Uuuu~~~~...\""
+                            },
+                            {
+                                "lineNumber": "266648",
+                                "originalJapaneseLine": "パジャマパーティーをしている自分を想像し、",
+                                "translatedEnglishLine": "Imagining herself at a pajama party,"
+                            },
+                            {
+                                "lineNumber": "266649",
+                                "originalJapaneseLine": "ワーグは頭からぷしゅーと煙を噴いた。",
+                                "translatedEnglishLine": "Warg let out a ‘psshhh’ of smoke from his head."
+                            },
+                            {
+                                "lineNumber": "266650",
+                                "originalJapaneseLine": "「魔人の方が振り回されてるな……",
+                                "translatedEnglishLine": "\"The demon is the one being spun around..."
+                            },
+                            {
+                                "lineNumber": "266651",
+                                "originalJapaneseLine": "　不思議な二人だ」",
+                                "translatedEnglishLine": "What a strange pair.\""
+                            },
+                            {
+                                "lineNumber": "266652",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"......\""
+                            },
+                            {
+                                "lineNumber": "266653",
+                                "originalJapaneseLine": "「……？」",
+                                "translatedEnglishLine": "\"... ?\""
+                            },
+                            {
+                                "lineNumber": "266654",
+                                "originalJapaneseLine": "「ぐう……」",
+                                "translatedEnglishLine": "\"Guu...\""
+                            },
+                            {
+                                "lineNumber": "266655",
+                                "originalJapaneseLine": "「……おや？」",
+                                "translatedEnglishLine": "\"... Oh?\""
+                            },
+                            {
+                                "lineNumber": "266656",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"......\""
+                            },
+                            {
+                                "lineNumber": "266657",
+                                "originalJapaneseLine": "「なんでこいつがここに……」",
+                                "translatedEnglishLine": "\"Why is this guy here...\""
+                            },
+                            {
+                                "lineNumber": "266658",
+                                "originalJapaneseLine": "男風呂の脱衣所に",
+                                "translatedEnglishLine": "In the men's bath changing room,"
+                            },
+                            {
+                                "lineNumber": "266659",
+                                "originalJapaneseLine": "セスナがふらふらぐうぐうと現れた。",
+                                "translatedEnglishLine": "Sesuna appeared, stumbling and snoring."
+                            },
+                            {
+                                "lineNumber": "266660",
+                                "originalJapaneseLine": "「……んぅ」",
+                                "translatedEnglishLine": "\"... Mmm\""
+                            },
+                            {
+                                "lineNumber": "266661",
+                                "originalJapaneseLine": "「……お風呂、お風呂」",
+                                "translatedEnglishLine": "\"... Bath, bath\""
+                            },
+                            {
+                                "lineNumber": "266662",
+                                "originalJapaneseLine": "「こいつ……",
+                                "translatedEnglishLine": "\"This guy..."
+                            },
+                            {
+                                "lineNumber": "266663",
+                                "originalJapaneseLine": "　寝ぼけてやがる」",
+                                "translatedEnglishLine": "He’s half asleep.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1665,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1880,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3545
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「ワーグ……\",\"translatedEnglishLine\":\"\\\"Warg...\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　そんなこと考える……必要ないくらい……\",\"translatedEnglishLine\":\"You’re a good child that there’s no need to think about such things...\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　良い子だし……心配、しすぎだった……」\",\"translatedEnglishLine\":\"You're a good kid... I was worrying too much...\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「ええ、まあ。\",\"translatedEnglishLine\":\"\\\"Yeah, well.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　そう……そうね……\",\"translatedEnglishLine\":\"That's right... yes...\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"　私は力を悪用なんてしない」\",\"translatedEnglishLine\":\"I would never misuse my power.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"......\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「でも……それなら……\",\"translatedEnglishLine\":\"\\\"But... if that’s so...\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　セスナはもうここには……来ないのね」\",\"translatedEnglishLine\":\"Then Sesuna won't come here anymore, right?\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「え、来るよ？\",\"translatedEnglishLine\":\"\\\"Huh? She will come, you know?\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　友達でしょ？」\",\"translatedEnglishLine\":\"She’s a friend, right?\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「え、で、でも……」\",\"translatedEnglishLine\":\"\\\"Eh, bu-but...\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「？　私……\",\"translatedEnglishLine\":\"\\\"? I...\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"　ワーグのこと、好きだよ？」\",\"translatedEnglishLine\":\"I like you, Warg, you know?\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「す！！！！！！」\",\"translatedEnglishLine\":\"\\\"Su!!!!!!\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"......\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"ワーグの顔が、\",\"translatedEnglishLine\":\"Warg’s face suddenly,\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"カーーーッと一気に赤く染まる。\",\"translatedEnglishLine\":\"blushed bright red all at once.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ワーグ？」\",\"translatedEnglishLine\":\"\\\"Warg?\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"......\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「ええい、もうやめてやれ。\",\"translatedEnglishLine\":\"\\\"Hey, stop it already.\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　ワーグにお前の言葉は劇薬すぎる」\",\"translatedEnglishLine\":\"Your words are too strong a poison for Warg.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「そなの……？」\",\"translatedEnglishLine\":\"\\\"Is that so...?\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「しかし……」\",\"translatedEnglishLine\":\"\\\"But...\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「……何も考えてない癖に、\",\"translatedEnglishLine\":\"Even though you don’t think about anything,\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　たまにすごく鋭いなお前は」\",\"translatedEnglishLine\":\"sometimes you’re really sharp.\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「考えてるっちゅーねん」\",\"translatedEnglishLine\":\"\\\"I’m thinking, damn it!\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「おっと……\",\"translatedEnglishLine\":\"\\\"Oops...\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"　長居しすぎたか、眠くなってきた……」\",\"translatedEnglishLine\":\"Maybe I stayed too long; I’m getting sleepy...\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「おい、そろそろ帰るぞ、セスナ」\",\"translatedEnglishLine\":\"\\\"Hey, it’s about time to go home, Sesuna.\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「んぅ〜……」\",\"translatedEnglishLine\":\"\\\"Mmm~...\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"セスナは目をこしこしと擦った。\",\"translatedEnglishLine\":\"Sesuna rubbed her eyes.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「眠い……」\",\"translatedEnglishLine\":\"\\\"I’m sleepy...\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「え？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「泊まっていって、いーい？」\",\"translatedEnglishLine\":\"\\\"Can I stay over?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「えええええええ！？」\",\"translatedEnglishLine\":\"\\\"Ehhhh!?\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「ぱ、パジャマパーティー！？」\",\"translatedEnglishLine\":\"\\\"A p-pajama party!?\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「どどど、どうしよう、どうしよう！\",\"translatedEnglishLine\":\"\\\"W-w-what should I do, what should I do!\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"　そそそ、そんなのしたことない！」\",\"translatedEnglishLine\":\"I-I-I’ve never done anything like that before!\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「ちょ、落ち着きなさい、ラッシー。\",\"translatedEnglishLine\":\"\\\"H-hey, calm down, Lassie.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　こ、こんなの大したこと……」\",\"translatedEnglishLine\":\"T-this isn’t a big deal...\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「た、大したこと……」\",\"translatedEnglishLine\":\"\\\"I-it’s a big deal...\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「………………う」\",\"translatedEnglishLine\":\"\\\"...........u\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「う〜〜〜〜……」\",\"translatedEnglishLine\":\"\\\"Uuuu~~~~...\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"パジャマパーティーをしている自分を想像し、\",\"translatedEnglishLine\":\"Imagining herself at a pajama party,\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"ワーグは頭からぷしゅーと煙を噴いた。\",\"translatedEnglishLine\":\"Warg let out a ‘psshhh’ of smoke from his head.\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「魔人の方が振り回されてるな……\",\"translatedEnglishLine\":\"\\\"The demon is the one being spun around...\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　不思議な二人だ」\",\"translatedEnglishLine\":\"What a strange pair.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"......\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「……？」\",\"translatedEnglishLine\":\"\\\"... ?\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「ぐう……」\",\"translatedEnglishLine\":\"\\\"Guu...\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「……おや？」\",\"translatedEnglishLine\":\"\\\"... Oh?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"......\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「なんでこいつがここに……」\",\"translatedEnglishLine\":\"\\\"Why is this guy here...\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"男風呂の脱衣所に\",\"translatedEnglishLine\":\"In the men's bath changing room,\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"セスナがふらふらぐうぐうと現れた。\",\"translatedEnglishLine\":\"Sesuna appeared, stumbling and snoring.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「……んぅ」\",\"translatedEnglishLine\":\"\\\"... Mmm\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「……お風呂、お風呂」\",\"translatedEnglishLine\":\"\\\"... Bath, bath\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「こいつ……\",\"translatedEnglishLine\":\"\\\"This guy...\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　寝ぼけてやがる」\",\"translatedEnglishLine\":\"He’s half asleep.\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "266604",
+                "originalJapaneseLine": "「ワーグ……",
+                "translatedEnglishLine": "\"Warg...\""
+            },
+            {
+                "lineNumber": "266605",
+                "originalJapaneseLine": "　そんなこと考える……必要ないくらい……",
+                "translatedEnglishLine": "You’re a good child that there’s no need to think about such things..."
+            },
+            {
+                "lineNumber": "266606",
+                "originalJapaneseLine": "　良い子だし……心配、しすぎだった……」",
+                "translatedEnglishLine": "You're a good kid... I was worrying too much...\""
+            },
+            {
+                "lineNumber": "266607",
+                "originalJapaneseLine": "「ええ、まあ。",
+                "translatedEnglishLine": "\"Yeah, well."
+            },
+            {
+                "lineNumber": "266608",
+                "originalJapaneseLine": "　そう……そうね……",
+                "translatedEnglishLine": "That's right... yes..."
+            },
+            {
+                "lineNumber": "266609",
+                "originalJapaneseLine": "　私は力を悪用なんてしない」",
+                "translatedEnglishLine": "I would never misuse my power.\""
+            },
+            {
+                "lineNumber": "266610",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"......\""
+            },
+            {
+                "lineNumber": "266611",
+                "originalJapaneseLine": "「でも……それなら……",
+                "translatedEnglishLine": "\"But... if that’s so..."
+            },
+            {
+                "lineNumber": "266612",
+                "originalJapaneseLine": "　セスナはもうここには……来ないのね」",
+                "translatedEnglishLine": "Then Sesuna won't come here anymore, right?\""
+            },
+            {
+                "lineNumber": "266613",
+                "originalJapaneseLine": "「え、来るよ？",
+                "translatedEnglishLine": "\"Huh? She will come, you know?"
+            },
+            {
+                "lineNumber": "266614",
+                "originalJapaneseLine": "　友達でしょ？」",
+                "translatedEnglishLine": "She’s a friend, right?\""
+            },
+            {
+                "lineNumber": "266615",
+                "originalJapaneseLine": "「え、で、でも……」",
+                "translatedEnglishLine": "\"Eh, bu-but...\""
+            },
+            {
+                "lineNumber": "266616",
+                "originalJapaneseLine": "「？　私……",
+                "translatedEnglishLine": "\"? I..."
+            },
+            {
+                "lineNumber": "266617",
+                "originalJapaneseLine": "　ワーグのこと、好きだよ？」",
+                "translatedEnglishLine": "I like you, Warg, you know?\""
+            },
+            {
+                "lineNumber": "266618",
+                "originalJapaneseLine": "「す！！！！！！」",
+                "translatedEnglishLine": "\"Su!!!!!!\""
+            },
+            {
+                "lineNumber": "266619",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"......\""
+            },
+            {
+                "lineNumber": "266620",
+                "originalJapaneseLine": "ワーグの顔が、",
+                "translatedEnglishLine": "Warg’s face suddenly,"
+            },
+            {
+                "lineNumber": "266621",
+                "originalJapaneseLine": "カーーーッと一気に赤く染まる。",
+                "translatedEnglishLine": "blushed bright red all at once."
+            },
+            {
+                "lineNumber": "266622",
+                "originalJapaneseLine": "「ワーグ？」",
+                "translatedEnglishLine": "\"Warg?\""
+            },
+            {
+                "lineNumber": "266623",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"......\""
+            },
+            {
+                "lineNumber": "266624",
+                "originalJapaneseLine": "「ええい、もうやめてやれ。",
+                "translatedEnglishLine": "\"Hey, stop it already."
+            },
+            {
+                "lineNumber": "266625",
+                "originalJapaneseLine": "　ワーグにお前の言葉は劇薬すぎる」",
+                "translatedEnglishLine": "Your words are too strong a poison for Warg.\""
+            },
+            {
+                "lineNumber": "266626",
+                "originalJapaneseLine": "「そなの……？」",
+                "translatedEnglishLine": "\"Is that so...?\""
+            },
+            {
+                "lineNumber": "266627",
+                "originalJapaneseLine": "「しかし……」",
+                "translatedEnglishLine": "\"But...\""
+            },
+            {
+                "lineNumber": "266628",
+                "originalJapaneseLine": "「……何も考えてない癖に、",
+                "translatedEnglishLine": "Even though you don’t think about anything,"
+            },
+            {
+                "lineNumber": "266629",
+                "originalJapaneseLine": "　たまにすごく鋭いなお前は」",
+                "translatedEnglishLine": "sometimes you’re really sharp.\""
+            },
+            {
+                "lineNumber": "266630",
+                "originalJapaneseLine": "「考えてるっちゅーねん」",
+                "translatedEnglishLine": "\"I’m thinking, damn it!\""
+            },
+            {
+                "lineNumber": "266631",
+                "originalJapaneseLine": "「おっと……",
+                "translatedEnglishLine": "\"Oops..."
+            },
+            {
+                "lineNumber": "266632",
+                "originalJapaneseLine": "　長居しすぎたか、眠くなってきた……」",
+                "translatedEnglishLine": "Maybe I stayed too long; I’m getting sleepy...\""
+            },
+            {
+                "lineNumber": "266633",
+                "originalJapaneseLine": "「おい、そろそろ帰るぞ、セスナ」",
+                "translatedEnglishLine": "\"Hey, it’s about time to go home, Sesuna.\""
+            },
+            {
+                "lineNumber": "266634",
+                "originalJapaneseLine": "「んぅ〜……」",
+                "translatedEnglishLine": "\"Mmm~...\""
+            },
+            {
+                "lineNumber": "266635",
+                "originalJapaneseLine": "セスナは目をこしこしと擦った。",
+                "translatedEnglishLine": "Sesuna rubbed her eyes."
+            },
+            {
+                "lineNumber": "266636",
+                "originalJapaneseLine": "「眠い……」",
+                "translatedEnglishLine": "\"I’m sleepy...\""
+            },
+            {
+                "lineNumber": "266637",
+                "originalJapaneseLine": "「え？」",
+                "translatedEnglishLine": "\"Huh?\""
+            },
+            {
+                "lineNumber": "266638",
+                "originalJapaneseLine": "「泊まっていって、いーい？」",
+                "translatedEnglishLine": "\"Can I stay over?\""
+            },
+            {
+                "lineNumber": "266639",
+                "originalJapaneseLine": "「えええええええ！？」",
+                "translatedEnglishLine": "\"Ehhhh!?\""
+            },
+            {
+                "lineNumber": "266640",
+                "originalJapaneseLine": "「ぱ、パジャマパーティー！？」",
+                "translatedEnglishLine": "\"A p-pajama party!?\""
+            },
+            {
+                "lineNumber": "266641",
+                "originalJapaneseLine": "「どどど、どうしよう、どうしよう！",
+                "translatedEnglishLine": "\"W-w-what should I do, what should I do!"
+            },
+            {
+                "lineNumber": "266642",
+                "originalJapaneseLine": "　そそそ、そんなのしたことない！」",
+                "translatedEnglishLine": "I-I-I’ve never done anything like that before!\""
+            },
+            {
+                "lineNumber": "266643",
+                "originalJapaneseLine": "「ちょ、落ち着きなさい、ラッシー。",
+                "translatedEnglishLine": "\"H-hey, calm down, Lassie."
+            },
+            {
+                "lineNumber": "266644",
+                "originalJapaneseLine": "　こ、こんなの大したこと……」",
+                "translatedEnglishLine": "T-this isn’t a big deal...\""
+            },
+            {
+                "lineNumber": "266645",
+                "originalJapaneseLine": "「た、大したこと……」",
+                "translatedEnglishLine": "\"I-it’s a big deal...\""
+            },
+            {
+                "lineNumber": "266646",
+                "originalJapaneseLine": "「………………う」",
+                "translatedEnglishLine": "\"...........u\""
+            },
+            {
+                "lineNumber": "266647",
+                "originalJapaneseLine": "「う〜〜〜〜……」",
+                "translatedEnglishLine": "\"Uuuu~~~~...\""
+            },
+            {
+                "lineNumber": "266648",
+                "originalJapaneseLine": "パジャマパーティーをしている自分を想像し、",
+                "translatedEnglishLine": "Imagining herself at a pajama party,"
+            },
+            {
+                "lineNumber": "266649",
+                "originalJapaneseLine": "ワーグは頭からぷしゅーと煙を噴いた。",
+                "translatedEnglishLine": "Warg let out a ‘psshhh’ of smoke from his head."
+            },
+            {
+                "lineNumber": "266650",
+                "originalJapaneseLine": "「魔人の方が振り回されてるな……",
+                "translatedEnglishLine": "\"The demon is the one being spun around..."
+            },
+            {
+                "lineNumber": "266651",
+                "originalJapaneseLine": "　不思議な二人だ」",
+                "translatedEnglishLine": "What a strange pair.\""
+            },
+            {
+                "lineNumber": "266652",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"......\""
+            },
+            {
+                "lineNumber": "266653",
+                "originalJapaneseLine": "「……？」",
+                "translatedEnglishLine": "\"... ?\""
+            },
+            {
+                "lineNumber": "266654",
+                "originalJapaneseLine": "「ぐう……」",
+                "translatedEnglishLine": "\"Guu...\""
+            },
+            {
+                "lineNumber": "266655",
+                "originalJapaneseLine": "「……おや？」",
+                "translatedEnglishLine": "\"... Oh?\""
+            },
+            {
+                "lineNumber": "266656",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"......\""
+            },
+            {
+                "lineNumber": "266657",
+                "originalJapaneseLine": "「なんでこいつがここに……」",
+                "translatedEnglishLine": "\"Why is this guy here...\""
+            },
+            {
+                "lineNumber": "266658",
+                "originalJapaneseLine": "男風呂の脱衣所に",
+                "translatedEnglishLine": "In the men's bath changing room,"
+            },
+            {
+                "lineNumber": "266659",
+                "originalJapaneseLine": "セスナがふらふらぐうぐうと現れた。",
+                "translatedEnglishLine": "Sesuna appeared, stumbling and snoring."
+            },
+            {
+                "lineNumber": "266660",
+                "originalJapaneseLine": "「……んぅ」",
+                "translatedEnglishLine": "\"... Mmm\""
+            },
+            {
+                "lineNumber": "266661",
+                "originalJapaneseLine": "「……お風呂、お風呂」",
+                "translatedEnglishLine": "\"... Bath, bath\""
+            },
+            {
+                "lineNumber": "266662",
+                "originalJapaneseLine": "「こいつ……",
+                "translatedEnglishLine": "\"This guy..."
+            },
+            {
+                "lineNumber": "266663",
+                "originalJapaneseLine": "　寝ぼけてやがる」",
+                "translatedEnglishLine": "He’s half asleep.\""
+            }
+        ]
+    }
+}

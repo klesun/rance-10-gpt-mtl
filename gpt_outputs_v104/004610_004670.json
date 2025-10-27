@@ -1,0 +1,719 @@
+{
+    "id": "resp_0a3540910ee1d5370068ffeea2adcc819699d779a85d983e97",
+    "object": "response",
+    "created_at": 1761603234,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0a3540910ee1d5370068ffeea336b48196990d7a6b994b993d",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"ハウゼルの心臓がキュッと締め付けられる。\",\"translatedEnglishLine\":\"Hauser's heart tightened painfully.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"これ以上、言わせてはいけない。\",\"translatedEnglishLine\":\"He must not let her say anything more.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「あなたは感じていないとでも言うつもり！？」\",\"translatedEnglishLine\":\"\\\"Are you trying to say you're not feeling it!?\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"お願い、言わないで――\",\"translatedEnglishLine\":\"Please, don't say that—\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"そのハウゼルの願いは無惨にも踏みにじられる。\",\"translatedEnglishLine\":\"Hauser's wish was cruelly trampled upon.\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"サイゼルがハウゼルにすがりつき、\",\"translatedEnglishLine\":\"Saizel clung to Hauser,\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"悲愴な顔つきで思いを吐き出す。\",\"translatedEnglishLine\":\"pouring out her feelings with a tragic expression.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「……私達、もう長くは一緒にいられない」\",\"translatedEnglishLine\":\"\\\"...We can't be together much longer.\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"（ああ……）\",\"translatedEnglishLine\":\"(Ah...)\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"言葉にされれば、\",\"translatedEnglishLine\":\"Once spoken aloud,\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"ハウゼルもまた、それを認めざるを得ない。\",\"translatedEnglishLine\":\"Hauser couldn't help but acknowledge it too.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「ねえ、これを感じているのは私だけ？\",\"translatedEnglishLine\":\"\\\"Hey, am I the only one feeling this?\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　それならそうと言って」\",\"translatedEnglishLine\":\"If so, then just say so.\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「きっと少しは安心が出来る」\",\"translatedEnglishLine\":\"\\\"That would at least bring some peace of mind.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「……予感、いえ確信がある」\",\"translatedEnglishLine\":\"\\\"I have a premonition, no, a certainty.\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「この時間は、きっともう少しでなくなる……\",\"translatedEnglishLine\":\"\\\"This time will surely come to an end soon...\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　私と貴方はもう永遠に会うことは出来なくなる」\",\"translatedEnglishLine\":\"You and I will never be able to meet again, forever.\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「理由は分からない……\",\"translatedEnglishLine\":\"\\\"I don't know the reason...\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　でも、そんな気がして仕方ないの」\",\"translatedEnglishLine\":\"But I can't help feeling that way.\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「私は貴方で……\",\"translatedEnglishLine\":\"\\\"I am you...\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　貴方は私……\",\"translatedEnglishLine\":\"And you are me...\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　だから分かる」\",\"translatedEnglishLine\":\"That's why I understand.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「ハウゼルは……\",\"translatedEnglishLine\":\"\\\"Hauser...\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　そのことから目を逸らしていたのよね……\",\"translatedEnglishLine\":\"You've been looking away from this truth...\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　だから、いつも通りの生活をしていたのよね」\",\"translatedEnglishLine\":\"That's why you've been living as if nothing had changed.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"サイゼルの顔にははっきりと、\",\"translatedEnglishLine\":\"On Saizel's face was clearly written,\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"否定をして欲しいと書かれていた。\",\"translatedEnglishLine\":\"a plea to have it denied.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"しかし、\",\"translatedEnglishLine\":\"However,\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"ハウゼルはそれを否定しない。\",\"translatedEnglishLine\":\"Hauser did not deny it.\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"それが何よりの答えだった。\",\"translatedEnglishLine\":\"That was the answer more than anything else.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「ふーん、やっぱり、そうなんだ……」\",\"translatedEnglishLine\":\"\\\"Hmm, so that's how it is after all...\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"わけの分からない予感。\",\"translatedEnglishLine\":\"A mysterious premonition.\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"しかし、二人はそれを確信していた。\",\"translatedEnglishLine\":\"Yet, the two were convinced of it.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「私、怖いのよ……」\",\"translatedEnglishLine\":\"\\\"I'm scared...\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「貴方と……\",\"translatedEnglishLine\":\"\\\"That I might...\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　離ればなれになるかも知れないことが……」\",\"translatedEnglishLine\":\"be separated from you...\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「もう……永遠に……\",\"translatedEnglishLine\":\"\\\"That we might never again...\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　貴方と一緒にいられないなんて……」\",\"translatedEnglishLine\":\"be together, not ever again...\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「サイゼル……」\",\"translatedEnglishLine\":\"\\\"Saizel...\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「ねえ、こっちへ来て……」\",\"translatedEnglishLine\":\"\\\"Hey, come here...\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「……うん」\",\"translatedEnglishLine\":\"\\\"...Yeah.\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「根拠なんてない。\",\"translatedEnglishLine\":\"\\\"There is no basis for it.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　でも、大丈夫よ」\",\"translatedEnglishLine\":\"But it will be alright.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ねえ、そう信じましょう？」\",\"translatedEnglishLine\":\"\\\"Come on, let's believe that, okay?\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「うん、そう……ね……」\",\"translatedEnglishLine\":\"\\\"Yeah, that's... right...\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「そう、する……」\",\"translatedEnglishLine\":\"\\\"Yes, let's do that...\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「うん……」\",\"translatedEnglishLine\":\"\\\"Yeah...\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"不安が決して消えたわけではない。\",\"translatedEnglishLine\":\"Their anxiety had not completely disappeared.\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"それでも互いに笑顔を浮かべて頷き合う。\",\"translatedEnglishLine\":\"Still, they smiled and nodded to each other.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"心からホッとしている。\",\"translatedEnglishLine\":\"They felt relief deep in their hearts.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"二人の気持ちが一つになったことを実感する。\",\"translatedEnglishLine\":\"They felt their feelings had become one.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"そして、それは訪れた――\",\"translatedEnglishLine\":\"And then, it arrived—\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「あ、な、なに……！？」\",\"translatedEnglishLine\":\"\\\"W-What...!?\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「う、くっ！？\",\"translatedEnglishLine\":\"\\\"Ugh, ugh!?\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　か、体が……熱い……！？」\",\"translatedEnglishLine\":\"M-My body... is burning...!?\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「は、ハウゼル……！」\",\"translatedEnglishLine\":\"\\\"H-Hauser...!\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「サイゼル……！」\",\"translatedEnglishLine\":\"\\\"Saizel...!\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "269244",
+                                "originalJapaneseLine": "ハウゼルの心臓がキュッと締め付けられる。",
+                                "translatedEnglishLine": "Hauser's heart tightened painfully."
+                            },
+                            {
+                                "lineNumber": "269245",
+                                "originalJapaneseLine": "これ以上、言わせてはいけない。",
+                                "translatedEnglishLine": "He must not let her say anything more."
+                            },
+                            {
+                                "lineNumber": "269246",
+                                "originalJapaneseLine": "「あなたは感じていないとでも言うつもり！？」",
+                                "translatedEnglishLine": "\"Are you trying to say you're not feeling it!?\""
+                            },
+                            {
+                                "lineNumber": "269247",
+                                "originalJapaneseLine": "お願い、言わないで――",
+                                "translatedEnglishLine": "Please, don't say that—"
+                            },
+                            {
+                                "lineNumber": "269248",
+                                "originalJapaneseLine": "そのハウゼルの願いは無惨にも踏みにじられる。",
+                                "translatedEnglishLine": "Hauser's wish was cruelly trampled upon."
+                            },
+                            {
+                                "lineNumber": "269249",
+                                "originalJapaneseLine": "サイゼルがハウゼルにすがりつき、",
+                                "translatedEnglishLine": "Saizel clung to Hauser,"
+                            },
+                            {
+                                "lineNumber": "269250",
+                                "originalJapaneseLine": "悲愴な顔つきで思いを吐き出す。",
+                                "translatedEnglishLine": "pouring out her feelings with a tragic expression."
+                            },
+                            {
+                                "lineNumber": "269251",
+                                "originalJapaneseLine": "「……私達、もう長くは一緒にいられない」",
+                                "translatedEnglishLine": "\"...We can't be together much longer.\""
+                            },
+                            {
+                                "lineNumber": "269252",
+                                "originalJapaneseLine": "（ああ……）",
+                                "translatedEnglishLine": "(Ah...)"
+                            },
+                            {
+                                "lineNumber": "269253",
+                                "originalJapaneseLine": "言葉にされれば、",
+                                "translatedEnglishLine": "Once spoken aloud,"
+                            },
+                            {
+                                "lineNumber": "269254",
+                                "originalJapaneseLine": "ハウゼルもまた、それを認めざるを得ない。",
+                                "translatedEnglishLine": "Hauser couldn't help but acknowledge it too."
+                            },
+                            {
+                                "lineNumber": "269255",
+                                "originalJapaneseLine": "「ねえ、これを感じているのは私だけ？",
+                                "translatedEnglishLine": "\"Hey, am I the only one feeling this?"
+                            },
+                            {
+                                "lineNumber": "269256",
+                                "originalJapaneseLine": "　それならそうと言って」",
+                                "translatedEnglishLine": "If so, then just say so.\""
+                            },
+                            {
+                                "lineNumber": "269257",
+                                "originalJapaneseLine": "「きっと少しは安心が出来る」",
+                                "translatedEnglishLine": "\"That would at least bring some peace of mind.\""
+                            },
+                            {
+                                "lineNumber": "269258",
+                                "originalJapaneseLine": "「……予感、いえ確信がある」",
+                                "translatedEnglishLine": "\"I have a premonition, no, a certainty.\""
+                            },
+                            {
+                                "lineNumber": "269259",
+                                "originalJapaneseLine": "「この時間は、きっともう少しでなくなる……",
+                                "translatedEnglishLine": "\"This time will surely come to an end soon..."
+                            },
+                            {
+                                "lineNumber": "269260",
+                                "originalJapaneseLine": "　私と貴方はもう永遠に会うことは出来なくなる」",
+                                "translatedEnglishLine": "You and I will never be able to meet again, forever.\""
+                            },
+                            {
+                                "lineNumber": "269261",
+                                "originalJapaneseLine": "「理由は分からない……",
+                                "translatedEnglishLine": "\"I don't know the reason..."
+                            },
+                            {
+                                "lineNumber": "269262",
+                                "originalJapaneseLine": "　でも、そんな気がして仕方ないの」",
+                                "translatedEnglishLine": "But I can't help feeling that way.\""
+                            },
+                            {
+                                "lineNumber": "269263",
+                                "originalJapaneseLine": "「私は貴方で……",
+                                "translatedEnglishLine": "\"I am you..."
+                            },
+                            {
+                                "lineNumber": "269264",
+                                "originalJapaneseLine": "　貴方は私……",
+                                "translatedEnglishLine": "And you are me..."
+                            },
+                            {
+                                "lineNumber": "269265",
+                                "originalJapaneseLine": "　だから分かる」",
+                                "translatedEnglishLine": "That's why I understand.\""
+                            },
+                            {
+                                "lineNumber": "269266",
+                                "originalJapaneseLine": "「ハウゼルは……",
+                                "translatedEnglishLine": "\"Hauser..."
+                            },
+                            {
+                                "lineNumber": "269267",
+                                "originalJapaneseLine": "　そのことから目を逸らしていたのよね……",
+                                "translatedEnglishLine": "You've been looking away from this truth..."
+                            },
+                            {
+                                "lineNumber": "269268",
+                                "originalJapaneseLine": "　だから、いつも通りの生活をしていたのよね」",
+                                "translatedEnglishLine": "That's why you've been living as if nothing had changed.\""
+                            },
+                            {
+                                "lineNumber": "269269",
+                                "originalJapaneseLine": "サイゼルの顔にははっきりと、",
+                                "translatedEnglishLine": "On Saizel's face was clearly written,"
+                            },
+                            {
+                                "lineNumber": "269270",
+                                "originalJapaneseLine": "否定をして欲しいと書かれていた。",
+                                "translatedEnglishLine": "a plea to have it denied."
+                            },
+                            {
+                                "lineNumber": "269271",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "269272",
+                                "originalJapaneseLine": "しかし、",
+                                "translatedEnglishLine": "However,"
+                            },
+                            {
+                                "lineNumber": "269273",
+                                "originalJapaneseLine": "ハウゼルはそれを否定しない。",
+                                "translatedEnglishLine": "Hauser did not deny it."
+                            },
+                            {
+                                "lineNumber": "269274",
+                                "originalJapaneseLine": "それが何よりの答えだった。",
+                                "translatedEnglishLine": "That was the answer more than anything else."
+                            },
+                            {
+                                "lineNumber": "269275",
+                                "originalJapaneseLine": "「ふーん、やっぱり、そうなんだ……」",
+                                "translatedEnglishLine": "\"Hmm, so that's how it is after all...\""
+                            },
+                            {
+                                "lineNumber": "269276",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "269277",
+                                "originalJapaneseLine": "わけの分からない予感。",
+                                "translatedEnglishLine": "A mysterious premonition."
+                            },
+                            {
+                                "lineNumber": "269278",
+                                "originalJapaneseLine": "しかし、二人はそれを確信していた。",
+                                "translatedEnglishLine": "Yet, the two were convinced of it."
+                            },
+                            {
+                                "lineNumber": "269279",
+                                "originalJapaneseLine": "「私、怖いのよ……」",
+                                "translatedEnglishLine": "\"I'm scared...\""
+                            },
+                            {
+                                "lineNumber": "269280",
+                                "originalJapaneseLine": "「貴方と……",
+                                "translatedEnglishLine": "\"That I might..."
+                            },
+                            {
+                                "lineNumber": "269281",
+                                "originalJapaneseLine": "　離ればなれになるかも知れないことが……」",
+                                "translatedEnglishLine": "be separated from you..."
+                            },
+                            {
+                                "lineNumber": "269282",
+                                "originalJapaneseLine": "「もう……永遠に……",
+                                "translatedEnglishLine": "\"That we might never again..."
+                            },
+                            {
+                                "lineNumber": "269283",
+                                "originalJapaneseLine": "　貴方と一緒にいられないなんて……」",
+                                "translatedEnglishLine": "be together, not ever again...\""
+                            },
+                            {
+                                "lineNumber": "269284",
+                                "originalJapaneseLine": "「サイゼル……」",
+                                "translatedEnglishLine": "\"Saizel...\""
+                            },
+                            {
+                                "lineNumber": "269285",
+                                "originalJapaneseLine": "「ねえ、こっちへ来て……」",
+                                "translatedEnglishLine": "\"Hey, come here...\""
+                            },
+                            {
+                                "lineNumber": "269286",
+                                "originalJapaneseLine": "「……うん」",
+                                "translatedEnglishLine": "\"...Yeah.\""
+                            },
+                            {
+                                "lineNumber": "269287",
+                                "originalJapaneseLine": "「根拠なんてない。",
+                                "translatedEnglishLine": "\"There is no basis for it."
+                            },
+                            {
+                                "lineNumber": "269288",
+                                "originalJapaneseLine": "　でも、大丈夫よ」",
+                                "translatedEnglishLine": "But it will be alright.\""
+                            },
+                            {
+                                "lineNumber": "269289",
+                                "originalJapaneseLine": "「ねえ、そう信じましょう？」",
+                                "translatedEnglishLine": "\"Come on, let's believe that, okay?\""
+                            },
+                            {
+                                "lineNumber": "269290",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "269291",
+                                "originalJapaneseLine": "「うん、そう……ね……」",
+                                "translatedEnglishLine": "\"Yeah, that's... right...\""
+                            },
+                            {
+                                "lineNumber": "269292",
+                                "originalJapaneseLine": "「そう、する……」",
+                                "translatedEnglishLine": "\"Yes, let's do that...\""
+                            },
+                            {
+                                "lineNumber": "269293",
+                                "originalJapaneseLine": "「うん……」",
+                                "translatedEnglishLine": "\"Yeah...\""
+                            },
+                            {
+                                "lineNumber": "269294",
+                                "originalJapaneseLine": "不安が決して消えたわけではない。",
+                                "translatedEnglishLine": "Their anxiety had not completely disappeared."
+                            },
+                            {
+                                "lineNumber": "269295",
+                                "originalJapaneseLine": "それでも互いに笑顔を浮かべて頷き合う。",
+                                "translatedEnglishLine": "Still, they smiled and nodded to each other."
+                            },
+                            {
+                                "lineNumber": "269296",
+                                "originalJapaneseLine": "心からホッとしている。",
+                                "translatedEnglishLine": "They felt relief deep in their hearts."
+                            },
+                            {
+                                "lineNumber": "269297",
+                                "originalJapaneseLine": "二人の気持ちが一つになったことを実感する。",
+                                "translatedEnglishLine": "They felt their feelings had become one."
+                            },
+                            {
+                                "lineNumber": "269298",
+                                "originalJapaneseLine": "そして、それは訪れた――",
+                                "translatedEnglishLine": "And then, it arrived—"
+                            },
+                            {
+                                "lineNumber": "269299",
+                                "originalJapaneseLine": "「あ、な、なに……！？」",
+                                "translatedEnglishLine": "\"W-What...!?\""
+                            },
+                            {
+                                "lineNumber": "269300",
+                                "originalJapaneseLine": "「う、くっ！？",
+                                "translatedEnglishLine": "\"Ugh, ugh!?\""
+                            },
+                            {
+                                "lineNumber": "269301",
+                                "originalJapaneseLine": "　か、体が……熱い……！？」",
+                                "translatedEnglishLine": "M-My body... is burning...!?"
+                            },
+                            {
+                                "lineNumber": "269302",
+                                "originalJapaneseLine": "「は、ハウゼル……！」",
+                                "translatedEnglishLine": "\"H-Hauser...!\""
+                            },
+                            {
+                                "lineNumber": "269303",
+                                "originalJapaneseLine": "「サイゼル……！」",
+                                "translatedEnglishLine": "\"Saizel...!\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1747,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1977,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3724
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"ハウゼルの心臓がキュッと締め付けられる。\",\"translatedEnglishLine\":\"Hauser's heart tightened painfully.\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"これ以上、言わせてはいけない。\",\"translatedEnglishLine\":\"He must not let her say anything more.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「あなたは感じていないとでも言うつもり！？」\",\"translatedEnglishLine\":\"\\\"Are you trying to say you're not feeling it!?\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"お願い、言わないで――\",\"translatedEnglishLine\":\"Please, don't say that—\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"そのハウゼルの願いは無惨にも踏みにじられる。\",\"translatedEnglishLine\":\"Hauser's wish was cruelly trampled upon.\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"サイゼルがハウゼルにすがりつき、\",\"translatedEnglishLine\":\"Saizel clung to Hauser,\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"悲愴な顔つきで思いを吐き出す。\",\"translatedEnglishLine\":\"pouring out her feelings with a tragic expression.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「……私達、もう長くは一緒にいられない」\",\"translatedEnglishLine\":\"\\\"...We can't be together much longer.\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"（ああ……）\",\"translatedEnglishLine\":\"(Ah...)\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"言葉にされれば、\",\"translatedEnglishLine\":\"Once spoken aloud,\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"ハウゼルもまた、それを認めざるを得ない。\",\"translatedEnglishLine\":\"Hauser couldn't help but acknowledge it too.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「ねえ、これを感じているのは私だけ？\",\"translatedEnglishLine\":\"\\\"Hey, am I the only one feeling this?\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　それならそうと言って」\",\"translatedEnglishLine\":\"If so, then just say so.\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「きっと少しは安心が出来る」\",\"translatedEnglishLine\":\"\\\"That would at least bring some peace of mind.\\\"\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「……予感、いえ確信がある」\",\"translatedEnglishLine\":\"\\\"I have a premonition, no, a certainty.\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「この時間は、きっともう少しでなくなる……\",\"translatedEnglishLine\":\"\\\"This time will surely come to an end soon...\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"　私と貴方はもう永遠に会うことは出来なくなる」\",\"translatedEnglishLine\":\"You and I will never be able to meet again, forever.\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「理由は分からない……\",\"translatedEnglishLine\":\"\\\"I don't know the reason...\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　でも、そんな気がして仕方ないの」\",\"translatedEnglishLine\":\"But I can't help feeling that way.\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「私は貴方で……\",\"translatedEnglishLine\":\"\\\"I am you...\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　貴方は私……\",\"translatedEnglishLine\":\"And you are me...\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　だから分かる」\",\"translatedEnglishLine\":\"That's why I understand.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「ハウゼルは……\",\"translatedEnglishLine\":\"\\\"Hauser...\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　そのことから目を逸らしていたのよね……\",\"translatedEnglishLine\":\"You've been looking away from this truth...\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　だから、いつも通りの生活をしていたのよね」\",\"translatedEnglishLine\":\"That's why you've been living as if nothing had changed.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"サイゼルの顔にははっきりと、\",\"translatedEnglishLine\":\"On Saizel's face was clearly written,\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"否定をして欲しいと書かれていた。\",\"translatedEnglishLine\":\"a plea to have it denied.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"しかし、\",\"translatedEnglishLine\":\"However,\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"ハウゼルはそれを否定しない。\",\"translatedEnglishLine\":\"Hauser did not deny it.\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"それが何よりの答えだった。\",\"translatedEnglishLine\":\"That was the answer more than anything else.\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「ふーん、やっぱり、そうなんだ……」\",\"translatedEnglishLine\":\"\\\"Hmm, so that's how it is after all...\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"わけの分からない予感。\",\"translatedEnglishLine\":\"A mysterious premonition.\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"しかし、二人はそれを確信していた。\",\"translatedEnglishLine\":\"Yet, the two were convinced of it.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「私、怖いのよ……」\",\"translatedEnglishLine\":\"\\\"I'm scared...\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「貴方と……\",\"translatedEnglishLine\":\"\\\"That I might...\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　離ればなれになるかも知れないことが……」\",\"translatedEnglishLine\":\"be separated from you...\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「もう……永遠に……\",\"translatedEnglishLine\":\"\\\"That we might never again...\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　貴方と一緒にいられないなんて……」\",\"translatedEnglishLine\":\"be together, not ever again...\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「サイゼル……」\",\"translatedEnglishLine\":\"\\\"Saizel...\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「ねえ、こっちへ来て……」\",\"translatedEnglishLine\":\"\\\"Hey, come here...\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「……うん」\",\"translatedEnglishLine\":\"\\\"...Yeah.\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「根拠なんてない。\",\"translatedEnglishLine\":\"\\\"There is no basis for it.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　でも、大丈夫よ」\",\"translatedEnglishLine\":\"But it will be alright.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ねえ、そう信じましょう？」\",\"translatedEnglishLine\":\"\\\"Come on, let's believe that, okay?\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「うん、そう……ね……」\",\"translatedEnglishLine\":\"\\\"Yeah, that's... right...\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「そう、する……」\",\"translatedEnglishLine\":\"\\\"Yes, let's do that...\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「うん……」\",\"translatedEnglishLine\":\"\\\"Yeah...\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"不安が決して消えたわけではない。\",\"translatedEnglishLine\":\"Their anxiety had not completely disappeared.\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"それでも互いに笑顔を浮かべて頷き合う。\",\"translatedEnglishLine\":\"Still, they smiled and nodded to each other.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"心からホッとしている。\",\"translatedEnglishLine\":\"They felt relief deep in their hearts.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"二人の気持ちが一つになったことを実感する。\",\"translatedEnglishLine\":\"They felt their feelings had become one.\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"そして、それは訪れた――\",\"translatedEnglishLine\":\"And then, it arrived—\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「あ、な、なに……！？」\",\"translatedEnglishLine\":\"\\\"W-What...!?\\\"\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"「う、くっ！？\",\"translatedEnglishLine\":\"\\\"Ugh, ugh!?\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"　か、体が……熱い……！？」\",\"translatedEnglishLine\":\"M-My body... is burning...!?\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「は、ハウゼル……！」\",\"translatedEnglishLine\":\"\\\"H-Hauser...!\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「サイゼル……！」\",\"translatedEnglishLine\":\"\\\"Saizel...!\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "269244",
+                "originalJapaneseLine": "ハウゼルの心臓がキュッと締め付けられる。",
+                "translatedEnglishLine": "Hauser's heart tightened painfully."
+            },
+            {
+                "lineNumber": "269245",
+                "originalJapaneseLine": "これ以上、言わせてはいけない。",
+                "translatedEnglishLine": "He must not let her say anything more."
+            },
+            {
+                "lineNumber": "269246",
+                "originalJapaneseLine": "「あなたは感じていないとでも言うつもり！？」",
+                "translatedEnglishLine": "\"Are you trying to say you're not feeling it!?\""
+            },
+            {
+                "lineNumber": "269247",
+                "originalJapaneseLine": "お願い、言わないで――",
+                "translatedEnglishLine": "Please, don't say that—"
+            },
+            {
+                "lineNumber": "269248",
+                "originalJapaneseLine": "そのハウゼルの願いは無惨にも踏みにじられる。",
+                "translatedEnglishLine": "Hauser's wish was cruelly trampled upon."
+            },
+            {
+                "lineNumber": "269249",
+                "originalJapaneseLine": "サイゼルがハウゼルにすがりつき、",
+                "translatedEnglishLine": "Saizel clung to Hauser,"
+            },
+            {
+                "lineNumber": "269250",
+                "originalJapaneseLine": "悲愴な顔つきで思いを吐き出す。",
+                "translatedEnglishLine": "pouring out her feelings with a tragic expression."
+            },
+            {
+                "lineNumber": "269251",
+                "originalJapaneseLine": "「……私達、もう長くは一緒にいられない」",
+                "translatedEnglishLine": "\"...We can't be together much longer.\""
+            },
+            {
+                "lineNumber": "269252",
+                "originalJapaneseLine": "（ああ……）",
+                "translatedEnglishLine": "(Ah...)"
+            },
+            {
+                "lineNumber": "269253",
+                "originalJapaneseLine": "言葉にされれば、",
+                "translatedEnglishLine": "Once spoken aloud,"
+            },
+            {
+                "lineNumber": "269254",
+                "originalJapaneseLine": "ハウゼルもまた、それを認めざるを得ない。",
+                "translatedEnglishLine": "Hauser couldn't help but acknowledge it too."
+            },
+            {
+                "lineNumber": "269255",
+                "originalJapaneseLine": "「ねえ、これを感じているのは私だけ？",
+                "translatedEnglishLine": "\"Hey, am I the only one feeling this?"
+            },
+            {
+                "lineNumber": "269256",
+                "originalJapaneseLine": "　それならそうと言って」",
+                "translatedEnglishLine": "If so, then just say so.\""
+            },
+            {
+                "lineNumber": "269257",
+                "originalJapaneseLine": "「きっと少しは安心が出来る」",
+                "translatedEnglishLine": "\"That would at least bring some peace of mind.\""
+            },
+            {
+                "lineNumber": "269258",
+                "originalJapaneseLine": "「……予感、いえ確信がある」",
+                "translatedEnglishLine": "\"I have a premonition, no, a certainty.\""
+            },
+            {
+                "lineNumber": "269259",
+                "originalJapaneseLine": "「この時間は、きっともう少しでなくなる……",
+                "translatedEnglishLine": "\"This time will surely come to an end soon..."
+            },
+            {
+                "lineNumber": "269260",
+                "originalJapaneseLine": "　私と貴方はもう永遠に会うことは出来なくなる」",
+                "translatedEnglishLine": "You and I will never be able to meet again, forever.\""
+            },
+            {
+                "lineNumber": "269261",
+                "originalJapaneseLine": "「理由は分からない……",
+                "translatedEnglishLine": "\"I don't know the reason..."
+            },
+            {
+                "lineNumber": "269262",
+                "originalJapaneseLine": "　でも、そんな気がして仕方ないの」",
+                "translatedEnglishLine": "But I can't help feeling that way.\""
+            },
+            {
+                "lineNumber": "269263",
+                "originalJapaneseLine": "「私は貴方で……",
+                "translatedEnglishLine": "\"I am you..."
+            },
+            {
+                "lineNumber": "269264",
+                "originalJapaneseLine": "　貴方は私……",
+                "translatedEnglishLine": "And you are me..."
+            },
+            {
+                "lineNumber": "269265",
+                "originalJapaneseLine": "　だから分かる」",
+                "translatedEnglishLine": "That's why I understand.\""
+            },
+            {
+                "lineNumber": "269266",
+                "originalJapaneseLine": "「ハウゼルは……",
+                "translatedEnglishLine": "\"Hauser..."
+            },
+            {
+                "lineNumber": "269267",
+                "originalJapaneseLine": "　そのことから目を逸らしていたのよね……",
+                "translatedEnglishLine": "You've been looking away from this truth..."
+            },
+            {
+                "lineNumber": "269268",
+                "originalJapaneseLine": "　だから、いつも通りの生活をしていたのよね」",
+                "translatedEnglishLine": "That's why you've been living as if nothing had changed.\""
+            },
+            {
+                "lineNumber": "269269",
+                "originalJapaneseLine": "サイゼルの顔にははっきりと、",
+                "translatedEnglishLine": "On Saizel's face was clearly written,"
+            },
+            {
+                "lineNumber": "269270",
+                "originalJapaneseLine": "否定をして欲しいと書かれていた。",
+                "translatedEnglishLine": "a plea to have it denied."
+            },
+            {
+                "lineNumber": "269271",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "269272",
+                "originalJapaneseLine": "しかし、",
+                "translatedEnglishLine": "However,"
+            },
+            {
+                "lineNumber": "269273",
+                "originalJapaneseLine": "ハウゼルはそれを否定しない。",
+                "translatedEnglishLine": "Hauser did not deny it."
+            },
+            {
+                "lineNumber": "269274",
+                "originalJapaneseLine": "それが何よりの答えだった。",
+                "translatedEnglishLine": "That was the answer more than anything else."
+            },
+            {
+                "lineNumber": "269275",
+                "originalJapaneseLine": "「ふーん、やっぱり、そうなんだ……」",
+                "translatedEnglishLine": "\"Hmm, so that's how it is after all...\""
+            },
+            {
+                "lineNumber": "269276",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "269277",
+                "originalJapaneseLine": "わけの分からない予感。",
+                "translatedEnglishLine": "A mysterious premonition."
+            },
+            {
+                "lineNumber": "269278",
+                "originalJapaneseLine": "しかし、二人はそれを確信していた。",
+                "translatedEnglishLine": "Yet, the two were convinced of it."
+            },
+            {
+                "lineNumber": "269279",
+                "originalJapaneseLine": "「私、怖いのよ……」",
+                "translatedEnglishLine": "\"I'm scared...\""
+            },
+            {
+                "lineNumber": "269280",
+                "originalJapaneseLine": "「貴方と……",
+                "translatedEnglishLine": "\"That I might..."
+            },
+            {
+                "lineNumber": "269281",
+                "originalJapaneseLine": "　離ればなれになるかも知れないことが……」",
+                "translatedEnglishLine": "be separated from you..."
+            },
+            {
+                "lineNumber": "269282",
+                "originalJapaneseLine": "「もう……永遠に……",
+                "translatedEnglishLine": "\"That we might never again..."
+            },
+            {
+                "lineNumber": "269283",
+                "originalJapaneseLine": "　貴方と一緒にいられないなんて……」",
+                "translatedEnglishLine": "be together, not ever again...\""
+            },
+            {
+                "lineNumber": "269284",
+                "originalJapaneseLine": "「サイゼル……」",
+                "translatedEnglishLine": "\"Saizel...\""
+            },
+            {
+                "lineNumber": "269285",
+                "originalJapaneseLine": "「ねえ、こっちへ来て……」",
+                "translatedEnglishLine": "\"Hey, come here...\""
+            },
+            {
+                "lineNumber": "269286",
+                "originalJapaneseLine": "「……うん」",
+                "translatedEnglishLine": "\"...Yeah.\""
+            },
+            {
+                "lineNumber": "269287",
+                "originalJapaneseLine": "「根拠なんてない。",
+                "translatedEnglishLine": "\"There is no basis for it."
+            },
+            {
+                "lineNumber": "269288",
+                "originalJapaneseLine": "　でも、大丈夫よ」",
+                "translatedEnglishLine": "But it will be alright.\""
+            },
+            {
+                "lineNumber": "269289",
+                "originalJapaneseLine": "「ねえ、そう信じましょう？」",
+                "translatedEnglishLine": "\"Come on, let's believe that, okay?\""
+            },
+            {
+                "lineNumber": "269290",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "269291",
+                "originalJapaneseLine": "「うん、そう……ね……」",
+                "translatedEnglishLine": "\"Yeah, that's... right...\""
+            },
+            {
+                "lineNumber": "269292",
+                "originalJapaneseLine": "「そう、する……」",
+                "translatedEnglishLine": "\"Yes, let's do that...\""
+            },
+            {
+                "lineNumber": "269293",
+                "originalJapaneseLine": "「うん……」",
+                "translatedEnglishLine": "\"Yeah...\""
+            },
+            {
+                "lineNumber": "269294",
+                "originalJapaneseLine": "不安が決して消えたわけではない。",
+                "translatedEnglishLine": "Their anxiety had not completely disappeared."
+            },
+            {
+                "lineNumber": "269295",
+                "originalJapaneseLine": "それでも互いに笑顔を浮かべて頷き合う。",
+                "translatedEnglishLine": "Still, they smiled and nodded to each other."
+            },
+            {
+                "lineNumber": "269296",
+                "originalJapaneseLine": "心からホッとしている。",
+                "translatedEnglishLine": "They felt relief deep in their hearts."
+            },
+            {
+                "lineNumber": "269297",
+                "originalJapaneseLine": "二人の気持ちが一つになったことを実感する。",
+                "translatedEnglishLine": "They felt their feelings had become one."
+            },
+            {
+                "lineNumber": "269298",
+                "originalJapaneseLine": "そして、それは訪れた――",
+                "translatedEnglishLine": "And then, it arrived—"
+            },
+            {
+                "lineNumber": "269299",
+                "originalJapaneseLine": "「あ、な、なに……！？」",
+                "translatedEnglishLine": "\"W-What...!?\""
+            },
+            {
+                "lineNumber": "269300",
+                "originalJapaneseLine": "「う、くっ！？",
+                "translatedEnglishLine": "\"Ugh, ugh!?\""
+            },
+            {
+                "lineNumber": "269301",
+                "originalJapaneseLine": "　か、体が……熱い……！？」",
+                "translatedEnglishLine": "M-My body... is burning...!?"
+            },
+            {
+                "lineNumber": "269302",
+                "originalJapaneseLine": "「は、ハウゼル……！」",
+                "translatedEnglishLine": "\"H-Hauser...!\""
+            },
+            {
+                "lineNumber": "269303",
+                "originalJapaneseLine": "「サイゼル……！」",
+                "translatedEnglishLine": "\"Saizel...!\""
+            }
+        ]
+    }
+}
