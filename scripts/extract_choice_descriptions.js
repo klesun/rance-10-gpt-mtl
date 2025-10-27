@@ -1979,7 +1979,7 @@ for (const match of [...matches].reverse()) {
     const jpn = JSON.parse(capture);
     const found = translations.find(t => t.jpn === jpn);
     if (!found) {
-        continue;
+        throw new Error("Translation not found for " + jpn);
     }
     const eng = found.eng;
     const normalized = replaceUnicode(eng)
