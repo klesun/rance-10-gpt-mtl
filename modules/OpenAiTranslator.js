@@ -47,9 +47,6 @@ export const translateNextChunk = async (inputMessages, chunkStart, chunkSize) =
     const chunk = inputMessages.slice(chunkStart, chunkStart + chunkSize);
 
     const startMs = Date.now();
-    const inputLines = chunk.map(lr => lr.originalJapaneseLine.trim() || "...");
-    console.log("____ trying to translate following _________");
-    console.log(inputLines.map((line, i) => String(i).padStart(3, " ") + ". " + line).join("\n"))
 
     const PROMPT = `Translate every single line from Japanese to English according to the supplied schema. There are exactly ${chunk.length} lines. The text is from the game Rance X by Alicesoft.`;
 
@@ -61,7 +58,7 @@ export const translateNextChunk = async (inputMessages, chunkStart, chunkSize) =
         input: [
             { role: "system", content: PROMPT },
             { role: "user", content: [{
-                text: inputLines.join("\n"),
+                text: JSON.stringify(chunk),
                 type: 'input_text',
             }] }
         ],

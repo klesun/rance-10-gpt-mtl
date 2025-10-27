@@ -1,6 +1,6 @@
 import fs from "fs/promises";
 
-const ainTxt = await fs.readFile("./Rance10.ain.txt", "utf-8");
+const ainTxt = await fs.readFile("./Rance10.v1.04.ain.txt", "utf-8");
 const lines = ainTxt.split("\n");
 
 const unparsed = [];
@@ -36,4 +36,4 @@ for (const line of lines) {
 const messageLines = parsed.filter(lr => lr.lineKind === "m");
 const outputJson = "[\n" + messageLines.map(ml => JSON.stringify(ml)).join(",\n") + "\n]";
 
-await fs.writeFile("./Rance10.ain.json", outputJson, "utf-8");
+await fs.writeFile("./Rance10.v1.04.ain.json", outputJson, "utf-8");

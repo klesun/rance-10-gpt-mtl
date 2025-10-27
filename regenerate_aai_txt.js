@@ -2,7 +2,40 @@ import * as fs from "fs/promises";
 import {replaceUnicode, wrapAt} from "./modules/TextNormalization.js";
 
 
-const sysTranslations = await fs.readFile("./system_cherry_picks.ain.txt", "utf-8");
+const v100AinJson = await fs.readFile("./Rance10.v1.00.ain.json", "utf-8");
+const v100AinData = JSON.parse(v100AinJson);
+
+const v104AinJson = await fs.readFile("./Rance10.v1.04.ain.json", "utf-8");
+const v104AinData = JSON.parse(v104AinJson);
+
+const mapLineNumbers = (v100AinData, v104AinData) => {
+    let v100Offset = 0;
+    let v104LastMappedOffset = -1;
+    const mapping = new Map();
+    done:
+    while (v100Offset < v100AinData.length) {
+        for (let v104Offset = v104LastMappedOffset + 1; v104Offset < v104AinData.length; ++v104Offset) {
+            const v100Record = v100AinData[v100Offset];
+            const v104Record = v104AinData[v104Offset];
+            if (v100Record.originalJapaneseLine === v104Record.originalJapaneseLine) {
+                mapping.set(+v100Record.lineNumber, +v104Record.lineNumber);
+                ++v100Offset;
+                v104LastMappedOffset = v104Offset;
+                if (v100Offset === v100AinData.length) {
+                    break done;
+                }
+            }
+        }
+        ++v100Offset;
+    }
+    const mapped = new Set(mapping.values());
+    const unmapped = v104AinData.filter(rec => !mapped.has(+rec.lineNumber));
+    return [mapping, unmapped];
+};
+
+const [v100ToV104, unmapped] = mapLineNumbers(v100AinData, v104AinData);
+
+await fs.writeFile("unmapped.ain.json", JSON.stringify(unmapped, null, 4), "utf-8");
 
 const ROOT_FOLDER_PATH = "./gpt_outputs";
 
@@ -25,6 +58,7 @@ for (const chunkFile of chunkFiles) {
     const data = JSON.parse(json);
     allLineRecords.push(...data.output_parsed.translationLines);
 }
+
 const LONGEST_LINE = "“More importantly, what we should discuss now is how the other";
 
 // language=file-reference
@@ -56,15 +90,19 @@ const normalizeNames = (lineRecord) => {
 };
 
 const output = allLineRecords
-    .map(lr => {
+    .flatMap(lr => {
+        const v104LineNumber = v100ToV104.get(+lr.lineNumber);
+        if (!v104LineNumber) {
+            return [];
+        }
         let text = normalizeNames(lr);
         text = replaceUnicode(text);
         // if (text.match(/[^\x00-\x7F♪☆○Σ]/)) {
         //     throw new Error("Got unicode characters, please remove: " + text + " at " + lr.lineNumber);
         // }
         text = wrapAt(text, LONGEST_LINE);
-        return `m[${lr.lineNumber}] = ${JSON.stringify(text)}`;
+        return [`m[${v104LineNumber}] = ${JSON.stringify(text)}`];
     })
-    .join("\n") + sysTranslations + "\n";
+    .join("\n") + "\n";
 
 await fs.writeFile("regenerated.ain.txt", output, "utf-8");
