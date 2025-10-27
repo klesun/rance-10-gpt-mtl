@@ -3,6 +3,17 @@
 ; QuestMapParamAccessor@GetDesc
 s[4170] = "Advance"
 
+; SceneQuestMapGetCardDialog@LoadActivity
+s[2826] = "Card Acquired"
+s[2827] = "You obtained the card [%s]"
+
+; SceneReplayMemoDialog@<lambda : SceneReplayMemoDialog@<lambda : SceneReplayMemoDialog@0(ref SceneStack, string)(18, 54)>(string, int, string, string)(31, 44)>
+s[2572] = "You obtained the encyclopedia entry [%s]。\nWould you like to check it now？"
+
+; QuestMapSystemEventDispatcher::Run
+s[4104] = "Recovery Point"
+s[4105] = "HP/Skills|Refill|Yay"
+
 ; SaveObjectView@OnButtonBaseClick
 s[3521] = "Load this save？"
 
@@ -19,16 +30,26 @@ s[3889] = "First Finisher by %s"
 s[3890] = "First Finisher"
 s[3891] = "Cumulative Failure Bonus"
 
-; SceneQuestMapGetCardDialog@LoadActivity
-s[2826] = "Card Acquired"
-s[2827] = "You obtained the card [%s]"
 
-; SceneReplayMemoDialog@<lambda : SceneReplayMemoDialog@<lambda : SceneReplayMemoDialog@0(ref SceneStack, string)(18, 54)>(string, int, string, string)(31, 44)>
-s[2572] = "You obtained the encyclopedia entry [%s]。\nWould you like to check it now？"
+; PartyBonus@GetName
+s[3966] = "Add Leader Slot"
+s[3967] = "Increase Max AP"
+s[3968] = "AP Recovery +"
+s[3969] = "Swap Leader"
+s[3970] = "Unl. Gods/Demons"
+s[3971] = "Boost Chance"
+s[3972] = "All-Out Follow-Up"
+s[3973] = "HP Multiplier +"
+s[3974] = "Physical Multiplier +"
+s[3975] = "Magic Multiplier +"
+s[3976] = "EXP Gain +"
+s[3977] = "Enhance All Items ★"
+s[3978] = "Rare Drop Rate +"
+s[3979] = "Honey Zippo"
+s[3980] = "Entire Party Strength"
+s[3981] = "Remove Limit Cap"
+s[3983] = "+1 On Even Turns"
 
-; QuestMapSystemEventDispatcher::Run
-s[4104] = "Recovery Point"
-s[4105] = "HP/Skills|Refill|Yay"
 
 
 ; ０２／コールドスリープ５万年後２
@@ -470,22 +491,3 @@ s[10910] = "Strongest Martial Artist"
 s[10912] = "Demon Who Has Become Weak Again?"
 s[10914] = "Security Guard"
 s[10835] = "Son of Felis (Father = Rance)"
-
-; PartyBonus@GetName
-s[3966] = "Add Leader Slot"
-s[3967] = "Increase Max AP"
-s[3968] = "AP Recovery +"
-s[3969] = "Swap Leader"
-s[3970] = "Unl. Gods/Demons"
-s[3971] = "Boost Chance"
-s[3972] = "All-Out Follow-Up"
-s[3973] = "HP Multiplier +"
-s[3974] = "Physical Multiplier +"
-s[3975] = "Magic Multiplier +"
-s[3976] = "EXP Gain +"
-s[3977] = "Enhance All Items ★"
-s[3978] = "Rare Drop Rate +"
-s[3979] = "Honey Zippo"
-s[3980] = "Entire Party Strength"
-s[3981] = "Remove Limit Cap"
-s[3983] = "+1 On Even Turns"
