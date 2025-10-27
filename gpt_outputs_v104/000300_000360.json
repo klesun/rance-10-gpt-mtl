@@ -1,0 +1,719 @@
+{
+    "id": "resp_08ae96d3bc0140c50068ffe497685c8193915af8836d0a7d9c",
+    "object": "response",
+    "created_at": 1761600663,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_08ae96d3bc0140c50068ffe497fc4081939896b819bbce1362",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":85513,\"originalJapaneseLine\":\"「お久し振りです、ルドラサウム様」\",\"translatedEnglishLine\":\"\\\"It's been a long time, Lord Rudrasaum.\\\"\"},{\"lineNumber\":85514,\"originalJapaneseLine\":\"途方もなく巨大な、\",\"translatedEnglishLine\":\"An unimaginably enormous,\"},{\"lineNumber\":85515,\"originalJapaneseLine\":\"くじらに似た真っ白な生物――\",\"translatedEnglishLine\":\"pure white creature resembling a whale—\"},{\"lineNumber\":85516,\"originalJapaneseLine\":\"創造神ルドラサウムがその場に現れた。\",\"translatedEnglishLine\":\"The creator god Rudrasaum appeared on the spot.\"},{\"lineNumber\":85517,\"originalJapaneseLine\":\"「では、改めて伺ってみましょう」\",\"translatedEnglishLine\":\"\\\"Then, let me ask you once again.\\\"\"},{\"lineNumber\":85518,\"originalJapaneseLine\":\"「ルドラサウム様、\",\"translatedEnglishLine\":\"\\\"Lord Rudrasaum,\"},{\"lineNumber\":85519,\"originalJapaneseLine\":\"　ご選択をなさって下さい」\",\"translatedEnglishLine\":\"please make your choice.\\\"\"},{\"lineNumber\":85520,\"originalJapaneseLine\":\"「この世界をこのままにするか……\",\"translatedEnglishLine\":\"\\\"Will you leave this world as it is...\"},{\"lineNumber\":85521,\"originalJapaneseLine\":\"　はたまた、元の世界に戻すか……」\",\"translatedEnglishLine\":\"or restore it to the original world...?\\\"\"},{\"lineNumber\":85522,\"originalJapaneseLine\":\"「魔王のいない平和がいいか、\",\"translatedEnglishLine\":\"\\\"Would you prefer peace without a demon king,\"},{\"lineNumber\":85523,\"originalJapaneseLine\":\"　誰もが苦しむ破滅がいいか」\",\"translatedEnglishLine\":\"or destruction where everyone suffers?\\\"\"},{\"lineNumber\":85524,\"originalJapaneseLine\":\"「ルドラサウム様、どちらを選択なさいますか？」\",\"translatedEnglishLine\":\"\\\"Lord Rudrasaum, which will you choose?\\\"\"},{\"lineNumber\":85525,\"originalJapaneseLine\":\"「……そうですか」\",\"translatedEnglishLine\":\"\\\"...I see.\\\"\"},{\"lineNumber\":85526,\"originalJapaneseLine\":\"「ええ、その言葉で母も安心しました」\",\"translatedEnglishLine\":\"\\\"Yes, those words have eased my mother's mind.\\\"\"},{\"lineNumber\":85527,\"originalJapaneseLine\":\"「人に嫌われることをするよりも、\",\"translatedEnglishLine\":\"\\\"Rather than doing things that make others hate you,\"},{\"lineNumber\":85528,\"originalJapaneseLine\":\"　人に好かれるようなことをする方が、\",\"translatedEnglishLine\":\"it's much more enjoyable to do things that make people like you.\\\"\"},{\"lineNumber\":85529,\"originalJapaneseLine\":\"　とっても楽しいものですよ」\",\"translatedEnglishLine\":\"It is truly a delightful thing.\\\"\"},{\"lineNumber\":85530,\"originalJapaneseLine\":\"「こら、＜エール＞！」\",\"translatedEnglishLine\":\"\\\"Hey, <Yell>!\\\"\"},{\"lineNumber\":85531,\"originalJapaneseLine\":\"「ひえっ！？」\",\"translatedEnglishLine\":\"\\\"Eek!?\\\"\"},{\"lineNumber\":85532,\"originalJapaneseLine\":\"真っ白な巨大な生物が、\",\"translatedEnglishLine\":\"The gigantic pure white creature,\"},{\"lineNumber\":85533,\"originalJapaneseLine\":\"クルックーの一言で脈動したかと思うと、\",\"translatedEnglishLine\":\"seemed to pulse at Klookoo's single word,\"},{\"lineNumber\":85534,\"originalJapaneseLine\":\"そわそわと悶え始めた。\",\"translatedEnglishLine\":\"then began to fidget and writhe restlessly.\"},{\"lineNumber\":85535,\"originalJapaneseLine\":\"「そんなことを言っては駄目でしょう」\",\"translatedEnglishLine\":\"\\\"You shouldn't say things like that.\\\"\"},{\"lineNumber\":85536,\"originalJapaneseLine\":\"「あわわ、ごめんよ、母さん……」\",\"translatedEnglishLine\":\"\\\"Ah, sorry, Mother...\\\"\"},{\"lineNumber\":85537,\"originalJapaneseLine\":\"「いいですか、＜エール＞？」\",\"translatedEnglishLine\":\"\\\"Listen carefully, <Yell>.\\\"\"},{\"lineNumber\":85538,\"originalJapaneseLine\":\"「貴方もそんなことを言われては\",\"translatedEnglishLine\":\"\\\"If someone said such things to you,\"},{\"lineNumber\":85539,\"originalJapaneseLine\":\"　悲しいでしょう？」\",\"translatedEnglishLine\":\"you would be sad, wouldn't you?\\\"\"},{\"lineNumber\":85540,\"originalJapaneseLine\":\"「自分が言われて嫌なことは、\",\"translatedEnglishLine\":\"\\\"You shouldn't say things to others that you wouldn't like to hear yourself.\\\"\"},{\"lineNumber\":85541,\"originalJapaneseLine\":\"　言ってはいけませんよ」\",\"translatedEnglishLine\":\"You mustn't say them.\\\"\"},{\"lineNumber\":85542,\"originalJapaneseLine\":\"「うーん……」\",\"translatedEnglishLine\":\"\\\"Hmm...\\\"\"},{\"lineNumber\":85543,\"originalJapaneseLine\":\"「それに……悪いことよりも、\",\"translatedEnglishLine\":\"\\\"Besides... Doing good things feels better than doing bad things.\\\"\"},{\"lineNumber\":85544,\"originalJapaneseLine\":\"　良いことをした方が気持ちがいいですよ」\",\"translatedEnglishLine\":\"\\\"It just feels nicer to do good.\\\"\"},{\"lineNumber\":85545,\"originalJapaneseLine\":\"「うーん、そうかな……」\",\"translatedEnglishLine\":\"\\\"Hmm, I wonder if that's true...\\\"\"},{\"lineNumber\":85546,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":85547,\"originalJapaneseLine\":\"「……うん、そうかもね」\",\"translatedEnglishLine\":\"\\\"...Yeah, maybe that's right.\\\"\"},{\"lineNumber\":85548,\"originalJapaneseLine\":\"「はい、そういうことです」\",\"translatedEnglishLine\":\"\\\"Yes, that's exactly it.\\\"\"},{\"lineNumber\":85549,\"originalJapaneseLine\":\"創造神ルドラサウムとクルックーの会話を、\",\"translatedEnglishLine\":\"The gods silently watched the conversation between the creator god Rudrasaum and Klookoo.\"},{\"lineNumber\":85550,\"originalJapaneseLine\":\"神々は言葉もなく見ていた。\",\"translatedEnglishLine\":\"The gods watched without a word.\"},{\"lineNumber\":85551,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":85552,\"originalJapaneseLine\":\"「信じ……られない……」\",\"translatedEnglishLine\":\"\\\"I can't... believe it...\\\"\"},{\"lineNumber\":85553,\"originalJapaneseLine\":\"「いえ、そんな言葉では表せない……」\",\"translatedEnglishLine\":\"\\\"No, words can't express...\\\"\"},{\"lineNumber\":85554,\"originalJapaneseLine\":\"「ルドラサウム様が……\",\"translatedEnglishLine\":\"\\\"Lord Rudrasaum...\"},{\"lineNumber\":85555,\"originalJapaneseLine\":\"　ただの人間の言うことをお聞き、に……」\",\"translatedEnglishLine\":\"listening to the words of a mere human...\\\"\"},{\"lineNumber\":85556,\"originalJapaneseLine\":\"「目の前の光景に現実味が……なくて……」\",\"translatedEnglishLine\":\"\\\"The scene before my eyes doesn't seem real...\\\"\"},{\"lineNumber\":85557,\"originalJapaneseLine\":\"「法、王、モフス……！」\",\"translatedEnglishLine\":\"\\\"Hou, Ou, Mofus...!\\\"\"},{\"lineNumber\":85558,\"originalJapaneseLine\":\"「……はい？」\",\"translatedEnglishLine\":\"\\\"...Yes?\\\"\"},{\"lineNumber\":85559,\"originalJapaneseLine\":\"瞬間――\",\"translatedEnglishLine\":\"In an instant—\"},{\"lineNumber\":85560,\"originalJapaneseLine\":\"無から生み出された大量の剣が\",\"translatedEnglishLine\":\"a large number of swords created from nothing\"},{\"lineNumber\":85561,\"originalJapaneseLine\":\"クルックーの周囲を取り囲んだ。\",\"translatedEnglishLine\":\"surrounded Klookoo.\"},{\"lineNumber\":85562,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":85563,\"originalJapaneseLine\":\"「う、くっ……！」\",\"translatedEnglishLine\":\"\\\"Ugh, kuh...!\\\"\"},{\"lineNumber\":85564,\"originalJapaneseLine\":\"「――殺そうとしたものの、\",\"translatedEnglishLine\":\"\\\"—They tried to kill me, but\"},{\"lineNumber\":85565,\"originalJapaneseLine\":\"　神の命令によりそれが出来ない、\",\"translatedEnglishLine\":\"due to the god's command, they could not.\"},{\"lineNumber\":85566,\"originalJapaneseLine\":\"　と言ったところですか」\",\"translatedEnglishLine\":\"That’s how it is, I suppose.\\\"\"},{\"lineNumber\":85567,\"originalJapaneseLine\":\"「く、ふっ、ふふふ……！」\",\"translatedEnglishLine\":\"\\\"Ku, huh, hahaha...!\\\"\"},{\"lineNumber\":85568,\"originalJapaneseLine\":\"「女神ALICE……\",\"translatedEnglishLine\":\"\\\"Goddess ALICE...\"},{\"lineNumber\":85569,\"originalJapaneseLine\":\"　貴方、もしかして……」\",\"translatedEnglishLine\":\"could it be that you...?\"},{\"lineNumber\":85570,\"originalJapaneseLine\":\"「ええ……」\",\"translatedEnglishLine\":\"\\\"Yes...\\\"\"},{\"lineNumber\":85571,\"originalJapaneseLine\":\"「はっ、はは……！\",\"translatedEnglishLine\":\"\\\"Ha, haha...!\"},{\"lineNumber\":85572,\"originalJapaneseLine\":\"　はははは、はは！」\",\"translatedEnglishLine\":\"Hahahaha, haha!\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "85513",
+                                "originalJapaneseLine": "「お久し振りです、ルドラサウム様」",
+                                "translatedEnglishLine": "\"It's been a long time, Lord Rudrasaum.\""
+                            },
+                            {
+                                "lineNumber": "85514",
+                                "originalJapaneseLine": "途方もなく巨大な、",
+                                "translatedEnglishLine": "An unimaginably enormous,"
+                            },
+                            {
+                                "lineNumber": "85515",
+                                "originalJapaneseLine": "くじらに似た真っ白な生物――",
+                                "translatedEnglishLine": "pure white creature resembling a whale—"
+                            },
+                            {
+                                "lineNumber": "85516",
+                                "originalJapaneseLine": "創造神ルドラサウムがその場に現れた。",
+                                "translatedEnglishLine": "The creator god Rudrasaum appeared on the spot."
+                            },
+                            {
+                                "lineNumber": "85517",
+                                "originalJapaneseLine": "「では、改めて伺ってみましょう」",
+                                "translatedEnglishLine": "\"Then, let me ask you once again.\""
+                            },
+                            {
+                                "lineNumber": "85518",
+                                "originalJapaneseLine": "「ルドラサウム様、",
+                                "translatedEnglishLine": "\"Lord Rudrasaum,"
+                            },
+                            {
+                                "lineNumber": "85519",
+                                "originalJapaneseLine": "　ご選択をなさって下さい」",
+                                "translatedEnglishLine": "please make your choice.\""
+                            },
+                            {
+                                "lineNumber": "85520",
+                                "originalJapaneseLine": "「この世界をこのままにするか……",
+                                "translatedEnglishLine": "\"Will you leave this world as it is..."
+                            },
+                            {
+                                "lineNumber": "85521",
+                                "originalJapaneseLine": "　はたまた、元の世界に戻すか……」",
+                                "translatedEnglishLine": "or restore it to the original world...?\""
+                            },
+                            {
+                                "lineNumber": "85522",
+                                "originalJapaneseLine": "「魔王のいない平和がいいか、",
+                                "translatedEnglishLine": "\"Would you prefer peace without a demon king,"
+                            },
+                            {
+                                "lineNumber": "85523",
+                                "originalJapaneseLine": "　誰もが苦しむ破滅がいいか」",
+                                "translatedEnglishLine": "or destruction where everyone suffers?\""
+                            },
+                            {
+                                "lineNumber": "85524",
+                                "originalJapaneseLine": "「ルドラサウム様、どちらを選択なさいますか？」",
+                                "translatedEnglishLine": "\"Lord Rudrasaum, which will you choose?\""
+                            },
+                            {
+                                "lineNumber": "85525",
+                                "originalJapaneseLine": "「……そうですか」",
+                                "translatedEnglishLine": "\"...I see.\""
+                            },
+                            {
+                                "lineNumber": "85526",
+                                "originalJapaneseLine": "「ええ、その言葉で母も安心しました」",
+                                "translatedEnglishLine": "\"Yes, those words have eased my mother's mind.\""
+                            },
+                            {
+                                "lineNumber": "85527",
+                                "originalJapaneseLine": "「人に嫌われることをするよりも、",
+                                "translatedEnglishLine": "\"Rather than doing things that make others hate you,"
+                            },
+                            {
+                                "lineNumber": "85528",
+                                "originalJapaneseLine": "　人に好かれるようなことをする方が、",
+                                "translatedEnglishLine": "it's much more enjoyable to do things that make people like you.\""
+                            },
+                            {
+                                "lineNumber": "85529",
+                                "originalJapaneseLine": "　とっても楽しいものですよ」",
+                                "translatedEnglishLine": "It is truly a delightful thing.\""
+                            },
+                            {
+                                "lineNumber": "85530",
+                                "originalJapaneseLine": "「こら、＜エール＞！」",
+                                "translatedEnglishLine": "\"Hey, <Yell>!\""
+                            },
+                            {
+                                "lineNumber": "85531",
+                                "originalJapaneseLine": "「ひえっ！？」",
+                                "translatedEnglishLine": "\"Eek!?\""
+                            },
+                            {
+                                "lineNumber": "85532",
+                                "originalJapaneseLine": "真っ白な巨大な生物が、",
+                                "translatedEnglishLine": "The gigantic pure white creature,"
+                            },
+                            {
+                                "lineNumber": "85533",
+                                "originalJapaneseLine": "クルックーの一言で脈動したかと思うと、",
+                                "translatedEnglishLine": "seemed to pulse at Klookoo's single word,"
+                            },
+                            {
+                                "lineNumber": "85534",
+                                "originalJapaneseLine": "そわそわと悶え始めた。",
+                                "translatedEnglishLine": "then began to fidget and writhe restlessly."
+                            },
+                            {
+                                "lineNumber": "85535",
+                                "originalJapaneseLine": "「そんなことを言っては駄目でしょう」",
+                                "translatedEnglishLine": "\"You shouldn't say things like that.\""
+                            },
+                            {
+                                "lineNumber": "85536",
+                                "originalJapaneseLine": "「あわわ、ごめんよ、母さん……」",
+                                "translatedEnglishLine": "\"Ah, sorry, Mother...\""
+                            },
+                            {
+                                "lineNumber": "85537",
+                                "originalJapaneseLine": "「いいですか、＜エール＞？」",
+                                "translatedEnglishLine": "\"Listen carefully, <Yell>.\""
+                            },
+                            {
+                                "lineNumber": "85538",
+                                "originalJapaneseLine": "「貴方もそんなことを言われては",
+                                "translatedEnglishLine": "\"If someone said such things to you,"
+                            },
+                            {
+                                "lineNumber": "85539",
+                                "originalJapaneseLine": "　悲しいでしょう？」",
+                                "translatedEnglishLine": "you would be sad, wouldn't you?\""
+                            },
+                            {
+                                "lineNumber": "85540",
+                                "originalJapaneseLine": "「自分が言われて嫌なことは、",
+                                "translatedEnglishLine": "\"You shouldn't say things to others that you wouldn't like to hear yourself.\""
+                            },
+                            {
+                                "lineNumber": "85541",
+                                "originalJapaneseLine": "　言ってはいけませんよ」",
+                                "translatedEnglishLine": "You mustn't say them.\""
+                            },
+                            {
+                                "lineNumber": "85542",
+                                "originalJapaneseLine": "「うーん……」",
+                                "translatedEnglishLine": "\"Hmm...\""
+                            },
+                            {
+                                "lineNumber": "85543",
+                                "originalJapaneseLine": "「それに……悪いことよりも、",
+                                "translatedEnglishLine": "\"Besides... Doing good things feels better than doing bad things.\""
+                            },
+                            {
+                                "lineNumber": "85544",
+                                "originalJapaneseLine": "　良いことをした方が気持ちがいいですよ」",
+                                "translatedEnglishLine": "\"It just feels nicer to do good.\""
+                            },
+                            {
+                                "lineNumber": "85545",
+                                "originalJapaneseLine": "「うーん、そうかな……」",
+                                "translatedEnglishLine": "\"Hmm, I wonder if that's true...\""
+                            },
+                            {
+                                "lineNumber": "85546",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "85547",
+                                "originalJapaneseLine": "「……うん、そうかもね」",
+                                "translatedEnglishLine": "\"...Yeah, maybe that's right.\""
+                            },
+                            {
+                                "lineNumber": "85548",
+                                "originalJapaneseLine": "「はい、そういうことです」",
+                                "translatedEnglishLine": "\"Yes, that's exactly it.\""
+                            },
+                            {
+                                "lineNumber": "85549",
+                                "originalJapaneseLine": "創造神ルドラサウムとクルックーの会話を、",
+                                "translatedEnglishLine": "The gods silently watched the conversation between the creator god Rudrasaum and Klookoo."
+                            },
+                            {
+                                "lineNumber": "85550",
+                                "originalJapaneseLine": "神々は言葉もなく見ていた。",
+                                "translatedEnglishLine": "The gods watched without a word."
+                            },
+                            {
+                                "lineNumber": "85551",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "85552",
+                                "originalJapaneseLine": "「信じ……られない……」",
+                                "translatedEnglishLine": "\"I can't... believe it...\""
+                            },
+                            {
+                                "lineNumber": "85553",
+                                "originalJapaneseLine": "「いえ、そんな言葉では表せない……」",
+                                "translatedEnglishLine": "\"No, words can't express...\""
+                            },
+                            {
+                                "lineNumber": "85554",
+                                "originalJapaneseLine": "「ルドラサウム様が……",
+                                "translatedEnglishLine": "\"Lord Rudrasaum..."
+                            },
+                            {
+                                "lineNumber": "85555",
+                                "originalJapaneseLine": "　ただの人間の言うことをお聞き、に……」",
+                                "translatedEnglishLine": "listening to the words of a mere human...\""
+                            },
+                            {
+                                "lineNumber": "85556",
+                                "originalJapaneseLine": "「目の前の光景に現実味が……なくて……」",
+                                "translatedEnglishLine": "\"The scene before my eyes doesn't seem real...\""
+                            },
+                            {
+                                "lineNumber": "85557",
+                                "originalJapaneseLine": "「法、王、モフス……！」",
+                                "translatedEnglishLine": "\"Hou, Ou, Mofus...!\""
+                            },
+                            {
+                                "lineNumber": "85558",
+                                "originalJapaneseLine": "「……はい？」",
+                                "translatedEnglishLine": "\"...Yes?\""
+                            },
+                            {
+                                "lineNumber": "85559",
+                                "originalJapaneseLine": "瞬間――",
+                                "translatedEnglishLine": "In an instant—"
+                            },
+                            {
+                                "lineNumber": "85560",
+                                "originalJapaneseLine": "無から生み出された大量の剣が",
+                                "translatedEnglishLine": "a large number of swords created from nothing"
+                            },
+                            {
+                                "lineNumber": "85561",
+                                "originalJapaneseLine": "クルックーの周囲を取り囲んだ。",
+                                "translatedEnglishLine": "surrounded Klookoo."
+                            },
+                            {
+                                "lineNumber": "85562",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "85563",
+                                "originalJapaneseLine": "「う、くっ……！」",
+                                "translatedEnglishLine": "\"Ugh, kuh...!\""
+                            },
+                            {
+                                "lineNumber": "85564",
+                                "originalJapaneseLine": "「――殺そうとしたものの、",
+                                "translatedEnglishLine": "\"—They tried to kill me, but"
+                            },
+                            {
+                                "lineNumber": "85565",
+                                "originalJapaneseLine": "　神の命令によりそれが出来ない、",
+                                "translatedEnglishLine": "due to the god's command, they could not."
+                            },
+                            {
+                                "lineNumber": "85566",
+                                "originalJapaneseLine": "　と言ったところですか」",
+                                "translatedEnglishLine": "That’s how it is, I suppose.\""
+                            },
+                            {
+                                "lineNumber": "85567",
+                                "originalJapaneseLine": "「く、ふっ、ふふふ……！」",
+                                "translatedEnglishLine": "\"Ku, huh, hahaha...!\""
+                            },
+                            {
+                                "lineNumber": "85568",
+                                "originalJapaneseLine": "「女神ALICE……",
+                                "translatedEnglishLine": "\"Goddess ALICE..."
+                            },
+                            {
+                                "lineNumber": "85569",
+                                "originalJapaneseLine": "　貴方、もしかして……」",
+                                "translatedEnglishLine": "could it be that you...?"
+                            },
+                            {
+                                "lineNumber": "85570",
+                                "originalJapaneseLine": "「ええ……」",
+                                "translatedEnglishLine": "\"Yes...\""
+                            },
+                            {
+                                "lineNumber": "85571",
+                                "originalJapaneseLine": "「はっ、はは……！",
+                                "translatedEnglishLine": "\"Ha, haha...!"
+                            },
+                            {
+                                "lineNumber": "85572",
+                                "originalJapaneseLine": "　はははは、はは！」",
+                                "translatedEnglishLine": "Hahahaha, haha!\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1745,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2081,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3826
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":85513,\"originalJapaneseLine\":\"「お久し振りです、ルドラサウム様」\",\"translatedEnglishLine\":\"\\\"It's been a long time, Lord Rudrasaum.\\\"\"},{\"lineNumber\":85514,\"originalJapaneseLine\":\"途方もなく巨大な、\",\"translatedEnglishLine\":\"An unimaginably enormous,\"},{\"lineNumber\":85515,\"originalJapaneseLine\":\"くじらに似た真っ白な生物――\",\"translatedEnglishLine\":\"pure white creature resembling a whale—\"},{\"lineNumber\":85516,\"originalJapaneseLine\":\"創造神ルドラサウムがその場に現れた。\",\"translatedEnglishLine\":\"The creator god Rudrasaum appeared on the spot.\"},{\"lineNumber\":85517,\"originalJapaneseLine\":\"「では、改めて伺ってみましょう」\",\"translatedEnglishLine\":\"\\\"Then, let me ask you once again.\\\"\"},{\"lineNumber\":85518,\"originalJapaneseLine\":\"「ルドラサウム様、\",\"translatedEnglishLine\":\"\\\"Lord Rudrasaum,\"},{\"lineNumber\":85519,\"originalJapaneseLine\":\"　ご選択をなさって下さい」\",\"translatedEnglishLine\":\"please make your choice.\\\"\"},{\"lineNumber\":85520,\"originalJapaneseLine\":\"「この世界をこのままにするか……\",\"translatedEnglishLine\":\"\\\"Will you leave this world as it is...\"},{\"lineNumber\":85521,\"originalJapaneseLine\":\"　はたまた、元の世界に戻すか……」\",\"translatedEnglishLine\":\"or restore it to the original world...?\\\"\"},{\"lineNumber\":85522,\"originalJapaneseLine\":\"「魔王のいない平和がいいか、\",\"translatedEnglishLine\":\"\\\"Would you prefer peace without a demon king,\"},{\"lineNumber\":85523,\"originalJapaneseLine\":\"　誰もが苦しむ破滅がいいか」\",\"translatedEnglishLine\":\"or destruction where everyone suffers?\\\"\"},{\"lineNumber\":85524,\"originalJapaneseLine\":\"「ルドラサウム様、どちらを選択なさいますか？」\",\"translatedEnglishLine\":\"\\\"Lord Rudrasaum, which will you choose?\\\"\"},{\"lineNumber\":85525,\"originalJapaneseLine\":\"「……そうですか」\",\"translatedEnglishLine\":\"\\\"...I see.\\\"\"},{\"lineNumber\":85526,\"originalJapaneseLine\":\"「ええ、その言葉で母も安心しました」\",\"translatedEnglishLine\":\"\\\"Yes, those words have eased my mother's mind.\\\"\"},{\"lineNumber\":85527,\"originalJapaneseLine\":\"「人に嫌われることをするよりも、\",\"translatedEnglishLine\":\"\\\"Rather than doing things that make others hate you,\"},{\"lineNumber\":85528,\"originalJapaneseLine\":\"　人に好かれるようなことをする方が、\",\"translatedEnglishLine\":\"it's much more enjoyable to do things that make people like you.\\\"\"},{\"lineNumber\":85529,\"originalJapaneseLine\":\"　とっても楽しいものですよ」\",\"translatedEnglishLine\":\"It is truly a delightful thing.\\\"\"},{\"lineNumber\":85530,\"originalJapaneseLine\":\"「こら、＜エール＞！」\",\"translatedEnglishLine\":\"\\\"Hey, <Yell>!\\\"\"},{\"lineNumber\":85531,\"originalJapaneseLine\":\"「ひえっ！？」\",\"translatedEnglishLine\":\"\\\"Eek!?\\\"\"},{\"lineNumber\":85532,\"originalJapaneseLine\":\"真っ白な巨大な生物が、\",\"translatedEnglishLine\":\"The gigantic pure white creature,\"},{\"lineNumber\":85533,\"originalJapaneseLine\":\"クルックーの一言で脈動したかと思うと、\",\"translatedEnglishLine\":\"seemed to pulse at Klookoo's single word,\"},{\"lineNumber\":85534,\"originalJapaneseLine\":\"そわそわと悶え始めた。\",\"translatedEnglishLine\":\"then began to fidget and writhe restlessly.\"},{\"lineNumber\":85535,\"originalJapaneseLine\":\"「そんなことを言っては駄目でしょう」\",\"translatedEnglishLine\":\"\\\"You shouldn't say things like that.\\\"\"},{\"lineNumber\":85536,\"originalJapaneseLine\":\"「あわわ、ごめんよ、母さん……」\",\"translatedEnglishLine\":\"\\\"Ah, sorry, Mother...\\\"\"},{\"lineNumber\":85537,\"originalJapaneseLine\":\"「いいですか、＜エール＞？」\",\"translatedEnglishLine\":\"\\\"Listen carefully, <Yell>.\\\"\"},{\"lineNumber\":85538,\"originalJapaneseLine\":\"「貴方もそんなことを言われては\",\"translatedEnglishLine\":\"\\\"If someone said such things to you,\"},{\"lineNumber\":85539,\"originalJapaneseLine\":\"　悲しいでしょう？」\",\"translatedEnglishLine\":\"you would be sad, wouldn't you?\\\"\"},{\"lineNumber\":85540,\"originalJapaneseLine\":\"「自分が言われて嫌なことは、\",\"translatedEnglishLine\":\"\\\"You shouldn't say things to others that you wouldn't like to hear yourself.\\\"\"},{\"lineNumber\":85541,\"originalJapaneseLine\":\"　言ってはいけませんよ」\",\"translatedEnglishLine\":\"You mustn't say them.\\\"\"},{\"lineNumber\":85542,\"originalJapaneseLine\":\"「うーん……」\",\"translatedEnglishLine\":\"\\\"Hmm...\\\"\"},{\"lineNumber\":85543,\"originalJapaneseLine\":\"「それに……悪いことよりも、\",\"translatedEnglishLine\":\"\\\"Besides... Doing good things feels better than doing bad things.\\\"\"},{\"lineNumber\":85544,\"originalJapaneseLine\":\"　良いことをした方が気持ちがいいですよ」\",\"translatedEnglishLine\":\"\\\"It just feels nicer to do good.\\\"\"},{\"lineNumber\":85545,\"originalJapaneseLine\":\"「うーん、そうかな……」\",\"translatedEnglishLine\":\"\\\"Hmm, I wonder if that's true...\\\"\"},{\"lineNumber\":85546,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":85547,\"originalJapaneseLine\":\"「……うん、そうかもね」\",\"translatedEnglishLine\":\"\\\"...Yeah, maybe that's right.\\\"\"},{\"lineNumber\":85548,\"originalJapaneseLine\":\"「はい、そういうことです」\",\"translatedEnglishLine\":\"\\\"Yes, that's exactly it.\\\"\"},{\"lineNumber\":85549,\"originalJapaneseLine\":\"創造神ルドラサウムとクルックーの会話を、\",\"translatedEnglishLine\":\"The gods silently watched the conversation between the creator god Rudrasaum and Klookoo.\"},{\"lineNumber\":85550,\"originalJapaneseLine\":\"神々は言葉もなく見ていた。\",\"translatedEnglishLine\":\"The gods watched without a word.\"},{\"lineNumber\":85551,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":85552,\"originalJapaneseLine\":\"「信じ……られない……」\",\"translatedEnglishLine\":\"\\\"I can't... believe it...\\\"\"},{\"lineNumber\":85553,\"originalJapaneseLine\":\"「いえ、そんな言葉では表せない……」\",\"translatedEnglishLine\":\"\\\"No, words can't express...\\\"\"},{\"lineNumber\":85554,\"originalJapaneseLine\":\"「ルドラサウム様が……\",\"translatedEnglishLine\":\"\\\"Lord Rudrasaum...\"},{\"lineNumber\":85555,\"originalJapaneseLine\":\"　ただの人間の言うことをお聞き、に……」\",\"translatedEnglishLine\":\"listening to the words of a mere human...\\\"\"},{\"lineNumber\":85556,\"originalJapaneseLine\":\"「目の前の光景に現実味が……なくて……」\",\"translatedEnglishLine\":\"\\\"The scene before my eyes doesn't seem real...\\\"\"},{\"lineNumber\":85557,\"originalJapaneseLine\":\"「法、王、モフス……！」\",\"translatedEnglishLine\":\"\\\"Hou, Ou, Mofus...!\\\"\"},{\"lineNumber\":85558,\"originalJapaneseLine\":\"「……はい？」\",\"translatedEnglishLine\":\"\\\"...Yes?\\\"\"},{\"lineNumber\":85559,\"originalJapaneseLine\":\"瞬間――\",\"translatedEnglishLine\":\"In an instant—\"},{\"lineNumber\":85560,\"originalJapaneseLine\":\"無から生み出された大量の剣が\",\"translatedEnglishLine\":\"a large number of swords created from nothing\"},{\"lineNumber\":85561,\"originalJapaneseLine\":\"クルックーの周囲を取り囲んだ。\",\"translatedEnglishLine\":\"surrounded Klookoo.\"},{\"lineNumber\":85562,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":85563,\"originalJapaneseLine\":\"「う、くっ……！」\",\"translatedEnglishLine\":\"\\\"Ugh, kuh...!\\\"\"},{\"lineNumber\":85564,\"originalJapaneseLine\":\"「――殺そうとしたものの、\",\"translatedEnglishLine\":\"\\\"—They tried to kill me, but\"},{\"lineNumber\":85565,\"originalJapaneseLine\":\"　神の命令によりそれが出来ない、\",\"translatedEnglishLine\":\"due to the god's command, they could not.\"},{\"lineNumber\":85566,\"originalJapaneseLine\":\"　と言ったところですか」\",\"translatedEnglishLine\":\"That’s how it is, I suppose.\\\"\"},{\"lineNumber\":85567,\"originalJapaneseLine\":\"「く、ふっ、ふふふ……！」\",\"translatedEnglishLine\":\"\\\"Ku, huh, hahaha...!\\\"\"},{\"lineNumber\":85568,\"originalJapaneseLine\":\"「女神ALICE……\",\"translatedEnglishLine\":\"\\\"Goddess ALICE...\"},{\"lineNumber\":85569,\"originalJapaneseLine\":\"　貴方、もしかして……」\",\"translatedEnglishLine\":\"could it be that you...?\"},{\"lineNumber\":85570,\"originalJapaneseLine\":\"「ええ……」\",\"translatedEnglishLine\":\"\\\"Yes...\\\"\"},{\"lineNumber\":85571,\"originalJapaneseLine\":\"「はっ、はは……！\",\"translatedEnglishLine\":\"\\\"Ha, haha...!\"},{\"lineNumber\":85572,\"originalJapaneseLine\":\"　はははは、はは！」\",\"translatedEnglishLine\":\"Hahahaha, haha!\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "85513",
+                "originalJapaneseLine": "「お久し振りです、ルドラサウム様」",
+                "translatedEnglishLine": "\"It's been a long time, Lord Rudrasaum.\""
+            },
+            {
+                "lineNumber": "85514",
+                "originalJapaneseLine": "途方もなく巨大な、",
+                "translatedEnglishLine": "An unimaginably enormous,"
+            },
+            {
+                "lineNumber": "85515",
+                "originalJapaneseLine": "くじらに似た真っ白な生物――",
+                "translatedEnglishLine": "pure white creature resembling a whale—"
+            },
+            {
+                "lineNumber": "85516",
+                "originalJapaneseLine": "創造神ルドラサウムがその場に現れた。",
+                "translatedEnglishLine": "The creator god Rudrasaum appeared on the spot."
+            },
+            {
+                "lineNumber": "85517",
+                "originalJapaneseLine": "「では、改めて伺ってみましょう」",
+                "translatedEnglishLine": "\"Then, let me ask you once again.\""
+            },
+            {
+                "lineNumber": "85518",
+                "originalJapaneseLine": "「ルドラサウム様、",
+                "translatedEnglishLine": "\"Lord Rudrasaum,"
+            },
+            {
+                "lineNumber": "85519",
+                "originalJapaneseLine": "　ご選択をなさって下さい」",
+                "translatedEnglishLine": "please make your choice.\""
+            },
+            {
+                "lineNumber": "85520",
+                "originalJapaneseLine": "「この世界をこのままにするか……",
+                "translatedEnglishLine": "\"Will you leave this world as it is..."
+            },
+            {
+                "lineNumber": "85521",
+                "originalJapaneseLine": "　はたまた、元の世界に戻すか……」",
+                "translatedEnglishLine": "or restore it to the original world...?\""
+            },
+            {
+                "lineNumber": "85522",
+                "originalJapaneseLine": "「魔王のいない平和がいいか、",
+                "translatedEnglishLine": "\"Would you prefer peace without a demon king,"
+            },
+            {
+                "lineNumber": "85523",
+                "originalJapaneseLine": "　誰もが苦しむ破滅がいいか」",
+                "translatedEnglishLine": "or destruction where everyone suffers?\""
+            },
+            {
+                "lineNumber": "85524",
+                "originalJapaneseLine": "「ルドラサウム様、どちらを選択なさいますか？」",
+                "translatedEnglishLine": "\"Lord Rudrasaum, which will you choose?\""
+            },
+            {
+                "lineNumber": "85525",
+                "originalJapaneseLine": "「……そうですか」",
+                "translatedEnglishLine": "\"...I see.\""
+            },
+            {
+                "lineNumber": "85526",
+                "originalJapaneseLine": "「ええ、その言葉で母も安心しました」",
+                "translatedEnglishLine": "\"Yes, those words have eased my mother's mind.\""
+            },
+            {
+                "lineNumber": "85527",
+                "originalJapaneseLine": "「人に嫌われることをするよりも、",
+                "translatedEnglishLine": "\"Rather than doing things that make others hate you,"
+            },
+            {
+                "lineNumber": "85528",
+                "originalJapaneseLine": "　人に好かれるようなことをする方が、",
+                "translatedEnglishLine": "it's much more enjoyable to do things that make people like you.\""
+            },
+            {
+                "lineNumber": "85529",
+                "originalJapaneseLine": "　とっても楽しいものですよ」",
+                "translatedEnglishLine": "It is truly a delightful thing.\""
+            },
+            {
+                "lineNumber": "85530",
+                "originalJapaneseLine": "「こら、＜エール＞！」",
+                "translatedEnglishLine": "\"Hey, <Yell>!\""
+            },
+            {
+                "lineNumber": "85531",
+                "originalJapaneseLine": "「ひえっ！？」",
+                "translatedEnglishLine": "\"Eek!?\""
+            },
+            {
+                "lineNumber": "85532",
+                "originalJapaneseLine": "真っ白な巨大な生物が、",
+                "translatedEnglishLine": "The gigantic pure white creature,"
+            },
+            {
+                "lineNumber": "85533",
+                "originalJapaneseLine": "クルックーの一言で脈動したかと思うと、",
+                "translatedEnglishLine": "seemed to pulse at Klookoo's single word,"
+            },
+            {
+                "lineNumber": "85534",
+                "originalJapaneseLine": "そわそわと悶え始めた。",
+                "translatedEnglishLine": "then began to fidget and writhe restlessly."
+            },
+            {
+                "lineNumber": "85535",
+                "originalJapaneseLine": "「そんなことを言っては駄目でしょう」",
+                "translatedEnglishLine": "\"You shouldn't say things like that.\""
+            },
+            {
+                "lineNumber": "85536",
+                "originalJapaneseLine": "「あわわ、ごめんよ、母さん……」",
+                "translatedEnglishLine": "\"Ah, sorry, Mother...\""
+            },
+            {
+                "lineNumber": "85537",
+                "originalJapaneseLine": "「いいですか、＜エール＞？」",
+                "translatedEnglishLine": "\"Listen carefully, <Yell>.\""
+            },
+            {
+                "lineNumber": "85538",
+                "originalJapaneseLine": "「貴方もそんなことを言われては",
+                "translatedEnglishLine": "\"If someone said such things to you,"
+            },
+            {
+                "lineNumber": "85539",
+                "originalJapaneseLine": "　悲しいでしょう？」",
+                "translatedEnglishLine": "you would be sad, wouldn't you?\""
+            },
+            {
+                "lineNumber": "85540",
+                "originalJapaneseLine": "「自分が言われて嫌なことは、",
+                "translatedEnglishLine": "\"You shouldn't say things to others that you wouldn't like to hear yourself.\""
+            },
+            {
+                "lineNumber": "85541",
+                "originalJapaneseLine": "　言ってはいけませんよ」",
+                "translatedEnglishLine": "You mustn't say them.\""
+            },
+            {
+                "lineNumber": "85542",
+                "originalJapaneseLine": "「うーん……」",
+                "translatedEnglishLine": "\"Hmm...\""
+            },
+            {
+                "lineNumber": "85543",
+                "originalJapaneseLine": "「それに……悪いことよりも、",
+                "translatedEnglishLine": "\"Besides... Doing good things feels better than doing bad things.\""
+            },
+            {
+                "lineNumber": "85544",
+                "originalJapaneseLine": "　良いことをした方が気持ちがいいですよ」",
+                "translatedEnglishLine": "\"It just feels nicer to do good.\""
+            },
+            {
+                "lineNumber": "85545",
+                "originalJapaneseLine": "「うーん、そうかな……」",
+                "translatedEnglishLine": "\"Hmm, I wonder if that's true...\""
+            },
+            {
+                "lineNumber": "85546",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "85547",
+                "originalJapaneseLine": "「……うん、そうかもね」",
+                "translatedEnglishLine": "\"...Yeah, maybe that's right.\""
+            },
+            {
+                "lineNumber": "85548",
+                "originalJapaneseLine": "「はい、そういうことです」",
+                "translatedEnglishLine": "\"Yes, that's exactly it.\""
+            },
+            {
+                "lineNumber": "85549",
+                "originalJapaneseLine": "創造神ルドラサウムとクルックーの会話を、",
+                "translatedEnglishLine": "The gods silently watched the conversation between the creator god Rudrasaum and Klookoo."
+            },
+            {
+                "lineNumber": "85550",
+                "originalJapaneseLine": "神々は言葉もなく見ていた。",
+                "translatedEnglishLine": "The gods watched without a word."
+            },
+            {
+                "lineNumber": "85551",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "85552",
+                "originalJapaneseLine": "「信じ……られない……」",
+                "translatedEnglishLine": "\"I can't... believe it...\""
+            },
+            {
+                "lineNumber": "85553",
+                "originalJapaneseLine": "「いえ、そんな言葉では表せない……」",
+                "translatedEnglishLine": "\"No, words can't express...\""
+            },
+            {
+                "lineNumber": "85554",
+                "originalJapaneseLine": "「ルドラサウム様が……",
+                "translatedEnglishLine": "\"Lord Rudrasaum..."
+            },
+            {
+                "lineNumber": "85555",
+                "originalJapaneseLine": "　ただの人間の言うことをお聞き、に……」",
+                "translatedEnglishLine": "listening to the words of a mere human...\""
+            },
+            {
+                "lineNumber": "85556",
+                "originalJapaneseLine": "「目の前の光景に現実味が……なくて……」",
+                "translatedEnglishLine": "\"The scene before my eyes doesn't seem real...\""
+            },
+            {
+                "lineNumber": "85557",
+                "originalJapaneseLine": "「法、王、モフス……！」",
+                "translatedEnglishLine": "\"Hou, Ou, Mofus...!\""
+            },
+            {
+                "lineNumber": "85558",
+                "originalJapaneseLine": "「……はい？」",
+                "translatedEnglishLine": "\"...Yes?\""
+            },
+            {
+                "lineNumber": "85559",
+                "originalJapaneseLine": "瞬間――",
+                "translatedEnglishLine": "In an instant—"
+            },
+            {
+                "lineNumber": "85560",
+                "originalJapaneseLine": "無から生み出された大量の剣が",
+                "translatedEnglishLine": "a large number of swords created from nothing"
+            },
+            {
+                "lineNumber": "85561",
+                "originalJapaneseLine": "クルックーの周囲を取り囲んだ。",
+                "translatedEnglishLine": "surrounded Klookoo."
+            },
+            {
+                "lineNumber": "85562",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "85563",
+                "originalJapaneseLine": "「う、くっ……！」",
+                "translatedEnglishLine": "\"Ugh, kuh...!\""
+            },
+            {
+                "lineNumber": "85564",
+                "originalJapaneseLine": "「――殺そうとしたものの、",
+                "translatedEnglishLine": "\"—They tried to kill me, but"
+            },
+            {
+                "lineNumber": "85565",
+                "originalJapaneseLine": "　神の命令によりそれが出来ない、",
+                "translatedEnglishLine": "due to the god's command, they could not."
+            },
+            {
+                "lineNumber": "85566",
+                "originalJapaneseLine": "　と言ったところですか」",
+                "translatedEnglishLine": "That’s how it is, I suppose.\""
+            },
+            {
+                "lineNumber": "85567",
+                "originalJapaneseLine": "「く、ふっ、ふふふ……！」",
+                "translatedEnglishLine": "\"Ku, huh, hahaha...!\""
+            },
+            {
+                "lineNumber": "85568",
+                "originalJapaneseLine": "「女神ALICE……",
+                "translatedEnglishLine": "\"Goddess ALICE..."
+            },
+            {
+                "lineNumber": "85569",
+                "originalJapaneseLine": "　貴方、もしかして……」",
+                "translatedEnglishLine": "could it be that you...?"
+            },
+            {
+                "lineNumber": "85570",
+                "originalJapaneseLine": "「ええ……」",
+                "translatedEnglishLine": "\"Yes...\""
+            },
+            {
+                "lineNumber": "85571",
+                "originalJapaneseLine": "「はっ、はは……！",
+                "translatedEnglishLine": "\"Ha, haha...!"
+            },
+            {
+                "lineNumber": "85572",
+                "originalJapaneseLine": "　はははは、はは！」",
+                "translatedEnglishLine": "Hahahaha, haha!\""
+            }
+        ]
+    }
+}

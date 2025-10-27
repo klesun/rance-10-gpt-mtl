@@ -1,0 +1,719 @@
+{
+    "id": "resp_04a4b7a12295d0e50068ffe4b98f38819581b5f08f37441193",
+    "object": "response",
+    "created_at": 1761600697,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_04a4b7a12295d0e50068ffe4bab82c8195943d8d5e36a3ba0a",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":85573,\"originalJapaneseLine\":\"「ええ、これがバグ、なのね……\",\"translatedEnglishLine\":\"\\\"Yes, this is a bug...\\\"\"},{\"lineNumber\":85574,\"originalJapaneseLine\":\"　クエルプランが人に恋をした、ように……\",\"translatedEnglishLine\":\"Like Quelplan falling in love with a human...\\\"\"},{\"lineNumber\":85575,\"originalJapaneseLine\":\"　私に、真似では、ない、感情が」\",\"translatedEnglishLine\":\"I have feelings that are not imitation.\\\"\"},{\"lineNumber\":85576,\"originalJapaneseLine\":\"「あ、あ、あ……！」\",\"translatedEnglishLine\":\"\\\"A-a-a...!\\\"\"},{\"lineNumber\":85577,\"originalJapaneseLine\":\"「これが怒りなのね！\",\"translatedEnglishLine\":\"\\\"So this is anger!\\\"\"},{\"lineNumber\":85578,\"originalJapaneseLine\":\"　これが感情というものなのね！」\",\"translatedEnglishLine\":\"This is what you call emotion!\\\"\"},{\"lineNumber\":85579,\"originalJapaneseLine\":\"「法王、クルックー・モフス……」\",\"translatedEnglishLine\":\"\\\"Pope, Kurukku Mofusu...\\\"\"},{\"lineNumber\":85580,\"originalJapaneseLine\":\"「とんでも――とんでもないことを、\",\"translatedEnglishLine\":\"\\\"You have done something outrageous—an unforgivable thing,\\\"\"},{\"lineNumber\":85581,\"originalJapaneseLine\":\"　して、くれたもの、ね……！」\",\"translatedEnglishLine\":\"You have done this to me...!\\\"\"},{\"lineNumber\":85582,\"originalJapaneseLine\":\"「人などという矮小な存在が――ッ！\",\"translatedEnglishLine\":\"\\\"A petty existence like a human—!\\\"\"},{\"lineNumber\":85583,\"originalJapaneseLine\":\"　あろうことか、全ての神を口先で、欺く、など！\",\"translatedEnglishLine\":\"Daring to deceive all the gods with mere words!\\\"\"},{\"lineNumber\":85584,\"originalJapaneseLine\":\"「まして、ましてや――ッ！\",\"translatedEnglishLine\":\"\\\"And moreover—!\\\"\"},{\"lineNumber\":85585,\"originalJapaneseLine\":\"　あのお方、に、命令、など――ッ！\",\"translatedEnglishLine\":\"To give orders to that one—!\\\"\"},{\"lineNumber\":85586,\"originalJapaneseLine\":\"「よくも、よく、も――ッ！\",\"translatedEnglishLine\":\"\\\"How dare you, how dare you—!\\\"\"},{\"lineNumber\":85587,\"originalJapaneseLine\":\"　騙して、くれた、わね――ッ！」\",\"translatedEnglishLine\":\"You tricked me—!\\\"\"},{\"lineNumber\":85588,\"originalJapaneseLine\":\"「うーん」\",\"translatedEnglishLine\":\"\\\"Hmm.\\\"\"},{\"lineNumber\":85589,\"originalJapaneseLine\":\"「女神ALICE、一ついいですか？」\",\"translatedEnglishLine\":\"\\\"Goddess ALICE, may I say something?\\\"\"},{\"lineNumber\":85590,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":85591,\"originalJapaneseLine\":\"「騙される方が悪いんですよー、っだ」\",\"translatedEnglishLine\":\"\\\"It's your own fault for being deceived!\\\"\"},{\"lineNumber\":85592,\"originalJapaneseLine\":\"「――ッ！！！！」\",\"translatedEnglishLine\":\"\\\"—!!!!\\\"\"},{\"lineNumber\":85593,\"originalJapaneseLine\":\"「いえい、ピース」\",\"translatedEnglishLine\":\"\\\"Yay, peace!\\\"\"},{\"lineNumber\":85594,\"originalJapaneseLine\":\"「あ、あ……」\",\"translatedEnglishLine\":\"\\\"A-a...\\\"\"},{\"lineNumber\":85595,\"originalJapaneseLine\":\"「よく、も……！\",\"translatedEnglishLine\":\"\\\"How dare you...!\\\"\"},{\"lineNumber\":85596,\"originalJapaneseLine\":\"　こんな、下らない、ことを……！」\",\"translatedEnglishLine\":\"Say something so trivial...!\\\"\"},{\"lineNumber\":85597,\"originalJapaneseLine\":\"「あら、下らなくないわ」\",\"translatedEnglishLine\":\"\\\"Oh, it's not trivial at all.\\\"\"},{\"lineNumber\":85598,\"originalJapaneseLine\":\"「――愛を知らぬ迷い子がいたら愛を与えなさい。\",\"translatedEnglishLine\":\"\\\"—If there is a lost child who does not know love, give them love.\\\"\"},{\"lineNumber\":85599,\"originalJapaneseLine\":\"　――世界は愛で溢れているのだと訴えなさい」\",\"translatedEnglishLine\":\"—Tell them that the world is overflowing with love.\\\"\"},{\"lineNumber\":85600,\"originalJapaneseLine\":\"「……ねえ、女神ALICE？」\",\"translatedEnglishLine\":\"\\\"...Hey, Goddess ALICE?\\\"\"},{\"lineNumber\":85601,\"originalJapaneseLine\":\"「これは貴方の教えじゃない」\",\"translatedEnglishLine\":\"This is not your teaching.\\\"\"},{\"lineNumber\":85602,\"originalJapaneseLine\":\"「――ッ！」\",\"translatedEnglishLine\":\"\\\"—!\\\"\"},{\"lineNumber\":85603,\"originalJapaneseLine\":\"「私はそれをするべきと提案しただけ。\",\"translatedEnglishLine\":\"I only proposed that it should be done.\"},{\"lineNumber\":85604,\"originalJapaneseLine\":\"　法王様はそれを実行に移しただけ」\",\"translatedEnglishLine\":\"The Pope just put it into action.\\\"\"},{\"lineNumber\":85605,\"originalJapaneseLine\":\"「ああ、どうかお喜び下さいね、女神ALICE。\",\"translatedEnglishLine\":\"Ah, please rejoice, Goddess ALICE.\"},{\"lineNumber\":85606,\"originalJapaneseLine\":\"　貴方の慈悲でまた一人の迷い子が救われましたよ」\",\"translatedEnglishLine\":\"By your mercy, another lost child has been saved.\\\"\"},{\"lineNumber\":85607,\"originalJapaneseLine\":\"「そう――\",\"translatedEnglishLine\":\"\\\"That's right—\"},{\"lineNumber\":85608,\"originalJapaneseLine\":\"　全ては貴方のお導きのままに」\",\"translatedEnglishLine\":\"Everything is according to your guidance.\\\"\"},{\"lineNumber\":85609,\"originalJapaneseLine\":\"「アム・イスエル、\",\"translatedEnglishLine\":\"\\\"Amu Isuel,\"},{\"lineNumber\":85610,\"originalJapaneseLine\":\"　無駄に挑発しては可哀想ですよ」\",\"translatedEnglishLine\":\"It's pitiful to provoke him unnecessarily.\\\"\"},{\"lineNumber\":85611,\"originalJapaneseLine\":\"「あら、挑発だなんて心外。\",\"translatedEnglishLine\":\"\\\"Oh my, saying it's provocation is quite unjust.\"},{\"lineNumber\":85612,\"originalJapaneseLine\":\"　私はただ忠実な神の信徒であるだけなのに」\",\"translatedEnglishLine\":\"I'm simply a faithful worshipper of the gods.\\\"\"},{\"lineNumber\":85613,\"originalJapaneseLine\":\"「今も、昔も、そしてこれからも、ね。\",\"translatedEnglishLine\":\"Even now, in the past, and in the future, you see.\"},{\"lineNumber\":85614,\"originalJapaneseLine\":\"　くすくす……」\",\"translatedEnglishLine\":\"Heh heh...\\\"\"},{\"lineNumber\":85615,\"originalJapaneseLine\":\"「こ、の――このッ――！」\",\"translatedEnglishLine\":\"\\\"Th-this—this!!\\\"\"},{\"lineNumber\":85616,\"originalJapaneseLine\":\"「ほら、怒らせた」\",\"translatedEnglishLine\":\"\\\"See, you made her angry.\\\"\"},{\"lineNumber\":85617,\"originalJapaneseLine\":\"「それでいいのよ……\",\"translatedEnglishLine\":\"\\\"That's perfectly fine...\"},{\"lineNumber\":85618,\"originalJapaneseLine\":\"　愛と怒りはとても近い感情なのだから」\",\"translatedEnglishLine\":\"Because love and anger are very close emotions.\\\"\"},{\"lineNumber\":85619,\"originalJapaneseLine\":\"「ようやく、私にも彼女が救えそうだわ」\",\"translatedEnglishLine\":\"Finally, it seems I might be able to save her too.\\\"\"},{\"lineNumber\":85620,\"originalJapaneseLine\":\"「貴方達は、歴代でも――\",\"translatedEnglishLine\":\"\\\"You two are the worst popes in history—\"},{\"lineNumber\":85621,\"originalJapaneseLine\":\"　最悪の法王だわ」\",\"translatedEnglishLine\":\"The absolute worst.\\\"\"},{\"lineNumber\":85622,\"originalJapaneseLine\":\"吐き捨てるような女神ALICEの言葉。\",\"translatedEnglishLine\":\"Words spat out disdainfully by Goddess ALICE.\"},{\"lineNumber\":85623,\"originalJapaneseLine\":\"二人の法王はけろりとしていた。\",\"translatedEnglishLine\":\"The two popes acted completely unfazed.\"},{\"lineNumber\":85624,\"originalJapaneseLine\":\"「そうですか」\",\"translatedEnglishLine\":\"\\\"Is that so?\\\"\"},{\"lineNumber\":85625,\"originalJapaneseLine\":\"「あら、悲しい」\",\"translatedEnglishLine\":\"\\\"Oh my, how sad.\\\"\"},{\"lineNumber\":85626,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":85627,\"originalJapaneseLine\":\"「……抑えて下さい、女神ALICE。\",\"translatedEnglishLine\":\"\\\"...Please calm down, Goddess ALICE.\"},{\"lineNumber\":85628,\"originalJapaneseLine\":\"　ルドラサウム様の御前です」\",\"translatedEnglishLine\":\"You are before Lord Rudrasaum.\\\"\"},{\"lineNumber\":85629,\"originalJapaneseLine\":\"「あー、母さん、悪いことしてるー」\",\"translatedEnglishLine\":\"\\\"Ah, Mom, you're doing something bad—\\\"\"},{\"lineNumber\":85630,\"originalJapaneseLine\":\"「おっと、確かにそうですね。\",\"translatedEnglishLine\":\"\\\"Oops, that's true indeed.\"},{\"lineNumber\":85631,\"originalJapaneseLine\":\"　母は昔いっぱい意地悪されたので、\",\"translatedEnglishLine\":\"Mother was treated meanly a lot in the past,\"},{\"lineNumber\":85632,\"originalJapaneseLine\":\"　思わず意地悪し返してしまいました」\",\"translatedEnglishLine\":\"so she unintentionally returned the meanness.\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "85573",
+                                "originalJapaneseLine": "「ええ、これがバグ、なのね……",
+                                "translatedEnglishLine": "\"Yes, this is a bug...\""
+                            },
+                            {
+                                "lineNumber": "85574",
+                                "originalJapaneseLine": "　クエルプランが人に恋をした、ように……",
+                                "translatedEnglishLine": "Like Quelplan falling in love with a human...\""
+                            },
+                            {
+                                "lineNumber": "85575",
+                                "originalJapaneseLine": "　私に、真似では、ない、感情が」",
+                                "translatedEnglishLine": "I have feelings that are not imitation.\""
+                            },
+                            {
+                                "lineNumber": "85576",
+                                "originalJapaneseLine": "「あ、あ、あ……！」",
+                                "translatedEnglishLine": "\"A-a-a...!\""
+                            },
+                            {
+                                "lineNumber": "85577",
+                                "originalJapaneseLine": "「これが怒りなのね！",
+                                "translatedEnglishLine": "\"So this is anger!\""
+                            },
+                            {
+                                "lineNumber": "85578",
+                                "originalJapaneseLine": "　これが感情というものなのね！」",
+                                "translatedEnglishLine": "This is what you call emotion!\""
+                            },
+                            {
+                                "lineNumber": "85579",
+                                "originalJapaneseLine": "「法王、クルックー・モフス……」",
+                                "translatedEnglishLine": "\"Pope, Kurukku Mofusu...\""
+                            },
+                            {
+                                "lineNumber": "85580",
+                                "originalJapaneseLine": "「とんでも――とんでもないことを、",
+                                "translatedEnglishLine": "\"You have done something outrageous—an unforgivable thing,\""
+                            },
+                            {
+                                "lineNumber": "85581",
+                                "originalJapaneseLine": "　して、くれたもの、ね……！」",
+                                "translatedEnglishLine": "You have done this to me...!\""
+                            },
+                            {
+                                "lineNumber": "85582",
+                                "originalJapaneseLine": "「人などという矮小な存在が――ッ！",
+                                "translatedEnglishLine": "\"A petty existence like a human—!\""
+                            },
+                            {
+                                "lineNumber": "85583",
+                                "originalJapaneseLine": "　あろうことか、全ての神を口先で、欺く、など！",
+                                "translatedEnglishLine": "Daring to deceive all the gods with mere words!\""
+                            },
+                            {
+                                "lineNumber": "85584",
+                                "originalJapaneseLine": "「まして、ましてや――ッ！",
+                                "translatedEnglishLine": "\"And moreover—!\""
+                            },
+                            {
+                                "lineNumber": "85585",
+                                "originalJapaneseLine": "　あのお方、に、命令、など――ッ！",
+                                "translatedEnglishLine": "To give orders to that one—!\""
+                            },
+                            {
+                                "lineNumber": "85586",
+                                "originalJapaneseLine": "「よくも、よく、も――ッ！",
+                                "translatedEnglishLine": "\"How dare you, how dare you—!\""
+                            },
+                            {
+                                "lineNumber": "85587",
+                                "originalJapaneseLine": "　騙して、くれた、わね――ッ！」",
+                                "translatedEnglishLine": "You tricked me—!\""
+                            },
+                            {
+                                "lineNumber": "85588",
+                                "originalJapaneseLine": "「うーん」",
+                                "translatedEnglishLine": "\"Hmm.\""
+                            },
+                            {
+                                "lineNumber": "85589",
+                                "originalJapaneseLine": "「女神ALICE、一ついいですか？」",
+                                "translatedEnglishLine": "\"Goddess ALICE, may I say something?\""
+                            },
+                            {
+                                "lineNumber": "85590",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "85591",
+                                "originalJapaneseLine": "「騙される方が悪いんですよー、っだ」",
+                                "translatedEnglishLine": "\"It's your own fault for being deceived!\""
+                            },
+                            {
+                                "lineNumber": "85592",
+                                "originalJapaneseLine": "「――ッ！！！！」",
+                                "translatedEnglishLine": "\"—!!!!\""
+                            },
+                            {
+                                "lineNumber": "85593",
+                                "originalJapaneseLine": "「いえい、ピース」",
+                                "translatedEnglishLine": "\"Yay, peace!\""
+                            },
+                            {
+                                "lineNumber": "85594",
+                                "originalJapaneseLine": "「あ、あ……」",
+                                "translatedEnglishLine": "\"A-a...\""
+                            },
+                            {
+                                "lineNumber": "85595",
+                                "originalJapaneseLine": "「よく、も……！",
+                                "translatedEnglishLine": "\"How dare you...!\""
+                            },
+                            {
+                                "lineNumber": "85596",
+                                "originalJapaneseLine": "　こんな、下らない、ことを……！」",
+                                "translatedEnglishLine": "Say something so trivial...!\""
+                            },
+                            {
+                                "lineNumber": "85597",
+                                "originalJapaneseLine": "「あら、下らなくないわ」",
+                                "translatedEnglishLine": "\"Oh, it's not trivial at all.\""
+                            },
+                            {
+                                "lineNumber": "85598",
+                                "originalJapaneseLine": "「――愛を知らぬ迷い子がいたら愛を与えなさい。",
+                                "translatedEnglishLine": "\"—If there is a lost child who does not know love, give them love.\""
+                            },
+                            {
+                                "lineNumber": "85599",
+                                "originalJapaneseLine": "　――世界は愛で溢れているのだと訴えなさい」",
+                                "translatedEnglishLine": "—Tell them that the world is overflowing with love.\""
+                            },
+                            {
+                                "lineNumber": "85600",
+                                "originalJapaneseLine": "「……ねえ、女神ALICE？」",
+                                "translatedEnglishLine": "\"...Hey, Goddess ALICE?\""
+                            },
+                            {
+                                "lineNumber": "85601",
+                                "originalJapaneseLine": "「これは貴方の教えじゃない」",
+                                "translatedEnglishLine": "This is not your teaching.\""
+                            },
+                            {
+                                "lineNumber": "85602",
+                                "originalJapaneseLine": "「――ッ！」",
+                                "translatedEnglishLine": "\"—!\""
+                            },
+                            {
+                                "lineNumber": "85603",
+                                "originalJapaneseLine": "「私はそれをするべきと提案しただけ。",
+                                "translatedEnglishLine": "I only proposed that it should be done."
+                            },
+                            {
+                                "lineNumber": "85604",
+                                "originalJapaneseLine": "　法王様はそれを実行に移しただけ」",
+                                "translatedEnglishLine": "The Pope just put it into action.\""
+                            },
+                            {
+                                "lineNumber": "85605",
+                                "originalJapaneseLine": "「ああ、どうかお喜び下さいね、女神ALICE。",
+                                "translatedEnglishLine": "Ah, please rejoice, Goddess ALICE."
+                            },
+                            {
+                                "lineNumber": "85606",
+                                "originalJapaneseLine": "　貴方の慈悲でまた一人の迷い子が救われましたよ」",
+                                "translatedEnglishLine": "By your mercy, another lost child has been saved.\""
+                            },
+                            {
+                                "lineNumber": "85607",
+                                "originalJapaneseLine": "「そう――",
+                                "translatedEnglishLine": "\"That's right—"
+                            },
+                            {
+                                "lineNumber": "85608",
+                                "originalJapaneseLine": "　全ては貴方のお導きのままに」",
+                                "translatedEnglishLine": "Everything is according to your guidance.\""
+                            },
+                            {
+                                "lineNumber": "85609",
+                                "originalJapaneseLine": "「アム・イスエル、",
+                                "translatedEnglishLine": "\"Amu Isuel,"
+                            },
+                            {
+                                "lineNumber": "85610",
+                                "originalJapaneseLine": "　無駄に挑発しては可哀想ですよ」",
+                                "translatedEnglishLine": "It's pitiful to provoke him unnecessarily.\""
+                            },
+                            {
+                                "lineNumber": "85611",
+                                "originalJapaneseLine": "「あら、挑発だなんて心外。",
+                                "translatedEnglishLine": "\"Oh my, saying it's provocation is quite unjust."
+                            },
+                            {
+                                "lineNumber": "85612",
+                                "originalJapaneseLine": "　私はただ忠実な神の信徒であるだけなのに」",
+                                "translatedEnglishLine": "I'm simply a faithful worshipper of the gods.\""
+                            },
+                            {
+                                "lineNumber": "85613",
+                                "originalJapaneseLine": "「今も、昔も、そしてこれからも、ね。",
+                                "translatedEnglishLine": "Even now, in the past, and in the future, you see."
+                            },
+                            {
+                                "lineNumber": "85614",
+                                "originalJapaneseLine": "　くすくす……」",
+                                "translatedEnglishLine": "Heh heh...\""
+                            },
+                            {
+                                "lineNumber": "85615",
+                                "originalJapaneseLine": "「こ、の――このッ――！」",
+                                "translatedEnglishLine": "\"Th-this—this!!\""
+                            },
+                            {
+                                "lineNumber": "85616",
+                                "originalJapaneseLine": "「ほら、怒らせた」",
+                                "translatedEnglishLine": "\"See, you made her angry.\""
+                            },
+                            {
+                                "lineNumber": "85617",
+                                "originalJapaneseLine": "「それでいいのよ……",
+                                "translatedEnglishLine": "\"That's perfectly fine..."
+                            },
+                            {
+                                "lineNumber": "85618",
+                                "originalJapaneseLine": "　愛と怒りはとても近い感情なのだから」",
+                                "translatedEnglishLine": "Because love and anger are very close emotions.\""
+                            },
+                            {
+                                "lineNumber": "85619",
+                                "originalJapaneseLine": "「ようやく、私にも彼女が救えそうだわ」",
+                                "translatedEnglishLine": "Finally, it seems I might be able to save her too.\""
+                            },
+                            {
+                                "lineNumber": "85620",
+                                "originalJapaneseLine": "「貴方達は、歴代でも――",
+                                "translatedEnglishLine": "\"You two are the worst popes in history—"
+                            },
+                            {
+                                "lineNumber": "85621",
+                                "originalJapaneseLine": "　最悪の法王だわ」",
+                                "translatedEnglishLine": "The absolute worst.\""
+                            },
+                            {
+                                "lineNumber": "85622",
+                                "originalJapaneseLine": "吐き捨てるような女神ALICEの言葉。",
+                                "translatedEnglishLine": "Words spat out disdainfully by Goddess ALICE."
+                            },
+                            {
+                                "lineNumber": "85623",
+                                "originalJapaneseLine": "二人の法王はけろりとしていた。",
+                                "translatedEnglishLine": "The two popes acted completely unfazed."
+                            },
+                            {
+                                "lineNumber": "85624",
+                                "originalJapaneseLine": "「そうですか」",
+                                "translatedEnglishLine": "\"Is that so?\""
+                            },
+                            {
+                                "lineNumber": "85625",
+                                "originalJapaneseLine": "「あら、悲しい」",
+                                "translatedEnglishLine": "\"Oh my, how sad.\""
+                            },
+                            {
+                                "lineNumber": "85626",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "85627",
+                                "originalJapaneseLine": "「……抑えて下さい、女神ALICE。",
+                                "translatedEnglishLine": "\"...Please calm down, Goddess ALICE."
+                            },
+                            {
+                                "lineNumber": "85628",
+                                "originalJapaneseLine": "　ルドラサウム様の御前です」",
+                                "translatedEnglishLine": "You are before Lord Rudrasaum.\""
+                            },
+                            {
+                                "lineNumber": "85629",
+                                "originalJapaneseLine": "「あー、母さん、悪いことしてるー」",
+                                "translatedEnglishLine": "\"Ah, Mom, you're doing something bad—\""
+                            },
+                            {
+                                "lineNumber": "85630",
+                                "originalJapaneseLine": "「おっと、確かにそうですね。",
+                                "translatedEnglishLine": "\"Oops, that's true indeed."
+                            },
+                            {
+                                "lineNumber": "85631",
+                                "originalJapaneseLine": "　母は昔いっぱい意地悪されたので、",
+                                "translatedEnglishLine": "Mother was treated meanly a lot in the past,"
+                            },
+                            {
+                                "lineNumber": "85632",
+                                "originalJapaneseLine": "　思わず意地悪し返してしまいました」",
+                                "translatedEnglishLine": "so she unintentionally returned the meanness.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1809,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2157,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3966
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":85573,\"originalJapaneseLine\":\"「ええ、これがバグ、なのね……\",\"translatedEnglishLine\":\"\\\"Yes, this is a bug...\\\"\"},{\"lineNumber\":85574,\"originalJapaneseLine\":\"　クエルプランが人に恋をした、ように……\",\"translatedEnglishLine\":\"Like Quelplan falling in love with a human...\\\"\"},{\"lineNumber\":85575,\"originalJapaneseLine\":\"　私に、真似では、ない、感情が」\",\"translatedEnglishLine\":\"I have feelings that are not imitation.\\\"\"},{\"lineNumber\":85576,\"originalJapaneseLine\":\"「あ、あ、あ……！」\",\"translatedEnglishLine\":\"\\\"A-a-a...!\\\"\"},{\"lineNumber\":85577,\"originalJapaneseLine\":\"「これが怒りなのね！\",\"translatedEnglishLine\":\"\\\"So this is anger!\\\"\"},{\"lineNumber\":85578,\"originalJapaneseLine\":\"　これが感情というものなのね！」\",\"translatedEnglishLine\":\"This is what you call emotion!\\\"\"},{\"lineNumber\":85579,\"originalJapaneseLine\":\"「法王、クルックー・モフス……」\",\"translatedEnglishLine\":\"\\\"Pope, Kurukku Mofusu...\\\"\"},{\"lineNumber\":85580,\"originalJapaneseLine\":\"「とんでも――とんでもないことを、\",\"translatedEnglishLine\":\"\\\"You have done something outrageous—an unforgivable thing,\\\"\"},{\"lineNumber\":85581,\"originalJapaneseLine\":\"　して、くれたもの、ね……！」\",\"translatedEnglishLine\":\"You have done this to me...!\\\"\"},{\"lineNumber\":85582,\"originalJapaneseLine\":\"「人などという矮小な存在が――ッ！\",\"translatedEnglishLine\":\"\\\"A petty existence like a human—!\\\"\"},{\"lineNumber\":85583,\"originalJapaneseLine\":\"　あろうことか、全ての神を口先で、欺く、など！\",\"translatedEnglishLine\":\"Daring to deceive all the gods with mere words!\\\"\"},{\"lineNumber\":85584,\"originalJapaneseLine\":\"「まして、ましてや――ッ！\",\"translatedEnglishLine\":\"\\\"And moreover—!\\\"\"},{\"lineNumber\":85585,\"originalJapaneseLine\":\"　あのお方、に、命令、など――ッ！\",\"translatedEnglishLine\":\"To give orders to that one—!\\\"\"},{\"lineNumber\":85586,\"originalJapaneseLine\":\"「よくも、よく、も――ッ！\",\"translatedEnglishLine\":\"\\\"How dare you, how dare you—!\\\"\"},{\"lineNumber\":85587,\"originalJapaneseLine\":\"　騙して、くれた、わね――ッ！」\",\"translatedEnglishLine\":\"You tricked me—!\\\"\"},{\"lineNumber\":85588,\"originalJapaneseLine\":\"「うーん」\",\"translatedEnglishLine\":\"\\\"Hmm.\\\"\"},{\"lineNumber\":85589,\"originalJapaneseLine\":\"「女神ALICE、一ついいですか？」\",\"translatedEnglishLine\":\"\\\"Goddess ALICE, may I say something?\\\"\"},{\"lineNumber\":85590,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":85591,\"originalJapaneseLine\":\"「騙される方が悪いんですよー、っだ」\",\"translatedEnglishLine\":\"\\\"It's your own fault for being deceived!\\\"\"},{\"lineNumber\":85592,\"originalJapaneseLine\":\"「――ッ！！！！」\",\"translatedEnglishLine\":\"\\\"—!!!!\\\"\"},{\"lineNumber\":85593,\"originalJapaneseLine\":\"「いえい、ピース」\",\"translatedEnglishLine\":\"\\\"Yay, peace!\\\"\"},{\"lineNumber\":85594,\"originalJapaneseLine\":\"「あ、あ……」\",\"translatedEnglishLine\":\"\\\"A-a...\\\"\"},{\"lineNumber\":85595,\"originalJapaneseLine\":\"「よく、も……！\",\"translatedEnglishLine\":\"\\\"How dare you...!\\\"\"},{\"lineNumber\":85596,\"originalJapaneseLine\":\"　こんな、下らない、ことを……！」\",\"translatedEnglishLine\":\"Say something so trivial...!\\\"\"},{\"lineNumber\":85597,\"originalJapaneseLine\":\"「あら、下らなくないわ」\",\"translatedEnglishLine\":\"\\\"Oh, it's not trivial at all.\\\"\"},{\"lineNumber\":85598,\"originalJapaneseLine\":\"「――愛を知らぬ迷い子がいたら愛を与えなさい。\",\"translatedEnglishLine\":\"\\\"—If there is a lost child who does not know love, give them love.\\\"\"},{\"lineNumber\":85599,\"originalJapaneseLine\":\"　――世界は愛で溢れているのだと訴えなさい」\",\"translatedEnglishLine\":\"—Tell them that the world is overflowing with love.\\\"\"},{\"lineNumber\":85600,\"originalJapaneseLine\":\"「……ねえ、女神ALICE？」\",\"translatedEnglishLine\":\"\\\"...Hey, Goddess ALICE?\\\"\"},{\"lineNumber\":85601,\"originalJapaneseLine\":\"「これは貴方の教えじゃない」\",\"translatedEnglishLine\":\"This is not your teaching.\\\"\"},{\"lineNumber\":85602,\"originalJapaneseLine\":\"「――ッ！」\",\"translatedEnglishLine\":\"\\\"—!\\\"\"},{\"lineNumber\":85603,\"originalJapaneseLine\":\"「私はそれをするべきと提案しただけ。\",\"translatedEnglishLine\":\"I only proposed that it should be done.\"},{\"lineNumber\":85604,\"originalJapaneseLine\":\"　法王様はそれを実行に移しただけ」\",\"translatedEnglishLine\":\"The Pope just put it into action.\\\"\"},{\"lineNumber\":85605,\"originalJapaneseLine\":\"「ああ、どうかお喜び下さいね、女神ALICE。\",\"translatedEnglishLine\":\"Ah, please rejoice, Goddess ALICE.\"},{\"lineNumber\":85606,\"originalJapaneseLine\":\"　貴方の慈悲でまた一人の迷い子が救われましたよ」\",\"translatedEnglishLine\":\"By your mercy, another lost child has been saved.\\\"\"},{\"lineNumber\":85607,\"originalJapaneseLine\":\"「そう――\",\"translatedEnglishLine\":\"\\\"That's right—\"},{\"lineNumber\":85608,\"originalJapaneseLine\":\"　全ては貴方のお導きのままに」\",\"translatedEnglishLine\":\"Everything is according to your guidance.\\\"\"},{\"lineNumber\":85609,\"originalJapaneseLine\":\"「アム・イスエル、\",\"translatedEnglishLine\":\"\\\"Amu Isuel,\"},{\"lineNumber\":85610,\"originalJapaneseLine\":\"　無駄に挑発しては可哀想ですよ」\",\"translatedEnglishLine\":\"It's pitiful to provoke him unnecessarily.\\\"\"},{\"lineNumber\":85611,\"originalJapaneseLine\":\"「あら、挑発だなんて心外。\",\"translatedEnglishLine\":\"\\\"Oh my, saying it's provocation is quite unjust.\"},{\"lineNumber\":85612,\"originalJapaneseLine\":\"　私はただ忠実な神の信徒であるだけなのに」\",\"translatedEnglishLine\":\"I'm simply a faithful worshipper of the gods.\\\"\"},{\"lineNumber\":85613,\"originalJapaneseLine\":\"「今も、昔も、そしてこれからも、ね。\",\"translatedEnglishLine\":\"Even now, in the past, and in the future, you see.\"},{\"lineNumber\":85614,\"originalJapaneseLine\":\"　くすくす……」\",\"translatedEnglishLine\":\"Heh heh...\\\"\"},{\"lineNumber\":85615,\"originalJapaneseLine\":\"「こ、の――このッ――！」\",\"translatedEnglishLine\":\"\\\"Th-this—this!!\\\"\"},{\"lineNumber\":85616,\"originalJapaneseLine\":\"「ほら、怒らせた」\",\"translatedEnglishLine\":\"\\\"See, you made her angry.\\\"\"},{\"lineNumber\":85617,\"originalJapaneseLine\":\"「それでいいのよ……\",\"translatedEnglishLine\":\"\\\"That's perfectly fine...\"},{\"lineNumber\":85618,\"originalJapaneseLine\":\"　愛と怒りはとても近い感情なのだから」\",\"translatedEnglishLine\":\"Because love and anger are very close emotions.\\\"\"},{\"lineNumber\":85619,\"originalJapaneseLine\":\"「ようやく、私にも彼女が救えそうだわ」\",\"translatedEnglishLine\":\"Finally, it seems I might be able to save her too.\\\"\"},{\"lineNumber\":85620,\"originalJapaneseLine\":\"「貴方達は、歴代でも――\",\"translatedEnglishLine\":\"\\\"You two are the worst popes in history—\"},{\"lineNumber\":85621,\"originalJapaneseLine\":\"　最悪の法王だわ」\",\"translatedEnglishLine\":\"The absolute worst.\\\"\"},{\"lineNumber\":85622,\"originalJapaneseLine\":\"吐き捨てるような女神ALICEの言葉。\",\"translatedEnglishLine\":\"Words spat out disdainfully by Goddess ALICE.\"},{\"lineNumber\":85623,\"originalJapaneseLine\":\"二人の法王はけろりとしていた。\",\"translatedEnglishLine\":\"The two popes acted completely unfazed.\"},{\"lineNumber\":85624,\"originalJapaneseLine\":\"「そうですか」\",\"translatedEnglishLine\":\"\\\"Is that so?\\\"\"},{\"lineNumber\":85625,\"originalJapaneseLine\":\"「あら、悲しい」\",\"translatedEnglishLine\":\"\\\"Oh my, how sad.\\\"\"},{\"lineNumber\":85626,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":85627,\"originalJapaneseLine\":\"「……抑えて下さい、女神ALICE。\",\"translatedEnglishLine\":\"\\\"...Please calm down, Goddess ALICE.\"},{\"lineNumber\":85628,\"originalJapaneseLine\":\"　ルドラサウム様の御前です」\",\"translatedEnglishLine\":\"You are before Lord Rudrasaum.\\\"\"},{\"lineNumber\":85629,\"originalJapaneseLine\":\"「あー、母さん、悪いことしてるー」\",\"translatedEnglishLine\":\"\\\"Ah, Mom, you're doing something bad—\\\"\"},{\"lineNumber\":85630,\"originalJapaneseLine\":\"「おっと、確かにそうですね。\",\"translatedEnglishLine\":\"\\\"Oops, that's true indeed.\"},{\"lineNumber\":85631,\"originalJapaneseLine\":\"　母は昔いっぱい意地悪されたので、\",\"translatedEnglishLine\":\"Mother was treated meanly a lot in the past,\"},{\"lineNumber\":85632,\"originalJapaneseLine\":\"　思わず意地悪し返してしまいました」\",\"translatedEnglishLine\":\"so she unintentionally returned the meanness.\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "85573",
+                "originalJapaneseLine": "「ええ、これがバグ、なのね……",
+                "translatedEnglishLine": "\"Yes, this is a bug...\""
+            },
+            {
+                "lineNumber": "85574",
+                "originalJapaneseLine": "　クエルプランが人に恋をした、ように……",
+                "translatedEnglishLine": "Like Quelplan falling in love with a human...\""
+            },
+            {
+                "lineNumber": "85575",
+                "originalJapaneseLine": "　私に、真似では、ない、感情が」",
+                "translatedEnglishLine": "I have feelings that are not imitation.\""
+            },
+            {
+                "lineNumber": "85576",
+                "originalJapaneseLine": "「あ、あ、あ……！」",
+                "translatedEnglishLine": "\"A-a-a...!\""
+            },
+            {
+                "lineNumber": "85577",
+                "originalJapaneseLine": "「これが怒りなのね！",
+                "translatedEnglishLine": "\"So this is anger!\""
+            },
+            {
+                "lineNumber": "85578",
+                "originalJapaneseLine": "　これが感情というものなのね！」",
+                "translatedEnglishLine": "This is what you call emotion!\""
+            },
+            {
+                "lineNumber": "85579",
+                "originalJapaneseLine": "「法王、クルックー・モフス……」",
+                "translatedEnglishLine": "\"Pope, Kurukku Mofusu...\""
+            },
+            {
+                "lineNumber": "85580",
+                "originalJapaneseLine": "「とんでも――とんでもないことを、",
+                "translatedEnglishLine": "\"You have done something outrageous—an unforgivable thing,\""
+            },
+            {
+                "lineNumber": "85581",
+                "originalJapaneseLine": "　して、くれたもの、ね……！」",
+                "translatedEnglishLine": "You have done this to me...!\""
+            },
+            {
+                "lineNumber": "85582",
+                "originalJapaneseLine": "「人などという矮小な存在が――ッ！",
+                "translatedEnglishLine": "\"A petty existence like a human—!\""
+            },
+            {
+                "lineNumber": "85583",
+                "originalJapaneseLine": "　あろうことか、全ての神を口先で、欺く、など！",
+                "translatedEnglishLine": "Daring to deceive all the gods with mere words!\""
+            },
+            {
+                "lineNumber": "85584",
+                "originalJapaneseLine": "「まして、ましてや――ッ！",
+                "translatedEnglishLine": "\"And moreover—!\""
+            },
+            {
+                "lineNumber": "85585",
+                "originalJapaneseLine": "　あのお方、に、命令、など――ッ！",
+                "translatedEnglishLine": "To give orders to that one—!\""
+            },
+            {
+                "lineNumber": "85586",
+                "originalJapaneseLine": "「よくも、よく、も――ッ！",
+                "translatedEnglishLine": "\"How dare you, how dare you—!\""
+            },
+            {
+                "lineNumber": "85587",
+                "originalJapaneseLine": "　騙して、くれた、わね――ッ！」",
+                "translatedEnglishLine": "You tricked me—!\""
+            },
+            {
+                "lineNumber": "85588",
+                "originalJapaneseLine": "「うーん」",
+                "translatedEnglishLine": "\"Hmm.\""
+            },
+            {
+                "lineNumber": "85589",
+                "originalJapaneseLine": "「女神ALICE、一ついいですか？」",
+                "translatedEnglishLine": "\"Goddess ALICE, may I say something?\""
+            },
+            {
+                "lineNumber": "85590",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "85591",
+                "originalJapaneseLine": "「騙される方が悪いんですよー、っだ」",
+                "translatedEnglishLine": "\"It's your own fault for being deceived!\""
+            },
+            {
+                "lineNumber": "85592",
+                "originalJapaneseLine": "「――ッ！！！！」",
+                "translatedEnglishLine": "\"—!!!!\""
+            },
+            {
+                "lineNumber": "85593",
+                "originalJapaneseLine": "「いえい、ピース」",
+                "translatedEnglishLine": "\"Yay, peace!\""
+            },
+            {
+                "lineNumber": "85594",
+                "originalJapaneseLine": "「あ、あ……」",
+                "translatedEnglishLine": "\"A-a...\""
+            },
+            {
+                "lineNumber": "85595",
+                "originalJapaneseLine": "「よく、も……！",
+                "translatedEnglishLine": "\"How dare you...!\""
+            },
+            {
+                "lineNumber": "85596",
+                "originalJapaneseLine": "　こんな、下らない、ことを……！」",
+                "translatedEnglishLine": "Say something so trivial...!\""
+            },
+            {
+                "lineNumber": "85597",
+                "originalJapaneseLine": "「あら、下らなくないわ」",
+                "translatedEnglishLine": "\"Oh, it's not trivial at all.\""
+            },
+            {
+                "lineNumber": "85598",
+                "originalJapaneseLine": "「――愛を知らぬ迷い子がいたら愛を与えなさい。",
+                "translatedEnglishLine": "\"—If there is a lost child who does not know love, give them love.\""
+            },
+            {
+                "lineNumber": "85599",
+                "originalJapaneseLine": "　――世界は愛で溢れているのだと訴えなさい」",
+                "translatedEnglishLine": "—Tell them that the world is overflowing with love.\""
+            },
+            {
+                "lineNumber": "85600",
+                "originalJapaneseLine": "「……ねえ、女神ALICE？」",
+                "translatedEnglishLine": "\"...Hey, Goddess ALICE?\""
+            },
+            {
+                "lineNumber": "85601",
+                "originalJapaneseLine": "「これは貴方の教えじゃない」",
+                "translatedEnglishLine": "This is not your teaching.\""
+            },
+            {
+                "lineNumber": "85602",
+                "originalJapaneseLine": "「――ッ！」",
+                "translatedEnglishLine": "\"—!\""
+            },
+            {
+                "lineNumber": "85603",
+                "originalJapaneseLine": "「私はそれをするべきと提案しただけ。",
+                "translatedEnglishLine": "I only proposed that it should be done."
+            },
+            {
+                "lineNumber": "85604",
+                "originalJapaneseLine": "　法王様はそれを実行に移しただけ」",
+                "translatedEnglishLine": "The Pope just put it into action.\""
+            },
+            {
+                "lineNumber": "85605",
+                "originalJapaneseLine": "「ああ、どうかお喜び下さいね、女神ALICE。",
+                "translatedEnglishLine": "Ah, please rejoice, Goddess ALICE."
+            },
+            {
+                "lineNumber": "85606",
+                "originalJapaneseLine": "　貴方の慈悲でまた一人の迷い子が救われましたよ」",
+                "translatedEnglishLine": "By your mercy, another lost child has been saved.\""
+            },
+            {
+                "lineNumber": "85607",
+                "originalJapaneseLine": "「そう――",
+                "translatedEnglishLine": "\"That's right—"
+            },
+            {
+                "lineNumber": "85608",
+                "originalJapaneseLine": "　全ては貴方のお導きのままに」",
+                "translatedEnglishLine": "Everything is according to your guidance.\""
+            },
+            {
+                "lineNumber": "85609",
+                "originalJapaneseLine": "「アム・イスエル、",
+                "translatedEnglishLine": "\"Amu Isuel,"
+            },
+            {
+                "lineNumber": "85610",
+                "originalJapaneseLine": "　無駄に挑発しては可哀想ですよ」",
+                "translatedEnglishLine": "It's pitiful to provoke him unnecessarily.\""
+            },
+            {
+                "lineNumber": "85611",
+                "originalJapaneseLine": "「あら、挑発だなんて心外。",
+                "translatedEnglishLine": "\"Oh my, saying it's provocation is quite unjust."
+            },
+            {
+                "lineNumber": "85612",
+                "originalJapaneseLine": "　私はただ忠実な神の信徒であるだけなのに」",
+                "translatedEnglishLine": "I'm simply a faithful worshipper of the gods.\""
+            },
+            {
+                "lineNumber": "85613",
+                "originalJapaneseLine": "「今も、昔も、そしてこれからも、ね。",
+                "translatedEnglishLine": "Even now, in the past, and in the future, you see."
+            },
+            {
+                "lineNumber": "85614",
+                "originalJapaneseLine": "　くすくす……」",
+                "translatedEnglishLine": "Heh heh...\""
+            },
+            {
+                "lineNumber": "85615",
+                "originalJapaneseLine": "「こ、の――このッ――！」",
+                "translatedEnglishLine": "\"Th-this—this!!\""
+            },
+            {
+                "lineNumber": "85616",
+                "originalJapaneseLine": "「ほら、怒らせた」",
+                "translatedEnglishLine": "\"See, you made her angry.\""
+            },
+            {
+                "lineNumber": "85617",
+                "originalJapaneseLine": "「それでいいのよ……",
+                "translatedEnglishLine": "\"That's perfectly fine..."
+            },
+            {
+                "lineNumber": "85618",
+                "originalJapaneseLine": "　愛と怒りはとても近い感情なのだから」",
+                "translatedEnglishLine": "Because love and anger are very close emotions.\""
+            },
+            {
+                "lineNumber": "85619",
+                "originalJapaneseLine": "「ようやく、私にも彼女が救えそうだわ」",
+                "translatedEnglishLine": "Finally, it seems I might be able to save her too.\""
+            },
+            {
+                "lineNumber": "85620",
+                "originalJapaneseLine": "「貴方達は、歴代でも――",
+                "translatedEnglishLine": "\"You two are the worst popes in history—"
+            },
+            {
+                "lineNumber": "85621",
+                "originalJapaneseLine": "　最悪の法王だわ」",
+                "translatedEnglishLine": "The absolute worst.\""
+            },
+            {
+                "lineNumber": "85622",
+                "originalJapaneseLine": "吐き捨てるような女神ALICEの言葉。",
+                "translatedEnglishLine": "Words spat out disdainfully by Goddess ALICE."
+            },
+            {
+                "lineNumber": "85623",
+                "originalJapaneseLine": "二人の法王はけろりとしていた。",
+                "translatedEnglishLine": "The two popes acted completely unfazed."
+            },
+            {
+                "lineNumber": "85624",
+                "originalJapaneseLine": "「そうですか」",
+                "translatedEnglishLine": "\"Is that so?\""
+            },
+            {
+                "lineNumber": "85625",
+                "originalJapaneseLine": "「あら、悲しい」",
+                "translatedEnglishLine": "\"Oh my, how sad.\""
+            },
+            {
+                "lineNumber": "85626",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "85627",
+                "originalJapaneseLine": "「……抑えて下さい、女神ALICE。",
+                "translatedEnglishLine": "\"...Please calm down, Goddess ALICE."
+            },
+            {
+                "lineNumber": "85628",
+                "originalJapaneseLine": "　ルドラサウム様の御前です」",
+                "translatedEnglishLine": "You are before Lord Rudrasaum.\""
+            },
+            {
+                "lineNumber": "85629",
+                "originalJapaneseLine": "「あー、母さん、悪いことしてるー」",
+                "translatedEnglishLine": "\"Ah, Mom, you're doing something bad—\""
+            },
+            {
+                "lineNumber": "85630",
+                "originalJapaneseLine": "「おっと、確かにそうですね。",
+                "translatedEnglishLine": "\"Oops, that's true indeed."
+            },
+            {
+                "lineNumber": "85631",
+                "originalJapaneseLine": "　母は昔いっぱい意地悪されたので、",
+                "translatedEnglishLine": "Mother was treated meanly a lot in the past,"
+            },
+            {
+                "lineNumber": "85632",
+                "originalJapaneseLine": "　思わず意地悪し返してしまいました」",
+                "translatedEnglishLine": "so she unintentionally returned the meanness.\""
+            }
+        ]
+    }
+}

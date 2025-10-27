@@ -1,0 +1,719 @@
+{
+    "id": "resp_0e2ffe4b52e211380068ffe3e431c481979cadda2c70d8a17f",
+    "object": "response",
+    "created_at": 1761600484,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0e2ffe4b52e211380068ffe3e5339881979f64b84b06470001",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":94,\"originalJapaneseLine\":\"「ん？　なんだサーナキアちゃん。\",\"translatedEnglishLine\":\"\\\"Hmm? What is it, Sarnakia-chan?\\\"\"},{\"lineNumber\":124,\"originalJapaneseLine\":\"「だいたい、サーナキアちゃんに\",\"translatedEnglishLine\":\"\\\"Anyway, does Sarnakia-chan really have\"},{\"lineNumber\":125,\"originalJapaneseLine\":\"　そこまで干渉する権利があるのか？\",\"translatedEnglishLine\":\"the right to interfere that much?\\\"\"},{\"lineNumber\":172,\"originalJapaneseLine\":\"「サーナキアちゃんが女らしくせんから、\",\"translatedEnglishLine\":\"\\\"Because Sarnakia-chan isn’t acting feminine,\"},{\"lineNumber\":173,\"originalJapaneseLine\":\"　変な話になるんだ」\",\"translatedEnglishLine\":\"it turns into such a strange story.\\\"\"},{\"lineNumber\":174,\"originalJapaneseLine\":\"「……つまり、俺にたっぷり抱かれて\",\"translatedEnglishLine\":\"\\\"...In other words, you want to be held plenty by me\"},{\"lineNumber\":242,\"originalJapaneseLine\":\"「おっ、サーナキアちゃん。\",\"translatedEnglishLine\":\"\\\"Oh, Sarnakia-chan.\\\"\"},{\"lineNumber\":267,\"originalJapaneseLine\":\"　今のはちょっと可愛かったぞ、サーナキアちゃん！\",\"translatedEnglishLine\":\"That was a bit cute just now, Sarnakia-chan!\"},{\"lineNumber\":284,\"originalJapaneseLine\":\"　よかったぞ、サーナキアちゃん」\",\"translatedEnglishLine\":\"That was good, Sarnakia-chan.\\\"\"},{\"lineNumber\":303,\"originalJapaneseLine\":\"「ぐふふ。それにサーナキアちゃんも、\",\"translatedEnglishLine\":\"\\\"Gufufu. And also, Sarnakia-chan,\"},{\"lineNumber\":1050,\"originalJapaneseLine\":\"もぐもぐと料理をつまむ。\",\"translatedEnglishLine\":\"munches on the food.\"},{\"lineNumber\":1167,\"originalJapaneseLine\":\"　がはははは、サーナキアちゃんめ、愚かな\",\"translatedEnglishLine\":\"Hahaha, Sarnakia-chan, you foolish one.\"},{\"lineNumber\":12407,\"originalJapaneseLine\":\"「志津香さんにもナギさんにもフェリスさんにも\",\"translatedEnglishLine\":\"\\\"Not with Shizuka-san, Nagi-san, or Felis-san either,\"},{\"lineNumber\":20469,\"originalJapaneseLine\":\"　サーナキアちゃんもいないのか！」\",\"translatedEnglishLine\":\"Is Sarnakia-chan not there either!\\\"\"},{\"lineNumber\":22889,\"originalJapaneseLine\":\"　勇者の務めを怠ったせい……なんて\",\"translatedEnglishLine\":\"Because I neglected my duties as a hero... or something like that.\"},{\"lineNumber\":28125,\"originalJapaneseLine\":\"（パットンは死んでも諦めないだろうけど、\",\"translatedEnglishLine\":\"(Patton probably wouldn’t give up even if he died, but\"},{\"lineNumber\":28126,\"originalJapaneseLine\":\"　魔軍が早い……\",\"translatedEnglishLine\":\"the demon army is faster...\"},{\"lineNumber\":38396,\"originalJapaneseLine\":\"　あんな臭そうな連中は要らんが……\",\"translatedEnglishLine\":\"I don’t need those stinky guys though...\"},{\"lineNumber\":38497,\"originalJapaneseLine\":\"「よせよせ。サーナキアちゃんが命を賭けても、\",\"translatedEnglishLine\":\"\\\"Cut it out, cut it out. Even if Sarnakia-chan risks her life,\"},{\"lineNumber\":50781,\"originalJapaneseLine\":\"戸惑いを見せた魔物将軍に、\",\"translatedEnglishLine\":\"to the demon general who showed hesitation,\"},{\"lineNumber\":61768,\"originalJapaneseLine\":\"（そういえば、っ……バグはランスに集めさせて……\",\"translatedEnglishLine\":\"(Come to think of it... have Rance gather the bugs...\"},{\"lineNumber\":64511,\"originalJapaneseLine\":\"「なんだこりゃ。手紙……？\",\"translatedEnglishLine\":\"\\\"What’s this? A letter...?\"},{\"lineNumber\":64512,\"originalJapaneseLine\":\"　クリームちゃんからか」\",\"translatedEnglishLine\":\"From Cream-chan, huh.\\\"\"},{\"lineNumber\":64513,\"originalJapaneseLine\":\"「なになに……いつ戻るのか、\",\"translatedEnglishLine\":\"\\\"What is it... asking when I’ll return,\"},{\"lineNumber\":64514,\"originalJapaneseLine\":\"　スケジュールを教えろってか」\",\"translatedEnglishLine\":\"and telling me to give my schedule?\\\"\"},{\"lineNumber\":64515,\"originalJapaneseLine\":\"「……めんどくさい。\",\"translatedEnglishLine\":\"\\\"...Such a hassle.\"},{\"lineNumber\":64516,\"originalJapaneseLine\":\"　シィル、適当に……ん？\",\"translatedEnglishLine\":\"Shiru, just make something up... huh?\"},{\"lineNumber\":64517,\"originalJapaneseLine\":\"　この日付は……」\",\"translatedEnglishLine\":\"This date is...\\\"\"},{\"lineNumber\":69680,\"originalJapaneseLine\":\"　聖女モンスターについて説明するわよ！」\",\"translatedEnglishLine\":\"I’ll explain about the saintly monsters!\"},{\"lineNumber\":69942,\"originalJapaneseLine\":\"「だーってあなたの本編の楽しみを\",\"translatedEnglishLine\":\"\\\"Because I don’t want to spoil the enjoyment of your main story,\"},{\"lineNumber\":69982,\"originalJapaneseLine\":\"「さって、それではヘルマンにいる\",\"translatedEnglishLine\":\"\\\"Well then, to those in Hellman,\"},{\"lineNumber\":70086,\"originalJapaneseLine\":\"「ぶっちゃけ、全部まとめて\",\"translatedEnglishLine\":\"\\\"To be frank, altogether,\"},{\"lineNumber\":70508,\"originalJapaneseLine\":\"　この世界の海ってのは十年に一度だけ\",\"translatedEnglishLine\":\"In this world, the sea only appears once every ten years,\"},{\"lineNumber\":70537,\"originalJapaneseLine\":\"　世界をほぼ征服したものの\",\"translatedEnglishLine\":\"Having almost conquered the world,\"},{\"lineNumber\":70621,\"originalJapaneseLine\":\"　人間を奴隷化する人間牧場の解放を行ったり\",\"translatedEnglishLine\":\"They conducted actions like liberating human farms that enslaved people.\"},{\"lineNumber\":70689,\"originalJapaneseLine\":\"「これは全部で24体作れると言われてるわ」\",\"translatedEnglishLine\":\"\\\"It is said that a total of 24 can be created.\\\"\"},{\"lineNumber\":70959,\"originalJapaneseLine\":\"「戦闘ではこれを着たり武器に変化させたり\",\"translatedEnglishLine\":\"\\\"In battle, they wear this or transform it into weapons,\"},{\"lineNumber\":71002,\"originalJapaneseLine\":\"　それがこの画像左のミイラさんね」\",\"translatedEnglishLine\":\"That’s the mummy on the left in this picture.\\\"\"},{\"lineNumber\":71124,\"originalJapaneseLine\":\"　私の右上の所にあるグラフを見れば分かる通り、\",\"translatedEnglishLine\":\"As you can see from the graph at my upper right,\"},{\"lineNumber\":71177,\"originalJapaneseLine\":\"　ハニ子と一緒の時は喜んで……る？\",\"translatedEnglishLine\":\"When I’m with Haniko, she seems happy... right?\"},{\"lineNumber\":76330,\"originalJapaneseLine\":\"　皆には儂の体を直す為に協力してもらうぞ」\",\"translatedEnglishLine\":\"I will have everyone cooperate to heal my body.\\\"\"},{\"lineNumber\":76697,\"originalJapaneseLine\":\"闘神がその鋼鉄の肉体で受け止める。\",\"translatedEnglishLine\":\"The war god catches it with his steel body.\"},{\"lineNumber\":83780,\"originalJapaneseLine\":\"ランスは腰を前に出しペニスを突きだした。\",\"translatedEnglishLine\":\"Rance thrust his hips forward and pushed out his penis.\"},{\"lineNumber\":83858,\"originalJapaneseLine\":\"「くく、こっちも楽しまなければな」\",\"translatedEnglishLine\":\"\\\"Hehe, I have to enjoy this too.\\\"\"},{\"lineNumber\":85257,\"originalJapaneseLine\":\"そこは――\",\"translatedEnglishLine\":\"There—\"},{\"lineNumber\":85258,\"originalJapaneseLine\":\"本来、神しか入ることの出来ぬ聖なる地。\",\"translatedEnglishLine\":\"A sacred place originally only gods can enter.\"},{\"lineNumber\":85259,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":85260,\"originalJapaneseLine\":\"しかし、現在、\",\"translatedEnglishLine\":\"However, at present,\"},{\"lineNumber\":85261,\"originalJapaneseLine\":\"その場にはただの人間である筈の\",\"translatedEnglishLine\":\"there was the figure of Kurukku, who should be just a normal human,\"},{\"lineNumber\":85262,\"originalJapaneseLine\":\"クルックーの姿があった。\",\"translatedEnglishLine\":\"present there.\"},{\"lineNumber\":85263,\"originalJapaneseLine\":\"その場に創造神であるルドラサウムはいない。\",\"translatedEnglishLine\":\"The creator god Rudrasoum was not there.\"},{\"lineNumber\":85264,\"originalJapaneseLine\":\"代わりにいるのは、\",\"translatedEnglishLine\":\"Instead, present were,\"},{\"lineNumber\":85265,\"originalJapaneseLine\":\"クルックーのもっとも近くにいた神、\",\"translatedEnglishLine\":\"the god closest to Kurukku,\"},{\"lineNumber\":85266,\"originalJapaneseLine\":\"女神ALICE。\",\"translatedEnglishLine\":\"the goddess ALICE.\"},{\"lineNumber\":85267,\"originalJapaneseLine\":\"単純に話を聞きに来ただけの、\",\"translatedEnglishLine\":\"Also, the soul management bureau’s Kueruplan, who came simply to listen,\"},{\"lineNumber\":85268,\"originalJapaneseLine\":\"魂管理局クエルプラン。\",\"translatedEnglishLine\":\"of the Soul Management Bureau.\"},{\"lineNumber\":85269,\"originalJapaneseLine\":\"そして、三体の神。\",\"translatedEnglishLine\":\"And three gods.\"},{\"lineNumber\":85270,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":85271,\"originalJapaneseLine\":\"「法王モフス。\",\"translatedEnglishLine\":\"\\\"Pope Mofusu.\"},{\"lineNumber\":85272,\"originalJapaneseLine\":\"　呼んでない客がいるようね」\",\"translatedEnglishLine\":\"It seems you have an uninvited guest.\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "94",
+                                "originalJapaneseLine": "「ん？　なんだサーナキアちゃん。",
+                                "translatedEnglishLine": "\"Hmm? What is it, Sarnakia-chan?\""
+                            },
+                            {
+                                "lineNumber": "124",
+                                "originalJapaneseLine": "「だいたい、サーナキアちゃんに",
+                                "translatedEnglishLine": "\"Anyway, does Sarnakia-chan really have"
+                            },
+                            {
+                                "lineNumber": "125",
+                                "originalJapaneseLine": "　そこまで干渉する権利があるのか？",
+                                "translatedEnglishLine": "the right to interfere that much?\""
+                            },
+                            {
+                                "lineNumber": "172",
+                                "originalJapaneseLine": "「サーナキアちゃんが女らしくせんから、",
+                                "translatedEnglishLine": "\"Because Sarnakia-chan isn’t acting feminine,"
+                            },
+                            {
+                                "lineNumber": "173",
+                                "originalJapaneseLine": "　変な話になるんだ」",
+                                "translatedEnglishLine": "it turns into such a strange story.\""
+                            },
+                            {
+                                "lineNumber": "174",
+                                "originalJapaneseLine": "「……つまり、俺にたっぷり抱かれて",
+                                "translatedEnglishLine": "\"...In other words, you want to be held plenty by me"
+                            },
+                            {
+                                "lineNumber": "242",
+                                "originalJapaneseLine": "「おっ、サーナキアちゃん。",
+                                "translatedEnglishLine": "\"Oh, Sarnakia-chan.\""
+                            },
+                            {
+                                "lineNumber": "267",
+                                "originalJapaneseLine": "　今のはちょっと可愛かったぞ、サーナキアちゃん！",
+                                "translatedEnglishLine": "That was a bit cute just now, Sarnakia-chan!"
+                            },
+                            {
+                                "lineNumber": "284",
+                                "originalJapaneseLine": "　よかったぞ、サーナキアちゃん」",
+                                "translatedEnglishLine": "That was good, Sarnakia-chan.\""
+                            },
+                            {
+                                "lineNumber": "303",
+                                "originalJapaneseLine": "「ぐふふ。それにサーナキアちゃんも、",
+                                "translatedEnglishLine": "\"Gufufu. And also, Sarnakia-chan,"
+                            },
+                            {
+                                "lineNumber": "1050",
+                                "originalJapaneseLine": "もぐもぐと料理をつまむ。",
+                                "translatedEnglishLine": "munches on the food."
+                            },
+                            {
+                                "lineNumber": "1167",
+                                "originalJapaneseLine": "　がはははは、サーナキアちゃんめ、愚かな",
+                                "translatedEnglishLine": "Hahaha, Sarnakia-chan, you foolish one."
+                            },
+                            {
+                                "lineNumber": "12407",
+                                "originalJapaneseLine": "「志津香さんにもナギさんにもフェリスさんにも",
+                                "translatedEnglishLine": "\"Not with Shizuka-san, Nagi-san, or Felis-san either,"
+                            },
+                            {
+                                "lineNumber": "20469",
+                                "originalJapaneseLine": "　サーナキアちゃんもいないのか！」",
+                                "translatedEnglishLine": "Is Sarnakia-chan not there either!\""
+                            },
+                            {
+                                "lineNumber": "22889",
+                                "originalJapaneseLine": "　勇者の務めを怠ったせい……なんて",
+                                "translatedEnglishLine": "Because I neglected my duties as a hero... or something like that."
+                            },
+                            {
+                                "lineNumber": "28125",
+                                "originalJapaneseLine": "（パットンは死んでも諦めないだろうけど、",
+                                "translatedEnglishLine": "(Patton probably wouldn’t give up even if he died, but"
+                            },
+                            {
+                                "lineNumber": "28126",
+                                "originalJapaneseLine": "　魔軍が早い……",
+                                "translatedEnglishLine": "the demon army is faster..."
+                            },
+                            {
+                                "lineNumber": "38396",
+                                "originalJapaneseLine": "　あんな臭そうな連中は要らんが……",
+                                "translatedEnglishLine": "I don’t need those stinky guys though..."
+                            },
+                            {
+                                "lineNumber": "38497",
+                                "originalJapaneseLine": "「よせよせ。サーナキアちゃんが命を賭けても、",
+                                "translatedEnglishLine": "\"Cut it out, cut it out. Even if Sarnakia-chan risks her life,"
+                            },
+                            {
+                                "lineNumber": "50781",
+                                "originalJapaneseLine": "戸惑いを見せた魔物将軍に、",
+                                "translatedEnglishLine": "to the demon general who showed hesitation,"
+                            },
+                            {
+                                "lineNumber": "61768",
+                                "originalJapaneseLine": "（そういえば、っ……バグはランスに集めさせて……",
+                                "translatedEnglishLine": "(Come to think of it... have Rance gather the bugs..."
+                            },
+                            {
+                                "lineNumber": "64511",
+                                "originalJapaneseLine": "「なんだこりゃ。手紙……？",
+                                "translatedEnglishLine": "\"What’s this? A letter...?"
+                            },
+                            {
+                                "lineNumber": "64512",
+                                "originalJapaneseLine": "　クリームちゃんからか」",
+                                "translatedEnglishLine": "From Cream-chan, huh.\""
+                            },
+                            {
+                                "lineNumber": "64513",
+                                "originalJapaneseLine": "「なになに……いつ戻るのか、",
+                                "translatedEnglishLine": "\"What is it... asking when I’ll return,"
+                            },
+                            {
+                                "lineNumber": "64514",
+                                "originalJapaneseLine": "　スケジュールを教えろってか」",
+                                "translatedEnglishLine": "and telling me to give my schedule?\""
+                            },
+                            {
+                                "lineNumber": "64515",
+                                "originalJapaneseLine": "「……めんどくさい。",
+                                "translatedEnglishLine": "\"...Such a hassle."
+                            },
+                            {
+                                "lineNumber": "64516",
+                                "originalJapaneseLine": "　シィル、適当に……ん？",
+                                "translatedEnglishLine": "Shiru, just make something up... huh?"
+                            },
+                            {
+                                "lineNumber": "64517",
+                                "originalJapaneseLine": "　この日付は……」",
+                                "translatedEnglishLine": "This date is...\""
+                            },
+                            {
+                                "lineNumber": "69680",
+                                "originalJapaneseLine": "　聖女モンスターについて説明するわよ！」",
+                                "translatedEnglishLine": "I’ll explain about the saintly monsters!"
+                            },
+                            {
+                                "lineNumber": "69942",
+                                "originalJapaneseLine": "「だーってあなたの本編の楽しみを",
+                                "translatedEnglishLine": "\"Because I don’t want to spoil the enjoyment of your main story,"
+                            },
+                            {
+                                "lineNumber": "69982",
+                                "originalJapaneseLine": "「さって、それではヘルマンにいる",
+                                "translatedEnglishLine": "\"Well then, to those in Hellman,"
+                            },
+                            {
+                                "lineNumber": "70086",
+                                "originalJapaneseLine": "「ぶっちゃけ、全部まとめて",
+                                "translatedEnglishLine": "\"To be frank, altogether,"
+                            },
+                            {
+                                "lineNumber": "70508",
+                                "originalJapaneseLine": "　この世界の海ってのは十年に一度だけ",
+                                "translatedEnglishLine": "In this world, the sea only appears once every ten years,"
+                            },
+                            {
+                                "lineNumber": "70537",
+                                "originalJapaneseLine": "　世界をほぼ征服したものの",
+                                "translatedEnglishLine": "Having almost conquered the world,"
+                            },
+                            {
+                                "lineNumber": "70621",
+                                "originalJapaneseLine": "　人間を奴隷化する人間牧場の解放を行ったり",
+                                "translatedEnglishLine": "They conducted actions like liberating human farms that enslaved people."
+                            },
+                            {
+                                "lineNumber": "70689",
+                                "originalJapaneseLine": "「これは全部で24体作れると言われてるわ」",
+                                "translatedEnglishLine": "\"It is said that a total of 24 can be created.\""
+                            },
+                            {
+                                "lineNumber": "70959",
+                                "originalJapaneseLine": "「戦闘ではこれを着たり武器に変化させたり",
+                                "translatedEnglishLine": "\"In battle, they wear this or transform it into weapons,"
+                            },
+                            {
+                                "lineNumber": "71002",
+                                "originalJapaneseLine": "　それがこの画像左のミイラさんね」",
+                                "translatedEnglishLine": "That’s the mummy on the left in this picture.\""
+                            },
+                            {
+                                "lineNumber": "71124",
+                                "originalJapaneseLine": "　私の右上の所にあるグラフを見れば分かる通り、",
+                                "translatedEnglishLine": "As you can see from the graph at my upper right,"
+                            },
+                            {
+                                "lineNumber": "71177",
+                                "originalJapaneseLine": "　ハニ子と一緒の時は喜んで……る？",
+                                "translatedEnglishLine": "When I’m with Haniko, she seems happy... right?"
+                            },
+                            {
+                                "lineNumber": "76330",
+                                "originalJapaneseLine": "　皆には儂の体を直す為に協力してもらうぞ」",
+                                "translatedEnglishLine": "I will have everyone cooperate to heal my body.\""
+                            },
+                            {
+                                "lineNumber": "76697",
+                                "originalJapaneseLine": "闘神がその鋼鉄の肉体で受け止める。",
+                                "translatedEnglishLine": "The war god catches it with his steel body."
+                            },
+                            {
+                                "lineNumber": "83780",
+                                "originalJapaneseLine": "ランスは腰を前に出しペニスを突きだした。",
+                                "translatedEnglishLine": "Rance thrust his hips forward and pushed out his penis."
+                            },
+                            {
+                                "lineNumber": "83858",
+                                "originalJapaneseLine": "「くく、こっちも楽しまなければな」",
+                                "translatedEnglishLine": "\"Hehe, I have to enjoy this too.\""
+                            },
+                            {
+                                "lineNumber": "85257",
+                                "originalJapaneseLine": "そこは――",
+                                "translatedEnglishLine": "There—"
+                            },
+                            {
+                                "lineNumber": "85258",
+                                "originalJapaneseLine": "本来、神しか入ることの出来ぬ聖なる地。",
+                                "translatedEnglishLine": "A sacred place originally only gods can enter."
+                            },
+                            {
+                                "lineNumber": "85259",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "85260",
+                                "originalJapaneseLine": "しかし、現在、",
+                                "translatedEnglishLine": "However, at present,"
+                            },
+                            {
+                                "lineNumber": "85261",
+                                "originalJapaneseLine": "その場にはただの人間である筈の",
+                                "translatedEnglishLine": "there was the figure of Kurukku, who should be just a normal human,"
+                            },
+                            {
+                                "lineNumber": "85262",
+                                "originalJapaneseLine": "クルックーの姿があった。",
+                                "translatedEnglishLine": "present there."
+                            },
+                            {
+                                "lineNumber": "85263",
+                                "originalJapaneseLine": "その場に創造神であるルドラサウムはいない。",
+                                "translatedEnglishLine": "The creator god Rudrasoum was not there."
+                            },
+                            {
+                                "lineNumber": "85264",
+                                "originalJapaneseLine": "代わりにいるのは、",
+                                "translatedEnglishLine": "Instead, present were,"
+                            },
+                            {
+                                "lineNumber": "85265",
+                                "originalJapaneseLine": "クルックーのもっとも近くにいた神、",
+                                "translatedEnglishLine": "the god closest to Kurukku,"
+                            },
+                            {
+                                "lineNumber": "85266",
+                                "originalJapaneseLine": "女神ALICE。",
+                                "translatedEnglishLine": "the goddess ALICE."
+                            },
+                            {
+                                "lineNumber": "85267",
+                                "originalJapaneseLine": "単純に話を聞きに来ただけの、",
+                                "translatedEnglishLine": "Also, the soul management bureau’s Kueruplan, who came simply to listen,"
+                            },
+                            {
+                                "lineNumber": "85268",
+                                "originalJapaneseLine": "魂管理局クエルプラン。",
+                                "translatedEnglishLine": "of the Soul Management Bureau."
+                            },
+                            {
+                                "lineNumber": "85269",
+                                "originalJapaneseLine": "そして、三体の神。",
+                                "translatedEnglishLine": "And three gods."
+                            },
+                            {
+                                "lineNumber": "85270",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "85271",
+                                "originalJapaneseLine": "「法王モフス。",
+                                "translatedEnglishLine": "\"Pope Mofusu."
+                            },
+                            {
+                                "lineNumber": "85272",
+                                "originalJapaneseLine": "　呼んでない客がいるようね」",
+                                "translatedEnglishLine": "It seems you have an uninvited guest.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1854,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2289,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4143
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":94,\"originalJapaneseLine\":\"「ん？　なんだサーナキアちゃん。\",\"translatedEnglishLine\":\"\\\"Hmm? What is it, Sarnakia-chan?\\\"\"},{\"lineNumber\":124,\"originalJapaneseLine\":\"「だいたい、サーナキアちゃんに\",\"translatedEnglishLine\":\"\\\"Anyway, does Sarnakia-chan really have\"},{\"lineNumber\":125,\"originalJapaneseLine\":\"　そこまで干渉する権利があるのか？\",\"translatedEnglishLine\":\"the right to interfere that much?\\\"\"},{\"lineNumber\":172,\"originalJapaneseLine\":\"「サーナキアちゃんが女らしくせんから、\",\"translatedEnglishLine\":\"\\\"Because Sarnakia-chan isn’t acting feminine,\"},{\"lineNumber\":173,\"originalJapaneseLine\":\"　変な話になるんだ」\",\"translatedEnglishLine\":\"it turns into such a strange story.\\\"\"},{\"lineNumber\":174,\"originalJapaneseLine\":\"「……つまり、俺にたっぷり抱かれて\",\"translatedEnglishLine\":\"\\\"...In other words, you want to be held plenty by me\"},{\"lineNumber\":242,\"originalJapaneseLine\":\"「おっ、サーナキアちゃん。\",\"translatedEnglishLine\":\"\\\"Oh, Sarnakia-chan.\\\"\"},{\"lineNumber\":267,\"originalJapaneseLine\":\"　今のはちょっと可愛かったぞ、サーナキアちゃん！\",\"translatedEnglishLine\":\"That was a bit cute just now, Sarnakia-chan!\"},{\"lineNumber\":284,\"originalJapaneseLine\":\"　よかったぞ、サーナキアちゃん」\",\"translatedEnglishLine\":\"That was good, Sarnakia-chan.\\\"\"},{\"lineNumber\":303,\"originalJapaneseLine\":\"「ぐふふ。それにサーナキアちゃんも、\",\"translatedEnglishLine\":\"\\\"Gufufu. And also, Sarnakia-chan,\"},{\"lineNumber\":1050,\"originalJapaneseLine\":\"もぐもぐと料理をつまむ。\",\"translatedEnglishLine\":\"munches on the food.\"},{\"lineNumber\":1167,\"originalJapaneseLine\":\"　がはははは、サーナキアちゃんめ、愚かな\",\"translatedEnglishLine\":\"Hahaha, Sarnakia-chan, you foolish one.\"},{\"lineNumber\":12407,\"originalJapaneseLine\":\"「志津香さんにもナギさんにもフェリスさんにも\",\"translatedEnglishLine\":\"\\\"Not with Shizuka-san, Nagi-san, or Felis-san either,\"},{\"lineNumber\":20469,\"originalJapaneseLine\":\"　サーナキアちゃんもいないのか！」\",\"translatedEnglishLine\":\"Is Sarnakia-chan not there either!\\\"\"},{\"lineNumber\":22889,\"originalJapaneseLine\":\"　勇者の務めを怠ったせい……なんて\",\"translatedEnglishLine\":\"Because I neglected my duties as a hero... or something like that.\"},{\"lineNumber\":28125,\"originalJapaneseLine\":\"（パットンは死んでも諦めないだろうけど、\",\"translatedEnglishLine\":\"(Patton probably wouldn’t give up even if he died, but\"},{\"lineNumber\":28126,\"originalJapaneseLine\":\"　魔軍が早い……\",\"translatedEnglishLine\":\"the demon army is faster...\"},{\"lineNumber\":38396,\"originalJapaneseLine\":\"　あんな臭そうな連中は要らんが……\",\"translatedEnglishLine\":\"I don’t need those stinky guys though...\"},{\"lineNumber\":38497,\"originalJapaneseLine\":\"「よせよせ。サーナキアちゃんが命を賭けても、\",\"translatedEnglishLine\":\"\\\"Cut it out, cut it out. Even if Sarnakia-chan risks her life,\"},{\"lineNumber\":50781,\"originalJapaneseLine\":\"戸惑いを見せた魔物将軍に、\",\"translatedEnglishLine\":\"to the demon general who showed hesitation,\"},{\"lineNumber\":61768,\"originalJapaneseLine\":\"（そういえば、っ……バグはランスに集めさせて……\",\"translatedEnglishLine\":\"(Come to think of it... have Rance gather the bugs...\"},{\"lineNumber\":64511,\"originalJapaneseLine\":\"「なんだこりゃ。手紙……？\",\"translatedEnglishLine\":\"\\\"What’s this? A letter...?\"},{\"lineNumber\":64512,\"originalJapaneseLine\":\"　クリームちゃんからか」\",\"translatedEnglishLine\":\"From Cream-chan, huh.\\\"\"},{\"lineNumber\":64513,\"originalJapaneseLine\":\"「なになに……いつ戻るのか、\",\"translatedEnglishLine\":\"\\\"What is it... asking when I’ll return,\"},{\"lineNumber\":64514,\"originalJapaneseLine\":\"　スケジュールを教えろってか」\",\"translatedEnglishLine\":\"and telling me to give my schedule?\\\"\"},{\"lineNumber\":64515,\"originalJapaneseLine\":\"「……めんどくさい。\",\"translatedEnglishLine\":\"\\\"...Such a hassle.\"},{\"lineNumber\":64516,\"originalJapaneseLine\":\"　シィル、適当に……ん？\",\"translatedEnglishLine\":\"Shiru, just make something up... huh?\"},{\"lineNumber\":64517,\"originalJapaneseLine\":\"　この日付は……」\",\"translatedEnglishLine\":\"This date is...\\\"\"},{\"lineNumber\":69680,\"originalJapaneseLine\":\"　聖女モンスターについて説明するわよ！」\",\"translatedEnglishLine\":\"I’ll explain about the saintly monsters!\"},{\"lineNumber\":69942,\"originalJapaneseLine\":\"「だーってあなたの本編の楽しみを\",\"translatedEnglishLine\":\"\\\"Because I don’t want to spoil the enjoyment of your main story,\"},{\"lineNumber\":69982,\"originalJapaneseLine\":\"「さって、それではヘルマンにいる\",\"translatedEnglishLine\":\"\\\"Well then, to those in Hellman,\"},{\"lineNumber\":70086,\"originalJapaneseLine\":\"「ぶっちゃけ、全部まとめて\",\"translatedEnglishLine\":\"\\\"To be frank, altogether,\"},{\"lineNumber\":70508,\"originalJapaneseLine\":\"　この世界の海ってのは十年に一度だけ\",\"translatedEnglishLine\":\"In this world, the sea only appears once every ten years,\"},{\"lineNumber\":70537,\"originalJapaneseLine\":\"　世界をほぼ征服したものの\",\"translatedEnglishLine\":\"Having almost conquered the world,\"},{\"lineNumber\":70621,\"originalJapaneseLine\":\"　人間を奴隷化する人間牧場の解放を行ったり\",\"translatedEnglishLine\":\"They conducted actions like liberating human farms that enslaved people.\"},{\"lineNumber\":70689,\"originalJapaneseLine\":\"「これは全部で24体作れると言われてるわ」\",\"translatedEnglishLine\":\"\\\"It is said that a total of 24 can be created.\\\"\"},{\"lineNumber\":70959,\"originalJapaneseLine\":\"「戦闘ではこれを着たり武器に変化させたり\",\"translatedEnglishLine\":\"\\\"In battle, they wear this or transform it into weapons,\"},{\"lineNumber\":71002,\"originalJapaneseLine\":\"　それがこの画像左のミイラさんね」\",\"translatedEnglishLine\":\"That’s the mummy on the left in this picture.\\\"\"},{\"lineNumber\":71124,\"originalJapaneseLine\":\"　私の右上の所にあるグラフを見れば分かる通り、\",\"translatedEnglishLine\":\"As you can see from the graph at my upper right,\"},{\"lineNumber\":71177,\"originalJapaneseLine\":\"　ハニ子と一緒の時は喜んで……る？\",\"translatedEnglishLine\":\"When I’m with Haniko, she seems happy... right?\"},{\"lineNumber\":76330,\"originalJapaneseLine\":\"　皆には儂の体を直す為に協力してもらうぞ」\",\"translatedEnglishLine\":\"I will have everyone cooperate to heal my body.\\\"\"},{\"lineNumber\":76697,\"originalJapaneseLine\":\"闘神がその鋼鉄の肉体で受け止める。\",\"translatedEnglishLine\":\"The war god catches it with his steel body.\"},{\"lineNumber\":83780,\"originalJapaneseLine\":\"ランスは腰を前に出しペニスを突きだした。\",\"translatedEnglishLine\":\"Rance thrust his hips forward and pushed out his penis.\"},{\"lineNumber\":83858,\"originalJapaneseLine\":\"「くく、こっちも楽しまなければな」\",\"translatedEnglishLine\":\"\\\"Hehe, I have to enjoy this too.\\\"\"},{\"lineNumber\":85257,\"originalJapaneseLine\":\"そこは――\",\"translatedEnglishLine\":\"There—\"},{\"lineNumber\":85258,\"originalJapaneseLine\":\"本来、神しか入ることの出来ぬ聖なる地。\",\"translatedEnglishLine\":\"A sacred place originally only gods can enter.\"},{\"lineNumber\":85259,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":85260,\"originalJapaneseLine\":\"しかし、現在、\",\"translatedEnglishLine\":\"However, at present,\"},{\"lineNumber\":85261,\"originalJapaneseLine\":\"その場にはただの人間である筈の\",\"translatedEnglishLine\":\"there was the figure of Kurukku, who should be just a normal human,\"},{\"lineNumber\":85262,\"originalJapaneseLine\":\"クルックーの姿があった。\",\"translatedEnglishLine\":\"present there.\"},{\"lineNumber\":85263,\"originalJapaneseLine\":\"その場に創造神であるルドラサウムはいない。\",\"translatedEnglishLine\":\"The creator god Rudrasoum was not there.\"},{\"lineNumber\":85264,\"originalJapaneseLine\":\"代わりにいるのは、\",\"translatedEnglishLine\":\"Instead, present were,\"},{\"lineNumber\":85265,\"originalJapaneseLine\":\"クルックーのもっとも近くにいた神、\",\"translatedEnglishLine\":\"the god closest to Kurukku,\"},{\"lineNumber\":85266,\"originalJapaneseLine\":\"女神ALICE。\",\"translatedEnglishLine\":\"the goddess ALICE.\"},{\"lineNumber\":85267,\"originalJapaneseLine\":\"単純に話を聞きに来ただけの、\",\"translatedEnglishLine\":\"Also, the soul management bureau’s Kueruplan, who came simply to listen,\"},{\"lineNumber\":85268,\"originalJapaneseLine\":\"魂管理局クエルプラン。\",\"translatedEnglishLine\":\"of the Soul Management Bureau.\"},{\"lineNumber\":85269,\"originalJapaneseLine\":\"そして、三体の神。\",\"translatedEnglishLine\":\"And three gods.\"},{\"lineNumber\":85270,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":85271,\"originalJapaneseLine\":\"「法王モフス。\",\"translatedEnglishLine\":\"\\\"Pope Mofusu.\"},{\"lineNumber\":85272,\"originalJapaneseLine\":\"　呼んでない客がいるようね」\",\"translatedEnglishLine\":\"It seems you have an uninvited guest.\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "94",
+                "originalJapaneseLine": "「ん？　なんだサーナキアちゃん。",
+                "translatedEnglishLine": "\"Hmm? What is it, Sarnakia-chan?\""
+            },
+            {
+                "lineNumber": "124",
+                "originalJapaneseLine": "「だいたい、サーナキアちゃんに",
+                "translatedEnglishLine": "\"Anyway, does Sarnakia-chan really have"
+            },
+            {
+                "lineNumber": "125",
+                "originalJapaneseLine": "　そこまで干渉する権利があるのか？",
+                "translatedEnglishLine": "the right to interfere that much?\""
+            },
+            {
+                "lineNumber": "172",
+                "originalJapaneseLine": "「サーナキアちゃんが女らしくせんから、",
+                "translatedEnglishLine": "\"Because Sarnakia-chan isn’t acting feminine,"
+            },
+            {
+                "lineNumber": "173",
+                "originalJapaneseLine": "　変な話になるんだ」",
+                "translatedEnglishLine": "it turns into such a strange story.\""
+            },
+            {
+                "lineNumber": "174",
+                "originalJapaneseLine": "「……つまり、俺にたっぷり抱かれて",
+                "translatedEnglishLine": "\"...In other words, you want to be held plenty by me"
+            },
+            {
+                "lineNumber": "242",
+                "originalJapaneseLine": "「おっ、サーナキアちゃん。",
+                "translatedEnglishLine": "\"Oh, Sarnakia-chan.\""
+            },
+            {
+                "lineNumber": "267",
+                "originalJapaneseLine": "　今のはちょっと可愛かったぞ、サーナキアちゃん！",
+                "translatedEnglishLine": "That was a bit cute just now, Sarnakia-chan!"
+            },
+            {
+                "lineNumber": "284",
+                "originalJapaneseLine": "　よかったぞ、サーナキアちゃん」",
+                "translatedEnglishLine": "That was good, Sarnakia-chan.\""
+            },
+            {
+                "lineNumber": "303",
+                "originalJapaneseLine": "「ぐふふ。それにサーナキアちゃんも、",
+                "translatedEnglishLine": "\"Gufufu. And also, Sarnakia-chan,"
+            },
+            {
+                "lineNumber": "1050",
+                "originalJapaneseLine": "もぐもぐと料理をつまむ。",
+                "translatedEnglishLine": "munches on the food."
+            },
+            {
+                "lineNumber": "1167",
+                "originalJapaneseLine": "　がはははは、サーナキアちゃんめ、愚かな",
+                "translatedEnglishLine": "Hahaha, Sarnakia-chan, you foolish one."
+            },
+            {
+                "lineNumber": "12407",
+                "originalJapaneseLine": "「志津香さんにもナギさんにもフェリスさんにも",
+                "translatedEnglishLine": "\"Not with Shizuka-san, Nagi-san, or Felis-san either,"
+            },
+            {
+                "lineNumber": "20469",
+                "originalJapaneseLine": "　サーナキアちゃんもいないのか！」",
+                "translatedEnglishLine": "Is Sarnakia-chan not there either!\""
+            },
+            {
+                "lineNumber": "22889",
+                "originalJapaneseLine": "　勇者の務めを怠ったせい……なんて",
+                "translatedEnglishLine": "Because I neglected my duties as a hero... or something like that."
+            },
+            {
+                "lineNumber": "28125",
+                "originalJapaneseLine": "（パットンは死んでも諦めないだろうけど、",
+                "translatedEnglishLine": "(Patton probably wouldn’t give up even if he died, but"
+            },
+            {
+                "lineNumber": "28126",
+                "originalJapaneseLine": "　魔軍が早い……",
+                "translatedEnglishLine": "the demon army is faster..."
+            },
+            {
+                "lineNumber": "38396",
+                "originalJapaneseLine": "　あんな臭そうな連中は要らんが……",
+                "translatedEnglishLine": "I don’t need those stinky guys though..."
+            },
+            {
+                "lineNumber": "38497",
+                "originalJapaneseLine": "「よせよせ。サーナキアちゃんが命を賭けても、",
+                "translatedEnglishLine": "\"Cut it out, cut it out. Even if Sarnakia-chan risks her life,"
+            },
+            {
+                "lineNumber": "50781",
+                "originalJapaneseLine": "戸惑いを見せた魔物将軍に、",
+                "translatedEnglishLine": "to the demon general who showed hesitation,"
+            },
+            {
+                "lineNumber": "61768",
+                "originalJapaneseLine": "（そういえば、っ……バグはランスに集めさせて……",
+                "translatedEnglishLine": "(Come to think of it... have Rance gather the bugs..."
+            },
+            {
+                "lineNumber": "64511",
+                "originalJapaneseLine": "「なんだこりゃ。手紙……？",
+                "translatedEnglishLine": "\"What’s this? A letter...?"
+            },
+            {
+                "lineNumber": "64512",
+                "originalJapaneseLine": "　クリームちゃんからか」",
+                "translatedEnglishLine": "From Cream-chan, huh.\""
+            },
+            {
+                "lineNumber": "64513",
+                "originalJapaneseLine": "「なになに……いつ戻るのか、",
+                "translatedEnglishLine": "\"What is it... asking when I’ll return,"
+            },
+            {
+                "lineNumber": "64514",
+                "originalJapaneseLine": "　スケジュールを教えろってか」",
+                "translatedEnglishLine": "and telling me to give my schedule?\""
+            },
+            {
+                "lineNumber": "64515",
+                "originalJapaneseLine": "「……めんどくさい。",
+                "translatedEnglishLine": "\"...Such a hassle."
+            },
+            {
+                "lineNumber": "64516",
+                "originalJapaneseLine": "　シィル、適当に……ん？",
+                "translatedEnglishLine": "Shiru, just make something up... huh?"
+            },
+            {
+                "lineNumber": "64517",
+                "originalJapaneseLine": "　この日付は……」",
+                "translatedEnglishLine": "This date is...\""
+            },
+            {
+                "lineNumber": "69680",
+                "originalJapaneseLine": "　聖女モンスターについて説明するわよ！」",
+                "translatedEnglishLine": "I’ll explain about the saintly monsters!"
+            },
+            {
+                "lineNumber": "69942",
+                "originalJapaneseLine": "「だーってあなたの本編の楽しみを",
+                "translatedEnglishLine": "\"Because I don’t want to spoil the enjoyment of your main story,"
+            },
+            {
+                "lineNumber": "69982",
+                "originalJapaneseLine": "「さって、それではヘルマンにいる",
+                "translatedEnglishLine": "\"Well then, to those in Hellman,"
+            },
+            {
+                "lineNumber": "70086",
+                "originalJapaneseLine": "「ぶっちゃけ、全部まとめて",
+                "translatedEnglishLine": "\"To be frank, altogether,"
+            },
+            {
+                "lineNumber": "70508",
+                "originalJapaneseLine": "　この世界の海ってのは十年に一度だけ",
+                "translatedEnglishLine": "In this world, the sea only appears once every ten years,"
+            },
+            {
+                "lineNumber": "70537",
+                "originalJapaneseLine": "　世界をほぼ征服したものの",
+                "translatedEnglishLine": "Having almost conquered the world,"
+            },
+            {
+                "lineNumber": "70621",
+                "originalJapaneseLine": "　人間を奴隷化する人間牧場の解放を行ったり",
+                "translatedEnglishLine": "They conducted actions like liberating human farms that enslaved people."
+            },
+            {
+                "lineNumber": "70689",
+                "originalJapaneseLine": "「これは全部で24体作れると言われてるわ」",
+                "translatedEnglishLine": "\"It is said that a total of 24 can be created.\""
+            },
+            {
+                "lineNumber": "70959",
+                "originalJapaneseLine": "「戦闘ではこれを着たり武器に変化させたり",
+                "translatedEnglishLine": "\"In battle, they wear this or transform it into weapons,"
+            },
+            {
+                "lineNumber": "71002",
+                "originalJapaneseLine": "　それがこの画像左のミイラさんね」",
+                "translatedEnglishLine": "That’s the mummy on the left in this picture.\""
+            },
+            {
+                "lineNumber": "71124",
+                "originalJapaneseLine": "　私の右上の所にあるグラフを見れば分かる通り、",
+                "translatedEnglishLine": "As you can see from the graph at my upper right,"
+            },
+            {
+                "lineNumber": "71177",
+                "originalJapaneseLine": "　ハニ子と一緒の時は喜んで……る？",
+                "translatedEnglishLine": "When I’m with Haniko, she seems happy... right?"
+            },
+            {
+                "lineNumber": "76330",
+                "originalJapaneseLine": "　皆には儂の体を直す為に協力してもらうぞ」",
+                "translatedEnglishLine": "I will have everyone cooperate to heal my body.\""
+            },
+            {
+                "lineNumber": "76697",
+                "originalJapaneseLine": "闘神がその鋼鉄の肉体で受け止める。",
+                "translatedEnglishLine": "The war god catches it with his steel body."
+            },
+            {
+                "lineNumber": "83780",
+                "originalJapaneseLine": "ランスは腰を前に出しペニスを突きだした。",
+                "translatedEnglishLine": "Rance thrust his hips forward and pushed out his penis."
+            },
+            {
+                "lineNumber": "83858",
+                "originalJapaneseLine": "「くく、こっちも楽しまなければな」",
+                "translatedEnglishLine": "\"Hehe, I have to enjoy this too.\""
+            },
+            {
+                "lineNumber": "85257",
+                "originalJapaneseLine": "そこは――",
+                "translatedEnglishLine": "There—"
+            },
+            {
+                "lineNumber": "85258",
+                "originalJapaneseLine": "本来、神しか入ることの出来ぬ聖なる地。",
+                "translatedEnglishLine": "A sacred place originally only gods can enter."
+            },
+            {
+                "lineNumber": "85259",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "85260",
+                "originalJapaneseLine": "しかし、現在、",
+                "translatedEnglishLine": "However, at present,"
+            },
+            {
+                "lineNumber": "85261",
+                "originalJapaneseLine": "その場にはただの人間である筈の",
+                "translatedEnglishLine": "there was the figure of Kurukku, who should be just a normal human,"
+            },
+            {
+                "lineNumber": "85262",
+                "originalJapaneseLine": "クルックーの姿があった。",
+                "translatedEnglishLine": "present there."
+            },
+            {
+                "lineNumber": "85263",
+                "originalJapaneseLine": "その場に創造神であるルドラサウムはいない。",
+                "translatedEnglishLine": "The creator god Rudrasoum was not there."
+            },
+            {
+                "lineNumber": "85264",
+                "originalJapaneseLine": "代わりにいるのは、",
+                "translatedEnglishLine": "Instead, present were,"
+            },
+            {
+                "lineNumber": "85265",
+                "originalJapaneseLine": "クルックーのもっとも近くにいた神、",
+                "translatedEnglishLine": "the god closest to Kurukku,"
+            },
+            {
+                "lineNumber": "85266",
+                "originalJapaneseLine": "女神ALICE。",
+                "translatedEnglishLine": "the goddess ALICE."
+            },
+            {
+                "lineNumber": "85267",
+                "originalJapaneseLine": "単純に話を聞きに来ただけの、",
+                "translatedEnglishLine": "Also, the soul management bureau’s Kueruplan, who came simply to listen,"
+            },
+            {
+                "lineNumber": "85268",
+                "originalJapaneseLine": "魂管理局クエルプラン。",
+                "translatedEnglishLine": "of the Soul Management Bureau."
+            },
+            {
+                "lineNumber": "85269",
+                "originalJapaneseLine": "そして、三体の神。",
+                "translatedEnglishLine": "And three gods."
+            },
+            {
+                "lineNumber": "85270",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "85271",
+                "originalJapaneseLine": "「法王モフス。",
+                "translatedEnglishLine": "\"Pope Mofusu."
+            },
+            {
+                "lineNumber": "85272",
+                "originalJapaneseLine": "　呼んでない客がいるようね」",
+                "translatedEnglishLine": "It seems you have an uninvited guest.\""
+            }
+        ]
+    }
+}

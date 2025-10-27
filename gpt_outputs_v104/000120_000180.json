@@ -1,0 +1,719 @@
+{
+    "id": "resp_0806e43e915ca2e00068ffe42574a08194859f0dbaf4e4daef",
+    "object": "response",
+    "created_at": 1761600549,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0806e43e915ca2e00068ffe42616748194a65e944870b00fde",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 85333,\n      \"originalJapaneseLine\": \"「何故なら、\",\n      \"translatedEnglishLine\": \"\\\"Because,\"\n    },\n    {\n      \"lineNumber\": 85334,\n      \"originalJapaneseLine\": \"　私は女神ALICEとの謁見で現場におらず、\",\n      \"translatedEnglishLine\": \"I was not present at the scene due to my audience with the goddess ALICE,\"\n    },\n    {\n      \"lineNumber\": 85335,\n      \"originalJapaneseLine\": \"　戻ってきた時には、既にランスは消息不明……」\",\n      \"translatedEnglishLine\": \"and by the time I returned, Rance was already missing...\\\"\"\n    },\n    {\n      \"lineNumber\": 85336,\n      \"originalJapaneseLine\": \"「中々、絶望的な気持ちになりました」\",\n      \"translatedEnglishLine\": \"\\\"I felt quite hopeless.\\\"\"\n    },\n    {\n      \"lineNumber\": 85337,\n      \"originalJapaneseLine\": \"「まだ正気を保っているランスも、\",\n      \"translatedEnglishLine\": \"\\\"Even Rance, who still held onto his sanity,\"\n    },\n    {\n      \"lineNumber\": 85338,\n      \"originalJapaneseLine\": \"　いずれ魔王の血に飲み込まれることは明白」\",\n      \"translatedEnglishLine\": \"it was clear he would eventually be consumed by the demon king’s blood.\\\"\"\n    },\n    {\n      \"lineNumber\": 85339,\n      \"originalJapaneseLine\": \"「……法王には、女神ALICEの権限に限り、\",\n      \"translatedEnglishLine\": \"\\\"...The Pope has the authority granted by the goddess ALICE,\"\n    },\n    {\n      \"lineNumber\": 85340,\n      \"originalJapaneseLine\": \"　あらゆる願いが叶えられる」\",\n      \"translatedEnglishLine\": \"to have any wish fulfilled.\\\"\"\n    },\n    {\n      \"lineNumber\": 85341,\n      \"originalJapaneseLine\": \"「私が最初に考えたことは、\",\n      \"translatedEnglishLine\": \"\\\"The first thing I thought was\"\n    },\n    {\n      \"lineNumber\": 85342,\n      \"originalJapaneseLine\": \"　その法王特典を使用して\",\n      \"translatedEnglishLine\": \"to use that Papal privilege\"\n    },\n    {\n      \"lineNumber\": 85343,\n      \"originalJapaneseLine\": \"　シィルさんを蘇らせることでした」\",\n      \"translatedEnglishLine\": \"to resurrect Seir-san.\\\"\"\n    },\n    {\n      \"lineNumber\": 85344,\n      \"originalJapaneseLine\": \"「それにより、\",\n      \"translatedEnglishLine\": \"\\\"By doing so,\"\n    },\n    {\n      \"lineNumber\": 85345,\n      \"originalJapaneseLine\": \"　ランスも正気を維持できるのでは、と」\",\n      \"translatedEnglishLine\": \"I thought Rance might be able to keep his sanity too.\\\"\"\n    },\n    {\n      \"lineNumber\": 85346,\n      \"originalJapaneseLine\": \"クルックーが女神ALICEを見上げる。\",\n      \"translatedEnglishLine\": \"Kurukuu looked up at the goddess ALICE.\"\n    },\n    {\n      \"lineNumber\": 85347,\n      \"originalJapaneseLine\": \"「残念ながら……\",\n      \"translatedEnglishLine\": \"\\\"Unfortunately...\"\n    },\n    {\n      \"lineNumber\": 85348,\n      \"originalJapaneseLine\": \"　これは許可が下りませんでしたけどね」\",\n      \"translatedEnglishLine\": \"this was not permitted, though.\\\"\"\n    },\n    {\n      \"lineNumber\": 85349,\n      \"originalJapaneseLine\": \"「……ええ」\",\n      \"translatedEnglishLine\": \"\\\"...Yes.\\\"\"\n    },\n    {\n      \"lineNumber\": 85350,\n      \"originalJapaneseLine\": \"「万が一にも魔王には、\",\n      \"translatedEnglishLine\": \"\\\"Under no circumstances could the demon king\"\n    },\n    {\n      \"lineNumber\": 85351,\n      \"originalJapaneseLine\": \"　正気を保ってもらうわけにはいかない。\",\n      \"translatedEnglishLine\": \"be allowed to remain sane.\"\n    },\n    {\n      \"lineNumber\": 85352,\n      \"originalJapaneseLine\": \"　私はその願いを却下したわ」\",\n      \"translatedEnglishLine\": \"I rejected that wish.\\\"\"\n    },\n    {\n      \"lineNumber\": 85353,\n      \"originalJapaneseLine\": \"「ですので……考え方を変えました」\",\n      \"translatedEnglishLine\": \"\\\"So... I changed my way of thinking.\\\"\"\n    },\n    {\n      \"lineNumber\": 85354,\n      \"originalJapaneseLine\": \"「そもそも、神の玩具であるこの世界を、\",\n      \"translatedEnglishLine\": \"\\\"In the first place, this world, which is a toy of the gods,\"\n    },\n    {\n      \"lineNumber\": 85355,\n      \"originalJapaneseLine\": \"　根本から作り替えねば――と」\",\n      \"translatedEnglishLine\": \"must be completely remade from the ground up—\"\n    },\n    {\n      \"lineNumber\": 85356,\n      \"originalJapaneseLine\": \"「私は法王特典を使用しました。\",\n      \"translatedEnglishLine\": \"\\\"I used the Papal privilege.\"\n    },\n    {\n      \"lineNumber\": 85357,\n      \"originalJapaneseLine\": \"　願いは――」\",\n      \"translatedEnglishLine\": \"My wish was—\\\"\"\n    },\n    {\n      \"lineNumber\": 85358,\n      \"originalJapaneseLine\": \"「創造神ルドラサウム様との謁見」\",\n      \"translatedEnglishLine\": \"\\\"An audience with the Creator God Rudrasaum.\\\"\"\n    },\n    {\n      \"lineNumber\": 85359,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 85360,\n      \"originalJapaneseLine\": \"「面白い……\",\n      \"translatedEnglishLine\": \"\\\"Interesting...\"\n    },\n    {\n      \"lineNumber\": 85361,\n      \"originalJapaneseLine\": \"　面白い願いよね」\",\n      \"translatedEnglishLine\": \"A very interesting wish.\\\"\"\n    },\n    {\n      \"lineNumber\": 85362,\n      \"originalJapaneseLine\": \"「歴代の法王は色々なことを願った。\",\n      \"translatedEnglishLine\": \"\\\"Previous Popes have wished for many things.\"\n    },\n    {\n      \"lineNumber\": 85363,\n      \"originalJapaneseLine\": \"　でも、それを願ったのは貴方が初めてよ」\",\n      \"translatedEnglishLine\": \"But you are the first to wish for something like that.\\\"\"\n    },\n    {\n      \"lineNumber\": 85364,\n      \"originalJapaneseLine\": \"「……本来はそんな願い、\",\n      \"translatedEnglishLine\": \"\\\"...Normally, a wish like that\"\n    },\n    {\n      \"lineNumber\": 85365,\n      \"originalJapaneseLine\": \"　却下するのだけれど、ね」\",\n      \"translatedEnglishLine\": \"would be rejected, though.\\\"\"\n    },\n    {\n      \"lineNumber\": 85366,\n      \"originalJapaneseLine\": \"「？　今回は却下しなかったのですか？」\",\n      \"translatedEnglishLine\": \"\\\"? You didn't reject it this time?\\\"\"\n    },\n    {\n      \"lineNumber\": 85367,\n      \"originalJapaneseLine\": \"「……出来なかったのよ」\",\n      \"translatedEnglishLine\": \"\\\"...I couldn't.\\\"\"\n    },\n    {\n      \"lineNumber\": 85368,\n      \"originalJapaneseLine\": \"「その話を聞き、興味を示された方がいた。\",\n      \"translatedEnglishLine\": \"\\\"Someone heard that story and showed interest.\"\n    },\n    {\n      \"lineNumber\": 85369,\n      \"originalJapaneseLine\": \"　そして私はその方の願いを叶える為にいる。\",\n      \"translatedEnglishLine\": \"And I am here to fulfill that person's wish.\"\n    },\n    {\n      \"lineNumber\": 85370,\n      \"originalJapaneseLine\": \"　絶対に逆らうことは出来ない」\",\n      \"translatedEnglishLine\": \"I absolutely cannot go against it.\\\"\"\n    },\n    {\n      \"lineNumber\": 85371,\n      \"originalJapaneseLine\": \"「それは、まさか――」\",\n      \"translatedEnglishLine\": \"\\\"That is, could it be—\\\"\"\n    },\n    {\n      \"lineNumber\": 85372,\n      \"originalJapaneseLine\": \"「創造神ルドラサウム様……」\",\n      \"translatedEnglishLine\": \"\\\"Creator God Rudrasaum...\\\"\"\n    },\n    {\n      \"lineNumber\": 85373,\n      \"originalJapaneseLine\": \"「はい、私は運が良かった」\",\n      \"translatedEnglishLine\": \"\\\"Yes, I was fortunate.\\\"\"\n    },\n    {\n      \"lineNumber\": 85374,\n      \"originalJapaneseLine\": \"「話を聞いていたルドラサウム様が興味を示され、\",\n      \"translatedEnglishLine\": \"\\\"Rudrasaum-sama, who heard the story, showed interest,\"\n    },\n    {\n      \"lineNumber\": 85375,\n      \"originalJapaneseLine\": \"　謁見の機会に恵まれました」\",\n      \"translatedEnglishLine\": \"and I was granted the opportunity for an audience.\\\"\"\n    },\n    {\n      \"lineNumber\": 85376,\n      \"originalJapaneseLine\": \"「そう、そこでどのような会話があったのか、\",\n      \"translatedEnglishLine\": \"\\\"Yes, what kind of conversation took place there,\"\n    },\n    {\n      \"lineNumber\": 85377,\n      \"originalJapaneseLine\": \"　それは当事者以外は誰も知らない。\",\n      \"translatedEnglishLine\": \"no one other than the parties involved knows.\"\n    },\n    {\n      \"lineNumber\": 85378,\n      \"originalJapaneseLine\": \"　一体、何が……」\",\n      \"translatedEnglishLine\": \"What on earth happened...\\\"\"\n    },\n    {\n      \"lineNumber\": 85379,\n      \"originalJapaneseLine\": \"「誤解があってはいけませんが、\",\n      \"translatedEnglishLine\": \"\\\"There must be no misunderstandings, but\"\n    },\n    {\n      \"lineNumber\": 85380,\n      \"originalJapaneseLine\": \"　私はただ、提案をしただけです」\",\n      \"translatedEnglishLine\": \"I merely made a proposal.\\\"\"\n    },\n    {\n      \"lineNumber\": 85381,\n      \"originalJapaneseLine\": \"「面白いことを思いつきました。\",\n      \"translatedEnglishLine\": \"\\\"I came up with an interesting idea.\"\n    },\n    {\n      \"lineNumber\": 85382,\n      \"originalJapaneseLine\": \"　このような遊びは如何でしょうと」\",\n      \"translatedEnglishLine\": \"How about a game like this?\\\"\"\n    },\n    {\n      \"lineNumber\": 85383,\n      \"originalJapaneseLine\": \"「いいから、早く何があったのか話しなさい」\",\n      \"translatedEnglishLine\": \"\\\"Enough, just quickly tell me what happened.\\\"\"\n    },\n    {\n      \"lineNumber\": 85384,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 85385,\n      \"originalJapaneseLine\": \"「私はいくつかの提案を行い、\",\n      \"translatedEnglishLine\": \"\\\"I made several proposals,\"\n    },\n    {\n      \"lineNumber\": 85386,\n      \"originalJapaneseLine\": \"　ルドラサウム様も興味を示して下さいました」\",\n      \"translatedEnglishLine\": \"and Rudrasaum-sama also showed interest.\\\"\"\n    },\n    {\n      \"lineNumber\": 85387,\n      \"originalJapaneseLine\": \"「新たな遊びの為のルールはたった二つ」\",\n      \"translatedEnglishLine\": \"\\\"There are only two rules for this new game.\\\"\"\n    },\n    {\n      \"lineNumber\": 85388,\n      \"originalJapaneseLine\": \"「一つ。\",\n      \"translatedEnglishLine\": \"\\\"One,\"\n    },\n    {\n      \"lineNumber\": 85389,\n      \"originalJapaneseLine\": \"　ルドラサウム様ご自身が人間として、\",\n      \"translatedEnglishLine\": \"Rudrasaum himself will live on the surface as a human\"\n    },\n    {\n      \"lineNumber\": 85390,\n      \"originalJapaneseLine\": \"　十数年ほど地上で生活をする」\",\n      \"translatedEnglishLine\": \"for about a decade or more.\\\"\"\n    },\n    {\n      \"lineNumber\": 85391,\n      \"originalJapaneseLine\": \"「二つ。\",\n      \"translatedEnglishLine\": \"\\\"Two,\"\n    },\n    {\n      \"lineNumber\": 85392,\n      \"originalJapaneseLine\": \"　その間、神の地上への干渉は禁じる」\",\n      \"translatedEnglishLine\": \"During that time, gods are forbidden from interfering with the surface world.\\\"\"\n    }\n  ]\n}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "85333",
+                                "originalJapaneseLine": "「何故なら、",
+                                "translatedEnglishLine": "\"Because,"
+                            },
+                            {
+                                "lineNumber": "85334",
+                                "originalJapaneseLine": "　私は女神ALICEとの謁見で現場におらず、",
+                                "translatedEnglishLine": "I was not present at the scene due to my audience with the goddess ALICE,"
+                            },
+                            {
+                                "lineNumber": "85335",
+                                "originalJapaneseLine": "　戻ってきた時には、既にランスは消息不明……」",
+                                "translatedEnglishLine": "and by the time I returned, Rance was already missing...\""
+                            },
+                            {
+                                "lineNumber": "85336",
+                                "originalJapaneseLine": "「中々、絶望的な気持ちになりました」",
+                                "translatedEnglishLine": "\"I felt quite hopeless.\""
+                            },
+                            {
+                                "lineNumber": "85337",
+                                "originalJapaneseLine": "「まだ正気を保っているランスも、",
+                                "translatedEnglishLine": "\"Even Rance, who still held onto his sanity,"
+                            },
+                            {
+                                "lineNumber": "85338",
+                                "originalJapaneseLine": "　いずれ魔王の血に飲み込まれることは明白」",
+                                "translatedEnglishLine": "it was clear he would eventually be consumed by the demon king’s blood.\""
+                            },
+                            {
+                                "lineNumber": "85339",
+                                "originalJapaneseLine": "「……法王には、女神ALICEの権限に限り、",
+                                "translatedEnglishLine": "\"...The Pope has the authority granted by the goddess ALICE,"
+                            },
+                            {
+                                "lineNumber": "85340",
+                                "originalJapaneseLine": "　あらゆる願いが叶えられる」",
+                                "translatedEnglishLine": "to have any wish fulfilled.\""
+                            },
+                            {
+                                "lineNumber": "85341",
+                                "originalJapaneseLine": "「私が最初に考えたことは、",
+                                "translatedEnglishLine": "\"The first thing I thought was"
+                            },
+                            {
+                                "lineNumber": "85342",
+                                "originalJapaneseLine": "　その法王特典を使用して",
+                                "translatedEnglishLine": "to use that Papal privilege"
+                            },
+                            {
+                                "lineNumber": "85343",
+                                "originalJapaneseLine": "　シィルさんを蘇らせることでした」",
+                                "translatedEnglishLine": "to resurrect Seir-san.\""
+                            },
+                            {
+                                "lineNumber": "85344",
+                                "originalJapaneseLine": "「それにより、",
+                                "translatedEnglishLine": "\"By doing so,"
+                            },
+                            {
+                                "lineNumber": "85345",
+                                "originalJapaneseLine": "　ランスも正気を維持できるのでは、と」",
+                                "translatedEnglishLine": "I thought Rance might be able to keep his sanity too.\""
+                            },
+                            {
+                                "lineNumber": "85346",
+                                "originalJapaneseLine": "クルックーが女神ALICEを見上げる。",
+                                "translatedEnglishLine": "Kurukuu looked up at the goddess ALICE."
+                            },
+                            {
+                                "lineNumber": "85347",
+                                "originalJapaneseLine": "「残念ながら……",
+                                "translatedEnglishLine": "\"Unfortunately..."
+                            },
+                            {
+                                "lineNumber": "85348",
+                                "originalJapaneseLine": "　これは許可が下りませんでしたけどね」",
+                                "translatedEnglishLine": "this was not permitted, though.\""
+                            },
+                            {
+                                "lineNumber": "85349",
+                                "originalJapaneseLine": "「……ええ」",
+                                "translatedEnglishLine": "\"...Yes.\""
+                            },
+                            {
+                                "lineNumber": "85350",
+                                "originalJapaneseLine": "「万が一にも魔王には、",
+                                "translatedEnglishLine": "\"Under no circumstances could the demon king"
+                            },
+                            {
+                                "lineNumber": "85351",
+                                "originalJapaneseLine": "　正気を保ってもらうわけにはいかない。",
+                                "translatedEnglishLine": "be allowed to remain sane."
+                            },
+                            {
+                                "lineNumber": "85352",
+                                "originalJapaneseLine": "　私はその願いを却下したわ」",
+                                "translatedEnglishLine": "I rejected that wish.\""
+                            },
+                            {
+                                "lineNumber": "85353",
+                                "originalJapaneseLine": "「ですので……考え方を変えました」",
+                                "translatedEnglishLine": "\"So... I changed my way of thinking.\""
+                            },
+                            {
+                                "lineNumber": "85354",
+                                "originalJapaneseLine": "「そもそも、神の玩具であるこの世界を、",
+                                "translatedEnglishLine": "\"In the first place, this world, which is a toy of the gods,"
+                            },
+                            {
+                                "lineNumber": "85355",
+                                "originalJapaneseLine": "　根本から作り替えねば――と」",
+                                "translatedEnglishLine": "must be completely remade from the ground up—"
+                            },
+                            {
+                                "lineNumber": "85356",
+                                "originalJapaneseLine": "「私は法王特典を使用しました。",
+                                "translatedEnglishLine": "\"I used the Papal privilege."
+                            },
+                            {
+                                "lineNumber": "85357",
+                                "originalJapaneseLine": "　願いは――」",
+                                "translatedEnglishLine": "My wish was—\""
+                            },
+                            {
+                                "lineNumber": "85358",
+                                "originalJapaneseLine": "「創造神ルドラサウム様との謁見」",
+                                "translatedEnglishLine": "\"An audience with the Creator God Rudrasaum.\""
+                            },
+                            {
+                                "lineNumber": "85359",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "85360",
+                                "originalJapaneseLine": "「面白い……",
+                                "translatedEnglishLine": "\"Interesting..."
+                            },
+                            {
+                                "lineNumber": "85361",
+                                "originalJapaneseLine": "　面白い願いよね」",
+                                "translatedEnglishLine": "A very interesting wish.\""
+                            },
+                            {
+                                "lineNumber": "85362",
+                                "originalJapaneseLine": "「歴代の法王は色々なことを願った。",
+                                "translatedEnglishLine": "\"Previous Popes have wished for many things."
+                            },
+                            {
+                                "lineNumber": "85363",
+                                "originalJapaneseLine": "　でも、それを願ったのは貴方が初めてよ」",
+                                "translatedEnglishLine": "But you are the first to wish for something like that.\""
+                            },
+                            {
+                                "lineNumber": "85364",
+                                "originalJapaneseLine": "「……本来はそんな願い、",
+                                "translatedEnglishLine": "\"...Normally, a wish like that"
+                            },
+                            {
+                                "lineNumber": "85365",
+                                "originalJapaneseLine": "　却下するのだけれど、ね」",
+                                "translatedEnglishLine": "would be rejected, though.\""
+                            },
+                            {
+                                "lineNumber": "85366",
+                                "originalJapaneseLine": "「？　今回は却下しなかったのですか？」",
+                                "translatedEnglishLine": "\"? You didn't reject it this time?\""
+                            },
+                            {
+                                "lineNumber": "85367",
+                                "originalJapaneseLine": "「……出来なかったのよ」",
+                                "translatedEnglishLine": "\"...I couldn't.\""
+                            },
+                            {
+                                "lineNumber": "85368",
+                                "originalJapaneseLine": "「その話を聞き、興味を示された方がいた。",
+                                "translatedEnglishLine": "\"Someone heard that story and showed interest."
+                            },
+                            {
+                                "lineNumber": "85369",
+                                "originalJapaneseLine": "　そして私はその方の願いを叶える為にいる。",
+                                "translatedEnglishLine": "And I am here to fulfill that person's wish."
+                            },
+                            {
+                                "lineNumber": "85370",
+                                "originalJapaneseLine": "　絶対に逆らうことは出来ない」",
+                                "translatedEnglishLine": "I absolutely cannot go against it.\""
+                            },
+                            {
+                                "lineNumber": "85371",
+                                "originalJapaneseLine": "「それは、まさか――」",
+                                "translatedEnglishLine": "\"That is, could it be—\""
+                            },
+                            {
+                                "lineNumber": "85372",
+                                "originalJapaneseLine": "「創造神ルドラサウム様……」",
+                                "translatedEnglishLine": "\"Creator God Rudrasaum...\""
+                            },
+                            {
+                                "lineNumber": "85373",
+                                "originalJapaneseLine": "「はい、私は運が良かった」",
+                                "translatedEnglishLine": "\"Yes, I was fortunate.\""
+                            },
+                            {
+                                "lineNumber": "85374",
+                                "originalJapaneseLine": "「話を聞いていたルドラサウム様が興味を示され、",
+                                "translatedEnglishLine": "\"Rudrasaum-sama, who heard the story, showed interest,"
+                            },
+                            {
+                                "lineNumber": "85375",
+                                "originalJapaneseLine": "　謁見の機会に恵まれました」",
+                                "translatedEnglishLine": "and I was granted the opportunity for an audience.\""
+                            },
+                            {
+                                "lineNumber": "85376",
+                                "originalJapaneseLine": "「そう、そこでどのような会話があったのか、",
+                                "translatedEnglishLine": "\"Yes, what kind of conversation took place there,"
+                            },
+                            {
+                                "lineNumber": "85377",
+                                "originalJapaneseLine": "　それは当事者以外は誰も知らない。",
+                                "translatedEnglishLine": "no one other than the parties involved knows."
+                            },
+                            {
+                                "lineNumber": "85378",
+                                "originalJapaneseLine": "　一体、何が……」",
+                                "translatedEnglishLine": "What on earth happened...\""
+                            },
+                            {
+                                "lineNumber": "85379",
+                                "originalJapaneseLine": "「誤解があってはいけませんが、",
+                                "translatedEnglishLine": "\"There must be no misunderstandings, but"
+                            },
+                            {
+                                "lineNumber": "85380",
+                                "originalJapaneseLine": "　私はただ、提案をしただけです」",
+                                "translatedEnglishLine": "I merely made a proposal.\""
+                            },
+                            {
+                                "lineNumber": "85381",
+                                "originalJapaneseLine": "「面白いことを思いつきました。",
+                                "translatedEnglishLine": "\"I came up with an interesting idea."
+                            },
+                            {
+                                "lineNumber": "85382",
+                                "originalJapaneseLine": "　このような遊びは如何でしょうと」",
+                                "translatedEnglishLine": "How about a game like this?\""
+                            },
+                            {
+                                "lineNumber": "85383",
+                                "originalJapaneseLine": "「いいから、早く何があったのか話しなさい」",
+                                "translatedEnglishLine": "\"Enough, just quickly tell me what happened.\""
+                            },
+                            {
+                                "lineNumber": "85384",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "85385",
+                                "originalJapaneseLine": "「私はいくつかの提案を行い、",
+                                "translatedEnglishLine": "\"I made several proposals,"
+                            },
+                            {
+                                "lineNumber": "85386",
+                                "originalJapaneseLine": "　ルドラサウム様も興味を示して下さいました」",
+                                "translatedEnglishLine": "and Rudrasaum-sama also showed interest.\""
+                            },
+                            {
+                                "lineNumber": "85387",
+                                "originalJapaneseLine": "「新たな遊びの為のルールはたった二つ」",
+                                "translatedEnglishLine": "\"There are only two rules for this new game.\""
+                            },
+                            {
+                                "lineNumber": "85388",
+                                "originalJapaneseLine": "「一つ。",
+                                "translatedEnglishLine": "\"One,"
+                            },
+                            {
+                                "lineNumber": "85389",
+                                "originalJapaneseLine": "　ルドラサウム様ご自身が人間として、",
+                                "translatedEnglishLine": "Rudrasaum himself will live on the surface as a human"
+                            },
+                            {
+                                "lineNumber": "85390",
+                                "originalJapaneseLine": "　十数年ほど地上で生活をする」",
+                                "translatedEnglishLine": "for about a decade or more.\""
+                            },
+                            {
+                                "lineNumber": "85391",
+                                "originalJapaneseLine": "「二つ。",
+                                "translatedEnglishLine": "\"Two,"
+                            },
+                            {
+                                "lineNumber": "85392",
+                                "originalJapaneseLine": "　その間、神の地上への干渉は禁じる」",
+                                "translatedEnglishLine": "During that time, gods are forbidden from interfering with the surface world.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1843,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2904,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4747
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 85333,\n      \"originalJapaneseLine\": \"「何故なら、\",\n      \"translatedEnglishLine\": \"\\\"Because,\"\n    },\n    {\n      \"lineNumber\": 85334,\n      \"originalJapaneseLine\": \"　私は女神ALICEとの謁見で現場におらず、\",\n      \"translatedEnglishLine\": \"I was not present at the scene due to my audience with the goddess ALICE,\"\n    },\n    {\n      \"lineNumber\": 85335,\n      \"originalJapaneseLine\": \"　戻ってきた時には、既にランスは消息不明……」\",\n      \"translatedEnglishLine\": \"and by the time I returned, Rance was already missing...\\\"\"\n    },\n    {\n      \"lineNumber\": 85336,\n      \"originalJapaneseLine\": \"「中々、絶望的な気持ちになりました」\",\n      \"translatedEnglishLine\": \"\\\"I felt quite hopeless.\\\"\"\n    },\n    {\n      \"lineNumber\": 85337,\n      \"originalJapaneseLine\": \"「まだ正気を保っているランスも、\",\n      \"translatedEnglishLine\": \"\\\"Even Rance, who still held onto his sanity,\"\n    },\n    {\n      \"lineNumber\": 85338,\n      \"originalJapaneseLine\": \"　いずれ魔王の血に飲み込まれることは明白」\",\n      \"translatedEnglishLine\": \"it was clear he would eventually be consumed by the demon king’s blood.\\\"\"\n    },\n    {\n      \"lineNumber\": 85339,\n      \"originalJapaneseLine\": \"「……法王には、女神ALICEの権限に限り、\",\n      \"translatedEnglishLine\": \"\\\"...The Pope has the authority granted by the goddess ALICE,\"\n    },\n    {\n      \"lineNumber\": 85340,\n      \"originalJapaneseLine\": \"　あらゆる願いが叶えられる」\",\n      \"translatedEnglishLine\": \"to have any wish fulfilled.\\\"\"\n    },\n    {\n      \"lineNumber\": 85341,\n      \"originalJapaneseLine\": \"「私が最初に考えたことは、\",\n      \"translatedEnglishLine\": \"\\\"The first thing I thought was\"\n    },\n    {\n      \"lineNumber\": 85342,\n      \"originalJapaneseLine\": \"　その法王特典を使用して\",\n      \"translatedEnglishLine\": \"to use that Papal privilege\"\n    },\n    {\n      \"lineNumber\": 85343,\n      \"originalJapaneseLine\": \"　シィルさんを蘇らせることでした」\",\n      \"translatedEnglishLine\": \"to resurrect Seir-san.\\\"\"\n    },\n    {\n      \"lineNumber\": 85344,\n      \"originalJapaneseLine\": \"「それにより、\",\n      \"translatedEnglishLine\": \"\\\"By doing so,\"\n    },\n    {\n      \"lineNumber\": 85345,\n      \"originalJapaneseLine\": \"　ランスも正気を維持できるのでは、と」\",\n      \"translatedEnglishLine\": \"I thought Rance might be able to keep his sanity too.\\\"\"\n    },\n    {\n      \"lineNumber\": 85346,\n      \"originalJapaneseLine\": \"クルックーが女神ALICEを見上げる。\",\n      \"translatedEnglishLine\": \"Kurukuu looked up at the goddess ALICE.\"\n    },\n    {\n      \"lineNumber\": 85347,\n      \"originalJapaneseLine\": \"「残念ながら……\",\n      \"translatedEnglishLine\": \"\\\"Unfortunately...\"\n    },\n    {\n      \"lineNumber\": 85348,\n      \"originalJapaneseLine\": \"　これは許可が下りませんでしたけどね」\",\n      \"translatedEnglishLine\": \"this was not permitted, though.\\\"\"\n    },\n    {\n      \"lineNumber\": 85349,\n      \"originalJapaneseLine\": \"「……ええ」\",\n      \"translatedEnglishLine\": \"\\\"...Yes.\\\"\"\n    },\n    {\n      \"lineNumber\": 85350,\n      \"originalJapaneseLine\": \"「万が一にも魔王には、\",\n      \"translatedEnglishLine\": \"\\\"Under no circumstances could the demon king\"\n    },\n    {\n      \"lineNumber\": 85351,\n      \"originalJapaneseLine\": \"　正気を保ってもらうわけにはいかない。\",\n      \"translatedEnglishLine\": \"be allowed to remain sane.\"\n    },\n    {\n      \"lineNumber\": 85352,\n      \"originalJapaneseLine\": \"　私はその願いを却下したわ」\",\n      \"translatedEnglishLine\": \"I rejected that wish.\\\"\"\n    },\n    {\n      \"lineNumber\": 85353,\n      \"originalJapaneseLine\": \"「ですので……考え方を変えました」\",\n      \"translatedEnglishLine\": \"\\\"So... I changed my way of thinking.\\\"\"\n    },\n    {\n      \"lineNumber\": 85354,\n      \"originalJapaneseLine\": \"「そもそも、神の玩具であるこの世界を、\",\n      \"translatedEnglishLine\": \"\\\"In the first place, this world, which is a toy of the gods,\"\n    },\n    {\n      \"lineNumber\": 85355,\n      \"originalJapaneseLine\": \"　根本から作り替えねば――と」\",\n      \"translatedEnglishLine\": \"must be completely remade from the ground up—\"\n    },\n    {\n      \"lineNumber\": 85356,\n      \"originalJapaneseLine\": \"「私は法王特典を使用しました。\",\n      \"translatedEnglishLine\": \"\\\"I used the Papal privilege.\"\n    },\n    {\n      \"lineNumber\": 85357,\n      \"originalJapaneseLine\": \"　願いは――」\",\n      \"translatedEnglishLine\": \"My wish was—\\\"\"\n    },\n    {\n      \"lineNumber\": 85358,\n      \"originalJapaneseLine\": \"「創造神ルドラサウム様との謁見」\",\n      \"translatedEnglishLine\": \"\\\"An audience with the Creator God Rudrasaum.\\\"\"\n    },\n    {\n      \"lineNumber\": 85359,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 85360,\n      \"originalJapaneseLine\": \"「面白い……\",\n      \"translatedEnglishLine\": \"\\\"Interesting...\"\n    },\n    {\n      \"lineNumber\": 85361,\n      \"originalJapaneseLine\": \"　面白い願いよね」\",\n      \"translatedEnglishLine\": \"A very interesting wish.\\\"\"\n    },\n    {\n      \"lineNumber\": 85362,\n      \"originalJapaneseLine\": \"「歴代の法王は色々なことを願った。\",\n      \"translatedEnglishLine\": \"\\\"Previous Popes have wished for many things.\"\n    },\n    {\n      \"lineNumber\": 85363,\n      \"originalJapaneseLine\": \"　でも、それを願ったのは貴方が初めてよ」\",\n      \"translatedEnglishLine\": \"But you are the first to wish for something like that.\\\"\"\n    },\n    {\n      \"lineNumber\": 85364,\n      \"originalJapaneseLine\": \"「……本来はそんな願い、\",\n      \"translatedEnglishLine\": \"\\\"...Normally, a wish like that\"\n    },\n    {\n      \"lineNumber\": 85365,\n      \"originalJapaneseLine\": \"　却下するのだけれど、ね」\",\n      \"translatedEnglishLine\": \"would be rejected, though.\\\"\"\n    },\n    {\n      \"lineNumber\": 85366,\n      \"originalJapaneseLine\": \"「？　今回は却下しなかったのですか？」\",\n      \"translatedEnglishLine\": \"\\\"? You didn't reject it this time?\\\"\"\n    },\n    {\n      \"lineNumber\": 85367,\n      \"originalJapaneseLine\": \"「……出来なかったのよ」\",\n      \"translatedEnglishLine\": \"\\\"...I couldn't.\\\"\"\n    },\n    {\n      \"lineNumber\": 85368,\n      \"originalJapaneseLine\": \"「その話を聞き、興味を示された方がいた。\",\n      \"translatedEnglishLine\": \"\\\"Someone heard that story and showed interest.\"\n    },\n    {\n      \"lineNumber\": 85369,\n      \"originalJapaneseLine\": \"　そして私はその方の願いを叶える為にいる。\",\n      \"translatedEnglishLine\": \"And I am here to fulfill that person's wish.\"\n    },\n    {\n      \"lineNumber\": 85370,\n      \"originalJapaneseLine\": \"　絶対に逆らうことは出来ない」\",\n      \"translatedEnglishLine\": \"I absolutely cannot go against it.\\\"\"\n    },\n    {\n      \"lineNumber\": 85371,\n      \"originalJapaneseLine\": \"「それは、まさか――」\",\n      \"translatedEnglishLine\": \"\\\"That is, could it be—\\\"\"\n    },\n    {\n      \"lineNumber\": 85372,\n      \"originalJapaneseLine\": \"「創造神ルドラサウム様……」\",\n      \"translatedEnglishLine\": \"\\\"Creator God Rudrasaum...\\\"\"\n    },\n    {\n      \"lineNumber\": 85373,\n      \"originalJapaneseLine\": \"「はい、私は運が良かった」\",\n      \"translatedEnglishLine\": \"\\\"Yes, I was fortunate.\\\"\"\n    },\n    {\n      \"lineNumber\": 85374,\n      \"originalJapaneseLine\": \"「話を聞いていたルドラサウム様が興味を示され、\",\n      \"translatedEnglishLine\": \"\\\"Rudrasaum-sama, who heard the story, showed interest,\"\n    },\n    {\n      \"lineNumber\": 85375,\n      \"originalJapaneseLine\": \"　謁見の機会に恵まれました」\",\n      \"translatedEnglishLine\": \"and I was granted the opportunity for an audience.\\\"\"\n    },\n    {\n      \"lineNumber\": 85376,\n      \"originalJapaneseLine\": \"「そう、そこでどのような会話があったのか、\",\n      \"translatedEnglishLine\": \"\\\"Yes, what kind of conversation took place there,\"\n    },\n    {\n      \"lineNumber\": 85377,\n      \"originalJapaneseLine\": \"　それは当事者以外は誰も知らない。\",\n      \"translatedEnglishLine\": \"no one other than the parties involved knows.\"\n    },\n    {\n      \"lineNumber\": 85378,\n      \"originalJapaneseLine\": \"　一体、何が……」\",\n      \"translatedEnglishLine\": \"What on earth happened...\\\"\"\n    },\n    {\n      \"lineNumber\": 85379,\n      \"originalJapaneseLine\": \"「誤解があってはいけませんが、\",\n      \"translatedEnglishLine\": \"\\\"There must be no misunderstandings, but\"\n    },\n    {\n      \"lineNumber\": 85380,\n      \"originalJapaneseLine\": \"　私はただ、提案をしただけです」\",\n      \"translatedEnglishLine\": \"I merely made a proposal.\\\"\"\n    },\n    {\n      \"lineNumber\": 85381,\n      \"originalJapaneseLine\": \"「面白いことを思いつきました。\",\n      \"translatedEnglishLine\": \"\\\"I came up with an interesting idea.\"\n    },\n    {\n      \"lineNumber\": 85382,\n      \"originalJapaneseLine\": \"　このような遊びは如何でしょうと」\",\n      \"translatedEnglishLine\": \"How about a game like this?\\\"\"\n    },\n    {\n      \"lineNumber\": 85383,\n      \"originalJapaneseLine\": \"「いいから、早く何があったのか話しなさい」\",\n      \"translatedEnglishLine\": \"\\\"Enough, just quickly tell me what happened.\\\"\"\n    },\n    {\n      \"lineNumber\": 85384,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 85385,\n      \"originalJapaneseLine\": \"「私はいくつかの提案を行い、\",\n      \"translatedEnglishLine\": \"\\\"I made several proposals,\"\n    },\n    {\n      \"lineNumber\": 85386,\n      \"originalJapaneseLine\": \"　ルドラサウム様も興味を示して下さいました」\",\n      \"translatedEnglishLine\": \"and Rudrasaum-sama also showed interest.\\\"\"\n    },\n    {\n      \"lineNumber\": 85387,\n      \"originalJapaneseLine\": \"「新たな遊びの為のルールはたった二つ」\",\n      \"translatedEnglishLine\": \"\\\"There are only two rules for this new game.\\\"\"\n    },\n    {\n      \"lineNumber\": 85388,\n      \"originalJapaneseLine\": \"「一つ。\",\n      \"translatedEnglishLine\": \"\\\"One,\"\n    },\n    {\n      \"lineNumber\": 85389,\n      \"originalJapaneseLine\": \"　ルドラサウム様ご自身が人間として、\",\n      \"translatedEnglishLine\": \"Rudrasaum himself will live on the surface as a human\"\n    },\n    {\n      \"lineNumber\": 85390,\n      \"originalJapaneseLine\": \"　十数年ほど地上で生活をする」\",\n      \"translatedEnglishLine\": \"for about a decade or more.\\\"\"\n    },\n    {\n      \"lineNumber\": 85391,\n      \"originalJapaneseLine\": \"「二つ。\",\n      \"translatedEnglishLine\": \"\\\"Two,\"\n    },\n    {\n      \"lineNumber\": 85392,\n      \"originalJapaneseLine\": \"　その間、神の地上への干渉は禁じる」\",\n      \"translatedEnglishLine\": \"During that time, gods are forbidden from interfering with the surface world.\\\"\"\n    }\n  ]\n}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "85333",
+                "originalJapaneseLine": "「何故なら、",
+                "translatedEnglishLine": "\"Because,"
+            },
+            {
+                "lineNumber": "85334",
+                "originalJapaneseLine": "　私は女神ALICEとの謁見で現場におらず、",
+                "translatedEnglishLine": "I was not present at the scene due to my audience with the goddess ALICE,"
+            },
+            {
+                "lineNumber": "85335",
+                "originalJapaneseLine": "　戻ってきた時には、既にランスは消息不明……」",
+                "translatedEnglishLine": "and by the time I returned, Rance was already missing...\""
+            },
+            {
+                "lineNumber": "85336",
+                "originalJapaneseLine": "「中々、絶望的な気持ちになりました」",
+                "translatedEnglishLine": "\"I felt quite hopeless.\""
+            },
+            {
+                "lineNumber": "85337",
+                "originalJapaneseLine": "「まだ正気を保っているランスも、",
+                "translatedEnglishLine": "\"Even Rance, who still held onto his sanity,"
+            },
+            {
+                "lineNumber": "85338",
+                "originalJapaneseLine": "　いずれ魔王の血に飲み込まれることは明白」",
+                "translatedEnglishLine": "it was clear he would eventually be consumed by the demon king’s blood.\""
+            },
+            {
+                "lineNumber": "85339",
+                "originalJapaneseLine": "「……法王には、女神ALICEの権限に限り、",
+                "translatedEnglishLine": "\"...The Pope has the authority granted by the goddess ALICE,"
+            },
+            {
+                "lineNumber": "85340",
+                "originalJapaneseLine": "　あらゆる願いが叶えられる」",
+                "translatedEnglishLine": "to have any wish fulfilled.\""
+            },
+            {
+                "lineNumber": "85341",
+                "originalJapaneseLine": "「私が最初に考えたことは、",
+                "translatedEnglishLine": "\"The first thing I thought was"
+            },
+            {
+                "lineNumber": "85342",
+                "originalJapaneseLine": "　その法王特典を使用して",
+                "translatedEnglishLine": "to use that Papal privilege"
+            },
+            {
+                "lineNumber": "85343",
+                "originalJapaneseLine": "　シィルさんを蘇らせることでした」",
+                "translatedEnglishLine": "to resurrect Seir-san.\""
+            },
+            {
+                "lineNumber": "85344",
+                "originalJapaneseLine": "「それにより、",
+                "translatedEnglishLine": "\"By doing so,"
+            },
+            {
+                "lineNumber": "85345",
+                "originalJapaneseLine": "　ランスも正気を維持できるのでは、と」",
+                "translatedEnglishLine": "I thought Rance might be able to keep his sanity too.\""
+            },
+            {
+                "lineNumber": "85346",
+                "originalJapaneseLine": "クルックーが女神ALICEを見上げる。",
+                "translatedEnglishLine": "Kurukuu looked up at the goddess ALICE."
+            },
+            {
+                "lineNumber": "85347",
+                "originalJapaneseLine": "「残念ながら……",
+                "translatedEnglishLine": "\"Unfortunately..."
+            },
+            {
+                "lineNumber": "85348",
+                "originalJapaneseLine": "　これは許可が下りませんでしたけどね」",
+                "translatedEnglishLine": "this was not permitted, though.\""
+            },
+            {
+                "lineNumber": "85349",
+                "originalJapaneseLine": "「……ええ」",
+                "translatedEnglishLine": "\"...Yes.\""
+            },
+            {
+                "lineNumber": "85350",
+                "originalJapaneseLine": "「万が一にも魔王には、",
+                "translatedEnglishLine": "\"Under no circumstances could the demon king"
+            },
+            {
+                "lineNumber": "85351",
+                "originalJapaneseLine": "　正気を保ってもらうわけにはいかない。",
+                "translatedEnglishLine": "be allowed to remain sane."
+            },
+            {
+                "lineNumber": "85352",
+                "originalJapaneseLine": "　私はその願いを却下したわ」",
+                "translatedEnglishLine": "I rejected that wish.\""
+            },
+            {
+                "lineNumber": "85353",
+                "originalJapaneseLine": "「ですので……考え方を変えました」",
+                "translatedEnglishLine": "\"So... I changed my way of thinking.\""
+            },
+            {
+                "lineNumber": "85354",
+                "originalJapaneseLine": "「そもそも、神の玩具であるこの世界を、",
+                "translatedEnglishLine": "\"In the first place, this world, which is a toy of the gods,"
+            },
+            {
+                "lineNumber": "85355",
+                "originalJapaneseLine": "　根本から作り替えねば――と」",
+                "translatedEnglishLine": "must be completely remade from the ground up—"
+            },
+            {
+                "lineNumber": "85356",
+                "originalJapaneseLine": "「私は法王特典を使用しました。",
+                "translatedEnglishLine": "\"I used the Papal privilege."
+            },
+            {
+                "lineNumber": "85357",
+                "originalJapaneseLine": "　願いは――」",
+                "translatedEnglishLine": "My wish was—\""
+            },
+            {
+                "lineNumber": "85358",
+                "originalJapaneseLine": "「創造神ルドラサウム様との謁見」",
+                "translatedEnglishLine": "\"An audience with the Creator God Rudrasaum.\""
+            },
+            {
+                "lineNumber": "85359",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "85360",
+                "originalJapaneseLine": "「面白い……",
+                "translatedEnglishLine": "\"Interesting..."
+            },
+            {
+                "lineNumber": "85361",
+                "originalJapaneseLine": "　面白い願いよね」",
+                "translatedEnglishLine": "A very interesting wish.\""
+            },
+            {
+                "lineNumber": "85362",
+                "originalJapaneseLine": "「歴代の法王は色々なことを願った。",
+                "translatedEnglishLine": "\"Previous Popes have wished for many things."
+            },
+            {
+                "lineNumber": "85363",
+                "originalJapaneseLine": "　でも、それを願ったのは貴方が初めてよ」",
+                "translatedEnglishLine": "But you are the first to wish for something like that.\""
+            },
+            {
+                "lineNumber": "85364",
+                "originalJapaneseLine": "「……本来はそんな願い、",
+                "translatedEnglishLine": "\"...Normally, a wish like that"
+            },
+            {
+                "lineNumber": "85365",
+                "originalJapaneseLine": "　却下するのだけれど、ね」",
+                "translatedEnglishLine": "would be rejected, though.\""
+            },
+            {
+                "lineNumber": "85366",
+                "originalJapaneseLine": "「？　今回は却下しなかったのですか？」",
+                "translatedEnglishLine": "\"? You didn't reject it this time?\""
+            },
+            {
+                "lineNumber": "85367",
+                "originalJapaneseLine": "「……出来なかったのよ」",
+                "translatedEnglishLine": "\"...I couldn't.\""
+            },
+            {
+                "lineNumber": "85368",
+                "originalJapaneseLine": "「その話を聞き、興味を示された方がいた。",
+                "translatedEnglishLine": "\"Someone heard that story and showed interest."
+            },
+            {
+                "lineNumber": "85369",
+                "originalJapaneseLine": "　そして私はその方の願いを叶える為にいる。",
+                "translatedEnglishLine": "And I am here to fulfill that person's wish."
+            },
+            {
+                "lineNumber": "85370",
+                "originalJapaneseLine": "　絶対に逆らうことは出来ない」",
+                "translatedEnglishLine": "I absolutely cannot go against it.\""
+            },
+            {
+                "lineNumber": "85371",
+                "originalJapaneseLine": "「それは、まさか――」",
+                "translatedEnglishLine": "\"That is, could it be—\""
+            },
+            {
+                "lineNumber": "85372",
+                "originalJapaneseLine": "「創造神ルドラサウム様……」",
+                "translatedEnglishLine": "\"Creator God Rudrasaum...\""
+            },
+            {
+                "lineNumber": "85373",
+                "originalJapaneseLine": "「はい、私は運が良かった」",
+                "translatedEnglishLine": "\"Yes, I was fortunate.\""
+            },
+            {
+                "lineNumber": "85374",
+                "originalJapaneseLine": "「話を聞いていたルドラサウム様が興味を示され、",
+                "translatedEnglishLine": "\"Rudrasaum-sama, who heard the story, showed interest,"
+            },
+            {
+                "lineNumber": "85375",
+                "originalJapaneseLine": "　謁見の機会に恵まれました」",
+                "translatedEnglishLine": "and I was granted the opportunity for an audience.\""
+            },
+            {
+                "lineNumber": "85376",
+                "originalJapaneseLine": "「そう、そこでどのような会話があったのか、",
+                "translatedEnglishLine": "\"Yes, what kind of conversation took place there,"
+            },
+            {
+                "lineNumber": "85377",
+                "originalJapaneseLine": "　それは当事者以外は誰も知らない。",
+                "translatedEnglishLine": "no one other than the parties involved knows."
+            },
+            {
+                "lineNumber": "85378",
+                "originalJapaneseLine": "　一体、何が……」",
+                "translatedEnglishLine": "What on earth happened...\""
+            },
+            {
+                "lineNumber": "85379",
+                "originalJapaneseLine": "「誤解があってはいけませんが、",
+                "translatedEnglishLine": "\"There must be no misunderstandings, but"
+            },
+            {
+                "lineNumber": "85380",
+                "originalJapaneseLine": "　私はただ、提案をしただけです」",
+                "translatedEnglishLine": "I merely made a proposal.\""
+            },
+            {
+                "lineNumber": "85381",
+                "originalJapaneseLine": "「面白いことを思いつきました。",
+                "translatedEnglishLine": "\"I came up with an interesting idea."
+            },
+            {
+                "lineNumber": "85382",
+                "originalJapaneseLine": "　このような遊びは如何でしょうと」",
+                "translatedEnglishLine": "How about a game like this?\""
+            },
+            {
+                "lineNumber": "85383",
+                "originalJapaneseLine": "「いいから、早く何があったのか話しなさい」",
+                "translatedEnglishLine": "\"Enough, just quickly tell me what happened.\""
+            },
+            {
+                "lineNumber": "85384",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "85385",
+                "originalJapaneseLine": "「私はいくつかの提案を行い、",
+                "translatedEnglishLine": "\"I made several proposals,"
+            },
+            {
+                "lineNumber": "85386",
+                "originalJapaneseLine": "　ルドラサウム様も興味を示して下さいました」",
+                "translatedEnglishLine": "and Rudrasaum-sama also showed interest.\""
+            },
+            {
+                "lineNumber": "85387",
+                "originalJapaneseLine": "「新たな遊びの為のルールはたった二つ」",
+                "translatedEnglishLine": "\"There are only two rules for this new game.\""
+            },
+            {
+                "lineNumber": "85388",
+                "originalJapaneseLine": "「一つ。",
+                "translatedEnglishLine": "\"One,"
+            },
+            {
+                "lineNumber": "85389",
+                "originalJapaneseLine": "　ルドラサウム様ご自身が人間として、",
+                "translatedEnglishLine": "Rudrasaum himself will live on the surface as a human"
+            },
+            {
+                "lineNumber": "85390",
+                "originalJapaneseLine": "　十数年ほど地上で生活をする」",
+                "translatedEnglishLine": "for about a decade or more.\""
+            },
+            {
+                "lineNumber": "85391",
+                "originalJapaneseLine": "「二つ。",
+                "translatedEnglishLine": "\"Two,"
+            },
+            {
+                "lineNumber": "85392",
+                "originalJapaneseLine": "　その間、神の地上への干渉は禁じる」",
+                "translatedEnglishLine": "During that time, gods are forbidden from interfering with the surface world.\""
+            }
+        ]
+    }
+}

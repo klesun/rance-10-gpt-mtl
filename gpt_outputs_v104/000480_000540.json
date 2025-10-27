@@ -1,0 +1,719 @@
+{
+    "id": "resp_0448db26127e5feb0068ffe5093a5c8196944edd4a0da3b948",
+    "object": "response",
+    "created_at": 1761600777,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0448db26127e5feb0068ffe50a39848196a57af3d31868eb0f",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":85693,\"originalJapaneseLine\":\"「とても愉快な裁判だったわね」\",\"translatedEnglishLine\":\"\\\"That was a very delightful trial.\\\"\"},{\"lineNumber\":85694,\"originalJapaneseLine\":\"「ともかく、これで一時は平和になります。\",\"translatedEnglishLine\":\"\\\"Anyway, this means peace for the time being.\"},{\"lineNumber\":85695,\"originalJapaneseLine\":\"　破滅を望む神はいなくなりましたから」\",\"translatedEnglishLine\":\"Because the god who wished for ruin is gone.\\\"\"},{\"lineNumber\":85696,\"originalJapaneseLine\":\"「アム・イスエル。\",\"translatedEnglishLine\":\"\\\"Amu Isuer.\"},{\"lineNumber\":85697,\"originalJapaneseLine\":\"　永遠に生き続ける苦だけを残して、\",\"translatedEnglishLine\":\"Leaving behind only the eternal suffering of continuing to live,\"},{\"lineNumber\":85698,\"originalJapaneseLine\":\"　あなたの人生は無駄になりましたね」\",\"translatedEnglishLine\":\"Your life has become meaningless.\\\"\"},{\"lineNumber\":85699,\"originalJapaneseLine\":\"「あら、無駄なんてこの世にないわ」\",\"translatedEnglishLine\":\"\\\"Oh, there is no such thing as uselessness in this world.\\\"\"},{\"lineNumber\":85700,\"originalJapaneseLine\":\"「この世に救いを望む人がいる限り、\",\"translatedEnglishLine\":\"\\\"As long as there are people in this world who hope for salvation,\"},{\"lineNumber\":85701,\"originalJapaneseLine\":\"　私の救済の旅は終わらないのだから」\",\"translatedEnglishLine\":\"My journey of salvation will not end.\\\"\"},{\"lineNumber\":85702,\"originalJapaneseLine\":\"「ふふ、何も、何一つとして変わりはしない」\",\"translatedEnglishLine\":\"\\\"Hehe, nothing, not a single thing will change.\\\"\"},{\"lineNumber\":85703,\"originalJapaneseLine\":\"「狂ってる貴方の善行は、\",\"translatedEnglishLine\":\"\\\"Your insane good deeds,\"},{\"lineNumber\":85704,\"originalJapaneseLine\":\"　全てが迷惑でしかないんですが……」\",\"translatedEnglishLine\":\"Are nothing but a nuisance...\\\"\"},{\"lineNumber\":85705,\"originalJapaneseLine\":\"「救済はここに成ったわ……\",\"translatedEnglishLine\":\"\\\"Salvation has occurred here...\"},{\"lineNumber\":85706,\"originalJapaneseLine\":\"　とかなんとか言いながら、\",\"translatedEnglishLine\":\"Saying things like that,\"},{\"lineNumber\":85707,\"originalJapaneseLine\":\"　サラサラ砂になりません？」\",\"translatedEnglishLine\":\"Why don't you just turn into fine sand?\\\"\"},{\"lineNumber\":85708,\"originalJapaneseLine\":\"「ふふ、それも面白そうだけどね……」\",\"translatedEnglishLine\":\"\\\"Hehe, that sounds interesting too...\\\"\"},{\"lineNumber\":85709,\"originalJapaneseLine\":\"「でも、ま……とりあえず……」\",\"translatedEnglishLine\":\"\\\"But, well... for now...\\\"\"},{\"lineNumber\":85710,\"originalJapaneseLine\":\"「これで一件落着、ね。\",\"translatedEnglishLine\":\"\\\"With this, the matter is settled, right?\"},{\"lineNumber\":85711,\"originalJapaneseLine\":\"　お疲れ様」\",\"translatedEnglishLine\":\"Thank you for your hard work.\\\"\"},{\"lineNumber\":85712,\"originalJapaneseLine\":\"「はい、お疲れ様でした」\",\"translatedEnglishLine\":\"\\\"Yes, thank you for your hard work.\\\"\"},{\"lineNumber\":85713,\"originalJapaneseLine\":\"二人の法王はぺっこりと互いに頭を下げた。\",\"translatedEnglishLine\":\"The two pontiffs bowed their heads deeply to each other.\"},{\"lineNumber\":85714,\"originalJapaneseLine\":\"真っ白な景色の中にいた。\",\"translatedEnglishLine\":\"They were in a pure white scenery.\"},{\"lineNumber\":85715,\"originalJapaneseLine\":\"新しく全てが作られていく、そんな感覚。\",\"translatedEnglishLine\":\"A sensation of everything being newly created.\"},{\"lineNumber\":85716,\"originalJapaneseLine\":\"気づけば、どこかの平原にいた。\",\"translatedEnglishLine\":\"Before they noticed, they were on some plain.\"},{\"lineNumber\":85717,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{ \"lineNumber\":85718,\"originalJapaneseLine\":\"どうやらここはリーザスの平原らしい。\",\"translatedEnglishLine\":\"Apparently, this is the plains of Lisas.\"},{\"lineNumber\":85719,\"originalJapaneseLine\":\"暖かな風が緩やかに吹いていた。\",\"translatedEnglishLine\":\"A warm breeze was blowing gently.\"},{\"lineNumber\":85720,\"originalJapaneseLine\":\"しかし――\",\"translatedEnglishLine\":\"However—\"},{\"lineNumber\":85721,\"originalJapaneseLine\":\"どうしてこんな場所にいるのだろう。\",\"translatedEnglishLine\":\"Why am I in such a place?\"},{\"lineNumber\":85722,\"originalJapaneseLine\":\"はて？\",\"translatedEnglishLine\":\"Hmm?\"},{\"lineNumber\":85723,\"originalJapaneseLine\":\"あなたはここ数日の記憶が\",\"translatedEnglishLine\":\"You realize that your memories of the past few days\"},{\"lineNumber\":85724,\"originalJapaneseLine\":\"欠落していることに気づいた。\",\"translatedEnglishLine\":\"are missing.\"},{\"lineNumber\":85725,\"originalJapaneseLine\":\"何か世界の神秘に触れていたような――\",\"translatedEnglishLine\":\"It feels like you had touched some mystery of the world—\"},{\"lineNumber\":85726,\"originalJapaneseLine\":\"とんでもないネタバラシが行われたような――\",\"translatedEnglishLine\":\"like some incredible revelation was made—\"},{\"lineNumber\":85727,\"originalJapaneseLine\":\"そんな気がするが、何も思い出せない。\",\"translatedEnglishLine\":\"You feel that way but can't remember anything.\"},{\"lineNumber\":85728,\"originalJapaneseLine\":\"「あーーーーーーーッ！？！？！？」\",\"translatedEnglishLine\":\"\\\"Aaaaaaaah!?!?\\\"\"},{\"lineNumber\":85729,\"originalJapaneseLine\":\"「＜エール＞じゃないかーー！\",\"translatedEnglishLine\":\"\\\"Isn't that <Eil>!?\"},{\"lineNumber\":85730,\"originalJapaneseLine\":\"　うわーーーーん！」\",\"translatedEnglishLine\":\"Waaahhhh!\\\"\"},{\"lineNumber\":85731,\"originalJapaneseLine\":\"唐突に現れた長田君が\",\"translatedEnglishLine\":\"Nagata-kun, who suddenly appeared,\"},{\"lineNumber\":85732,\"originalJapaneseLine\":\"ぴょーんとあなたに飛びついてきた。\",\"translatedEnglishLine\":\"jumped onto you with a spring.\"},{\"lineNumber\":85733,\"originalJapaneseLine\":\"「お、お前、どこに行ってたんだよー！\",\"translatedEnglishLine\":\"\\\"W-where have you been?!\"},{\"lineNumber\":85734,\"originalJapaneseLine\":\"　気づいたらいなくなってて、俺、俺……！」\",\"translatedEnglishLine\":\"I noticed you were gone, and I, I...!\\\"\"},{\"lineNumber\":85735,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{ \"lineNumber\":85736,\"originalJapaneseLine\":\"「へ？　覚えてないだって？\",\"translatedEnglishLine\":\"\\\"Huh? You don't remember?\"},{\"lineNumber\":85737,\"originalJapaneseLine\":\"　気づいたらここにいた？」\",\"translatedEnglishLine\":\"You woke up here?\\\"\"},{\"lineNumber\":85738,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{ \"lineNumber\":85739,\"originalJapaneseLine\":\"「お前……そういうとこあるぞ……」\",\"translatedEnglishLine\":\"\\\"You... you have that kind of side...\\\"\"},{\"lineNumber\":85740,\"originalJapaneseLine\":\"何故かあなたは怒られてしまった。\",\"translatedEnglishLine\":\"For some reason, you ended up getting scolded.\"},{\"lineNumber\":85741,\"originalJapaneseLine\":\"「へへっ、ま、なんでもいいや！」\",\"translatedEnglishLine\":\"\\\"Hehe, well, whatever!\\\"\"},{\"lineNumber\":85742,\"originalJapaneseLine\":\"「よっしゃ！　ならさ、ならさ！\",\"translatedEnglishLine\":\"\\\"Alright! Then, then!\"},{\"lineNumber\":85743,\"originalJapaneseLine\":\"　また俺と冒険の旅に出ようぜ！」\",\"translatedEnglishLine\":\"Let's go on an adventure trip with me again!\\\"\"},{\"lineNumber\":85744,\"originalJapaneseLine\":\"「最強のコンビ、復活だぜ！」\",\"translatedEnglishLine\":\"\\\"The strongest duo is back!\\\"\"},{\"lineNumber\":85745,\"originalJapaneseLine\":\"「なあなあ、次はどこに行くよ？」\",\"translatedEnglishLine\":\"\\\"Hey hey, where shall we go next?\\\"\"},{\"lineNumber\":85746,\"originalJapaneseLine\":\"「やっぱ俺としてはさー、なんてーの？\",\"translatedEnglishLine\":\"\\\"After all, as for me, how should I say it?\"},{\"lineNumber\":85747,\"originalJapaneseLine\":\"　世界のどこかにあるという、桃源郷をさー」\",\"translatedEnglishLine\":\"The utopia they say exists somewhere in the world—\\\"\"},{\"lineNumber\":85748,\"originalJapaneseLine\":\"「……ん？」\",\"translatedEnglishLine\":\"\\\"...Hmm?\\\"\"},{\"lineNumber\":85749,\"originalJapaneseLine\":\"「あん？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":85750,\"originalJapaneseLine\":\"「あら？」\",\"translatedEnglishLine\":\"\\\"Oh?\\\"\"},{\"lineNumber\":85751,\"originalJapaneseLine\":\"「あれ！？　＜エール＞の親父さんと！\",\"translatedEnglishLine\":\"\\\"Hey!? It's <Eil>'s father and!\"},{\"lineNumber\":85752,\"originalJapaneseLine\":\"　その、えーと……奥さんでしたっけ？」\",\"translatedEnglishLine\":\"That, um... was that your wife?\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "85693",
+                                "originalJapaneseLine": "「とても愉快な裁判だったわね」",
+                                "translatedEnglishLine": "\"That was a very delightful trial.\""
+                            },
+                            {
+                                "lineNumber": "85694",
+                                "originalJapaneseLine": "「ともかく、これで一時は平和になります。",
+                                "translatedEnglishLine": "\"Anyway, this means peace for the time being."
+                            },
+                            {
+                                "lineNumber": "85695",
+                                "originalJapaneseLine": "　破滅を望む神はいなくなりましたから」",
+                                "translatedEnglishLine": "Because the god who wished for ruin is gone.\""
+                            },
+                            {
+                                "lineNumber": "85696",
+                                "originalJapaneseLine": "「アム・イスエル。",
+                                "translatedEnglishLine": "\"Amu Isuer."
+                            },
+                            {
+                                "lineNumber": "85697",
+                                "originalJapaneseLine": "　永遠に生き続ける苦だけを残して、",
+                                "translatedEnglishLine": "Leaving behind only the eternal suffering of continuing to live,"
+                            },
+                            {
+                                "lineNumber": "85698",
+                                "originalJapaneseLine": "　あなたの人生は無駄になりましたね」",
+                                "translatedEnglishLine": "Your life has become meaningless.\""
+                            },
+                            {
+                                "lineNumber": "85699",
+                                "originalJapaneseLine": "「あら、無駄なんてこの世にないわ」",
+                                "translatedEnglishLine": "\"Oh, there is no such thing as uselessness in this world.\""
+                            },
+                            {
+                                "lineNumber": "85700",
+                                "originalJapaneseLine": "「この世に救いを望む人がいる限り、",
+                                "translatedEnglishLine": "\"As long as there are people in this world who hope for salvation,"
+                            },
+                            {
+                                "lineNumber": "85701",
+                                "originalJapaneseLine": "　私の救済の旅は終わらないのだから」",
+                                "translatedEnglishLine": "My journey of salvation will not end.\""
+                            },
+                            {
+                                "lineNumber": "85702",
+                                "originalJapaneseLine": "「ふふ、何も、何一つとして変わりはしない」",
+                                "translatedEnglishLine": "\"Hehe, nothing, not a single thing will change.\""
+                            },
+                            {
+                                "lineNumber": "85703",
+                                "originalJapaneseLine": "「狂ってる貴方の善行は、",
+                                "translatedEnglishLine": "\"Your insane good deeds,"
+                            },
+                            {
+                                "lineNumber": "85704",
+                                "originalJapaneseLine": "　全てが迷惑でしかないんですが……」",
+                                "translatedEnglishLine": "Are nothing but a nuisance...\""
+                            },
+                            {
+                                "lineNumber": "85705",
+                                "originalJapaneseLine": "「救済はここに成ったわ……",
+                                "translatedEnglishLine": "\"Salvation has occurred here..."
+                            },
+                            {
+                                "lineNumber": "85706",
+                                "originalJapaneseLine": "　とかなんとか言いながら、",
+                                "translatedEnglishLine": "Saying things like that,"
+                            },
+                            {
+                                "lineNumber": "85707",
+                                "originalJapaneseLine": "　サラサラ砂になりません？」",
+                                "translatedEnglishLine": "Why don't you just turn into fine sand?\""
+                            },
+                            {
+                                "lineNumber": "85708",
+                                "originalJapaneseLine": "「ふふ、それも面白そうだけどね……」",
+                                "translatedEnglishLine": "\"Hehe, that sounds interesting too...\""
+                            },
+                            {
+                                "lineNumber": "85709",
+                                "originalJapaneseLine": "「でも、ま……とりあえず……」",
+                                "translatedEnglishLine": "\"But, well... for now...\""
+                            },
+                            {
+                                "lineNumber": "85710",
+                                "originalJapaneseLine": "「これで一件落着、ね。",
+                                "translatedEnglishLine": "\"With this, the matter is settled, right?"
+                            },
+                            {
+                                "lineNumber": "85711",
+                                "originalJapaneseLine": "　お疲れ様」",
+                                "translatedEnglishLine": "Thank you for your hard work.\""
+                            },
+                            {
+                                "lineNumber": "85712",
+                                "originalJapaneseLine": "「はい、お疲れ様でした」",
+                                "translatedEnglishLine": "\"Yes, thank you for your hard work.\""
+                            },
+                            {
+                                "lineNumber": "85713",
+                                "originalJapaneseLine": "二人の法王はぺっこりと互いに頭を下げた。",
+                                "translatedEnglishLine": "The two pontiffs bowed their heads deeply to each other."
+                            },
+                            {
+                                "lineNumber": "85714",
+                                "originalJapaneseLine": "真っ白な景色の中にいた。",
+                                "translatedEnglishLine": "They were in a pure white scenery."
+                            },
+                            {
+                                "lineNumber": "85715",
+                                "originalJapaneseLine": "新しく全てが作られていく、そんな感覚。",
+                                "translatedEnglishLine": "A sensation of everything being newly created."
+                            },
+                            {
+                                "lineNumber": "85716",
+                                "originalJapaneseLine": "気づけば、どこかの平原にいた。",
+                                "translatedEnglishLine": "Before they noticed, they were on some plain."
+                            },
+                            {
+                                "lineNumber": "85717",
+                                "originalJapaneseLine": "「…………。」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "85718",
+                                "originalJapaneseLine": "どうやらここはリーザスの平原らしい。",
+                                "translatedEnglishLine": "Apparently, this is the plains of Lisas."
+                            },
+                            {
+                                "lineNumber": "85719",
+                                "originalJapaneseLine": "暖かな風が緩やかに吹いていた。",
+                                "translatedEnglishLine": "A warm breeze was blowing gently."
+                            },
+                            {
+                                "lineNumber": "85720",
+                                "originalJapaneseLine": "しかし――",
+                                "translatedEnglishLine": "However—"
+                            },
+                            {
+                                "lineNumber": "85721",
+                                "originalJapaneseLine": "どうしてこんな場所にいるのだろう。",
+                                "translatedEnglishLine": "Why am I in such a place?"
+                            },
+                            {
+                                "lineNumber": "85722",
+                                "originalJapaneseLine": "はて？",
+                                "translatedEnglishLine": "Hmm?"
+                            },
+                            {
+                                "lineNumber": "85723",
+                                "originalJapaneseLine": "あなたはここ数日の記憶が",
+                                "translatedEnglishLine": "You realize that your memories of the past few days"
+                            },
+                            {
+                                "lineNumber": "85724",
+                                "originalJapaneseLine": "欠落していることに気づいた。",
+                                "translatedEnglishLine": "are missing."
+                            },
+                            {
+                                "lineNumber": "85725",
+                                "originalJapaneseLine": "何か世界の神秘に触れていたような――",
+                                "translatedEnglishLine": "It feels like you had touched some mystery of the world—"
+                            },
+                            {
+                                "lineNumber": "85726",
+                                "originalJapaneseLine": "とんでもないネタバラシが行われたような――",
+                                "translatedEnglishLine": "like some incredible revelation was made—"
+                            },
+                            {
+                                "lineNumber": "85727",
+                                "originalJapaneseLine": "そんな気がするが、何も思い出せない。",
+                                "translatedEnglishLine": "You feel that way but can't remember anything."
+                            },
+                            {
+                                "lineNumber": "85728",
+                                "originalJapaneseLine": "「あーーーーーーーッ！？！？！？」",
+                                "translatedEnglishLine": "\"Aaaaaaaah!?!?\""
+                            },
+                            {
+                                "lineNumber": "85729",
+                                "originalJapaneseLine": "「＜エール＞じゃないかーー！",
+                                "translatedEnglishLine": "\"Isn't that <Eil>!?"
+                            },
+                            {
+                                "lineNumber": "85730",
+                                "originalJapaneseLine": "　うわーーーーん！」",
+                                "translatedEnglishLine": "Waaahhhh!\""
+                            },
+                            {
+                                "lineNumber": "85731",
+                                "originalJapaneseLine": "唐突に現れた長田君が",
+                                "translatedEnglishLine": "Nagata-kun, who suddenly appeared,"
+                            },
+                            {
+                                "lineNumber": "85732",
+                                "originalJapaneseLine": "ぴょーんとあなたに飛びついてきた。",
+                                "translatedEnglishLine": "jumped onto you with a spring."
+                            },
+                            {
+                                "lineNumber": "85733",
+                                "originalJapaneseLine": "「お、お前、どこに行ってたんだよー！",
+                                "translatedEnglishLine": "\"W-where have you been?!"
+                            },
+                            {
+                                "lineNumber": "85734",
+                                "originalJapaneseLine": "　気づいたらいなくなってて、俺、俺……！」",
+                                "translatedEnglishLine": "I noticed you were gone, and I, I...!\""
+                            },
+                            {
+                                "lineNumber": "85735",
+                                "originalJapaneseLine": "「…………。」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "85736",
+                                "originalJapaneseLine": "「へ？　覚えてないだって？",
+                                "translatedEnglishLine": "\"Huh? You don't remember?"
+                            },
+                            {
+                                "lineNumber": "85737",
+                                "originalJapaneseLine": "　気づいたらここにいた？」",
+                                "translatedEnglishLine": "You woke up here?\""
+                            },
+                            {
+                                "lineNumber": "85738",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "85739",
+                                "originalJapaneseLine": "「お前……そういうとこあるぞ……」",
+                                "translatedEnglishLine": "\"You... you have that kind of side...\""
+                            },
+                            {
+                                "lineNumber": "85740",
+                                "originalJapaneseLine": "何故かあなたは怒られてしまった。",
+                                "translatedEnglishLine": "For some reason, you ended up getting scolded."
+                            },
+                            {
+                                "lineNumber": "85741",
+                                "originalJapaneseLine": "「へへっ、ま、なんでもいいや！」",
+                                "translatedEnglishLine": "\"Hehe, well, whatever!\""
+                            },
+                            {
+                                "lineNumber": "85742",
+                                "originalJapaneseLine": "「よっしゃ！　ならさ、ならさ！",
+                                "translatedEnglishLine": "\"Alright! Then, then!"
+                            },
+                            {
+                                "lineNumber": "85743",
+                                "originalJapaneseLine": "　また俺と冒険の旅に出ようぜ！」",
+                                "translatedEnglishLine": "Let's go on an adventure trip with me again!\""
+                            },
+                            {
+                                "lineNumber": "85744",
+                                "originalJapaneseLine": "「最強のコンビ、復活だぜ！」",
+                                "translatedEnglishLine": "\"The strongest duo is back!\""
+                            },
+                            {
+                                "lineNumber": "85745",
+                                "originalJapaneseLine": "「なあなあ、次はどこに行くよ？」",
+                                "translatedEnglishLine": "\"Hey hey, where shall we go next?\""
+                            },
+                            {
+                                "lineNumber": "85746",
+                                "originalJapaneseLine": "「やっぱ俺としてはさー、なんてーの？",
+                                "translatedEnglishLine": "\"After all, as for me, how should I say it?"
+                            },
+                            {
+                                "lineNumber": "85747",
+                                "originalJapaneseLine": "　世界のどこかにあるという、桃源郷をさー」",
+                                "translatedEnglishLine": "The utopia they say exists somewhere in the world—\""
+                            },
+                            {
+                                "lineNumber": "85748",
+                                "originalJapaneseLine": "「……ん？」",
+                                "translatedEnglishLine": "\"...Hmm?\""
+                            },
+                            {
+                                "lineNumber": "85749",
+                                "originalJapaneseLine": "「あん？」",
+                                "translatedEnglishLine": "\"Huh?\""
+                            },
+                            {
+                                "lineNumber": "85750",
+                                "originalJapaneseLine": "「あら？」",
+                                "translatedEnglishLine": "\"Oh?\""
+                            },
+                            {
+                                "lineNumber": "85751",
+                                "originalJapaneseLine": "「あれ！？　＜エール＞の親父さんと！",
+                                "translatedEnglishLine": "\"Hey!? It's <Eil>'s father and!"
+                            },
+                            {
+                                "lineNumber": "85752",
+                                "originalJapaneseLine": "　その、えーと……奥さんでしたっけ？」",
+                                "translatedEnglishLine": "That, um... was that your wife?\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1807,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2160,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3967
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":85693,\"originalJapaneseLine\":\"「とても愉快な裁判だったわね」\",\"translatedEnglishLine\":\"\\\"That was a very delightful trial.\\\"\"},{\"lineNumber\":85694,\"originalJapaneseLine\":\"「ともかく、これで一時は平和になります。\",\"translatedEnglishLine\":\"\\\"Anyway, this means peace for the time being.\"},{\"lineNumber\":85695,\"originalJapaneseLine\":\"　破滅を望む神はいなくなりましたから」\",\"translatedEnglishLine\":\"Because the god who wished for ruin is gone.\\\"\"},{\"lineNumber\":85696,\"originalJapaneseLine\":\"「アム・イスエル。\",\"translatedEnglishLine\":\"\\\"Amu Isuer.\"},{\"lineNumber\":85697,\"originalJapaneseLine\":\"　永遠に生き続ける苦だけを残して、\",\"translatedEnglishLine\":\"Leaving behind only the eternal suffering of continuing to live,\"},{\"lineNumber\":85698,\"originalJapaneseLine\":\"　あなたの人生は無駄になりましたね」\",\"translatedEnglishLine\":\"Your life has become meaningless.\\\"\"},{\"lineNumber\":85699,\"originalJapaneseLine\":\"「あら、無駄なんてこの世にないわ」\",\"translatedEnglishLine\":\"\\\"Oh, there is no such thing as uselessness in this world.\\\"\"},{\"lineNumber\":85700,\"originalJapaneseLine\":\"「この世に救いを望む人がいる限り、\",\"translatedEnglishLine\":\"\\\"As long as there are people in this world who hope for salvation,\"},{\"lineNumber\":85701,\"originalJapaneseLine\":\"　私の救済の旅は終わらないのだから」\",\"translatedEnglishLine\":\"My journey of salvation will not end.\\\"\"},{\"lineNumber\":85702,\"originalJapaneseLine\":\"「ふふ、何も、何一つとして変わりはしない」\",\"translatedEnglishLine\":\"\\\"Hehe, nothing, not a single thing will change.\\\"\"},{\"lineNumber\":85703,\"originalJapaneseLine\":\"「狂ってる貴方の善行は、\",\"translatedEnglishLine\":\"\\\"Your insane good deeds,\"},{\"lineNumber\":85704,\"originalJapaneseLine\":\"　全てが迷惑でしかないんですが……」\",\"translatedEnglishLine\":\"Are nothing but a nuisance...\\\"\"},{\"lineNumber\":85705,\"originalJapaneseLine\":\"「救済はここに成ったわ……\",\"translatedEnglishLine\":\"\\\"Salvation has occurred here...\"},{\"lineNumber\":85706,\"originalJapaneseLine\":\"　とかなんとか言いながら、\",\"translatedEnglishLine\":\"Saying things like that,\"},{\"lineNumber\":85707,\"originalJapaneseLine\":\"　サラサラ砂になりません？」\",\"translatedEnglishLine\":\"Why don't you just turn into fine sand?\\\"\"},{\"lineNumber\":85708,\"originalJapaneseLine\":\"「ふふ、それも面白そうだけどね……」\",\"translatedEnglishLine\":\"\\\"Hehe, that sounds interesting too...\\\"\"},{\"lineNumber\":85709,\"originalJapaneseLine\":\"「でも、ま……とりあえず……」\",\"translatedEnglishLine\":\"\\\"But, well... for now...\\\"\"},{\"lineNumber\":85710,\"originalJapaneseLine\":\"「これで一件落着、ね。\",\"translatedEnglishLine\":\"\\\"With this, the matter is settled, right?\"},{\"lineNumber\":85711,\"originalJapaneseLine\":\"　お疲れ様」\",\"translatedEnglishLine\":\"Thank you for your hard work.\\\"\"},{\"lineNumber\":85712,\"originalJapaneseLine\":\"「はい、お疲れ様でした」\",\"translatedEnglishLine\":\"\\\"Yes, thank you for your hard work.\\\"\"},{\"lineNumber\":85713,\"originalJapaneseLine\":\"二人の法王はぺっこりと互いに頭を下げた。\",\"translatedEnglishLine\":\"The two pontiffs bowed their heads deeply to each other.\"},{\"lineNumber\":85714,\"originalJapaneseLine\":\"真っ白な景色の中にいた。\",\"translatedEnglishLine\":\"They were in a pure white scenery.\"},{\"lineNumber\":85715,\"originalJapaneseLine\":\"新しく全てが作られていく、そんな感覚。\",\"translatedEnglishLine\":\"A sensation of everything being newly created.\"},{\"lineNumber\":85716,\"originalJapaneseLine\":\"気づけば、どこかの平原にいた。\",\"translatedEnglishLine\":\"Before they noticed, they were on some plain.\"},{\"lineNumber\":85717,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{ \"lineNumber\":85718,\"originalJapaneseLine\":\"どうやらここはリーザスの平原らしい。\",\"translatedEnglishLine\":\"Apparently, this is the plains of Lisas.\"},{\"lineNumber\":85719,\"originalJapaneseLine\":\"暖かな風が緩やかに吹いていた。\",\"translatedEnglishLine\":\"A warm breeze was blowing gently.\"},{\"lineNumber\":85720,\"originalJapaneseLine\":\"しかし――\",\"translatedEnglishLine\":\"However—\"},{\"lineNumber\":85721,\"originalJapaneseLine\":\"どうしてこんな場所にいるのだろう。\",\"translatedEnglishLine\":\"Why am I in such a place?\"},{\"lineNumber\":85722,\"originalJapaneseLine\":\"はて？\",\"translatedEnglishLine\":\"Hmm?\"},{\"lineNumber\":85723,\"originalJapaneseLine\":\"あなたはここ数日の記憶が\",\"translatedEnglishLine\":\"You realize that your memories of the past few days\"},{\"lineNumber\":85724,\"originalJapaneseLine\":\"欠落していることに気づいた。\",\"translatedEnglishLine\":\"are missing.\"},{\"lineNumber\":85725,\"originalJapaneseLine\":\"何か世界の神秘に触れていたような――\",\"translatedEnglishLine\":\"It feels like you had touched some mystery of the world—\"},{\"lineNumber\":85726,\"originalJapaneseLine\":\"とんでもないネタバラシが行われたような――\",\"translatedEnglishLine\":\"like some incredible revelation was made—\"},{\"lineNumber\":85727,\"originalJapaneseLine\":\"そんな気がするが、何も思い出せない。\",\"translatedEnglishLine\":\"You feel that way but can't remember anything.\"},{\"lineNumber\":85728,\"originalJapaneseLine\":\"「あーーーーーーーッ！？！？！？」\",\"translatedEnglishLine\":\"\\\"Aaaaaaaah!?!?\\\"\"},{\"lineNumber\":85729,\"originalJapaneseLine\":\"「＜エール＞じゃないかーー！\",\"translatedEnglishLine\":\"\\\"Isn't that <Eil>!?\"},{\"lineNumber\":85730,\"originalJapaneseLine\":\"　うわーーーーん！」\",\"translatedEnglishLine\":\"Waaahhhh!\\\"\"},{\"lineNumber\":85731,\"originalJapaneseLine\":\"唐突に現れた長田君が\",\"translatedEnglishLine\":\"Nagata-kun, who suddenly appeared,\"},{\"lineNumber\":85732,\"originalJapaneseLine\":\"ぴょーんとあなたに飛びついてきた。\",\"translatedEnglishLine\":\"jumped onto you with a spring.\"},{\"lineNumber\":85733,\"originalJapaneseLine\":\"「お、お前、どこに行ってたんだよー！\",\"translatedEnglishLine\":\"\\\"W-where have you been?!\"},{\"lineNumber\":85734,\"originalJapaneseLine\":\"　気づいたらいなくなってて、俺、俺……！」\",\"translatedEnglishLine\":\"I noticed you were gone, and I, I...!\\\"\"},{\"lineNumber\":85735,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{ \"lineNumber\":85736,\"originalJapaneseLine\":\"「へ？　覚えてないだって？\",\"translatedEnglishLine\":\"\\\"Huh? You don't remember?\"},{\"lineNumber\":85737,\"originalJapaneseLine\":\"　気づいたらここにいた？」\",\"translatedEnglishLine\":\"You woke up here?\\\"\"},{\"lineNumber\":85738,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{ \"lineNumber\":85739,\"originalJapaneseLine\":\"「お前……そういうとこあるぞ……」\",\"translatedEnglishLine\":\"\\\"You... you have that kind of side...\\\"\"},{\"lineNumber\":85740,\"originalJapaneseLine\":\"何故かあなたは怒られてしまった。\",\"translatedEnglishLine\":\"For some reason, you ended up getting scolded.\"},{\"lineNumber\":85741,\"originalJapaneseLine\":\"「へへっ、ま、なんでもいいや！」\",\"translatedEnglishLine\":\"\\\"Hehe, well, whatever!\\\"\"},{\"lineNumber\":85742,\"originalJapaneseLine\":\"「よっしゃ！　ならさ、ならさ！\",\"translatedEnglishLine\":\"\\\"Alright! Then, then!\"},{\"lineNumber\":85743,\"originalJapaneseLine\":\"　また俺と冒険の旅に出ようぜ！」\",\"translatedEnglishLine\":\"Let's go on an adventure trip with me again!\\\"\"},{\"lineNumber\":85744,\"originalJapaneseLine\":\"「最強のコンビ、復活だぜ！」\",\"translatedEnglishLine\":\"\\\"The strongest duo is back!\\\"\"},{\"lineNumber\":85745,\"originalJapaneseLine\":\"「なあなあ、次はどこに行くよ？」\",\"translatedEnglishLine\":\"\\\"Hey hey, where shall we go next?\\\"\"},{\"lineNumber\":85746,\"originalJapaneseLine\":\"「やっぱ俺としてはさー、なんてーの？\",\"translatedEnglishLine\":\"\\\"After all, as for me, how should I say it?\"},{\"lineNumber\":85747,\"originalJapaneseLine\":\"　世界のどこかにあるという、桃源郷をさー」\",\"translatedEnglishLine\":\"The utopia they say exists somewhere in the world—\\\"\"},{\"lineNumber\":85748,\"originalJapaneseLine\":\"「……ん？」\",\"translatedEnglishLine\":\"\\\"...Hmm?\\\"\"},{\"lineNumber\":85749,\"originalJapaneseLine\":\"「あん？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":85750,\"originalJapaneseLine\":\"「あら？」\",\"translatedEnglishLine\":\"\\\"Oh?\\\"\"},{\"lineNumber\":85751,\"originalJapaneseLine\":\"「あれ！？　＜エール＞の親父さんと！\",\"translatedEnglishLine\":\"\\\"Hey!? It's <Eil>'s father and!\"},{\"lineNumber\":85752,\"originalJapaneseLine\":\"　その、えーと……奥さんでしたっけ？」\",\"translatedEnglishLine\":\"That, um... was that your wife?\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "85693",
+                "originalJapaneseLine": "「とても愉快な裁判だったわね」",
+                "translatedEnglishLine": "\"That was a very delightful trial.\""
+            },
+            {
+                "lineNumber": "85694",
+                "originalJapaneseLine": "「ともかく、これで一時は平和になります。",
+                "translatedEnglishLine": "\"Anyway, this means peace for the time being."
+            },
+            {
+                "lineNumber": "85695",
+                "originalJapaneseLine": "　破滅を望む神はいなくなりましたから」",
+                "translatedEnglishLine": "Because the god who wished for ruin is gone.\""
+            },
+            {
+                "lineNumber": "85696",
+                "originalJapaneseLine": "「アム・イスエル。",
+                "translatedEnglishLine": "\"Amu Isuer."
+            },
+            {
+                "lineNumber": "85697",
+                "originalJapaneseLine": "　永遠に生き続ける苦だけを残して、",
+                "translatedEnglishLine": "Leaving behind only the eternal suffering of continuing to live,"
+            },
+            {
+                "lineNumber": "85698",
+                "originalJapaneseLine": "　あなたの人生は無駄になりましたね」",
+                "translatedEnglishLine": "Your life has become meaningless.\""
+            },
+            {
+                "lineNumber": "85699",
+                "originalJapaneseLine": "「あら、無駄なんてこの世にないわ」",
+                "translatedEnglishLine": "\"Oh, there is no such thing as uselessness in this world.\""
+            },
+            {
+                "lineNumber": "85700",
+                "originalJapaneseLine": "「この世に救いを望む人がいる限り、",
+                "translatedEnglishLine": "\"As long as there are people in this world who hope for salvation,"
+            },
+            {
+                "lineNumber": "85701",
+                "originalJapaneseLine": "　私の救済の旅は終わらないのだから」",
+                "translatedEnglishLine": "My journey of salvation will not end.\""
+            },
+            {
+                "lineNumber": "85702",
+                "originalJapaneseLine": "「ふふ、何も、何一つとして変わりはしない」",
+                "translatedEnglishLine": "\"Hehe, nothing, not a single thing will change.\""
+            },
+            {
+                "lineNumber": "85703",
+                "originalJapaneseLine": "「狂ってる貴方の善行は、",
+                "translatedEnglishLine": "\"Your insane good deeds,"
+            },
+            {
+                "lineNumber": "85704",
+                "originalJapaneseLine": "　全てが迷惑でしかないんですが……」",
+                "translatedEnglishLine": "Are nothing but a nuisance...\""
+            },
+            {
+                "lineNumber": "85705",
+                "originalJapaneseLine": "「救済はここに成ったわ……",
+                "translatedEnglishLine": "\"Salvation has occurred here..."
+            },
+            {
+                "lineNumber": "85706",
+                "originalJapaneseLine": "　とかなんとか言いながら、",
+                "translatedEnglishLine": "Saying things like that,"
+            },
+            {
+                "lineNumber": "85707",
+                "originalJapaneseLine": "　サラサラ砂になりません？」",
+                "translatedEnglishLine": "Why don't you just turn into fine sand?\""
+            },
+            {
+                "lineNumber": "85708",
+                "originalJapaneseLine": "「ふふ、それも面白そうだけどね……」",
+                "translatedEnglishLine": "\"Hehe, that sounds interesting too...\""
+            },
+            {
+                "lineNumber": "85709",
+                "originalJapaneseLine": "「でも、ま……とりあえず……」",
+                "translatedEnglishLine": "\"But, well... for now...\""
+            },
+            {
+                "lineNumber": "85710",
+                "originalJapaneseLine": "「これで一件落着、ね。",
+                "translatedEnglishLine": "\"With this, the matter is settled, right?"
+            },
+            {
+                "lineNumber": "85711",
+                "originalJapaneseLine": "　お疲れ様」",
+                "translatedEnglishLine": "Thank you for your hard work.\""
+            },
+            {
+                "lineNumber": "85712",
+                "originalJapaneseLine": "「はい、お疲れ様でした」",
+                "translatedEnglishLine": "\"Yes, thank you for your hard work.\""
+            },
+            {
+                "lineNumber": "85713",
+                "originalJapaneseLine": "二人の法王はぺっこりと互いに頭を下げた。",
+                "translatedEnglishLine": "The two pontiffs bowed their heads deeply to each other."
+            },
+            {
+                "lineNumber": "85714",
+                "originalJapaneseLine": "真っ白な景色の中にいた。",
+                "translatedEnglishLine": "They were in a pure white scenery."
+            },
+            {
+                "lineNumber": "85715",
+                "originalJapaneseLine": "新しく全てが作られていく、そんな感覚。",
+                "translatedEnglishLine": "A sensation of everything being newly created."
+            },
+            {
+                "lineNumber": "85716",
+                "originalJapaneseLine": "気づけば、どこかの平原にいた。",
+                "translatedEnglishLine": "Before they noticed, they were on some plain."
+            },
+            {
+                "lineNumber": "85717",
+                "originalJapaneseLine": "「…………。」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "85718",
+                "originalJapaneseLine": "どうやらここはリーザスの平原らしい。",
+                "translatedEnglishLine": "Apparently, this is the plains of Lisas."
+            },
+            {
+                "lineNumber": "85719",
+                "originalJapaneseLine": "暖かな風が緩やかに吹いていた。",
+                "translatedEnglishLine": "A warm breeze was blowing gently."
+            },
+            {
+                "lineNumber": "85720",
+                "originalJapaneseLine": "しかし――",
+                "translatedEnglishLine": "However—"
+            },
+            {
+                "lineNumber": "85721",
+                "originalJapaneseLine": "どうしてこんな場所にいるのだろう。",
+                "translatedEnglishLine": "Why am I in such a place?"
+            },
+            {
+                "lineNumber": "85722",
+                "originalJapaneseLine": "はて？",
+                "translatedEnglishLine": "Hmm?"
+            },
+            {
+                "lineNumber": "85723",
+                "originalJapaneseLine": "あなたはここ数日の記憶が",
+                "translatedEnglishLine": "You realize that your memories of the past few days"
+            },
+            {
+                "lineNumber": "85724",
+                "originalJapaneseLine": "欠落していることに気づいた。",
+                "translatedEnglishLine": "are missing."
+            },
+            {
+                "lineNumber": "85725",
+                "originalJapaneseLine": "何か世界の神秘に触れていたような――",
+                "translatedEnglishLine": "It feels like you had touched some mystery of the world—"
+            },
+            {
+                "lineNumber": "85726",
+                "originalJapaneseLine": "とんでもないネタバラシが行われたような――",
+                "translatedEnglishLine": "like some incredible revelation was made—"
+            },
+            {
+                "lineNumber": "85727",
+                "originalJapaneseLine": "そんな気がするが、何も思い出せない。",
+                "translatedEnglishLine": "You feel that way but can't remember anything."
+            },
+            {
+                "lineNumber": "85728",
+                "originalJapaneseLine": "「あーーーーーーーッ！？！？！？」",
+                "translatedEnglishLine": "\"Aaaaaaaah!?!?\""
+            },
+            {
+                "lineNumber": "85729",
+                "originalJapaneseLine": "「＜エール＞じゃないかーー！",
+                "translatedEnglishLine": "\"Isn't that <Eil>!?"
+            },
+            {
+                "lineNumber": "85730",
+                "originalJapaneseLine": "　うわーーーーん！」",
+                "translatedEnglishLine": "Waaahhhh!\""
+            },
+            {
+                "lineNumber": "85731",
+                "originalJapaneseLine": "唐突に現れた長田君が",
+                "translatedEnglishLine": "Nagata-kun, who suddenly appeared,"
+            },
+            {
+                "lineNumber": "85732",
+                "originalJapaneseLine": "ぴょーんとあなたに飛びついてきた。",
+                "translatedEnglishLine": "jumped onto you with a spring."
+            },
+            {
+                "lineNumber": "85733",
+                "originalJapaneseLine": "「お、お前、どこに行ってたんだよー！",
+                "translatedEnglishLine": "\"W-where have you been?!"
+            },
+            {
+                "lineNumber": "85734",
+                "originalJapaneseLine": "　気づいたらいなくなってて、俺、俺……！」",
+                "translatedEnglishLine": "I noticed you were gone, and I, I...!\""
+            },
+            {
+                "lineNumber": "85735",
+                "originalJapaneseLine": "「…………。」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "85736",
+                "originalJapaneseLine": "「へ？　覚えてないだって？",
+                "translatedEnglishLine": "\"Huh? You don't remember?"
+            },
+            {
+                "lineNumber": "85737",
+                "originalJapaneseLine": "　気づいたらここにいた？」",
+                "translatedEnglishLine": "You woke up here?\""
+            },
+            {
+                "lineNumber": "85738",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "85739",
+                "originalJapaneseLine": "「お前……そういうとこあるぞ……」",
+                "translatedEnglishLine": "\"You... you have that kind of side...\""
+            },
+            {
+                "lineNumber": "85740",
+                "originalJapaneseLine": "何故かあなたは怒られてしまった。",
+                "translatedEnglishLine": "For some reason, you ended up getting scolded."
+            },
+            {
+                "lineNumber": "85741",
+                "originalJapaneseLine": "「へへっ、ま、なんでもいいや！」",
+                "translatedEnglishLine": "\"Hehe, well, whatever!\""
+            },
+            {
+                "lineNumber": "85742",
+                "originalJapaneseLine": "「よっしゃ！　ならさ、ならさ！",
+                "translatedEnglishLine": "\"Alright! Then, then!"
+            },
+            {
+                "lineNumber": "85743",
+                "originalJapaneseLine": "　また俺と冒険の旅に出ようぜ！」",
+                "translatedEnglishLine": "Let's go on an adventure trip with me again!\""
+            },
+            {
+                "lineNumber": "85744",
+                "originalJapaneseLine": "「最強のコンビ、復活だぜ！」",
+                "translatedEnglishLine": "\"The strongest duo is back!\""
+            },
+            {
+                "lineNumber": "85745",
+                "originalJapaneseLine": "「なあなあ、次はどこに行くよ？」",
+                "translatedEnglishLine": "\"Hey hey, where shall we go next?\""
+            },
+            {
+                "lineNumber": "85746",
+                "originalJapaneseLine": "「やっぱ俺としてはさー、なんてーの？",
+                "translatedEnglishLine": "\"After all, as for me, how should I say it?"
+            },
+            {
+                "lineNumber": "85747",
+                "originalJapaneseLine": "　世界のどこかにあるという、桃源郷をさー」",
+                "translatedEnglishLine": "The utopia they say exists somewhere in the world—\""
+            },
+            {
+                "lineNumber": "85748",
+                "originalJapaneseLine": "「……ん？」",
+                "translatedEnglishLine": "\"...Hmm?\""
+            },
+            {
+                "lineNumber": "85749",
+                "originalJapaneseLine": "「あん？」",
+                "translatedEnglishLine": "\"Huh?\""
+            },
+            {
+                "lineNumber": "85750",
+                "originalJapaneseLine": "「あら？」",
+                "translatedEnglishLine": "\"Oh?\""
+            },
+            {
+                "lineNumber": "85751",
+                "originalJapaneseLine": "「あれ！？　＜エール＞の親父さんと！",
+                "translatedEnglishLine": "\"Hey!? It's <Eil>'s father and!"
+            },
+            {
+                "lineNumber": "85752",
+                "originalJapaneseLine": "　その、えーと……奥さんでしたっけ？」",
+                "translatedEnglishLine": "That, um... was that your wife?\""
+            }
+        ]
+    }
+}

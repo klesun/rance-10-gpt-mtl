@@ -1,0 +1,719 @@
+{
+    "id": "resp_0f378041dbfa89230068ffe47ad188819694f1401ad53f5506",
+    "object": "response",
+    "created_at": 1761600634,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0f378041dbfa89230068ffe47b55e08196af6b674751a7f0a0",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「全て私がお膳立てしました」\",\"translatedEnglishLine\":\"\\\"I arranged everything.\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「世界各地にオーブを配置し、\",\"translatedEnglishLine\":\"\\\"I placed orbs all over the world,\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　各国の指導者に話を通し……\",\"translatedEnglishLine\":\"and communicated with the leaders of each country...\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　色々と大変でした」\",\"translatedEnglishLine\":\"It was quite difficult in many ways.\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「それ、は……」\",\"translatedEnglishLine\":\"\\\"That is...\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「？　なんですか？」\",\"translatedEnglishLine\":\"\\\"? What is it?\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「それは、何故？\",\"translatedEnglishLine\":\"\\\"Why is that?\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　そこまでして、冒険をさせたのはどうして？」\",\"translatedEnglishLine\":\"Why did you go so far as to make him go on an adventure?\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「なんと言ったものか困りますね……\",\"translatedEnglishLine\":\"\\\"It's hard to say exactly...\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　実はそもそもそれは\",\"translatedEnglishLine\":\"Actually, to begin with,\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　私のアイディアではないのです」\",\"translatedEnglishLine\":\"that wasn't my idea.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「ええ、そうしては如何？\",\"translatedEnglishLine\":\"\\\"Well, how about this?\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　そう提案したのは私よ」\",\"translatedEnglishLine\":\"I was the one who suggested it.\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「この人の言う通りにするのは、\",\"translatedEnglishLine\":\"\\\"Doing as this person said\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　癪ではありましたが……\",\"translatedEnglishLine\":\"was annoying, but...\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　まあ、同意してしまいましたから」\",\"translatedEnglishLine\":\"well, I ended up agreeing.\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「何故そうしたのか、に関してですが……」\",\"translatedEnglishLine\":\"\\\"As for why we did so...\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「理由は語るべくもない。\",\"translatedEnglishLine\":\"There is no need to explain the reason.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　何故なら一目瞭然なのだから」\",\"translatedEnglishLine\":\"Because it is perfectly obvious.\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「ねえ、そうでしょう？\",\"translatedEnglishLine\":\"\\\"Hey, isn't that right?\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　法王様？」\",\"translatedEnglishLine\":\"Holy Father?\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「……まあ、そうですね」\",\"translatedEnglishLine\":\"\\\"...Well, yes.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「何故、冒険に出したのか。\",\"translatedEnglishLine\":\"\\\"Why send him on an adventure?\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　それはルドラサウム様をご覧頂ければ、\",\"translatedEnglishLine\":\"If you look at Lord Rudrasaum,\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　説明のいらぬことかと」\",\"translatedEnglishLine\":\"explanation is unnecessary.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"不意に、その場が沈黙に満たされる。\",\"translatedEnglishLine\":\"Suddenly, the place was filled with silence.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"唯一、空気を読まないクルックーだけが、\",\"translatedEnglishLine\":\"Only Klukkuu, who didn't read the atmosphere,\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"変わらぬ調子で話を続ける。\",\"translatedEnglishLine\":\"continued speaking in the same tone.\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「こうして、私の目的は……\",\"translatedEnglishLine\":\"\\\"Thus, my purpose...\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　するべきことは果たされました」\",\"translatedEnglishLine\":\"has been fulfilled.\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「以上が、神異変と……\",\"translatedEnglishLine\":\"\\\"That is the truth behind the divine disaster and...\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　そして私の子供、＜エール＞の真相です」\",\"translatedEnglishLine\":\"my child, <Yell>.\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"これで、話は終わりと示すように、\",\"translatedEnglishLine\":\"As if to show the story was over,\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"ぺこりとクルックーは頭を下げた。\",\"translatedEnglishLine\":\"Klukkuu bowed his head politely.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「ええ……」\",\"translatedEnglishLine\":\"\\\"Yes...\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「ええ、そうね。\",\"translatedEnglishLine\":\"\\\"Yes, that's right.\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　貴方の上げた成果は神々が驚愕するほどよ」\",\"translatedEnglishLine\":\"The results you achieved are so astonishing that even the gods are amazed.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「本当に、信じられないことをしたわね」\",\"translatedEnglishLine\":\"\\\"You really did something unbelievable.\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「この世から神々を追い出すとは、ね」\",\"translatedEnglishLine\":\"\\\"To drive the gods out of this world, indeed.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「でも、それが永遠に続くとは限らない。\",\"translatedEnglishLine\":\"\\\"But that doesn't mean it will continue forever.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　あまりに危うい状況では？」\",\"translatedEnglishLine\":\"Isn't it an extremely precarious situation?\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「どういう意味です？」\",\"translatedEnglishLine\":\"\\\"What do you mean?\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「いつ、あのお方が、\",\"translatedEnglishLine\":\"\\\"That person could act on a whim at any time,\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　気まぐれを起こすとも限らない」\",\"translatedEnglishLine\":\"and it's not certain when that will happen.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「少しの気の変化で、\",\"translatedEnglishLine\":\"\\\"With just a slight change of mind,\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　明日には全てが元通りになっているかも知れない」\",\"translatedEnglishLine\":\"everything might return to how it was tomorrow.\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「世界は未だ薄氷の上に立っているのよ」\",\"translatedEnglishLine\":\"\\\"The world is still standing on thin ice.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「では……\",\"translatedEnglishLine\":\"\\\"Well then...\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　本人に聞いてみましょうか？」\",\"translatedEnglishLine\":\"shall we ask the person himself?\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「……え？」\",\"translatedEnglishLine\":\"\\\"...Huh?\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「ルドラサウム様、ルドラサウム様。\",\"translatedEnglishLine\":\"\\\"Lord Rudrasaum, Lord Rudrasaum.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　どうせ近くにいるのでしょう？\",\"translatedEnglishLine\":\"You're nearby anyway, right?\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"　お姿を見せて下さいませんか？」\",\"translatedEnglishLine\":\"Won't you show yourself to us?\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「なっ！？」\",\"translatedEnglishLine\":\"\\\"Wha!?!\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"辺りが真っ白に染まる。\",\"translatedEnglishLine\":\"The area became completely white.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"否、それは真っ白な巨大な生物が、\",\"translatedEnglishLine\":\"No, it was a huge pure white creature,\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"辺りの景色を覆っただけだった。\",\"translatedEnglishLine\":\"that simply covered the surrounding scenery.\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「くすくすくす……\",\"translatedEnglishLine\":\"\\\"Hehehehe...\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　相変わらず勘がいいね、クルックーは」\",\"translatedEnglishLine\":\"You still have a sharp instinct, Klukkuu.\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "85453",
+                                "originalJapaneseLine": "「全て私がお膳立てしました」",
+                                "translatedEnglishLine": "\"I arranged everything.\""
+                            },
+                            {
+                                "lineNumber": "85454",
+                                "originalJapaneseLine": "「世界各地にオーブを配置し、",
+                                "translatedEnglishLine": "\"I placed orbs all over the world,"
+                            },
+                            {
+                                "lineNumber": "85455",
+                                "originalJapaneseLine": "　各国の指導者に話を通し……",
+                                "translatedEnglishLine": "and communicated with the leaders of each country...\""
+                            },
+                            {
+                                "lineNumber": "85456",
+                                "originalJapaneseLine": "　色々と大変でした」",
+                                "translatedEnglishLine": "It was quite difficult in many ways.\""
+                            },
+                            {
+                                "lineNumber": "85457",
+                                "originalJapaneseLine": "「それ、は……」",
+                                "translatedEnglishLine": "\"That is...\""
+                            },
+                            {
+                                "lineNumber": "85458",
+                                "originalJapaneseLine": "「？　なんですか？」",
+                                "translatedEnglishLine": "\"? What is it?\""
+                            },
+                            {
+                                "lineNumber": "85459",
+                                "originalJapaneseLine": "「それは、何故？",
+                                "translatedEnglishLine": "\"Why is that?"
+                            },
+                            {
+                                "lineNumber": "85460",
+                                "originalJapaneseLine": "　そこまでして、冒険をさせたのはどうして？」",
+                                "translatedEnglishLine": "Why did you go so far as to make him go on an adventure?\""
+                            },
+                            {
+                                "lineNumber": "85461",
+                                "originalJapaneseLine": "「なんと言ったものか困りますね……",
+                                "translatedEnglishLine": "\"It's hard to say exactly..."
+                            },
+                            {
+                                "lineNumber": "85462",
+                                "originalJapaneseLine": "　実はそもそもそれは",
+                                "translatedEnglishLine": "Actually, to begin with,"
+                            },
+                            {
+                                "lineNumber": "85463",
+                                "originalJapaneseLine": "　私のアイディアではないのです」",
+                                "translatedEnglishLine": "that wasn't my idea.\""
+                            },
+                            {
+                                "lineNumber": "85464",
+                                "originalJapaneseLine": "「ええ、そうしては如何？",
+                                "translatedEnglishLine": "\"Well, how about this?"
+                            },
+                            {
+                                "lineNumber": "85465",
+                                "originalJapaneseLine": "　そう提案したのは私よ」",
+                                "translatedEnglishLine": "I was the one who suggested it.\""
+                            },
+                            {
+                                "lineNumber": "85466",
+                                "originalJapaneseLine": "「この人の言う通りにするのは、",
+                                "translatedEnglishLine": "\"Doing as this person said"
+                            },
+                            {
+                                "lineNumber": "85467",
+                                "originalJapaneseLine": "　癪ではありましたが……",
+                                "translatedEnglishLine": "was annoying, but..."
+                            },
+                            {
+                                "lineNumber": "85468",
+                                "originalJapaneseLine": "　まあ、同意してしまいましたから」",
+                                "translatedEnglishLine": "well, I ended up agreeing.\""
+                            },
+                            {
+                                "lineNumber": "85469",
+                                "originalJapaneseLine": "「何故そうしたのか、に関してですが……」",
+                                "translatedEnglishLine": "\"As for why we did so..."
+                            },
+                            {
+                                "lineNumber": "85470",
+                                "originalJapaneseLine": "「理由は語るべくもない。",
+                                "translatedEnglishLine": "There is no need to explain the reason."
+                            },
+                            {
+                                "lineNumber": "85471",
+                                "originalJapaneseLine": "　何故なら一目瞭然なのだから」",
+                                "translatedEnglishLine": "Because it is perfectly obvious.\""
+                            },
+                            {
+                                "lineNumber": "85472",
+                                "originalJapaneseLine": "「ねえ、そうでしょう？",
+                                "translatedEnglishLine": "\"Hey, isn't that right?"
+                            },
+                            {
+                                "lineNumber": "85473",
+                                "originalJapaneseLine": "　法王様？」",
+                                "translatedEnglishLine": "Holy Father?\""
+                            },
+                            {
+                                "lineNumber": "85474",
+                                "originalJapaneseLine": "「……まあ、そうですね」",
+                                "translatedEnglishLine": "\"...Well, yes.\""
+                            },
+                            {
+                                "lineNumber": "85475",
+                                "originalJapaneseLine": "「何故、冒険に出したのか。",
+                                "translatedEnglishLine": "\"Why send him on an adventure?"
+                            },
+                            {
+                                "lineNumber": "85476",
+                                "originalJapaneseLine": "　それはルドラサウム様をご覧頂ければ、",
+                                "translatedEnglishLine": "If you look at Lord Rudrasaum,"
+                            },
+                            {
+                                "lineNumber": "85477",
+                                "originalJapaneseLine": "　説明のいらぬことかと」",
+                                "translatedEnglishLine": "explanation is unnecessary.\""
+                            },
+                            {
+                                "lineNumber": "85478",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "85479",
+                                "originalJapaneseLine": "不意に、その場が沈黙に満たされる。",
+                                "translatedEnglishLine": "Suddenly, the place was filled with silence."
+                            },
+                            {
+                                "lineNumber": "85480",
+                                "originalJapaneseLine": "唯一、空気を読まないクルックーだけが、",
+                                "translatedEnglishLine": "Only Klukkuu, who didn't read the atmosphere,"
+                            },
+                            {
+                                "lineNumber": "85481",
+                                "originalJapaneseLine": "変わらぬ調子で話を続ける。",
+                                "translatedEnglishLine": "continued speaking in the same tone."
+                            },
+                            {
+                                "lineNumber": "85482",
+                                "originalJapaneseLine": "「こうして、私の目的は……",
+                                "translatedEnglishLine": "\"Thus, my purpose..."
+                            },
+                            {
+                                "lineNumber": "85483",
+                                "originalJapaneseLine": "　するべきことは果たされました」",
+                                "translatedEnglishLine": "has been fulfilled.\""
+                            },
+                            {
+                                "lineNumber": "85484",
+                                "originalJapaneseLine": "「以上が、神異変と……",
+                                "translatedEnglishLine": "\"That is the truth behind the divine disaster and..."
+                            },
+                            {
+                                "lineNumber": "85485",
+                                "originalJapaneseLine": "　そして私の子供、＜エール＞の真相です」",
+                                "translatedEnglishLine": "my child, <Yell>.\""
+                            },
+                            {
+                                "lineNumber": "85486",
+                                "originalJapaneseLine": "これで、話は終わりと示すように、",
+                                "translatedEnglishLine": "As if to show the story was over,"
+                            },
+                            {
+                                "lineNumber": "85487",
+                                "originalJapaneseLine": "ぺこりとクルックーは頭を下げた。",
+                                "translatedEnglishLine": "Klukkuu bowed his head politely."
+                            },
+                            {
+                                "lineNumber": "85488",
+                                "originalJapaneseLine": "「ええ……」",
+                                "translatedEnglishLine": "\"Yes...\""
+                            },
+                            {
+                                "lineNumber": "85489",
+                                "originalJapaneseLine": "「ええ、そうね。",
+                                "translatedEnglishLine": "\"Yes, that's right."
+                            },
+                            {
+                                "lineNumber": "85490",
+                                "originalJapaneseLine": "　貴方の上げた成果は神々が驚愕するほどよ」",
+                                "translatedEnglishLine": "The results you achieved are so astonishing that even the gods are amazed.\""
+                            },
+                            {
+                                "lineNumber": "85491",
+                                "originalJapaneseLine": "「本当に、信じられないことをしたわね」",
+                                "translatedEnglishLine": "\"You really did something unbelievable.\""
+                            },
+                            {
+                                "lineNumber": "85492",
+                                "originalJapaneseLine": "「この世から神々を追い出すとは、ね」",
+                                "translatedEnglishLine": "\"To drive the gods out of this world, indeed.\""
+                            },
+                            {
+                                "lineNumber": "85493",
+                                "originalJapaneseLine": "「でも、それが永遠に続くとは限らない。",
+                                "translatedEnglishLine": "\"But that doesn't mean it will continue forever."
+                            },
+                            {
+                                "lineNumber": "85494",
+                                "originalJapaneseLine": "　あまりに危うい状況では？」",
+                                "translatedEnglishLine": "Isn't it an extremely precarious situation?\""
+                            },
+                            {
+                                "lineNumber": "85495",
+                                "originalJapaneseLine": "「どういう意味です？」",
+                                "translatedEnglishLine": "\"What do you mean?\""
+                            },
+                            {
+                                "lineNumber": "85496",
+                                "originalJapaneseLine": "「いつ、あのお方が、",
+                                "translatedEnglishLine": "\"That person could act on a whim at any time,"
+                            },
+                            {
+                                "lineNumber": "85497",
+                                "originalJapaneseLine": "　気まぐれを起こすとも限らない」",
+                                "translatedEnglishLine": "and it's not certain when that will happen.\""
+                            },
+                            {
+                                "lineNumber": "85498",
+                                "originalJapaneseLine": "「少しの気の変化で、",
+                                "translatedEnglishLine": "\"With just a slight change of mind,"
+                            },
+                            {
+                                "lineNumber": "85499",
+                                "originalJapaneseLine": "　明日には全てが元通りになっているかも知れない」",
+                                "translatedEnglishLine": "everything might return to how it was tomorrow.\""
+                            },
+                            {
+                                "lineNumber": "85500",
+                                "originalJapaneseLine": "「世界は未だ薄氷の上に立っているのよ」",
+                                "translatedEnglishLine": "\"The world is still standing on thin ice.\""
+                            },
+                            {
+                                "lineNumber": "85501",
+                                "originalJapaneseLine": "「では……",
+                                "translatedEnglishLine": "\"Well then..."
+                            },
+                            {
+                                "lineNumber": "85502",
+                                "originalJapaneseLine": "　本人に聞いてみましょうか？」",
+                                "translatedEnglishLine": "shall we ask the person himself?\""
+                            },
+                            {
+                                "lineNumber": "85503",
+                                "originalJapaneseLine": "「……え？」",
+                                "translatedEnglishLine": "\"...Huh?\""
+                            },
+                            {
+                                "lineNumber": "85504",
+                                "originalJapaneseLine": "「ルドラサウム様、ルドラサウム様。",
+                                "translatedEnglishLine": "\"Lord Rudrasaum, Lord Rudrasaum."
+                            },
+                            {
+                                "lineNumber": "85505",
+                                "originalJapaneseLine": "　どうせ近くにいるのでしょう？",
+                                "translatedEnglishLine": "You're nearby anyway, right?"
+                            },
+                            {
+                                "lineNumber": "85506",
+                                "originalJapaneseLine": "　お姿を見せて下さいませんか？」",
+                                "translatedEnglishLine": "Won't you show yourself to us?\""
+                            },
+                            {
+                                "lineNumber": "85507",
+                                "originalJapaneseLine": "「なっ！？」",
+                                "translatedEnglishLine": "\"Wha!?!\""
+                            },
+                            {
+                                "lineNumber": "85508",
+                                "originalJapaneseLine": "辺りが真っ白に染まる。",
+                                "translatedEnglishLine": "The area became completely white."
+                            },
+                            {
+                                "lineNumber": "85509",
+                                "originalJapaneseLine": "否、それは真っ白な巨大な生物が、",
+                                "translatedEnglishLine": "No, it was a huge pure white creature,"
+                            },
+                            {
+                                "lineNumber": "85510",
+                                "originalJapaneseLine": "辺りの景色を覆っただけだった。",
+                                "translatedEnglishLine": "that simply covered the surrounding scenery."
+                            },
+                            {
+                                "lineNumber": "85511",
+                                "originalJapaneseLine": "「くすくすくす……",
+                                "translatedEnglishLine": "\"Hehehehe..."
+                            },
+                            {
+                                "lineNumber": "85512",
+                                "originalJapaneseLine": "　相変わらず勘がいいね、クルックーは」",
+                                "translatedEnglishLine": "You still have a sharp instinct, Klukkuu.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1784,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2026,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3810
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「全て私がお膳立てしました」\",\"translatedEnglishLine\":\"\\\"I arranged everything.\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「世界各地にオーブを配置し、\",\"translatedEnglishLine\":\"\\\"I placed orbs all over the world,\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　各国の指導者に話を通し……\",\"translatedEnglishLine\":\"and communicated with the leaders of each country...\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"　色々と大変でした」\",\"translatedEnglishLine\":\"It was quite difficult in many ways.\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「それ、は……」\",\"translatedEnglishLine\":\"\\\"That is...\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「？　なんですか？」\",\"translatedEnglishLine\":\"\\\"? What is it?\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「それは、何故？\",\"translatedEnglishLine\":\"\\\"Why is that?\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　そこまでして、冒険をさせたのはどうして？」\",\"translatedEnglishLine\":\"Why did you go so far as to make him go on an adventure?\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「なんと言ったものか困りますね……\",\"translatedEnglishLine\":\"\\\"It's hard to say exactly...\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　実はそもそもそれは\",\"translatedEnglishLine\":\"Actually, to begin with,\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　私のアイディアではないのです」\",\"translatedEnglishLine\":\"that wasn't my idea.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「ええ、そうしては如何？\",\"translatedEnglishLine\":\"\\\"Well, how about this?\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　そう提案したのは私よ」\",\"translatedEnglishLine\":\"I was the one who suggested it.\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「この人の言う通りにするのは、\",\"translatedEnglishLine\":\"\\\"Doing as this person said\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　癪ではありましたが……\",\"translatedEnglishLine\":\"was annoying, but...\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　まあ、同意してしまいましたから」\",\"translatedEnglishLine\":\"well, I ended up agreeing.\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「何故そうしたのか、に関してですが……」\",\"translatedEnglishLine\":\"\\\"As for why we did so...\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「理由は語るべくもない。\",\"translatedEnglishLine\":\"There is no need to explain the reason.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　何故なら一目瞭然なのだから」\",\"translatedEnglishLine\":\"Because it is perfectly obvious.\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「ねえ、そうでしょう？\",\"translatedEnglishLine\":\"\\\"Hey, isn't that right?\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"　法王様？」\",\"translatedEnglishLine\":\"Holy Father?\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「……まあ、そうですね」\",\"translatedEnglishLine\":\"\\\"...Well, yes.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「何故、冒険に出したのか。\",\"translatedEnglishLine\":\"\\\"Why send him on an adventure?\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　それはルドラサウム様をご覧頂ければ、\",\"translatedEnglishLine\":\"If you look at Lord Rudrasaum,\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　説明のいらぬことかと」\",\"translatedEnglishLine\":\"explanation is unnecessary.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"不意に、その場が沈黙に満たされる。\",\"translatedEnglishLine\":\"Suddenly, the place was filled with silence.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"唯一、空気を読まないクルックーだけが、\",\"translatedEnglishLine\":\"Only Klukkuu, who didn't read the atmosphere,\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"変わらぬ調子で話を続ける。\",\"translatedEnglishLine\":\"continued speaking in the same tone.\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「こうして、私の目的は……\",\"translatedEnglishLine\":\"\\\"Thus, my purpose...\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　するべきことは果たされました」\",\"translatedEnglishLine\":\"has been fulfilled.\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「以上が、神異変と……\",\"translatedEnglishLine\":\"\\\"That is the truth behind the divine disaster and...\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　そして私の子供、＜エール＞の真相です」\",\"translatedEnglishLine\":\"my child, <Yell>.\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"これで、話は終わりと示すように、\",\"translatedEnglishLine\":\"As if to show the story was over,\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"ぺこりとクルックーは頭を下げた。\",\"translatedEnglishLine\":\"Klukkuu bowed his head politely.\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「ええ……」\",\"translatedEnglishLine\":\"\\\"Yes...\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「ええ、そうね。\",\"translatedEnglishLine\":\"\\\"Yes, that's right.\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　貴方の上げた成果は神々が驚愕するほどよ」\",\"translatedEnglishLine\":\"The results you achieved are so astonishing that even the gods are amazed.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「本当に、信じられないことをしたわね」\",\"translatedEnglishLine\":\"\\\"You really did something unbelievable.\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「この世から神々を追い出すとは、ね」\",\"translatedEnglishLine\":\"\\\"To drive the gods out of this world, indeed.\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"「でも、それが永遠に続くとは限らない。\",\"translatedEnglishLine\":\"\\\"But that doesn't mean it will continue forever.\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"　あまりに危うい状況では？」\",\"translatedEnglishLine\":\"Isn't it an extremely precarious situation?\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「どういう意味です？」\",\"translatedEnglishLine\":\"\\\"What do you mean?\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「いつ、あのお方が、\",\"translatedEnglishLine\":\"\\\"That person could act on a whim at any time,\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　気まぐれを起こすとも限らない」\",\"translatedEnglishLine\":\"and it's not certain when that will happen.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「少しの気の変化で、\",\"translatedEnglishLine\":\"\\\"With just a slight change of mind,\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　明日には全てが元通りになっているかも知れない」\",\"translatedEnglishLine\":\"everything might return to how it was tomorrow.\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「世界は未だ薄氷の上に立っているのよ」\",\"translatedEnglishLine\":\"\\\"The world is still standing on thin ice.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「では……\",\"translatedEnglishLine\":\"\\\"Well then...\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　本人に聞いてみましょうか？」\",\"translatedEnglishLine\":\"shall we ask the person himself?\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「……え？」\",\"translatedEnglishLine\":\"\\\"...Huh?\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「ルドラサウム様、ルドラサウム様。\",\"translatedEnglishLine\":\"\\\"Lord Rudrasaum, Lord Rudrasaum.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　どうせ近くにいるのでしょう？\",\"translatedEnglishLine\":\"You're nearby anyway, right?\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"　お姿を見せて下さいませんか？」\",\"translatedEnglishLine\":\"Won't you show yourself to us?\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「なっ！？」\",\"translatedEnglishLine\":\"\\\"Wha!?!\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"辺りが真っ白に染まる。\",\"translatedEnglishLine\":\"The area became completely white.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"否、それは真っ白な巨大な生物が、\",\"translatedEnglishLine\":\"No, it was a huge pure white creature,\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"辺りの景色を覆っただけだった。\",\"translatedEnglishLine\":\"that simply covered the surrounding scenery.\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「くすくすくす……\",\"translatedEnglishLine\":\"\\\"Hehehehe...\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　相変わらず勘がいいね、クルックーは」\",\"translatedEnglishLine\":\"You still have a sharp instinct, Klukkuu.\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "85453",
+                "originalJapaneseLine": "「全て私がお膳立てしました」",
+                "translatedEnglishLine": "\"I arranged everything.\""
+            },
+            {
+                "lineNumber": "85454",
+                "originalJapaneseLine": "「世界各地にオーブを配置し、",
+                "translatedEnglishLine": "\"I placed orbs all over the world,"
+            },
+            {
+                "lineNumber": "85455",
+                "originalJapaneseLine": "　各国の指導者に話を通し……",
+                "translatedEnglishLine": "and communicated with the leaders of each country...\""
+            },
+            {
+                "lineNumber": "85456",
+                "originalJapaneseLine": "　色々と大変でした」",
+                "translatedEnglishLine": "It was quite difficult in many ways.\""
+            },
+            {
+                "lineNumber": "85457",
+                "originalJapaneseLine": "「それ、は……」",
+                "translatedEnglishLine": "\"That is...\""
+            },
+            {
+                "lineNumber": "85458",
+                "originalJapaneseLine": "「？　なんですか？」",
+                "translatedEnglishLine": "\"? What is it?\""
+            },
+            {
+                "lineNumber": "85459",
+                "originalJapaneseLine": "「それは、何故？",
+                "translatedEnglishLine": "\"Why is that?"
+            },
+            {
+                "lineNumber": "85460",
+                "originalJapaneseLine": "　そこまでして、冒険をさせたのはどうして？」",
+                "translatedEnglishLine": "Why did you go so far as to make him go on an adventure?\""
+            },
+            {
+                "lineNumber": "85461",
+                "originalJapaneseLine": "「なんと言ったものか困りますね……",
+                "translatedEnglishLine": "\"It's hard to say exactly..."
+            },
+            {
+                "lineNumber": "85462",
+                "originalJapaneseLine": "　実はそもそもそれは",
+                "translatedEnglishLine": "Actually, to begin with,"
+            },
+            {
+                "lineNumber": "85463",
+                "originalJapaneseLine": "　私のアイディアではないのです」",
+                "translatedEnglishLine": "that wasn't my idea.\""
+            },
+            {
+                "lineNumber": "85464",
+                "originalJapaneseLine": "「ええ、そうしては如何？",
+                "translatedEnglishLine": "\"Well, how about this?"
+            },
+            {
+                "lineNumber": "85465",
+                "originalJapaneseLine": "　そう提案したのは私よ」",
+                "translatedEnglishLine": "I was the one who suggested it.\""
+            },
+            {
+                "lineNumber": "85466",
+                "originalJapaneseLine": "「この人の言う通りにするのは、",
+                "translatedEnglishLine": "\"Doing as this person said"
+            },
+            {
+                "lineNumber": "85467",
+                "originalJapaneseLine": "　癪ではありましたが……",
+                "translatedEnglishLine": "was annoying, but..."
+            },
+            {
+                "lineNumber": "85468",
+                "originalJapaneseLine": "　まあ、同意してしまいましたから」",
+                "translatedEnglishLine": "well, I ended up agreeing.\""
+            },
+            {
+                "lineNumber": "85469",
+                "originalJapaneseLine": "「何故そうしたのか、に関してですが……」",
+                "translatedEnglishLine": "\"As for why we did so..."
+            },
+            {
+                "lineNumber": "85470",
+                "originalJapaneseLine": "「理由は語るべくもない。",
+                "translatedEnglishLine": "There is no need to explain the reason."
+            },
+            {
+                "lineNumber": "85471",
+                "originalJapaneseLine": "　何故なら一目瞭然なのだから」",
+                "translatedEnglishLine": "Because it is perfectly obvious.\""
+            },
+            {
+                "lineNumber": "85472",
+                "originalJapaneseLine": "「ねえ、そうでしょう？",
+                "translatedEnglishLine": "\"Hey, isn't that right?"
+            },
+            {
+                "lineNumber": "85473",
+                "originalJapaneseLine": "　法王様？」",
+                "translatedEnglishLine": "Holy Father?\""
+            },
+            {
+                "lineNumber": "85474",
+                "originalJapaneseLine": "「……まあ、そうですね」",
+                "translatedEnglishLine": "\"...Well, yes.\""
+            },
+            {
+                "lineNumber": "85475",
+                "originalJapaneseLine": "「何故、冒険に出したのか。",
+                "translatedEnglishLine": "\"Why send him on an adventure?"
+            },
+            {
+                "lineNumber": "85476",
+                "originalJapaneseLine": "　それはルドラサウム様をご覧頂ければ、",
+                "translatedEnglishLine": "If you look at Lord Rudrasaum,"
+            },
+            {
+                "lineNumber": "85477",
+                "originalJapaneseLine": "　説明のいらぬことかと」",
+                "translatedEnglishLine": "explanation is unnecessary.\""
+            },
+            {
+                "lineNumber": "85478",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "85479",
+                "originalJapaneseLine": "不意に、その場が沈黙に満たされる。",
+                "translatedEnglishLine": "Suddenly, the place was filled with silence."
+            },
+            {
+                "lineNumber": "85480",
+                "originalJapaneseLine": "唯一、空気を読まないクルックーだけが、",
+                "translatedEnglishLine": "Only Klukkuu, who didn't read the atmosphere,"
+            },
+            {
+                "lineNumber": "85481",
+                "originalJapaneseLine": "変わらぬ調子で話を続ける。",
+                "translatedEnglishLine": "continued speaking in the same tone."
+            },
+            {
+                "lineNumber": "85482",
+                "originalJapaneseLine": "「こうして、私の目的は……",
+                "translatedEnglishLine": "\"Thus, my purpose..."
+            },
+            {
+                "lineNumber": "85483",
+                "originalJapaneseLine": "　するべきことは果たされました」",
+                "translatedEnglishLine": "has been fulfilled.\""
+            },
+            {
+                "lineNumber": "85484",
+                "originalJapaneseLine": "「以上が、神異変と……",
+                "translatedEnglishLine": "\"That is the truth behind the divine disaster and..."
+            },
+            {
+                "lineNumber": "85485",
+                "originalJapaneseLine": "　そして私の子供、＜エール＞の真相です」",
+                "translatedEnglishLine": "my child, <Yell>.\""
+            },
+            {
+                "lineNumber": "85486",
+                "originalJapaneseLine": "これで、話は終わりと示すように、",
+                "translatedEnglishLine": "As if to show the story was over,"
+            },
+            {
+                "lineNumber": "85487",
+                "originalJapaneseLine": "ぺこりとクルックーは頭を下げた。",
+                "translatedEnglishLine": "Klukkuu bowed his head politely."
+            },
+            {
+                "lineNumber": "85488",
+                "originalJapaneseLine": "「ええ……」",
+                "translatedEnglishLine": "\"Yes...\""
+            },
+            {
+                "lineNumber": "85489",
+                "originalJapaneseLine": "「ええ、そうね。",
+                "translatedEnglishLine": "\"Yes, that's right."
+            },
+            {
+                "lineNumber": "85490",
+                "originalJapaneseLine": "　貴方の上げた成果は神々が驚愕するほどよ」",
+                "translatedEnglishLine": "The results you achieved are so astonishing that even the gods are amazed.\""
+            },
+            {
+                "lineNumber": "85491",
+                "originalJapaneseLine": "「本当に、信じられないことをしたわね」",
+                "translatedEnglishLine": "\"You really did something unbelievable.\""
+            },
+            {
+                "lineNumber": "85492",
+                "originalJapaneseLine": "「この世から神々を追い出すとは、ね」",
+                "translatedEnglishLine": "\"To drive the gods out of this world, indeed.\""
+            },
+            {
+                "lineNumber": "85493",
+                "originalJapaneseLine": "「でも、それが永遠に続くとは限らない。",
+                "translatedEnglishLine": "\"But that doesn't mean it will continue forever."
+            },
+            {
+                "lineNumber": "85494",
+                "originalJapaneseLine": "　あまりに危うい状況では？」",
+                "translatedEnglishLine": "Isn't it an extremely precarious situation?\""
+            },
+            {
+                "lineNumber": "85495",
+                "originalJapaneseLine": "「どういう意味です？」",
+                "translatedEnglishLine": "\"What do you mean?\""
+            },
+            {
+                "lineNumber": "85496",
+                "originalJapaneseLine": "「いつ、あのお方が、",
+                "translatedEnglishLine": "\"That person could act on a whim at any time,"
+            },
+            {
+                "lineNumber": "85497",
+                "originalJapaneseLine": "　気まぐれを起こすとも限らない」",
+                "translatedEnglishLine": "and it's not certain when that will happen.\""
+            },
+            {
+                "lineNumber": "85498",
+                "originalJapaneseLine": "「少しの気の変化で、",
+                "translatedEnglishLine": "\"With just a slight change of mind,"
+            },
+            {
+                "lineNumber": "85499",
+                "originalJapaneseLine": "　明日には全てが元通りになっているかも知れない」",
+                "translatedEnglishLine": "everything might return to how it was tomorrow.\""
+            },
+            {
+                "lineNumber": "85500",
+                "originalJapaneseLine": "「世界は未だ薄氷の上に立っているのよ」",
+                "translatedEnglishLine": "\"The world is still standing on thin ice.\""
+            },
+            {
+                "lineNumber": "85501",
+                "originalJapaneseLine": "「では……",
+                "translatedEnglishLine": "\"Well then..."
+            },
+            {
+                "lineNumber": "85502",
+                "originalJapaneseLine": "　本人に聞いてみましょうか？」",
+                "translatedEnglishLine": "shall we ask the person himself?\""
+            },
+            {
+                "lineNumber": "85503",
+                "originalJapaneseLine": "「……え？」",
+                "translatedEnglishLine": "\"...Huh?\""
+            },
+            {
+                "lineNumber": "85504",
+                "originalJapaneseLine": "「ルドラサウム様、ルドラサウム様。",
+                "translatedEnglishLine": "\"Lord Rudrasaum, Lord Rudrasaum."
+            },
+            {
+                "lineNumber": "85505",
+                "originalJapaneseLine": "　どうせ近くにいるのでしょう？",
+                "translatedEnglishLine": "You're nearby anyway, right?"
+            },
+            {
+                "lineNumber": "85506",
+                "originalJapaneseLine": "　お姿を見せて下さいませんか？」",
+                "translatedEnglishLine": "Won't you show yourself to us?\""
+            },
+            {
+                "lineNumber": "85507",
+                "originalJapaneseLine": "「なっ！？」",
+                "translatedEnglishLine": "\"Wha!?!\""
+            },
+            {
+                "lineNumber": "85508",
+                "originalJapaneseLine": "辺りが真っ白に染まる。",
+                "translatedEnglishLine": "The area became completely white."
+            },
+            {
+                "lineNumber": "85509",
+                "originalJapaneseLine": "否、それは真っ白な巨大な生物が、",
+                "translatedEnglishLine": "No, it was a huge pure white creature,"
+            },
+            {
+                "lineNumber": "85510",
+                "originalJapaneseLine": "辺りの景色を覆っただけだった。",
+                "translatedEnglishLine": "that simply covered the surrounding scenery."
+            },
+            {
+                "lineNumber": "85511",
+                "originalJapaneseLine": "「くすくすくす……",
+                "translatedEnglishLine": "\"Hehehehe..."
+            },
+            {
+                "lineNumber": "85512",
+                "originalJapaneseLine": "　相変わらず勘がいいね、クルックーは」",
+                "translatedEnglishLine": "You still have a sharp instinct, Klukkuu.\""
+            }
+        ]
+    }
+}

@@ -1,0 +1,719 @@
+{
+    "id": "resp_082c332d45bf01250068ffe4083fcc81959b74ad71b2e5b8c5",
+    "object": "response",
+    "created_at": 1761600520,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_082c332d45bf01250068ffe409cf9881958e37eef89d7a0a78",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":85273,\"originalJapaneseLine\":\"「はい、そうですね」\",\"translatedEnglishLine\":\"\\\"Yes, that's right.\\\"\"},{\"lineNumber\":85274,\"originalJapaneseLine\":\"「あら、私のことかしら？」\",\"translatedEnglishLine\":\"\\\"Oh, are you talking about me?\\\"\"},{\"lineNumber\":85275,\"originalJapaneseLine\":\"「ふふ、どうぞ私のことは気にしないで。\",\"translatedEnglishLine\":\"\\\"Hehe, please don't worry about me.\"},{\"lineNumber\":85276,\"originalJapaneseLine\":\"　どうしても参加したくて、\",\"translatedEnglishLine\":\"I just really wanted to participate,\"},{\"lineNumber\":85277,\"originalJapaneseLine\":\"　ついて来ただけだから」\",\"translatedEnglishLine\":\"so I just followed along.\\\"\"},{\"lineNumber\":85278,\"originalJapaneseLine\":\"「すみません、\",\"translatedEnglishLine\":\"\\\"Sorry,\"},{\"lineNumber\":85279,\"originalJapaneseLine\":\"　なんか勝手についてきてしまいました」\",\"translatedEnglishLine\":\"I somehow tagged along without permission.\\\"\"},{\"lineNumber\":85280,\"originalJapaneseLine\":\"「どうしますか？\",\"translatedEnglishLine\":\"\\\"What shall we do?\"},{\"lineNumber\":85281,\"originalJapaneseLine\":\"　私一人に出来るかどうか分かりませんが、\",\"translatedEnglishLine\":\"I don't know if I can do it alone,\"},{\"lineNumber\":85282,\"originalJapaneseLine\":\"　今この場で封印しますか？」\",\"translatedEnglishLine\":\"shall we seal it here and now?\\\"\"},{\"lineNumber\":85283,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":85284,\"originalJapaneseLine\":\"「いいえ、結構です。\",\"translatedEnglishLine\":\"\\\"No, that's fine.\"},{\"lineNumber\":85285,\"originalJapaneseLine\":\"　それで貴方に死なれる方が\",\"translatedEnglishLine\":\"It would be much more troublesome for us if you were to die because of that.\"},{\"lineNumber\":85286,\"originalJapaneseLine\":\"　私達にはよほど困るので」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":85287,\"originalJapaneseLine\":\"「はい、そうですね。\",\"translatedEnglishLine\":\"\\\"Yes, that's right.\"},{\"lineNumber\":85288,\"originalJapaneseLine\":\"　私も同感です」\",\"translatedEnglishLine\":\"I agree as well.\\\"\"},{\"lineNumber\":85289,\"originalJapaneseLine\":\"「安心して。\",\"translatedEnglishLine\":\"\\\"Rest assured.\"},{\"lineNumber\":85290,\"originalJapaneseLine\":\"　基本的に私は黙ってるから」\",\"translatedEnglishLine\":\"Basically, I'll be silent.\\\"\"},{\"lineNumber\":85291,\"originalJapaneseLine\":\"「くすくす、皆がそうであるように、\",\"translatedEnglishLine\":\"\\\"Hehe, just like everyone else,\"},{\"lineNumber\":85292,\"originalJapaneseLine\":\"　私もただ話が聞きたいだけなのだから」\",\"translatedEnglishLine\":\"I'm only here to listen to the story.\\\"\"},{\"lineNumber\":85293,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":85294,\"originalJapaneseLine\":\"「さて、私を呼んでお話とは……\",\"translatedEnglishLine\":\"\\\"Now then, to call me here and talk about...\"},{\"lineNumber\":85295,\"originalJapaneseLine\":\"　いったいなんでしょう？」\",\"translatedEnglishLine\":\"I wonder what it could be?\\\"\"},{\"lineNumber\":85296,\"originalJapaneseLine\":\"「これより――」\",\"translatedEnglishLine\":\"\\\"From here on――\\\"\"},{\"lineNumber\":85297,\"originalJapaneseLine\":\"「法王クルックー・モフスの裁判を始めます」\",\"translatedEnglishLine\":\"I will begin the trial of Pope Krukku Mofus.\\\"\"},{\"lineNumber\":85298,\"originalJapaneseLine\":\"「裁判……」\",\"translatedEnglishLine\":\"\\\"Trial...?\\\"\"},{\"lineNumber\":85299,\"originalJapaneseLine\":\"「やはり、神を『騙した』のは、\",\"translatedEnglishLine\":\"\\\"Indeed, deceiving a god is a great sin.\\\"\"},{\"lineNumber\":85300,\"originalJapaneseLine\":\"　大罪のようですね」\",\"translatedEnglishLine\":\"\\\"It seems to be a grave offense.\\\"\"},{\"lineNumber\":85301,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":85302,\"originalJapaneseLine\":\"「ええ、貴方の罪はもう確定している。\",\"translatedEnglishLine\":\"\\\"Yes, your guilt has already been confirmed.\"},{\"lineNumber\":85303,\"originalJapaneseLine\":\"　ただし、私達にはもう裁く力はないけれど」\",\"translatedEnglishLine\":\"However, we no longer have the power to judge you.\\\"\"},{\"lineNumber\":85304,\"originalJapaneseLine\":\"「ええ、安心なさい。\",\"translatedEnglishLine\":\"\\\"Yes, do not worry.\"},{\"lineNumber\":85305,\"originalJapaneseLine\":\"　私達はただ、聞きたいだけなのです」\",\"translatedEnglishLine\":\"We only want to listen.\\\"\"},{\"lineNumber\":85306,\"originalJapaneseLine\":\"「貴方はいったい、何をしたのか。\",\"translatedEnglishLine\":\"\\\"What exactly did you do?\"},{\"lineNumber\":85307,\"originalJapaneseLine\":\"　その手段と、目的は」\",\"translatedEnglishLine\":\"What were your methods and objectives?\\\"\"},{\"lineNumber\":85308,\"originalJapaneseLine\":\"「私達は……\",\"translatedEnglishLine\":\"\\\"We...\"},{\"lineNumber\":85309,\"originalJapaneseLine\":\"　それすら完璧には把握できていないのです」\",\"translatedEnglishLine\":\"Don't even fully understand that.\\\"\"},{\"lineNumber\":85310,\"originalJapaneseLine\":\"「そうね。\",\"translatedEnglishLine\":\"\\\"That's right.\"},{\"lineNumber\":85311,\"originalJapaneseLine\":\"　それを理解できているのはおそらく……\",\"translatedEnglishLine\":\"The ones who probably do understand it...\"},{\"lineNumber\":85312,\"originalJapaneseLine\":\"　ルドラサウム様と、そして……貴方だけ」\",\"translatedEnglishLine\":\"are Rudrasaum-sama and... you alone.\\\"\"},{\"lineNumber\":85313,\"originalJapaneseLine\":\"他、三体の神は何も喋らない。\",\"translatedEnglishLine\":\"The other three gods say nothing.\"},{\"lineNumber\":85314,\"originalJapaneseLine\":\"その姿は、神々に囲まれた矮小な人間を見て、\",\"translatedEnglishLine\":\"Their expressions, looking at the tiny human surrounded by gods,\"},{\"lineNumber\":85315,\"originalJapaneseLine\":\"ほくそ笑んでいるようにも、\",\"translatedEnglishLine\":\"seemed to be either smirking,\"},{\"lineNumber\":85316,\"originalJapaneseLine\":\"爆発しそうな怒りを抑えているようにも見えた。\",\"translatedEnglishLine\":\"or suppressing anger ready to explode.\"},{\"lineNumber\":85317,\"originalJapaneseLine\":\"クルックーはそれを見て、臆すことなく、\",\"translatedEnglishLine\":\"Krukku saw this and, without hesitation,\"},{\"lineNumber\":85318,\"originalJapaneseLine\":\"かすかに微笑を浮かべた。\",\"translatedEnglishLine\":\"barely smiled.\"},{\"lineNumber\":85319,\"originalJapaneseLine\":\"「簡単なことではありますが……\",\"translatedEnglishLine\":\"\\\"It's not a simple matter...\"},{\"lineNumber\":85320,\"originalJapaneseLine\":\"　ええ、少し長い話になります」\",\"translatedEnglishLine\":\"Yes, it will be a somewhat long story.\\\"\"},{\"lineNumber\":85321,\"originalJapaneseLine\":\"「さて、どこから話しましょう……」\",\"translatedEnglishLine\":\"\\\"Now then, where shall I start...\\\"\"},{\"lineNumber\":85322,\"originalJapaneseLine\":\"「そうですね……\",\"translatedEnglishLine\":\"\\\"Let's see...\"},{\"lineNumber\":85323,\"originalJapaneseLine\":\"　やはり始まりは、あの日」\",\"translatedEnglishLine\":\"The beginning was, after all, that day.\"},{\"lineNumber\":85324,\"originalJapaneseLine\":\"「15年前まで遡りましょうか」\",\"translatedEnglishLine\":\"Shall we go back 15 years?\\\"\"},{\"lineNumber\":85325,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":85326,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":85327,\"originalJapaneseLine\":\"「15年前のあの日――」\",\"translatedEnglishLine\":\"\\\"That day 15 years ago――\\\"\"},{\"lineNumber\":85328,\"originalJapaneseLine\":\"「それは……\",\"translatedEnglishLine\":\"\\\"It was...\"},{\"lineNumber\":85329,\"originalJapaneseLine\":\"　人類対魔軍の戦争が終結を向かえ、\",\"translatedEnglishLine\":\"The war between humanity and the demon army came to an end,\"},{\"lineNumber\":85330,\"originalJapaneseLine\":\"　奴隷のシィルさんが死に……」\",\"translatedEnglishLine\":\"Slave Seel-san died...\\\"\"},{\"lineNumber\":85331,\"originalJapaneseLine\":\"「ランスが魔王となった日のことです」\",\"translatedEnglishLine\":\"It was the day Rance became the Demon King.\\\"\"},{\"lineNumber\":85332,\"originalJapaneseLine\":\"「当時の私にそれを止めることは出来ませんでした」\",\"translatedEnglishLine\":\"At that time, I was unable to stop it.\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "85273",
+                                "originalJapaneseLine": "「はい、そうですね」",
+                                "translatedEnglishLine": "\"Yes, that's right.\""
+                            },
+                            {
+                                "lineNumber": "85274",
+                                "originalJapaneseLine": "「あら、私のことかしら？」",
+                                "translatedEnglishLine": "\"Oh, are you talking about me?\""
+                            },
+                            {
+                                "lineNumber": "85275",
+                                "originalJapaneseLine": "「ふふ、どうぞ私のことは気にしないで。",
+                                "translatedEnglishLine": "\"Hehe, please don't worry about me."
+                            },
+                            {
+                                "lineNumber": "85276",
+                                "originalJapaneseLine": "　どうしても参加したくて、",
+                                "translatedEnglishLine": "I just really wanted to participate,"
+                            },
+                            {
+                                "lineNumber": "85277",
+                                "originalJapaneseLine": "　ついて来ただけだから」",
+                                "translatedEnglishLine": "so I just followed along.\""
+                            },
+                            {
+                                "lineNumber": "85278",
+                                "originalJapaneseLine": "「すみません、",
+                                "translatedEnglishLine": "\"Sorry,"
+                            },
+                            {
+                                "lineNumber": "85279",
+                                "originalJapaneseLine": "　なんか勝手についてきてしまいました」",
+                                "translatedEnglishLine": "I somehow tagged along without permission.\""
+                            },
+                            {
+                                "lineNumber": "85280",
+                                "originalJapaneseLine": "「どうしますか？",
+                                "translatedEnglishLine": "\"What shall we do?"
+                            },
+                            {
+                                "lineNumber": "85281",
+                                "originalJapaneseLine": "　私一人に出来るかどうか分かりませんが、",
+                                "translatedEnglishLine": "I don't know if I can do it alone,"
+                            },
+                            {
+                                "lineNumber": "85282",
+                                "originalJapaneseLine": "　今この場で封印しますか？」",
+                                "translatedEnglishLine": "shall we seal it here and now?\""
+                            },
+                            {
+                                "lineNumber": "85283",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "85284",
+                                "originalJapaneseLine": "「いいえ、結構です。",
+                                "translatedEnglishLine": "\"No, that's fine."
+                            },
+                            {
+                                "lineNumber": "85285",
+                                "originalJapaneseLine": "　それで貴方に死なれる方が",
+                                "translatedEnglishLine": "It would be much more troublesome for us if you were to die because of that."
+                            },
+                            {
+                                "lineNumber": "85286",
+                                "originalJapaneseLine": "　私達にはよほど困るので」",
+                                "translatedEnglishLine": "\""
+                            },
+                            {
+                                "lineNumber": "85287",
+                                "originalJapaneseLine": "「はい、そうですね。",
+                                "translatedEnglishLine": "\"Yes, that's right."
+                            },
+                            {
+                                "lineNumber": "85288",
+                                "originalJapaneseLine": "　私も同感です」",
+                                "translatedEnglishLine": "I agree as well.\""
+                            },
+                            {
+                                "lineNumber": "85289",
+                                "originalJapaneseLine": "「安心して。",
+                                "translatedEnglishLine": "\"Rest assured."
+                            },
+                            {
+                                "lineNumber": "85290",
+                                "originalJapaneseLine": "　基本的に私は黙ってるから」",
+                                "translatedEnglishLine": "Basically, I'll be silent.\""
+                            },
+                            {
+                                "lineNumber": "85291",
+                                "originalJapaneseLine": "「くすくす、皆がそうであるように、",
+                                "translatedEnglishLine": "\"Hehe, just like everyone else,"
+                            },
+                            {
+                                "lineNumber": "85292",
+                                "originalJapaneseLine": "　私もただ話が聞きたいだけなのだから」",
+                                "translatedEnglishLine": "I'm only here to listen to the story.\""
+                            },
+                            {
+                                "lineNumber": "85293",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "85294",
+                                "originalJapaneseLine": "「さて、私を呼んでお話とは……",
+                                "translatedEnglishLine": "\"Now then, to call me here and talk about..."
+                            },
+                            {
+                                "lineNumber": "85295",
+                                "originalJapaneseLine": "　いったいなんでしょう？」",
+                                "translatedEnglishLine": "I wonder what it could be?\""
+                            },
+                            {
+                                "lineNumber": "85296",
+                                "originalJapaneseLine": "「これより――」",
+                                "translatedEnglishLine": "\"From here on――\""
+                            },
+                            {
+                                "lineNumber": "85297",
+                                "originalJapaneseLine": "「法王クルックー・モフスの裁判を始めます」",
+                                "translatedEnglishLine": "I will begin the trial of Pope Krukku Mofus.\""
+                            },
+                            {
+                                "lineNumber": "85298",
+                                "originalJapaneseLine": "「裁判……」",
+                                "translatedEnglishLine": "\"Trial...?\""
+                            },
+                            {
+                                "lineNumber": "85299",
+                                "originalJapaneseLine": "「やはり、神を『騙した』のは、",
+                                "translatedEnglishLine": "\"Indeed, deceiving a god is a great sin.\""
+                            },
+                            {
+                                "lineNumber": "85300",
+                                "originalJapaneseLine": "　大罪のようですね」",
+                                "translatedEnglishLine": "\"It seems to be a grave offense.\""
+                            },
+                            {
+                                "lineNumber": "85301",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "85302",
+                                "originalJapaneseLine": "「ええ、貴方の罪はもう確定している。",
+                                "translatedEnglishLine": "\"Yes, your guilt has already been confirmed."
+                            },
+                            {
+                                "lineNumber": "85303",
+                                "originalJapaneseLine": "　ただし、私達にはもう裁く力はないけれど」",
+                                "translatedEnglishLine": "However, we no longer have the power to judge you.\""
+                            },
+                            {
+                                "lineNumber": "85304",
+                                "originalJapaneseLine": "「ええ、安心なさい。",
+                                "translatedEnglishLine": "\"Yes, do not worry."
+                            },
+                            {
+                                "lineNumber": "85305",
+                                "originalJapaneseLine": "　私達はただ、聞きたいだけなのです」",
+                                "translatedEnglishLine": "We only want to listen.\""
+                            },
+                            {
+                                "lineNumber": "85306",
+                                "originalJapaneseLine": "「貴方はいったい、何をしたのか。",
+                                "translatedEnglishLine": "\"What exactly did you do?"
+                            },
+                            {
+                                "lineNumber": "85307",
+                                "originalJapaneseLine": "　その手段と、目的は」",
+                                "translatedEnglishLine": "What were your methods and objectives?\""
+                            },
+                            {
+                                "lineNumber": "85308",
+                                "originalJapaneseLine": "「私達は……",
+                                "translatedEnglishLine": "\"We..."
+                            },
+                            {
+                                "lineNumber": "85309",
+                                "originalJapaneseLine": "　それすら完璧には把握できていないのです」",
+                                "translatedEnglishLine": "Don't even fully understand that.\""
+                            },
+                            {
+                                "lineNumber": "85310",
+                                "originalJapaneseLine": "「そうね。",
+                                "translatedEnglishLine": "\"That's right."
+                            },
+                            {
+                                "lineNumber": "85311",
+                                "originalJapaneseLine": "　それを理解できているのはおそらく……",
+                                "translatedEnglishLine": "The ones who probably do understand it..."
+                            },
+                            {
+                                "lineNumber": "85312",
+                                "originalJapaneseLine": "　ルドラサウム様と、そして……貴方だけ」",
+                                "translatedEnglishLine": "are Rudrasaum-sama and... you alone.\""
+                            },
+                            {
+                                "lineNumber": "85313",
+                                "originalJapaneseLine": "他、三体の神は何も喋らない。",
+                                "translatedEnglishLine": "The other three gods say nothing."
+                            },
+                            {
+                                "lineNumber": "85314",
+                                "originalJapaneseLine": "その姿は、神々に囲まれた矮小な人間を見て、",
+                                "translatedEnglishLine": "Their expressions, looking at the tiny human surrounded by gods,"
+                            },
+                            {
+                                "lineNumber": "85315",
+                                "originalJapaneseLine": "ほくそ笑んでいるようにも、",
+                                "translatedEnglishLine": "seemed to be either smirking,"
+                            },
+                            {
+                                "lineNumber": "85316",
+                                "originalJapaneseLine": "爆発しそうな怒りを抑えているようにも見えた。",
+                                "translatedEnglishLine": "or suppressing anger ready to explode."
+                            },
+                            {
+                                "lineNumber": "85317",
+                                "originalJapaneseLine": "クルックーはそれを見て、臆すことなく、",
+                                "translatedEnglishLine": "Krukku saw this and, without hesitation,"
+                            },
+                            {
+                                "lineNumber": "85318",
+                                "originalJapaneseLine": "かすかに微笑を浮かべた。",
+                                "translatedEnglishLine": "barely smiled."
+                            },
+                            {
+                                "lineNumber": "85319",
+                                "originalJapaneseLine": "「簡単なことではありますが……",
+                                "translatedEnglishLine": "\"It's not a simple matter..."
+                            },
+                            {
+                                "lineNumber": "85320",
+                                "originalJapaneseLine": "　ええ、少し長い話になります」",
+                                "translatedEnglishLine": "Yes, it will be a somewhat long story.\""
+                            },
+                            {
+                                "lineNumber": "85321",
+                                "originalJapaneseLine": "「さて、どこから話しましょう……」",
+                                "translatedEnglishLine": "\"Now then, where shall I start...\""
+                            },
+                            {
+                                "lineNumber": "85322",
+                                "originalJapaneseLine": "「そうですね……",
+                                "translatedEnglishLine": "\"Let's see..."
+                            },
+                            {
+                                "lineNumber": "85323",
+                                "originalJapaneseLine": "　やはり始まりは、あの日」",
+                                "translatedEnglishLine": "The beginning was, after all, that day."
+                            },
+                            {
+                                "lineNumber": "85324",
+                                "originalJapaneseLine": "「15年前まで遡りましょうか」",
+                                "translatedEnglishLine": "Shall we go back 15 years?\""
+                            },
+                            {
+                                "lineNumber": "85325",
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "............"
+                            },
+                            {
+                                "lineNumber": "85326",
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": "85327",
+                                "originalJapaneseLine": "「15年前のあの日――」",
+                                "translatedEnglishLine": "\"That day 15 years ago――\""
+                            },
+                            {
+                                "lineNumber": "85328",
+                                "originalJapaneseLine": "「それは……",
+                                "translatedEnglishLine": "\"It was..."
+                            },
+                            {
+                                "lineNumber": "85329",
+                                "originalJapaneseLine": "　人類対魔軍の戦争が終結を向かえ、",
+                                "translatedEnglishLine": "The war between humanity and the demon army came to an end,"
+                            },
+                            {
+                                "lineNumber": "85330",
+                                "originalJapaneseLine": "　奴隷のシィルさんが死に……」",
+                                "translatedEnglishLine": "Slave Seel-san died...\""
+                            },
+                            {
+                                "lineNumber": "85331",
+                                "originalJapaneseLine": "「ランスが魔王となった日のことです」",
+                                "translatedEnglishLine": "It was the day Rance became the Demon King.\""
+                            },
+                            {
+                                "lineNumber": "85332",
+                                "originalJapaneseLine": "「当時の私にそれを止めることは出来ませんでした」",
+                                "translatedEnglishLine": "At that time, I was unable to stop it.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1745,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2033,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3778
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":85273,\"originalJapaneseLine\":\"「はい、そうですね」\",\"translatedEnglishLine\":\"\\\"Yes, that's right.\\\"\"},{\"lineNumber\":85274,\"originalJapaneseLine\":\"「あら、私のことかしら？」\",\"translatedEnglishLine\":\"\\\"Oh, are you talking about me?\\\"\"},{\"lineNumber\":85275,\"originalJapaneseLine\":\"「ふふ、どうぞ私のことは気にしないで。\",\"translatedEnglishLine\":\"\\\"Hehe, please don't worry about me.\"},{\"lineNumber\":85276,\"originalJapaneseLine\":\"　どうしても参加したくて、\",\"translatedEnglishLine\":\"I just really wanted to participate,\"},{\"lineNumber\":85277,\"originalJapaneseLine\":\"　ついて来ただけだから」\",\"translatedEnglishLine\":\"so I just followed along.\\\"\"},{\"lineNumber\":85278,\"originalJapaneseLine\":\"「すみません、\",\"translatedEnglishLine\":\"\\\"Sorry,\"},{\"lineNumber\":85279,\"originalJapaneseLine\":\"　なんか勝手についてきてしまいました」\",\"translatedEnglishLine\":\"I somehow tagged along without permission.\\\"\"},{\"lineNumber\":85280,\"originalJapaneseLine\":\"「どうしますか？\",\"translatedEnglishLine\":\"\\\"What shall we do?\"},{\"lineNumber\":85281,\"originalJapaneseLine\":\"　私一人に出来るかどうか分かりませんが、\",\"translatedEnglishLine\":\"I don't know if I can do it alone,\"},{\"lineNumber\":85282,\"originalJapaneseLine\":\"　今この場で封印しますか？」\",\"translatedEnglishLine\":\"shall we seal it here and now?\\\"\"},{\"lineNumber\":85283,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":85284,\"originalJapaneseLine\":\"「いいえ、結構です。\",\"translatedEnglishLine\":\"\\\"No, that's fine.\"},{\"lineNumber\":85285,\"originalJapaneseLine\":\"　それで貴方に死なれる方が\",\"translatedEnglishLine\":\"It would be much more troublesome for us if you were to die because of that.\"},{\"lineNumber\":85286,\"originalJapaneseLine\":\"　私達にはよほど困るので」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":85287,\"originalJapaneseLine\":\"「はい、そうですね。\",\"translatedEnglishLine\":\"\\\"Yes, that's right.\"},{\"lineNumber\":85288,\"originalJapaneseLine\":\"　私も同感です」\",\"translatedEnglishLine\":\"I agree as well.\\\"\"},{\"lineNumber\":85289,\"originalJapaneseLine\":\"「安心して。\",\"translatedEnglishLine\":\"\\\"Rest assured.\"},{\"lineNumber\":85290,\"originalJapaneseLine\":\"　基本的に私は黙ってるから」\",\"translatedEnglishLine\":\"Basically, I'll be silent.\\\"\"},{\"lineNumber\":85291,\"originalJapaneseLine\":\"「くすくす、皆がそうであるように、\",\"translatedEnglishLine\":\"\\\"Hehe, just like everyone else,\"},{\"lineNumber\":85292,\"originalJapaneseLine\":\"　私もただ話が聞きたいだけなのだから」\",\"translatedEnglishLine\":\"I'm only here to listen to the story.\\\"\"},{\"lineNumber\":85293,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":85294,\"originalJapaneseLine\":\"「さて、私を呼んでお話とは……\",\"translatedEnglishLine\":\"\\\"Now then, to call me here and talk about...\"},{\"lineNumber\":85295,\"originalJapaneseLine\":\"　いったいなんでしょう？」\",\"translatedEnglishLine\":\"I wonder what it could be?\\\"\"},{\"lineNumber\":85296,\"originalJapaneseLine\":\"「これより――」\",\"translatedEnglishLine\":\"\\\"From here on――\\\"\"},{\"lineNumber\":85297,\"originalJapaneseLine\":\"「法王クルックー・モフスの裁判を始めます」\",\"translatedEnglishLine\":\"I will begin the trial of Pope Krukku Mofus.\\\"\"},{\"lineNumber\":85298,\"originalJapaneseLine\":\"「裁判……」\",\"translatedEnglishLine\":\"\\\"Trial...?\\\"\"},{\"lineNumber\":85299,\"originalJapaneseLine\":\"「やはり、神を『騙した』のは、\",\"translatedEnglishLine\":\"\\\"Indeed, deceiving a god is a great sin.\\\"\"},{\"lineNumber\":85300,\"originalJapaneseLine\":\"　大罪のようですね」\",\"translatedEnglishLine\":\"\\\"It seems to be a grave offense.\\\"\"},{\"lineNumber\":85301,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":85302,\"originalJapaneseLine\":\"「ええ、貴方の罪はもう確定している。\",\"translatedEnglishLine\":\"\\\"Yes, your guilt has already been confirmed.\"},{\"lineNumber\":85303,\"originalJapaneseLine\":\"　ただし、私達にはもう裁く力はないけれど」\",\"translatedEnglishLine\":\"However, we no longer have the power to judge you.\\\"\"},{\"lineNumber\":85304,\"originalJapaneseLine\":\"「ええ、安心なさい。\",\"translatedEnglishLine\":\"\\\"Yes, do not worry.\"},{\"lineNumber\":85305,\"originalJapaneseLine\":\"　私達はただ、聞きたいだけなのです」\",\"translatedEnglishLine\":\"We only want to listen.\\\"\"},{\"lineNumber\":85306,\"originalJapaneseLine\":\"「貴方はいったい、何をしたのか。\",\"translatedEnglishLine\":\"\\\"What exactly did you do?\"},{\"lineNumber\":85307,\"originalJapaneseLine\":\"　その手段と、目的は」\",\"translatedEnglishLine\":\"What were your methods and objectives?\\\"\"},{\"lineNumber\":85308,\"originalJapaneseLine\":\"「私達は……\",\"translatedEnglishLine\":\"\\\"We...\"},{\"lineNumber\":85309,\"originalJapaneseLine\":\"　それすら完璧には把握できていないのです」\",\"translatedEnglishLine\":\"Don't even fully understand that.\\\"\"},{\"lineNumber\":85310,\"originalJapaneseLine\":\"「そうね。\",\"translatedEnglishLine\":\"\\\"That's right.\"},{\"lineNumber\":85311,\"originalJapaneseLine\":\"　それを理解できているのはおそらく……\",\"translatedEnglishLine\":\"The ones who probably do understand it...\"},{\"lineNumber\":85312,\"originalJapaneseLine\":\"　ルドラサウム様と、そして……貴方だけ」\",\"translatedEnglishLine\":\"are Rudrasaum-sama and... you alone.\\\"\"},{\"lineNumber\":85313,\"originalJapaneseLine\":\"他、三体の神は何も喋らない。\",\"translatedEnglishLine\":\"The other three gods say nothing.\"},{\"lineNumber\":85314,\"originalJapaneseLine\":\"その姿は、神々に囲まれた矮小な人間を見て、\",\"translatedEnglishLine\":\"Their expressions, looking at the tiny human surrounded by gods,\"},{\"lineNumber\":85315,\"originalJapaneseLine\":\"ほくそ笑んでいるようにも、\",\"translatedEnglishLine\":\"seemed to be either smirking,\"},{\"lineNumber\":85316,\"originalJapaneseLine\":\"爆発しそうな怒りを抑えているようにも見えた。\",\"translatedEnglishLine\":\"or suppressing anger ready to explode.\"},{\"lineNumber\":85317,\"originalJapaneseLine\":\"クルックーはそれを見て、臆すことなく、\",\"translatedEnglishLine\":\"Krukku saw this and, without hesitation,\"},{\"lineNumber\":85318,\"originalJapaneseLine\":\"かすかに微笑を浮かべた。\",\"translatedEnglishLine\":\"barely smiled.\"},{\"lineNumber\":85319,\"originalJapaneseLine\":\"「簡単なことではありますが……\",\"translatedEnglishLine\":\"\\\"It's not a simple matter...\"},{\"lineNumber\":85320,\"originalJapaneseLine\":\"　ええ、少し長い話になります」\",\"translatedEnglishLine\":\"Yes, it will be a somewhat long story.\\\"\"},{\"lineNumber\":85321,\"originalJapaneseLine\":\"「さて、どこから話しましょう……」\",\"translatedEnglishLine\":\"\\\"Now then, where shall I start...\\\"\"},{\"lineNumber\":85322,\"originalJapaneseLine\":\"「そうですね……\",\"translatedEnglishLine\":\"\\\"Let's see...\"},{\"lineNumber\":85323,\"originalJapaneseLine\":\"　やはり始まりは、あの日」\",\"translatedEnglishLine\":\"The beginning was, after all, that day.\"},{\"lineNumber\":85324,\"originalJapaneseLine\":\"「15年前まで遡りましょうか」\",\"translatedEnglishLine\":\"Shall we go back 15 years?\\\"\"},{\"lineNumber\":85325,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":85326,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":85327,\"originalJapaneseLine\":\"「15年前のあの日――」\",\"translatedEnglishLine\":\"\\\"That day 15 years ago――\\\"\"},{\"lineNumber\":85328,\"originalJapaneseLine\":\"「それは……\",\"translatedEnglishLine\":\"\\\"It was...\"},{\"lineNumber\":85329,\"originalJapaneseLine\":\"　人類対魔軍の戦争が終結を向かえ、\",\"translatedEnglishLine\":\"The war between humanity and the demon army came to an end,\"},{\"lineNumber\":85330,\"originalJapaneseLine\":\"　奴隷のシィルさんが死に……」\",\"translatedEnglishLine\":\"Slave Seel-san died...\\\"\"},{\"lineNumber\":85331,\"originalJapaneseLine\":\"「ランスが魔王となった日のことです」\",\"translatedEnglishLine\":\"It was the day Rance became the Demon King.\\\"\"},{\"lineNumber\":85332,\"originalJapaneseLine\":\"「当時の私にそれを止めることは出来ませんでした」\",\"translatedEnglishLine\":\"At that time, I was unable to stop it.\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "85273",
+                "originalJapaneseLine": "「はい、そうですね」",
+                "translatedEnglishLine": "\"Yes, that's right.\""
+            },
+            {
+                "lineNumber": "85274",
+                "originalJapaneseLine": "「あら、私のことかしら？」",
+                "translatedEnglishLine": "\"Oh, are you talking about me?\""
+            },
+            {
+                "lineNumber": "85275",
+                "originalJapaneseLine": "「ふふ、どうぞ私のことは気にしないで。",
+                "translatedEnglishLine": "\"Hehe, please don't worry about me."
+            },
+            {
+                "lineNumber": "85276",
+                "originalJapaneseLine": "　どうしても参加したくて、",
+                "translatedEnglishLine": "I just really wanted to participate,"
+            },
+            {
+                "lineNumber": "85277",
+                "originalJapaneseLine": "　ついて来ただけだから」",
+                "translatedEnglishLine": "so I just followed along.\""
+            },
+            {
+                "lineNumber": "85278",
+                "originalJapaneseLine": "「すみません、",
+                "translatedEnglishLine": "\"Sorry,"
+            },
+            {
+                "lineNumber": "85279",
+                "originalJapaneseLine": "　なんか勝手についてきてしまいました」",
+                "translatedEnglishLine": "I somehow tagged along without permission.\""
+            },
+            {
+                "lineNumber": "85280",
+                "originalJapaneseLine": "「どうしますか？",
+                "translatedEnglishLine": "\"What shall we do?"
+            },
+            {
+                "lineNumber": "85281",
+                "originalJapaneseLine": "　私一人に出来るかどうか分かりませんが、",
+                "translatedEnglishLine": "I don't know if I can do it alone,"
+            },
+            {
+                "lineNumber": "85282",
+                "originalJapaneseLine": "　今この場で封印しますか？」",
+                "translatedEnglishLine": "shall we seal it here and now?\""
+            },
+            {
+                "lineNumber": "85283",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "85284",
+                "originalJapaneseLine": "「いいえ、結構です。",
+                "translatedEnglishLine": "\"No, that's fine."
+            },
+            {
+                "lineNumber": "85285",
+                "originalJapaneseLine": "　それで貴方に死なれる方が",
+                "translatedEnglishLine": "It would be much more troublesome for us if you were to die because of that."
+            },
+            {
+                "lineNumber": "85286",
+                "originalJapaneseLine": "　私達にはよほど困るので」",
+                "translatedEnglishLine": "\""
+            },
+            {
+                "lineNumber": "85287",
+                "originalJapaneseLine": "「はい、そうですね。",
+                "translatedEnglishLine": "\"Yes, that's right."
+            },
+            {
+                "lineNumber": "85288",
+                "originalJapaneseLine": "　私も同感です」",
+                "translatedEnglishLine": "I agree as well.\""
+            },
+            {
+                "lineNumber": "85289",
+                "originalJapaneseLine": "「安心して。",
+                "translatedEnglishLine": "\"Rest assured."
+            },
+            {
+                "lineNumber": "85290",
+                "originalJapaneseLine": "　基本的に私は黙ってるから」",
+                "translatedEnglishLine": "Basically, I'll be silent.\""
+            },
+            {
+                "lineNumber": "85291",
+                "originalJapaneseLine": "「くすくす、皆がそうであるように、",
+                "translatedEnglishLine": "\"Hehe, just like everyone else,"
+            },
+            {
+                "lineNumber": "85292",
+                "originalJapaneseLine": "　私もただ話が聞きたいだけなのだから」",
+                "translatedEnglishLine": "I'm only here to listen to the story.\""
+            },
+            {
+                "lineNumber": "85293",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "85294",
+                "originalJapaneseLine": "「さて、私を呼んでお話とは……",
+                "translatedEnglishLine": "\"Now then, to call me here and talk about..."
+            },
+            {
+                "lineNumber": "85295",
+                "originalJapaneseLine": "　いったいなんでしょう？」",
+                "translatedEnglishLine": "I wonder what it could be?\""
+            },
+            {
+                "lineNumber": "85296",
+                "originalJapaneseLine": "「これより――」",
+                "translatedEnglishLine": "\"From here on――\""
+            },
+            {
+                "lineNumber": "85297",
+                "originalJapaneseLine": "「法王クルックー・モフスの裁判を始めます」",
+                "translatedEnglishLine": "I will begin the trial of Pope Krukku Mofus.\""
+            },
+            {
+                "lineNumber": "85298",
+                "originalJapaneseLine": "「裁判……」",
+                "translatedEnglishLine": "\"Trial...?\""
+            },
+            {
+                "lineNumber": "85299",
+                "originalJapaneseLine": "「やはり、神を『騙した』のは、",
+                "translatedEnglishLine": "\"Indeed, deceiving a god is a great sin.\""
+            },
+            {
+                "lineNumber": "85300",
+                "originalJapaneseLine": "　大罪のようですね」",
+                "translatedEnglishLine": "\"It seems to be a grave offense.\""
+            },
+            {
+                "lineNumber": "85301",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "85302",
+                "originalJapaneseLine": "「ええ、貴方の罪はもう確定している。",
+                "translatedEnglishLine": "\"Yes, your guilt has already been confirmed."
+            },
+            {
+                "lineNumber": "85303",
+                "originalJapaneseLine": "　ただし、私達にはもう裁く力はないけれど」",
+                "translatedEnglishLine": "However, we no longer have the power to judge you.\""
+            },
+            {
+                "lineNumber": "85304",
+                "originalJapaneseLine": "「ええ、安心なさい。",
+                "translatedEnglishLine": "\"Yes, do not worry."
+            },
+            {
+                "lineNumber": "85305",
+                "originalJapaneseLine": "　私達はただ、聞きたいだけなのです」",
+                "translatedEnglishLine": "We only want to listen.\""
+            },
+            {
+                "lineNumber": "85306",
+                "originalJapaneseLine": "「貴方はいったい、何をしたのか。",
+                "translatedEnglishLine": "\"What exactly did you do?"
+            },
+            {
+                "lineNumber": "85307",
+                "originalJapaneseLine": "　その手段と、目的は」",
+                "translatedEnglishLine": "What were your methods and objectives?\""
+            },
+            {
+                "lineNumber": "85308",
+                "originalJapaneseLine": "「私達は……",
+                "translatedEnglishLine": "\"We..."
+            },
+            {
+                "lineNumber": "85309",
+                "originalJapaneseLine": "　それすら完璧には把握できていないのです」",
+                "translatedEnglishLine": "Don't even fully understand that.\""
+            },
+            {
+                "lineNumber": "85310",
+                "originalJapaneseLine": "「そうね。",
+                "translatedEnglishLine": "\"That's right."
+            },
+            {
+                "lineNumber": "85311",
+                "originalJapaneseLine": "　それを理解できているのはおそらく……",
+                "translatedEnglishLine": "The ones who probably do understand it..."
+            },
+            {
+                "lineNumber": "85312",
+                "originalJapaneseLine": "　ルドラサウム様と、そして……貴方だけ」",
+                "translatedEnglishLine": "are Rudrasaum-sama and... you alone.\""
+            },
+            {
+                "lineNumber": "85313",
+                "originalJapaneseLine": "他、三体の神は何も喋らない。",
+                "translatedEnglishLine": "The other three gods say nothing."
+            },
+            {
+                "lineNumber": "85314",
+                "originalJapaneseLine": "その姿は、神々に囲まれた矮小な人間を見て、",
+                "translatedEnglishLine": "Their expressions, looking at the tiny human surrounded by gods,"
+            },
+            {
+                "lineNumber": "85315",
+                "originalJapaneseLine": "ほくそ笑んでいるようにも、",
+                "translatedEnglishLine": "seemed to be either smirking,"
+            },
+            {
+                "lineNumber": "85316",
+                "originalJapaneseLine": "爆発しそうな怒りを抑えているようにも見えた。",
+                "translatedEnglishLine": "or suppressing anger ready to explode."
+            },
+            {
+                "lineNumber": "85317",
+                "originalJapaneseLine": "クルックーはそれを見て、臆すことなく、",
+                "translatedEnglishLine": "Krukku saw this and, without hesitation,"
+            },
+            {
+                "lineNumber": "85318",
+                "originalJapaneseLine": "かすかに微笑を浮かべた。",
+                "translatedEnglishLine": "barely smiled."
+            },
+            {
+                "lineNumber": "85319",
+                "originalJapaneseLine": "「簡単なことではありますが……",
+                "translatedEnglishLine": "\"It's not a simple matter..."
+            },
+            {
+                "lineNumber": "85320",
+                "originalJapaneseLine": "　ええ、少し長い話になります」",
+                "translatedEnglishLine": "Yes, it will be a somewhat long story.\""
+            },
+            {
+                "lineNumber": "85321",
+                "originalJapaneseLine": "「さて、どこから話しましょう……」",
+                "translatedEnglishLine": "\"Now then, where shall I start...\""
+            },
+            {
+                "lineNumber": "85322",
+                "originalJapaneseLine": "「そうですね……",
+                "translatedEnglishLine": "\"Let's see..."
+            },
+            {
+                "lineNumber": "85323",
+                "originalJapaneseLine": "　やはり始まりは、あの日」",
+                "translatedEnglishLine": "The beginning was, after all, that day."
+            },
+            {
+                "lineNumber": "85324",
+                "originalJapaneseLine": "「15年前まで遡りましょうか」",
+                "translatedEnglishLine": "Shall we go back 15 years?\""
+            },
+            {
+                "lineNumber": "85325",
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "............"
+            },
+            {
+                "lineNumber": "85326",
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": "85327",
+                "originalJapaneseLine": "「15年前のあの日――」",
+                "translatedEnglishLine": "\"That day 15 years ago――\""
+            },
+            {
+                "lineNumber": "85328",
+                "originalJapaneseLine": "「それは……",
+                "translatedEnglishLine": "\"It was..."
+            },
+            {
+                "lineNumber": "85329",
+                "originalJapaneseLine": "　人類対魔軍の戦争が終結を向かえ、",
+                "translatedEnglishLine": "The war between humanity and the demon army came to an end,"
+            },
+            {
+                "lineNumber": "85330",
+                "originalJapaneseLine": "　奴隷のシィルさんが死に……」",
+                "translatedEnglishLine": "Slave Seel-san died...\""
+            },
+            {
+                "lineNumber": "85331",
+                "originalJapaneseLine": "「ランスが魔王となった日のことです」",
+                "translatedEnglishLine": "It was the day Rance became the Demon King.\""
+            },
+            {
+                "lineNumber": "85332",
+                "originalJapaneseLine": "「当時の私にそれを止めることは出来ませんでした」",
+                "translatedEnglishLine": "At that time, I was unable to stop it.\""
+            }
+        ]
+    }
+}

@@ -1,0 +1,719 @@
+{
+    "id": "resp_0e2bda10f5d7aba00068ffe54e5c388194b5054767fe121893",
+    "object": "response",
+    "created_at": 1761600846,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0e2bda10f5d7aba00068ffe54fc0808194a7440d76d420d3fb",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「あ〜、そりゃいつものアレだね〜」\",\"translatedEnglishLine\":\"\\\"Ah, that's the usual thing, huh~\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「はあ……そうね……\",\"translatedEnglishLine\":\"\\\"Sigh... yeah...\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　どういうことだか、大体分かるのが嫌だわ」\",\"translatedEnglishLine\":\"\\\"I hate that I pretty much understand what it means.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「はあ……？」\",\"translatedEnglishLine\":\"\\\"Huh...?\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「あーっ！\",\"translatedEnglishLine\":\"\\\"Ahh!\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　あの野郎、また逃げやがったな！」\",\"translatedEnglishLine\":\"\\\"That bastard ran away again!\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「って、またかよ！？」\",\"translatedEnglishLine\":\"\\\"Again, really!?\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"兄弟姉妹達が騒いでいる頃――\",\"translatedEnglishLine\":\"While the brothers and sisters were making a fuss—\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"あなたはとても静かな夜を過ごしていた。\",\"translatedEnglishLine\":\"You were spending a very quiet night.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「いやー、今回も大冒険だったな、相棒。\",\"translatedEnglishLine\":\"\\\"Man, this time was another great adventure, partner.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　俺達って、もう最強の冒険者じゃね？」\",\"translatedEnglishLine\":\"\\\"Aren't we already the strongest adventurers?\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"楽しそうにのべつ幕なく喋り続ける長田君と、\",\"translatedEnglishLine\":\"With Nagata-kun happily and incessantly chatting,\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"あなたは夜の散歩をしていた。\",\"translatedEnglishLine\":\"you were taking a walk at night.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"と、そこに声が聞こえてくる。\",\"translatedEnglishLine\":\"Then, you hear a voice there.\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「楽しかったですね、ランス様」\",\"translatedEnglishLine\":\"\\\"That was fun, wasn't it, Lord Rance?\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「がははは、宝も女もゲットしたからな。\",\"translatedEnglishLine\":\"\\\"Gahaha, I got both treasure and women.\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　成果は上々って奴だ。\",\"translatedEnglishLine\":\"\\\"You could say the results were excellent.\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　やったぜ」\",\"translatedEnglishLine\":\"\\\"We did it!\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「ふふ、それにお子さん達とも\",\"translatedEnglishLine\":\"\\\"Hehe, and also we've gotten along with the kids.\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　仲良くなれましたしね」\",\"translatedEnglishLine\":\"\\\"We've become friends as well.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「ふんっ、そんなのどうでもいいわ」\",\"translatedEnglishLine\":\"\\\"Hmph, that doesn't matter to me.\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「あのぉ……ランス様……\",\"translatedEnglishLine\":\"\\\"Um... Lord Rance...\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　私も赤ちゃんが欲しいなー、なんて……」\",\"translatedEnglishLine\":\"\\\"I kind of want a baby too... you know...\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「あいたっ！\",\"translatedEnglishLine\":\"\\\"Ouch!\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　ひんひん、すみません……」\",\"translatedEnglishLine\":\"\\\"Sniff sniff, sorry...\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「んー？　なんか声が聞こえる？」\",\"translatedEnglishLine\":\"\\\"Hmm? Do you hear a voice?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「……あっちか？」\",\"translatedEnglishLine\":\"\\\"...Is it that way?\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「あら？　＜エール＞ちゃん？」\",\"translatedEnglishLine\":\"\\\"Oh? Is that you, Eru-chan?\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「お前、こんなとこで何してるんだ？」\",\"translatedEnglishLine\":\"\\\"What are you doing in a place like this?\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「むしろ、私達がここにいる方が\",\"translatedEnglishLine\":\"\\\"It's more strange that we're the ones here...\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　不思議なことのような……」\",\"translatedEnglishLine\":\"\\\"...Isn't it?\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「そうそう、\",\"translatedEnglishLine\":\"\\\"Yeah, yeah,\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　どうしたんすか、二人揃って」\",\"translatedEnglishLine\":\"\\\"What's up with you two together?\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「がははは！　俺様はまた旅立つのだ！」\",\"translatedEnglishLine\":\"\\\"Gahaha! I am setting off on another journey!\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「えーっ、また冒険に出るんすか！？」\",\"translatedEnglishLine\":\"\\\"Eh?! You're going on another adventure!?\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「ほんっと……\",\"translatedEnglishLine\":\"\\\"Really...\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　ひとつところに、\",\"translatedEnglishLine\":\"\\\"Can't seem to settle down in one place,\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　腰落ち着けられない人なんだな……」\",\"translatedEnglishLine\":\"\\\"You're the kind of person who can't settle down...\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「少しくらいはゆっくりしたって……」\",\"translatedEnglishLine\":\"\\\"You should relax a little bit...\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「うう、そうですよね……\",\"translatedEnglishLine\":\"\\\"Ugh, you're right...\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　私もたまにはゆっくりしたいです……」\",\"translatedEnglishLine\":\"\\\"I also want to relax once in a while...\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「そっすよねー。\",\"translatedEnglishLine\":\"\\\"That's right.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　これじゃシィルちゃんさんが可哀想っすよー」\",\"translatedEnglishLine\":\"\\\"Poor Shiel-chan in this situation.\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「うう、長田君、ありがとう……」\",\"translatedEnglishLine\":\"\\\"Ugh, thank you, Nagata-kun...\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「いやー！\",\"translatedEnglishLine\":\"\\\"No, no!\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　俺、こう見えてもレディには優しいんで！」\",\"translatedEnglishLine\":\"\\\"I may look like this, but I'm kind to ladies!\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「ええい、なーに仲良くなっとるか！」\",\"translatedEnglishLine\":\"\\\"Hey! What are you two getting friendly for!\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「ん？　＜エール＞、どした？」\",\"translatedEnglishLine\":\"\\\"Hm? Eru, what's wrong?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"ランスが不思議そうにあなたの顔を見ている。\",\"translatedEnglishLine\":\"Rance looks at your face curiously.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「別れの言葉ならサクッと言えよ。\",\"translatedEnglishLine\":\"\\\"If you have any parting words, just say them quickly.\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　リセット辺りに見つかると面倒だからな」\",\"translatedEnglishLine\":\"\\\"It'd be troublesome if Reset finds us.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"ランスは今にもあなたと別れようとしている。\",\"translatedEnglishLine\":\"Rance is about to part ways with you.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"もしかしたら、もう会うことはないかも知れない。\",\"translatedEnglishLine\":\"Maybe you might never see each other again.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"あなたは、別れ際、\",\"translatedEnglishLine\":\"At the moment of parting,\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"ランスに何か言いたいこと――\",\"translatedEnglishLine\":\"is there something you want to say to Rance—\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"最後に言うべきだと思うことはあるだろうか？\",\"translatedEnglishLine\":\"something you think you should say for the last time?\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "85813",
+                                "originalJapaneseLine": "「あ〜、そりゃいつものアレだね〜」",
+                                "translatedEnglishLine": "\"Ah, that's the usual thing, huh~\""
+                            },
+                            {
+                                "lineNumber": "85814",
+                                "originalJapaneseLine": "「はあ……そうね……",
+                                "translatedEnglishLine": "\"Sigh... yeah...\""
+                            },
+                            {
+                                "lineNumber": "85815",
+                                "originalJapaneseLine": "　どういうことだか、大体分かるのが嫌だわ」",
+                                "translatedEnglishLine": "\"I hate that I pretty much understand what it means.\""
+                            },
+                            {
+                                "lineNumber": "85816",
+                                "originalJapaneseLine": "「はあ……？」",
+                                "translatedEnglishLine": "\"Huh...?\""
+                            },
+                            {
+                                "lineNumber": "85817",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "85818",
+                                "originalJapaneseLine": "「あーっ！",
+                                "translatedEnglishLine": "\"Ahh!\""
+                            },
+                            {
+                                "lineNumber": "85819",
+                                "originalJapaneseLine": "　あの野郎、また逃げやがったな！」",
+                                "translatedEnglishLine": "\"That bastard ran away again!\""
+                            },
+                            {
+                                "lineNumber": "85820",
+                                "originalJapaneseLine": "「って、またかよ！？」",
+                                "translatedEnglishLine": "\"Again, really!?\""
+                            },
+                            {
+                                "lineNumber": "85821",
+                                "originalJapaneseLine": "兄弟姉妹達が騒いでいる頃――",
+                                "translatedEnglishLine": "While the brothers and sisters were making a fuss—"
+                            },
+                            {
+                                "lineNumber": "85822",
+                                "originalJapaneseLine": "「…………。」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "85823",
+                                "originalJapaneseLine": "あなたはとても静かな夜を過ごしていた。",
+                                "translatedEnglishLine": "You were spending a very quiet night."
+                            },
+                            {
+                                "lineNumber": "85824",
+                                "originalJapaneseLine": "「いやー、今回も大冒険だったな、相棒。",
+                                "translatedEnglishLine": "\"Man, this time was another great adventure, partner.\""
+                            },
+                            {
+                                "lineNumber": "85825",
+                                "originalJapaneseLine": "　俺達って、もう最強の冒険者じゃね？」",
+                                "translatedEnglishLine": "\"Aren't we already the strongest adventurers?\""
+                            },
+                            {
+                                "lineNumber": "85826",
+                                "originalJapaneseLine": "楽しそうにのべつ幕なく喋り続ける長田君と、",
+                                "translatedEnglishLine": "With Nagata-kun happily and incessantly chatting,"
+                            },
+                            {
+                                "lineNumber": "85827",
+                                "originalJapaneseLine": "あなたは夜の散歩をしていた。",
+                                "translatedEnglishLine": "you were taking a walk at night."
+                            },
+                            {
+                                "lineNumber": "85828",
+                                "originalJapaneseLine": "と、そこに声が聞こえてくる。",
+                                "translatedEnglishLine": "Then, you hear a voice there."
+                            },
+                            {
+                                "lineNumber": "85829",
+                                "originalJapaneseLine": "「楽しかったですね、ランス様」",
+                                "translatedEnglishLine": "\"That was fun, wasn't it, Lord Rance?\""
+                            },
+                            {
+                                "lineNumber": "85830",
+                                "originalJapaneseLine": "「がははは、宝も女もゲットしたからな。",
+                                "translatedEnglishLine": "\"Gahaha, I got both treasure and women.\""
+                            },
+                            {
+                                "lineNumber": "85831",
+                                "originalJapaneseLine": "　成果は上々って奴だ。",
+                                "translatedEnglishLine": "\"You could say the results were excellent.\""
+                            },
+                            {
+                                "lineNumber": "85832",
+                                "originalJapaneseLine": "　やったぜ」",
+                                "translatedEnglishLine": "\"We did it!\""
+                            },
+                            {
+                                "lineNumber": "85833",
+                                "originalJapaneseLine": "「ふふ、それにお子さん達とも",
+                                "translatedEnglishLine": "\"Hehe, and also we've gotten along with the kids.\""
+                            },
+                            {
+                                "lineNumber": "85834",
+                                "originalJapaneseLine": "　仲良くなれましたしね」",
+                                "translatedEnglishLine": "\"We've become friends as well.\""
+                            },
+                            {
+                                "lineNumber": "85835",
+                                "originalJapaneseLine": "「ふんっ、そんなのどうでもいいわ」",
+                                "translatedEnglishLine": "\"Hmph, that doesn't matter to me.\""
+                            },
+                            {
+                                "lineNumber": "85836",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "85837",
+                                "originalJapaneseLine": "「あのぉ……ランス様……",
+                                "translatedEnglishLine": "\"Um... Lord Rance...\""
+                            },
+                            {
+                                "lineNumber": "85838",
+                                "originalJapaneseLine": "　私も赤ちゃんが欲しいなー、なんて……」",
+                                "translatedEnglishLine": "\"I kind of want a baby too... you know...\""
+                            },
+                            {
+                                "lineNumber": "85839",
+                                "originalJapaneseLine": "「あいたっ！",
+                                "translatedEnglishLine": "\"Ouch!\""
+                            },
+                            {
+                                "lineNumber": "85840",
+                                "originalJapaneseLine": "　ひんひん、すみません……」",
+                                "translatedEnglishLine": "\"Sniff sniff, sorry...\""
+                            },
+                            {
+                                "lineNumber": "85841",
+                                "originalJapaneseLine": "「んー？　なんか声が聞こえる？」",
+                                "translatedEnglishLine": "\"Hmm? Do you hear a voice?\""
+                            },
+                            {
+                                "lineNumber": "85842",
+                                "originalJapaneseLine": "「……あっちか？」",
+                                "translatedEnglishLine": "\"...Is it that way?\""
+                            },
+                            {
+                                "lineNumber": "85843",
+                                "originalJapaneseLine": "「あら？　＜エール＞ちゃん？」",
+                                "translatedEnglishLine": "\"Oh? Is that you, Eru-chan?\""
+                            },
+                            {
+                                "lineNumber": "85844",
+                                "originalJapaneseLine": "「お前、こんなとこで何してるんだ？」",
+                                "translatedEnglishLine": "\"What are you doing in a place like this?\""
+                            },
+                            {
+                                "lineNumber": "85845",
+                                "originalJapaneseLine": "「むしろ、私達がここにいる方が",
+                                "translatedEnglishLine": "\"It's more strange that we're the ones here...\""
+                            },
+                            {
+                                "lineNumber": "85846",
+                                "originalJapaneseLine": "　不思議なことのような……」",
+                                "translatedEnglishLine": "\"...Isn't it?\""
+                            },
+                            {
+                                "lineNumber": "85847",
+                                "originalJapaneseLine": "「そうそう、",
+                                "translatedEnglishLine": "\"Yeah, yeah,\""
+                            },
+                            {
+                                "lineNumber": "85848",
+                                "originalJapaneseLine": "　どうしたんすか、二人揃って」",
+                                "translatedEnglishLine": "\"What's up with you two together?\""
+                            },
+                            {
+                                "lineNumber": "85849",
+                                "originalJapaneseLine": "「がははは！　俺様はまた旅立つのだ！」",
+                                "translatedEnglishLine": "\"Gahaha! I am setting off on another journey!\""
+                            },
+                            {
+                                "lineNumber": "85850",
+                                "originalJapaneseLine": "「えーっ、また冒険に出るんすか！？」",
+                                "translatedEnglishLine": "\"Eh?! You're going on another adventure!?\""
+                            },
+                            {
+                                "lineNumber": "85851",
+                                "originalJapaneseLine": "「ほんっと……",
+                                "translatedEnglishLine": "\"Really...\""
+                            },
+                            {
+                                "lineNumber": "85852",
+                                "originalJapaneseLine": "　ひとつところに、",
+                                "translatedEnglishLine": "\"Can't seem to settle down in one place,\""
+                            },
+                            {
+                                "lineNumber": "85853",
+                                "originalJapaneseLine": "　腰落ち着けられない人なんだな……」",
+                                "translatedEnglishLine": "\"You're the kind of person who can't settle down...\""
+                            },
+                            {
+                                "lineNumber": "85854",
+                                "originalJapaneseLine": "「少しくらいはゆっくりしたって……」",
+                                "translatedEnglishLine": "\"You should relax a little bit...\""
+                            },
+                            {
+                                "lineNumber": "85855",
+                                "originalJapaneseLine": "「うう、そうですよね……",
+                                "translatedEnglishLine": "\"Ugh, you're right...\""
+                            },
+                            {
+                                "lineNumber": "85856",
+                                "originalJapaneseLine": "　私もたまにはゆっくりしたいです……」",
+                                "translatedEnglishLine": "\"I also want to relax once in a while...\""
+                            },
+                            {
+                                "lineNumber": "85857",
+                                "originalJapaneseLine": "「そっすよねー。",
+                                "translatedEnglishLine": "\"That's right.\""
+                            },
+                            {
+                                "lineNumber": "85858",
+                                "originalJapaneseLine": "　これじゃシィルちゃんさんが可哀想っすよー」",
+                                "translatedEnglishLine": "\"Poor Shiel-chan in this situation.\""
+                            },
+                            {
+                                "lineNumber": "85859",
+                                "originalJapaneseLine": "「うう、長田君、ありがとう……」",
+                                "translatedEnglishLine": "\"Ugh, thank you, Nagata-kun...\""
+                            },
+                            {
+                                "lineNumber": "85860",
+                                "originalJapaneseLine": "「いやー！",
+                                "translatedEnglishLine": "\"No, no!\""
+                            },
+                            {
+                                "lineNumber": "85861",
+                                "originalJapaneseLine": "　俺、こう見えてもレディには優しいんで！」",
+                                "translatedEnglishLine": "\"I may look like this, but I'm kind to ladies!\""
+                            },
+                            {
+                                "lineNumber": "85862",
+                                "originalJapaneseLine": "「ええい、なーに仲良くなっとるか！」",
+                                "translatedEnglishLine": "\"Hey! What are you two getting friendly for!\""
+                            },
+                            {
+                                "lineNumber": "85863",
+                                "originalJapaneseLine": "「…………。」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": "85864",
+                                "originalJapaneseLine": "「ん？　＜エール＞、どした？」",
+                                "translatedEnglishLine": "\"Hm? Eru, what's wrong?\""
+                            },
+                            {
+                                "lineNumber": "85865",
+                                "originalJapaneseLine": "ランスが不思議そうにあなたの顔を見ている。",
+                                "translatedEnglishLine": "Rance looks at your face curiously."
+                            },
+                            {
+                                "lineNumber": "85866",
+                                "originalJapaneseLine": "「別れの言葉ならサクッと言えよ。",
+                                "translatedEnglishLine": "\"If you have any parting words, just say them quickly.\""
+                            },
+                            {
+                                "lineNumber": "85867",
+                                "originalJapaneseLine": "　リセット辺りに見つかると面倒だからな」",
+                                "translatedEnglishLine": "\"It'd be troublesome if Reset finds us.\""
+                            },
+                            {
+                                "lineNumber": "85868",
+                                "originalJapaneseLine": "ランスは今にもあなたと別れようとしている。",
+                                "translatedEnglishLine": "Rance is about to part ways with you."
+                            },
+                            {
+                                "lineNumber": "85869",
+                                "originalJapaneseLine": "もしかしたら、もう会うことはないかも知れない。",
+                                "translatedEnglishLine": "Maybe you might never see each other again."
+                            },
+                            {
+                                "lineNumber": "85870",
+                                "originalJapaneseLine": "あなたは、別れ際、",
+                                "translatedEnglishLine": "At the moment of parting,"
+                            },
+                            {
+                                "lineNumber": "85871",
+                                "originalJapaneseLine": "ランスに何か言いたいこと――",
+                                "translatedEnglishLine": "is there something you want to say to Rance—"
+                            },
+                            {
+                                "lineNumber": "85872",
+                                "originalJapaneseLine": "最後に言うべきだと思うことはあるだろうか？",
+                                "translatedEnglishLine": "something you think you should say for the last time?"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1800,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2119,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3919
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「あ〜、そりゃいつものアレだね〜」\",\"translatedEnglishLine\":\"\\\"Ah, that's the usual thing, huh~\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「はあ……そうね……\",\"translatedEnglishLine\":\"\\\"Sigh... yeah...\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　どういうことだか、大体分かるのが嫌だわ」\",\"translatedEnglishLine\":\"\\\"I hate that I pretty much understand what it means.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「はあ……？」\",\"translatedEnglishLine\":\"\\\"Huh...?\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「あーっ！\",\"translatedEnglishLine\":\"\\\"Ahh!\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　あの野郎、また逃げやがったな！」\",\"translatedEnglishLine\":\"\\\"That bastard ran away again!\\\"\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"「って、またかよ！？」\",\"translatedEnglishLine\":\"\\\"Again, really!?\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"兄弟姉妹達が騒いでいる頃――\",\"translatedEnglishLine\":\"While the brothers and sisters were making a fuss—\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"あなたはとても静かな夜を過ごしていた。\",\"translatedEnglishLine\":\"You were spending a very quiet night.\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「いやー、今回も大冒険だったな、相棒。\",\"translatedEnglishLine\":\"\\\"Man, this time was another great adventure, partner.\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　俺達って、もう最強の冒険者じゃね？」\",\"translatedEnglishLine\":\"\\\"Aren't we already the strongest adventurers?\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"楽しそうにのべつ幕なく喋り続ける長田君と、\",\"translatedEnglishLine\":\"With Nagata-kun happily and incessantly chatting,\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"あなたは夜の散歩をしていた。\",\"translatedEnglishLine\":\"you were taking a walk at night.\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"と、そこに声が聞こえてくる。\",\"translatedEnglishLine\":\"Then, you hear a voice there.\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「楽しかったですね、ランス様」\",\"translatedEnglishLine\":\"\\\"That was fun, wasn't it, Lord Rance?\\\"\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"「がははは、宝も女もゲットしたからな。\",\"translatedEnglishLine\":\"\\\"Gahaha, I got both treasure and women.\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"　成果は上々って奴だ。\",\"translatedEnglishLine\":\"\\\"You could say the results were excellent.\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　やったぜ」\",\"translatedEnglishLine\":\"\\\"We did it!\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「ふふ、それにお子さん達とも\",\"translatedEnglishLine\":\"\\\"Hehe, and also we've gotten along with the kids.\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　仲良くなれましたしね」\",\"translatedEnglishLine\":\"\\\"We've become friends as well.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「ふんっ、そんなのどうでもいいわ」\",\"translatedEnglishLine\":\"\\\"Hmph, that doesn't matter to me.\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「あのぉ……ランス様……\",\"translatedEnglishLine\":\"\\\"Um... Lord Rance...\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　私も赤ちゃんが欲しいなー、なんて……」\",\"translatedEnglishLine\":\"\\\"I kind of want a baby too... you know...\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「あいたっ！\",\"translatedEnglishLine\":\"\\\"Ouch!\\\"\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　ひんひん、すみません……」\",\"translatedEnglishLine\":\"\\\"Sniff sniff, sorry...\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「んー？　なんか声が聞こえる？」\",\"translatedEnglishLine\":\"\\\"Hmm? Do you hear a voice?\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「……あっちか？」\",\"translatedEnglishLine\":\"\\\"...Is it that way?\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「あら？　＜エール＞ちゃん？」\",\"translatedEnglishLine\":\"\\\"Oh? Is that you, Eru-chan?\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「お前、こんなとこで何してるんだ？」\",\"translatedEnglishLine\":\"\\\"What are you doing in a place like this?\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"「むしろ、私達がここにいる方が\",\"translatedEnglishLine\":\"\\\"It's more strange that we're the ones here...\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"　不思議なことのような……」\",\"translatedEnglishLine\":\"\\\"...Isn't it?\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「そうそう、\",\"translatedEnglishLine\":\"\\\"Yeah, yeah,\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　どうしたんすか、二人揃って」\",\"translatedEnglishLine\":\"\\\"What's up with you two together?\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「がははは！　俺様はまた旅立つのだ！」\",\"translatedEnglishLine\":\"\\\"Gahaha! I am setting off on another journey!\\\"\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"「えーっ、また冒険に出るんすか！？」\",\"translatedEnglishLine\":\"\\\"Eh?! You're going on another adventure!?\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「ほんっと……\",\"translatedEnglishLine\":\"\\\"Really...\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"　ひとつところに、\",\"translatedEnglishLine\":\"\\\"Can't seem to settle down in one place,\\\"\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　腰落ち着けられない人なんだな……」\",\"translatedEnglishLine\":\"\\\"You're the kind of person who can't settle down...\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「少しくらいはゆっくりしたって……」\",\"translatedEnglishLine\":\"\\\"You should relax a little bit...\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「うう、そうですよね……\",\"translatedEnglishLine\":\"\\\"Ugh, you're right...\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"　私もたまにはゆっくりしたいです……」\",\"translatedEnglishLine\":\"\\\"I also want to relax once in a while...\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「そっすよねー。\",\"translatedEnglishLine\":\"\\\"That's right.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"　これじゃシィルちゃんさんが可哀想っすよー」\",\"translatedEnglishLine\":\"\\\"Poor Shiel-chan in this situation.\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「うう、長田君、ありがとう……」\",\"translatedEnglishLine\":\"\\\"Ugh, thank you, Nagata-kun...\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「いやー！\",\"translatedEnglishLine\":\"\\\"No, no!\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　俺、こう見えてもレディには優しいんで！」\",\"translatedEnglishLine\":\"\\\"I may look like this, but I'm kind to ladies!\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「ええい、なーに仲良くなっとるか！」\",\"translatedEnglishLine\":\"\\\"Hey! What are you two getting friendly for!\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「ん？　＜エール＞、どした？」\",\"translatedEnglishLine\":\"\\\"Hm? Eru, what's wrong?\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"ランスが不思議そうにあなたの顔を見ている。\",\"translatedEnglishLine\":\"Rance looks at your face curiously.\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「別れの言葉ならサクッと言えよ。\",\"translatedEnglishLine\":\"\\\"If you have any parting words, just say them quickly.\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　リセット辺りに見つかると面倒だからな」\",\"translatedEnglishLine\":\"\\\"It'd be troublesome if Reset finds us.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"ランスは今にもあなたと別れようとしている。\",\"translatedEnglishLine\":\"Rance is about to part ways with you.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"もしかしたら、もう会うことはないかも知れない。\",\"translatedEnglishLine\":\"Maybe you might never see each other again.\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"あなたは、別れ際、\",\"translatedEnglishLine\":\"At the moment of parting,\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"ランスに何か言いたいこと――\",\"translatedEnglishLine\":\"is there something you want to say to Rance—\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"最後に言うべきだと思うことはあるだろうか？\",\"translatedEnglishLine\":\"something you think you should say for the last time?\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "85813",
+                "originalJapaneseLine": "「あ〜、そりゃいつものアレだね〜」",
+                "translatedEnglishLine": "\"Ah, that's the usual thing, huh~\""
+            },
+            {
+                "lineNumber": "85814",
+                "originalJapaneseLine": "「はあ……そうね……",
+                "translatedEnglishLine": "\"Sigh... yeah...\""
+            },
+            {
+                "lineNumber": "85815",
+                "originalJapaneseLine": "　どういうことだか、大体分かるのが嫌だわ」",
+                "translatedEnglishLine": "\"I hate that I pretty much understand what it means.\""
+            },
+            {
+                "lineNumber": "85816",
+                "originalJapaneseLine": "「はあ……？」",
+                "translatedEnglishLine": "\"Huh...?\""
+            },
+            {
+                "lineNumber": "85817",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "85818",
+                "originalJapaneseLine": "「あーっ！",
+                "translatedEnglishLine": "\"Ahh!\""
+            },
+            {
+                "lineNumber": "85819",
+                "originalJapaneseLine": "　あの野郎、また逃げやがったな！」",
+                "translatedEnglishLine": "\"That bastard ran away again!\""
+            },
+            {
+                "lineNumber": "85820",
+                "originalJapaneseLine": "「って、またかよ！？」",
+                "translatedEnglishLine": "\"Again, really!?\""
+            },
+            {
+                "lineNumber": "85821",
+                "originalJapaneseLine": "兄弟姉妹達が騒いでいる頃――",
+                "translatedEnglishLine": "While the brothers and sisters were making a fuss—"
+            },
+            {
+                "lineNumber": "85822",
+                "originalJapaneseLine": "「…………。」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "85823",
+                "originalJapaneseLine": "あなたはとても静かな夜を過ごしていた。",
+                "translatedEnglishLine": "You were spending a very quiet night."
+            },
+            {
+                "lineNumber": "85824",
+                "originalJapaneseLine": "「いやー、今回も大冒険だったな、相棒。",
+                "translatedEnglishLine": "\"Man, this time was another great adventure, partner.\""
+            },
+            {
+                "lineNumber": "85825",
+                "originalJapaneseLine": "　俺達って、もう最強の冒険者じゃね？」",
+                "translatedEnglishLine": "\"Aren't we already the strongest adventurers?\""
+            },
+            {
+                "lineNumber": "85826",
+                "originalJapaneseLine": "楽しそうにのべつ幕なく喋り続ける長田君と、",
+                "translatedEnglishLine": "With Nagata-kun happily and incessantly chatting,"
+            },
+            {
+                "lineNumber": "85827",
+                "originalJapaneseLine": "あなたは夜の散歩をしていた。",
+                "translatedEnglishLine": "you were taking a walk at night."
+            },
+            {
+                "lineNumber": "85828",
+                "originalJapaneseLine": "と、そこに声が聞こえてくる。",
+                "translatedEnglishLine": "Then, you hear a voice there."
+            },
+            {
+                "lineNumber": "85829",
+                "originalJapaneseLine": "「楽しかったですね、ランス様」",
+                "translatedEnglishLine": "\"That was fun, wasn't it, Lord Rance?\""
+            },
+            {
+                "lineNumber": "85830",
+                "originalJapaneseLine": "「がははは、宝も女もゲットしたからな。",
+                "translatedEnglishLine": "\"Gahaha, I got both treasure and women.\""
+            },
+            {
+                "lineNumber": "85831",
+                "originalJapaneseLine": "　成果は上々って奴だ。",
+                "translatedEnglishLine": "\"You could say the results were excellent.\""
+            },
+            {
+                "lineNumber": "85832",
+                "originalJapaneseLine": "　やったぜ」",
+                "translatedEnglishLine": "\"We did it!\""
+            },
+            {
+                "lineNumber": "85833",
+                "originalJapaneseLine": "「ふふ、それにお子さん達とも",
+                "translatedEnglishLine": "\"Hehe, and also we've gotten along with the kids.\""
+            },
+            {
+                "lineNumber": "85834",
+                "originalJapaneseLine": "　仲良くなれましたしね」",
+                "translatedEnglishLine": "\"We've become friends as well.\""
+            },
+            {
+                "lineNumber": "85835",
+                "originalJapaneseLine": "「ふんっ、そんなのどうでもいいわ」",
+                "translatedEnglishLine": "\"Hmph, that doesn't matter to me.\""
+            },
+            {
+                "lineNumber": "85836",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "85837",
+                "originalJapaneseLine": "「あのぉ……ランス様……",
+                "translatedEnglishLine": "\"Um... Lord Rance...\""
+            },
+            {
+                "lineNumber": "85838",
+                "originalJapaneseLine": "　私も赤ちゃんが欲しいなー、なんて……」",
+                "translatedEnglishLine": "\"I kind of want a baby too... you know...\""
+            },
+            {
+                "lineNumber": "85839",
+                "originalJapaneseLine": "「あいたっ！",
+                "translatedEnglishLine": "\"Ouch!\""
+            },
+            {
+                "lineNumber": "85840",
+                "originalJapaneseLine": "　ひんひん、すみません……」",
+                "translatedEnglishLine": "\"Sniff sniff, sorry...\""
+            },
+            {
+                "lineNumber": "85841",
+                "originalJapaneseLine": "「んー？　なんか声が聞こえる？」",
+                "translatedEnglishLine": "\"Hmm? Do you hear a voice?\""
+            },
+            {
+                "lineNumber": "85842",
+                "originalJapaneseLine": "「……あっちか？」",
+                "translatedEnglishLine": "\"...Is it that way?\""
+            },
+            {
+                "lineNumber": "85843",
+                "originalJapaneseLine": "「あら？　＜エール＞ちゃん？」",
+                "translatedEnglishLine": "\"Oh? Is that you, Eru-chan?\""
+            },
+            {
+                "lineNumber": "85844",
+                "originalJapaneseLine": "「お前、こんなとこで何してるんだ？」",
+                "translatedEnglishLine": "\"What are you doing in a place like this?\""
+            },
+            {
+                "lineNumber": "85845",
+                "originalJapaneseLine": "「むしろ、私達がここにいる方が",
+                "translatedEnglishLine": "\"It's more strange that we're the ones here...\""
+            },
+            {
+                "lineNumber": "85846",
+                "originalJapaneseLine": "　不思議なことのような……」",
+                "translatedEnglishLine": "\"...Isn't it?\""
+            },
+            {
+                "lineNumber": "85847",
+                "originalJapaneseLine": "「そうそう、",
+                "translatedEnglishLine": "\"Yeah, yeah,\""
+            },
+            {
+                "lineNumber": "85848",
+                "originalJapaneseLine": "　どうしたんすか、二人揃って」",
+                "translatedEnglishLine": "\"What's up with you two together?\""
+            },
+            {
+                "lineNumber": "85849",
+                "originalJapaneseLine": "「がははは！　俺様はまた旅立つのだ！」",
+                "translatedEnglishLine": "\"Gahaha! I am setting off on another journey!\""
+            },
+            {
+                "lineNumber": "85850",
+                "originalJapaneseLine": "「えーっ、また冒険に出るんすか！？」",
+                "translatedEnglishLine": "\"Eh?! You're going on another adventure!?\""
+            },
+            {
+                "lineNumber": "85851",
+                "originalJapaneseLine": "「ほんっと……",
+                "translatedEnglishLine": "\"Really...\""
+            },
+            {
+                "lineNumber": "85852",
+                "originalJapaneseLine": "　ひとつところに、",
+                "translatedEnglishLine": "\"Can't seem to settle down in one place,\""
+            },
+            {
+                "lineNumber": "85853",
+                "originalJapaneseLine": "　腰落ち着けられない人なんだな……」",
+                "translatedEnglishLine": "\"You're the kind of person who can't settle down...\""
+            },
+            {
+                "lineNumber": "85854",
+                "originalJapaneseLine": "「少しくらいはゆっくりしたって……」",
+                "translatedEnglishLine": "\"You should relax a little bit...\""
+            },
+            {
+                "lineNumber": "85855",
+                "originalJapaneseLine": "「うう、そうですよね……",
+                "translatedEnglishLine": "\"Ugh, you're right...\""
+            },
+            {
+                "lineNumber": "85856",
+                "originalJapaneseLine": "　私もたまにはゆっくりしたいです……」",
+                "translatedEnglishLine": "\"I also want to relax once in a while...\""
+            },
+            {
+                "lineNumber": "85857",
+                "originalJapaneseLine": "「そっすよねー。",
+                "translatedEnglishLine": "\"That's right.\""
+            },
+            {
+                "lineNumber": "85858",
+                "originalJapaneseLine": "　これじゃシィルちゃんさんが可哀想っすよー」",
+                "translatedEnglishLine": "\"Poor Shiel-chan in this situation.\""
+            },
+            {
+                "lineNumber": "85859",
+                "originalJapaneseLine": "「うう、長田君、ありがとう……」",
+                "translatedEnglishLine": "\"Ugh, thank you, Nagata-kun...\""
+            },
+            {
+                "lineNumber": "85860",
+                "originalJapaneseLine": "「いやー！",
+                "translatedEnglishLine": "\"No, no!\""
+            },
+            {
+                "lineNumber": "85861",
+                "originalJapaneseLine": "　俺、こう見えてもレディには優しいんで！」",
+                "translatedEnglishLine": "\"I may look like this, but I'm kind to ladies!\""
+            },
+            {
+                "lineNumber": "85862",
+                "originalJapaneseLine": "「ええい、なーに仲良くなっとるか！」",
+                "translatedEnglishLine": "\"Hey! What are you two getting friendly for!\""
+            },
+            {
+                "lineNumber": "85863",
+                "originalJapaneseLine": "「…………。」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": "85864",
+                "originalJapaneseLine": "「ん？　＜エール＞、どした？」",
+                "translatedEnglishLine": "\"Hm? Eru, what's wrong?\""
+            },
+            {
+                "lineNumber": "85865",
+                "originalJapaneseLine": "ランスが不思議そうにあなたの顔を見ている。",
+                "translatedEnglishLine": "Rance looks at your face curiously."
+            },
+            {
+                "lineNumber": "85866",
+                "originalJapaneseLine": "「別れの言葉ならサクッと言えよ。",
+                "translatedEnglishLine": "\"If you have any parting words, just say them quickly.\""
+            },
+            {
+                "lineNumber": "85867",
+                "originalJapaneseLine": "　リセット辺りに見つかると面倒だからな」",
+                "translatedEnglishLine": "\"It'd be troublesome if Reset finds us.\""
+            },
+            {
+                "lineNumber": "85868",
+                "originalJapaneseLine": "ランスは今にもあなたと別れようとしている。",
+                "translatedEnglishLine": "Rance is about to part ways with you."
+            },
+            {
+                "lineNumber": "85869",
+                "originalJapaneseLine": "もしかしたら、もう会うことはないかも知れない。",
+                "translatedEnglishLine": "Maybe you might never see each other again."
+            },
+            {
+                "lineNumber": "85870",
+                "originalJapaneseLine": "あなたは、別れ際、",
+                "translatedEnglishLine": "At the moment of parting,"
+            },
+            {
+                "lineNumber": "85871",
+                "originalJapaneseLine": "ランスに何か言いたいこと――",
+                "translatedEnglishLine": "is there something you want to say to Rance—"
+            },
+            {
+                "lineNumber": "85872",
+                "originalJapaneseLine": "最後に言うべきだと思うことはあるだろうか？",
+                "translatedEnglishLine": "something you think you should say for the last time?"
+            }
+        ]
+    }
+}

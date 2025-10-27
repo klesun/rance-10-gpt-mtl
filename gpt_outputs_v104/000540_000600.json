@@ -1,0 +1,719 @@
+{
+    "id": "resp_03cb422e5a69ed270068ffe53224c88194a3d52bf2fe55aa48",
+    "object": "response",
+    "created_at": 1761600818,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_03cb422e5a69ed270068ffe532cc84819497179b80f4ce2832",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「そんなわけあるかー！」\",\"translatedEnglishLine\":\"\\\"There's no way that's true!\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「あぁん！」\",\"translatedEnglishLine\":\"\\\"Aahn!\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"長田君がランスに割られる。\",\"translatedEnglishLine\":\"Nagata-kun gets broken by Rance.\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「ら、ランス様！\",\"translatedEnglishLine\":\"\\\"R-Rance-sama!\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　長田君を割っちゃ駄目ですよ！」\",\"translatedEnglishLine\":\"You mustn't break Nagata-kun!\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「ふん、ハニワは割るものだ」\",\"translatedEnglishLine\":\"\\\"Hmph, haniwa are meant to be broken.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「いてて……ひどい目に……\",\"translatedEnglishLine\":\"\\\"Ouch... that was terrible...\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　てか、二人ともこんなとこで何を？\",\"translatedEnglishLine\":\"By the way, what are you two doing here?\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　リセットさんが探してたっすよ？」\",\"translatedEnglishLine\":\"Reset-san was looking for you, you know?\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「ん？　気になるか？　気になるか？\",\"translatedEnglishLine\":\"\\\"Hmm? Are you curious? Are you curious?\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　俺様がどこに行くか聞きたいのか？」\",\"translatedEnglishLine\":\"Do you want to know where I'm going?\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「がははは、俺様は今から、\",\"translatedEnglishLine\":\"\\\"Gahaha, from now on I am going to a very good place.\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　とーってもいいとこに行くのだ」\",\"translatedEnglishLine\":\"A really, really great place.\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「その名もネオ桃源郷！\",\"translatedEnglishLine\":\"\\\"Its name is Neo Paradise!\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　絶世の美女ばかりがいるという、\",\"translatedEnglishLine\":\"It is said to be full of peerless beauties,\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　全ての男性のパラダイスという聖地！」\",\"translatedEnglishLine\":\"a holy land that is a paradise for all men!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「マジすか！？\",\"translatedEnglishLine\":\"\\\"Seriously!?\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　今、うちらもそこ目指してたんすよ！」\",\"translatedEnglishLine\":\"We were also heading there just now!\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ほーう？」\",\"translatedEnglishLine\":\"\\\"Oh?\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「ふむ……ふむふむ……」\",\"translatedEnglishLine\":\"\\\"Hmm... hmm hmm...\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「よし、面白い！\",\"translatedEnglishLine\":\"\\\"Alright, interesting!\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　ならばお前らもついて来い！」\",\"translatedEnglishLine\":\"Then you guys come along!\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「がははは！　お父様のすごさを見せてくれるわ！」\",\"translatedEnglishLine\":\"\\\"Gahaha! I'll show you the greatness of your father!\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「シィーーール！　地図！\",\"translatedEnglishLine\":\"\\\"Seeeal! A map!\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　まずは拠点となる街を決める。\",\"translatedEnglishLine\":\"First, we decide on a base city.\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　一番近い街はどこだ？」\",\"translatedEnglishLine\":\"What's the nearest city?\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「えーと、プリンスタイルの街ですね。\",\"translatedEnglishLine\":\"\\\"Um, it's the city of Prinstyle.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　東に三十分ほどで着きますよ」\",\"translatedEnglishLine\":\"It takes about thirty minutes east to get there.\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「よし……」\",\"translatedEnglishLine\":\"\\\"Alright...\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「では、その街まで競走だー！\",\"translatedEnglishLine\":\"\\\"Then, a race to that city!\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　がはははははははははは！」\",\"translatedEnglishLine\":\"Gahahahahahahahaha!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「あ、あーーーっ！\",\"translatedEnglishLine\":\"\\\"A-aaah!\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　ずっこい！」\",\"translatedEnglishLine\":\"That's cheating!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「わわわわ、ランス様、待って下さいー！」\",\"translatedEnglishLine\":\"\\\"W-wait, Rance-sama, please wait!\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「がーっはっはっはっ！\",\"translatedEnglishLine\":\"\\\"Gahaha!\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　ビリの奴は罰ゲームだぞー！」\",\"translatedEnglishLine\":\"The last one gets a penalty game!\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「＜エール＞！　やべぇ、置いてかれる！\",\"translatedEnglishLine\":\"\\\"<Cheer>! Oh no, I'm getting left behind!\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　急ごうぜ！」\",\"translatedEnglishLine\":\"Let's hurry up!\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"桃源郷を探して東奔西走。\",\"translatedEnglishLine\":\"Rushing about east and west searching for paradise.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"旅の途中では仲間を増やし、\",\"translatedEnglishLine\":\"Along the journey, they gained companions,\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"東ヘルマンに襲撃を受け、\",\"translatedEnglishLine\":\"were attacked by East Helman,\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"ランスが幾多のトラブルを呼び込む。\",\"translatedEnglishLine\":\"and Rance caused numerous troubles.\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"そして……\",\"translatedEnglishLine\":\"And then...\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"気づけば東ヘルマンを制圧していた。\",\"translatedEnglishLine\":\"Before they knew it, they had taken control of East Helman.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「あはは……」\",\"translatedEnglishLine\":\"\\\"Ahaha...\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「あの馬鹿親父！\",\"translatedEnglishLine\":\"\\\"That foolish old man!\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　騒動ばっか起こすな！」\",\"translatedEnglishLine\":\"Stop causing all these troubles!\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「なんというか……\",\"translatedEnglishLine\":\"\\\"How should I put it...\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　お父さん、トラブル体質だから……」\",\"translatedEnglishLine\":\"Dad is naturally prone to trouble...\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「まさか、僕達まで\",\"translatedEnglishLine\":\"\\\"I never thought that even we would be drawn into it,\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　駆り出されることになるとは、ね」\",\"translatedEnglishLine\":\"you know.\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「……やっぱ、あいつ今の内に殺すか」\",\"translatedEnglishLine\":\"\\\"...Maybe I should kill him while I still can.\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「えー、でも楽しかったから、\",\"translatedEnglishLine\":\"\\\"Eh, but it was fun, so\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　ボクはいつでも呼んでくれていいよー」\",\"translatedEnglishLine\":\"you can call me anytime.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「ねー？\",\"translatedEnglishLine\":\"\\\"Right?\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　またみんなで遊べてオイラも楽しかったよ」\",\"translatedEnglishLine\":\"I had fun playing with everyone again too.\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「あたしは二度とごめんよ」\",\"translatedEnglishLine\":\"\\\"I'm sorry, but I don't want to do it again.\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「あ、あれ？\",\"translatedEnglishLine\":\"\\\"Ah, huh?\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　そういえば、パパの姿が見えないけど……」\",\"translatedEnglishLine\":\"Come to think of it, I don't see Papa anywhere...\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "85753",
+                                "originalJapaneseLine": "「そんなわけあるかー！」",
+                                "translatedEnglishLine": "\"There's no way that's true!\""
+                            },
+                            {
+                                "lineNumber": "85754",
+                                "originalJapaneseLine": "「あぁん！」",
+                                "translatedEnglishLine": "\"Aahn!\""
+                            },
+                            {
+                                "lineNumber": "85755",
+                                "originalJapaneseLine": "長田君がランスに割られる。",
+                                "translatedEnglishLine": "Nagata-kun gets broken by Rance."
+                            },
+                            {
+                                "lineNumber": "85756",
+                                "originalJapaneseLine": "「ら、ランス様！",
+                                "translatedEnglishLine": "\"R-Rance-sama!"
+                            },
+                            {
+                                "lineNumber": "85757",
+                                "originalJapaneseLine": "　長田君を割っちゃ駄目ですよ！」",
+                                "translatedEnglishLine": "You mustn't break Nagata-kun!\""
+                            },
+                            {
+                                "lineNumber": "85758",
+                                "originalJapaneseLine": "「ふん、ハニワは割るものだ」",
+                                "translatedEnglishLine": "\"Hmph, haniwa are meant to be broken.\""
+                            },
+                            {
+                                "lineNumber": "85759",
+                                "originalJapaneseLine": "「いてて……ひどい目に……",
+                                "translatedEnglishLine": "\"Ouch... that was terrible..."
+                            },
+                            {
+                                "lineNumber": "85760",
+                                "originalJapaneseLine": "　てか、二人ともこんなとこで何を？",
+                                "translatedEnglishLine": "By the way, what are you two doing here?"
+                            },
+                            {
+                                "lineNumber": "85761",
+                                "originalJapaneseLine": "　リセットさんが探してたっすよ？」",
+                                "translatedEnglishLine": "Reset-san was looking for you, you know?\""
+                            },
+                            {
+                                "lineNumber": "85762",
+                                "originalJapaneseLine": "「ん？　気になるか？　気になるか？",
+                                "translatedEnglishLine": "\"Hmm? Are you curious? Are you curious?"
+                            },
+                            {
+                                "lineNumber": "85763",
+                                "originalJapaneseLine": "　俺様がどこに行くか聞きたいのか？」",
+                                "translatedEnglishLine": "Do you want to know where I'm going?\""
+                            },
+                            {
+                                "lineNumber": "85764",
+                                "originalJapaneseLine": "「がははは、俺様は今から、",
+                                "translatedEnglishLine": "\"Gahaha, from now on I am going to a very good place."
+                            },
+                            {
+                                "lineNumber": "85765",
+                                "originalJapaneseLine": "　とーってもいいとこに行くのだ」",
+                                "translatedEnglishLine": "A really, really great place.\""
+                            },
+                            {
+                                "lineNumber": "85766",
+                                "originalJapaneseLine": "「その名もネオ桃源郷！",
+                                "translatedEnglishLine": "\"Its name is Neo Paradise!"
+                            },
+                            {
+                                "lineNumber": "85767",
+                                "originalJapaneseLine": "　絶世の美女ばかりがいるという、",
+                                "translatedEnglishLine": "It is said to be full of peerless beauties,"
+                            },
+                            {
+                                "lineNumber": "85768",
+                                "originalJapaneseLine": "　全ての男性のパラダイスという聖地！」",
+                                "translatedEnglishLine": "a holy land that is a paradise for all men!\""
+                            },
+                            {
+                                "lineNumber": "85769",
+                                "originalJapaneseLine": "「マジすか！？",
+                                "translatedEnglishLine": "\"Seriously!?"
+                            },
+                            {
+                                "lineNumber": "85770",
+                                "originalJapaneseLine": "　今、うちらもそこ目指してたんすよ！」",
+                                "translatedEnglishLine": "We were also heading there just now!\""
+                            },
+                            {
+                                "lineNumber": "85771",
+                                "originalJapaneseLine": "「ほーう？」",
+                                "translatedEnglishLine": "\"Oh?\""
+                            },
+                            {
+                                "lineNumber": "85772",
+                                "originalJapaneseLine": "「ふむ……ふむふむ……」",
+                                "translatedEnglishLine": "\"Hmm... hmm hmm...\""
+                            },
+                            {
+                                "lineNumber": "85773",
+                                "originalJapaneseLine": "「よし、面白い！",
+                                "translatedEnglishLine": "\"Alright, interesting!"
+                            },
+                            {
+                                "lineNumber": "85774",
+                                "originalJapaneseLine": "　ならばお前らもついて来い！」",
+                                "translatedEnglishLine": "Then you guys come along!\""
+                            },
+                            {
+                                "lineNumber": "85775",
+                                "originalJapaneseLine": "「がははは！　お父様のすごさを見せてくれるわ！」",
+                                "translatedEnglishLine": "\"Gahaha! I'll show you the greatness of your father!\""
+                            },
+                            {
+                                "lineNumber": "85776",
+                                "originalJapaneseLine": "「シィーーール！　地図！",
+                                "translatedEnglishLine": "\"Seeeal! A map!"
+                            },
+                            {
+                                "lineNumber": "85777",
+                                "originalJapaneseLine": "　まずは拠点となる街を決める。",
+                                "translatedEnglishLine": "First, we decide on a base city."
+                            },
+                            {
+                                "lineNumber": "85778",
+                                "originalJapaneseLine": "　一番近い街はどこだ？」",
+                                "translatedEnglishLine": "What's the nearest city?\""
+                            },
+                            {
+                                "lineNumber": "85779",
+                                "originalJapaneseLine": "「えーと、プリンスタイルの街ですね。",
+                                "translatedEnglishLine": "\"Um, it's the city of Prinstyle."
+                            },
+                            {
+                                "lineNumber": "85780",
+                                "originalJapaneseLine": "　東に三十分ほどで着きますよ」",
+                                "translatedEnglishLine": "It takes about thirty minutes east to get there.\""
+                            },
+                            {
+                                "lineNumber": "85781",
+                                "originalJapaneseLine": "「よし……」",
+                                "translatedEnglishLine": "\"Alright...\""
+                            },
+                            {
+                                "lineNumber": "85782",
+                                "originalJapaneseLine": "「では、その街まで競走だー！",
+                                "translatedEnglishLine": "\"Then, a race to that city!"
+                            },
+                            {
+                                "lineNumber": "85783",
+                                "originalJapaneseLine": "　がはははははははははは！」",
+                                "translatedEnglishLine": "Gahahahahahahahaha!\""
+                            },
+                            {
+                                "lineNumber": "85784",
+                                "originalJapaneseLine": "「あ、あーーーっ！",
+                                "translatedEnglishLine": "\"A-aaah!"
+                            },
+                            {
+                                "lineNumber": "85785",
+                                "originalJapaneseLine": "　ずっこい！」",
+                                "translatedEnglishLine": "That's cheating!\""
+                            },
+                            {
+                                "lineNumber": "85786",
+                                "originalJapaneseLine": "「わわわわ、ランス様、待って下さいー！」",
+                                "translatedEnglishLine": "\"W-wait, Rance-sama, please wait!\""
+                            },
+                            {
+                                "lineNumber": "85787",
+                                "originalJapaneseLine": "「がーっはっはっはっ！",
+                                "translatedEnglishLine": "\"Gahaha!"
+                            },
+                            {
+                                "lineNumber": "85788",
+                                "originalJapaneseLine": "　ビリの奴は罰ゲームだぞー！」",
+                                "translatedEnglishLine": "The last one gets a penalty game!\""
+                            },
+                            {
+                                "lineNumber": "85789",
+                                "originalJapaneseLine": "「＜エール＞！　やべぇ、置いてかれる！",
+                                "translatedEnglishLine": "\"<Cheer>! Oh no, I'm getting left behind!"
+                            },
+                            {
+                                "lineNumber": "85790",
+                                "originalJapaneseLine": "　急ごうぜ！」",
+                                "translatedEnglishLine": "Let's hurry up!\""
+                            },
+                            {
+                                "lineNumber": "85791",
+                                "originalJapaneseLine": "桃源郷を探して東奔西走。",
+                                "translatedEnglishLine": "Rushing about east and west searching for paradise."
+                            },
+                            {
+                                "lineNumber": "85792",
+                                "originalJapaneseLine": "旅の途中では仲間を増やし、",
+                                "translatedEnglishLine": "Along the journey, they gained companions,"
+                            },
+                            {
+                                "lineNumber": "85793",
+                                "originalJapaneseLine": "東ヘルマンに襲撃を受け、",
+                                "translatedEnglishLine": "were attacked by East Helman,"
+                            },
+                            {
+                                "lineNumber": "85794",
+                                "originalJapaneseLine": "ランスが幾多のトラブルを呼び込む。",
+                                "translatedEnglishLine": "and Rance caused numerous troubles."
+                            },
+                            {
+                                "lineNumber": "85795",
+                                "originalJapaneseLine": "そして……",
+                                "translatedEnglishLine": "And then..."
+                            },
+                            {
+                                "lineNumber": "85796",
+                                "originalJapaneseLine": "気づけば東ヘルマンを制圧していた。",
+                                "translatedEnglishLine": "Before they knew it, they had taken control of East Helman."
+                            },
+                            {
+                                "lineNumber": "85797",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "85798",
+                                "originalJapaneseLine": "「あはは……」",
+                                "translatedEnglishLine": "\"Ahaha...\""
+                            },
+                            {
+                                "lineNumber": "85799",
+                                "originalJapaneseLine": "「あの馬鹿親父！",
+                                "translatedEnglishLine": "\"That foolish old man!"
+                            },
+                            {
+                                "lineNumber": "85800",
+                                "originalJapaneseLine": "　騒動ばっか起こすな！」",
+                                "translatedEnglishLine": "Stop causing all these troubles!\""
+                            },
+                            {
+                                "lineNumber": "85801",
+                                "originalJapaneseLine": "「なんというか……",
+                                "translatedEnglishLine": "\"How should I put it..."
+                            },
+                            {
+                                "lineNumber": "85802",
+                                "originalJapaneseLine": "　お父さん、トラブル体質だから……」",
+                                "translatedEnglishLine": "Dad is naturally prone to trouble...\""
+                            },
+                            {
+                                "lineNumber": "85803",
+                                "originalJapaneseLine": "「まさか、僕達まで",
+                                "translatedEnglishLine": "\"I never thought that even we would be drawn into it,"
+                            },
+                            {
+                                "lineNumber": "85804",
+                                "originalJapaneseLine": "　駆り出されることになるとは、ね」",
+                                "translatedEnglishLine": "you know.\""
+                            },
+                            {
+                                "lineNumber": "85805",
+                                "originalJapaneseLine": "「……やっぱ、あいつ今の内に殺すか」",
+                                "translatedEnglishLine": "\"...Maybe I should kill him while I still can.\""
+                            },
+                            {
+                                "lineNumber": "85806",
+                                "originalJapaneseLine": "「えー、でも楽しかったから、",
+                                "translatedEnglishLine": "\"Eh, but it was fun, so"
+                            },
+                            {
+                                "lineNumber": "85807",
+                                "originalJapaneseLine": "　ボクはいつでも呼んでくれていいよー」",
+                                "translatedEnglishLine": "you can call me anytime.\""
+                            },
+                            {
+                                "lineNumber": "85808",
+                                "originalJapaneseLine": "「ねー？",
+                                "translatedEnglishLine": "\"Right?"
+                            },
+                            {
+                                "lineNumber": "85809",
+                                "originalJapaneseLine": "　またみんなで遊べてオイラも楽しかったよ」",
+                                "translatedEnglishLine": "I had fun playing with everyone again too.\""
+                            },
+                            {
+                                "lineNumber": "85810",
+                                "originalJapaneseLine": "「あたしは二度とごめんよ」",
+                                "translatedEnglishLine": "\"I'm sorry, but I don't want to do it again.\""
+                            },
+                            {
+                                "lineNumber": "85811",
+                                "originalJapaneseLine": "「あ、あれ？",
+                                "translatedEnglishLine": "\"Ah, huh?"
+                            },
+                            {
+                                "lineNumber": "85812",
+                                "originalJapaneseLine": "　そういえば、パパの姿が見えないけど……」",
+                                "translatedEnglishLine": "Come to think of it, I don't see Papa anywhere...\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1788,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2060,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3848
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「そんなわけあるかー！」\",\"translatedEnglishLine\":\"\\\"There's no way that's true!\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「あぁん！」\",\"translatedEnglishLine\":\"\\\"Aahn!\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"長田君がランスに割られる。\",\"translatedEnglishLine\":\"Nagata-kun gets broken by Rance.\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「ら、ランス様！\",\"translatedEnglishLine\":\"\\\"R-Rance-sama!\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　長田君を割っちゃ駄目ですよ！」\",\"translatedEnglishLine\":\"You mustn't break Nagata-kun!\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「ふん、ハニワは割るものだ」\",\"translatedEnglishLine\":\"\\\"Hmph, haniwa are meant to be broken.\\\"\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"「いてて……ひどい目に……\",\"translatedEnglishLine\":\"\\\"Ouch... that was terrible...\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　てか、二人ともこんなとこで何を？\",\"translatedEnglishLine\":\"By the way, what are you two doing here?\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"　リセットさんが探してたっすよ？」\",\"translatedEnglishLine\":\"Reset-san was looking for you, you know?\\\"\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"「ん？　気になるか？　気になるか？\",\"translatedEnglishLine\":\"\\\"Hmm? Are you curious? Are you curious?\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"　俺様がどこに行くか聞きたいのか？」\",\"translatedEnglishLine\":\"Do you want to know where I'm going?\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「がははは、俺様は今から、\",\"translatedEnglishLine\":\"\\\"Gahaha, from now on I am going to a very good place.\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　とーってもいいとこに行くのだ」\",\"translatedEnglishLine\":\"A really, really great place.\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「その名もネオ桃源郷！\",\"translatedEnglishLine\":\"\\\"Its name is Neo Paradise!\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　絶世の美女ばかりがいるという、\",\"translatedEnglishLine\":\"It is said to be full of peerless beauties,\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　全ての男性のパラダイスという聖地！」\",\"translatedEnglishLine\":\"a holy land that is a paradise for all men!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「マジすか！？\",\"translatedEnglishLine\":\"\\\"Seriously!?\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　今、うちらもそこ目指してたんすよ！」\",\"translatedEnglishLine\":\"We were also heading there just now!\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ほーう？」\",\"translatedEnglishLine\":\"\\\"Oh?\\\"\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"「ふむ……ふむふむ……」\",\"translatedEnglishLine\":\"\\\"Hmm... hmm hmm...\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「よし、面白い！\",\"translatedEnglishLine\":\"\\\"Alright, interesting!\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　ならばお前らもついて来い！」\",\"translatedEnglishLine\":\"Then you guys come along!\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「がははは！　お父様のすごさを見せてくれるわ！」\",\"translatedEnglishLine\":\"\\\"Gahaha! I'll show you the greatness of your father!\\\"\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"「シィーーール！　地図！\",\"translatedEnglishLine\":\"\\\"Seeeal! A map!\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　まずは拠点となる街を決める。\",\"translatedEnglishLine\":\"First, we decide on a base city.\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　一番近い街はどこだ？」\",\"translatedEnglishLine\":\"What's the nearest city?\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「えーと、プリンスタイルの街ですね。\",\"translatedEnglishLine\":\"\\\"Um, it's the city of Prinstyle.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　東に三十分ほどで着きますよ」\",\"translatedEnglishLine\":\"It takes about thirty minutes east to get there.\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「よし……」\",\"translatedEnglishLine\":\"\\\"Alright...\\\"\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"「では、その街まで競走だー！\",\"translatedEnglishLine\":\"\\\"Then, a race to that city!\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　がはははははははははは！」\",\"translatedEnglishLine\":\"Gahahahahahahahaha!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「あ、あーーーっ！\",\"translatedEnglishLine\":\"\\\"A-aaah!\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　ずっこい！」\",\"translatedEnglishLine\":\"That's cheating!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「わわわわ、ランス様、待って下さいー！」\",\"translatedEnglishLine\":\"\\\"W-wait, Rance-sama, please wait!\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「がーっはっはっはっ！\",\"translatedEnglishLine\":\"\\\"Gahaha!\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"　ビリの奴は罰ゲームだぞー！」\",\"translatedEnglishLine\":\"The last one gets a penalty game!\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「＜エール＞！　やべぇ、置いてかれる！\",\"translatedEnglishLine\":\"\\\"<Cheer>! Oh no, I'm getting left behind!\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　急ごうぜ！」\",\"translatedEnglishLine\":\"Let's hurry up!\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"桃源郷を探して東奔西走。\",\"translatedEnglishLine\":\"Rushing about east and west searching for paradise.\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"旅の途中では仲間を増やし、\",\"translatedEnglishLine\":\"Along the journey, they gained companions,\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"東ヘルマンに襲撃を受け、\",\"translatedEnglishLine\":\"were attacked by East Helman,\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"ランスが幾多のトラブルを呼び込む。\",\"translatedEnglishLine\":\"and Rance caused numerous troubles.\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"そして……\",\"translatedEnglishLine\":\"And then...\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"気づけば東ヘルマンを制圧していた。\",\"translatedEnglishLine\":\"Before they knew it, they had taken control of East Helman.\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「あはは……」\",\"translatedEnglishLine\":\"\\\"Ahaha...\\\"\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"「あの馬鹿親父！\",\"translatedEnglishLine\":\"\\\"That foolish old man!\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"　騒動ばっか起こすな！」\",\"translatedEnglishLine\":\"Stop causing all these troubles!\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「なんというか……\",\"translatedEnglishLine\":\"\\\"How should I put it...\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　お父さん、トラブル体質だから……」\",\"translatedEnglishLine\":\"Dad is naturally prone to trouble...\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「まさか、僕達まで\",\"translatedEnglishLine\":\"\\\"I never thought that even we would be drawn into it,\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　駆り出されることになるとは、ね」\",\"translatedEnglishLine\":\"you know.\\\"\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"「……やっぱ、あいつ今の内に殺すか」\",\"translatedEnglishLine\":\"\\\"...Maybe I should kill him while I still can.\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「えー、でも楽しかったから、\",\"translatedEnglishLine\":\"\\\"Eh, but it was fun, so\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　ボクはいつでも呼んでくれていいよー」\",\"translatedEnglishLine\":\"you can call me anytime.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「ねー？\",\"translatedEnglishLine\":\"\\\"Right?\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　またみんなで遊べてオイラも楽しかったよ」\",\"translatedEnglishLine\":\"I had fun playing with everyone again too.\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「あたしは二度とごめんよ」\",\"translatedEnglishLine\":\"\\\"I'm sorry, but I don't want to do it again.\\\"\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「あ、あれ？\",\"translatedEnglishLine\":\"\\\"Ah, huh?\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　そういえば、パパの姿が見えないけど……」\",\"translatedEnglishLine\":\"Come to think of it, I don't see Papa anywhere...\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "85753",
+                "originalJapaneseLine": "「そんなわけあるかー！」",
+                "translatedEnglishLine": "\"There's no way that's true!\""
+            },
+            {
+                "lineNumber": "85754",
+                "originalJapaneseLine": "「あぁん！」",
+                "translatedEnglishLine": "\"Aahn!\""
+            },
+            {
+                "lineNumber": "85755",
+                "originalJapaneseLine": "長田君がランスに割られる。",
+                "translatedEnglishLine": "Nagata-kun gets broken by Rance."
+            },
+            {
+                "lineNumber": "85756",
+                "originalJapaneseLine": "「ら、ランス様！",
+                "translatedEnglishLine": "\"R-Rance-sama!"
+            },
+            {
+                "lineNumber": "85757",
+                "originalJapaneseLine": "　長田君を割っちゃ駄目ですよ！」",
+                "translatedEnglishLine": "You mustn't break Nagata-kun!\""
+            },
+            {
+                "lineNumber": "85758",
+                "originalJapaneseLine": "「ふん、ハニワは割るものだ」",
+                "translatedEnglishLine": "\"Hmph, haniwa are meant to be broken.\""
+            },
+            {
+                "lineNumber": "85759",
+                "originalJapaneseLine": "「いてて……ひどい目に……",
+                "translatedEnglishLine": "\"Ouch... that was terrible..."
+            },
+            {
+                "lineNumber": "85760",
+                "originalJapaneseLine": "　てか、二人ともこんなとこで何を？",
+                "translatedEnglishLine": "By the way, what are you two doing here?"
+            },
+            {
+                "lineNumber": "85761",
+                "originalJapaneseLine": "　リセットさんが探してたっすよ？」",
+                "translatedEnglishLine": "Reset-san was looking for you, you know?\""
+            },
+            {
+                "lineNumber": "85762",
+                "originalJapaneseLine": "「ん？　気になるか？　気になるか？",
+                "translatedEnglishLine": "\"Hmm? Are you curious? Are you curious?"
+            },
+            {
+                "lineNumber": "85763",
+                "originalJapaneseLine": "　俺様がどこに行くか聞きたいのか？」",
+                "translatedEnglishLine": "Do you want to know where I'm going?\""
+            },
+            {
+                "lineNumber": "85764",
+                "originalJapaneseLine": "「がははは、俺様は今から、",
+                "translatedEnglishLine": "\"Gahaha, from now on I am going to a very good place."
+            },
+            {
+                "lineNumber": "85765",
+                "originalJapaneseLine": "　とーってもいいとこに行くのだ」",
+                "translatedEnglishLine": "A really, really great place.\""
+            },
+            {
+                "lineNumber": "85766",
+                "originalJapaneseLine": "「その名もネオ桃源郷！",
+                "translatedEnglishLine": "\"Its name is Neo Paradise!"
+            },
+            {
+                "lineNumber": "85767",
+                "originalJapaneseLine": "　絶世の美女ばかりがいるという、",
+                "translatedEnglishLine": "It is said to be full of peerless beauties,"
+            },
+            {
+                "lineNumber": "85768",
+                "originalJapaneseLine": "　全ての男性のパラダイスという聖地！」",
+                "translatedEnglishLine": "a holy land that is a paradise for all men!\""
+            },
+            {
+                "lineNumber": "85769",
+                "originalJapaneseLine": "「マジすか！？",
+                "translatedEnglishLine": "\"Seriously!?"
+            },
+            {
+                "lineNumber": "85770",
+                "originalJapaneseLine": "　今、うちらもそこ目指してたんすよ！」",
+                "translatedEnglishLine": "We were also heading there just now!\""
+            },
+            {
+                "lineNumber": "85771",
+                "originalJapaneseLine": "「ほーう？」",
+                "translatedEnglishLine": "\"Oh?\""
+            },
+            {
+                "lineNumber": "85772",
+                "originalJapaneseLine": "「ふむ……ふむふむ……」",
+                "translatedEnglishLine": "\"Hmm... hmm hmm...\""
+            },
+            {
+                "lineNumber": "85773",
+                "originalJapaneseLine": "「よし、面白い！",
+                "translatedEnglishLine": "\"Alright, interesting!"
+            },
+            {
+                "lineNumber": "85774",
+                "originalJapaneseLine": "　ならばお前らもついて来い！」",
+                "translatedEnglishLine": "Then you guys come along!\""
+            },
+            {
+                "lineNumber": "85775",
+                "originalJapaneseLine": "「がははは！　お父様のすごさを見せてくれるわ！」",
+                "translatedEnglishLine": "\"Gahaha! I'll show you the greatness of your father!\""
+            },
+            {
+                "lineNumber": "85776",
+                "originalJapaneseLine": "「シィーーール！　地図！",
+                "translatedEnglishLine": "\"Seeeal! A map!"
+            },
+            {
+                "lineNumber": "85777",
+                "originalJapaneseLine": "　まずは拠点となる街を決める。",
+                "translatedEnglishLine": "First, we decide on a base city."
+            },
+            {
+                "lineNumber": "85778",
+                "originalJapaneseLine": "　一番近い街はどこだ？」",
+                "translatedEnglishLine": "What's the nearest city?\""
+            },
+            {
+                "lineNumber": "85779",
+                "originalJapaneseLine": "「えーと、プリンスタイルの街ですね。",
+                "translatedEnglishLine": "\"Um, it's the city of Prinstyle."
+            },
+            {
+                "lineNumber": "85780",
+                "originalJapaneseLine": "　東に三十分ほどで着きますよ」",
+                "translatedEnglishLine": "It takes about thirty minutes east to get there.\""
+            },
+            {
+                "lineNumber": "85781",
+                "originalJapaneseLine": "「よし……」",
+                "translatedEnglishLine": "\"Alright...\""
+            },
+            {
+                "lineNumber": "85782",
+                "originalJapaneseLine": "「では、その街まで競走だー！",
+                "translatedEnglishLine": "\"Then, a race to that city!"
+            },
+            {
+                "lineNumber": "85783",
+                "originalJapaneseLine": "　がはははははははははは！」",
+                "translatedEnglishLine": "Gahahahahahahahaha!\""
+            },
+            {
+                "lineNumber": "85784",
+                "originalJapaneseLine": "「あ、あーーーっ！",
+                "translatedEnglishLine": "\"A-aaah!"
+            },
+            {
+                "lineNumber": "85785",
+                "originalJapaneseLine": "　ずっこい！」",
+                "translatedEnglishLine": "That's cheating!\""
+            },
+            {
+                "lineNumber": "85786",
+                "originalJapaneseLine": "「わわわわ、ランス様、待って下さいー！」",
+                "translatedEnglishLine": "\"W-wait, Rance-sama, please wait!\""
+            },
+            {
+                "lineNumber": "85787",
+                "originalJapaneseLine": "「がーっはっはっはっ！",
+                "translatedEnglishLine": "\"Gahaha!"
+            },
+            {
+                "lineNumber": "85788",
+                "originalJapaneseLine": "　ビリの奴は罰ゲームだぞー！」",
+                "translatedEnglishLine": "The last one gets a penalty game!\""
+            },
+            {
+                "lineNumber": "85789",
+                "originalJapaneseLine": "「＜エール＞！　やべぇ、置いてかれる！",
+                "translatedEnglishLine": "\"<Cheer>! Oh no, I'm getting left behind!"
+            },
+            {
+                "lineNumber": "85790",
+                "originalJapaneseLine": "　急ごうぜ！」",
+                "translatedEnglishLine": "Let's hurry up!\""
+            },
+            {
+                "lineNumber": "85791",
+                "originalJapaneseLine": "桃源郷を探して東奔西走。",
+                "translatedEnglishLine": "Rushing about east and west searching for paradise."
+            },
+            {
+                "lineNumber": "85792",
+                "originalJapaneseLine": "旅の途中では仲間を増やし、",
+                "translatedEnglishLine": "Along the journey, they gained companions,"
+            },
+            {
+                "lineNumber": "85793",
+                "originalJapaneseLine": "東ヘルマンに襲撃を受け、",
+                "translatedEnglishLine": "were attacked by East Helman,"
+            },
+            {
+                "lineNumber": "85794",
+                "originalJapaneseLine": "ランスが幾多のトラブルを呼び込む。",
+                "translatedEnglishLine": "and Rance caused numerous troubles."
+            },
+            {
+                "lineNumber": "85795",
+                "originalJapaneseLine": "そして……",
+                "translatedEnglishLine": "And then..."
+            },
+            {
+                "lineNumber": "85796",
+                "originalJapaneseLine": "気づけば東ヘルマンを制圧していた。",
+                "translatedEnglishLine": "Before they knew it, they had taken control of East Helman."
+            },
+            {
+                "lineNumber": "85797",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "85798",
+                "originalJapaneseLine": "「あはは……」",
+                "translatedEnglishLine": "\"Ahaha...\""
+            },
+            {
+                "lineNumber": "85799",
+                "originalJapaneseLine": "「あの馬鹿親父！",
+                "translatedEnglishLine": "\"That foolish old man!"
+            },
+            {
+                "lineNumber": "85800",
+                "originalJapaneseLine": "　騒動ばっか起こすな！」",
+                "translatedEnglishLine": "Stop causing all these troubles!\""
+            },
+            {
+                "lineNumber": "85801",
+                "originalJapaneseLine": "「なんというか……",
+                "translatedEnglishLine": "\"How should I put it..."
+            },
+            {
+                "lineNumber": "85802",
+                "originalJapaneseLine": "　お父さん、トラブル体質だから……」",
+                "translatedEnglishLine": "Dad is naturally prone to trouble...\""
+            },
+            {
+                "lineNumber": "85803",
+                "originalJapaneseLine": "「まさか、僕達まで",
+                "translatedEnglishLine": "\"I never thought that even we would be drawn into it,"
+            },
+            {
+                "lineNumber": "85804",
+                "originalJapaneseLine": "　駆り出されることになるとは、ね」",
+                "translatedEnglishLine": "you know.\""
+            },
+            {
+                "lineNumber": "85805",
+                "originalJapaneseLine": "「……やっぱ、あいつ今の内に殺すか」",
+                "translatedEnglishLine": "\"...Maybe I should kill him while I still can.\""
+            },
+            {
+                "lineNumber": "85806",
+                "originalJapaneseLine": "「えー、でも楽しかったから、",
+                "translatedEnglishLine": "\"Eh, but it was fun, so"
+            },
+            {
+                "lineNumber": "85807",
+                "originalJapaneseLine": "　ボクはいつでも呼んでくれていいよー」",
+                "translatedEnglishLine": "you can call me anytime.\""
+            },
+            {
+                "lineNumber": "85808",
+                "originalJapaneseLine": "「ねー？",
+                "translatedEnglishLine": "\"Right?"
+            },
+            {
+                "lineNumber": "85809",
+                "originalJapaneseLine": "　またみんなで遊べてオイラも楽しかったよ」",
+                "translatedEnglishLine": "I had fun playing with everyone again too.\""
+            },
+            {
+                "lineNumber": "85810",
+                "originalJapaneseLine": "「あたしは二度とごめんよ」",
+                "translatedEnglishLine": "\"I'm sorry, but I don't want to do it again.\""
+            },
+            {
+                "lineNumber": "85811",
+                "originalJapaneseLine": "「あ、あれ？",
+                "translatedEnglishLine": "\"Ah, huh?"
+            },
+            {
+                "lineNumber": "85812",
+                "originalJapaneseLine": "　そういえば、パパの姿が見えないけど……」",
+                "translatedEnglishLine": "Come to think of it, I don't see Papa anywhere...\""
+            }
+        ]
+    }
+}

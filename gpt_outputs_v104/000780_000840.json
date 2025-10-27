@@ -1,0 +1,719 @@
+{
+    "id": "resp_0b5d870b359e91200068ffe5b4ec008190b3390b01fc33d4cd",
+    "object": "response",
+    "created_at": 1761600948,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0b5d870b359e91200068ffe5b583a481908cf7fd8c7af69ed4",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　可能性は少しでも高い方がいいだすからな」\",\"translatedEnglishLine\":\"\\\"It's best if the chances are even slightly higher.\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　裸族王バファムーンＶＳミルキー・トー」\",\"translatedEnglishLine\":\"\\\"Naked Tribe King Bafamoon VS Milky Toe\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　＜エール＞・モフスＶＳ魔女リクチェル」\",\"translatedEnglishLine\":\"\\\"<Yell> Mofusu VS Witch Rikucheru\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"１０２シナリオテストｄｆｄｆｄｆな橋、\",\"translatedEnglishLine\":\"102 Scenario Test dfd fdf Bridge,\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"天満橋。\",\"translatedEnglishLine\":\"Tenman Bridge.\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「みんな集合ー、ってね☆\",\"translatedEnglishLine\":\"\\\"Everyone, gather up— you know☆\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　呼ばれちゃったら、\",\"translatedEnglishLine\":\"Once we're called,\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　相手がヤベーとか言ってらんないね」\",\"translatedEnglishLine\":\"we can't just say the enemy's scary.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「ああ。\",\"translatedEnglishLine\":\"\\\"Yeah.\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　ゼスを守るのを、人任せにはできないしね」\",\"translatedEnglishLine\":\"We can't leave protecting Zeth to others.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「…………うい」\",\"translatedEnglishLine\":\"\\\"...Yeah.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「ん……しょっ……！」\",\"translatedEnglishLine\":\"\\\"Ngh... Hup...!\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「クッ、ぬるいわ、ッ……！」\",\"translatedEnglishLine\":\"\\\"Tch, that's weak...!\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"フルスイングの一撃を、触腕の一本が弾き返す。\",\"translatedEnglishLine\":\"One of the tentacles deflected the full-swing blow.\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「……あれ」\",\"translatedEnglishLine\":\"\\\"...Huh?\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「セスナ、下がっ……！」\",\"translatedEnglishLine\":\"\\\"Setsuna, fall back...!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"豪腕が唸り、セスナの軽い身体が\",\"translatedEnglishLine\":\"A mighty arm roared, and Setsuna's light body\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"受けたハンマーごと転がった。\",\"translatedEnglishLine\":\"rolled over along with the hammer she wielded.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「おらおらおらおらおら！\",\"translatedEnglishLine\":\"\\\"Ora ora ora ora ora!\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　一斉射撃、ありったけだ！」\",\"translatedEnglishLine\":\"Full volley, give it everything you've got!\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「……今度は、当たる」\",\"translatedEnglishLine\":\"\\\"...This time, it hits.\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「がはう、っ……あ、あーー、おごっ……」\",\"translatedEnglishLine\":\"\\\"Gahau... ah, aahh, oof...\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"全身を使って遠心力を生み出した渾身の一撃が、\",\"translatedEnglishLine\":\"A powerful blow fueled by centrifugal force from the entire body,\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"茫洋と立ち尽くすツォトンの身体を砕く。\",\"translatedEnglishLine\":\"shattered the body of Tsoton, who stood aimlessly.\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「だー！　無茶するなって！\",\"translatedEnglishLine\":\"\\\"Damn! Don't be reckless!\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　そこ、まだ毒！」\",\"translatedEnglishLine\":\"That's still poisoned there!\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「いやー、終わった終わったー。\",\"translatedEnglishLine\":\"\\\"Whoa, it's over, it's over.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　たまにガチでやるとしんどいわ。プリマー」\",\"translatedEnglishLine\":\"Doing it seriously once in a while is tough, Prima.\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「はい次、動けない人連れてきな！\",\"translatedEnglishLine\":\"\\\"Alright next, bring those who can't move!\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　ちゃちゃっと手当てして、脱出するよ！」\",\"translatedEnglishLine\":\"Quickly treat them and let's get out of here!\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「…………構えこらーー！」\",\"translatedEnglishLine\":\"\\\"...Get ready—!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「わあぁ、メガデス！？\",\"translatedEnglishLine\":\"\\\"Wah, Megadeath!?\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　あ、後にしろ後にーーーー！」\",\"translatedEnglishLine\":\"Ah, leave it for later, later—!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「…………ぐう」\",\"translatedEnglishLine\":\"\\\"...Ugh.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「こんにちはー……あれ？」\",\"translatedEnglishLine\":\"\\\"Hello there... huh?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「あら、いらっしゃい」\",\"translatedEnglishLine\":\"\\\"Oh, welcome.\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「ウルザさんに頼まれて、\",\"translatedEnglishLine\":\"\\\"Ulza-san asked me to,\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　届け物……に来たんだけど」\",\"translatedEnglishLine\":\"deliver something... so I came.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「おっ、ランスじゃーん」\",\"translatedEnglishLine\":\"\\\"Oh, it's Rance!\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「おー、プリマにメガデスか。\",\"translatedEnglishLine\":\"\\\"Oh, Prima and Megadeath, huh.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　また懐かしい顔だな」\",\"translatedEnglishLine\":\"Another familiar face.\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「モロミちゃんって呼べッつってんだろ☆」\",\"translatedEnglishLine\":\"\\\"I told you to call me Moromi-chan☆\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「わあ、お久しぶりです、お二人とも！」\",\"translatedEnglishLine\":\"\\\"Wow, it's been a while, both of you!\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「おっ、シィルちゃんだーー！\",\"translatedEnglishLine\":\"\\\"Oh, it's Seel-chan!\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　なーんか氷から抜けたんだって？」\",\"translatedEnglishLine\":\"I heard you just got out of the ice or something?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ね、お祝いしよしよ☆\",\"translatedEnglishLine\":\"Hey, let's celebrate☆\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　二人でお酒とかー……☆」\",\"translatedEnglishLine\":\"Drinking together or something...☆\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「待たんかこのレズ」\",\"translatedEnglishLine\":\"\\\"Wait a minute, you lesbians.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「なーんだよー。\",\"translatedEnglishLine\":\"\\\"What the heck.\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　女の子同士の友情を邪魔すんなよー」\",\"translatedEnglishLine\":\"Don't ruin the friendship between girls.\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「お前のは友情じゃないだろうが！」\",\"translatedEnglishLine\":\"\\\"Yours isn't friendship though!\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「じょーだんじょーだん。\",\"translatedEnglishLine\":\"\\\"Just kidding, just kidding.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　ランスの反応が面白ぇからさー」\",\"translatedEnglishLine\":\"I just find Rance's reaction funny.\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「アイスフレームのお二人……\",\"translatedEnglishLine\":\"\\\"The two from Ice Flame...\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　お元気そうで何よりですだ」\",\"translatedEnglishLine\":\"Glad to see you both well.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「うんうん。いつもあのふたり……と。\",\"translatedEnglishLine\":\"\\\"Yeah, yeah. Always those two... and.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　そういえばセスナちゃんは？」\",\"translatedEnglishLine\":\"By the way, what about Setsuna-chan?\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「あ、セスナは別件。というか、\",\"translatedEnglishLine\":\"\\\"Ah, Setsuna has another matter. Or rather,\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　あたしひとりで来る予定だったんだけど……\",\"translatedEnglishLine\":\"I was supposed to come alone but...\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「旦那の安全を守るのは嫁の義務っしょ☆」\",\"translatedEnglishLine\":\"Protecting your husband's safety is a wife's duty☆\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "234328",
+                                "originalJapaneseLine": "　可能性は少しでも高い方がいいだすからな」",
+                                "translatedEnglishLine": "\"It's best if the chances are even slightly higher.\""
+                            },
+                            {
+                                "lineNumber": "237121",
+                                "originalJapaneseLine": "　裸族王バファムーンＶＳミルキー・トー」",
+                                "translatedEnglishLine": "\"Naked Tribe King Bafamoon VS Milky Toe\""
+                            },
+                            {
+                                "lineNumber": "238414",
+                                "originalJapaneseLine": "　＜エール＞・モフスＶＳ魔女リクチェル」",
+                                "translatedEnglishLine": "\"<Yell> Mofusu VS Witch Rikucheru\""
+                            },
+                            {
+                                "lineNumber": "265417",
+                                "originalJapaneseLine": "１０２シナリオテストｄｆｄｆｄｆな橋、",
+                                "translatedEnglishLine": "102 Scenario Test dfd fdf Bridge,"
+                            },
+                            {
+                                "lineNumber": "265418",
+                                "originalJapaneseLine": "天満橋。",
+                                "translatedEnglishLine": "Tenman Bridge."
+                            },
+                            {
+                                "lineNumber": "265419",
+                                "originalJapaneseLine": "「みんな集合ー、ってね☆",
+                                "translatedEnglishLine": "\"Everyone, gather up— you know☆"
+                            },
+                            {
+                                "lineNumber": "265420",
+                                "originalJapaneseLine": "　呼ばれちゃったら、",
+                                "translatedEnglishLine": "Once we're called,"
+                            },
+                            {
+                                "lineNumber": "265421",
+                                "originalJapaneseLine": "　相手がヤベーとか言ってらんないね」",
+                                "translatedEnglishLine": "we can't just say the enemy's scary."
+                            },
+                            {
+                                "lineNumber": "265422",
+                                "originalJapaneseLine": "「ああ。",
+                                "translatedEnglishLine": "\"Yeah."
+                            },
+                            {
+                                "lineNumber": "265423",
+                                "originalJapaneseLine": "　ゼスを守るのを、人任せにはできないしね」",
+                                "translatedEnglishLine": "We can't leave protecting Zeth to others."
+                            },
+                            {
+                                "lineNumber": "265424",
+                                "originalJapaneseLine": "「…………うい」",
+                                "translatedEnglishLine": "\"...Yeah.\""
+                            },
+                            {
+                                "lineNumber": "265425",
+                                "originalJapaneseLine": "「ん……しょっ……！」",
+                                "translatedEnglishLine": "\"Ngh... Hup...!\""
+                            },
+                            {
+                                "lineNumber": "265426",
+                                "originalJapaneseLine": "「クッ、ぬるいわ、ッ……！」",
+                                "translatedEnglishLine": "\"Tch, that's weak...!\""
+                            },
+                            {
+                                "lineNumber": "265427",
+                                "originalJapaneseLine": "フルスイングの一撃を、触腕の一本が弾き返す。",
+                                "translatedEnglishLine": "One of the tentacles deflected the full-swing blow."
+                            },
+                            {
+                                "lineNumber": "265428",
+                                "originalJapaneseLine": "「……あれ」",
+                                "translatedEnglishLine": "\"...Huh?\""
+                            },
+                            {
+                                "lineNumber": "265429",
+                                "originalJapaneseLine": "「セスナ、下がっ……！」",
+                                "translatedEnglishLine": "\"Setsuna, fall back...!\""
+                            },
+                            {
+                                "lineNumber": "265430",
+                                "originalJapaneseLine": "豪腕が唸り、セスナの軽い身体が",
+                                "translatedEnglishLine": "A mighty arm roared, and Setsuna's light body"
+                            },
+                            {
+                                "lineNumber": "265431",
+                                "originalJapaneseLine": "受けたハンマーごと転がった。",
+                                "translatedEnglishLine": "rolled over along with the hammer she wielded."
+                            },
+                            {
+                                "lineNumber": "265432",
+                                "originalJapaneseLine": "「おらおらおらおらおら！",
+                                "translatedEnglishLine": "\"Ora ora ora ora ora!"
+                            },
+                            {
+                                "lineNumber": "265433",
+                                "originalJapaneseLine": "　一斉射撃、ありったけだ！」",
+                                "translatedEnglishLine": "Full volley, give it everything you've got!\""
+                            },
+                            {
+                                "lineNumber": "265434",
+                                "originalJapaneseLine": "「……今度は、当たる」",
+                                "translatedEnglishLine": "\"...This time, it hits.\""
+                            },
+                            {
+                                "lineNumber": "265435",
+                                "originalJapaneseLine": "「がはう、っ……あ、あーー、おごっ……」",
+                                "translatedEnglishLine": "\"Gahau... ah, aahh, oof...\""
+                            },
+                            {
+                                "lineNumber": "265436",
+                                "originalJapaneseLine": "全身を使って遠心力を生み出した渾身の一撃が、",
+                                "translatedEnglishLine": "A powerful blow fueled by centrifugal force from the entire body,"
+                            },
+                            {
+                                "lineNumber": "265437",
+                                "originalJapaneseLine": "茫洋と立ち尽くすツォトンの身体を砕く。",
+                                "translatedEnglishLine": "shattered the body of Tsoton, who stood aimlessly."
+                            },
+                            {
+                                "lineNumber": "265438",
+                                "originalJapaneseLine": "「だー！　無茶するなって！",
+                                "translatedEnglishLine": "\"Damn! Don't be reckless!\""
+                            },
+                            {
+                                "lineNumber": "265439",
+                                "originalJapaneseLine": "　そこ、まだ毒！」",
+                                "translatedEnglishLine": "That's still poisoned there!\""
+                            },
+                            {
+                                "lineNumber": "265440",
+                                "originalJapaneseLine": "「いやー、終わった終わったー。",
+                                "translatedEnglishLine": "\"Whoa, it's over, it's over."
+                            },
+                            {
+                                "lineNumber": "265441",
+                                "originalJapaneseLine": "　たまにガチでやるとしんどいわ。プリマー」",
+                                "translatedEnglishLine": "Doing it seriously once in a while is tough, Prima.\""
+                            },
+                            {
+                                "lineNumber": "265442",
+                                "originalJapaneseLine": "「はい次、動けない人連れてきな！",
+                                "translatedEnglishLine": "\"Alright next, bring those who can't move!"
+                            },
+                            {
+                                "lineNumber": "265443",
+                                "originalJapaneseLine": "　ちゃちゃっと手当てして、脱出するよ！」",
+                                "translatedEnglishLine": "Quickly treat them and let's get out of here!\""
+                            },
+                            {
+                                "lineNumber": "265444",
+                                "originalJapaneseLine": "「…………構えこらーー！」",
+                                "translatedEnglishLine": "\"...Get ready—!\""
+                            },
+                            {
+                                "lineNumber": "265445",
+                                "originalJapaneseLine": "「わあぁ、メガデス！？",
+                                "translatedEnglishLine": "\"Wah, Megadeath!?\""
+                            },
+                            {
+                                "lineNumber": "265446",
+                                "originalJapaneseLine": "　あ、後にしろ後にーーーー！」",
+                                "translatedEnglishLine": "Ah, leave it for later, later—!\""
+                            },
+                            {
+                                "lineNumber": "265447",
+                                "originalJapaneseLine": "「…………ぐう」",
+                                "translatedEnglishLine": "\"...Ugh.\""
+                            },
+                            {
+                                "lineNumber": "265448",
+                                "originalJapaneseLine": "「こんにちはー……あれ？」",
+                                "translatedEnglishLine": "\"Hello there... huh?\""
+                            },
+                            {
+                                "lineNumber": "265449",
+                                "originalJapaneseLine": "「あら、いらっしゃい」",
+                                "translatedEnglishLine": "\"Oh, welcome.\""
+                            },
+                            {
+                                "lineNumber": "265450",
+                                "originalJapaneseLine": "「ウルザさんに頼まれて、",
+                                "translatedEnglishLine": "\"Ulza-san asked me to,"
+                            },
+                            {
+                                "lineNumber": "265451",
+                                "originalJapaneseLine": "　届け物……に来たんだけど」",
+                                "translatedEnglishLine": "deliver something... so I came.\""
+                            },
+                            {
+                                "lineNumber": "265452",
+                                "originalJapaneseLine": "「おっ、ランスじゃーん」",
+                                "translatedEnglishLine": "\"Oh, it's Rance!\""
+                            },
+                            {
+                                "lineNumber": "265453",
+                                "originalJapaneseLine": "「おー、プリマにメガデスか。",
+                                "translatedEnglishLine": "\"Oh, Prima and Megadeath, huh."
+                            },
+                            {
+                                "lineNumber": "265454",
+                                "originalJapaneseLine": "　また懐かしい顔だな」",
+                                "translatedEnglishLine": "Another familiar face.\""
+                            },
+                            {
+                                "lineNumber": "265455",
+                                "originalJapaneseLine": "「モロミちゃんって呼べッつってんだろ☆」",
+                                "translatedEnglishLine": "\"I told you to call me Moromi-chan☆\""
+                            },
+                            {
+                                "lineNumber": "265456",
+                                "originalJapaneseLine": "「わあ、お久しぶりです、お二人とも！」",
+                                "translatedEnglishLine": "\"Wow, it's been a while, both of you!\""
+                            },
+                            {
+                                "lineNumber": "265457",
+                                "originalJapaneseLine": "「おっ、シィルちゃんだーー！",
+                                "translatedEnglishLine": "\"Oh, it's Seel-chan!\""
+                            },
+                            {
+                                "lineNumber": "265458",
+                                "originalJapaneseLine": "　なーんか氷から抜けたんだって？」",
+                                "translatedEnglishLine": "I heard you just got out of the ice or something?\""
+                            },
+                            {
+                                "lineNumber": "265459",
+                                "originalJapaneseLine": "「ね、お祝いしよしよ☆",
+                                "translatedEnglishLine": "Hey, let's celebrate☆"
+                            },
+                            {
+                                "lineNumber": "265460",
+                                "originalJapaneseLine": "　二人でお酒とかー……☆」",
+                                "translatedEnglishLine": "Drinking together or something...☆\""
+                            },
+                            {
+                                "lineNumber": "265461",
+                                "originalJapaneseLine": "「待たんかこのレズ」",
+                                "translatedEnglishLine": "\"Wait a minute, you lesbians.\""
+                            },
+                            {
+                                "lineNumber": "265462",
+                                "originalJapaneseLine": "「なーんだよー。",
+                                "translatedEnglishLine": "\"What the heck."
+                            },
+                            {
+                                "lineNumber": "265463",
+                                "originalJapaneseLine": "　女の子同士の友情を邪魔すんなよー」",
+                                "translatedEnglishLine": "Don't ruin the friendship between girls.\""
+                            },
+                            {
+                                "lineNumber": "265464",
+                                "originalJapaneseLine": "「お前のは友情じゃないだろうが！」",
+                                "translatedEnglishLine": "\"Yours isn't friendship though!\""
+                            },
+                            {
+                                "lineNumber": "265465",
+                                "originalJapaneseLine": "「じょーだんじょーだん。",
+                                "translatedEnglishLine": "\"Just kidding, just kidding."
+                            },
+                            {
+                                "lineNumber": "265466",
+                                "originalJapaneseLine": "　ランスの反応が面白ぇからさー」",
+                                "translatedEnglishLine": "I just find Rance's reaction funny.\""
+                            },
+                            {
+                                "lineNumber": "265467",
+                                "originalJapaneseLine": "「アイスフレームのお二人……",
+                                "translatedEnglishLine": "\"The two from Ice Flame..."
+                            },
+                            {
+                                "lineNumber": "265468",
+                                "originalJapaneseLine": "　お元気そうで何よりですだ」",
+                                "translatedEnglishLine": "Glad to see you both well.\""
+                            },
+                            {
+                                "lineNumber": "265469",
+                                "originalJapaneseLine": "「うんうん。いつもあのふたり……と。",
+                                "translatedEnglishLine": "\"Yeah, yeah. Always those two... and."
+                            },
+                            {
+                                "lineNumber": "265470",
+                                "originalJapaneseLine": "　そういえばセスナちゃんは？」",
+                                "translatedEnglishLine": "By the way, what about Setsuna-chan?\""
+                            },
+                            {
+                                "lineNumber": "265471",
+                                "originalJapaneseLine": "「あ、セスナは別件。というか、",
+                                "translatedEnglishLine": "\"Ah, Setsuna has another matter. Or rather,"
+                            },
+                            {
+                                "lineNumber": "265472",
+                                "originalJapaneseLine": "　あたしひとりで来る予定だったんだけど……",
+                                "translatedEnglishLine": "I was supposed to come alone but...\""
+                            },
+                            {
+                                "lineNumber": "265473",
+                                "originalJapaneseLine": "「旦那の安全を守るのは嫁の義務っしょ☆」",
+                                "translatedEnglishLine": "Protecting your husband's safety is a wife's duty☆\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1864,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2179,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4043
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　可能性は少しでも高い方がいいだすからな」\",\"translatedEnglishLine\":\"\\\"It's best if the chances are even slightly higher.\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　裸族王バファムーンＶＳミルキー・トー」\",\"translatedEnglishLine\":\"\\\"Naked Tribe King Bafamoon VS Milky Toe\\\"\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　＜エール＞・モフスＶＳ魔女リクチェル」\",\"translatedEnglishLine\":\"\\\"<Yell> Mofusu VS Witch Rikucheru\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"１０２シナリオテストｄｆｄｆｄｆな橋、\",\"translatedEnglishLine\":\"102 Scenario Test dfd fdf Bridge,\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"天満橋。\",\"translatedEnglishLine\":\"Tenman Bridge.\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「みんな集合ー、ってね☆\",\"translatedEnglishLine\":\"\\\"Everyone, gather up— you know☆\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　呼ばれちゃったら、\",\"translatedEnglishLine\":\"Once we're called,\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　相手がヤベーとか言ってらんないね」\",\"translatedEnglishLine\":\"we can't just say the enemy's scary.\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「ああ。\",\"translatedEnglishLine\":\"\\\"Yeah.\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　ゼスを守るのを、人任せにはできないしね」\",\"translatedEnglishLine\":\"We can't leave protecting Zeth to others.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「…………うい」\",\"translatedEnglishLine\":\"\\\"...Yeah.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「ん……しょっ……！」\",\"translatedEnglishLine\":\"\\\"Ngh... Hup...!\\\"\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"「クッ、ぬるいわ、ッ……！」\",\"translatedEnglishLine\":\"\\\"Tch, that's weak...!\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"フルスイングの一撃を、触腕の一本が弾き返す。\",\"translatedEnglishLine\":\"One of the tentacles deflected the full-swing blow.\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"「……あれ」\",\"translatedEnglishLine\":\"\\\"...Huh?\\\"\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"「セスナ、下がっ……！」\",\"translatedEnglishLine\":\"\\\"Setsuna, fall back...!\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"豪腕が唸り、セスナの軽い身体が\",\"translatedEnglishLine\":\"A mighty arm roared, and Setsuna's light body\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"受けたハンマーごと転がった。\",\"translatedEnglishLine\":\"rolled over along with the hammer she wielded.\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「おらおらおらおらおら！\",\"translatedEnglishLine\":\"\\\"Ora ora ora ora ora!\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　一斉射撃、ありったけだ！」\",\"translatedEnglishLine\":\"Full volley, give it everything you've got!\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「……今度は、当たる」\",\"translatedEnglishLine\":\"\\\"...This time, it hits.\\\"\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"「がはう、っ……あ、あーー、おごっ……」\",\"translatedEnglishLine\":\"\\\"Gahau... ah, aahh, oof...\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"全身を使って遠心力を生み出した渾身の一撃が、\",\"translatedEnglishLine\":\"A powerful blow fueled by centrifugal force from the entire body,\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"茫洋と立ち尽くすツォトンの身体を砕く。\",\"translatedEnglishLine\":\"shattered the body of Tsoton, who stood aimlessly.\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"「だー！　無茶するなって！\",\"translatedEnglishLine\":\"\\\"Damn! Don't be reckless!\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"　そこ、まだ毒！」\",\"translatedEnglishLine\":\"That's still poisoned there!\\\"\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"「いやー、終わった終わったー。\",\"translatedEnglishLine\":\"\\\"Whoa, it's over, it's over.\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　たまにガチでやるとしんどいわ。プリマー」\",\"translatedEnglishLine\":\"Doing it seriously once in a while is tough, Prima.\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「はい次、動けない人連れてきな！\",\"translatedEnglishLine\":\"\\\"Alright next, bring those who can't move!\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　ちゃちゃっと手当てして、脱出するよ！」\",\"translatedEnglishLine\":\"Quickly treat them and let's get out of here!\\\"\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"「…………構えこらーー！」\",\"translatedEnglishLine\":\"\\\"...Get ready—!\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「わあぁ、メガデス！？\",\"translatedEnglishLine\":\"\\\"Wah, Megadeath!?\\\"\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　あ、後にしろ後にーーーー！」\",\"translatedEnglishLine\":\"Ah, leave it for later, later—!\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「…………ぐう」\",\"translatedEnglishLine\":\"\\\"...Ugh.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「こんにちはー……あれ？」\",\"translatedEnglishLine\":\"\\\"Hello there... huh?\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「あら、いらっしゃい」\",\"translatedEnglishLine\":\"\\\"Oh, welcome.\\\"\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"「ウルザさんに頼まれて、\",\"translatedEnglishLine\":\"\\\"Ulza-san asked me to,\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　届け物……に来たんだけど」\",\"translatedEnglishLine\":\"deliver something... so I came.\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「おっ、ランスじゃーん」\",\"translatedEnglishLine\":\"\\\"Oh, it's Rance!\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「おー、プリマにメガデスか。\",\"translatedEnglishLine\":\"\\\"Oh, Prima and Megadeath, huh.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　また懐かしい顔だな」\",\"translatedEnglishLine\":\"Another familiar face.\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「モロミちゃんって呼べッつってんだろ☆」\",\"translatedEnglishLine\":\"\\\"I told you to call me Moromi-chan☆\\\"\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"「わあ、お久しぶりです、お二人とも！」\",\"translatedEnglishLine\":\"\\\"Wow, it's been a while, both of you!\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「おっ、シィルちゃんだーー！\",\"translatedEnglishLine\":\"\\\"Oh, it's Seel-chan!\\\"\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　なーんか氷から抜けたんだって？」\",\"translatedEnglishLine\":\"I heard you just got out of the ice or something?\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「ね、お祝いしよしよ☆\",\"translatedEnglishLine\":\"Hey, let's celebrate☆\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　二人でお酒とかー……☆」\",\"translatedEnglishLine\":\"Drinking together or something...☆\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「待たんかこのレズ」\",\"translatedEnglishLine\":\"\\\"Wait a minute, you lesbians.\\\"\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"「なーんだよー。\",\"translatedEnglishLine\":\"\\\"What the heck.\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"　女の子同士の友情を邪魔すんなよー」\",\"translatedEnglishLine\":\"Don't ruin the friendship between girls.\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「お前のは友情じゃないだろうが！」\",\"translatedEnglishLine\":\"\\\"Yours isn't friendship though!\\\"\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"「じょーだんじょーだん。\",\"translatedEnglishLine\":\"\\\"Just kidding, just kidding.\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　ランスの反応が面白ぇからさー」\",\"translatedEnglishLine\":\"I just find Rance's reaction funny.\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「アイスフレームのお二人……\",\"translatedEnglishLine\":\"\\\"The two from Ice Flame...\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"　お元気そうで何よりですだ」\",\"translatedEnglishLine\":\"Glad to see you both well.\\\"\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"「うんうん。いつもあのふたり……と。\",\"translatedEnglishLine\":\"\\\"Yeah, yeah. Always those two... and.\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　そういえばセスナちゃんは？」\",\"translatedEnglishLine\":\"By the way, what about Setsuna-chan?\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「あ、セスナは別件。というか、\",\"translatedEnglishLine\":\"\\\"Ah, Setsuna has another matter. Or rather,\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"　あたしひとりで来る予定だったんだけど……\",\"translatedEnglishLine\":\"I was supposed to come alone but...\\\"\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"「旦那の安全を守るのは嫁の義務っしょ☆」\",\"translatedEnglishLine\":\"Protecting your husband's safety is a wife's duty☆\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "234328",
+                "originalJapaneseLine": "　可能性は少しでも高い方がいいだすからな」",
+                "translatedEnglishLine": "\"It's best if the chances are even slightly higher.\""
+            },
+            {
+                "lineNumber": "237121",
+                "originalJapaneseLine": "　裸族王バファムーンＶＳミルキー・トー」",
+                "translatedEnglishLine": "\"Naked Tribe King Bafamoon VS Milky Toe\""
+            },
+            {
+                "lineNumber": "238414",
+                "originalJapaneseLine": "　＜エール＞・モフスＶＳ魔女リクチェル」",
+                "translatedEnglishLine": "\"<Yell> Mofusu VS Witch Rikucheru\""
+            },
+            {
+                "lineNumber": "265417",
+                "originalJapaneseLine": "１０２シナリオテストｄｆｄｆｄｆな橋、",
+                "translatedEnglishLine": "102 Scenario Test dfd fdf Bridge,"
+            },
+            {
+                "lineNumber": "265418",
+                "originalJapaneseLine": "天満橋。",
+                "translatedEnglishLine": "Tenman Bridge."
+            },
+            {
+                "lineNumber": "265419",
+                "originalJapaneseLine": "「みんな集合ー、ってね☆",
+                "translatedEnglishLine": "\"Everyone, gather up— you know☆"
+            },
+            {
+                "lineNumber": "265420",
+                "originalJapaneseLine": "　呼ばれちゃったら、",
+                "translatedEnglishLine": "Once we're called,"
+            },
+            {
+                "lineNumber": "265421",
+                "originalJapaneseLine": "　相手がヤベーとか言ってらんないね」",
+                "translatedEnglishLine": "we can't just say the enemy's scary."
+            },
+            {
+                "lineNumber": "265422",
+                "originalJapaneseLine": "「ああ。",
+                "translatedEnglishLine": "\"Yeah."
+            },
+            {
+                "lineNumber": "265423",
+                "originalJapaneseLine": "　ゼスを守るのを、人任せにはできないしね」",
+                "translatedEnglishLine": "We can't leave protecting Zeth to others."
+            },
+            {
+                "lineNumber": "265424",
+                "originalJapaneseLine": "「…………うい」",
+                "translatedEnglishLine": "\"...Yeah.\""
+            },
+            {
+                "lineNumber": "265425",
+                "originalJapaneseLine": "「ん……しょっ……！」",
+                "translatedEnglishLine": "\"Ngh... Hup...!\""
+            },
+            {
+                "lineNumber": "265426",
+                "originalJapaneseLine": "「クッ、ぬるいわ、ッ……！」",
+                "translatedEnglishLine": "\"Tch, that's weak...!\""
+            },
+            {
+                "lineNumber": "265427",
+                "originalJapaneseLine": "フルスイングの一撃を、触腕の一本が弾き返す。",
+                "translatedEnglishLine": "One of the tentacles deflected the full-swing blow."
+            },
+            {
+                "lineNumber": "265428",
+                "originalJapaneseLine": "「……あれ」",
+                "translatedEnglishLine": "\"...Huh?\""
+            },
+            {
+                "lineNumber": "265429",
+                "originalJapaneseLine": "「セスナ、下がっ……！」",
+                "translatedEnglishLine": "\"Setsuna, fall back...!\""
+            },
+            {
+                "lineNumber": "265430",
+                "originalJapaneseLine": "豪腕が唸り、セスナの軽い身体が",
+                "translatedEnglishLine": "A mighty arm roared, and Setsuna's light body"
+            },
+            {
+                "lineNumber": "265431",
+                "originalJapaneseLine": "受けたハンマーごと転がった。",
+                "translatedEnglishLine": "rolled over along with the hammer she wielded."
+            },
+            {
+                "lineNumber": "265432",
+                "originalJapaneseLine": "「おらおらおらおらおら！",
+                "translatedEnglishLine": "\"Ora ora ora ora ora!"
+            },
+            {
+                "lineNumber": "265433",
+                "originalJapaneseLine": "　一斉射撃、ありったけだ！」",
+                "translatedEnglishLine": "Full volley, give it everything you've got!\""
+            },
+            {
+                "lineNumber": "265434",
+                "originalJapaneseLine": "「……今度は、当たる」",
+                "translatedEnglishLine": "\"...This time, it hits.\""
+            },
+            {
+                "lineNumber": "265435",
+                "originalJapaneseLine": "「がはう、っ……あ、あーー、おごっ……」",
+                "translatedEnglishLine": "\"Gahau... ah, aahh, oof...\""
+            },
+            {
+                "lineNumber": "265436",
+                "originalJapaneseLine": "全身を使って遠心力を生み出した渾身の一撃が、",
+                "translatedEnglishLine": "A powerful blow fueled by centrifugal force from the entire body,"
+            },
+            {
+                "lineNumber": "265437",
+                "originalJapaneseLine": "茫洋と立ち尽くすツォトンの身体を砕く。",
+                "translatedEnglishLine": "shattered the body of Tsoton, who stood aimlessly."
+            },
+            {
+                "lineNumber": "265438",
+                "originalJapaneseLine": "「だー！　無茶するなって！",
+                "translatedEnglishLine": "\"Damn! Don't be reckless!\""
+            },
+            {
+                "lineNumber": "265439",
+                "originalJapaneseLine": "　そこ、まだ毒！」",
+                "translatedEnglishLine": "That's still poisoned there!\""
+            },
+            {
+                "lineNumber": "265440",
+                "originalJapaneseLine": "「いやー、終わった終わったー。",
+                "translatedEnglishLine": "\"Whoa, it's over, it's over."
+            },
+            {
+                "lineNumber": "265441",
+                "originalJapaneseLine": "　たまにガチでやるとしんどいわ。プリマー」",
+                "translatedEnglishLine": "Doing it seriously once in a while is tough, Prima.\""
+            },
+            {
+                "lineNumber": "265442",
+                "originalJapaneseLine": "「はい次、動けない人連れてきな！",
+                "translatedEnglishLine": "\"Alright next, bring those who can't move!"
+            },
+            {
+                "lineNumber": "265443",
+                "originalJapaneseLine": "　ちゃちゃっと手当てして、脱出するよ！」",
+                "translatedEnglishLine": "Quickly treat them and let's get out of here!\""
+            },
+            {
+                "lineNumber": "265444",
+                "originalJapaneseLine": "「…………構えこらーー！」",
+                "translatedEnglishLine": "\"...Get ready—!\""
+            },
+            {
+                "lineNumber": "265445",
+                "originalJapaneseLine": "「わあぁ、メガデス！？",
+                "translatedEnglishLine": "\"Wah, Megadeath!?\""
+            },
+            {
+                "lineNumber": "265446",
+                "originalJapaneseLine": "　あ、後にしろ後にーーーー！」",
+                "translatedEnglishLine": "Ah, leave it for later, later—!\""
+            },
+            {
+                "lineNumber": "265447",
+                "originalJapaneseLine": "「…………ぐう」",
+                "translatedEnglishLine": "\"...Ugh.\""
+            },
+            {
+                "lineNumber": "265448",
+                "originalJapaneseLine": "「こんにちはー……あれ？」",
+                "translatedEnglishLine": "\"Hello there... huh?\""
+            },
+            {
+                "lineNumber": "265449",
+                "originalJapaneseLine": "「あら、いらっしゃい」",
+                "translatedEnglishLine": "\"Oh, welcome.\""
+            },
+            {
+                "lineNumber": "265450",
+                "originalJapaneseLine": "「ウルザさんに頼まれて、",
+                "translatedEnglishLine": "\"Ulza-san asked me to,"
+            },
+            {
+                "lineNumber": "265451",
+                "originalJapaneseLine": "　届け物……に来たんだけど」",
+                "translatedEnglishLine": "deliver something... so I came.\""
+            },
+            {
+                "lineNumber": "265452",
+                "originalJapaneseLine": "「おっ、ランスじゃーん」",
+                "translatedEnglishLine": "\"Oh, it's Rance!\""
+            },
+            {
+                "lineNumber": "265453",
+                "originalJapaneseLine": "「おー、プリマにメガデスか。",
+                "translatedEnglishLine": "\"Oh, Prima and Megadeath, huh."
+            },
+            {
+                "lineNumber": "265454",
+                "originalJapaneseLine": "　また懐かしい顔だな」",
+                "translatedEnglishLine": "Another familiar face.\""
+            },
+            {
+                "lineNumber": "265455",
+                "originalJapaneseLine": "「モロミちゃんって呼べッつってんだろ☆」",
+                "translatedEnglishLine": "\"I told you to call me Moromi-chan☆\""
+            },
+            {
+                "lineNumber": "265456",
+                "originalJapaneseLine": "「わあ、お久しぶりです、お二人とも！」",
+                "translatedEnglishLine": "\"Wow, it's been a while, both of you!\""
+            },
+            {
+                "lineNumber": "265457",
+                "originalJapaneseLine": "「おっ、シィルちゃんだーー！",
+                "translatedEnglishLine": "\"Oh, it's Seel-chan!\""
+            },
+            {
+                "lineNumber": "265458",
+                "originalJapaneseLine": "　なーんか氷から抜けたんだって？」",
+                "translatedEnglishLine": "I heard you just got out of the ice or something?\""
+            },
+            {
+                "lineNumber": "265459",
+                "originalJapaneseLine": "「ね、お祝いしよしよ☆",
+                "translatedEnglishLine": "Hey, let's celebrate☆"
+            },
+            {
+                "lineNumber": "265460",
+                "originalJapaneseLine": "　二人でお酒とかー……☆」",
+                "translatedEnglishLine": "Drinking together or something...☆\""
+            },
+            {
+                "lineNumber": "265461",
+                "originalJapaneseLine": "「待たんかこのレズ」",
+                "translatedEnglishLine": "\"Wait a minute, you lesbians.\""
+            },
+            {
+                "lineNumber": "265462",
+                "originalJapaneseLine": "「なーんだよー。",
+                "translatedEnglishLine": "\"What the heck."
+            },
+            {
+                "lineNumber": "265463",
+                "originalJapaneseLine": "　女の子同士の友情を邪魔すんなよー」",
+                "translatedEnglishLine": "Don't ruin the friendship between girls.\""
+            },
+            {
+                "lineNumber": "265464",
+                "originalJapaneseLine": "「お前のは友情じゃないだろうが！」",
+                "translatedEnglishLine": "\"Yours isn't friendship though!\""
+            },
+            {
+                "lineNumber": "265465",
+                "originalJapaneseLine": "「じょーだんじょーだん。",
+                "translatedEnglishLine": "\"Just kidding, just kidding."
+            },
+            {
+                "lineNumber": "265466",
+                "originalJapaneseLine": "　ランスの反応が面白ぇからさー」",
+                "translatedEnglishLine": "I just find Rance's reaction funny.\""
+            },
+            {
+                "lineNumber": "265467",
+                "originalJapaneseLine": "「アイスフレームのお二人……",
+                "translatedEnglishLine": "\"The two from Ice Flame..."
+            },
+            {
+                "lineNumber": "265468",
+                "originalJapaneseLine": "　お元気そうで何よりですだ」",
+                "translatedEnglishLine": "Glad to see you both well.\""
+            },
+            {
+                "lineNumber": "265469",
+                "originalJapaneseLine": "「うんうん。いつもあのふたり……と。",
+                "translatedEnglishLine": "\"Yeah, yeah. Always those two... and."
+            },
+            {
+                "lineNumber": "265470",
+                "originalJapaneseLine": "　そういえばセスナちゃんは？」",
+                "translatedEnglishLine": "By the way, what about Setsuna-chan?\""
+            },
+            {
+                "lineNumber": "265471",
+                "originalJapaneseLine": "「あ、セスナは別件。というか、",
+                "translatedEnglishLine": "\"Ah, Setsuna has another matter. Or rather,"
+            },
+            {
+                "lineNumber": "265472",
+                "originalJapaneseLine": "　あたしひとりで来る予定だったんだけど……",
+                "translatedEnglishLine": "I was supposed to come alone but...\""
+            },
+            {
+                "lineNumber": "265473",
+                "originalJapaneseLine": "「旦那の安全を守るのは嫁の義務っしょ☆」",
+                "translatedEnglishLine": "Protecting your husband's safety is a wife's duty☆\""
+            }
+        ]
+    }
+}

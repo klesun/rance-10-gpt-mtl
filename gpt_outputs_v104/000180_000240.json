@@ -1,0 +1,719 @@
+{
+    "id": "resp_0a6a30bf0bd706dc0068ffe456ab28819795aa69fc1df6811b",
+    "object": "response",
+    "created_at": 1761600598,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0a6a30bf0bd706dc0068ffe45839fc8197a809700e2083778e",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「おそらく皆さんも、\",\"translatedEnglishLine\":\"\\\"Perhaps all of you also,\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　大体は予想がついていたのではないかと」\",\"translatedEnglishLine\":\"had roughly anticipated this, I believe.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「これが世界に起こった混乱。\",\"translatedEnglishLine\":\"\\\"This is the chaos that happened to the world.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　神異変の真相です」\",\"translatedEnglishLine\":\"The truth behind the divine calamity.\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「ええ、まさか……\",\"translatedEnglishLine\":\"\\\"Yes, no way...\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　世界中の皆さんも神の消えた原因が、\",\"translatedEnglishLine\":\"Even everyone around the world likely never thought the cause of the gods disappearing\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　AL教の法王によってとは思わなかったでしょうね」\",\"translatedEnglishLine\":\"was due to the Pope of the AL religion.\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「おや、女神ALICE。\",\"translatedEnglishLine\":\"\\\"Oh, goddess ALICE.\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　如何なさいました？」\",\"translatedEnglishLine\":\"What’s the matter?\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「……して、やられたわね」\",\"translatedEnglishLine\":\"\\\"...So, I’ve been bested.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「神の不干渉を願う者自体はいたけれど、\",\"translatedEnglishLine\":\"\\\"There were those who wished for the gods' non-interference themselves,\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　まさか、あのお方を人の身に堕すなんて……」\",\"translatedEnglishLine\":\"but to think that person would be fallen into human form...\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「法王クルックー……\",\"translatedEnglishLine\":\"\\\"Pope Krukku...\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　話を進める前に、\",\"translatedEnglishLine\":\"Before proceeding with the story,\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　最初に確認するべきことがありました」\",\"translatedEnglishLine\":\"there is something that must be confirmed first.\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「貴方の『目的』は、\",\"translatedEnglishLine\":\"\\\"Your 'purpose' is,\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　自分と周囲の平和ですか？」\",\"translatedEnglishLine\":\"the peace of yourself and those around you?\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ええ、その通りです。\",\"translatedEnglishLine\":\"\\\"Yes, that's right.\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　魂管理局クエルプラン様」\",\"translatedEnglishLine\":\"Mr. Querpplan of the Soul Management Bureau.\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「実は最初に提案した人間になる期間は、\",\"translatedEnglishLine\":\"\\\"Actually, the initial proposed period to become human was\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　ざっと100年ほどでした」\",\"translatedEnglishLine\":\"roughly about 100 years.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「もしルドラサウム様が\",\"translatedEnglishLine\":\"\\\"If Lord Rudrasaum\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　それを了承して下さったなら……\",\"translatedEnglishLine\":\"had agreed to that...\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　私はそれ以上は何もしなかったでしょう」\",\"translatedEnglishLine\":\"I probably would have done nothing further.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「魔王であるランスに、\",\"translatedEnglishLine\":\"\\\"I would have had the Demon King Rance,\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　シィルさんの氷を溶かしてもらい、\",\"translatedEnglishLine\":\"melt the ice of Miss Shīru,\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　正気に戻ったらもう何もしません」\",\"translatedEnglishLine\":\"and once he regained sanity, I would do nothing more.\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「ですが――\",\"translatedEnglishLine\":\"\\\"However—\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　ルドラサウム様は仰いました。\",\"translatedEnglishLine\":\"Lord Rudrasaum said.\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　100年もなんて嫌だ〜い、と」\",\"translatedEnglishLine\":\"‘I hate the idea of 100 years so much~’\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「――あのお方の言葉を\",\"translatedEnglishLine\":\"\\\"—Stop imitating what that person said.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　貴方が真似するのはやめなさい」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「おっと、これは失礼しました」\",\"translatedEnglishLine\":\"\\\"Oops, my apologies.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「……話を戻しましょう」\",\"translatedEnglishLine\":\"\\\"...Let’s get back to the story.\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「では、貴方の願いは、\",\"translatedEnglishLine\":\"\\\"So, your wish,\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　完璧な形では叶わなかった、\",\"translatedEnglishLine\":\"was not fulfilled perfectly,\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　そういうことですね？」\",\"translatedEnglishLine\":\"is that correct?\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「はい、その通りです」\",\"translatedEnglishLine\":\"\\\"Yes, that’s exactly right.\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「私はまた急遽次のプランを\",\"translatedEnglishLine\":\"\\\"I was then forced to urgently come up with the next plan.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　考える必要に迫られました」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「ですが、正直……\",\"translatedEnglishLine\":\"\\\"But, to be honest...\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　なにも考えていなかったんですよね」\",\"translatedEnglishLine\":\"I wasn’t thinking about anything at all.\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「さて、どうしたものかと悩んでいる間に、\",\"translatedEnglishLine\":\"\\\"Well, while I was wondering what to do,\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　私は妊娠し、そして出産をしました」\",\"translatedEnglishLine\":\"I became pregnant, and then gave birth.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「産んだ子は才能限界がないということ以外は、\",\"translatedEnglishLine\":\"\\\"The child I gave birth to was quite an ordinary child,\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　至って普通の子供でしたが……」\",\"translatedEnglishLine\":\"except for having no limit to talent...\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「すぐに分かりました。\",\"translatedEnglishLine\":\"\\\"I immediately understood.\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　ああ、これがルドラサウム様なのだと」\",\"translatedEnglishLine\":\"Ah, this is Lord Rudrasaum.\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「神々が消えた時期とも一致しますしね」\",\"translatedEnglishLine\":\"\\\"It also matches the time the gods disappeared.\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「神々のなき世界は混乱を極めました。\",\"translatedEnglishLine\":\"\\\"The world without gods fell into extreme chaos.\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　勇者システム、魔王システム、\",\"translatedEnglishLine\":\"The Hero System, the Demon King System,\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　その上クエルプラン様まで暴走しました」\",\"translatedEnglishLine\":\"and even Mr. Querpplan went berserk on top of that.\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「そうこうする内に、\",\"translatedEnglishLine\":\"\\\"As things went on,\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　私の子となったルドラサウム様――\",\"translatedEnglishLine\":\"Lord Rudrasaum, who became my child—\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　＜エール＞はすくすくと育ちました」\",\"translatedEnglishLine\":\"<Earl> grew up healthy and strong.\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「そして、時は流れ、流れて……」\",\"translatedEnglishLine\":\"\\\"And time passed and passed...\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「私は、私の子である＜エール＞を、\",\"translatedEnglishLine\":\"\\\"I decided to send <Earl>, my child,\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　魔王討伐の冒険に出すことに決めました」\",\"translatedEnglishLine\":\"on an adventure to defeat the Demon King.\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": "85393",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "85394",
+                                "originalJapaneseLine": "「おそらく皆さんも、",
+                                "translatedEnglishLine": "\"Perhaps all of you also,"
+                            },
+                            {
+                                "lineNumber": "85395",
+                                "originalJapaneseLine": "　大体は予想がついていたのではないかと」",
+                                "translatedEnglishLine": "had roughly anticipated this, I believe.\""
+                            },
+                            {
+                                "lineNumber": "85396",
+                                "originalJapaneseLine": "「これが世界に起こった混乱。",
+                                "translatedEnglishLine": "\"This is the chaos that happened to the world."
+                            },
+                            {
+                                "lineNumber": "85397",
+                                "originalJapaneseLine": "　神異変の真相です」",
+                                "translatedEnglishLine": "The truth behind the divine calamity.\""
+                            },
+                            {
+                                "lineNumber": "85398",
+                                "originalJapaneseLine": "「ええ、まさか……",
+                                "translatedEnglishLine": "\"Yes, no way..."
+                            },
+                            {
+                                "lineNumber": "85399",
+                                "originalJapaneseLine": "　世界中の皆さんも神の消えた原因が、",
+                                "translatedEnglishLine": "Even everyone around the world likely never thought the cause of the gods disappearing"
+                            },
+                            {
+                                "lineNumber": "85400",
+                                "originalJapaneseLine": "　AL教の法王によってとは思わなかったでしょうね」",
+                                "translatedEnglishLine": "was due to the Pope of the AL religion.\""
+                            },
+                            {
+                                "lineNumber": "85401",
+                                "originalJapaneseLine": "「おや、女神ALICE。",
+                                "translatedEnglishLine": "\"Oh, goddess ALICE."
+                            },
+                            {
+                                "lineNumber": "85402",
+                                "originalJapaneseLine": "　如何なさいました？」",
+                                "translatedEnglishLine": "What’s the matter?\""
+                            },
+                            {
+                                "lineNumber": "85403",
+                                "originalJapaneseLine": "「……して、やられたわね」",
+                                "translatedEnglishLine": "\"...So, I’ve been bested.\""
+                            },
+                            {
+                                "lineNumber": "85404",
+                                "originalJapaneseLine": "「神の不干渉を願う者自体はいたけれど、",
+                                "translatedEnglishLine": "\"There were those who wished for the gods' non-interference themselves,"
+                            },
+                            {
+                                "lineNumber": "85405",
+                                "originalJapaneseLine": "　まさか、あのお方を人の身に堕すなんて……」",
+                                "translatedEnglishLine": "but to think that person would be fallen into human form...\""
+                            },
+                            {
+                                "lineNumber": "85406",
+                                "originalJapaneseLine": "「法王クルックー……",
+                                "translatedEnglishLine": "\"Pope Krukku..."
+                            },
+                            {
+                                "lineNumber": "85407",
+                                "originalJapaneseLine": "　話を進める前に、",
+                                "translatedEnglishLine": "Before proceeding with the story,"
+                            },
+                            {
+                                "lineNumber": "85408",
+                                "originalJapaneseLine": "　最初に確認するべきことがありました」",
+                                "translatedEnglishLine": "there is something that must be confirmed first.\""
+                            },
+                            {
+                                "lineNumber": "85409",
+                                "originalJapaneseLine": "「貴方の『目的』は、",
+                                "translatedEnglishLine": "\"Your 'purpose' is,"
+                            },
+                            {
+                                "lineNumber": "85410",
+                                "originalJapaneseLine": "　自分と周囲の平和ですか？」",
+                                "translatedEnglishLine": "the peace of yourself and those around you?\""
+                            },
+                            {
+                                "lineNumber": "85411",
+                                "originalJapaneseLine": "「ええ、その通りです。",
+                                "translatedEnglishLine": "\"Yes, that's right."
+                            },
+                            {
+                                "lineNumber": "85412",
+                                "originalJapaneseLine": "　魂管理局クエルプラン様」",
+                                "translatedEnglishLine": "Mr. Querpplan of the Soul Management Bureau.\""
+                            },
+                            {
+                                "lineNumber": "85413",
+                                "originalJapaneseLine": "「実は最初に提案した人間になる期間は、",
+                                "translatedEnglishLine": "\"Actually, the initial proposed period to become human was"
+                            },
+                            {
+                                "lineNumber": "85414",
+                                "originalJapaneseLine": "　ざっと100年ほどでした」",
+                                "translatedEnglishLine": "roughly about 100 years.\""
+                            },
+                            {
+                                "lineNumber": "85415",
+                                "originalJapaneseLine": "「もしルドラサウム様が",
+                                "translatedEnglishLine": "\"If Lord Rudrasaum"
+                            },
+                            {
+                                "lineNumber": "85416",
+                                "originalJapaneseLine": "　それを了承して下さったなら……",
+                                "translatedEnglishLine": "had agreed to that..."
+                            },
+                            {
+                                "lineNumber": "85417",
+                                "originalJapaneseLine": "　私はそれ以上は何もしなかったでしょう」",
+                                "translatedEnglishLine": "I probably would have done nothing further.\""
+                            },
+                            {
+                                "lineNumber": "85418",
+                                "originalJapaneseLine": "「魔王であるランスに、",
+                                "translatedEnglishLine": "\"I would have had the Demon King Rance,"
+                            },
+                            {
+                                "lineNumber": "85419",
+                                "originalJapaneseLine": "　シィルさんの氷を溶かしてもらい、",
+                                "translatedEnglishLine": "melt the ice of Miss Shīru,"
+                            },
+                            {
+                                "lineNumber": "85420",
+                                "originalJapaneseLine": "　正気に戻ったらもう何もしません」",
+                                "translatedEnglishLine": "and once he regained sanity, I would do nothing more.\""
+                            },
+                            {
+                                "lineNumber": "85421",
+                                "originalJapaneseLine": "「ですが――",
+                                "translatedEnglishLine": "\"However—"
+                            },
+                            {
+                                "lineNumber": "85422",
+                                "originalJapaneseLine": "　ルドラサウム様は仰いました。",
+                                "translatedEnglishLine": "Lord Rudrasaum said."
+                            },
+                            {
+                                "lineNumber": "85423",
+                                "originalJapaneseLine": "　100年もなんて嫌だ〜い、と」",
+                                "translatedEnglishLine": "‘I hate the idea of 100 years so much~’\""
+                            },
+                            {
+                                "lineNumber": "85424",
+                                "originalJapaneseLine": "「――あのお方の言葉を",
+                                "translatedEnglishLine": "\"—Stop imitating what that person said."
+                            },
+                            {
+                                "lineNumber": "85425",
+                                "originalJapaneseLine": "　貴方が真似するのはやめなさい」",
+                                "translatedEnglishLine": "\""
+                            },
+                            {
+                                "lineNumber": "85426",
+                                "originalJapaneseLine": "「おっと、これは失礼しました」",
+                                "translatedEnglishLine": "\"Oops, my apologies.\""
+                            },
+                            {
+                                "lineNumber": "85427",
+                                "originalJapaneseLine": "「……話を戻しましょう」",
+                                "translatedEnglishLine": "\"...Let’s get back to the story.\""
+                            },
+                            {
+                                "lineNumber": "85428",
+                                "originalJapaneseLine": "「では、貴方の願いは、",
+                                "translatedEnglishLine": "\"So, your wish,"
+                            },
+                            {
+                                "lineNumber": "85429",
+                                "originalJapaneseLine": "　完璧な形では叶わなかった、",
+                                "translatedEnglishLine": "was not fulfilled perfectly,"
+                            },
+                            {
+                                "lineNumber": "85430",
+                                "originalJapaneseLine": "　そういうことですね？」",
+                                "translatedEnglishLine": "is that correct?\""
+                            },
+                            {
+                                "lineNumber": "85431",
+                                "originalJapaneseLine": "「はい、その通りです」",
+                                "translatedEnglishLine": "\"Yes, that’s exactly right.\""
+                            },
+                            {
+                                "lineNumber": "85432",
+                                "originalJapaneseLine": "「私はまた急遽次のプランを",
+                                "translatedEnglishLine": "\"I was then forced to urgently come up with the next plan."
+                            },
+                            {
+                                "lineNumber": "85433",
+                                "originalJapaneseLine": "　考える必要に迫られました」",
+                                "translatedEnglishLine": "\""
+                            },
+                            {
+                                "lineNumber": "85434",
+                                "originalJapaneseLine": "「ですが、正直……",
+                                "translatedEnglishLine": "\"But, to be honest..."
+                            },
+                            {
+                                "lineNumber": "85435",
+                                "originalJapaneseLine": "　なにも考えていなかったんですよね」",
+                                "translatedEnglishLine": "I wasn’t thinking about anything at all.\""
+                            },
+                            {
+                                "lineNumber": "85436",
+                                "originalJapaneseLine": "「さて、どうしたものかと悩んでいる間に、",
+                                "translatedEnglishLine": "\"Well, while I was wondering what to do,"
+                            },
+                            {
+                                "lineNumber": "85437",
+                                "originalJapaneseLine": "　私は妊娠し、そして出産をしました」",
+                                "translatedEnglishLine": "I became pregnant, and then gave birth.\""
+                            },
+                            {
+                                "lineNumber": "85438",
+                                "originalJapaneseLine": "「産んだ子は才能限界がないということ以外は、",
+                                "translatedEnglishLine": "\"The child I gave birth to was quite an ordinary child,"
+                            },
+                            {
+                                "lineNumber": "85439",
+                                "originalJapaneseLine": "　至って普通の子供でしたが……」",
+                                "translatedEnglishLine": "except for having no limit to talent...\""
+                            },
+                            {
+                                "lineNumber": "85440",
+                                "originalJapaneseLine": "「すぐに分かりました。",
+                                "translatedEnglishLine": "\"I immediately understood."
+                            },
+                            {
+                                "lineNumber": "85441",
+                                "originalJapaneseLine": "　ああ、これがルドラサウム様なのだと」",
+                                "translatedEnglishLine": "Ah, this is Lord Rudrasaum.\""
+                            },
+                            {
+                                "lineNumber": "85442",
+                                "originalJapaneseLine": "「神々が消えた時期とも一致しますしね」",
+                                "translatedEnglishLine": "\"It also matches the time the gods disappeared.\""
+                            },
+                            {
+                                "lineNumber": "85443",
+                                "originalJapaneseLine": "「神々のなき世界は混乱を極めました。",
+                                "translatedEnglishLine": "\"The world without gods fell into extreme chaos."
+                            },
+                            {
+                                "lineNumber": "85444",
+                                "originalJapaneseLine": "　勇者システム、魔王システム、",
+                                "translatedEnglishLine": "The Hero System, the Demon King System,"
+                            },
+                            {
+                                "lineNumber": "85445",
+                                "originalJapaneseLine": "　その上クエルプラン様まで暴走しました」",
+                                "translatedEnglishLine": "and even Mr. Querpplan went berserk on top of that.\""
+                            },
+                            {
+                                "lineNumber": "85446",
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": "85447",
+                                "originalJapaneseLine": "「そうこうする内に、",
+                                "translatedEnglishLine": "\"As things went on,"
+                            },
+                            {
+                                "lineNumber": "85448",
+                                "originalJapaneseLine": "　私の子となったルドラサウム様――",
+                                "translatedEnglishLine": "Lord Rudrasaum, who became my child—"
+                            },
+                            {
+                                "lineNumber": "85449",
+                                "originalJapaneseLine": "　＜エール＞はすくすくと育ちました」",
+                                "translatedEnglishLine": "<Earl> grew up healthy and strong.\""
+                            },
+                            {
+                                "lineNumber": "85450",
+                                "originalJapaneseLine": "「そして、時は流れ、流れて……」",
+                                "translatedEnglishLine": "\"And time passed and passed..."
+                            },
+                            {
+                                "lineNumber": "85451",
+                                "originalJapaneseLine": "「私は、私の子である＜エール＞を、",
+                                "translatedEnglishLine": "\"I decided to send <Earl>, my child,"
+                            },
+                            {
+                                "lineNumber": "85452",
+                                "originalJapaneseLine": "　魔王討伐の冒険に出すことに決めました」",
+                                "translatedEnglishLine": "on an adventure to defeat the Demon King.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1807,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2091,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3898
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"「おそらく皆さんも、\",\"translatedEnglishLine\":\"\\\"Perhaps all of you also,\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"　大体は予想がついていたのではないかと」\",\"translatedEnglishLine\":\"had roughly anticipated this, I believe.\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「これが世界に起こった混乱。\",\"translatedEnglishLine\":\"\\\"This is the chaos that happened to the world.\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"　神異変の真相です」\",\"translatedEnglishLine\":\"The truth behind the divine calamity.\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"「ええ、まさか……\",\"translatedEnglishLine\":\"\\\"Yes, no way...\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"　世界中の皆さんも神の消えた原因が、\",\"translatedEnglishLine\":\"Even everyone around the world likely never thought the cause of the gods disappearing\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"　AL教の法王によってとは思わなかったでしょうね」\",\"translatedEnglishLine\":\"was due to the Pope of the AL religion.\\\"\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"「おや、女神ALICE。\",\"translatedEnglishLine\":\"\\\"Oh, goddess ALICE.\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"　如何なさいました？」\",\"translatedEnglishLine\":\"What’s the matter?\\\"\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"「……して、やられたわね」\",\"translatedEnglishLine\":\"\\\"...So, I’ve been bested.\\\"\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"「神の不干渉を願う者自体はいたけれど、\",\"translatedEnglishLine\":\"\\\"There were those who wished for the gods' non-interference themselves,\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"　まさか、あのお方を人の身に堕すなんて……」\",\"translatedEnglishLine\":\"but to think that person would be fallen into human form...\\\"\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"「法王クルックー……\",\"translatedEnglishLine\":\"\\\"Pope Krukku...\"},{\"lineNumber\":15,\"originalJapaneseLine\":\"　話を進める前に、\",\"translatedEnglishLine\":\"Before proceeding with the story,\"},{\"lineNumber\":16,\"originalJapaneseLine\":\"　最初に確認するべきことがありました」\",\"translatedEnglishLine\":\"there is something that must be confirmed first.\\\"\"},{\"lineNumber\":17,\"originalJapaneseLine\":\"「貴方の『目的』は、\",\"translatedEnglishLine\":\"\\\"Your 'purpose' is,\"},{\"lineNumber\":18,\"originalJapaneseLine\":\"　自分と周囲の平和ですか？」\",\"translatedEnglishLine\":\"the peace of yourself and those around you?\\\"\"},{\"lineNumber\":19,\"originalJapaneseLine\":\"「ええ、その通りです。\",\"translatedEnglishLine\":\"\\\"Yes, that's right.\"},{\"lineNumber\":20,\"originalJapaneseLine\":\"　魂管理局クエルプラン様」\",\"translatedEnglishLine\":\"Mr. Querpplan of the Soul Management Bureau.\\\"\"},{\"lineNumber\":21,\"originalJapaneseLine\":\"「実は最初に提案した人間になる期間は、\",\"translatedEnglishLine\":\"\\\"Actually, the initial proposed period to become human was\"},{\"lineNumber\":22,\"originalJapaneseLine\":\"　ざっと100年ほどでした」\",\"translatedEnglishLine\":\"roughly about 100 years.\\\"\"},{\"lineNumber\":23,\"originalJapaneseLine\":\"「もしルドラサウム様が\",\"translatedEnglishLine\":\"\\\"If Lord Rudrasaum\"},{\"lineNumber\":24,\"originalJapaneseLine\":\"　それを了承して下さったなら……\",\"translatedEnglishLine\":\"had agreed to that...\"},{\"lineNumber\":25,\"originalJapaneseLine\":\"　私はそれ以上は何もしなかったでしょう」\",\"translatedEnglishLine\":\"I probably would have done nothing further.\\\"\"},{\"lineNumber\":26,\"originalJapaneseLine\":\"「魔王であるランスに、\",\"translatedEnglishLine\":\"\\\"I would have had the Demon King Rance,\"},{\"lineNumber\":27,\"originalJapaneseLine\":\"　シィルさんの氷を溶かしてもらい、\",\"translatedEnglishLine\":\"melt the ice of Miss Shīru,\"},{\"lineNumber\":28,\"originalJapaneseLine\":\"　正気に戻ったらもう何もしません」\",\"translatedEnglishLine\":\"and once he regained sanity, I would do nothing more.\\\"\"},{\"lineNumber\":29,\"originalJapaneseLine\":\"「ですが――\",\"translatedEnglishLine\":\"\\\"However—\"},{\"lineNumber\":30,\"originalJapaneseLine\":\"　ルドラサウム様は仰いました。\",\"translatedEnglishLine\":\"Lord Rudrasaum said.\"},{\"lineNumber\":31,\"originalJapaneseLine\":\"　100年もなんて嫌だ〜い、と」\",\"translatedEnglishLine\":\"‘I hate the idea of 100 years so much~’\\\"\"},{\"lineNumber\":32,\"originalJapaneseLine\":\"「――あのお方の言葉を\",\"translatedEnglishLine\":\"\\\"—Stop imitating what that person said.\"},{\"lineNumber\":33,\"originalJapaneseLine\":\"　貴方が真似するのはやめなさい」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":34,\"originalJapaneseLine\":\"「おっと、これは失礼しました」\",\"translatedEnglishLine\":\"\\\"Oops, my apologies.\\\"\"},{\"lineNumber\":35,\"originalJapaneseLine\":\"「……話を戻しましょう」\",\"translatedEnglishLine\":\"\\\"...Let’s get back to the story.\\\"\"},{\"lineNumber\":36,\"originalJapaneseLine\":\"「では、貴方の願いは、\",\"translatedEnglishLine\":\"\\\"So, your wish,\"},{\"lineNumber\":37,\"originalJapaneseLine\":\"　完璧な形では叶わなかった、\",\"translatedEnglishLine\":\"was not fulfilled perfectly,\"},{\"lineNumber\":38,\"originalJapaneseLine\":\"　そういうことですね？」\",\"translatedEnglishLine\":\"is that correct?\\\"\"},{\"lineNumber\":39,\"originalJapaneseLine\":\"「はい、その通りです」\",\"translatedEnglishLine\":\"\\\"Yes, that’s exactly right.\\\"\"},{\"lineNumber\":40,\"originalJapaneseLine\":\"「私はまた急遽次のプランを\",\"translatedEnglishLine\":\"\\\"I was then forced to urgently come up with the next plan.\"},{\"lineNumber\":41,\"originalJapaneseLine\":\"　考える必要に迫られました」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":42,\"originalJapaneseLine\":\"「ですが、正直……\",\"translatedEnglishLine\":\"\\\"But, to be honest...\"},{\"lineNumber\":43,\"originalJapaneseLine\":\"　なにも考えていなかったんですよね」\",\"translatedEnglishLine\":\"I wasn’t thinking about anything at all.\\\"\"},{\"lineNumber\":44,\"originalJapaneseLine\":\"「さて、どうしたものかと悩んでいる間に、\",\"translatedEnglishLine\":\"\\\"Well, while I was wondering what to do,\"},{\"lineNumber\":45,\"originalJapaneseLine\":\"　私は妊娠し、そして出産をしました」\",\"translatedEnglishLine\":\"I became pregnant, and then gave birth.\\\"\"},{\"lineNumber\":46,\"originalJapaneseLine\":\"「産んだ子は才能限界がないということ以外は、\",\"translatedEnglishLine\":\"\\\"The child I gave birth to was quite an ordinary child,\"},{\"lineNumber\":47,\"originalJapaneseLine\":\"　至って普通の子供でしたが……」\",\"translatedEnglishLine\":\"except for having no limit to talent...\\\"\"},{\"lineNumber\":48,\"originalJapaneseLine\":\"「すぐに分かりました。\",\"translatedEnglishLine\":\"\\\"I immediately understood.\"},{\"lineNumber\":49,\"originalJapaneseLine\":\"　ああ、これがルドラサウム様なのだと」\",\"translatedEnglishLine\":\"Ah, this is Lord Rudrasaum.\\\"\"},{\"lineNumber\":50,\"originalJapaneseLine\":\"「神々が消えた時期とも一致しますしね」\",\"translatedEnglishLine\":\"\\\"It also matches the time the gods disappeared.\\\"\"},{\"lineNumber\":51,\"originalJapaneseLine\":\"「神々のなき世界は混乱を極めました。\",\"translatedEnglishLine\":\"\\\"The world without gods fell into extreme chaos.\"},{\"lineNumber\":52,\"originalJapaneseLine\":\"　勇者システム、魔王システム、\",\"translatedEnglishLine\":\"The Hero System, the Demon King System,\"},{\"lineNumber\":53,\"originalJapaneseLine\":\"　その上クエルプラン様まで暴走しました」\",\"translatedEnglishLine\":\"and even Mr. Querpplan went berserk on top of that.\\\"\"},{\"lineNumber\":54,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":55,\"originalJapaneseLine\":\"「そうこうする内に、\",\"translatedEnglishLine\":\"\\\"As things went on,\"},{\"lineNumber\":56,\"originalJapaneseLine\":\"　私の子となったルドラサウム様――\",\"translatedEnglishLine\":\"Lord Rudrasaum, who became my child—\"},{\"lineNumber\":57,\"originalJapaneseLine\":\"　＜エール＞はすくすくと育ちました」\",\"translatedEnglishLine\":\"<Earl> grew up healthy and strong.\\\"\"},{\"lineNumber\":58,\"originalJapaneseLine\":\"「そして、時は流れ、流れて……」\",\"translatedEnglishLine\":\"\\\"And time passed and passed...\"},{\"lineNumber\":59,\"originalJapaneseLine\":\"「私は、私の子である＜エール＞を、\",\"translatedEnglishLine\":\"\\\"I decided to send <Earl>, my child,\"},{\"lineNumber\":60,\"originalJapaneseLine\":\"　魔王討伐の冒険に出すことに決めました」\",\"translatedEnglishLine\":\"on an adventure to defeat the Demon King.\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": "85393",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "85394",
+                "originalJapaneseLine": "「おそらく皆さんも、",
+                "translatedEnglishLine": "\"Perhaps all of you also,"
+            },
+            {
+                "lineNumber": "85395",
+                "originalJapaneseLine": "　大体は予想がついていたのではないかと」",
+                "translatedEnglishLine": "had roughly anticipated this, I believe.\""
+            },
+            {
+                "lineNumber": "85396",
+                "originalJapaneseLine": "「これが世界に起こった混乱。",
+                "translatedEnglishLine": "\"This is the chaos that happened to the world."
+            },
+            {
+                "lineNumber": "85397",
+                "originalJapaneseLine": "　神異変の真相です」",
+                "translatedEnglishLine": "The truth behind the divine calamity.\""
+            },
+            {
+                "lineNumber": "85398",
+                "originalJapaneseLine": "「ええ、まさか……",
+                "translatedEnglishLine": "\"Yes, no way..."
+            },
+            {
+                "lineNumber": "85399",
+                "originalJapaneseLine": "　世界中の皆さんも神の消えた原因が、",
+                "translatedEnglishLine": "Even everyone around the world likely never thought the cause of the gods disappearing"
+            },
+            {
+                "lineNumber": "85400",
+                "originalJapaneseLine": "　AL教の法王によってとは思わなかったでしょうね」",
+                "translatedEnglishLine": "was due to the Pope of the AL religion.\""
+            },
+            {
+                "lineNumber": "85401",
+                "originalJapaneseLine": "「おや、女神ALICE。",
+                "translatedEnglishLine": "\"Oh, goddess ALICE."
+            },
+            {
+                "lineNumber": "85402",
+                "originalJapaneseLine": "　如何なさいました？」",
+                "translatedEnglishLine": "What’s the matter?\""
+            },
+            {
+                "lineNumber": "85403",
+                "originalJapaneseLine": "「……して、やられたわね」",
+                "translatedEnglishLine": "\"...So, I’ve been bested.\""
+            },
+            {
+                "lineNumber": "85404",
+                "originalJapaneseLine": "「神の不干渉を願う者自体はいたけれど、",
+                "translatedEnglishLine": "\"There were those who wished for the gods' non-interference themselves,"
+            },
+            {
+                "lineNumber": "85405",
+                "originalJapaneseLine": "　まさか、あのお方を人の身に堕すなんて……」",
+                "translatedEnglishLine": "but to think that person would be fallen into human form...\""
+            },
+            {
+                "lineNumber": "85406",
+                "originalJapaneseLine": "「法王クルックー……",
+                "translatedEnglishLine": "\"Pope Krukku..."
+            },
+            {
+                "lineNumber": "85407",
+                "originalJapaneseLine": "　話を進める前に、",
+                "translatedEnglishLine": "Before proceeding with the story,"
+            },
+            {
+                "lineNumber": "85408",
+                "originalJapaneseLine": "　最初に確認するべきことがありました」",
+                "translatedEnglishLine": "there is something that must be confirmed first.\""
+            },
+            {
+                "lineNumber": "85409",
+                "originalJapaneseLine": "「貴方の『目的』は、",
+                "translatedEnglishLine": "\"Your 'purpose' is,"
+            },
+            {
+                "lineNumber": "85410",
+                "originalJapaneseLine": "　自分と周囲の平和ですか？」",
+                "translatedEnglishLine": "the peace of yourself and those around you?\""
+            },
+            {
+                "lineNumber": "85411",
+                "originalJapaneseLine": "「ええ、その通りです。",
+                "translatedEnglishLine": "\"Yes, that's right."
+            },
+            {
+                "lineNumber": "85412",
+                "originalJapaneseLine": "　魂管理局クエルプラン様」",
+                "translatedEnglishLine": "Mr. Querpplan of the Soul Management Bureau.\""
+            },
+            {
+                "lineNumber": "85413",
+                "originalJapaneseLine": "「実は最初に提案した人間になる期間は、",
+                "translatedEnglishLine": "\"Actually, the initial proposed period to become human was"
+            },
+            {
+                "lineNumber": "85414",
+                "originalJapaneseLine": "　ざっと100年ほどでした」",
+                "translatedEnglishLine": "roughly about 100 years.\""
+            },
+            {
+                "lineNumber": "85415",
+                "originalJapaneseLine": "「もしルドラサウム様が",
+                "translatedEnglishLine": "\"If Lord Rudrasaum"
+            },
+            {
+                "lineNumber": "85416",
+                "originalJapaneseLine": "　それを了承して下さったなら……",
+                "translatedEnglishLine": "had agreed to that..."
+            },
+            {
+                "lineNumber": "85417",
+                "originalJapaneseLine": "　私はそれ以上は何もしなかったでしょう」",
+                "translatedEnglishLine": "I probably would have done nothing further.\""
+            },
+            {
+                "lineNumber": "85418",
+                "originalJapaneseLine": "「魔王であるランスに、",
+                "translatedEnglishLine": "\"I would have had the Demon King Rance,"
+            },
+            {
+                "lineNumber": "85419",
+                "originalJapaneseLine": "　シィルさんの氷を溶かしてもらい、",
+                "translatedEnglishLine": "melt the ice of Miss Shīru,"
+            },
+            {
+                "lineNumber": "85420",
+                "originalJapaneseLine": "　正気に戻ったらもう何もしません」",
+                "translatedEnglishLine": "and once he regained sanity, I would do nothing more.\""
+            },
+            {
+                "lineNumber": "85421",
+                "originalJapaneseLine": "「ですが――",
+                "translatedEnglishLine": "\"However—"
+            },
+            {
+                "lineNumber": "85422",
+                "originalJapaneseLine": "　ルドラサウム様は仰いました。",
+                "translatedEnglishLine": "Lord Rudrasaum said."
+            },
+            {
+                "lineNumber": "85423",
+                "originalJapaneseLine": "　100年もなんて嫌だ〜い、と」",
+                "translatedEnglishLine": "‘I hate the idea of 100 years so much~’\""
+            },
+            {
+                "lineNumber": "85424",
+                "originalJapaneseLine": "「――あのお方の言葉を",
+                "translatedEnglishLine": "\"—Stop imitating what that person said."
+            },
+            {
+                "lineNumber": "85425",
+                "originalJapaneseLine": "　貴方が真似するのはやめなさい」",
+                "translatedEnglishLine": "\""
+            },
+            {
+                "lineNumber": "85426",
+                "originalJapaneseLine": "「おっと、これは失礼しました」",
+                "translatedEnglishLine": "\"Oops, my apologies.\""
+            },
+            {
+                "lineNumber": "85427",
+                "originalJapaneseLine": "「……話を戻しましょう」",
+                "translatedEnglishLine": "\"...Let’s get back to the story.\""
+            },
+            {
+                "lineNumber": "85428",
+                "originalJapaneseLine": "「では、貴方の願いは、",
+                "translatedEnglishLine": "\"So, your wish,"
+            },
+            {
+                "lineNumber": "85429",
+                "originalJapaneseLine": "　完璧な形では叶わなかった、",
+                "translatedEnglishLine": "was not fulfilled perfectly,"
+            },
+            {
+                "lineNumber": "85430",
+                "originalJapaneseLine": "　そういうことですね？」",
+                "translatedEnglishLine": "is that correct?\""
+            },
+            {
+                "lineNumber": "85431",
+                "originalJapaneseLine": "「はい、その通りです」",
+                "translatedEnglishLine": "\"Yes, that’s exactly right.\""
+            },
+            {
+                "lineNumber": "85432",
+                "originalJapaneseLine": "「私はまた急遽次のプランを",
+                "translatedEnglishLine": "\"I was then forced to urgently come up with the next plan."
+            },
+            {
+                "lineNumber": "85433",
+                "originalJapaneseLine": "　考える必要に迫られました」",
+                "translatedEnglishLine": "\""
+            },
+            {
+                "lineNumber": "85434",
+                "originalJapaneseLine": "「ですが、正直……",
+                "translatedEnglishLine": "\"But, to be honest..."
+            },
+            {
+                "lineNumber": "85435",
+                "originalJapaneseLine": "　なにも考えていなかったんですよね」",
+                "translatedEnglishLine": "I wasn’t thinking about anything at all.\""
+            },
+            {
+                "lineNumber": "85436",
+                "originalJapaneseLine": "「さて、どうしたものかと悩んでいる間に、",
+                "translatedEnglishLine": "\"Well, while I was wondering what to do,"
+            },
+            {
+                "lineNumber": "85437",
+                "originalJapaneseLine": "　私は妊娠し、そして出産をしました」",
+                "translatedEnglishLine": "I became pregnant, and then gave birth.\""
+            },
+            {
+                "lineNumber": "85438",
+                "originalJapaneseLine": "「産んだ子は才能限界がないということ以外は、",
+                "translatedEnglishLine": "\"The child I gave birth to was quite an ordinary child,"
+            },
+            {
+                "lineNumber": "85439",
+                "originalJapaneseLine": "　至って普通の子供でしたが……」",
+                "translatedEnglishLine": "except for having no limit to talent...\""
+            },
+            {
+                "lineNumber": "85440",
+                "originalJapaneseLine": "「すぐに分かりました。",
+                "translatedEnglishLine": "\"I immediately understood."
+            },
+            {
+                "lineNumber": "85441",
+                "originalJapaneseLine": "　ああ、これがルドラサウム様なのだと」",
+                "translatedEnglishLine": "Ah, this is Lord Rudrasaum.\""
+            },
+            {
+                "lineNumber": "85442",
+                "originalJapaneseLine": "「神々が消えた時期とも一致しますしね」",
+                "translatedEnglishLine": "\"It also matches the time the gods disappeared.\""
+            },
+            {
+                "lineNumber": "85443",
+                "originalJapaneseLine": "「神々のなき世界は混乱を極めました。",
+                "translatedEnglishLine": "\"The world without gods fell into extreme chaos."
+            },
+            {
+                "lineNumber": "85444",
+                "originalJapaneseLine": "　勇者システム、魔王システム、",
+                "translatedEnglishLine": "The Hero System, the Demon King System,"
+            },
+            {
+                "lineNumber": "85445",
+                "originalJapaneseLine": "　その上クエルプラン様まで暴走しました」",
+                "translatedEnglishLine": "and even Mr. Querpplan went berserk on top of that.\""
+            },
+            {
+                "lineNumber": "85446",
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": "85447",
+                "originalJapaneseLine": "「そうこうする内に、",
+                "translatedEnglishLine": "\"As things went on,"
+            },
+            {
+                "lineNumber": "85448",
+                "originalJapaneseLine": "　私の子となったルドラサウム様――",
+                "translatedEnglishLine": "Lord Rudrasaum, who became my child—"
+            },
+            {
+                "lineNumber": "85449",
+                "originalJapaneseLine": "　＜エール＞はすくすくと育ちました」",
+                "translatedEnglishLine": "<Earl> grew up healthy and strong.\""
+            },
+            {
+                "lineNumber": "85450",
+                "originalJapaneseLine": "「そして、時は流れ、流れて……」",
+                "translatedEnglishLine": "\"And time passed and passed..."
+            },
+            {
+                "lineNumber": "85451",
+                "originalJapaneseLine": "「私は、私の子である＜エール＞を、",
+                "translatedEnglishLine": "\"I decided to send <Earl>, my child,"
+            },
+            {
+                "lineNumber": "85452",
+                "originalJapaneseLine": "　魔王討伐の冒険に出すことに決めました」",
+                "translatedEnglishLine": "on an adventure to defeat the Demon King.\""
+            }
+        ]
+    }
+}
