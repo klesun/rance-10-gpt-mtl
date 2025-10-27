@@ -37,27 +37,35 @@ const [v100ToV104, unmapped] = mapLineNumbers(v100AinData, v104AinData);
 
 await fs.writeFile("unmapped.ain.json", JSON.stringify(unmapped, null, 4), "utf-8");
 
-const ROOT_FOLDER_PATH = "./gpt_outputs";
+const ROOT_FOLDER_PATH_V1_00 = "./gpt_outputs";
+const ROOT_FOLDER_PATH_V1_04 = "./gpt_outputs_v104";
 
-const chunkFileNames = await fs.readdir(ROOT_FOLDER_PATH);
-const chunkFiles = chunkFileNames
-    .map(fileName => {
-        const [, startLineNumber, endLineNumber] = fileName.match(/^(\d+)_(\d+)\.json$/);
-        return {
-            fileName,
-            startLineNumber: Number(startLineNumber),
-            endLineNumber: Number(endLineNumber),
-        };
-    })
-    .sort((a,b) => a.startLineNumber - b.startLineNumber);
+const readTranslations = async (folderPath) => {
+    const chunkFileNames = await fs.readdir(folderPath);
+    const chunkFiles = chunkFileNames
+        .map(fileName => {
+            const [, startLineNumber, endLineNumber] = fileName.match(/^(\d+)_(\d+)\.json$/);
+            return {
+                fileName,
+                startLineNumber: Number(startLineNumber),
+                endLineNumber: Number(endLineNumber),
+            };
+        })
+        .sort((a,b) => a.startLineNumber - b.startLineNumber);
 
-const allLineRecords = [];
+    const allLineRecords = [];
 
-for (const chunkFile of chunkFiles) {
-    const json = await fs.readFile(ROOT_FOLDER_PATH + "/" + chunkFile.fileName, "utf-8");
-    const data = JSON.parse(json);
-    allLineRecords.push(...data.output_parsed.translationLines);
-}
+    for (const chunkFile of chunkFiles) {
+        const json = await fs.readFile(folderPath + "/" + chunkFile.fileName, "utf-8");
+        const data = JSON.parse(json);
+        allLineRecords.push(...data.output_parsed.translationLines);
+    }
+
+    return allLineRecords;
+};
+
+const allLineRecordsV100 = await readTranslations(ROOT_FOLDER_PATH_V1_00);
+const allLineRecordsV104 = await readTranslations(ROOT_FOLDER_PATH_V1_04);
 
 const LONGEST_LINE = "“More importantly, what we should discuss now is how the other";
 
@@ -89,19 +97,24 @@ const normalizeNames = (lineRecord) => {
     return sentence;
 };
 
-const output = allLineRecords
+const output = allLineRecordsV100
     .flatMap(lr => {
         const v104LineNumber = v100ToV104.get(+lr.lineNumber);
         if (!v104LineNumber) {
             return [];
+        } else {
+            return { ...lr, lineNumber: v104LineNumber };
         }
+    })
+    .concat(allLineRecordsV104)
+    .flatMap(lr => {
         let text = normalizeNames(lr);
         text = replaceUnicode(text);
         // if (text.match(/[^\x00-\x7F♪☆○Σ]/)) {
         //     throw new Error("Got unicode characters, please remove: " + text + " at " + lr.lineNumber);
         // }
         text = wrapAt(text, LONGEST_LINE);
-        return [`m[${v104LineNumber}] = ${JSON.stringify(text)}`];
+        return [`m[${lr.lineNumber}] = ${JSON.stringify(text)}`];
     })
     .join("\n") + "\n";
 
