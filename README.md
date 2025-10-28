@@ -1,4 +1,4 @@
-English patch installation instruction available [here](https://github.com/klesun/rance-10-gpt-mtl/releases) (Releases page)
+English translation installation instruction available [here](https://github.com/klesun/rance-10-gpt-mtl/releases) (Releases page)
 __________
 God bless the soul of the author of this article:
 https://haniwa.technology/alice-tools/README-ain.html
@@ -15,7 +15,7 @@ https://www.youtube.com/playlist?list=PL_mejOc9nYCLg6V_FI9ISiafdjH2CW2Mv
 You can obtain the game copy here: (please, support the developer!)
 https://www.dlsite.com/pro/work/=/product_id/VJ011759.html
 
-Alternative link (v1.00, not the latest game version):
+Alternative link:
 magnet:?xt=urn:btih:56a41b8aca7f2753ad58f96d69def852ddf7dd41&dn=Rance%2010&xl=4262760435
 
 Before:
