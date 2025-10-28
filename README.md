@@ -1,4 +1,4 @@
-Patch installation instruction available [here](https://github.com/klesun/rance-10-gpt-mtl/releases) (Releases page)
+English patch installation instruction available [here](https://github.com/klesun/rance-10-gpt-mtl/releases) (Releases page)
 __________
 God bless the soul of the author of this article:
 https://haniwa.technology/alice-tools/README-ain.html
@@ -7,7 +7,7 @@ So, apparently, with [alice-tools](https://github.com/nunuhara/alice-tools) it's
 
 And, as we all know, nowadays ChatGPT is a thing so it should be rather easy to translate the game with rather fine quality.
 
-I'll put here the scripts and their output, hopefully eventually this project will result in a patch that anyone can run to translate the game to English.
+I'll put here the scripts and their output.
 
 Youtube recordings of the walkthrough with this English patch:
 https://www.youtube.com/playlist?list=PL_mejOc9nYCLg6V_FI9ISiafdjH2CW2Mv
