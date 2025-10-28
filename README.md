@@ -1,4 +1,4 @@
-English patch installation instruction available [here](https://github.com/klesun/rance-10-gpt-mtl/releases) (Releases page)
+English translation installation instruction available [here](https://github.com/klesun/rance-10-gpt-mtl/releases) (Releases page)
 __________
 God bless the soul of the author of this article:
 https://haniwa.technology/alice-tools/README-ain.html
