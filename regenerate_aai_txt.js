@@ -8,6 +8,8 @@ const v100AinData = JSON.parse(v100AinJson);
 const v104AinJson = await fs.readFile("./Rance10.v1.04.ain.json", "utf-8");
 const v104AinData = JSON.parse(v104AinJson);
 
+const cherryPicksTxt = await fs.readFile("./system_cherry_picks.v1.04.ain.txt", "utf-8");
+
 const mapLineNumbers = (v100AinData, v104AinData) => {
     let v100Offset = 0;
     let v104LastMappedOffset = -1;
@@ -116,6 +118,6 @@ const output = allLineRecordsV100
         text = wrapAt(text, LONGEST_LINE);
         return [`m[${lr.lineNumber}] = ${JSON.stringify(text)}`];
     })
-    .join("\n") + "\n";
+    .join("\n") + cherryPicksTxt + "\n";
 
 await fs.writeFile("regenerated.ain.txt", output, "utf-8");
