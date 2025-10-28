@@ -4,10 +4,11 @@ function unquote(quoted) {
 }
 
 /**
- * @param ainTxt = `
+ * @param {string} ainTxt = `
  * ; activity::detail::CActivity@LoadActivity
  * ;s[8] = "アクティビティの読み込みに失敗しました【%s】"
  * ;m[63840] = "荒々しくハイパー兵器を捻り込んだ。"
+ * `
  * @return {{
  *     unparsed: string[],
  *     parsed: {
