@@ -1,34 +1,9 @@
 import fs from "fs/promises";
+import parseAin from "../modules/AinTxtParser.js";
 
 const ainTxt = await fs.readFile("./Rance10.v1.04.ain.txt", "utf-8");
-const lines = ainTxt.split("\n");
 
-const unparsed = [];
-const parsed = [];
-
-function unquote(quoted) {
-    return JSON.parse(quoted.replace(/\t/g, "\\t"));
-}
-
-for (const line of lines) {
-    if (!line.trim()) {
-        continue;
-    }
-    const match = line.match(/^;([ms])\[(\d+)]\s*=\s*(".*")$/);
-    if (match) {
-        const [, lineKind, lineNumber, quotedText] = match;
-        if (quotedText.includes("%")) {
-            // ;s[2259] = "*	%s = %f\n"
-            // apparently this text may use variables
-            unparsed.push(line);
-            continue;
-        }
-        const originalJapaneseLine = unquote(quotedText);
-        parsed.push({ lineKind, lineNumber, originalJapaneseLine });
-    } else {
-        unparsed.push(line);
-    }
-}
+const { parsed, unparsed } = parseAin(ainTxt);
 
 // the s[] lines sometimes also store some displayed text (user interface mostly),
 // but some of the text in s[] are internal constant names, not free form text, so
