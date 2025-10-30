@@ -260,7 +260,7 @@ table 立ち絵名札マッピング情報 = {
 	{ "汎用魔法魔物兵／", "Magic Monster Soldier" },
 	{ "汎用爺／", "Old Man" },
 	{ "汎用巫女／", "Shrine Maiden" },
-	{ "美樹／", "Kimizu Miki" },
+	{ "美樹／", "Kurusu Miki" },
 	{ "柚美／", "Yuhara Yumi" },
 	{ "女神アリス／", "Goddess Alice" },
 	{ "エロヤック／", "Eroyack ALV" },
