@@ -2,7 +2,8 @@
     "type": "module",
     "scripts": {
         "regenerate-ain": "node regenerate_aai_txt.js && C:\\deleteMe\\tutorial-adding-cards\\alice-tools\\alice.exe ain edit -t regenerated.ain.txt -o \"C:\\g\\AliceSoft\\ランス１０\\Rance10.ain\" .\\Rance10.v1.04.ain",
-        "regenerate-ex": "C:\\deleteMe\\tutorial-adding-cards\\alice-tools\\alice.exe ex build -o \"C:\\g\\AliceSoft\\ランス１０\\Rance10EX.ex\" Rance10EX_v1_04/main.x"
+        "regenerate-ex": "C:\\deleteMe\\tutorial-adding-cards\\alice-tools\\alice.exe ex build -o \"C:\\g\\AliceSoft\\ランス１０\\Rance10EX.ex\" Rance10EX_v1_04/main.x",
+        "regenerate-pack": "C:\\deleteMe\\alice-tools-0.13.0\\alice.exe ar pack .\\Rance10Pact_manifest.txt"
     },
     "devDependencies": {
         "canvas": "^3.2.0",
