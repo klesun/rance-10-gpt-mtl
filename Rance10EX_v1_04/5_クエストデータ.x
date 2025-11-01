@@ -13929,7 +13929,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "ChaRge towaRds the Honey\naRea.",
+					説明 = "ChaRge towaRds the Hanny\naRea.",
 				},
 				分岐左 = {
 					顔画像 = "ランス",
@@ -14265,7 +14265,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "Heading towaRds the\ndiRection wheRe the Honey\naRmy is.",
+					説明 = "Heading towaRds the\ndiRection wheRe the Hanny\naRmy is.",
 				},
 			},
 		},
@@ -30895,7 +30895,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Heading to the Golden\nHoney's nest.",
+					説明 = "Heading to the Golden\nHanny's nest.",
 				},
 			},
 		},
@@ -32416,7 +32416,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Let's follow Honey's tRail and\ndeceive them.",
+					説明 = "Let's follow Hanny's tRail and\ndeceive them.",
 					物語 = "２５５／選択／ハニー再出発",
 				},
 				分岐右 = {
@@ -32912,7 +32912,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "カロリア",
-					説明 = "Ah, Honey's fossil...",
+					説明 = "Ah, Hanny's fossil...",
 				},
 			},
 		},
