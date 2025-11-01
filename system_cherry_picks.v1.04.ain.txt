@@ -88,13 +88,47 @@ s[13997] = "5 turns special"
 s[14045] = "8,15 turns special"
 s[13443] = "5,10 turns special"
 
+; SkillEffectProcessAlterRound@Evaluate
+;s[3950] = "New Round！"
+
 s[3948] = "<AegisEffect> is in effect！"
+; SkillEffectProcessBoost@Evaluate
+s[3303] = "Boost Activated！"
+s[3955] = "Removed！"
 ; SceneBattle@ShowLogActionPre
-s[3286] = " as a result…"
+s[3286] = " resulted in…"
 ; SkillEffectProcessDecAp@GetLog
 s[3954] = "ＡＰ decreased！"
 ; SkillEffectProcessShowEnemyInformation@GetLog
 s[3973] = "Enemy Analyzed！"
+s[3957] = "Interrupt Modifier:%3.2f％"
+s[3958] = "<Enemy>'s action was interrupted！"
+
+; SceneBattle@ShowAdditionalDamageLog
+s[3282] = "<Target> took {255,255,0}<Damage>{} of damage！<Any>"
+
+; SceneBattle@ShowDefaultDamageLog
+s[3282] = "<Target> took {255,255,0}<Damage>{} of damage！<Any>"
+
+s[13229] = "Round Ones"
+s[4008] = "Anti-Demon Squad"
+
+; SceneBattle@ShowMiss
+s[3281] = "ＭＩＳＳ"
+
+; BattleLog@0
+s[3909] = "<Target> suffered <BadCondition> debuff！"
+
+s[3769] = "Poison"
+s[3770] = "Curse"
+
+; SceneBattle@OnDeadPlayer
+s[3273] = "The <Party> recovered thanks to Hanny Zippo！"
+
+; SceneBattle@CreateLogActionPre
+s[3288] = "<AegisEffect>'s <Skill>！"
+s[3289] = "<Player>'s <Skill>！"
+s[3290] = "<Enemy>'s <Skill>！"
 
 ; PartyBonus@GetName
 s[4020] = "Add Leader Slot"
