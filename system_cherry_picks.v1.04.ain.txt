@@ -114,13 +114,17 @@ s[13229] = "Round Ones"
 s[4008] = "Anti-Demon Squad"
 
 ; SceneBattle@ShowMiss
-s[3281] = "ＭＩＳＳ"
+s[3281] = "ＭＩＳＳ (missed)"
+
+; SceneBattle@ShowActionMiss
+s[3279] = "ＭＩＳＳ（skill activation failed）"
 
 ; BattleLog@0
 s[3909] = "<Target> suffered <BadCondition> debuff！"
 
-s[3769] = "Poison"
-s[3770] = "Curse"
+; translates, but breaks icon
+;s[3769] = "Poison"
+;s[3770] = "Curse"
 
 ; SceneBattle@OnDeadPlayer
 s[3273] = "The <Party> recovered thanks to Hanny Zippo！"
@@ -129,6 +133,75 @@ s[3273] = "The <Party> recovered thanks to Hanny Zippo！"
 s[3288] = "<AegisEffect>'s <Skill>！"
 s[3289] = "<Player>'s <Skill>！"
 s[3290] = "<Enemy>'s <Skill>！"
+
+; SkillEffectProcessRecoverAp@Evaluate
+s[3971] = "AP of <Any> Recovered！"
+
+; SkillEffectProcessHealing@Process
+s[3275] = "<Target> recovered {0,255,160}<Damage>{} HP！"
+
+; SceneBattle@RecoverHp
+s[3275] = "<Target> recovered {0,255,160}<Damage>{} HP！"
+
+; SceneBattle@ShowLogPreReflection
+s[3284] = "<Target> counter-attacks！"
+
+; SceneBattle@ProcessPoisonDamage
+s[3298] = "<BadCondition> deals damage！"
+
+; SceneBattle@isActionAvailable
+s[3269] = "<Target> is asleep and cannot act！"
+
+; SceneBattle@ProcessPostPlayerTurn
+s[3269] = "<Target> is asleep and cannot act！"
+
+; BadCondition::GetDescFromType
+s[3781] = "Causes action failure"
+s[3782] = "Attack power decreases, making the unit more vulnerable to damage"
+s[3783] = "Takes damage every round"
+s[3784] = "Takes damage when the effect ends"
+s[3785] = "Accuracy decreases"
+s[3786] = "HP can no longer be recovered"
+s[3787] = "Becomes unable to act, evasion rate drops to 0, cured when taking damage"
+s[3788] = "Fire attribute damage increases"
+s[3789] = "Ice attribute damage increases"
+s[3790] = "Lightning attribute damage increases"
+s[3791] = "Attack power greatly decreases"
+s[3792] = "HP and damage values are no longer displayed"
+s[3793] = "Dies instantly when reaching zero"
+s[3794] = "Recovered AP decreases by 1"
+
+
+s[12461] = "MoRale"
+s[12572] = "Meal Ticket Held"
+
+; HastleResult@0
+s[3905] = "<Player> got fired up and jumped out！"
+
+s[12435] = "Phys Def １"
+s[12437] = "Phys Def １＋"
+s[12446] = "Phys Def ２"
+s[12454] = "Phys Def ３"
+
+
+; SkillEffectExecuter@InnerProcess
+s[3946] = "No Effect！"
+
+; SkillEffectProcessDamageSelf@GetLog
+s[3972] = "<Target> caused a massive explosion！"
+
+; SceneBattle@IsEnemySkillActionFailed
+s[3292] = "<Enemy>'s <Skill> interrupted！"
+s[3292] = "<Enemy>'s <Skill> interrupted！"
+s[3888] = "Combo Effect"
+
+
+s[12523] = "StRategy (1/6)"
+s[12524] = "StRategy (2/6)"
+s[12525] = "StRategy (3/6)"
+s[12526] = "StRategy (4/6)"
+s[12527] = "StRategy (5/6)"
+s[12528] = "StRategy (6/6)"
 
 ; PartyBonus@GetName
 s[4020] = "Add Leader Slot"
