@@ -1,1 +1,619 @@
-{"id":"resp_05b5171285c30fd60068f00c4ec6f08197895c55e10516fb49","object":"response","created_at":1760562254,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_05b5171285c30fd60068f00c4f336c81978ca90281849f640b","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":78191,\"originalJapaneseLine\":\"「あ、目玉妖怪」\",\"translatedEnglishLine\":\"\\\"Ah, an eyeball yokai.\\\"\"},{\"lineNumber\":78192,\"originalJapaneseLine\":\"「喝！　妖怪王になんたる言い草か！」\",\"translatedEnglishLine\":\"\\\"Hah! How dare you speak like that to the Yokai King!\\\"\"},{\"lineNumber\":78193,\"originalJapaneseLine\":\"「いいさ、３Ｇ」\",\"translatedEnglishLine\":\"\\\"It's fine, 3G.\\\"\"},{\"lineNumber\":78194,\"originalJapaneseLine\":\"「JAPANは離れ島故、唯一繋がる天満橋で\",\"translatedEnglishLine\":\"\\\"Since JAPAN is a remote island, at Tenmabashi—the only connection point,\"},{\"lineNumber\":78195,\"originalJapaneseLine\":\"　防御を固めている限り、\",\"translatedEnglishLine\":\"  as long as the defenses are solid,\"},{\"lineNumber\":78196,\"originalJapaneseLine\":\"　そう簡単には突破されない」\",\"translatedEnglishLine\":\"  it won't be so easy to break through.\\\"\"},{\"lineNumber\":78197,\"originalJapaneseLine\":\"「俺達も力を貸そう」\",\"translatedEnglishLine\":\"\\\"We'll lend our strength as well.\\\"\"},{\"lineNumber\":78198,\"originalJapaneseLine\":\"「妖怪を束ねる独眼流政宗様が\",\"translatedEnglishLine\":\"\\\"Lord Dokuganryu Masamune, who leads the yokai,\"},{\"lineNumber\":78199,\"originalJapaneseLine\":\"　味方になって下されば心強いです。\",\"translatedEnglishLine\":\"  it would be reassuring if you sided with us.\"},{\"lineNumber\":78200,\"originalJapaneseLine\":\"　本当に……ありがとうございます」\",\"translatedEnglishLine\":\"Truly... thank you very much.\\\"\"},{\"lineNumber\":78201,\"originalJapaneseLine\":\"「よしてくれ、香様」\",\"translatedEnglishLine\":\"\\\"Please stop, Lady Kaori.\\\"\"},{\"lineNumber\":78202,\"originalJapaneseLine\":\"「JAPANから出られない我ら妖怪が、\",\"translatedEnglishLine\":\"\\\"We yokai, who cannot leave JAPAN,\"},{\"lineNumber\":78203,\"originalJapaneseLine\":\"　ようやく役に立てる。\",\"translatedEnglishLine\":\"  can finally be of use.\"},{\"lineNumber\":78204,\"originalJapaneseLine\":\"　だから立ち上がったまで」\",\"translatedEnglishLine\":\"  That is why we have risen up.\\\"\"},{\"lineNumber\":78205,\"originalJapaneseLine\":\"「んーーーーーーーー……」\",\"translatedEnglishLine\":\"\\\"Hmmm...\\\"\"},{\"lineNumber\":78206,\"originalJapaneseLine\":\"「どうかしたか？」\",\"translatedEnglishLine\":\"\\\"Is something the matter?\\\"\"},{\"lineNumber\":78207,\"originalJapaneseLine\":\"「相変わらず変な見た目」\",\"translatedEnglishLine\":\"\\\"You still look strange as ever.\\\"\"},{\"lineNumber\":78208,\"originalJapaneseLine\":\"「……そうか？」\",\"translatedEnglishLine\":\"\\\"...Is that so?\\\"\"},{\"lineNumber\":78209,\"originalJapaneseLine\":\"「しかし、あれだけランス城を拠点に戦ってたのに、\",\"translatedEnglishLine\":\"\\\"But even though we fought with Rance Castle as our base,\"},{\"lineNumber\":78210,\"originalJapaneseLine\":\"　今度はここからまた戦うとはな」\",\"translatedEnglishLine\":\"  now we have to fight again from here.\\\"\"},{\"lineNumber\":78211,\"originalJapaneseLine\":\"「ああ、そうだ。サテラ達は負けた。\",\"translatedEnglishLine\":\"\\\"Yes, that's right. Satella and the others were defeated.\"},{\"lineNumber\":78212,\"originalJapaneseLine\":\"　だが、それがなんだ」\",\"translatedEnglishLine\":\"  But so what?\"},{\"lineNumber\":78213,\"originalJapaneseLine\":\"「再出発だ……」\",\"translatedEnglishLine\":\"\\\"It's a new start...\\\"\"},{\"lineNumber\":78214,\"originalJapaneseLine\":\"「はい……\",\"translatedEnglishLine\":\"\\\"Yes...\"},{\"lineNumber\":78215,\"originalJapaneseLine\":\"　ここから、また始めて\",\"translatedEnglishLine\":\"Starting again from here,\"},{\"lineNumber\":78216,\"originalJapaneseLine\":\"「戦って、戦って、そして私達は……\",\"translatedEnglishLine\":\"We fight, we fight, and we...\"},{\"lineNumber\":78217,\"originalJapaneseLine\":\"　勝たなければいけません」\",\"translatedEnglishLine\":\"Must win.\\\"\"},{\"lineNumber\":78218,\"originalJapaneseLine\":\"言葉の勇猛さとは裏腹に、\",\"translatedEnglishLine\":\"Despite the boldness of her words,\"},{\"lineNumber\":78219,\"originalJapaneseLine\":\"香姫の顔には希望の色は薄い。\",\"translatedEnglishLine\":\"Lady Kaori's face showed little color of hope.\"},{\"lineNumber\":78220,\"originalJapaneseLine\":\"「……ふむ」\",\"translatedEnglishLine\":\"\\\"...Hmm.\\\"\"},{\"lineNumber\":78221,\"originalJapaneseLine\":\"リーザス、ヘルマンの国境、\",\"translatedEnglishLine\":\"Lieszus, the border with Helmann,\"},{\"lineNumber\":78222,\"originalJapaneseLine\":\"緩衝地帯にあるバラオ山脈――\",\"translatedEnglishLine\":\"The Barao mountain range in the buffer zone—\"},{\"lineNumber\":78223,\"originalJapaneseLine\":\"その断崖絶壁に作られた\",\"translatedEnglishLine\":\"Built on those sheer cliffs,\"},{\"lineNumber\":78224,\"originalJapaneseLine\":\"マンガン砦――\",\"translatedEnglishLine\":\"Mangan Fortress—\"},{\"lineNumber\":78225,\"originalJapaneseLine\":\"マンガン砦の司令部に\",\"translatedEnglishLine\":\"At the command center of Mangan Fortress,\"},{\"lineNumber\":78226,\"originalJapaneseLine\":\"ランス城の錚々たる面子が集っていた。\",\"translatedEnglishLine\":\"A distinguished group from Rance Castle had gathered.\"},{\"lineNumber\":78227,\"originalJapaneseLine\":\"ランス城の参謀達は何事か小声で話し合い――\",\"translatedEnglishLine\":\"The strategists of Rance Castle were quietly discussing something—\"},{\"lineNumber\":78228,\"originalJapaneseLine\":\"サテラは壁に背を預けたまま仏頂面で腕を組み、\",\"translatedEnglishLine\":\"Satella leaned against the wall with a sullen expression, arms crossed,\"},{\"lineNumber\":78229,\"originalJapaneseLine\":\"魔人討伐隊の面々も並ぶ。\",\"translatedEnglishLine\":\"Alongside were members of the demon extermination squad.\"},{\"lineNumber\":78230,\"originalJapaneseLine\":\"「ふん、みんな揃っているようだな」\",\"translatedEnglishLine\":\"\\\"Hmph, it looks like everyone is here.\\\"\"},{\"lineNumber\":78231,\"originalJapaneseLine\":\"「すみません、皆さん。\",\"translatedEnglishLine\":\"\\\"Sorry to keep you all waiting.\"},{\"lineNumber\":78232,\"originalJapaneseLine\":\"　遅れました」\",\"translatedEnglishLine\":\"I'm late.\\\"\"},{\"lineNumber\":78233,\"originalJapaneseLine\":\"「なっ……！」\",\"translatedEnglishLine\":\"\\\"Wha...!\\\"\"},{\"lineNumber\":78234,\"originalJapaneseLine\":\"「ら、ランス、もう大丈夫なのか！？」\",\"translatedEnglishLine\":\"\\\"R-Rance, are you okay now!?\\\"\"},{\"lineNumber\":78235,\"originalJapaneseLine\":\"「がははは、俺様があの程度の怪我で\",\"translatedEnglishLine\":\"\\\"Gahaha, there's no way a mere injury like that would stop me!\\\"\"},{\"lineNumber\":78236,\"originalJapaneseLine\":\"　どうにかなるものか！」\",\"translatedEnglishLine\":\"No way it'd be a problem!\\\"\"},{\"lineNumber\":78237,\"originalJapaneseLine\":\"「そ、そうか……\",\"translatedEnglishLine\":\"\\\"I-I see...\\\"\"},{\"lineNumber\":78238,\"originalJapaneseLine\":\"　よかった……」\",\"translatedEnglishLine\":\"That's a relief...\\\"\"},{\"lineNumber\":78239,\"originalJapaneseLine\":\"「あ、いや……\",\"translatedEnglishLine\":\"\\\"Ah, no...\"},{\"lineNumber\":78240,\"originalJapaneseLine\":\"　え、偉そうなことを言うんじゃない」\",\"translatedEnglishLine\":\"Don't say such arrogant things.\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":78191,"originalJapaneseLine":"「あ、目玉妖怪」","translatedEnglishLine":"\"Ah, an eyeball yokai.\""},{"lineNumber":78192,"originalJapaneseLine":"「喝！　妖怪王になんたる言い草か！」","translatedEnglishLine":"\"Hah! How dare you speak like that to the Yokai King!\""},{"lineNumber":78193,"originalJapaneseLine":"「いいさ、３Ｇ」","translatedEnglishLine":"\"It's fine, 3G.\""},{"lineNumber":78194,"originalJapaneseLine":"「JAPANは離れ島故、唯一繋がる天満橋で","translatedEnglishLine":"\"Since JAPAN is a remote island, at Tenmabashi—the only connection point,"},{"lineNumber":78195,"originalJapaneseLine":"　防御を固めている限り、","translatedEnglishLine":"  as long as the defenses are solid,"},{"lineNumber":78196,"originalJapaneseLine":"　そう簡単には突破されない」","translatedEnglishLine":"  it won't be so easy to break through.\""},{"lineNumber":78197,"originalJapaneseLine":"「俺達も力を貸そう」","translatedEnglishLine":"\"We'll lend our strength as well.\""},{"lineNumber":78198,"originalJapaneseLine":"「妖怪を束ねる独眼流政宗様が","translatedEnglishLine":"\"Lord Dokuganryu Masamune, who leads the yokai,"},{"lineNumber":78199,"originalJapaneseLine":"　味方になって下されば心強いです。","translatedEnglishLine":"  it would be reassuring if you sided with us."},{"lineNumber":78200,"originalJapaneseLine":"　本当に……ありがとうございます」","translatedEnglishLine":"Truly... thank you very much.\""},{"lineNumber":78201,"originalJapaneseLine":"「よしてくれ、香様」","translatedEnglishLine":"\"Please stop, Lady Kaori.\""},{"lineNumber":78202,"originalJapaneseLine":"「JAPANから出られない我ら妖怪が、","translatedEnglishLine":"\"We yokai, who cannot leave JAPAN,"},{"lineNumber":78203,"originalJapaneseLine":"　ようやく役に立てる。","translatedEnglishLine":"  can finally be of use."},{"lineNumber":78204,"originalJapaneseLine":"　だから立ち上がったまで」","translatedEnglishLine":"  That is why we have risen up.\""},{"lineNumber":78205,"originalJapaneseLine":"「んーーーーーーーー……」","translatedEnglishLine":"\"Hmmm...\""},{"lineNumber":78206,"originalJapaneseLine":"「どうかしたか？」","translatedEnglishLine":"\"Is something the matter?\""},{"lineNumber":78207,"originalJapaneseLine":"「相変わらず変な見た目」","translatedEnglishLine":"\"You still look strange as ever.\""},{"lineNumber":78208,"originalJapaneseLine":"「……そうか？」","translatedEnglishLine":"\"...Is that so?\""},{"lineNumber":78209,"originalJapaneseLine":"「しかし、あれだけランス城を拠点に戦ってたのに、","translatedEnglishLine":"\"But even though we fought with Rance Castle as our base,"},{"lineNumber":78210,"originalJapaneseLine":"　今度はここからまた戦うとはな」","translatedEnglishLine":"  now we have to fight again from here.\""},{"lineNumber":78211,"originalJapaneseLine":"「ああ、そうだ。サテラ達は負けた。","translatedEnglishLine":"\"Yes, that's right. Satella and the others were defeated."},{"lineNumber":78212,"originalJapaneseLine":"　だが、それがなんだ」","translatedEnglishLine":"  But so what?"},{"lineNumber":78213,"originalJapaneseLine":"「再出発だ……」","translatedEnglishLine":"\"It's a new start...\""},{"lineNumber":78214,"originalJapaneseLine":"「はい……","translatedEnglishLine":"\"Yes..."},{"lineNumber":78215,"originalJapaneseLine":"　ここから、また始めて","translatedEnglishLine":"Starting again from here,"},{"lineNumber":78216,"originalJapaneseLine":"「戦って、戦って、そして私達は……","translatedEnglishLine":"We fight, we fight, and we..."},{"lineNumber":78217,"originalJapaneseLine":"　勝たなければいけません」","translatedEnglishLine":"Must win.\""},{"lineNumber":78218,"originalJapaneseLine":"言葉の勇猛さとは裏腹に、","translatedEnglishLine":"Despite the boldness of her words,"},{"lineNumber":78219,"originalJapaneseLine":"香姫の顔には希望の色は薄い。","translatedEnglishLine":"Lady Kaori's face showed little color of hope."},{"lineNumber":78220,"originalJapaneseLine":"「……ふむ」","translatedEnglishLine":"\"...Hmm.\""},{"lineNumber":78221,"originalJapaneseLine":"リーザス、ヘルマンの国境、","translatedEnglishLine":"Lieszus, the border with Helmann,"},{"lineNumber":78222,"originalJapaneseLine":"緩衝地帯にあるバラオ山脈――","translatedEnglishLine":"The Barao mountain range in the buffer zone—"},{"lineNumber":78223,"originalJapaneseLine":"その断崖絶壁に作られた","translatedEnglishLine":"Built on those sheer cliffs,"},{"lineNumber":78224,"originalJapaneseLine":"マンガン砦――","translatedEnglishLine":"Mangan Fortress—"},{"lineNumber":78225,"originalJapaneseLine":"マンガン砦の司令部に","translatedEnglishLine":"At the command center of Mangan Fortress,"},{"lineNumber":78226,"originalJapaneseLine":"ランス城の錚々たる面子が集っていた。","translatedEnglishLine":"A distinguished group from Rance Castle had gathered."},{"lineNumber":78227,"originalJapaneseLine":"ランス城の参謀達は何事か小声で話し合い――","translatedEnglishLine":"The strategists of Rance Castle were quietly discussing something—"},{"lineNumber":78228,"originalJapaneseLine":"サテラは壁に背を預けたまま仏頂面で腕を組み、","translatedEnglishLine":"Satella leaned against the wall with a sullen expression, arms crossed,"},{"lineNumber":78229,"originalJapaneseLine":"魔人討伐隊の面々も並ぶ。","translatedEnglishLine":"Alongside were members of the demon extermination squad."},{"lineNumber":78230,"originalJapaneseLine":"「ふん、みんな揃っているようだな」","translatedEnglishLine":"\"Hmph, it looks like everyone is here.\""},{"lineNumber":78231,"originalJapaneseLine":"「すみません、皆さん。","translatedEnglishLine":"\"Sorry to keep you all waiting."},{"lineNumber":78232,"originalJapaneseLine":"　遅れました」","translatedEnglishLine":"I'm late.\""},{"lineNumber":78233,"originalJapaneseLine":"「なっ……！」","translatedEnglishLine":"\"Wha...!\""},{"lineNumber":78234,"originalJapaneseLine":"「ら、ランス、もう大丈夫なのか！？」","translatedEnglishLine":"\"R-Rance, are you okay now!?\""},{"lineNumber":78235,"originalJapaneseLine":"「がははは、俺様があの程度の怪我で","translatedEnglishLine":"\"Gahaha, there's no way a mere injury like that would stop me!\""},{"lineNumber":78236,"originalJapaneseLine":"　どうにかなるものか！」","translatedEnglishLine":"No way it'd be a problem!\""},{"lineNumber":78237,"originalJapaneseLine":"「そ、そうか……","translatedEnglishLine":"\"I-I see...\""},{"lineNumber":78238,"originalJapaneseLine":"　よかった……」","translatedEnglishLine":"That's a relief...\""},{"lineNumber":78239,"originalJapaneseLine":"「あ、いや……","translatedEnglishLine":"\"Ah, no..."},{"lineNumber":78240,"originalJapaneseLine":"　え、偉そうなことを言うんじゃない」","translatedEnglishLine":"Don't say such arrogant things.\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1397,"input_tokens_details":{"cached_tokens":0},"output_tokens":1791,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3188},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":78191,\"originalJapaneseLine\":\"「あ、目玉妖怪」\",\"translatedEnglishLine\":\"\\\"Ah, an eyeball yokai.\\\"\"},{\"lineNumber\":78192,\"originalJapaneseLine\":\"「喝！　妖怪王になんたる言い草か！」\",\"translatedEnglishLine\":\"\\\"Hah! How dare you speak like that to the Yokai King!\\\"\"},{\"lineNumber\":78193,\"originalJapaneseLine\":\"「いいさ、３Ｇ」\",\"translatedEnglishLine\":\"\\\"It's fine, 3G.\\\"\"},{\"lineNumber\":78194,\"originalJapaneseLine\":\"「JAPANは離れ島故、唯一繋がる天満橋で\",\"translatedEnglishLine\":\"\\\"Since JAPAN is a remote island, at Tenmabashi—the only connection point,\"},{\"lineNumber\":78195,\"originalJapaneseLine\":\"　防御を固めている限り、\",\"translatedEnglishLine\":\"  as long as the defenses are solid,\"},{\"lineNumber\":78196,\"originalJapaneseLine\":\"　そう簡単には突破されない」\",\"translatedEnglishLine\":\"  it won't be so easy to break through.\\\"\"},{\"lineNumber\":78197,\"originalJapaneseLine\":\"「俺達も力を貸そう」\",\"translatedEnglishLine\":\"\\\"We'll lend our strength as well.\\\"\"},{\"lineNumber\":78198,\"originalJapaneseLine\":\"「妖怪を束ねる独眼流政宗様が\",\"translatedEnglishLine\":\"\\\"Lord Dokuganryu Masamune, who leads the yokai,\"},{\"lineNumber\":78199,\"originalJapaneseLine\":\"　味方になって下されば心強いです。\",\"translatedEnglishLine\":\"  it would be reassuring if you sided with us.\"},{\"lineNumber\":78200,\"originalJapaneseLine\":\"　本当に……ありがとうございます」\",\"translatedEnglishLine\":\"Truly... thank you very much.\\\"\"},{\"lineNumber\":78201,\"originalJapaneseLine\":\"「よしてくれ、香様」\",\"translatedEnglishLine\":\"\\\"Please stop, Lady Kaori.\\\"\"},{\"lineNumber\":78202,\"originalJapaneseLine\":\"「JAPANから出られない我ら妖怪が、\",\"translatedEnglishLine\":\"\\\"We yokai, who cannot leave JAPAN,\"},{\"lineNumber\":78203,\"originalJapaneseLine\":\"　ようやく役に立てる。\",\"translatedEnglishLine\":\"  can finally be of use.\"},{\"lineNumber\":78204,\"originalJapaneseLine\":\"　だから立ち上がったまで」\",\"translatedEnglishLine\":\"  That is why we have risen up.\\\"\"},{\"lineNumber\":78205,\"originalJapaneseLine\":\"「んーーーーーーーー……」\",\"translatedEnglishLine\":\"\\\"Hmmm...\\\"\"},{\"lineNumber\":78206,\"originalJapaneseLine\":\"「どうかしたか？」\",\"translatedEnglishLine\":\"\\\"Is something the matter?\\\"\"},{\"lineNumber\":78207,\"originalJapaneseLine\":\"「相変わらず変な見た目」\",\"translatedEnglishLine\":\"\\\"You still look strange as ever.\\\"\"},{\"lineNumber\":78208,\"originalJapaneseLine\":\"「……そうか？」\",\"translatedEnglishLine\":\"\\\"...Is that so?\\\"\"},{\"lineNumber\":78209,\"originalJapaneseLine\":\"「しかし、あれだけランス城を拠点に戦ってたのに、\",\"translatedEnglishLine\":\"\\\"But even though we fought with Rance Castle as our base,\"},{\"lineNumber\":78210,\"originalJapaneseLine\":\"　今度はここからまた戦うとはな」\",\"translatedEnglishLine\":\"  now we have to fight again from here.\\\"\"},{\"lineNumber\":78211,\"originalJapaneseLine\":\"「ああ、そうだ。サテラ達は負けた。\",\"translatedEnglishLine\":\"\\\"Yes, that's right. Satella and the others were defeated.\"},{\"lineNumber\":78212,\"originalJapaneseLine\":\"　だが、それがなんだ」\",\"translatedEnglishLine\":\"  But so what?\"},{\"lineNumber\":78213,\"originalJapaneseLine\":\"「再出発だ……」\",\"translatedEnglishLine\":\"\\\"It's a new start...\\\"\"},{\"lineNumber\":78214,\"originalJapaneseLine\":\"「はい……\",\"translatedEnglishLine\":\"\\\"Yes...\"},{\"lineNumber\":78215,\"originalJapaneseLine\":\"　ここから、また始めて\",\"translatedEnglishLine\":\"Starting again from here,\"},{\"lineNumber\":78216,\"originalJapaneseLine\":\"「戦って、戦って、そして私達は……\",\"translatedEnglishLine\":\"We fight, we fight, and we...\"},{\"lineNumber\":78217,\"originalJapaneseLine\":\"　勝たなければいけません」\",\"translatedEnglishLine\":\"Must win.\\\"\"},{\"lineNumber\":78218,\"originalJapaneseLine\":\"言葉の勇猛さとは裏腹に、\",\"translatedEnglishLine\":\"Despite the boldness of her words,\"},{\"lineNumber\":78219,\"originalJapaneseLine\":\"香姫の顔には希望の色は薄い。\",\"translatedEnglishLine\":\"Lady Kaori's face showed little color of hope.\"},{\"lineNumber\":78220,\"originalJapaneseLine\":\"「……ふむ」\",\"translatedEnglishLine\":\"\\\"...Hmm.\\\"\"},{\"lineNumber\":78221,\"originalJapaneseLine\":\"リーザス、ヘルマンの国境、\",\"translatedEnglishLine\":\"Lieszus, the border with Helmann,\"},{\"lineNumber\":78222,\"originalJapaneseLine\":\"緩衝地帯にあるバラオ山脈――\",\"translatedEnglishLine\":\"The Barao mountain range in the buffer zone—\"},{\"lineNumber\":78223,\"originalJapaneseLine\":\"その断崖絶壁に作られた\",\"translatedEnglishLine\":\"Built on those sheer cliffs,\"},{\"lineNumber\":78224,\"originalJapaneseLine\":\"マンガン砦――\",\"translatedEnglishLine\":\"Mangan Fortress—\"},{\"lineNumber\":78225,\"originalJapaneseLine\":\"マンガン砦の司令部に\",\"translatedEnglishLine\":\"At the command center of Mangan Fortress,\"},{\"lineNumber\":78226,\"originalJapaneseLine\":\"ランス城の錚々たる面子が集っていた。\",\"translatedEnglishLine\":\"A distinguished group from Rance Castle had gathered.\"},{\"lineNumber\":78227,\"originalJapaneseLine\":\"ランス城の参謀達は何事か小声で話し合い――\",\"translatedEnglishLine\":\"The strategists of Rance Castle were quietly discussing something—\"},{\"lineNumber\":78228,\"originalJapaneseLine\":\"サテラは壁に背を預けたまま仏頂面で腕を組み、\",\"translatedEnglishLine\":\"Satella leaned against the wall with a sullen expression, arms crossed,\"},{\"lineNumber\":78229,\"originalJapaneseLine\":\"魔人討伐隊の面々も並ぶ。\",\"translatedEnglishLine\":\"Alongside were members of the demon extermination squad.\"},{\"lineNumber\":78230,\"originalJapaneseLine\":\"「ふん、みんな揃っているようだな」\",\"translatedEnglishLine\":\"\\\"Hmph, it looks like everyone is here.\\\"\"},{\"lineNumber\":78231,\"originalJapaneseLine\":\"「すみません、皆さん。\",\"translatedEnglishLine\":\"\\\"Sorry to keep you all waiting.\"},{\"lineNumber\":78232,\"originalJapaneseLine\":\"　遅れました」\",\"translatedEnglishLine\":\"I'm late.\\\"\"},{\"lineNumber\":78233,\"originalJapaneseLine\":\"「なっ……！」\",\"translatedEnglishLine\":\"\\\"Wha...!\\\"\"},{\"lineNumber\":78234,\"originalJapaneseLine\":\"「ら、ランス、もう大丈夫なのか！？」\",\"translatedEnglishLine\":\"\\\"R-Rance, are you okay now!?\\\"\"},{\"lineNumber\":78235,\"originalJapaneseLine\":\"「がははは、俺様があの程度の怪我で\",\"translatedEnglishLine\":\"\\\"Gahaha, there's no way a mere injury like that would stop me!\\\"\"},{\"lineNumber\":78236,\"originalJapaneseLine\":\"　どうにかなるものか！」\",\"translatedEnglishLine\":\"No way it'd be a problem!\\\"\"},{\"lineNumber\":78237,\"originalJapaneseLine\":\"「そ、そうか……\",\"translatedEnglishLine\":\"\\\"I-I see...\\\"\"},{\"lineNumber\":78238,\"originalJapaneseLine\":\"　よかった……」\",\"translatedEnglishLine\":\"That's a relief...\\\"\"},{\"lineNumber\":78239,\"originalJapaneseLine\":\"「あ、いや……\",\"translatedEnglishLine\":\"\\\"Ah, no...\"},{\"lineNumber\":78240,\"originalJapaneseLine\":\"　え、偉そうなことを言うんじゃない」\",\"translatedEnglishLine\":\"Don't say such arrogant things.\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":78191,"originalJapaneseLine":"「あ、目玉妖怪」","translatedEnglishLine":"\"Ah, an eyeball yokai.\""},{"lineNumber":78192,"originalJapaneseLine":"「喝！　妖怪王になんたる言い草か！」","translatedEnglishLine":"\"Hah! How dare you speak like that to the Yokai King!\""},{"lineNumber":78193,"originalJapaneseLine":"「いいさ、３Ｇ」","translatedEnglishLine":"\"It's fine, 3G.\""},{"lineNumber":78194,"originalJapaneseLine":"「JAPANは離れ島故、唯一繋がる天満橋で","translatedEnglishLine":"\"Since JAPAN is a remote island, at Tenmabashi—the only connection point,"},{"lineNumber":78195,"originalJapaneseLine":"　防御を固めている限り、","translatedEnglishLine":"  as long as the defenses are solid,"},{"lineNumber":78196,"originalJapaneseLine":"　そう簡単には突破されない」","translatedEnglishLine":"  it won't be so easy to break through.\""},{"lineNumber":78197,"originalJapaneseLine":"「俺達も力を貸そう」","translatedEnglishLine":"\"We'll lend our strength as well.\""},{"lineNumber":78198,"originalJapaneseLine":"「妖怪を束ねる独眼流政宗様が","translatedEnglishLine":"\"Lord Dokuganryu Masamune, who leads the yokai,"},{"lineNumber":78199,"originalJapaneseLine":"　味方になって下されば心強いです。","translatedEnglishLine":"  it would be reassuring if you sided with us."},{"lineNumber":78200,"originalJapaneseLine":"　本当に……ありがとうございます」","translatedEnglishLine":"Truly... thank you very much.\""},{"lineNumber":78201,"originalJapaneseLine":"「よしてくれ、香様」","translatedEnglishLine":"\"Please stop, Lady Kaori.\""},{"lineNumber":78202,"originalJapaneseLine":"「JAPANから出られない我ら妖怪が、","translatedEnglishLine":"\"We yokai, who cannot leave JAPAN,"},{"lineNumber":78203,"originalJapaneseLine":"　ようやく役に立てる。","translatedEnglishLine":"  can finally be of use."},{"lineNumber":78204,"originalJapaneseLine":"　だから立ち上がったまで」","translatedEnglishLine":"  That is why we have risen up.\""},{"lineNumber":78205,"originalJapaneseLine":"「んーーーーーーーー……」","translatedEnglishLine":"\"Hmmm...\""},{"lineNumber":78206,"originalJapaneseLine":"「どうかしたか？」","translatedEnglishLine":"\"Is something the matter?\""},{"lineNumber":78207,"originalJapaneseLine":"「相変わらず変な見た目」","translatedEnglishLine":"\"You still look strange as ever.\""},{"lineNumber":78208,"originalJapaneseLine":"「……そうか？」","translatedEnglishLine":"\"...Is that so?\""},{"lineNumber":78209,"originalJapaneseLine":"「しかし、あれだけランス城を拠点に戦ってたのに、","translatedEnglishLine":"\"But even though we fought with Rance Castle as our base,"},{"lineNumber":78210,"originalJapaneseLine":"　今度はここからまた戦うとはな」","translatedEnglishLine":"  now we have to fight again from here.\""},{"lineNumber":78211,"originalJapaneseLine":"「ああ、そうだ。サテラ達は負けた。","translatedEnglishLine":"\"Yes, that's right. Satella and the others were defeated."},{"lineNumber":78212,"originalJapaneseLine":"　だが、それがなんだ」","translatedEnglishLine":"  But so what?"},{"lineNumber":78213,"originalJapaneseLine":"「再出発だ……」","translatedEnglishLine":"\"It's a new start...\""},{"lineNumber":78214,"originalJapaneseLine":"「はい……","translatedEnglishLine":"\"Yes..."},{"lineNumber":78215,"originalJapaneseLine":"　ここから、また始めて","translatedEnglishLine":"Starting again from here,"},{"lineNumber":78216,"originalJapaneseLine":"「戦って、戦って、そして私達は……","translatedEnglishLine":"We fight, we fight, and we..."},{"lineNumber":78217,"originalJapaneseLine":"　勝たなければいけません」","translatedEnglishLine":"Must win.\""},{"lineNumber":78218,"originalJapaneseLine":"言葉の勇猛さとは裏腹に、","translatedEnglishLine":"Despite the boldness of her words,"},{"lineNumber":78219,"originalJapaneseLine":"香姫の顔には希望の色は薄い。","translatedEnglishLine":"Lady Kaori's face showed little color of hope."},{"lineNumber":78220,"originalJapaneseLine":"「……ふむ」","translatedEnglishLine":"\"...Hmm.\""},{"lineNumber":78221,"originalJapaneseLine":"リーザス、ヘルマンの国境、","translatedEnglishLine":"Lieszus, the border with Helmann,"},{"lineNumber":78222,"originalJapaneseLine":"緩衝地帯にあるバラオ山脈――","translatedEnglishLine":"The Barao mountain range in the buffer zone—"},{"lineNumber":78223,"originalJapaneseLine":"その断崖絶壁に作られた","translatedEnglishLine":"Built on those sheer cliffs,"},{"lineNumber":78224,"originalJapaneseLine":"マンガン砦――","translatedEnglishLine":"Mangan Fortress—"},{"lineNumber":78225,"originalJapaneseLine":"マンガン砦の司令部に","translatedEnglishLine":"At the command center of Mangan Fortress,"},{"lineNumber":78226,"originalJapaneseLine":"ランス城の錚々たる面子が集っていた。","translatedEnglishLine":"A distinguished group from Rance Castle had gathered."},{"lineNumber":78227,"originalJapaneseLine":"ランス城の参謀達は何事か小声で話し合い――","translatedEnglishLine":"The strategists of Rance Castle were quietly discussing something—"},{"lineNumber":78228,"originalJapaneseLine":"サテラは壁に背を預けたまま仏頂面で腕を組み、","translatedEnglishLine":"Satella leaned against the wall with a sullen expression, arms crossed,"},{"lineNumber":78229,"originalJapaneseLine":"魔人討伐隊の面々も並ぶ。","translatedEnglishLine":"Alongside were members of the demon extermination squad."},{"lineNumber":78230,"originalJapaneseLine":"「ふん、みんな揃っているようだな」","translatedEnglishLine":"\"Hmph, it looks like everyone is here.\""},{"lineNumber":78231,"originalJapaneseLine":"「すみません、皆さん。","translatedEnglishLine":"\"Sorry to keep you all waiting."},{"lineNumber":78232,"originalJapaneseLine":"　遅れました」","translatedEnglishLine":"I'm late.\""},{"lineNumber":78233,"originalJapaneseLine":"「なっ……！」","translatedEnglishLine":"\"Wha...!\""},{"lineNumber":78234,"originalJapaneseLine":"「ら、ランス、もう大丈夫なのか！？」","translatedEnglishLine":"\"R-Rance, are you okay now!?\""},{"lineNumber":78235,"originalJapaneseLine":"「がははは、俺様があの程度の怪我で","translatedEnglishLine":"\"Gahaha, there's no way a mere injury like that would stop me!\""},{"lineNumber":78236,"originalJapaneseLine":"　どうにかなるものか！」","translatedEnglishLine":"No way it'd be a problem!\""},{"lineNumber":78237,"originalJapaneseLine":"「そ、そうか……","translatedEnglishLine":"\"I-I see...\""},{"lineNumber":78238,"originalJapaneseLine":"　よかった……」","translatedEnglishLine":"That's a relief...\""},{"lineNumber":78239,"originalJapaneseLine":"「あ、いや……","translatedEnglishLine":"\"Ah, no..."},{"lineNumber":78240,"originalJapaneseLine":"　え、偉そうなことを言うんじゃない」","translatedEnglishLine":"Don't say such arrogant things.\""}]}}
+{
+    "id": "resp_05b5171285c30fd60068f00c4ec6f08197895c55e10516fb49",
+    "object": "response",
+    "created_at": 1760562254,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_05b5171285c30fd60068f00c4f336c81978ca90281849f640b",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":78191,\"originalJapaneseLine\":\"「あ、目玉妖怪」\",\"translatedEnglishLine\":\"\\\"Ah, an eyeball yokai.\\\"\"},{\"lineNumber\":78192,\"originalJapaneseLine\":\"「喝！　妖怪王になんたる言い草か！」\",\"translatedEnglishLine\":\"\\\"Hah! How dare you speak like that to the Yokai King!\\\"\"},{\"lineNumber\":78193,\"originalJapaneseLine\":\"「いいさ、３Ｇ」\",\"translatedEnglishLine\":\"\\\"It's fine, 3G.\\\"\"},{\"lineNumber\":78194,\"originalJapaneseLine\":\"「JAPANは離れ島故、唯一繋がる天満橋で\",\"translatedEnglishLine\":\"\\\"Since JAPAN is a remote island, at Tenmabashi—the only connection point,\"},{\"lineNumber\":78195,\"originalJapaneseLine\":\"　防御を固めている限り、\",\"translatedEnglishLine\":\"  as long as the defenses are solid,\"},{\"lineNumber\":78196,\"originalJapaneseLine\":\"　そう簡単には突破されない」\",\"translatedEnglishLine\":\"  it won't be so easy to break through.\\\"\"},{\"lineNumber\":78197,\"originalJapaneseLine\":\"「俺達も力を貸そう」\",\"translatedEnglishLine\":\"\\\"We'll lend our strength as well.\\\"\"},{\"lineNumber\":78198,\"originalJapaneseLine\":\"「妖怪を束ねる独眼流政宗様が\",\"translatedEnglishLine\":\"\\\"Lord Dokuganryu Masamune, who leads the yokai,\"},{\"lineNumber\":78199,\"originalJapaneseLine\":\"　味方になって下されば心強いです。\",\"translatedEnglishLine\":\"  it would be reassuring if you sided with us.\"},{\"lineNumber\":78200,\"originalJapaneseLine\":\"　本当に……ありがとうございます」\",\"translatedEnglishLine\":\"Truly... thank you very much.\\\"\"},{\"lineNumber\":78201,\"originalJapaneseLine\":\"「よしてくれ、香様」\",\"translatedEnglishLine\":\"\\\"Please stop, Lady Kaori.\\\"\"},{\"lineNumber\":78202,\"originalJapaneseLine\":\"「JAPANから出られない我ら妖怪が、\",\"translatedEnglishLine\":\"\\\"We yokai, who cannot leave JAPAN,\"},{\"lineNumber\":78203,\"originalJapaneseLine\":\"　ようやく役に立てる。\",\"translatedEnglishLine\":\"  can finally be of use.\"},{\"lineNumber\":78204,\"originalJapaneseLine\":\"　だから立ち上がったまで」\",\"translatedEnglishLine\":\"  That is why we have risen up.\\\"\"},{\"lineNumber\":78205,\"originalJapaneseLine\":\"「んーーーーーーーー……」\",\"translatedEnglishLine\":\"\\\"Hmmm...\\\"\"},{\"lineNumber\":78206,\"originalJapaneseLine\":\"「どうかしたか？」\",\"translatedEnglishLine\":\"\\\"Is something the matter?\\\"\"},{\"lineNumber\":78207,\"originalJapaneseLine\":\"「相変わらず変な見た目」\",\"translatedEnglishLine\":\"\\\"You still look strange as ever.\\\"\"},{\"lineNumber\":78208,\"originalJapaneseLine\":\"「……そうか？」\",\"translatedEnglishLine\":\"\\\"...Is that so?\\\"\"},{\"lineNumber\":78209,\"originalJapaneseLine\":\"「しかし、あれだけランス城を拠点に戦ってたのに、\",\"translatedEnglishLine\":\"\\\"But even though we fought with Rance Castle as our base,\"},{\"lineNumber\":78210,\"originalJapaneseLine\":\"　今度はここからまた戦うとはな」\",\"translatedEnglishLine\":\"  now we have to fight again from here.\\\"\"},{\"lineNumber\":78211,\"originalJapaneseLine\":\"「ああ、そうだ。サテラ達は負けた。\",\"translatedEnglishLine\":\"\\\"Yes, that's right. Satella and the others were defeated.\"},{\"lineNumber\":78212,\"originalJapaneseLine\":\"　だが、それがなんだ」\",\"translatedEnglishLine\":\"  But so what?\"},{\"lineNumber\":78213,\"originalJapaneseLine\":\"「再出発だ……」\",\"translatedEnglishLine\":\"\\\"It's a new start...\\\"\"},{\"lineNumber\":78214,\"originalJapaneseLine\":\"「はい……\",\"translatedEnglishLine\":\"\\\"Yes...\"},{\"lineNumber\":78215,\"originalJapaneseLine\":\"　ここから、また始めて\",\"translatedEnglishLine\":\"Starting again from here,\"},{\"lineNumber\":78216,\"originalJapaneseLine\":\"「戦って、戦って、そして私達は……\",\"translatedEnglishLine\":\"We fight, we fight, and we...\"},{\"lineNumber\":78217,\"originalJapaneseLine\":\"　勝たなければいけません」\",\"translatedEnglishLine\":\"Must win.\\\"\"},{\"lineNumber\":78218,\"originalJapaneseLine\":\"言葉の勇猛さとは裏腹に、\",\"translatedEnglishLine\":\"Despite the boldness of her words,\"},{\"lineNumber\":78219,\"originalJapaneseLine\":\"香姫の顔には希望の色は薄い。\",\"translatedEnglishLine\":\"Lady Kaori's face showed little color of hope.\"},{\"lineNumber\":78220,\"originalJapaneseLine\":\"「……ふむ」\",\"translatedEnglishLine\":\"\\\"...Hmm.\\\"\"},{\"lineNumber\":78221,\"originalJapaneseLine\":\"リーザス、ヘルマンの国境、\",\"translatedEnglishLine\":\"Lieszus, the border with Helmann,\"},{\"lineNumber\":78222,\"originalJapaneseLine\":\"緩衝地帯にあるバラオ山脈――\",\"translatedEnglishLine\":\"The Barao mountain range in the buffer zone—\"},{\"lineNumber\":78223,\"originalJapaneseLine\":\"その断崖絶壁に作られた\",\"translatedEnglishLine\":\"Built on those sheer cliffs,\"},{\"lineNumber\":78224,\"originalJapaneseLine\":\"マンガン砦――\",\"translatedEnglishLine\":\"Mangan Fortress—\"},{\"lineNumber\":78225,\"originalJapaneseLine\":\"マンガン砦の司令部に\",\"translatedEnglishLine\":\"At the command center of Mangan Fortress,\"},{\"lineNumber\":78226,\"originalJapaneseLine\":\"ランス城の錚々たる面子が集っていた。\",\"translatedEnglishLine\":\"A distinguished group from Rance Castle had gathered.\"},{\"lineNumber\":78227,\"originalJapaneseLine\":\"ランス城の参謀達は何事か小声で話し合い――\",\"translatedEnglishLine\":\"The strategists of Rance Castle were quietly discussing something—\"},{\"lineNumber\":78228,\"originalJapaneseLine\":\"サテラは壁に背を預けたまま仏頂面で腕を組み、\",\"translatedEnglishLine\":\"Satella leaned against the wall with a sullen expression, arms crossed,\"},{\"lineNumber\":78229,\"originalJapaneseLine\":\"魔人討伐隊の面々も並ぶ。\",\"translatedEnglishLine\":\"Alongside were members of the demon extermination squad.\"},{\"lineNumber\":78230,\"originalJapaneseLine\":\"「ふん、みんな揃っているようだな」\",\"translatedEnglishLine\":\"\\\"Hmph, it looks like everyone is here.\\\"\"},{\"lineNumber\":78231,\"originalJapaneseLine\":\"「すみません、皆さん。\",\"translatedEnglishLine\":\"\\\"Sorry to keep you all waiting.\"},{\"lineNumber\":78232,\"originalJapaneseLine\":\"　遅れました」\",\"translatedEnglishLine\":\"I'm late.\\\"\"},{\"lineNumber\":78233,\"originalJapaneseLine\":\"「なっ……！」\",\"translatedEnglishLine\":\"\\\"Wha...!\\\"\"},{\"lineNumber\":78234,\"originalJapaneseLine\":\"「ら、ランス、もう大丈夫なのか！？」\",\"translatedEnglishLine\":\"\\\"R-Rance, are you okay now!?\\\"\"},{\"lineNumber\":78235,\"originalJapaneseLine\":\"「がははは、俺様があの程度の怪我で\",\"translatedEnglishLine\":\"\\\"Gahaha, there's no way a mere injury like that would stop me!\\\"\"},{\"lineNumber\":78236,\"originalJapaneseLine\":\"　どうにかなるものか！」\",\"translatedEnglishLine\":\"No way it'd be a problem!\\\"\"},{\"lineNumber\":78237,\"originalJapaneseLine\":\"「そ、そうか……\",\"translatedEnglishLine\":\"\\\"I-I see...\\\"\"},{\"lineNumber\":78238,\"originalJapaneseLine\":\"　よかった……」\",\"translatedEnglishLine\":\"That's a relief...\\\"\"},{\"lineNumber\":78239,\"originalJapaneseLine\":\"「あ、いや……\",\"translatedEnglishLine\":\"\\\"Ah, no...\"},{\"lineNumber\":78240,\"originalJapaneseLine\":\"　え、偉そうなことを言うんじゃない」\",\"translatedEnglishLine\":\"Don't say such arrogant things.\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 78191,
+                                "originalJapaneseLine": "「あ、目玉妖怪」",
+                                "translatedEnglishLine": "\"Ah, an eyeball yokai.\""
+                            },
+                            {
+                                "lineNumber": 78192,
+                                "originalJapaneseLine": "「喝！　妖怪王になんたる言い草か！」",
+                                "translatedEnglishLine": "\"Hah! How dare you speak like that to the Yokai King!\""
+                            },
+                            {
+                                "lineNumber": 78193,
+                                "originalJapaneseLine": "「いいさ、３Ｇ」",
+                                "translatedEnglishLine": "\"It's fine, 3G.\""
+                            },
+                            {
+                                "lineNumber": 78194,
+                                "originalJapaneseLine": "「JAPANは離れ島故、唯一繋がる天満橋で",
+                                "translatedEnglishLine": "\"Since JAPAN is a remote island, at Tenmabashi—the only connection point,"
+                            },
+                            {
+                                "lineNumber": 78195,
+                                "originalJapaneseLine": "　防御を固めている限り、",
+                                "translatedEnglishLine": "  as long as the defenses are solid,"
+                            },
+                            {
+                                "lineNumber": 78196,
+                                "originalJapaneseLine": "　そう簡単には突破されない」",
+                                "translatedEnglishLine": "  it won't be so easy to break through.\""
+                            },
+                            {
+                                "lineNumber": 78197,
+                                "originalJapaneseLine": "「俺達も力を貸そう」",
+                                "translatedEnglishLine": "\"We'll lend our strength as well.\""
+                            },
+                            {
+                                "lineNumber": 78198,
+                                "originalJapaneseLine": "「妖怪を束ねる独眼流政宗様が",
+                                "translatedEnglishLine": "\"Lord Dokuganryu Masamune, who leads the yokai,"
+                            },
+                            {
+                                "lineNumber": 78199,
+                                "originalJapaneseLine": "　味方になって下されば心強いです。",
+                                "translatedEnglishLine": "  it would be reassuring if you sided with us."
+                            },
+                            {
+                                "lineNumber": 78200,
+                                "originalJapaneseLine": "　本当に……ありがとうございます」",
+                                "translatedEnglishLine": "Truly... thank you very much.\""
+                            },
+                            {
+                                "lineNumber": 78201,
+                                "originalJapaneseLine": "「よしてくれ、香様」",
+                                "translatedEnglishLine": "\"Please stop, Lady Kaori.\""
+                            },
+                            {
+                                "lineNumber": 78202,
+                                "originalJapaneseLine": "「JAPANから出られない我ら妖怪が、",
+                                "translatedEnglishLine": "\"We yokai, who cannot leave JAPAN,"
+                            },
+                            {
+                                "lineNumber": 78203,
+                                "originalJapaneseLine": "　ようやく役に立てる。",
+                                "translatedEnglishLine": "  can finally be of use."
+                            },
+                            {
+                                "lineNumber": 78204,
+                                "originalJapaneseLine": "　だから立ち上がったまで」",
+                                "translatedEnglishLine": "  That is why we have risen up.\""
+                            },
+                            {
+                                "lineNumber": 78205,
+                                "originalJapaneseLine": "「んーーーーーーーー……」",
+                                "translatedEnglishLine": "\"Hmmm...\""
+                            },
+                            {
+                                "lineNumber": 78206,
+                                "originalJapaneseLine": "「どうかしたか？」",
+                                "translatedEnglishLine": "\"Is something the matter?\""
+                            },
+                            {
+                                "lineNumber": 78207,
+                                "originalJapaneseLine": "「相変わらず変な見た目」",
+                                "translatedEnglishLine": "\"You still look strange as ever.\""
+                            },
+                            {
+                                "lineNumber": 78208,
+                                "originalJapaneseLine": "「……そうか？」",
+                                "translatedEnglishLine": "\"...Is that so?\""
+                            },
+                            {
+                                "lineNumber": 78209,
+                                "originalJapaneseLine": "「しかし、あれだけランス城を拠点に戦ってたのに、",
+                                "translatedEnglishLine": "\"But even though we fought with Rance Castle as our base,"
+                            },
+                            {
+                                "lineNumber": 78210,
+                                "originalJapaneseLine": "　今度はここからまた戦うとはな」",
+                                "translatedEnglishLine": "  now we have to fight again from here.\""
+                            },
+                            {
+                                "lineNumber": 78211,
+                                "originalJapaneseLine": "「ああ、そうだ。サテラ達は負けた。",
+                                "translatedEnglishLine": "\"Yes, that's right. Satella and the others were defeated."
+                            },
+                            {
+                                "lineNumber": 78212,
+                                "originalJapaneseLine": "　だが、それがなんだ」",
+                                "translatedEnglishLine": "  But so what?"
+                            },
+                            {
+                                "lineNumber": 78213,
+                                "originalJapaneseLine": "「再出発だ……」",
+                                "translatedEnglishLine": "\"It's a new start...\""
+                            },
+                            {
+                                "lineNumber": 78214,
+                                "originalJapaneseLine": "「はい……",
+                                "translatedEnglishLine": "\"Yes..."
+                            },
+                            {
+                                "lineNumber": 78215,
+                                "originalJapaneseLine": "　ここから、また始めて",
+                                "translatedEnglishLine": "Starting again from here,"
+                            },
+                            {
+                                "lineNumber": 78216,
+                                "originalJapaneseLine": "「戦って、戦って、そして私達は……",
+                                "translatedEnglishLine": "We fight, we fight, and we..."
+                            },
+                            {
+                                "lineNumber": 78217,
+                                "originalJapaneseLine": "　勝たなければいけません」",
+                                "translatedEnglishLine": "Must win.\""
+                            },
+                            {
+                                "lineNumber": 78218,
+                                "originalJapaneseLine": "言葉の勇猛さとは裏腹に、",
+                                "translatedEnglishLine": "Despite the boldness of her words,"
+                            },
+                            {
+                                "lineNumber": 78219,
+                                "originalJapaneseLine": "香姫の顔には希望の色は薄い。",
+                                "translatedEnglishLine": "Lady Kaori's face showed little color of hope."
+                            },
+                            {
+                                "lineNumber": 78220,
+                                "originalJapaneseLine": "「……ふむ」",
+                                "translatedEnglishLine": "\"...Hmm.\""
+                            },
+                            {
+                                "lineNumber": 78221,
+                                "originalJapaneseLine": "リーザス、ヘルマンの国境、",
+                                "translatedEnglishLine": "Lieszus, the border with Helmann,"
+                            },
+                            {
+                                "lineNumber": 78222,
+                                "originalJapaneseLine": "緩衝地帯にあるバラオ山脈――",
+                                "translatedEnglishLine": "The Barao mountain range in the buffer zone—"
+                            },
+                            {
+                                "lineNumber": 78223,
+                                "originalJapaneseLine": "その断崖絶壁に作られた",
+                                "translatedEnglishLine": "Built on those sheer cliffs,"
+                            },
+                            {
+                                "lineNumber": 78224,
+                                "originalJapaneseLine": "マンガン砦――",
+                                "translatedEnglishLine": "Mangan Fortress—"
+                            },
+                            {
+                                "lineNumber": 78225,
+                                "originalJapaneseLine": "マンガン砦の司令部に",
+                                "translatedEnglishLine": "At the command center of Mangan Fortress,"
+                            },
+                            {
+                                "lineNumber": 78226,
+                                "originalJapaneseLine": "ランス城の錚々たる面子が集っていた。",
+                                "translatedEnglishLine": "A distinguished group from Rance Castle had gathered."
+                            },
+                            {
+                                "lineNumber": 78227,
+                                "originalJapaneseLine": "ランス城の参謀達は何事か小声で話し合い――",
+                                "translatedEnglishLine": "The strategists of Rance Castle were quietly discussing something—"
+                            },
+                            {
+                                "lineNumber": 78228,
+                                "originalJapaneseLine": "サテラは壁に背を預けたまま仏頂面で腕を組み、",
+                                "translatedEnglishLine": "Satella leaned against the wall with a sullen expression, arms crossed,"
+                            },
+                            {
+                                "lineNumber": 78229,
+                                "originalJapaneseLine": "魔人討伐隊の面々も並ぶ。",
+                                "translatedEnglishLine": "Alongside were members of the demon extermination squad."
+                            },
+                            {
+                                "lineNumber": 78230,
+                                "originalJapaneseLine": "「ふん、みんな揃っているようだな」",
+                                "translatedEnglishLine": "\"Hmph, it looks like everyone is here.\""
+                            },
+                            {
+                                "lineNumber": 78231,
+                                "originalJapaneseLine": "「すみません、皆さん。",
+                                "translatedEnglishLine": "\"Sorry to keep you all waiting."
+                            },
+                            {
+                                "lineNumber": 78232,
+                                "originalJapaneseLine": "　遅れました」",
+                                "translatedEnglishLine": "I'm late.\""
+                            },
+                            {
+                                "lineNumber": 78233,
+                                "originalJapaneseLine": "「なっ……！」",
+                                "translatedEnglishLine": "\"Wha...!\""
+                            },
+                            {
+                                "lineNumber": 78234,
+                                "originalJapaneseLine": "「ら、ランス、もう大丈夫なのか！？」",
+                                "translatedEnglishLine": "\"R-Rance, are you okay now!?\""
+                            },
+                            {
+                                "lineNumber": 78235,
+                                "originalJapaneseLine": "「がははは、俺様があの程度の怪我で",
+                                "translatedEnglishLine": "\"Gahaha, there's no way a mere injury like that would stop me!\""
+                            },
+                            {
+                                "lineNumber": 78236,
+                                "originalJapaneseLine": "　どうにかなるものか！」",
+                                "translatedEnglishLine": "No way it'd be a problem!\""
+                            },
+                            {
+                                "lineNumber": 78237,
+                                "originalJapaneseLine": "「そ、そうか……",
+                                "translatedEnglishLine": "\"I-I see...\""
+                            },
+                            {
+                                "lineNumber": 78238,
+                                "originalJapaneseLine": "　よかった……」",
+                                "translatedEnglishLine": "That's a relief...\""
+                            },
+                            {
+                                "lineNumber": 78239,
+                                "originalJapaneseLine": "「あ、いや……",
+                                "translatedEnglishLine": "\"Ah, no..."
+                            },
+                            {
+                                "lineNumber": 78240,
+                                "originalJapaneseLine": "　え、偉そうなことを言うんじゃない」",
+                                "translatedEnglishLine": "Don't say such arrogant things.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1397,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1791,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3188
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":78191,\"originalJapaneseLine\":\"「あ、目玉妖怪」\",\"translatedEnglishLine\":\"\\\"Ah, an eyeball yokai.\\\"\"},{\"lineNumber\":78192,\"originalJapaneseLine\":\"「喝！　妖怪王になんたる言い草か！」\",\"translatedEnglishLine\":\"\\\"Hah! How dare you speak like that to the Yokai King!\\\"\"},{\"lineNumber\":78193,\"originalJapaneseLine\":\"「いいさ、３Ｇ」\",\"translatedEnglishLine\":\"\\\"It's fine, 3G.\\\"\"},{\"lineNumber\":78194,\"originalJapaneseLine\":\"「JAPANは離れ島故、唯一繋がる天満橋で\",\"translatedEnglishLine\":\"\\\"Since JAPAN is a remote island, at Tenmabashi—the only connection point,\"},{\"lineNumber\":78195,\"originalJapaneseLine\":\"　防御を固めている限り、\",\"translatedEnglishLine\":\"  as long as the defenses are solid,\"},{\"lineNumber\":78196,\"originalJapaneseLine\":\"　そう簡単には突破されない」\",\"translatedEnglishLine\":\"  it won't be so easy to break through.\\\"\"},{\"lineNumber\":78197,\"originalJapaneseLine\":\"「俺達も力を貸そう」\",\"translatedEnglishLine\":\"\\\"We'll lend our strength as well.\\\"\"},{\"lineNumber\":78198,\"originalJapaneseLine\":\"「妖怪を束ねる独眼流政宗様が\",\"translatedEnglishLine\":\"\\\"Lord Dokuganryu Masamune, who leads the yokai,\"},{\"lineNumber\":78199,\"originalJapaneseLine\":\"　味方になって下されば心強いです。\",\"translatedEnglishLine\":\"  it would be reassuring if you sided with us.\"},{\"lineNumber\":78200,\"originalJapaneseLine\":\"　本当に……ありがとうございます」\",\"translatedEnglishLine\":\"Truly... thank you very much.\\\"\"},{\"lineNumber\":78201,\"originalJapaneseLine\":\"「よしてくれ、香様」\",\"translatedEnglishLine\":\"\\\"Please stop, Lady Kaori.\\\"\"},{\"lineNumber\":78202,\"originalJapaneseLine\":\"「JAPANから出られない我ら妖怪が、\",\"translatedEnglishLine\":\"\\\"We yokai, who cannot leave JAPAN,\"},{\"lineNumber\":78203,\"originalJapaneseLine\":\"　ようやく役に立てる。\",\"translatedEnglishLine\":\"  can finally be of use.\"},{\"lineNumber\":78204,\"originalJapaneseLine\":\"　だから立ち上がったまで」\",\"translatedEnglishLine\":\"  That is why we have risen up.\\\"\"},{\"lineNumber\":78205,\"originalJapaneseLine\":\"「んーーーーーーーー……」\",\"translatedEnglishLine\":\"\\\"Hmmm...\\\"\"},{\"lineNumber\":78206,\"originalJapaneseLine\":\"「どうかしたか？」\",\"translatedEnglishLine\":\"\\\"Is something the matter?\\\"\"},{\"lineNumber\":78207,\"originalJapaneseLine\":\"「相変わらず変な見た目」\",\"translatedEnglishLine\":\"\\\"You still look strange as ever.\\\"\"},{\"lineNumber\":78208,\"originalJapaneseLine\":\"「……そうか？」\",\"translatedEnglishLine\":\"\\\"...Is that so?\\\"\"},{\"lineNumber\":78209,\"originalJapaneseLine\":\"「しかし、あれだけランス城を拠点に戦ってたのに、\",\"translatedEnglishLine\":\"\\\"But even though we fought with Rance Castle as our base,\"},{\"lineNumber\":78210,\"originalJapaneseLine\":\"　今度はここからまた戦うとはな」\",\"translatedEnglishLine\":\"  now we have to fight again from here.\\\"\"},{\"lineNumber\":78211,\"originalJapaneseLine\":\"「ああ、そうだ。サテラ達は負けた。\",\"translatedEnglishLine\":\"\\\"Yes, that's right. Satella and the others were defeated.\"},{\"lineNumber\":78212,\"originalJapaneseLine\":\"　だが、それがなんだ」\",\"translatedEnglishLine\":\"  But so what?\"},{\"lineNumber\":78213,\"originalJapaneseLine\":\"「再出発だ……」\",\"translatedEnglishLine\":\"\\\"It's a new start...\\\"\"},{\"lineNumber\":78214,\"originalJapaneseLine\":\"「はい……\",\"translatedEnglishLine\":\"\\\"Yes...\"},{\"lineNumber\":78215,\"originalJapaneseLine\":\"　ここから、また始めて\",\"translatedEnglishLine\":\"Starting again from here,\"},{\"lineNumber\":78216,\"originalJapaneseLine\":\"「戦って、戦って、そして私達は……\",\"translatedEnglishLine\":\"We fight, we fight, and we...\"},{\"lineNumber\":78217,\"originalJapaneseLine\":\"　勝たなければいけません」\",\"translatedEnglishLine\":\"Must win.\\\"\"},{\"lineNumber\":78218,\"originalJapaneseLine\":\"言葉の勇猛さとは裏腹に、\",\"translatedEnglishLine\":\"Despite the boldness of her words,\"},{\"lineNumber\":78219,\"originalJapaneseLine\":\"香姫の顔には希望の色は薄い。\",\"translatedEnglishLine\":\"Lady Kaori's face showed little color of hope.\"},{\"lineNumber\":78220,\"originalJapaneseLine\":\"「……ふむ」\",\"translatedEnglishLine\":\"\\\"...Hmm.\\\"\"},{\"lineNumber\":78221,\"originalJapaneseLine\":\"リーザス、ヘルマンの国境、\",\"translatedEnglishLine\":\"Lieszus, the border with Helmann,\"},{\"lineNumber\":78222,\"originalJapaneseLine\":\"緩衝地帯にあるバラオ山脈――\",\"translatedEnglishLine\":\"The Barao mountain range in the buffer zone—\"},{\"lineNumber\":78223,\"originalJapaneseLine\":\"その断崖絶壁に作られた\",\"translatedEnglishLine\":\"Built on those sheer cliffs,\"},{\"lineNumber\":78224,\"originalJapaneseLine\":\"マンガン砦――\",\"translatedEnglishLine\":\"Mangan Fortress—\"},{\"lineNumber\":78225,\"originalJapaneseLine\":\"マンガン砦の司令部に\",\"translatedEnglishLine\":\"At the command center of Mangan Fortress,\"},{\"lineNumber\":78226,\"originalJapaneseLine\":\"ランス城の錚々たる面子が集っていた。\",\"translatedEnglishLine\":\"A distinguished group from Rance Castle had gathered.\"},{\"lineNumber\":78227,\"originalJapaneseLine\":\"ランス城の参謀達は何事か小声で話し合い――\",\"translatedEnglishLine\":\"The strategists of Rance Castle were quietly discussing something—\"},{\"lineNumber\":78228,\"originalJapaneseLine\":\"サテラは壁に背を預けたまま仏頂面で腕を組み、\",\"translatedEnglishLine\":\"Satella leaned against the wall with a sullen expression, arms crossed,\"},{\"lineNumber\":78229,\"originalJapaneseLine\":\"魔人討伐隊の面々も並ぶ。\",\"translatedEnglishLine\":\"Alongside were members of the demon extermination squad.\"},{\"lineNumber\":78230,\"originalJapaneseLine\":\"「ふん、みんな揃っているようだな」\",\"translatedEnglishLine\":\"\\\"Hmph, it looks like everyone is here.\\\"\"},{\"lineNumber\":78231,\"originalJapaneseLine\":\"「すみません、皆さん。\",\"translatedEnglishLine\":\"\\\"Sorry to keep you all waiting.\"},{\"lineNumber\":78232,\"originalJapaneseLine\":\"　遅れました」\",\"translatedEnglishLine\":\"I'm late.\\\"\"},{\"lineNumber\":78233,\"originalJapaneseLine\":\"「なっ……！」\",\"translatedEnglishLine\":\"\\\"Wha...!\\\"\"},{\"lineNumber\":78234,\"originalJapaneseLine\":\"「ら、ランス、もう大丈夫なのか！？」\",\"translatedEnglishLine\":\"\\\"R-Rance, are you okay now!?\\\"\"},{\"lineNumber\":78235,\"originalJapaneseLine\":\"「がははは、俺様があの程度の怪我で\",\"translatedEnglishLine\":\"\\\"Gahaha, there's no way a mere injury like that would stop me!\\\"\"},{\"lineNumber\":78236,\"originalJapaneseLine\":\"　どうにかなるものか！」\",\"translatedEnglishLine\":\"No way it'd be a problem!\\\"\"},{\"lineNumber\":78237,\"originalJapaneseLine\":\"「そ、そうか……\",\"translatedEnglishLine\":\"\\\"I-I see...\\\"\"},{\"lineNumber\":78238,\"originalJapaneseLine\":\"　よかった……」\",\"translatedEnglishLine\":\"That's a relief...\\\"\"},{\"lineNumber\":78239,\"originalJapaneseLine\":\"「あ、いや……\",\"translatedEnglishLine\":\"\\\"Ah, no...\"},{\"lineNumber\":78240,\"originalJapaneseLine\":\"　え、偉そうなことを言うんじゃない」\",\"translatedEnglishLine\":\"Don't say such arrogant things.\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 78191,
+                "originalJapaneseLine": "「あ、目玉妖怪」",
+                "translatedEnglishLine": "\"Ah, an eyeball yokai.\""
+            },
+            {
+                "lineNumber": 78192,
+                "originalJapaneseLine": "「喝！　妖怪王になんたる言い草か！」",
+                "translatedEnglishLine": "\"Hah! How dare you speak like that to the Yokai King!\""
+            },
+            {
+                "lineNumber": 78193,
+                "originalJapaneseLine": "「いいさ、３Ｇ」",
+                "translatedEnglishLine": "\"It's fine, 3G.\""
+            },
+            {
+                "lineNumber": 78194,
+                "originalJapaneseLine": "「JAPANは離れ島故、唯一繋がる天満橋で",
+                "translatedEnglishLine": "\"Since JAPAN is a remote island, at Tenmabashi—the only connection point,"
+            },
+            {
+                "lineNumber": 78195,
+                "originalJapaneseLine": "　防御を固めている限り、",
+                "translatedEnglishLine": "  as long as the defenses are solid,"
+            },
+            {
+                "lineNumber": 78196,
+                "originalJapaneseLine": "　そう簡単には突破されない」",
+                "translatedEnglishLine": "  it won't be so easy to break through.\""
+            },
+            {
+                "lineNumber": 78197,
+                "originalJapaneseLine": "「俺達も力を貸そう」",
+                "translatedEnglishLine": "\"We'll lend our strength as well.\""
+            },
+            {
+                "lineNumber": 78198,
+                "originalJapaneseLine": "「妖怪を束ねる独眼流政宗様が",
+                "translatedEnglishLine": "\"Lord Dokuganryu Masamune, who leads the yokai,"
+            },
+            {
+                "lineNumber": 78199,
+                "originalJapaneseLine": "　味方になって下されば心強いです。",
+                "translatedEnglishLine": "  it would be reassuring if you sided with us."
+            },
+            {
+                "lineNumber": 78200,
+                "originalJapaneseLine": "　本当に……ありがとうございます」",
+                "translatedEnglishLine": "Truly... thank you very much.\""
+            },
+            {
+                "lineNumber": 78201,
+                "originalJapaneseLine": "「よしてくれ、香様」",
+                "translatedEnglishLine": "\"Please stop, Lady Kaori.\""
+            },
+            {
+                "lineNumber": 78202,
+                "originalJapaneseLine": "「JAPANから出られない我ら妖怪が、",
+                "translatedEnglishLine": "\"We yokai, who cannot leave JAPAN,"
+            },
+            {
+                "lineNumber": 78203,
+                "originalJapaneseLine": "　ようやく役に立てる。",
+                "translatedEnglishLine": "  can finally be of use."
+            },
+            {
+                "lineNumber": 78204,
+                "originalJapaneseLine": "　だから立ち上がったまで」",
+                "translatedEnglishLine": "  That is why we have risen up.\""
+            },
+            {
+                "lineNumber": 78205,
+                "originalJapaneseLine": "「んーーーーーーーー……」",
+                "translatedEnglishLine": "\"Hmmm...\""
+            },
+            {
+                "lineNumber": 78206,
+                "originalJapaneseLine": "「どうかしたか？」",
+                "translatedEnglishLine": "\"Is something the matter?\""
+            },
+            {
+                "lineNumber": 78207,
+                "originalJapaneseLine": "「相変わらず変な見た目」",
+                "translatedEnglishLine": "\"You still look strange as ever.\""
+            },
+            {
+                "lineNumber": 78208,
+                "originalJapaneseLine": "「……そうか？」",
+                "translatedEnglishLine": "\"...Is that so?\""
+            },
+            {
+                "lineNumber": 78209,
+                "originalJapaneseLine": "「しかし、あれだけランス城を拠点に戦ってたのに、",
+                "translatedEnglishLine": "\"But even though we fought with Rance Castle as our base,"
+            },
+            {
+                "lineNumber": 78210,
+                "originalJapaneseLine": "　今度はここからまた戦うとはな」",
+                "translatedEnglishLine": "  now we have to fight again from here.\""
+            },
+            {
+                "lineNumber": 78211,
+                "originalJapaneseLine": "「ああ、そうだ。サテラ達は負けた。",
+                "translatedEnglishLine": "\"Yes, that's right. Satella and the others were defeated."
+            },
+            {
+                "lineNumber": 78212,
+                "originalJapaneseLine": "　だが、それがなんだ」",
+                "translatedEnglishLine": "  But so what?"
+            },
+            {
+                "lineNumber": 78213,
+                "originalJapaneseLine": "「再出発だ……」",
+                "translatedEnglishLine": "\"It's a new start...\""
+            },
+            {
+                "lineNumber": 78214,
+                "originalJapaneseLine": "「はい……",
+                "translatedEnglishLine": "\"Yes..."
+            },
+            {
+                "lineNumber": 78215,
+                "originalJapaneseLine": "　ここから、また始めて",
+                "translatedEnglishLine": "Starting again from here,"
+            },
+            {
+                "lineNumber": 78216,
+                "originalJapaneseLine": "「戦って、戦って、そして私達は……",
+                "translatedEnglishLine": "We fight, we fight, and we..."
+            },
+            {
+                "lineNumber": 78217,
+                "originalJapaneseLine": "　勝たなければいけません」",
+                "translatedEnglishLine": "Must win.\""
+            },
+            {
+                "lineNumber": 78218,
+                "originalJapaneseLine": "言葉の勇猛さとは裏腹に、",
+                "translatedEnglishLine": "Despite the boldness of her words,"
+            },
+            {
+                "lineNumber": 78219,
+                "originalJapaneseLine": "香姫の顔には希望の色は薄い。",
+                "translatedEnglishLine": "Lady Kaori's face showed little color of hope."
+            },
+            {
+                "lineNumber": 78220,
+                "originalJapaneseLine": "「……ふむ」",
+                "translatedEnglishLine": "\"...Hmm.\""
+            },
+            {
+                "lineNumber": 78221,
+                "originalJapaneseLine": "リーザス、ヘルマンの国境、",
+                "translatedEnglishLine": "Lieszus, the border with Helmann,"
+            },
+            {
+                "lineNumber": 78222,
+                "originalJapaneseLine": "緩衝地帯にあるバラオ山脈――",
+                "translatedEnglishLine": "The Barao mountain range in the buffer zone—"
+            },
+            {
+                "lineNumber": 78223,
+                "originalJapaneseLine": "その断崖絶壁に作られた",
+                "translatedEnglishLine": "Built on those sheer cliffs,"
+            },
+            {
+                "lineNumber": 78224,
+                "originalJapaneseLine": "マンガン砦――",
+                "translatedEnglishLine": "Mangan Fortress—"
+            },
+            {
+                "lineNumber": 78225,
+                "originalJapaneseLine": "マンガン砦の司令部に",
+                "translatedEnglishLine": "At the command center of Mangan Fortress,"
+            },
+            {
+                "lineNumber": 78226,
+                "originalJapaneseLine": "ランス城の錚々たる面子が集っていた。",
+                "translatedEnglishLine": "A distinguished group from Rance Castle had gathered."
+            },
+            {
+                "lineNumber": 78227,
+                "originalJapaneseLine": "ランス城の参謀達は何事か小声で話し合い――",
+                "translatedEnglishLine": "The strategists of Rance Castle were quietly discussing something—"
+            },
+            {
+                "lineNumber": 78228,
+                "originalJapaneseLine": "サテラは壁に背を預けたまま仏頂面で腕を組み、",
+                "translatedEnglishLine": "Satella leaned against the wall with a sullen expression, arms crossed,"
+            },
+            {
+                "lineNumber": 78229,
+                "originalJapaneseLine": "魔人討伐隊の面々も並ぶ。",
+                "translatedEnglishLine": "Alongside were members of the demon extermination squad."
+            },
+            {
+                "lineNumber": 78230,
+                "originalJapaneseLine": "「ふん、みんな揃っているようだな」",
+                "translatedEnglishLine": "\"Hmph, it looks like everyone is here.\""
+            },
+            {
+                "lineNumber": 78231,
+                "originalJapaneseLine": "「すみません、皆さん。",
+                "translatedEnglishLine": "\"Sorry to keep you all waiting."
+            },
+            {
+                "lineNumber": 78232,
+                "originalJapaneseLine": "　遅れました」",
+                "translatedEnglishLine": "I'm late.\""
+            },
+            {
+                "lineNumber": 78233,
+                "originalJapaneseLine": "「なっ……！」",
+                "translatedEnglishLine": "\"Wha...!\""
+            },
+            {
+                "lineNumber": 78234,
+                "originalJapaneseLine": "「ら、ランス、もう大丈夫なのか！？」",
+                "translatedEnglishLine": "\"R-Rance, are you okay now!?\""
+            },
+            {
+                "lineNumber": 78235,
+                "originalJapaneseLine": "「がははは、俺様があの程度の怪我で",
+                "translatedEnglishLine": "\"Gahaha, there's no way a mere injury like that would stop me!\""
+            },
+            {
+                "lineNumber": 78236,
+                "originalJapaneseLine": "　どうにかなるものか！」",
+                "translatedEnglishLine": "No way it'd be a problem!\""
+            },
+            {
+                "lineNumber": 78237,
+                "originalJapaneseLine": "「そ、そうか……",
+                "translatedEnglishLine": "\"I-I see...\""
+            },
+            {
+                "lineNumber": 78238,
+                "originalJapaneseLine": "　よかった……」",
+                "translatedEnglishLine": "That's a relief...\""
+            },
+            {
+                "lineNumber": 78239,
+                "originalJapaneseLine": "「あ、いや……",
+                "translatedEnglishLine": "\"Ah, no..."
+            },
+            {
+                "lineNumber": 78240,
+                "originalJapaneseLine": "　え、偉そうなことを言うんじゃない」",
+                "translatedEnglishLine": "Don't say such arrogant things.\""
+            }
+        ]
+    }
+}

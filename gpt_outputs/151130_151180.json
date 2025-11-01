@@ -1,1 +1,619 @@
-{"id":"resp_0804459790b818cb0068f14d7c06908193a36eb2c0bd30d687","object":"response","created_at":1760644476,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0804459790b818cb0068f14d7cbad88193852137862107ce3f","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":151131,\"originalJapaneseLine\":\"数千年という悠久の時が癒してしまう。\",\"translatedEnglishLine\":\"Eons spanning thousands of years will eventually heal it.\"},{\"lineNumber\":151132,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":151133,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"....\"},{\"lineNumber\":151134,\"originalJapaneseLine\":\"ケッセルリンクの城――\",\"translatedEnglishLine\":\"Kessellink Castle—\"},{\"lineNumber\":151135,\"originalJapaneseLine\":\"ラング・バウから出発したランス達、\",\"translatedEnglishLine\":\"Lance and his group, who departed from Rangu Bau,\"},{\"lineNumber\":151136,\"originalJapaneseLine\":\"魔人討伐隊が昼間、城に到着した。\",\"translatedEnglishLine\":\"The demon extermination squad arrived at the castle during the day.\"},{\"lineNumber\":151137,\"originalJapaneseLine\":\"「よーし、今度こそ何度目かの正直！\",\"translatedEnglishLine\":\"\\\"Alright, this time for real, no more false starts!\"},{\"lineNumber\":151138,\"originalJapaneseLine\":\"　今日でケッセルリンクとの戦いも終わりにする！」\",\"translatedEnglishLine\":\"We'll end the battle with Kessellink today!\\\"\"},{\"lineNumber\":151139,\"originalJapaneseLine\":\"「は、はい」\",\"translatedEnglishLine\":\"\\\"Y-Yes.\\\"\"},{\"lineNumber\":151140,\"originalJapaneseLine\":\"「後は……\",\"translatedEnglishLine\":\"\\\"Now all that's left is...\"},{\"lineNumber\":151141,\"originalJapaneseLine\":\"　ペルエレが上手くやってくれてるかどうかだな」\",\"translatedEnglishLine\":\"whether Peruere is handling things smoothly.\\\"\"},{\"lineNumber\":151142,\"originalJapaneseLine\":\"「そう、ですね……」\",\"translatedEnglishLine\":\"\\\"That's right...\\\"\"},{\"lineNumber\":151143,\"originalJapaneseLine\":\"と、その時――\",\"translatedEnglishLine\":\"At that moment—\"},{\"lineNumber\":151144,\"originalJapaneseLine\":\"「あ、ようやく来た」\",\"translatedEnglishLine\":\"\\\"Ah, finally you've arrived.\\\"\"},{\"lineNumber\":151145,\"originalJapaneseLine\":\"なんてことない顔をしたペルエレが、\",\"translatedEnglishLine\":\"Peruere, with a casual expression,\"},{\"lineNumber\":151146,\"originalJapaneseLine\":\"正門から顔を覗かせた。\",\"translatedEnglishLine\":\"peeked his head through the main gate.\"},{\"lineNumber\":151147,\"originalJapaneseLine\":\"「ほっほー、こりゃすごい光景だ」\",\"translatedEnglishLine\":\"\\\"Hoho, what an incredible sight.\\\"\"},{\"lineNumber\":151148,\"originalJapaneseLine\":\"「んっ……」\",\"translatedEnglishLine\":\"\\\"Hmm...\\\"\"},{\"lineNumber\":151149,\"originalJapaneseLine\":\"「すうすう……すうすう……」\",\"translatedEnglishLine\":\"\\\"Suu suu... suusuu...\\\" (snoring sounds)\"},{\"lineNumber\":151150,\"originalJapaneseLine\":\"城内に入ると廊下に、\",\"translatedEnglishLine\":\"Upon entering the castle, in the corridor,\"},{\"lineNumber\":151151,\"originalJapaneseLine\":\"ケッセルリンクのメイド達が寝転がっていた。\",\"translatedEnglishLine\":\"Kessellink's maids were lying down asleep.\"},{\"lineNumber\":151152,\"originalJapaneseLine\":\"「睡眠用アイテム、ばっちり効いたようだな」\",\"translatedEnglishLine\":\"\\\"The sleeping items seem to have worked perfectly.\\\"\"},{\"lineNumber\":151153,\"originalJapaneseLine\":\"「しかーーし、本当にちゃんと眠ってるか、\",\"translatedEnglishLine\":\"\\\"But— to be sure they're really asleep,\"},{\"lineNumber\":151154,\"originalJapaneseLine\":\"　こうして確認してみなければなー、\",\"translatedEnglishLine\":\"we have to check like this—\"},{\"lineNumber\":151155,\"originalJapaneseLine\":\"　ぐふふふ、もみもみー」\",\"translatedEnglishLine\":\"Gufufufu, squeeze squeeze—\\\"\"},{\"lineNumber\":151156,\"originalJapaneseLine\":\"「ば、馬鹿なことしてるんじゃなーい！」\",\"translatedEnglishLine\":\"\\\"D-Don't do stupid things like that!\\\"\"},{\"lineNumber\":151157,\"originalJapaneseLine\":\"と、いつものように騒いでいるランス達とは別に、\",\"translatedEnglishLine\":\"Meanwhile, apart from Lance and the others who were making a usual ruckus,\"},{\"lineNumber\":151158,\"originalJapaneseLine\":\"部屋の隅ではペルエレの傍にシーラがいた。\",\"translatedEnglishLine\":\"in the corner of the room, Sheila was beside Peruere.\"},{\"lineNumber\":151159,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":151160,\"originalJapaneseLine\":\"「あによ？\",\"translatedEnglishLine\":\"\\\"Hey?\\\"\"},{\"lineNumber\":151161,\"originalJapaneseLine\":\"　あんた、なんでくっついてるわけ？」\",\"translatedEnglishLine\":\"Why are you clinging like that?\\\"\"},{\"lineNumber\":151162,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":151163,\"originalJapaneseLine\":\"「ペルエレ、大丈夫？　辛かったりは……」\",\"translatedEnglishLine\":\"\\\"Peruere, are you okay? Are you feeling any pain...?\"},{\"lineNumber\":151164,\"originalJapaneseLine\":\"「はあ？　私は絶好調だけど？」\",\"translatedEnglishLine\":\"\\\"Huh? I'm in perfect shape though?\\\"\"},{\"lineNumber\":151165,\"originalJapaneseLine\":\"「それなら……\",\"translatedEnglishLine\":\"\\\"Then...\"},{\"lineNumber\":151166,\"originalJapaneseLine\":\"　うぅん、いいの……」\",\"translatedEnglishLine\":\"Umm, it's fine...\\\"\"},{\"lineNumber\":151167,\"originalJapaneseLine\":\"「あーもう、うっとうしい！　離れろ！」\",\"translatedEnglishLine\":\"\\\"Ah, you're so annoying! Get away!\\\"\"},{\"lineNumber\":151168,\"originalJapaneseLine\":\"「う、だって……」\",\"translatedEnglishLine\":\"\\\"B-But...\\\"\"},{\"lineNumber\":151169,\"originalJapaneseLine\":\"「がはははははは！\",\"translatedEnglishLine\":\"\\\"Gahahahaha!\"},{\"lineNumber\":151170,\"originalJapaneseLine\":\"　ペルエレにはご褒美をやらんといかんなー！」\",\"translatedEnglishLine\":\"Peruere deserves a reward!\\\"\"},{\"lineNumber\":151171,\"originalJapaneseLine\":\"「きゃっ、ランス様！？」\",\"translatedEnglishLine\":\"\\\"Kya! Lord Lance!?\\\"\"},{\"lineNumber\":151172,\"originalJapaneseLine\":\"「ぎゃあああああああ！\",\"translatedEnglishLine\":\"\\\"Gyaaaaaaa!\"},{\"lineNumber\":151173,\"originalJapaneseLine\":\"　後ろから抱きつくんじゃ――\",\"translatedEnglishLine\":\"Don't hug me from behind—\"},{\"lineNumber\":151174,\"originalJapaneseLine\":\"　あっ、ちょ、どこ触ってんだー！」\",\"translatedEnglishLine\":\"Hey, wait, where are you touching!?\\\"\"},{\"lineNumber\":151175,\"originalJapaneseLine\":\"「がははは！　だからご褒美と言ってるだろうー！」\",\"translatedEnglishLine\":\"\\\"Gahaha! That's why I said it's a reward!\\\"\"},{\"lineNumber\":151176,\"originalJapaneseLine\":\"「ふっ、くうっ！」\",\"translatedEnglishLine\":\"\\\"Hmph, kuh!\\\"\"},{\"lineNumber\":151177,\"originalJapaneseLine\":\"「くっ……くくくくく……ッ！」\",\"translatedEnglishLine\":\"\\\"Kuh... kukukukuku...!\\\"\"},{\"lineNumber\":151178,\"originalJapaneseLine\":\"「ああ？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":151179,\"originalJapaneseLine\":\"「あんた、気づいてないようね……\",\"translatedEnglishLine\":\"\\\"You don't seem to realize it...\"},{\"lineNumber\":151180,\"originalJapaneseLine\":\"　私は今までの私と違うということに」\",\"translatedEnglishLine\":\"that I'm different from who I used to be.\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":151131,"originalJapaneseLine":"数千年という悠久の時が癒してしまう。","translatedEnglishLine":"Eons spanning thousands of years will eventually heal it."},{"lineNumber":151132,"originalJapaneseLine":"…………","translatedEnglishLine":"............"},{"lineNumber":151133,"originalJapaneseLine":"……","translatedEnglishLine":"...."},{"lineNumber":151134,"originalJapaneseLine":"ケッセルリンクの城――","translatedEnglishLine":"Kessellink Castle—"},{"lineNumber":151135,"originalJapaneseLine":"ラング・バウから出発したランス達、","translatedEnglishLine":"Lance and his group, who departed from Rangu Bau,"},{"lineNumber":151136,"originalJapaneseLine":"魔人討伐隊が昼間、城に到着した。","translatedEnglishLine":"The demon extermination squad arrived at the castle during the day."},{"lineNumber":151137,"originalJapaneseLine":"「よーし、今度こそ何度目かの正直！","translatedEnglishLine":"\"Alright, this time for real, no more false starts!"},{"lineNumber":151138,"originalJapaneseLine":"　今日でケッセルリンクとの戦いも終わりにする！」","translatedEnglishLine":"We'll end the battle with Kessellink today!\""},{"lineNumber":151139,"originalJapaneseLine":"「は、はい」","translatedEnglishLine":"\"Y-Yes.\""},{"lineNumber":151140,"originalJapaneseLine":"「後は……","translatedEnglishLine":"\"Now all that's left is..."},{"lineNumber":151141,"originalJapaneseLine":"　ペルエレが上手くやってくれてるかどうかだな」","translatedEnglishLine":"whether Peruere is handling things smoothly.\""},{"lineNumber":151142,"originalJapaneseLine":"「そう、ですね……」","translatedEnglishLine":"\"That's right...\""},{"lineNumber":151143,"originalJapaneseLine":"と、その時――","translatedEnglishLine":"At that moment—"},{"lineNumber":151144,"originalJapaneseLine":"「あ、ようやく来た」","translatedEnglishLine":"\"Ah, finally you've arrived.\""},{"lineNumber":151145,"originalJapaneseLine":"なんてことない顔をしたペルエレが、","translatedEnglishLine":"Peruere, with a casual expression,"},{"lineNumber":151146,"originalJapaneseLine":"正門から顔を覗かせた。","translatedEnglishLine":"peeked his head through the main gate."},{"lineNumber":151147,"originalJapaneseLine":"「ほっほー、こりゃすごい光景だ」","translatedEnglishLine":"\"Hoho, what an incredible sight.\""},{"lineNumber":151148,"originalJapaneseLine":"「んっ……」","translatedEnglishLine":"\"Hmm...\""},{"lineNumber":151149,"originalJapaneseLine":"「すうすう……すうすう……」","translatedEnglishLine":"\"Suu suu... suusuu...\" (snoring sounds)"},{"lineNumber":151150,"originalJapaneseLine":"城内に入ると廊下に、","translatedEnglishLine":"Upon entering the castle, in the corridor,"},{"lineNumber":151151,"originalJapaneseLine":"ケッセルリンクのメイド達が寝転がっていた。","translatedEnglishLine":"Kessellink's maids were lying down asleep."},{"lineNumber":151152,"originalJapaneseLine":"「睡眠用アイテム、ばっちり効いたようだな」","translatedEnglishLine":"\"The sleeping items seem to have worked perfectly.\""},{"lineNumber":151153,"originalJapaneseLine":"「しかーーし、本当にちゃんと眠ってるか、","translatedEnglishLine":"\"But— to be sure they're really asleep,"},{"lineNumber":151154,"originalJapaneseLine":"　こうして確認してみなければなー、","translatedEnglishLine":"we have to check like this—"},{"lineNumber":151155,"originalJapaneseLine":"　ぐふふふ、もみもみー」","translatedEnglishLine":"Gufufufu, squeeze squeeze—\""},{"lineNumber":151156,"originalJapaneseLine":"「ば、馬鹿なことしてるんじゃなーい！」","translatedEnglishLine":"\"D-Don't do stupid things like that!\""},{"lineNumber":151157,"originalJapaneseLine":"と、いつものように騒いでいるランス達とは別に、","translatedEnglishLine":"Meanwhile, apart from Lance and the others who were making a usual ruckus,"},{"lineNumber":151158,"originalJapaneseLine":"部屋の隅ではペルエレの傍にシーラがいた。","translatedEnglishLine":"in the corner of the room, Sheila was beside Peruere."},{"lineNumber":151159,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"............\""},{"lineNumber":151160,"originalJapaneseLine":"「あによ？","translatedEnglishLine":"\"Hey?\""},{"lineNumber":151161,"originalJapaneseLine":"　あんた、なんでくっついてるわけ？」","translatedEnglishLine":"Why are you clinging like that?\""},{"lineNumber":151162,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"............\""},{"lineNumber":151163,"originalJapaneseLine":"「ペルエレ、大丈夫？　辛かったりは……」","translatedEnglishLine":"\"Peruere, are you okay? Are you feeling any pain...?"},{"lineNumber":151164,"originalJapaneseLine":"「はあ？　私は絶好調だけど？」","translatedEnglishLine":"\"Huh? I'm in perfect shape though?\""},{"lineNumber":151165,"originalJapaneseLine":"「それなら……","translatedEnglishLine":"\"Then..."},{"lineNumber":151166,"originalJapaneseLine":"　うぅん、いいの……」","translatedEnglishLine":"Umm, it's fine...\""},{"lineNumber":151167,"originalJapaneseLine":"「あーもう、うっとうしい！　離れろ！」","translatedEnglishLine":"\"Ah, you're so annoying! Get away!\""},{"lineNumber":151168,"originalJapaneseLine":"「う、だって……」","translatedEnglishLine":"\"B-But...\""},{"lineNumber":151169,"originalJapaneseLine":"「がはははははは！","translatedEnglishLine":"\"Gahahahaha!"},{"lineNumber":151170,"originalJapaneseLine":"　ペルエレにはご褒美をやらんといかんなー！」","translatedEnglishLine":"Peruere deserves a reward!\""},{"lineNumber":151171,"originalJapaneseLine":"「きゃっ、ランス様！？」","translatedEnglishLine":"\"Kya! Lord Lance!?\""},{"lineNumber":151172,"originalJapaneseLine":"「ぎゃあああああああ！","translatedEnglishLine":"\"Gyaaaaaaa!"},{"lineNumber":151173,"originalJapaneseLine":"　後ろから抱きつくんじゃ――","translatedEnglishLine":"Don't hug me from behind—"},{"lineNumber":151174,"originalJapaneseLine":"　あっ、ちょ、どこ触ってんだー！」","translatedEnglishLine":"Hey, wait, where are you touching!?\""},{"lineNumber":151175,"originalJapaneseLine":"「がははは！　だからご褒美と言ってるだろうー！」","translatedEnglishLine":"\"Gahaha! That's why I said it's a reward!\""},{"lineNumber":151176,"originalJapaneseLine":"「ふっ、くうっ！」","translatedEnglishLine":"\"Hmph, kuh!\""},{"lineNumber":151177,"originalJapaneseLine":"「くっ……くくくくく……ッ！」","translatedEnglishLine":"\"Kuh... kukukukuku...!\""},{"lineNumber":151178,"originalJapaneseLine":"「ああ？」","translatedEnglishLine":"\"Huh?\""},{"lineNumber":151179,"originalJapaneseLine":"「あんた、気づいてないようね……","translatedEnglishLine":"\"You don't seem to realize it..."},{"lineNumber":151180,"originalJapaneseLine":"　私は今までの私と違うということに」","translatedEnglishLine":"that I'm different from who I used to be.\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1421,"input_tokens_details":{"cached_tokens":0},"output_tokens":1783,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3204},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":151131,\"originalJapaneseLine\":\"数千年という悠久の時が癒してしまう。\",\"translatedEnglishLine\":\"Eons spanning thousands of years will eventually heal it.\"},{\"lineNumber\":151132,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":151133,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"....\"},{\"lineNumber\":151134,\"originalJapaneseLine\":\"ケッセルリンクの城――\",\"translatedEnglishLine\":\"Kessellink Castle—\"},{\"lineNumber\":151135,\"originalJapaneseLine\":\"ラング・バウから出発したランス達、\",\"translatedEnglishLine\":\"Lance and his group, who departed from Rangu Bau,\"},{\"lineNumber\":151136,\"originalJapaneseLine\":\"魔人討伐隊が昼間、城に到着した。\",\"translatedEnglishLine\":\"The demon extermination squad arrived at the castle during the day.\"},{\"lineNumber\":151137,\"originalJapaneseLine\":\"「よーし、今度こそ何度目かの正直！\",\"translatedEnglishLine\":\"\\\"Alright, this time for real, no more false starts!\"},{\"lineNumber\":151138,\"originalJapaneseLine\":\"　今日でケッセルリンクとの戦いも終わりにする！」\",\"translatedEnglishLine\":\"We'll end the battle with Kessellink today!\\\"\"},{\"lineNumber\":151139,\"originalJapaneseLine\":\"「は、はい」\",\"translatedEnglishLine\":\"\\\"Y-Yes.\\\"\"},{\"lineNumber\":151140,\"originalJapaneseLine\":\"「後は……\",\"translatedEnglishLine\":\"\\\"Now all that's left is...\"},{\"lineNumber\":151141,\"originalJapaneseLine\":\"　ペルエレが上手くやってくれてるかどうかだな」\",\"translatedEnglishLine\":\"whether Peruere is handling things smoothly.\\\"\"},{\"lineNumber\":151142,\"originalJapaneseLine\":\"「そう、ですね……」\",\"translatedEnglishLine\":\"\\\"That's right...\\\"\"},{\"lineNumber\":151143,\"originalJapaneseLine\":\"と、その時――\",\"translatedEnglishLine\":\"At that moment—\"},{\"lineNumber\":151144,\"originalJapaneseLine\":\"「あ、ようやく来た」\",\"translatedEnglishLine\":\"\\\"Ah, finally you've arrived.\\\"\"},{\"lineNumber\":151145,\"originalJapaneseLine\":\"なんてことない顔をしたペルエレが、\",\"translatedEnglishLine\":\"Peruere, with a casual expression,\"},{\"lineNumber\":151146,\"originalJapaneseLine\":\"正門から顔を覗かせた。\",\"translatedEnglishLine\":\"peeked his head through the main gate.\"},{\"lineNumber\":151147,\"originalJapaneseLine\":\"「ほっほー、こりゃすごい光景だ」\",\"translatedEnglishLine\":\"\\\"Hoho, what an incredible sight.\\\"\"},{\"lineNumber\":151148,\"originalJapaneseLine\":\"「んっ……」\",\"translatedEnglishLine\":\"\\\"Hmm...\\\"\"},{\"lineNumber\":151149,\"originalJapaneseLine\":\"「すうすう……すうすう……」\",\"translatedEnglishLine\":\"\\\"Suu suu... suusuu...\\\" (snoring sounds)\"},{\"lineNumber\":151150,\"originalJapaneseLine\":\"城内に入ると廊下に、\",\"translatedEnglishLine\":\"Upon entering the castle, in the corridor,\"},{\"lineNumber\":151151,\"originalJapaneseLine\":\"ケッセルリンクのメイド達が寝転がっていた。\",\"translatedEnglishLine\":\"Kessellink's maids were lying down asleep.\"},{\"lineNumber\":151152,\"originalJapaneseLine\":\"「睡眠用アイテム、ばっちり効いたようだな」\",\"translatedEnglishLine\":\"\\\"The sleeping items seem to have worked perfectly.\\\"\"},{\"lineNumber\":151153,\"originalJapaneseLine\":\"「しかーーし、本当にちゃんと眠ってるか、\",\"translatedEnglishLine\":\"\\\"But— to be sure they're really asleep,\"},{\"lineNumber\":151154,\"originalJapaneseLine\":\"　こうして確認してみなければなー、\",\"translatedEnglishLine\":\"we have to check like this—\"},{\"lineNumber\":151155,\"originalJapaneseLine\":\"　ぐふふふ、もみもみー」\",\"translatedEnglishLine\":\"Gufufufu, squeeze squeeze—\\\"\"},{\"lineNumber\":151156,\"originalJapaneseLine\":\"「ば、馬鹿なことしてるんじゃなーい！」\",\"translatedEnglishLine\":\"\\\"D-Don't do stupid things like that!\\\"\"},{\"lineNumber\":151157,\"originalJapaneseLine\":\"と、いつものように騒いでいるランス達とは別に、\",\"translatedEnglishLine\":\"Meanwhile, apart from Lance and the others who were making a usual ruckus,\"},{\"lineNumber\":151158,\"originalJapaneseLine\":\"部屋の隅ではペルエレの傍にシーラがいた。\",\"translatedEnglishLine\":\"in the corner of the room, Sheila was beside Peruere.\"},{\"lineNumber\":151159,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":151160,\"originalJapaneseLine\":\"「あによ？\",\"translatedEnglishLine\":\"\\\"Hey?\\\"\"},{\"lineNumber\":151161,\"originalJapaneseLine\":\"　あんた、なんでくっついてるわけ？」\",\"translatedEnglishLine\":\"Why are you clinging like that?\\\"\"},{\"lineNumber\":151162,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":151163,\"originalJapaneseLine\":\"「ペルエレ、大丈夫？　辛かったりは……」\",\"translatedEnglishLine\":\"\\\"Peruere, are you okay? Are you feeling any pain...?\"},{\"lineNumber\":151164,\"originalJapaneseLine\":\"「はあ？　私は絶好調だけど？」\",\"translatedEnglishLine\":\"\\\"Huh? I'm in perfect shape though?\\\"\"},{\"lineNumber\":151165,\"originalJapaneseLine\":\"「それなら……\",\"translatedEnglishLine\":\"\\\"Then...\"},{\"lineNumber\":151166,\"originalJapaneseLine\":\"　うぅん、いいの……」\",\"translatedEnglishLine\":\"Umm, it's fine...\\\"\"},{\"lineNumber\":151167,\"originalJapaneseLine\":\"「あーもう、うっとうしい！　離れろ！」\",\"translatedEnglishLine\":\"\\\"Ah, you're so annoying! Get away!\\\"\"},{\"lineNumber\":151168,\"originalJapaneseLine\":\"「う、だって……」\",\"translatedEnglishLine\":\"\\\"B-But...\\\"\"},{\"lineNumber\":151169,\"originalJapaneseLine\":\"「がはははははは！\",\"translatedEnglishLine\":\"\\\"Gahahahaha!\"},{\"lineNumber\":151170,\"originalJapaneseLine\":\"　ペルエレにはご褒美をやらんといかんなー！」\",\"translatedEnglishLine\":\"Peruere deserves a reward!\\\"\"},{\"lineNumber\":151171,\"originalJapaneseLine\":\"「きゃっ、ランス様！？」\",\"translatedEnglishLine\":\"\\\"Kya! Lord Lance!?\\\"\"},{\"lineNumber\":151172,\"originalJapaneseLine\":\"「ぎゃあああああああ！\",\"translatedEnglishLine\":\"\\\"Gyaaaaaaa!\"},{\"lineNumber\":151173,\"originalJapaneseLine\":\"　後ろから抱きつくんじゃ――\",\"translatedEnglishLine\":\"Don't hug me from behind—\"},{\"lineNumber\":151174,\"originalJapaneseLine\":\"　あっ、ちょ、どこ触ってんだー！」\",\"translatedEnglishLine\":\"Hey, wait, where are you touching!?\\\"\"},{\"lineNumber\":151175,\"originalJapaneseLine\":\"「がははは！　だからご褒美と言ってるだろうー！」\",\"translatedEnglishLine\":\"\\\"Gahaha! That's why I said it's a reward!\\\"\"},{\"lineNumber\":151176,\"originalJapaneseLine\":\"「ふっ、くうっ！」\",\"translatedEnglishLine\":\"\\\"Hmph, kuh!\\\"\"},{\"lineNumber\":151177,\"originalJapaneseLine\":\"「くっ……くくくくく……ッ！」\",\"translatedEnglishLine\":\"\\\"Kuh... kukukukuku...!\\\"\"},{\"lineNumber\":151178,\"originalJapaneseLine\":\"「ああ？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":151179,\"originalJapaneseLine\":\"「あんた、気づいてないようね……\",\"translatedEnglishLine\":\"\\\"You don't seem to realize it...\"},{\"lineNumber\":151180,\"originalJapaneseLine\":\"　私は今までの私と違うということに」\",\"translatedEnglishLine\":\"that I'm different from who I used to be.\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":151131,"originalJapaneseLine":"数千年という悠久の時が癒してしまう。","translatedEnglishLine":"Eons spanning thousands of years will eventually heal it."},{"lineNumber":151132,"originalJapaneseLine":"…………","translatedEnglishLine":"............"},{"lineNumber":151133,"originalJapaneseLine":"……","translatedEnglishLine":"...."},{"lineNumber":151134,"originalJapaneseLine":"ケッセルリンクの城――","translatedEnglishLine":"Kessellink Castle—"},{"lineNumber":151135,"originalJapaneseLine":"ラング・バウから出発したランス達、","translatedEnglishLine":"Lance and his group, who departed from Rangu Bau,"},{"lineNumber":151136,"originalJapaneseLine":"魔人討伐隊が昼間、城に到着した。","translatedEnglishLine":"The demon extermination squad arrived at the castle during the day."},{"lineNumber":151137,"originalJapaneseLine":"「よーし、今度こそ何度目かの正直！","translatedEnglishLine":"\"Alright, this time for real, no more false starts!"},{"lineNumber":151138,"originalJapaneseLine":"　今日でケッセルリンクとの戦いも終わりにする！」","translatedEnglishLine":"We'll end the battle with Kessellink today!\""},{"lineNumber":151139,"originalJapaneseLine":"「は、はい」","translatedEnglishLine":"\"Y-Yes.\""},{"lineNumber":151140,"originalJapaneseLine":"「後は……","translatedEnglishLine":"\"Now all that's left is..."},{"lineNumber":151141,"originalJapaneseLine":"　ペルエレが上手くやってくれてるかどうかだな」","translatedEnglishLine":"whether Peruere is handling things smoothly.\""},{"lineNumber":151142,"originalJapaneseLine":"「そう、ですね……」","translatedEnglishLine":"\"That's right...\""},{"lineNumber":151143,"originalJapaneseLine":"と、その時――","translatedEnglishLine":"At that moment—"},{"lineNumber":151144,"originalJapaneseLine":"「あ、ようやく来た」","translatedEnglishLine":"\"Ah, finally you've arrived.\""},{"lineNumber":151145,"originalJapaneseLine":"なんてことない顔をしたペルエレが、","translatedEnglishLine":"Peruere, with a casual expression,"},{"lineNumber":151146,"originalJapaneseLine":"正門から顔を覗かせた。","translatedEnglishLine":"peeked his head through the main gate."},{"lineNumber":151147,"originalJapaneseLine":"「ほっほー、こりゃすごい光景だ」","translatedEnglishLine":"\"Hoho, what an incredible sight.\""},{"lineNumber":151148,"originalJapaneseLine":"「んっ……」","translatedEnglishLine":"\"Hmm...\""},{"lineNumber":151149,"originalJapaneseLine":"「すうすう……すうすう……」","translatedEnglishLine":"\"Suu suu... suusuu...\" (snoring sounds)"},{"lineNumber":151150,"originalJapaneseLine":"城内に入ると廊下に、","translatedEnglishLine":"Upon entering the castle, in the corridor,"},{"lineNumber":151151,"originalJapaneseLine":"ケッセルリンクのメイド達が寝転がっていた。","translatedEnglishLine":"Kessellink's maids were lying down asleep."},{"lineNumber":151152,"originalJapaneseLine":"「睡眠用アイテム、ばっちり効いたようだな」","translatedEnglishLine":"\"The sleeping items seem to have worked perfectly.\""},{"lineNumber":151153,"originalJapaneseLine":"「しかーーし、本当にちゃんと眠ってるか、","translatedEnglishLine":"\"But— to be sure they're really asleep,"},{"lineNumber":151154,"originalJapaneseLine":"　こうして確認してみなければなー、","translatedEnglishLine":"we have to check like this—"},{"lineNumber":151155,"originalJapaneseLine":"　ぐふふふ、もみもみー」","translatedEnglishLine":"Gufufufu, squeeze squeeze—\""},{"lineNumber":151156,"originalJapaneseLine":"「ば、馬鹿なことしてるんじゃなーい！」","translatedEnglishLine":"\"D-Don't do stupid things like that!\""},{"lineNumber":151157,"originalJapaneseLine":"と、いつものように騒いでいるランス達とは別に、","translatedEnglishLine":"Meanwhile, apart from Lance and the others who were making a usual ruckus,"},{"lineNumber":151158,"originalJapaneseLine":"部屋の隅ではペルエレの傍にシーラがいた。","translatedEnglishLine":"in the corner of the room, Sheila was beside Peruere."},{"lineNumber":151159,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"............\""},{"lineNumber":151160,"originalJapaneseLine":"「あによ？","translatedEnglishLine":"\"Hey?\""},{"lineNumber":151161,"originalJapaneseLine":"　あんた、なんでくっついてるわけ？」","translatedEnglishLine":"Why are you clinging like that?\""},{"lineNumber":151162,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"............\""},{"lineNumber":151163,"originalJapaneseLine":"「ペルエレ、大丈夫？　辛かったりは……」","translatedEnglishLine":"\"Peruere, are you okay? Are you feeling any pain...?"},{"lineNumber":151164,"originalJapaneseLine":"「はあ？　私は絶好調だけど？」","translatedEnglishLine":"\"Huh? I'm in perfect shape though?\""},{"lineNumber":151165,"originalJapaneseLine":"「それなら……","translatedEnglishLine":"\"Then..."},{"lineNumber":151166,"originalJapaneseLine":"　うぅん、いいの……」","translatedEnglishLine":"Umm, it's fine...\""},{"lineNumber":151167,"originalJapaneseLine":"「あーもう、うっとうしい！　離れろ！」","translatedEnglishLine":"\"Ah, you're so annoying! Get away!\""},{"lineNumber":151168,"originalJapaneseLine":"「う、だって……」","translatedEnglishLine":"\"B-But...\""},{"lineNumber":151169,"originalJapaneseLine":"「がはははははは！","translatedEnglishLine":"\"Gahahahaha!"},{"lineNumber":151170,"originalJapaneseLine":"　ペルエレにはご褒美をやらんといかんなー！」","translatedEnglishLine":"Peruere deserves a reward!\""},{"lineNumber":151171,"originalJapaneseLine":"「きゃっ、ランス様！？」","translatedEnglishLine":"\"Kya! Lord Lance!?\""},{"lineNumber":151172,"originalJapaneseLine":"「ぎゃあああああああ！","translatedEnglishLine":"\"Gyaaaaaaa!"},{"lineNumber":151173,"originalJapaneseLine":"　後ろから抱きつくんじゃ――","translatedEnglishLine":"Don't hug me from behind—"},{"lineNumber":151174,"originalJapaneseLine":"　あっ、ちょ、どこ触ってんだー！」","translatedEnglishLine":"Hey, wait, where are you touching!?\""},{"lineNumber":151175,"originalJapaneseLine":"「がははは！　だからご褒美と言ってるだろうー！」","translatedEnglishLine":"\"Gahaha! That's why I said it's a reward!\""},{"lineNumber":151176,"originalJapaneseLine":"「ふっ、くうっ！」","translatedEnglishLine":"\"Hmph, kuh!\""},{"lineNumber":151177,"originalJapaneseLine":"「くっ……くくくくく……ッ！」","translatedEnglishLine":"\"Kuh... kukukukuku...!\""},{"lineNumber":151178,"originalJapaneseLine":"「ああ？」","translatedEnglishLine":"\"Huh?\""},{"lineNumber":151179,"originalJapaneseLine":"「あんた、気づいてないようね……","translatedEnglishLine":"\"You don't seem to realize it..."},{"lineNumber":151180,"originalJapaneseLine":"　私は今までの私と違うということに」","translatedEnglishLine":"that I'm different from who I used to be.\""}]}}
+{
+    "id": "resp_0804459790b818cb0068f14d7c06908193a36eb2c0bd30d687",
+    "object": "response",
+    "created_at": 1760644476,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0804459790b818cb0068f14d7cbad88193852137862107ce3f",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":151131,\"originalJapaneseLine\":\"数千年という悠久の時が癒してしまう。\",\"translatedEnglishLine\":\"Eons spanning thousands of years will eventually heal it.\"},{\"lineNumber\":151132,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":151133,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"....\"},{\"lineNumber\":151134,\"originalJapaneseLine\":\"ケッセルリンクの城――\",\"translatedEnglishLine\":\"Kessellink Castle—\"},{\"lineNumber\":151135,\"originalJapaneseLine\":\"ラング・バウから出発したランス達、\",\"translatedEnglishLine\":\"Lance and his group, who departed from Rangu Bau,\"},{\"lineNumber\":151136,\"originalJapaneseLine\":\"魔人討伐隊が昼間、城に到着した。\",\"translatedEnglishLine\":\"The demon extermination squad arrived at the castle during the day.\"},{\"lineNumber\":151137,\"originalJapaneseLine\":\"「よーし、今度こそ何度目かの正直！\",\"translatedEnglishLine\":\"\\\"Alright, this time for real, no more false starts!\"},{\"lineNumber\":151138,\"originalJapaneseLine\":\"　今日でケッセルリンクとの戦いも終わりにする！」\",\"translatedEnglishLine\":\"We'll end the battle with Kessellink today!\\\"\"},{\"lineNumber\":151139,\"originalJapaneseLine\":\"「は、はい」\",\"translatedEnglishLine\":\"\\\"Y-Yes.\\\"\"},{\"lineNumber\":151140,\"originalJapaneseLine\":\"「後は……\",\"translatedEnglishLine\":\"\\\"Now all that's left is...\"},{\"lineNumber\":151141,\"originalJapaneseLine\":\"　ペルエレが上手くやってくれてるかどうかだな」\",\"translatedEnglishLine\":\"whether Peruere is handling things smoothly.\\\"\"},{\"lineNumber\":151142,\"originalJapaneseLine\":\"「そう、ですね……」\",\"translatedEnglishLine\":\"\\\"That's right...\\\"\"},{\"lineNumber\":151143,\"originalJapaneseLine\":\"と、その時――\",\"translatedEnglishLine\":\"At that moment—\"},{\"lineNumber\":151144,\"originalJapaneseLine\":\"「あ、ようやく来た」\",\"translatedEnglishLine\":\"\\\"Ah, finally you've arrived.\\\"\"},{\"lineNumber\":151145,\"originalJapaneseLine\":\"なんてことない顔をしたペルエレが、\",\"translatedEnglishLine\":\"Peruere, with a casual expression,\"},{\"lineNumber\":151146,\"originalJapaneseLine\":\"正門から顔を覗かせた。\",\"translatedEnglishLine\":\"peeked his head through the main gate.\"},{\"lineNumber\":151147,\"originalJapaneseLine\":\"「ほっほー、こりゃすごい光景だ」\",\"translatedEnglishLine\":\"\\\"Hoho, what an incredible sight.\\\"\"},{\"lineNumber\":151148,\"originalJapaneseLine\":\"「んっ……」\",\"translatedEnglishLine\":\"\\\"Hmm...\\\"\"},{\"lineNumber\":151149,\"originalJapaneseLine\":\"「すうすう……すうすう……」\",\"translatedEnglishLine\":\"\\\"Suu suu... suusuu...\\\" (snoring sounds)\"},{\"lineNumber\":151150,\"originalJapaneseLine\":\"城内に入ると廊下に、\",\"translatedEnglishLine\":\"Upon entering the castle, in the corridor,\"},{\"lineNumber\":151151,\"originalJapaneseLine\":\"ケッセルリンクのメイド達が寝転がっていた。\",\"translatedEnglishLine\":\"Kessellink's maids were lying down asleep.\"},{\"lineNumber\":151152,\"originalJapaneseLine\":\"「睡眠用アイテム、ばっちり効いたようだな」\",\"translatedEnglishLine\":\"\\\"The sleeping items seem to have worked perfectly.\\\"\"},{\"lineNumber\":151153,\"originalJapaneseLine\":\"「しかーーし、本当にちゃんと眠ってるか、\",\"translatedEnglishLine\":\"\\\"But— to be sure they're really asleep,\"},{\"lineNumber\":151154,\"originalJapaneseLine\":\"　こうして確認してみなければなー、\",\"translatedEnglishLine\":\"we have to check like this—\"},{\"lineNumber\":151155,\"originalJapaneseLine\":\"　ぐふふふ、もみもみー」\",\"translatedEnglishLine\":\"Gufufufu, squeeze squeeze—\\\"\"},{\"lineNumber\":151156,\"originalJapaneseLine\":\"「ば、馬鹿なことしてるんじゃなーい！」\",\"translatedEnglishLine\":\"\\\"D-Don't do stupid things like that!\\\"\"},{\"lineNumber\":151157,\"originalJapaneseLine\":\"と、いつものように騒いでいるランス達とは別に、\",\"translatedEnglishLine\":\"Meanwhile, apart from Lance and the others who were making a usual ruckus,\"},{\"lineNumber\":151158,\"originalJapaneseLine\":\"部屋の隅ではペルエレの傍にシーラがいた。\",\"translatedEnglishLine\":\"in the corner of the room, Sheila was beside Peruere.\"},{\"lineNumber\":151159,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":151160,\"originalJapaneseLine\":\"「あによ？\",\"translatedEnglishLine\":\"\\\"Hey?\\\"\"},{\"lineNumber\":151161,\"originalJapaneseLine\":\"　あんた、なんでくっついてるわけ？」\",\"translatedEnglishLine\":\"Why are you clinging like that?\\\"\"},{\"lineNumber\":151162,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":151163,\"originalJapaneseLine\":\"「ペルエレ、大丈夫？　辛かったりは……」\",\"translatedEnglishLine\":\"\\\"Peruere, are you okay? Are you feeling any pain...?\"},{\"lineNumber\":151164,\"originalJapaneseLine\":\"「はあ？　私は絶好調だけど？」\",\"translatedEnglishLine\":\"\\\"Huh? I'm in perfect shape though?\\\"\"},{\"lineNumber\":151165,\"originalJapaneseLine\":\"「それなら……\",\"translatedEnglishLine\":\"\\\"Then...\"},{\"lineNumber\":151166,\"originalJapaneseLine\":\"　うぅん、いいの……」\",\"translatedEnglishLine\":\"Umm, it's fine...\\\"\"},{\"lineNumber\":151167,\"originalJapaneseLine\":\"「あーもう、うっとうしい！　離れろ！」\",\"translatedEnglishLine\":\"\\\"Ah, you're so annoying! Get away!\\\"\"},{\"lineNumber\":151168,\"originalJapaneseLine\":\"「う、だって……」\",\"translatedEnglishLine\":\"\\\"B-But...\\\"\"},{\"lineNumber\":151169,\"originalJapaneseLine\":\"「がはははははは！\",\"translatedEnglishLine\":\"\\\"Gahahahaha!\"},{\"lineNumber\":151170,\"originalJapaneseLine\":\"　ペルエレにはご褒美をやらんといかんなー！」\",\"translatedEnglishLine\":\"Peruere deserves a reward!\\\"\"},{\"lineNumber\":151171,\"originalJapaneseLine\":\"「きゃっ、ランス様！？」\",\"translatedEnglishLine\":\"\\\"Kya! Lord Lance!?\\\"\"},{\"lineNumber\":151172,\"originalJapaneseLine\":\"「ぎゃあああああああ！\",\"translatedEnglishLine\":\"\\\"Gyaaaaaaa!\"},{\"lineNumber\":151173,\"originalJapaneseLine\":\"　後ろから抱きつくんじゃ――\",\"translatedEnglishLine\":\"Don't hug me from behind—\"},{\"lineNumber\":151174,\"originalJapaneseLine\":\"　あっ、ちょ、どこ触ってんだー！」\",\"translatedEnglishLine\":\"Hey, wait, where are you touching!?\\\"\"},{\"lineNumber\":151175,\"originalJapaneseLine\":\"「がははは！　だからご褒美と言ってるだろうー！」\",\"translatedEnglishLine\":\"\\\"Gahaha! That's why I said it's a reward!\\\"\"},{\"lineNumber\":151176,\"originalJapaneseLine\":\"「ふっ、くうっ！」\",\"translatedEnglishLine\":\"\\\"Hmph, kuh!\\\"\"},{\"lineNumber\":151177,\"originalJapaneseLine\":\"「くっ……くくくくく……ッ！」\",\"translatedEnglishLine\":\"\\\"Kuh... kukukukuku...!\\\"\"},{\"lineNumber\":151178,\"originalJapaneseLine\":\"「ああ？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":151179,\"originalJapaneseLine\":\"「あんた、気づいてないようね……\",\"translatedEnglishLine\":\"\\\"You don't seem to realize it...\"},{\"lineNumber\":151180,\"originalJapaneseLine\":\"　私は今までの私と違うということに」\",\"translatedEnglishLine\":\"that I'm different from who I used to be.\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 151131,
+                                "originalJapaneseLine": "数千年という悠久の時が癒してしまう。",
+                                "translatedEnglishLine": "Eons spanning thousands of years will eventually heal it."
+                            },
+                            {
+                                "lineNumber": 151132,
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "............"
+                            },
+                            {
+                                "lineNumber": 151133,
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "...."
+                            },
+                            {
+                                "lineNumber": 151134,
+                                "originalJapaneseLine": "ケッセルリンクの城――",
+                                "translatedEnglishLine": "Kessellink Castle—"
+                            },
+                            {
+                                "lineNumber": 151135,
+                                "originalJapaneseLine": "ラング・バウから出発したランス達、",
+                                "translatedEnglishLine": "Lance and his group, who departed from Rangu Bau,"
+                            },
+                            {
+                                "lineNumber": 151136,
+                                "originalJapaneseLine": "魔人討伐隊が昼間、城に到着した。",
+                                "translatedEnglishLine": "The demon extermination squad arrived at the castle during the day."
+                            },
+                            {
+                                "lineNumber": 151137,
+                                "originalJapaneseLine": "「よーし、今度こそ何度目かの正直！",
+                                "translatedEnglishLine": "\"Alright, this time for real, no more false starts!"
+                            },
+                            {
+                                "lineNumber": 151138,
+                                "originalJapaneseLine": "　今日でケッセルリンクとの戦いも終わりにする！」",
+                                "translatedEnglishLine": "We'll end the battle with Kessellink today!\""
+                            },
+                            {
+                                "lineNumber": 151139,
+                                "originalJapaneseLine": "「は、はい」",
+                                "translatedEnglishLine": "\"Y-Yes.\""
+                            },
+                            {
+                                "lineNumber": 151140,
+                                "originalJapaneseLine": "「後は……",
+                                "translatedEnglishLine": "\"Now all that's left is..."
+                            },
+                            {
+                                "lineNumber": 151141,
+                                "originalJapaneseLine": "　ペルエレが上手くやってくれてるかどうかだな」",
+                                "translatedEnglishLine": "whether Peruere is handling things smoothly.\""
+                            },
+                            {
+                                "lineNumber": 151142,
+                                "originalJapaneseLine": "「そう、ですね……」",
+                                "translatedEnglishLine": "\"That's right...\""
+                            },
+                            {
+                                "lineNumber": 151143,
+                                "originalJapaneseLine": "と、その時――",
+                                "translatedEnglishLine": "At that moment—"
+                            },
+                            {
+                                "lineNumber": 151144,
+                                "originalJapaneseLine": "「あ、ようやく来た」",
+                                "translatedEnglishLine": "\"Ah, finally you've arrived.\""
+                            },
+                            {
+                                "lineNumber": 151145,
+                                "originalJapaneseLine": "なんてことない顔をしたペルエレが、",
+                                "translatedEnglishLine": "Peruere, with a casual expression,"
+                            },
+                            {
+                                "lineNumber": 151146,
+                                "originalJapaneseLine": "正門から顔を覗かせた。",
+                                "translatedEnglishLine": "peeked his head through the main gate."
+                            },
+                            {
+                                "lineNumber": 151147,
+                                "originalJapaneseLine": "「ほっほー、こりゃすごい光景だ」",
+                                "translatedEnglishLine": "\"Hoho, what an incredible sight.\""
+                            },
+                            {
+                                "lineNumber": 151148,
+                                "originalJapaneseLine": "「んっ……」",
+                                "translatedEnglishLine": "\"Hmm...\""
+                            },
+                            {
+                                "lineNumber": 151149,
+                                "originalJapaneseLine": "「すうすう……すうすう……」",
+                                "translatedEnglishLine": "\"Suu suu... suusuu...\" (snoring sounds)"
+                            },
+                            {
+                                "lineNumber": 151150,
+                                "originalJapaneseLine": "城内に入ると廊下に、",
+                                "translatedEnglishLine": "Upon entering the castle, in the corridor,"
+                            },
+                            {
+                                "lineNumber": 151151,
+                                "originalJapaneseLine": "ケッセルリンクのメイド達が寝転がっていた。",
+                                "translatedEnglishLine": "Kessellink's maids were lying down asleep."
+                            },
+                            {
+                                "lineNumber": 151152,
+                                "originalJapaneseLine": "「睡眠用アイテム、ばっちり効いたようだな」",
+                                "translatedEnglishLine": "\"The sleeping items seem to have worked perfectly.\""
+                            },
+                            {
+                                "lineNumber": 151153,
+                                "originalJapaneseLine": "「しかーーし、本当にちゃんと眠ってるか、",
+                                "translatedEnglishLine": "\"But— to be sure they're really asleep,"
+                            },
+                            {
+                                "lineNumber": 151154,
+                                "originalJapaneseLine": "　こうして確認してみなければなー、",
+                                "translatedEnglishLine": "we have to check like this—"
+                            },
+                            {
+                                "lineNumber": 151155,
+                                "originalJapaneseLine": "　ぐふふふ、もみもみー」",
+                                "translatedEnglishLine": "Gufufufu, squeeze squeeze—\""
+                            },
+                            {
+                                "lineNumber": 151156,
+                                "originalJapaneseLine": "「ば、馬鹿なことしてるんじゃなーい！」",
+                                "translatedEnglishLine": "\"D-Don't do stupid things like that!\""
+                            },
+                            {
+                                "lineNumber": 151157,
+                                "originalJapaneseLine": "と、いつものように騒いでいるランス達とは別に、",
+                                "translatedEnglishLine": "Meanwhile, apart from Lance and the others who were making a usual ruckus,"
+                            },
+                            {
+                                "lineNumber": 151158,
+                                "originalJapaneseLine": "部屋の隅ではペルエレの傍にシーラがいた。",
+                                "translatedEnglishLine": "in the corner of the room, Sheila was beside Peruere."
+                            },
+                            {
+                                "lineNumber": 151159,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": 151160,
+                                "originalJapaneseLine": "「あによ？",
+                                "translatedEnglishLine": "\"Hey?\""
+                            },
+                            {
+                                "lineNumber": 151161,
+                                "originalJapaneseLine": "　あんた、なんでくっついてるわけ？」",
+                                "translatedEnglishLine": "Why are you clinging like that?\""
+                            },
+                            {
+                                "lineNumber": 151162,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": 151163,
+                                "originalJapaneseLine": "「ペルエレ、大丈夫？　辛かったりは……」",
+                                "translatedEnglishLine": "\"Peruere, are you okay? Are you feeling any pain...?"
+                            },
+                            {
+                                "lineNumber": 151164,
+                                "originalJapaneseLine": "「はあ？　私は絶好調だけど？」",
+                                "translatedEnglishLine": "\"Huh? I'm in perfect shape though?\""
+                            },
+                            {
+                                "lineNumber": 151165,
+                                "originalJapaneseLine": "「それなら……",
+                                "translatedEnglishLine": "\"Then..."
+                            },
+                            {
+                                "lineNumber": 151166,
+                                "originalJapaneseLine": "　うぅん、いいの……」",
+                                "translatedEnglishLine": "Umm, it's fine...\""
+                            },
+                            {
+                                "lineNumber": 151167,
+                                "originalJapaneseLine": "「あーもう、うっとうしい！　離れろ！」",
+                                "translatedEnglishLine": "\"Ah, you're so annoying! Get away!\""
+                            },
+                            {
+                                "lineNumber": 151168,
+                                "originalJapaneseLine": "「う、だって……」",
+                                "translatedEnglishLine": "\"B-But...\""
+                            },
+                            {
+                                "lineNumber": 151169,
+                                "originalJapaneseLine": "「がはははははは！",
+                                "translatedEnglishLine": "\"Gahahahaha!"
+                            },
+                            {
+                                "lineNumber": 151170,
+                                "originalJapaneseLine": "　ペルエレにはご褒美をやらんといかんなー！」",
+                                "translatedEnglishLine": "Peruere deserves a reward!\""
+                            },
+                            {
+                                "lineNumber": 151171,
+                                "originalJapaneseLine": "「きゃっ、ランス様！？」",
+                                "translatedEnglishLine": "\"Kya! Lord Lance!?\""
+                            },
+                            {
+                                "lineNumber": 151172,
+                                "originalJapaneseLine": "「ぎゃあああああああ！",
+                                "translatedEnglishLine": "\"Gyaaaaaaa!"
+                            },
+                            {
+                                "lineNumber": 151173,
+                                "originalJapaneseLine": "　後ろから抱きつくんじゃ――",
+                                "translatedEnglishLine": "Don't hug me from behind—"
+                            },
+                            {
+                                "lineNumber": 151174,
+                                "originalJapaneseLine": "　あっ、ちょ、どこ触ってんだー！」",
+                                "translatedEnglishLine": "Hey, wait, where are you touching!?\""
+                            },
+                            {
+                                "lineNumber": 151175,
+                                "originalJapaneseLine": "「がははは！　だからご褒美と言ってるだろうー！」",
+                                "translatedEnglishLine": "\"Gahaha! That's why I said it's a reward!\""
+                            },
+                            {
+                                "lineNumber": 151176,
+                                "originalJapaneseLine": "「ふっ、くうっ！」",
+                                "translatedEnglishLine": "\"Hmph, kuh!\""
+                            },
+                            {
+                                "lineNumber": 151177,
+                                "originalJapaneseLine": "「くっ……くくくくく……ッ！」",
+                                "translatedEnglishLine": "\"Kuh... kukukukuku...!\""
+                            },
+                            {
+                                "lineNumber": 151178,
+                                "originalJapaneseLine": "「ああ？」",
+                                "translatedEnglishLine": "\"Huh?\""
+                            },
+                            {
+                                "lineNumber": 151179,
+                                "originalJapaneseLine": "「あんた、気づいてないようね……",
+                                "translatedEnglishLine": "\"You don't seem to realize it..."
+                            },
+                            {
+                                "lineNumber": 151180,
+                                "originalJapaneseLine": "　私は今までの私と違うということに」",
+                                "translatedEnglishLine": "that I'm different from who I used to be.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1421,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1783,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3204
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":151131,\"originalJapaneseLine\":\"数千年という悠久の時が癒してしまう。\",\"translatedEnglishLine\":\"Eons spanning thousands of years will eventually heal it.\"},{\"lineNumber\":151132,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":151133,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"....\"},{\"lineNumber\":151134,\"originalJapaneseLine\":\"ケッセルリンクの城――\",\"translatedEnglishLine\":\"Kessellink Castle—\"},{\"lineNumber\":151135,\"originalJapaneseLine\":\"ラング・バウから出発したランス達、\",\"translatedEnglishLine\":\"Lance and his group, who departed from Rangu Bau,\"},{\"lineNumber\":151136,\"originalJapaneseLine\":\"魔人討伐隊が昼間、城に到着した。\",\"translatedEnglishLine\":\"The demon extermination squad arrived at the castle during the day.\"},{\"lineNumber\":151137,\"originalJapaneseLine\":\"「よーし、今度こそ何度目かの正直！\",\"translatedEnglishLine\":\"\\\"Alright, this time for real, no more false starts!\"},{\"lineNumber\":151138,\"originalJapaneseLine\":\"　今日でケッセルリンクとの戦いも終わりにする！」\",\"translatedEnglishLine\":\"We'll end the battle with Kessellink today!\\\"\"},{\"lineNumber\":151139,\"originalJapaneseLine\":\"「は、はい」\",\"translatedEnglishLine\":\"\\\"Y-Yes.\\\"\"},{\"lineNumber\":151140,\"originalJapaneseLine\":\"「後は……\",\"translatedEnglishLine\":\"\\\"Now all that's left is...\"},{\"lineNumber\":151141,\"originalJapaneseLine\":\"　ペルエレが上手くやってくれてるかどうかだな」\",\"translatedEnglishLine\":\"whether Peruere is handling things smoothly.\\\"\"},{\"lineNumber\":151142,\"originalJapaneseLine\":\"「そう、ですね……」\",\"translatedEnglishLine\":\"\\\"That's right...\\\"\"},{\"lineNumber\":151143,\"originalJapaneseLine\":\"と、その時――\",\"translatedEnglishLine\":\"At that moment—\"},{\"lineNumber\":151144,\"originalJapaneseLine\":\"「あ、ようやく来た」\",\"translatedEnglishLine\":\"\\\"Ah, finally you've arrived.\\\"\"},{\"lineNumber\":151145,\"originalJapaneseLine\":\"なんてことない顔をしたペルエレが、\",\"translatedEnglishLine\":\"Peruere, with a casual expression,\"},{\"lineNumber\":151146,\"originalJapaneseLine\":\"正門から顔を覗かせた。\",\"translatedEnglishLine\":\"peeked his head through the main gate.\"},{\"lineNumber\":151147,\"originalJapaneseLine\":\"「ほっほー、こりゃすごい光景だ」\",\"translatedEnglishLine\":\"\\\"Hoho, what an incredible sight.\\\"\"},{\"lineNumber\":151148,\"originalJapaneseLine\":\"「んっ……」\",\"translatedEnglishLine\":\"\\\"Hmm...\\\"\"},{\"lineNumber\":151149,\"originalJapaneseLine\":\"「すうすう……すうすう……」\",\"translatedEnglishLine\":\"\\\"Suu suu... suusuu...\\\" (snoring sounds)\"},{\"lineNumber\":151150,\"originalJapaneseLine\":\"城内に入ると廊下に、\",\"translatedEnglishLine\":\"Upon entering the castle, in the corridor,\"},{\"lineNumber\":151151,\"originalJapaneseLine\":\"ケッセルリンクのメイド達が寝転がっていた。\",\"translatedEnglishLine\":\"Kessellink's maids were lying down asleep.\"},{\"lineNumber\":151152,\"originalJapaneseLine\":\"「睡眠用アイテム、ばっちり効いたようだな」\",\"translatedEnglishLine\":\"\\\"The sleeping items seem to have worked perfectly.\\\"\"},{\"lineNumber\":151153,\"originalJapaneseLine\":\"「しかーーし、本当にちゃんと眠ってるか、\",\"translatedEnglishLine\":\"\\\"But— to be sure they're really asleep,\"},{\"lineNumber\":151154,\"originalJapaneseLine\":\"　こうして確認してみなければなー、\",\"translatedEnglishLine\":\"we have to check like this—\"},{\"lineNumber\":151155,\"originalJapaneseLine\":\"　ぐふふふ、もみもみー」\",\"translatedEnglishLine\":\"Gufufufu, squeeze squeeze—\\\"\"},{\"lineNumber\":151156,\"originalJapaneseLine\":\"「ば、馬鹿なことしてるんじゃなーい！」\",\"translatedEnglishLine\":\"\\\"D-Don't do stupid things like that!\\\"\"},{\"lineNumber\":151157,\"originalJapaneseLine\":\"と、いつものように騒いでいるランス達とは別に、\",\"translatedEnglishLine\":\"Meanwhile, apart from Lance and the others who were making a usual ruckus,\"},{\"lineNumber\":151158,\"originalJapaneseLine\":\"部屋の隅ではペルエレの傍にシーラがいた。\",\"translatedEnglishLine\":\"in the corner of the room, Sheila was beside Peruere.\"},{\"lineNumber\":151159,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":151160,\"originalJapaneseLine\":\"「あによ？\",\"translatedEnglishLine\":\"\\\"Hey?\\\"\"},{\"lineNumber\":151161,\"originalJapaneseLine\":\"　あんた、なんでくっついてるわけ？」\",\"translatedEnglishLine\":\"Why are you clinging like that?\\\"\"},{\"lineNumber\":151162,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":151163,\"originalJapaneseLine\":\"「ペルエレ、大丈夫？　辛かったりは……」\",\"translatedEnglishLine\":\"\\\"Peruere, are you okay? Are you feeling any pain...?\"},{\"lineNumber\":151164,\"originalJapaneseLine\":\"「はあ？　私は絶好調だけど？」\",\"translatedEnglishLine\":\"\\\"Huh? I'm in perfect shape though?\\\"\"},{\"lineNumber\":151165,\"originalJapaneseLine\":\"「それなら……\",\"translatedEnglishLine\":\"\\\"Then...\"},{\"lineNumber\":151166,\"originalJapaneseLine\":\"　うぅん、いいの……」\",\"translatedEnglishLine\":\"Umm, it's fine...\\\"\"},{\"lineNumber\":151167,\"originalJapaneseLine\":\"「あーもう、うっとうしい！　離れろ！」\",\"translatedEnglishLine\":\"\\\"Ah, you're so annoying! Get away!\\\"\"},{\"lineNumber\":151168,\"originalJapaneseLine\":\"「う、だって……」\",\"translatedEnglishLine\":\"\\\"B-But...\\\"\"},{\"lineNumber\":151169,\"originalJapaneseLine\":\"「がはははははは！\",\"translatedEnglishLine\":\"\\\"Gahahahaha!\"},{\"lineNumber\":151170,\"originalJapaneseLine\":\"　ペルエレにはご褒美をやらんといかんなー！」\",\"translatedEnglishLine\":\"Peruere deserves a reward!\\\"\"},{\"lineNumber\":151171,\"originalJapaneseLine\":\"「きゃっ、ランス様！？」\",\"translatedEnglishLine\":\"\\\"Kya! Lord Lance!?\\\"\"},{\"lineNumber\":151172,\"originalJapaneseLine\":\"「ぎゃあああああああ！\",\"translatedEnglishLine\":\"\\\"Gyaaaaaaa!\"},{\"lineNumber\":151173,\"originalJapaneseLine\":\"　後ろから抱きつくんじゃ――\",\"translatedEnglishLine\":\"Don't hug me from behind—\"},{\"lineNumber\":151174,\"originalJapaneseLine\":\"　あっ、ちょ、どこ触ってんだー！」\",\"translatedEnglishLine\":\"Hey, wait, where are you touching!?\\\"\"},{\"lineNumber\":151175,\"originalJapaneseLine\":\"「がははは！　だからご褒美と言ってるだろうー！」\",\"translatedEnglishLine\":\"\\\"Gahaha! That's why I said it's a reward!\\\"\"},{\"lineNumber\":151176,\"originalJapaneseLine\":\"「ふっ、くうっ！」\",\"translatedEnglishLine\":\"\\\"Hmph, kuh!\\\"\"},{\"lineNumber\":151177,\"originalJapaneseLine\":\"「くっ……くくくくく……ッ！」\",\"translatedEnglishLine\":\"\\\"Kuh... kukukukuku...!\\\"\"},{\"lineNumber\":151178,\"originalJapaneseLine\":\"「ああ？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":151179,\"originalJapaneseLine\":\"「あんた、気づいてないようね……\",\"translatedEnglishLine\":\"\\\"You don't seem to realize it...\"},{\"lineNumber\":151180,\"originalJapaneseLine\":\"　私は今までの私と違うということに」\",\"translatedEnglishLine\":\"that I'm different from who I used to be.\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 151131,
+                "originalJapaneseLine": "数千年という悠久の時が癒してしまう。",
+                "translatedEnglishLine": "Eons spanning thousands of years will eventually heal it."
+            },
+            {
+                "lineNumber": 151132,
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "............"
+            },
+            {
+                "lineNumber": 151133,
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "...."
+            },
+            {
+                "lineNumber": 151134,
+                "originalJapaneseLine": "ケッセルリンクの城――",
+                "translatedEnglishLine": "Kessellink Castle—"
+            },
+            {
+                "lineNumber": 151135,
+                "originalJapaneseLine": "ラング・バウから出発したランス達、",
+                "translatedEnglishLine": "Lance and his group, who departed from Rangu Bau,"
+            },
+            {
+                "lineNumber": 151136,
+                "originalJapaneseLine": "魔人討伐隊が昼間、城に到着した。",
+                "translatedEnglishLine": "The demon extermination squad arrived at the castle during the day."
+            },
+            {
+                "lineNumber": 151137,
+                "originalJapaneseLine": "「よーし、今度こそ何度目かの正直！",
+                "translatedEnglishLine": "\"Alright, this time for real, no more false starts!"
+            },
+            {
+                "lineNumber": 151138,
+                "originalJapaneseLine": "　今日でケッセルリンクとの戦いも終わりにする！」",
+                "translatedEnglishLine": "We'll end the battle with Kessellink today!\""
+            },
+            {
+                "lineNumber": 151139,
+                "originalJapaneseLine": "「は、はい」",
+                "translatedEnglishLine": "\"Y-Yes.\""
+            },
+            {
+                "lineNumber": 151140,
+                "originalJapaneseLine": "「後は……",
+                "translatedEnglishLine": "\"Now all that's left is..."
+            },
+            {
+                "lineNumber": 151141,
+                "originalJapaneseLine": "　ペルエレが上手くやってくれてるかどうかだな」",
+                "translatedEnglishLine": "whether Peruere is handling things smoothly.\""
+            },
+            {
+                "lineNumber": 151142,
+                "originalJapaneseLine": "「そう、ですね……」",
+                "translatedEnglishLine": "\"That's right...\""
+            },
+            {
+                "lineNumber": 151143,
+                "originalJapaneseLine": "と、その時――",
+                "translatedEnglishLine": "At that moment—"
+            },
+            {
+                "lineNumber": 151144,
+                "originalJapaneseLine": "「あ、ようやく来た」",
+                "translatedEnglishLine": "\"Ah, finally you've arrived.\""
+            },
+            {
+                "lineNumber": 151145,
+                "originalJapaneseLine": "なんてことない顔をしたペルエレが、",
+                "translatedEnglishLine": "Peruere, with a casual expression,"
+            },
+            {
+                "lineNumber": 151146,
+                "originalJapaneseLine": "正門から顔を覗かせた。",
+                "translatedEnglishLine": "peeked his head through the main gate."
+            },
+            {
+                "lineNumber": 151147,
+                "originalJapaneseLine": "「ほっほー、こりゃすごい光景だ」",
+                "translatedEnglishLine": "\"Hoho, what an incredible sight.\""
+            },
+            {
+                "lineNumber": 151148,
+                "originalJapaneseLine": "「んっ……」",
+                "translatedEnglishLine": "\"Hmm...\""
+            },
+            {
+                "lineNumber": 151149,
+                "originalJapaneseLine": "「すうすう……すうすう……」",
+                "translatedEnglishLine": "\"Suu suu... suusuu...\" (snoring sounds)"
+            },
+            {
+                "lineNumber": 151150,
+                "originalJapaneseLine": "城内に入ると廊下に、",
+                "translatedEnglishLine": "Upon entering the castle, in the corridor,"
+            },
+            {
+                "lineNumber": 151151,
+                "originalJapaneseLine": "ケッセルリンクのメイド達が寝転がっていた。",
+                "translatedEnglishLine": "Kessellink's maids were lying down asleep."
+            },
+            {
+                "lineNumber": 151152,
+                "originalJapaneseLine": "「睡眠用アイテム、ばっちり効いたようだな」",
+                "translatedEnglishLine": "\"The sleeping items seem to have worked perfectly.\""
+            },
+            {
+                "lineNumber": 151153,
+                "originalJapaneseLine": "「しかーーし、本当にちゃんと眠ってるか、",
+                "translatedEnglishLine": "\"But— to be sure they're really asleep,"
+            },
+            {
+                "lineNumber": 151154,
+                "originalJapaneseLine": "　こうして確認してみなければなー、",
+                "translatedEnglishLine": "we have to check like this—"
+            },
+            {
+                "lineNumber": 151155,
+                "originalJapaneseLine": "　ぐふふふ、もみもみー」",
+                "translatedEnglishLine": "Gufufufu, squeeze squeeze—\""
+            },
+            {
+                "lineNumber": 151156,
+                "originalJapaneseLine": "「ば、馬鹿なことしてるんじゃなーい！」",
+                "translatedEnglishLine": "\"D-Don't do stupid things like that!\""
+            },
+            {
+                "lineNumber": 151157,
+                "originalJapaneseLine": "と、いつものように騒いでいるランス達とは別に、",
+                "translatedEnglishLine": "Meanwhile, apart from Lance and the others who were making a usual ruckus,"
+            },
+            {
+                "lineNumber": 151158,
+                "originalJapaneseLine": "部屋の隅ではペルエレの傍にシーラがいた。",
+                "translatedEnglishLine": "in the corner of the room, Sheila was beside Peruere."
+            },
+            {
+                "lineNumber": 151159,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": 151160,
+                "originalJapaneseLine": "「あによ？",
+                "translatedEnglishLine": "\"Hey?\""
+            },
+            {
+                "lineNumber": 151161,
+                "originalJapaneseLine": "　あんた、なんでくっついてるわけ？」",
+                "translatedEnglishLine": "Why are you clinging like that?\""
+            },
+            {
+                "lineNumber": 151162,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": 151163,
+                "originalJapaneseLine": "「ペルエレ、大丈夫？　辛かったりは……」",
+                "translatedEnglishLine": "\"Peruere, are you okay? Are you feeling any pain...?"
+            },
+            {
+                "lineNumber": 151164,
+                "originalJapaneseLine": "「はあ？　私は絶好調だけど？」",
+                "translatedEnglishLine": "\"Huh? I'm in perfect shape though?\""
+            },
+            {
+                "lineNumber": 151165,
+                "originalJapaneseLine": "「それなら……",
+                "translatedEnglishLine": "\"Then..."
+            },
+            {
+                "lineNumber": 151166,
+                "originalJapaneseLine": "　うぅん、いいの……」",
+                "translatedEnglishLine": "Umm, it's fine...\""
+            },
+            {
+                "lineNumber": 151167,
+                "originalJapaneseLine": "「あーもう、うっとうしい！　離れろ！」",
+                "translatedEnglishLine": "\"Ah, you're so annoying! Get away!\""
+            },
+            {
+                "lineNumber": 151168,
+                "originalJapaneseLine": "「う、だって……」",
+                "translatedEnglishLine": "\"B-But...\""
+            },
+            {
+                "lineNumber": 151169,
+                "originalJapaneseLine": "「がはははははは！",
+                "translatedEnglishLine": "\"Gahahahaha!"
+            },
+            {
+                "lineNumber": 151170,
+                "originalJapaneseLine": "　ペルエレにはご褒美をやらんといかんなー！」",
+                "translatedEnglishLine": "Peruere deserves a reward!\""
+            },
+            {
+                "lineNumber": 151171,
+                "originalJapaneseLine": "「きゃっ、ランス様！？」",
+                "translatedEnglishLine": "\"Kya! Lord Lance!?\""
+            },
+            {
+                "lineNumber": 151172,
+                "originalJapaneseLine": "「ぎゃあああああああ！",
+                "translatedEnglishLine": "\"Gyaaaaaaa!"
+            },
+            {
+                "lineNumber": 151173,
+                "originalJapaneseLine": "　後ろから抱きつくんじゃ――",
+                "translatedEnglishLine": "Don't hug me from behind—"
+            },
+            {
+                "lineNumber": 151174,
+                "originalJapaneseLine": "　あっ、ちょ、どこ触ってんだー！」",
+                "translatedEnglishLine": "Hey, wait, where are you touching!?\""
+            },
+            {
+                "lineNumber": 151175,
+                "originalJapaneseLine": "「がははは！　だからご褒美と言ってるだろうー！」",
+                "translatedEnglishLine": "\"Gahaha! That's why I said it's a reward!\""
+            },
+            {
+                "lineNumber": 151176,
+                "originalJapaneseLine": "「ふっ、くうっ！」",
+                "translatedEnglishLine": "\"Hmph, kuh!\""
+            },
+            {
+                "lineNumber": 151177,
+                "originalJapaneseLine": "「くっ……くくくくく……ッ！」",
+                "translatedEnglishLine": "\"Kuh... kukukukuku...!\""
+            },
+            {
+                "lineNumber": 151178,
+                "originalJapaneseLine": "「ああ？」",
+                "translatedEnglishLine": "\"Huh?\""
+            },
+            {
+                "lineNumber": 151179,
+                "originalJapaneseLine": "「あんた、気づいてないようね……",
+                "translatedEnglishLine": "\"You don't seem to realize it..."
+            },
+            {
+                "lineNumber": 151180,
+                "originalJapaneseLine": "　私は今までの私と違うということに」",
+                "translatedEnglishLine": "that I'm different from who I used to be.\""
+            }
+        ]
+    }
+}

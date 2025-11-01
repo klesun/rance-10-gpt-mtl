@@ -1,1 +1,719 @@
-{"id":"resp_0386cd92159ceb870068f206d1a2cc8194b8019c2bbacd0fbe","object":"response","created_at":1760691921,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0386cd92159ceb870068f206d22f548194b89b4aa64848a14b","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":230432,\"originalJapaneseLine\":\"それは氷雪地帯に入る寸前、\",\"translatedEnglishLine\":\"It was just before entering the icy snowy region,\"},{\"lineNumber\":230433,\"originalJapaneseLine\":\"物資調達の為、街へ来ていたときのこと――\",\"translatedEnglishLine\":\"when we had come to town to procure supplies――\"},{\"lineNumber\":230434,\"originalJapaneseLine\":\"「おーい、＜エール＞、＜エール＞ー！\",\"translatedEnglishLine\":\"\\\"Hey, <Aile>, <Aile>!\\\"\"},{\"lineNumber\":230435,\"originalJapaneseLine\":\"　いいもん買ってきたぜー！」\",\"translatedEnglishLine\":\"I've got something good!\\\"\"},{\"lineNumber\":230436,\"originalJapaneseLine\":\"「へへへ、なんだと思う？」\",\"translatedEnglishLine\":\"\\\"Hehehe, guess what?\\\"\"},{\"lineNumber\":230437,\"originalJapaneseLine\":\"「じゃじゃーん！　遭難セットー！」\",\"translatedEnglishLine\":\"\\\"Ta-da! An emergency survival kit!\\\"\"},{\"lineNumber\":230438,\"originalJapaneseLine\":\"長田君が縁起でもない名のアイテムを取り出した。\",\"translatedEnglishLine\":\"Nagata pulled out an item with an ominous name.\"},{\"lineNumber\":230439,\"originalJapaneseLine\":\"「あら？　なぁにそれ？」\",\"translatedEnglishLine\":\"\\\"Oh? What’s that?\\\"\"},{\"lineNumber\":230440,\"originalJapaneseLine\":\"「なんか面白そうなもん買ったの？」\",\"translatedEnglishLine\":\"\\\"Did you buy something interesting?\\\"\"},{\"lineNumber\":230441,\"originalJapaneseLine\":\"「……長田君って無駄遣い好きよね」\",\"translatedEnglishLine\":\"\\\"...Nagata really likes wasting money, huh.\\\"\"},{\"lineNumber\":230442,\"originalJapaneseLine\":\"「いや、無駄遣いじゃないっすよ！」\",\"translatedEnglishLine\":\"\\\"No, it’s not a waste of money!\\\"\"},{\"lineNumber\":230443,\"originalJapaneseLine\":\"「えーと、暖房用のぬくぬく袋でしょー、\",\"translatedEnglishLine\":\"\\\"Well, there’s a warm heating bag,\"},{\"lineNumber\":230444,\"originalJapaneseLine\":\"　それから緊急用の食料に、火起こし用の道具！」\",\"translatedEnglishLine\":\"emergency food, and fire-starting tools!\\\"\"},{\"lineNumber\":230445,\"originalJapaneseLine\":\"「遭難してもこれで安心の\",\"translatedEnglishLine\":\"\\\"With this, even if we get stranded,\"},{\"lineNumber\":230446,\"originalJapaneseLine\":\"　三種の神器じゃないっすか！」\",\"translatedEnglishLine\":\"it’s a three-item set to keep us safe!\\\"\"},{\"lineNumber\":230447,\"originalJapaneseLine\":\"「忘れちゃいけないチョコレートもあるけど、\",\"translatedEnglishLine\":\"\\\"And don’t forget the chocolate,\"},{\"lineNumber\":230448,\"originalJapaneseLine\":\"　なんでチョコレートなんだろうな？」\",\"translatedEnglishLine\":\"but I wonder why chocolate?\\\"\"},{\"lineNumber\":230449,\"originalJapaneseLine\":\"「ま、いいや。\",\"translatedEnglishLine\":\"\\\"Well, whatever.\"},{\"lineNumber\":230450,\"originalJapaneseLine\":\"　鞄に入れてやるよ、ほれ後ろ向いてー」\",\"translatedEnglishLine\":\"I’ll put it in your bag, turn around.\\\"\"},{\"lineNumber\":230451,\"originalJapaneseLine\":\"長田君があなたの後ろに回り、\",\"translatedEnglishLine\":\"Nagata went behind you,\"},{\"lineNumber\":230452,\"originalJapaneseLine\":\"鞄の中によく分からないものを詰め込んだ。\",\"translatedEnglishLine\":\"and stuffed unknown items into your bag.\"},{\"lineNumber\":230453,\"originalJapaneseLine\":\"「へへっ、これでいつ遭難しても\",\"translatedEnglishLine\":\"\\\"Heh heh, now we’re safe no matter when we get stranded.\"},{\"lineNumber\":230454,\"originalJapaneseLine\":\"　安心って寸法よ！」\",\"translatedEnglishLine\":\"That's the plan!\\\"\"},{\"lineNumber\":230455,\"originalJapaneseLine\":\"「なんたって涙も凍るって話の氷雪地帯だぜ？\",\"translatedEnglishLine\":\"\\\"After all, it’s the icy snowy region where even tears freeze, right?\"},{\"lineNumber\":230456,\"originalJapaneseLine\":\"　これくらいの備えは必要だろーからなー」\",\"translatedEnglishLine\":\"So this kind of preparation is necessary.\\\"\"},{\"lineNumber\":230457,\"originalJapaneseLine\":\"「わー、いいなー」\",\"translatedEnglishLine\":\"\\\"Wow, that’s nice!\\\"\"},{\"lineNumber\":230458,\"originalJapaneseLine\":\"「人数分買ったんでみんなにも配るっすよー」\",\"translatedEnglishLine\":\"\\\"I bought enough for everyone, so I’ll distribute them to you all.\\\"\"},{\"lineNumber\":230459,\"originalJapaneseLine\":\"「わーい、ありがとー」\",\"translatedEnglishLine\":\"\\\"Yay, thanks!\\\"\"},{\"lineNumber\":230460,\"originalJapaneseLine\":\"「おーい、ザンスー、お前にもやるよー」\",\"translatedEnglishLine\":\"\\\"Hey, Zansu, I’m giving one to you too!\\\"\"},{\"lineNumber\":230461,\"originalJapaneseLine\":\"「アア？　いらねーよ、タコ」\",\"translatedEnglishLine\":\"\\\"Huh? I don’t want it, you idiot.\\\"\"},{\"lineNumber\":230462,\"originalJapaneseLine\":\"「おめ、ばっか！\",\"translatedEnglishLine\":\"\\\"You idiot!\"},{\"lineNumber\":230463,\"originalJapaneseLine\":\"　ヘルマンで甘味は高ぇんだぞ！\",\"translatedEnglishLine\":\"Sweet treats are expensive in Helman!\"},{\"lineNumber\":230464,\"originalJapaneseLine\":\"　ちゃんと受け取れよ！」\",\"translatedEnglishLine\":\"Just take it properly!\\\"\"},{\"lineNumber\":230465,\"originalJapaneseLine\":\"「だーっ、変なもん押しつけんな！」\",\"translatedEnglishLine\":\"\\\"Ugh, don’t shove weird stuff on me!\\\"\"},{\"lineNumber\":230466,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":230467,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"......\"},{\"lineNumber\":230468,\"originalJapaneseLine\":\"考えてみれば……\",\"translatedEnglishLine\":\"If I think about it...\"},{\"lineNumber\":230469,\"originalJapaneseLine\":\"旅が始まって、\",\"translatedEnglishLine\":\"Since the journey began,\"},{\"lineNumber\":230470,\"originalJapaneseLine\":\"これほどの時間、たった一人で過ごすのは\",\"translatedEnglishLine\":\"spending this much time completely alone\"},{\"lineNumber\":230471,\"originalJapaneseLine\":\"本当に初めてのことだった。\",\"translatedEnglishLine\":\"was truly the first time.\"},{\"lineNumber\":230472,\"originalJapaneseLine\":\"いつもあなたの隣には長田君がいた。\",\"translatedEnglishLine\":\"Nagata was always by your side.\"},{\"lineNumber\":230473,\"originalJapaneseLine\":\"長田君がいないときは他の誰かがいた。\",\"translatedEnglishLine\":\"If Nagata wasn’t there, someone else was.\"},{\"lineNumber\":230474,\"originalJapaneseLine\":\"しかし、今――\",\"translatedEnglishLine\":\"But now――\"},{\"lineNumber\":230475,\"originalJapaneseLine\":\"あなたの声を聞く者は誰もおらず、\",\"translatedEnglishLine\":\"no one was there to hear your voice,\"},{\"lineNumber\":230476,\"originalJapaneseLine\":\"あなたを見ている者は誰もおらず、\",\"translatedEnglishLine\":\"no one was watching you,\"},{\"lineNumber\":230477,\"originalJapaneseLine\":\"あなたと協力する者は誰もいなかった。\",\"translatedEnglishLine\":\"no one was cooperating with you.\"},{\"lineNumber\":230478,\"originalJapaneseLine\":\"あなたは冒険に出てから、\",\"translatedEnglishLine\":\"Since you set out on the adventure,\"},{\"lineNumber\":230479,\"originalJapaneseLine\":\"初めて孤独だった。\",\"translatedEnglishLine\":\"you were lonely for the first time.\"},{\"lineNumber\":230480,\"originalJapaneseLine\":\"とても寒かった。\",\"translatedEnglishLine\":\"It was very cold.\"},{\"lineNumber\":230481,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":230482,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\" \"},{\"lineNumber\":230483,\"originalJapaneseLine\":\"　　＜……………………＞\",\"translatedEnglishLine\":\"   <..................>\"},{\"lineNumber\":230484,\"originalJapaneseLine\":\"あなたは顔を上げた。\",\"translatedEnglishLine\":\"You lifted your face.\"},{\"lineNumber\":230485,\"originalJapaneseLine\":\"声が聞こえた気がしたからだ。\",\"translatedEnglishLine\":\"Because you felt like you heard a voice.\"},{\"lineNumber\":230486,\"originalJapaneseLine\":\"本当にかすかではあるが、\",\"translatedEnglishLine\":\"It was really faint,\"},{\"lineNumber\":230487,\"originalJapaneseLine\":\"今までの静寂の中にはなかった何かがあった。\",\"translatedEnglishLine\":\"there was something that hadn’t been in the silence until now.\"},{\"lineNumber\":230488,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":230489,\"originalJapaneseLine\":\"自分の声を、音を押し殺して、\",\"translatedEnglishLine\":\"Suppressing your own voice and noise,\"},{\"lineNumber\":230490,\"originalJapaneseLine\":\"あなたはそっと耳に全神経を集中させる。\",\"translatedEnglishLine\":\"you quietly focused all your senses on your ears.\"},{\"lineNumber\":230491,\"originalJapaneseLine\":\"「……ぉーーーぃ」\",\"translatedEnglishLine\":\"\\\"...Heeeey\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":230432,"originalJapaneseLine":"それは氷雪地帯に入る寸前、","translatedEnglishLine":"It was just before entering the icy snowy region,"},{"lineNumber":230433,"originalJapaneseLine":"物資調達の為、街へ来ていたときのこと――","translatedEnglishLine":"when we had come to town to procure supplies――"},{"lineNumber":230434,"originalJapaneseLine":"「おーい、＜エール＞、＜エール＞ー！","translatedEnglishLine":"\"Hey, <Aile>, <Aile>!\""},{"lineNumber":230435,"originalJapaneseLine":"　いいもん買ってきたぜー！」","translatedEnglishLine":"I've got something good!\""},{"lineNumber":230436,"originalJapaneseLine":"「へへへ、なんだと思う？」","translatedEnglishLine":"\"Hehehe, guess what?\""},{"lineNumber":230437,"originalJapaneseLine":"「じゃじゃーん！　遭難セットー！」","translatedEnglishLine":"\"Ta-da! An emergency survival kit!\""},{"lineNumber":230438,"originalJapaneseLine":"長田君が縁起でもない名のアイテムを取り出した。","translatedEnglishLine":"Nagata pulled out an item with an ominous name."},{"lineNumber":230439,"originalJapaneseLine":"「あら？　なぁにそれ？」","translatedEnglishLine":"\"Oh? What’s that?\""},{"lineNumber":230440,"originalJapaneseLine":"「なんか面白そうなもん買ったの？」","translatedEnglishLine":"\"Did you buy something interesting?\""},{"lineNumber":230441,"originalJapaneseLine":"「……長田君って無駄遣い好きよね」","translatedEnglishLine":"\"...Nagata really likes wasting money, huh.\""},{"lineNumber":230442,"originalJapaneseLine":"「いや、無駄遣いじゃないっすよ！」","translatedEnglishLine":"\"No, it’s not a waste of money!\""},{"lineNumber":230443,"originalJapaneseLine":"「えーと、暖房用のぬくぬく袋でしょー、","translatedEnglishLine":"\"Well, there’s a warm heating bag,"},{"lineNumber":230444,"originalJapaneseLine":"　それから緊急用の食料に、火起こし用の道具！」","translatedEnglishLine":"emergency food, and fire-starting tools!\""},{"lineNumber":230445,"originalJapaneseLine":"「遭難してもこれで安心の","translatedEnglishLine":"\"With this, even if we get stranded,"},{"lineNumber":230446,"originalJapaneseLine":"　三種の神器じゃないっすか！」","translatedEnglishLine":"it’s a three-item set to keep us safe!\""},{"lineNumber":230447,"originalJapaneseLine":"「忘れちゃいけないチョコレートもあるけど、","translatedEnglishLine":"\"And don’t forget the chocolate,"},{"lineNumber":230448,"originalJapaneseLine":"　なんでチョコレートなんだろうな？」","translatedEnglishLine":"but I wonder why chocolate?\""},{"lineNumber":230449,"originalJapaneseLine":"「ま、いいや。","translatedEnglishLine":"\"Well, whatever."},{"lineNumber":230450,"originalJapaneseLine":"　鞄に入れてやるよ、ほれ後ろ向いてー」","translatedEnglishLine":"I’ll put it in your bag, turn around.\""},{"lineNumber":230451,"originalJapaneseLine":"長田君があなたの後ろに回り、","translatedEnglishLine":"Nagata went behind you,"},{"lineNumber":230452,"originalJapaneseLine":"鞄の中によく分からないものを詰め込んだ。","translatedEnglishLine":"and stuffed unknown items into your bag."},{"lineNumber":230453,"originalJapaneseLine":"「へへっ、これでいつ遭難しても","translatedEnglishLine":"\"Heh heh, now we’re safe no matter when we get stranded."},{"lineNumber":230454,"originalJapaneseLine":"　安心って寸法よ！」","translatedEnglishLine":"That's the plan!\""},{"lineNumber":230455,"originalJapaneseLine":"「なんたって涙も凍るって話の氷雪地帯だぜ？","translatedEnglishLine":"\"After all, it’s the icy snowy region where even tears freeze, right?"},{"lineNumber":230456,"originalJapaneseLine":"　これくらいの備えは必要だろーからなー」","translatedEnglishLine":"So this kind of preparation is necessary.\""},{"lineNumber":230457,"originalJapaneseLine":"「わー、いいなー」","translatedEnglishLine":"\"Wow, that’s nice!\""},{"lineNumber":230458,"originalJapaneseLine":"「人数分買ったんでみんなにも配るっすよー」","translatedEnglishLine":"\"I bought enough for everyone, so I’ll distribute them to you all.\""},{"lineNumber":230459,"originalJapaneseLine":"「わーい、ありがとー」","translatedEnglishLine":"\"Yay, thanks!\""},{"lineNumber":230460,"originalJapaneseLine":"「おーい、ザンスー、お前にもやるよー」","translatedEnglishLine":"\"Hey, Zansu, I’m giving one to you too!\""},{"lineNumber":230461,"originalJapaneseLine":"「アア？　いらねーよ、タコ」","translatedEnglishLine":"\"Huh? I don’t want it, you idiot.\""},{"lineNumber":230462,"originalJapaneseLine":"「おめ、ばっか！","translatedEnglishLine":"\"You idiot!"},{"lineNumber":230463,"originalJapaneseLine":"　ヘルマンで甘味は高ぇんだぞ！","translatedEnglishLine":"Sweet treats are expensive in Helman!"},{"lineNumber":230464,"originalJapaneseLine":"　ちゃんと受け取れよ！」","translatedEnglishLine":"Just take it properly!\""},{"lineNumber":230465,"originalJapaneseLine":"「だーっ、変なもん押しつけんな！」","translatedEnglishLine":"\"Ugh, don’t shove weird stuff on me!\""},{"lineNumber":230466,"originalJapaneseLine":"…………","translatedEnglishLine":"............"},{"lineNumber":230467,"originalJapaneseLine":"……","translatedEnglishLine":"......"},{"lineNumber":230468,"originalJapaneseLine":"考えてみれば……","translatedEnglishLine":"If I think about it..."},{"lineNumber":230469,"originalJapaneseLine":"旅が始まって、","translatedEnglishLine":"Since the journey began,"},{"lineNumber":230470,"originalJapaneseLine":"これほどの時間、たった一人で過ごすのは","translatedEnglishLine":"spending this much time completely alone"},{"lineNumber":230471,"originalJapaneseLine":"本当に初めてのことだった。","translatedEnglishLine":"was truly the first time."},{"lineNumber":230472,"originalJapaneseLine":"いつもあなたの隣には長田君がいた。","translatedEnglishLine":"Nagata was always by your side."},{"lineNumber":230473,"originalJapaneseLine":"長田君がいないときは他の誰かがいた。","translatedEnglishLine":"If Nagata wasn’t there, someone else was."},{"lineNumber":230474,"originalJapaneseLine":"しかし、今――","translatedEnglishLine":"But now――"},{"lineNumber":230475,"originalJapaneseLine":"あなたの声を聞く者は誰もおらず、","translatedEnglishLine":"no one was there to hear your voice,"},{"lineNumber":230476,"originalJapaneseLine":"あなたを見ている者は誰もおらず、","translatedEnglishLine":"no one was watching you,"},{"lineNumber":230477,"originalJapaneseLine":"あなたと協力する者は誰もいなかった。","translatedEnglishLine":"no one was cooperating with you."},{"lineNumber":230478,"originalJapaneseLine":"あなたは冒険に出てから、","translatedEnglishLine":"Since you set out on the adventure,"},{"lineNumber":230479,"originalJapaneseLine":"初めて孤独だった。","translatedEnglishLine":"you were lonely for the first time."},{"lineNumber":230480,"originalJapaneseLine":"とても寒かった。","translatedEnglishLine":"It was very cold."},{"lineNumber":230481,"originalJapaneseLine":"「…………。」","translatedEnglishLine":"\"............\""},{"lineNumber":230482,"originalJapaneseLine":"　","translatedEnglishLine":" "},{"lineNumber":230483,"originalJapaneseLine":"　　＜……………………＞","translatedEnglishLine":"   <..................>"},{"lineNumber":230484,"originalJapaneseLine":"あなたは顔を上げた。","translatedEnglishLine":"You lifted your face."},{"lineNumber":230485,"originalJapaneseLine":"声が聞こえた気がしたからだ。","translatedEnglishLine":"Because you felt like you heard a voice."},{"lineNumber":230486,"originalJapaneseLine":"本当にかすかではあるが、","translatedEnglishLine":"It was really faint,"},{"lineNumber":230487,"originalJapaneseLine":"今までの静寂の中にはなかった何かがあった。","translatedEnglishLine":"there was something that hadn’t been in the silence until now."},{"lineNumber":230488,"originalJapaneseLine":"「…………。」","translatedEnglishLine":"\"............\""},{"lineNumber":230489,"originalJapaneseLine":"自分の声を、音を押し殺して、","translatedEnglishLine":"Suppressing your own voice and noise,"},{"lineNumber":230490,"originalJapaneseLine":"あなたはそっと耳に全神経を集中させる。","translatedEnglishLine":"you quietly focused all your senses on your ears."},{"lineNumber":230491,"originalJapaneseLine":"「……ぉーーーぃ」","translatedEnglishLine":"\"...Heeeey\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1691,"input_tokens_details":{"cached_tokens":0},"output_tokens":2148,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3839},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":230432,\"originalJapaneseLine\":\"それは氷雪地帯に入る寸前、\",\"translatedEnglishLine\":\"It was just before entering the icy snowy region,\"},{\"lineNumber\":230433,\"originalJapaneseLine\":\"物資調達の為、街へ来ていたときのこと――\",\"translatedEnglishLine\":\"when we had come to town to procure supplies――\"},{\"lineNumber\":230434,\"originalJapaneseLine\":\"「おーい、＜エール＞、＜エール＞ー！\",\"translatedEnglishLine\":\"\\\"Hey, <Aile>, <Aile>!\\\"\"},{\"lineNumber\":230435,\"originalJapaneseLine\":\"　いいもん買ってきたぜー！」\",\"translatedEnglishLine\":\"I've got something good!\\\"\"},{\"lineNumber\":230436,\"originalJapaneseLine\":\"「へへへ、なんだと思う？」\",\"translatedEnglishLine\":\"\\\"Hehehe, guess what?\\\"\"},{\"lineNumber\":230437,\"originalJapaneseLine\":\"「じゃじゃーん！　遭難セットー！」\",\"translatedEnglishLine\":\"\\\"Ta-da! An emergency survival kit!\\\"\"},{\"lineNumber\":230438,\"originalJapaneseLine\":\"長田君が縁起でもない名のアイテムを取り出した。\",\"translatedEnglishLine\":\"Nagata pulled out an item with an ominous name.\"},{\"lineNumber\":230439,\"originalJapaneseLine\":\"「あら？　なぁにそれ？」\",\"translatedEnglishLine\":\"\\\"Oh? What’s that?\\\"\"},{\"lineNumber\":230440,\"originalJapaneseLine\":\"「なんか面白そうなもん買ったの？」\",\"translatedEnglishLine\":\"\\\"Did you buy something interesting?\\\"\"},{\"lineNumber\":230441,\"originalJapaneseLine\":\"「……長田君って無駄遣い好きよね」\",\"translatedEnglishLine\":\"\\\"...Nagata really likes wasting money, huh.\\\"\"},{\"lineNumber\":230442,\"originalJapaneseLine\":\"「いや、無駄遣いじゃないっすよ！」\",\"translatedEnglishLine\":\"\\\"No, it’s not a waste of money!\\\"\"},{\"lineNumber\":230443,\"originalJapaneseLine\":\"「えーと、暖房用のぬくぬく袋でしょー、\",\"translatedEnglishLine\":\"\\\"Well, there’s a warm heating bag,\"},{\"lineNumber\":230444,\"originalJapaneseLine\":\"　それから緊急用の食料に、火起こし用の道具！」\",\"translatedEnglishLine\":\"emergency food, and fire-starting tools!\\\"\"},{\"lineNumber\":230445,\"originalJapaneseLine\":\"「遭難してもこれで安心の\",\"translatedEnglishLine\":\"\\\"With this, even if we get stranded,\"},{\"lineNumber\":230446,\"originalJapaneseLine\":\"　三種の神器じゃないっすか！」\",\"translatedEnglishLine\":\"it’s a three-item set to keep us safe!\\\"\"},{\"lineNumber\":230447,\"originalJapaneseLine\":\"「忘れちゃいけないチョコレートもあるけど、\",\"translatedEnglishLine\":\"\\\"And don’t forget the chocolate,\"},{\"lineNumber\":230448,\"originalJapaneseLine\":\"　なんでチョコレートなんだろうな？」\",\"translatedEnglishLine\":\"but I wonder why chocolate?\\\"\"},{\"lineNumber\":230449,\"originalJapaneseLine\":\"「ま、いいや。\",\"translatedEnglishLine\":\"\\\"Well, whatever.\"},{\"lineNumber\":230450,\"originalJapaneseLine\":\"　鞄に入れてやるよ、ほれ後ろ向いてー」\",\"translatedEnglishLine\":\"I’ll put it in your bag, turn around.\\\"\"},{\"lineNumber\":230451,\"originalJapaneseLine\":\"長田君があなたの後ろに回り、\",\"translatedEnglishLine\":\"Nagata went behind you,\"},{\"lineNumber\":230452,\"originalJapaneseLine\":\"鞄の中によく分からないものを詰め込んだ。\",\"translatedEnglishLine\":\"and stuffed unknown items into your bag.\"},{\"lineNumber\":230453,\"originalJapaneseLine\":\"「へへっ、これでいつ遭難しても\",\"translatedEnglishLine\":\"\\\"Heh heh, now we’re safe no matter when we get stranded.\"},{\"lineNumber\":230454,\"originalJapaneseLine\":\"　安心って寸法よ！」\",\"translatedEnglishLine\":\"That's the plan!\\\"\"},{\"lineNumber\":230455,\"originalJapaneseLine\":\"「なんたって涙も凍るって話の氷雪地帯だぜ？\",\"translatedEnglishLine\":\"\\\"After all, it’s the icy snowy region where even tears freeze, right?\"},{\"lineNumber\":230456,\"originalJapaneseLine\":\"　これくらいの備えは必要だろーからなー」\",\"translatedEnglishLine\":\"So this kind of preparation is necessary.\\\"\"},{\"lineNumber\":230457,\"originalJapaneseLine\":\"「わー、いいなー」\",\"translatedEnglishLine\":\"\\\"Wow, that’s nice!\\\"\"},{\"lineNumber\":230458,\"originalJapaneseLine\":\"「人数分買ったんでみんなにも配るっすよー」\",\"translatedEnglishLine\":\"\\\"I bought enough for everyone, so I’ll distribute them to you all.\\\"\"},{\"lineNumber\":230459,\"originalJapaneseLine\":\"「わーい、ありがとー」\",\"translatedEnglishLine\":\"\\\"Yay, thanks!\\\"\"},{\"lineNumber\":230460,\"originalJapaneseLine\":\"「おーい、ザンスー、お前にもやるよー」\",\"translatedEnglishLine\":\"\\\"Hey, Zansu, I’m giving one to you too!\\\"\"},{\"lineNumber\":230461,\"originalJapaneseLine\":\"「アア？　いらねーよ、タコ」\",\"translatedEnglishLine\":\"\\\"Huh? I don’t want it, you idiot.\\\"\"},{\"lineNumber\":230462,\"originalJapaneseLine\":\"「おめ、ばっか！\",\"translatedEnglishLine\":\"\\\"You idiot!\"},{\"lineNumber\":230463,\"originalJapaneseLine\":\"　ヘルマンで甘味は高ぇんだぞ！\",\"translatedEnglishLine\":\"Sweet treats are expensive in Helman!\"},{\"lineNumber\":230464,\"originalJapaneseLine\":\"　ちゃんと受け取れよ！」\",\"translatedEnglishLine\":\"Just take it properly!\\\"\"},{\"lineNumber\":230465,\"originalJapaneseLine\":\"「だーっ、変なもん押しつけんな！」\",\"translatedEnglishLine\":\"\\\"Ugh, don’t shove weird stuff on me!\\\"\"},{\"lineNumber\":230466,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":230467,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"......\"},{\"lineNumber\":230468,\"originalJapaneseLine\":\"考えてみれば……\",\"translatedEnglishLine\":\"If I think about it...\"},{\"lineNumber\":230469,\"originalJapaneseLine\":\"旅が始まって、\",\"translatedEnglishLine\":\"Since the journey began,\"},{\"lineNumber\":230470,\"originalJapaneseLine\":\"これほどの時間、たった一人で過ごすのは\",\"translatedEnglishLine\":\"spending this much time completely alone\"},{\"lineNumber\":230471,\"originalJapaneseLine\":\"本当に初めてのことだった。\",\"translatedEnglishLine\":\"was truly the first time.\"},{\"lineNumber\":230472,\"originalJapaneseLine\":\"いつもあなたの隣には長田君がいた。\",\"translatedEnglishLine\":\"Nagata was always by your side.\"},{\"lineNumber\":230473,\"originalJapaneseLine\":\"長田君がいないときは他の誰かがいた。\",\"translatedEnglishLine\":\"If Nagata wasn’t there, someone else was.\"},{\"lineNumber\":230474,\"originalJapaneseLine\":\"しかし、今――\",\"translatedEnglishLine\":\"But now――\"},{\"lineNumber\":230475,\"originalJapaneseLine\":\"あなたの声を聞く者は誰もおらず、\",\"translatedEnglishLine\":\"no one was there to hear your voice,\"},{\"lineNumber\":230476,\"originalJapaneseLine\":\"あなたを見ている者は誰もおらず、\",\"translatedEnglishLine\":\"no one was watching you,\"},{\"lineNumber\":230477,\"originalJapaneseLine\":\"あなたと協力する者は誰もいなかった。\",\"translatedEnglishLine\":\"no one was cooperating with you.\"},{\"lineNumber\":230478,\"originalJapaneseLine\":\"あなたは冒険に出てから、\",\"translatedEnglishLine\":\"Since you set out on the adventure,\"},{\"lineNumber\":230479,\"originalJapaneseLine\":\"初めて孤独だった。\",\"translatedEnglishLine\":\"you were lonely for the first time.\"},{\"lineNumber\":230480,\"originalJapaneseLine\":\"とても寒かった。\",\"translatedEnglishLine\":\"It was very cold.\"},{\"lineNumber\":230481,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":230482,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\" \"},{\"lineNumber\":230483,\"originalJapaneseLine\":\"　　＜……………………＞\",\"translatedEnglishLine\":\"   <..................>\"},{\"lineNumber\":230484,\"originalJapaneseLine\":\"あなたは顔を上げた。\",\"translatedEnglishLine\":\"You lifted your face.\"},{\"lineNumber\":230485,\"originalJapaneseLine\":\"声が聞こえた気がしたからだ。\",\"translatedEnglishLine\":\"Because you felt like you heard a voice.\"},{\"lineNumber\":230486,\"originalJapaneseLine\":\"本当にかすかではあるが、\",\"translatedEnglishLine\":\"It was really faint,\"},{\"lineNumber\":230487,\"originalJapaneseLine\":\"今までの静寂の中にはなかった何かがあった。\",\"translatedEnglishLine\":\"there was something that hadn’t been in the silence until now.\"},{\"lineNumber\":230488,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":230489,\"originalJapaneseLine\":\"自分の声を、音を押し殺して、\",\"translatedEnglishLine\":\"Suppressing your own voice and noise,\"},{\"lineNumber\":230490,\"originalJapaneseLine\":\"あなたはそっと耳に全神経を集中させる。\",\"translatedEnglishLine\":\"you quietly focused all your senses on your ears.\"},{\"lineNumber\":230491,\"originalJapaneseLine\":\"「……ぉーーーぃ」\",\"translatedEnglishLine\":\"\\\"...Heeeey\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":230432,"originalJapaneseLine":"それは氷雪地帯に入る寸前、","translatedEnglishLine":"It was just before entering the icy snowy region,"},{"lineNumber":230433,"originalJapaneseLine":"物資調達の為、街へ来ていたときのこと――","translatedEnglishLine":"when we had come to town to procure supplies――"},{"lineNumber":230434,"originalJapaneseLine":"「おーい、＜エール＞、＜エール＞ー！","translatedEnglishLine":"\"Hey, <Aile>, <Aile>!\""},{"lineNumber":230435,"originalJapaneseLine":"　いいもん買ってきたぜー！」","translatedEnglishLine":"I've got something good!\""},{"lineNumber":230436,"originalJapaneseLine":"「へへへ、なんだと思う？」","translatedEnglishLine":"\"Hehehe, guess what?\""},{"lineNumber":230437,"originalJapaneseLine":"「じゃじゃーん！　遭難セットー！」","translatedEnglishLine":"\"Ta-da! An emergency survival kit!\""},{"lineNumber":230438,"originalJapaneseLine":"長田君が縁起でもない名のアイテムを取り出した。","translatedEnglishLine":"Nagata pulled out an item with an ominous name."},{"lineNumber":230439,"originalJapaneseLine":"「あら？　なぁにそれ？」","translatedEnglishLine":"\"Oh? What’s that?\""},{"lineNumber":230440,"originalJapaneseLine":"「なんか面白そうなもん買ったの？」","translatedEnglishLine":"\"Did you buy something interesting?\""},{"lineNumber":230441,"originalJapaneseLine":"「……長田君って無駄遣い好きよね」","translatedEnglishLine":"\"...Nagata really likes wasting money, huh.\""},{"lineNumber":230442,"originalJapaneseLine":"「いや、無駄遣いじゃないっすよ！」","translatedEnglishLine":"\"No, it’s not a waste of money!\""},{"lineNumber":230443,"originalJapaneseLine":"「えーと、暖房用のぬくぬく袋でしょー、","translatedEnglishLine":"\"Well, there’s a warm heating bag,"},{"lineNumber":230444,"originalJapaneseLine":"　それから緊急用の食料に、火起こし用の道具！」","translatedEnglishLine":"emergency food, and fire-starting tools!\""},{"lineNumber":230445,"originalJapaneseLine":"「遭難してもこれで安心の","translatedEnglishLine":"\"With this, even if we get stranded,"},{"lineNumber":230446,"originalJapaneseLine":"　三種の神器じゃないっすか！」","translatedEnglishLine":"it’s a three-item set to keep us safe!\""},{"lineNumber":230447,"originalJapaneseLine":"「忘れちゃいけないチョコレートもあるけど、","translatedEnglishLine":"\"And don’t forget the chocolate,"},{"lineNumber":230448,"originalJapaneseLine":"　なんでチョコレートなんだろうな？」","translatedEnglishLine":"but I wonder why chocolate?\""},{"lineNumber":230449,"originalJapaneseLine":"「ま、いいや。","translatedEnglishLine":"\"Well, whatever."},{"lineNumber":230450,"originalJapaneseLine":"　鞄に入れてやるよ、ほれ後ろ向いてー」","translatedEnglishLine":"I’ll put it in your bag, turn around.\""},{"lineNumber":230451,"originalJapaneseLine":"長田君があなたの後ろに回り、","translatedEnglishLine":"Nagata went behind you,"},{"lineNumber":230452,"originalJapaneseLine":"鞄の中によく分からないものを詰め込んだ。","translatedEnglishLine":"and stuffed unknown items into your bag."},{"lineNumber":230453,"originalJapaneseLine":"「へへっ、これでいつ遭難しても","translatedEnglishLine":"\"Heh heh, now we’re safe no matter when we get stranded."},{"lineNumber":230454,"originalJapaneseLine":"　安心って寸法よ！」","translatedEnglishLine":"That's the plan!\""},{"lineNumber":230455,"originalJapaneseLine":"「なんたって涙も凍るって話の氷雪地帯だぜ？","translatedEnglishLine":"\"After all, it’s the icy snowy region where even tears freeze, right?"},{"lineNumber":230456,"originalJapaneseLine":"　これくらいの備えは必要だろーからなー」","translatedEnglishLine":"So this kind of preparation is necessary.\""},{"lineNumber":230457,"originalJapaneseLine":"「わー、いいなー」","translatedEnglishLine":"\"Wow, that’s nice!\""},{"lineNumber":230458,"originalJapaneseLine":"「人数分買ったんでみんなにも配るっすよー」","translatedEnglishLine":"\"I bought enough for everyone, so I’ll distribute them to you all.\""},{"lineNumber":230459,"originalJapaneseLine":"「わーい、ありがとー」","translatedEnglishLine":"\"Yay, thanks!\""},{"lineNumber":230460,"originalJapaneseLine":"「おーい、ザンスー、お前にもやるよー」","translatedEnglishLine":"\"Hey, Zansu, I’m giving one to you too!\""},{"lineNumber":230461,"originalJapaneseLine":"「アア？　いらねーよ、タコ」","translatedEnglishLine":"\"Huh? I don’t want it, you idiot.\""},{"lineNumber":230462,"originalJapaneseLine":"「おめ、ばっか！","translatedEnglishLine":"\"You idiot!"},{"lineNumber":230463,"originalJapaneseLine":"　ヘルマンで甘味は高ぇんだぞ！","translatedEnglishLine":"Sweet treats are expensive in Helman!"},{"lineNumber":230464,"originalJapaneseLine":"　ちゃんと受け取れよ！」","translatedEnglishLine":"Just take it properly!\""},{"lineNumber":230465,"originalJapaneseLine":"「だーっ、変なもん押しつけんな！」","translatedEnglishLine":"\"Ugh, don’t shove weird stuff on me!\""},{"lineNumber":230466,"originalJapaneseLine":"…………","translatedEnglishLine":"............"},{"lineNumber":230467,"originalJapaneseLine":"……","translatedEnglishLine":"......"},{"lineNumber":230468,"originalJapaneseLine":"考えてみれば……","translatedEnglishLine":"If I think about it..."},{"lineNumber":230469,"originalJapaneseLine":"旅が始まって、","translatedEnglishLine":"Since the journey began,"},{"lineNumber":230470,"originalJapaneseLine":"これほどの時間、たった一人で過ごすのは","translatedEnglishLine":"spending this much time completely alone"},{"lineNumber":230471,"originalJapaneseLine":"本当に初めてのことだった。","translatedEnglishLine":"was truly the first time."},{"lineNumber":230472,"originalJapaneseLine":"いつもあなたの隣には長田君がいた。","translatedEnglishLine":"Nagata was always by your side."},{"lineNumber":230473,"originalJapaneseLine":"長田君がいないときは他の誰かがいた。","translatedEnglishLine":"If Nagata wasn’t there, someone else was."},{"lineNumber":230474,"originalJapaneseLine":"しかし、今――","translatedEnglishLine":"But now――"},{"lineNumber":230475,"originalJapaneseLine":"あなたの声を聞く者は誰もおらず、","translatedEnglishLine":"no one was there to hear your voice,"},{"lineNumber":230476,"originalJapaneseLine":"あなたを見ている者は誰もおらず、","translatedEnglishLine":"no one was watching you,"},{"lineNumber":230477,"originalJapaneseLine":"あなたと協力する者は誰もいなかった。","translatedEnglishLine":"no one was cooperating with you."},{"lineNumber":230478,"originalJapaneseLine":"あなたは冒険に出てから、","translatedEnglishLine":"Since you set out on the adventure,"},{"lineNumber":230479,"originalJapaneseLine":"初めて孤独だった。","translatedEnglishLine":"you were lonely for the first time."},{"lineNumber":230480,"originalJapaneseLine":"とても寒かった。","translatedEnglishLine":"It was very cold."},{"lineNumber":230481,"originalJapaneseLine":"「…………。」","translatedEnglishLine":"\"............\""},{"lineNumber":230482,"originalJapaneseLine":"　","translatedEnglishLine":" "},{"lineNumber":230483,"originalJapaneseLine":"　　＜……………………＞","translatedEnglishLine":"   <..................>"},{"lineNumber":230484,"originalJapaneseLine":"あなたは顔を上げた。","translatedEnglishLine":"You lifted your face."},{"lineNumber":230485,"originalJapaneseLine":"声が聞こえた気がしたからだ。","translatedEnglishLine":"Because you felt like you heard a voice."},{"lineNumber":230486,"originalJapaneseLine":"本当にかすかではあるが、","translatedEnglishLine":"It was really faint,"},{"lineNumber":230487,"originalJapaneseLine":"今までの静寂の中にはなかった何かがあった。","translatedEnglishLine":"there was something that hadn’t been in the silence until now."},{"lineNumber":230488,"originalJapaneseLine":"「…………。」","translatedEnglishLine":"\"............\""},{"lineNumber":230489,"originalJapaneseLine":"自分の声を、音を押し殺して、","translatedEnglishLine":"Suppressing your own voice and noise,"},{"lineNumber":230490,"originalJapaneseLine":"あなたはそっと耳に全神経を集中させる。","translatedEnglishLine":"you quietly focused all your senses on your ears."},{"lineNumber":230491,"originalJapaneseLine":"「……ぉーーーぃ」","translatedEnglishLine":"\"...Heeeey\""}]}}
+{
+    "id": "resp_0386cd92159ceb870068f206d1a2cc8194b8019c2bbacd0fbe",
+    "object": "response",
+    "created_at": 1760691921,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0386cd92159ceb870068f206d22f548194b89b4aa64848a14b",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":230432,\"originalJapaneseLine\":\"それは氷雪地帯に入る寸前、\",\"translatedEnglishLine\":\"It was just before entering the icy snowy region,\"},{\"lineNumber\":230433,\"originalJapaneseLine\":\"物資調達の為、街へ来ていたときのこと――\",\"translatedEnglishLine\":\"when we had come to town to procure supplies――\"},{\"lineNumber\":230434,\"originalJapaneseLine\":\"「おーい、＜エール＞、＜エール＞ー！\",\"translatedEnglishLine\":\"\\\"Hey, <Aile>, <Aile>!\\\"\"},{\"lineNumber\":230435,\"originalJapaneseLine\":\"　いいもん買ってきたぜー！」\",\"translatedEnglishLine\":\"I've got something good!\\\"\"},{\"lineNumber\":230436,\"originalJapaneseLine\":\"「へへへ、なんだと思う？」\",\"translatedEnglishLine\":\"\\\"Hehehe, guess what?\\\"\"},{\"lineNumber\":230437,\"originalJapaneseLine\":\"「じゃじゃーん！　遭難セットー！」\",\"translatedEnglishLine\":\"\\\"Ta-da! An emergency survival kit!\\\"\"},{\"lineNumber\":230438,\"originalJapaneseLine\":\"長田君が縁起でもない名のアイテムを取り出した。\",\"translatedEnglishLine\":\"Nagata pulled out an item with an ominous name.\"},{\"lineNumber\":230439,\"originalJapaneseLine\":\"「あら？　なぁにそれ？」\",\"translatedEnglishLine\":\"\\\"Oh? What’s that?\\\"\"},{\"lineNumber\":230440,\"originalJapaneseLine\":\"「なんか面白そうなもん買ったの？」\",\"translatedEnglishLine\":\"\\\"Did you buy something interesting?\\\"\"},{\"lineNumber\":230441,\"originalJapaneseLine\":\"「……長田君って無駄遣い好きよね」\",\"translatedEnglishLine\":\"\\\"...Nagata really likes wasting money, huh.\\\"\"},{\"lineNumber\":230442,\"originalJapaneseLine\":\"「いや、無駄遣いじゃないっすよ！」\",\"translatedEnglishLine\":\"\\\"No, it’s not a waste of money!\\\"\"},{\"lineNumber\":230443,\"originalJapaneseLine\":\"「えーと、暖房用のぬくぬく袋でしょー、\",\"translatedEnglishLine\":\"\\\"Well, there’s a warm heating bag,\"},{\"lineNumber\":230444,\"originalJapaneseLine\":\"　それから緊急用の食料に、火起こし用の道具！」\",\"translatedEnglishLine\":\"emergency food, and fire-starting tools!\\\"\"},{\"lineNumber\":230445,\"originalJapaneseLine\":\"「遭難してもこれで安心の\",\"translatedEnglishLine\":\"\\\"With this, even if we get stranded,\"},{\"lineNumber\":230446,\"originalJapaneseLine\":\"　三種の神器じゃないっすか！」\",\"translatedEnglishLine\":\"it’s a three-item set to keep us safe!\\\"\"},{\"lineNumber\":230447,\"originalJapaneseLine\":\"「忘れちゃいけないチョコレートもあるけど、\",\"translatedEnglishLine\":\"\\\"And don’t forget the chocolate,\"},{\"lineNumber\":230448,\"originalJapaneseLine\":\"　なんでチョコレートなんだろうな？」\",\"translatedEnglishLine\":\"but I wonder why chocolate?\\\"\"},{\"lineNumber\":230449,\"originalJapaneseLine\":\"「ま、いいや。\",\"translatedEnglishLine\":\"\\\"Well, whatever.\"},{\"lineNumber\":230450,\"originalJapaneseLine\":\"　鞄に入れてやるよ、ほれ後ろ向いてー」\",\"translatedEnglishLine\":\"I’ll put it in your bag, turn around.\\\"\"},{\"lineNumber\":230451,\"originalJapaneseLine\":\"長田君があなたの後ろに回り、\",\"translatedEnglishLine\":\"Nagata went behind you,\"},{\"lineNumber\":230452,\"originalJapaneseLine\":\"鞄の中によく分からないものを詰め込んだ。\",\"translatedEnglishLine\":\"and stuffed unknown items into your bag.\"},{\"lineNumber\":230453,\"originalJapaneseLine\":\"「へへっ、これでいつ遭難しても\",\"translatedEnglishLine\":\"\\\"Heh heh, now we’re safe no matter when we get stranded.\"},{\"lineNumber\":230454,\"originalJapaneseLine\":\"　安心って寸法よ！」\",\"translatedEnglishLine\":\"That's the plan!\\\"\"},{\"lineNumber\":230455,\"originalJapaneseLine\":\"「なんたって涙も凍るって話の氷雪地帯だぜ？\",\"translatedEnglishLine\":\"\\\"After all, it’s the icy snowy region where even tears freeze, right?\"},{\"lineNumber\":230456,\"originalJapaneseLine\":\"　これくらいの備えは必要だろーからなー」\",\"translatedEnglishLine\":\"So this kind of preparation is necessary.\\\"\"},{\"lineNumber\":230457,\"originalJapaneseLine\":\"「わー、いいなー」\",\"translatedEnglishLine\":\"\\\"Wow, that’s nice!\\\"\"},{\"lineNumber\":230458,\"originalJapaneseLine\":\"「人数分買ったんでみんなにも配るっすよー」\",\"translatedEnglishLine\":\"\\\"I bought enough for everyone, so I’ll distribute them to you all.\\\"\"},{\"lineNumber\":230459,\"originalJapaneseLine\":\"「わーい、ありがとー」\",\"translatedEnglishLine\":\"\\\"Yay, thanks!\\\"\"},{\"lineNumber\":230460,\"originalJapaneseLine\":\"「おーい、ザンスー、お前にもやるよー」\",\"translatedEnglishLine\":\"\\\"Hey, Zansu, I’m giving one to you too!\\\"\"},{\"lineNumber\":230461,\"originalJapaneseLine\":\"「アア？　いらねーよ、タコ」\",\"translatedEnglishLine\":\"\\\"Huh? I don’t want it, you idiot.\\\"\"},{\"lineNumber\":230462,\"originalJapaneseLine\":\"「おめ、ばっか！\",\"translatedEnglishLine\":\"\\\"You idiot!\"},{\"lineNumber\":230463,\"originalJapaneseLine\":\"　ヘルマンで甘味は高ぇんだぞ！\",\"translatedEnglishLine\":\"Sweet treats are expensive in Helman!\"},{\"lineNumber\":230464,\"originalJapaneseLine\":\"　ちゃんと受け取れよ！」\",\"translatedEnglishLine\":\"Just take it properly!\\\"\"},{\"lineNumber\":230465,\"originalJapaneseLine\":\"「だーっ、変なもん押しつけんな！」\",\"translatedEnglishLine\":\"\\\"Ugh, don’t shove weird stuff on me!\\\"\"},{\"lineNumber\":230466,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":230467,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"......\"},{\"lineNumber\":230468,\"originalJapaneseLine\":\"考えてみれば……\",\"translatedEnglishLine\":\"If I think about it...\"},{\"lineNumber\":230469,\"originalJapaneseLine\":\"旅が始まって、\",\"translatedEnglishLine\":\"Since the journey began,\"},{\"lineNumber\":230470,\"originalJapaneseLine\":\"これほどの時間、たった一人で過ごすのは\",\"translatedEnglishLine\":\"spending this much time completely alone\"},{\"lineNumber\":230471,\"originalJapaneseLine\":\"本当に初めてのことだった。\",\"translatedEnglishLine\":\"was truly the first time.\"},{\"lineNumber\":230472,\"originalJapaneseLine\":\"いつもあなたの隣には長田君がいた。\",\"translatedEnglishLine\":\"Nagata was always by your side.\"},{\"lineNumber\":230473,\"originalJapaneseLine\":\"長田君がいないときは他の誰かがいた。\",\"translatedEnglishLine\":\"If Nagata wasn’t there, someone else was.\"},{\"lineNumber\":230474,\"originalJapaneseLine\":\"しかし、今――\",\"translatedEnglishLine\":\"But now――\"},{\"lineNumber\":230475,\"originalJapaneseLine\":\"あなたの声を聞く者は誰もおらず、\",\"translatedEnglishLine\":\"no one was there to hear your voice,\"},{\"lineNumber\":230476,\"originalJapaneseLine\":\"あなたを見ている者は誰もおらず、\",\"translatedEnglishLine\":\"no one was watching you,\"},{\"lineNumber\":230477,\"originalJapaneseLine\":\"あなたと協力する者は誰もいなかった。\",\"translatedEnglishLine\":\"no one was cooperating with you.\"},{\"lineNumber\":230478,\"originalJapaneseLine\":\"あなたは冒険に出てから、\",\"translatedEnglishLine\":\"Since you set out on the adventure,\"},{\"lineNumber\":230479,\"originalJapaneseLine\":\"初めて孤独だった。\",\"translatedEnglishLine\":\"you were lonely for the first time.\"},{\"lineNumber\":230480,\"originalJapaneseLine\":\"とても寒かった。\",\"translatedEnglishLine\":\"It was very cold.\"},{\"lineNumber\":230481,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":230482,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\" \"},{\"lineNumber\":230483,\"originalJapaneseLine\":\"　　＜……………………＞\",\"translatedEnglishLine\":\"   <..................>\"},{\"lineNumber\":230484,\"originalJapaneseLine\":\"あなたは顔を上げた。\",\"translatedEnglishLine\":\"You lifted your face.\"},{\"lineNumber\":230485,\"originalJapaneseLine\":\"声が聞こえた気がしたからだ。\",\"translatedEnglishLine\":\"Because you felt like you heard a voice.\"},{\"lineNumber\":230486,\"originalJapaneseLine\":\"本当にかすかではあるが、\",\"translatedEnglishLine\":\"It was really faint,\"},{\"lineNumber\":230487,\"originalJapaneseLine\":\"今までの静寂の中にはなかった何かがあった。\",\"translatedEnglishLine\":\"there was something that hadn’t been in the silence until now.\"},{\"lineNumber\":230488,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":230489,\"originalJapaneseLine\":\"自分の声を、音を押し殺して、\",\"translatedEnglishLine\":\"Suppressing your own voice and noise,\"},{\"lineNumber\":230490,\"originalJapaneseLine\":\"あなたはそっと耳に全神経を集中させる。\",\"translatedEnglishLine\":\"you quietly focused all your senses on your ears.\"},{\"lineNumber\":230491,\"originalJapaneseLine\":\"「……ぉーーーぃ」\",\"translatedEnglishLine\":\"\\\"...Heeeey\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 230432,
+                                "originalJapaneseLine": "それは氷雪地帯に入る寸前、",
+                                "translatedEnglishLine": "It was just before entering the icy snowy region,"
+                            },
+                            {
+                                "lineNumber": 230433,
+                                "originalJapaneseLine": "物資調達の為、街へ来ていたときのこと――",
+                                "translatedEnglishLine": "when we had come to town to procure supplies――"
+                            },
+                            {
+                                "lineNumber": 230434,
+                                "originalJapaneseLine": "「おーい、＜エール＞、＜エール＞ー！",
+                                "translatedEnglishLine": "\"Hey, <Aile>, <Aile>!\""
+                            },
+                            {
+                                "lineNumber": 230435,
+                                "originalJapaneseLine": "　いいもん買ってきたぜー！」",
+                                "translatedEnglishLine": "I've got something good!\""
+                            },
+                            {
+                                "lineNumber": 230436,
+                                "originalJapaneseLine": "「へへへ、なんだと思う？」",
+                                "translatedEnglishLine": "\"Hehehe, guess what?\""
+                            },
+                            {
+                                "lineNumber": 230437,
+                                "originalJapaneseLine": "「じゃじゃーん！　遭難セットー！」",
+                                "translatedEnglishLine": "\"Ta-da! An emergency survival kit!\""
+                            },
+                            {
+                                "lineNumber": 230438,
+                                "originalJapaneseLine": "長田君が縁起でもない名のアイテムを取り出した。",
+                                "translatedEnglishLine": "Nagata pulled out an item with an ominous name."
+                            },
+                            {
+                                "lineNumber": 230439,
+                                "originalJapaneseLine": "「あら？　なぁにそれ？」",
+                                "translatedEnglishLine": "\"Oh? What’s that?\""
+                            },
+                            {
+                                "lineNumber": 230440,
+                                "originalJapaneseLine": "「なんか面白そうなもん買ったの？」",
+                                "translatedEnglishLine": "\"Did you buy something interesting?\""
+                            },
+                            {
+                                "lineNumber": 230441,
+                                "originalJapaneseLine": "「……長田君って無駄遣い好きよね」",
+                                "translatedEnglishLine": "\"...Nagata really likes wasting money, huh.\""
+                            },
+                            {
+                                "lineNumber": 230442,
+                                "originalJapaneseLine": "「いや、無駄遣いじゃないっすよ！」",
+                                "translatedEnglishLine": "\"No, it’s not a waste of money!\""
+                            },
+                            {
+                                "lineNumber": 230443,
+                                "originalJapaneseLine": "「えーと、暖房用のぬくぬく袋でしょー、",
+                                "translatedEnglishLine": "\"Well, there’s a warm heating bag,"
+                            },
+                            {
+                                "lineNumber": 230444,
+                                "originalJapaneseLine": "　それから緊急用の食料に、火起こし用の道具！」",
+                                "translatedEnglishLine": "emergency food, and fire-starting tools!\""
+                            },
+                            {
+                                "lineNumber": 230445,
+                                "originalJapaneseLine": "「遭難してもこれで安心の",
+                                "translatedEnglishLine": "\"With this, even if we get stranded,"
+                            },
+                            {
+                                "lineNumber": 230446,
+                                "originalJapaneseLine": "　三種の神器じゃないっすか！」",
+                                "translatedEnglishLine": "it’s a three-item set to keep us safe!\""
+                            },
+                            {
+                                "lineNumber": 230447,
+                                "originalJapaneseLine": "「忘れちゃいけないチョコレートもあるけど、",
+                                "translatedEnglishLine": "\"And don’t forget the chocolate,"
+                            },
+                            {
+                                "lineNumber": 230448,
+                                "originalJapaneseLine": "　なんでチョコレートなんだろうな？」",
+                                "translatedEnglishLine": "but I wonder why chocolate?\""
+                            },
+                            {
+                                "lineNumber": 230449,
+                                "originalJapaneseLine": "「ま、いいや。",
+                                "translatedEnglishLine": "\"Well, whatever."
+                            },
+                            {
+                                "lineNumber": 230450,
+                                "originalJapaneseLine": "　鞄に入れてやるよ、ほれ後ろ向いてー」",
+                                "translatedEnglishLine": "I’ll put it in your bag, turn around.\""
+                            },
+                            {
+                                "lineNumber": 230451,
+                                "originalJapaneseLine": "長田君があなたの後ろに回り、",
+                                "translatedEnglishLine": "Nagata went behind you,"
+                            },
+                            {
+                                "lineNumber": 230452,
+                                "originalJapaneseLine": "鞄の中によく分からないものを詰め込んだ。",
+                                "translatedEnglishLine": "and stuffed unknown items into your bag."
+                            },
+                            {
+                                "lineNumber": 230453,
+                                "originalJapaneseLine": "「へへっ、これでいつ遭難しても",
+                                "translatedEnglishLine": "\"Heh heh, now we’re safe no matter when we get stranded."
+                            },
+                            {
+                                "lineNumber": 230454,
+                                "originalJapaneseLine": "　安心って寸法よ！」",
+                                "translatedEnglishLine": "That's the plan!\""
+                            },
+                            {
+                                "lineNumber": 230455,
+                                "originalJapaneseLine": "「なんたって涙も凍るって話の氷雪地帯だぜ？",
+                                "translatedEnglishLine": "\"After all, it’s the icy snowy region where even tears freeze, right?"
+                            },
+                            {
+                                "lineNumber": 230456,
+                                "originalJapaneseLine": "　これくらいの備えは必要だろーからなー」",
+                                "translatedEnglishLine": "So this kind of preparation is necessary.\""
+                            },
+                            {
+                                "lineNumber": 230457,
+                                "originalJapaneseLine": "「わー、いいなー」",
+                                "translatedEnglishLine": "\"Wow, that’s nice!\""
+                            },
+                            {
+                                "lineNumber": 230458,
+                                "originalJapaneseLine": "「人数分買ったんでみんなにも配るっすよー」",
+                                "translatedEnglishLine": "\"I bought enough for everyone, so I’ll distribute them to you all.\""
+                            },
+                            {
+                                "lineNumber": 230459,
+                                "originalJapaneseLine": "「わーい、ありがとー」",
+                                "translatedEnglishLine": "\"Yay, thanks!\""
+                            },
+                            {
+                                "lineNumber": 230460,
+                                "originalJapaneseLine": "「おーい、ザンスー、お前にもやるよー」",
+                                "translatedEnglishLine": "\"Hey, Zansu, I’m giving one to you too!\""
+                            },
+                            {
+                                "lineNumber": 230461,
+                                "originalJapaneseLine": "「アア？　いらねーよ、タコ」",
+                                "translatedEnglishLine": "\"Huh? I don’t want it, you idiot.\""
+                            },
+                            {
+                                "lineNumber": 230462,
+                                "originalJapaneseLine": "「おめ、ばっか！",
+                                "translatedEnglishLine": "\"You idiot!"
+                            },
+                            {
+                                "lineNumber": 230463,
+                                "originalJapaneseLine": "　ヘルマンで甘味は高ぇんだぞ！",
+                                "translatedEnglishLine": "Sweet treats are expensive in Helman!"
+                            },
+                            {
+                                "lineNumber": 230464,
+                                "originalJapaneseLine": "　ちゃんと受け取れよ！」",
+                                "translatedEnglishLine": "Just take it properly!\""
+                            },
+                            {
+                                "lineNumber": 230465,
+                                "originalJapaneseLine": "「だーっ、変なもん押しつけんな！」",
+                                "translatedEnglishLine": "\"Ugh, don’t shove weird stuff on me!\""
+                            },
+                            {
+                                "lineNumber": 230466,
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "............"
+                            },
+                            {
+                                "lineNumber": 230467,
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "......"
+                            },
+                            {
+                                "lineNumber": 230468,
+                                "originalJapaneseLine": "考えてみれば……",
+                                "translatedEnglishLine": "If I think about it..."
+                            },
+                            {
+                                "lineNumber": 230469,
+                                "originalJapaneseLine": "旅が始まって、",
+                                "translatedEnglishLine": "Since the journey began,"
+                            },
+                            {
+                                "lineNumber": 230470,
+                                "originalJapaneseLine": "これほどの時間、たった一人で過ごすのは",
+                                "translatedEnglishLine": "spending this much time completely alone"
+                            },
+                            {
+                                "lineNumber": 230471,
+                                "originalJapaneseLine": "本当に初めてのことだった。",
+                                "translatedEnglishLine": "was truly the first time."
+                            },
+                            {
+                                "lineNumber": 230472,
+                                "originalJapaneseLine": "いつもあなたの隣には長田君がいた。",
+                                "translatedEnglishLine": "Nagata was always by your side."
+                            },
+                            {
+                                "lineNumber": 230473,
+                                "originalJapaneseLine": "長田君がいないときは他の誰かがいた。",
+                                "translatedEnglishLine": "If Nagata wasn’t there, someone else was."
+                            },
+                            {
+                                "lineNumber": 230474,
+                                "originalJapaneseLine": "しかし、今――",
+                                "translatedEnglishLine": "But now――"
+                            },
+                            {
+                                "lineNumber": 230475,
+                                "originalJapaneseLine": "あなたの声を聞く者は誰もおらず、",
+                                "translatedEnglishLine": "no one was there to hear your voice,"
+                            },
+                            {
+                                "lineNumber": 230476,
+                                "originalJapaneseLine": "あなたを見ている者は誰もおらず、",
+                                "translatedEnglishLine": "no one was watching you,"
+                            },
+                            {
+                                "lineNumber": 230477,
+                                "originalJapaneseLine": "あなたと協力する者は誰もいなかった。",
+                                "translatedEnglishLine": "no one was cooperating with you."
+                            },
+                            {
+                                "lineNumber": 230478,
+                                "originalJapaneseLine": "あなたは冒険に出てから、",
+                                "translatedEnglishLine": "Since you set out on the adventure,"
+                            },
+                            {
+                                "lineNumber": 230479,
+                                "originalJapaneseLine": "初めて孤独だった。",
+                                "translatedEnglishLine": "you were lonely for the first time."
+                            },
+                            {
+                                "lineNumber": 230480,
+                                "originalJapaneseLine": "とても寒かった。",
+                                "translatedEnglishLine": "It was very cold."
+                            },
+                            {
+                                "lineNumber": 230481,
+                                "originalJapaneseLine": "「…………。」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": 230482,
+                                "originalJapaneseLine": "　",
+                                "translatedEnglishLine": " "
+                            },
+                            {
+                                "lineNumber": 230483,
+                                "originalJapaneseLine": "　　＜……………………＞",
+                                "translatedEnglishLine": "   <..................>"
+                            },
+                            {
+                                "lineNumber": 230484,
+                                "originalJapaneseLine": "あなたは顔を上げた。",
+                                "translatedEnglishLine": "You lifted your face."
+                            },
+                            {
+                                "lineNumber": 230485,
+                                "originalJapaneseLine": "声が聞こえた気がしたからだ。",
+                                "translatedEnglishLine": "Because you felt like you heard a voice."
+                            },
+                            {
+                                "lineNumber": 230486,
+                                "originalJapaneseLine": "本当にかすかではあるが、",
+                                "translatedEnglishLine": "It was really faint,"
+                            },
+                            {
+                                "lineNumber": 230487,
+                                "originalJapaneseLine": "今までの静寂の中にはなかった何かがあった。",
+                                "translatedEnglishLine": "there was something that hadn’t been in the silence until now."
+                            },
+                            {
+                                "lineNumber": 230488,
+                                "originalJapaneseLine": "「…………。」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": 230489,
+                                "originalJapaneseLine": "自分の声を、音を押し殺して、",
+                                "translatedEnglishLine": "Suppressing your own voice and noise,"
+                            },
+                            {
+                                "lineNumber": 230490,
+                                "originalJapaneseLine": "あなたはそっと耳に全神経を集中させる。",
+                                "translatedEnglishLine": "you quietly focused all your senses on your ears."
+                            },
+                            {
+                                "lineNumber": 230491,
+                                "originalJapaneseLine": "「……ぉーーーぃ」",
+                                "translatedEnglishLine": "\"...Heeeey\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1691,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2148,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3839
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":230432,\"originalJapaneseLine\":\"それは氷雪地帯に入る寸前、\",\"translatedEnglishLine\":\"It was just before entering the icy snowy region,\"},{\"lineNumber\":230433,\"originalJapaneseLine\":\"物資調達の為、街へ来ていたときのこと――\",\"translatedEnglishLine\":\"when we had come to town to procure supplies――\"},{\"lineNumber\":230434,\"originalJapaneseLine\":\"「おーい、＜エール＞、＜エール＞ー！\",\"translatedEnglishLine\":\"\\\"Hey, <Aile>, <Aile>!\\\"\"},{\"lineNumber\":230435,\"originalJapaneseLine\":\"　いいもん買ってきたぜー！」\",\"translatedEnglishLine\":\"I've got something good!\\\"\"},{\"lineNumber\":230436,\"originalJapaneseLine\":\"「へへへ、なんだと思う？」\",\"translatedEnglishLine\":\"\\\"Hehehe, guess what?\\\"\"},{\"lineNumber\":230437,\"originalJapaneseLine\":\"「じゃじゃーん！　遭難セットー！」\",\"translatedEnglishLine\":\"\\\"Ta-da! An emergency survival kit!\\\"\"},{\"lineNumber\":230438,\"originalJapaneseLine\":\"長田君が縁起でもない名のアイテムを取り出した。\",\"translatedEnglishLine\":\"Nagata pulled out an item with an ominous name.\"},{\"lineNumber\":230439,\"originalJapaneseLine\":\"「あら？　なぁにそれ？」\",\"translatedEnglishLine\":\"\\\"Oh? What’s that?\\\"\"},{\"lineNumber\":230440,\"originalJapaneseLine\":\"「なんか面白そうなもん買ったの？」\",\"translatedEnglishLine\":\"\\\"Did you buy something interesting?\\\"\"},{\"lineNumber\":230441,\"originalJapaneseLine\":\"「……長田君って無駄遣い好きよね」\",\"translatedEnglishLine\":\"\\\"...Nagata really likes wasting money, huh.\\\"\"},{\"lineNumber\":230442,\"originalJapaneseLine\":\"「いや、無駄遣いじゃないっすよ！」\",\"translatedEnglishLine\":\"\\\"No, it’s not a waste of money!\\\"\"},{\"lineNumber\":230443,\"originalJapaneseLine\":\"「えーと、暖房用のぬくぬく袋でしょー、\",\"translatedEnglishLine\":\"\\\"Well, there’s a warm heating bag,\"},{\"lineNumber\":230444,\"originalJapaneseLine\":\"　それから緊急用の食料に、火起こし用の道具！」\",\"translatedEnglishLine\":\"emergency food, and fire-starting tools!\\\"\"},{\"lineNumber\":230445,\"originalJapaneseLine\":\"「遭難してもこれで安心の\",\"translatedEnglishLine\":\"\\\"With this, even if we get stranded,\"},{\"lineNumber\":230446,\"originalJapaneseLine\":\"　三種の神器じゃないっすか！」\",\"translatedEnglishLine\":\"it’s a three-item set to keep us safe!\\\"\"},{\"lineNumber\":230447,\"originalJapaneseLine\":\"「忘れちゃいけないチョコレートもあるけど、\",\"translatedEnglishLine\":\"\\\"And don’t forget the chocolate,\"},{\"lineNumber\":230448,\"originalJapaneseLine\":\"　なんでチョコレートなんだろうな？」\",\"translatedEnglishLine\":\"but I wonder why chocolate?\\\"\"},{\"lineNumber\":230449,\"originalJapaneseLine\":\"「ま、いいや。\",\"translatedEnglishLine\":\"\\\"Well, whatever.\"},{\"lineNumber\":230450,\"originalJapaneseLine\":\"　鞄に入れてやるよ、ほれ後ろ向いてー」\",\"translatedEnglishLine\":\"I’ll put it in your bag, turn around.\\\"\"},{\"lineNumber\":230451,\"originalJapaneseLine\":\"長田君があなたの後ろに回り、\",\"translatedEnglishLine\":\"Nagata went behind you,\"},{\"lineNumber\":230452,\"originalJapaneseLine\":\"鞄の中によく分からないものを詰め込んだ。\",\"translatedEnglishLine\":\"and stuffed unknown items into your bag.\"},{\"lineNumber\":230453,\"originalJapaneseLine\":\"「へへっ、これでいつ遭難しても\",\"translatedEnglishLine\":\"\\\"Heh heh, now we’re safe no matter when we get stranded.\"},{\"lineNumber\":230454,\"originalJapaneseLine\":\"　安心って寸法よ！」\",\"translatedEnglishLine\":\"That's the plan!\\\"\"},{\"lineNumber\":230455,\"originalJapaneseLine\":\"「なんたって涙も凍るって話の氷雪地帯だぜ？\",\"translatedEnglishLine\":\"\\\"After all, it’s the icy snowy region where even tears freeze, right?\"},{\"lineNumber\":230456,\"originalJapaneseLine\":\"　これくらいの備えは必要だろーからなー」\",\"translatedEnglishLine\":\"So this kind of preparation is necessary.\\\"\"},{\"lineNumber\":230457,\"originalJapaneseLine\":\"「わー、いいなー」\",\"translatedEnglishLine\":\"\\\"Wow, that’s nice!\\\"\"},{\"lineNumber\":230458,\"originalJapaneseLine\":\"「人数分買ったんでみんなにも配るっすよー」\",\"translatedEnglishLine\":\"\\\"I bought enough for everyone, so I’ll distribute them to you all.\\\"\"},{\"lineNumber\":230459,\"originalJapaneseLine\":\"「わーい、ありがとー」\",\"translatedEnglishLine\":\"\\\"Yay, thanks!\\\"\"},{\"lineNumber\":230460,\"originalJapaneseLine\":\"「おーい、ザンスー、お前にもやるよー」\",\"translatedEnglishLine\":\"\\\"Hey, Zansu, I’m giving one to you too!\\\"\"},{\"lineNumber\":230461,\"originalJapaneseLine\":\"「アア？　いらねーよ、タコ」\",\"translatedEnglishLine\":\"\\\"Huh? I don’t want it, you idiot.\\\"\"},{\"lineNumber\":230462,\"originalJapaneseLine\":\"「おめ、ばっか！\",\"translatedEnglishLine\":\"\\\"You idiot!\"},{\"lineNumber\":230463,\"originalJapaneseLine\":\"　ヘルマンで甘味は高ぇんだぞ！\",\"translatedEnglishLine\":\"Sweet treats are expensive in Helman!\"},{\"lineNumber\":230464,\"originalJapaneseLine\":\"　ちゃんと受け取れよ！」\",\"translatedEnglishLine\":\"Just take it properly!\\\"\"},{\"lineNumber\":230465,\"originalJapaneseLine\":\"「だーっ、変なもん押しつけんな！」\",\"translatedEnglishLine\":\"\\\"Ugh, don’t shove weird stuff on me!\\\"\"},{\"lineNumber\":230466,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"............\"},{\"lineNumber\":230467,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"......\"},{\"lineNumber\":230468,\"originalJapaneseLine\":\"考えてみれば……\",\"translatedEnglishLine\":\"If I think about it...\"},{\"lineNumber\":230469,\"originalJapaneseLine\":\"旅が始まって、\",\"translatedEnglishLine\":\"Since the journey began,\"},{\"lineNumber\":230470,\"originalJapaneseLine\":\"これほどの時間、たった一人で過ごすのは\",\"translatedEnglishLine\":\"spending this much time completely alone\"},{\"lineNumber\":230471,\"originalJapaneseLine\":\"本当に初めてのことだった。\",\"translatedEnglishLine\":\"was truly the first time.\"},{\"lineNumber\":230472,\"originalJapaneseLine\":\"いつもあなたの隣には長田君がいた。\",\"translatedEnglishLine\":\"Nagata was always by your side.\"},{\"lineNumber\":230473,\"originalJapaneseLine\":\"長田君がいないときは他の誰かがいた。\",\"translatedEnglishLine\":\"If Nagata wasn’t there, someone else was.\"},{\"lineNumber\":230474,\"originalJapaneseLine\":\"しかし、今――\",\"translatedEnglishLine\":\"But now――\"},{\"lineNumber\":230475,\"originalJapaneseLine\":\"あなたの声を聞く者は誰もおらず、\",\"translatedEnglishLine\":\"no one was there to hear your voice,\"},{\"lineNumber\":230476,\"originalJapaneseLine\":\"あなたを見ている者は誰もおらず、\",\"translatedEnglishLine\":\"no one was watching you,\"},{\"lineNumber\":230477,\"originalJapaneseLine\":\"あなたと協力する者は誰もいなかった。\",\"translatedEnglishLine\":\"no one was cooperating with you.\"},{\"lineNumber\":230478,\"originalJapaneseLine\":\"あなたは冒険に出てから、\",\"translatedEnglishLine\":\"Since you set out on the adventure,\"},{\"lineNumber\":230479,\"originalJapaneseLine\":\"初めて孤独だった。\",\"translatedEnglishLine\":\"you were lonely for the first time.\"},{\"lineNumber\":230480,\"originalJapaneseLine\":\"とても寒かった。\",\"translatedEnglishLine\":\"It was very cold.\"},{\"lineNumber\":230481,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":230482,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\" \"},{\"lineNumber\":230483,\"originalJapaneseLine\":\"　　＜……………………＞\",\"translatedEnglishLine\":\"   <..................>\"},{\"lineNumber\":230484,\"originalJapaneseLine\":\"あなたは顔を上げた。\",\"translatedEnglishLine\":\"You lifted your face.\"},{\"lineNumber\":230485,\"originalJapaneseLine\":\"声が聞こえた気がしたからだ。\",\"translatedEnglishLine\":\"Because you felt like you heard a voice.\"},{\"lineNumber\":230486,\"originalJapaneseLine\":\"本当にかすかではあるが、\",\"translatedEnglishLine\":\"It was really faint,\"},{\"lineNumber\":230487,\"originalJapaneseLine\":\"今までの静寂の中にはなかった何かがあった。\",\"translatedEnglishLine\":\"there was something that hadn’t been in the silence until now.\"},{\"lineNumber\":230488,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"............\\\"\"},{\"lineNumber\":230489,\"originalJapaneseLine\":\"自分の声を、音を押し殺して、\",\"translatedEnglishLine\":\"Suppressing your own voice and noise,\"},{\"lineNumber\":230490,\"originalJapaneseLine\":\"あなたはそっと耳に全神経を集中させる。\",\"translatedEnglishLine\":\"you quietly focused all your senses on your ears.\"},{\"lineNumber\":230491,\"originalJapaneseLine\":\"「……ぉーーーぃ」\",\"translatedEnglishLine\":\"\\\"...Heeeey\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 230432,
+                "originalJapaneseLine": "それは氷雪地帯に入る寸前、",
+                "translatedEnglishLine": "It was just before entering the icy snowy region,"
+            },
+            {
+                "lineNumber": 230433,
+                "originalJapaneseLine": "物資調達の為、街へ来ていたときのこと――",
+                "translatedEnglishLine": "when we had come to town to procure supplies――"
+            },
+            {
+                "lineNumber": 230434,
+                "originalJapaneseLine": "「おーい、＜エール＞、＜エール＞ー！",
+                "translatedEnglishLine": "\"Hey, <Aile>, <Aile>!\""
+            },
+            {
+                "lineNumber": 230435,
+                "originalJapaneseLine": "　いいもん買ってきたぜー！」",
+                "translatedEnglishLine": "I've got something good!\""
+            },
+            {
+                "lineNumber": 230436,
+                "originalJapaneseLine": "「へへへ、なんだと思う？」",
+                "translatedEnglishLine": "\"Hehehe, guess what?\""
+            },
+            {
+                "lineNumber": 230437,
+                "originalJapaneseLine": "「じゃじゃーん！　遭難セットー！」",
+                "translatedEnglishLine": "\"Ta-da! An emergency survival kit!\""
+            },
+            {
+                "lineNumber": 230438,
+                "originalJapaneseLine": "長田君が縁起でもない名のアイテムを取り出した。",
+                "translatedEnglishLine": "Nagata pulled out an item with an ominous name."
+            },
+            {
+                "lineNumber": 230439,
+                "originalJapaneseLine": "「あら？　なぁにそれ？」",
+                "translatedEnglishLine": "\"Oh? What’s that?\""
+            },
+            {
+                "lineNumber": 230440,
+                "originalJapaneseLine": "「なんか面白そうなもん買ったの？」",
+                "translatedEnglishLine": "\"Did you buy something interesting?\""
+            },
+            {
+                "lineNumber": 230441,
+                "originalJapaneseLine": "「……長田君って無駄遣い好きよね」",
+                "translatedEnglishLine": "\"...Nagata really likes wasting money, huh.\""
+            },
+            {
+                "lineNumber": 230442,
+                "originalJapaneseLine": "「いや、無駄遣いじゃないっすよ！」",
+                "translatedEnglishLine": "\"No, it’s not a waste of money!\""
+            },
+            {
+                "lineNumber": 230443,
+                "originalJapaneseLine": "「えーと、暖房用のぬくぬく袋でしょー、",
+                "translatedEnglishLine": "\"Well, there’s a warm heating bag,"
+            },
+            {
+                "lineNumber": 230444,
+                "originalJapaneseLine": "　それから緊急用の食料に、火起こし用の道具！」",
+                "translatedEnglishLine": "emergency food, and fire-starting tools!\""
+            },
+            {
+                "lineNumber": 230445,
+                "originalJapaneseLine": "「遭難してもこれで安心の",
+                "translatedEnglishLine": "\"With this, even if we get stranded,"
+            },
+            {
+                "lineNumber": 230446,
+                "originalJapaneseLine": "　三種の神器じゃないっすか！」",
+                "translatedEnglishLine": "it’s a three-item set to keep us safe!\""
+            },
+            {
+                "lineNumber": 230447,
+                "originalJapaneseLine": "「忘れちゃいけないチョコレートもあるけど、",
+                "translatedEnglishLine": "\"And don’t forget the chocolate,"
+            },
+            {
+                "lineNumber": 230448,
+                "originalJapaneseLine": "　なんでチョコレートなんだろうな？」",
+                "translatedEnglishLine": "but I wonder why chocolate?\""
+            },
+            {
+                "lineNumber": 230449,
+                "originalJapaneseLine": "「ま、いいや。",
+                "translatedEnglishLine": "\"Well, whatever."
+            },
+            {
+                "lineNumber": 230450,
+                "originalJapaneseLine": "　鞄に入れてやるよ、ほれ後ろ向いてー」",
+                "translatedEnglishLine": "I’ll put it in your bag, turn around.\""
+            },
+            {
+                "lineNumber": 230451,
+                "originalJapaneseLine": "長田君があなたの後ろに回り、",
+                "translatedEnglishLine": "Nagata went behind you,"
+            },
+            {
+                "lineNumber": 230452,
+                "originalJapaneseLine": "鞄の中によく分からないものを詰め込んだ。",
+                "translatedEnglishLine": "and stuffed unknown items into your bag."
+            },
+            {
+                "lineNumber": 230453,
+                "originalJapaneseLine": "「へへっ、これでいつ遭難しても",
+                "translatedEnglishLine": "\"Heh heh, now we’re safe no matter when we get stranded."
+            },
+            {
+                "lineNumber": 230454,
+                "originalJapaneseLine": "　安心って寸法よ！」",
+                "translatedEnglishLine": "That's the plan!\""
+            },
+            {
+                "lineNumber": 230455,
+                "originalJapaneseLine": "「なんたって涙も凍るって話の氷雪地帯だぜ？",
+                "translatedEnglishLine": "\"After all, it’s the icy snowy region where even tears freeze, right?"
+            },
+            {
+                "lineNumber": 230456,
+                "originalJapaneseLine": "　これくらいの備えは必要だろーからなー」",
+                "translatedEnglishLine": "So this kind of preparation is necessary.\""
+            },
+            {
+                "lineNumber": 230457,
+                "originalJapaneseLine": "「わー、いいなー」",
+                "translatedEnglishLine": "\"Wow, that’s nice!\""
+            },
+            {
+                "lineNumber": 230458,
+                "originalJapaneseLine": "「人数分買ったんでみんなにも配るっすよー」",
+                "translatedEnglishLine": "\"I bought enough for everyone, so I’ll distribute them to you all.\""
+            },
+            {
+                "lineNumber": 230459,
+                "originalJapaneseLine": "「わーい、ありがとー」",
+                "translatedEnglishLine": "\"Yay, thanks!\""
+            },
+            {
+                "lineNumber": 230460,
+                "originalJapaneseLine": "「おーい、ザンスー、お前にもやるよー」",
+                "translatedEnglishLine": "\"Hey, Zansu, I’m giving one to you too!\""
+            },
+            {
+                "lineNumber": 230461,
+                "originalJapaneseLine": "「アア？　いらねーよ、タコ」",
+                "translatedEnglishLine": "\"Huh? I don’t want it, you idiot.\""
+            },
+            {
+                "lineNumber": 230462,
+                "originalJapaneseLine": "「おめ、ばっか！",
+                "translatedEnglishLine": "\"You idiot!"
+            },
+            {
+                "lineNumber": 230463,
+                "originalJapaneseLine": "　ヘルマンで甘味は高ぇんだぞ！",
+                "translatedEnglishLine": "Sweet treats are expensive in Helman!"
+            },
+            {
+                "lineNumber": 230464,
+                "originalJapaneseLine": "　ちゃんと受け取れよ！」",
+                "translatedEnglishLine": "Just take it properly!\""
+            },
+            {
+                "lineNumber": 230465,
+                "originalJapaneseLine": "「だーっ、変なもん押しつけんな！」",
+                "translatedEnglishLine": "\"Ugh, don’t shove weird stuff on me!\""
+            },
+            {
+                "lineNumber": 230466,
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "............"
+            },
+            {
+                "lineNumber": 230467,
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "......"
+            },
+            {
+                "lineNumber": 230468,
+                "originalJapaneseLine": "考えてみれば……",
+                "translatedEnglishLine": "If I think about it..."
+            },
+            {
+                "lineNumber": 230469,
+                "originalJapaneseLine": "旅が始まって、",
+                "translatedEnglishLine": "Since the journey began,"
+            },
+            {
+                "lineNumber": 230470,
+                "originalJapaneseLine": "これほどの時間、たった一人で過ごすのは",
+                "translatedEnglishLine": "spending this much time completely alone"
+            },
+            {
+                "lineNumber": 230471,
+                "originalJapaneseLine": "本当に初めてのことだった。",
+                "translatedEnglishLine": "was truly the first time."
+            },
+            {
+                "lineNumber": 230472,
+                "originalJapaneseLine": "いつもあなたの隣には長田君がいた。",
+                "translatedEnglishLine": "Nagata was always by your side."
+            },
+            {
+                "lineNumber": 230473,
+                "originalJapaneseLine": "長田君がいないときは他の誰かがいた。",
+                "translatedEnglishLine": "If Nagata wasn’t there, someone else was."
+            },
+            {
+                "lineNumber": 230474,
+                "originalJapaneseLine": "しかし、今――",
+                "translatedEnglishLine": "But now――"
+            },
+            {
+                "lineNumber": 230475,
+                "originalJapaneseLine": "あなたの声を聞く者は誰もおらず、",
+                "translatedEnglishLine": "no one was there to hear your voice,"
+            },
+            {
+                "lineNumber": 230476,
+                "originalJapaneseLine": "あなたを見ている者は誰もおらず、",
+                "translatedEnglishLine": "no one was watching you,"
+            },
+            {
+                "lineNumber": 230477,
+                "originalJapaneseLine": "あなたと協力する者は誰もいなかった。",
+                "translatedEnglishLine": "no one was cooperating with you."
+            },
+            {
+                "lineNumber": 230478,
+                "originalJapaneseLine": "あなたは冒険に出てから、",
+                "translatedEnglishLine": "Since you set out on the adventure,"
+            },
+            {
+                "lineNumber": 230479,
+                "originalJapaneseLine": "初めて孤独だった。",
+                "translatedEnglishLine": "you were lonely for the first time."
+            },
+            {
+                "lineNumber": 230480,
+                "originalJapaneseLine": "とても寒かった。",
+                "translatedEnglishLine": "It was very cold."
+            },
+            {
+                "lineNumber": 230481,
+                "originalJapaneseLine": "「…………。」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": 230482,
+                "originalJapaneseLine": "　",
+                "translatedEnglishLine": " "
+            },
+            {
+                "lineNumber": 230483,
+                "originalJapaneseLine": "　　＜……………………＞",
+                "translatedEnglishLine": "   <..................>"
+            },
+            {
+                "lineNumber": 230484,
+                "originalJapaneseLine": "あなたは顔を上げた。",
+                "translatedEnglishLine": "You lifted your face."
+            },
+            {
+                "lineNumber": 230485,
+                "originalJapaneseLine": "声が聞こえた気がしたからだ。",
+                "translatedEnglishLine": "Because you felt like you heard a voice."
+            },
+            {
+                "lineNumber": 230486,
+                "originalJapaneseLine": "本当にかすかではあるが、",
+                "translatedEnglishLine": "It was really faint,"
+            },
+            {
+                "lineNumber": 230487,
+                "originalJapaneseLine": "今までの静寂の中にはなかった何かがあった。",
+                "translatedEnglishLine": "there was something that hadn’t been in the silence until now."
+            },
+            {
+                "lineNumber": 230488,
+                "originalJapaneseLine": "「…………。」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": 230489,
+                "originalJapaneseLine": "自分の声を、音を押し殺して、",
+                "translatedEnglishLine": "Suppressing your own voice and noise,"
+            },
+            {
+                "lineNumber": 230490,
+                "originalJapaneseLine": "あなたはそっと耳に全神経を集中させる。",
+                "translatedEnglishLine": "you quietly focused all your senses on your ears."
+            },
+            {
+                "lineNumber": 230491,
+                "originalJapaneseLine": "「……ぉーーーぃ」",
+                "translatedEnglishLine": "\"...Heeeey\""
+            }
+        ]
+    }
+}

@@ -1,1 +1,719 @@
-{"id":"resp_0b4cd9a4f08c7ba90068f1c2cb218c8197a18534f8e3cb09f4","object":"response","created_at":1760674507,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0b4cd9a4f08c7ba90068f1c2cc34788197886c64443c89d82f","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 202602,\n      \"originalJapaneseLine\": \"「行くぞ！！！！」\",\n      \"translatedEnglishLine\": \"\\\"Let's go!!!!\\\"\"\n    },\n    {\n      \"lineNumber\": 202603,\n      \"originalJapaneseLine\": \"「なんだかよく分かんないけど！\",\n      \"translatedEnglishLine\": \"\\\"I don't really understand, but!\"\n    },\n    {\n      \"lineNumber\": 202604,\n      \"originalJapaneseLine\": \"　やっつけてやる！」\",\n      \"translatedEnglishLine\": \"I'm gonna beat you up!\\\"\"\n    },\n    {\n      \"lineNumber\": 202605,\n      \"originalJapaneseLine\": \"「ちっ！\",\n      \"translatedEnglishLine\": \"\\\"Tch!\\\"\"\n    },\n    {\n      \"lineNumber\": 202606,\n      \"originalJapaneseLine\": \"　＜エール＞、俺の後ろに来い！」\",\n      \"translatedEnglishLine\": \"\\\"<Yell>, get behind me!\\\"\"\n    },\n    {\n      \"lineNumber\": 202607,\n      \"originalJapaneseLine\": \"「戦闘だ！」\",\n      \"translatedEnglishLine\": \"\\\"It's battle time!\\\"\"\n    },\n    {\n      \"lineNumber\": 202608,\n      \"originalJapaneseLine\": \"天空の王――\",\n      \"translatedEnglishLine\": \"The King of the Sky——\"\n    },\n    {\n      \"lineNumber\": 202609,\n      \"originalJapaneseLine\": \"魔人かわぞえが襲いかかってきた！\",\n      \"translatedEnglishLine\": \"The demon Kawazoe attacked!\"\n    },\n    {\n      \"lineNumber\": 202610,\n      \"originalJapaneseLine\": \"「きゃー！？\",\n      \"translatedEnglishLine\": \"\\\"Kyaa!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202611,\n      \"originalJapaneseLine\": \"　奈落の王、ますぞえ様が倒されたー！？\",\n      \"translatedEnglishLine\": \"The King of the Abyss, Masuzoe-sama, has been defeated!?\"\n    },\n    {\n      \"lineNumber\": 202612,\n      \"originalJapaneseLine\": \"「うわーん！？　嘘よー！」\",\n      \"translatedEnglishLine\": \"\\\"Waaah!? That's a lie!\\\"\"\n    },\n    {\n      \"lineNumber\": 202613,\n      \"originalJapaneseLine\": \"「うう、しくしく……\",\n      \"translatedEnglishLine\": \"\\\"Uu, sob sob...\\\"\"\n    },\n    {\n      \"lineNumber\": 202614,\n      \"originalJapaneseLine\": \"　ますぞえ様が復活されるときを待ちましょう……\",\n      \"translatedEnglishLine\": \"Let's wait for the time when Masuzoe-sama will be revived...\"\n    },\n    {\n      \"lineNumber\": 202615,\n      \"originalJapaneseLine\": \"　行くわよ、みんな……しくしく……」\",\n      \"translatedEnglishLine\": \"Let's go, everyone... sniff sniff...\\\"\"\n    },\n    {\n      \"lineNumber\": 202616,\n      \"originalJapaneseLine\": \"取り巻きのハニ子達はさめざめと泣きながら、\",\n      \"translatedEnglishLine\": \"The surrounding Honey-chan and others cried bitterly,\"\n    },\n    {\n      \"lineNumber\": 202617,\n      \"originalJapaneseLine\": \"とぼとぼと去って行った。\",\n      \"translatedEnglishLine\": \"and trudged away.\"\n    },\n    {\n      \"lineNumber\": 202618,\n      \"originalJapaneseLine\": \"ますぞえが倒れた後に残されたのは、\",\n      \"translatedEnglishLine\": \"After Masuzoe collapsed, what remained was\"\n    },\n    {\n      \"lineNumber\": 202619,\n      \"originalJapaneseLine\": \"一つの宝箱だった。\",\n      \"translatedEnglishLine\": \"a single treasure chest.\"\n    },\n    {\n      \"lineNumber\": 202620,\n      \"originalJapaneseLine\": \"「きゃー！？\",\n      \"translatedEnglishLine\": \"\\\"Kyaa!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202621,\n      \"originalJapaneseLine\": \"　天空の王、かわぞえ様が倒されたー！？\",\n      \"translatedEnglishLine\": \"The King of the Sky, Kawazoe-sama, has been defeated!?\"\n    },\n    {\n      \"lineNumber\": 202622,\n      \"originalJapaneseLine\": \"「うわーん！？　嘘よー！」\",\n      \"translatedEnglishLine\": \"\\\"Waaah!? That's a lie!\\\"\"\n    },\n    {\n      \"lineNumber\": 202623,\n      \"originalJapaneseLine\": \"「うう、しくしく……\",\n      \"translatedEnglishLine\": \"\\\"Uu, sob sob...\\\"\"\n    },\n    {\n      \"lineNumber\": 202624,\n      \"originalJapaneseLine\": \"　かわぞえ様が復活されるときを待ちましょう……\",\n      \"translatedEnglishLine\": \"Let's wait for the time when Kawazoe-sama will be revived...\"\n    },\n    {\n      \"lineNumber\": 202625,\n      \"originalJapaneseLine\": \"　行くわよ、みんな……しくしく……」\",\n      \"translatedEnglishLine\": \"Let's go, everyone... sniff sniff...\\\"\"\n    },\n    {\n      \"lineNumber\": 202626,\n      \"originalJapaneseLine\": \"取り巻きのハニ子達はさめざめと泣きながら、\",\n      \"translatedEnglishLine\": \"The surrounding Honey-chan and others cried bitterly,\"\n    },\n    {\n      \"lineNumber\": 202627,\n      \"originalJapaneseLine\": \"とぼとぼと去って行った。\",\n      \"translatedEnglishLine\": \"and trudged away.\"\n    },\n    {\n      \"lineNumber\": 202628,\n      \"originalJapaneseLine\": \"かわぞえが倒れた後に残されたのは、\",\n      \"translatedEnglishLine\": \"After Kawazoe fell, what remained was\"\n    },\n    {\n      \"lineNumber\": 202629,\n      \"originalJapaneseLine\": \"一つの宝箱だった。\",\n      \"translatedEnglishLine\": \"a single treasure chest.\"\n    },\n    {\n      \"lineNumber\": 202630,\n      \"originalJapaneseLine\": \"あなたはその宝箱に近づく。\",\n      \"translatedEnglishLine\": \"You approach that treasure chest.\"\n    },\n    {\n      \"lineNumber\": 202631,\n      \"originalJapaneseLine\": \"「…………。」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202632,\n      \"originalJapaneseLine\": \"一瞬、中から光が溢れて、\",\n      \"translatedEnglishLine\": \"For a moment, light overflowed from inside,\"\n    },\n    {\n      \"lineNumber\": 202633,\n      \"originalJapaneseLine\": \"アームズに聞いていた通りの道具が飛び出して来た。\",\n      \"translatedEnglishLine\": \"and the tool Arms had told you about came flying out.\"\n    },\n    {\n      \"lineNumber\": 202634,\n      \"originalJapaneseLine\": \"あなたはレアアイテムをゲットした。\",\n      \"translatedEnglishLine\": \"You obtained a rare item.\"\n    },\n    {\n      \"lineNumber\": 202635,\n      \"originalJapaneseLine\": \"「…………。」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202636,\n      \"originalJapaneseLine\": \"ぽつーん。\",\n      \"translatedEnglishLine\": \"(silence)\"\n    },\n    {\n      \"lineNumber\": 202637,\n      \"originalJapaneseLine\": \"それはそれとしてあなたは一人だった。\",\n      \"translatedEnglishLine\": \"That said, you were alone.\"\n    },\n    {\n      \"lineNumber\": 202638,\n      \"originalJapaneseLine\": \"「…………。」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202639,\n      \"originalJapaneseLine\": \"もうここに用もない。\",\n      \"translatedEnglishLine\": \"You have no more business here.\"\n    },\n    {\n      \"lineNumber\": 202640,\n      \"originalJapaneseLine\": \"あなたはランス城に帰ることにした。\",\n      \"translatedEnglishLine\": \"You decided to return to Rance Castle.\"\n    },\n    {\n      \"lineNumber\": 202641,\n      \"originalJapaneseLine\": \"「へ……」\",\n      \"translatedEnglishLine\": \"\\\"Heh...\\\"\"\n    },\n    {\n      \"lineNumber\": 202642,\n      \"originalJapaneseLine\": \"「へへへへ……！」\",\n      \"translatedEnglishLine\": \"\\\"Hehehehe...!\\\"\"\n    },\n    {\n      \"lineNumber\": 202643,\n      \"originalJapaneseLine\": \"「やっぱ俺らって最強じゃね！？\",\n      \"translatedEnglishLine\": \"\\\"We're really the strongest, right?!\"\n    },\n    {\n      \"lineNumber\": 202644,\n      \"originalJapaneseLine\": \"　こんなすごい冒険も大成功よ！」\",\n      \"translatedEnglishLine\": \"This amazing adventure was a huge success!\\\"\"\n    },\n    {\n      \"lineNumber\": 202645,\n      \"originalJapaneseLine\": \"「いや、やっぱさ、なんてーの、なんてーの？\",\n      \"translatedEnglishLine\": \"\\\"No, seriously, how should I say it, how should I say it?\"\n    },\n    {\n      \"lineNumber\": 202646,\n      \"originalJapaneseLine\": \"　俺ら二人控えめに言って無敵のコンビっつーか？」\",\n      \"translatedEnglishLine\": \"The two of us, to put it mildly, are an unbeatable duo, right?\\\"\"\n    },\n    {\n      \"lineNumber\": 202647,\n      \"originalJapaneseLine\": \"「こりゃもう、ソウルフレンドなんてもんじゃ、\",\n      \"translatedEnglishLine\": \"\\\"This is more than just soul friends,\"\n    },\n    {\n      \"lineNumber\": 202648,\n      \"originalJapaneseLine\": \"　マジ俺ら二人の関係くくれねーって……\",\n      \"translatedEnglishLine\": \"I seriously can't even put our relationship into a category...\"\n    },\n    {\n      \"lineNumber\": 202649,\n      \"originalJapaneseLine\": \"　なんて言うんだろーな、何がいいだろーな」\",\n      \"translatedEnglishLine\": \"I wonder what you'd call it, what would be good?\\\"\"\n    },\n    {\n      \"lineNumber\": 202650,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202651,\n      \"originalJapaneseLine\": \"「……親友」\",\n      \"translatedEnglishLine\": \"\\\"...Best friends.\\\"\"\n    },\n    {\n      \"lineNumber\": 202652,\n      \"originalJapaneseLine\": \"「逆にシンプルに親友とか！？\",\n      \"translatedEnglishLine\": \"\\\"Or simply best friends!?\"\n    },\n    {\n      \"lineNumber\": 202653,\n      \"originalJapaneseLine\": \"　どーよ、一周回ってこれよくね！？」\",\n      \"translatedEnglishLine\": \"How about that? After all, this is pretty good!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202654,\n      \"originalJapaneseLine\": \"「…………。」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202655,\n      \"originalJapaneseLine\": \"「なー！　だろー！？\",\n      \"translatedEnglishLine\": \"\\\"Right! Isn't it!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202656,\n      \"originalJapaneseLine\": \"　＜エール＞もそう思うだろー！？」\",\n      \"translatedEnglishLine\": \"\\\"<Yell>, you think so too, right!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202657,\n      \"originalJapaneseLine\": \"調子のいい長田君が\",\n      \"translatedEnglishLine\": \"The upbeat Nagata-kun\"\n    },\n    {\n      \"lineNumber\": 202658,\n      \"originalJapaneseLine\": \"あれやこれや喋っているのを、\",\n      \"translatedEnglishLine\": \"was chatting away about this and that,\"\n    },\n    {\n      \"lineNumber\": 202659,\n      \"originalJapaneseLine\": \"あなたはこくこくと頷きながら聞き続けた。\",\n      \"translatedEnglishLine\": \"and you kept listening, nodding your head.\"\n    },\n    {\n      \"lineNumber\": 202660,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202661,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    }\n  ]\n}","parsed":{"translationLines":[{"lineNumber":202602,"originalJapaneseLine":"「行くぞ！！！！」","translatedEnglishLine":"\"Let's go!!!!\""},{"lineNumber":202603,"originalJapaneseLine":"「なんだかよく分かんないけど！","translatedEnglishLine":"\"I don't really understand, but!"},{"lineNumber":202604,"originalJapaneseLine":"　やっつけてやる！」","translatedEnglishLine":"I'm gonna beat you up!\""},{"lineNumber":202605,"originalJapaneseLine":"「ちっ！","translatedEnglishLine":"\"Tch!\""},{"lineNumber":202606,"originalJapaneseLine":"　＜エール＞、俺の後ろに来い！」","translatedEnglishLine":"\"<Yell>, get behind me!\""},{"lineNumber":202607,"originalJapaneseLine":"「戦闘だ！」","translatedEnglishLine":"\"It's battle time!\""},{"lineNumber":202608,"originalJapaneseLine":"天空の王――","translatedEnglishLine":"The King of the Sky——"},{"lineNumber":202609,"originalJapaneseLine":"魔人かわぞえが襲いかかってきた！","translatedEnglishLine":"The demon Kawazoe attacked!"},{"lineNumber":202610,"originalJapaneseLine":"「きゃー！？","translatedEnglishLine":"\"Kyaa!?\""},{"lineNumber":202611,"originalJapaneseLine":"　奈落の王、ますぞえ様が倒されたー！？","translatedEnglishLine":"The King of the Abyss, Masuzoe-sama, has been defeated!?"},{"lineNumber":202612,"originalJapaneseLine":"「うわーん！？　嘘よー！」","translatedEnglishLine":"\"Waaah!? That's a lie!\""},{"lineNumber":202613,"originalJapaneseLine":"「うう、しくしく……","translatedEnglishLine":"\"Uu, sob sob...\""},{"lineNumber":202614,"originalJapaneseLine":"　ますぞえ様が復活されるときを待ちましょう……","translatedEnglishLine":"Let's wait for the time when Masuzoe-sama will be revived..."},{"lineNumber":202615,"originalJapaneseLine":"　行くわよ、みんな……しくしく……」","translatedEnglishLine":"Let's go, everyone... sniff sniff...\""},{"lineNumber":202616,"originalJapaneseLine":"取り巻きのハニ子達はさめざめと泣きながら、","translatedEnglishLine":"The surrounding Honey-chan and others cried bitterly,"},{"lineNumber":202617,"originalJapaneseLine":"とぼとぼと去って行った。","translatedEnglishLine":"and trudged away."},{"lineNumber":202618,"originalJapaneseLine":"ますぞえが倒れた後に残されたのは、","translatedEnglishLine":"After Masuzoe collapsed, what remained was"},{"lineNumber":202619,"originalJapaneseLine":"一つの宝箱だった。","translatedEnglishLine":"a single treasure chest."},{"lineNumber":202620,"originalJapaneseLine":"「きゃー！？","translatedEnglishLine":"\"Kyaa!?\""},{"lineNumber":202621,"originalJapaneseLine":"　天空の王、かわぞえ様が倒されたー！？","translatedEnglishLine":"The King of the Sky, Kawazoe-sama, has been defeated!?"},{"lineNumber":202622,"originalJapaneseLine":"「うわーん！？　嘘よー！」","translatedEnglishLine":"\"Waaah!? That's a lie!\""},{"lineNumber":202623,"originalJapaneseLine":"「うう、しくしく……","translatedEnglishLine":"\"Uu, sob sob...\""},{"lineNumber":202624,"originalJapaneseLine":"　かわぞえ様が復活されるときを待ちましょう……","translatedEnglishLine":"Let's wait for the time when Kawazoe-sama will be revived..."},{"lineNumber":202625,"originalJapaneseLine":"　行くわよ、みんな……しくしく……」","translatedEnglishLine":"Let's go, everyone... sniff sniff...\""},{"lineNumber":202626,"originalJapaneseLine":"取り巻きのハニ子達はさめざめと泣きながら、","translatedEnglishLine":"The surrounding Honey-chan and others cried bitterly,"},{"lineNumber":202627,"originalJapaneseLine":"とぼとぼと去って行った。","translatedEnglishLine":"and trudged away."},{"lineNumber":202628,"originalJapaneseLine":"かわぞえが倒れた後に残されたのは、","translatedEnglishLine":"After Kawazoe fell, what remained was"},{"lineNumber":202629,"originalJapaneseLine":"一つの宝箱だった。","translatedEnglishLine":"a single treasure chest."},{"lineNumber":202630,"originalJapaneseLine":"あなたはその宝箱に近づく。","translatedEnglishLine":"You approach that treasure chest."},{"lineNumber":202631,"originalJapaneseLine":"「…………。」","translatedEnglishLine":"\"........\""},{"lineNumber":202632,"originalJapaneseLine":"一瞬、中から光が溢れて、","translatedEnglishLine":"For a moment, light overflowed from inside,"},{"lineNumber":202633,"originalJapaneseLine":"アームズに聞いていた通りの道具が飛び出して来た。","translatedEnglishLine":"and the tool Arms had told you about came flying out."},{"lineNumber":202634,"originalJapaneseLine":"あなたはレアアイテムをゲットした。","translatedEnglishLine":"You obtained a rare item."},{"lineNumber":202635,"originalJapaneseLine":"「…………。」","translatedEnglishLine":"\"........\""},{"lineNumber":202636,"originalJapaneseLine":"ぽつーん。","translatedEnglishLine":"(silence)"},{"lineNumber":202637,"originalJapaneseLine":"それはそれとしてあなたは一人だった。","translatedEnglishLine":"That said, you were alone."},{"lineNumber":202638,"originalJapaneseLine":"「…………。」","translatedEnglishLine":"\"........\""},{"lineNumber":202639,"originalJapaneseLine":"もうここに用もない。","translatedEnglishLine":"You have no more business here."},{"lineNumber":202640,"originalJapaneseLine":"あなたはランス城に帰ることにした。","translatedEnglishLine":"You decided to return to Rance Castle."},{"lineNumber":202641,"originalJapaneseLine":"「へ……」","translatedEnglishLine":"\"Heh...\""},{"lineNumber":202642,"originalJapaneseLine":"「へへへへ……！」","translatedEnglishLine":"\"Hehehehe...!\""},{"lineNumber":202643,"originalJapaneseLine":"「やっぱ俺らって最強じゃね！？","translatedEnglishLine":"\"We're really the strongest, right?!"},{"lineNumber":202644,"originalJapaneseLine":"　こんなすごい冒険も大成功よ！」","translatedEnglishLine":"This amazing adventure was a huge success!\""},{"lineNumber":202645,"originalJapaneseLine":"「いや、やっぱさ、なんてーの、なんてーの？","translatedEnglishLine":"\"No, seriously, how should I say it, how should I say it?"},{"lineNumber":202646,"originalJapaneseLine":"　俺ら二人控えめに言って無敵のコンビっつーか？」","translatedEnglishLine":"The two of us, to put it mildly, are an unbeatable duo, right?\""},{"lineNumber":202647,"originalJapaneseLine":"「こりゃもう、ソウルフレンドなんてもんじゃ、","translatedEnglishLine":"\"This is more than just soul friends,"},{"lineNumber":202648,"originalJapaneseLine":"　マジ俺ら二人の関係くくれねーって……","translatedEnglishLine":"I seriously can't even put our relationship into a category..."},{"lineNumber":202649,"originalJapaneseLine":"　なんて言うんだろーな、何がいいだろーな」","translatedEnglishLine":"I wonder what you'd call it, what would be good?\""},{"lineNumber":202650,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"........\""},{"lineNumber":202651,"originalJapaneseLine":"「……親友」","translatedEnglishLine":"\"...Best friends.\""},{"lineNumber":202652,"originalJapaneseLine":"「逆にシンプルに親友とか！？","translatedEnglishLine":"\"Or simply best friends!?"},{"lineNumber":202653,"originalJapaneseLine":"　どーよ、一周回ってこれよくね！？」","translatedEnglishLine":"How about that? After all, this is pretty good!?\""},{"lineNumber":202654,"originalJapaneseLine":"「…………。」","translatedEnglishLine":"\"........\""},{"lineNumber":202655,"originalJapaneseLine":"「なー！　だろー！？","translatedEnglishLine":"\"Right! Isn't it!?\""},{"lineNumber":202656,"originalJapaneseLine":"　＜エール＞もそう思うだろー！？」","translatedEnglishLine":"\"<Yell>, you think so too, right!?\""},{"lineNumber":202657,"originalJapaneseLine":"調子のいい長田君が","translatedEnglishLine":"The upbeat Nagata-kun"},{"lineNumber":202658,"originalJapaneseLine":"あれやこれや喋っているのを、","translatedEnglishLine":"was chatting away about this and that,"},{"lineNumber":202659,"originalJapaneseLine":"あなたはこくこくと頷きながら聞き続けた。","translatedEnglishLine":"and you kept listening, nodding your head."},{"lineNumber":202660,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"........\""},{"lineNumber":202661,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"........\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1638,"input_tokens_details":{"cached_tokens":0},"output_tokens":2806,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":4444},"user":null,"metadata":{},"output_text":"{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 202602,\n      \"originalJapaneseLine\": \"「行くぞ！！！！」\",\n      \"translatedEnglishLine\": \"\\\"Let's go!!!!\\\"\"\n    },\n    {\n      \"lineNumber\": 202603,\n      \"originalJapaneseLine\": \"「なんだかよく分かんないけど！\",\n      \"translatedEnglishLine\": \"\\\"I don't really understand, but!\"\n    },\n    {\n      \"lineNumber\": 202604,\n      \"originalJapaneseLine\": \"　やっつけてやる！」\",\n      \"translatedEnglishLine\": \"I'm gonna beat you up!\\\"\"\n    },\n    {\n      \"lineNumber\": 202605,\n      \"originalJapaneseLine\": \"「ちっ！\",\n      \"translatedEnglishLine\": \"\\\"Tch!\\\"\"\n    },\n    {\n      \"lineNumber\": 202606,\n      \"originalJapaneseLine\": \"　＜エール＞、俺の後ろに来い！」\",\n      \"translatedEnglishLine\": \"\\\"<Yell>, get behind me!\\\"\"\n    },\n    {\n      \"lineNumber\": 202607,\n      \"originalJapaneseLine\": \"「戦闘だ！」\",\n      \"translatedEnglishLine\": \"\\\"It's battle time!\\\"\"\n    },\n    {\n      \"lineNumber\": 202608,\n      \"originalJapaneseLine\": \"天空の王――\",\n      \"translatedEnglishLine\": \"The King of the Sky——\"\n    },\n    {\n      \"lineNumber\": 202609,\n      \"originalJapaneseLine\": \"魔人かわぞえが襲いかかってきた！\",\n      \"translatedEnglishLine\": \"The demon Kawazoe attacked!\"\n    },\n    {\n      \"lineNumber\": 202610,\n      \"originalJapaneseLine\": \"「きゃー！？\",\n      \"translatedEnglishLine\": \"\\\"Kyaa!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202611,\n      \"originalJapaneseLine\": \"　奈落の王、ますぞえ様が倒されたー！？\",\n      \"translatedEnglishLine\": \"The King of the Abyss, Masuzoe-sama, has been defeated!?\"\n    },\n    {\n      \"lineNumber\": 202612,\n      \"originalJapaneseLine\": \"「うわーん！？　嘘よー！」\",\n      \"translatedEnglishLine\": \"\\\"Waaah!? That's a lie!\\\"\"\n    },\n    {\n      \"lineNumber\": 202613,\n      \"originalJapaneseLine\": \"「うう、しくしく……\",\n      \"translatedEnglishLine\": \"\\\"Uu, sob sob...\\\"\"\n    },\n    {\n      \"lineNumber\": 202614,\n      \"originalJapaneseLine\": \"　ますぞえ様が復活されるときを待ちましょう……\",\n      \"translatedEnglishLine\": \"Let's wait for the time when Masuzoe-sama will be revived...\"\n    },\n    {\n      \"lineNumber\": 202615,\n      \"originalJapaneseLine\": \"　行くわよ、みんな……しくしく……」\",\n      \"translatedEnglishLine\": \"Let's go, everyone... sniff sniff...\\\"\"\n    },\n    {\n      \"lineNumber\": 202616,\n      \"originalJapaneseLine\": \"取り巻きのハニ子達はさめざめと泣きながら、\",\n      \"translatedEnglishLine\": \"The surrounding Honey-chan and others cried bitterly,\"\n    },\n    {\n      \"lineNumber\": 202617,\n      \"originalJapaneseLine\": \"とぼとぼと去って行った。\",\n      \"translatedEnglishLine\": \"and trudged away.\"\n    },\n    {\n      \"lineNumber\": 202618,\n      \"originalJapaneseLine\": \"ますぞえが倒れた後に残されたのは、\",\n      \"translatedEnglishLine\": \"After Masuzoe collapsed, what remained was\"\n    },\n    {\n      \"lineNumber\": 202619,\n      \"originalJapaneseLine\": \"一つの宝箱だった。\",\n      \"translatedEnglishLine\": \"a single treasure chest.\"\n    },\n    {\n      \"lineNumber\": 202620,\n      \"originalJapaneseLine\": \"「きゃー！？\",\n      \"translatedEnglishLine\": \"\\\"Kyaa!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202621,\n      \"originalJapaneseLine\": \"　天空の王、かわぞえ様が倒されたー！？\",\n      \"translatedEnglishLine\": \"The King of the Sky, Kawazoe-sama, has been defeated!?\"\n    },\n    {\n      \"lineNumber\": 202622,\n      \"originalJapaneseLine\": \"「うわーん！？　嘘よー！」\",\n      \"translatedEnglishLine\": \"\\\"Waaah!? That's a lie!\\\"\"\n    },\n    {\n      \"lineNumber\": 202623,\n      \"originalJapaneseLine\": \"「うう、しくしく……\",\n      \"translatedEnglishLine\": \"\\\"Uu, sob sob...\\\"\"\n    },\n    {\n      \"lineNumber\": 202624,\n      \"originalJapaneseLine\": \"　かわぞえ様が復活されるときを待ちましょう……\",\n      \"translatedEnglishLine\": \"Let's wait for the time when Kawazoe-sama will be revived...\"\n    },\n    {\n      \"lineNumber\": 202625,\n      \"originalJapaneseLine\": \"　行くわよ、みんな……しくしく……」\",\n      \"translatedEnglishLine\": \"Let's go, everyone... sniff sniff...\\\"\"\n    },\n    {\n      \"lineNumber\": 202626,\n      \"originalJapaneseLine\": \"取り巻きのハニ子達はさめざめと泣きながら、\",\n      \"translatedEnglishLine\": \"The surrounding Honey-chan and others cried bitterly,\"\n    },\n    {\n      \"lineNumber\": 202627,\n      \"originalJapaneseLine\": \"とぼとぼと去って行った。\",\n      \"translatedEnglishLine\": \"and trudged away.\"\n    },\n    {\n      \"lineNumber\": 202628,\n      \"originalJapaneseLine\": \"かわぞえが倒れた後に残されたのは、\",\n      \"translatedEnglishLine\": \"After Kawazoe fell, what remained was\"\n    },\n    {\n      \"lineNumber\": 202629,\n      \"originalJapaneseLine\": \"一つの宝箱だった。\",\n      \"translatedEnglishLine\": \"a single treasure chest.\"\n    },\n    {\n      \"lineNumber\": 202630,\n      \"originalJapaneseLine\": \"あなたはその宝箱に近づく。\",\n      \"translatedEnglishLine\": \"You approach that treasure chest.\"\n    },\n    {\n      \"lineNumber\": 202631,\n      \"originalJapaneseLine\": \"「…………。」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202632,\n      \"originalJapaneseLine\": \"一瞬、中から光が溢れて、\",\n      \"translatedEnglishLine\": \"For a moment, light overflowed from inside,\"\n    },\n    {\n      \"lineNumber\": 202633,\n      \"originalJapaneseLine\": \"アームズに聞いていた通りの道具が飛び出して来た。\",\n      \"translatedEnglishLine\": \"and the tool Arms had told you about came flying out.\"\n    },\n    {\n      \"lineNumber\": 202634,\n      \"originalJapaneseLine\": \"あなたはレアアイテムをゲットした。\",\n      \"translatedEnglishLine\": \"You obtained a rare item.\"\n    },\n    {\n      \"lineNumber\": 202635,\n      \"originalJapaneseLine\": \"「…………。」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202636,\n      \"originalJapaneseLine\": \"ぽつーん。\",\n      \"translatedEnglishLine\": \"(silence)\"\n    },\n    {\n      \"lineNumber\": 202637,\n      \"originalJapaneseLine\": \"それはそれとしてあなたは一人だった。\",\n      \"translatedEnglishLine\": \"That said, you were alone.\"\n    },\n    {\n      \"lineNumber\": 202638,\n      \"originalJapaneseLine\": \"「…………。」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202639,\n      \"originalJapaneseLine\": \"もうここに用もない。\",\n      \"translatedEnglishLine\": \"You have no more business here.\"\n    },\n    {\n      \"lineNumber\": 202640,\n      \"originalJapaneseLine\": \"あなたはランス城に帰ることにした。\",\n      \"translatedEnglishLine\": \"You decided to return to Rance Castle.\"\n    },\n    {\n      \"lineNumber\": 202641,\n      \"originalJapaneseLine\": \"「へ……」\",\n      \"translatedEnglishLine\": \"\\\"Heh...\\\"\"\n    },\n    {\n      \"lineNumber\": 202642,\n      \"originalJapaneseLine\": \"「へへへへ……！」\",\n      \"translatedEnglishLine\": \"\\\"Hehehehe...!\\\"\"\n    },\n    {\n      \"lineNumber\": 202643,\n      \"originalJapaneseLine\": \"「やっぱ俺らって最強じゃね！？\",\n      \"translatedEnglishLine\": \"\\\"We're really the strongest, right?!\"\n    },\n    {\n      \"lineNumber\": 202644,\n      \"originalJapaneseLine\": \"　こんなすごい冒険も大成功よ！」\",\n      \"translatedEnglishLine\": \"This amazing adventure was a huge success!\\\"\"\n    },\n    {\n      \"lineNumber\": 202645,\n      \"originalJapaneseLine\": \"「いや、やっぱさ、なんてーの、なんてーの？\",\n      \"translatedEnglishLine\": \"\\\"No, seriously, how should I say it, how should I say it?\"\n    },\n    {\n      \"lineNumber\": 202646,\n      \"originalJapaneseLine\": \"　俺ら二人控えめに言って無敵のコンビっつーか？」\",\n      \"translatedEnglishLine\": \"The two of us, to put it mildly, are an unbeatable duo, right?\\\"\"\n    },\n    {\n      \"lineNumber\": 202647,\n      \"originalJapaneseLine\": \"「こりゃもう、ソウルフレンドなんてもんじゃ、\",\n      \"translatedEnglishLine\": \"\\\"This is more than just soul friends,\"\n    },\n    {\n      \"lineNumber\": 202648,\n      \"originalJapaneseLine\": \"　マジ俺ら二人の関係くくれねーって……\",\n      \"translatedEnglishLine\": \"I seriously can't even put our relationship into a category...\"\n    },\n    {\n      \"lineNumber\": 202649,\n      \"originalJapaneseLine\": \"　なんて言うんだろーな、何がいいだろーな」\",\n      \"translatedEnglishLine\": \"I wonder what you'd call it, what would be good?\\\"\"\n    },\n    {\n      \"lineNumber\": 202650,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202651,\n      \"originalJapaneseLine\": \"「……親友」\",\n      \"translatedEnglishLine\": \"\\\"...Best friends.\\\"\"\n    },\n    {\n      \"lineNumber\": 202652,\n      \"originalJapaneseLine\": \"「逆にシンプルに親友とか！？\",\n      \"translatedEnglishLine\": \"\\\"Or simply best friends!?\"\n    },\n    {\n      \"lineNumber\": 202653,\n      \"originalJapaneseLine\": \"　どーよ、一周回ってこれよくね！？」\",\n      \"translatedEnglishLine\": \"How about that? After all, this is pretty good!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202654,\n      \"originalJapaneseLine\": \"「…………。」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202655,\n      \"originalJapaneseLine\": \"「なー！　だろー！？\",\n      \"translatedEnglishLine\": \"\\\"Right! Isn't it!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202656,\n      \"originalJapaneseLine\": \"　＜エール＞もそう思うだろー！？」\",\n      \"translatedEnglishLine\": \"\\\"<Yell>, you think so too, right!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202657,\n      \"originalJapaneseLine\": \"調子のいい長田君が\",\n      \"translatedEnglishLine\": \"The upbeat Nagata-kun\"\n    },\n    {\n      \"lineNumber\": 202658,\n      \"originalJapaneseLine\": \"あれやこれや喋っているのを、\",\n      \"translatedEnglishLine\": \"was chatting away about this and that,\"\n    },\n    {\n      \"lineNumber\": 202659,\n      \"originalJapaneseLine\": \"あなたはこくこくと頷きながら聞き続けた。\",\n      \"translatedEnglishLine\": \"and you kept listening, nodding your head.\"\n    },\n    {\n      \"lineNumber\": 202660,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202661,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    }\n  ]\n}","output_parsed":{"translationLines":[{"lineNumber":202602,"originalJapaneseLine":"「行くぞ！！！！」","translatedEnglishLine":"\"Let's go!!!!\""},{"lineNumber":202603,"originalJapaneseLine":"「なんだかよく分かんないけど！","translatedEnglishLine":"\"I don't really understand, but!"},{"lineNumber":202604,"originalJapaneseLine":"　やっつけてやる！」","translatedEnglishLine":"I'm gonna beat you up!\""},{"lineNumber":202605,"originalJapaneseLine":"「ちっ！","translatedEnglishLine":"\"Tch!\""},{"lineNumber":202606,"originalJapaneseLine":"　＜エール＞、俺の後ろに来い！」","translatedEnglishLine":"\"<Yell>, get behind me!\""},{"lineNumber":202607,"originalJapaneseLine":"「戦闘だ！」","translatedEnglishLine":"\"It's battle time!\""},{"lineNumber":202608,"originalJapaneseLine":"天空の王――","translatedEnglishLine":"The King of the Sky——"},{"lineNumber":202609,"originalJapaneseLine":"魔人かわぞえが襲いかかってきた！","translatedEnglishLine":"The demon Kawazoe attacked!"},{"lineNumber":202610,"originalJapaneseLine":"「きゃー！？","translatedEnglishLine":"\"Kyaa!?\""},{"lineNumber":202611,"originalJapaneseLine":"　奈落の王、ますぞえ様が倒されたー！？","translatedEnglishLine":"The King of the Abyss, Masuzoe-sama, has been defeated!?"},{"lineNumber":202612,"originalJapaneseLine":"「うわーん！？　嘘よー！」","translatedEnglishLine":"\"Waaah!? That's a lie!\""},{"lineNumber":202613,"originalJapaneseLine":"「うう、しくしく……","translatedEnglishLine":"\"Uu, sob sob...\""},{"lineNumber":202614,"originalJapaneseLine":"　ますぞえ様が復活されるときを待ちましょう……","translatedEnglishLine":"Let's wait for the time when Masuzoe-sama will be revived..."},{"lineNumber":202615,"originalJapaneseLine":"　行くわよ、みんな……しくしく……」","translatedEnglishLine":"Let's go, everyone... sniff sniff...\""},{"lineNumber":202616,"originalJapaneseLine":"取り巻きのハニ子達はさめざめと泣きながら、","translatedEnglishLine":"The surrounding Honey-chan and others cried bitterly,"},{"lineNumber":202617,"originalJapaneseLine":"とぼとぼと去って行った。","translatedEnglishLine":"and trudged away."},{"lineNumber":202618,"originalJapaneseLine":"ますぞえが倒れた後に残されたのは、","translatedEnglishLine":"After Masuzoe collapsed, what remained was"},{"lineNumber":202619,"originalJapaneseLine":"一つの宝箱だった。","translatedEnglishLine":"a single treasure chest."},{"lineNumber":202620,"originalJapaneseLine":"「きゃー！？","translatedEnglishLine":"\"Kyaa!?\""},{"lineNumber":202621,"originalJapaneseLine":"　天空の王、かわぞえ様が倒されたー！？","translatedEnglishLine":"The King of the Sky, Kawazoe-sama, has been defeated!?"},{"lineNumber":202622,"originalJapaneseLine":"「うわーん！？　嘘よー！」","translatedEnglishLine":"\"Waaah!? That's a lie!\""},{"lineNumber":202623,"originalJapaneseLine":"「うう、しくしく……","translatedEnglishLine":"\"Uu, sob sob...\""},{"lineNumber":202624,"originalJapaneseLine":"　かわぞえ様が復活されるときを待ちましょう……","translatedEnglishLine":"Let's wait for the time when Kawazoe-sama will be revived..."},{"lineNumber":202625,"originalJapaneseLine":"　行くわよ、みんな……しくしく……」","translatedEnglishLine":"Let's go, everyone... sniff sniff...\""},{"lineNumber":202626,"originalJapaneseLine":"取り巻きのハニ子達はさめざめと泣きながら、","translatedEnglishLine":"The surrounding Honey-chan and others cried bitterly,"},{"lineNumber":202627,"originalJapaneseLine":"とぼとぼと去って行った。","translatedEnglishLine":"and trudged away."},{"lineNumber":202628,"originalJapaneseLine":"かわぞえが倒れた後に残されたのは、","translatedEnglishLine":"After Kawazoe fell, what remained was"},{"lineNumber":202629,"originalJapaneseLine":"一つの宝箱だった。","translatedEnglishLine":"a single treasure chest."},{"lineNumber":202630,"originalJapaneseLine":"あなたはその宝箱に近づく。","translatedEnglishLine":"You approach that treasure chest."},{"lineNumber":202631,"originalJapaneseLine":"「…………。」","translatedEnglishLine":"\"........\""},{"lineNumber":202632,"originalJapaneseLine":"一瞬、中から光が溢れて、","translatedEnglishLine":"For a moment, light overflowed from inside,"},{"lineNumber":202633,"originalJapaneseLine":"アームズに聞いていた通りの道具が飛び出して来た。","translatedEnglishLine":"and the tool Arms had told you about came flying out."},{"lineNumber":202634,"originalJapaneseLine":"あなたはレアアイテムをゲットした。","translatedEnglishLine":"You obtained a rare item."},{"lineNumber":202635,"originalJapaneseLine":"「…………。」","translatedEnglishLine":"\"........\""},{"lineNumber":202636,"originalJapaneseLine":"ぽつーん。","translatedEnglishLine":"(silence)"},{"lineNumber":202637,"originalJapaneseLine":"それはそれとしてあなたは一人だった。","translatedEnglishLine":"That said, you were alone."},{"lineNumber":202638,"originalJapaneseLine":"「…………。」","translatedEnglishLine":"\"........\""},{"lineNumber":202639,"originalJapaneseLine":"もうここに用もない。","translatedEnglishLine":"You have no more business here."},{"lineNumber":202640,"originalJapaneseLine":"あなたはランス城に帰ることにした。","translatedEnglishLine":"You decided to return to Rance Castle."},{"lineNumber":202641,"originalJapaneseLine":"「へ……」","translatedEnglishLine":"\"Heh...\""},{"lineNumber":202642,"originalJapaneseLine":"「へへへへ……！」","translatedEnglishLine":"\"Hehehehe...!\""},{"lineNumber":202643,"originalJapaneseLine":"「やっぱ俺らって最強じゃね！？","translatedEnglishLine":"\"We're really the strongest, right?!"},{"lineNumber":202644,"originalJapaneseLine":"　こんなすごい冒険も大成功よ！」","translatedEnglishLine":"This amazing adventure was a huge success!\""},{"lineNumber":202645,"originalJapaneseLine":"「いや、やっぱさ、なんてーの、なんてーの？","translatedEnglishLine":"\"No, seriously, how should I say it, how should I say it?"},{"lineNumber":202646,"originalJapaneseLine":"　俺ら二人控えめに言って無敵のコンビっつーか？」","translatedEnglishLine":"The two of us, to put it mildly, are an unbeatable duo, right?\""},{"lineNumber":202647,"originalJapaneseLine":"「こりゃもう、ソウルフレンドなんてもんじゃ、","translatedEnglishLine":"\"This is more than just soul friends,"},{"lineNumber":202648,"originalJapaneseLine":"　マジ俺ら二人の関係くくれねーって……","translatedEnglishLine":"I seriously can't even put our relationship into a category..."},{"lineNumber":202649,"originalJapaneseLine":"　なんて言うんだろーな、何がいいだろーな」","translatedEnglishLine":"I wonder what you'd call it, what would be good?\""},{"lineNumber":202650,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"........\""},{"lineNumber":202651,"originalJapaneseLine":"「……親友」","translatedEnglishLine":"\"...Best friends.\""},{"lineNumber":202652,"originalJapaneseLine":"「逆にシンプルに親友とか！？","translatedEnglishLine":"\"Or simply best friends!?"},{"lineNumber":202653,"originalJapaneseLine":"　どーよ、一周回ってこれよくね！？」","translatedEnglishLine":"How about that? After all, this is pretty good!?\""},{"lineNumber":202654,"originalJapaneseLine":"「…………。」","translatedEnglishLine":"\"........\""},{"lineNumber":202655,"originalJapaneseLine":"「なー！　だろー！？","translatedEnglishLine":"\"Right! Isn't it!?\""},{"lineNumber":202656,"originalJapaneseLine":"　＜エール＞もそう思うだろー！？」","translatedEnglishLine":"\"<Yell>, you think so too, right!?\""},{"lineNumber":202657,"originalJapaneseLine":"調子のいい長田君が","translatedEnglishLine":"The upbeat Nagata-kun"},{"lineNumber":202658,"originalJapaneseLine":"あれやこれや喋っているのを、","translatedEnglishLine":"was chatting away about this and that,"},{"lineNumber":202659,"originalJapaneseLine":"あなたはこくこくと頷きながら聞き続けた。","translatedEnglishLine":"and you kept listening, nodding your head."},{"lineNumber":202660,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"........\""},{"lineNumber":202661,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"........\""}]}}
+{
+    "id": "resp_0b4cd9a4f08c7ba90068f1c2cb218c8197a18534f8e3cb09f4",
+    "object": "response",
+    "created_at": 1760674507,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0b4cd9a4f08c7ba90068f1c2cc34788197886c64443c89d82f",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 202602,\n      \"originalJapaneseLine\": \"「行くぞ！！！！」\",\n      \"translatedEnglishLine\": \"\\\"Let's go!!!!\\\"\"\n    },\n    {\n      \"lineNumber\": 202603,\n      \"originalJapaneseLine\": \"「なんだかよく分かんないけど！\",\n      \"translatedEnglishLine\": \"\\\"I don't really understand, but!\"\n    },\n    {\n      \"lineNumber\": 202604,\n      \"originalJapaneseLine\": \"　やっつけてやる！」\",\n      \"translatedEnglishLine\": \"I'm gonna beat you up!\\\"\"\n    },\n    {\n      \"lineNumber\": 202605,\n      \"originalJapaneseLine\": \"「ちっ！\",\n      \"translatedEnglishLine\": \"\\\"Tch!\\\"\"\n    },\n    {\n      \"lineNumber\": 202606,\n      \"originalJapaneseLine\": \"　＜エール＞、俺の後ろに来い！」\",\n      \"translatedEnglishLine\": \"\\\"<Yell>, get behind me!\\\"\"\n    },\n    {\n      \"lineNumber\": 202607,\n      \"originalJapaneseLine\": \"「戦闘だ！」\",\n      \"translatedEnglishLine\": \"\\\"It's battle time!\\\"\"\n    },\n    {\n      \"lineNumber\": 202608,\n      \"originalJapaneseLine\": \"天空の王――\",\n      \"translatedEnglishLine\": \"The King of the Sky——\"\n    },\n    {\n      \"lineNumber\": 202609,\n      \"originalJapaneseLine\": \"魔人かわぞえが襲いかかってきた！\",\n      \"translatedEnglishLine\": \"The demon Kawazoe attacked!\"\n    },\n    {\n      \"lineNumber\": 202610,\n      \"originalJapaneseLine\": \"「きゃー！？\",\n      \"translatedEnglishLine\": \"\\\"Kyaa!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202611,\n      \"originalJapaneseLine\": \"　奈落の王、ますぞえ様が倒されたー！？\",\n      \"translatedEnglishLine\": \"The King of the Abyss, Masuzoe-sama, has been defeated!?\"\n    },\n    {\n      \"lineNumber\": 202612,\n      \"originalJapaneseLine\": \"「うわーん！？　嘘よー！」\",\n      \"translatedEnglishLine\": \"\\\"Waaah!? That's a lie!\\\"\"\n    },\n    {\n      \"lineNumber\": 202613,\n      \"originalJapaneseLine\": \"「うう、しくしく……\",\n      \"translatedEnglishLine\": \"\\\"Uu, sob sob...\\\"\"\n    },\n    {\n      \"lineNumber\": 202614,\n      \"originalJapaneseLine\": \"　ますぞえ様が復活されるときを待ちましょう……\",\n      \"translatedEnglishLine\": \"Let's wait for the time when Masuzoe-sama will be revived...\"\n    },\n    {\n      \"lineNumber\": 202615,\n      \"originalJapaneseLine\": \"　行くわよ、みんな……しくしく……」\",\n      \"translatedEnglishLine\": \"Let's go, everyone... sniff sniff...\\\"\"\n    },\n    {\n      \"lineNumber\": 202616,\n      \"originalJapaneseLine\": \"取り巻きのハニ子達はさめざめと泣きながら、\",\n      \"translatedEnglishLine\": \"The surrounding Honey-chan and others cried bitterly,\"\n    },\n    {\n      \"lineNumber\": 202617,\n      \"originalJapaneseLine\": \"とぼとぼと去って行った。\",\n      \"translatedEnglishLine\": \"and trudged away.\"\n    },\n    {\n      \"lineNumber\": 202618,\n      \"originalJapaneseLine\": \"ますぞえが倒れた後に残されたのは、\",\n      \"translatedEnglishLine\": \"After Masuzoe collapsed, what remained was\"\n    },\n    {\n      \"lineNumber\": 202619,\n      \"originalJapaneseLine\": \"一つの宝箱だった。\",\n      \"translatedEnglishLine\": \"a single treasure chest.\"\n    },\n    {\n      \"lineNumber\": 202620,\n      \"originalJapaneseLine\": \"「きゃー！？\",\n      \"translatedEnglishLine\": \"\\\"Kyaa!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202621,\n      \"originalJapaneseLine\": \"　天空の王、かわぞえ様が倒されたー！？\",\n      \"translatedEnglishLine\": \"The King of the Sky, Kawazoe-sama, has been defeated!?\"\n    },\n    {\n      \"lineNumber\": 202622,\n      \"originalJapaneseLine\": \"「うわーん！？　嘘よー！」\",\n      \"translatedEnglishLine\": \"\\\"Waaah!? That's a lie!\\\"\"\n    },\n    {\n      \"lineNumber\": 202623,\n      \"originalJapaneseLine\": \"「うう、しくしく……\",\n      \"translatedEnglishLine\": \"\\\"Uu, sob sob...\\\"\"\n    },\n    {\n      \"lineNumber\": 202624,\n      \"originalJapaneseLine\": \"　かわぞえ様が復活されるときを待ちましょう……\",\n      \"translatedEnglishLine\": \"Let's wait for the time when Kawazoe-sama will be revived...\"\n    },\n    {\n      \"lineNumber\": 202625,\n      \"originalJapaneseLine\": \"　行くわよ、みんな……しくしく……」\",\n      \"translatedEnglishLine\": \"Let's go, everyone... sniff sniff...\\\"\"\n    },\n    {\n      \"lineNumber\": 202626,\n      \"originalJapaneseLine\": \"取り巻きのハニ子達はさめざめと泣きながら、\",\n      \"translatedEnglishLine\": \"The surrounding Honey-chan and others cried bitterly,\"\n    },\n    {\n      \"lineNumber\": 202627,\n      \"originalJapaneseLine\": \"とぼとぼと去って行った。\",\n      \"translatedEnglishLine\": \"and trudged away.\"\n    },\n    {\n      \"lineNumber\": 202628,\n      \"originalJapaneseLine\": \"かわぞえが倒れた後に残されたのは、\",\n      \"translatedEnglishLine\": \"After Kawazoe fell, what remained was\"\n    },\n    {\n      \"lineNumber\": 202629,\n      \"originalJapaneseLine\": \"一つの宝箱だった。\",\n      \"translatedEnglishLine\": \"a single treasure chest.\"\n    },\n    {\n      \"lineNumber\": 202630,\n      \"originalJapaneseLine\": \"あなたはその宝箱に近づく。\",\n      \"translatedEnglishLine\": \"You approach that treasure chest.\"\n    },\n    {\n      \"lineNumber\": 202631,\n      \"originalJapaneseLine\": \"「…………。」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202632,\n      \"originalJapaneseLine\": \"一瞬、中から光が溢れて、\",\n      \"translatedEnglishLine\": \"For a moment, light overflowed from inside,\"\n    },\n    {\n      \"lineNumber\": 202633,\n      \"originalJapaneseLine\": \"アームズに聞いていた通りの道具が飛び出して来た。\",\n      \"translatedEnglishLine\": \"and the tool Arms had told you about came flying out.\"\n    },\n    {\n      \"lineNumber\": 202634,\n      \"originalJapaneseLine\": \"あなたはレアアイテムをゲットした。\",\n      \"translatedEnglishLine\": \"You obtained a rare item.\"\n    },\n    {\n      \"lineNumber\": 202635,\n      \"originalJapaneseLine\": \"「…………。」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202636,\n      \"originalJapaneseLine\": \"ぽつーん。\",\n      \"translatedEnglishLine\": \"(silence)\"\n    },\n    {\n      \"lineNumber\": 202637,\n      \"originalJapaneseLine\": \"それはそれとしてあなたは一人だった。\",\n      \"translatedEnglishLine\": \"That said, you were alone.\"\n    },\n    {\n      \"lineNumber\": 202638,\n      \"originalJapaneseLine\": \"「…………。」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202639,\n      \"originalJapaneseLine\": \"もうここに用もない。\",\n      \"translatedEnglishLine\": \"You have no more business here.\"\n    },\n    {\n      \"lineNumber\": 202640,\n      \"originalJapaneseLine\": \"あなたはランス城に帰ることにした。\",\n      \"translatedEnglishLine\": \"You decided to return to Rance Castle.\"\n    },\n    {\n      \"lineNumber\": 202641,\n      \"originalJapaneseLine\": \"「へ……」\",\n      \"translatedEnglishLine\": \"\\\"Heh...\\\"\"\n    },\n    {\n      \"lineNumber\": 202642,\n      \"originalJapaneseLine\": \"「へへへへ……！」\",\n      \"translatedEnglishLine\": \"\\\"Hehehehe...!\\\"\"\n    },\n    {\n      \"lineNumber\": 202643,\n      \"originalJapaneseLine\": \"「やっぱ俺らって最強じゃね！？\",\n      \"translatedEnglishLine\": \"\\\"We're really the strongest, right?!\"\n    },\n    {\n      \"lineNumber\": 202644,\n      \"originalJapaneseLine\": \"　こんなすごい冒険も大成功よ！」\",\n      \"translatedEnglishLine\": \"This amazing adventure was a huge success!\\\"\"\n    },\n    {\n      \"lineNumber\": 202645,\n      \"originalJapaneseLine\": \"「いや、やっぱさ、なんてーの、なんてーの？\",\n      \"translatedEnglishLine\": \"\\\"No, seriously, how should I say it, how should I say it?\"\n    },\n    {\n      \"lineNumber\": 202646,\n      \"originalJapaneseLine\": \"　俺ら二人控えめに言って無敵のコンビっつーか？」\",\n      \"translatedEnglishLine\": \"The two of us, to put it mildly, are an unbeatable duo, right?\\\"\"\n    },\n    {\n      \"lineNumber\": 202647,\n      \"originalJapaneseLine\": \"「こりゃもう、ソウルフレンドなんてもんじゃ、\",\n      \"translatedEnglishLine\": \"\\\"This is more than just soul friends,\"\n    },\n    {\n      \"lineNumber\": 202648,\n      \"originalJapaneseLine\": \"　マジ俺ら二人の関係くくれねーって……\",\n      \"translatedEnglishLine\": \"I seriously can't even put our relationship into a category...\"\n    },\n    {\n      \"lineNumber\": 202649,\n      \"originalJapaneseLine\": \"　なんて言うんだろーな、何がいいだろーな」\",\n      \"translatedEnglishLine\": \"I wonder what you'd call it, what would be good?\\\"\"\n    },\n    {\n      \"lineNumber\": 202650,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202651,\n      \"originalJapaneseLine\": \"「……親友」\",\n      \"translatedEnglishLine\": \"\\\"...Best friends.\\\"\"\n    },\n    {\n      \"lineNumber\": 202652,\n      \"originalJapaneseLine\": \"「逆にシンプルに親友とか！？\",\n      \"translatedEnglishLine\": \"\\\"Or simply best friends!?\"\n    },\n    {\n      \"lineNumber\": 202653,\n      \"originalJapaneseLine\": \"　どーよ、一周回ってこれよくね！？」\",\n      \"translatedEnglishLine\": \"How about that? After all, this is pretty good!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202654,\n      \"originalJapaneseLine\": \"「…………。」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202655,\n      \"originalJapaneseLine\": \"「なー！　だろー！？\",\n      \"translatedEnglishLine\": \"\\\"Right! Isn't it!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202656,\n      \"originalJapaneseLine\": \"　＜エール＞もそう思うだろー！？」\",\n      \"translatedEnglishLine\": \"\\\"<Yell>, you think so too, right!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202657,\n      \"originalJapaneseLine\": \"調子のいい長田君が\",\n      \"translatedEnglishLine\": \"The upbeat Nagata-kun\"\n    },\n    {\n      \"lineNumber\": 202658,\n      \"originalJapaneseLine\": \"あれやこれや喋っているのを、\",\n      \"translatedEnglishLine\": \"was chatting away about this and that,\"\n    },\n    {\n      \"lineNumber\": 202659,\n      \"originalJapaneseLine\": \"あなたはこくこくと頷きながら聞き続けた。\",\n      \"translatedEnglishLine\": \"and you kept listening, nodding your head.\"\n    },\n    {\n      \"lineNumber\": 202660,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202661,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    }\n  ]\n}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 202602,
+                                "originalJapaneseLine": "「行くぞ！！！！」",
+                                "translatedEnglishLine": "\"Let's go!!!!\""
+                            },
+                            {
+                                "lineNumber": 202603,
+                                "originalJapaneseLine": "「なんだかよく分かんないけど！",
+                                "translatedEnglishLine": "\"I don't really understand, but!"
+                            },
+                            {
+                                "lineNumber": 202604,
+                                "originalJapaneseLine": "　やっつけてやる！」",
+                                "translatedEnglishLine": "I'm gonna beat you up!\""
+                            },
+                            {
+                                "lineNumber": 202605,
+                                "originalJapaneseLine": "「ちっ！",
+                                "translatedEnglishLine": "\"Tch!\""
+                            },
+                            {
+                                "lineNumber": 202606,
+                                "originalJapaneseLine": "　＜エール＞、俺の後ろに来い！」",
+                                "translatedEnglishLine": "\"<Yell>, get behind me!\""
+                            },
+                            {
+                                "lineNumber": 202607,
+                                "originalJapaneseLine": "「戦闘だ！」",
+                                "translatedEnglishLine": "\"It's battle time!\""
+                            },
+                            {
+                                "lineNumber": 202608,
+                                "originalJapaneseLine": "天空の王――",
+                                "translatedEnglishLine": "The King of the Sky——"
+                            },
+                            {
+                                "lineNumber": 202609,
+                                "originalJapaneseLine": "魔人かわぞえが襲いかかってきた！",
+                                "translatedEnglishLine": "The demon Kawazoe attacked!"
+                            },
+                            {
+                                "lineNumber": 202610,
+                                "originalJapaneseLine": "「きゃー！？",
+                                "translatedEnglishLine": "\"Kyaa!?\""
+                            },
+                            {
+                                "lineNumber": 202611,
+                                "originalJapaneseLine": "　奈落の王、ますぞえ様が倒されたー！？",
+                                "translatedEnglishLine": "The King of the Abyss, Masuzoe-sama, has been defeated!?"
+                            },
+                            {
+                                "lineNumber": 202612,
+                                "originalJapaneseLine": "「うわーん！？　嘘よー！」",
+                                "translatedEnglishLine": "\"Waaah!? That's a lie!\""
+                            },
+                            {
+                                "lineNumber": 202613,
+                                "originalJapaneseLine": "「うう、しくしく……",
+                                "translatedEnglishLine": "\"Uu, sob sob...\""
+                            },
+                            {
+                                "lineNumber": 202614,
+                                "originalJapaneseLine": "　ますぞえ様が復活されるときを待ちましょう……",
+                                "translatedEnglishLine": "Let's wait for the time when Masuzoe-sama will be revived..."
+                            },
+                            {
+                                "lineNumber": 202615,
+                                "originalJapaneseLine": "　行くわよ、みんな……しくしく……」",
+                                "translatedEnglishLine": "Let's go, everyone... sniff sniff...\""
+                            },
+                            {
+                                "lineNumber": 202616,
+                                "originalJapaneseLine": "取り巻きのハニ子達はさめざめと泣きながら、",
+                                "translatedEnglishLine": "The surrounding Honey-chan and others cried bitterly,"
+                            },
+                            {
+                                "lineNumber": 202617,
+                                "originalJapaneseLine": "とぼとぼと去って行った。",
+                                "translatedEnglishLine": "and trudged away."
+                            },
+                            {
+                                "lineNumber": 202618,
+                                "originalJapaneseLine": "ますぞえが倒れた後に残されたのは、",
+                                "translatedEnglishLine": "After Masuzoe collapsed, what remained was"
+                            },
+                            {
+                                "lineNumber": 202619,
+                                "originalJapaneseLine": "一つの宝箱だった。",
+                                "translatedEnglishLine": "a single treasure chest."
+                            },
+                            {
+                                "lineNumber": 202620,
+                                "originalJapaneseLine": "「きゃー！？",
+                                "translatedEnglishLine": "\"Kyaa!?\""
+                            },
+                            {
+                                "lineNumber": 202621,
+                                "originalJapaneseLine": "　天空の王、かわぞえ様が倒されたー！？",
+                                "translatedEnglishLine": "The King of the Sky, Kawazoe-sama, has been defeated!?"
+                            },
+                            {
+                                "lineNumber": 202622,
+                                "originalJapaneseLine": "「うわーん！？　嘘よー！」",
+                                "translatedEnglishLine": "\"Waaah!? That's a lie!\""
+                            },
+                            {
+                                "lineNumber": 202623,
+                                "originalJapaneseLine": "「うう、しくしく……",
+                                "translatedEnglishLine": "\"Uu, sob sob...\""
+                            },
+                            {
+                                "lineNumber": 202624,
+                                "originalJapaneseLine": "　かわぞえ様が復活されるときを待ちましょう……",
+                                "translatedEnglishLine": "Let's wait for the time when Kawazoe-sama will be revived..."
+                            },
+                            {
+                                "lineNumber": 202625,
+                                "originalJapaneseLine": "　行くわよ、みんな……しくしく……」",
+                                "translatedEnglishLine": "Let's go, everyone... sniff sniff...\""
+                            },
+                            {
+                                "lineNumber": 202626,
+                                "originalJapaneseLine": "取り巻きのハニ子達はさめざめと泣きながら、",
+                                "translatedEnglishLine": "The surrounding Honey-chan and others cried bitterly,"
+                            },
+                            {
+                                "lineNumber": 202627,
+                                "originalJapaneseLine": "とぼとぼと去って行った。",
+                                "translatedEnglishLine": "and trudged away."
+                            },
+                            {
+                                "lineNumber": 202628,
+                                "originalJapaneseLine": "かわぞえが倒れた後に残されたのは、",
+                                "translatedEnglishLine": "After Kawazoe fell, what remained was"
+                            },
+                            {
+                                "lineNumber": 202629,
+                                "originalJapaneseLine": "一つの宝箱だった。",
+                                "translatedEnglishLine": "a single treasure chest."
+                            },
+                            {
+                                "lineNumber": 202630,
+                                "originalJapaneseLine": "あなたはその宝箱に近づく。",
+                                "translatedEnglishLine": "You approach that treasure chest."
+                            },
+                            {
+                                "lineNumber": 202631,
+                                "originalJapaneseLine": "「…………。」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": 202632,
+                                "originalJapaneseLine": "一瞬、中から光が溢れて、",
+                                "translatedEnglishLine": "For a moment, light overflowed from inside,"
+                            },
+                            {
+                                "lineNumber": 202633,
+                                "originalJapaneseLine": "アームズに聞いていた通りの道具が飛び出して来た。",
+                                "translatedEnglishLine": "and the tool Arms had told you about came flying out."
+                            },
+                            {
+                                "lineNumber": 202634,
+                                "originalJapaneseLine": "あなたはレアアイテムをゲットした。",
+                                "translatedEnglishLine": "You obtained a rare item."
+                            },
+                            {
+                                "lineNumber": 202635,
+                                "originalJapaneseLine": "「…………。」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": 202636,
+                                "originalJapaneseLine": "ぽつーん。",
+                                "translatedEnglishLine": "(silence)"
+                            },
+                            {
+                                "lineNumber": 202637,
+                                "originalJapaneseLine": "それはそれとしてあなたは一人だった。",
+                                "translatedEnglishLine": "That said, you were alone."
+                            },
+                            {
+                                "lineNumber": 202638,
+                                "originalJapaneseLine": "「…………。」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": 202639,
+                                "originalJapaneseLine": "もうここに用もない。",
+                                "translatedEnglishLine": "You have no more business here."
+                            },
+                            {
+                                "lineNumber": 202640,
+                                "originalJapaneseLine": "あなたはランス城に帰ることにした。",
+                                "translatedEnglishLine": "You decided to return to Rance Castle."
+                            },
+                            {
+                                "lineNumber": 202641,
+                                "originalJapaneseLine": "「へ……」",
+                                "translatedEnglishLine": "\"Heh...\""
+                            },
+                            {
+                                "lineNumber": 202642,
+                                "originalJapaneseLine": "「へへへへ……！」",
+                                "translatedEnglishLine": "\"Hehehehe...!\""
+                            },
+                            {
+                                "lineNumber": 202643,
+                                "originalJapaneseLine": "「やっぱ俺らって最強じゃね！？",
+                                "translatedEnglishLine": "\"We're really the strongest, right?!"
+                            },
+                            {
+                                "lineNumber": 202644,
+                                "originalJapaneseLine": "　こんなすごい冒険も大成功よ！」",
+                                "translatedEnglishLine": "This amazing adventure was a huge success!\""
+                            },
+                            {
+                                "lineNumber": 202645,
+                                "originalJapaneseLine": "「いや、やっぱさ、なんてーの、なんてーの？",
+                                "translatedEnglishLine": "\"No, seriously, how should I say it, how should I say it?"
+                            },
+                            {
+                                "lineNumber": 202646,
+                                "originalJapaneseLine": "　俺ら二人控えめに言って無敵のコンビっつーか？」",
+                                "translatedEnglishLine": "The two of us, to put it mildly, are an unbeatable duo, right?\""
+                            },
+                            {
+                                "lineNumber": 202647,
+                                "originalJapaneseLine": "「こりゃもう、ソウルフレンドなんてもんじゃ、",
+                                "translatedEnglishLine": "\"This is more than just soul friends,"
+                            },
+                            {
+                                "lineNumber": 202648,
+                                "originalJapaneseLine": "　マジ俺ら二人の関係くくれねーって……",
+                                "translatedEnglishLine": "I seriously can't even put our relationship into a category..."
+                            },
+                            {
+                                "lineNumber": 202649,
+                                "originalJapaneseLine": "　なんて言うんだろーな、何がいいだろーな」",
+                                "translatedEnglishLine": "I wonder what you'd call it, what would be good?\""
+                            },
+                            {
+                                "lineNumber": 202650,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": 202651,
+                                "originalJapaneseLine": "「……親友」",
+                                "translatedEnglishLine": "\"...Best friends.\""
+                            },
+                            {
+                                "lineNumber": 202652,
+                                "originalJapaneseLine": "「逆にシンプルに親友とか！？",
+                                "translatedEnglishLine": "\"Or simply best friends!?"
+                            },
+                            {
+                                "lineNumber": 202653,
+                                "originalJapaneseLine": "　どーよ、一周回ってこれよくね！？」",
+                                "translatedEnglishLine": "How about that? After all, this is pretty good!?\""
+                            },
+                            {
+                                "lineNumber": 202654,
+                                "originalJapaneseLine": "「…………。」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": 202655,
+                                "originalJapaneseLine": "「なー！　だろー！？",
+                                "translatedEnglishLine": "\"Right! Isn't it!?\""
+                            },
+                            {
+                                "lineNumber": 202656,
+                                "originalJapaneseLine": "　＜エール＞もそう思うだろー！？」",
+                                "translatedEnglishLine": "\"<Yell>, you think so too, right!?\""
+                            },
+                            {
+                                "lineNumber": 202657,
+                                "originalJapaneseLine": "調子のいい長田君が",
+                                "translatedEnglishLine": "The upbeat Nagata-kun"
+                            },
+                            {
+                                "lineNumber": 202658,
+                                "originalJapaneseLine": "あれやこれや喋っているのを、",
+                                "translatedEnglishLine": "was chatting away about this and that,"
+                            },
+                            {
+                                "lineNumber": 202659,
+                                "originalJapaneseLine": "あなたはこくこくと頷きながら聞き続けた。",
+                                "translatedEnglishLine": "and you kept listening, nodding your head."
+                            },
+                            {
+                                "lineNumber": 202660,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": 202661,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1638,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2806,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4444
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 202602,\n      \"originalJapaneseLine\": \"「行くぞ！！！！」\",\n      \"translatedEnglishLine\": \"\\\"Let's go!!!!\\\"\"\n    },\n    {\n      \"lineNumber\": 202603,\n      \"originalJapaneseLine\": \"「なんだかよく分かんないけど！\",\n      \"translatedEnglishLine\": \"\\\"I don't really understand, but!\"\n    },\n    {\n      \"lineNumber\": 202604,\n      \"originalJapaneseLine\": \"　やっつけてやる！」\",\n      \"translatedEnglishLine\": \"I'm gonna beat you up!\\\"\"\n    },\n    {\n      \"lineNumber\": 202605,\n      \"originalJapaneseLine\": \"「ちっ！\",\n      \"translatedEnglishLine\": \"\\\"Tch!\\\"\"\n    },\n    {\n      \"lineNumber\": 202606,\n      \"originalJapaneseLine\": \"　＜エール＞、俺の後ろに来い！」\",\n      \"translatedEnglishLine\": \"\\\"<Yell>, get behind me!\\\"\"\n    },\n    {\n      \"lineNumber\": 202607,\n      \"originalJapaneseLine\": \"「戦闘だ！」\",\n      \"translatedEnglishLine\": \"\\\"It's battle time!\\\"\"\n    },\n    {\n      \"lineNumber\": 202608,\n      \"originalJapaneseLine\": \"天空の王――\",\n      \"translatedEnglishLine\": \"The King of the Sky——\"\n    },\n    {\n      \"lineNumber\": 202609,\n      \"originalJapaneseLine\": \"魔人かわぞえが襲いかかってきた！\",\n      \"translatedEnglishLine\": \"The demon Kawazoe attacked!\"\n    },\n    {\n      \"lineNumber\": 202610,\n      \"originalJapaneseLine\": \"「きゃー！？\",\n      \"translatedEnglishLine\": \"\\\"Kyaa!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202611,\n      \"originalJapaneseLine\": \"　奈落の王、ますぞえ様が倒されたー！？\",\n      \"translatedEnglishLine\": \"The King of the Abyss, Masuzoe-sama, has been defeated!?\"\n    },\n    {\n      \"lineNumber\": 202612,\n      \"originalJapaneseLine\": \"「うわーん！？　嘘よー！」\",\n      \"translatedEnglishLine\": \"\\\"Waaah!? That's a lie!\\\"\"\n    },\n    {\n      \"lineNumber\": 202613,\n      \"originalJapaneseLine\": \"「うう、しくしく……\",\n      \"translatedEnglishLine\": \"\\\"Uu, sob sob...\\\"\"\n    },\n    {\n      \"lineNumber\": 202614,\n      \"originalJapaneseLine\": \"　ますぞえ様が復活されるときを待ちましょう……\",\n      \"translatedEnglishLine\": \"Let's wait for the time when Masuzoe-sama will be revived...\"\n    },\n    {\n      \"lineNumber\": 202615,\n      \"originalJapaneseLine\": \"　行くわよ、みんな……しくしく……」\",\n      \"translatedEnglishLine\": \"Let's go, everyone... sniff sniff...\\\"\"\n    },\n    {\n      \"lineNumber\": 202616,\n      \"originalJapaneseLine\": \"取り巻きのハニ子達はさめざめと泣きながら、\",\n      \"translatedEnglishLine\": \"The surrounding Honey-chan and others cried bitterly,\"\n    },\n    {\n      \"lineNumber\": 202617,\n      \"originalJapaneseLine\": \"とぼとぼと去って行った。\",\n      \"translatedEnglishLine\": \"and trudged away.\"\n    },\n    {\n      \"lineNumber\": 202618,\n      \"originalJapaneseLine\": \"ますぞえが倒れた後に残されたのは、\",\n      \"translatedEnglishLine\": \"After Masuzoe collapsed, what remained was\"\n    },\n    {\n      \"lineNumber\": 202619,\n      \"originalJapaneseLine\": \"一つの宝箱だった。\",\n      \"translatedEnglishLine\": \"a single treasure chest.\"\n    },\n    {\n      \"lineNumber\": 202620,\n      \"originalJapaneseLine\": \"「きゃー！？\",\n      \"translatedEnglishLine\": \"\\\"Kyaa!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202621,\n      \"originalJapaneseLine\": \"　天空の王、かわぞえ様が倒されたー！？\",\n      \"translatedEnglishLine\": \"The King of the Sky, Kawazoe-sama, has been defeated!?\"\n    },\n    {\n      \"lineNumber\": 202622,\n      \"originalJapaneseLine\": \"「うわーん！？　嘘よー！」\",\n      \"translatedEnglishLine\": \"\\\"Waaah!? That's a lie!\\\"\"\n    },\n    {\n      \"lineNumber\": 202623,\n      \"originalJapaneseLine\": \"「うう、しくしく……\",\n      \"translatedEnglishLine\": \"\\\"Uu, sob sob...\\\"\"\n    },\n    {\n      \"lineNumber\": 202624,\n      \"originalJapaneseLine\": \"　かわぞえ様が復活されるときを待ちましょう……\",\n      \"translatedEnglishLine\": \"Let's wait for the time when Kawazoe-sama will be revived...\"\n    },\n    {\n      \"lineNumber\": 202625,\n      \"originalJapaneseLine\": \"　行くわよ、みんな……しくしく……」\",\n      \"translatedEnglishLine\": \"Let's go, everyone... sniff sniff...\\\"\"\n    },\n    {\n      \"lineNumber\": 202626,\n      \"originalJapaneseLine\": \"取り巻きのハニ子達はさめざめと泣きながら、\",\n      \"translatedEnglishLine\": \"The surrounding Honey-chan and others cried bitterly,\"\n    },\n    {\n      \"lineNumber\": 202627,\n      \"originalJapaneseLine\": \"とぼとぼと去って行った。\",\n      \"translatedEnglishLine\": \"and trudged away.\"\n    },\n    {\n      \"lineNumber\": 202628,\n      \"originalJapaneseLine\": \"かわぞえが倒れた後に残されたのは、\",\n      \"translatedEnglishLine\": \"After Kawazoe fell, what remained was\"\n    },\n    {\n      \"lineNumber\": 202629,\n      \"originalJapaneseLine\": \"一つの宝箱だった。\",\n      \"translatedEnglishLine\": \"a single treasure chest.\"\n    },\n    {\n      \"lineNumber\": 202630,\n      \"originalJapaneseLine\": \"あなたはその宝箱に近づく。\",\n      \"translatedEnglishLine\": \"You approach that treasure chest.\"\n    },\n    {\n      \"lineNumber\": 202631,\n      \"originalJapaneseLine\": \"「…………。」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202632,\n      \"originalJapaneseLine\": \"一瞬、中から光が溢れて、\",\n      \"translatedEnglishLine\": \"For a moment, light overflowed from inside,\"\n    },\n    {\n      \"lineNumber\": 202633,\n      \"originalJapaneseLine\": \"アームズに聞いていた通りの道具が飛び出して来た。\",\n      \"translatedEnglishLine\": \"and the tool Arms had told you about came flying out.\"\n    },\n    {\n      \"lineNumber\": 202634,\n      \"originalJapaneseLine\": \"あなたはレアアイテムをゲットした。\",\n      \"translatedEnglishLine\": \"You obtained a rare item.\"\n    },\n    {\n      \"lineNumber\": 202635,\n      \"originalJapaneseLine\": \"「…………。」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202636,\n      \"originalJapaneseLine\": \"ぽつーん。\",\n      \"translatedEnglishLine\": \"(silence)\"\n    },\n    {\n      \"lineNumber\": 202637,\n      \"originalJapaneseLine\": \"それはそれとしてあなたは一人だった。\",\n      \"translatedEnglishLine\": \"That said, you were alone.\"\n    },\n    {\n      \"lineNumber\": 202638,\n      \"originalJapaneseLine\": \"「…………。」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202639,\n      \"originalJapaneseLine\": \"もうここに用もない。\",\n      \"translatedEnglishLine\": \"You have no more business here.\"\n    },\n    {\n      \"lineNumber\": 202640,\n      \"originalJapaneseLine\": \"あなたはランス城に帰ることにした。\",\n      \"translatedEnglishLine\": \"You decided to return to Rance Castle.\"\n    },\n    {\n      \"lineNumber\": 202641,\n      \"originalJapaneseLine\": \"「へ……」\",\n      \"translatedEnglishLine\": \"\\\"Heh...\\\"\"\n    },\n    {\n      \"lineNumber\": 202642,\n      \"originalJapaneseLine\": \"「へへへへ……！」\",\n      \"translatedEnglishLine\": \"\\\"Hehehehe...!\\\"\"\n    },\n    {\n      \"lineNumber\": 202643,\n      \"originalJapaneseLine\": \"「やっぱ俺らって最強じゃね！？\",\n      \"translatedEnglishLine\": \"\\\"We're really the strongest, right?!\"\n    },\n    {\n      \"lineNumber\": 202644,\n      \"originalJapaneseLine\": \"　こんなすごい冒険も大成功よ！」\",\n      \"translatedEnglishLine\": \"This amazing adventure was a huge success!\\\"\"\n    },\n    {\n      \"lineNumber\": 202645,\n      \"originalJapaneseLine\": \"「いや、やっぱさ、なんてーの、なんてーの？\",\n      \"translatedEnglishLine\": \"\\\"No, seriously, how should I say it, how should I say it?\"\n    },\n    {\n      \"lineNumber\": 202646,\n      \"originalJapaneseLine\": \"　俺ら二人控えめに言って無敵のコンビっつーか？」\",\n      \"translatedEnglishLine\": \"The two of us, to put it mildly, are an unbeatable duo, right?\\\"\"\n    },\n    {\n      \"lineNumber\": 202647,\n      \"originalJapaneseLine\": \"「こりゃもう、ソウルフレンドなんてもんじゃ、\",\n      \"translatedEnglishLine\": \"\\\"This is more than just soul friends,\"\n    },\n    {\n      \"lineNumber\": 202648,\n      \"originalJapaneseLine\": \"　マジ俺ら二人の関係くくれねーって……\",\n      \"translatedEnglishLine\": \"I seriously can't even put our relationship into a category...\"\n    },\n    {\n      \"lineNumber\": 202649,\n      \"originalJapaneseLine\": \"　なんて言うんだろーな、何がいいだろーな」\",\n      \"translatedEnglishLine\": \"I wonder what you'd call it, what would be good?\\\"\"\n    },\n    {\n      \"lineNumber\": 202650,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202651,\n      \"originalJapaneseLine\": \"「……親友」\",\n      \"translatedEnglishLine\": \"\\\"...Best friends.\\\"\"\n    },\n    {\n      \"lineNumber\": 202652,\n      \"originalJapaneseLine\": \"「逆にシンプルに親友とか！？\",\n      \"translatedEnglishLine\": \"\\\"Or simply best friends!?\"\n    },\n    {\n      \"lineNumber\": 202653,\n      \"originalJapaneseLine\": \"　どーよ、一周回ってこれよくね！？」\",\n      \"translatedEnglishLine\": \"How about that? After all, this is pretty good!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202654,\n      \"originalJapaneseLine\": \"「…………。」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202655,\n      \"originalJapaneseLine\": \"「なー！　だろー！？\",\n      \"translatedEnglishLine\": \"\\\"Right! Isn't it!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202656,\n      \"originalJapaneseLine\": \"　＜エール＞もそう思うだろー！？」\",\n      \"translatedEnglishLine\": \"\\\"<Yell>, you think so too, right!?\\\"\"\n    },\n    {\n      \"lineNumber\": 202657,\n      \"originalJapaneseLine\": \"調子のいい長田君が\",\n      \"translatedEnglishLine\": \"The upbeat Nagata-kun\"\n    },\n    {\n      \"lineNumber\": 202658,\n      \"originalJapaneseLine\": \"あれやこれや喋っているのを、\",\n      \"translatedEnglishLine\": \"was chatting away about this and that,\"\n    },\n    {\n      \"lineNumber\": 202659,\n      \"originalJapaneseLine\": \"あなたはこくこくと頷きながら聞き続けた。\",\n      \"translatedEnglishLine\": \"and you kept listening, nodding your head.\"\n    },\n    {\n      \"lineNumber\": 202660,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 202661,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    }\n  ]\n}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 202602,
+                "originalJapaneseLine": "「行くぞ！！！！」",
+                "translatedEnglishLine": "\"Let's go!!!!\""
+            },
+            {
+                "lineNumber": 202603,
+                "originalJapaneseLine": "「なんだかよく分かんないけど！",
+                "translatedEnglishLine": "\"I don't really understand, but!"
+            },
+            {
+                "lineNumber": 202604,
+                "originalJapaneseLine": "　やっつけてやる！」",
+                "translatedEnglishLine": "I'm gonna beat you up!\""
+            },
+            {
+                "lineNumber": 202605,
+                "originalJapaneseLine": "「ちっ！",
+                "translatedEnglishLine": "\"Tch!\""
+            },
+            {
+                "lineNumber": 202606,
+                "originalJapaneseLine": "　＜エール＞、俺の後ろに来い！」",
+                "translatedEnglishLine": "\"<Yell>, get behind me!\""
+            },
+            {
+                "lineNumber": 202607,
+                "originalJapaneseLine": "「戦闘だ！」",
+                "translatedEnglishLine": "\"It's battle time!\""
+            },
+            {
+                "lineNumber": 202608,
+                "originalJapaneseLine": "天空の王――",
+                "translatedEnglishLine": "The King of the Sky——"
+            },
+            {
+                "lineNumber": 202609,
+                "originalJapaneseLine": "魔人かわぞえが襲いかかってきた！",
+                "translatedEnglishLine": "The demon Kawazoe attacked!"
+            },
+            {
+                "lineNumber": 202610,
+                "originalJapaneseLine": "「きゃー！？",
+                "translatedEnglishLine": "\"Kyaa!?\""
+            },
+            {
+                "lineNumber": 202611,
+                "originalJapaneseLine": "　奈落の王、ますぞえ様が倒されたー！？",
+                "translatedEnglishLine": "The King of the Abyss, Masuzoe-sama, has been defeated!?"
+            },
+            {
+                "lineNumber": 202612,
+                "originalJapaneseLine": "「うわーん！？　嘘よー！」",
+                "translatedEnglishLine": "\"Waaah!? That's a lie!\""
+            },
+            {
+                "lineNumber": 202613,
+                "originalJapaneseLine": "「うう、しくしく……",
+                "translatedEnglishLine": "\"Uu, sob sob...\""
+            },
+            {
+                "lineNumber": 202614,
+                "originalJapaneseLine": "　ますぞえ様が復活されるときを待ちましょう……",
+                "translatedEnglishLine": "Let's wait for the time when Masuzoe-sama will be revived..."
+            },
+            {
+                "lineNumber": 202615,
+                "originalJapaneseLine": "　行くわよ、みんな……しくしく……」",
+                "translatedEnglishLine": "Let's go, everyone... sniff sniff...\""
+            },
+            {
+                "lineNumber": 202616,
+                "originalJapaneseLine": "取り巻きのハニ子達はさめざめと泣きながら、",
+                "translatedEnglishLine": "The surrounding Honey-chan and others cried bitterly,"
+            },
+            {
+                "lineNumber": 202617,
+                "originalJapaneseLine": "とぼとぼと去って行った。",
+                "translatedEnglishLine": "and trudged away."
+            },
+            {
+                "lineNumber": 202618,
+                "originalJapaneseLine": "ますぞえが倒れた後に残されたのは、",
+                "translatedEnglishLine": "After Masuzoe collapsed, what remained was"
+            },
+            {
+                "lineNumber": 202619,
+                "originalJapaneseLine": "一つの宝箱だった。",
+                "translatedEnglishLine": "a single treasure chest."
+            },
+            {
+                "lineNumber": 202620,
+                "originalJapaneseLine": "「きゃー！？",
+                "translatedEnglishLine": "\"Kyaa!?\""
+            },
+            {
+                "lineNumber": 202621,
+                "originalJapaneseLine": "　天空の王、かわぞえ様が倒されたー！？",
+                "translatedEnglishLine": "The King of the Sky, Kawazoe-sama, has been defeated!?"
+            },
+            {
+                "lineNumber": 202622,
+                "originalJapaneseLine": "「うわーん！？　嘘よー！」",
+                "translatedEnglishLine": "\"Waaah!? That's a lie!\""
+            },
+            {
+                "lineNumber": 202623,
+                "originalJapaneseLine": "「うう、しくしく……",
+                "translatedEnglishLine": "\"Uu, sob sob...\""
+            },
+            {
+                "lineNumber": 202624,
+                "originalJapaneseLine": "　かわぞえ様が復活されるときを待ちましょう……",
+                "translatedEnglishLine": "Let's wait for the time when Kawazoe-sama will be revived..."
+            },
+            {
+                "lineNumber": 202625,
+                "originalJapaneseLine": "　行くわよ、みんな……しくしく……」",
+                "translatedEnglishLine": "Let's go, everyone... sniff sniff...\""
+            },
+            {
+                "lineNumber": 202626,
+                "originalJapaneseLine": "取り巻きのハニ子達はさめざめと泣きながら、",
+                "translatedEnglishLine": "The surrounding Honey-chan and others cried bitterly,"
+            },
+            {
+                "lineNumber": 202627,
+                "originalJapaneseLine": "とぼとぼと去って行った。",
+                "translatedEnglishLine": "and trudged away."
+            },
+            {
+                "lineNumber": 202628,
+                "originalJapaneseLine": "かわぞえが倒れた後に残されたのは、",
+                "translatedEnglishLine": "After Kawazoe fell, what remained was"
+            },
+            {
+                "lineNumber": 202629,
+                "originalJapaneseLine": "一つの宝箱だった。",
+                "translatedEnglishLine": "a single treasure chest."
+            },
+            {
+                "lineNumber": 202630,
+                "originalJapaneseLine": "あなたはその宝箱に近づく。",
+                "translatedEnglishLine": "You approach that treasure chest."
+            },
+            {
+                "lineNumber": 202631,
+                "originalJapaneseLine": "「…………。」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": 202632,
+                "originalJapaneseLine": "一瞬、中から光が溢れて、",
+                "translatedEnglishLine": "For a moment, light overflowed from inside,"
+            },
+            {
+                "lineNumber": 202633,
+                "originalJapaneseLine": "アームズに聞いていた通りの道具が飛び出して来た。",
+                "translatedEnglishLine": "and the tool Arms had told you about came flying out."
+            },
+            {
+                "lineNumber": 202634,
+                "originalJapaneseLine": "あなたはレアアイテムをゲットした。",
+                "translatedEnglishLine": "You obtained a rare item."
+            },
+            {
+                "lineNumber": 202635,
+                "originalJapaneseLine": "「…………。」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": 202636,
+                "originalJapaneseLine": "ぽつーん。",
+                "translatedEnglishLine": "(silence)"
+            },
+            {
+                "lineNumber": 202637,
+                "originalJapaneseLine": "それはそれとしてあなたは一人だった。",
+                "translatedEnglishLine": "That said, you were alone."
+            },
+            {
+                "lineNumber": 202638,
+                "originalJapaneseLine": "「…………。」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": 202639,
+                "originalJapaneseLine": "もうここに用もない。",
+                "translatedEnglishLine": "You have no more business here."
+            },
+            {
+                "lineNumber": 202640,
+                "originalJapaneseLine": "あなたはランス城に帰ることにした。",
+                "translatedEnglishLine": "You decided to return to Rance Castle."
+            },
+            {
+                "lineNumber": 202641,
+                "originalJapaneseLine": "「へ……」",
+                "translatedEnglishLine": "\"Heh...\""
+            },
+            {
+                "lineNumber": 202642,
+                "originalJapaneseLine": "「へへへへ……！」",
+                "translatedEnglishLine": "\"Hehehehe...!\""
+            },
+            {
+                "lineNumber": 202643,
+                "originalJapaneseLine": "「やっぱ俺らって最強じゃね！？",
+                "translatedEnglishLine": "\"We're really the strongest, right?!"
+            },
+            {
+                "lineNumber": 202644,
+                "originalJapaneseLine": "　こんなすごい冒険も大成功よ！」",
+                "translatedEnglishLine": "This amazing adventure was a huge success!\""
+            },
+            {
+                "lineNumber": 202645,
+                "originalJapaneseLine": "「いや、やっぱさ、なんてーの、なんてーの？",
+                "translatedEnglishLine": "\"No, seriously, how should I say it, how should I say it?"
+            },
+            {
+                "lineNumber": 202646,
+                "originalJapaneseLine": "　俺ら二人控えめに言って無敵のコンビっつーか？」",
+                "translatedEnglishLine": "The two of us, to put it mildly, are an unbeatable duo, right?\""
+            },
+            {
+                "lineNumber": 202647,
+                "originalJapaneseLine": "「こりゃもう、ソウルフレンドなんてもんじゃ、",
+                "translatedEnglishLine": "\"This is more than just soul friends,"
+            },
+            {
+                "lineNumber": 202648,
+                "originalJapaneseLine": "　マジ俺ら二人の関係くくれねーって……",
+                "translatedEnglishLine": "I seriously can't even put our relationship into a category..."
+            },
+            {
+                "lineNumber": 202649,
+                "originalJapaneseLine": "　なんて言うんだろーな、何がいいだろーな」",
+                "translatedEnglishLine": "I wonder what you'd call it, what would be good?\""
+            },
+            {
+                "lineNumber": 202650,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": 202651,
+                "originalJapaneseLine": "「……親友」",
+                "translatedEnglishLine": "\"...Best friends.\""
+            },
+            {
+                "lineNumber": 202652,
+                "originalJapaneseLine": "「逆にシンプルに親友とか！？",
+                "translatedEnglishLine": "\"Or simply best friends!?"
+            },
+            {
+                "lineNumber": 202653,
+                "originalJapaneseLine": "　どーよ、一周回ってこれよくね！？」",
+                "translatedEnglishLine": "How about that? After all, this is pretty good!?\""
+            },
+            {
+                "lineNumber": 202654,
+                "originalJapaneseLine": "「…………。」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": 202655,
+                "originalJapaneseLine": "「なー！　だろー！？",
+                "translatedEnglishLine": "\"Right! Isn't it!?\""
+            },
+            {
+                "lineNumber": 202656,
+                "originalJapaneseLine": "　＜エール＞もそう思うだろー！？」",
+                "translatedEnglishLine": "\"<Yell>, you think so too, right!?\""
+            },
+            {
+                "lineNumber": 202657,
+                "originalJapaneseLine": "調子のいい長田君が",
+                "translatedEnglishLine": "The upbeat Nagata-kun"
+            },
+            {
+                "lineNumber": 202658,
+                "originalJapaneseLine": "あれやこれや喋っているのを、",
+                "translatedEnglishLine": "was chatting away about this and that,"
+            },
+            {
+                "lineNumber": 202659,
+                "originalJapaneseLine": "あなたはこくこくと頷きながら聞き続けた。",
+                "translatedEnglishLine": "and you kept listening, nodding your head."
+            },
+            {
+                "lineNumber": 202660,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": 202661,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            }
+        ]
+    }
+}

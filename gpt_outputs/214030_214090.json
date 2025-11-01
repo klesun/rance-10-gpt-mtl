@@ -1,1 +1,719 @@
-{"id":"resp_0c1e6209570ab0eb0068f1dd2eff388196a5d4f272c5848871","object":"response","created_at":1760681263,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0c1e6209570ab0eb0068f1dd2f89008196bf6c3bb7a7249bc1","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 213972,\n      \"originalJapaneseLine\": \"「うわーお、テキパキ……」\",\n      \"translatedEnglishLine\": \"\\\"Wow, so efficient...\\\"\"\n    },\n    {\n      \"lineNumber\": 213973,\n      \"originalJapaneseLine\": \"「えへへ……」\",\n      \"translatedEnglishLine\": \"\\\"Hehe...\\\"\"\n    },\n    {\n      \"lineNumber\": 213974,\n      \"originalJapaneseLine\": \"事件当夜、ロッキーの部屋の窓は\",\n      \"translatedEnglishLine\": \"On the night of the incident, Rocky's room window was\"\n    },\n    {\n      \"lineNumber\": 213975,\n      \"originalJapaneseLine\": \"開きっぱなしだったらしい。\",\n      \"translatedEnglishLine\": \"apparently left wide open.\"\n    },\n    {\n      \"lineNumber\": 213976,\n      \"originalJapaneseLine\": \"手がかり『開いていた窓』を手に入れた。\",\n      \"translatedEnglishLine\": \"Obtained clue: \\\"Open window.\\\"\"\n    },\n    {\n      \"lineNumber\": 213977,\n      \"originalJapaneseLine\": \"事件当夜、盗みに入られた客室のほとんどは、\",\n      \"translatedEnglishLine\": \"On the night of the incident, most of the guest rooms that were robbed\"\n    },\n    {\n      \"lineNumber\": 213978,\n      \"originalJapaneseLine\": \"鍵は施錠されておらず扉も開きっぱなしだった。\",\n      \"translatedEnglishLine\": \"were not locked and the doors were left open.\"\n    },\n    {\n      \"lineNumber\": 213979,\n      \"originalJapaneseLine\": \"手がかり『事件当時の客室のドア』を手に入れた。\",\n      \"translatedEnglishLine\": \"Obtained clue: \\\"Guest room doors at the time of the incident.\\\"\"\n    },\n    {\n      \"lineNumber\": 213980,\n      \"originalJapaneseLine\": \"「あくまでも探偵は私がするから安心して、\",\n      \"translatedEnglishLine\": \"\\\"Rest assured, I will be the detective after all,\"\n    },\n    {\n      \"lineNumber\": 213981,\n      \"originalJapaneseLine\": \"　＜エール＞ちゃんは手伝ってくれればいいからね」\",\n      \"translatedEnglishLine\": \"and <Yell>-chan, you just have to help me out.\\\"\"\n    },\n    {\n      \"lineNumber\": 213982,\n      \"originalJapaneseLine\": \"「さ、次に行こう行こーう」\",\n      \"translatedEnglishLine\": \"\\\"Now, let's move on, let's go!\\\"\"\n    },\n    {\n      \"lineNumber\": 213983,\n      \"originalJapaneseLine\": \"「うーん、当日のアリバイ調査は\",\n      \"translatedEnglishLine\": \"\\\"Hmm, the alibi investigation for that day\"\n    },\n    {\n      \"lineNumber\": 213984,\n      \"originalJapaneseLine\": \"　こんなところかな？」\",\n      \"translatedEnglishLine\": \"is about this much, I suppose?\\\"\"\n    },\n    {\n      \"lineNumber\": 213985,\n      \"originalJapaneseLine\": \"「これによると、事件当夜、\",\n      \"translatedEnglishLine\": \"\\\"According to this, on the night of the incident,\"\n    },\n    {\n      \"lineNumber\": 213986,\n      \"originalJapaneseLine\": \"　魔王ランスの襲撃により、\",\n      \"translatedEnglishLine\": \"due to the Demon King Lance's attack,\"\n    },\n    {\n      \"lineNumber\": 213987,\n      \"originalJapaneseLine\": \"　宿屋内は極端に人がいなかった」\",\n      \"translatedEnglishLine\": \"the inn was extremely deserted.\\\"\"\n    },\n    {\n      \"lineNumber\": 213988,\n      \"originalJapaneseLine\": \"「犯行が可能だったのは……\",\n      \"translatedEnglishLine\": \"\\\"Those who could have possibly committed the crime were...\"\n    },\n    {\n      \"lineNumber\": 213989,\n      \"originalJapaneseLine\": \"　＜エール＞ちゃんの仲間の面々、\",\n      \"translatedEnglishLine\": \"<Yell>-chan's group of friends,\"\n    },\n    {\n      \"lineNumber\": 213990,\n      \"originalJapaneseLine\": \"　それから志津香さん、ナギちゃん」\",\n      \"translatedEnglishLine\": \"and also Shizuka-san and Nagi-chan.\\\"\"\n    },\n    {\n      \"lineNumber\": 213991,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"............\\\"\"\n    },\n    {\n      \"lineNumber\": 213992,\n      \"originalJapaneseLine\": \"「？　他は？」\",\n      \"translatedEnglishLine\": \"\\\"? What about the others?\\\"\"\n    },\n    {\n      \"lineNumber\": 213993,\n      \"originalJapaneseLine\": \"「……これだけでした」\",\n      \"translatedEnglishLine\": \"\\\"...That's all there was.\\\"\"\n    },\n    {\n      \"lineNumber\": 213994,\n      \"originalJapaneseLine\": \"「えっ！？」\",\n      \"translatedEnglishLine\": \"\\\"Eh!?\\\"\"\n    },\n    {\n      \"lineNumber\": 213995,\n      \"originalJapaneseLine\": \"「つ、つまり……\",\n      \"translatedEnglishLine\": \"\\\"S-So... \"\n    },\n    {\n      \"lineNumber\": 213996,\n      \"originalJapaneseLine\": \"　この中に犯人が！？」\",\n      \"translatedEnglishLine\": \"the culprit is among us!?\\\"\"\n    },\n    {\n      \"lineNumber\": 213997,\n      \"originalJapaneseLine\": \"「長田君……自首すれば罪は軽くなるよ？」\",\n      \"translatedEnglishLine\": \"\\\"Nagata-kun... if you turn yourself in, your punishment will be lighter, you know?\\\"\"\n    },\n    {\n      \"lineNumber\": 213998,\n      \"originalJapaneseLine\": \"「いや、やってねぇっすよ！？」\",\n      \"translatedEnglishLine\": \"\\\"No, I didn't do it!\\\"\"\n    },\n    {\n      \"lineNumber\": 213999,\n      \"originalJapaneseLine\": \"「って、冗談は置いといて。\",\n      \"translatedEnglishLine\": \"\\\"Anyway, jokes aside.\"\n    },\n    {\n      \"lineNumber\": 214000,\n      \"originalJapaneseLine\": \"　私達しか犯人になりえないってのは……\",\n      \"translatedEnglishLine\": \"The fact that only we could be the culprits is...\"\n    },\n    {\n      \"lineNumber\": 214001,\n      \"originalJapaneseLine\": \"　ちょーっとまずいねぇ」\",\n      \"translatedEnglishLine\": \"a bit problematic.\\\"\"\n    },\n    {\n      \"lineNumber\": 214002,\n      \"originalJapaneseLine\": \"「あ、宿の人は調べた？」\",\n      \"translatedEnglishLine\": \"\\\"Ah, did you check the inn staff?\\\"\"\n    },\n    {\n      \"lineNumber\": 214003,\n      \"originalJapaneseLine\": \"「支配人も警備員も\",\n      \"translatedEnglishLine\": \"\\\"Both the manager and the security guard\"\n    },\n    {\n      \"lineNumber\": 214004,\n      \"originalJapaneseLine\": \"　宿屋のマスターキー持ってて、\",\n      \"translatedEnglishLine\": \"have the inn's master keys,\"\n    },\n    {\n      \"lineNumber\": 214005,\n      \"originalJapaneseLine\": \"　どこにだって入り放題だし怪しくない？」\",\n      \"translatedEnglishLine\": \"so they can enter anywhere freely, doesn't that seem suspicious?\\\"\"\n    },\n    {\n      \"lineNumber\": 214006,\n      \"originalJapaneseLine\": \"「うん、ちゃんと調べたよ」\",\n      \"translatedEnglishLine\": \"\\\"Yeah, I checked properly.\\\"\"\n    },\n    {\n      \"lineNumber\": 214007,\n      \"originalJapaneseLine\": \"「宿のマスターキーを\",\n      \"translatedEnglishLine\": \"\\\"The master keys of the inn\"\n    },\n    {\n      \"lineNumber\": 214008,\n      \"originalJapaneseLine\": \"　持ってるのは支配人と警備員の二人だけ」\",\n      \"translatedEnglishLine\": \"are held by only two people: the manager and the security guard.\\\"\"\n    },\n    {\n      \"lineNumber\": 214009,\n      \"originalJapaneseLine\": \"「ただ、支配人さんはその時間、\",\n      \"translatedEnglishLine\": \"\\\"However, the manager at that time\"\n    },\n    {\n      \"lineNumber\": 214010,\n      \"originalJapaneseLine\": \"　仕事で会食の最中でずっと近くに人がいたって」\",\n      \"translatedEnglishLine\": \"was in a business dinner and had people near him the whole time.\\\"\"\n    },\n    {\n      \"lineNumber\": 214011,\n      \"originalJapaneseLine\": \"「警備員さんは事件当夜、避難誘導やらで忙しく\",\n      \"translatedEnglishLine\": \"\\\"The security guard, on the night of the incident, was busy with evacuation guidance and such,\"\n    },\n    {\n      \"lineNumber\": 214012,\n      \"originalJapaneseLine\": \"　動き回っていたからアリバイのない時間も\",\n      \"translatedEnglishLine\": \"and was moving around, so he does have some times without an alibi,\"\n    },\n    {\n      \"lineNumber\": 214013,\n      \"originalJapaneseLine\": \"　あるにはあるけど……」\",\n      \"translatedEnglishLine\": \"he does, but...\\\"\"\n    },\n    {\n      \"lineNumber\": 214014,\n      \"originalJapaneseLine\": \"「すぐに宿屋を出たから、\",\n      \"translatedEnglishLine\": \"\\\"He left the inn quickly,\"\n    },\n    {\n      \"lineNumber\": 214015,\n      \"originalJapaneseLine\": \"　盗みに入られた部屋全部はとても回れないって」\",\n      \"translatedEnglishLine\": \"so it is impossible for him to have checked all the robbed rooms.\\\"\"\n    },\n    {\n      \"lineNumber\": 214016,\n      \"originalJapaneseLine\": \"「うーん、二人ともアリバイがあるかぁ……」\",\n      \"translatedEnglishLine\": \"\\\"Hmm, both have alibis, huh...\\\"\"\n    },\n    {\n      \"lineNumber\": 214017,\n      \"originalJapaneseLine\": \"「じゃあ外部犯？」\",\n      \"translatedEnglishLine\": \"\\\"Then was it an outsider?\\\"\"\n    },\n    {\n      \"lineNumber\": 214018,\n      \"originalJapaneseLine\": \"「は、ちょっと考えにくいって」\",\n      \"translatedEnglishLine\": \"\\\"H-Hard to imagine.\\\"\"\n    },\n    {\n      \"lineNumber\": 214019,\n      \"originalJapaneseLine\": \"「魔王ランスの騒ぎでこの宿屋の周りは\",\n      \"translatedEnglishLine\": \"\\\"Because of the commotion caused by Demon King Lance,\"\n    },\n    {\n      \"lineNumber\": 214020,\n      \"originalJapaneseLine\": \"　都市警備隊が厳戒態勢を敷いていたから、\",\n      \"translatedEnglishLine\": \"the city guard had the area around this inn on high alert,\"\n    },\n    {\n      \"lineNumber\": 214021,\n      \"originalJapaneseLine\": \"　人っ子一人入れなかったの」\",\n      \"translatedEnglishLine\": \"and not a single person could have gotten in.\\\"\"\n    },\n    {\n      \"lineNumber\": 214022,\n      \"originalJapaneseLine\": \"「うむむむ……\",\n      \"translatedEnglishLine\": \"\\\"Hmmmm...\"\n    },\n    {\n      \"lineNumber\": 214023,\n      \"originalJapaneseLine\": \"　このままだと私達が犯人だねぇ……\",\n      \"translatedEnglishLine\": \"At this rate, it looks like we are the culprits...\\\"\"\n    },\n    {\n      \"lineNumber\": 214024,\n      \"originalJapaneseLine\": \"　包囲網が狭まっていくねぇ」\",\n      \"translatedEnglishLine\": \"\\\"The noose is tightening.\\\"\"\n    },\n    {\n      \"lineNumber\": 214025,\n      \"originalJapaneseLine\": \"「アリバイがなくて犯行可能な奴、\",\n      \"translatedEnglishLine\": \"\\\"Someone without an alibi who could have committed the crime,\"\n    },\n    {\n      \"lineNumber\": 214026,\n      \"originalJapaneseLine\": \"　私、もう一人知ってるわよ」\",\n      \"translatedEnglishLine\": \"I know one more person.\\\"\"\n    },\n    {\n      \"lineNumber\": 214027,\n      \"originalJapaneseLine\": \"「マジすか！？」\",\n      \"translatedEnglishLine\": \"\\\"Seriously!?\\\"\"\n    },\n    {\n      \"lineNumber\": 214028,\n      \"originalJapaneseLine\": \"「魔王ランス」\",\n      \"translatedEnglishLine\": \"\\\"Demon King Lance.\\\"\"\n    },\n    {\n      \"lineNumber\": 214029,\n      \"originalJapaneseLine\": \"「あ、それいい！\",\n      \"translatedEnglishLine\": \"\\\"Ah, that’s great!\"\n    },\n    {\n      \"lineNumber\": 214030,\n      \"originalJapaneseLine\": \"　ランスが犯人ってことにしよう！\",\n      \"translatedEnglishLine\": \"Let’s just say Lance is the culprit!\"\n    },\n    {\n      \"lineNumber\": 214031,\n      \"originalJapaneseLine\": \"　これでロッキー救えるよ！」\",\n      \"translatedEnglishLine\": \"This way we can save Rocky!\\\"\"\n    }\n  ]\n}","parsed":{"translationLines":[{"lineNumber":213972,"originalJapaneseLine":"「うわーお、テキパキ……」","translatedEnglishLine":"\"Wow, so efficient...\""},{"lineNumber":213973,"originalJapaneseLine":"「えへへ……」","translatedEnglishLine":"\"Hehe...\""},{"lineNumber":213974,"originalJapaneseLine":"事件当夜、ロッキーの部屋の窓は","translatedEnglishLine":"On the night of the incident, Rocky's room window was"},{"lineNumber":213975,"originalJapaneseLine":"開きっぱなしだったらしい。","translatedEnglishLine":"apparently left wide open."},{"lineNumber":213976,"originalJapaneseLine":"手がかり『開いていた窓』を手に入れた。","translatedEnglishLine":"Obtained clue: \"Open window.\""},{"lineNumber":213977,"originalJapaneseLine":"事件当夜、盗みに入られた客室のほとんどは、","translatedEnglishLine":"On the night of the incident, most of the guest rooms that were robbed"},{"lineNumber":213978,"originalJapaneseLine":"鍵は施錠されておらず扉も開きっぱなしだった。","translatedEnglishLine":"were not locked and the doors were left open."},{"lineNumber":213979,"originalJapaneseLine":"手がかり『事件当時の客室のドア』を手に入れた。","translatedEnglishLine":"Obtained clue: \"Guest room doors at the time of the incident.\""},{"lineNumber":213980,"originalJapaneseLine":"「あくまでも探偵は私がするから安心して、","translatedEnglishLine":"\"Rest assured, I will be the detective after all,"},{"lineNumber":213981,"originalJapaneseLine":"　＜エール＞ちゃんは手伝ってくれればいいからね」","translatedEnglishLine":"and <Yell>-chan, you just have to help me out.\""},{"lineNumber":213982,"originalJapaneseLine":"「さ、次に行こう行こーう」","translatedEnglishLine":"\"Now, let's move on, let's go!\""},{"lineNumber":213983,"originalJapaneseLine":"「うーん、当日のアリバイ調査は","translatedEnglishLine":"\"Hmm, the alibi investigation for that day"},{"lineNumber":213984,"originalJapaneseLine":"　こんなところかな？」","translatedEnglishLine":"is about this much, I suppose?\""},{"lineNumber":213985,"originalJapaneseLine":"「これによると、事件当夜、","translatedEnglishLine":"\"According to this, on the night of the incident,"},{"lineNumber":213986,"originalJapaneseLine":"　魔王ランスの襲撃により、","translatedEnglishLine":"due to the Demon King Lance's attack,"},{"lineNumber":213987,"originalJapaneseLine":"　宿屋内は極端に人がいなかった」","translatedEnglishLine":"the inn was extremely deserted.\""},{"lineNumber":213988,"originalJapaneseLine":"「犯行が可能だったのは……","translatedEnglishLine":"\"Those who could have possibly committed the crime were..."},{"lineNumber":213989,"originalJapaneseLine":"　＜エール＞ちゃんの仲間の面々、","translatedEnglishLine":"<Yell>-chan's group of friends,"},{"lineNumber":213990,"originalJapaneseLine":"　それから志津香さん、ナギちゃん」","translatedEnglishLine":"and also Shizuka-san and Nagi-chan.\""},{"lineNumber":213991,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"............\""},{"lineNumber":213992,"originalJapaneseLine":"「？　他は？」","translatedEnglishLine":"\"? What about the others?\""},{"lineNumber":213993,"originalJapaneseLine":"「……これだけでした」","translatedEnglishLine":"\"...That's all there was.\""},{"lineNumber":213994,"originalJapaneseLine":"「えっ！？」","translatedEnglishLine":"\"Eh!?\""},{"lineNumber":213995,"originalJapaneseLine":"「つ、つまり……","translatedEnglishLine":"\"S-So... "},{"lineNumber":213996,"originalJapaneseLine":"　この中に犯人が！？」","translatedEnglishLine":"the culprit is among us!?\""},{"lineNumber":213997,"originalJapaneseLine":"「長田君……自首すれば罪は軽くなるよ？」","translatedEnglishLine":"\"Nagata-kun... if you turn yourself in, your punishment will be lighter, you know?\""},{"lineNumber":213998,"originalJapaneseLine":"「いや、やってねぇっすよ！？」","translatedEnglishLine":"\"No, I didn't do it!\""},{"lineNumber":213999,"originalJapaneseLine":"「って、冗談は置いといて。","translatedEnglishLine":"\"Anyway, jokes aside."},{"lineNumber":214000,"originalJapaneseLine":"　私達しか犯人になりえないってのは……","translatedEnglishLine":"The fact that only we could be the culprits is..."},{"lineNumber":214001,"originalJapaneseLine":"　ちょーっとまずいねぇ」","translatedEnglishLine":"a bit problematic.\""},{"lineNumber":214002,"originalJapaneseLine":"「あ、宿の人は調べた？」","translatedEnglishLine":"\"Ah, did you check the inn staff?\""},{"lineNumber":214003,"originalJapaneseLine":"「支配人も警備員も","translatedEnglishLine":"\"Both the manager and the security guard"},{"lineNumber":214004,"originalJapaneseLine":"　宿屋のマスターキー持ってて、","translatedEnglishLine":"have the inn's master keys,"},{"lineNumber":214005,"originalJapaneseLine":"　どこにだって入り放題だし怪しくない？」","translatedEnglishLine":"so they can enter anywhere freely, doesn't that seem suspicious?\""},{"lineNumber":214006,"originalJapaneseLine":"「うん、ちゃんと調べたよ」","translatedEnglishLine":"\"Yeah, I checked properly.\""},{"lineNumber":214007,"originalJapaneseLine":"「宿のマスターキーを","translatedEnglishLine":"\"The master keys of the inn"},{"lineNumber":214008,"originalJapaneseLine":"　持ってるのは支配人と警備員の二人だけ」","translatedEnglishLine":"are held by only two people: the manager and the security guard.\""},{"lineNumber":214009,"originalJapaneseLine":"「ただ、支配人さんはその時間、","translatedEnglishLine":"\"However, the manager at that time"},{"lineNumber":214010,"originalJapaneseLine":"　仕事で会食の最中でずっと近くに人がいたって」","translatedEnglishLine":"was in a business dinner and had people near him the whole time.\""},{"lineNumber":214011,"originalJapaneseLine":"「警備員さんは事件当夜、避難誘導やらで忙しく","translatedEnglishLine":"\"The security guard, on the night of the incident, was busy with evacuation guidance and such,"},{"lineNumber":214012,"originalJapaneseLine":"　動き回っていたからアリバイのない時間も","translatedEnglishLine":"and was moving around, so he does have some times without an alibi,"},{"lineNumber":214013,"originalJapaneseLine":"　あるにはあるけど……」","translatedEnglishLine":"he does, but...\""},{"lineNumber":214014,"originalJapaneseLine":"「すぐに宿屋を出たから、","translatedEnglishLine":"\"He left the inn quickly,"},{"lineNumber":214015,"originalJapaneseLine":"　盗みに入られた部屋全部はとても回れないって」","translatedEnglishLine":"so it is impossible for him to have checked all the robbed rooms.\""},{"lineNumber":214016,"originalJapaneseLine":"「うーん、二人ともアリバイがあるかぁ……」","translatedEnglishLine":"\"Hmm, both have alibis, huh...\""},{"lineNumber":214017,"originalJapaneseLine":"「じゃあ外部犯？」","translatedEnglishLine":"\"Then was it an outsider?\""},{"lineNumber":214018,"originalJapaneseLine":"「は、ちょっと考えにくいって」","translatedEnglishLine":"\"H-Hard to imagine.\""},{"lineNumber":214019,"originalJapaneseLine":"「魔王ランスの騒ぎでこの宿屋の周りは","translatedEnglishLine":"\"Because of the commotion caused by Demon King Lance,"},{"lineNumber":214020,"originalJapaneseLine":"　都市警備隊が厳戒態勢を敷いていたから、","translatedEnglishLine":"the city guard had the area around this inn on high alert,"},{"lineNumber":214021,"originalJapaneseLine":"　人っ子一人入れなかったの」","translatedEnglishLine":"and not a single person could have gotten in.\""},{"lineNumber":214022,"originalJapaneseLine":"「うむむむ……","translatedEnglishLine":"\"Hmmmm..."},{"lineNumber":214023,"originalJapaneseLine":"　このままだと私達が犯人だねぇ……","translatedEnglishLine":"At this rate, it looks like we are the culprits...\""},{"lineNumber":214024,"originalJapaneseLine":"　包囲網が狭まっていくねぇ」","translatedEnglishLine":"\"The noose is tightening.\""},{"lineNumber":214025,"originalJapaneseLine":"「アリバイがなくて犯行可能な奴、","translatedEnglishLine":"\"Someone without an alibi who could have committed the crime,"},{"lineNumber":214026,"originalJapaneseLine":"　私、もう一人知ってるわよ」","translatedEnglishLine":"I know one more person.\""},{"lineNumber":214027,"originalJapaneseLine":"「マジすか！？」","translatedEnglishLine":"\"Seriously!?\""},{"lineNumber":214028,"originalJapaneseLine":"「魔王ランス」","translatedEnglishLine":"\"Demon King Lance.\""},{"lineNumber":214029,"originalJapaneseLine":"「あ、それいい！","translatedEnglishLine":"\"Ah, that’s great!"},{"lineNumber":214030,"originalJapaneseLine":"　ランスが犯人ってことにしよう！","translatedEnglishLine":"Let’s just say Lance is the culprit!"},{"lineNumber":214031,"originalJapaneseLine":"　これでロッキー救えるよ！」","translatedEnglishLine":"This way we can save Rocky!\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1721,"input_tokens_details":{"cached_tokens":0},"output_tokens":2987,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":4708},"user":null,"metadata":{},"output_text":"{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 213972,\n      \"originalJapaneseLine\": \"「うわーお、テキパキ……」\",\n      \"translatedEnglishLine\": \"\\\"Wow, so efficient...\\\"\"\n    },\n    {\n      \"lineNumber\": 213973,\n      \"originalJapaneseLine\": \"「えへへ……」\",\n      \"translatedEnglishLine\": \"\\\"Hehe...\\\"\"\n    },\n    {\n      \"lineNumber\": 213974,\n      \"originalJapaneseLine\": \"事件当夜、ロッキーの部屋の窓は\",\n      \"translatedEnglishLine\": \"On the night of the incident, Rocky's room window was\"\n    },\n    {\n      \"lineNumber\": 213975,\n      \"originalJapaneseLine\": \"開きっぱなしだったらしい。\",\n      \"translatedEnglishLine\": \"apparently left wide open.\"\n    },\n    {\n      \"lineNumber\": 213976,\n      \"originalJapaneseLine\": \"手がかり『開いていた窓』を手に入れた。\",\n      \"translatedEnglishLine\": \"Obtained clue: \\\"Open window.\\\"\"\n    },\n    {\n      \"lineNumber\": 213977,\n      \"originalJapaneseLine\": \"事件当夜、盗みに入られた客室のほとんどは、\",\n      \"translatedEnglishLine\": \"On the night of the incident, most of the guest rooms that were robbed\"\n    },\n    {\n      \"lineNumber\": 213978,\n      \"originalJapaneseLine\": \"鍵は施錠されておらず扉も開きっぱなしだった。\",\n      \"translatedEnglishLine\": \"were not locked and the doors were left open.\"\n    },\n    {\n      \"lineNumber\": 213979,\n      \"originalJapaneseLine\": \"手がかり『事件当時の客室のドア』を手に入れた。\",\n      \"translatedEnglishLine\": \"Obtained clue: \\\"Guest room doors at the time of the incident.\\\"\"\n    },\n    {\n      \"lineNumber\": 213980,\n      \"originalJapaneseLine\": \"「あくまでも探偵は私がするから安心して、\",\n      \"translatedEnglishLine\": \"\\\"Rest assured, I will be the detective after all,\"\n    },\n    {\n      \"lineNumber\": 213981,\n      \"originalJapaneseLine\": \"　＜エール＞ちゃんは手伝ってくれればいいからね」\",\n      \"translatedEnglishLine\": \"and <Yell>-chan, you just have to help me out.\\\"\"\n    },\n    {\n      \"lineNumber\": 213982,\n      \"originalJapaneseLine\": \"「さ、次に行こう行こーう」\",\n      \"translatedEnglishLine\": \"\\\"Now, let's move on, let's go!\\\"\"\n    },\n    {\n      \"lineNumber\": 213983,\n      \"originalJapaneseLine\": \"「うーん、当日のアリバイ調査は\",\n      \"translatedEnglishLine\": \"\\\"Hmm, the alibi investigation for that day\"\n    },\n    {\n      \"lineNumber\": 213984,\n      \"originalJapaneseLine\": \"　こんなところかな？」\",\n      \"translatedEnglishLine\": \"is about this much, I suppose?\\\"\"\n    },\n    {\n      \"lineNumber\": 213985,\n      \"originalJapaneseLine\": \"「これによると、事件当夜、\",\n      \"translatedEnglishLine\": \"\\\"According to this, on the night of the incident,\"\n    },\n    {\n      \"lineNumber\": 213986,\n      \"originalJapaneseLine\": \"　魔王ランスの襲撃により、\",\n      \"translatedEnglishLine\": \"due to the Demon King Lance's attack,\"\n    },\n    {\n      \"lineNumber\": 213987,\n      \"originalJapaneseLine\": \"　宿屋内は極端に人がいなかった」\",\n      \"translatedEnglishLine\": \"the inn was extremely deserted.\\\"\"\n    },\n    {\n      \"lineNumber\": 213988,\n      \"originalJapaneseLine\": \"「犯行が可能だったのは……\",\n      \"translatedEnglishLine\": \"\\\"Those who could have possibly committed the crime were...\"\n    },\n    {\n      \"lineNumber\": 213989,\n      \"originalJapaneseLine\": \"　＜エール＞ちゃんの仲間の面々、\",\n      \"translatedEnglishLine\": \"<Yell>-chan's group of friends,\"\n    },\n    {\n      \"lineNumber\": 213990,\n      \"originalJapaneseLine\": \"　それから志津香さん、ナギちゃん」\",\n      \"translatedEnglishLine\": \"and also Shizuka-san and Nagi-chan.\\\"\"\n    },\n    {\n      \"lineNumber\": 213991,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"............\\\"\"\n    },\n    {\n      \"lineNumber\": 213992,\n      \"originalJapaneseLine\": \"「？　他は？」\",\n      \"translatedEnglishLine\": \"\\\"? What about the others?\\\"\"\n    },\n    {\n      \"lineNumber\": 213993,\n      \"originalJapaneseLine\": \"「……これだけでした」\",\n      \"translatedEnglishLine\": \"\\\"...That's all there was.\\\"\"\n    },\n    {\n      \"lineNumber\": 213994,\n      \"originalJapaneseLine\": \"「えっ！？」\",\n      \"translatedEnglishLine\": \"\\\"Eh!?\\\"\"\n    },\n    {\n      \"lineNumber\": 213995,\n      \"originalJapaneseLine\": \"「つ、つまり……\",\n      \"translatedEnglishLine\": \"\\\"S-So... \"\n    },\n    {\n      \"lineNumber\": 213996,\n      \"originalJapaneseLine\": \"　この中に犯人が！？」\",\n      \"translatedEnglishLine\": \"the culprit is among us!?\\\"\"\n    },\n    {\n      \"lineNumber\": 213997,\n      \"originalJapaneseLine\": \"「長田君……自首すれば罪は軽くなるよ？」\",\n      \"translatedEnglishLine\": \"\\\"Nagata-kun... if you turn yourself in, your punishment will be lighter, you know?\\\"\"\n    },\n    {\n      \"lineNumber\": 213998,\n      \"originalJapaneseLine\": \"「いや、やってねぇっすよ！？」\",\n      \"translatedEnglishLine\": \"\\\"No, I didn't do it!\\\"\"\n    },\n    {\n      \"lineNumber\": 213999,\n      \"originalJapaneseLine\": \"「って、冗談は置いといて。\",\n      \"translatedEnglishLine\": \"\\\"Anyway, jokes aside.\"\n    },\n    {\n      \"lineNumber\": 214000,\n      \"originalJapaneseLine\": \"　私達しか犯人になりえないってのは……\",\n      \"translatedEnglishLine\": \"The fact that only we could be the culprits is...\"\n    },\n    {\n      \"lineNumber\": 214001,\n      \"originalJapaneseLine\": \"　ちょーっとまずいねぇ」\",\n      \"translatedEnglishLine\": \"a bit problematic.\\\"\"\n    },\n    {\n      \"lineNumber\": 214002,\n      \"originalJapaneseLine\": \"「あ、宿の人は調べた？」\",\n      \"translatedEnglishLine\": \"\\\"Ah, did you check the inn staff?\\\"\"\n    },\n    {\n      \"lineNumber\": 214003,\n      \"originalJapaneseLine\": \"「支配人も警備員も\",\n      \"translatedEnglishLine\": \"\\\"Both the manager and the security guard\"\n    },\n    {\n      \"lineNumber\": 214004,\n      \"originalJapaneseLine\": \"　宿屋のマスターキー持ってて、\",\n      \"translatedEnglishLine\": \"have the inn's master keys,\"\n    },\n    {\n      \"lineNumber\": 214005,\n      \"originalJapaneseLine\": \"　どこにだって入り放題だし怪しくない？」\",\n      \"translatedEnglishLine\": \"so they can enter anywhere freely, doesn't that seem suspicious?\\\"\"\n    },\n    {\n      \"lineNumber\": 214006,\n      \"originalJapaneseLine\": \"「うん、ちゃんと調べたよ」\",\n      \"translatedEnglishLine\": \"\\\"Yeah, I checked properly.\\\"\"\n    },\n    {\n      \"lineNumber\": 214007,\n      \"originalJapaneseLine\": \"「宿のマスターキーを\",\n      \"translatedEnglishLine\": \"\\\"The master keys of the inn\"\n    },\n    {\n      \"lineNumber\": 214008,\n      \"originalJapaneseLine\": \"　持ってるのは支配人と警備員の二人だけ」\",\n      \"translatedEnglishLine\": \"are held by only two people: the manager and the security guard.\\\"\"\n    },\n    {\n      \"lineNumber\": 214009,\n      \"originalJapaneseLine\": \"「ただ、支配人さんはその時間、\",\n      \"translatedEnglishLine\": \"\\\"However, the manager at that time\"\n    },\n    {\n      \"lineNumber\": 214010,\n      \"originalJapaneseLine\": \"　仕事で会食の最中でずっと近くに人がいたって」\",\n      \"translatedEnglishLine\": \"was in a business dinner and had people near him the whole time.\\\"\"\n    },\n    {\n      \"lineNumber\": 214011,\n      \"originalJapaneseLine\": \"「警備員さんは事件当夜、避難誘導やらで忙しく\",\n      \"translatedEnglishLine\": \"\\\"The security guard, on the night of the incident, was busy with evacuation guidance and such,\"\n    },\n    {\n      \"lineNumber\": 214012,\n      \"originalJapaneseLine\": \"　動き回っていたからアリバイのない時間も\",\n      \"translatedEnglishLine\": \"and was moving around, so he does have some times without an alibi,\"\n    },\n    {\n      \"lineNumber\": 214013,\n      \"originalJapaneseLine\": \"　あるにはあるけど……」\",\n      \"translatedEnglishLine\": \"he does, but...\\\"\"\n    },\n    {\n      \"lineNumber\": 214014,\n      \"originalJapaneseLine\": \"「すぐに宿屋を出たから、\",\n      \"translatedEnglishLine\": \"\\\"He left the inn quickly,\"\n    },\n    {\n      \"lineNumber\": 214015,\n      \"originalJapaneseLine\": \"　盗みに入られた部屋全部はとても回れないって」\",\n      \"translatedEnglishLine\": \"so it is impossible for him to have checked all the robbed rooms.\\\"\"\n    },\n    {\n      \"lineNumber\": 214016,\n      \"originalJapaneseLine\": \"「うーん、二人ともアリバイがあるかぁ……」\",\n      \"translatedEnglishLine\": \"\\\"Hmm, both have alibis, huh...\\\"\"\n    },\n    {\n      \"lineNumber\": 214017,\n      \"originalJapaneseLine\": \"「じゃあ外部犯？」\",\n      \"translatedEnglishLine\": \"\\\"Then was it an outsider?\\\"\"\n    },\n    {\n      \"lineNumber\": 214018,\n      \"originalJapaneseLine\": \"「は、ちょっと考えにくいって」\",\n      \"translatedEnglishLine\": \"\\\"H-Hard to imagine.\\\"\"\n    },\n    {\n      \"lineNumber\": 214019,\n      \"originalJapaneseLine\": \"「魔王ランスの騒ぎでこの宿屋の周りは\",\n      \"translatedEnglishLine\": \"\\\"Because of the commotion caused by Demon King Lance,\"\n    },\n    {\n      \"lineNumber\": 214020,\n      \"originalJapaneseLine\": \"　都市警備隊が厳戒態勢を敷いていたから、\",\n      \"translatedEnglishLine\": \"the city guard had the area around this inn on high alert,\"\n    },\n    {\n      \"lineNumber\": 214021,\n      \"originalJapaneseLine\": \"　人っ子一人入れなかったの」\",\n      \"translatedEnglishLine\": \"and not a single person could have gotten in.\\\"\"\n    },\n    {\n      \"lineNumber\": 214022,\n      \"originalJapaneseLine\": \"「うむむむ……\",\n      \"translatedEnglishLine\": \"\\\"Hmmmm...\"\n    },\n    {\n      \"lineNumber\": 214023,\n      \"originalJapaneseLine\": \"　このままだと私達が犯人だねぇ……\",\n      \"translatedEnglishLine\": \"At this rate, it looks like we are the culprits...\\\"\"\n    },\n    {\n      \"lineNumber\": 214024,\n      \"originalJapaneseLine\": \"　包囲網が狭まっていくねぇ」\",\n      \"translatedEnglishLine\": \"\\\"The noose is tightening.\\\"\"\n    },\n    {\n      \"lineNumber\": 214025,\n      \"originalJapaneseLine\": \"「アリバイがなくて犯行可能な奴、\",\n      \"translatedEnglishLine\": \"\\\"Someone without an alibi who could have committed the crime,\"\n    },\n    {\n      \"lineNumber\": 214026,\n      \"originalJapaneseLine\": \"　私、もう一人知ってるわよ」\",\n      \"translatedEnglishLine\": \"I know one more person.\\\"\"\n    },\n    {\n      \"lineNumber\": 214027,\n      \"originalJapaneseLine\": \"「マジすか！？」\",\n      \"translatedEnglishLine\": \"\\\"Seriously!?\\\"\"\n    },\n    {\n      \"lineNumber\": 214028,\n      \"originalJapaneseLine\": \"「魔王ランス」\",\n      \"translatedEnglishLine\": \"\\\"Demon King Lance.\\\"\"\n    },\n    {\n      \"lineNumber\": 214029,\n      \"originalJapaneseLine\": \"「あ、それいい！\",\n      \"translatedEnglishLine\": \"\\\"Ah, that’s great!\"\n    },\n    {\n      \"lineNumber\": 214030,\n      \"originalJapaneseLine\": \"　ランスが犯人ってことにしよう！\",\n      \"translatedEnglishLine\": \"Let’s just say Lance is the culprit!\"\n    },\n    {\n      \"lineNumber\": 214031,\n      \"originalJapaneseLine\": \"　これでロッキー救えるよ！」\",\n      \"translatedEnglishLine\": \"This way we can save Rocky!\\\"\"\n    }\n  ]\n}","output_parsed":{"translationLines":[{"lineNumber":213972,"originalJapaneseLine":"「うわーお、テキパキ……」","translatedEnglishLine":"\"Wow, so efficient...\""},{"lineNumber":213973,"originalJapaneseLine":"「えへへ……」","translatedEnglishLine":"\"Hehe...\""},{"lineNumber":213974,"originalJapaneseLine":"事件当夜、ロッキーの部屋の窓は","translatedEnglishLine":"On the night of the incident, Rocky's room window was"},{"lineNumber":213975,"originalJapaneseLine":"開きっぱなしだったらしい。","translatedEnglishLine":"apparently left wide open."},{"lineNumber":213976,"originalJapaneseLine":"手がかり『開いていた窓』を手に入れた。","translatedEnglishLine":"Obtained clue: \"Open window.\""},{"lineNumber":213977,"originalJapaneseLine":"事件当夜、盗みに入られた客室のほとんどは、","translatedEnglishLine":"On the night of the incident, most of the guest rooms that were robbed"},{"lineNumber":213978,"originalJapaneseLine":"鍵は施錠されておらず扉も開きっぱなしだった。","translatedEnglishLine":"were not locked and the doors were left open."},{"lineNumber":213979,"originalJapaneseLine":"手がかり『事件当時の客室のドア』を手に入れた。","translatedEnglishLine":"Obtained clue: \"Guest room doors at the time of the incident.\""},{"lineNumber":213980,"originalJapaneseLine":"「あくまでも探偵は私がするから安心して、","translatedEnglishLine":"\"Rest assured, I will be the detective after all,"},{"lineNumber":213981,"originalJapaneseLine":"　＜エール＞ちゃんは手伝ってくれればいいからね」","translatedEnglishLine":"and <Yell>-chan, you just have to help me out.\""},{"lineNumber":213982,"originalJapaneseLine":"「さ、次に行こう行こーう」","translatedEnglishLine":"\"Now, let's move on, let's go!\""},{"lineNumber":213983,"originalJapaneseLine":"「うーん、当日のアリバイ調査は","translatedEnglishLine":"\"Hmm, the alibi investigation for that day"},{"lineNumber":213984,"originalJapaneseLine":"　こんなところかな？」","translatedEnglishLine":"is about this much, I suppose?\""},{"lineNumber":213985,"originalJapaneseLine":"「これによると、事件当夜、","translatedEnglishLine":"\"According to this, on the night of the incident,"},{"lineNumber":213986,"originalJapaneseLine":"　魔王ランスの襲撃により、","translatedEnglishLine":"due to the Demon King Lance's attack,"},{"lineNumber":213987,"originalJapaneseLine":"　宿屋内は極端に人がいなかった」","translatedEnglishLine":"the inn was extremely deserted.\""},{"lineNumber":213988,"originalJapaneseLine":"「犯行が可能だったのは……","translatedEnglishLine":"\"Those who could have possibly committed the crime were..."},{"lineNumber":213989,"originalJapaneseLine":"　＜エール＞ちゃんの仲間の面々、","translatedEnglishLine":"<Yell>-chan's group of friends,"},{"lineNumber":213990,"originalJapaneseLine":"　それから志津香さん、ナギちゃん」","translatedEnglishLine":"and also Shizuka-san and Nagi-chan.\""},{"lineNumber":213991,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"............\""},{"lineNumber":213992,"originalJapaneseLine":"「？　他は？」","translatedEnglishLine":"\"? What about the others?\""},{"lineNumber":213993,"originalJapaneseLine":"「……これだけでした」","translatedEnglishLine":"\"...That's all there was.\""},{"lineNumber":213994,"originalJapaneseLine":"「えっ！？」","translatedEnglishLine":"\"Eh!?\""},{"lineNumber":213995,"originalJapaneseLine":"「つ、つまり……","translatedEnglishLine":"\"S-So... "},{"lineNumber":213996,"originalJapaneseLine":"　この中に犯人が！？」","translatedEnglishLine":"the culprit is among us!?\""},{"lineNumber":213997,"originalJapaneseLine":"「長田君……自首すれば罪は軽くなるよ？」","translatedEnglishLine":"\"Nagata-kun... if you turn yourself in, your punishment will be lighter, you know?\""},{"lineNumber":213998,"originalJapaneseLine":"「いや、やってねぇっすよ！？」","translatedEnglishLine":"\"No, I didn't do it!\""},{"lineNumber":213999,"originalJapaneseLine":"「って、冗談は置いといて。","translatedEnglishLine":"\"Anyway, jokes aside."},{"lineNumber":214000,"originalJapaneseLine":"　私達しか犯人になりえないってのは……","translatedEnglishLine":"The fact that only we could be the culprits is..."},{"lineNumber":214001,"originalJapaneseLine":"　ちょーっとまずいねぇ」","translatedEnglishLine":"a bit problematic.\""},{"lineNumber":214002,"originalJapaneseLine":"「あ、宿の人は調べた？」","translatedEnglishLine":"\"Ah, did you check the inn staff?\""},{"lineNumber":214003,"originalJapaneseLine":"「支配人も警備員も","translatedEnglishLine":"\"Both the manager and the security guard"},{"lineNumber":214004,"originalJapaneseLine":"　宿屋のマスターキー持ってて、","translatedEnglishLine":"have the inn's master keys,"},{"lineNumber":214005,"originalJapaneseLine":"　どこにだって入り放題だし怪しくない？」","translatedEnglishLine":"so they can enter anywhere freely, doesn't that seem suspicious?\""},{"lineNumber":214006,"originalJapaneseLine":"「うん、ちゃんと調べたよ」","translatedEnglishLine":"\"Yeah, I checked properly.\""},{"lineNumber":214007,"originalJapaneseLine":"「宿のマスターキーを","translatedEnglishLine":"\"The master keys of the inn"},{"lineNumber":214008,"originalJapaneseLine":"　持ってるのは支配人と警備員の二人だけ」","translatedEnglishLine":"are held by only two people: the manager and the security guard.\""},{"lineNumber":214009,"originalJapaneseLine":"「ただ、支配人さんはその時間、","translatedEnglishLine":"\"However, the manager at that time"},{"lineNumber":214010,"originalJapaneseLine":"　仕事で会食の最中でずっと近くに人がいたって」","translatedEnglishLine":"was in a business dinner and had people near him the whole time.\""},{"lineNumber":214011,"originalJapaneseLine":"「警備員さんは事件当夜、避難誘導やらで忙しく","translatedEnglishLine":"\"The security guard, on the night of the incident, was busy with evacuation guidance and such,"},{"lineNumber":214012,"originalJapaneseLine":"　動き回っていたからアリバイのない時間も","translatedEnglishLine":"and was moving around, so he does have some times without an alibi,"},{"lineNumber":214013,"originalJapaneseLine":"　あるにはあるけど……」","translatedEnglishLine":"he does, but...\""},{"lineNumber":214014,"originalJapaneseLine":"「すぐに宿屋を出たから、","translatedEnglishLine":"\"He left the inn quickly,"},{"lineNumber":214015,"originalJapaneseLine":"　盗みに入られた部屋全部はとても回れないって」","translatedEnglishLine":"so it is impossible for him to have checked all the robbed rooms.\""},{"lineNumber":214016,"originalJapaneseLine":"「うーん、二人ともアリバイがあるかぁ……」","translatedEnglishLine":"\"Hmm, both have alibis, huh...\""},{"lineNumber":214017,"originalJapaneseLine":"「じゃあ外部犯？」","translatedEnglishLine":"\"Then was it an outsider?\""},{"lineNumber":214018,"originalJapaneseLine":"「は、ちょっと考えにくいって」","translatedEnglishLine":"\"H-Hard to imagine.\""},{"lineNumber":214019,"originalJapaneseLine":"「魔王ランスの騒ぎでこの宿屋の周りは","translatedEnglishLine":"\"Because of the commotion caused by Demon King Lance,"},{"lineNumber":214020,"originalJapaneseLine":"　都市警備隊が厳戒態勢を敷いていたから、","translatedEnglishLine":"the city guard had the area around this inn on high alert,"},{"lineNumber":214021,"originalJapaneseLine":"　人っ子一人入れなかったの」","translatedEnglishLine":"and not a single person could have gotten in.\""},{"lineNumber":214022,"originalJapaneseLine":"「うむむむ……","translatedEnglishLine":"\"Hmmmm..."},{"lineNumber":214023,"originalJapaneseLine":"　このままだと私達が犯人だねぇ……","translatedEnglishLine":"At this rate, it looks like we are the culprits...\""},{"lineNumber":214024,"originalJapaneseLine":"　包囲網が狭まっていくねぇ」","translatedEnglishLine":"\"The noose is tightening.\""},{"lineNumber":214025,"originalJapaneseLine":"「アリバイがなくて犯行可能な奴、","translatedEnglishLine":"\"Someone without an alibi who could have committed the crime,"},{"lineNumber":214026,"originalJapaneseLine":"　私、もう一人知ってるわよ」","translatedEnglishLine":"I know one more person.\""},{"lineNumber":214027,"originalJapaneseLine":"「マジすか！？」","translatedEnglishLine":"\"Seriously!?\""},{"lineNumber":214028,"originalJapaneseLine":"「魔王ランス」","translatedEnglishLine":"\"Demon King Lance.\""},{"lineNumber":214029,"originalJapaneseLine":"「あ、それいい！","translatedEnglishLine":"\"Ah, that’s great!"},{"lineNumber":214030,"originalJapaneseLine":"　ランスが犯人ってことにしよう！","translatedEnglishLine":"Let’s just say Lance is the culprit!"},{"lineNumber":214031,"originalJapaneseLine":"　これでロッキー救えるよ！」","translatedEnglishLine":"This way we can save Rocky!\""}]}}
+{
+    "id": "resp_0c1e6209570ab0eb0068f1dd2eff388196a5d4f272c5848871",
+    "object": "response",
+    "created_at": 1760681263,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0c1e6209570ab0eb0068f1dd2f89008196bf6c3bb7a7249bc1",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 213972,\n      \"originalJapaneseLine\": \"「うわーお、テキパキ……」\",\n      \"translatedEnglishLine\": \"\\\"Wow, so efficient...\\\"\"\n    },\n    {\n      \"lineNumber\": 213973,\n      \"originalJapaneseLine\": \"「えへへ……」\",\n      \"translatedEnglishLine\": \"\\\"Hehe...\\\"\"\n    },\n    {\n      \"lineNumber\": 213974,\n      \"originalJapaneseLine\": \"事件当夜、ロッキーの部屋の窓は\",\n      \"translatedEnglishLine\": \"On the night of the incident, Rocky's room window was\"\n    },\n    {\n      \"lineNumber\": 213975,\n      \"originalJapaneseLine\": \"開きっぱなしだったらしい。\",\n      \"translatedEnglishLine\": \"apparently left wide open.\"\n    },\n    {\n      \"lineNumber\": 213976,\n      \"originalJapaneseLine\": \"手がかり『開いていた窓』を手に入れた。\",\n      \"translatedEnglishLine\": \"Obtained clue: \\\"Open window.\\\"\"\n    },\n    {\n      \"lineNumber\": 213977,\n      \"originalJapaneseLine\": \"事件当夜、盗みに入られた客室のほとんどは、\",\n      \"translatedEnglishLine\": \"On the night of the incident, most of the guest rooms that were robbed\"\n    },\n    {\n      \"lineNumber\": 213978,\n      \"originalJapaneseLine\": \"鍵は施錠されておらず扉も開きっぱなしだった。\",\n      \"translatedEnglishLine\": \"were not locked and the doors were left open.\"\n    },\n    {\n      \"lineNumber\": 213979,\n      \"originalJapaneseLine\": \"手がかり『事件当時の客室のドア』を手に入れた。\",\n      \"translatedEnglishLine\": \"Obtained clue: \\\"Guest room doors at the time of the incident.\\\"\"\n    },\n    {\n      \"lineNumber\": 213980,\n      \"originalJapaneseLine\": \"「あくまでも探偵は私がするから安心して、\",\n      \"translatedEnglishLine\": \"\\\"Rest assured, I will be the detective after all,\"\n    },\n    {\n      \"lineNumber\": 213981,\n      \"originalJapaneseLine\": \"　＜エール＞ちゃんは手伝ってくれればいいからね」\",\n      \"translatedEnglishLine\": \"and <Yell>-chan, you just have to help me out.\\\"\"\n    },\n    {\n      \"lineNumber\": 213982,\n      \"originalJapaneseLine\": \"「さ、次に行こう行こーう」\",\n      \"translatedEnglishLine\": \"\\\"Now, let's move on, let's go!\\\"\"\n    },\n    {\n      \"lineNumber\": 213983,\n      \"originalJapaneseLine\": \"「うーん、当日のアリバイ調査は\",\n      \"translatedEnglishLine\": \"\\\"Hmm, the alibi investigation for that day\"\n    },\n    {\n      \"lineNumber\": 213984,\n      \"originalJapaneseLine\": \"　こんなところかな？」\",\n      \"translatedEnglishLine\": \"is about this much, I suppose?\\\"\"\n    },\n    {\n      \"lineNumber\": 213985,\n      \"originalJapaneseLine\": \"「これによると、事件当夜、\",\n      \"translatedEnglishLine\": \"\\\"According to this, on the night of the incident,\"\n    },\n    {\n      \"lineNumber\": 213986,\n      \"originalJapaneseLine\": \"　魔王ランスの襲撃により、\",\n      \"translatedEnglishLine\": \"due to the Demon King Lance's attack,\"\n    },\n    {\n      \"lineNumber\": 213987,\n      \"originalJapaneseLine\": \"　宿屋内は極端に人がいなかった」\",\n      \"translatedEnglishLine\": \"the inn was extremely deserted.\\\"\"\n    },\n    {\n      \"lineNumber\": 213988,\n      \"originalJapaneseLine\": \"「犯行が可能だったのは……\",\n      \"translatedEnglishLine\": \"\\\"Those who could have possibly committed the crime were...\"\n    },\n    {\n      \"lineNumber\": 213989,\n      \"originalJapaneseLine\": \"　＜エール＞ちゃんの仲間の面々、\",\n      \"translatedEnglishLine\": \"<Yell>-chan's group of friends,\"\n    },\n    {\n      \"lineNumber\": 213990,\n      \"originalJapaneseLine\": \"　それから志津香さん、ナギちゃん」\",\n      \"translatedEnglishLine\": \"and also Shizuka-san and Nagi-chan.\\\"\"\n    },\n    {\n      \"lineNumber\": 213991,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"............\\\"\"\n    },\n    {\n      \"lineNumber\": 213992,\n      \"originalJapaneseLine\": \"「？　他は？」\",\n      \"translatedEnglishLine\": \"\\\"? What about the others?\\\"\"\n    },\n    {\n      \"lineNumber\": 213993,\n      \"originalJapaneseLine\": \"「……これだけでした」\",\n      \"translatedEnglishLine\": \"\\\"...That's all there was.\\\"\"\n    },\n    {\n      \"lineNumber\": 213994,\n      \"originalJapaneseLine\": \"「えっ！？」\",\n      \"translatedEnglishLine\": \"\\\"Eh!?\\\"\"\n    },\n    {\n      \"lineNumber\": 213995,\n      \"originalJapaneseLine\": \"「つ、つまり……\",\n      \"translatedEnglishLine\": \"\\\"S-So... \"\n    },\n    {\n      \"lineNumber\": 213996,\n      \"originalJapaneseLine\": \"　この中に犯人が！？」\",\n      \"translatedEnglishLine\": \"the culprit is among us!?\\\"\"\n    },\n    {\n      \"lineNumber\": 213997,\n      \"originalJapaneseLine\": \"「長田君……自首すれば罪は軽くなるよ？」\",\n      \"translatedEnglishLine\": \"\\\"Nagata-kun... if you turn yourself in, your punishment will be lighter, you know?\\\"\"\n    },\n    {\n      \"lineNumber\": 213998,\n      \"originalJapaneseLine\": \"「いや、やってねぇっすよ！？」\",\n      \"translatedEnglishLine\": \"\\\"No, I didn't do it!\\\"\"\n    },\n    {\n      \"lineNumber\": 213999,\n      \"originalJapaneseLine\": \"「って、冗談は置いといて。\",\n      \"translatedEnglishLine\": \"\\\"Anyway, jokes aside.\"\n    },\n    {\n      \"lineNumber\": 214000,\n      \"originalJapaneseLine\": \"　私達しか犯人になりえないってのは……\",\n      \"translatedEnglishLine\": \"The fact that only we could be the culprits is...\"\n    },\n    {\n      \"lineNumber\": 214001,\n      \"originalJapaneseLine\": \"　ちょーっとまずいねぇ」\",\n      \"translatedEnglishLine\": \"a bit problematic.\\\"\"\n    },\n    {\n      \"lineNumber\": 214002,\n      \"originalJapaneseLine\": \"「あ、宿の人は調べた？」\",\n      \"translatedEnglishLine\": \"\\\"Ah, did you check the inn staff?\\\"\"\n    },\n    {\n      \"lineNumber\": 214003,\n      \"originalJapaneseLine\": \"「支配人も警備員も\",\n      \"translatedEnglishLine\": \"\\\"Both the manager and the security guard\"\n    },\n    {\n      \"lineNumber\": 214004,\n      \"originalJapaneseLine\": \"　宿屋のマスターキー持ってて、\",\n      \"translatedEnglishLine\": \"have the inn's master keys,\"\n    },\n    {\n      \"lineNumber\": 214005,\n      \"originalJapaneseLine\": \"　どこにだって入り放題だし怪しくない？」\",\n      \"translatedEnglishLine\": \"so they can enter anywhere freely, doesn't that seem suspicious?\\\"\"\n    },\n    {\n      \"lineNumber\": 214006,\n      \"originalJapaneseLine\": \"「うん、ちゃんと調べたよ」\",\n      \"translatedEnglishLine\": \"\\\"Yeah, I checked properly.\\\"\"\n    },\n    {\n      \"lineNumber\": 214007,\n      \"originalJapaneseLine\": \"「宿のマスターキーを\",\n      \"translatedEnglishLine\": \"\\\"The master keys of the inn\"\n    },\n    {\n      \"lineNumber\": 214008,\n      \"originalJapaneseLine\": \"　持ってるのは支配人と警備員の二人だけ」\",\n      \"translatedEnglishLine\": \"are held by only two people: the manager and the security guard.\\\"\"\n    },\n    {\n      \"lineNumber\": 214009,\n      \"originalJapaneseLine\": \"「ただ、支配人さんはその時間、\",\n      \"translatedEnglishLine\": \"\\\"However, the manager at that time\"\n    },\n    {\n      \"lineNumber\": 214010,\n      \"originalJapaneseLine\": \"　仕事で会食の最中でずっと近くに人がいたって」\",\n      \"translatedEnglishLine\": \"was in a business dinner and had people near him the whole time.\\\"\"\n    },\n    {\n      \"lineNumber\": 214011,\n      \"originalJapaneseLine\": \"「警備員さんは事件当夜、避難誘導やらで忙しく\",\n      \"translatedEnglishLine\": \"\\\"The security guard, on the night of the incident, was busy with evacuation guidance and such,\"\n    },\n    {\n      \"lineNumber\": 214012,\n      \"originalJapaneseLine\": \"　動き回っていたからアリバイのない時間も\",\n      \"translatedEnglishLine\": \"and was moving around, so he does have some times without an alibi,\"\n    },\n    {\n      \"lineNumber\": 214013,\n      \"originalJapaneseLine\": \"　あるにはあるけど……」\",\n      \"translatedEnglishLine\": \"he does, but...\\\"\"\n    },\n    {\n      \"lineNumber\": 214014,\n      \"originalJapaneseLine\": \"「すぐに宿屋を出たから、\",\n      \"translatedEnglishLine\": \"\\\"He left the inn quickly,\"\n    },\n    {\n      \"lineNumber\": 214015,\n      \"originalJapaneseLine\": \"　盗みに入られた部屋全部はとても回れないって」\",\n      \"translatedEnglishLine\": \"so it is impossible for him to have checked all the robbed rooms.\\\"\"\n    },\n    {\n      \"lineNumber\": 214016,\n      \"originalJapaneseLine\": \"「うーん、二人ともアリバイがあるかぁ……」\",\n      \"translatedEnglishLine\": \"\\\"Hmm, both have alibis, huh...\\\"\"\n    },\n    {\n      \"lineNumber\": 214017,\n      \"originalJapaneseLine\": \"「じゃあ外部犯？」\",\n      \"translatedEnglishLine\": \"\\\"Then was it an outsider?\\\"\"\n    },\n    {\n      \"lineNumber\": 214018,\n      \"originalJapaneseLine\": \"「は、ちょっと考えにくいって」\",\n      \"translatedEnglishLine\": \"\\\"H-Hard to imagine.\\\"\"\n    },\n    {\n      \"lineNumber\": 214019,\n      \"originalJapaneseLine\": \"「魔王ランスの騒ぎでこの宿屋の周りは\",\n      \"translatedEnglishLine\": \"\\\"Because of the commotion caused by Demon King Lance,\"\n    },\n    {\n      \"lineNumber\": 214020,\n      \"originalJapaneseLine\": \"　都市警備隊が厳戒態勢を敷いていたから、\",\n      \"translatedEnglishLine\": \"the city guard had the area around this inn on high alert,\"\n    },\n    {\n      \"lineNumber\": 214021,\n      \"originalJapaneseLine\": \"　人っ子一人入れなかったの」\",\n      \"translatedEnglishLine\": \"and not a single person could have gotten in.\\\"\"\n    },\n    {\n      \"lineNumber\": 214022,\n      \"originalJapaneseLine\": \"「うむむむ……\",\n      \"translatedEnglishLine\": \"\\\"Hmmmm...\"\n    },\n    {\n      \"lineNumber\": 214023,\n      \"originalJapaneseLine\": \"　このままだと私達が犯人だねぇ……\",\n      \"translatedEnglishLine\": \"At this rate, it looks like we are the culprits...\\\"\"\n    },\n    {\n      \"lineNumber\": 214024,\n      \"originalJapaneseLine\": \"　包囲網が狭まっていくねぇ」\",\n      \"translatedEnglishLine\": \"\\\"The noose is tightening.\\\"\"\n    },\n    {\n      \"lineNumber\": 214025,\n      \"originalJapaneseLine\": \"「アリバイがなくて犯行可能な奴、\",\n      \"translatedEnglishLine\": \"\\\"Someone without an alibi who could have committed the crime,\"\n    },\n    {\n      \"lineNumber\": 214026,\n      \"originalJapaneseLine\": \"　私、もう一人知ってるわよ」\",\n      \"translatedEnglishLine\": \"I know one more person.\\\"\"\n    },\n    {\n      \"lineNumber\": 214027,\n      \"originalJapaneseLine\": \"「マジすか！？」\",\n      \"translatedEnglishLine\": \"\\\"Seriously!?\\\"\"\n    },\n    {\n      \"lineNumber\": 214028,\n      \"originalJapaneseLine\": \"「魔王ランス」\",\n      \"translatedEnglishLine\": \"\\\"Demon King Lance.\\\"\"\n    },\n    {\n      \"lineNumber\": 214029,\n      \"originalJapaneseLine\": \"「あ、それいい！\",\n      \"translatedEnglishLine\": \"\\\"Ah, that’s great!\"\n    },\n    {\n      \"lineNumber\": 214030,\n      \"originalJapaneseLine\": \"　ランスが犯人ってことにしよう！\",\n      \"translatedEnglishLine\": \"Let’s just say Lance is the culprit!\"\n    },\n    {\n      \"lineNumber\": 214031,\n      \"originalJapaneseLine\": \"　これでロッキー救えるよ！」\",\n      \"translatedEnglishLine\": \"This way we can save Rocky!\\\"\"\n    }\n  ]\n}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 213972,
+                                "originalJapaneseLine": "「うわーお、テキパキ……」",
+                                "translatedEnglishLine": "\"Wow, so efficient...\""
+                            },
+                            {
+                                "lineNumber": 213973,
+                                "originalJapaneseLine": "「えへへ……」",
+                                "translatedEnglishLine": "\"Hehe...\""
+                            },
+                            {
+                                "lineNumber": 213974,
+                                "originalJapaneseLine": "事件当夜、ロッキーの部屋の窓は",
+                                "translatedEnglishLine": "On the night of the incident, Rocky's room window was"
+                            },
+                            {
+                                "lineNumber": 213975,
+                                "originalJapaneseLine": "開きっぱなしだったらしい。",
+                                "translatedEnglishLine": "apparently left wide open."
+                            },
+                            {
+                                "lineNumber": 213976,
+                                "originalJapaneseLine": "手がかり『開いていた窓』を手に入れた。",
+                                "translatedEnglishLine": "Obtained clue: \"Open window.\""
+                            },
+                            {
+                                "lineNumber": 213977,
+                                "originalJapaneseLine": "事件当夜、盗みに入られた客室のほとんどは、",
+                                "translatedEnglishLine": "On the night of the incident, most of the guest rooms that were robbed"
+                            },
+                            {
+                                "lineNumber": 213978,
+                                "originalJapaneseLine": "鍵は施錠されておらず扉も開きっぱなしだった。",
+                                "translatedEnglishLine": "were not locked and the doors were left open."
+                            },
+                            {
+                                "lineNumber": 213979,
+                                "originalJapaneseLine": "手がかり『事件当時の客室のドア』を手に入れた。",
+                                "translatedEnglishLine": "Obtained clue: \"Guest room doors at the time of the incident.\""
+                            },
+                            {
+                                "lineNumber": 213980,
+                                "originalJapaneseLine": "「あくまでも探偵は私がするから安心して、",
+                                "translatedEnglishLine": "\"Rest assured, I will be the detective after all,"
+                            },
+                            {
+                                "lineNumber": 213981,
+                                "originalJapaneseLine": "　＜エール＞ちゃんは手伝ってくれればいいからね」",
+                                "translatedEnglishLine": "and <Yell>-chan, you just have to help me out.\""
+                            },
+                            {
+                                "lineNumber": 213982,
+                                "originalJapaneseLine": "「さ、次に行こう行こーう」",
+                                "translatedEnglishLine": "\"Now, let's move on, let's go!\""
+                            },
+                            {
+                                "lineNumber": 213983,
+                                "originalJapaneseLine": "「うーん、当日のアリバイ調査は",
+                                "translatedEnglishLine": "\"Hmm, the alibi investigation for that day"
+                            },
+                            {
+                                "lineNumber": 213984,
+                                "originalJapaneseLine": "　こんなところかな？」",
+                                "translatedEnglishLine": "is about this much, I suppose?\""
+                            },
+                            {
+                                "lineNumber": 213985,
+                                "originalJapaneseLine": "「これによると、事件当夜、",
+                                "translatedEnglishLine": "\"According to this, on the night of the incident,"
+                            },
+                            {
+                                "lineNumber": 213986,
+                                "originalJapaneseLine": "　魔王ランスの襲撃により、",
+                                "translatedEnglishLine": "due to the Demon King Lance's attack,"
+                            },
+                            {
+                                "lineNumber": 213987,
+                                "originalJapaneseLine": "　宿屋内は極端に人がいなかった」",
+                                "translatedEnglishLine": "the inn was extremely deserted.\""
+                            },
+                            {
+                                "lineNumber": 213988,
+                                "originalJapaneseLine": "「犯行が可能だったのは……",
+                                "translatedEnglishLine": "\"Those who could have possibly committed the crime were..."
+                            },
+                            {
+                                "lineNumber": 213989,
+                                "originalJapaneseLine": "　＜エール＞ちゃんの仲間の面々、",
+                                "translatedEnglishLine": "<Yell>-chan's group of friends,"
+                            },
+                            {
+                                "lineNumber": 213990,
+                                "originalJapaneseLine": "　それから志津香さん、ナギちゃん」",
+                                "translatedEnglishLine": "and also Shizuka-san and Nagi-chan.\""
+                            },
+                            {
+                                "lineNumber": 213991,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": 213992,
+                                "originalJapaneseLine": "「？　他は？」",
+                                "translatedEnglishLine": "\"? What about the others?\""
+                            },
+                            {
+                                "lineNumber": 213993,
+                                "originalJapaneseLine": "「……これだけでした」",
+                                "translatedEnglishLine": "\"...That's all there was.\""
+                            },
+                            {
+                                "lineNumber": 213994,
+                                "originalJapaneseLine": "「えっ！？」",
+                                "translatedEnglishLine": "\"Eh!?\""
+                            },
+                            {
+                                "lineNumber": 213995,
+                                "originalJapaneseLine": "「つ、つまり……",
+                                "translatedEnglishLine": "\"S-So... "
+                            },
+                            {
+                                "lineNumber": 213996,
+                                "originalJapaneseLine": "　この中に犯人が！？」",
+                                "translatedEnglishLine": "the culprit is among us!?\""
+                            },
+                            {
+                                "lineNumber": 213997,
+                                "originalJapaneseLine": "「長田君……自首すれば罪は軽くなるよ？」",
+                                "translatedEnglishLine": "\"Nagata-kun... if you turn yourself in, your punishment will be lighter, you know?\""
+                            },
+                            {
+                                "lineNumber": 213998,
+                                "originalJapaneseLine": "「いや、やってねぇっすよ！？」",
+                                "translatedEnglishLine": "\"No, I didn't do it!\""
+                            },
+                            {
+                                "lineNumber": 213999,
+                                "originalJapaneseLine": "「って、冗談は置いといて。",
+                                "translatedEnglishLine": "\"Anyway, jokes aside."
+                            },
+                            {
+                                "lineNumber": 214000,
+                                "originalJapaneseLine": "　私達しか犯人になりえないってのは……",
+                                "translatedEnglishLine": "The fact that only we could be the culprits is..."
+                            },
+                            {
+                                "lineNumber": 214001,
+                                "originalJapaneseLine": "　ちょーっとまずいねぇ」",
+                                "translatedEnglishLine": "a bit problematic.\""
+                            },
+                            {
+                                "lineNumber": 214002,
+                                "originalJapaneseLine": "「あ、宿の人は調べた？」",
+                                "translatedEnglishLine": "\"Ah, did you check the inn staff?\""
+                            },
+                            {
+                                "lineNumber": 214003,
+                                "originalJapaneseLine": "「支配人も警備員も",
+                                "translatedEnglishLine": "\"Both the manager and the security guard"
+                            },
+                            {
+                                "lineNumber": 214004,
+                                "originalJapaneseLine": "　宿屋のマスターキー持ってて、",
+                                "translatedEnglishLine": "have the inn's master keys,"
+                            },
+                            {
+                                "lineNumber": 214005,
+                                "originalJapaneseLine": "　どこにだって入り放題だし怪しくない？」",
+                                "translatedEnglishLine": "so they can enter anywhere freely, doesn't that seem suspicious?\""
+                            },
+                            {
+                                "lineNumber": 214006,
+                                "originalJapaneseLine": "「うん、ちゃんと調べたよ」",
+                                "translatedEnglishLine": "\"Yeah, I checked properly.\""
+                            },
+                            {
+                                "lineNumber": 214007,
+                                "originalJapaneseLine": "「宿のマスターキーを",
+                                "translatedEnglishLine": "\"The master keys of the inn"
+                            },
+                            {
+                                "lineNumber": 214008,
+                                "originalJapaneseLine": "　持ってるのは支配人と警備員の二人だけ」",
+                                "translatedEnglishLine": "are held by only two people: the manager and the security guard.\""
+                            },
+                            {
+                                "lineNumber": 214009,
+                                "originalJapaneseLine": "「ただ、支配人さんはその時間、",
+                                "translatedEnglishLine": "\"However, the manager at that time"
+                            },
+                            {
+                                "lineNumber": 214010,
+                                "originalJapaneseLine": "　仕事で会食の最中でずっと近くに人がいたって」",
+                                "translatedEnglishLine": "was in a business dinner and had people near him the whole time.\""
+                            },
+                            {
+                                "lineNumber": 214011,
+                                "originalJapaneseLine": "「警備員さんは事件当夜、避難誘導やらで忙しく",
+                                "translatedEnglishLine": "\"The security guard, on the night of the incident, was busy with evacuation guidance and such,"
+                            },
+                            {
+                                "lineNumber": 214012,
+                                "originalJapaneseLine": "　動き回っていたからアリバイのない時間も",
+                                "translatedEnglishLine": "and was moving around, so he does have some times without an alibi,"
+                            },
+                            {
+                                "lineNumber": 214013,
+                                "originalJapaneseLine": "　あるにはあるけど……」",
+                                "translatedEnglishLine": "he does, but...\""
+                            },
+                            {
+                                "lineNumber": 214014,
+                                "originalJapaneseLine": "「すぐに宿屋を出たから、",
+                                "translatedEnglishLine": "\"He left the inn quickly,"
+                            },
+                            {
+                                "lineNumber": 214015,
+                                "originalJapaneseLine": "　盗みに入られた部屋全部はとても回れないって」",
+                                "translatedEnglishLine": "so it is impossible for him to have checked all the robbed rooms.\""
+                            },
+                            {
+                                "lineNumber": 214016,
+                                "originalJapaneseLine": "「うーん、二人ともアリバイがあるかぁ……」",
+                                "translatedEnglishLine": "\"Hmm, both have alibis, huh...\""
+                            },
+                            {
+                                "lineNumber": 214017,
+                                "originalJapaneseLine": "「じゃあ外部犯？」",
+                                "translatedEnglishLine": "\"Then was it an outsider?\""
+                            },
+                            {
+                                "lineNumber": 214018,
+                                "originalJapaneseLine": "「は、ちょっと考えにくいって」",
+                                "translatedEnglishLine": "\"H-Hard to imagine.\""
+                            },
+                            {
+                                "lineNumber": 214019,
+                                "originalJapaneseLine": "「魔王ランスの騒ぎでこの宿屋の周りは",
+                                "translatedEnglishLine": "\"Because of the commotion caused by Demon King Lance,"
+                            },
+                            {
+                                "lineNumber": 214020,
+                                "originalJapaneseLine": "　都市警備隊が厳戒態勢を敷いていたから、",
+                                "translatedEnglishLine": "the city guard had the area around this inn on high alert,"
+                            },
+                            {
+                                "lineNumber": 214021,
+                                "originalJapaneseLine": "　人っ子一人入れなかったの」",
+                                "translatedEnglishLine": "and not a single person could have gotten in.\""
+                            },
+                            {
+                                "lineNumber": 214022,
+                                "originalJapaneseLine": "「うむむむ……",
+                                "translatedEnglishLine": "\"Hmmmm..."
+                            },
+                            {
+                                "lineNumber": 214023,
+                                "originalJapaneseLine": "　このままだと私達が犯人だねぇ……",
+                                "translatedEnglishLine": "At this rate, it looks like we are the culprits...\""
+                            },
+                            {
+                                "lineNumber": 214024,
+                                "originalJapaneseLine": "　包囲網が狭まっていくねぇ」",
+                                "translatedEnglishLine": "\"The noose is tightening.\""
+                            },
+                            {
+                                "lineNumber": 214025,
+                                "originalJapaneseLine": "「アリバイがなくて犯行可能な奴、",
+                                "translatedEnglishLine": "\"Someone without an alibi who could have committed the crime,"
+                            },
+                            {
+                                "lineNumber": 214026,
+                                "originalJapaneseLine": "　私、もう一人知ってるわよ」",
+                                "translatedEnglishLine": "I know one more person.\""
+                            },
+                            {
+                                "lineNumber": 214027,
+                                "originalJapaneseLine": "「マジすか！？」",
+                                "translatedEnglishLine": "\"Seriously!?\""
+                            },
+                            {
+                                "lineNumber": 214028,
+                                "originalJapaneseLine": "「魔王ランス」",
+                                "translatedEnglishLine": "\"Demon King Lance.\""
+                            },
+                            {
+                                "lineNumber": 214029,
+                                "originalJapaneseLine": "「あ、それいい！",
+                                "translatedEnglishLine": "\"Ah, that’s great!"
+                            },
+                            {
+                                "lineNumber": 214030,
+                                "originalJapaneseLine": "　ランスが犯人ってことにしよう！",
+                                "translatedEnglishLine": "Let’s just say Lance is the culprit!"
+                            },
+                            {
+                                "lineNumber": 214031,
+                                "originalJapaneseLine": "　これでロッキー救えるよ！」",
+                                "translatedEnglishLine": "This way we can save Rocky!\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1721,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2987,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4708
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 213972,\n      \"originalJapaneseLine\": \"「うわーお、テキパキ……」\",\n      \"translatedEnglishLine\": \"\\\"Wow, so efficient...\\\"\"\n    },\n    {\n      \"lineNumber\": 213973,\n      \"originalJapaneseLine\": \"「えへへ……」\",\n      \"translatedEnglishLine\": \"\\\"Hehe...\\\"\"\n    },\n    {\n      \"lineNumber\": 213974,\n      \"originalJapaneseLine\": \"事件当夜、ロッキーの部屋の窓は\",\n      \"translatedEnglishLine\": \"On the night of the incident, Rocky's room window was\"\n    },\n    {\n      \"lineNumber\": 213975,\n      \"originalJapaneseLine\": \"開きっぱなしだったらしい。\",\n      \"translatedEnglishLine\": \"apparently left wide open.\"\n    },\n    {\n      \"lineNumber\": 213976,\n      \"originalJapaneseLine\": \"手がかり『開いていた窓』を手に入れた。\",\n      \"translatedEnglishLine\": \"Obtained clue: \\\"Open window.\\\"\"\n    },\n    {\n      \"lineNumber\": 213977,\n      \"originalJapaneseLine\": \"事件当夜、盗みに入られた客室のほとんどは、\",\n      \"translatedEnglishLine\": \"On the night of the incident, most of the guest rooms that were robbed\"\n    },\n    {\n      \"lineNumber\": 213978,\n      \"originalJapaneseLine\": \"鍵は施錠されておらず扉も開きっぱなしだった。\",\n      \"translatedEnglishLine\": \"were not locked and the doors were left open.\"\n    },\n    {\n      \"lineNumber\": 213979,\n      \"originalJapaneseLine\": \"手がかり『事件当時の客室のドア』を手に入れた。\",\n      \"translatedEnglishLine\": \"Obtained clue: \\\"Guest room doors at the time of the incident.\\\"\"\n    },\n    {\n      \"lineNumber\": 213980,\n      \"originalJapaneseLine\": \"「あくまでも探偵は私がするから安心して、\",\n      \"translatedEnglishLine\": \"\\\"Rest assured, I will be the detective after all,\"\n    },\n    {\n      \"lineNumber\": 213981,\n      \"originalJapaneseLine\": \"　＜エール＞ちゃんは手伝ってくれればいいからね」\",\n      \"translatedEnglishLine\": \"and <Yell>-chan, you just have to help me out.\\\"\"\n    },\n    {\n      \"lineNumber\": 213982,\n      \"originalJapaneseLine\": \"「さ、次に行こう行こーう」\",\n      \"translatedEnglishLine\": \"\\\"Now, let's move on, let's go!\\\"\"\n    },\n    {\n      \"lineNumber\": 213983,\n      \"originalJapaneseLine\": \"「うーん、当日のアリバイ調査は\",\n      \"translatedEnglishLine\": \"\\\"Hmm, the alibi investigation for that day\"\n    },\n    {\n      \"lineNumber\": 213984,\n      \"originalJapaneseLine\": \"　こんなところかな？」\",\n      \"translatedEnglishLine\": \"is about this much, I suppose?\\\"\"\n    },\n    {\n      \"lineNumber\": 213985,\n      \"originalJapaneseLine\": \"「これによると、事件当夜、\",\n      \"translatedEnglishLine\": \"\\\"According to this, on the night of the incident,\"\n    },\n    {\n      \"lineNumber\": 213986,\n      \"originalJapaneseLine\": \"　魔王ランスの襲撃により、\",\n      \"translatedEnglishLine\": \"due to the Demon King Lance's attack,\"\n    },\n    {\n      \"lineNumber\": 213987,\n      \"originalJapaneseLine\": \"　宿屋内は極端に人がいなかった」\",\n      \"translatedEnglishLine\": \"the inn was extremely deserted.\\\"\"\n    },\n    {\n      \"lineNumber\": 213988,\n      \"originalJapaneseLine\": \"「犯行が可能だったのは……\",\n      \"translatedEnglishLine\": \"\\\"Those who could have possibly committed the crime were...\"\n    },\n    {\n      \"lineNumber\": 213989,\n      \"originalJapaneseLine\": \"　＜エール＞ちゃんの仲間の面々、\",\n      \"translatedEnglishLine\": \"<Yell>-chan's group of friends,\"\n    },\n    {\n      \"lineNumber\": 213990,\n      \"originalJapaneseLine\": \"　それから志津香さん、ナギちゃん」\",\n      \"translatedEnglishLine\": \"and also Shizuka-san and Nagi-chan.\\\"\"\n    },\n    {\n      \"lineNumber\": 213991,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"............\\\"\"\n    },\n    {\n      \"lineNumber\": 213992,\n      \"originalJapaneseLine\": \"「？　他は？」\",\n      \"translatedEnglishLine\": \"\\\"? What about the others?\\\"\"\n    },\n    {\n      \"lineNumber\": 213993,\n      \"originalJapaneseLine\": \"「……これだけでした」\",\n      \"translatedEnglishLine\": \"\\\"...That's all there was.\\\"\"\n    },\n    {\n      \"lineNumber\": 213994,\n      \"originalJapaneseLine\": \"「えっ！？」\",\n      \"translatedEnglishLine\": \"\\\"Eh!?\\\"\"\n    },\n    {\n      \"lineNumber\": 213995,\n      \"originalJapaneseLine\": \"「つ、つまり……\",\n      \"translatedEnglishLine\": \"\\\"S-So... \"\n    },\n    {\n      \"lineNumber\": 213996,\n      \"originalJapaneseLine\": \"　この中に犯人が！？」\",\n      \"translatedEnglishLine\": \"the culprit is among us!?\\\"\"\n    },\n    {\n      \"lineNumber\": 213997,\n      \"originalJapaneseLine\": \"「長田君……自首すれば罪は軽くなるよ？」\",\n      \"translatedEnglishLine\": \"\\\"Nagata-kun... if you turn yourself in, your punishment will be lighter, you know?\\\"\"\n    },\n    {\n      \"lineNumber\": 213998,\n      \"originalJapaneseLine\": \"「いや、やってねぇっすよ！？」\",\n      \"translatedEnglishLine\": \"\\\"No, I didn't do it!\\\"\"\n    },\n    {\n      \"lineNumber\": 213999,\n      \"originalJapaneseLine\": \"「って、冗談は置いといて。\",\n      \"translatedEnglishLine\": \"\\\"Anyway, jokes aside.\"\n    },\n    {\n      \"lineNumber\": 214000,\n      \"originalJapaneseLine\": \"　私達しか犯人になりえないってのは……\",\n      \"translatedEnglishLine\": \"The fact that only we could be the culprits is...\"\n    },\n    {\n      \"lineNumber\": 214001,\n      \"originalJapaneseLine\": \"　ちょーっとまずいねぇ」\",\n      \"translatedEnglishLine\": \"a bit problematic.\\\"\"\n    },\n    {\n      \"lineNumber\": 214002,\n      \"originalJapaneseLine\": \"「あ、宿の人は調べた？」\",\n      \"translatedEnglishLine\": \"\\\"Ah, did you check the inn staff?\\\"\"\n    },\n    {\n      \"lineNumber\": 214003,\n      \"originalJapaneseLine\": \"「支配人も警備員も\",\n      \"translatedEnglishLine\": \"\\\"Both the manager and the security guard\"\n    },\n    {\n      \"lineNumber\": 214004,\n      \"originalJapaneseLine\": \"　宿屋のマスターキー持ってて、\",\n      \"translatedEnglishLine\": \"have the inn's master keys,\"\n    },\n    {\n      \"lineNumber\": 214005,\n      \"originalJapaneseLine\": \"　どこにだって入り放題だし怪しくない？」\",\n      \"translatedEnglishLine\": \"so they can enter anywhere freely, doesn't that seem suspicious?\\\"\"\n    },\n    {\n      \"lineNumber\": 214006,\n      \"originalJapaneseLine\": \"「うん、ちゃんと調べたよ」\",\n      \"translatedEnglishLine\": \"\\\"Yeah, I checked properly.\\\"\"\n    },\n    {\n      \"lineNumber\": 214007,\n      \"originalJapaneseLine\": \"「宿のマスターキーを\",\n      \"translatedEnglishLine\": \"\\\"The master keys of the inn\"\n    },\n    {\n      \"lineNumber\": 214008,\n      \"originalJapaneseLine\": \"　持ってるのは支配人と警備員の二人だけ」\",\n      \"translatedEnglishLine\": \"are held by only two people: the manager and the security guard.\\\"\"\n    },\n    {\n      \"lineNumber\": 214009,\n      \"originalJapaneseLine\": \"「ただ、支配人さんはその時間、\",\n      \"translatedEnglishLine\": \"\\\"However, the manager at that time\"\n    },\n    {\n      \"lineNumber\": 214010,\n      \"originalJapaneseLine\": \"　仕事で会食の最中でずっと近くに人がいたって」\",\n      \"translatedEnglishLine\": \"was in a business dinner and had people near him the whole time.\\\"\"\n    },\n    {\n      \"lineNumber\": 214011,\n      \"originalJapaneseLine\": \"「警備員さんは事件当夜、避難誘導やらで忙しく\",\n      \"translatedEnglishLine\": \"\\\"The security guard, on the night of the incident, was busy with evacuation guidance and such,\"\n    },\n    {\n      \"lineNumber\": 214012,\n      \"originalJapaneseLine\": \"　動き回っていたからアリバイのない時間も\",\n      \"translatedEnglishLine\": \"and was moving around, so he does have some times without an alibi,\"\n    },\n    {\n      \"lineNumber\": 214013,\n      \"originalJapaneseLine\": \"　あるにはあるけど……」\",\n      \"translatedEnglishLine\": \"he does, but...\\\"\"\n    },\n    {\n      \"lineNumber\": 214014,\n      \"originalJapaneseLine\": \"「すぐに宿屋を出たから、\",\n      \"translatedEnglishLine\": \"\\\"He left the inn quickly,\"\n    },\n    {\n      \"lineNumber\": 214015,\n      \"originalJapaneseLine\": \"　盗みに入られた部屋全部はとても回れないって」\",\n      \"translatedEnglishLine\": \"so it is impossible for him to have checked all the robbed rooms.\\\"\"\n    },\n    {\n      \"lineNumber\": 214016,\n      \"originalJapaneseLine\": \"「うーん、二人ともアリバイがあるかぁ……」\",\n      \"translatedEnglishLine\": \"\\\"Hmm, both have alibis, huh...\\\"\"\n    },\n    {\n      \"lineNumber\": 214017,\n      \"originalJapaneseLine\": \"「じゃあ外部犯？」\",\n      \"translatedEnglishLine\": \"\\\"Then was it an outsider?\\\"\"\n    },\n    {\n      \"lineNumber\": 214018,\n      \"originalJapaneseLine\": \"「は、ちょっと考えにくいって」\",\n      \"translatedEnglishLine\": \"\\\"H-Hard to imagine.\\\"\"\n    },\n    {\n      \"lineNumber\": 214019,\n      \"originalJapaneseLine\": \"「魔王ランスの騒ぎでこの宿屋の周りは\",\n      \"translatedEnglishLine\": \"\\\"Because of the commotion caused by Demon King Lance,\"\n    },\n    {\n      \"lineNumber\": 214020,\n      \"originalJapaneseLine\": \"　都市警備隊が厳戒態勢を敷いていたから、\",\n      \"translatedEnglishLine\": \"the city guard had the area around this inn on high alert,\"\n    },\n    {\n      \"lineNumber\": 214021,\n      \"originalJapaneseLine\": \"　人っ子一人入れなかったの」\",\n      \"translatedEnglishLine\": \"and not a single person could have gotten in.\\\"\"\n    },\n    {\n      \"lineNumber\": 214022,\n      \"originalJapaneseLine\": \"「うむむむ……\",\n      \"translatedEnglishLine\": \"\\\"Hmmmm...\"\n    },\n    {\n      \"lineNumber\": 214023,\n      \"originalJapaneseLine\": \"　このままだと私達が犯人だねぇ……\",\n      \"translatedEnglishLine\": \"At this rate, it looks like we are the culprits...\\\"\"\n    },\n    {\n      \"lineNumber\": 214024,\n      \"originalJapaneseLine\": \"　包囲網が狭まっていくねぇ」\",\n      \"translatedEnglishLine\": \"\\\"The noose is tightening.\\\"\"\n    },\n    {\n      \"lineNumber\": 214025,\n      \"originalJapaneseLine\": \"「アリバイがなくて犯行可能な奴、\",\n      \"translatedEnglishLine\": \"\\\"Someone without an alibi who could have committed the crime,\"\n    },\n    {\n      \"lineNumber\": 214026,\n      \"originalJapaneseLine\": \"　私、もう一人知ってるわよ」\",\n      \"translatedEnglishLine\": \"I know one more person.\\\"\"\n    },\n    {\n      \"lineNumber\": 214027,\n      \"originalJapaneseLine\": \"「マジすか！？」\",\n      \"translatedEnglishLine\": \"\\\"Seriously!?\\\"\"\n    },\n    {\n      \"lineNumber\": 214028,\n      \"originalJapaneseLine\": \"「魔王ランス」\",\n      \"translatedEnglishLine\": \"\\\"Demon King Lance.\\\"\"\n    },\n    {\n      \"lineNumber\": 214029,\n      \"originalJapaneseLine\": \"「あ、それいい！\",\n      \"translatedEnglishLine\": \"\\\"Ah, that’s great!\"\n    },\n    {\n      \"lineNumber\": 214030,\n      \"originalJapaneseLine\": \"　ランスが犯人ってことにしよう！\",\n      \"translatedEnglishLine\": \"Let’s just say Lance is the culprit!\"\n    },\n    {\n      \"lineNumber\": 214031,\n      \"originalJapaneseLine\": \"　これでロッキー救えるよ！」\",\n      \"translatedEnglishLine\": \"This way we can save Rocky!\\\"\"\n    }\n  ]\n}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 213972,
+                "originalJapaneseLine": "「うわーお、テキパキ……」",
+                "translatedEnglishLine": "\"Wow, so efficient...\""
+            },
+            {
+                "lineNumber": 213973,
+                "originalJapaneseLine": "「えへへ……」",
+                "translatedEnglishLine": "\"Hehe...\""
+            },
+            {
+                "lineNumber": 213974,
+                "originalJapaneseLine": "事件当夜、ロッキーの部屋の窓は",
+                "translatedEnglishLine": "On the night of the incident, Rocky's room window was"
+            },
+            {
+                "lineNumber": 213975,
+                "originalJapaneseLine": "開きっぱなしだったらしい。",
+                "translatedEnglishLine": "apparently left wide open."
+            },
+            {
+                "lineNumber": 213976,
+                "originalJapaneseLine": "手がかり『開いていた窓』を手に入れた。",
+                "translatedEnglishLine": "Obtained clue: \"Open window.\""
+            },
+            {
+                "lineNumber": 213977,
+                "originalJapaneseLine": "事件当夜、盗みに入られた客室のほとんどは、",
+                "translatedEnglishLine": "On the night of the incident, most of the guest rooms that were robbed"
+            },
+            {
+                "lineNumber": 213978,
+                "originalJapaneseLine": "鍵は施錠されておらず扉も開きっぱなしだった。",
+                "translatedEnglishLine": "were not locked and the doors were left open."
+            },
+            {
+                "lineNumber": 213979,
+                "originalJapaneseLine": "手がかり『事件当時の客室のドア』を手に入れた。",
+                "translatedEnglishLine": "Obtained clue: \"Guest room doors at the time of the incident.\""
+            },
+            {
+                "lineNumber": 213980,
+                "originalJapaneseLine": "「あくまでも探偵は私がするから安心して、",
+                "translatedEnglishLine": "\"Rest assured, I will be the detective after all,"
+            },
+            {
+                "lineNumber": 213981,
+                "originalJapaneseLine": "　＜エール＞ちゃんは手伝ってくれればいいからね」",
+                "translatedEnglishLine": "and <Yell>-chan, you just have to help me out.\""
+            },
+            {
+                "lineNumber": 213982,
+                "originalJapaneseLine": "「さ、次に行こう行こーう」",
+                "translatedEnglishLine": "\"Now, let's move on, let's go!\""
+            },
+            {
+                "lineNumber": 213983,
+                "originalJapaneseLine": "「うーん、当日のアリバイ調査は",
+                "translatedEnglishLine": "\"Hmm, the alibi investigation for that day"
+            },
+            {
+                "lineNumber": 213984,
+                "originalJapaneseLine": "　こんなところかな？」",
+                "translatedEnglishLine": "is about this much, I suppose?\""
+            },
+            {
+                "lineNumber": 213985,
+                "originalJapaneseLine": "「これによると、事件当夜、",
+                "translatedEnglishLine": "\"According to this, on the night of the incident,"
+            },
+            {
+                "lineNumber": 213986,
+                "originalJapaneseLine": "　魔王ランスの襲撃により、",
+                "translatedEnglishLine": "due to the Demon King Lance's attack,"
+            },
+            {
+                "lineNumber": 213987,
+                "originalJapaneseLine": "　宿屋内は極端に人がいなかった」",
+                "translatedEnglishLine": "the inn was extremely deserted.\""
+            },
+            {
+                "lineNumber": 213988,
+                "originalJapaneseLine": "「犯行が可能だったのは……",
+                "translatedEnglishLine": "\"Those who could have possibly committed the crime were..."
+            },
+            {
+                "lineNumber": 213989,
+                "originalJapaneseLine": "　＜エール＞ちゃんの仲間の面々、",
+                "translatedEnglishLine": "<Yell>-chan's group of friends,"
+            },
+            {
+                "lineNumber": 213990,
+                "originalJapaneseLine": "　それから志津香さん、ナギちゃん」",
+                "translatedEnglishLine": "and also Shizuka-san and Nagi-chan.\""
+            },
+            {
+                "lineNumber": 213991,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": 213992,
+                "originalJapaneseLine": "「？　他は？」",
+                "translatedEnglishLine": "\"? What about the others?\""
+            },
+            {
+                "lineNumber": 213993,
+                "originalJapaneseLine": "「……これだけでした」",
+                "translatedEnglishLine": "\"...That's all there was.\""
+            },
+            {
+                "lineNumber": 213994,
+                "originalJapaneseLine": "「えっ！？」",
+                "translatedEnglishLine": "\"Eh!?\""
+            },
+            {
+                "lineNumber": 213995,
+                "originalJapaneseLine": "「つ、つまり……",
+                "translatedEnglishLine": "\"S-So... "
+            },
+            {
+                "lineNumber": 213996,
+                "originalJapaneseLine": "　この中に犯人が！？」",
+                "translatedEnglishLine": "the culprit is among us!?\""
+            },
+            {
+                "lineNumber": 213997,
+                "originalJapaneseLine": "「長田君……自首すれば罪は軽くなるよ？」",
+                "translatedEnglishLine": "\"Nagata-kun... if you turn yourself in, your punishment will be lighter, you know?\""
+            },
+            {
+                "lineNumber": 213998,
+                "originalJapaneseLine": "「いや、やってねぇっすよ！？」",
+                "translatedEnglishLine": "\"No, I didn't do it!\""
+            },
+            {
+                "lineNumber": 213999,
+                "originalJapaneseLine": "「って、冗談は置いといて。",
+                "translatedEnglishLine": "\"Anyway, jokes aside."
+            },
+            {
+                "lineNumber": 214000,
+                "originalJapaneseLine": "　私達しか犯人になりえないってのは……",
+                "translatedEnglishLine": "The fact that only we could be the culprits is..."
+            },
+            {
+                "lineNumber": 214001,
+                "originalJapaneseLine": "　ちょーっとまずいねぇ」",
+                "translatedEnglishLine": "a bit problematic.\""
+            },
+            {
+                "lineNumber": 214002,
+                "originalJapaneseLine": "「あ、宿の人は調べた？」",
+                "translatedEnglishLine": "\"Ah, did you check the inn staff?\""
+            },
+            {
+                "lineNumber": 214003,
+                "originalJapaneseLine": "「支配人も警備員も",
+                "translatedEnglishLine": "\"Both the manager and the security guard"
+            },
+            {
+                "lineNumber": 214004,
+                "originalJapaneseLine": "　宿屋のマスターキー持ってて、",
+                "translatedEnglishLine": "have the inn's master keys,"
+            },
+            {
+                "lineNumber": 214005,
+                "originalJapaneseLine": "　どこにだって入り放題だし怪しくない？」",
+                "translatedEnglishLine": "so they can enter anywhere freely, doesn't that seem suspicious?\""
+            },
+            {
+                "lineNumber": 214006,
+                "originalJapaneseLine": "「うん、ちゃんと調べたよ」",
+                "translatedEnglishLine": "\"Yeah, I checked properly.\""
+            },
+            {
+                "lineNumber": 214007,
+                "originalJapaneseLine": "「宿のマスターキーを",
+                "translatedEnglishLine": "\"The master keys of the inn"
+            },
+            {
+                "lineNumber": 214008,
+                "originalJapaneseLine": "　持ってるのは支配人と警備員の二人だけ」",
+                "translatedEnglishLine": "are held by only two people: the manager and the security guard.\""
+            },
+            {
+                "lineNumber": 214009,
+                "originalJapaneseLine": "「ただ、支配人さんはその時間、",
+                "translatedEnglishLine": "\"However, the manager at that time"
+            },
+            {
+                "lineNumber": 214010,
+                "originalJapaneseLine": "　仕事で会食の最中でずっと近くに人がいたって」",
+                "translatedEnglishLine": "was in a business dinner and had people near him the whole time.\""
+            },
+            {
+                "lineNumber": 214011,
+                "originalJapaneseLine": "「警備員さんは事件当夜、避難誘導やらで忙しく",
+                "translatedEnglishLine": "\"The security guard, on the night of the incident, was busy with evacuation guidance and such,"
+            },
+            {
+                "lineNumber": 214012,
+                "originalJapaneseLine": "　動き回っていたからアリバイのない時間も",
+                "translatedEnglishLine": "and was moving around, so he does have some times without an alibi,"
+            },
+            {
+                "lineNumber": 214013,
+                "originalJapaneseLine": "　あるにはあるけど……」",
+                "translatedEnglishLine": "he does, but...\""
+            },
+            {
+                "lineNumber": 214014,
+                "originalJapaneseLine": "「すぐに宿屋を出たから、",
+                "translatedEnglishLine": "\"He left the inn quickly,"
+            },
+            {
+                "lineNumber": 214015,
+                "originalJapaneseLine": "　盗みに入られた部屋全部はとても回れないって」",
+                "translatedEnglishLine": "so it is impossible for him to have checked all the robbed rooms.\""
+            },
+            {
+                "lineNumber": 214016,
+                "originalJapaneseLine": "「うーん、二人ともアリバイがあるかぁ……」",
+                "translatedEnglishLine": "\"Hmm, both have alibis, huh...\""
+            },
+            {
+                "lineNumber": 214017,
+                "originalJapaneseLine": "「じゃあ外部犯？」",
+                "translatedEnglishLine": "\"Then was it an outsider?\""
+            },
+            {
+                "lineNumber": 214018,
+                "originalJapaneseLine": "「は、ちょっと考えにくいって」",
+                "translatedEnglishLine": "\"H-Hard to imagine.\""
+            },
+            {
+                "lineNumber": 214019,
+                "originalJapaneseLine": "「魔王ランスの騒ぎでこの宿屋の周りは",
+                "translatedEnglishLine": "\"Because of the commotion caused by Demon King Lance,"
+            },
+            {
+                "lineNumber": 214020,
+                "originalJapaneseLine": "　都市警備隊が厳戒態勢を敷いていたから、",
+                "translatedEnglishLine": "the city guard had the area around this inn on high alert,"
+            },
+            {
+                "lineNumber": 214021,
+                "originalJapaneseLine": "　人っ子一人入れなかったの」",
+                "translatedEnglishLine": "and not a single person could have gotten in.\""
+            },
+            {
+                "lineNumber": 214022,
+                "originalJapaneseLine": "「うむむむ……",
+                "translatedEnglishLine": "\"Hmmmm..."
+            },
+            {
+                "lineNumber": 214023,
+                "originalJapaneseLine": "　このままだと私達が犯人だねぇ……",
+                "translatedEnglishLine": "At this rate, it looks like we are the culprits...\""
+            },
+            {
+                "lineNumber": 214024,
+                "originalJapaneseLine": "　包囲網が狭まっていくねぇ」",
+                "translatedEnglishLine": "\"The noose is tightening.\""
+            },
+            {
+                "lineNumber": 214025,
+                "originalJapaneseLine": "「アリバイがなくて犯行可能な奴、",
+                "translatedEnglishLine": "\"Someone without an alibi who could have committed the crime,"
+            },
+            {
+                "lineNumber": 214026,
+                "originalJapaneseLine": "　私、もう一人知ってるわよ」",
+                "translatedEnglishLine": "I know one more person.\""
+            },
+            {
+                "lineNumber": 214027,
+                "originalJapaneseLine": "「マジすか！？」",
+                "translatedEnglishLine": "\"Seriously!?\""
+            },
+            {
+                "lineNumber": 214028,
+                "originalJapaneseLine": "「魔王ランス」",
+                "translatedEnglishLine": "\"Demon King Lance.\""
+            },
+            {
+                "lineNumber": 214029,
+                "originalJapaneseLine": "「あ、それいい！",
+                "translatedEnglishLine": "\"Ah, that’s great!"
+            },
+            {
+                "lineNumber": 214030,
+                "originalJapaneseLine": "　ランスが犯人ってことにしよう！",
+                "translatedEnglishLine": "Let’s just say Lance is the culprit!"
+            },
+            {
+                "lineNumber": 214031,
+                "originalJapaneseLine": "　これでロッキー救えるよ！」",
+                "translatedEnglishLine": "This way we can save Rocky!\""
+            }
+        ]
+    }
+}

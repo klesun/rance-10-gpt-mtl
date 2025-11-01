@@ -1,1 +1,719 @@
-{"id":"resp_0500aaeb4fe1a2ca0068f10987b8f48194b4b62090f0f6a344","object":"response","created_at":1760627079,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0500aaeb4fe1a2ca0068f109880e3c8194b998df951876dbfb","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":125071,\"originalJapaneseLine\":\"「んー？　なんの話だ？」\",\"translatedEnglishLine\":\"\\\"Hmm? What are you talking about?\\\"\"},{\"lineNumber\":125072,\"originalJapaneseLine\":\"「おや、ランス殿」\",\"translatedEnglishLine\":\"\\\"Oh, Lord Rance.\\\"\"},{\"lineNumber\":125073,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"......\\\"\"},{\"lineNumber\":125074,\"originalJapaneseLine\":\"ジーーーーッと、批難がましい目で\",\"translatedEnglishLine\":\"Staring intently with a reproachful gaze,\"},{\"lineNumber\":125075,\"originalJapaneseLine\":\"ランスが透琳を睨みつける。\",\"translatedEnglishLine\":\"Rance glares at Tourin.\"},{\"lineNumber\":125076,\"originalJapaneseLine\":\"「……お前、なんか妙に\",\"translatedEnglishLine\":\"\\\"...You, somehow,\"},{\"lineNumber\":125077,\"originalJapaneseLine\":\"　女の子に囲まれてないか？\",\"translatedEnglishLine\":\"aren't you surrounded by girls or something?\"},{\"lineNumber\":125078,\"originalJapaneseLine\":\"　それも若い子ばかり……」\",\"translatedEnglishLine\":\"And they're all young ones...\\\"\"},{\"lineNumber\":125079,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"\\\"Haah...\\\"\"},{\"lineNumber\":125080,\"originalJapaneseLine\":\"　そういうことも多いかも知れませんが……」\",\"translatedEnglishLine\":\"That might be true in many cases, though...\\\"\"},{\"lineNumber\":125081,\"originalJapaneseLine\":\"「お前、司令部の侵入禁止ーー！」\",\"translatedEnglishLine\":\"\\\"You're forbidden from entering the headquarters!\\\"\"},{\"lineNumber\":125082,\"originalJapaneseLine\":\"「むう……」\",\"translatedEnglishLine\":\"\\\"Mmm...\\\"\"},{\"lineNumber\":125083,\"originalJapaneseLine\":\"「困りますな」\",\"translatedEnglishLine\":\"\\\"That's troubling.\\\"\"},{\"lineNumber\":125084,\"originalJapaneseLine\":\"「馬鹿なこと言うのはやめて下さい！」\",\"translatedEnglishLine\":\"\\\"Please stop saying such foolish things!\\\"\"},{\"lineNumber\":125085,\"originalJapaneseLine\":\"「……むっ、クリームちゃんは\",\"translatedEnglishLine\":\"\\\"...Hmph, Cream-chan is\"},{\"lineNumber\":125086,\"originalJapaneseLine\":\"　俺よりも透琳の味方なのか！」\",\"translatedEnglishLine\":\"more on Tourin's side than mine!\\\"\"},{\"lineNumber\":125087,\"originalJapaneseLine\":\"「ショック……」\",\"translatedEnglishLine\":\"\\\"I'm shocked...\\\"\"},{\"lineNumber\":125088,\"originalJapaneseLine\":\"「本当にこの方でいいんですか……？」\",\"translatedEnglishLine\":\"\\\"Is this really the right person...?\\\"\"},{\"lineNumber\":125089,\"originalJapaneseLine\":\"「こういう方だから良いのです」\",\"translatedEnglishLine\":\"\\\"It's because this person is like this that it's good.\\\"\"},{\"lineNumber\":125090,\"originalJapaneseLine\":\"「他の方とは生き方が違う、\",\"translatedEnglishLine\":\"\\\"Their way of life is different from others,\"},{\"lineNumber\":125091,\"originalJapaneseLine\":\"　こういう方だから……」\",\"translatedEnglishLine\":\"it's because this person is like this...\\\"\"},{\"lineNumber\":125092,\"originalJapaneseLine\":\"「うう、分かりません、分かりません……」\",\"translatedEnglishLine\":\"\\\"Ugh, I don't understand, I don't understand...\\\"\"},{\"lineNumber\":125093,\"originalJapaneseLine\":\"「……なんか、失礼なこと言われてる？」\",\"translatedEnglishLine\":\"\\\"...Am I being said something rude?\\\"\"},{\"lineNumber\":125094,\"originalJapaneseLine\":\"「采配は任せる。\",\"translatedEnglishLine\":\"\\\"I'll leave the command to you.\"},{\"lineNumber\":125095,\"originalJapaneseLine\":\"　俺を上手く使ってくれよ」\",\"translatedEnglishLine\":\"Use me well.\\\"\"},{\"lineNumber\":125096,\"originalJapaneseLine\":\"「はぁー、暇だなー」\",\"translatedEnglishLine\":\"\\\"Haa, I’m so bored.\\\"\"},{\"lineNumber\":125097,\"originalJapaneseLine\":\"「そうですねぇ、ランス様」\",\"translatedEnglishLine\":\"\\\"That's right, Lord Rance.\\\"\"},{\"lineNumber\":125098,\"originalJapaneseLine\":\"「こんな日は梅昆布茶でもしばくに限るな」\",\"translatedEnglishLine\":\"\\\"On days like this, nothing beats sipping plum kelp tea.\\\"\"},{\"lineNumber\":125099,\"originalJapaneseLine\":\"「美味しいですね、ランス様」\",\"translatedEnglishLine\":\"\\\"It's delicious, isn't it, Lord Rance?\\\"\"},{\"lineNumber\":125100,\"originalJapaneseLine\":\"「うむうむ」\",\"translatedEnglishLine\":\"\\\"Mhm, mhm.\\\"\"},{\"lineNumber\":125101,\"originalJapaneseLine\":\"「ぷはぁ〜、まったり……」\",\"translatedEnglishLine\":\"\\\"Phew~ so relaxing...\\\"\"},{\"lineNumber\":125102,\"originalJapaneseLine\":\"「ほう、それほど暇なのか……」\",\"translatedEnglishLine\":\"\\\"Oh my, you're that bored...?\\\"\"},{\"lineNumber\":125103,\"originalJapaneseLine\":\"「げっ、早雲」\",\"translatedEnglishLine\":\"\\\"Ugh, Souun.\\\"\"},{\"lineNumber\":125104,\"originalJapaneseLine\":\"「それは丁度良かった。\",\"translatedEnglishLine\":\"\\\"That's just perfect.\"},{\"lineNumber\":125105,\"originalJapaneseLine\":\"　総統のお耳に入れたい話なら、山とあります」\",\"translatedEnglishLine\":\"If it's something you'd like the Commander-in-Chief to hear, I have a mountain of things.\\\"\"},{\"lineNumber\":125106,\"originalJapaneseLine\":\"「うむ、トップとしての責務、\",\"translatedEnglishLine\":\"\\\"Hmm, as the leader,\"},{\"lineNumber\":125107,\"originalJapaneseLine\":\"　できる限り果たしてもらうぞ」\",\"translatedEnglishLine\":\"I expect you to fulfill your duties as much as possible.\\\"\"},{\"lineNumber\":125108,\"originalJapaneseLine\":\"「ぐっ、なんで俺が……」\",\"translatedEnglishLine\":\"\\\"Ugh, why me...?\\\"\"},{\"lineNumber\":125109,\"originalJapaneseLine\":\"「お前は総統閣下だろう。\",\"translatedEnglishLine\":\"\\\"You're the Commander-in-Chief, aren't you?\"},{\"lineNumber\":125110,\"originalJapaneseLine\":\"　仕事なら誰よりもしてもらわなければ\",\"translatedEnglishLine\":\"When it comes to work, you have to do it more than anyone else,\"},{\"lineNumber\":125111,\"originalJapaneseLine\":\"　困るくらいだ」\",\"translatedEnglishLine\":\"or it would be troubling.\\\"\"},{\"lineNumber\":125112,\"originalJapaneseLine\":\"「むむむ……」\",\"translatedEnglishLine\":\"\\\"Hmmm...\\\"\"},{\"lineNumber\":125113,\"originalJapaneseLine\":\"「大体、なんで二人揃って……」\",\"translatedEnglishLine\":\"\\\"Anyway, why are the two of you here together...\\\"\"},{\"lineNumber\":125114,\"originalJapaneseLine\":\"「私が助っ人を頼んだのです」\",\"translatedEnglishLine\":\"\\\"I asked for help.\\\"\"},{\"lineNumber\":125115,\"originalJapaneseLine\":\"「いや、早雲殿が来て下さって助かりました。\",\"translatedEnglishLine\":\"\\\"No, Souun-san coming has been a great help.\"},{\"lineNumber\":125116,\"originalJapaneseLine\":\"　私だけでは総統も耳を傾けてくれませんから」\",\"translatedEnglishLine\":\"If it were just me, the Commander-in-Chief wouldn't listen.\\\"\"},{\"lineNumber\":125117,\"originalJapaneseLine\":\"「いやいや、この城には\",\"translatedEnglishLine\":\"\\\"No, no, in this castle,\"},{\"lineNumber\":125118,\"originalJapaneseLine\":\"　ランスを甘やかす輩も多い。\",\"translatedEnglishLine\":\"there are many who pamper Rance.\"},{\"lineNumber\":125119,\"originalJapaneseLine\":\"　俺も味方が増えたようで嬉しいよ」\",\"translatedEnglishLine\":\"I'm glad to have more allies myself.\\\"\"},{\"lineNumber\":125120,\"originalJapaneseLine\":\"「今後も――」\",\"translatedEnglishLine\":\"\\\"From now on—\\\"\"},{\"lineNumber\":125121,\"originalJapaneseLine\":\"「ああ、宜しく頼む」\",\"translatedEnglishLine\":\"\\\"Yeah, I’m counting on you.\\\"\"},{\"lineNumber\":125122,\"originalJapaneseLine\":\"二人の間には同じ苦労を背負う者同士の、\",\"translatedEnglishLine\":\"Between the two of them, who shared the same hardships,\"},{\"lineNumber\":125123,\"originalJapaneseLine\":\"奇妙な友情が芽生えつつあった。\",\"translatedEnglishLine\":\"a strange friendship was beginning to blossom.\"},{\"lineNumber\":125124,\"originalJapaneseLine\":\"「ぐっ、なんて嫌な眼鏡コンビだ」\",\"translatedEnglishLine\":\"\\\"Ugh, what an annoying glasses duo.\\\"\"},{\"lineNumber\":125125,\"originalJapaneseLine\":\"「さあ、行くぞ。ランス」\",\"translatedEnglishLine\":\"\\\"Come on, let’s go, Rance.\\\"\"},{\"lineNumber\":125126,\"originalJapaneseLine\":\"「ぎゃー！　いやだー！　ひっぱるなー！」\",\"translatedEnglishLine\":\"\\\"Gyaa! Nooo! Don’t pull me!\\\"\"},{\"lineNumber\":125127,\"originalJapaneseLine\":\"「わあああああ……」\",\"translatedEnglishLine\":\"\\\"Waaaaa...\\\"\"},{\"lineNumber\":125128,\"originalJapaneseLine\":\"「あ、ああ……ずるずると……」\",\"translatedEnglishLine\":\"\\\"Ah, ah... dragging along...\\\"\"},{\"lineNumber\":125129,\"originalJapaneseLine\":\"総統司令部も深夜になると、\",\"translatedEnglishLine\":\"Even the Commander-in-Chief’s headquarters,\"},{\"lineNumber\":125130,\"originalJapaneseLine\":\"昼間の喧噪も息をひそめる。\",\"translatedEnglishLine\":\"becomes silent at midnight after the daytime clamor ends.\"}]}","parsed":{"translationLines":[{"lineNumber":125071,"originalJapaneseLine":"「んー？　なんの話だ？」","translatedEnglishLine":"\"Hmm? What are you talking about?\""},{"lineNumber":125072,"originalJapaneseLine":"「おや、ランス殿」","translatedEnglishLine":"\"Oh, Lord Rance.\""},{"lineNumber":125073,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"......\""},{"lineNumber":125074,"originalJapaneseLine":"ジーーーーッと、批難がましい目で","translatedEnglishLine":"Staring intently with a reproachful gaze,"},{"lineNumber":125075,"originalJapaneseLine":"ランスが透琳を睨みつける。","translatedEnglishLine":"Rance glares at Tourin."},{"lineNumber":125076,"originalJapaneseLine":"「……お前、なんか妙に","translatedEnglishLine":"\"...You, somehow,"},{"lineNumber":125077,"originalJapaneseLine":"　女の子に囲まれてないか？","translatedEnglishLine":"aren't you surrounded by girls or something?"},{"lineNumber":125078,"originalJapaneseLine":"　それも若い子ばかり……」","translatedEnglishLine":"And they're all young ones...\""},{"lineNumber":125079,"originalJapaneseLine":"「はあ……","translatedEnglishLine":"\"Haah...\""},{"lineNumber":125080,"originalJapaneseLine":"　そういうことも多いかも知れませんが……」","translatedEnglishLine":"That might be true in many cases, though...\""},{"lineNumber":125081,"originalJapaneseLine":"「お前、司令部の侵入禁止ーー！」","translatedEnglishLine":"\"You're forbidden from entering the headquarters!\""},{"lineNumber":125082,"originalJapaneseLine":"「むう……」","translatedEnglishLine":"\"Mmm...\""},{"lineNumber":125083,"originalJapaneseLine":"「困りますな」","translatedEnglishLine":"\"That's troubling.\""},{"lineNumber":125084,"originalJapaneseLine":"「馬鹿なこと言うのはやめて下さい！」","translatedEnglishLine":"\"Please stop saying such foolish things!\""},{"lineNumber":125085,"originalJapaneseLine":"「……むっ、クリームちゃんは","translatedEnglishLine":"\"...Hmph, Cream-chan is"},{"lineNumber":125086,"originalJapaneseLine":"　俺よりも透琳の味方なのか！」","translatedEnglishLine":"more on Tourin's side than mine!\""},{"lineNumber":125087,"originalJapaneseLine":"「ショック……」","translatedEnglishLine":"\"I'm shocked...\""},{"lineNumber":125088,"originalJapaneseLine":"「本当にこの方でいいんですか……？」","translatedEnglishLine":"\"Is this really the right person...?\""},{"lineNumber":125089,"originalJapaneseLine":"「こういう方だから良いのです」","translatedEnglishLine":"\"It's because this person is like this that it's good.\""},{"lineNumber":125090,"originalJapaneseLine":"「他の方とは生き方が違う、","translatedEnglishLine":"\"Their way of life is different from others,"},{"lineNumber":125091,"originalJapaneseLine":"　こういう方だから……」","translatedEnglishLine":"it's because this person is like this...\""},{"lineNumber":125092,"originalJapaneseLine":"「うう、分かりません、分かりません……」","translatedEnglishLine":"\"Ugh, I don't understand, I don't understand...\""},{"lineNumber":125093,"originalJapaneseLine":"「……なんか、失礼なこと言われてる？」","translatedEnglishLine":"\"...Am I being said something rude?\""},{"lineNumber":125094,"originalJapaneseLine":"「采配は任せる。","translatedEnglishLine":"\"I'll leave the command to you."},{"lineNumber":125095,"originalJapaneseLine":"　俺を上手く使ってくれよ」","translatedEnglishLine":"Use me well.\""},{"lineNumber":125096,"originalJapaneseLine":"「はぁー、暇だなー」","translatedEnglishLine":"\"Haa, I’m so bored.\""},{"lineNumber":125097,"originalJapaneseLine":"「そうですねぇ、ランス様」","translatedEnglishLine":"\"That's right, Lord Rance.\""},{"lineNumber":125098,"originalJapaneseLine":"「こんな日は梅昆布茶でもしばくに限るな」","translatedEnglishLine":"\"On days like this, nothing beats sipping plum kelp tea.\""},{"lineNumber":125099,"originalJapaneseLine":"「美味しいですね、ランス様」","translatedEnglishLine":"\"It's delicious, isn't it, Lord Rance?\""},{"lineNumber":125100,"originalJapaneseLine":"「うむうむ」","translatedEnglishLine":"\"Mhm, mhm.\""},{"lineNumber":125101,"originalJapaneseLine":"「ぷはぁ〜、まったり……」","translatedEnglishLine":"\"Phew~ so relaxing...\""},{"lineNumber":125102,"originalJapaneseLine":"「ほう、それほど暇なのか……」","translatedEnglishLine":"\"Oh my, you're that bored...?\""},{"lineNumber":125103,"originalJapaneseLine":"「げっ、早雲」","translatedEnglishLine":"\"Ugh, Souun.\""},{"lineNumber":125104,"originalJapaneseLine":"「それは丁度良かった。","translatedEnglishLine":"\"That's just perfect."},{"lineNumber":125105,"originalJapaneseLine":"　総統のお耳に入れたい話なら、山とあります」","translatedEnglishLine":"If it's something you'd like the Commander-in-Chief to hear, I have a mountain of things.\""},{"lineNumber":125106,"originalJapaneseLine":"「うむ、トップとしての責務、","translatedEnglishLine":"\"Hmm, as the leader,"},{"lineNumber":125107,"originalJapaneseLine":"　できる限り果たしてもらうぞ」","translatedEnglishLine":"I expect you to fulfill your duties as much as possible.\""},{"lineNumber":125108,"originalJapaneseLine":"「ぐっ、なんで俺が……」","translatedEnglishLine":"\"Ugh, why me...?\""},{"lineNumber":125109,"originalJapaneseLine":"「お前は総統閣下だろう。","translatedEnglishLine":"\"You're the Commander-in-Chief, aren't you?"},{"lineNumber":125110,"originalJapaneseLine":"　仕事なら誰よりもしてもらわなければ","translatedEnglishLine":"When it comes to work, you have to do it more than anyone else,"},{"lineNumber":125111,"originalJapaneseLine":"　困るくらいだ」","translatedEnglishLine":"or it would be troubling.\""},{"lineNumber":125112,"originalJapaneseLine":"「むむむ……」","translatedEnglishLine":"\"Hmmm...\""},{"lineNumber":125113,"originalJapaneseLine":"「大体、なんで二人揃って……」","translatedEnglishLine":"\"Anyway, why are the two of you here together...\""},{"lineNumber":125114,"originalJapaneseLine":"「私が助っ人を頼んだのです」","translatedEnglishLine":"\"I asked for help.\""},{"lineNumber":125115,"originalJapaneseLine":"「いや、早雲殿が来て下さって助かりました。","translatedEnglishLine":"\"No, Souun-san coming has been a great help."},{"lineNumber":125116,"originalJapaneseLine":"　私だけでは総統も耳を傾けてくれませんから」","translatedEnglishLine":"If it were just me, the Commander-in-Chief wouldn't listen.\""},{"lineNumber":125117,"originalJapaneseLine":"「いやいや、この城には","translatedEnglishLine":"\"No, no, in this castle,"},{"lineNumber":125118,"originalJapaneseLine":"　ランスを甘やかす輩も多い。","translatedEnglishLine":"there are many who pamper Rance."},{"lineNumber":125119,"originalJapaneseLine":"　俺も味方が増えたようで嬉しいよ」","translatedEnglishLine":"I'm glad to have more allies myself.\""},{"lineNumber":125120,"originalJapaneseLine":"「今後も――」","translatedEnglishLine":"\"From now on—\""},{"lineNumber":125121,"originalJapaneseLine":"「ああ、宜しく頼む」","translatedEnglishLine":"\"Yeah, I’m counting on you.\""},{"lineNumber":125122,"originalJapaneseLine":"二人の間には同じ苦労を背負う者同士の、","translatedEnglishLine":"Between the two of them, who shared the same hardships,"},{"lineNumber":125123,"originalJapaneseLine":"奇妙な友情が芽生えつつあった。","translatedEnglishLine":"a strange friendship was beginning to blossom."},{"lineNumber":125124,"originalJapaneseLine":"「ぐっ、なんて嫌な眼鏡コンビだ」","translatedEnglishLine":"\"Ugh, what an annoying glasses duo.\""},{"lineNumber":125125,"originalJapaneseLine":"「さあ、行くぞ。ランス」","translatedEnglishLine":"\"Come on, let’s go, Rance.\""},{"lineNumber":125126,"originalJapaneseLine":"「ぎゃー！　いやだー！　ひっぱるなー！」","translatedEnglishLine":"\"Gyaa! Nooo! Don’t pull me!\""},{"lineNumber":125127,"originalJapaneseLine":"「わあああああ……」","translatedEnglishLine":"\"Waaaaa...\""},{"lineNumber":125128,"originalJapaneseLine":"「あ、ああ……ずるずると……」","translatedEnglishLine":"\"Ah, ah... dragging along...\""},{"lineNumber":125129,"originalJapaneseLine":"総統司令部も深夜になると、","translatedEnglishLine":"Even the Commander-in-Chief’s headquarters,"},{"lineNumber":125130,"originalJapaneseLine":"昼間の喧噪も息をひそめる。","translatedEnglishLine":"becomes silent at midnight after the daytime clamor ends."}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1664,"input_tokens_details":{"cached_tokens":0},"output_tokens":2169,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3833},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":125071,\"originalJapaneseLine\":\"「んー？　なんの話だ？」\",\"translatedEnglishLine\":\"\\\"Hmm? What are you talking about?\\\"\"},{\"lineNumber\":125072,\"originalJapaneseLine\":\"「おや、ランス殿」\",\"translatedEnglishLine\":\"\\\"Oh, Lord Rance.\\\"\"},{\"lineNumber\":125073,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"......\\\"\"},{\"lineNumber\":125074,\"originalJapaneseLine\":\"ジーーーーッと、批難がましい目で\",\"translatedEnglishLine\":\"Staring intently with a reproachful gaze,\"},{\"lineNumber\":125075,\"originalJapaneseLine\":\"ランスが透琳を睨みつける。\",\"translatedEnglishLine\":\"Rance glares at Tourin.\"},{\"lineNumber\":125076,\"originalJapaneseLine\":\"「……お前、なんか妙に\",\"translatedEnglishLine\":\"\\\"...You, somehow,\"},{\"lineNumber\":125077,\"originalJapaneseLine\":\"　女の子に囲まれてないか？\",\"translatedEnglishLine\":\"aren't you surrounded by girls or something?\"},{\"lineNumber\":125078,\"originalJapaneseLine\":\"　それも若い子ばかり……」\",\"translatedEnglishLine\":\"And they're all young ones...\\\"\"},{\"lineNumber\":125079,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"\\\"Haah...\\\"\"},{\"lineNumber\":125080,\"originalJapaneseLine\":\"　そういうことも多いかも知れませんが……」\",\"translatedEnglishLine\":\"That might be true in many cases, though...\\\"\"},{\"lineNumber\":125081,\"originalJapaneseLine\":\"「お前、司令部の侵入禁止ーー！」\",\"translatedEnglishLine\":\"\\\"You're forbidden from entering the headquarters!\\\"\"},{\"lineNumber\":125082,\"originalJapaneseLine\":\"「むう……」\",\"translatedEnglishLine\":\"\\\"Mmm...\\\"\"},{\"lineNumber\":125083,\"originalJapaneseLine\":\"「困りますな」\",\"translatedEnglishLine\":\"\\\"That's troubling.\\\"\"},{\"lineNumber\":125084,\"originalJapaneseLine\":\"「馬鹿なこと言うのはやめて下さい！」\",\"translatedEnglishLine\":\"\\\"Please stop saying such foolish things!\\\"\"},{\"lineNumber\":125085,\"originalJapaneseLine\":\"「……むっ、クリームちゃんは\",\"translatedEnglishLine\":\"\\\"...Hmph, Cream-chan is\"},{\"lineNumber\":125086,\"originalJapaneseLine\":\"　俺よりも透琳の味方なのか！」\",\"translatedEnglishLine\":\"more on Tourin's side than mine!\\\"\"},{\"lineNumber\":125087,\"originalJapaneseLine\":\"「ショック……」\",\"translatedEnglishLine\":\"\\\"I'm shocked...\\\"\"},{\"lineNumber\":125088,\"originalJapaneseLine\":\"「本当にこの方でいいんですか……？」\",\"translatedEnglishLine\":\"\\\"Is this really the right person...?\\\"\"},{\"lineNumber\":125089,\"originalJapaneseLine\":\"「こういう方だから良いのです」\",\"translatedEnglishLine\":\"\\\"It's because this person is like this that it's good.\\\"\"},{\"lineNumber\":125090,\"originalJapaneseLine\":\"「他の方とは生き方が違う、\",\"translatedEnglishLine\":\"\\\"Their way of life is different from others,\"},{\"lineNumber\":125091,\"originalJapaneseLine\":\"　こういう方だから……」\",\"translatedEnglishLine\":\"it's because this person is like this...\\\"\"},{\"lineNumber\":125092,\"originalJapaneseLine\":\"「うう、分かりません、分かりません……」\",\"translatedEnglishLine\":\"\\\"Ugh, I don't understand, I don't understand...\\\"\"},{\"lineNumber\":125093,\"originalJapaneseLine\":\"「……なんか、失礼なこと言われてる？」\",\"translatedEnglishLine\":\"\\\"...Am I being said something rude?\\\"\"},{\"lineNumber\":125094,\"originalJapaneseLine\":\"「采配は任せる。\",\"translatedEnglishLine\":\"\\\"I'll leave the command to you.\"},{\"lineNumber\":125095,\"originalJapaneseLine\":\"　俺を上手く使ってくれよ」\",\"translatedEnglishLine\":\"Use me well.\\\"\"},{\"lineNumber\":125096,\"originalJapaneseLine\":\"「はぁー、暇だなー」\",\"translatedEnglishLine\":\"\\\"Haa, I’m so bored.\\\"\"},{\"lineNumber\":125097,\"originalJapaneseLine\":\"「そうですねぇ、ランス様」\",\"translatedEnglishLine\":\"\\\"That's right, Lord Rance.\\\"\"},{\"lineNumber\":125098,\"originalJapaneseLine\":\"「こんな日は梅昆布茶でもしばくに限るな」\",\"translatedEnglishLine\":\"\\\"On days like this, nothing beats sipping plum kelp tea.\\\"\"},{\"lineNumber\":125099,\"originalJapaneseLine\":\"「美味しいですね、ランス様」\",\"translatedEnglishLine\":\"\\\"It's delicious, isn't it, Lord Rance?\\\"\"},{\"lineNumber\":125100,\"originalJapaneseLine\":\"「うむうむ」\",\"translatedEnglishLine\":\"\\\"Mhm, mhm.\\\"\"},{\"lineNumber\":125101,\"originalJapaneseLine\":\"「ぷはぁ〜、まったり……」\",\"translatedEnglishLine\":\"\\\"Phew~ so relaxing...\\\"\"},{\"lineNumber\":125102,\"originalJapaneseLine\":\"「ほう、それほど暇なのか……」\",\"translatedEnglishLine\":\"\\\"Oh my, you're that bored...?\\\"\"},{\"lineNumber\":125103,\"originalJapaneseLine\":\"「げっ、早雲」\",\"translatedEnglishLine\":\"\\\"Ugh, Souun.\\\"\"},{\"lineNumber\":125104,\"originalJapaneseLine\":\"「それは丁度良かった。\",\"translatedEnglishLine\":\"\\\"That's just perfect.\"},{\"lineNumber\":125105,\"originalJapaneseLine\":\"　総統のお耳に入れたい話なら、山とあります」\",\"translatedEnglishLine\":\"If it's something you'd like the Commander-in-Chief to hear, I have a mountain of things.\\\"\"},{\"lineNumber\":125106,\"originalJapaneseLine\":\"「うむ、トップとしての責務、\",\"translatedEnglishLine\":\"\\\"Hmm, as the leader,\"},{\"lineNumber\":125107,\"originalJapaneseLine\":\"　できる限り果たしてもらうぞ」\",\"translatedEnglishLine\":\"I expect you to fulfill your duties as much as possible.\\\"\"},{\"lineNumber\":125108,\"originalJapaneseLine\":\"「ぐっ、なんで俺が……」\",\"translatedEnglishLine\":\"\\\"Ugh, why me...?\\\"\"},{\"lineNumber\":125109,\"originalJapaneseLine\":\"「お前は総統閣下だろう。\",\"translatedEnglishLine\":\"\\\"You're the Commander-in-Chief, aren't you?\"},{\"lineNumber\":125110,\"originalJapaneseLine\":\"　仕事なら誰よりもしてもらわなければ\",\"translatedEnglishLine\":\"When it comes to work, you have to do it more than anyone else,\"},{\"lineNumber\":125111,\"originalJapaneseLine\":\"　困るくらいだ」\",\"translatedEnglishLine\":\"or it would be troubling.\\\"\"},{\"lineNumber\":125112,\"originalJapaneseLine\":\"「むむむ……」\",\"translatedEnglishLine\":\"\\\"Hmmm...\\\"\"},{\"lineNumber\":125113,\"originalJapaneseLine\":\"「大体、なんで二人揃って……」\",\"translatedEnglishLine\":\"\\\"Anyway, why are the two of you here together...\\\"\"},{\"lineNumber\":125114,\"originalJapaneseLine\":\"「私が助っ人を頼んだのです」\",\"translatedEnglishLine\":\"\\\"I asked for help.\\\"\"},{\"lineNumber\":125115,\"originalJapaneseLine\":\"「いや、早雲殿が来て下さって助かりました。\",\"translatedEnglishLine\":\"\\\"No, Souun-san coming has been a great help.\"},{\"lineNumber\":125116,\"originalJapaneseLine\":\"　私だけでは総統も耳を傾けてくれませんから」\",\"translatedEnglishLine\":\"If it were just me, the Commander-in-Chief wouldn't listen.\\\"\"},{\"lineNumber\":125117,\"originalJapaneseLine\":\"「いやいや、この城には\",\"translatedEnglishLine\":\"\\\"No, no, in this castle,\"},{\"lineNumber\":125118,\"originalJapaneseLine\":\"　ランスを甘やかす輩も多い。\",\"translatedEnglishLine\":\"there are many who pamper Rance.\"},{\"lineNumber\":125119,\"originalJapaneseLine\":\"　俺も味方が増えたようで嬉しいよ」\",\"translatedEnglishLine\":\"I'm glad to have more allies myself.\\\"\"},{\"lineNumber\":125120,\"originalJapaneseLine\":\"「今後も――」\",\"translatedEnglishLine\":\"\\\"From now on—\\\"\"},{\"lineNumber\":125121,\"originalJapaneseLine\":\"「ああ、宜しく頼む」\",\"translatedEnglishLine\":\"\\\"Yeah, I’m counting on you.\\\"\"},{\"lineNumber\":125122,\"originalJapaneseLine\":\"二人の間には同じ苦労を背負う者同士の、\",\"translatedEnglishLine\":\"Between the two of them, who shared the same hardships,\"},{\"lineNumber\":125123,\"originalJapaneseLine\":\"奇妙な友情が芽生えつつあった。\",\"translatedEnglishLine\":\"a strange friendship was beginning to blossom.\"},{\"lineNumber\":125124,\"originalJapaneseLine\":\"「ぐっ、なんて嫌な眼鏡コンビだ」\",\"translatedEnglishLine\":\"\\\"Ugh, what an annoying glasses duo.\\\"\"},{\"lineNumber\":125125,\"originalJapaneseLine\":\"「さあ、行くぞ。ランス」\",\"translatedEnglishLine\":\"\\\"Come on, let’s go, Rance.\\\"\"},{\"lineNumber\":125126,\"originalJapaneseLine\":\"「ぎゃー！　いやだー！　ひっぱるなー！」\",\"translatedEnglishLine\":\"\\\"Gyaa! Nooo! Don’t pull me!\\\"\"},{\"lineNumber\":125127,\"originalJapaneseLine\":\"「わあああああ……」\",\"translatedEnglishLine\":\"\\\"Waaaaa...\\\"\"},{\"lineNumber\":125128,\"originalJapaneseLine\":\"「あ、ああ……ずるずると……」\",\"translatedEnglishLine\":\"\\\"Ah, ah... dragging along...\\\"\"},{\"lineNumber\":125129,\"originalJapaneseLine\":\"総統司令部も深夜になると、\",\"translatedEnglishLine\":\"Even the Commander-in-Chief’s headquarters,\"},{\"lineNumber\":125130,\"originalJapaneseLine\":\"昼間の喧噪も息をひそめる。\",\"translatedEnglishLine\":\"becomes silent at midnight after the daytime clamor ends.\"}]}","output_parsed":{"translationLines":[{"lineNumber":125071,"originalJapaneseLine":"「んー？　なんの話だ？」","translatedEnglishLine":"\"Hmm? What are you talking about?\""},{"lineNumber":125072,"originalJapaneseLine":"「おや、ランス殿」","translatedEnglishLine":"\"Oh, Lord Rance.\""},{"lineNumber":125073,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"......\""},{"lineNumber":125074,"originalJapaneseLine":"ジーーーーッと、批難がましい目で","translatedEnglishLine":"Staring intently with a reproachful gaze,"},{"lineNumber":125075,"originalJapaneseLine":"ランスが透琳を睨みつける。","translatedEnglishLine":"Rance glares at Tourin."},{"lineNumber":125076,"originalJapaneseLine":"「……お前、なんか妙に","translatedEnglishLine":"\"...You, somehow,"},{"lineNumber":125077,"originalJapaneseLine":"　女の子に囲まれてないか？","translatedEnglishLine":"aren't you surrounded by girls or something?"},{"lineNumber":125078,"originalJapaneseLine":"　それも若い子ばかり……」","translatedEnglishLine":"And they're all young ones...\""},{"lineNumber":125079,"originalJapaneseLine":"「はあ……","translatedEnglishLine":"\"Haah...\""},{"lineNumber":125080,"originalJapaneseLine":"　そういうことも多いかも知れませんが……」","translatedEnglishLine":"That might be true in many cases, though...\""},{"lineNumber":125081,"originalJapaneseLine":"「お前、司令部の侵入禁止ーー！」","translatedEnglishLine":"\"You're forbidden from entering the headquarters!\""},{"lineNumber":125082,"originalJapaneseLine":"「むう……」","translatedEnglishLine":"\"Mmm...\""},{"lineNumber":125083,"originalJapaneseLine":"「困りますな」","translatedEnglishLine":"\"That's troubling.\""},{"lineNumber":125084,"originalJapaneseLine":"「馬鹿なこと言うのはやめて下さい！」","translatedEnglishLine":"\"Please stop saying such foolish things!\""},{"lineNumber":125085,"originalJapaneseLine":"「……むっ、クリームちゃんは","translatedEnglishLine":"\"...Hmph, Cream-chan is"},{"lineNumber":125086,"originalJapaneseLine":"　俺よりも透琳の味方なのか！」","translatedEnglishLine":"more on Tourin's side than mine!\""},{"lineNumber":125087,"originalJapaneseLine":"「ショック……」","translatedEnglishLine":"\"I'm shocked...\""},{"lineNumber":125088,"originalJapaneseLine":"「本当にこの方でいいんですか……？」","translatedEnglishLine":"\"Is this really the right person...?\""},{"lineNumber":125089,"originalJapaneseLine":"「こういう方だから良いのです」","translatedEnglishLine":"\"It's because this person is like this that it's good.\""},{"lineNumber":125090,"originalJapaneseLine":"「他の方とは生き方が違う、","translatedEnglishLine":"\"Their way of life is different from others,"},{"lineNumber":125091,"originalJapaneseLine":"　こういう方だから……」","translatedEnglishLine":"it's because this person is like this...\""},{"lineNumber":125092,"originalJapaneseLine":"「うう、分かりません、分かりません……」","translatedEnglishLine":"\"Ugh, I don't understand, I don't understand...\""},{"lineNumber":125093,"originalJapaneseLine":"「……なんか、失礼なこと言われてる？」","translatedEnglishLine":"\"...Am I being said something rude?\""},{"lineNumber":125094,"originalJapaneseLine":"「采配は任せる。","translatedEnglishLine":"\"I'll leave the command to you."},{"lineNumber":125095,"originalJapaneseLine":"　俺を上手く使ってくれよ」","translatedEnglishLine":"Use me well.\""},{"lineNumber":125096,"originalJapaneseLine":"「はぁー、暇だなー」","translatedEnglishLine":"\"Haa, I’m so bored.\""},{"lineNumber":125097,"originalJapaneseLine":"「そうですねぇ、ランス様」","translatedEnglishLine":"\"That's right, Lord Rance.\""},{"lineNumber":125098,"originalJapaneseLine":"「こんな日は梅昆布茶でもしばくに限るな」","translatedEnglishLine":"\"On days like this, nothing beats sipping plum kelp tea.\""},{"lineNumber":125099,"originalJapaneseLine":"「美味しいですね、ランス様」","translatedEnglishLine":"\"It's delicious, isn't it, Lord Rance?\""},{"lineNumber":125100,"originalJapaneseLine":"「うむうむ」","translatedEnglishLine":"\"Mhm, mhm.\""},{"lineNumber":125101,"originalJapaneseLine":"「ぷはぁ〜、まったり……」","translatedEnglishLine":"\"Phew~ so relaxing...\""},{"lineNumber":125102,"originalJapaneseLine":"「ほう、それほど暇なのか……」","translatedEnglishLine":"\"Oh my, you're that bored...?\""},{"lineNumber":125103,"originalJapaneseLine":"「げっ、早雲」","translatedEnglishLine":"\"Ugh, Souun.\""},{"lineNumber":125104,"originalJapaneseLine":"「それは丁度良かった。","translatedEnglishLine":"\"That's just perfect."},{"lineNumber":125105,"originalJapaneseLine":"　総統のお耳に入れたい話なら、山とあります」","translatedEnglishLine":"If it's something you'd like the Commander-in-Chief to hear, I have a mountain of things.\""},{"lineNumber":125106,"originalJapaneseLine":"「うむ、トップとしての責務、","translatedEnglishLine":"\"Hmm, as the leader,"},{"lineNumber":125107,"originalJapaneseLine":"　できる限り果たしてもらうぞ」","translatedEnglishLine":"I expect you to fulfill your duties as much as possible.\""},{"lineNumber":125108,"originalJapaneseLine":"「ぐっ、なんで俺が……」","translatedEnglishLine":"\"Ugh, why me...?\""},{"lineNumber":125109,"originalJapaneseLine":"「お前は総統閣下だろう。","translatedEnglishLine":"\"You're the Commander-in-Chief, aren't you?"},{"lineNumber":125110,"originalJapaneseLine":"　仕事なら誰よりもしてもらわなければ","translatedEnglishLine":"When it comes to work, you have to do it more than anyone else,"},{"lineNumber":125111,"originalJapaneseLine":"　困るくらいだ」","translatedEnglishLine":"or it would be troubling.\""},{"lineNumber":125112,"originalJapaneseLine":"「むむむ……」","translatedEnglishLine":"\"Hmmm...\""},{"lineNumber":125113,"originalJapaneseLine":"「大体、なんで二人揃って……」","translatedEnglishLine":"\"Anyway, why are the two of you here together...\""},{"lineNumber":125114,"originalJapaneseLine":"「私が助っ人を頼んだのです」","translatedEnglishLine":"\"I asked for help.\""},{"lineNumber":125115,"originalJapaneseLine":"「いや、早雲殿が来て下さって助かりました。","translatedEnglishLine":"\"No, Souun-san coming has been a great help."},{"lineNumber":125116,"originalJapaneseLine":"　私だけでは総統も耳を傾けてくれませんから」","translatedEnglishLine":"If it were just me, the Commander-in-Chief wouldn't listen.\""},{"lineNumber":125117,"originalJapaneseLine":"「いやいや、この城には","translatedEnglishLine":"\"No, no, in this castle,"},{"lineNumber":125118,"originalJapaneseLine":"　ランスを甘やかす輩も多い。","translatedEnglishLine":"there are many who pamper Rance."},{"lineNumber":125119,"originalJapaneseLine":"　俺も味方が増えたようで嬉しいよ」","translatedEnglishLine":"I'm glad to have more allies myself.\""},{"lineNumber":125120,"originalJapaneseLine":"「今後も――」","translatedEnglishLine":"\"From now on—\""},{"lineNumber":125121,"originalJapaneseLine":"「ああ、宜しく頼む」","translatedEnglishLine":"\"Yeah, I’m counting on you.\""},{"lineNumber":125122,"originalJapaneseLine":"二人の間には同じ苦労を背負う者同士の、","translatedEnglishLine":"Between the two of them, who shared the same hardships,"},{"lineNumber":125123,"originalJapaneseLine":"奇妙な友情が芽生えつつあった。","translatedEnglishLine":"a strange friendship was beginning to blossom."},{"lineNumber":125124,"originalJapaneseLine":"「ぐっ、なんて嫌な眼鏡コンビだ」","translatedEnglishLine":"\"Ugh, what an annoying glasses duo.\""},{"lineNumber":125125,"originalJapaneseLine":"「さあ、行くぞ。ランス」","translatedEnglishLine":"\"Come on, let’s go, Rance.\""},{"lineNumber":125126,"originalJapaneseLine":"「ぎゃー！　いやだー！　ひっぱるなー！」","translatedEnglishLine":"\"Gyaa! Nooo! Don’t pull me!\""},{"lineNumber":125127,"originalJapaneseLine":"「わあああああ……」","translatedEnglishLine":"\"Waaaaa...\""},{"lineNumber":125128,"originalJapaneseLine":"「あ、ああ……ずるずると……」","translatedEnglishLine":"\"Ah, ah... dragging along...\""},{"lineNumber":125129,"originalJapaneseLine":"総統司令部も深夜になると、","translatedEnglishLine":"Even the Commander-in-Chief’s headquarters,"},{"lineNumber":125130,"originalJapaneseLine":"昼間の喧噪も息をひそめる。","translatedEnglishLine":"becomes silent at midnight after the daytime clamor ends."}]}}
+{
+    "id": "resp_0500aaeb4fe1a2ca0068f10987b8f48194b4b62090f0f6a344",
+    "object": "response",
+    "created_at": 1760627079,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0500aaeb4fe1a2ca0068f109880e3c8194b998df951876dbfb",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":125071,\"originalJapaneseLine\":\"「んー？　なんの話だ？」\",\"translatedEnglishLine\":\"\\\"Hmm? What are you talking about?\\\"\"},{\"lineNumber\":125072,\"originalJapaneseLine\":\"「おや、ランス殿」\",\"translatedEnglishLine\":\"\\\"Oh, Lord Rance.\\\"\"},{\"lineNumber\":125073,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"......\\\"\"},{\"lineNumber\":125074,\"originalJapaneseLine\":\"ジーーーーッと、批難がましい目で\",\"translatedEnglishLine\":\"Staring intently with a reproachful gaze,\"},{\"lineNumber\":125075,\"originalJapaneseLine\":\"ランスが透琳を睨みつける。\",\"translatedEnglishLine\":\"Rance glares at Tourin.\"},{\"lineNumber\":125076,\"originalJapaneseLine\":\"「……お前、なんか妙に\",\"translatedEnglishLine\":\"\\\"...You, somehow,\"},{\"lineNumber\":125077,\"originalJapaneseLine\":\"　女の子に囲まれてないか？\",\"translatedEnglishLine\":\"aren't you surrounded by girls or something?\"},{\"lineNumber\":125078,\"originalJapaneseLine\":\"　それも若い子ばかり……」\",\"translatedEnglishLine\":\"And they're all young ones...\\\"\"},{\"lineNumber\":125079,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"\\\"Haah...\\\"\"},{\"lineNumber\":125080,\"originalJapaneseLine\":\"　そういうことも多いかも知れませんが……」\",\"translatedEnglishLine\":\"That might be true in many cases, though...\\\"\"},{\"lineNumber\":125081,\"originalJapaneseLine\":\"「お前、司令部の侵入禁止ーー！」\",\"translatedEnglishLine\":\"\\\"You're forbidden from entering the headquarters!\\\"\"},{\"lineNumber\":125082,\"originalJapaneseLine\":\"「むう……」\",\"translatedEnglishLine\":\"\\\"Mmm...\\\"\"},{\"lineNumber\":125083,\"originalJapaneseLine\":\"「困りますな」\",\"translatedEnglishLine\":\"\\\"That's troubling.\\\"\"},{\"lineNumber\":125084,\"originalJapaneseLine\":\"「馬鹿なこと言うのはやめて下さい！」\",\"translatedEnglishLine\":\"\\\"Please stop saying such foolish things!\\\"\"},{\"lineNumber\":125085,\"originalJapaneseLine\":\"「……むっ、クリームちゃんは\",\"translatedEnglishLine\":\"\\\"...Hmph, Cream-chan is\"},{\"lineNumber\":125086,\"originalJapaneseLine\":\"　俺よりも透琳の味方なのか！」\",\"translatedEnglishLine\":\"more on Tourin's side than mine!\\\"\"},{\"lineNumber\":125087,\"originalJapaneseLine\":\"「ショック……」\",\"translatedEnglishLine\":\"\\\"I'm shocked...\\\"\"},{\"lineNumber\":125088,\"originalJapaneseLine\":\"「本当にこの方でいいんですか……？」\",\"translatedEnglishLine\":\"\\\"Is this really the right person...?\\\"\"},{\"lineNumber\":125089,\"originalJapaneseLine\":\"「こういう方だから良いのです」\",\"translatedEnglishLine\":\"\\\"It's because this person is like this that it's good.\\\"\"},{\"lineNumber\":125090,\"originalJapaneseLine\":\"「他の方とは生き方が違う、\",\"translatedEnglishLine\":\"\\\"Their way of life is different from others,\"},{\"lineNumber\":125091,\"originalJapaneseLine\":\"　こういう方だから……」\",\"translatedEnglishLine\":\"it's because this person is like this...\\\"\"},{\"lineNumber\":125092,\"originalJapaneseLine\":\"「うう、分かりません、分かりません……」\",\"translatedEnglishLine\":\"\\\"Ugh, I don't understand, I don't understand...\\\"\"},{\"lineNumber\":125093,\"originalJapaneseLine\":\"「……なんか、失礼なこと言われてる？」\",\"translatedEnglishLine\":\"\\\"...Am I being said something rude?\\\"\"},{\"lineNumber\":125094,\"originalJapaneseLine\":\"「采配は任せる。\",\"translatedEnglishLine\":\"\\\"I'll leave the command to you.\"},{\"lineNumber\":125095,\"originalJapaneseLine\":\"　俺を上手く使ってくれよ」\",\"translatedEnglishLine\":\"Use me well.\\\"\"},{\"lineNumber\":125096,\"originalJapaneseLine\":\"「はぁー、暇だなー」\",\"translatedEnglishLine\":\"\\\"Haa, I’m so bored.\\\"\"},{\"lineNumber\":125097,\"originalJapaneseLine\":\"「そうですねぇ、ランス様」\",\"translatedEnglishLine\":\"\\\"That's right, Lord Rance.\\\"\"},{\"lineNumber\":125098,\"originalJapaneseLine\":\"「こんな日は梅昆布茶でもしばくに限るな」\",\"translatedEnglishLine\":\"\\\"On days like this, nothing beats sipping plum kelp tea.\\\"\"},{\"lineNumber\":125099,\"originalJapaneseLine\":\"「美味しいですね、ランス様」\",\"translatedEnglishLine\":\"\\\"It's delicious, isn't it, Lord Rance?\\\"\"},{\"lineNumber\":125100,\"originalJapaneseLine\":\"「うむうむ」\",\"translatedEnglishLine\":\"\\\"Mhm, mhm.\\\"\"},{\"lineNumber\":125101,\"originalJapaneseLine\":\"「ぷはぁ〜、まったり……」\",\"translatedEnglishLine\":\"\\\"Phew~ so relaxing...\\\"\"},{\"lineNumber\":125102,\"originalJapaneseLine\":\"「ほう、それほど暇なのか……」\",\"translatedEnglishLine\":\"\\\"Oh my, you're that bored...?\\\"\"},{\"lineNumber\":125103,\"originalJapaneseLine\":\"「げっ、早雲」\",\"translatedEnglishLine\":\"\\\"Ugh, Souun.\\\"\"},{\"lineNumber\":125104,\"originalJapaneseLine\":\"「それは丁度良かった。\",\"translatedEnglishLine\":\"\\\"That's just perfect.\"},{\"lineNumber\":125105,\"originalJapaneseLine\":\"　総統のお耳に入れたい話なら、山とあります」\",\"translatedEnglishLine\":\"If it's something you'd like the Commander-in-Chief to hear, I have a mountain of things.\\\"\"},{\"lineNumber\":125106,\"originalJapaneseLine\":\"「うむ、トップとしての責務、\",\"translatedEnglishLine\":\"\\\"Hmm, as the leader,\"},{\"lineNumber\":125107,\"originalJapaneseLine\":\"　できる限り果たしてもらうぞ」\",\"translatedEnglishLine\":\"I expect you to fulfill your duties as much as possible.\\\"\"},{\"lineNumber\":125108,\"originalJapaneseLine\":\"「ぐっ、なんで俺が……」\",\"translatedEnglishLine\":\"\\\"Ugh, why me...?\\\"\"},{\"lineNumber\":125109,\"originalJapaneseLine\":\"「お前は総統閣下だろう。\",\"translatedEnglishLine\":\"\\\"You're the Commander-in-Chief, aren't you?\"},{\"lineNumber\":125110,\"originalJapaneseLine\":\"　仕事なら誰よりもしてもらわなければ\",\"translatedEnglishLine\":\"When it comes to work, you have to do it more than anyone else,\"},{\"lineNumber\":125111,\"originalJapaneseLine\":\"　困るくらいだ」\",\"translatedEnglishLine\":\"or it would be troubling.\\\"\"},{\"lineNumber\":125112,\"originalJapaneseLine\":\"「むむむ……」\",\"translatedEnglishLine\":\"\\\"Hmmm...\\\"\"},{\"lineNumber\":125113,\"originalJapaneseLine\":\"「大体、なんで二人揃って……」\",\"translatedEnglishLine\":\"\\\"Anyway, why are the two of you here together...\\\"\"},{\"lineNumber\":125114,\"originalJapaneseLine\":\"「私が助っ人を頼んだのです」\",\"translatedEnglishLine\":\"\\\"I asked for help.\\\"\"},{\"lineNumber\":125115,\"originalJapaneseLine\":\"「いや、早雲殿が来て下さって助かりました。\",\"translatedEnglishLine\":\"\\\"No, Souun-san coming has been a great help.\"},{\"lineNumber\":125116,\"originalJapaneseLine\":\"　私だけでは総統も耳を傾けてくれませんから」\",\"translatedEnglishLine\":\"If it were just me, the Commander-in-Chief wouldn't listen.\\\"\"},{\"lineNumber\":125117,\"originalJapaneseLine\":\"「いやいや、この城には\",\"translatedEnglishLine\":\"\\\"No, no, in this castle,\"},{\"lineNumber\":125118,\"originalJapaneseLine\":\"　ランスを甘やかす輩も多い。\",\"translatedEnglishLine\":\"there are many who pamper Rance.\"},{\"lineNumber\":125119,\"originalJapaneseLine\":\"　俺も味方が増えたようで嬉しいよ」\",\"translatedEnglishLine\":\"I'm glad to have more allies myself.\\\"\"},{\"lineNumber\":125120,\"originalJapaneseLine\":\"「今後も――」\",\"translatedEnglishLine\":\"\\\"From now on—\\\"\"},{\"lineNumber\":125121,\"originalJapaneseLine\":\"「ああ、宜しく頼む」\",\"translatedEnglishLine\":\"\\\"Yeah, I’m counting on you.\\\"\"},{\"lineNumber\":125122,\"originalJapaneseLine\":\"二人の間には同じ苦労を背負う者同士の、\",\"translatedEnglishLine\":\"Between the two of them, who shared the same hardships,\"},{\"lineNumber\":125123,\"originalJapaneseLine\":\"奇妙な友情が芽生えつつあった。\",\"translatedEnglishLine\":\"a strange friendship was beginning to blossom.\"},{\"lineNumber\":125124,\"originalJapaneseLine\":\"「ぐっ、なんて嫌な眼鏡コンビだ」\",\"translatedEnglishLine\":\"\\\"Ugh, what an annoying glasses duo.\\\"\"},{\"lineNumber\":125125,\"originalJapaneseLine\":\"「さあ、行くぞ。ランス」\",\"translatedEnglishLine\":\"\\\"Come on, let’s go, Rance.\\\"\"},{\"lineNumber\":125126,\"originalJapaneseLine\":\"「ぎゃー！　いやだー！　ひっぱるなー！」\",\"translatedEnglishLine\":\"\\\"Gyaa! Nooo! Don’t pull me!\\\"\"},{\"lineNumber\":125127,\"originalJapaneseLine\":\"「わあああああ……」\",\"translatedEnglishLine\":\"\\\"Waaaaa...\\\"\"},{\"lineNumber\":125128,\"originalJapaneseLine\":\"「あ、ああ……ずるずると……」\",\"translatedEnglishLine\":\"\\\"Ah, ah... dragging along...\\\"\"},{\"lineNumber\":125129,\"originalJapaneseLine\":\"総統司令部も深夜になると、\",\"translatedEnglishLine\":\"Even the Commander-in-Chief’s headquarters,\"},{\"lineNumber\":125130,\"originalJapaneseLine\":\"昼間の喧噪も息をひそめる。\",\"translatedEnglishLine\":\"becomes silent at midnight after the daytime clamor ends.\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 125071,
+                                "originalJapaneseLine": "「んー？　なんの話だ？」",
+                                "translatedEnglishLine": "\"Hmm? What are you talking about?\""
+                            },
+                            {
+                                "lineNumber": 125072,
+                                "originalJapaneseLine": "「おや、ランス殿」",
+                                "translatedEnglishLine": "\"Oh, Lord Rance.\""
+                            },
+                            {
+                                "lineNumber": 125073,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"......\""
+                            },
+                            {
+                                "lineNumber": 125074,
+                                "originalJapaneseLine": "ジーーーーッと、批難がましい目で",
+                                "translatedEnglishLine": "Staring intently with a reproachful gaze,"
+                            },
+                            {
+                                "lineNumber": 125075,
+                                "originalJapaneseLine": "ランスが透琳を睨みつける。",
+                                "translatedEnglishLine": "Rance glares at Tourin."
+                            },
+                            {
+                                "lineNumber": 125076,
+                                "originalJapaneseLine": "「……お前、なんか妙に",
+                                "translatedEnglishLine": "\"...You, somehow,"
+                            },
+                            {
+                                "lineNumber": 125077,
+                                "originalJapaneseLine": "　女の子に囲まれてないか？",
+                                "translatedEnglishLine": "aren't you surrounded by girls or something?"
+                            },
+                            {
+                                "lineNumber": 125078,
+                                "originalJapaneseLine": "　それも若い子ばかり……」",
+                                "translatedEnglishLine": "And they're all young ones...\""
+                            },
+                            {
+                                "lineNumber": 125079,
+                                "originalJapaneseLine": "「はあ……",
+                                "translatedEnglishLine": "\"Haah...\""
+                            },
+                            {
+                                "lineNumber": 125080,
+                                "originalJapaneseLine": "　そういうことも多いかも知れませんが……」",
+                                "translatedEnglishLine": "That might be true in many cases, though...\""
+                            },
+                            {
+                                "lineNumber": 125081,
+                                "originalJapaneseLine": "「お前、司令部の侵入禁止ーー！」",
+                                "translatedEnglishLine": "\"You're forbidden from entering the headquarters!\""
+                            },
+                            {
+                                "lineNumber": 125082,
+                                "originalJapaneseLine": "「むう……」",
+                                "translatedEnglishLine": "\"Mmm...\""
+                            },
+                            {
+                                "lineNumber": 125083,
+                                "originalJapaneseLine": "「困りますな」",
+                                "translatedEnglishLine": "\"That's troubling.\""
+                            },
+                            {
+                                "lineNumber": 125084,
+                                "originalJapaneseLine": "「馬鹿なこと言うのはやめて下さい！」",
+                                "translatedEnglishLine": "\"Please stop saying such foolish things!\""
+                            },
+                            {
+                                "lineNumber": 125085,
+                                "originalJapaneseLine": "「……むっ、クリームちゃんは",
+                                "translatedEnglishLine": "\"...Hmph, Cream-chan is"
+                            },
+                            {
+                                "lineNumber": 125086,
+                                "originalJapaneseLine": "　俺よりも透琳の味方なのか！」",
+                                "translatedEnglishLine": "more on Tourin's side than mine!\""
+                            },
+                            {
+                                "lineNumber": 125087,
+                                "originalJapaneseLine": "「ショック……」",
+                                "translatedEnglishLine": "\"I'm shocked...\""
+                            },
+                            {
+                                "lineNumber": 125088,
+                                "originalJapaneseLine": "「本当にこの方でいいんですか……？」",
+                                "translatedEnglishLine": "\"Is this really the right person...?\""
+                            },
+                            {
+                                "lineNumber": 125089,
+                                "originalJapaneseLine": "「こういう方だから良いのです」",
+                                "translatedEnglishLine": "\"It's because this person is like this that it's good.\""
+                            },
+                            {
+                                "lineNumber": 125090,
+                                "originalJapaneseLine": "「他の方とは生き方が違う、",
+                                "translatedEnglishLine": "\"Their way of life is different from others,"
+                            },
+                            {
+                                "lineNumber": 125091,
+                                "originalJapaneseLine": "　こういう方だから……」",
+                                "translatedEnglishLine": "it's because this person is like this...\""
+                            },
+                            {
+                                "lineNumber": 125092,
+                                "originalJapaneseLine": "「うう、分かりません、分かりません……」",
+                                "translatedEnglishLine": "\"Ugh, I don't understand, I don't understand...\""
+                            },
+                            {
+                                "lineNumber": 125093,
+                                "originalJapaneseLine": "「……なんか、失礼なこと言われてる？」",
+                                "translatedEnglishLine": "\"...Am I being said something rude?\""
+                            },
+                            {
+                                "lineNumber": 125094,
+                                "originalJapaneseLine": "「采配は任せる。",
+                                "translatedEnglishLine": "\"I'll leave the command to you."
+                            },
+                            {
+                                "lineNumber": 125095,
+                                "originalJapaneseLine": "　俺を上手く使ってくれよ」",
+                                "translatedEnglishLine": "Use me well.\""
+                            },
+                            {
+                                "lineNumber": 125096,
+                                "originalJapaneseLine": "「はぁー、暇だなー」",
+                                "translatedEnglishLine": "\"Haa, I’m so bored.\""
+                            },
+                            {
+                                "lineNumber": 125097,
+                                "originalJapaneseLine": "「そうですねぇ、ランス様」",
+                                "translatedEnglishLine": "\"That's right, Lord Rance.\""
+                            },
+                            {
+                                "lineNumber": 125098,
+                                "originalJapaneseLine": "「こんな日は梅昆布茶でもしばくに限るな」",
+                                "translatedEnglishLine": "\"On days like this, nothing beats sipping plum kelp tea.\""
+                            },
+                            {
+                                "lineNumber": 125099,
+                                "originalJapaneseLine": "「美味しいですね、ランス様」",
+                                "translatedEnglishLine": "\"It's delicious, isn't it, Lord Rance?\""
+                            },
+                            {
+                                "lineNumber": 125100,
+                                "originalJapaneseLine": "「うむうむ」",
+                                "translatedEnglishLine": "\"Mhm, mhm.\""
+                            },
+                            {
+                                "lineNumber": 125101,
+                                "originalJapaneseLine": "「ぷはぁ〜、まったり……」",
+                                "translatedEnglishLine": "\"Phew~ so relaxing...\""
+                            },
+                            {
+                                "lineNumber": 125102,
+                                "originalJapaneseLine": "「ほう、それほど暇なのか……」",
+                                "translatedEnglishLine": "\"Oh my, you're that bored...?\""
+                            },
+                            {
+                                "lineNumber": 125103,
+                                "originalJapaneseLine": "「げっ、早雲」",
+                                "translatedEnglishLine": "\"Ugh, Souun.\""
+                            },
+                            {
+                                "lineNumber": 125104,
+                                "originalJapaneseLine": "「それは丁度良かった。",
+                                "translatedEnglishLine": "\"That's just perfect."
+                            },
+                            {
+                                "lineNumber": 125105,
+                                "originalJapaneseLine": "　総統のお耳に入れたい話なら、山とあります」",
+                                "translatedEnglishLine": "If it's something you'd like the Commander-in-Chief to hear, I have a mountain of things.\""
+                            },
+                            {
+                                "lineNumber": 125106,
+                                "originalJapaneseLine": "「うむ、トップとしての責務、",
+                                "translatedEnglishLine": "\"Hmm, as the leader,"
+                            },
+                            {
+                                "lineNumber": 125107,
+                                "originalJapaneseLine": "　できる限り果たしてもらうぞ」",
+                                "translatedEnglishLine": "I expect you to fulfill your duties as much as possible.\""
+                            },
+                            {
+                                "lineNumber": 125108,
+                                "originalJapaneseLine": "「ぐっ、なんで俺が……」",
+                                "translatedEnglishLine": "\"Ugh, why me...?\""
+                            },
+                            {
+                                "lineNumber": 125109,
+                                "originalJapaneseLine": "「お前は総統閣下だろう。",
+                                "translatedEnglishLine": "\"You're the Commander-in-Chief, aren't you?"
+                            },
+                            {
+                                "lineNumber": 125110,
+                                "originalJapaneseLine": "　仕事なら誰よりもしてもらわなければ",
+                                "translatedEnglishLine": "When it comes to work, you have to do it more than anyone else,"
+                            },
+                            {
+                                "lineNumber": 125111,
+                                "originalJapaneseLine": "　困るくらいだ」",
+                                "translatedEnglishLine": "or it would be troubling.\""
+                            },
+                            {
+                                "lineNumber": 125112,
+                                "originalJapaneseLine": "「むむむ……」",
+                                "translatedEnglishLine": "\"Hmmm...\""
+                            },
+                            {
+                                "lineNumber": 125113,
+                                "originalJapaneseLine": "「大体、なんで二人揃って……」",
+                                "translatedEnglishLine": "\"Anyway, why are the two of you here together...\""
+                            },
+                            {
+                                "lineNumber": 125114,
+                                "originalJapaneseLine": "「私が助っ人を頼んだのです」",
+                                "translatedEnglishLine": "\"I asked for help.\""
+                            },
+                            {
+                                "lineNumber": 125115,
+                                "originalJapaneseLine": "「いや、早雲殿が来て下さって助かりました。",
+                                "translatedEnglishLine": "\"No, Souun-san coming has been a great help."
+                            },
+                            {
+                                "lineNumber": 125116,
+                                "originalJapaneseLine": "　私だけでは総統も耳を傾けてくれませんから」",
+                                "translatedEnglishLine": "If it were just me, the Commander-in-Chief wouldn't listen.\""
+                            },
+                            {
+                                "lineNumber": 125117,
+                                "originalJapaneseLine": "「いやいや、この城には",
+                                "translatedEnglishLine": "\"No, no, in this castle,"
+                            },
+                            {
+                                "lineNumber": 125118,
+                                "originalJapaneseLine": "　ランスを甘やかす輩も多い。",
+                                "translatedEnglishLine": "there are many who pamper Rance."
+                            },
+                            {
+                                "lineNumber": 125119,
+                                "originalJapaneseLine": "　俺も味方が増えたようで嬉しいよ」",
+                                "translatedEnglishLine": "I'm glad to have more allies myself.\""
+                            },
+                            {
+                                "lineNumber": 125120,
+                                "originalJapaneseLine": "「今後も――」",
+                                "translatedEnglishLine": "\"From now on—\""
+                            },
+                            {
+                                "lineNumber": 125121,
+                                "originalJapaneseLine": "「ああ、宜しく頼む」",
+                                "translatedEnglishLine": "\"Yeah, I’m counting on you.\""
+                            },
+                            {
+                                "lineNumber": 125122,
+                                "originalJapaneseLine": "二人の間には同じ苦労を背負う者同士の、",
+                                "translatedEnglishLine": "Between the two of them, who shared the same hardships,"
+                            },
+                            {
+                                "lineNumber": 125123,
+                                "originalJapaneseLine": "奇妙な友情が芽生えつつあった。",
+                                "translatedEnglishLine": "a strange friendship was beginning to blossom."
+                            },
+                            {
+                                "lineNumber": 125124,
+                                "originalJapaneseLine": "「ぐっ、なんて嫌な眼鏡コンビだ」",
+                                "translatedEnglishLine": "\"Ugh, what an annoying glasses duo.\""
+                            },
+                            {
+                                "lineNumber": 125125,
+                                "originalJapaneseLine": "「さあ、行くぞ。ランス」",
+                                "translatedEnglishLine": "\"Come on, let’s go, Rance.\""
+                            },
+                            {
+                                "lineNumber": 125126,
+                                "originalJapaneseLine": "「ぎゃー！　いやだー！　ひっぱるなー！」",
+                                "translatedEnglishLine": "\"Gyaa! Nooo! Don’t pull me!\""
+                            },
+                            {
+                                "lineNumber": 125127,
+                                "originalJapaneseLine": "「わあああああ……」",
+                                "translatedEnglishLine": "\"Waaaaa...\""
+                            },
+                            {
+                                "lineNumber": 125128,
+                                "originalJapaneseLine": "「あ、ああ……ずるずると……」",
+                                "translatedEnglishLine": "\"Ah, ah... dragging along...\""
+                            },
+                            {
+                                "lineNumber": 125129,
+                                "originalJapaneseLine": "総統司令部も深夜になると、",
+                                "translatedEnglishLine": "Even the Commander-in-Chief’s headquarters,"
+                            },
+                            {
+                                "lineNumber": 125130,
+                                "originalJapaneseLine": "昼間の喧噪も息をひそめる。",
+                                "translatedEnglishLine": "becomes silent at midnight after the daytime clamor ends."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1664,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2169,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3833
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":125071,\"originalJapaneseLine\":\"「んー？　なんの話だ？」\",\"translatedEnglishLine\":\"\\\"Hmm? What are you talking about?\\\"\"},{\"lineNumber\":125072,\"originalJapaneseLine\":\"「おや、ランス殿」\",\"translatedEnglishLine\":\"\\\"Oh, Lord Rance.\\\"\"},{\"lineNumber\":125073,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"......\\\"\"},{\"lineNumber\":125074,\"originalJapaneseLine\":\"ジーーーーッと、批難がましい目で\",\"translatedEnglishLine\":\"Staring intently with a reproachful gaze,\"},{\"lineNumber\":125075,\"originalJapaneseLine\":\"ランスが透琳を睨みつける。\",\"translatedEnglishLine\":\"Rance glares at Tourin.\"},{\"lineNumber\":125076,\"originalJapaneseLine\":\"「……お前、なんか妙に\",\"translatedEnglishLine\":\"\\\"...You, somehow,\"},{\"lineNumber\":125077,\"originalJapaneseLine\":\"　女の子に囲まれてないか？\",\"translatedEnglishLine\":\"aren't you surrounded by girls or something?\"},{\"lineNumber\":125078,\"originalJapaneseLine\":\"　それも若い子ばかり……」\",\"translatedEnglishLine\":\"And they're all young ones...\\\"\"},{\"lineNumber\":125079,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"\\\"Haah...\\\"\"},{\"lineNumber\":125080,\"originalJapaneseLine\":\"　そういうことも多いかも知れませんが……」\",\"translatedEnglishLine\":\"That might be true in many cases, though...\\\"\"},{\"lineNumber\":125081,\"originalJapaneseLine\":\"「お前、司令部の侵入禁止ーー！」\",\"translatedEnglishLine\":\"\\\"You're forbidden from entering the headquarters!\\\"\"},{\"lineNumber\":125082,\"originalJapaneseLine\":\"「むう……」\",\"translatedEnglishLine\":\"\\\"Mmm...\\\"\"},{\"lineNumber\":125083,\"originalJapaneseLine\":\"「困りますな」\",\"translatedEnglishLine\":\"\\\"That's troubling.\\\"\"},{\"lineNumber\":125084,\"originalJapaneseLine\":\"「馬鹿なこと言うのはやめて下さい！」\",\"translatedEnglishLine\":\"\\\"Please stop saying such foolish things!\\\"\"},{\"lineNumber\":125085,\"originalJapaneseLine\":\"「……むっ、クリームちゃんは\",\"translatedEnglishLine\":\"\\\"...Hmph, Cream-chan is\"},{\"lineNumber\":125086,\"originalJapaneseLine\":\"　俺よりも透琳の味方なのか！」\",\"translatedEnglishLine\":\"more on Tourin's side than mine!\\\"\"},{\"lineNumber\":125087,\"originalJapaneseLine\":\"「ショック……」\",\"translatedEnglishLine\":\"\\\"I'm shocked...\\\"\"},{\"lineNumber\":125088,\"originalJapaneseLine\":\"「本当にこの方でいいんですか……？」\",\"translatedEnglishLine\":\"\\\"Is this really the right person...?\\\"\"},{\"lineNumber\":125089,\"originalJapaneseLine\":\"「こういう方だから良いのです」\",\"translatedEnglishLine\":\"\\\"It's because this person is like this that it's good.\\\"\"},{\"lineNumber\":125090,\"originalJapaneseLine\":\"「他の方とは生き方が違う、\",\"translatedEnglishLine\":\"\\\"Their way of life is different from others,\"},{\"lineNumber\":125091,\"originalJapaneseLine\":\"　こういう方だから……」\",\"translatedEnglishLine\":\"it's because this person is like this...\\\"\"},{\"lineNumber\":125092,\"originalJapaneseLine\":\"「うう、分かりません、分かりません……」\",\"translatedEnglishLine\":\"\\\"Ugh, I don't understand, I don't understand...\\\"\"},{\"lineNumber\":125093,\"originalJapaneseLine\":\"「……なんか、失礼なこと言われてる？」\",\"translatedEnglishLine\":\"\\\"...Am I being said something rude?\\\"\"},{\"lineNumber\":125094,\"originalJapaneseLine\":\"「采配は任せる。\",\"translatedEnglishLine\":\"\\\"I'll leave the command to you.\"},{\"lineNumber\":125095,\"originalJapaneseLine\":\"　俺を上手く使ってくれよ」\",\"translatedEnglishLine\":\"Use me well.\\\"\"},{\"lineNumber\":125096,\"originalJapaneseLine\":\"「はぁー、暇だなー」\",\"translatedEnglishLine\":\"\\\"Haa, I’m so bored.\\\"\"},{\"lineNumber\":125097,\"originalJapaneseLine\":\"「そうですねぇ、ランス様」\",\"translatedEnglishLine\":\"\\\"That's right, Lord Rance.\\\"\"},{\"lineNumber\":125098,\"originalJapaneseLine\":\"「こんな日は梅昆布茶でもしばくに限るな」\",\"translatedEnglishLine\":\"\\\"On days like this, nothing beats sipping plum kelp tea.\\\"\"},{\"lineNumber\":125099,\"originalJapaneseLine\":\"「美味しいですね、ランス様」\",\"translatedEnglishLine\":\"\\\"It's delicious, isn't it, Lord Rance?\\\"\"},{\"lineNumber\":125100,\"originalJapaneseLine\":\"「うむうむ」\",\"translatedEnglishLine\":\"\\\"Mhm, mhm.\\\"\"},{\"lineNumber\":125101,\"originalJapaneseLine\":\"「ぷはぁ〜、まったり……」\",\"translatedEnglishLine\":\"\\\"Phew~ so relaxing...\\\"\"},{\"lineNumber\":125102,\"originalJapaneseLine\":\"「ほう、それほど暇なのか……」\",\"translatedEnglishLine\":\"\\\"Oh my, you're that bored...?\\\"\"},{\"lineNumber\":125103,\"originalJapaneseLine\":\"「げっ、早雲」\",\"translatedEnglishLine\":\"\\\"Ugh, Souun.\\\"\"},{\"lineNumber\":125104,\"originalJapaneseLine\":\"「それは丁度良かった。\",\"translatedEnglishLine\":\"\\\"That's just perfect.\"},{\"lineNumber\":125105,\"originalJapaneseLine\":\"　総統のお耳に入れたい話なら、山とあります」\",\"translatedEnglishLine\":\"If it's something you'd like the Commander-in-Chief to hear, I have a mountain of things.\\\"\"},{\"lineNumber\":125106,\"originalJapaneseLine\":\"「うむ、トップとしての責務、\",\"translatedEnglishLine\":\"\\\"Hmm, as the leader,\"},{\"lineNumber\":125107,\"originalJapaneseLine\":\"　できる限り果たしてもらうぞ」\",\"translatedEnglishLine\":\"I expect you to fulfill your duties as much as possible.\\\"\"},{\"lineNumber\":125108,\"originalJapaneseLine\":\"「ぐっ、なんで俺が……」\",\"translatedEnglishLine\":\"\\\"Ugh, why me...?\\\"\"},{\"lineNumber\":125109,\"originalJapaneseLine\":\"「お前は総統閣下だろう。\",\"translatedEnglishLine\":\"\\\"You're the Commander-in-Chief, aren't you?\"},{\"lineNumber\":125110,\"originalJapaneseLine\":\"　仕事なら誰よりもしてもらわなければ\",\"translatedEnglishLine\":\"When it comes to work, you have to do it more than anyone else,\"},{\"lineNumber\":125111,\"originalJapaneseLine\":\"　困るくらいだ」\",\"translatedEnglishLine\":\"or it would be troubling.\\\"\"},{\"lineNumber\":125112,\"originalJapaneseLine\":\"「むむむ……」\",\"translatedEnglishLine\":\"\\\"Hmmm...\\\"\"},{\"lineNumber\":125113,\"originalJapaneseLine\":\"「大体、なんで二人揃って……」\",\"translatedEnglishLine\":\"\\\"Anyway, why are the two of you here together...\\\"\"},{\"lineNumber\":125114,\"originalJapaneseLine\":\"「私が助っ人を頼んだのです」\",\"translatedEnglishLine\":\"\\\"I asked for help.\\\"\"},{\"lineNumber\":125115,\"originalJapaneseLine\":\"「いや、早雲殿が来て下さって助かりました。\",\"translatedEnglishLine\":\"\\\"No, Souun-san coming has been a great help.\"},{\"lineNumber\":125116,\"originalJapaneseLine\":\"　私だけでは総統も耳を傾けてくれませんから」\",\"translatedEnglishLine\":\"If it were just me, the Commander-in-Chief wouldn't listen.\\\"\"},{\"lineNumber\":125117,\"originalJapaneseLine\":\"「いやいや、この城には\",\"translatedEnglishLine\":\"\\\"No, no, in this castle,\"},{\"lineNumber\":125118,\"originalJapaneseLine\":\"　ランスを甘やかす輩も多い。\",\"translatedEnglishLine\":\"there are many who pamper Rance.\"},{\"lineNumber\":125119,\"originalJapaneseLine\":\"　俺も味方が増えたようで嬉しいよ」\",\"translatedEnglishLine\":\"I'm glad to have more allies myself.\\\"\"},{\"lineNumber\":125120,\"originalJapaneseLine\":\"「今後も――」\",\"translatedEnglishLine\":\"\\\"From now on—\\\"\"},{\"lineNumber\":125121,\"originalJapaneseLine\":\"「ああ、宜しく頼む」\",\"translatedEnglishLine\":\"\\\"Yeah, I’m counting on you.\\\"\"},{\"lineNumber\":125122,\"originalJapaneseLine\":\"二人の間には同じ苦労を背負う者同士の、\",\"translatedEnglishLine\":\"Between the two of them, who shared the same hardships,\"},{\"lineNumber\":125123,\"originalJapaneseLine\":\"奇妙な友情が芽生えつつあった。\",\"translatedEnglishLine\":\"a strange friendship was beginning to blossom.\"},{\"lineNumber\":125124,\"originalJapaneseLine\":\"「ぐっ、なんて嫌な眼鏡コンビだ」\",\"translatedEnglishLine\":\"\\\"Ugh, what an annoying glasses duo.\\\"\"},{\"lineNumber\":125125,\"originalJapaneseLine\":\"「さあ、行くぞ。ランス」\",\"translatedEnglishLine\":\"\\\"Come on, let’s go, Rance.\\\"\"},{\"lineNumber\":125126,\"originalJapaneseLine\":\"「ぎゃー！　いやだー！　ひっぱるなー！」\",\"translatedEnglishLine\":\"\\\"Gyaa! Nooo! Don’t pull me!\\\"\"},{\"lineNumber\":125127,\"originalJapaneseLine\":\"「わあああああ……」\",\"translatedEnglishLine\":\"\\\"Waaaaa...\\\"\"},{\"lineNumber\":125128,\"originalJapaneseLine\":\"「あ、ああ……ずるずると……」\",\"translatedEnglishLine\":\"\\\"Ah, ah... dragging along...\\\"\"},{\"lineNumber\":125129,\"originalJapaneseLine\":\"総統司令部も深夜になると、\",\"translatedEnglishLine\":\"Even the Commander-in-Chief’s headquarters,\"},{\"lineNumber\":125130,\"originalJapaneseLine\":\"昼間の喧噪も息をひそめる。\",\"translatedEnglishLine\":\"becomes silent at midnight after the daytime clamor ends.\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 125071,
+                "originalJapaneseLine": "「んー？　なんの話だ？」",
+                "translatedEnglishLine": "\"Hmm? What are you talking about?\""
+            },
+            {
+                "lineNumber": 125072,
+                "originalJapaneseLine": "「おや、ランス殿」",
+                "translatedEnglishLine": "\"Oh, Lord Rance.\""
+            },
+            {
+                "lineNumber": 125073,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"......\""
+            },
+            {
+                "lineNumber": 125074,
+                "originalJapaneseLine": "ジーーーーッと、批難がましい目で",
+                "translatedEnglishLine": "Staring intently with a reproachful gaze,"
+            },
+            {
+                "lineNumber": 125075,
+                "originalJapaneseLine": "ランスが透琳を睨みつける。",
+                "translatedEnglishLine": "Rance glares at Tourin."
+            },
+            {
+                "lineNumber": 125076,
+                "originalJapaneseLine": "「……お前、なんか妙に",
+                "translatedEnglishLine": "\"...You, somehow,"
+            },
+            {
+                "lineNumber": 125077,
+                "originalJapaneseLine": "　女の子に囲まれてないか？",
+                "translatedEnglishLine": "aren't you surrounded by girls or something?"
+            },
+            {
+                "lineNumber": 125078,
+                "originalJapaneseLine": "　それも若い子ばかり……」",
+                "translatedEnglishLine": "And they're all young ones...\""
+            },
+            {
+                "lineNumber": 125079,
+                "originalJapaneseLine": "「はあ……",
+                "translatedEnglishLine": "\"Haah...\""
+            },
+            {
+                "lineNumber": 125080,
+                "originalJapaneseLine": "　そういうことも多いかも知れませんが……」",
+                "translatedEnglishLine": "That might be true in many cases, though...\""
+            },
+            {
+                "lineNumber": 125081,
+                "originalJapaneseLine": "「お前、司令部の侵入禁止ーー！」",
+                "translatedEnglishLine": "\"You're forbidden from entering the headquarters!\""
+            },
+            {
+                "lineNumber": 125082,
+                "originalJapaneseLine": "「むう……」",
+                "translatedEnglishLine": "\"Mmm...\""
+            },
+            {
+                "lineNumber": 125083,
+                "originalJapaneseLine": "「困りますな」",
+                "translatedEnglishLine": "\"That's troubling.\""
+            },
+            {
+                "lineNumber": 125084,
+                "originalJapaneseLine": "「馬鹿なこと言うのはやめて下さい！」",
+                "translatedEnglishLine": "\"Please stop saying such foolish things!\""
+            },
+            {
+                "lineNumber": 125085,
+                "originalJapaneseLine": "「……むっ、クリームちゃんは",
+                "translatedEnglishLine": "\"...Hmph, Cream-chan is"
+            },
+            {
+                "lineNumber": 125086,
+                "originalJapaneseLine": "　俺よりも透琳の味方なのか！」",
+                "translatedEnglishLine": "more on Tourin's side than mine!\""
+            },
+            {
+                "lineNumber": 125087,
+                "originalJapaneseLine": "「ショック……」",
+                "translatedEnglishLine": "\"I'm shocked...\""
+            },
+            {
+                "lineNumber": 125088,
+                "originalJapaneseLine": "「本当にこの方でいいんですか……？」",
+                "translatedEnglishLine": "\"Is this really the right person...?\""
+            },
+            {
+                "lineNumber": 125089,
+                "originalJapaneseLine": "「こういう方だから良いのです」",
+                "translatedEnglishLine": "\"It's because this person is like this that it's good.\""
+            },
+            {
+                "lineNumber": 125090,
+                "originalJapaneseLine": "「他の方とは生き方が違う、",
+                "translatedEnglishLine": "\"Their way of life is different from others,"
+            },
+            {
+                "lineNumber": 125091,
+                "originalJapaneseLine": "　こういう方だから……」",
+                "translatedEnglishLine": "it's because this person is like this...\""
+            },
+            {
+                "lineNumber": 125092,
+                "originalJapaneseLine": "「うう、分かりません、分かりません……」",
+                "translatedEnglishLine": "\"Ugh, I don't understand, I don't understand...\""
+            },
+            {
+                "lineNumber": 125093,
+                "originalJapaneseLine": "「……なんか、失礼なこと言われてる？」",
+                "translatedEnglishLine": "\"...Am I being said something rude?\""
+            },
+            {
+                "lineNumber": 125094,
+                "originalJapaneseLine": "「采配は任せる。",
+                "translatedEnglishLine": "\"I'll leave the command to you."
+            },
+            {
+                "lineNumber": 125095,
+                "originalJapaneseLine": "　俺を上手く使ってくれよ」",
+                "translatedEnglishLine": "Use me well.\""
+            },
+            {
+                "lineNumber": 125096,
+                "originalJapaneseLine": "「はぁー、暇だなー」",
+                "translatedEnglishLine": "\"Haa, I’m so bored.\""
+            },
+            {
+                "lineNumber": 125097,
+                "originalJapaneseLine": "「そうですねぇ、ランス様」",
+                "translatedEnglishLine": "\"That's right, Lord Rance.\""
+            },
+            {
+                "lineNumber": 125098,
+                "originalJapaneseLine": "「こんな日は梅昆布茶でもしばくに限るな」",
+                "translatedEnglishLine": "\"On days like this, nothing beats sipping plum kelp tea.\""
+            },
+            {
+                "lineNumber": 125099,
+                "originalJapaneseLine": "「美味しいですね、ランス様」",
+                "translatedEnglishLine": "\"It's delicious, isn't it, Lord Rance?\""
+            },
+            {
+                "lineNumber": 125100,
+                "originalJapaneseLine": "「うむうむ」",
+                "translatedEnglishLine": "\"Mhm, mhm.\""
+            },
+            {
+                "lineNumber": 125101,
+                "originalJapaneseLine": "「ぷはぁ〜、まったり……」",
+                "translatedEnglishLine": "\"Phew~ so relaxing...\""
+            },
+            {
+                "lineNumber": 125102,
+                "originalJapaneseLine": "「ほう、それほど暇なのか……」",
+                "translatedEnglishLine": "\"Oh my, you're that bored...?\""
+            },
+            {
+                "lineNumber": 125103,
+                "originalJapaneseLine": "「げっ、早雲」",
+                "translatedEnglishLine": "\"Ugh, Souun.\""
+            },
+            {
+                "lineNumber": 125104,
+                "originalJapaneseLine": "「それは丁度良かった。",
+                "translatedEnglishLine": "\"That's just perfect."
+            },
+            {
+                "lineNumber": 125105,
+                "originalJapaneseLine": "　総統のお耳に入れたい話なら、山とあります」",
+                "translatedEnglishLine": "If it's something you'd like the Commander-in-Chief to hear, I have a mountain of things.\""
+            },
+            {
+                "lineNumber": 125106,
+                "originalJapaneseLine": "「うむ、トップとしての責務、",
+                "translatedEnglishLine": "\"Hmm, as the leader,"
+            },
+            {
+                "lineNumber": 125107,
+                "originalJapaneseLine": "　できる限り果たしてもらうぞ」",
+                "translatedEnglishLine": "I expect you to fulfill your duties as much as possible.\""
+            },
+            {
+                "lineNumber": 125108,
+                "originalJapaneseLine": "「ぐっ、なんで俺が……」",
+                "translatedEnglishLine": "\"Ugh, why me...?\""
+            },
+            {
+                "lineNumber": 125109,
+                "originalJapaneseLine": "「お前は総統閣下だろう。",
+                "translatedEnglishLine": "\"You're the Commander-in-Chief, aren't you?"
+            },
+            {
+                "lineNumber": 125110,
+                "originalJapaneseLine": "　仕事なら誰よりもしてもらわなければ",
+                "translatedEnglishLine": "When it comes to work, you have to do it more than anyone else,"
+            },
+            {
+                "lineNumber": 125111,
+                "originalJapaneseLine": "　困るくらいだ」",
+                "translatedEnglishLine": "or it would be troubling.\""
+            },
+            {
+                "lineNumber": 125112,
+                "originalJapaneseLine": "「むむむ……」",
+                "translatedEnglishLine": "\"Hmmm...\""
+            },
+            {
+                "lineNumber": 125113,
+                "originalJapaneseLine": "「大体、なんで二人揃って……」",
+                "translatedEnglishLine": "\"Anyway, why are the two of you here together...\""
+            },
+            {
+                "lineNumber": 125114,
+                "originalJapaneseLine": "「私が助っ人を頼んだのです」",
+                "translatedEnglishLine": "\"I asked for help.\""
+            },
+            {
+                "lineNumber": 125115,
+                "originalJapaneseLine": "「いや、早雲殿が来て下さって助かりました。",
+                "translatedEnglishLine": "\"No, Souun-san coming has been a great help."
+            },
+            {
+                "lineNumber": 125116,
+                "originalJapaneseLine": "　私だけでは総統も耳を傾けてくれませんから」",
+                "translatedEnglishLine": "If it were just me, the Commander-in-Chief wouldn't listen.\""
+            },
+            {
+                "lineNumber": 125117,
+                "originalJapaneseLine": "「いやいや、この城には",
+                "translatedEnglishLine": "\"No, no, in this castle,"
+            },
+            {
+                "lineNumber": 125118,
+                "originalJapaneseLine": "　ランスを甘やかす輩も多い。",
+                "translatedEnglishLine": "there are many who pamper Rance."
+            },
+            {
+                "lineNumber": 125119,
+                "originalJapaneseLine": "　俺も味方が増えたようで嬉しいよ」",
+                "translatedEnglishLine": "I'm glad to have more allies myself.\""
+            },
+            {
+                "lineNumber": 125120,
+                "originalJapaneseLine": "「今後も――」",
+                "translatedEnglishLine": "\"From now on—\""
+            },
+            {
+                "lineNumber": 125121,
+                "originalJapaneseLine": "「ああ、宜しく頼む」",
+                "translatedEnglishLine": "\"Yeah, I’m counting on you.\""
+            },
+            {
+                "lineNumber": 125122,
+                "originalJapaneseLine": "二人の間には同じ苦労を背負う者同士の、",
+                "translatedEnglishLine": "Between the two of them, who shared the same hardships,"
+            },
+            {
+                "lineNumber": 125123,
+                "originalJapaneseLine": "奇妙な友情が芽生えつつあった。",
+                "translatedEnglishLine": "a strange friendship was beginning to blossom."
+            },
+            {
+                "lineNumber": 125124,
+                "originalJapaneseLine": "「ぐっ、なんて嫌な眼鏡コンビだ」",
+                "translatedEnglishLine": "\"Ugh, what an annoying glasses duo.\""
+            },
+            {
+                "lineNumber": 125125,
+                "originalJapaneseLine": "「さあ、行くぞ。ランス」",
+                "translatedEnglishLine": "\"Come on, let’s go, Rance.\""
+            },
+            {
+                "lineNumber": 125126,
+                "originalJapaneseLine": "「ぎゃー！　いやだー！　ひっぱるなー！」",
+                "translatedEnglishLine": "\"Gyaa! Nooo! Don’t pull me!\""
+            },
+            {
+                "lineNumber": 125127,
+                "originalJapaneseLine": "「わあああああ……」",
+                "translatedEnglishLine": "\"Waaaaa...\""
+            },
+            {
+                "lineNumber": 125128,
+                "originalJapaneseLine": "「あ、ああ……ずるずると……」",
+                "translatedEnglishLine": "\"Ah, ah... dragging along...\""
+            },
+            {
+                "lineNumber": 125129,
+                "originalJapaneseLine": "総統司令部も深夜になると、",
+                "translatedEnglishLine": "Even the Commander-in-Chief’s headquarters,"
+            },
+            {
+                "lineNumber": 125130,
+                "originalJapaneseLine": "昼間の喧噪も息をひそめる。",
+                "translatedEnglishLine": "becomes silent at midnight after the daytime clamor ends."
+            }
+        ]
+    }
+}

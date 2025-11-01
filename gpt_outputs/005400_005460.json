@@ -1,1 +1,719 @@
-{"id":"resp_04f6dc05b53a39940068eed8d76e8c8193a951488f9b5dba42","object":"response","created_at":1760483543,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_04f6dc05b53a39940068eed8d7b88081939634a94c9b974fdd","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":5401,\"originalJapaneseLine\":\"　結局は断られたままだ」\",\"translatedEnglishLine\":\"\\\"In the end, we were still refused.\\\"\"},{\"lineNumber\":5402,\"originalJapaneseLine\":\"「ぬ、パットン」\",\"translatedEnglishLine\":\"\\\"Hmm, Patton.\\\"\"},{\"lineNumber\":5403,\"originalJapaneseLine\":\"「うん……時間を無駄にするのも心苦しいし。\",\"translatedEnglishLine\":\"\\\"Yeah... It's painful to waste time.\"},{\"lineNumber\":5404,\"originalJapaneseLine\":\"　危険でもあるからねえ……」\",\"translatedEnglishLine\":\"It's also dangerous, you see...\\\"\"},{\"lineNumber\":5405,\"originalJapaneseLine\":\"「けど、どうしてだ？\",\"translatedEnglishLine\":\"\\\"But why is that?\"},{\"lineNumber\":5406,\"originalJapaneseLine\":\"　前の魔人戦争の時は、一緒に闘ったんだろう？」\",\"translatedEnglishLine\":\"You fought alongside them during the previous Demon War, didn't you?\\\"\"},{\"lineNumber\":5407,\"originalJapaneseLine\":\"「私たちにとっても、あそこは居心地が良かった。\",\"translatedEnglishLine\":\"\\\"For us too, that place felt comfortable.\"},{\"lineNumber\":5408,\"originalJapaneseLine\":\"　戦争の為に雇われた、という訳でもなかったし」\",\"translatedEnglishLine\":\"It wasn't like we were hired just for the war.\\\"\"},{\"lineNumber\":5409,\"originalJapaneseLine\":\"「住処、だったんだよ。\",\"translatedEnglishLine\":\"\\\"It was our home.\"},{\"lineNumber\":5410,\"originalJapaneseLine\":\"　襲われたから、自然と戦った」\",\"translatedEnglishLine\":\"When we were attacked, we fought back naturally.\\\"\"},{\"lineNumber\":5411,\"originalJapaneseLine\":\"「……なるほどな」\",\"translatedEnglishLine\":\"\\\"...I see.\\\"\"},{\"lineNumber\":5412,\"originalJapaneseLine\":\"「それに……今は、勝算が薄い」\",\"translatedEnglishLine\":\"\\\"Besides... right now, our chances of winning are slim.\\\"\"},{\"lineNumber\":5413,\"originalJapaneseLine\":\"ぽつりと、しかし断言するように\",\"translatedEnglishLine\":\"He muttered, yet spoke with certainty.\"},{\"lineNumber\":5414,\"originalJapaneseLine\":\"キャンテルは言い切った。\",\"translatedEnglishLine\":\"Cantel declared it firmly.\"},{\"lineNumber\":5415,\"originalJapaneseLine\":\"「そりゃ……ずいぶんとクールだな」\",\"translatedEnglishLine\":\"\\\"Well... that's pretty cold.\\\"\"},{\"lineNumber\":5416,\"originalJapaneseLine\":\"「何言ってんだ。今だって生きるか死ぬかだぞ。\",\"translatedEnglishLine\":\"\\\"What are you saying? Even now it's a matter of life or death.\"},{\"lineNumber\":5417,\"originalJapaneseLine\":\"　死にたくなければ俺様に従えと言ってこい」\",\"translatedEnglishLine\":\"If you don't want to die, tell them to obey me.\\\"\"},{\"lineNumber\":5418,\"originalJapaneseLine\":\"「そんなに生きたいかねえ……\",\"translatedEnglishLine\":\"\\\"Do you want to live that badly...?\"},{\"lineNumber\":5419,\"originalJapaneseLine\":\"　いや、それ以前に、ドラゴン達はそこまで、\",\"translatedEnglishLine\":\"No, even before that, I think the dragons themselves...\"},{\"lineNumber\":5420,\"originalJapaneseLine\":\"　危ないと思ってないんじゃないかな」\",\"translatedEnglishLine\":\"don't think it's that dangerous.\\\"\"},{\"lineNumber\":5421,\"originalJapaneseLine\":\"「ぬ？」\",\"translatedEnglishLine\":\"\\\"Hmm?\\\"\"},{\"lineNumber\":5422,\"originalJapaneseLine\":\"「それこそ魔人でもなければ、\",\"translatedEnglishLine\":\"\\\"Unless it's a demon,\"},{\"lineNumber\":5423,\"originalJapaneseLine\":\"　簡単にドラゴンは倒せないだろう。\",\"translatedEnglishLine\":\"dragons can't easily be defeated.\"},{\"lineNumber\":5424,\"originalJapaneseLine\":\"　私たちからすれば、空に逃げたっていい」\",\"translatedEnglishLine\":\"From our point of view, they can just flee to the sky.\\\"\"},{\"lineNumber\":5425,\"originalJapaneseLine\":\"「山の下のことも関係ないし。\",\"translatedEnglishLine\":\"\\\"They're not concerned about what's happening beneath the mountain either.\"},{\"lineNumber\":5426,\"originalJapaneseLine\":\"　対岸の火事というやつだね」\",\"translatedEnglishLine\":\"It's just a fire on the other side of the river to them.\\\"\"},{\"lineNumber\":5427,\"originalJapaneseLine\":\"「ま……万事消極的なのさ。\",\"translatedEnglishLine\":\"\\\"Well... they're completely passive about everything.\"},{\"lineNumber\":5428,\"originalJapaneseLine\":\"　昔、色々ひどい目に遭ってるからねえ」\",\"translatedEnglishLine\":\"They've been through a lot of terrible experiences in the past, you see.\\\"\"},{\"lineNumber\":5429,\"originalJapaneseLine\":\"「ぬ、ハンティまで」\",\"translatedEnglishLine\":\"\\\"Hmm, even Hanti.\\\"\"},{\"lineNumber\":5430,\"originalJapaneseLine\":\"「というわけで、まあ……諦めてくれ。\",\"translatedEnglishLine\":\"\\\"So, well... just give up.\"},{\"lineNumber\":5431,\"originalJapaneseLine\":\"　私が説得するのは無理だよ」\",\"translatedEnglishLine\":\"It's impossible for me to persuade them.\\\"\"},{\"lineNumber\":5432,\"originalJapaneseLine\":\"「ええい、役に立たん！」\",\"translatedEnglishLine\":\"\\\"Ugh, you're no help!\\\"\"},{\"lineNumber\":5433,\"originalJapaneseLine\":\"「あんたが行くかい？」\",\"translatedEnglishLine\":\"\\\"Are you going to go?\\\"\"},{\"lineNumber\":5434,\"originalJapaneseLine\":\"「美人がいる可能性がゼロを振り切ってるような\",\"translatedEnglishLine\":\"\\\"To a lizard's den where the chance of finding a beauty is basically zero,\"},{\"lineNumber\":5435,\"originalJapaneseLine\":\"　トカゲのねぐらに、\",\"translatedEnglishLine\":\"to a lizard's lair,\"},{\"lineNumber\":5436,\"originalJapaneseLine\":\"　なんで俺が行かなきゃならんのだ」\",\"translatedEnglishLine\":\"why on earth should I have to go?\\\"\"},{\"lineNumber\":5437,\"originalJapaneseLine\":\"「はは、まあ違いない」\",\"translatedEnglishLine\":\"\\\"Haha, that's probably true.\\\"\"},{\"lineNumber\":5438,\"originalJapaneseLine\":\"「しかし、キャンテルは助けてくれてるな？」\",\"translatedEnglishLine\":\"\\\"But Cantel, you are helping, right?\\\"\"},{\"lineNumber\":5439,\"originalJapaneseLine\":\"「私は…………」\",\"translatedEnglishLine\":\"\\\"I am...\\\"\"},{\"lineNumber\":5440,\"originalJapaneseLine\":\"「変人なんだろ」\",\"translatedEnglishLine\":\"\\\"You're an eccentric, right?\\\"\"},{\"lineNumber\":5441,\"originalJapaneseLine\":\"「はっはは、ま、そうかもね」\",\"translatedEnglishLine\":\"\\\"Hahaha, well, maybe so.\\\"\"},{\"lineNumber\":5442,\"originalJapaneseLine\":\"「変人……ううん、\",\"translatedEnglishLine\":\"\\\"Eccentric... no,\"},{\"lineNumber\":5443,\"originalJapaneseLine\":\"　もう少し響きのいい呼び名が良いなあ……」\",\"translatedEnglishLine\":\"I want a name that sounds a bit nicer...\\\"\"},{\"lineNumber\":5444,\"originalJapaneseLine\":\"「…………………………」\",\"translatedEnglishLine\":\"\\\"..........................\\\"\"},{\"lineNumber\":5445,\"originalJapaneseLine\":\"キャンテルは、困っていた。\",\"translatedEnglishLine\":\"Cantel was troubled.\"},{\"lineNumber\":5446,\"originalJapaneseLine\":\"「………………」\",\"translatedEnglishLine\":\"\\\"...........\\\"\"},{\"lineNumber\":5447,\"originalJapaneseLine\":\"アームズが、キラキラと子供のような瞳で\",\"translatedEnglishLine\":\"Arms looked at him with sparkling, childlike eyes.\"},{\"lineNumber\":5448,\"originalJapaneseLine\":\"自分を眺めていた。\",\"translatedEnglishLine\":\"She was gazing at him.\"},{\"lineNumber\":5449,\"originalJapaneseLine\":\"「あの…………何か用かね」\",\"translatedEnglishLine\":\"\\\"Um... is there something you need?\\\"\"},{\"lineNumber\":5450,\"originalJapaneseLine\":\"「ひとつ、尋ねてもいいだろうか」\",\"translatedEnglishLine\":\"\\\"May I ask you something?\\\"\"},{\"lineNumber\":5451,\"originalJapaneseLine\":\"「どうぞ」\",\"translatedEnglishLine\":\"\\\"Go ahead.\\\"\"},{\"lineNumber\":5452,\"originalJapaneseLine\":\"「レアドロップは、何を落とすんだ！？」\",\"translatedEnglishLine\":\"\\\"What do rare drops drop!?\\\"\"},{\"lineNumber\":5453,\"originalJapaneseLine\":\"「…………それは……わからないなあ……」\",\"translatedEnglishLine\":\"\\\"...That, I don't really know...\\\"\"},{\"lineNumber\":5454,\"originalJapaneseLine\":\"「氷属性のホワイトドラゴン……かなり珍しいぞ。\",\"translatedEnglishLine\":\"\\\"An ice-element White Dragon... quite rare.\"},{\"lineNumber\":5455,\"originalJapaneseLine\":\"　牙や爪だとハズレだが……氷の結晶的なものかな」\",\"translatedEnglishLine\":\"If it's fangs or claws, that's a dud... probably something like an ice crystal.\\\"\"},{\"lineNumber\":5456,\"originalJapaneseLine\":\"「……人の肉体に、\",\"translatedEnglishLine\":\"\\\"...Please don't assign luck or misfortune to human bodies...\"},{\"lineNumber\":5457,\"originalJapaneseLine\":\"　当たり外れつけないで欲しいなあ……」\",\"translatedEnglishLine\":\"I'd rather you didn't label them as hits or misses...\\\"\"},{\"lineNumber\":5458,\"originalJapaneseLine\":\"「確かめてみないか？」\",\"translatedEnglishLine\":\"\\\"Do you want to find out for yourself?\\\"\"},{\"lineNumber\":5459,\"originalJapaneseLine\":\"「君、それ、殺させろってことかね」\",\"translatedEnglishLine\":\"\\\"Are you saying I should let you kill it?\\\"\"},{\"lineNumber\":5460,\"originalJapaneseLine\":\"「ダメかな。無抵抗でとは言わないが」\",\"translatedEnglishLine\":\"\\\"Is that no good? I’m not saying do it while it's defenseless, though.\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":5401,"originalJapaneseLine":"　結局は断られたままだ」","translatedEnglishLine":"\"In the end, we were still refused.\""},{"lineNumber":5402,"originalJapaneseLine":"「ぬ、パットン」","translatedEnglishLine":"\"Hmm, Patton.\""},{"lineNumber":5403,"originalJapaneseLine":"「うん……時間を無駄にするのも心苦しいし。","translatedEnglishLine":"\"Yeah... It's painful to waste time."},{"lineNumber":5404,"originalJapaneseLine":"　危険でもあるからねえ……」","translatedEnglishLine":"It's also dangerous, you see...\""},{"lineNumber":5405,"originalJapaneseLine":"「けど、どうしてだ？","translatedEnglishLine":"\"But why is that?"},{"lineNumber":5406,"originalJapaneseLine":"　前の魔人戦争の時は、一緒に闘ったんだろう？」","translatedEnglishLine":"You fought alongside them during the previous Demon War, didn't you?\""},{"lineNumber":5407,"originalJapaneseLine":"「私たちにとっても、あそこは居心地が良かった。","translatedEnglishLine":"\"For us too, that place felt comfortable."},{"lineNumber":5408,"originalJapaneseLine":"　戦争の為に雇われた、という訳でもなかったし」","translatedEnglishLine":"It wasn't like we were hired just for the war.\""},{"lineNumber":5409,"originalJapaneseLine":"「住処、だったんだよ。","translatedEnglishLine":"\"It was our home."},{"lineNumber":5410,"originalJapaneseLine":"　襲われたから、自然と戦った」","translatedEnglishLine":"When we were attacked, we fought back naturally.\""},{"lineNumber":5411,"originalJapaneseLine":"「……なるほどな」","translatedEnglishLine":"\"...I see.\""},{"lineNumber":5412,"originalJapaneseLine":"「それに……今は、勝算が薄い」","translatedEnglishLine":"\"Besides... right now, our chances of winning are slim.\""},{"lineNumber":5413,"originalJapaneseLine":"ぽつりと、しかし断言するように","translatedEnglishLine":"He muttered, yet spoke with certainty."},{"lineNumber":5414,"originalJapaneseLine":"キャンテルは言い切った。","translatedEnglishLine":"Cantel declared it firmly."},{"lineNumber":5415,"originalJapaneseLine":"「そりゃ……ずいぶんとクールだな」","translatedEnglishLine":"\"Well... that's pretty cold.\""},{"lineNumber":5416,"originalJapaneseLine":"「何言ってんだ。今だって生きるか死ぬかだぞ。","translatedEnglishLine":"\"What are you saying? Even now it's a matter of life or death."},{"lineNumber":5417,"originalJapaneseLine":"　死にたくなければ俺様に従えと言ってこい」","translatedEnglishLine":"If you don't want to die, tell them to obey me.\""},{"lineNumber":5418,"originalJapaneseLine":"「そんなに生きたいかねえ……","translatedEnglishLine":"\"Do you want to live that badly...?"},{"lineNumber":5419,"originalJapaneseLine":"　いや、それ以前に、ドラゴン達はそこまで、","translatedEnglishLine":"No, even before that, I think the dragons themselves..."},{"lineNumber":5420,"originalJapaneseLine":"　危ないと思ってないんじゃないかな」","translatedEnglishLine":"don't think it's that dangerous.\""},{"lineNumber":5421,"originalJapaneseLine":"「ぬ？」","translatedEnglishLine":"\"Hmm?\""},{"lineNumber":5422,"originalJapaneseLine":"「それこそ魔人でもなければ、","translatedEnglishLine":"\"Unless it's a demon,"},{"lineNumber":5423,"originalJapaneseLine":"　簡単にドラゴンは倒せないだろう。","translatedEnglishLine":"dragons can't easily be defeated."},{"lineNumber":5424,"originalJapaneseLine":"　私たちからすれば、空に逃げたっていい」","translatedEnglishLine":"From our point of view, they can just flee to the sky.\""},{"lineNumber":5425,"originalJapaneseLine":"「山の下のことも関係ないし。","translatedEnglishLine":"\"They're not concerned about what's happening beneath the mountain either."},{"lineNumber":5426,"originalJapaneseLine":"　対岸の火事というやつだね」","translatedEnglishLine":"It's just a fire on the other side of the river to them.\""},{"lineNumber":5427,"originalJapaneseLine":"「ま……万事消極的なのさ。","translatedEnglishLine":"\"Well... they're completely passive about everything."},{"lineNumber":5428,"originalJapaneseLine":"　昔、色々ひどい目に遭ってるからねえ」","translatedEnglishLine":"They've been through a lot of terrible experiences in the past, you see.\""},{"lineNumber":5429,"originalJapaneseLine":"「ぬ、ハンティまで」","translatedEnglishLine":"\"Hmm, even Hanti.\""},{"lineNumber":5430,"originalJapaneseLine":"「というわけで、まあ……諦めてくれ。","translatedEnglishLine":"\"So, well... just give up."},{"lineNumber":5431,"originalJapaneseLine":"　私が説得するのは無理だよ」","translatedEnglishLine":"It's impossible for me to persuade them.\""},{"lineNumber":5432,"originalJapaneseLine":"「ええい、役に立たん！」","translatedEnglishLine":"\"Ugh, you're no help!\""},{"lineNumber":5433,"originalJapaneseLine":"「あんたが行くかい？」","translatedEnglishLine":"\"Are you going to go?\""},{"lineNumber":5434,"originalJapaneseLine":"「美人がいる可能性がゼロを振り切ってるような","translatedEnglishLine":"\"To a lizard's den where the chance of finding a beauty is basically zero,"},{"lineNumber":5435,"originalJapaneseLine":"　トカゲのねぐらに、","translatedEnglishLine":"to a lizard's lair,"},{"lineNumber":5436,"originalJapaneseLine":"　なんで俺が行かなきゃならんのだ」","translatedEnglishLine":"why on earth should I have to go?\""},{"lineNumber":5437,"originalJapaneseLine":"「はは、まあ違いない」","translatedEnglishLine":"\"Haha, that's probably true.\""},{"lineNumber":5438,"originalJapaneseLine":"「しかし、キャンテルは助けてくれてるな？」","translatedEnglishLine":"\"But Cantel, you are helping, right?\""},{"lineNumber":5439,"originalJapaneseLine":"「私は…………」","translatedEnglishLine":"\"I am...\""},{"lineNumber":5440,"originalJapaneseLine":"「変人なんだろ」","translatedEnglishLine":"\"You're an eccentric, right?\""},{"lineNumber":5441,"originalJapaneseLine":"「はっはは、ま、そうかもね」","translatedEnglishLine":"\"Hahaha, well, maybe so.\""},{"lineNumber":5442,"originalJapaneseLine":"「変人……ううん、","translatedEnglishLine":"\"Eccentric... no,"},{"lineNumber":5443,"originalJapaneseLine":"　もう少し響きのいい呼び名が良いなあ……」","translatedEnglishLine":"I want a name that sounds a bit nicer...\""},{"lineNumber":5444,"originalJapaneseLine":"「…………………………」","translatedEnglishLine":"\"..........................\""},{"lineNumber":5445,"originalJapaneseLine":"キャンテルは、困っていた。","translatedEnglishLine":"Cantel was troubled."},{"lineNumber":5446,"originalJapaneseLine":"「………………」","translatedEnglishLine":"\"...........\""},{"lineNumber":5447,"originalJapaneseLine":"アームズが、キラキラと子供のような瞳で","translatedEnglishLine":"Arms looked at him with sparkling, childlike eyes."},{"lineNumber":5448,"originalJapaneseLine":"自分を眺めていた。","translatedEnglishLine":"She was gazing at him."},{"lineNumber":5449,"originalJapaneseLine":"「あの…………何か用かね」","translatedEnglishLine":"\"Um... is there something you need?\""},{"lineNumber":5450,"originalJapaneseLine":"「ひとつ、尋ねてもいいだろうか」","translatedEnglishLine":"\"May I ask you something?\""},{"lineNumber":5451,"originalJapaneseLine":"「どうぞ」","translatedEnglishLine":"\"Go ahead.\""},{"lineNumber":5452,"originalJapaneseLine":"「レアドロップは、何を落とすんだ！？」","translatedEnglishLine":"\"What do rare drops drop!?\""},{"lineNumber":5453,"originalJapaneseLine":"「…………それは……わからないなあ……」","translatedEnglishLine":"\"...That, I don't really know...\""},{"lineNumber":5454,"originalJapaneseLine":"「氷属性のホワイトドラゴン……かなり珍しいぞ。","translatedEnglishLine":"\"An ice-element White Dragon... quite rare."},{"lineNumber":5455,"originalJapaneseLine":"　牙や爪だとハズレだが……氷の結晶的なものかな」","translatedEnglishLine":"If it's fangs or claws, that's a dud... probably something like an ice crystal.\""},{"lineNumber":5456,"originalJapaneseLine":"「……人の肉体に、","translatedEnglishLine":"\"...Please don't assign luck or misfortune to human bodies..."},{"lineNumber":5457,"originalJapaneseLine":"　当たり外れつけないで欲しいなあ……」","translatedEnglishLine":"I'd rather you didn't label them as hits or misses...\""},{"lineNumber":5458,"originalJapaneseLine":"「確かめてみないか？」","translatedEnglishLine":"\"Do you want to find out for yourself?\""},{"lineNumber":5459,"originalJapaneseLine":"「君、それ、殺させろってことかね」","translatedEnglishLine":"\"Are you saying I should let you kill it?\""},{"lineNumber":5460,"originalJapaneseLine":"「ダメかな。無抵抗でとは言わないが」","translatedEnglishLine":"\"Is that no good? I’m not saying do it while it's defenseless, though.\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1735,"input_tokens_details":{"cached_tokens":0},"output_tokens":2272,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":4007},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":5401,\"originalJapaneseLine\":\"　結局は断られたままだ」\",\"translatedEnglishLine\":\"\\\"In the end, we were still refused.\\\"\"},{\"lineNumber\":5402,\"originalJapaneseLine\":\"「ぬ、パットン」\",\"translatedEnglishLine\":\"\\\"Hmm, Patton.\\\"\"},{\"lineNumber\":5403,\"originalJapaneseLine\":\"「うん……時間を無駄にするのも心苦しいし。\",\"translatedEnglishLine\":\"\\\"Yeah... It's painful to waste time.\"},{\"lineNumber\":5404,\"originalJapaneseLine\":\"　危険でもあるからねえ……」\",\"translatedEnglishLine\":\"It's also dangerous, you see...\\\"\"},{\"lineNumber\":5405,\"originalJapaneseLine\":\"「けど、どうしてだ？\",\"translatedEnglishLine\":\"\\\"But why is that?\"},{\"lineNumber\":5406,\"originalJapaneseLine\":\"　前の魔人戦争の時は、一緒に闘ったんだろう？」\",\"translatedEnglishLine\":\"You fought alongside them during the previous Demon War, didn't you?\\\"\"},{\"lineNumber\":5407,\"originalJapaneseLine\":\"「私たちにとっても、あそこは居心地が良かった。\",\"translatedEnglishLine\":\"\\\"For us too, that place felt comfortable.\"},{\"lineNumber\":5408,\"originalJapaneseLine\":\"　戦争の為に雇われた、という訳でもなかったし」\",\"translatedEnglishLine\":\"It wasn't like we were hired just for the war.\\\"\"},{\"lineNumber\":5409,\"originalJapaneseLine\":\"「住処、だったんだよ。\",\"translatedEnglishLine\":\"\\\"It was our home.\"},{\"lineNumber\":5410,\"originalJapaneseLine\":\"　襲われたから、自然と戦った」\",\"translatedEnglishLine\":\"When we were attacked, we fought back naturally.\\\"\"},{\"lineNumber\":5411,\"originalJapaneseLine\":\"「……なるほどな」\",\"translatedEnglishLine\":\"\\\"...I see.\\\"\"},{\"lineNumber\":5412,\"originalJapaneseLine\":\"「それに……今は、勝算が薄い」\",\"translatedEnglishLine\":\"\\\"Besides... right now, our chances of winning are slim.\\\"\"},{\"lineNumber\":5413,\"originalJapaneseLine\":\"ぽつりと、しかし断言するように\",\"translatedEnglishLine\":\"He muttered, yet spoke with certainty.\"},{\"lineNumber\":5414,\"originalJapaneseLine\":\"キャンテルは言い切った。\",\"translatedEnglishLine\":\"Cantel declared it firmly.\"},{\"lineNumber\":5415,\"originalJapaneseLine\":\"「そりゃ……ずいぶんとクールだな」\",\"translatedEnglishLine\":\"\\\"Well... that's pretty cold.\\\"\"},{\"lineNumber\":5416,\"originalJapaneseLine\":\"「何言ってんだ。今だって生きるか死ぬかだぞ。\",\"translatedEnglishLine\":\"\\\"What are you saying? Even now it's a matter of life or death.\"},{\"lineNumber\":5417,\"originalJapaneseLine\":\"　死にたくなければ俺様に従えと言ってこい」\",\"translatedEnglishLine\":\"If you don't want to die, tell them to obey me.\\\"\"},{\"lineNumber\":5418,\"originalJapaneseLine\":\"「そんなに生きたいかねえ……\",\"translatedEnglishLine\":\"\\\"Do you want to live that badly...?\"},{\"lineNumber\":5419,\"originalJapaneseLine\":\"　いや、それ以前に、ドラゴン達はそこまで、\",\"translatedEnglishLine\":\"No, even before that, I think the dragons themselves...\"},{\"lineNumber\":5420,\"originalJapaneseLine\":\"　危ないと思ってないんじゃないかな」\",\"translatedEnglishLine\":\"don't think it's that dangerous.\\\"\"},{\"lineNumber\":5421,\"originalJapaneseLine\":\"「ぬ？」\",\"translatedEnglishLine\":\"\\\"Hmm?\\\"\"},{\"lineNumber\":5422,\"originalJapaneseLine\":\"「それこそ魔人でもなければ、\",\"translatedEnglishLine\":\"\\\"Unless it's a demon,\"},{\"lineNumber\":5423,\"originalJapaneseLine\":\"　簡単にドラゴンは倒せないだろう。\",\"translatedEnglishLine\":\"dragons can't easily be defeated.\"},{\"lineNumber\":5424,\"originalJapaneseLine\":\"　私たちからすれば、空に逃げたっていい」\",\"translatedEnglishLine\":\"From our point of view, they can just flee to the sky.\\\"\"},{\"lineNumber\":5425,\"originalJapaneseLine\":\"「山の下のことも関係ないし。\",\"translatedEnglishLine\":\"\\\"They're not concerned about what's happening beneath the mountain either.\"},{\"lineNumber\":5426,\"originalJapaneseLine\":\"　対岸の火事というやつだね」\",\"translatedEnglishLine\":\"It's just a fire on the other side of the river to them.\\\"\"},{\"lineNumber\":5427,\"originalJapaneseLine\":\"「ま……万事消極的なのさ。\",\"translatedEnglishLine\":\"\\\"Well... they're completely passive about everything.\"},{\"lineNumber\":5428,\"originalJapaneseLine\":\"　昔、色々ひどい目に遭ってるからねえ」\",\"translatedEnglishLine\":\"They've been through a lot of terrible experiences in the past, you see.\\\"\"},{\"lineNumber\":5429,\"originalJapaneseLine\":\"「ぬ、ハンティまで」\",\"translatedEnglishLine\":\"\\\"Hmm, even Hanti.\\\"\"},{\"lineNumber\":5430,\"originalJapaneseLine\":\"「というわけで、まあ……諦めてくれ。\",\"translatedEnglishLine\":\"\\\"So, well... just give up.\"},{\"lineNumber\":5431,\"originalJapaneseLine\":\"　私が説得するのは無理だよ」\",\"translatedEnglishLine\":\"It's impossible for me to persuade them.\\\"\"},{\"lineNumber\":5432,\"originalJapaneseLine\":\"「ええい、役に立たん！」\",\"translatedEnglishLine\":\"\\\"Ugh, you're no help!\\\"\"},{\"lineNumber\":5433,\"originalJapaneseLine\":\"「あんたが行くかい？」\",\"translatedEnglishLine\":\"\\\"Are you going to go?\\\"\"},{\"lineNumber\":5434,\"originalJapaneseLine\":\"「美人がいる可能性がゼロを振り切ってるような\",\"translatedEnglishLine\":\"\\\"To a lizard's den where the chance of finding a beauty is basically zero,\"},{\"lineNumber\":5435,\"originalJapaneseLine\":\"　トカゲのねぐらに、\",\"translatedEnglishLine\":\"to a lizard's lair,\"},{\"lineNumber\":5436,\"originalJapaneseLine\":\"　なんで俺が行かなきゃならんのだ」\",\"translatedEnglishLine\":\"why on earth should I have to go?\\\"\"},{\"lineNumber\":5437,\"originalJapaneseLine\":\"「はは、まあ違いない」\",\"translatedEnglishLine\":\"\\\"Haha, that's probably true.\\\"\"},{\"lineNumber\":5438,\"originalJapaneseLine\":\"「しかし、キャンテルは助けてくれてるな？」\",\"translatedEnglishLine\":\"\\\"But Cantel, you are helping, right?\\\"\"},{\"lineNumber\":5439,\"originalJapaneseLine\":\"「私は…………」\",\"translatedEnglishLine\":\"\\\"I am...\\\"\"},{\"lineNumber\":5440,\"originalJapaneseLine\":\"「変人なんだろ」\",\"translatedEnglishLine\":\"\\\"You're an eccentric, right?\\\"\"},{\"lineNumber\":5441,\"originalJapaneseLine\":\"「はっはは、ま、そうかもね」\",\"translatedEnglishLine\":\"\\\"Hahaha, well, maybe so.\\\"\"},{\"lineNumber\":5442,\"originalJapaneseLine\":\"「変人……ううん、\",\"translatedEnglishLine\":\"\\\"Eccentric... no,\"},{\"lineNumber\":5443,\"originalJapaneseLine\":\"　もう少し響きのいい呼び名が良いなあ……」\",\"translatedEnglishLine\":\"I want a name that sounds a bit nicer...\\\"\"},{\"lineNumber\":5444,\"originalJapaneseLine\":\"「…………………………」\",\"translatedEnglishLine\":\"\\\"..........................\\\"\"},{\"lineNumber\":5445,\"originalJapaneseLine\":\"キャンテルは、困っていた。\",\"translatedEnglishLine\":\"Cantel was troubled.\"},{\"lineNumber\":5446,\"originalJapaneseLine\":\"「………………」\",\"translatedEnglishLine\":\"\\\"...........\\\"\"},{\"lineNumber\":5447,\"originalJapaneseLine\":\"アームズが、キラキラと子供のような瞳で\",\"translatedEnglishLine\":\"Arms looked at him with sparkling, childlike eyes.\"},{\"lineNumber\":5448,\"originalJapaneseLine\":\"自分を眺めていた。\",\"translatedEnglishLine\":\"She was gazing at him.\"},{\"lineNumber\":5449,\"originalJapaneseLine\":\"「あの…………何か用かね」\",\"translatedEnglishLine\":\"\\\"Um... is there something you need?\\\"\"},{\"lineNumber\":5450,\"originalJapaneseLine\":\"「ひとつ、尋ねてもいいだろうか」\",\"translatedEnglishLine\":\"\\\"May I ask you something?\\\"\"},{\"lineNumber\":5451,\"originalJapaneseLine\":\"「どうぞ」\",\"translatedEnglishLine\":\"\\\"Go ahead.\\\"\"},{\"lineNumber\":5452,\"originalJapaneseLine\":\"「レアドロップは、何を落とすんだ！？」\",\"translatedEnglishLine\":\"\\\"What do rare drops drop!?\\\"\"},{\"lineNumber\":5453,\"originalJapaneseLine\":\"「…………それは……わからないなあ……」\",\"translatedEnglishLine\":\"\\\"...That, I don't really know...\\\"\"},{\"lineNumber\":5454,\"originalJapaneseLine\":\"「氷属性のホワイトドラゴン……かなり珍しいぞ。\",\"translatedEnglishLine\":\"\\\"An ice-element White Dragon... quite rare.\"},{\"lineNumber\":5455,\"originalJapaneseLine\":\"　牙や爪だとハズレだが……氷の結晶的なものかな」\",\"translatedEnglishLine\":\"If it's fangs or claws, that's a dud... probably something like an ice crystal.\\\"\"},{\"lineNumber\":5456,\"originalJapaneseLine\":\"「……人の肉体に、\",\"translatedEnglishLine\":\"\\\"...Please don't assign luck or misfortune to human bodies...\"},{\"lineNumber\":5457,\"originalJapaneseLine\":\"　当たり外れつけないで欲しいなあ……」\",\"translatedEnglishLine\":\"I'd rather you didn't label them as hits or misses...\\\"\"},{\"lineNumber\":5458,\"originalJapaneseLine\":\"「確かめてみないか？」\",\"translatedEnglishLine\":\"\\\"Do you want to find out for yourself?\\\"\"},{\"lineNumber\":5459,\"originalJapaneseLine\":\"「君、それ、殺させろってことかね」\",\"translatedEnglishLine\":\"\\\"Are you saying I should let you kill it?\\\"\"},{\"lineNumber\":5460,\"originalJapaneseLine\":\"「ダメかな。無抵抗でとは言わないが」\",\"translatedEnglishLine\":\"\\\"Is that no good? I’m not saying do it while it's defenseless, though.\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":5401,"originalJapaneseLine":"　結局は断られたままだ」","translatedEnglishLine":"\"In the end, we were still refused.\""},{"lineNumber":5402,"originalJapaneseLine":"「ぬ、パットン」","translatedEnglishLine":"\"Hmm, Patton.\""},{"lineNumber":5403,"originalJapaneseLine":"「うん……時間を無駄にするのも心苦しいし。","translatedEnglishLine":"\"Yeah... It's painful to waste time."},{"lineNumber":5404,"originalJapaneseLine":"　危険でもあるからねえ……」","translatedEnglishLine":"It's also dangerous, you see...\""},{"lineNumber":5405,"originalJapaneseLine":"「けど、どうしてだ？","translatedEnglishLine":"\"But why is that?"},{"lineNumber":5406,"originalJapaneseLine":"　前の魔人戦争の時は、一緒に闘ったんだろう？」","translatedEnglishLine":"You fought alongside them during the previous Demon War, didn't you?\""},{"lineNumber":5407,"originalJapaneseLine":"「私たちにとっても、あそこは居心地が良かった。","translatedEnglishLine":"\"For us too, that place felt comfortable."},{"lineNumber":5408,"originalJapaneseLine":"　戦争の為に雇われた、という訳でもなかったし」","translatedEnglishLine":"It wasn't like we were hired just for the war.\""},{"lineNumber":5409,"originalJapaneseLine":"「住処、だったんだよ。","translatedEnglishLine":"\"It was our home."},{"lineNumber":5410,"originalJapaneseLine":"　襲われたから、自然と戦った」","translatedEnglishLine":"When we were attacked, we fought back naturally.\""},{"lineNumber":5411,"originalJapaneseLine":"「……なるほどな」","translatedEnglishLine":"\"...I see.\""},{"lineNumber":5412,"originalJapaneseLine":"「それに……今は、勝算が薄い」","translatedEnglishLine":"\"Besides... right now, our chances of winning are slim.\""},{"lineNumber":5413,"originalJapaneseLine":"ぽつりと、しかし断言するように","translatedEnglishLine":"He muttered, yet spoke with certainty."},{"lineNumber":5414,"originalJapaneseLine":"キャンテルは言い切った。","translatedEnglishLine":"Cantel declared it firmly."},{"lineNumber":5415,"originalJapaneseLine":"「そりゃ……ずいぶんとクールだな」","translatedEnglishLine":"\"Well... that's pretty cold.\""},{"lineNumber":5416,"originalJapaneseLine":"「何言ってんだ。今だって生きるか死ぬかだぞ。","translatedEnglishLine":"\"What are you saying? Even now it's a matter of life or death."},{"lineNumber":5417,"originalJapaneseLine":"　死にたくなければ俺様に従えと言ってこい」","translatedEnglishLine":"If you don't want to die, tell them to obey me.\""},{"lineNumber":5418,"originalJapaneseLine":"「そんなに生きたいかねえ……","translatedEnglishLine":"\"Do you want to live that badly...?"},{"lineNumber":5419,"originalJapaneseLine":"　いや、それ以前に、ドラゴン達はそこまで、","translatedEnglishLine":"No, even before that, I think the dragons themselves..."},{"lineNumber":5420,"originalJapaneseLine":"　危ないと思ってないんじゃないかな」","translatedEnglishLine":"don't think it's that dangerous.\""},{"lineNumber":5421,"originalJapaneseLine":"「ぬ？」","translatedEnglishLine":"\"Hmm?\""},{"lineNumber":5422,"originalJapaneseLine":"「それこそ魔人でもなければ、","translatedEnglishLine":"\"Unless it's a demon,"},{"lineNumber":5423,"originalJapaneseLine":"　簡単にドラゴンは倒せないだろう。","translatedEnglishLine":"dragons can't easily be defeated."},{"lineNumber":5424,"originalJapaneseLine":"　私たちからすれば、空に逃げたっていい」","translatedEnglishLine":"From our point of view, they can just flee to the sky.\""},{"lineNumber":5425,"originalJapaneseLine":"「山の下のことも関係ないし。","translatedEnglishLine":"\"They're not concerned about what's happening beneath the mountain either."},{"lineNumber":5426,"originalJapaneseLine":"　対岸の火事というやつだね」","translatedEnglishLine":"It's just a fire on the other side of the river to them.\""},{"lineNumber":5427,"originalJapaneseLine":"「ま……万事消極的なのさ。","translatedEnglishLine":"\"Well... they're completely passive about everything."},{"lineNumber":5428,"originalJapaneseLine":"　昔、色々ひどい目に遭ってるからねえ」","translatedEnglishLine":"They've been through a lot of terrible experiences in the past, you see.\""},{"lineNumber":5429,"originalJapaneseLine":"「ぬ、ハンティまで」","translatedEnglishLine":"\"Hmm, even Hanti.\""},{"lineNumber":5430,"originalJapaneseLine":"「というわけで、まあ……諦めてくれ。","translatedEnglishLine":"\"So, well... just give up."},{"lineNumber":5431,"originalJapaneseLine":"　私が説得するのは無理だよ」","translatedEnglishLine":"It's impossible for me to persuade them.\""},{"lineNumber":5432,"originalJapaneseLine":"「ええい、役に立たん！」","translatedEnglishLine":"\"Ugh, you're no help!\""},{"lineNumber":5433,"originalJapaneseLine":"「あんたが行くかい？」","translatedEnglishLine":"\"Are you going to go?\""},{"lineNumber":5434,"originalJapaneseLine":"「美人がいる可能性がゼロを振り切ってるような","translatedEnglishLine":"\"To a lizard's den where the chance of finding a beauty is basically zero,"},{"lineNumber":5435,"originalJapaneseLine":"　トカゲのねぐらに、","translatedEnglishLine":"to a lizard's lair,"},{"lineNumber":5436,"originalJapaneseLine":"　なんで俺が行かなきゃならんのだ」","translatedEnglishLine":"why on earth should I have to go?\""},{"lineNumber":5437,"originalJapaneseLine":"「はは、まあ違いない」","translatedEnglishLine":"\"Haha, that's probably true.\""},{"lineNumber":5438,"originalJapaneseLine":"「しかし、キャンテルは助けてくれてるな？」","translatedEnglishLine":"\"But Cantel, you are helping, right?\""},{"lineNumber":5439,"originalJapaneseLine":"「私は…………」","translatedEnglishLine":"\"I am...\""},{"lineNumber":5440,"originalJapaneseLine":"「変人なんだろ」","translatedEnglishLine":"\"You're an eccentric, right?\""},{"lineNumber":5441,"originalJapaneseLine":"「はっはは、ま、そうかもね」","translatedEnglishLine":"\"Hahaha, well, maybe so.\""},{"lineNumber":5442,"originalJapaneseLine":"「変人……ううん、","translatedEnglishLine":"\"Eccentric... no,"},{"lineNumber":5443,"originalJapaneseLine":"　もう少し響きのいい呼び名が良いなあ……」","translatedEnglishLine":"I want a name that sounds a bit nicer...\""},{"lineNumber":5444,"originalJapaneseLine":"「…………………………」","translatedEnglishLine":"\"..........................\""},{"lineNumber":5445,"originalJapaneseLine":"キャンテルは、困っていた。","translatedEnglishLine":"Cantel was troubled."},{"lineNumber":5446,"originalJapaneseLine":"「………………」","translatedEnglishLine":"\"...........\""},{"lineNumber":5447,"originalJapaneseLine":"アームズが、キラキラと子供のような瞳で","translatedEnglishLine":"Arms looked at him with sparkling, childlike eyes."},{"lineNumber":5448,"originalJapaneseLine":"自分を眺めていた。","translatedEnglishLine":"She was gazing at him."},{"lineNumber":5449,"originalJapaneseLine":"「あの…………何か用かね」","translatedEnglishLine":"\"Um... is there something you need?\""},{"lineNumber":5450,"originalJapaneseLine":"「ひとつ、尋ねてもいいだろうか」","translatedEnglishLine":"\"May I ask you something?\""},{"lineNumber":5451,"originalJapaneseLine":"「どうぞ」","translatedEnglishLine":"\"Go ahead.\""},{"lineNumber":5452,"originalJapaneseLine":"「レアドロップは、何を落とすんだ！？」","translatedEnglishLine":"\"What do rare drops drop!?\""},{"lineNumber":5453,"originalJapaneseLine":"「…………それは……わからないなあ……」","translatedEnglishLine":"\"...That, I don't really know...\""},{"lineNumber":5454,"originalJapaneseLine":"「氷属性のホワイトドラゴン……かなり珍しいぞ。","translatedEnglishLine":"\"An ice-element White Dragon... quite rare."},{"lineNumber":5455,"originalJapaneseLine":"　牙や爪だとハズレだが……氷の結晶的なものかな」","translatedEnglishLine":"If it's fangs or claws, that's a dud... probably something like an ice crystal.\""},{"lineNumber":5456,"originalJapaneseLine":"「……人の肉体に、","translatedEnglishLine":"\"...Please don't assign luck or misfortune to human bodies..."},{"lineNumber":5457,"originalJapaneseLine":"　当たり外れつけないで欲しいなあ……」","translatedEnglishLine":"I'd rather you didn't label them as hits or misses...\""},{"lineNumber":5458,"originalJapaneseLine":"「確かめてみないか？」","translatedEnglishLine":"\"Do you want to find out for yourself?\""},{"lineNumber":5459,"originalJapaneseLine":"「君、それ、殺させろってことかね」","translatedEnglishLine":"\"Are you saying I should let you kill it?\""},{"lineNumber":5460,"originalJapaneseLine":"「ダメかな。無抵抗でとは言わないが」","translatedEnglishLine":"\"Is that no good? I’m not saying do it while it's defenseless, though.\""}]}}
+{
+    "id": "resp_04f6dc05b53a39940068eed8d76e8c8193a951488f9b5dba42",
+    "object": "response",
+    "created_at": 1760483543,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_04f6dc05b53a39940068eed8d7b88081939634a94c9b974fdd",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":5401,\"originalJapaneseLine\":\"　結局は断られたままだ」\",\"translatedEnglishLine\":\"\\\"In the end, we were still refused.\\\"\"},{\"lineNumber\":5402,\"originalJapaneseLine\":\"「ぬ、パットン」\",\"translatedEnglishLine\":\"\\\"Hmm, Patton.\\\"\"},{\"lineNumber\":5403,\"originalJapaneseLine\":\"「うん……時間を無駄にするのも心苦しいし。\",\"translatedEnglishLine\":\"\\\"Yeah... It's painful to waste time.\"},{\"lineNumber\":5404,\"originalJapaneseLine\":\"　危険でもあるからねえ……」\",\"translatedEnglishLine\":\"It's also dangerous, you see...\\\"\"},{\"lineNumber\":5405,\"originalJapaneseLine\":\"「けど、どうしてだ？\",\"translatedEnglishLine\":\"\\\"But why is that?\"},{\"lineNumber\":5406,\"originalJapaneseLine\":\"　前の魔人戦争の時は、一緒に闘ったんだろう？」\",\"translatedEnglishLine\":\"You fought alongside them during the previous Demon War, didn't you?\\\"\"},{\"lineNumber\":5407,\"originalJapaneseLine\":\"「私たちにとっても、あそこは居心地が良かった。\",\"translatedEnglishLine\":\"\\\"For us too, that place felt comfortable.\"},{\"lineNumber\":5408,\"originalJapaneseLine\":\"　戦争の為に雇われた、という訳でもなかったし」\",\"translatedEnglishLine\":\"It wasn't like we were hired just for the war.\\\"\"},{\"lineNumber\":5409,\"originalJapaneseLine\":\"「住処、だったんだよ。\",\"translatedEnglishLine\":\"\\\"It was our home.\"},{\"lineNumber\":5410,\"originalJapaneseLine\":\"　襲われたから、自然と戦った」\",\"translatedEnglishLine\":\"When we were attacked, we fought back naturally.\\\"\"},{\"lineNumber\":5411,\"originalJapaneseLine\":\"「……なるほどな」\",\"translatedEnglishLine\":\"\\\"...I see.\\\"\"},{\"lineNumber\":5412,\"originalJapaneseLine\":\"「それに……今は、勝算が薄い」\",\"translatedEnglishLine\":\"\\\"Besides... right now, our chances of winning are slim.\\\"\"},{\"lineNumber\":5413,\"originalJapaneseLine\":\"ぽつりと、しかし断言するように\",\"translatedEnglishLine\":\"He muttered, yet spoke with certainty.\"},{\"lineNumber\":5414,\"originalJapaneseLine\":\"キャンテルは言い切った。\",\"translatedEnglishLine\":\"Cantel declared it firmly.\"},{\"lineNumber\":5415,\"originalJapaneseLine\":\"「そりゃ……ずいぶんとクールだな」\",\"translatedEnglishLine\":\"\\\"Well... that's pretty cold.\\\"\"},{\"lineNumber\":5416,\"originalJapaneseLine\":\"「何言ってんだ。今だって生きるか死ぬかだぞ。\",\"translatedEnglishLine\":\"\\\"What are you saying? Even now it's a matter of life or death.\"},{\"lineNumber\":5417,\"originalJapaneseLine\":\"　死にたくなければ俺様に従えと言ってこい」\",\"translatedEnglishLine\":\"If you don't want to die, tell them to obey me.\\\"\"},{\"lineNumber\":5418,\"originalJapaneseLine\":\"「そんなに生きたいかねえ……\",\"translatedEnglishLine\":\"\\\"Do you want to live that badly...?\"},{\"lineNumber\":5419,\"originalJapaneseLine\":\"　いや、それ以前に、ドラゴン達はそこまで、\",\"translatedEnglishLine\":\"No, even before that, I think the dragons themselves...\"},{\"lineNumber\":5420,\"originalJapaneseLine\":\"　危ないと思ってないんじゃないかな」\",\"translatedEnglishLine\":\"don't think it's that dangerous.\\\"\"},{\"lineNumber\":5421,\"originalJapaneseLine\":\"「ぬ？」\",\"translatedEnglishLine\":\"\\\"Hmm?\\\"\"},{\"lineNumber\":5422,\"originalJapaneseLine\":\"「それこそ魔人でもなければ、\",\"translatedEnglishLine\":\"\\\"Unless it's a demon,\"},{\"lineNumber\":5423,\"originalJapaneseLine\":\"　簡単にドラゴンは倒せないだろう。\",\"translatedEnglishLine\":\"dragons can't easily be defeated.\"},{\"lineNumber\":5424,\"originalJapaneseLine\":\"　私たちからすれば、空に逃げたっていい」\",\"translatedEnglishLine\":\"From our point of view, they can just flee to the sky.\\\"\"},{\"lineNumber\":5425,\"originalJapaneseLine\":\"「山の下のことも関係ないし。\",\"translatedEnglishLine\":\"\\\"They're not concerned about what's happening beneath the mountain either.\"},{\"lineNumber\":5426,\"originalJapaneseLine\":\"　対岸の火事というやつだね」\",\"translatedEnglishLine\":\"It's just a fire on the other side of the river to them.\\\"\"},{\"lineNumber\":5427,\"originalJapaneseLine\":\"「ま……万事消極的なのさ。\",\"translatedEnglishLine\":\"\\\"Well... they're completely passive about everything.\"},{\"lineNumber\":5428,\"originalJapaneseLine\":\"　昔、色々ひどい目に遭ってるからねえ」\",\"translatedEnglishLine\":\"They've been through a lot of terrible experiences in the past, you see.\\\"\"},{\"lineNumber\":5429,\"originalJapaneseLine\":\"「ぬ、ハンティまで」\",\"translatedEnglishLine\":\"\\\"Hmm, even Hanti.\\\"\"},{\"lineNumber\":5430,\"originalJapaneseLine\":\"「というわけで、まあ……諦めてくれ。\",\"translatedEnglishLine\":\"\\\"So, well... just give up.\"},{\"lineNumber\":5431,\"originalJapaneseLine\":\"　私が説得するのは無理だよ」\",\"translatedEnglishLine\":\"It's impossible for me to persuade them.\\\"\"},{\"lineNumber\":5432,\"originalJapaneseLine\":\"「ええい、役に立たん！」\",\"translatedEnglishLine\":\"\\\"Ugh, you're no help!\\\"\"},{\"lineNumber\":5433,\"originalJapaneseLine\":\"「あんたが行くかい？」\",\"translatedEnglishLine\":\"\\\"Are you going to go?\\\"\"},{\"lineNumber\":5434,\"originalJapaneseLine\":\"「美人がいる可能性がゼロを振り切ってるような\",\"translatedEnglishLine\":\"\\\"To a lizard's den where the chance of finding a beauty is basically zero,\"},{\"lineNumber\":5435,\"originalJapaneseLine\":\"　トカゲのねぐらに、\",\"translatedEnglishLine\":\"to a lizard's lair,\"},{\"lineNumber\":5436,\"originalJapaneseLine\":\"　なんで俺が行かなきゃならんのだ」\",\"translatedEnglishLine\":\"why on earth should I have to go?\\\"\"},{\"lineNumber\":5437,\"originalJapaneseLine\":\"「はは、まあ違いない」\",\"translatedEnglishLine\":\"\\\"Haha, that's probably true.\\\"\"},{\"lineNumber\":5438,\"originalJapaneseLine\":\"「しかし、キャンテルは助けてくれてるな？」\",\"translatedEnglishLine\":\"\\\"But Cantel, you are helping, right?\\\"\"},{\"lineNumber\":5439,\"originalJapaneseLine\":\"「私は…………」\",\"translatedEnglishLine\":\"\\\"I am...\\\"\"},{\"lineNumber\":5440,\"originalJapaneseLine\":\"「変人なんだろ」\",\"translatedEnglishLine\":\"\\\"You're an eccentric, right?\\\"\"},{\"lineNumber\":5441,\"originalJapaneseLine\":\"「はっはは、ま、そうかもね」\",\"translatedEnglishLine\":\"\\\"Hahaha, well, maybe so.\\\"\"},{\"lineNumber\":5442,\"originalJapaneseLine\":\"「変人……ううん、\",\"translatedEnglishLine\":\"\\\"Eccentric... no,\"},{\"lineNumber\":5443,\"originalJapaneseLine\":\"　もう少し響きのいい呼び名が良いなあ……」\",\"translatedEnglishLine\":\"I want a name that sounds a bit nicer...\\\"\"},{\"lineNumber\":5444,\"originalJapaneseLine\":\"「…………………………」\",\"translatedEnglishLine\":\"\\\"..........................\\\"\"},{\"lineNumber\":5445,\"originalJapaneseLine\":\"キャンテルは、困っていた。\",\"translatedEnglishLine\":\"Cantel was troubled.\"},{\"lineNumber\":5446,\"originalJapaneseLine\":\"「………………」\",\"translatedEnglishLine\":\"\\\"...........\\\"\"},{\"lineNumber\":5447,\"originalJapaneseLine\":\"アームズが、キラキラと子供のような瞳で\",\"translatedEnglishLine\":\"Arms looked at him with sparkling, childlike eyes.\"},{\"lineNumber\":5448,\"originalJapaneseLine\":\"自分を眺めていた。\",\"translatedEnglishLine\":\"She was gazing at him.\"},{\"lineNumber\":5449,\"originalJapaneseLine\":\"「あの…………何か用かね」\",\"translatedEnglishLine\":\"\\\"Um... is there something you need?\\\"\"},{\"lineNumber\":5450,\"originalJapaneseLine\":\"「ひとつ、尋ねてもいいだろうか」\",\"translatedEnglishLine\":\"\\\"May I ask you something?\\\"\"},{\"lineNumber\":5451,\"originalJapaneseLine\":\"「どうぞ」\",\"translatedEnglishLine\":\"\\\"Go ahead.\\\"\"},{\"lineNumber\":5452,\"originalJapaneseLine\":\"「レアドロップは、何を落とすんだ！？」\",\"translatedEnglishLine\":\"\\\"What do rare drops drop!?\\\"\"},{\"lineNumber\":5453,\"originalJapaneseLine\":\"「…………それは……わからないなあ……」\",\"translatedEnglishLine\":\"\\\"...That, I don't really know...\\\"\"},{\"lineNumber\":5454,\"originalJapaneseLine\":\"「氷属性のホワイトドラゴン……かなり珍しいぞ。\",\"translatedEnglishLine\":\"\\\"An ice-element White Dragon... quite rare.\"},{\"lineNumber\":5455,\"originalJapaneseLine\":\"　牙や爪だとハズレだが……氷の結晶的なものかな」\",\"translatedEnglishLine\":\"If it's fangs or claws, that's a dud... probably something like an ice crystal.\\\"\"},{\"lineNumber\":5456,\"originalJapaneseLine\":\"「……人の肉体に、\",\"translatedEnglishLine\":\"\\\"...Please don't assign luck or misfortune to human bodies...\"},{\"lineNumber\":5457,\"originalJapaneseLine\":\"　当たり外れつけないで欲しいなあ……」\",\"translatedEnglishLine\":\"I'd rather you didn't label them as hits or misses...\\\"\"},{\"lineNumber\":5458,\"originalJapaneseLine\":\"「確かめてみないか？」\",\"translatedEnglishLine\":\"\\\"Do you want to find out for yourself?\\\"\"},{\"lineNumber\":5459,\"originalJapaneseLine\":\"「君、それ、殺させろってことかね」\",\"translatedEnglishLine\":\"\\\"Are you saying I should let you kill it?\\\"\"},{\"lineNumber\":5460,\"originalJapaneseLine\":\"「ダメかな。無抵抗でとは言わないが」\",\"translatedEnglishLine\":\"\\\"Is that no good? I’m not saying do it while it's defenseless, though.\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 5401,
+                                "originalJapaneseLine": "　結局は断られたままだ」",
+                                "translatedEnglishLine": "\"In the end, we were still refused.\""
+                            },
+                            {
+                                "lineNumber": 5402,
+                                "originalJapaneseLine": "「ぬ、パットン」",
+                                "translatedEnglishLine": "\"Hmm, Patton.\""
+                            },
+                            {
+                                "lineNumber": 5403,
+                                "originalJapaneseLine": "「うん……時間を無駄にするのも心苦しいし。",
+                                "translatedEnglishLine": "\"Yeah... It's painful to waste time."
+                            },
+                            {
+                                "lineNumber": 5404,
+                                "originalJapaneseLine": "　危険でもあるからねえ……」",
+                                "translatedEnglishLine": "It's also dangerous, you see...\""
+                            },
+                            {
+                                "lineNumber": 5405,
+                                "originalJapaneseLine": "「けど、どうしてだ？",
+                                "translatedEnglishLine": "\"But why is that?"
+                            },
+                            {
+                                "lineNumber": 5406,
+                                "originalJapaneseLine": "　前の魔人戦争の時は、一緒に闘ったんだろう？」",
+                                "translatedEnglishLine": "You fought alongside them during the previous Demon War, didn't you?\""
+                            },
+                            {
+                                "lineNumber": 5407,
+                                "originalJapaneseLine": "「私たちにとっても、あそこは居心地が良かった。",
+                                "translatedEnglishLine": "\"For us too, that place felt comfortable."
+                            },
+                            {
+                                "lineNumber": 5408,
+                                "originalJapaneseLine": "　戦争の為に雇われた、という訳でもなかったし」",
+                                "translatedEnglishLine": "It wasn't like we were hired just for the war.\""
+                            },
+                            {
+                                "lineNumber": 5409,
+                                "originalJapaneseLine": "「住処、だったんだよ。",
+                                "translatedEnglishLine": "\"It was our home."
+                            },
+                            {
+                                "lineNumber": 5410,
+                                "originalJapaneseLine": "　襲われたから、自然と戦った」",
+                                "translatedEnglishLine": "When we were attacked, we fought back naturally.\""
+                            },
+                            {
+                                "lineNumber": 5411,
+                                "originalJapaneseLine": "「……なるほどな」",
+                                "translatedEnglishLine": "\"...I see.\""
+                            },
+                            {
+                                "lineNumber": 5412,
+                                "originalJapaneseLine": "「それに……今は、勝算が薄い」",
+                                "translatedEnglishLine": "\"Besides... right now, our chances of winning are slim.\""
+                            },
+                            {
+                                "lineNumber": 5413,
+                                "originalJapaneseLine": "ぽつりと、しかし断言するように",
+                                "translatedEnglishLine": "He muttered, yet spoke with certainty."
+                            },
+                            {
+                                "lineNumber": 5414,
+                                "originalJapaneseLine": "キャンテルは言い切った。",
+                                "translatedEnglishLine": "Cantel declared it firmly."
+                            },
+                            {
+                                "lineNumber": 5415,
+                                "originalJapaneseLine": "「そりゃ……ずいぶんとクールだな」",
+                                "translatedEnglishLine": "\"Well... that's pretty cold.\""
+                            },
+                            {
+                                "lineNumber": 5416,
+                                "originalJapaneseLine": "「何言ってんだ。今だって生きるか死ぬかだぞ。",
+                                "translatedEnglishLine": "\"What are you saying? Even now it's a matter of life or death."
+                            },
+                            {
+                                "lineNumber": 5417,
+                                "originalJapaneseLine": "　死にたくなければ俺様に従えと言ってこい」",
+                                "translatedEnglishLine": "If you don't want to die, tell them to obey me.\""
+                            },
+                            {
+                                "lineNumber": 5418,
+                                "originalJapaneseLine": "「そんなに生きたいかねえ……",
+                                "translatedEnglishLine": "\"Do you want to live that badly...?"
+                            },
+                            {
+                                "lineNumber": 5419,
+                                "originalJapaneseLine": "　いや、それ以前に、ドラゴン達はそこまで、",
+                                "translatedEnglishLine": "No, even before that, I think the dragons themselves..."
+                            },
+                            {
+                                "lineNumber": 5420,
+                                "originalJapaneseLine": "　危ないと思ってないんじゃないかな」",
+                                "translatedEnglishLine": "don't think it's that dangerous.\""
+                            },
+                            {
+                                "lineNumber": 5421,
+                                "originalJapaneseLine": "「ぬ？」",
+                                "translatedEnglishLine": "\"Hmm?\""
+                            },
+                            {
+                                "lineNumber": 5422,
+                                "originalJapaneseLine": "「それこそ魔人でもなければ、",
+                                "translatedEnglishLine": "\"Unless it's a demon,"
+                            },
+                            {
+                                "lineNumber": 5423,
+                                "originalJapaneseLine": "　簡単にドラゴンは倒せないだろう。",
+                                "translatedEnglishLine": "dragons can't easily be defeated."
+                            },
+                            {
+                                "lineNumber": 5424,
+                                "originalJapaneseLine": "　私たちからすれば、空に逃げたっていい」",
+                                "translatedEnglishLine": "From our point of view, they can just flee to the sky.\""
+                            },
+                            {
+                                "lineNumber": 5425,
+                                "originalJapaneseLine": "「山の下のことも関係ないし。",
+                                "translatedEnglishLine": "\"They're not concerned about what's happening beneath the mountain either."
+                            },
+                            {
+                                "lineNumber": 5426,
+                                "originalJapaneseLine": "　対岸の火事というやつだね」",
+                                "translatedEnglishLine": "It's just a fire on the other side of the river to them.\""
+                            },
+                            {
+                                "lineNumber": 5427,
+                                "originalJapaneseLine": "「ま……万事消極的なのさ。",
+                                "translatedEnglishLine": "\"Well... they're completely passive about everything."
+                            },
+                            {
+                                "lineNumber": 5428,
+                                "originalJapaneseLine": "　昔、色々ひどい目に遭ってるからねえ」",
+                                "translatedEnglishLine": "They've been through a lot of terrible experiences in the past, you see.\""
+                            },
+                            {
+                                "lineNumber": 5429,
+                                "originalJapaneseLine": "「ぬ、ハンティまで」",
+                                "translatedEnglishLine": "\"Hmm, even Hanti.\""
+                            },
+                            {
+                                "lineNumber": 5430,
+                                "originalJapaneseLine": "「というわけで、まあ……諦めてくれ。",
+                                "translatedEnglishLine": "\"So, well... just give up."
+                            },
+                            {
+                                "lineNumber": 5431,
+                                "originalJapaneseLine": "　私が説得するのは無理だよ」",
+                                "translatedEnglishLine": "It's impossible for me to persuade them.\""
+                            },
+                            {
+                                "lineNumber": 5432,
+                                "originalJapaneseLine": "「ええい、役に立たん！」",
+                                "translatedEnglishLine": "\"Ugh, you're no help!\""
+                            },
+                            {
+                                "lineNumber": 5433,
+                                "originalJapaneseLine": "「あんたが行くかい？」",
+                                "translatedEnglishLine": "\"Are you going to go?\""
+                            },
+                            {
+                                "lineNumber": 5434,
+                                "originalJapaneseLine": "「美人がいる可能性がゼロを振り切ってるような",
+                                "translatedEnglishLine": "\"To a lizard's den where the chance of finding a beauty is basically zero,"
+                            },
+                            {
+                                "lineNumber": 5435,
+                                "originalJapaneseLine": "　トカゲのねぐらに、",
+                                "translatedEnglishLine": "to a lizard's lair,"
+                            },
+                            {
+                                "lineNumber": 5436,
+                                "originalJapaneseLine": "　なんで俺が行かなきゃならんのだ」",
+                                "translatedEnglishLine": "why on earth should I have to go?\""
+                            },
+                            {
+                                "lineNumber": 5437,
+                                "originalJapaneseLine": "「はは、まあ違いない」",
+                                "translatedEnglishLine": "\"Haha, that's probably true.\""
+                            },
+                            {
+                                "lineNumber": 5438,
+                                "originalJapaneseLine": "「しかし、キャンテルは助けてくれてるな？」",
+                                "translatedEnglishLine": "\"But Cantel, you are helping, right?\""
+                            },
+                            {
+                                "lineNumber": 5439,
+                                "originalJapaneseLine": "「私は…………」",
+                                "translatedEnglishLine": "\"I am...\""
+                            },
+                            {
+                                "lineNumber": 5440,
+                                "originalJapaneseLine": "「変人なんだろ」",
+                                "translatedEnglishLine": "\"You're an eccentric, right?\""
+                            },
+                            {
+                                "lineNumber": 5441,
+                                "originalJapaneseLine": "「はっはは、ま、そうかもね」",
+                                "translatedEnglishLine": "\"Hahaha, well, maybe so.\""
+                            },
+                            {
+                                "lineNumber": 5442,
+                                "originalJapaneseLine": "「変人……ううん、",
+                                "translatedEnglishLine": "\"Eccentric... no,"
+                            },
+                            {
+                                "lineNumber": 5443,
+                                "originalJapaneseLine": "　もう少し響きのいい呼び名が良いなあ……」",
+                                "translatedEnglishLine": "I want a name that sounds a bit nicer...\""
+                            },
+                            {
+                                "lineNumber": 5444,
+                                "originalJapaneseLine": "「…………………………」",
+                                "translatedEnglishLine": "\"..........................\""
+                            },
+                            {
+                                "lineNumber": 5445,
+                                "originalJapaneseLine": "キャンテルは、困っていた。",
+                                "translatedEnglishLine": "Cantel was troubled."
+                            },
+                            {
+                                "lineNumber": 5446,
+                                "originalJapaneseLine": "「………………」",
+                                "translatedEnglishLine": "\"...........\""
+                            },
+                            {
+                                "lineNumber": 5447,
+                                "originalJapaneseLine": "アームズが、キラキラと子供のような瞳で",
+                                "translatedEnglishLine": "Arms looked at him with sparkling, childlike eyes."
+                            },
+                            {
+                                "lineNumber": 5448,
+                                "originalJapaneseLine": "自分を眺めていた。",
+                                "translatedEnglishLine": "She was gazing at him."
+                            },
+                            {
+                                "lineNumber": 5449,
+                                "originalJapaneseLine": "「あの…………何か用かね」",
+                                "translatedEnglishLine": "\"Um... is there something you need?\""
+                            },
+                            {
+                                "lineNumber": 5450,
+                                "originalJapaneseLine": "「ひとつ、尋ねてもいいだろうか」",
+                                "translatedEnglishLine": "\"May I ask you something?\""
+                            },
+                            {
+                                "lineNumber": 5451,
+                                "originalJapaneseLine": "「どうぞ」",
+                                "translatedEnglishLine": "\"Go ahead.\""
+                            },
+                            {
+                                "lineNumber": 5452,
+                                "originalJapaneseLine": "「レアドロップは、何を落とすんだ！？」",
+                                "translatedEnglishLine": "\"What do rare drops drop!?\""
+                            },
+                            {
+                                "lineNumber": 5453,
+                                "originalJapaneseLine": "「…………それは……わからないなあ……」",
+                                "translatedEnglishLine": "\"...That, I don't really know...\""
+                            },
+                            {
+                                "lineNumber": 5454,
+                                "originalJapaneseLine": "「氷属性のホワイトドラゴン……かなり珍しいぞ。",
+                                "translatedEnglishLine": "\"An ice-element White Dragon... quite rare."
+                            },
+                            {
+                                "lineNumber": 5455,
+                                "originalJapaneseLine": "　牙や爪だとハズレだが……氷の結晶的なものかな」",
+                                "translatedEnglishLine": "If it's fangs or claws, that's a dud... probably something like an ice crystal.\""
+                            },
+                            {
+                                "lineNumber": 5456,
+                                "originalJapaneseLine": "「……人の肉体に、",
+                                "translatedEnglishLine": "\"...Please don't assign luck or misfortune to human bodies..."
+                            },
+                            {
+                                "lineNumber": 5457,
+                                "originalJapaneseLine": "　当たり外れつけないで欲しいなあ……」",
+                                "translatedEnglishLine": "I'd rather you didn't label them as hits or misses...\""
+                            },
+                            {
+                                "lineNumber": 5458,
+                                "originalJapaneseLine": "「確かめてみないか？」",
+                                "translatedEnglishLine": "\"Do you want to find out for yourself?\""
+                            },
+                            {
+                                "lineNumber": 5459,
+                                "originalJapaneseLine": "「君、それ、殺させろってことかね」",
+                                "translatedEnglishLine": "\"Are you saying I should let you kill it?\""
+                            },
+                            {
+                                "lineNumber": 5460,
+                                "originalJapaneseLine": "「ダメかな。無抵抗でとは言わないが」",
+                                "translatedEnglishLine": "\"Is that no good? I’m not saying do it while it's defenseless, though.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1735,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2272,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4007
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":5401,\"originalJapaneseLine\":\"　結局は断られたままだ」\",\"translatedEnglishLine\":\"\\\"In the end, we were still refused.\\\"\"},{\"lineNumber\":5402,\"originalJapaneseLine\":\"「ぬ、パットン」\",\"translatedEnglishLine\":\"\\\"Hmm, Patton.\\\"\"},{\"lineNumber\":5403,\"originalJapaneseLine\":\"「うん……時間を無駄にするのも心苦しいし。\",\"translatedEnglishLine\":\"\\\"Yeah... It's painful to waste time.\"},{\"lineNumber\":5404,\"originalJapaneseLine\":\"　危険でもあるからねえ……」\",\"translatedEnglishLine\":\"It's also dangerous, you see...\\\"\"},{\"lineNumber\":5405,\"originalJapaneseLine\":\"「けど、どうしてだ？\",\"translatedEnglishLine\":\"\\\"But why is that?\"},{\"lineNumber\":5406,\"originalJapaneseLine\":\"　前の魔人戦争の時は、一緒に闘ったんだろう？」\",\"translatedEnglishLine\":\"You fought alongside them during the previous Demon War, didn't you?\\\"\"},{\"lineNumber\":5407,\"originalJapaneseLine\":\"「私たちにとっても、あそこは居心地が良かった。\",\"translatedEnglishLine\":\"\\\"For us too, that place felt comfortable.\"},{\"lineNumber\":5408,\"originalJapaneseLine\":\"　戦争の為に雇われた、という訳でもなかったし」\",\"translatedEnglishLine\":\"It wasn't like we were hired just for the war.\\\"\"},{\"lineNumber\":5409,\"originalJapaneseLine\":\"「住処、だったんだよ。\",\"translatedEnglishLine\":\"\\\"It was our home.\"},{\"lineNumber\":5410,\"originalJapaneseLine\":\"　襲われたから、自然と戦った」\",\"translatedEnglishLine\":\"When we were attacked, we fought back naturally.\\\"\"},{\"lineNumber\":5411,\"originalJapaneseLine\":\"「……なるほどな」\",\"translatedEnglishLine\":\"\\\"...I see.\\\"\"},{\"lineNumber\":5412,\"originalJapaneseLine\":\"「それに……今は、勝算が薄い」\",\"translatedEnglishLine\":\"\\\"Besides... right now, our chances of winning are slim.\\\"\"},{\"lineNumber\":5413,\"originalJapaneseLine\":\"ぽつりと、しかし断言するように\",\"translatedEnglishLine\":\"He muttered, yet spoke with certainty.\"},{\"lineNumber\":5414,\"originalJapaneseLine\":\"キャンテルは言い切った。\",\"translatedEnglishLine\":\"Cantel declared it firmly.\"},{\"lineNumber\":5415,\"originalJapaneseLine\":\"「そりゃ……ずいぶんとクールだな」\",\"translatedEnglishLine\":\"\\\"Well... that's pretty cold.\\\"\"},{\"lineNumber\":5416,\"originalJapaneseLine\":\"「何言ってんだ。今だって生きるか死ぬかだぞ。\",\"translatedEnglishLine\":\"\\\"What are you saying? Even now it's a matter of life or death.\"},{\"lineNumber\":5417,\"originalJapaneseLine\":\"　死にたくなければ俺様に従えと言ってこい」\",\"translatedEnglishLine\":\"If you don't want to die, tell them to obey me.\\\"\"},{\"lineNumber\":5418,\"originalJapaneseLine\":\"「そんなに生きたいかねえ……\",\"translatedEnglishLine\":\"\\\"Do you want to live that badly...?\"},{\"lineNumber\":5419,\"originalJapaneseLine\":\"　いや、それ以前に、ドラゴン達はそこまで、\",\"translatedEnglishLine\":\"No, even before that, I think the dragons themselves...\"},{\"lineNumber\":5420,\"originalJapaneseLine\":\"　危ないと思ってないんじゃないかな」\",\"translatedEnglishLine\":\"don't think it's that dangerous.\\\"\"},{\"lineNumber\":5421,\"originalJapaneseLine\":\"「ぬ？」\",\"translatedEnglishLine\":\"\\\"Hmm?\\\"\"},{\"lineNumber\":5422,\"originalJapaneseLine\":\"「それこそ魔人でもなければ、\",\"translatedEnglishLine\":\"\\\"Unless it's a demon,\"},{\"lineNumber\":5423,\"originalJapaneseLine\":\"　簡単にドラゴンは倒せないだろう。\",\"translatedEnglishLine\":\"dragons can't easily be defeated.\"},{\"lineNumber\":5424,\"originalJapaneseLine\":\"　私たちからすれば、空に逃げたっていい」\",\"translatedEnglishLine\":\"From our point of view, they can just flee to the sky.\\\"\"},{\"lineNumber\":5425,\"originalJapaneseLine\":\"「山の下のことも関係ないし。\",\"translatedEnglishLine\":\"\\\"They're not concerned about what's happening beneath the mountain either.\"},{\"lineNumber\":5426,\"originalJapaneseLine\":\"　対岸の火事というやつだね」\",\"translatedEnglishLine\":\"It's just a fire on the other side of the river to them.\\\"\"},{\"lineNumber\":5427,\"originalJapaneseLine\":\"「ま……万事消極的なのさ。\",\"translatedEnglishLine\":\"\\\"Well... they're completely passive about everything.\"},{\"lineNumber\":5428,\"originalJapaneseLine\":\"　昔、色々ひどい目に遭ってるからねえ」\",\"translatedEnglishLine\":\"They've been through a lot of terrible experiences in the past, you see.\\\"\"},{\"lineNumber\":5429,\"originalJapaneseLine\":\"「ぬ、ハンティまで」\",\"translatedEnglishLine\":\"\\\"Hmm, even Hanti.\\\"\"},{\"lineNumber\":5430,\"originalJapaneseLine\":\"「というわけで、まあ……諦めてくれ。\",\"translatedEnglishLine\":\"\\\"So, well... just give up.\"},{\"lineNumber\":5431,\"originalJapaneseLine\":\"　私が説得するのは無理だよ」\",\"translatedEnglishLine\":\"It's impossible for me to persuade them.\\\"\"},{\"lineNumber\":5432,\"originalJapaneseLine\":\"「ええい、役に立たん！」\",\"translatedEnglishLine\":\"\\\"Ugh, you're no help!\\\"\"},{\"lineNumber\":5433,\"originalJapaneseLine\":\"「あんたが行くかい？」\",\"translatedEnglishLine\":\"\\\"Are you going to go?\\\"\"},{\"lineNumber\":5434,\"originalJapaneseLine\":\"「美人がいる可能性がゼロを振り切ってるような\",\"translatedEnglishLine\":\"\\\"To a lizard's den where the chance of finding a beauty is basically zero,\"},{\"lineNumber\":5435,\"originalJapaneseLine\":\"　トカゲのねぐらに、\",\"translatedEnglishLine\":\"to a lizard's lair,\"},{\"lineNumber\":5436,\"originalJapaneseLine\":\"　なんで俺が行かなきゃならんのだ」\",\"translatedEnglishLine\":\"why on earth should I have to go?\\\"\"},{\"lineNumber\":5437,\"originalJapaneseLine\":\"「はは、まあ違いない」\",\"translatedEnglishLine\":\"\\\"Haha, that's probably true.\\\"\"},{\"lineNumber\":5438,\"originalJapaneseLine\":\"「しかし、キャンテルは助けてくれてるな？」\",\"translatedEnglishLine\":\"\\\"But Cantel, you are helping, right?\\\"\"},{\"lineNumber\":5439,\"originalJapaneseLine\":\"「私は…………」\",\"translatedEnglishLine\":\"\\\"I am...\\\"\"},{\"lineNumber\":5440,\"originalJapaneseLine\":\"「変人なんだろ」\",\"translatedEnglishLine\":\"\\\"You're an eccentric, right?\\\"\"},{\"lineNumber\":5441,\"originalJapaneseLine\":\"「はっはは、ま、そうかもね」\",\"translatedEnglishLine\":\"\\\"Hahaha, well, maybe so.\\\"\"},{\"lineNumber\":5442,\"originalJapaneseLine\":\"「変人……ううん、\",\"translatedEnglishLine\":\"\\\"Eccentric... no,\"},{\"lineNumber\":5443,\"originalJapaneseLine\":\"　もう少し響きのいい呼び名が良いなあ……」\",\"translatedEnglishLine\":\"I want a name that sounds a bit nicer...\\\"\"},{\"lineNumber\":5444,\"originalJapaneseLine\":\"「…………………………」\",\"translatedEnglishLine\":\"\\\"..........................\\\"\"},{\"lineNumber\":5445,\"originalJapaneseLine\":\"キャンテルは、困っていた。\",\"translatedEnglishLine\":\"Cantel was troubled.\"},{\"lineNumber\":5446,\"originalJapaneseLine\":\"「………………」\",\"translatedEnglishLine\":\"\\\"...........\\\"\"},{\"lineNumber\":5447,\"originalJapaneseLine\":\"アームズが、キラキラと子供のような瞳で\",\"translatedEnglishLine\":\"Arms looked at him with sparkling, childlike eyes.\"},{\"lineNumber\":5448,\"originalJapaneseLine\":\"自分を眺めていた。\",\"translatedEnglishLine\":\"She was gazing at him.\"},{\"lineNumber\":5449,\"originalJapaneseLine\":\"「あの…………何か用かね」\",\"translatedEnglishLine\":\"\\\"Um... is there something you need?\\\"\"},{\"lineNumber\":5450,\"originalJapaneseLine\":\"「ひとつ、尋ねてもいいだろうか」\",\"translatedEnglishLine\":\"\\\"May I ask you something?\\\"\"},{\"lineNumber\":5451,\"originalJapaneseLine\":\"「どうぞ」\",\"translatedEnglishLine\":\"\\\"Go ahead.\\\"\"},{\"lineNumber\":5452,\"originalJapaneseLine\":\"「レアドロップは、何を落とすんだ！？」\",\"translatedEnglishLine\":\"\\\"What do rare drops drop!?\\\"\"},{\"lineNumber\":5453,\"originalJapaneseLine\":\"「…………それは……わからないなあ……」\",\"translatedEnglishLine\":\"\\\"...That, I don't really know...\\\"\"},{\"lineNumber\":5454,\"originalJapaneseLine\":\"「氷属性のホワイトドラゴン……かなり珍しいぞ。\",\"translatedEnglishLine\":\"\\\"An ice-element White Dragon... quite rare.\"},{\"lineNumber\":5455,\"originalJapaneseLine\":\"　牙や爪だとハズレだが……氷の結晶的なものかな」\",\"translatedEnglishLine\":\"If it's fangs or claws, that's a dud... probably something like an ice crystal.\\\"\"},{\"lineNumber\":5456,\"originalJapaneseLine\":\"「……人の肉体に、\",\"translatedEnglishLine\":\"\\\"...Please don't assign luck or misfortune to human bodies...\"},{\"lineNumber\":5457,\"originalJapaneseLine\":\"　当たり外れつけないで欲しいなあ……」\",\"translatedEnglishLine\":\"I'd rather you didn't label them as hits or misses...\\\"\"},{\"lineNumber\":5458,\"originalJapaneseLine\":\"「確かめてみないか？」\",\"translatedEnglishLine\":\"\\\"Do you want to find out for yourself?\\\"\"},{\"lineNumber\":5459,\"originalJapaneseLine\":\"「君、それ、殺させろってことかね」\",\"translatedEnglishLine\":\"\\\"Are you saying I should let you kill it?\\\"\"},{\"lineNumber\":5460,\"originalJapaneseLine\":\"「ダメかな。無抵抗でとは言わないが」\",\"translatedEnglishLine\":\"\\\"Is that no good? I’m not saying do it while it's defenseless, though.\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 5401,
+                "originalJapaneseLine": "　結局は断られたままだ」",
+                "translatedEnglishLine": "\"In the end, we were still refused.\""
+            },
+            {
+                "lineNumber": 5402,
+                "originalJapaneseLine": "「ぬ、パットン」",
+                "translatedEnglishLine": "\"Hmm, Patton.\""
+            },
+            {
+                "lineNumber": 5403,
+                "originalJapaneseLine": "「うん……時間を無駄にするのも心苦しいし。",
+                "translatedEnglishLine": "\"Yeah... It's painful to waste time."
+            },
+            {
+                "lineNumber": 5404,
+                "originalJapaneseLine": "　危険でもあるからねえ……」",
+                "translatedEnglishLine": "It's also dangerous, you see...\""
+            },
+            {
+                "lineNumber": 5405,
+                "originalJapaneseLine": "「けど、どうしてだ？",
+                "translatedEnglishLine": "\"But why is that?"
+            },
+            {
+                "lineNumber": 5406,
+                "originalJapaneseLine": "　前の魔人戦争の時は、一緒に闘ったんだろう？」",
+                "translatedEnglishLine": "You fought alongside them during the previous Demon War, didn't you?\""
+            },
+            {
+                "lineNumber": 5407,
+                "originalJapaneseLine": "「私たちにとっても、あそこは居心地が良かった。",
+                "translatedEnglishLine": "\"For us too, that place felt comfortable."
+            },
+            {
+                "lineNumber": 5408,
+                "originalJapaneseLine": "　戦争の為に雇われた、という訳でもなかったし」",
+                "translatedEnglishLine": "It wasn't like we were hired just for the war.\""
+            },
+            {
+                "lineNumber": 5409,
+                "originalJapaneseLine": "「住処、だったんだよ。",
+                "translatedEnglishLine": "\"It was our home."
+            },
+            {
+                "lineNumber": 5410,
+                "originalJapaneseLine": "　襲われたから、自然と戦った」",
+                "translatedEnglishLine": "When we were attacked, we fought back naturally.\""
+            },
+            {
+                "lineNumber": 5411,
+                "originalJapaneseLine": "「……なるほどな」",
+                "translatedEnglishLine": "\"...I see.\""
+            },
+            {
+                "lineNumber": 5412,
+                "originalJapaneseLine": "「それに……今は、勝算が薄い」",
+                "translatedEnglishLine": "\"Besides... right now, our chances of winning are slim.\""
+            },
+            {
+                "lineNumber": 5413,
+                "originalJapaneseLine": "ぽつりと、しかし断言するように",
+                "translatedEnglishLine": "He muttered, yet spoke with certainty."
+            },
+            {
+                "lineNumber": 5414,
+                "originalJapaneseLine": "キャンテルは言い切った。",
+                "translatedEnglishLine": "Cantel declared it firmly."
+            },
+            {
+                "lineNumber": 5415,
+                "originalJapaneseLine": "「そりゃ……ずいぶんとクールだな」",
+                "translatedEnglishLine": "\"Well... that's pretty cold.\""
+            },
+            {
+                "lineNumber": 5416,
+                "originalJapaneseLine": "「何言ってんだ。今だって生きるか死ぬかだぞ。",
+                "translatedEnglishLine": "\"What are you saying? Even now it's a matter of life or death."
+            },
+            {
+                "lineNumber": 5417,
+                "originalJapaneseLine": "　死にたくなければ俺様に従えと言ってこい」",
+                "translatedEnglishLine": "If you don't want to die, tell them to obey me.\""
+            },
+            {
+                "lineNumber": 5418,
+                "originalJapaneseLine": "「そんなに生きたいかねえ……",
+                "translatedEnglishLine": "\"Do you want to live that badly...?"
+            },
+            {
+                "lineNumber": 5419,
+                "originalJapaneseLine": "　いや、それ以前に、ドラゴン達はそこまで、",
+                "translatedEnglishLine": "No, even before that, I think the dragons themselves..."
+            },
+            {
+                "lineNumber": 5420,
+                "originalJapaneseLine": "　危ないと思ってないんじゃないかな」",
+                "translatedEnglishLine": "don't think it's that dangerous.\""
+            },
+            {
+                "lineNumber": 5421,
+                "originalJapaneseLine": "「ぬ？」",
+                "translatedEnglishLine": "\"Hmm?\""
+            },
+            {
+                "lineNumber": 5422,
+                "originalJapaneseLine": "「それこそ魔人でもなければ、",
+                "translatedEnglishLine": "\"Unless it's a demon,"
+            },
+            {
+                "lineNumber": 5423,
+                "originalJapaneseLine": "　簡単にドラゴンは倒せないだろう。",
+                "translatedEnglishLine": "dragons can't easily be defeated."
+            },
+            {
+                "lineNumber": 5424,
+                "originalJapaneseLine": "　私たちからすれば、空に逃げたっていい」",
+                "translatedEnglishLine": "From our point of view, they can just flee to the sky.\""
+            },
+            {
+                "lineNumber": 5425,
+                "originalJapaneseLine": "「山の下のことも関係ないし。",
+                "translatedEnglishLine": "\"They're not concerned about what's happening beneath the mountain either."
+            },
+            {
+                "lineNumber": 5426,
+                "originalJapaneseLine": "　対岸の火事というやつだね」",
+                "translatedEnglishLine": "It's just a fire on the other side of the river to them.\""
+            },
+            {
+                "lineNumber": 5427,
+                "originalJapaneseLine": "「ま……万事消極的なのさ。",
+                "translatedEnglishLine": "\"Well... they're completely passive about everything."
+            },
+            {
+                "lineNumber": 5428,
+                "originalJapaneseLine": "　昔、色々ひどい目に遭ってるからねえ」",
+                "translatedEnglishLine": "They've been through a lot of terrible experiences in the past, you see.\""
+            },
+            {
+                "lineNumber": 5429,
+                "originalJapaneseLine": "「ぬ、ハンティまで」",
+                "translatedEnglishLine": "\"Hmm, even Hanti.\""
+            },
+            {
+                "lineNumber": 5430,
+                "originalJapaneseLine": "「というわけで、まあ……諦めてくれ。",
+                "translatedEnglishLine": "\"So, well... just give up."
+            },
+            {
+                "lineNumber": 5431,
+                "originalJapaneseLine": "　私が説得するのは無理だよ」",
+                "translatedEnglishLine": "It's impossible for me to persuade them.\""
+            },
+            {
+                "lineNumber": 5432,
+                "originalJapaneseLine": "「ええい、役に立たん！」",
+                "translatedEnglishLine": "\"Ugh, you're no help!\""
+            },
+            {
+                "lineNumber": 5433,
+                "originalJapaneseLine": "「あんたが行くかい？」",
+                "translatedEnglishLine": "\"Are you going to go?\""
+            },
+            {
+                "lineNumber": 5434,
+                "originalJapaneseLine": "「美人がいる可能性がゼロを振り切ってるような",
+                "translatedEnglishLine": "\"To a lizard's den where the chance of finding a beauty is basically zero,"
+            },
+            {
+                "lineNumber": 5435,
+                "originalJapaneseLine": "　トカゲのねぐらに、",
+                "translatedEnglishLine": "to a lizard's lair,"
+            },
+            {
+                "lineNumber": 5436,
+                "originalJapaneseLine": "　なんで俺が行かなきゃならんのだ」",
+                "translatedEnglishLine": "why on earth should I have to go?\""
+            },
+            {
+                "lineNumber": 5437,
+                "originalJapaneseLine": "「はは、まあ違いない」",
+                "translatedEnglishLine": "\"Haha, that's probably true.\""
+            },
+            {
+                "lineNumber": 5438,
+                "originalJapaneseLine": "「しかし、キャンテルは助けてくれてるな？」",
+                "translatedEnglishLine": "\"But Cantel, you are helping, right?\""
+            },
+            {
+                "lineNumber": 5439,
+                "originalJapaneseLine": "「私は…………」",
+                "translatedEnglishLine": "\"I am...\""
+            },
+            {
+                "lineNumber": 5440,
+                "originalJapaneseLine": "「変人なんだろ」",
+                "translatedEnglishLine": "\"You're an eccentric, right?\""
+            },
+            {
+                "lineNumber": 5441,
+                "originalJapaneseLine": "「はっはは、ま、そうかもね」",
+                "translatedEnglishLine": "\"Hahaha, well, maybe so.\""
+            },
+            {
+                "lineNumber": 5442,
+                "originalJapaneseLine": "「変人……ううん、",
+                "translatedEnglishLine": "\"Eccentric... no,"
+            },
+            {
+                "lineNumber": 5443,
+                "originalJapaneseLine": "　もう少し響きのいい呼び名が良いなあ……」",
+                "translatedEnglishLine": "I want a name that sounds a bit nicer...\""
+            },
+            {
+                "lineNumber": 5444,
+                "originalJapaneseLine": "「…………………………」",
+                "translatedEnglishLine": "\"..........................\""
+            },
+            {
+                "lineNumber": 5445,
+                "originalJapaneseLine": "キャンテルは、困っていた。",
+                "translatedEnglishLine": "Cantel was troubled."
+            },
+            {
+                "lineNumber": 5446,
+                "originalJapaneseLine": "「………………」",
+                "translatedEnglishLine": "\"...........\""
+            },
+            {
+                "lineNumber": 5447,
+                "originalJapaneseLine": "アームズが、キラキラと子供のような瞳で",
+                "translatedEnglishLine": "Arms looked at him with sparkling, childlike eyes."
+            },
+            {
+                "lineNumber": 5448,
+                "originalJapaneseLine": "自分を眺めていた。",
+                "translatedEnglishLine": "She was gazing at him."
+            },
+            {
+                "lineNumber": 5449,
+                "originalJapaneseLine": "「あの…………何か用かね」",
+                "translatedEnglishLine": "\"Um... is there something you need?\""
+            },
+            {
+                "lineNumber": 5450,
+                "originalJapaneseLine": "「ひとつ、尋ねてもいいだろうか」",
+                "translatedEnglishLine": "\"May I ask you something?\""
+            },
+            {
+                "lineNumber": 5451,
+                "originalJapaneseLine": "「どうぞ」",
+                "translatedEnglishLine": "\"Go ahead.\""
+            },
+            {
+                "lineNumber": 5452,
+                "originalJapaneseLine": "「レアドロップは、何を落とすんだ！？」",
+                "translatedEnglishLine": "\"What do rare drops drop!?\""
+            },
+            {
+                "lineNumber": 5453,
+                "originalJapaneseLine": "「…………それは……わからないなあ……」",
+                "translatedEnglishLine": "\"...That, I don't really know...\""
+            },
+            {
+                "lineNumber": 5454,
+                "originalJapaneseLine": "「氷属性のホワイトドラゴン……かなり珍しいぞ。",
+                "translatedEnglishLine": "\"An ice-element White Dragon... quite rare."
+            },
+            {
+                "lineNumber": 5455,
+                "originalJapaneseLine": "　牙や爪だとハズレだが……氷の結晶的なものかな」",
+                "translatedEnglishLine": "If it's fangs or claws, that's a dud... probably something like an ice crystal.\""
+            },
+            {
+                "lineNumber": 5456,
+                "originalJapaneseLine": "「……人の肉体に、",
+                "translatedEnglishLine": "\"...Please don't assign luck or misfortune to human bodies..."
+            },
+            {
+                "lineNumber": 5457,
+                "originalJapaneseLine": "　当たり外れつけないで欲しいなあ……」",
+                "translatedEnglishLine": "I'd rather you didn't label them as hits or misses...\""
+            },
+            {
+                "lineNumber": 5458,
+                "originalJapaneseLine": "「確かめてみないか？」",
+                "translatedEnglishLine": "\"Do you want to find out for yourself?\""
+            },
+            {
+                "lineNumber": 5459,
+                "originalJapaneseLine": "「君、それ、殺させろってことかね」",
+                "translatedEnglishLine": "\"Are you saying I should let you kill it?\""
+            },
+            {
+                "lineNumber": 5460,
+                "originalJapaneseLine": "「ダメかな。無抵抗でとは言わないが」",
+                "translatedEnglishLine": "\"Is that no good? I’m not saying do it while it's defenseless, though.\""
+            }
+        ]
+    }
+}

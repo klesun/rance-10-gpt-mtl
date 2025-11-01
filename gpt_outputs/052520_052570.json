@@ -1,1 +1,619 @@
-{"id":"resp_0f47c4dbeab2ad560068efc27ed72c8193993c859d9be9947c","object":"response","created_at":1760543358,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0f47c4dbeab2ad560068efc27f3a7c81938192bcdda38d4f57","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":52521,\"originalJapaneseLine\":\"　高かったんだけどなぁ、あれ……」\",\"translatedEnglishLine\":\"\\\"It was expensive, though...\\\"\"},{\"lineNumber\":52522,\"originalJapaneseLine\":\"哄笑する魔物将軍に、サイアスは苦笑して、\",\"translatedEnglishLine\":\"To the mocking demon general, Saias gave a wry smile,\"},{\"lineNumber\":52523,\"originalJapaneseLine\":\"くしゃりと癖のある髪に手をやった。\",\"translatedEnglishLine\":\"and ran his hand through his messy, unruly hair.\"},{\"lineNumber\":52524,\"originalJapaneseLine\":\"「残念だったなぁ、わざわざ大軍を率いて、\",\"translatedEnglishLine\":\"\\\"What a shame, bringing a large army all the way here,\"},{\"lineNumber\":52525,\"originalJapaneseLine\":\"　無駄足を踏みに来るとは……くくく……\",\"translatedEnglishLine\":\"just to come and waste your steps... hehehe...\"},{\"lineNumber\":52526,\"originalJapaneseLine\":\"　帰る場所が……あるといいがなぁ？」\",\"translatedEnglishLine\":\"I hope... you have a place to return to?\\\"\"},{\"lineNumber\":52527,\"originalJapaneseLine\":\"傲然とした笑みを浮かべ、ポルは人間達を見回した。\",\"translatedEnglishLine\":\"With a haughty smile, Por looked around at the humans.\"},{\"lineNumber\":52528,\"originalJapaneseLine\":\"魔軍司令部――\",\"translatedEnglishLine\":\"Demon Army Headquarters――\"},{\"lineNumber\":52529,\"originalJapaneseLine\":\"「閣下！　ポル様より連絡が！\",\"translatedEnglishLine\":\"\\\"Your Excellency! A message from Lord Por!\"},{\"lineNumber\":52530,\"originalJapaneseLine\":\"　人間どもが、マジノラインに\",\"translatedEnglishLine\":\"The humans seem to have concentrated their forces at the Maginot Line!\"},{\"lineNumber\":52531,\"originalJapaneseLine\":\"　戦力を注ぎ込んできた模様！」\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":52532,\"originalJapaneseLine\":\"「くくく……そこに、全てを賭けてきたのか。\",\"translatedEnglishLine\":\"\\\"Heh heh heh... they've bet everything on that.\"},{\"lineNumber\":52533,\"originalJapaneseLine\":\"　まったく、愚かな連中だ……」\",\"translatedEnglishLine\":\"Truly, what foolish people they are...\\\"\"},{\"lineNumber\":52534,\"originalJapaneseLine\":\"ツォトンは愉悦を抑えきれぬとばかりに、\",\"translatedEnglishLine\":\"Tsoton could barely contain his pleasure,\"},{\"lineNumber\":52535,\"originalJapaneseLine\":\"肩を震わせる。\",\"translatedEnglishLine\":\"his shoulders shaking.\"},{\"lineNumber\":52536,\"originalJapaneseLine\":\"間抜けな敵の醜態を高みから見下ろす事ほど、\",\"translatedEnglishLine\":\"There is nothing more enjoyable than looking down from above on the foolish enemy's disgrace.\"},{\"lineNumber\":52537,\"originalJapaneseLine\":\"楽しいものはない。\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":52538,\"originalJapaneseLine\":\"「奴らの首都はどうなっている」\",\"translatedEnglishLine\":\"\\\"What is happening in their capital?\\\"\"},{\"lineNumber\":52539,\"originalJapaneseLine\":\"「は……ほとんど戦力はないようです。\",\"translatedEnglishLine\":\"\\\"Ah... it seems there is almost no force left.\"},{\"lineNumber\":52540,\"originalJapaneseLine\":\"　精々数千といった程度で……」\",\"translatedEnglishLine\":\"At most, just a few thousand…\\\"\"},\n\n{\"lineNumber\":52541,\"originalJapaneseLine\":\"「ハハハハハハハハ！　そうかそうか！\",\"translatedEnglishLine\":\"\\\"Hahahahahahaha! Is that so, is that so!\"},\n\n{\"lineNumber\":52542,\"originalJapaneseLine\":\"　実にニィハオだな！」\",\"translatedEnglishLine\":\"How delightfully naive!\\\"\"},\n\n{\"lineNumber\":52543,\"originalJapaneseLine\":\"「我が直属の兵を投入するぞ！\",\"translatedEnglishLine\":\"\\\"I will deploy my direct soldiers!\"},\n\n{\"lineNumber\":52544,\"originalJapaneseLine\":\"　首都を再陥落させ、王を縊り殺してくれるわ！」\",\"translatedEnglishLine\":\"They will retake the capital and strangle the king to death!\\\"\"},\n\n{\"lineNumber\":52545,\"originalJapaneseLine\":\"「は、ははっ！」\",\"translatedEnglishLine\":\"\\\"Ha, ha ha!\\\"\"},\n\n{\"lineNumber\":52546,\"originalJapaneseLine\":\"「捕まえた人間は、捕まえた者の自由にしていいぞ！\",\"translatedEnglishLine\":\"\\\"Those who capture humans may do as they please with them!\"},\n\n{\"lineNumber\":52547,\"originalJapaneseLine\":\"　多く殺せば褒美をくれてやる！」\",\"translatedEnglishLine\":\"The more they kill, the greater the reward!\\\"\"},\n\n{\"lineNumber\":52548,\"originalJapaneseLine\":\"魔軍司令部は、にわかに沸き立った。\",\"translatedEnglishLine\":\"The Demon Army Headquarters suddenly erupted with excitement.\"},\n\n{\"lineNumber\":52549,\"originalJapaneseLine\":\"魔軍の一点……ツォトンがひた隠しにしていた\",\"translatedEnglishLine\":\"The demon army's core... something Tsoton had kept carefully hidden,\"},\n\n{\"lineNumber\":52550,\"originalJapaneseLine\":\"魔軍の本拠地の軍が、ついに動き始めた。\",\"translatedEnglishLine\":\"the army from the demon stronghold, had finally begun to move.\"},\n\n{\"lineNumber\":52551,\"originalJapaneseLine\":\"魔物大将軍ツォトンは自ら出陣。\",\"translatedEnglishLine\":\"The great demon general Tsoton personally went to battle.\"},\n\n{\"lineNumber\":52552,\"originalJapaneseLine\":\"開戦時を再現するかのように、\",\"translatedEnglishLine\":\"As if recreating the start of the war,\"},\n\n{\"lineNumber\":52553,\"originalJapaneseLine\":\"人類軍はまったく抵抗する術なく逃げ散っていく。\",\"translatedEnglishLine\":\"the human army scattered, unable to offer any resistance.\"},\n\n{\"lineNumber\":52554,\"originalJapaneseLine\":\"王者の塔、跳躍の塔の間を抜け、王都に達するまで、\",\"translatedEnglishLine\":\"Passing between the Tower of the King and the Tower of Leap, until reaching the royal capital,\"},\n\n{\"lineNumber\":52555,\"originalJapaneseLine\":\"魔軍は戦闘らしい戦闘をまるで行う事がなかった。\",\"translatedEnglishLine\":\"the demon army barely fought any real battles at all.\"},\n\n{\"lineNumber\":52556,\"originalJapaneseLine\":\"「フハハハハハハハハ！　なんだ手応えのない！\",\"translatedEnglishLine\":\"\\\"Fuhahahahaha! Such lack of resistance!\"},\n\n{\"lineNumber\":52557,\"originalJapaneseLine\":\"　無人の野を行くが如しか！」\",\"translatedEnglishLine\":\"It’s like marching through an empty field!\\\"\"},\n\n{\"lineNumber\":52558,\"originalJapaneseLine\":\"「大将軍閣下。首都は誰も彼も、\",\"translatedEnglishLine\":\"\\\"Great General, it seems everyone in the capital,\"},\n\n{\"lineNumber\":52559,\"originalJapaneseLine\":\"　ゴキブリのように逃げ散っていたようです。\",\"translatedEnglishLine\":\"fled like cockroaches.\"},\n\n{\"lineNumber\":52560,\"originalJapaneseLine\":\"　無人のようで」\",\"translatedEnglishLine\":\"It appears deserted.\\\"\"},{\"lineNumber\":52561,\"originalJapaneseLine\":\"「ふん、当てが外れたな……まあいい。\",\"translatedEnglishLine\":\"\\\"Hmph, that was unexpected... but it’s fine.\"},\n\n{\"lineNumber\":52562,\"originalJapaneseLine\":\"　後は城か……こちらも粉々に破壊してくれようか」\",\"translatedEnglishLine\":\"Now for the castle... let’s smash it to pieces as well.\\\"\"},{\"lineNumber\":52563,\"originalJapaneseLine\":\"「…………………………」\",\"translatedEnglishLine\":\"\\\"..........................\\\"\"},{\"lineNumber\":52564,\"originalJapaneseLine\":\"「――――作戦、第2段階……開始」\",\"translatedEnglishLine\":\"\\\"――――Operation, phase two... begin.\\\"\"},{\"lineNumber\":52565,\"originalJapaneseLine\":\"目を伏せていた千鶴子が、\",\"translatedEnglishLine\":\"Chizuruko, who had been looking down,\"},\n\n{\"lineNumber\":52566,\"originalJapaneseLine\":\"そのまぶたをゆっくりと上げた。\",\"translatedEnglishLine\":\"slowly lifted her eyelids.\"},\n\n{\"lineNumber\":52567,\"originalJapaneseLine\":\"ゼス四天王の塔、弾倉の塔――――\",\"translatedEnglishLine\":\"The tower of the Zess Four Heavenly Kings, the Tower of the Magazine――――\"},\n\n{\"lineNumber\":52568,\"originalJapaneseLine\":\"「……………………」\",\"translatedEnglishLine\":\"\\\"....................\\\"\"},{\"lineNumber\":52569,\"originalJapaneseLine\":\"その、中枢。\",\"translatedEnglishLine\":\"At its core.\"},{\"lineNumber\":52570,\"originalJapaneseLine\":\"マジック・ザ・ガンジーが一人、\",\"translatedEnglishLine\":\"Magic the Gandhi was alone,\"}]}","parsed":{"translationLines":[{"lineNumber":52521,"originalJapaneseLine":"　高かったんだけどなぁ、あれ……」","translatedEnglishLine":"\"It was expensive, though...\""},{"lineNumber":52522,"originalJapaneseLine":"哄笑する魔物将軍に、サイアスは苦笑して、","translatedEnglishLine":"To the mocking demon general, Saias gave a wry smile,"},{"lineNumber":52523,"originalJapaneseLine":"くしゃりと癖のある髪に手をやった。","translatedEnglishLine":"and ran his hand through his messy, unruly hair."},{"lineNumber":52524,"originalJapaneseLine":"「残念だったなぁ、わざわざ大軍を率いて、","translatedEnglishLine":"\"What a shame, bringing a large army all the way here,"},{"lineNumber":52525,"originalJapaneseLine":"　無駄足を踏みに来るとは……くくく……","translatedEnglishLine":"just to come and waste your steps... hehehe..."},{"lineNumber":52526,"originalJapaneseLine":"　帰る場所が……あるといいがなぁ？」","translatedEnglishLine":"I hope... you have a place to return to?\""},{"lineNumber":52527,"originalJapaneseLine":"傲然とした笑みを浮かべ、ポルは人間達を見回した。","translatedEnglishLine":"With a haughty smile, Por looked around at the humans."},{"lineNumber":52528,"originalJapaneseLine":"魔軍司令部――","translatedEnglishLine":"Demon Army Headquarters――"},{"lineNumber":52529,"originalJapaneseLine":"「閣下！　ポル様より連絡が！","translatedEnglishLine":"\"Your Excellency! A message from Lord Por!"},{"lineNumber":52530,"originalJapaneseLine":"　人間どもが、マジノラインに","translatedEnglishLine":"The humans seem to have concentrated their forces at the Maginot Line!"},{"lineNumber":52531,"originalJapaneseLine":"　戦力を注ぎ込んできた模様！」","translatedEnglishLine":""},{"lineNumber":52532,"originalJapaneseLine":"「くくく……そこに、全てを賭けてきたのか。","translatedEnglishLine":"\"Heh heh heh... they've bet everything on that."},{"lineNumber":52533,"originalJapaneseLine":"　まったく、愚かな連中だ……」","translatedEnglishLine":"Truly, what foolish people they are...\""},{"lineNumber":52534,"originalJapaneseLine":"ツォトンは愉悦を抑えきれぬとばかりに、","translatedEnglishLine":"Tsoton could barely contain his pleasure,"},{"lineNumber":52535,"originalJapaneseLine":"肩を震わせる。","translatedEnglishLine":"his shoulders shaking."},{"lineNumber":52536,"originalJapaneseLine":"間抜けな敵の醜態を高みから見下ろす事ほど、","translatedEnglishLine":"There is nothing more enjoyable than looking down from above on the foolish enemy's disgrace."},{"lineNumber":52537,"originalJapaneseLine":"楽しいものはない。","translatedEnglishLine":""},{"lineNumber":52538,"originalJapaneseLine":"「奴らの首都はどうなっている」","translatedEnglishLine":"\"What is happening in their capital?\""},{"lineNumber":52539,"originalJapaneseLine":"「は……ほとんど戦力はないようです。","translatedEnglishLine":"\"Ah... it seems there is almost no force left."},{"lineNumber":52540,"originalJapaneseLine":"　精々数千といった程度で……」","translatedEnglishLine":"At most, just a few thousand…\""},{"lineNumber":52541,"originalJapaneseLine":"「ハハハハハハハハ！　そうかそうか！","translatedEnglishLine":"\"Hahahahahahaha! Is that so, is that so!"},{"lineNumber":52542,"originalJapaneseLine":"　実にニィハオだな！」","translatedEnglishLine":"How delightfully naive!\""},{"lineNumber":52543,"originalJapaneseLine":"「我が直属の兵を投入するぞ！","translatedEnglishLine":"\"I will deploy my direct soldiers!"},{"lineNumber":52544,"originalJapaneseLine":"　首都を再陥落させ、王を縊り殺してくれるわ！」","translatedEnglishLine":"They will retake the capital and strangle the king to death!\""},{"lineNumber":52545,"originalJapaneseLine":"「は、ははっ！」","translatedEnglishLine":"\"Ha, ha ha!\""},{"lineNumber":52546,"originalJapaneseLine":"「捕まえた人間は、捕まえた者の自由にしていいぞ！","translatedEnglishLine":"\"Those who capture humans may do as they please with them!"},{"lineNumber":52547,"originalJapaneseLine":"　多く殺せば褒美をくれてやる！」","translatedEnglishLine":"The more they kill, the greater the reward!\""},{"lineNumber":52548,"originalJapaneseLine":"魔軍司令部は、にわかに沸き立った。","translatedEnglishLine":"The Demon Army Headquarters suddenly erupted with excitement."},{"lineNumber":52549,"originalJapaneseLine":"魔軍の一点……ツォトンがひた隠しにしていた","translatedEnglishLine":"The demon army's core... something Tsoton had kept carefully hidden,"},{"lineNumber":52550,"originalJapaneseLine":"魔軍の本拠地の軍が、ついに動き始めた。","translatedEnglishLine":"the army from the demon stronghold, had finally begun to move."},{"lineNumber":52551,"originalJapaneseLine":"魔物大将軍ツォトンは自ら出陣。","translatedEnglishLine":"The great demon general Tsoton personally went to battle."},{"lineNumber":52552,"originalJapaneseLine":"開戦時を再現するかのように、","translatedEnglishLine":"As if recreating the start of the war,"},{"lineNumber":52553,"originalJapaneseLine":"人類軍はまったく抵抗する術なく逃げ散っていく。","translatedEnglishLine":"the human army scattered, unable to offer any resistance."},{"lineNumber":52554,"originalJapaneseLine":"王者の塔、跳躍の塔の間を抜け、王都に達するまで、","translatedEnglishLine":"Passing between the Tower of the King and the Tower of Leap, until reaching the royal capital,"},{"lineNumber":52555,"originalJapaneseLine":"魔軍は戦闘らしい戦闘をまるで行う事がなかった。","translatedEnglishLine":"the demon army barely fought any real battles at all."},{"lineNumber":52556,"originalJapaneseLine":"「フハハハハハハハハ！　なんだ手応えのない！","translatedEnglishLine":"\"Fuhahahahaha! Such lack of resistance!"},{"lineNumber":52557,"originalJapaneseLine":"　無人の野を行くが如しか！」","translatedEnglishLine":"It’s like marching through an empty field!\""},{"lineNumber":52558,"originalJapaneseLine":"「大将軍閣下。首都は誰も彼も、","translatedEnglishLine":"\"Great General, it seems everyone in the capital,"},{"lineNumber":52559,"originalJapaneseLine":"　ゴキブリのように逃げ散っていたようです。","translatedEnglishLine":"fled like cockroaches."},{"lineNumber":52560,"originalJapaneseLine":"　無人のようで」","translatedEnglishLine":"It appears deserted.\""},{"lineNumber":52561,"originalJapaneseLine":"「ふん、当てが外れたな……まあいい。","translatedEnglishLine":"\"Hmph, that was unexpected... but it’s fine."},{"lineNumber":52562,"originalJapaneseLine":"　後は城か……こちらも粉々に破壊してくれようか」","translatedEnglishLine":"Now for the castle... let’s smash it to pieces as well.\""},{"lineNumber":52563,"originalJapaneseLine":"「…………………………」","translatedEnglishLine":"\"..........................\""},{"lineNumber":52564,"originalJapaneseLine":"「――――作戦、第2段階……開始」","translatedEnglishLine":"\"――――Operation, phase two... begin.\""},{"lineNumber":52565,"originalJapaneseLine":"目を伏せていた千鶴子が、","translatedEnglishLine":"Chizuruko, who had been looking down,"},{"lineNumber":52566,"originalJapaneseLine":"そのまぶたをゆっくりと上げた。","translatedEnglishLine":"slowly lifted her eyelids."},{"lineNumber":52567,"originalJapaneseLine":"ゼス四天王の塔、弾倉の塔――――","translatedEnglishLine":"The tower of the Zess Four Heavenly Kings, the Tower of the Magazine――――"},{"lineNumber":52568,"originalJapaneseLine":"「……………………」","translatedEnglishLine":"\"....................\""},{"lineNumber":52569,"originalJapaneseLine":"その、中枢。","translatedEnglishLine":"At its core."},{"lineNumber":52570,"originalJapaneseLine":"マジック・ザ・ガンジーが一人、","translatedEnglishLine":"Magic the Gandhi was alone,"}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1585,"input_tokens_details":{"cached_tokens":0},"output_tokens":2062,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3647},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":52521,\"originalJapaneseLine\":\"　高かったんだけどなぁ、あれ……」\",\"translatedEnglishLine\":\"\\\"It was expensive, though...\\\"\"},{\"lineNumber\":52522,\"originalJapaneseLine\":\"哄笑する魔物将軍に、サイアスは苦笑して、\",\"translatedEnglishLine\":\"To the mocking demon general, Saias gave a wry smile,\"},{\"lineNumber\":52523,\"originalJapaneseLine\":\"くしゃりと癖のある髪に手をやった。\",\"translatedEnglishLine\":\"and ran his hand through his messy, unruly hair.\"},{\"lineNumber\":52524,\"originalJapaneseLine\":\"「残念だったなぁ、わざわざ大軍を率いて、\",\"translatedEnglishLine\":\"\\\"What a shame, bringing a large army all the way here,\"},{\"lineNumber\":52525,\"originalJapaneseLine\":\"　無駄足を踏みに来るとは……くくく……\",\"translatedEnglishLine\":\"just to come and waste your steps... hehehe...\"},{\"lineNumber\":52526,\"originalJapaneseLine\":\"　帰る場所が……あるといいがなぁ？」\",\"translatedEnglishLine\":\"I hope... you have a place to return to?\\\"\"},{\"lineNumber\":52527,\"originalJapaneseLine\":\"傲然とした笑みを浮かべ、ポルは人間達を見回した。\",\"translatedEnglishLine\":\"With a haughty smile, Por looked around at the humans.\"},{\"lineNumber\":52528,\"originalJapaneseLine\":\"魔軍司令部――\",\"translatedEnglishLine\":\"Demon Army Headquarters――\"},{\"lineNumber\":52529,\"originalJapaneseLine\":\"「閣下！　ポル様より連絡が！\",\"translatedEnglishLine\":\"\\\"Your Excellency! A message from Lord Por!\"},{\"lineNumber\":52530,\"originalJapaneseLine\":\"　人間どもが、マジノラインに\",\"translatedEnglishLine\":\"The humans seem to have concentrated their forces at the Maginot Line!\"},{\"lineNumber\":52531,\"originalJapaneseLine\":\"　戦力を注ぎ込んできた模様！」\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":52532,\"originalJapaneseLine\":\"「くくく……そこに、全てを賭けてきたのか。\",\"translatedEnglishLine\":\"\\\"Heh heh heh... they've bet everything on that.\"},{\"lineNumber\":52533,\"originalJapaneseLine\":\"　まったく、愚かな連中だ……」\",\"translatedEnglishLine\":\"Truly, what foolish people they are...\\\"\"},{\"lineNumber\":52534,\"originalJapaneseLine\":\"ツォトンは愉悦を抑えきれぬとばかりに、\",\"translatedEnglishLine\":\"Tsoton could barely contain his pleasure,\"},{\"lineNumber\":52535,\"originalJapaneseLine\":\"肩を震わせる。\",\"translatedEnglishLine\":\"his shoulders shaking.\"},{\"lineNumber\":52536,\"originalJapaneseLine\":\"間抜けな敵の醜態を高みから見下ろす事ほど、\",\"translatedEnglishLine\":\"There is nothing more enjoyable than looking down from above on the foolish enemy's disgrace.\"},{\"lineNumber\":52537,\"originalJapaneseLine\":\"楽しいものはない。\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":52538,\"originalJapaneseLine\":\"「奴らの首都はどうなっている」\",\"translatedEnglishLine\":\"\\\"What is happening in their capital?\\\"\"},{\"lineNumber\":52539,\"originalJapaneseLine\":\"「は……ほとんど戦力はないようです。\",\"translatedEnglishLine\":\"\\\"Ah... it seems there is almost no force left.\"},{\"lineNumber\":52540,\"originalJapaneseLine\":\"　精々数千といった程度で……」\",\"translatedEnglishLine\":\"At most, just a few thousand…\\\"\"},\n\n{\"lineNumber\":52541,\"originalJapaneseLine\":\"「ハハハハハハハハ！　そうかそうか！\",\"translatedEnglishLine\":\"\\\"Hahahahahahaha! Is that so, is that so!\"},\n\n{\"lineNumber\":52542,\"originalJapaneseLine\":\"　実にニィハオだな！」\",\"translatedEnglishLine\":\"How delightfully naive!\\\"\"},\n\n{\"lineNumber\":52543,\"originalJapaneseLine\":\"「我が直属の兵を投入するぞ！\",\"translatedEnglishLine\":\"\\\"I will deploy my direct soldiers!\"},\n\n{\"lineNumber\":52544,\"originalJapaneseLine\":\"　首都を再陥落させ、王を縊り殺してくれるわ！」\",\"translatedEnglishLine\":\"They will retake the capital and strangle the king to death!\\\"\"},\n\n{\"lineNumber\":52545,\"originalJapaneseLine\":\"「は、ははっ！」\",\"translatedEnglishLine\":\"\\\"Ha, ha ha!\\\"\"},\n\n{\"lineNumber\":52546,\"originalJapaneseLine\":\"「捕まえた人間は、捕まえた者の自由にしていいぞ！\",\"translatedEnglishLine\":\"\\\"Those who capture humans may do as they please with them!\"},\n\n{\"lineNumber\":52547,\"originalJapaneseLine\":\"　多く殺せば褒美をくれてやる！」\",\"translatedEnglishLine\":\"The more they kill, the greater the reward!\\\"\"},\n\n{\"lineNumber\":52548,\"originalJapaneseLine\":\"魔軍司令部は、にわかに沸き立った。\",\"translatedEnglishLine\":\"The Demon Army Headquarters suddenly erupted with excitement.\"},\n\n{\"lineNumber\":52549,\"originalJapaneseLine\":\"魔軍の一点……ツォトンがひた隠しにしていた\",\"translatedEnglishLine\":\"The demon army's core... something Tsoton had kept carefully hidden,\"},\n\n{\"lineNumber\":52550,\"originalJapaneseLine\":\"魔軍の本拠地の軍が、ついに動き始めた。\",\"translatedEnglishLine\":\"the army from the demon stronghold, had finally begun to move.\"},\n\n{\"lineNumber\":52551,\"originalJapaneseLine\":\"魔物大将軍ツォトンは自ら出陣。\",\"translatedEnglishLine\":\"The great demon general Tsoton personally went to battle.\"},\n\n{\"lineNumber\":52552,\"originalJapaneseLine\":\"開戦時を再現するかのように、\",\"translatedEnglishLine\":\"As if recreating the start of the war,\"},\n\n{\"lineNumber\":52553,\"originalJapaneseLine\":\"人類軍はまったく抵抗する術なく逃げ散っていく。\",\"translatedEnglishLine\":\"the human army scattered, unable to offer any resistance.\"},\n\n{\"lineNumber\":52554,\"originalJapaneseLine\":\"王者の塔、跳躍の塔の間を抜け、王都に達するまで、\",\"translatedEnglishLine\":\"Passing between the Tower of the King and the Tower of Leap, until reaching the royal capital,\"},\n\n{\"lineNumber\":52555,\"originalJapaneseLine\":\"魔軍は戦闘らしい戦闘をまるで行う事がなかった。\",\"translatedEnglishLine\":\"the demon army barely fought any real battles at all.\"},\n\n{\"lineNumber\":52556,\"originalJapaneseLine\":\"「フハハハハハハハハ！　なんだ手応えのない！\",\"translatedEnglishLine\":\"\\\"Fuhahahahaha! Such lack of resistance!\"},\n\n{\"lineNumber\":52557,\"originalJapaneseLine\":\"　無人の野を行くが如しか！」\",\"translatedEnglishLine\":\"It’s like marching through an empty field!\\\"\"},\n\n{\"lineNumber\":52558,\"originalJapaneseLine\":\"「大将軍閣下。首都は誰も彼も、\",\"translatedEnglishLine\":\"\\\"Great General, it seems everyone in the capital,\"},\n\n{\"lineNumber\":52559,\"originalJapaneseLine\":\"　ゴキブリのように逃げ散っていたようです。\",\"translatedEnglishLine\":\"fled like cockroaches.\"},\n\n{\"lineNumber\":52560,\"originalJapaneseLine\":\"　無人のようで」\",\"translatedEnglishLine\":\"It appears deserted.\\\"\"},{\"lineNumber\":52561,\"originalJapaneseLine\":\"「ふん、当てが外れたな……まあいい。\",\"translatedEnglishLine\":\"\\\"Hmph, that was unexpected... but it’s fine.\"},\n\n{\"lineNumber\":52562,\"originalJapaneseLine\":\"　後は城か……こちらも粉々に破壊してくれようか」\",\"translatedEnglishLine\":\"Now for the castle... let’s smash it to pieces as well.\\\"\"},{\"lineNumber\":52563,\"originalJapaneseLine\":\"「…………………………」\",\"translatedEnglishLine\":\"\\\"..........................\\\"\"},{\"lineNumber\":52564,\"originalJapaneseLine\":\"「――――作戦、第2段階……開始」\",\"translatedEnglishLine\":\"\\\"――――Operation, phase two... begin.\\\"\"},{\"lineNumber\":52565,\"originalJapaneseLine\":\"目を伏せていた千鶴子が、\",\"translatedEnglishLine\":\"Chizuruko, who had been looking down,\"},\n\n{\"lineNumber\":52566,\"originalJapaneseLine\":\"そのまぶたをゆっくりと上げた。\",\"translatedEnglishLine\":\"slowly lifted her eyelids.\"},\n\n{\"lineNumber\":52567,\"originalJapaneseLine\":\"ゼス四天王の塔、弾倉の塔――――\",\"translatedEnglishLine\":\"The tower of the Zess Four Heavenly Kings, the Tower of the Magazine――――\"},\n\n{\"lineNumber\":52568,\"originalJapaneseLine\":\"「……………………」\",\"translatedEnglishLine\":\"\\\"....................\\\"\"},{\"lineNumber\":52569,\"originalJapaneseLine\":\"その、中枢。\",\"translatedEnglishLine\":\"At its core.\"},{\"lineNumber\":52570,\"originalJapaneseLine\":\"マジック・ザ・ガンジーが一人、\",\"translatedEnglishLine\":\"Magic the Gandhi was alone,\"}]}","output_parsed":{"translationLines":[{"lineNumber":52521,"originalJapaneseLine":"　高かったんだけどなぁ、あれ……」","translatedEnglishLine":"\"It was expensive, though...\""},{"lineNumber":52522,"originalJapaneseLine":"哄笑する魔物将軍に、サイアスは苦笑して、","translatedEnglishLine":"To the mocking demon general, Saias gave a wry smile,"},{"lineNumber":52523,"originalJapaneseLine":"くしゃりと癖のある髪に手をやった。","translatedEnglishLine":"and ran his hand through his messy, unruly hair."},{"lineNumber":52524,"originalJapaneseLine":"「残念だったなぁ、わざわざ大軍を率いて、","translatedEnglishLine":"\"What a shame, bringing a large army all the way here,"},{"lineNumber":52525,"originalJapaneseLine":"　無駄足を踏みに来るとは……くくく……","translatedEnglishLine":"just to come and waste your steps... hehehe..."},{"lineNumber":52526,"originalJapaneseLine":"　帰る場所が……あるといいがなぁ？」","translatedEnglishLine":"I hope... you have a place to return to?\""},{"lineNumber":52527,"originalJapaneseLine":"傲然とした笑みを浮かべ、ポルは人間達を見回した。","translatedEnglishLine":"With a haughty smile, Por looked around at the humans."},{"lineNumber":52528,"originalJapaneseLine":"魔軍司令部――","translatedEnglishLine":"Demon Army Headquarters――"},{"lineNumber":52529,"originalJapaneseLine":"「閣下！　ポル様より連絡が！","translatedEnglishLine":"\"Your Excellency! A message from Lord Por!"},{"lineNumber":52530,"originalJapaneseLine":"　人間どもが、マジノラインに","translatedEnglishLine":"The humans seem to have concentrated their forces at the Maginot Line!"},{"lineNumber":52531,"originalJapaneseLine":"　戦力を注ぎ込んできた模様！」","translatedEnglishLine":""},{"lineNumber":52532,"originalJapaneseLine":"「くくく……そこに、全てを賭けてきたのか。","translatedEnglishLine":"\"Heh heh heh... they've bet everything on that."},{"lineNumber":52533,"originalJapaneseLine":"　まったく、愚かな連中だ……」","translatedEnglishLine":"Truly, what foolish people they are...\""},{"lineNumber":52534,"originalJapaneseLine":"ツォトンは愉悦を抑えきれぬとばかりに、","translatedEnglishLine":"Tsoton could barely contain his pleasure,"},{"lineNumber":52535,"originalJapaneseLine":"肩を震わせる。","translatedEnglishLine":"his shoulders shaking."},{"lineNumber":52536,"originalJapaneseLine":"間抜けな敵の醜態を高みから見下ろす事ほど、","translatedEnglishLine":"There is nothing more enjoyable than looking down from above on the foolish enemy's disgrace."},{"lineNumber":52537,"originalJapaneseLine":"楽しいものはない。","translatedEnglishLine":""},{"lineNumber":52538,"originalJapaneseLine":"「奴らの首都はどうなっている」","translatedEnglishLine":"\"What is happening in their capital?\""},{"lineNumber":52539,"originalJapaneseLine":"「は……ほとんど戦力はないようです。","translatedEnglishLine":"\"Ah... it seems there is almost no force left."},{"lineNumber":52540,"originalJapaneseLine":"　精々数千といった程度で……」","translatedEnglishLine":"At most, just a few thousand…\""},{"lineNumber":52541,"originalJapaneseLine":"「ハハハハハハハハ！　そうかそうか！","translatedEnglishLine":"\"Hahahahahahaha! Is that so, is that so!"},{"lineNumber":52542,"originalJapaneseLine":"　実にニィハオだな！」","translatedEnglishLine":"How delightfully naive!\""},{"lineNumber":52543,"originalJapaneseLine":"「我が直属の兵を投入するぞ！","translatedEnglishLine":"\"I will deploy my direct soldiers!"},{"lineNumber":52544,"originalJapaneseLine":"　首都を再陥落させ、王を縊り殺してくれるわ！」","translatedEnglishLine":"They will retake the capital and strangle the king to death!\""},{"lineNumber":52545,"originalJapaneseLine":"「は、ははっ！」","translatedEnglishLine":"\"Ha, ha ha!\""},{"lineNumber":52546,"originalJapaneseLine":"「捕まえた人間は、捕まえた者の自由にしていいぞ！","translatedEnglishLine":"\"Those who capture humans may do as they please with them!"},{"lineNumber":52547,"originalJapaneseLine":"　多く殺せば褒美をくれてやる！」","translatedEnglishLine":"The more they kill, the greater the reward!\""},{"lineNumber":52548,"originalJapaneseLine":"魔軍司令部は、にわかに沸き立った。","translatedEnglishLine":"The Demon Army Headquarters suddenly erupted with excitement."},{"lineNumber":52549,"originalJapaneseLine":"魔軍の一点……ツォトンがひた隠しにしていた","translatedEnglishLine":"The demon army's core... something Tsoton had kept carefully hidden,"},{"lineNumber":52550,"originalJapaneseLine":"魔軍の本拠地の軍が、ついに動き始めた。","translatedEnglishLine":"the army from the demon stronghold, had finally begun to move."},{"lineNumber":52551,"originalJapaneseLine":"魔物大将軍ツォトンは自ら出陣。","translatedEnglishLine":"The great demon general Tsoton personally went to battle."},{"lineNumber":52552,"originalJapaneseLine":"開戦時を再現するかのように、","translatedEnglishLine":"As if recreating the start of the war,"},{"lineNumber":52553,"originalJapaneseLine":"人類軍はまったく抵抗する術なく逃げ散っていく。","translatedEnglishLine":"the human army scattered, unable to offer any resistance."},{"lineNumber":52554,"originalJapaneseLine":"王者の塔、跳躍の塔の間を抜け、王都に達するまで、","translatedEnglishLine":"Passing between the Tower of the King and the Tower of Leap, until reaching the royal capital,"},{"lineNumber":52555,"originalJapaneseLine":"魔軍は戦闘らしい戦闘をまるで行う事がなかった。","translatedEnglishLine":"the demon army barely fought any real battles at all."},{"lineNumber":52556,"originalJapaneseLine":"「フハハハハハハハハ！　なんだ手応えのない！","translatedEnglishLine":"\"Fuhahahahaha! Such lack of resistance!"},{"lineNumber":52557,"originalJapaneseLine":"　無人の野を行くが如しか！」","translatedEnglishLine":"It’s like marching through an empty field!\""},{"lineNumber":52558,"originalJapaneseLine":"「大将軍閣下。首都は誰も彼も、","translatedEnglishLine":"\"Great General, it seems everyone in the capital,"},{"lineNumber":52559,"originalJapaneseLine":"　ゴキブリのように逃げ散っていたようです。","translatedEnglishLine":"fled like cockroaches."},{"lineNumber":52560,"originalJapaneseLine":"　無人のようで」","translatedEnglishLine":"It appears deserted.\""},{"lineNumber":52561,"originalJapaneseLine":"「ふん、当てが外れたな……まあいい。","translatedEnglishLine":"\"Hmph, that was unexpected... but it’s fine."},{"lineNumber":52562,"originalJapaneseLine":"　後は城か……こちらも粉々に破壊してくれようか」","translatedEnglishLine":"Now for the castle... let’s smash it to pieces as well.\""},{"lineNumber":52563,"originalJapaneseLine":"「…………………………」","translatedEnglishLine":"\"..........................\""},{"lineNumber":52564,"originalJapaneseLine":"「――――作戦、第2段階……開始」","translatedEnglishLine":"\"――――Operation, phase two... begin.\""},{"lineNumber":52565,"originalJapaneseLine":"目を伏せていた千鶴子が、","translatedEnglishLine":"Chizuruko, who had been looking down,"},{"lineNumber":52566,"originalJapaneseLine":"そのまぶたをゆっくりと上げた。","translatedEnglishLine":"slowly lifted her eyelids."},{"lineNumber":52567,"originalJapaneseLine":"ゼス四天王の塔、弾倉の塔――――","translatedEnglishLine":"The tower of the Zess Four Heavenly Kings, the Tower of the Magazine――――"},{"lineNumber":52568,"originalJapaneseLine":"「……………………」","translatedEnglishLine":"\"....................\""},{"lineNumber":52569,"originalJapaneseLine":"その、中枢。","translatedEnglishLine":"At its core."},{"lineNumber":52570,"originalJapaneseLine":"マジック・ザ・ガンジーが一人、","translatedEnglishLine":"Magic the Gandhi was alone,"}]}}
+{
+    "id": "resp_0f47c4dbeab2ad560068efc27ed72c8193993c859d9be9947c",
+    "object": "response",
+    "created_at": 1760543358,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0f47c4dbeab2ad560068efc27f3a7c81938192bcdda38d4f57",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":52521,\"originalJapaneseLine\":\"　高かったんだけどなぁ、あれ……」\",\"translatedEnglishLine\":\"\\\"It was expensive, though...\\\"\"},{\"lineNumber\":52522,\"originalJapaneseLine\":\"哄笑する魔物将軍に、サイアスは苦笑して、\",\"translatedEnglishLine\":\"To the mocking demon general, Saias gave a wry smile,\"},{\"lineNumber\":52523,\"originalJapaneseLine\":\"くしゃりと癖のある髪に手をやった。\",\"translatedEnglishLine\":\"and ran his hand through his messy, unruly hair.\"},{\"lineNumber\":52524,\"originalJapaneseLine\":\"「残念だったなぁ、わざわざ大軍を率いて、\",\"translatedEnglishLine\":\"\\\"What a shame, bringing a large army all the way here,\"},{\"lineNumber\":52525,\"originalJapaneseLine\":\"　無駄足を踏みに来るとは……くくく……\",\"translatedEnglishLine\":\"just to come and waste your steps... hehehe...\"},{\"lineNumber\":52526,\"originalJapaneseLine\":\"　帰る場所が……あるといいがなぁ？」\",\"translatedEnglishLine\":\"I hope... you have a place to return to?\\\"\"},{\"lineNumber\":52527,\"originalJapaneseLine\":\"傲然とした笑みを浮かべ、ポルは人間達を見回した。\",\"translatedEnglishLine\":\"With a haughty smile, Por looked around at the humans.\"},{\"lineNumber\":52528,\"originalJapaneseLine\":\"魔軍司令部――\",\"translatedEnglishLine\":\"Demon Army Headquarters――\"},{\"lineNumber\":52529,\"originalJapaneseLine\":\"「閣下！　ポル様より連絡が！\",\"translatedEnglishLine\":\"\\\"Your Excellency! A message from Lord Por!\"},{\"lineNumber\":52530,\"originalJapaneseLine\":\"　人間どもが、マジノラインに\",\"translatedEnglishLine\":\"The humans seem to have concentrated their forces at the Maginot Line!\"},{\"lineNumber\":52531,\"originalJapaneseLine\":\"　戦力を注ぎ込んできた模様！」\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":52532,\"originalJapaneseLine\":\"「くくく……そこに、全てを賭けてきたのか。\",\"translatedEnglishLine\":\"\\\"Heh heh heh... they've bet everything on that.\"},{\"lineNumber\":52533,\"originalJapaneseLine\":\"　まったく、愚かな連中だ……」\",\"translatedEnglishLine\":\"Truly, what foolish people they are...\\\"\"},{\"lineNumber\":52534,\"originalJapaneseLine\":\"ツォトンは愉悦を抑えきれぬとばかりに、\",\"translatedEnglishLine\":\"Tsoton could barely contain his pleasure,\"},{\"lineNumber\":52535,\"originalJapaneseLine\":\"肩を震わせる。\",\"translatedEnglishLine\":\"his shoulders shaking.\"},{\"lineNumber\":52536,\"originalJapaneseLine\":\"間抜けな敵の醜態を高みから見下ろす事ほど、\",\"translatedEnglishLine\":\"There is nothing more enjoyable than looking down from above on the foolish enemy's disgrace.\"},{\"lineNumber\":52537,\"originalJapaneseLine\":\"楽しいものはない。\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":52538,\"originalJapaneseLine\":\"「奴らの首都はどうなっている」\",\"translatedEnglishLine\":\"\\\"What is happening in their capital?\\\"\"},{\"lineNumber\":52539,\"originalJapaneseLine\":\"「は……ほとんど戦力はないようです。\",\"translatedEnglishLine\":\"\\\"Ah... it seems there is almost no force left.\"},{\"lineNumber\":52540,\"originalJapaneseLine\":\"　精々数千といった程度で……」\",\"translatedEnglishLine\":\"At most, just a few thousand…\\\"\"},\n\n{\"lineNumber\":52541,\"originalJapaneseLine\":\"「ハハハハハハハハ！　そうかそうか！\",\"translatedEnglishLine\":\"\\\"Hahahahahahaha! Is that so, is that so!\"},\n\n{\"lineNumber\":52542,\"originalJapaneseLine\":\"　実にニィハオだな！」\",\"translatedEnglishLine\":\"How delightfully naive!\\\"\"},\n\n{\"lineNumber\":52543,\"originalJapaneseLine\":\"「我が直属の兵を投入するぞ！\",\"translatedEnglishLine\":\"\\\"I will deploy my direct soldiers!\"},\n\n{\"lineNumber\":52544,\"originalJapaneseLine\":\"　首都を再陥落させ、王を縊り殺してくれるわ！」\",\"translatedEnglishLine\":\"They will retake the capital and strangle the king to death!\\\"\"},\n\n{\"lineNumber\":52545,\"originalJapaneseLine\":\"「は、ははっ！」\",\"translatedEnglishLine\":\"\\\"Ha, ha ha!\\\"\"},\n\n{\"lineNumber\":52546,\"originalJapaneseLine\":\"「捕まえた人間は、捕まえた者の自由にしていいぞ！\",\"translatedEnglishLine\":\"\\\"Those who capture humans may do as they please with them!\"},\n\n{\"lineNumber\":52547,\"originalJapaneseLine\":\"　多く殺せば褒美をくれてやる！」\",\"translatedEnglishLine\":\"The more they kill, the greater the reward!\\\"\"},\n\n{\"lineNumber\":52548,\"originalJapaneseLine\":\"魔軍司令部は、にわかに沸き立った。\",\"translatedEnglishLine\":\"The Demon Army Headquarters suddenly erupted with excitement.\"},\n\n{\"lineNumber\":52549,\"originalJapaneseLine\":\"魔軍の一点……ツォトンがひた隠しにしていた\",\"translatedEnglishLine\":\"The demon army's core... something Tsoton had kept carefully hidden,\"},\n\n{\"lineNumber\":52550,\"originalJapaneseLine\":\"魔軍の本拠地の軍が、ついに動き始めた。\",\"translatedEnglishLine\":\"the army from the demon stronghold, had finally begun to move.\"},\n\n{\"lineNumber\":52551,\"originalJapaneseLine\":\"魔物大将軍ツォトンは自ら出陣。\",\"translatedEnglishLine\":\"The great demon general Tsoton personally went to battle.\"},\n\n{\"lineNumber\":52552,\"originalJapaneseLine\":\"開戦時を再現するかのように、\",\"translatedEnglishLine\":\"As if recreating the start of the war,\"},\n\n{\"lineNumber\":52553,\"originalJapaneseLine\":\"人類軍はまったく抵抗する術なく逃げ散っていく。\",\"translatedEnglishLine\":\"the human army scattered, unable to offer any resistance.\"},\n\n{\"lineNumber\":52554,\"originalJapaneseLine\":\"王者の塔、跳躍の塔の間を抜け、王都に達するまで、\",\"translatedEnglishLine\":\"Passing between the Tower of the King and the Tower of Leap, until reaching the royal capital,\"},\n\n{\"lineNumber\":52555,\"originalJapaneseLine\":\"魔軍は戦闘らしい戦闘をまるで行う事がなかった。\",\"translatedEnglishLine\":\"the demon army barely fought any real battles at all.\"},\n\n{\"lineNumber\":52556,\"originalJapaneseLine\":\"「フハハハハハハハハ！　なんだ手応えのない！\",\"translatedEnglishLine\":\"\\\"Fuhahahahaha! Such lack of resistance!\"},\n\n{\"lineNumber\":52557,\"originalJapaneseLine\":\"　無人の野を行くが如しか！」\",\"translatedEnglishLine\":\"It’s like marching through an empty field!\\\"\"},\n\n{\"lineNumber\":52558,\"originalJapaneseLine\":\"「大将軍閣下。首都は誰も彼も、\",\"translatedEnglishLine\":\"\\\"Great General, it seems everyone in the capital,\"},\n\n{\"lineNumber\":52559,\"originalJapaneseLine\":\"　ゴキブリのように逃げ散っていたようです。\",\"translatedEnglishLine\":\"fled like cockroaches.\"},\n\n{\"lineNumber\":52560,\"originalJapaneseLine\":\"　無人のようで」\",\"translatedEnglishLine\":\"It appears deserted.\\\"\"},{\"lineNumber\":52561,\"originalJapaneseLine\":\"「ふん、当てが外れたな……まあいい。\",\"translatedEnglishLine\":\"\\\"Hmph, that was unexpected... but it’s fine.\"},\n\n{\"lineNumber\":52562,\"originalJapaneseLine\":\"　後は城か……こちらも粉々に破壊してくれようか」\",\"translatedEnglishLine\":\"Now for the castle... let’s smash it to pieces as well.\\\"\"},{\"lineNumber\":52563,\"originalJapaneseLine\":\"「…………………………」\",\"translatedEnglishLine\":\"\\\"..........................\\\"\"},{\"lineNumber\":52564,\"originalJapaneseLine\":\"「――――作戦、第2段階……開始」\",\"translatedEnglishLine\":\"\\\"――――Operation, phase two... begin.\\\"\"},{\"lineNumber\":52565,\"originalJapaneseLine\":\"目を伏せていた千鶴子が、\",\"translatedEnglishLine\":\"Chizuruko, who had been looking down,\"},\n\n{\"lineNumber\":52566,\"originalJapaneseLine\":\"そのまぶたをゆっくりと上げた。\",\"translatedEnglishLine\":\"slowly lifted her eyelids.\"},\n\n{\"lineNumber\":52567,\"originalJapaneseLine\":\"ゼス四天王の塔、弾倉の塔――――\",\"translatedEnglishLine\":\"The tower of the Zess Four Heavenly Kings, the Tower of the Magazine――――\"},\n\n{\"lineNumber\":52568,\"originalJapaneseLine\":\"「……………………」\",\"translatedEnglishLine\":\"\\\"....................\\\"\"},{\"lineNumber\":52569,\"originalJapaneseLine\":\"その、中枢。\",\"translatedEnglishLine\":\"At its core.\"},{\"lineNumber\":52570,\"originalJapaneseLine\":\"マジック・ザ・ガンジーが一人、\",\"translatedEnglishLine\":\"Magic the Gandhi was alone,\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 52521,
+                                "originalJapaneseLine": "　高かったんだけどなぁ、あれ……」",
+                                "translatedEnglishLine": "\"It was expensive, though...\""
+                            },
+                            {
+                                "lineNumber": 52522,
+                                "originalJapaneseLine": "哄笑する魔物将軍に、サイアスは苦笑して、",
+                                "translatedEnglishLine": "To the mocking demon general, Saias gave a wry smile,"
+                            },
+                            {
+                                "lineNumber": 52523,
+                                "originalJapaneseLine": "くしゃりと癖のある髪に手をやった。",
+                                "translatedEnglishLine": "and ran his hand through his messy, unruly hair."
+                            },
+                            {
+                                "lineNumber": 52524,
+                                "originalJapaneseLine": "「残念だったなぁ、わざわざ大軍を率いて、",
+                                "translatedEnglishLine": "\"What a shame, bringing a large army all the way here,"
+                            },
+                            {
+                                "lineNumber": 52525,
+                                "originalJapaneseLine": "　無駄足を踏みに来るとは……くくく……",
+                                "translatedEnglishLine": "just to come and waste your steps... hehehe..."
+                            },
+                            {
+                                "lineNumber": 52526,
+                                "originalJapaneseLine": "　帰る場所が……あるといいがなぁ？」",
+                                "translatedEnglishLine": "I hope... you have a place to return to?\""
+                            },
+                            {
+                                "lineNumber": 52527,
+                                "originalJapaneseLine": "傲然とした笑みを浮かべ、ポルは人間達を見回した。",
+                                "translatedEnglishLine": "With a haughty smile, Por looked around at the humans."
+                            },
+                            {
+                                "lineNumber": 52528,
+                                "originalJapaneseLine": "魔軍司令部――",
+                                "translatedEnglishLine": "Demon Army Headquarters――"
+                            },
+                            {
+                                "lineNumber": 52529,
+                                "originalJapaneseLine": "「閣下！　ポル様より連絡が！",
+                                "translatedEnglishLine": "\"Your Excellency! A message from Lord Por!"
+                            },
+                            {
+                                "lineNumber": 52530,
+                                "originalJapaneseLine": "　人間どもが、マジノラインに",
+                                "translatedEnglishLine": "The humans seem to have concentrated their forces at the Maginot Line!"
+                            },
+                            {
+                                "lineNumber": 52531,
+                                "originalJapaneseLine": "　戦力を注ぎ込んできた模様！」",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": 52532,
+                                "originalJapaneseLine": "「くくく……そこに、全てを賭けてきたのか。",
+                                "translatedEnglishLine": "\"Heh heh heh... they've bet everything on that."
+                            },
+                            {
+                                "lineNumber": 52533,
+                                "originalJapaneseLine": "　まったく、愚かな連中だ……」",
+                                "translatedEnglishLine": "Truly, what foolish people they are...\""
+                            },
+                            {
+                                "lineNumber": 52534,
+                                "originalJapaneseLine": "ツォトンは愉悦を抑えきれぬとばかりに、",
+                                "translatedEnglishLine": "Tsoton could barely contain his pleasure,"
+                            },
+                            {
+                                "lineNumber": 52535,
+                                "originalJapaneseLine": "肩を震わせる。",
+                                "translatedEnglishLine": "his shoulders shaking."
+                            },
+                            {
+                                "lineNumber": 52536,
+                                "originalJapaneseLine": "間抜けな敵の醜態を高みから見下ろす事ほど、",
+                                "translatedEnglishLine": "There is nothing more enjoyable than looking down from above on the foolish enemy's disgrace."
+                            },
+                            {
+                                "lineNumber": 52537,
+                                "originalJapaneseLine": "楽しいものはない。",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": 52538,
+                                "originalJapaneseLine": "「奴らの首都はどうなっている」",
+                                "translatedEnglishLine": "\"What is happening in their capital?\""
+                            },
+                            {
+                                "lineNumber": 52539,
+                                "originalJapaneseLine": "「は……ほとんど戦力はないようです。",
+                                "translatedEnglishLine": "\"Ah... it seems there is almost no force left."
+                            },
+                            {
+                                "lineNumber": 52540,
+                                "originalJapaneseLine": "　精々数千といった程度で……」",
+                                "translatedEnglishLine": "At most, just a few thousand…\""
+                            },
+                            {
+                                "lineNumber": 52541,
+                                "originalJapaneseLine": "「ハハハハハハハハ！　そうかそうか！",
+                                "translatedEnglishLine": "\"Hahahahahahaha! Is that so, is that so!"
+                            },
+                            {
+                                "lineNumber": 52542,
+                                "originalJapaneseLine": "　実にニィハオだな！」",
+                                "translatedEnglishLine": "How delightfully naive!\""
+                            },
+                            {
+                                "lineNumber": 52543,
+                                "originalJapaneseLine": "「我が直属の兵を投入するぞ！",
+                                "translatedEnglishLine": "\"I will deploy my direct soldiers!"
+                            },
+                            {
+                                "lineNumber": 52544,
+                                "originalJapaneseLine": "　首都を再陥落させ、王を縊り殺してくれるわ！」",
+                                "translatedEnglishLine": "They will retake the capital and strangle the king to death!\""
+                            },
+                            {
+                                "lineNumber": 52545,
+                                "originalJapaneseLine": "「は、ははっ！」",
+                                "translatedEnglishLine": "\"Ha, ha ha!\""
+                            },
+                            {
+                                "lineNumber": 52546,
+                                "originalJapaneseLine": "「捕まえた人間は、捕まえた者の自由にしていいぞ！",
+                                "translatedEnglishLine": "\"Those who capture humans may do as they please with them!"
+                            },
+                            {
+                                "lineNumber": 52547,
+                                "originalJapaneseLine": "　多く殺せば褒美をくれてやる！」",
+                                "translatedEnglishLine": "The more they kill, the greater the reward!\""
+                            },
+                            {
+                                "lineNumber": 52548,
+                                "originalJapaneseLine": "魔軍司令部は、にわかに沸き立った。",
+                                "translatedEnglishLine": "The Demon Army Headquarters suddenly erupted with excitement."
+                            },
+                            {
+                                "lineNumber": 52549,
+                                "originalJapaneseLine": "魔軍の一点……ツォトンがひた隠しにしていた",
+                                "translatedEnglishLine": "The demon army's core... something Tsoton had kept carefully hidden,"
+                            },
+                            {
+                                "lineNumber": 52550,
+                                "originalJapaneseLine": "魔軍の本拠地の軍が、ついに動き始めた。",
+                                "translatedEnglishLine": "the army from the demon stronghold, had finally begun to move."
+                            },
+                            {
+                                "lineNumber": 52551,
+                                "originalJapaneseLine": "魔物大将軍ツォトンは自ら出陣。",
+                                "translatedEnglishLine": "The great demon general Tsoton personally went to battle."
+                            },
+                            {
+                                "lineNumber": 52552,
+                                "originalJapaneseLine": "開戦時を再現するかのように、",
+                                "translatedEnglishLine": "As if recreating the start of the war,"
+                            },
+                            {
+                                "lineNumber": 52553,
+                                "originalJapaneseLine": "人類軍はまったく抵抗する術なく逃げ散っていく。",
+                                "translatedEnglishLine": "the human army scattered, unable to offer any resistance."
+                            },
+                            {
+                                "lineNumber": 52554,
+                                "originalJapaneseLine": "王者の塔、跳躍の塔の間を抜け、王都に達するまで、",
+                                "translatedEnglishLine": "Passing between the Tower of the King and the Tower of Leap, until reaching the royal capital,"
+                            },
+                            {
+                                "lineNumber": 52555,
+                                "originalJapaneseLine": "魔軍は戦闘らしい戦闘をまるで行う事がなかった。",
+                                "translatedEnglishLine": "the demon army barely fought any real battles at all."
+                            },
+                            {
+                                "lineNumber": 52556,
+                                "originalJapaneseLine": "「フハハハハハハハハ！　なんだ手応えのない！",
+                                "translatedEnglishLine": "\"Fuhahahahaha! Such lack of resistance!"
+                            },
+                            {
+                                "lineNumber": 52557,
+                                "originalJapaneseLine": "　無人の野を行くが如しか！」",
+                                "translatedEnglishLine": "It’s like marching through an empty field!\""
+                            },
+                            {
+                                "lineNumber": 52558,
+                                "originalJapaneseLine": "「大将軍閣下。首都は誰も彼も、",
+                                "translatedEnglishLine": "\"Great General, it seems everyone in the capital,"
+                            },
+                            {
+                                "lineNumber": 52559,
+                                "originalJapaneseLine": "　ゴキブリのように逃げ散っていたようです。",
+                                "translatedEnglishLine": "fled like cockroaches."
+                            },
+                            {
+                                "lineNumber": 52560,
+                                "originalJapaneseLine": "　無人のようで」",
+                                "translatedEnglishLine": "It appears deserted.\""
+                            },
+                            {
+                                "lineNumber": 52561,
+                                "originalJapaneseLine": "「ふん、当てが外れたな……まあいい。",
+                                "translatedEnglishLine": "\"Hmph, that was unexpected... but it’s fine."
+                            },
+                            {
+                                "lineNumber": 52562,
+                                "originalJapaneseLine": "　後は城か……こちらも粉々に破壊してくれようか」",
+                                "translatedEnglishLine": "Now for the castle... let’s smash it to pieces as well.\""
+                            },
+                            {
+                                "lineNumber": 52563,
+                                "originalJapaneseLine": "「…………………………」",
+                                "translatedEnglishLine": "\"..........................\""
+                            },
+                            {
+                                "lineNumber": 52564,
+                                "originalJapaneseLine": "「――――作戦、第2段階……開始」",
+                                "translatedEnglishLine": "\"――――Operation, phase two... begin.\""
+                            },
+                            {
+                                "lineNumber": 52565,
+                                "originalJapaneseLine": "目を伏せていた千鶴子が、",
+                                "translatedEnglishLine": "Chizuruko, who had been looking down,"
+                            },
+                            {
+                                "lineNumber": 52566,
+                                "originalJapaneseLine": "そのまぶたをゆっくりと上げた。",
+                                "translatedEnglishLine": "slowly lifted her eyelids."
+                            },
+                            {
+                                "lineNumber": 52567,
+                                "originalJapaneseLine": "ゼス四天王の塔、弾倉の塔――――",
+                                "translatedEnglishLine": "The tower of the Zess Four Heavenly Kings, the Tower of the Magazine――――"
+                            },
+                            {
+                                "lineNumber": 52568,
+                                "originalJapaneseLine": "「……………………」",
+                                "translatedEnglishLine": "\"....................\""
+                            },
+                            {
+                                "lineNumber": 52569,
+                                "originalJapaneseLine": "その、中枢。",
+                                "translatedEnglishLine": "At its core."
+                            },
+                            {
+                                "lineNumber": 52570,
+                                "originalJapaneseLine": "マジック・ザ・ガンジーが一人、",
+                                "translatedEnglishLine": "Magic the Gandhi was alone,"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1585,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2062,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3647
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":52521,\"originalJapaneseLine\":\"　高かったんだけどなぁ、あれ……」\",\"translatedEnglishLine\":\"\\\"It was expensive, though...\\\"\"},{\"lineNumber\":52522,\"originalJapaneseLine\":\"哄笑する魔物将軍に、サイアスは苦笑して、\",\"translatedEnglishLine\":\"To the mocking demon general, Saias gave a wry smile,\"},{\"lineNumber\":52523,\"originalJapaneseLine\":\"くしゃりと癖のある髪に手をやった。\",\"translatedEnglishLine\":\"and ran his hand through his messy, unruly hair.\"},{\"lineNumber\":52524,\"originalJapaneseLine\":\"「残念だったなぁ、わざわざ大軍を率いて、\",\"translatedEnglishLine\":\"\\\"What a shame, bringing a large army all the way here,\"},{\"lineNumber\":52525,\"originalJapaneseLine\":\"　無駄足を踏みに来るとは……くくく……\",\"translatedEnglishLine\":\"just to come and waste your steps... hehehe...\"},{\"lineNumber\":52526,\"originalJapaneseLine\":\"　帰る場所が……あるといいがなぁ？」\",\"translatedEnglishLine\":\"I hope... you have a place to return to?\\\"\"},{\"lineNumber\":52527,\"originalJapaneseLine\":\"傲然とした笑みを浮かべ、ポルは人間達を見回した。\",\"translatedEnglishLine\":\"With a haughty smile, Por looked around at the humans.\"},{\"lineNumber\":52528,\"originalJapaneseLine\":\"魔軍司令部――\",\"translatedEnglishLine\":\"Demon Army Headquarters――\"},{\"lineNumber\":52529,\"originalJapaneseLine\":\"「閣下！　ポル様より連絡が！\",\"translatedEnglishLine\":\"\\\"Your Excellency! A message from Lord Por!\"},{\"lineNumber\":52530,\"originalJapaneseLine\":\"　人間どもが、マジノラインに\",\"translatedEnglishLine\":\"The humans seem to have concentrated their forces at the Maginot Line!\"},{\"lineNumber\":52531,\"originalJapaneseLine\":\"　戦力を注ぎ込んできた模様！」\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":52532,\"originalJapaneseLine\":\"「くくく……そこに、全てを賭けてきたのか。\",\"translatedEnglishLine\":\"\\\"Heh heh heh... they've bet everything on that.\"},{\"lineNumber\":52533,\"originalJapaneseLine\":\"　まったく、愚かな連中だ……」\",\"translatedEnglishLine\":\"Truly, what foolish people they are...\\\"\"},{\"lineNumber\":52534,\"originalJapaneseLine\":\"ツォトンは愉悦を抑えきれぬとばかりに、\",\"translatedEnglishLine\":\"Tsoton could barely contain his pleasure,\"},{\"lineNumber\":52535,\"originalJapaneseLine\":\"肩を震わせる。\",\"translatedEnglishLine\":\"his shoulders shaking.\"},{\"lineNumber\":52536,\"originalJapaneseLine\":\"間抜けな敵の醜態を高みから見下ろす事ほど、\",\"translatedEnglishLine\":\"There is nothing more enjoyable than looking down from above on the foolish enemy's disgrace.\"},{\"lineNumber\":52537,\"originalJapaneseLine\":\"楽しいものはない。\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":52538,\"originalJapaneseLine\":\"「奴らの首都はどうなっている」\",\"translatedEnglishLine\":\"\\\"What is happening in their capital?\\\"\"},{\"lineNumber\":52539,\"originalJapaneseLine\":\"「は……ほとんど戦力はないようです。\",\"translatedEnglishLine\":\"\\\"Ah... it seems there is almost no force left.\"},{\"lineNumber\":52540,\"originalJapaneseLine\":\"　精々数千といった程度で……」\",\"translatedEnglishLine\":\"At most, just a few thousand…\\\"\"},\n\n{\"lineNumber\":52541,\"originalJapaneseLine\":\"「ハハハハハハハハ！　そうかそうか！\",\"translatedEnglishLine\":\"\\\"Hahahahahahaha! Is that so, is that so!\"},\n\n{\"lineNumber\":52542,\"originalJapaneseLine\":\"　実にニィハオだな！」\",\"translatedEnglishLine\":\"How delightfully naive!\\\"\"},\n\n{\"lineNumber\":52543,\"originalJapaneseLine\":\"「我が直属の兵を投入するぞ！\",\"translatedEnglishLine\":\"\\\"I will deploy my direct soldiers!\"},\n\n{\"lineNumber\":52544,\"originalJapaneseLine\":\"　首都を再陥落させ、王を縊り殺してくれるわ！」\",\"translatedEnglishLine\":\"They will retake the capital and strangle the king to death!\\\"\"},\n\n{\"lineNumber\":52545,\"originalJapaneseLine\":\"「は、ははっ！」\",\"translatedEnglishLine\":\"\\\"Ha, ha ha!\\\"\"},\n\n{\"lineNumber\":52546,\"originalJapaneseLine\":\"「捕まえた人間は、捕まえた者の自由にしていいぞ！\",\"translatedEnglishLine\":\"\\\"Those who capture humans may do as they please with them!\"},\n\n{\"lineNumber\":52547,\"originalJapaneseLine\":\"　多く殺せば褒美をくれてやる！」\",\"translatedEnglishLine\":\"The more they kill, the greater the reward!\\\"\"},\n\n{\"lineNumber\":52548,\"originalJapaneseLine\":\"魔軍司令部は、にわかに沸き立った。\",\"translatedEnglishLine\":\"The Demon Army Headquarters suddenly erupted with excitement.\"},\n\n{\"lineNumber\":52549,\"originalJapaneseLine\":\"魔軍の一点……ツォトンがひた隠しにしていた\",\"translatedEnglishLine\":\"The demon army's core... something Tsoton had kept carefully hidden,\"},\n\n{\"lineNumber\":52550,\"originalJapaneseLine\":\"魔軍の本拠地の軍が、ついに動き始めた。\",\"translatedEnglishLine\":\"the army from the demon stronghold, had finally begun to move.\"},\n\n{\"lineNumber\":52551,\"originalJapaneseLine\":\"魔物大将軍ツォトンは自ら出陣。\",\"translatedEnglishLine\":\"The great demon general Tsoton personally went to battle.\"},\n\n{\"lineNumber\":52552,\"originalJapaneseLine\":\"開戦時を再現するかのように、\",\"translatedEnglishLine\":\"As if recreating the start of the war,\"},\n\n{\"lineNumber\":52553,\"originalJapaneseLine\":\"人類軍はまったく抵抗する術なく逃げ散っていく。\",\"translatedEnglishLine\":\"the human army scattered, unable to offer any resistance.\"},\n\n{\"lineNumber\":52554,\"originalJapaneseLine\":\"王者の塔、跳躍の塔の間を抜け、王都に達するまで、\",\"translatedEnglishLine\":\"Passing between the Tower of the King and the Tower of Leap, until reaching the royal capital,\"},\n\n{\"lineNumber\":52555,\"originalJapaneseLine\":\"魔軍は戦闘らしい戦闘をまるで行う事がなかった。\",\"translatedEnglishLine\":\"the demon army barely fought any real battles at all.\"},\n\n{\"lineNumber\":52556,\"originalJapaneseLine\":\"「フハハハハハハハハ！　なんだ手応えのない！\",\"translatedEnglishLine\":\"\\\"Fuhahahahaha! Such lack of resistance!\"},\n\n{\"lineNumber\":52557,\"originalJapaneseLine\":\"　無人の野を行くが如しか！」\",\"translatedEnglishLine\":\"It’s like marching through an empty field!\\\"\"},\n\n{\"lineNumber\":52558,\"originalJapaneseLine\":\"「大将軍閣下。首都は誰も彼も、\",\"translatedEnglishLine\":\"\\\"Great General, it seems everyone in the capital,\"},\n\n{\"lineNumber\":52559,\"originalJapaneseLine\":\"　ゴキブリのように逃げ散っていたようです。\",\"translatedEnglishLine\":\"fled like cockroaches.\"},\n\n{\"lineNumber\":52560,\"originalJapaneseLine\":\"　無人のようで」\",\"translatedEnglishLine\":\"It appears deserted.\\\"\"},{\"lineNumber\":52561,\"originalJapaneseLine\":\"「ふん、当てが外れたな……まあいい。\",\"translatedEnglishLine\":\"\\\"Hmph, that was unexpected... but it’s fine.\"},\n\n{\"lineNumber\":52562,\"originalJapaneseLine\":\"　後は城か……こちらも粉々に破壊してくれようか」\",\"translatedEnglishLine\":\"Now for the castle... let’s smash it to pieces as well.\\\"\"},{\"lineNumber\":52563,\"originalJapaneseLine\":\"「…………………………」\",\"translatedEnglishLine\":\"\\\"..........................\\\"\"},{\"lineNumber\":52564,\"originalJapaneseLine\":\"「――――作戦、第2段階……開始」\",\"translatedEnglishLine\":\"\\\"――――Operation, phase two... begin.\\\"\"},{\"lineNumber\":52565,\"originalJapaneseLine\":\"目を伏せていた千鶴子が、\",\"translatedEnglishLine\":\"Chizuruko, who had been looking down,\"},\n\n{\"lineNumber\":52566,\"originalJapaneseLine\":\"そのまぶたをゆっくりと上げた。\",\"translatedEnglishLine\":\"slowly lifted her eyelids.\"},\n\n{\"lineNumber\":52567,\"originalJapaneseLine\":\"ゼス四天王の塔、弾倉の塔――――\",\"translatedEnglishLine\":\"The tower of the Zess Four Heavenly Kings, the Tower of the Magazine――――\"},\n\n{\"lineNumber\":52568,\"originalJapaneseLine\":\"「……………………」\",\"translatedEnglishLine\":\"\\\"....................\\\"\"},{\"lineNumber\":52569,\"originalJapaneseLine\":\"その、中枢。\",\"translatedEnglishLine\":\"At its core.\"},{\"lineNumber\":52570,\"originalJapaneseLine\":\"マジック・ザ・ガンジーが一人、\",\"translatedEnglishLine\":\"Magic the Gandhi was alone,\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 52521,
+                "originalJapaneseLine": "　高かったんだけどなぁ、あれ……」",
+                "translatedEnglishLine": "\"It was expensive, though...\""
+            },
+            {
+                "lineNumber": 52522,
+                "originalJapaneseLine": "哄笑する魔物将軍に、サイアスは苦笑して、",
+                "translatedEnglishLine": "To the mocking demon general, Saias gave a wry smile,"
+            },
+            {
+                "lineNumber": 52523,
+                "originalJapaneseLine": "くしゃりと癖のある髪に手をやった。",
+                "translatedEnglishLine": "and ran his hand through his messy, unruly hair."
+            },
+            {
+                "lineNumber": 52524,
+                "originalJapaneseLine": "「残念だったなぁ、わざわざ大軍を率いて、",
+                "translatedEnglishLine": "\"What a shame, bringing a large army all the way here,"
+            },
+            {
+                "lineNumber": 52525,
+                "originalJapaneseLine": "　無駄足を踏みに来るとは……くくく……",
+                "translatedEnglishLine": "just to come and waste your steps... hehehe..."
+            },
+            {
+                "lineNumber": 52526,
+                "originalJapaneseLine": "　帰る場所が……あるといいがなぁ？」",
+                "translatedEnglishLine": "I hope... you have a place to return to?\""
+            },
+            {
+                "lineNumber": 52527,
+                "originalJapaneseLine": "傲然とした笑みを浮かべ、ポルは人間達を見回した。",
+                "translatedEnglishLine": "With a haughty smile, Por looked around at the humans."
+            },
+            {
+                "lineNumber": 52528,
+                "originalJapaneseLine": "魔軍司令部――",
+                "translatedEnglishLine": "Demon Army Headquarters――"
+            },
+            {
+                "lineNumber": 52529,
+                "originalJapaneseLine": "「閣下！　ポル様より連絡が！",
+                "translatedEnglishLine": "\"Your Excellency! A message from Lord Por!"
+            },
+            {
+                "lineNumber": 52530,
+                "originalJapaneseLine": "　人間どもが、マジノラインに",
+                "translatedEnglishLine": "The humans seem to have concentrated their forces at the Maginot Line!"
+            },
+            {
+                "lineNumber": 52531,
+                "originalJapaneseLine": "　戦力を注ぎ込んできた模様！」",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": 52532,
+                "originalJapaneseLine": "「くくく……そこに、全てを賭けてきたのか。",
+                "translatedEnglishLine": "\"Heh heh heh... they've bet everything on that."
+            },
+            {
+                "lineNumber": 52533,
+                "originalJapaneseLine": "　まったく、愚かな連中だ……」",
+                "translatedEnglishLine": "Truly, what foolish people they are...\""
+            },
+            {
+                "lineNumber": 52534,
+                "originalJapaneseLine": "ツォトンは愉悦を抑えきれぬとばかりに、",
+                "translatedEnglishLine": "Tsoton could barely contain his pleasure,"
+            },
+            {
+                "lineNumber": 52535,
+                "originalJapaneseLine": "肩を震わせる。",
+                "translatedEnglishLine": "his shoulders shaking."
+            },
+            {
+                "lineNumber": 52536,
+                "originalJapaneseLine": "間抜けな敵の醜態を高みから見下ろす事ほど、",
+                "translatedEnglishLine": "There is nothing more enjoyable than looking down from above on the foolish enemy's disgrace."
+            },
+            {
+                "lineNumber": 52537,
+                "originalJapaneseLine": "楽しいものはない。",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": 52538,
+                "originalJapaneseLine": "「奴らの首都はどうなっている」",
+                "translatedEnglishLine": "\"What is happening in their capital?\""
+            },
+            {
+                "lineNumber": 52539,
+                "originalJapaneseLine": "「は……ほとんど戦力はないようです。",
+                "translatedEnglishLine": "\"Ah... it seems there is almost no force left."
+            },
+            {
+                "lineNumber": 52540,
+                "originalJapaneseLine": "　精々数千といった程度で……」",
+                "translatedEnglishLine": "At most, just a few thousand…\""
+            },
+            {
+                "lineNumber": 52541,
+                "originalJapaneseLine": "「ハハハハハハハハ！　そうかそうか！",
+                "translatedEnglishLine": "\"Hahahahahahaha! Is that so, is that so!"
+            },
+            {
+                "lineNumber": 52542,
+                "originalJapaneseLine": "　実にニィハオだな！」",
+                "translatedEnglishLine": "How delightfully naive!\""
+            },
+            {
+                "lineNumber": 52543,
+                "originalJapaneseLine": "「我が直属の兵を投入するぞ！",
+                "translatedEnglishLine": "\"I will deploy my direct soldiers!"
+            },
+            {
+                "lineNumber": 52544,
+                "originalJapaneseLine": "　首都を再陥落させ、王を縊り殺してくれるわ！」",
+                "translatedEnglishLine": "They will retake the capital and strangle the king to death!\""
+            },
+            {
+                "lineNumber": 52545,
+                "originalJapaneseLine": "「は、ははっ！」",
+                "translatedEnglishLine": "\"Ha, ha ha!\""
+            },
+            {
+                "lineNumber": 52546,
+                "originalJapaneseLine": "「捕まえた人間は、捕まえた者の自由にしていいぞ！",
+                "translatedEnglishLine": "\"Those who capture humans may do as they please with them!"
+            },
+            {
+                "lineNumber": 52547,
+                "originalJapaneseLine": "　多く殺せば褒美をくれてやる！」",
+                "translatedEnglishLine": "The more they kill, the greater the reward!\""
+            },
+            {
+                "lineNumber": 52548,
+                "originalJapaneseLine": "魔軍司令部は、にわかに沸き立った。",
+                "translatedEnglishLine": "The Demon Army Headquarters suddenly erupted with excitement."
+            },
+            {
+                "lineNumber": 52549,
+                "originalJapaneseLine": "魔軍の一点……ツォトンがひた隠しにしていた",
+                "translatedEnglishLine": "The demon army's core... something Tsoton had kept carefully hidden,"
+            },
+            {
+                "lineNumber": 52550,
+                "originalJapaneseLine": "魔軍の本拠地の軍が、ついに動き始めた。",
+                "translatedEnglishLine": "the army from the demon stronghold, had finally begun to move."
+            },
+            {
+                "lineNumber": 52551,
+                "originalJapaneseLine": "魔物大将軍ツォトンは自ら出陣。",
+                "translatedEnglishLine": "The great demon general Tsoton personally went to battle."
+            },
+            {
+                "lineNumber": 52552,
+                "originalJapaneseLine": "開戦時を再現するかのように、",
+                "translatedEnglishLine": "As if recreating the start of the war,"
+            },
+            {
+                "lineNumber": 52553,
+                "originalJapaneseLine": "人類軍はまったく抵抗する術なく逃げ散っていく。",
+                "translatedEnglishLine": "the human army scattered, unable to offer any resistance."
+            },
+            {
+                "lineNumber": 52554,
+                "originalJapaneseLine": "王者の塔、跳躍の塔の間を抜け、王都に達するまで、",
+                "translatedEnglishLine": "Passing between the Tower of the King and the Tower of Leap, until reaching the royal capital,"
+            },
+            {
+                "lineNumber": 52555,
+                "originalJapaneseLine": "魔軍は戦闘らしい戦闘をまるで行う事がなかった。",
+                "translatedEnglishLine": "the demon army barely fought any real battles at all."
+            },
+            {
+                "lineNumber": 52556,
+                "originalJapaneseLine": "「フハハハハハハハハ！　なんだ手応えのない！",
+                "translatedEnglishLine": "\"Fuhahahahaha! Such lack of resistance!"
+            },
+            {
+                "lineNumber": 52557,
+                "originalJapaneseLine": "　無人の野を行くが如しか！」",
+                "translatedEnglishLine": "It’s like marching through an empty field!\""
+            },
+            {
+                "lineNumber": 52558,
+                "originalJapaneseLine": "「大将軍閣下。首都は誰も彼も、",
+                "translatedEnglishLine": "\"Great General, it seems everyone in the capital,"
+            },
+            {
+                "lineNumber": 52559,
+                "originalJapaneseLine": "　ゴキブリのように逃げ散っていたようです。",
+                "translatedEnglishLine": "fled like cockroaches."
+            },
+            {
+                "lineNumber": 52560,
+                "originalJapaneseLine": "　無人のようで」",
+                "translatedEnglishLine": "It appears deserted.\""
+            },
+            {
+                "lineNumber": 52561,
+                "originalJapaneseLine": "「ふん、当てが外れたな……まあいい。",
+                "translatedEnglishLine": "\"Hmph, that was unexpected... but it’s fine."
+            },
+            {
+                "lineNumber": 52562,
+                "originalJapaneseLine": "　後は城か……こちらも粉々に破壊してくれようか」",
+                "translatedEnglishLine": "Now for the castle... let’s smash it to pieces as well.\""
+            },
+            {
+                "lineNumber": 52563,
+                "originalJapaneseLine": "「…………………………」",
+                "translatedEnglishLine": "\"..........................\""
+            },
+            {
+                "lineNumber": 52564,
+                "originalJapaneseLine": "「――――作戦、第2段階……開始」",
+                "translatedEnglishLine": "\"――――Operation, phase two... begin.\""
+            },
+            {
+                "lineNumber": 52565,
+                "originalJapaneseLine": "目を伏せていた千鶴子が、",
+                "translatedEnglishLine": "Chizuruko, who had been looking down,"
+            },
+            {
+                "lineNumber": 52566,
+                "originalJapaneseLine": "そのまぶたをゆっくりと上げた。",
+                "translatedEnglishLine": "slowly lifted her eyelids."
+            },
+            {
+                "lineNumber": 52567,
+                "originalJapaneseLine": "ゼス四天王の塔、弾倉の塔――――",
+                "translatedEnglishLine": "The tower of the Zess Four Heavenly Kings, the Tower of the Magazine――――"
+            },
+            {
+                "lineNumber": 52568,
+                "originalJapaneseLine": "「……………………」",
+                "translatedEnglishLine": "\"....................\""
+            },
+            {
+                "lineNumber": 52569,
+                "originalJapaneseLine": "その、中枢。",
+                "translatedEnglishLine": "At its core."
+            },
+            {
+                "lineNumber": 52570,
+                "originalJapaneseLine": "マジック・ザ・ガンジーが一人、",
+                "translatedEnglishLine": "Magic the Gandhi was alone,"
+            }
+        ]
+    }
+}

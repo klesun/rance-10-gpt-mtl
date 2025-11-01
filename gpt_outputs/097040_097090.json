@@ -1,1 +1,619 @@
-{"id":"resp_0e60a12d1b308bd90068f03e7cdc2081959b15c45d3ee26527","object":"response","created_at":1760575100,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0e60a12d1b308bd90068f03e7d85d0819586376d219a888600","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 97041,\n      \"originalJapaneseLine\": \"「今の発言、聞かなかったことにします」\",\n      \"translatedEnglishLine\": \"\\\"I will pretend I didn't hear what you just said.\\\"\"\n    },\n    {\n      \"lineNumber\": 97042,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"......\\\"\"\n    },\n    {\n      \"lineNumber\": 97043,\n      \"originalJapaneseLine\": \"「三日後の夜、西の森で待つわ。\",\n      \"translatedEnglishLine\": \"\\\"I'll wait in the western forest three nights from now.\"\n    },\n    {\n      \"lineNumber\": 97044,\n      \"originalJapaneseLine\": \"　それまでに答えを決めて」\",\n      \"translatedEnglishLine\": \"Decide your answer by then.\\\"\"\n    },\n    {\n      \"lineNumber\": 97045,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"......\\\"\"\n    },\n    {\n      \"lineNumber\": 97046,\n      \"originalJapaneseLine\": \"それから三日間、\",\n      \"translatedEnglishLine\": \"For the next three days,\"\n    },\n    {\n      \"lineNumber\": 97047,\n      \"originalJapaneseLine\": \"闇郭公と闇鷺はアサシンとは思えぬ、\",\n      \"translatedEnglishLine\": \"Dark Cuckoo and Dark Heron, unthinkable as assassins,\"\n    },\n    {\n      \"lineNumber\": 97048,\n      \"originalJapaneseLine\": \"穏やかな日々を――恋人として過ごした。\",\n      \"translatedEnglishLine\": \"spent peaceful days—as lovers.\"\n    },\n    {\n      \"lineNumber\": 97049,\n      \"originalJapaneseLine\": \"…………\",\n      \"translatedEnglishLine\": \"......\"\n    },\n    {\n      \"lineNumber\": 97050,\n      \"originalJapaneseLine\": \"……\",\n      \"translatedEnglishLine\": \"...\"\n    },\n    {\n      \"lineNumber\": 97051,\n      \"originalJapaneseLine\": \"三日後の夜――\",\n      \"translatedEnglishLine\": \"The night three days later――\"\n    },\n    {\n      \"lineNumber\": 97052,\n      \"originalJapaneseLine\": \"「……来たわね」\",\n      \"translatedEnglishLine\": \"\\\"...You've come.\\\"\"\n    },\n    {\n      \"lineNumber\": 97053,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"......\\\"\"\n    },\n    {\n      \"lineNumber\": 97054,\n      \"originalJapaneseLine\": \"街の西の森、\",\n      \"translatedEnglishLine\": \"In the western forest of the town,\"\n    },\n    {\n      \"lineNumber\": 97055,\n      \"originalJapaneseLine\": \"闇郭公のもとに闇鷺が姿を見せた。\",\n      \"translatedEnglishLine\": \"Dark Heron appeared before Dark Cuckoo.\"\n    },\n    {\n      \"lineNumber\": 97056,\n      \"originalJapaneseLine\": \"「ありがとう、貴方なら\",\n      \"translatedEnglishLine\": \"\\\"Thank you, I knew you\"\n    },\n    {\n      \"lineNumber\": 97057,\n      \"originalJapaneseLine\": \"　一緒に来てくれると思った」\",\n      \"translatedEnglishLine\": \"would come with me.\\\"\"\n    },\n    {\n      \"lineNumber\": 97058,\n      \"originalJapaneseLine\": \"「さあ、どこに逃げましょうか」\",\n      \"translatedEnglishLine\": \"\\\"Now, where shall we run?\\\"\"\n    },\n    {\n      \"lineNumber\": 97059,\n      \"originalJapaneseLine\": \"「近づかないで下さい」\",\n      \"translatedEnglishLine\": \"\\\"Don't come any closer.\\\"\"\n    },\n    {\n      \"lineNumber\": 97060,\n      \"originalJapaneseLine\": \"両手を広げて近づく闇郭公に対し、\",\n      \"translatedEnglishLine\": \"Dark Cuckoo approached with arms wide open,\"\n    },\n    {\n      \"lineNumber\": 97061,\n      \"originalJapaneseLine\": \"闇鷺が武器を構え機先を制した。\",\n      \"translatedEnglishLine\": \"but Dark Heron took the initiative by drawing her weapon.\"\n    },\n    {\n      \"lineNumber\": 97062,\n      \"originalJapaneseLine\": \"「……闇の翼の掟は知っていますね？」\",\n      \"translatedEnglishLine\": \"\\\"...You know the laws of the Dark Wings, don't you?\\\"\"\n    },\n    {\n      \"lineNumber\": 97063,\n      \"originalJapaneseLine\": \"「裏切り者には死を」\",\n      \"translatedEnglishLine\": \"\\\"Death to traitors.\\\"\"\n    },\n    {\n      \"lineNumber\": 97064,\n      \"originalJapaneseLine\": \"「私と貴方、どちらの方が強いかは\",\n      \"translatedEnglishLine\": \"\\\"You know well which of us is stronger—\"\n    },\n    {\n      \"lineNumber\": 97065,\n      \"originalJapaneseLine\": \"　分かっているでしょう……\",\n      \"translatedEnglishLine\": \"—I think you understand that...\\\"\"\n    },\n    {\n      \"lineNumber\": 97066,\n      \"originalJapaneseLine\": \"　抵抗は無意味です」\",\n      \"translatedEnglishLine\": \"\\\"Resistance is pointless.\\\"\"\n    },\n    {\n      \"lineNumber\": 97067,\n      \"originalJapaneseLine\": \"「そんな……私を殺すつもり？\",\n      \"translatedEnglishLine\": \"\\\"No way... you intend to kill me?\"\n    },\n    {\n      \"lineNumber\": 97068,\n      \"originalJapaneseLine\": \"　貴方が、この私を？」\",\n      \"translatedEnglishLine\": \"You, killing me?\\\"\"\n    },\n    {\n      \"lineNumber\": 97069,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"......\\\"\"\n    },\n    {\n      \"lineNumber\": 97070,\n      \"originalJapaneseLine\": \"「動かないで下さい。\",\n      \"translatedEnglishLine\": \"\\\"Don't move.\"\n    },\n    {\n      \"lineNumber\": 97071,\n      \"originalJapaneseLine\": \"　動かなければ……即死させられます」\",\n      \"translatedEnglishLine\": \"If you don't, I can kill you instantly.\\\"\"\n    },\n    {\n      \"lineNumber\": 97072,\n      \"originalJapaneseLine\": \"「……せめて、痛みなく送らせて下さい」\",\n      \"translatedEnglishLine\": \"\\\"...At least, let me send you off without pain.\\\"\"\n    },\n    {\n      \"lineNumber\": 97073,\n      \"originalJapaneseLine\": \"「そう……」\",\n      \"translatedEnglishLine\": \"\\\"I see...\\\"\"\n    },\n    {\n      \"lineNumber\": 97074,\n      \"originalJapaneseLine\": \"「…………試験は合格よ、闇鷺」\",\n      \"translatedEnglishLine\": \"\\\"...You passed the test, Dark Heron.\\\"\"\n    },\n    {\n      \"lineNumber\": 97075,\n      \"originalJapaneseLine\": \"「――ッ！？　ガッ、ハッ！？」\",\n      \"translatedEnglishLine\": \"\\\"—!? Gah, hah!?\\\"\"\n    },\n    {\n      \"lineNumber\": 97076,\n      \"originalJapaneseLine\": \"音も気配もなく、\",\n      \"translatedEnglishLine\": \"Without sound or presence,\"\n    },\n    {\n      \"lineNumber\": 97077,\n      \"originalJapaneseLine\": \"目にも止まらぬ速度で\",\n      \"translatedEnglishLine\": \"at a speed too fast to see,\"\n    },\n    {\n      \"lineNumber\": 97078,\n      \"originalJapaneseLine\": \"背後に移動した闇郭公が闇鷺の首を掴んできた。\",\n      \"translatedEnglishLine\": \"Dark Cuckoo moved behind and grabbed Dark Heron's neck.\"\n    },\n    {\n      \"lineNumber\": 97079,\n      \"originalJapaneseLine\": \"（そんな……この人……！\",\n      \"translatedEnglishLine\": \"(No way... this person...!)\"\n    },\n    {\n      \"lineNumber\": 97080,\n      \"originalJapaneseLine\": \"　今までずっと、実力を、隠し、て……！）\",\n      \"translatedEnglishLine\": \"All this time, hiding their true strength...!)\"\n    },\n    {\n      \"lineNumber\": 97081,\n      \"originalJapaneseLine\": \"首筋にかけられた手の力が、\",\n      \"translatedEnglishLine\": \"The grip on my neck\"\n    },\n    {\n      \"lineNumber\": 97082,\n      \"originalJapaneseLine\": \"万力のようにギリギリと、徐々に強くなる。\",\n      \"translatedEnglishLine\": \"tightened like a vise, steadily increasing.\"\n    },\n    {\n      \"lineNumber\": 97083,\n      \"originalJapaneseLine\": \"（ま、まずい、このまま、じゃ……！）\",\n      \"translatedEnglishLine\": \"(T-this is bad, at this rate...!)\"\n    },\n    {\n      \"lineNumber\": 97084,\n      \"originalJapaneseLine\": \"「ごめんなさいね、\",\n      \"translatedEnglishLine\": \"\\\"I'm sorry,\"\n    },\n    {\n      \"lineNumber\": 97085,\n      \"originalJapaneseLine\": \"　頭領と構成員の間を取り持つ連絡員、闇郭公、\",\n      \"translatedEnglishLine\": \"Dark Cuckoo, the messenger between the leader and the members,\"\n    },\n    {\n      \"lineNumber\": 97086,\n      \"originalJapaneseLine\": \"　それは偽りの姿なの……」\",\n      \"translatedEnglishLine\": \"is a false identity...\\\"\"\n    },\n    {\n      \"lineNumber\": 97087,\n      \"originalJapaneseLine\": \"「……割と気に入っていたけど、\",\n      \"translatedEnglishLine\": \"\\\"...I quite liked it, but\"\n    },\n    {\n      \"lineNumber\": 97088,\n      \"originalJapaneseLine\": \"　貴方との恋人ごっこも今日でおしまいね」\",\n      \"translatedEnglishLine\": \"the pretend relationship with you ends today.\\\"\"\n    },\n    {\n      \"lineNumber\": 97089,\n      \"originalJapaneseLine\": \"（ご、っ、こ……？）\",\n      \"translatedEnglishLine\": \"(Pre-tense...?)\"\n    },\n    {\n      \"lineNumber\": 97090,\n      \"originalJapaneseLine\": \"「私個人に対して強い情を持ちながら……\",\n      \"translatedEnglishLine\": \"\\\"While you harbored strong feelings towards me personally...\"\n    }\n  ]\n}","parsed":{"translationLines":[{"lineNumber":97041,"originalJapaneseLine":"「今の発言、聞かなかったことにします」","translatedEnglishLine":"\"I will pretend I didn't hear what you just said.\""},{"lineNumber":97042,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"......\""},{"lineNumber":97043,"originalJapaneseLine":"「三日後の夜、西の森で待つわ。","translatedEnglishLine":"\"I'll wait in the western forest three nights from now."},{"lineNumber":97044,"originalJapaneseLine":"　それまでに答えを決めて」","translatedEnglishLine":"Decide your answer by then.\""},{"lineNumber":97045,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"......\""},{"lineNumber":97046,"originalJapaneseLine":"それから三日間、","translatedEnglishLine":"For the next three days,"},{"lineNumber":97047,"originalJapaneseLine":"闇郭公と闇鷺はアサシンとは思えぬ、","translatedEnglishLine":"Dark Cuckoo and Dark Heron, unthinkable as assassins,"},{"lineNumber":97048,"originalJapaneseLine":"穏やかな日々を――恋人として過ごした。","translatedEnglishLine":"spent peaceful days—as lovers."},{"lineNumber":97049,"originalJapaneseLine":"…………","translatedEnglishLine":"......"},{"lineNumber":97050,"originalJapaneseLine":"……","translatedEnglishLine":"..."},{"lineNumber":97051,"originalJapaneseLine":"三日後の夜――","translatedEnglishLine":"The night three days later――"},{"lineNumber":97052,"originalJapaneseLine":"「……来たわね」","translatedEnglishLine":"\"...You've come.\""},{"lineNumber":97053,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"......\""},{"lineNumber":97054,"originalJapaneseLine":"街の西の森、","translatedEnglishLine":"In the western forest of the town,"},{"lineNumber":97055,"originalJapaneseLine":"闇郭公のもとに闇鷺が姿を見せた。","translatedEnglishLine":"Dark Heron appeared before Dark Cuckoo."},{"lineNumber":97056,"originalJapaneseLine":"「ありがとう、貴方なら","translatedEnglishLine":"\"Thank you, I knew you"},{"lineNumber":97057,"originalJapaneseLine":"　一緒に来てくれると思った」","translatedEnglishLine":"would come with me.\""},{"lineNumber":97058,"originalJapaneseLine":"「さあ、どこに逃げましょうか」","translatedEnglishLine":"\"Now, where shall we run?\""},{"lineNumber":97059,"originalJapaneseLine":"「近づかないで下さい」","translatedEnglishLine":"\"Don't come any closer.\""},{"lineNumber":97060,"originalJapaneseLine":"両手を広げて近づく闇郭公に対し、","translatedEnglishLine":"Dark Cuckoo approached with arms wide open,"},{"lineNumber":97061,"originalJapaneseLine":"闇鷺が武器を構え機先を制した。","translatedEnglishLine":"but Dark Heron took the initiative by drawing her weapon."},{"lineNumber":97062,"originalJapaneseLine":"「……闇の翼の掟は知っていますね？」","translatedEnglishLine":"\"...You know the laws of the Dark Wings, don't you?\""},{"lineNumber":97063,"originalJapaneseLine":"「裏切り者には死を」","translatedEnglishLine":"\"Death to traitors.\""},{"lineNumber":97064,"originalJapaneseLine":"「私と貴方、どちらの方が強いかは","translatedEnglishLine":"\"You know well which of us is stronger—"},{"lineNumber":97065,"originalJapaneseLine":"　分かっているでしょう……","translatedEnglishLine":"—I think you understand that...\""},{"lineNumber":97066,"originalJapaneseLine":"　抵抗は無意味です」","translatedEnglishLine":"\"Resistance is pointless.\""},{"lineNumber":97067,"originalJapaneseLine":"「そんな……私を殺すつもり？","translatedEnglishLine":"\"No way... you intend to kill me?"},{"lineNumber":97068,"originalJapaneseLine":"　貴方が、この私を？」","translatedEnglishLine":"You, killing me?\""},{"lineNumber":97069,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"......\""},{"lineNumber":97070,"originalJapaneseLine":"「動かないで下さい。","translatedEnglishLine":"\"Don't move."},{"lineNumber":97071,"originalJapaneseLine":"　動かなければ……即死させられます」","translatedEnglishLine":"If you don't, I can kill you instantly.\""},{"lineNumber":97072,"originalJapaneseLine":"「……せめて、痛みなく送らせて下さい」","translatedEnglishLine":"\"...At least, let me send you off without pain.\""},{"lineNumber":97073,"originalJapaneseLine":"「そう……」","translatedEnglishLine":"\"I see...\""},{"lineNumber":97074,"originalJapaneseLine":"「…………試験は合格よ、闇鷺」","translatedEnglishLine":"\"...You passed the test, Dark Heron.\""},{"lineNumber":97075,"originalJapaneseLine":"「――ッ！？　ガッ、ハッ！？」","translatedEnglishLine":"\"—!? Gah, hah!?\""},{"lineNumber":97076,"originalJapaneseLine":"音も気配もなく、","translatedEnglishLine":"Without sound or presence,"},{"lineNumber":97077,"originalJapaneseLine":"目にも止まらぬ速度で","translatedEnglishLine":"at a speed too fast to see,"},{"lineNumber":97078,"originalJapaneseLine":"背後に移動した闇郭公が闇鷺の首を掴んできた。","translatedEnglishLine":"Dark Cuckoo moved behind and grabbed Dark Heron's neck."},{"lineNumber":97079,"originalJapaneseLine":"（そんな……この人……！","translatedEnglishLine":"(No way... this person...!)"},{"lineNumber":97080,"originalJapaneseLine":"　今までずっと、実力を、隠し、て……！）","translatedEnglishLine":"All this time, hiding their true strength...!)"},{"lineNumber":97081,"originalJapaneseLine":"首筋にかけられた手の力が、","translatedEnglishLine":"The grip on my neck"},{"lineNumber":97082,"originalJapaneseLine":"万力のようにギリギリと、徐々に強くなる。","translatedEnglishLine":"tightened like a vise, steadily increasing."},{"lineNumber":97083,"originalJapaneseLine":"（ま、まずい、このまま、じゃ……！）","translatedEnglishLine":"(T-this is bad, at this rate...!)"},{"lineNumber":97084,"originalJapaneseLine":"「ごめんなさいね、","translatedEnglishLine":"\"I'm sorry,"},{"lineNumber":97085,"originalJapaneseLine":"　頭領と構成員の間を取り持つ連絡員、闇郭公、","translatedEnglishLine":"Dark Cuckoo, the messenger between the leader and the members,"},{"lineNumber":97086,"originalJapaneseLine":"　それは偽りの姿なの……」","translatedEnglishLine":"is a false identity...\""},{"lineNumber":97087,"originalJapaneseLine":"「……割と気に入っていたけど、","translatedEnglishLine":"\"...I quite liked it, but"},{"lineNumber":97088,"originalJapaneseLine":"　貴方との恋人ごっこも今日でおしまいね」","translatedEnglishLine":"the pretend relationship with you ends today.\""},{"lineNumber":97089,"originalJapaneseLine":"（ご、っ、こ……？）","translatedEnglishLine":"(Pre-tense...?)"},{"lineNumber":97090,"originalJapaneseLine":"「私個人に対して強い情を持ちながら……","translatedEnglishLine":"\"While you harbored strong feelings towards me personally..."}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1409,"input_tokens_details":{"cached_tokens":0},"output_tokens":2347,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3756},"user":null,"metadata":{},"output_text":"{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 97041,\n      \"originalJapaneseLine\": \"「今の発言、聞かなかったことにします」\",\n      \"translatedEnglishLine\": \"\\\"I will pretend I didn't hear what you just said.\\\"\"\n    },\n    {\n      \"lineNumber\": 97042,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"......\\\"\"\n    },\n    {\n      \"lineNumber\": 97043,\n      \"originalJapaneseLine\": \"「三日後の夜、西の森で待つわ。\",\n      \"translatedEnglishLine\": \"\\\"I'll wait in the western forest three nights from now.\"\n    },\n    {\n      \"lineNumber\": 97044,\n      \"originalJapaneseLine\": \"　それまでに答えを決めて」\",\n      \"translatedEnglishLine\": \"Decide your answer by then.\\\"\"\n    },\n    {\n      \"lineNumber\": 97045,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"......\\\"\"\n    },\n    {\n      \"lineNumber\": 97046,\n      \"originalJapaneseLine\": \"それから三日間、\",\n      \"translatedEnglishLine\": \"For the next three days,\"\n    },\n    {\n      \"lineNumber\": 97047,\n      \"originalJapaneseLine\": \"闇郭公と闇鷺はアサシンとは思えぬ、\",\n      \"translatedEnglishLine\": \"Dark Cuckoo and Dark Heron, unthinkable as assassins,\"\n    },\n    {\n      \"lineNumber\": 97048,\n      \"originalJapaneseLine\": \"穏やかな日々を――恋人として過ごした。\",\n      \"translatedEnglishLine\": \"spent peaceful days—as lovers.\"\n    },\n    {\n      \"lineNumber\": 97049,\n      \"originalJapaneseLine\": \"…………\",\n      \"translatedEnglishLine\": \"......\"\n    },\n    {\n      \"lineNumber\": 97050,\n      \"originalJapaneseLine\": \"……\",\n      \"translatedEnglishLine\": \"...\"\n    },\n    {\n      \"lineNumber\": 97051,\n      \"originalJapaneseLine\": \"三日後の夜――\",\n      \"translatedEnglishLine\": \"The night three days later――\"\n    },\n    {\n      \"lineNumber\": 97052,\n      \"originalJapaneseLine\": \"「……来たわね」\",\n      \"translatedEnglishLine\": \"\\\"...You've come.\\\"\"\n    },\n    {\n      \"lineNumber\": 97053,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"......\\\"\"\n    },\n    {\n      \"lineNumber\": 97054,\n      \"originalJapaneseLine\": \"街の西の森、\",\n      \"translatedEnglishLine\": \"In the western forest of the town,\"\n    },\n    {\n      \"lineNumber\": 97055,\n      \"originalJapaneseLine\": \"闇郭公のもとに闇鷺が姿を見せた。\",\n      \"translatedEnglishLine\": \"Dark Heron appeared before Dark Cuckoo.\"\n    },\n    {\n      \"lineNumber\": 97056,\n      \"originalJapaneseLine\": \"「ありがとう、貴方なら\",\n      \"translatedEnglishLine\": \"\\\"Thank you, I knew you\"\n    },\n    {\n      \"lineNumber\": 97057,\n      \"originalJapaneseLine\": \"　一緒に来てくれると思った」\",\n      \"translatedEnglishLine\": \"would come with me.\\\"\"\n    },\n    {\n      \"lineNumber\": 97058,\n      \"originalJapaneseLine\": \"「さあ、どこに逃げましょうか」\",\n      \"translatedEnglishLine\": \"\\\"Now, where shall we run?\\\"\"\n    },\n    {\n      \"lineNumber\": 97059,\n      \"originalJapaneseLine\": \"「近づかないで下さい」\",\n      \"translatedEnglishLine\": \"\\\"Don't come any closer.\\\"\"\n    },\n    {\n      \"lineNumber\": 97060,\n      \"originalJapaneseLine\": \"両手を広げて近づく闇郭公に対し、\",\n      \"translatedEnglishLine\": \"Dark Cuckoo approached with arms wide open,\"\n    },\n    {\n      \"lineNumber\": 97061,\n      \"originalJapaneseLine\": \"闇鷺が武器を構え機先を制した。\",\n      \"translatedEnglishLine\": \"but Dark Heron took the initiative by drawing her weapon.\"\n    },\n    {\n      \"lineNumber\": 97062,\n      \"originalJapaneseLine\": \"「……闇の翼の掟は知っていますね？」\",\n      \"translatedEnglishLine\": \"\\\"...You know the laws of the Dark Wings, don't you?\\\"\"\n    },\n    {\n      \"lineNumber\": 97063,\n      \"originalJapaneseLine\": \"「裏切り者には死を」\",\n      \"translatedEnglishLine\": \"\\\"Death to traitors.\\\"\"\n    },\n    {\n      \"lineNumber\": 97064,\n      \"originalJapaneseLine\": \"「私と貴方、どちらの方が強いかは\",\n      \"translatedEnglishLine\": \"\\\"You know well which of us is stronger—\"\n    },\n    {\n      \"lineNumber\": 97065,\n      \"originalJapaneseLine\": \"　分かっているでしょう……\",\n      \"translatedEnglishLine\": \"—I think you understand that...\\\"\"\n    },\n    {\n      \"lineNumber\": 97066,\n      \"originalJapaneseLine\": \"　抵抗は無意味です」\",\n      \"translatedEnglishLine\": \"\\\"Resistance is pointless.\\\"\"\n    },\n    {\n      \"lineNumber\": 97067,\n      \"originalJapaneseLine\": \"「そんな……私を殺すつもり？\",\n      \"translatedEnglishLine\": \"\\\"No way... you intend to kill me?\"\n    },\n    {\n      \"lineNumber\": 97068,\n      \"originalJapaneseLine\": \"　貴方が、この私を？」\",\n      \"translatedEnglishLine\": \"You, killing me?\\\"\"\n    },\n    {\n      \"lineNumber\": 97069,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"......\\\"\"\n    },\n    {\n      \"lineNumber\": 97070,\n      \"originalJapaneseLine\": \"「動かないで下さい。\",\n      \"translatedEnglishLine\": \"\\\"Don't move.\"\n    },\n    {\n      \"lineNumber\": 97071,\n      \"originalJapaneseLine\": \"　動かなければ……即死させられます」\",\n      \"translatedEnglishLine\": \"If you don't, I can kill you instantly.\\\"\"\n    },\n    {\n      \"lineNumber\": 97072,\n      \"originalJapaneseLine\": \"「……せめて、痛みなく送らせて下さい」\",\n      \"translatedEnglishLine\": \"\\\"...At least, let me send you off without pain.\\\"\"\n    },\n    {\n      \"lineNumber\": 97073,\n      \"originalJapaneseLine\": \"「そう……」\",\n      \"translatedEnglishLine\": \"\\\"I see...\\\"\"\n    },\n    {\n      \"lineNumber\": 97074,\n      \"originalJapaneseLine\": \"「…………試験は合格よ、闇鷺」\",\n      \"translatedEnglishLine\": \"\\\"...You passed the test, Dark Heron.\\\"\"\n    },\n    {\n      \"lineNumber\": 97075,\n      \"originalJapaneseLine\": \"「――ッ！？　ガッ、ハッ！？」\",\n      \"translatedEnglishLine\": \"\\\"—!? Gah, hah!?\\\"\"\n    },\n    {\n      \"lineNumber\": 97076,\n      \"originalJapaneseLine\": \"音も気配もなく、\",\n      \"translatedEnglishLine\": \"Without sound or presence,\"\n    },\n    {\n      \"lineNumber\": 97077,\n      \"originalJapaneseLine\": \"目にも止まらぬ速度で\",\n      \"translatedEnglishLine\": \"at a speed too fast to see,\"\n    },\n    {\n      \"lineNumber\": 97078,\n      \"originalJapaneseLine\": \"背後に移動した闇郭公が闇鷺の首を掴んできた。\",\n      \"translatedEnglishLine\": \"Dark Cuckoo moved behind and grabbed Dark Heron's neck.\"\n    },\n    {\n      \"lineNumber\": 97079,\n      \"originalJapaneseLine\": \"（そんな……この人……！\",\n      \"translatedEnglishLine\": \"(No way... this person...!)\"\n    },\n    {\n      \"lineNumber\": 97080,\n      \"originalJapaneseLine\": \"　今までずっと、実力を、隠し、て……！）\",\n      \"translatedEnglishLine\": \"All this time, hiding their true strength...!)\"\n    },\n    {\n      \"lineNumber\": 97081,\n      \"originalJapaneseLine\": \"首筋にかけられた手の力が、\",\n      \"translatedEnglishLine\": \"The grip on my neck\"\n    },\n    {\n      \"lineNumber\": 97082,\n      \"originalJapaneseLine\": \"万力のようにギリギリと、徐々に強くなる。\",\n      \"translatedEnglishLine\": \"tightened like a vise, steadily increasing.\"\n    },\n    {\n      \"lineNumber\": 97083,\n      \"originalJapaneseLine\": \"（ま、まずい、このまま、じゃ……！）\",\n      \"translatedEnglishLine\": \"(T-this is bad, at this rate...!)\"\n    },\n    {\n      \"lineNumber\": 97084,\n      \"originalJapaneseLine\": \"「ごめんなさいね、\",\n      \"translatedEnglishLine\": \"\\\"I'm sorry,\"\n    },\n    {\n      \"lineNumber\": 97085,\n      \"originalJapaneseLine\": \"　頭領と構成員の間を取り持つ連絡員、闇郭公、\",\n      \"translatedEnglishLine\": \"Dark Cuckoo, the messenger between the leader and the members,\"\n    },\n    {\n      \"lineNumber\": 97086,\n      \"originalJapaneseLine\": \"　それは偽りの姿なの……」\",\n      \"translatedEnglishLine\": \"is a false identity...\\\"\"\n    },\n    {\n      \"lineNumber\": 97087,\n      \"originalJapaneseLine\": \"「……割と気に入っていたけど、\",\n      \"translatedEnglishLine\": \"\\\"...I quite liked it, but\"\n    },\n    {\n      \"lineNumber\": 97088,\n      \"originalJapaneseLine\": \"　貴方との恋人ごっこも今日でおしまいね」\",\n      \"translatedEnglishLine\": \"the pretend relationship with you ends today.\\\"\"\n    },\n    {\n      \"lineNumber\": 97089,\n      \"originalJapaneseLine\": \"（ご、っ、こ……？）\",\n      \"translatedEnglishLine\": \"(Pre-tense...?)\"\n    },\n    {\n      \"lineNumber\": 97090,\n      \"originalJapaneseLine\": \"「私個人に対して強い情を持ちながら……\",\n      \"translatedEnglishLine\": \"\\\"While you harbored strong feelings towards me personally...\"\n    }\n  ]\n}","output_parsed":{"translationLines":[{"lineNumber":97041,"originalJapaneseLine":"「今の発言、聞かなかったことにします」","translatedEnglishLine":"\"I will pretend I didn't hear what you just said.\""},{"lineNumber":97042,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"......\""},{"lineNumber":97043,"originalJapaneseLine":"「三日後の夜、西の森で待つわ。","translatedEnglishLine":"\"I'll wait in the western forest three nights from now."},{"lineNumber":97044,"originalJapaneseLine":"　それまでに答えを決めて」","translatedEnglishLine":"Decide your answer by then.\""},{"lineNumber":97045,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"......\""},{"lineNumber":97046,"originalJapaneseLine":"それから三日間、","translatedEnglishLine":"For the next three days,"},{"lineNumber":97047,"originalJapaneseLine":"闇郭公と闇鷺はアサシンとは思えぬ、","translatedEnglishLine":"Dark Cuckoo and Dark Heron, unthinkable as assassins,"},{"lineNumber":97048,"originalJapaneseLine":"穏やかな日々を――恋人として過ごした。","translatedEnglishLine":"spent peaceful days—as lovers."},{"lineNumber":97049,"originalJapaneseLine":"…………","translatedEnglishLine":"......"},{"lineNumber":97050,"originalJapaneseLine":"……","translatedEnglishLine":"..."},{"lineNumber":97051,"originalJapaneseLine":"三日後の夜――","translatedEnglishLine":"The night three days later――"},{"lineNumber":97052,"originalJapaneseLine":"「……来たわね」","translatedEnglishLine":"\"...You've come.\""},{"lineNumber":97053,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"......\""},{"lineNumber":97054,"originalJapaneseLine":"街の西の森、","translatedEnglishLine":"In the western forest of the town,"},{"lineNumber":97055,"originalJapaneseLine":"闇郭公のもとに闇鷺が姿を見せた。","translatedEnglishLine":"Dark Heron appeared before Dark Cuckoo."},{"lineNumber":97056,"originalJapaneseLine":"「ありがとう、貴方なら","translatedEnglishLine":"\"Thank you, I knew you"},{"lineNumber":97057,"originalJapaneseLine":"　一緒に来てくれると思った」","translatedEnglishLine":"would come with me.\""},{"lineNumber":97058,"originalJapaneseLine":"「さあ、どこに逃げましょうか」","translatedEnglishLine":"\"Now, where shall we run?\""},{"lineNumber":97059,"originalJapaneseLine":"「近づかないで下さい」","translatedEnglishLine":"\"Don't come any closer.\""},{"lineNumber":97060,"originalJapaneseLine":"両手を広げて近づく闇郭公に対し、","translatedEnglishLine":"Dark Cuckoo approached with arms wide open,"},{"lineNumber":97061,"originalJapaneseLine":"闇鷺が武器を構え機先を制した。","translatedEnglishLine":"but Dark Heron took the initiative by drawing her weapon."},{"lineNumber":97062,"originalJapaneseLine":"「……闇の翼の掟は知っていますね？」","translatedEnglishLine":"\"...You know the laws of the Dark Wings, don't you?\""},{"lineNumber":97063,"originalJapaneseLine":"「裏切り者には死を」","translatedEnglishLine":"\"Death to traitors.\""},{"lineNumber":97064,"originalJapaneseLine":"「私と貴方、どちらの方が強いかは","translatedEnglishLine":"\"You know well which of us is stronger—"},{"lineNumber":97065,"originalJapaneseLine":"　分かっているでしょう……","translatedEnglishLine":"—I think you understand that...\""},{"lineNumber":97066,"originalJapaneseLine":"　抵抗は無意味です」","translatedEnglishLine":"\"Resistance is pointless.\""},{"lineNumber":97067,"originalJapaneseLine":"「そんな……私を殺すつもり？","translatedEnglishLine":"\"No way... you intend to kill me?"},{"lineNumber":97068,"originalJapaneseLine":"　貴方が、この私を？」","translatedEnglishLine":"You, killing me?\""},{"lineNumber":97069,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"......\""},{"lineNumber":97070,"originalJapaneseLine":"「動かないで下さい。","translatedEnglishLine":"\"Don't move."},{"lineNumber":97071,"originalJapaneseLine":"　動かなければ……即死させられます」","translatedEnglishLine":"If you don't, I can kill you instantly.\""},{"lineNumber":97072,"originalJapaneseLine":"「……せめて、痛みなく送らせて下さい」","translatedEnglishLine":"\"...At least, let me send you off without pain.\""},{"lineNumber":97073,"originalJapaneseLine":"「そう……」","translatedEnglishLine":"\"I see...\""},{"lineNumber":97074,"originalJapaneseLine":"「…………試験は合格よ、闇鷺」","translatedEnglishLine":"\"...You passed the test, Dark Heron.\""},{"lineNumber":97075,"originalJapaneseLine":"「――ッ！？　ガッ、ハッ！？」","translatedEnglishLine":"\"—!? Gah, hah!?\""},{"lineNumber":97076,"originalJapaneseLine":"音も気配もなく、","translatedEnglishLine":"Without sound or presence,"},{"lineNumber":97077,"originalJapaneseLine":"目にも止まらぬ速度で","translatedEnglishLine":"at a speed too fast to see,"},{"lineNumber":97078,"originalJapaneseLine":"背後に移動した闇郭公が闇鷺の首を掴んできた。","translatedEnglishLine":"Dark Cuckoo moved behind and grabbed Dark Heron's neck."},{"lineNumber":97079,"originalJapaneseLine":"（そんな……この人……！","translatedEnglishLine":"(No way... this person...!)"},{"lineNumber":97080,"originalJapaneseLine":"　今までずっと、実力を、隠し、て……！）","translatedEnglishLine":"All this time, hiding their true strength...!)"},{"lineNumber":97081,"originalJapaneseLine":"首筋にかけられた手の力が、","translatedEnglishLine":"The grip on my neck"},{"lineNumber":97082,"originalJapaneseLine":"万力のようにギリギリと、徐々に強くなる。","translatedEnglishLine":"tightened like a vise, steadily increasing."},{"lineNumber":97083,"originalJapaneseLine":"（ま、まずい、このまま、じゃ……！）","translatedEnglishLine":"(T-this is bad, at this rate...!)"},{"lineNumber":97084,"originalJapaneseLine":"「ごめんなさいね、","translatedEnglishLine":"\"I'm sorry,"},{"lineNumber":97085,"originalJapaneseLine":"　頭領と構成員の間を取り持つ連絡員、闇郭公、","translatedEnglishLine":"Dark Cuckoo, the messenger between the leader and the members,"},{"lineNumber":97086,"originalJapaneseLine":"　それは偽りの姿なの……」","translatedEnglishLine":"is a false identity...\""},{"lineNumber":97087,"originalJapaneseLine":"「……割と気に入っていたけど、","translatedEnglishLine":"\"...I quite liked it, but"},{"lineNumber":97088,"originalJapaneseLine":"　貴方との恋人ごっこも今日でおしまいね」","translatedEnglishLine":"the pretend relationship with you ends today.\""},{"lineNumber":97089,"originalJapaneseLine":"（ご、っ、こ……？）","translatedEnglishLine":"(Pre-tense...?)"},{"lineNumber":97090,"originalJapaneseLine":"「私個人に対して強い情を持ちながら……","translatedEnglishLine":"\"While you harbored strong feelings towards me personally..."}]}}
+{
+    "id": "resp_0e60a12d1b308bd90068f03e7cdc2081959b15c45d3ee26527",
+    "object": "response",
+    "created_at": 1760575100,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0e60a12d1b308bd90068f03e7d85d0819586376d219a888600",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 97041,\n      \"originalJapaneseLine\": \"「今の発言、聞かなかったことにします」\",\n      \"translatedEnglishLine\": \"\\\"I will pretend I didn't hear what you just said.\\\"\"\n    },\n    {\n      \"lineNumber\": 97042,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"......\\\"\"\n    },\n    {\n      \"lineNumber\": 97043,\n      \"originalJapaneseLine\": \"「三日後の夜、西の森で待つわ。\",\n      \"translatedEnglishLine\": \"\\\"I'll wait in the western forest three nights from now.\"\n    },\n    {\n      \"lineNumber\": 97044,\n      \"originalJapaneseLine\": \"　それまでに答えを決めて」\",\n      \"translatedEnglishLine\": \"Decide your answer by then.\\\"\"\n    },\n    {\n      \"lineNumber\": 97045,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"......\\\"\"\n    },\n    {\n      \"lineNumber\": 97046,\n      \"originalJapaneseLine\": \"それから三日間、\",\n      \"translatedEnglishLine\": \"For the next three days,\"\n    },\n    {\n      \"lineNumber\": 97047,\n      \"originalJapaneseLine\": \"闇郭公と闇鷺はアサシンとは思えぬ、\",\n      \"translatedEnglishLine\": \"Dark Cuckoo and Dark Heron, unthinkable as assassins,\"\n    },\n    {\n      \"lineNumber\": 97048,\n      \"originalJapaneseLine\": \"穏やかな日々を――恋人として過ごした。\",\n      \"translatedEnglishLine\": \"spent peaceful days—as lovers.\"\n    },\n    {\n      \"lineNumber\": 97049,\n      \"originalJapaneseLine\": \"…………\",\n      \"translatedEnglishLine\": \"......\"\n    },\n    {\n      \"lineNumber\": 97050,\n      \"originalJapaneseLine\": \"……\",\n      \"translatedEnglishLine\": \"...\"\n    },\n    {\n      \"lineNumber\": 97051,\n      \"originalJapaneseLine\": \"三日後の夜――\",\n      \"translatedEnglishLine\": \"The night three days later――\"\n    },\n    {\n      \"lineNumber\": 97052,\n      \"originalJapaneseLine\": \"「……来たわね」\",\n      \"translatedEnglishLine\": \"\\\"...You've come.\\\"\"\n    },\n    {\n      \"lineNumber\": 97053,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"......\\\"\"\n    },\n    {\n      \"lineNumber\": 97054,\n      \"originalJapaneseLine\": \"街の西の森、\",\n      \"translatedEnglishLine\": \"In the western forest of the town,\"\n    },\n    {\n      \"lineNumber\": 97055,\n      \"originalJapaneseLine\": \"闇郭公のもとに闇鷺が姿を見せた。\",\n      \"translatedEnglishLine\": \"Dark Heron appeared before Dark Cuckoo.\"\n    },\n    {\n      \"lineNumber\": 97056,\n      \"originalJapaneseLine\": \"「ありがとう、貴方なら\",\n      \"translatedEnglishLine\": \"\\\"Thank you, I knew you\"\n    },\n    {\n      \"lineNumber\": 97057,\n      \"originalJapaneseLine\": \"　一緒に来てくれると思った」\",\n      \"translatedEnglishLine\": \"would come with me.\\\"\"\n    },\n    {\n      \"lineNumber\": 97058,\n      \"originalJapaneseLine\": \"「さあ、どこに逃げましょうか」\",\n      \"translatedEnglishLine\": \"\\\"Now, where shall we run?\\\"\"\n    },\n    {\n      \"lineNumber\": 97059,\n      \"originalJapaneseLine\": \"「近づかないで下さい」\",\n      \"translatedEnglishLine\": \"\\\"Don't come any closer.\\\"\"\n    },\n    {\n      \"lineNumber\": 97060,\n      \"originalJapaneseLine\": \"両手を広げて近づく闇郭公に対し、\",\n      \"translatedEnglishLine\": \"Dark Cuckoo approached with arms wide open,\"\n    },\n    {\n      \"lineNumber\": 97061,\n      \"originalJapaneseLine\": \"闇鷺が武器を構え機先を制した。\",\n      \"translatedEnglishLine\": \"but Dark Heron took the initiative by drawing her weapon.\"\n    },\n    {\n      \"lineNumber\": 97062,\n      \"originalJapaneseLine\": \"「……闇の翼の掟は知っていますね？」\",\n      \"translatedEnglishLine\": \"\\\"...You know the laws of the Dark Wings, don't you?\\\"\"\n    },\n    {\n      \"lineNumber\": 97063,\n      \"originalJapaneseLine\": \"「裏切り者には死を」\",\n      \"translatedEnglishLine\": \"\\\"Death to traitors.\\\"\"\n    },\n    {\n      \"lineNumber\": 97064,\n      \"originalJapaneseLine\": \"「私と貴方、どちらの方が強いかは\",\n      \"translatedEnglishLine\": \"\\\"You know well which of us is stronger—\"\n    },\n    {\n      \"lineNumber\": 97065,\n      \"originalJapaneseLine\": \"　分かっているでしょう……\",\n      \"translatedEnglishLine\": \"—I think you understand that...\\\"\"\n    },\n    {\n      \"lineNumber\": 97066,\n      \"originalJapaneseLine\": \"　抵抗は無意味です」\",\n      \"translatedEnglishLine\": \"\\\"Resistance is pointless.\\\"\"\n    },\n    {\n      \"lineNumber\": 97067,\n      \"originalJapaneseLine\": \"「そんな……私を殺すつもり？\",\n      \"translatedEnglishLine\": \"\\\"No way... you intend to kill me?\"\n    },\n    {\n      \"lineNumber\": 97068,\n      \"originalJapaneseLine\": \"　貴方が、この私を？」\",\n      \"translatedEnglishLine\": \"You, killing me?\\\"\"\n    },\n    {\n      \"lineNumber\": 97069,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"......\\\"\"\n    },\n    {\n      \"lineNumber\": 97070,\n      \"originalJapaneseLine\": \"「動かないで下さい。\",\n      \"translatedEnglishLine\": \"\\\"Don't move.\"\n    },\n    {\n      \"lineNumber\": 97071,\n      \"originalJapaneseLine\": \"　動かなければ……即死させられます」\",\n      \"translatedEnglishLine\": \"If you don't, I can kill you instantly.\\\"\"\n    },\n    {\n      \"lineNumber\": 97072,\n      \"originalJapaneseLine\": \"「……せめて、痛みなく送らせて下さい」\",\n      \"translatedEnglishLine\": \"\\\"...At least, let me send you off without pain.\\\"\"\n    },\n    {\n      \"lineNumber\": 97073,\n      \"originalJapaneseLine\": \"「そう……」\",\n      \"translatedEnglishLine\": \"\\\"I see...\\\"\"\n    },\n    {\n      \"lineNumber\": 97074,\n      \"originalJapaneseLine\": \"「…………試験は合格よ、闇鷺」\",\n      \"translatedEnglishLine\": \"\\\"...You passed the test, Dark Heron.\\\"\"\n    },\n    {\n      \"lineNumber\": 97075,\n      \"originalJapaneseLine\": \"「――ッ！？　ガッ、ハッ！？」\",\n      \"translatedEnglishLine\": \"\\\"—!? Gah, hah!?\\\"\"\n    },\n    {\n      \"lineNumber\": 97076,\n      \"originalJapaneseLine\": \"音も気配もなく、\",\n      \"translatedEnglishLine\": \"Without sound or presence,\"\n    },\n    {\n      \"lineNumber\": 97077,\n      \"originalJapaneseLine\": \"目にも止まらぬ速度で\",\n      \"translatedEnglishLine\": \"at a speed too fast to see,\"\n    },\n    {\n      \"lineNumber\": 97078,\n      \"originalJapaneseLine\": \"背後に移動した闇郭公が闇鷺の首を掴んできた。\",\n      \"translatedEnglishLine\": \"Dark Cuckoo moved behind and grabbed Dark Heron's neck.\"\n    },\n    {\n      \"lineNumber\": 97079,\n      \"originalJapaneseLine\": \"（そんな……この人……！\",\n      \"translatedEnglishLine\": \"(No way... this person...!)\"\n    },\n    {\n      \"lineNumber\": 97080,\n      \"originalJapaneseLine\": \"　今までずっと、実力を、隠し、て……！）\",\n      \"translatedEnglishLine\": \"All this time, hiding their true strength...!)\"\n    },\n    {\n      \"lineNumber\": 97081,\n      \"originalJapaneseLine\": \"首筋にかけられた手の力が、\",\n      \"translatedEnglishLine\": \"The grip on my neck\"\n    },\n    {\n      \"lineNumber\": 97082,\n      \"originalJapaneseLine\": \"万力のようにギリギリと、徐々に強くなる。\",\n      \"translatedEnglishLine\": \"tightened like a vise, steadily increasing.\"\n    },\n    {\n      \"lineNumber\": 97083,\n      \"originalJapaneseLine\": \"（ま、まずい、このまま、じゃ……！）\",\n      \"translatedEnglishLine\": \"(T-this is bad, at this rate...!)\"\n    },\n    {\n      \"lineNumber\": 97084,\n      \"originalJapaneseLine\": \"「ごめんなさいね、\",\n      \"translatedEnglishLine\": \"\\\"I'm sorry,\"\n    },\n    {\n      \"lineNumber\": 97085,\n      \"originalJapaneseLine\": \"　頭領と構成員の間を取り持つ連絡員、闇郭公、\",\n      \"translatedEnglishLine\": \"Dark Cuckoo, the messenger between the leader and the members,\"\n    },\n    {\n      \"lineNumber\": 97086,\n      \"originalJapaneseLine\": \"　それは偽りの姿なの……」\",\n      \"translatedEnglishLine\": \"is a false identity...\\\"\"\n    },\n    {\n      \"lineNumber\": 97087,\n      \"originalJapaneseLine\": \"「……割と気に入っていたけど、\",\n      \"translatedEnglishLine\": \"\\\"...I quite liked it, but\"\n    },\n    {\n      \"lineNumber\": 97088,\n      \"originalJapaneseLine\": \"　貴方との恋人ごっこも今日でおしまいね」\",\n      \"translatedEnglishLine\": \"the pretend relationship with you ends today.\\\"\"\n    },\n    {\n      \"lineNumber\": 97089,\n      \"originalJapaneseLine\": \"（ご、っ、こ……？）\",\n      \"translatedEnglishLine\": \"(Pre-tense...?)\"\n    },\n    {\n      \"lineNumber\": 97090,\n      \"originalJapaneseLine\": \"「私個人に対して強い情を持ちながら……\",\n      \"translatedEnglishLine\": \"\\\"While you harbored strong feelings towards me personally...\"\n    }\n  ]\n}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 97041,
+                                "originalJapaneseLine": "「今の発言、聞かなかったことにします」",
+                                "translatedEnglishLine": "\"I will pretend I didn't hear what you just said.\""
+                            },
+                            {
+                                "lineNumber": 97042,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"......\""
+                            },
+                            {
+                                "lineNumber": 97043,
+                                "originalJapaneseLine": "「三日後の夜、西の森で待つわ。",
+                                "translatedEnglishLine": "\"I'll wait in the western forest three nights from now."
+                            },
+                            {
+                                "lineNumber": 97044,
+                                "originalJapaneseLine": "　それまでに答えを決めて」",
+                                "translatedEnglishLine": "Decide your answer by then.\""
+                            },
+                            {
+                                "lineNumber": 97045,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"......\""
+                            },
+                            {
+                                "lineNumber": 97046,
+                                "originalJapaneseLine": "それから三日間、",
+                                "translatedEnglishLine": "For the next three days,"
+                            },
+                            {
+                                "lineNumber": 97047,
+                                "originalJapaneseLine": "闇郭公と闇鷺はアサシンとは思えぬ、",
+                                "translatedEnglishLine": "Dark Cuckoo and Dark Heron, unthinkable as assassins,"
+                            },
+                            {
+                                "lineNumber": 97048,
+                                "originalJapaneseLine": "穏やかな日々を――恋人として過ごした。",
+                                "translatedEnglishLine": "spent peaceful days—as lovers."
+                            },
+                            {
+                                "lineNumber": 97049,
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "......"
+                            },
+                            {
+                                "lineNumber": 97050,
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": 97051,
+                                "originalJapaneseLine": "三日後の夜――",
+                                "translatedEnglishLine": "The night three days later――"
+                            },
+                            {
+                                "lineNumber": 97052,
+                                "originalJapaneseLine": "「……来たわね」",
+                                "translatedEnglishLine": "\"...You've come.\""
+                            },
+                            {
+                                "lineNumber": 97053,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"......\""
+                            },
+                            {
+                                "lineNumber": 97054,
+                                "originalJapaneseLine": "街の西の森、",
+                                "translatedEnglishLine": "In the western forest of the town,"
+                            },
+                            {
+                                "lineNumber": 97055,
+                                "originalJapaneseLine": "闇郭公のもとに闇鷺が姿を見せた。",
+                                "translatedEnglishLine": "Dark Heron appeared before Dark Cuckoo."
+                            },
+                            {
+                                "lineNumber": 97056,
+                                "originalJapaneseLine": "「ありがとう、貴方なら",
+                                "translatedEnglishLine": "\"Thank you, I knew you"
+                            },
+                            {
+                                "lineNumber": 97057,
+                                "originalJapaneseLine": "　一緒に来てくれると思った」",
+                                "translatedEnglishLine": "would come with me.\""
+                            },
+                            {
+                                "lineNumber": 97058,
+                                "originalJapaneseLine": "「さあ、どこに逃げましょうか」",
+                                "translatedEnglishLine": "\"Now, where shall we run?\""
+                            },
+                            {
+                                "lineNumber": 97059,
+                                "originalJapaneseLine": "「近づかないで下さい」",
+                                "translatedEnglishLine": "\"Don't come any closer.\""
+                            },
+                            {
+                                "lineNumber": 97060,
+                                "originalJapaneseLine": "両手を広げて近づく闇郭公に対し、",
+                                "translatedEnglishLine": "Dark Cuckoo approached with arms wide open,"
+                            },
+                            {
+                                "lineNumber": 97061,
+                                "originalJapaneseLine": "闇鷺が武器を構え機先を制した。",
+                                "translatedEnglishLine": "but Dark Heron took the initiative by drawing her weapon."
+                            },
+                            {
+                                "lineNumber": 97062,
+                                "originalJapaneseLine": "「……闇の翼の掟は知っていますね？」",
+                                "translatedEnglishLine": "\"...You know the laws of the Dark Wings, don't you?\""
+                            },
+                            {
+                                "lineNumber": 97063,
+                                "originalJapaneseLine": "「裏切り者には死を」",
+                                "translatedEnglishLine": "\"Death to traitors.\""
+                            },
+                            {
+                                "lineNumber": 97064,
+                                "originalJapaneseLine": "「私と貴方、どちらの方が強いかは",
+                                "translatedEnglishLine": "\"You know well which of us is stronger—"
+                            },
+                            {
+                                "lineNumber": 97065,
+                                "originalJapaneseLine": "　分かっているでしょう……",
+                                "translatedEnglishLine": "—I think you understand that...\""
+                            },
+                            {
+                                "lineNumber": 97066,
+                                "originalJapaneseLine": "　抵抗は無意味です」",
+                                "translatedEnglishLine": "\"Resistance is pointless.\""
+                            },
+                            {
+                                "lineNumber": 97067,
+                                "originalJapaneseLine": "「そんな……私を殺すつもり？",
+                                "translatedEnglishLine": "\"No way... you intend to kill me?"
+                            },
+                            {
+                                "lineNumber": 97068,
+                                "originalJapaneseLine": "　貴方が、この私を？」",
+                                "translatedEnglishLine": "You, killing me?\""
+                            },
+                            {
+                                "lineNumber": 97069,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"......\""
+                            },
+                            {
+                                "lineNumber": 97070,
+                                "originalJapaneseLine": "「動かないで下さい。",
+                                "translatedEnglishLine": "\"Don't move."
+                            },
+                            {
+                                "lineNumber": 97071,
+                                "originalJapaneseLine": "　動かなければ……即死させられます」",
+                                "translatedEnglishLine": "If you don't, I can kill you instantly.\""
+                            },
+                            {
+                                "lineNumber": 97072,
+                                "originalJapaneseLine": "「……せめて、痛みなく送らせて下さい」",
+                                "translatedEnglishLine": "\"...At least, let me send you off without pain.\""
+                            },
+                            {
+                                "lineNumber": 97073,
+                                "originalJapaneseLine": "「そう……」",
+                                "translatedEnglishLine": "\"I see...\""
+                            },
+                            {
+                                "lineNumber": 97074,
+                                "originalJapaneseLine": "「…………試験は合格よ、闇鷺」",
+                                "translatedEnglishLine": "\"...You passed the test, Dark Heron.\""
+                            },
+                            {
+                                "lineNumber": 97075,
+                                "originalJapaneseLine": "「――ッ！？　ガッ、ハッ！？」",
+                                "translatedEnglishLine": "\"—!? Gah, hah!?\""
+                            },
+                            {
+                                "lineNumber": 97076,
+                                "originalJapaneseLine": "音も気配もなく、",
+                                "translatedEnglishLine": "Without sound or presence,"
+                            },
+                            {
+                                "lineNumber": 97077,
+                                "originalJapaneseLine": "目にも止まらぬ速度で",
+                                "translatedEnglishLine": "at a speed too fast to see,"
+                            },
+                            {
+                                "lineNumber": 97078,
+                                "originalJapaneseLine": "背後に移動した闇郭公が闇鷺の首を掴んできた。",
+                                "translatedEnglishLine": "Dark Cuckoo moved behind and grabbed Dark Heron's neck."
+                            },
+                            {
+                                "lineNumber": 97079,
+                                "originalJapaneseLine": "（そんな……この人……！",
+                                "translatedEnglishLine": "(No way... this person...!)"
+                            },
+                            {
+                                "lineNumber": 97080,
+                                "originalJapaneseLine": "　今までずっと、実力を、隠し、て……！）",
+                                "translatedEnglishLine": "All this time, hiding their true strength...!)"
+                            },
+                            {
+                                "lineNumber": 97081,
+                                "originalJapaneseLine": "首筋にかけられた手の力が、",
+                                "translatedEnglishLine": "The grip on my neck"
+                            },
+                            {
+                                "lineNumber": 97082,
+                                "originalJapaneseLine": "万力のようにギリギリと、徐々に強くなる。",
+                                "translatedEnglishLine": "tightened like a vise, steadily increasing."
+                            },
+                            {
+                                "lineNumber": 97083,
+                                "originalJapaneseLine": "（ま、まずい、このまま、じゃ……！）",
+                                "translatedEnglishLine": "(T-this is bad, at this rate...!)"
+                            },
+                            {
+                                "lineNumber": 97084,
+                                "originalJapaneseLine": "「ごめんなさいね、",
+                                "translatedEnglishLine": "\"I'm sorry,"
+                            },
+                            {
+                                "lineNumber": 97085,
+                                "originalJapaneseLine": "　頭領と構成員の間を取り持つ連絡員、闇郭公、",
+                                "translatedEnglishLine": "Dark Cuckoo, the messenger between the leader and the members,"
+                            },
+                            {
+                                "lineNumber": 97086,
+                                "originalJapaneseLine": "　それは偽りの姿なの……」",
+                                "translatedEnglishLine": "is a false identity...\""
+                            },
+                            {
+                                "lineNumber": 97087,
+                                "originalJapaneseLine": "「……割と気に入っていたけど、",
+                                "translatedEnglishLine": "\"...I quite liked it, but"
+                            },
+                            {
+                                "lineNumber": 97088,
+                                "originalJapaneseLine": "　貴方との恋人ごっこも今日でおしまいね」",
+                                "translatedEnglishLine": "the pretend relationship with you ends today.\""
+                            },
+                            {
+                                "lineNumber": 97089,
+                                "originalJapaneseLine": "（ご、っ、こ……？）",
+                                "translatedEnglishLine": "(Pre-tense...?)"
+                            },
+                            {
+                                "lineNumber": 97090,
+                                "originalJapaneseLine": "「私個人に対して強い情を持ちながら……",
+                                "translatedEnglishLine": "\"While you harbored strong feelings towards me personally..."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1409,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2347,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3756
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 97041,\n      \"originalJapaneseLine\": \"「今の発言、聞かなかったことにします」\",\n      \"translatedEnglishLine\": \"\\\"I will pretend I didn't hear what you just said.\\\"\"\n    },\n    {\n      \"lineNumber\": 97042,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"......\\\"\"\n    },\n    {\n      \"lineNumber\": 97043,\n      \"originalJapaneseLine\": \"「三日後の夜、西の森で待つわ。\",\n      \"translatedEnglishLine\": \"\\\"I'll wait in the western forest three nights from now.\"\n    },\n    {\n      \"lineNumber\": 97044,\n      \"originalJapaneseLine\": \"　それまでに答えを決めて」\",\n      \"translatedEnglishLine\": \"Decide your answer by then.\\\"\"\n    },\n    {\n      \"lineNumber\": 97045,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"......\\\"\"\n    },\n    {\n      \"lineNumber\": 97046,\n      \"originalJapaneseLine\": \"それから三日間、\",\n      \"translatedEnglishLine\": \"For the next three days,\"\n    },\n    {\n      \"lineNumber\": 97047,\n      \"originalJapaneseLine\": \"闇郭公と闇鷺はアサシンとは思えぬ、\",\n      \"translatedEnglishLine\": \"Dark Cuckoo and Dark Heron, unthinkable as assassins,\"\n    },\n    {\n      \"lineNumber\": 97048,\n      \"originalJapaneseLine\": \"穏やかな日々を――恋人として過ごした。\",\n      \"translatedEnglishLine\": \"spent peaceful days—as lovers.\"\n    },\n    {\n      \"lineNumber\": 97049,\n      \"originalJapaneseLine\": \"…………\",\n      \"translatedEnglishLine\": \"......\"\n    },\n    {\n      \"lineNumber\": 97050,\n      \"originalJapaneseLine\": \"……\",\n      \"translatedEnglishLine\": \"...\"\n    },\n    {\n      \"lineNumber\": 97051,\n      \"originalJapaneseLine\": \"三日後の夜――\",\n      \"translatedEnglishLine\": \"The night three days later――\"\n    },\n    {\n      \"lineNumber\": 97052,\n      \"originalJapaneseLine\": \"「……来たわね」\",\n      \"translatedEnglishLine\": \"\\\"...You've come.\\\"\"\n    },\n    {\n      \"lineNumber\": 97053,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"......\\\"\"\n    },\n    {\n      \"lineNumber\": 97054,\n      \"originalJapaneseLine\": \"街の西の森、\",\n      \"translatedEnglishLine\": \"In the western forest of the town,\"\n    },\n    {\n      \"lineNumber\": 97055,\n      \"originalJapaneseLine\": \"闇郭公のもとに闇鷺が姿を見せた。\",\n      \"translatedEnglishLine\": \"Dark Heron appeared before Dark Cuckoo.\"\n    },\n    {\n      \"lineNumber\": 97056,\n      \"originalJapaneseLine\": \"「ありがとう、貴方なら\",\n      \"translatedEnglishLine\": \"\\\"Thank you, I knew you\"\n    },\n    {\n      \"lineNumber\": 97057,\n      \"originalJapaneseLine\": \"　一緒に来てくれると思った」\",\n      \"translatedEnglishLine\": \"would come with me.\\\"\"\n    },\n    {\n      \"lineNumber\": 97058,\n      \"originalJapaneseLine\": \"「さあ、どこに逃げましょうか」\",\n      \"translatedEnglishLine\": \"\\\"Now, where shall we run?\\\"\"\n    },\n    {\n      \"lineNumber\": 97059,\n      \"originalJapaneseLine\": \"「近づかないで下さい」\",\n      \"translatedEnglishLine\": \"\\\"Don't come any closer.\\\"\"\n    },\n    {\n      \"lineNumber\": 97060,\n      \"originalJapaneseLine\": \"両手を広げて近づく闇郭公に対し、\",\n      \"translatedEnglishLine\": \"Dark Cuckoo approached with arms wide open,\"\n    },\n    {\n      \"lineNumber\": 97061,\n      \"originalJapaneseLine\": \"闇鷺が武器を構え機先を制した。\",\n      \"translatedEnglishLine\": \"but Dark Heron took the initiative by drawing her weapon.\"\n    },\n    {\n      \"lineNumber\": 97062,\n      \"originalJapaneseLine\": \"「……闇の翼の掟は知っていますね？」\",\n      \"translatedEnglishLine\": \"\\\"...You know the laws of the Dark Wings, don't you?\\\"\"\n    },\n    {\n      \"lineNumber\": 97063,\n      \"originalJapaneseLine\": \"「裏切り者には死を」\",\n      \"translatedEnglishLine\": \"\\\"Death to traitors.\\\"\"\n    },\n    {\n      \"lineNumber\": 97064,\n      \"originalJapaneseLine\": \"「私と貴方、どちらの方が強いかは\",\n      \"translatedEnglishLine\": \"\\\"You know well which of us is stronger—\"\n    },\n    {\n      \"lineNumber\": 97065,\n      \"originalJapaneseLine\": \"　分かっているでしょう……\",\n      \"translatedEnglishLine\": \"—I think you understand that...\\\"\"\n    },\n    {\n      \"lineNumber\": 97066,\n      \"originalJapaneseLine\": \"　抵抗は無意味です」\",\n      \"translatedEnglishLine\": \"\\\"Resistance is pointless.\\\"\"\n    },\n    {\n      \"lineNumber\": 97067,\n      \"originalJapaneseLine\": \"「そんな……私を殺すつもり？\",\n      \"translatedEnglishLine\": \"\\\"No way... you intend to kill me?\"\n    },\n    {\n      \"lineNumber\": 97068,\n      \"originalJapaneseLine\": \"　貴方が、この私を？」\",\n      \"translatedEnglishLine\": \"You, killing me?\\\"\"\n    },\n    {\n      \"lineNumber\": 97069,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"......\\\"\"\n    },\n    {\n      \"lineNumber\": 97070,\n      \"originalJapaneseLine\": \"「動かないで下さい。\",\n      \"translatedEnglishLine\": \"\\\"Don't move.\"\n    },\n    {\n      \"lineNumber\": 97071,\n      \"originalJapaneseLine\": \"　動かなければ……即死させられます」\",\n      \"translatedEnglishLine\": \"If you don't, I can kill you instantly.\\\"\"\n    },\n    {\n      \"lineNumber\": 97072,\n      \"originalJapaneseLine\": \"「……せめて、痛みなく送らせて下さい」\",\n      \"translatedEnglishLine\": \"\\\"...At least, let me send you off without pain.\\\"\"\n    },\n    {\n      \"lineNumber\": 97073,\n      \"originalJapaneseLine\": \"「そう……」\",\n      \"translatedEnglishLine\": \"\\\"I see...\\\"\"\n    },\n    {\n      \"lineNumber\": 97074,\n      \"originalJapaneseLine\": \"「…………試験は合格よ、闇鷺」\",\n      \"translatedEnglishLine\": \"\\\"...You passed the test, Dark Heron.\\\"\"\n    },\n    {\n      \"lineNumber\": 97075,\n      \"originalJapaneseLine\": \"「――ッ！？　ガッ、ハッ！？」\",\n      \"translatedEnglishLine\": \"\\\"—!? Gah, hah!?\\\"\"\n    },\n    {\n      \"lineNumber\": 97076,\n      \"originalJapaneseLine\": \"音も気配もなく、\",\n      \"translatedEnglishLine\": \"Without sound or presence,\"\n    },\n    {\n      \"lineNumber\": 97077,\n      \"originalJapaneseLine\": \"目にも止まらぬ速度で\",\n      \"translatedEnglishLine\": \"at a speed too fast to see,\"\n    },\n    {\n      \"lineNumber\": 97078,\n      \"originalJapaneseLine\": \"背後に移動した闇郭公が闇鷺の首を掴んできた。\",\n      \"translatedEnglishLine\": \"Dark Cuckoo moved behind and grabbed Dark Heron's neck.\"\n    },\n    {\n      \"lineNumber\": 97079,\n      \"originalJapaneseLine\": \"（そんな……この人……！\",\n      \"translatedEnglishLine\": \"(No way... this person...!)\"\n    },\n    {\n      \"lineNumber\": 97080,\n      \"originalJapaneseLine\": \"　今までずっと、実力を、隠し、て……！）\",\n      \"translatedEnglishLine\": \"All this time, hiding their true strength...!)\"\n    },\n    {\n      \"lineNumber\": 97081,\n      \"originalJapaneseLine\": \"首筋にかけられた手の力が、\",\n      \"translatedEnglishLine\": \"The grip on my neck\"\n    },\n    {\n      \"lineNumber\": 97082,\n      \"originalJapaneseLine\": \"万力のようにギリギリと、徐々に強くなる。\",\n      \"translatedEnglishLine\": \"tightened like a vise, steadily increasing.\"\n    },\n    {\n      \"lineNumber\": 97083,\n      \"originalJapaneseLine\": \"（ま、まずい、このまま、じゃ……！）\",\n      \"translatedEnglishLine\": \"(T-this is bad, at this rate...!)\"\n    },\n    {\n      \"lineNumber\": 97084,\n      \"originalJapaneseLine\": \"「ごめんなさいね、\",\n      \"translatedEnglishLine\": \"\\\"I'm sorry,\"\n    },\n    {\n      \"lineNumber\": 97085,\n      \"originalJapaneseLine\": \"　頭領と構成員の間を取り持つ連絡員、闇郭公、\",\n      \"translatedEnglishLine\": \"Dark Cuckoo, the messenger between the leader and the members,\"\n    },\n    {\n      \"lineNumber\": 97086,\n      \"originalJapaneseLine\": \"　それは偽りの姿なの……」\",\n      \"translatedEnglishLine\": \"is a false identity...\\\"\"\n    },\n    {\n      \"lineNumber\": 97087,\n      \"originalJapaneseLine\": \"「……割と気に入っていたけど、\",\n      \"translatedEnglishLine\": \"\\\"...I quite liked it, but\"\n    },\n    {\n      \"lineNumber\": 97088,\n      \"originalJapaneseLine\": \"　貴方との恋人ごっこも今日でおしまいね」\",\n      \"translatedEnglishLine\": \"the pretend relationship with you ends today.\\\"\"\n    },\n    {\n      \"lineNumber\": 97089,\n      \"originalJapaneseLine\": \"（ご、っ、こ……？）\",\n      \"translatedEnglishLine\": \"(Pre-tense...?)\"\n    },\n    {\n      \"lineNumber\": 97090,\n      \"originalJapaneseLine\": \"「私個人に対して強い情を持ちながら……\",\n      \"translatedEnglishLine\": \"\\\"While you harbored strong feelings towards me personally...\"\n    }\n  ]\n}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 97041,
+                "originalJapaneseLine": "「今の発言、聞かなかったことにします」",
+                "translatedEnglishLine": "\"I will pretend I didn't hear what you just said.\""
+            },
+            {
+                "lineNumber": 97042,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"......\""
+            },
+            {
+                "lineNumber": 97043,
+                "originalJapaneseLine": "「三日後の夜、西の森で待つわ。",
+                "translatedEnglishLine": "\"I'll wait in the western forest three nights from now."
+            },
+            {
+                "lineNumber": 97044,
+                "originalJapaneseLine": "　それまでに答えを決めて」",
+                "translatedEnglishLine": "Decide your answer by then.\""
+            },
+            {
+                "lineNumber": 97045,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"......\""
+            },
+            {
+                "lineNumber": 97046,
+                "originalJapaneseLine": "それから三日間、",
+                "translatedEnglishLine": "For the next three days,"
+            },
+            {
+                "lineNumber": 97047,
+                "originalJapaneseLine": "闇郭公と闇鷺はアサシンとは思えぬ、",
+                "translatedEnglishLine": "Dark Cuckoo and Dark Heron, unthinkable as assassins,"
+            },
+            {
+                "lineNumber": 97048,
+                "originalJapaneseLine": "穏やかな日々を――恋人として過ごした。",
+                "translatedEnglishLine": "spent peaceful days—as lovers."
+            },
+            {
+                "lineNumber": 97049,
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "......"
+            },
+            {
+                "lineNumber": 97050,
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": 97051,
+                "originalJapaneseLine": "三日後の夜――",
+                "translatedEnglishLine": "The night three days later――"
+            },
+            {
+                "lineNumber": 97052,
+                "originalJapaneseLine": "「……来たわね」",
+                "translatedEnglishLine": "\"...You've come.\""
+            },
+            {
+                "lineNumber": 97053,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"......\""
+            },
+            {
+                "lineNumber": 97054,
+                "originalJapaneseLine": "街の西の森、",
+                "translatedEnglishLine": "In the western forest of the town,"
+            },
+            {
+                "lineNumber": 97055,
+                "originalJapaneseLine": "闇郭公のもとに闇鷺が姿を見せた。",
+                "translatedEnglishLine": "Dark Heron appeared before Dark Cuckoo."
+            },
+            {
+                "lineNumber": 97056,
+                "originalJapaneseLine": "「ありがとう、貴方なら",
+                "translatedEnglishLine": "\"Thank you, I knew you"
+            },
+            {
+                "lineNumber": 97057,
+                "originalJapaneseLine": "　一緒に来てくれると思った」",
+                "translatedEnglishLine": "would come with me.\""
+            },
+            {
+                "lineNumber": 97058,
+                "originalJapaneseLine": "「さあ、どこに逃げましょうか」",
+                "translatedEnglishLine": "\"Now, where shall we run?\""
+            },
+            {
+                "lineNumber": 97059,
+                "originalJapaneseLine": "「近づかないで下さい」",
+                "translatedEnglishLine": "\"Don't come any closer.\""
+            },
+            {
+                "lineNumber": 97060,
+                "originalJapaneseLine": "両手を広げて近づく闇郭公に対し、",
+                "translatedEnglishLine": "Dark Cuckoo approached with arms wide open,"
+            },
+            {
+                "lineNumber": 97061,
+                "originalJapaneseLine": "闇鷺が武器を構え機先を制した。",
+                "translatedEnglishLine": "but Dark Heron took the initiative by drawing her weapon."
+            },
+            {
+                "lineNumber": 97062,
+                "originalJapaneseLine": "「……闇の翼の掟は知っていますね？」",
+                "translatedEnglishLine": "\"...You know the laws of the Dark Wings, don't you?\""
+            },
+            {
+                "lineNumber": 97063,
+                "originalJapaneseLine": "「裏切り者には死を」",
+                "translatedEnglishLine": "\"Death to traitors.\""
+            },
+            {
+                "lineNumber": 97064,
+                "originalJapaneseLine": "「私と貴方、どちらの方が強いかは",
+                "translatedEnglishLine": "\"You know well which of us is stronger—"
+            },
+            {
+                "lineNumber": 97065,
+                "originalJapaneseLine": "　分かっているでしょう……",
+                "translatedEnglishLine": "—I think you understand that...\""
+            },
+            {
+                "lineNumber": 97066,
+                "originalJapaneseLine": "　抵抗は無意味です」",
+                "translatedEnglishLine": "\"Resistance is pointless.\""
+            },
+            {
+                "lineNumber": 97067,
+                "originalJapaneseLine": "「そんな……私を殺すつもり？",
+                "translatedEnglishLine": "\"No way... you intend to kill me?"
+            },
+            {
+                "lineNumber": 97068,
+                "originalJapaneseLine": "　貴方が、この私を？」",
+                "translatedEnglishLine": "You, killing me?\""
+            },
+            {
+                "lineNumber": 97069,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"......\""
+            },
+            {
+                "lineNumber": 97070,
+                "originalJapaneseLine": "「動かないで下さい。",
+                "translatedEnglishLine": "\"Don't move."
+            },
+            {
+                "lineNumber": 97071,
+                "originalJapaneseLine": "　動かなければ……即死させられます」",
+                "translatedEnglishLine": "If you don't, I can kill you instantly.\""
+            },
+            {
+                "lineNumber": 97072,
+                "originalJapaneseLine": "「……せめて、痛みなく送らせて下さい」",
+                "translatedEnglishLine": "\"...At least, let me send you off without pain.\""
+            },
+            {
+                "lineNumber": 97073,
+                "originalJapaneseLine": "「そう……」",
+                "translatedEnglishLine": "\"I see...\""
+            },
+            {
+                "lineNumber": 97074,
+                "originalJapaneseLine": "「…………試験は合格よ、闇鷺」",
+                "translatedEnglishLine": "\"...You passed the test, Dark Heron.\""
+            },
+            {
+                "lineNumber": 97075,
+                "originalJapaneseLine": "「――ッ！？　ガッ、ハッ！？」",
+                "translatedEnglishLine": "\"—!? Gah, hah!?\""
+            },
+            {
+                "lineNumber": 97076,
+                "originalJapaneseLine": "音も気配もなく、",
+                "translatedEnglishLine": "Without sound or presence,"
+            },
+            {
+                "lineNumber": 97077,
+                "originalJapaneseLine": "目にも止まらぬ速度で",
+                "translatedEnglishLine": "at a speed too fast to see,"
+            },
+            {
+                "lineNumber": 97078,
+                "originalJapaneseLine": "背後に移動した闇郭公が闇鷺の首を掴んできた。",
+                "translatedEnglishLine": "Dark Cuckoo moved behind and grabbed Dark Heron's neck."
+            },
+            {
+                "lineNumber": 97079,
+                "originalJapaneseLine": "（そんな……この人……！",
+                "translatedEnglishLine": "(No way... this person...!)"
+            },
+            {
+                "lineNumber": 97080,
+                "originalJapaneseLine": "　今までずっと、実力を、隠し、て……！）",
+                "translatedEnglishLine": "All this time, hiding their true strength...!)"
+            },
+            {
+                "lineNumber": 97081,
+                "originalJapaneseLine": "首筋にかけられた手の力が、",
+                "translatedEnglishLine": "The grip on my neck"
+            },
+            {
+                "lineNumber": 97082,
+                "originalJapaneseLine": "万力のようにギリギリと、徐々に強くなる。",
+                "translatedEnglishLine": "tightened like a vise, steadily increasing."
+            },
+            {
+                "lineNumber": 97083,
+                "originalJapaneseLine": "（ま、まずい、このまま、じゃ……！）",
+                "translatedEnglishLine": "(T-this is bad, at this rate...!)"
+            },
+            {
+                "lineNumber": 97084,
+                "originalJapaneseLine": "「ごめんなさいね、",
+                "translatedEnglishLine": "\"I'm sorry,"
+            },
+            {
+                "lineNumber": 97085,
+                "originalJapaneseLine": "　頭領と構成員の間を取り持つ連絡員、闇郭公、",
+                "translatedEnglishLine": "Dark Cuckoo, the messenger between the leader and the members,"
+            },
+            {
+                "lineNumber": 97086,
+                "originalJapaneseLine": "　それは偽りの姿なの……」",
+                "translatedEnglishLine": "is a false identity...\""
+            },
+            {
+                "lineNumber": 97087,
+                "originalJapaneseLine": "「……割と気に入っていたけど、",
+                "translatedEnglishLine": "\"...I quite liked it, but"
+            },
+            {
+                "lineNumber": 97088,
+                "originalJapaneseLine": "　貴方との恋人ごっこも今日でおしまいね」",
+                "translatedEnglishLine": "the pretend relationship with you ends today.\""
+            },
+            {
+                "lineNumber": 97089,
+                "originalJapaneseLine": "（ご、っ、こ……？）",
+                "translatedEnglishLine": "(Pre-tense...?)"
+            },
+            {
+                "lineNumber": 97090,
+                "originalJapaneseLine": "「私個人に対して強い情を持ちながら……",
+                "translatedEnglishLine": "\"While you harbored strong feelings towards me personally..."
+            }
+        ]
+    }
+}

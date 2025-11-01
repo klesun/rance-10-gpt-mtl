@@ -1,1 +1,619 @@
-{"id":"resp_0b2764028b54aee30068ef8b291f008196b5af34dc55bc7588","object":"response","created_at":1760529193,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0b2764028b54aee30068ef8b29c61481969ce7f93c26fcda13","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":35421,\"originalJapaneseLine\":\"「おっ！？　本当か、ホーネット！」\",\"translatedEnglishLine\":\"\\\"Oh!? Is that true, Hornet!\\\"\"},{\"lineNumber\":35422,\"originalJapaneseLine\":\"「ホーネット様……！」\",\"translatedEnglishLine\":\"\\\"Lady Hornet...!\\\"\"},{\"lineNumber\":35423,\"originalJapaneseLine\":\"「はい。遙か昔……魔王アベルが\",\"translatedEnglishLine\":\"\\\"Yes. Long ago... Demon King Abel\"},{\"lineNumber\":35424,\"originalJapaneseLine\":\"　ドラゴンの追っ手から身を隠すため、\",\"translatedEnglishLine\":\"hid from the dragons' trackers,\"},{\"lineNumber\":35425,\"originalJapaneseLine\":\"　いくつも作らせていた、深い深い洞窟」\",\"translatedEnglishLine\":\"and made many deep, deep caves.\\\"\"},{\"lineNumber\":35426,\"originalJapaneseLine\":\"「そのひとつが、ルッコンフードです。\",\"translatedEnglishLine\":\"\\\"One of those is Rukkon Food.\"},{\"lineNumber\":35427,\"originalJapaneseLine\":\"　なんでも、ケイブリスが作らされた洞窟なのだと」\",\"translatedEnglishLine\":\"I heard that Cave Lis was forced to build this cave.\\\"\"},{\"lineNumber\":35428,\"originalJapaneseLine\":\"「……魔人が穴掘りか」\",\"translatedEnglishLine\":\"\\\"...A demon digging holes, huh.\\\"\"},{\"lineNumber\":35429,\"originalJapaneseLine\":\"「私たちの戦友だった、メガラスが……\",\"translatedEnglishLine\":\"\\\"Our comrade Megalas...\"},{\"lineNumber\":35430,\"originalJapaneseLine\":\"　派閥戦争期にケイブリスの居場所を探していた頃、\",\"translatedEnglishLine\":\"when he was searching for Cave Lis’s whereabouts during the faction wars,\"},{\"lineNumber\":35431,\"originalJapaneseLine\":\"　一度だけ……その話をしてくれた事があります」\",\"translatedEnglishLine\":\"once told us that story.\\\"\"},{\"lineNumber\":35432,\"originalJapaneseLine\":\"「メガラスが…………ｿｿｿ」\",\"translatedEnglishLine\":\"\\\"Megalas... s-s-s\\\"\"},{\"lineNumber\":35433,\"originalJapaneseLine\":\"「北西の辺境にある洞窟だそうよ」\",\"translatedEnglishLine\":\"\\\"They say it's a cave in the northwestern frontier.\\\"\"},{\"lineNumber\":35434,\"originalJapaneseLine\":\"「む！　クレイン、聞いたのか！？」\",\"translatedEnglishLine\":\"\\\"Hmm! Crane, did you hear that!?\\\"\"},{\"lineNumber\":35435,\"originalJapaneseLine\":\"「さっき、本隊からはぐれた時に、魔物兵が……\",\"translatedEnglishLine\":\"\\\"Just earlier, when I was separated from the main force, some monster soldiers...\"},{\"lineNumber\":35436,\"originalJapaneseLine\":\"　それ以上詳しい事は分からないけど」\",\"translatedEnglishLine\":\"I don't know any more details than that.\\\"\"},{\"lineNumber\":35437,\"originalJapaneseLine\":\"「構わん。かなみ、フレイア達と一緒に、\",\"translatedEnglishLine\":\"\\\"No problem. Kanami, go ahead and search together with Freya and the others.\\\"\"},{\"lineNumber\":35438,\"originalJapaneseLine\":\"　先行って探してこい」\",\"translatedEnglishLine\":\"Go ahead and look for it.\\\"\"},{\"lineNumber\":35439,\"originalJapaneseLine\":\"「うん、分かった！」\",\"translatedEnglishLine\":\"\\\"Yeah, got it!\\\"\"},{\"lineNumber\":35440,\"originalJapaneseLine\":\"「私も行くわ」\",\"translatedEnglishLine\":\"\\\"I’ll go too.\\\"\"},{\"lineNumber\":35441,\"originalJapaneseLine\":\"「よーし！　行き先は決まったな！\",\"translatedEnglishLine\":\"\\\"Alright! The destination is decided!\"},{\"lineNumber\":35442,\"originalJapaneseLine\":\"　後はやる事はひとつ！　リス野郎を叩き殺す！」\",\"translatedEnglishLine\":\"There’s only one thing left to do! Smash the squirrel bastard!\\\"\"},{\"lineNumber\":35443,\"originalJapaneseLine\":\"「ルッコンフードに賭ける……で、\",\"translatedEnglishLine\":\"\\\"We’re betting on Rukkon Food... so,\"},{\"lineNumber\":35444,\"originalJapaneseLine\":\"　よろしいですね、総統？」\",\"translatedEnglishLine\":\"is that alright, Leader?\\\"\"},{\"lineNumber\":35445,\"originalJapaneseLine\":\"「おう。迷ってるヒマはない。\",\"translatedEnglishLine\":\"\\\"Yeah. No time to hesitate.\"},{\"lineNumber\":35446,\"originalJapaneseLine\":\"　俺のカンでは、そこがビンゴだ」\",\"translatedEnglishLine\":\"My gut says that's the exact spot.\\\"\"},{\"lineNumber\":35447,\"originalJapaneseLine\":\"「はい。では……私たちの全てを、\",\"translatedEnglishLine\":\"\\\"Yes. Then... let’s bet everything we have on it.\\\"\"},{\"lineNumber\":35448,\"originalJapaneseLine\":\"　それに賭けましょう」\",\"translatedEnglishLine\":\"Let's stake it all on this.\\\"\"},{\"lineNumber\":35449,\"originalJapaneseLine\":\"「それでは……出撃準備を。\",\"translatedEnglishLine\":\"\\\"Then... prepare to sort out for the sortie.\"},{\"lineNumber\":35450,\"originalJapaneseLine\":\"　現在、魔物界は制圧していますが……\",\"translatedEnglishLine\":\"Currently, we control the monster realm, but...\"},{\"lineNumber\":35451,\"originalJapaneseLine\":\"　維持できる時間は、わずかです」\",\"translatedEnglishLine\":\"the time we can maintain control is short.\\\"\"},{\"lineNumber\":35452,\"originalJapaneseLine\":\"「ああ、だが勝てばぜーんぶ終わりだ。\",\"translatedEnglishLine\":\"\\\"Yeah, but if we win, it’ll all be over.\"},{\"lineNumber\":35453,\"originalJapaneseLine\":\"　いくぞ、付いてこいシィル！」\",\"translatedEnglishLine\":\"Let’s go, follow me, Seel!\\\"\"},{\"lineNumber\":35454,\"originalJapaneseLine\":\"「は、はいっ、ランス様！」\",\"translatedEnglishLine\":\"\\\"Y-yes, Lord Rance!\\\"\"},{\"lineNumber\":35455,\"originalJapaneseLine\":\"「全隊に伝達しろ、ルッコンフードに行く！\",\"translatedEnglishLine\":\"\\\"Inform all units, we’re going to Rukkon Food!\"},{\"lineNumber\":35456,\"originalJapaneseLine\":\"　主立った奴らは全員来い！　最後の戦いだ！」\",\"translatedEnglishLine\":\"All the key players come! This is the final battle!\\\"\"},{\"lineNumber\":35457,\"originalJapaneseLine\":\"徹底的な捜索と、魔物から引き出した情報を元に、\",\"translatedEnglishLine\":\"Based on thorough searches and information extracted from monsters,\"},{\"lineNumber\":35458,\"originalJapaneseLine\":\"ランス達はルッコンフード洞窟へとたどりついた。\",\"translatedEnglishLine\":\"Rance and the others reached the Rukkon Food cave.\"},{\"lineNumber\":35459,\"originalJapaneseLine\":\"「…………これが、ルッコンフード……か？」\",\"translatedEnglishLine\":\"\\\"...This is Rukkon Food... huh?\\\"\"},{\"lineNumber\":35460,\"originalJapaneseLine\":\"「間違いないわ。\",\"translatedEnglishLine\":\"\\\"No doubt about it.\"},{\"lineNumber\":35461,\"originalJapaneseLine\":\"　……私も、本当かなって思うけど」\",\"translatedEnglishLine\":\"...Though I myself wonder if it’s true.\\\"\"},{\"lineNumber\":35462,\"originalJapaneseLine\":\"「この辺りの複数の魔物からリーダーで読んだし。\",\"translatedEnglishLine\":\"\\\"I heard it from several monsters around here as their leader.\"},{\"lineNumber\":35463,\"originalJapaneseLine\":\"　間違いない、はずだけど」\",\"translatedEnglishLine\":\"It should be right.\\\"\"},{\"lineNumber\":35464,\"originalJapaneseLine\":\"ランスの眼下には、\",\"translatedEnglishLine\":\"Beneath Rance’s eyes,\"},{\"lineNumber\":35465,\"originalJapaneseLine\":\"地下に続く小さな穴があるだけだった。\",\"translatedEnglishLine\":\"there was only a small hole leading underground.\"},{\"lineNumber\":35466,\"originalJapaneseLine\":\"辛うじて、ランスが入り込める程度。\",\"translatedEnglishLine\":\"Barely big enough for Rance to squeeze inside.\"},{\"lineNumber\":35467,\"originalJapaneseLine\":\"「こんなもん、パットンですら入れんぞ。\",\"translatedEnglishLine\":\"\\\"Even Patton can’t get into something this small.\"},{\"lineNumber\":35468,\"originalJapaneseLine\":\"　あのデカブツが、どうやって……」\",\"translatedEnglishLine\":\"How does that big guy manage to...\\\"\"},{\"lineNumber\":35469,\"originalJapaneseLine\":\"「無理矢理、でいいそうです」\",\"translatedEnglishLine\":\"\\\"Apparently, he just forces his way in.\\\"\"},{\"lineNumber\":35470,\"originalJapaneseLine\":\"「ん？　どういうことだ？」\",\"translatedEnglishLine\":\"\\\"Huh? What do you mean?\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":35421,"originalJapaneseLine":"「おっ！？　本当か、ホーネット！」","translatedEnglishLine":"\"Oh!? Is that true, Hornet!\""},{"lineNumber":35422,"originalJapaneseLine":"「ホーネット様……！」","translatedEnglishLine":"\"Lady Hornet...!\""},{"lineNumber":35423,"originalJapaneseLine":"「はい。遙か昔……魔王アベルが","translatedEnglishLine":"\"Yes. Long ago... Demon King Abel"},{"lineNumber":35424,"originalJapaneseLine":"　ドラゴンの追っ手から身を隠すため、","translatedEnglishLine":"hid from the dragons' trackers,"},{"lineNumber":35425,"originalJapaneseLine":"　いくつも作らせていた、深い深い洞窟」","translatedEnglishLine":"and made many deep, deep caves.\""},{"lineNumber":35426,"originalJapaneseLine":"「そのひとつが、ルッコンフードです。","translatedEnglishLine":"\"One of those is Rukkon Food."},{"lineNumber":35427,"originalJapaneseLine":"　なんでも、ケイブリスが作らされた洞窟なのだと」","translatedEnglishLine":"I heard that Cave Lis was forced to build this cave.\""},{"lineNumber":35428,"originalJapaneseLine":"「……魔人が穴掘りか」","translatedEnglishLine":"\"...A demon digging holes, huh.\""},{"lineNumber":35429,"originalJapaneseLine":"「私たちの戦友だった、メガラスが……","translatedEnglishLine":"\"Our comrade Megalas..."},{"lineNumber":35430,"originalJapaneseLine":"　派閥戦争期にケイブリスの居場所を探していた頃、","translatedEnglishLine":"when he was searching for Cave Lis’s whereabouts during the faction wars,"},{"lineNumber":35431,"originalJapaneseLine":"　一度だけ……その話をしてくれた事があります」","translatedEnglishLine":"once told us that story.\""},{"lineNumber":35432,"originalJapaneseLine":"「メガラスが…………ｿｿｿ」","translatedEnglishLine":"\"Megalas... s-s-s\""},{"lineNumber":35433,"originalJapaneseLine":"「北西の辺境にある洞窟だそうよ」","translatedEnglishLine":"\"They say it's a cave in the northwestern frontier.\""},{"lineNumber":35434,"originalJapaneseLine":"「む！　クレイン、聞いたのか！？」","translatedEnglishLine":"\"Hmm! Crane, did you hear that!?\""},{"lineNumber":35435,"originalJapaneseLine":"「さっき、本隊からはぐれた時に、魔物兵が……","translatedEnglishLine":"\"Just earlier, when I was separated from the main force, some monster soldiers..."},{"lineNumber":35436,"originalJapaneseLine":"　それ以上詳しい事は分からないけど」","translatedEnglishLine":"I don't know any more details than that.\""},{"lineNumber":35437,"originalJapaneseLine":"「構わん。かなみ、フレイア達と一緒に、","translatedEnglishLine":"\"No problem. Kanami, go ahead and search together with Freya and the others.\""},{"lineNumber":35438,"originalJapaneseLine":"　先行って探してこい」","translatedEnglishLine":"Go ahead and look for it.\""},{"lineNumber":35439,"originalJapaneseLine":"「うん、分かった！」","translatedEnglishLine":"\"Yeah, got it!\""},{"lineNumber":35440,"originalJapaneseLine":"「私も行くわ」","translatedEnglishLine":"\"I’ll go too.\""},{"lineNumber":35441,"originalJapaneseLine":"「よーし！　行き先は決まったな！","translatedEnglishLine":"\"Alright! The destination is decided!"},{"lineNumber":35442,"originalJapaneseLine":"　後はやる事はひとつ！　リス野郎を叩き殺す！」","translatedEnglishLine":"There’s only one thing left to do! Smash the squirrel bastard!\""},{"lineNumber":35443,"originalJapaneseLine":"「ルッコンフードに賭ける……で、","translatedEnglishLine":"\"We’re betting on Rukkon Food... so,"},{"lineNumber":35444,"originalJapaneseLine":"　よろしいですね、総統？」","translatedEnglishLine":"is that alright, Leader?\""},{"lineNumber":35445,"originalJapaneseLine":"「おう。迷ってるヒマはない。","translatedEnglishLine":"\"Yeah. No time to hesitate."},{"lineNumber":35446,"originalJapaneseLine":"　俺のカンでは、そこがビンゴだ」","translatedEnglishLine":"My gut says that's the exact spot.\""},{"lineNumber":35447,"originalJapaneseLine":"「はい。では……私たちの全てを、","translatedEnglishLine":"\"Yes. Then... let’s bet everything we have on it.\""},{"lineNumber":35448,"originalJapaneseLine":"　それに賭けましょう」","translatedEnglishLine":"Let's stake it all on this.\""},{"lineNumber":35449,"originalJapaneseLine":"「それでは……出撃準備を。","translatedEnglishLine":"\"Then... prepare to sort out for the sortie."},{"lineNumber":35450,"originalJapaneseLine":"　現在、魔物界は制圧していますが……","translatedEnglishLine":"Currently, we control the monster realm, but..."},{"lineNumber":35451,"originalJapaneseLine":"　維持できる時間は、わずかです」","translatedEnglishLine":"the time we can maintain control is short.\""},{"lineNumber":35452,"originalJapaneseLine":"「ああ、だが勝てばぜーんぶ終わりだ。","translatedEnglishLine":"\"Yeah, but if we win, it’ll all be over."},{"lineNumber":35453,"originalJapaneseLine":"　いくぞ、付いてこいシィル！」","translatedEnglishLine":"Let’s go, follow me, Seel!\""},{"lineNumber":35454,"originalJapaneseLine":"「は、はいっ、ランス様！」","translatedEnglishLine":"\"Y-yes, Lord Rance!\""},{"lineNumber":35455,"originalJapaneseLine":"「全隊に伝達しろ、ルッコンフードに行く！","translatedEnglishLine":"\"Inform all units, we’re going to Rukkon Food!"},{"lineNumber":35456,"originalJapaneseLine":"　主立った奴らは全員来い！　最後の戦いだ！」","translatedEnglishLine":"All the key players come! This is the final battle!\""},{"lineNumber":35457,"originalJapaneseLine":"徹底的な捜索と、魔物から引き出した情報を元に、","translatedEnglishLine":"Based on thorough searches and information extracted from monsters,"},{"lineNumber":35458,"originalJapaneseLine":"ランス達はルッコンフード洞窟へとたどりついた。","translatedEnglishLine":"Rance and the others reached the Rukkon Food cave."},{"lineNumber":35459,"originalJapaneseLine":"「…………これが、ルッコンフード……か？」","translatedEnglishLine":"\"...This is Rukkon Food... huh?\""},{"lineNumber":35460,"originalJapaneseLine":"「間違いないわ。","translatedEnglishLine":"\"No doubt about it."},{"lineNumber":35461,"originalJapaneseLine":"　……私も、本当かなって思うけど」","translatedEnglishLine":"...Though I myself wonder if it’s true.\""},{"lineNumber":35462,"originalJapaneseLine":"「この辺りの複数の魔物からリーダーで読んだし。","translatedEnglishLine":"\"I heard it from several monsters around here as their leader."},{"lineNumber":35463,"originalJapaneseLine":"　間違いない、はずだけど」","translatedEnglishLine":"It should be right.\""},{"lineNumber":35464,"originalJapaneseLine":"ランスの眼下には、","translatedEnglishLine":"Beneath Rance’s eyes,"},{"lineNumber":35465,"originalJapaneseLine":"地下に続く小さな穴があるだけだった。","translatedEnglishLine":"there was only a small hole leading underground."},{"lineNumber":35466,"originalJapaneseLine":"辛うじて、ランスが入り込める程度。","translatedEnglishLine":"Barely big enough for Rance to squeeze inside."},{"lineNumber":35467,"originalJapaneseLine":"「こんなもん、パットンですら入れんぞ。","translatedEnglishLine":"\"Even Patton can’t get into something this small."},{"lineNumber":35468,"originalJapaneseLine":"　あのデカブツが、どうやって……」","translatedEnglishLine":"How does that big guy manage to...\""},{"lineNumber":35469,"originalJapaneseLine":"「無理矢理、でいいそうです」","translatedEnglishLine":"\"Apparently, he just forces his way in.\""},{"lineNumber":35470,"originalJapaneseLine":"「ん？　どういうことだ？」","translatedEnglishLine":"\"Huh? What do you mean?\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1554,"input_tokens_details":{"cached_tokens":0},"output_tokens":2004,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3558},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":35421,\"originalJapaneseLine\":\"「おっ！？　本当か、ホーネット！」\",\"translatedEnglishLine\":\"\\\"Oh!? Is that true, Hornet!\\\"\"},{\"lineNumber\":35422,\"originalJapaneseLine\":\"「ホーネット様……！」\",\"translatedEnglishLine\":\"\\\"Lady Hornet...!\\\"\"},{\"lineNumber\":35423,\"originalJapaneseLine\":\"「はい。遙か昔……魔王アベルが\",\"translatedEnglishLine\":\"\\\"Yes. Long ago... Demon King Abel\"},{\"lineNumber\":35424,\"originalJapaneseLine\":\"　ドラゴンの追っ手から身を隠すため、\",\"translatedEnglishLine\":\"hid from the dragons' trackers,\"},{\"lineNumber\":35425,\"originalJapaneseLine\":\"　いくつも作らせていた、深い深い洞窟」\",\"translatedEnglishLine\":\"and made many deep, deep caves.\\\"\"},{\"lineNumber\":35426,\"originalJapaneseLine\":\"「そのひとつが、ルッコンフードです。\",\"translatedEnglishLine\":\"\\\"One of those is Rukkon Food.\"},{\"lineNumber\":35427,\"originalJapaneseLine\":\"　なんでも、ケイブリスが作らされた洞窟なのだと」\",\"translatedEnglishLine\":\"I heard that Cave Lis was forced to build this cave.\\\"\"},{\"lineNumber\":35428,\"originalJapaneseLine\":\"「……魔人が穴掘りか」\",\"translatedEnglishLine\":\"\\\"...A demon digging holes, huh.\\\"\"},{\"lineNumber\":35429,\"originalJapaneseLine\":\"「私たちの戦友だった、メガラスが……\",\"translatedEnglishLine\":\"\\\"Our comrade Megalas...\"},{\"lineNumber\":35430,\"originalJapaneseLine\":\"　派閥戦争期にケイブリスの居場所を探していた頃、\",\"translatedEnglishLine\":\"when he was searching for Cave Lis’s whereabouts during the faction wars,\"},{\"lineNumber\":35431,\"originalJapaneseLine\":\"　一度だけ……その話をしてくれた事があります」\",\"translatedEnglishLine\":\"once told us that story.\\\"\"},{\"lineNumber\":35432,\"originalJapaneseLine\":\"「メガラスが…………ｿｿｿ」\",\"translatedEnglishLine\":\"\\\"Megalas... s-s-s\\\"\"},{\"lineNumber\":35433,\"originalJapaneseLine\":\"「北西の辺境にある洞窟だそうよ」\",\"translatedEnglishLine\":\"\\\"They say it's a cave in the northwestern frontier.\\\"\"},{\"lineNumber\":35434,\"originalJapaneseLine\":\"「む！　クレイン、聞いたのか！？」\",\"translatedEnglishLine\":\"\\\"Hmm! Crane, did you hear that!?\\\"\"},{\"lineNumber\":35435,\"originalJapaneseLine\":\"「さっき、本隊からはぐれた時に、魔物兵が……\",\"translatedEnglishLine\":\"\\\"Just earlier, when I was separated from the main force, some monster soldiers...\"},{\"lineNumber\":35436,\"originalJapaneseLine\":\"　それ以上詳しい事は分からないけど」\",\"translatedEnglishLine\":\"I don't know any more details than that.\\\"\"},{\"lineNumber\":35437,\"originalJapaneseLine\":\"「構わん。かなみ、フレイア達と一緒に、\",\"translatedEnglishLine\":\"\\\"No problem. Kanami, go ahead and search together with Freya and the others.\\\"\"},{\"lineNumber\":35438,\"originalJapaneseLine\":\"　先行って探してこい」\",\"translatedEnglishLine\":\"Go ahead and look for it.\\\"\"},{\"lineNumber\":35439,\"originalJapaneseLine\":\"「うん、分かった！」\",\"translatedEnglishLine\":\"\\\"Yeah, got it!\\\"\"},{\"lineNumber\":35440,\"originalJapaneseLine\":\"「私も行くわ」\",\"translatedEnglishLine\":\"\\\"I’ll go too.\\\"\"},{\"lineNumber\":35441,\"originalJapaneseLine\":\"「よーし！　行き先は決まったな！\",\"translatedEnglishLine\":\"\\\"Alright! The destination is decided!\"},{\"lineNumber\":35442,\"originalJapaneseLine\":\"　後はやる事はひとつ！　リス野郎を叩き殺す！」\",\"translatedEnglishLine\":\"There’s only one thing left to do! Smash the squirrel bastard!\\\"\"},{\"lineNumber\":35443,\"originalJapaneseLine\":\"「ルッコンフードに賭ける……で、\",\"translatedEnglishLine\":\"\\\"We’re betting on Rukkon Food... so,\"},{\"lineNumber\":35444,\"originalJapaneseLine\":\"　よろしいですね、総統？」\",\"translatedEnglishLine\":\"is that alright, Leader?\\\"\"},{\"lineNumber\":35445,\"originalJapaneseLine\":\"「おう。迷ってるヒマはない。\",\"translatedEnglishLine\":\"\\\"Yeah. No time to hesitate.\"},{\"lineNumber\":35446,\"originalJapaneseLine\":\"　俺のカンでは、そこがビンゴだ」\",\"translatedEnglishLine\":\"My gut says that's the exact spot.\\\"\"},{\"lineNumber\":35447,\"originalJapaneseLine\":\"「はい。では……私たちの全てを、\",\"translatedEnglishLine\":\"\\\"Yes. Then... let’s bet everything we have on it.\\\"\"},{\"lineNumber\":35448,\"originalJapaneseLine\":\"　それに賭けましょう」\",\"translatedEnglishLine\":\"Let's stake it all on this.\\\"\"},{\"lineNumber\":35449,\"originalJapaneseLine\":\"「それでは……出撃準備を。\",\"translatedEnglishLine\":\"\\\"Then... prepare to sort out for the sortie.\"},{\"lineNumber\":35450,\"originalJapaneseLine\":\"　現在、魔物界は制圧していますが……\",\"translatedEnglishLine\":\"Currently, we control the monster realm, but...\"},{\"lineNumber\":35451,\"originalJapaneseLine\":\"　維持できる時間は、わずかです」\",\"translatedEnglishLine\":\"the time we can maintain control is short.\\\"\"},{\"lineNumber\":35452,\"originalJapaneseLine\":\"「ああ、だが勝てばぜーんぶ終わりだ。\",\"translatedEnglishLine\":\"\\\"Yeah, but if we win, it’ll all be over.\"},{\"lineNumber\":35453,\"originalJapaneseLine\":\"　いくぞ、付いてこいシィル！」\",\"translatedEnglishLine\":\"Let’s go, follow me, Seel!\\\"\"},{\"lineNumber\":35454,\"originalJapaneseLine\":\"「は、はいっ、ランス様！」\",\"translatedEnglishLine\":\"\\\"Y-yes, Lord Rance!\\\"\"},{\"lineNumber\":35455,\"originalJapaneseLine\":\"「全隊に伝達しろ、ルッコンフードに行く！\",\"translatedEnglishLine\":\"\\\"Inform all units, we’re going to Rukkon Food!\"},{\"lineNumber\":35456,\"originalJapaneseLine\":\"　主立った奴らは全員来い！　最後の戦いだ！」\",\"translatedEnglishLine\":\"All the key players come! This is the final battle!\\\"\"},{\"lineNumber\":35457,\"originalJapaneseLine\":\"徹底的な捜索と、魔物から引き出した情報を元に、\",\"translatedEnglishLine\":\"Based on thorough searches and information extracted from monsters,\"},{\"lineNumber\":35458,\"originalJapaneseLine\":\"ランス達はルッコンフード洞窟へとたどりついた。\",\"translatedEnglishLine\":\"Rance and the others reached the Rukkon Food cave.\"},{\"lineNumber\":35459,\"originalJapaneseLine\":\"「…………これが、ルッコンフード……か？」\",\"translatedEnglishLine\":\"\\\"...This is Rukkon Food... huh?\\\"\"},{\"lineNumber\":35460,\"originalJapaneseLine\":\"「間違いないわ。\",\"translatedEnglishLine\":\"\\\"No doubt about it.\"},{\"lineNumber\":35461,\"originalJapaneseLine\":\"　……私も、本当かなって思うけど」\",\"translatedEnglishLine\":\"...Though I myself wonder if it’s true.\\\"\"},{\"lineNumber\":35462,\"originalJapaneseLine\":\"「この辺りの複数の魔物からリーダーで読んだし。\",\"translatedEnglishLine\":\"\\\"I heard it from several monsters around here as their leader.\"},{\"lineNumber\":35463,\"originalJapaneseLine\":\"　間違いない、はずだけど」\",\"translatedEnglishLine\":\"It should be right.\\\"\"},{\"lineNumber\":35464,\"originalJapaneseLine\":\"ランスの眼下には、\",\"translatedEnglishLine\":\"Beneath Rance’s eyes,\"},{\"lineNumber\":35465,\"originalJapaneseLine\":\"地下に続く小さな穴があるだけだった。\",\"translatedEnglishLine\":\"there was only a small hole leading underground.\"},{\"lineNumber\":35466,\"originalJapaneseLine\":\"辛うじて、ランスが入り込める程度。\",\"translatedEnglishLine\":\"Barely big enough for Rance to squeeze inside.\"},{\"lineNumber\":35467,\"originalJapaneseLine\":\"「こんなもん、パットンですら入れんぞ。\",\"translatedEnglishLine\":\"\\\"Even Patton can’t get into something this small.\"},{\"lineNumber\":35468,\"originalJapaneseLine\":\"　あのデカブツが、どうやって……」\",\"translatedEnglishLine\":\"How does that big guy manage to...\\\"\"},{\"lineNumber\":35469,\"originalJapaneseLine\":\"「無理矢理、でいいそうです」\",\"translatedEnglishLine\":\"\\\"Apparently, he just forces his way in.\\\"\"},{\"lineNumber\":35470,\"originalJapaneseLine\":\"「ん？　どういうことだ？」\",\"translatedEnglishLine\":\"\\\"Huh? What do you mean?\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":35421,"originalJapaneseLine":"「おっ！？　本当か、ホーネット！」","translatedEnglishLine":"\"Oh!? Is that true, Hornet!\""},{"lineNumber":35422,"originalJapaneseLine":"「ホーネット様……！」","translatedEnglishLine":"\"Lady Hornet...!\""},{"lineNumber":35423,"originalJapaneseLine":"「はい。遙か昔……魔王アベルが","translatedEnglishLine":"\"Yes. Long ago... Demon King Abel"},{"lineNumber":35424,"originalJapaneseLine":"　ドラゴンの追っ手から身を隠すため、","translatedEnglishLine":"hid from the dragons' trackers,"},{"lineNumber":35425,"originalJapaneseLine":"　いくつも作らせていた、深い深い洞窟」","translatedEnglishLine":"and made many deep, deep caves.\""},{"lineNumber":35426,"originalJapaneseLine":"「そのひとつが、ルッコンフードです。","translatedEnglishLine":"\"One of those is Rukkon Food."},{"lineNumber":35427,"originalJapaneseLine":"　なんでも、ケイブリスが作らされた洞窟なのだと」","translatedEnglishLine":"I heard that Cave Lis was forced to build this cave.\""},{"lineNumber":35428,"originalJapaneseLine":"「……魔人が穴掘りか」","translatedEnglishLine":"\"...A demon digging holes, huh.\""},{"lineNumber":35429,"originalJapaneseLine":"「私たちの戦友だった、メガラスが……","translatedEnglishLine":"\"Our comrade Megalas..."},{"lineNumber":35430,"originalJapaneseLine":"　派閥戦争期にケイブリスの居場所を探していた頃、","translatedEnglishLine":"when he was searching for Cave Lis’s whereabouts during the faction wars,"},{"lineNumber":35431,"originalJapaneseLine":"　一度だけ……その話をしてくれた事があります」","translatedEnglishLine":"once told us that story.\""},{"lineNumber":35432,"originalJapaneseLine":"「メガラスが…………ｿｿｿ」","translatedEnglishLine":"\"Megalas... s-s-s\""},{"lineNumber":35433,"originalJapaneseLine":"「北西の辺境にある洞窟だそうよ」","translatedEnglishLine":"\"They say it's a cave in the northwestern frontier.\""},{"lineNumber":35434,"originalJapaneseLine":"「む！　クレイン、聞いたのか！？」","translatedEnglishLine":"\"Hmm! Crane, did you hear that!?\""},{"lineNumber":35435,"originalJapaneseLine":"「さっき、本隊からはぐれた時に、魔物兵が……","translatedEnglishLine":"\"Just earlier, when I was separated from the main force, some monster soldiers..."},{"lineNumber":35436,"originalJapaneseLine":"　それ以上詳しい事は分からないけど」","translatedEnglishLine":"I don't know any more details than that.\""},{"lineNumber":35437,"originalJapaneseLine":"「構わん。かなみ、フレイア達と一緒に、","translatedEnglishLine":"\"No problem. Kanami, go ahead and search together with Freya and the others.\""},{"lineNumber":35438,"originalJapaneseLine":"　先行って探してこい」","translatedEnglishLine":"Go ahead and look for it.\""},{"lineNumber":35439,"originalJapaneseLine":"「うん、分かった！」","translatedEnglishLine":"\"Yeah, got it!\""},{"lineNumber":35440,"originalJapaneseLine":"「私も行くわ」","translatedEnglishLine":"\"I’ll go too.\""},{"lineNumber":35441,"originalJapaneseLine":"「よーし！　行き先は決まったな！","translatedEnglishLine":"\"Alright! The destination is decided!"},{"lineNumber":35442,"originalJapaneseLine":"　後はやる事はひとつ！　リス野郎を叩き殺す！」","translatedEnglishLine":"There’s only one thing left to do! Smash the squirrel bastard!\""},{"lineNumber":35443,"originalJapaneseLine":"「ルッコンフードに賭ける……で、","translatedEnglishLine":"\"We’re betting on Rukkon Food... so,"},{"lineNumber":35444,"originalJapaneseLine":"　よろしいですね、総統？」","translatedEnglishLine":"is that alright, Leader?\""},{"lineNumber":35445,"originalJapaneseLine":"「おう。迷ってるヒマはない。","translatedEnglishLine":"\"Yeah. No time to hesitate."},{"lineNumber":35446,"originalJapaneseLine":"　俺のカンでは、そこがビンゴだ」","translatedEnglishLine":"My gut says that's the exact spot.\""},{"lineNumber":35447,"originalJapaneseLine":"「はい。では……私たちの全てを、","translatedEnglishLine":"\"Yes. Then... let’s bet everything we have on it.\""},{"lineNumber":35448,"originalJapaneseLine":"　それに賭けましょう」","translatedEnglishLine":"Let's stake it all on this.\""},{"lineNumber":35449,"originalJapaneseLine":"「それでは……出撃準備を。","translatedEnglishLine":"\"Then... prepare to sort out for the sortie."},{"lineNumber":35450,"originalJapaneseLine":"　現在、魔物界は制圧していますが……","translatedEnglishLine":"Currently, we control the monster realm, but..."},{"lineNumber":35451,"originalJapaneseLine":"　維持できる時間は、わずかです」","translatedEnglishLine":"the time we can maintain control is short.\""},{"lineNumber":35452,"originalJapaneseLine":"「ああ、だが勝てばぜーんぶ終わりだ。","translatedEnglishLine":"\"Yeah, but if we win, it’ll all be over."},{"lineNumber":35453,"originalJapaneseLine":"　いくぞ、付いてこいシィル！」","translatedEnglishLine":"Let’s go, follow me, Seel!\""},{"lineNumber":35454,"originalJapaneseLine":"「は、はいっ、ランス様！」","translatedEnglishLine":"\"Y-yes, Lord Rance!\""},{"lineNumber":35455,"originalJapaneseLine":"「全隊に伝達しろ、ルッコンフードに行く！","translatedEnglishLine":"\"Inform all units, we’re going to Rukkon Food!"},{"lineNumber":35456,"originalJapaneseLine":"　主立った奴らは全員来い！　最後の戦いだ！」","translatedEnglishLine":"All the key players come! This is the final battle!\""},{"lineNumber":35457,"originalJapaneseLine":"徹底的な捜索と、魔物から引き出した情報を元に、","translatedEnglishLine":"Based on thorough searches and information extracted from monsters,"},{"lineNumber":35458,"originalJapaneseLine":"ランス達はルッコンフード洞窟へとたどりついた。","translatedEnglishLine":"Rance and the others reached the Rukkon Food cave."},{"lineNumber":35459,"originalJapaneseLine":"「…………これが、ルッコンフード……か？」","translatedEnglishLine":"\"...This is Rukkon Food... huh?\""},{"lineNumber":35460,"originalJapaneseLine":"「間違いないわ。","translatedEnglishLine":"\"No doubt about it."},{"lineNumber":35461,"originalJapaneseLine":"　……私も、本当かなって思うけど」","translatedEnglishLine":"...Though I myself wonder if it’s true.\""},{"lineNumber":35462,"originalJapaneseLine":"「この辺りの複数の魔物からリーダーで読んだし。","translatedEnglishLine":"\"I heard it from several monsters around here as their leader."},{"lineNumber":35463,"originalJapaneseLine":"　間違いない、はずだけど」","translatedEnglishLine":"It should be right.\""},{"lineNumber":35464,"originalJapaneseLine":"ランスの眼下には、","translatedEnglishLine":"Beneath Rance’s eyes,"},{"lineNumber":35465,"originalJapaneseLine":"地下に続く小さな穴があるだけだった。","translatedEnglishLine":"there was only a small hole leading underground."},{"lineNumber":35466,"originalJapaneseLine":"辛うじて、ランスが入り込める程度。","translatedEnglishLine":"Barely big enough for Rance to squeeze inside."},{"lineNumber":35467,"originalJapaneseLine":"「こんなもん、パットンですら入れんぞ。","translatedEnglishLine":"\"Even Patton can’t get into something this small."},{"lineNumber":35468,"originalJapaneseLine":"　あのデカブツが、どうやって……」","translatedEnglishLine":"How does that big guy manage to...\""},{"lineNumber":35469,"originalJapaneseLine":"「無理矢理、でいいそうです」","translatedEnglishLine":"\"Apparently, he just forces his way in.\""},{"lineNumber":35470,"originalJapaneseLine":"「ん？　どういうことだ？」","translatedEnglishLine":"\"Huh? What do you mean?\""}]}}
+{
+    "id": "resp_0b2764028b54aee30068ef8b291f008196b5af34dc55bc7588",
+    "object": "response",
+    "created_at": 1760529193,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0b2764028b54aee30068ef8b29c61481969ce7f93c26fcda13",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":35421,\"originalJapaneseLine\":\"「おっ！？　本当か、ホーネット！」\",\"translatedEnglishLine\":\"\\\"Oh!? Is that true, Hornet!\\\"\"},{\"lineNumber\":35422,\"originalJapaneseLine\":\"「ホーネット様……！」\",\"translatedEnglishLine\":\"\\\"Lady Hornet...!\\\"\"},{\"lineNumber\":35423,\"originalJapaneseLine\":\"「はい。遙か昔……魔王アベルが\",\"translatedEnglishLine\":\"\\\"Yes. Long ago... Demon King Abel\"},{\"lineNumber\":35424,\"originalJapaneseLine\":\"　ドラゴンの追っ手から身を隠すため、\",\"translatedEnglishLine\":\"hid from the dragons' trackers,\"},{\"lineNumber\":35425,\"originalJapaneseLine\":\"　いくつも作らせていた、深い深い洞窟」\",\"translatedEnglishLine\":\"and made many deep, deep caves.\\\"\"},{\"lineNumber\":35426,\"originalJapaneseLine\":\"「そのひとつが、ルッコンフードです。\",\"translatedEnglishLine\":\"\\\"One of those is Rukkon Food.\"},{\"lineNumber\":35427,\"originalJapaneseLine\":\"　なんでも、ケイブリスが作らされた洞窟なのだと」\",\"translatedEnglishLine\":\"I heard that Cave Lis was forced to build this cave.\\\"\"},{\"lineNumber\":35428,\"originalJapaneseLine\":\"「……魔人が穴掘りか」\",\"translatedEnglishLine\":\"\\\"...A demon digging holes, huh.\\\"\"},{\"lineNumber\":35429,\"originalJapaneseLine\":\"「私たちの戦友だった、メガラスが……\",\"translatedEnglishLine\":\"\\\"Our comrade Megalas...\"},{\"lineNumber\":35430,\"originalJapaneseLine\":\"　派閥戦争期にケイブリスの居場所を探していた頃、\",\"translatedEnglishLine\":\"when he was searching for Cave Lis’s whereabouts during the faction wars,\"},{\"lineNumber\":35431,\"originalJapaneseLine\":\"　一度だけ……その話をしてくれた事があります」\",\"translatedEnglishLine\":\"once told us that story.\\\"\"},{\"lineNumber\":35432,\"originalJapaneseLine\":\"「メガラスが…………ｿｿｿ」\",\"translatedEnglishLine\":\"\\\"Megalas... s-s-s\\\"\"},{\"lineNumber\":35433,\"originalJapaneseLine\":\"「北西の辺境にある洞窟だそうよ」\",\"translatedEnglishLine\":\"\\\"They say it's a cave in the northwestern frontier.\\\"\"},{\"lineNumber\":35434,\"originalJapaneseLine\":\"「む！　クレイン、聞いたのか！？」\",\"translatedEnglishLine\":\"\\\"Hmm! Crane, did you hear that!?\\\"\"},{\"lineNumber\":35435,\"originalJapaneseLine\":\"「さっき、本隊からはぐれた時に、魔物兵が……\",\"translatedEnglishLine\":\"\\\"Just earlier, when I was separated from the main force, some monster soldiers...\"},{\"lineNumber\":35436,\"originalJapaneseLine\":\"　それ以上詳しい事は分からないけど」\",\"translatedEnglishLine\":\"I don't know any more details than that.\\\"\"},{\"lineNumber\":35437,\"originalJapaneseLine\":\"「構わん。かなみ、フレイア達と一緒に、\",\"translatedEnglishLine\":\"\\\"No problem. Kanami, go ahead and search together with Freya and the others.\\\"\"},{\"lineNumber\":35438,\"originalJapaneseLine\":\"　先行って探してこい」\",\"translatedEnglishLine\":\"Go ahead and look for it.\\\"\"},{\"lineNumber\":35439,\"originalJapaneseLine\":\"「うん、分かった！」\",\"translatedEnglishLine\":\"\\\"Yeah, got it!\\\"\"},{\"lineNumber\":35440,\"originalJapaneseLine\":\"「私も行くわ」\",\"translatedEnglishLine\":\"\\\"I’ll go too.\\\"\"},{\"lineNumber\":35441,\"originalJapaneseLine\":\"「よーし！　行き先は決まったな！\",\"translatedEnglishLine\":\"\\\"Alright! The destination is decided!\"},{\"lineNumber\":35442,\"originalJapaneseLine\":\"　後はやる事はひとつ！　リス野郎を叩き殺す！」\",\"translatedEnglishLine\":\"There’s only one thing left to do! Smash the squirrel bastard!\\\"\"},{\"lineNumber\":35443,\"originalJapaneseLine\":\"「ルッコンフードに賭ける……で、\",\"translatedEnglishLine\":\"\\\"We’re betting on Rukkon Food... so,\"},{\"lineNumber\":35444,\"originalJapaneseLine\":\"　よろしいですね、総統？」\",\"translatedEnglishLine\":\"is that alright, Leader?\\\"\"},{\"lineNumber\":35445,\"originalJapaneseLine\":\"「おう。迷ってるヒマはない。\",\"translatedEnglishLine\":\"\\\"Yeah. No time to hesitate.\"},{\"lineNumber\":35446,\"originalJapaneseLine\":\"　俺のカンでは、そこがビンゴだ」\",\"translatedEnglishLine\":\"My gut says that's the exact spot.\\\"\"},{\"lineNumber\":35447,\"originalJapaneseLine\":\"「はい。では……私たちの全てを、\",\"translatedEnglishLine\":\"\\\"Yes. Then... let’s bet everything we have on it.\\\"\"},{\"lineNumber\":35448,\"originalJapaneseLine\":\"　それに賭けましょう」\",\"translatedEnglishLine\":\"Let's stake it all on this.\\\"\"},{\"lineNumber\":35449,\"originalJapaneseLine\":\"「それでは……出撃準備を。\",\"translatedEnglishLine\":\"\\\"Then... prepare to sort out for the sortie.\"},{\"lineNumber\":35450,\"originalJapaneseLine\":\"　現在、魔物界は制圧していますが……\",\"translatedEnglishLine\":\"Currently, we control the monster realm, but...\"},{\"lineNumber\":35451,\"originalJapaneseLine\":\"　維持できる時間は、わずかです」\",\"translatedEnglishLine\":\"the time we can maintain control is short.\\\"\"},{\"lineNumber\":35452,\"originalJapaneseLine\":\"「ああ、だが勝てばぜーんぶ終わりだ。\",\"translatedEnglishLine\":\"\\\"Yeah, but if we win, it’ll all be over.\"},{\"lineNumber\":35453,\"originalJapaneseLine\":\"　いくぞ、付いてこいシィル！」\",\"translatedEnglishLine\":\"Let’s go, follow me, Seel!\\\"\"},{\"lineNumber\":35454,\"originalJapaneseLine\":\"「は、はいっ、ランス様！」\",\"translatedEnglishLine\":\"\\\"Y-yes, Lord Rance!\\\"\"},{\"lineNumber\":35455,\"originalJapaneseLine\":\"「全隊に伝達しろ、ルッコンフードに行く！\",\"translatedEnglishLine\":\"\\\"Inform all units, we’re going to Rukkon Food!\"},{\"lineNumber\":35456,\"originalJapaneseLine\":\"　主立った奴らは全員来い！　最後の戦いだ！」\",\"translatedEnglishLine\":\"All the key players come! This is the final battle!\\\"\"},{\"lineNumber\":35457,\"originalJapaneseLine\":\"徹底的な捜索と、魔物から引き出した情報を元に、\",\"translatedEnglishLine\":\"Based on thorough searches and information extracted from monsters,\"},{\"lineNumber\":35458,\"originalJapaneseLine\":\"ランス達はルッコンフード洞窟へとたどりついた。\",\"translatedEnglishLine\":\"Rance and the others reached the Rukkon Food cave.\"},{\"lineNumber\":35459,\"originalJapaneseLine\":\"「…………これが、ルッコンフード……か？」\",\"translatedEnglishLine\":\"\\\"...This is Rukkon Food... huh?\\\"\"},{\"lineNumber\":35460,\"originalJapaneseLine\":\"「間違いないわ。\",\"translatedEnglishLine\":\"\\\"No doubt about it.\"},{\"lineNumber\":35461,\"originalJapaneseLine\":\"　……私も、本当かなって思うけど」\",\"translatedEnglishLine\":\"...Though I myself wonder if it’s true.\\\"\"},{\"lineNumber\":35462,\"originalJapaneseLine\":\"「この辺りの複数の魔物からリーダーで読んだし。\",\"translatedEnglishLine\":\"\\\"I heard it from several monsters around here as their leader.\"},{\"lineNumber\":35463,\"originalJapaneseLine\":\"　間違いない、はずだけど」\",\"translatedEnglishLine\":\"It should be right.\\\"\"},{\"lineNumber\":35464,\"originalJapaneseLine\":\"ランスの眼下には、\",\"translatedEnglishLine\":\"Beneath Rance’s eyes,\"},{\"lineNumber\":35465,\"originalJapaneseLine\":\"地下に続く小さな穴があるだけだった。\",\"translatedEnglishLine\":\"there was only a small hole leading underground.\"},{\"lineNumber\":35466,\"originalJapaneseLine\":\"辛うじて、ランスが入り込める程度。\",\"translatedEnglishLine\":\"Barely big enough for Rance to squeeze inside.\"},{\"lineNumber\":35467,\"originalJapaneseLine\":\"「こんなもん、パットンですら入れんぞ。\",\"translatedEnglishLine\":\"\\\"Even Patton can’t get into something this small.\"},{\"lineNumber\":35468,\"originalJapaneseLine\":\"　あのデカブツが、どうやって……」\",\"translatedEnglishLine\":\"How does that big guy manage to...\\\"\"},{\"lineNumber\":35469,\"originalJapaneseLine\":\"「無理矢理、でいいそうです」\",\"translatedEnglishLine\":\"\\\"Apparently, he just forces his way in.\\\"\"},{\"lineNumber\":35470,\"originalJapaneseLine\":\"「ん？　どういうことだ？」\",\"translatedEnglishLine\":\"\\\"Huh? What do you mean?\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 35421,
+                                "originalJapaneseLine": "「おっ！？　本当か、ホーネット！」",
+                                "translatedEnglishLine": "\"Oh!? Is that true, Hornet!\""
+                            },
+                            {
+                                "lineNumber": 35422,
+                                "originalJapaneseLine": "「ホーネット様……！」",
+                                "translatedEnglishLine": "\"Lady Hornet...!\""
+                            },
+                            {
+                                "lineNumber": 35423,
+                                "originalJapaneseLine": "「はい。遙か昔……魔王アベルが",
+                                "translatedEnglishLine": "\"Yes. Long ago... Demon King Abel"
+                            },
+                            {
+                                "lineNumber": 35424,
+                                "originalJapaneseLine": "　ドラゴンの追っ手から身を隠すため、",
+                                "translatedEnglishLine": "hid from the dragons' trackers,"
+                            },
+                            {
+                                "lineNumber": 35425,
+                                "originalJapaneseLine": "　いくつも作らせていた、深い深い洞窟」",
+                                "translatedEnglishLine": "and made many deep, deep caves.\""
+                            },
+                            {
+                                "lineNumber": 35426,
+                                "originalJapaneseLine": "「そのひとつが、ルッコンフードです。",
+                                "translatedEnglishLine": "\"One of those is Rukkon Food."
+                            },
+                            {
+                                "lineNumber": 35427,
+                                "originalJapaneseLine": "　なんでも、ケイブリスが作らされた洞窟なのだと」",
+                                "translatedEnglishLine": "I heard that Cave Lis was forced to build this cave.\""
+                            },
+                            {
+                                "lineNumber": 35428,
+                                "originalJapaneseLine": "「……魔人が穴掘りか」",
+                                "translatedEnglishLine": "\"...A demon digging holes, huh.\""
+                            },
+                            {
+                                "lineNumber": 35429,
+                                "originalJapaneseLine": "「私たちの戦友だった、メガラスが……",
+                                "translatedEnglishLine": "\"Our comrade Megalas..."
+                            },
+                            {
+                                "lineNumber": 35430,
+                                "originalJapaneseLine": "　派閥戦争期にケイブリスの居場所を探していた頃、",
+                                "translatedEnglishLine": "when he was searching for Cave Lis’s whereabouts during the faction wars,"
+                            },
+                            {
+                                "lineNumber": 35431,
+                                "originalJapaneseLine": "　一度だけ……その話をしてくれた事があります」",
+                                "translatedEnglishLine": "once told us that story.\""
+                            },
+                            {
+                                "lineNumber": 35432,
+                                "originalJapaneseLine": "「メガラスが…………ｿｿｿ」",
+                                "translatedEnglishLine": "\"Megalas... s-s-s\""
+                            },
+                            {
+                                "lineNumber": 35433,
+                                "originalJapaneseLine": "「北西の辺境にある洞窟だそうよ」",
+                                "translatedEnglishLine": "\"They say it's a cave in the northwestern frontier.\""
+                            },
+                            {
+                                "lineNumber": 35434,
+                                "originalJapaneseLine": "「む！　クレイン、聞いたのか！？」",
+                                "translatedEnglishLine": "\"Hmm! Crane, did you hear that!?\""
+                            },
+                            {
+                                "lineNumber": 35435,
+                                "originalJapaneseLine": "「さっき、本隊からはぐれた時に、魔物兵が……",
+                                "translatedEnglishLine": "\"Just earlier, when I was separated from the main force, some monster soldiers..."
+                            },
+                            {
+                                "lineNumber": 35436,
+                                "originalJapaneseLine": "　それ以上詳しい事は分からないけど」",
+                                "translatedEnglishLine": "I don't know any more details than that.\""
+                            },
+                            {
+                                "lineNumber": 35437,
+                                "originalJapaneseLine": "「構わん。かなみ、フレイア達と一緒に、",
+                                "translatedEnglishLine": "\"No problem. Kanami, go ahead and search together with Freya and the others.\""
+                            },
+                            {
+                                "lineNumber": 35438,
+                                "originalJapaneseLine": "　先行って探してこい」",
+                                "translatedEnglishLine": "Go ahead and look for it.\""
+                            },
+                            {
+                                "lineNumber": 35439,
+                                "originalJapaneseLine": "「うん、分かった！」",
+                                "translatedEnglishLine": "\"Yeah, got it!\""
+                            },
+                            {
+                                "lineNumber": 35440,
+                                "originalJapaneseLine": "「私も行くわ」",
+                                "translatedEnglishLine": "\"I’ll go too.\""
+                            },
+                            {
+                                "lineNumber": 35441,
+                                "originalJapaneseLine": "「よーし！　行き先は決まったな！",
+                                "translatedEnglishLine": "\"Alright! The destination is decided!"
+                            },
+                            {
+                                "lineNumber": 35442,
+                                "originalJapaneseLine": "　後はやる事はひとつ！　リス野郎を叩き殺す！」",
+                                "translatedEnglishLine": "There’s only one thing left to do! Smash the squirrel bastard!\""
+                            },
+                            {
+                                "lineNumber": 35443,
+                                "originalJapaneseLine": "「ルッコンフードに賭ける……で、",
+                                "translatedEnglishLine": "\"We’re betting on Rukkon Food... so,"
+                            },
+                            {
+                                "lineNumber": 35444,
+                                "originalJapaneseLine": "　よろしいですね、総統？」",
+                                "translatedEnglishLine": "is that alright, Leader?\""
+                            },
+                            {
+                                "lineNumber": 35445,
+                                "originalJapaneseLine": "「おう。迷ってるヒマはない。",
+                                "translatedEnglishLine": "\"Yeah. No time to hesitate."
+                            },
+                            {
+                                "lineNumber": 35446,
+                                "originalJapaneseLine": "　俺のカンでは、そこがビンゴだ」",
+                                "translatedEnglishLine": "My gut says that's the exact spot.\""
+                            },
+                            {
+                                "lineNumber": 35447,
+                                "originalJapaneseLine": "「はい。では……私たちの全てを、",
+                                "translatedEnglishLine": "\"Yes. Then... let’s bet everything we have on it.\""
+                            },
+                            {
+                                "lineNumber": 35448,
+                                "originalJapaneseLine": "　それに賭けましょう」",
+                                "translatedEnglishLine": "Let's stake it all on this.\""
+                            },
+                            {
+                                "lineNumber": 35449,
+                                "originalJapaneseLine": "「それでは……出撃準備を。",
+                                "translatedEnglishLine": "\"Then... prepare to sort out for the sortie."
+                            },
+                            {
+                                "lineNumber": 35450,
+                                "originalJapaneseLine": "　現在、魔物界は制圧していますが……",
+                                "translatedEnglishLine": "Currently, we control the monster realm, but..."
+                            },
+                            {
+                                "lineNumber": 35451,
+                                "originalJapaneseLine": "　維持できる時間は、わずかです」",
+                                "translatedEnglishLine": "the time we can maintain control is short.\""
+                            },
+                            {
+                                "lineNumber": 35452,
+                                "originalJapaneseLine": "「ああ、だが勝てばぜーんぶ終わりだ。",
+                                "translatedEnglishLine": "\"Yeah, but if we win, it’ll all be over."
+                            },
+                            {
+                                "lineNumber": 35453,
+                                "originalJapaneseLine": "　いくぞ、付いてこいシィル！」",
+                                "translatedEnglishLine": "Let’s go, follow me, Seel!\""
+                            },
+                            {
+                                "lineNumber": 35454,
+                                "originalJapaneseLine": "「は、はいっ、ランス様！」",
+                                "translatedEnglishLine": "\"Y-yes, Lord Rance!\""
+                            },
+                            {
+                                "lineNumber": 35455,
+                                "originalJapaneseLine": "「全隊に伝達しろ、ルッコンフードに行く！",
+                                "translatedEnglishLine": "\"Inform all units, we’re going to Rukkon Food!"
+                            },
+                            {
+                                "lineNumber": 35456,
+                                "originalJapaneseLine": "　主立った奴らは全員来い！　最後の戦いだ！」",
+                                "translatedEnglishLine": "All the key players come! This is the final battle!\""
+                            },
+                            {
+                                "lineNumber": 35457,
+                                "originalJapaneseLine": "徹底的な捜索と、魔物から引き出した情報を元に、",
+                                "translatedEnglishLine": "Based on thorough searches and information extracted from monsters,"
+                            },
+                            {
+                                "lineNumber": 35458,
+                                "originalJapaneseLine": "ランス達はルッコンフード洞窟へとたどりついた。",
+                                "translatedEnglishLine": "Rance and the others reached the Rukkon Food cave."
+                            },
+                            {
+                                "lineNumber": 35459,
+                                "originalJapaneseLine": "「…………これが、ルッコンフード……か？」",
+                                "translatedEnglishLine": "\"...This is Rukkon Food... huh?\""
+                            },
+                            {
+                                "lineNumber": 35460,
+                                "originalJapaneseLine": "「間違いないわ。",
+                                "translatedEnglishLine": "\"No doubt about it."
+                            },
+                            {
+                                "lineNumber": 35461,
+                                "originalJapaneseLine": "　……私も、本当かなって思うけど」",
+                                "translatedEnglishLine": "...Though I myself wonder if it’s true.\""
+                            },
+                            {
+                                "lineNumber": 35462,
+                                "originalJapaneseLine": "「この辺りの複数の魔物からリーダーで読んだし。",
+                                "translatedEnglishLine": "\"I heard it from several monsters around here as their leader."
+                            },
+                            {
+                                "lineNumber": 35463,
+                                "originalJapaneseLine": "　間違いない、はずだけど」",
+                                "translatedEnglishLine": "It should be right.\""
+                            },
+                            {
+                                "lineNumber": 35464,
+                                "originalJapaneseLine": "ランスの眼下には、",
+                                "translatedEnglishLine": "Beneath Rance’s eyes,"
+                            },
+                            {
+                                "lineNumber": 35465,
+                                "originalJapaneseLine": "地下に続く小さな穴があるだけだった。",
+                                "translatedEnglishLine": "there was only a small hole leading underground."
+                            },
+                            {
+                                "lineNumber": 35466,
+                                "originalJapaneseLine": "辛うじて、ランスが入り込める程度。",
+                                "translatedEnglishLine": "Barely big enough for Rance to squeeze inside."
+                            },
+                            {
+                                "lineNumber": 35467,
+                                "originalJapaneseLine": "「こんなもん、パットンですら入れんぞ。",
+                                "translatedEnglishLine": "\"Even Patton can’t get into something this small."
+                            },
+                            {
+                                "lineNumber": 35468,
+                                "originalJapaneseLine": "　あのデカブツが、どうやって……」",
+                                "translatedEnglishLine": "How does that big guy manage to...\""
+                            },
+                            {
+                                "lineNumber": 35469,
+                                "originalJapaneseLine": "「無理矢理、でいいそうです」",
+                                "translatedEnglishLine": "\"Apparently, he just forces his way in.\""
+                            },
+                            {
+                                "lineNumber": 35470,
+                                "originalJapaneseLine": "「ん？　どういうことだ？」",
+                                "translatedEnglishLine": "\"Huh? What do you mean?\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1554,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2004,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3558
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":35421,\"originalJapaneseLine\":\"「おっ！？　本当か、ホーネット！」\",\"translatedEnglishLine\":\"\\\"Oh!? Is that true, Hornet!\\\"\"},{\"lineNumber\":35422,\"originalJapaneseLine\":\"「ホーネット様……！」\",\"translatedEnglishLine\":\"\\\"Lady Hornet...!\\\"\"},{\"lineNumber\":35423,\"originalJapaneseLine\":\"「はい。遙か昔……魔王アベルが\",\"translatedEnglishLine\":\"\\\"Yes. Long ago... Demon King Abel\"},{\"lineNumber\":35424,\"originalJapaneseLine\":\"　ドラゴンの追っ手から身を隠すため、\",\"translatedEnglishLine\":\"hid from the dragons' trackers,\"},{\"lineNumber\":35425,\"originalJapaneseLine\":\"　いくつも作らせていた、深い深い洞窟」\",\"translatedEnglishLine\":\"and made many deep, deep caves.\\\"\"},{\"lineNumber\":35426,\"originalJapaneseLine\":\"「そのひとつが、ルッコンフードです。\",\"translatedEnglishLine\":\"\\\"One of those is Rukkon Food.\"},{\"lineNumber\":35427,\"originalJapaneseLine\":\"　なんでも、ケイブリスが作らされた洞窟なのだと」\",\"translatedEnglishLine\":\"I heard that Cave Lis was forced to build this cave.\\\"\"},{\"lineNumber\":35428,\"originalJapaneseLine\":\"「……魔人が穴掘りか」\",\"translatedEnglishLine\":\"\\\"...A demon digging holes, huh.\\\"\"},{\"lineNumber\":35429,\"originalJapaneseLine\":\"「私たちの戦友だった、メガラスが……\",\"translatedEnglishLine\":\"\\\"Our comrade Megalas...\"},{\"lineNumber\":35430,\"originalJapaneseLine\":\"　派閥戦争期にケイブリスの居場所を探していた頃、\",\"translatedEnglishLine\":\"when he was searching for Cave Lis’s whereabouts during the faction wars,\"},{\"lineNumber\":35431,\"originalJapaneseLine\":\"　一度だけ……その話をしてくれた事があります」\",\"translatedEnglishLine\":\"once told us that story.\\\"\"},{\"lineNumber\":35432,\"originalJapaneseLine\":\"「メガラスが…………ｿｿｿ」\",\"translatedEnglishLine\":\"\\\"Megalas... s-s-s\\\"\"},{\"lineNumber\":35433,\"originalJapaneseLine\":\"「北西の辺境にある洞窟だそうよ」\",\"translatedEnglishLine\":\"\\\"They say it's a cave in the northwestern frontier.\\\"\"},{\"lineNumber\":35434,\"originalJapaneseLine\":\"「む！　クレイン、聞いたのか！？」\",\"translatedEnglishLine\":\"\\\"Hmm! Crane, did you hear that!?\\\"\"},{\"lineNumber\":35435,\"originalJapaneseLine\":\"「さっき、本隊からはぐれた時に、魔物兵が……\",\"translatedEnglishLine\":\"\\\"Just earlier, when I was separated from the main force, some monster soldiers...\"},{\"lineNumber\":35436,\"originalJapaneseLine\":\"　それ以上詳しい事は分からないけど」\",\"translatedEnglishLine\":\"I don't know any more details than that.\\\"\"},{\"lineNumber\":35437,\"originalJapaneseLine\":\"「構わん。かなみ、フレイア達と一緒に、\",\"translatedEnglishLine\":\"\\\"No problem. Kanami, go ahead and search together with Freya and the others.\\\"\"},{\"lineNumber\":35438,\"originalJapaneseLine\":\"　先行って探してこい」\",\"translatedEnglishLine\":\"Go ahead and look for it.\\\"\"},{\"lineNumber\":35439,\"originalJapaneseLine\":\"「うん、分かった！」\",\"translatedEnglishLine\":\"\\\"Yeah, got it!\\\"\"},{\"lineNumber\":35440,\"originalJapaneseLine\":\"「私も行くわ」\",\"translatedEnglishLine\":\"\\\"I’ll go too.\\\"\"},{\"lineNumber\":35441,\"originalJapaneseLine\":\"「よーし！　行き先は決まったな！\",\"translatedEnglishLine\":\"\\\"Alright! The destination is decided!\"},{\"lineNumber\":35442,\"originalJapaneseLine\":\"　後はやる事はひとつ！　リス野郎を叩き殺す！」\",\"translatedEnglishLine\":\"There’s only one thing left to do! Smash the squirrel bastard!\\\"\"},{\"lineNumber\":35443,\"originalJapaneseLine\":\"「ルッコンフードに賭ける……で、\",\"translatedEnglishLine\":\"\\\"We’re betting on Rukkon Food... so,\"},{\"lineNumber\":35444,\"originalJapaneseLine\":\"　よろしいですね、総統？」\",\"translatedEnglishLine\":\"is that alright, Leader?\\\"\"},{\"lineNumber\":35445,\"originalJapaneseLine\":\"「おう。迷ってるヒマはない。\",\"translatedEnglishLine\":\"\\\"Yeah. No time to hesitate.\"},{\"lineNumber\":35446,\"originalJapaneseLine\":\"　俺のカンでは、そこがビンゴだ」\",\"translatedEnglishLine\":\"My gut says that's the exact spot.\\\"\"},{\"lineNumber\":35447,\"originalJapaneseLine\":\"「はい。では……私たちの全てを、\",\"translatedEnglishLine\":\"\\\"Yes. Then... let’s bet everything we have on it.\\\"\"},{\"lineNumber\":35448,\"originalJapaneseLine\":\"　それに賭けましょう」\",\"translatedEnglishLine\":\"Let's stake it all on this.\\\"\"},{\"lineNumber\":35449,\"originalJapaneseLine\":\"「それでは……出撃準備を。\",\"translatedEnglishLine\":\"\\\"Then... prepare to sort out for the sortie.\"},{\"lineNumber\":35450,\"originalJapaneseLine\":\"　現在、魔物界は制圧していますが……\",\"translatedEnglishLine\":\"Currently, we control the monster realm, but...\"},{\"lineNumber\":35451,\"originalJapaneseLine\":\"　維持できる時間は、わずかです」\",\"translatedEnglishLine\":\"the time we can maintain control is short.\\\"\"},{\"lineNumber\":35452,\"originalJapaneseLine\":\"「ああ、だが勝てばぜーんぶ終わりだ。\",\"translatedEnglishLine\":\"\\\"Yeah, but if we win, it’ll all be over.\"},{\"lineNumber\":35453,\"originalJapaneseLine\":\"　いくぞ、付いてこいシィル！」\",\"translatedEnglishLine\":\"Let’s go, follow me, Seel!\\\"\"},{\"lineNumber\":35454,\"originalJapaneseLine\":\"「は、はいっ、ランス様！」\",\"translatedEnglishLine\":\"\\\"Y-yes, Lord Rance!\\\"\"},{\"lineNumber\":35455,\"originalJapaneseLine\":\"「全隊に伝達しろ、ルッコンフードに行く！\",\"translatedEnglishLine\":\"\\\"Inform all units, we’re going to Rukkon Food!\"},{\"lineNumber\":35456,\"originalJapaneseLine\":\"　主立った奴らは全員来い！　最後の戦いだ！」\",\"translatedEnglishLine\":\"All the key players come! This is the final battle!\\\"\"},{\"lineNumber\":35457,\"originalJapaneseLine\":\"徹底的な捜索と、魔物から引き出した情報を元に、\",\"translatedEnglishLine\":\"Based on thorough searches and information extracted from monsters,\"},{\"lineNumber\":35458,\"originalJapaneseLine\":\"ランス達はルッコンフード洞窟へとたどりついた。\",\"translatedEnglishLine\":\"Rance and the others reached the Rukkon Food cave.\"},{\"lineNumber\":35459,\"originalJapaneseLine\":\"「…………これが、ルッコンフード……か？」\",\"translatedEnglishLine\":\"\\\"...This is Rukkon Food... huh?\\\"\"},{\"lineNumber\":35460,\"originalJapaneseLine\":\"「間違いないわ。\",\"translatedEnglishLine\":\"\\\"No doubt about it.\"},{\"lineNumber\":35461,\"originalJapaneseLine\":\"　……私も、本当かなって思うけど」\",\"translatedEnglishLine\":\"...Though I myself wonder if it’s true.\\\"\"},{\"lineNumber\":35462,\"originalJapaneseLine\":\"「この辺りの複数の魔物からリーダーで読んだし。\",\"translatedEnglishLine\":\"\\\"I heard it from several monsters around here as their leader.\"},{\"lineNumber\":35463,\"originalJapaneseLine\":\"　間違いない、はずだけど」\",\"translatedEnglishLine\":\"It should be right.\\\"\"},{\"lineNumber\":35464,\"originalJapaneseLine\":\"ランスの眼下には、\",\"translatedEnglishLine\":\"Beneath Rance’s eyes,\"},{\"lineNumber\":35465,\"originalJapaneseLine\":\"地下に続く小さな穴があるだけだった。\",\"translatedEnglishLine\":\"there was only a small hole leading underground.\"},{\"lineNumber\":35466,\"originalJapaneseLine\":\"辛うじて、ランスが入り込める程度。\",\"translatedEnglishLine\":\"Barely big enough for Rance to squeeze inside.\"},{\"lineNumber\":35467,\"originalJapaneseLine\":\"「こんなもん、パットンですら入れんぞ。\",\"translatedEnglishLine\":\"\\\"Even Patton can’t get into something this small.\"},{\"lineNumber\":35468,\"originalJapaneseLine\":\"　あのデカブツが、どうやって……」\",\"translatedEnglishLine\":\"How does that big guy manage to...\\\"\"},{\"lineNumber\":35469,\"originalJapaneseLine\":\"「無理矢理、でいいそうです」\",\"translatedEnglishLine\":\"\\\"Apparently, he just forces his way in.\\\"\"},{\"lineNumber\":35470,\"originalJapaneseLine\":\"「ん？　どういうことだ？」\",\"translatedEnglishLine\":\"\\\"Huh? What do you mean?\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 35421,
+                "originalJapaneseLine": "「おっ！？　本当か、ホーネット！」",
+                "translatedEnglishLine": "\"Oh!? Is that true, Hornet!\""
+            },
+            {
+                "lineNumber": 35422,
+                "originalJapaneseLine": "「ホーネット様……！」",
+                "translatedEnglishLine": "\"Lady Hornet...!\""
+            },
+            {
+                "lineNumber": 35423,
+                "originalJapaneseLine": "「はい。遙か昔……魔王アベルが",
+                "translatedEnglishLine": "\"Yes. Long ago... Demon King Abel"
+            },
+            {
+                "lineNumber": 35424,
+                "originalJapaneseLine": "　ドラゴンの追っ手から身を隠すため、",
+                "translatedEnglishLine": "hid from the dragons' trackers,"
+            },
+            {
+                "lineNumber": 35425,
+                "originalJapaneseLine": "　いくつも作らせていた、深い深い洞窟」",
+                "translatedEnglishLine": "and made many deep, deep caves.\""
+            },
+            {
+                "lineNumber": 35426,
+                "originalJapaneseLine": "「そのひとつが、ルッコンフードです。",
+                "translatedEnglishLine": "\"One of those is Rukkon Food."
+            },
+            {
+                "lineNumber": 35427,
+                "originalJapaneseLine": "　なんでも、ケイブリスが作らされた洞窟なのだと」",
+                "translatedEnglishLine": "I heard that Cave Lis was forced to build this cave.\""
+            },
+            {
+                "lineNumber": 35428,
+                "originalJapaneseLine": "「……魔人が穴掘りか」",
+                "translatedEnglishLine": "\"...A demon digging holes, huh.\""
+            },
+            {
+                "lineNumber": 35429,
+                "originalJapaneseLine": "「私たちの戦友だった、メガラスが……",
+                "translatedEnglishLine": "\"Our comrade Megalas..."
+            },
+            {
+                "lineNumber": 35430,
+                "originalJapaneseLine": "　派閥戦争期にケイブリスの居場所を探していた頃、",
+                "translatedEnglishLine": "when he was searching for Cave Lis’s whereabouts during the faction wars,"
+            },
+            {
+                "lineNumber": 35431,
+                "originalJapaneseLine": "　一度だけ……その話をしてくれた事があります」",
+                "translatedEnglishLine": "once told us that story.\""
+            },
+            {
+                "lineNumber": 35432,
+                "originalJapaneseLine": "「メガラスが…………ｿｿｿ」",
+                "translatedEnglishLine": "\"Megalas... s-s-s\""
+            },
+            {
+                "lineNumber": 35433,
+                "originalJapaneseLine": "「北西の辺境にある洞窟だそうよ」",
+                "translatedEnglishLine": "\"They say it's a cave in the northwestern frontier.\""
+            },
+            {
+                "lineNumber": 35434,
+                "originalJapaneseLine": "「む！　クレイン、聞いたのか！？」",
+                "translatedEnglishLine": "\"Hmm! Crane, did you hear that!?\""
+            },
+            {
+                "lineNumber": 35435,
+                "originalJapaneseLine": "「さっき、本隊からはぐれた時に、魔物兵が……",
+                "translatedEnglishLine": "\"Just earlier, when I was separated from the main force, some monster soldiers..."
+            },
+            {
+                "lineNumber": 35436,
+                "originalJapaneseLine": "　それ以上詳しい事は分からないけど」",
+                "translatedEnglishLine": "I don't know any more details than that.\""
+            },
+            {
+                "lineNumber": 35437,
+                "originalJapaneseLine": "「構わん。かなみ、フレイア達と一緒に、",
+                "translatedEnglishLine": "\"No problem. Kanami, go ahead and search together with Freya and the others.\""
+            },
+            {
+                "lineNumber": 35438,
+                "originalJapaneseLine": "　先行って探してこい」",
+                "translatedEnglishLine": "Go ahead and look for it.\""
+            },
+            {
+                "lineNumber": 35439,
+                "originalJapaneseLine": "「うん、分かった！」",
+                "translatedEnglishLine": "\"Yeah, got it!\""
+            },
+            {
+                "lineNumber": 35440,
+                "originalJapaneseLine": "「私も行くわ」",
+                "translatedEnglishLine": "\"I’ll go too.\""
+            },
+            {
+                "lineNumber": 35441,
+                "originalJapaneseLine": "「よーし！　行き先は決まったな！",
+                "translatedEnglishLine": "\"Alright! The destination is decided!"
+            },
+            {
+                "lineNumber": 35442,
+                "originalJapaneseLine": "　後はやる事はひとつ！　リス野郎を叩き殺す！」",
+                "translatedEnglishLine": "There’s only one thing left to do! Smash the squirrel bastard!\""
+            },
+            {
+                "lineNumber": 35443,
+                "originalJapaneseLine": "「ルッコンフードに賭ける……で、",
+                "translatedEnglishLine": "\"We’re betting on Rukkon Food... so,"
+            },
+            {
+                "lineNumber": 35444,
+                "originalJapaneseLine": "　よろしいですね、総統？」",
+                "translatedEnglishLine": "is that alright, Leader?\""
+            },
+            {
+                "lineNumber": 35445,
+                "originalJapaneseLine": "「おう。迷ってるヒマはない。",
+                "translatedEnglishLine": "\"Yeah. No time to hesitate."
+            },
+            {
+                "lineNumber": 35446,
+                "originalJapaneseLine": "　俺のカンでは、そこがビンゴだ」",
+                "translatedEnglishLine": "My gut says that's the exact spot.\""
+            },
+            {
+                "lineNumber": 35447,
+                "originalJapaneseLine": "「はい。では……私たちの全てを、",
+                "translatedEnglishLine": "\"Yes. Then... let’s bet everything we have on it.\""
+            },
+            {
+                "lineNumber": 35448,
+                "originalJapaneseLine": "　それに賭けましょう」",
+                "translatedEnglishLine": "Let's stake it all on this.\""
+            },
+            {
+                "lineNumber": 35449,
+                "originalJapaneseLine": "「それでは……出撃準備を。",
+                "translatedEnglishLine": "\"Then... prepare to sort out for the sortie."
+            },
+            {
+                "lineNumber": 35450,
+                "originalJapaneseLine": "　現在、魔物界は制圧していますが……",
+                "translatedEnglishLine": "Currently, we control the monster realm, but..."
+            },
+            {
+                "lineNumber": 35451,
+                "originalJapaneseLine": "　維持できる時間は、わずかです」",
+                "translatedEnglishLine": "the time we can maintain control is short.\""
+            },
+            {
+                "lineNumber": 35452,
+                "originalJapaneseLine": "「ああ、だが勝てばぜーんぶ終わりだ。",
+                "translatedEnglishLine": "\"Yeah, but if we win, it’ll all be over."
+            },
+            {
+                "lineNumber": 35453,
+                "originalJapaneseLine": "　いくぞ、付いてこいシィル！」",
+                "translatedEnglishLine": "Let’s go, follow me, Seel!\""
+            },
+            {
+                "lineNumber": 35454,
+                "originalJapaneseLine": "「は、はいっ、ランス様！」",
+                "translatedEnglishLine": "\"Y-yes, Lord Rance!\""
+            },
+            {
+                "lineNumber": 35455,
+                "originalJapaneseLine": "「全隊に伝達しろ、ルッコンフードに行く！",
+                "translatedEnglishLine": "\"Inform all units, we’re going to Rukkon Food!"
+            },
+            {
+                "lineNumber": 35456,
+                "originalJapaneseLine": "　主立った奴らは全員来い！　最後の戦いだ！」",
+                "translatedEnglishLine": "All the key players come! This is the final battle!\""
+            },
+            {
+                "lineNumber": 35457,
+                "originalJapaneseLine": "徹底的な捜索と、魔物から引き出した情報を元に、",
+                "translatedEnglishLine": "Based on thorough searches and information extracted from monsters,"
+            },
+            {
+                "lineNumber": 35458,
+                "originalJapaneseLine": "ランス達はルッコンフード洞窟へとたどりついた。",
+                "translatedEnglishLine": "Rance and the others reached the Rukkon Food cave."
+            },
+            {
+                "lineNumber": 35459,
+                "originalJapaneseLine": "「…………これが、ルッコンフード……か？」",
+                "translatedEnglishLine": "\"...This is Rukkon Food... huh?\""
+            },
+            {
+                "lineNumber": 35460,
+                "originalJapaneseLine": "「間違いないわ。",
+                "translatedEnglishLine": "\"No doubt about it."
+            },
+            {
+                "lineNumber": 35461,
+                "originalJapaneseLine": "　……私も、本当かなって思うけど」",
+                "translatedEnglishLine": "...Though I myself wonder if it’s true.\""
+            },
+            {
+                "lineNumber": 35462,
+                "originalJapaneseLine": "「この辺りの複数の魔物からリーダーで読んだし。",
+                "translatedEnglishLine": "\"I heard it from several monsters around here as their leader."
+            },
+            {
+                "lineNumber": 35463,
+                "originalJapaneseLine": "　間違いない、はずだけど」",
+                "translatedEnglishLine": "It should be right.\""
+            },
+            {
+                "lineNumber": 35464,
+                "originalJapaneseLine": "ランスの眼下には、",
+                "translatedEnglishLine": "Beneath Rance’s eyes,"
+            },
+            {
+                "lineNumber": 35465,
+                "originalJapaneseLine": "地下に続く小さな穴があるだけだった。",
+                "translatedEnglishLine": "there was only a small hole leading underground."
+            },
+            {
+                "lineNumber": 35466,
+                "originalJapaneseLine": "辛うじて、ランスが入り込める程度。",
+                "translatedEnglishLine": "Barely big enough for Rance to squeeze inside."
+            },
+            {
+                "lineNumber": 35467,
+                "originalJapaneseLine": "「こんなもん、パットンですら入れんぞ。",
+                "translatedEnglishLine": "\"Even Patton can’t get into something this small."
+            },
+            {
+                "lineNumber": 35468,
+                "originalJapaneseLine": "　あのデカブツが、どうやって……」",
+                "translatedEnglishLine": "How does that big guy manage to...\""
+            },
+            {
+                "lineNumber": 35469,
+                "originalJapaneseLine": "「無理矢理、でいいそうです」",
+                "translatedEnglishLine": "\"Apparently, he just forces his way in.\""
+            },
+            {
+                "lineNumber": 35470,
+                "originalJapaneseLine": "「ん？　どういうことだ？」",
+                "translatedEnglishLine": "\"Huh? What do you mean?\""
+            }
+        ]
+    }
+}

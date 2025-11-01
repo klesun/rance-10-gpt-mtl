@@ -1,1 +1,719 @@
-{"id":"resp_0b3b2bd26610ec140068f1a8cdba6881958467ae8f2ca87ec1","object":"response","created_at":1760667853,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0b3b2bd26610ec140068f1a8ce44dc81959e8586eaf1f21214","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":190852,\"originalJapaneseLine\":\"「よっ、ほっ、はーっ」\",\"translatedEnglishLine\":\"\\\"Yo, ho, ha!\\\"\"},{\"lineNumber\":190853,\"originalJapaneseLine\":\"早朝、ウズメが手裏剣術の訓練をしていた。\",\"translatedEnglishLine\":\"Early in the morning, Uzume was training in shuriken techniques.\"},{\"lineNumber\":190854,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":190855,\"originalJapaneseLine\":\"「あ、おはようござる、主君どの」\",\"translatedEnglishLine\":\"\\\"Ah, good morning, my lord.\\\"\"},{\"lineNumber\":190856,\"originalJapaneseLine\":\"すこん、すこん、すこーん！\",\"translatedEnglishLine\":\"Thud, thud, swoosh!\"},{\"lineNumber\":190857,\"originalJapaneseLine\":\"顔はあなたに向けたまま、ウズメが\",\"translatedEnglishLine\":\"With her face still turned towards you, Uzume\"},{\"lineNumber\":190858,\"originalJapaneseLine\":\"木にくくりつけられた的に手裏剣を命中させる。\",\"translatedEnglishLine\":\"hits the target tied to the tree with her shuriken.\"},{\"lineNumber\":190859,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":190860,\"originalJapaneseLine\":\"その技術力にあなたはパチパチと拍手を送った。\",\"translatedEnglishLine\":\"You applaud her skill with a round of claps.\"},{\"lineNumber\":190861,\"originalJapaneseLine\":\"「にょほほ、照れるでござるね」\",\"translatedEnglishLine\":\"\\\"Nyohoho, I'm flattered, indeed.\\\"\"},{\"lineNumber\":190862,\"originalJapaneseLine\":\"「この手の技術は全て母上殿に教わったでござる。\",\"translatedEnglishLine\":\"\\\"All these kinds of skills were taught to me by my mother.\\\"\"},{\"lineNumber\":190863,\"originalJapaneseLine\":\"　ウズメが褒められると母上殿が\",\"translatedEnglishLine\":\"When Uzume is praised, my mother\"},{\"lineNumber\":190864,\"originalJapaneseLine\":\"　褒められたようで嬉しいでござる」\",\"translatedEnglishLine\":\"seems pleased as if she herself were praised.\\\"\"},{\"lineNumber\":190865,\"originalJapaneseLine\":\"「そういえば前にも言ったでござるね。\",\"translatedEnglishLine\":\"\\\"Now that you mention it, I've said it before.\\\"\"},{\"lineNumber\":190866,\"originalJapaneseLine\":\"　ウズメの師匠は母上殿でござる」\",\"translatedEnglishLine\":\"\\\"Uzume's master is my mother.\\\"\"},{\"lineNumber\":190867,\"originalJapaneseLine\":\"「ウズメの母上殿？\",\"translatedEnglishLine\":\"\\\"Uzume's mother?\\\"\"},{\"lineNumber\":190868,\"originalJapaneseLine\":\"　それはもうすごい人でござるよ」\",\"translatedEnglishLine\":\"\\\"She's truly an amazing person.\\\"\"},{\"lineNumber\":190869,\"originalJapaneseLine\":\"「その攻撃は雷のように苛烈、\",\"translatedEnglishLine\":\"\\\"Her attacks are fierce like lightning,\"},{\"lineNumber\":190870,\"originalJapaneseLine\":\"　その動きは木の葉のように軽やか、\",\"translatedEnglishLine\":\"her movements as light as leaves,\"},{\"lineNumber\":190871,\"originalJapaneseLine\":\"　その心は川のように柔軟……」\",\"translatedEnglishLine\":\"and her spirit as flexible as a river...\\\"\"},{\"lineNumber\":190872,\"originalJapaneseLine\":\"「まさに忍者の理想を体現される人でござる。\",\"translatedEnglishLine\":\"\\\"She embodies the very ideal of a ninja.\"},{\"lineNumber\":190873,\"originalJapaneseLine\":\"　ウズメも母上殿にだけは頭が上がらない」\",\"translatedEnglishLine\":\"Uzume can't hold her head up high before her mother.\\\"\"},{\"lineNumber\":190874,\"originalJapaneseLine\":\"「小さい頃から、それはもう、\",\"translatedEnglishLine\":\"\\\"Since I was little, really,\"},{\"lineNumber\":190875,\"originalJapaneseLine\":\"　たっくさんのことを教わったでござるよ」\",\"translatedEnglishLine\":\"I've learned so many things from her.\\\"\"},{\"lineNumber\":190876,\"originalJapaneseLine\":\"どうやらよほど尊敬しているらしい。\",\"translatedEnglishLine\":\"It seems she respects her very much.\"},{\"lineNumber\":190877,\"originalJapaneseLine\":\"母親のことを語るウズメは活き活きとしていた。\",\"translatedEnglishLine\":\"Uzume looked lively as she spoke about her mother.\"},{\"lineNumber\":190878,\"originalJapaneseLine\":\"「ウズメはお母さん、好きよねぇ……」\",\"translatedEnglishLine\":\"\\\"Uzume really loves her mother, doesn't she...?\\\"\"},{\"lineNumber\":190879,\"originalJapaneseLine\":\"「あ、志津香姉上」\",\"translatedEnglishLine\":\"\\\"Ah, sister Shizuka.\\\"\"},{\"lineNumber\":190880,\"originalJapaneseLine\":\"「うい、母上殿はウズメにとって\",\"translatedEnglishLine\":\"\\\"Yeah, my mother is to Uzume\"},{\"lineNumber\":190881,\"originalJapaneseLine\":\"　母にして師匠にして憧れでござる」\",\"translatedEnglishLine\":\"both a mother, a master, and an admiration.\\\"\"},{\"lineNumber\":190882,\"originalJapaneseLine\":\"「まあ、魔王の子って大体みんな\",\"translatedEnglishLine\":\"\\\"Well, the children of the Demon King are usually all\"},{\"lineNumber\":190883,\"originalJapaneseLine\":\"　母親と仲良しだけど……」\",\"translatedEnglishLine\":\"close with their mothers...\\\"\"},{\"lineNumber\":190884,\"originalJapaneseLine\":\"「憧れ……憧れ、ねぇ……」\",\"translatedEnglishLine\":\"\\\"Admiration... admiration, huh...\\\"\"},{\"lineNumber\":190885,\"originalJapaneseLine\":\"「ん？　どうかしたでござる？」\",\"translatedEnglishLine\":\"\\\"Hm? Is something wrong?\\\"\"},{\"lineNumber\":190886,\"originalJapaneseLine\":\"「んーん、なんでも」\",\"translatedEnglishLine\":\"\\\"Mm, nothing.\\\"\"},{\"lineNumber\":190887,\"originalJapaneseLine\":\"「？？」\",\"translatedEnglishLine\":\"\\\"??\\\"\"},{\"lineNumber\":190888,\"originalJapaneseLine\":\"「ああ、＜エール＞は何も知らないんだっけ」\",\"translatedEnglishLine\":\"\\\"Ah, <Yell> doesn't know anything, right?\\\"\"},{\"lineNumber\":190889,\"originalJapaneseLine\":\"こそっと、あなたにだけ聞こえるような\",\"translatedEnglishLine\":\"Quietly, so only you can hear,\"},{\"lineNumber\":190890,\"originalJapaneseLine\":\"小さな声で志津香が囁く。\",\"translatedEnglishLine\":\"Shizuka whispers in a small voice.\"},{\"lineNumber\":190891,\"originalJapaneseLine\":\"「ウズメのお母さんって確かに忍者だけど、\",\"translatedEnglishLine\":\"\\\"Uzume's mother is certainly a ninja, but,\"},{\"lineNumber\":190892,\"originalJapaneseLine\":\"　能力自体は、その……中の上くらいでね……」\",\"translatedEnglishLine\":\"her abilities themselves are... well... above average...\\\"\"},{\"lineNumber\":190893,\"originalJapaneseLine\":\"「要はウズメの方が才能も能力も高いのよ……\",\"translatedEnglishLine\":\"\\\"In short, Uzume has greater talent and ability...\"},{\"lineNumber\":190894,\"originalJapaneseLine\":\"　それが分かってないのはウズメだけでね」\",\"translatedEnglishLine\":\"and Uzume is the only one who doesn't realize this.\\\"\"},{\"lineNumber\":190895,\"originalJapaneseLine\":\"「はあ……かなみさんも大変だわ……」\",\"translatedEnglishLine\":\"\\\"Hah... Kanami-san has it tough too...\\\"\"},{\"lineNumber\":190896,\"originalJapaneseLine\":\"どうやら、志津香にとって親しい間柄に\",\"translatedEnglishLine\":\"Apparently, to Shizuka, that woman, someone close,\"},{\"lineNumber\":190897,\"originalJapaneseLine\":\"あるらしきその女性は苦労が絶えないらしい。\",\"translatedEnglishLine\":\"seems to suffer endless hardships.\"},{\"lineNumber\":190898,\"originalJapaneseLine\":\"「おーい、主君どのー！\",\"translatedEnglishLine\":\"\\\"Hey, my lord!\"},{\"lineNumber\":190899,\"originalJapaneseLine\":\"　主君も一緒に手裏剣投げしないでござるかー！」\",\"translatedEnglishLine\":\"Won't you throw shuriken together with me?\\\"\"},{\"lineNumber\":190900,\"originalJapaneseLine\":\"ウズメは無邪気に笑っていた。\",\"translatedEnglishLine\":\"Uzume was smiling innocently.\"},{\"lineNumber\":190901,\"originalJapaneseLine\":\"町に買い物に出ると、\",\"translatedEnglishLine\":\"When going out shopping in town,\"},{\"lineNumber\":190902,\"originalJapaneseLine\":\"何故かウズメもついてくることになった。\",\"translatedEnglishLine\":\"for some reason, Uzume ended up coming along.\"},{\"lineNumber\":190903,\"originalJapaneseLine\":\"「今日のウズメ、護衛。\",\"translatedEnglishLine\":\"\\\"Today's Uzume is the bodyguard.\"},{\"lineNumber\":190904,\"originalJapaneseLine\":\"　えっへんでござる」\",\"translatedEnglishLine\":\"Ehehen!\\\"\"},{\"lineNumber\":190905,\"originalJapaneseLine\":\"何故かウズメは薄い胸をえへんと張った。\",\"translatedEnglishLine\":\"For some reason, Uzume puffed out her flat chest proudly.\"},{\"lineNumber\":190906,\"originalJapaneseLine\":\"「主君に何かあってはいかんでござるからね、\",\"translatedEnglishLine\":\"\\\"Something must not happen to my lord,\"},{\"lineNumber\":190907,\"originalJapaneseLine\":\"　今日はウズメが傍で守るでござる」\",\"translatedEnglishLine\":\"so today Uzume will protect you by your side.\\\"\"},{\"lineNumber\":190908,\"originalJapaneseLine\":\"「ま、主君は強いので護衛なんて\",\"translatedEnglishLine\":\"\\\"Well, since my lord is strong,\"},{\"lineNumber\":190909,\"originalJapaneseLine\":\"　本当はいらんでござるけどね。\",\"translatedEnglishLine\":\"I don't really need to be a bodyguard.\"},{\"lineNumber\":190910,\"originalJapaneseLine\":\"　一緒に遊びに行く口実でござる」\",\"translatedEnglishLine\":\"It's just an excuse to go out and have fun together.\\\"\"},{\"lineNumber\":190911,\"originalJapaneseLine\":\"「さ、行こう行こーうでござる」\",\"translatedEnglishLine\":\"\\\"Come on, let's go!\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":190852,"originalJapaneseLine":"「よっ、ほっ、はーっ」","translatedEnglishLine":"\"Yo, ho, ha!\""},{"lineNumber":190853,"originalJapaneseLine":"早朝、ウズメが手裏剣術の訓練をしていた。","translatedEnglishLine":"Early in the morning, Uzume was training in shuriken techniques."},{"lineNumber":190854,"originalJapaneseLine":"「…………。」","translatedEnglishLine":"\"........\""},{"lineNumber":190855,"originalJapaneseLine":"「あ、おはようござる、主君どの」","translatedEnglishLine":"\"Ah, good morning, my lord.\""},{"lineNumber":190856,"originalJapaneseLine":"すこん、すこん、すこーん！","translatedEnglishLine":"Thud, thud, swoosh!"},{"lineNumber":190857,"originalJapaneseLine":"顔はあなたに向けたまま、ウズメが","translatedEnglishLine":"With her face still turned towards you, Uzume"},{"lineNumber":190858,"originalJapaneseLine":"木にくくりつけられた的に手裏剣を命中させる。","translatedEnglishLine":"hits the target tied to the tree with her shuriken."},{"lineNumber":190859,"originalJapaneseLine":"「…………。」","translatedEnglishLine":"\"........\""},{"lineNumber":190860,"originalJapaneseLine":"その技術力にあなたはパチパチと拍手を送った。","translatedEnglishLine":"You applaud her skill with a round of claps."},{"lineNumber":190861,"originalJapaneseLine":"「にょほほ、照れるでござるね」","translatedEnglishLine":"\"Nyohoho, I'm flattered, indeed.\""},{"lineNumber":190862,"originalJapaneseLine":"「この手の技術は全て母上殿に教わったでござる。","translatedEnglishLine":"\"All these kinds of skills were taught to me by my mother.\""},{"lineNumber":190863,"originalJapaneseLine":"　ウズメが褒められると母上殿が","translatedEnglishLine":"When Uzume is praised, my mother"},{"lineNumber":190864,"originalJapaneseLine":"　褒められたようで嬉しいでござる」","translatedEnglishLine":"seems pleased as if she herself were praised.\""},{"lineNumber":190865,"originalJapaneseLine":"「そういえば前にも言ったでござるね。","translatedEnglishLine":"\"Now that you mention it, I've said it before.\""},{"lineNumber":190866,"originalJapaneseLine":"　ウズメの師匠は母上殿でござる」","translatedEnglishLine":"\"Uzume's master is my mother.\""},{"lineNumber":190867,"originalJapaneseLine":"「ウズメの母上殿？","translatedEnglishLine":"\"Uzume's mother?\""},{"lineNumber":190868,"originalJapaneseLine":"　それはもうすごい人でござるよ」","translatedEnglishLine":"\"She's truly an amazing person.\""},{"lineNumber":190869,"originalJapaneseLine":"「その攻撃は雷のように苛烈、","translatedEnglishLine":"\"Her attacks are fierce like lightning,"},{"lineNumber":190870,"originalJapaneseLine":"　その動きは木の葉のように軽やか、","translatedEnglishLine":"her movements as light as leaves,"},{"lineNumber":190871,"originalJapaneseLine":"　その心は川のように柔軟……」","translatedEnglishLine":"and her spirit as flexible as a river...\""},{"lineNumber":190872,"originalJapaneseLine":"「まさに忍者の理想を体現される人でござる。","translatedEnglishLine":"\"She embodies the very ideal of a ninja."},{"lineNumber":190873,"originalJapaneseLine":"　ウズメも母上殿にだけは頭が上がらない」","translatedEnglishLine":"Uzume can't hold her head up high before her mother.\""},{"lineNumber":190874,"originalJapaneseLine":"「小さい頃から、それはもう、","translatedEnglishLine":"\"Since I was little, really,"},{"lineNumber":190875,"originalJapaneseLine":"　たっくさんのことを教わったでござるよ」","translatedEnglishLine":"I've learned so many things from her.\""},{"lineNumber":190876,"originalJapaneseLine":"どうやらよほど尊敬しているらしい。","translatedEnglishLine":"It seems she respects her very much."},{"lineNumber":190877,"originalJapaneseLine":"母親のことを語るウズメは活き活きとしていた。","translatedEnglishLine":"Uzume looked lively as she spoke about her mother."},{"lineNumber":190878,"originalJapaneseLine":"「ウズメはお母さん、好きよねぇ……」","translatedEnglishLine":"\"Uzume really loves her mother, doesn't she...?\""},{"lineNumber":190879,"originalJapaneseLine":"「あ、志津香姉上」","translatedEnglishLine":"\"Ah, sister Shizuka.\""},{"lineNumber":190880,"originalJapaneseLine":"「うい、母上殿はウズメにとって","translatedEnglishLine":"\"Yeah, my mother is to Uzume"},{"lineNumber":190881,"originalJapaneseLine":"　母にして師匠にして憧れでござる」","translatedEnglishLine":"both a mother, a master, and an admiration.\""},{"lineNumber":190882,"originalJapaneseLine":"「まあ、魔王の子って大体みんな","translatedEnglishLine":"\"Well, the children of the Demon King are usually all"},{"lineNumber":190883,"originalJapaneseLine":"　母親と仲良しだけど……」","translatedEnglishLine":"close with their mothers...\""},{"lineNumber":190884,"originalJapaneseLine":"「憧れ……憧れ、ねぇ……」","translatedEnglishLine":"\"Admiration... admiration, huh...\""},{"lineNumber":190885,"originalJapaneseLine":"「ん？　どうかしたでござる？」","translatedEnglishLine":"\"Hm? Is something wrong?\""},{"lineNumber":190886,"originalJapaneseLine":"「んーん、なんでも」","translatedEnglishLine":"\"Mm, nothing.\""},{"lineNumber":190887,"originalJapaneseLine":"「？？」","translatedEnglishLine":"\"??\""},{"lineNumber":190888,"originalJapaneseLine":"「ああ、＜エール＞は何も知らないんだっけ」","translatedEnglishLine":"\"Ah, <Yell> doesn't know anything, right?\""},{"lineNumber":190889,"originalJapaneseLine":"こそっと、あなたにだけ聞こえるような","translatedEnglishLine":"Quietly, so only you can hear,"},{"lineNumber":190890,"originalJapaneseLine":"小さな声で志津香が囁く。","translatedEnglishLine":"Shizuka whispers in a small voice."},{"lineNumber":190891,"originalJapaneseLine":"「ウズメのお母さんって確かに忍者だけど、","translatedEnglishLine":"\"Uzume's mother is certainly a ninja, but,"},{"lineNumber":190892,"originalJapaneseLine":"　能力自体は、その……中の上くらいでね……」","translatedEnglishLine":"her abilities themselves are... well... above average...\""},{"lineNumber":190893,"originalJapaneseLine":"「要はウズメの方が才能も能力も高いのよ……","translatedEnglishLine":"\"In short, Uzume has greater talent and ability..."},{"lineNumber":190894,"originalJapaneseLine":"　それが分かってないのはウズメだけでね」","translatedEnglishLine":"and Uzume is the only one who doesn't realize this.\""},{"lineNumber":190895,"originalJapaneseLine":"「はあ……かなみさんも大変だわ……」","translatedEnglishLine":"\"Hah... Kanami-san has it tough too...\""},{"lineNumber":190896,"originalJapaneseLine":"どうやら、志津香にとって親しい間柄に","translatedEnglishLine":"Apparently, to Shizuka, that woman, someone close,"},{"lineNumber":190897,"originalJapaneseLine":"あるらしきその女性は苦労が絶えないらしい。","translatedEnglishLine":"seems to suffer endless hardships."},{"lineNumber":190898,"originalJapaneseLine":"「おーい、主君どのー！","translatedEnglishLine":"\"Hey, my lord!"},{"lineNumber":190899,"originalJapaneseLine":"　主君も一緒に手裏剣投げしないでござるかー！」","translatedEnglishLine":"Won't you throw shuriken together with me?\""},{"lineNumber":190900,"originalJapaneseLine":"ウズメは無邪気に笑っていた。","translatedEnglishLine":"Uzume was smiling innocently."},{"lineNumber":190901,"originalJapaneseLine":"町に買い物に出ると、","translatedEnglishLine":"When going out shopping in town,"},{"lineNumber":190902,"originalJapaneseLine":"何故かウズメもついてくることになった。","translatedEnglishLine":"for some reason, Uzume ended up coming along."},{"lineNumber":190903,"originalJapaneseLine":"「今日のウズメ、護衛。","translatedEnglishLine":"\"Today's Uzume is the bodyguard."},{"lineNumber":190904,"originalJapaneseLine":"　えっへんでござる」","translatedEnglishLine":"Ehehen!\""},{"lineNumber":190905,"originalJapaneseLine":"何故かウズメは薄い胸をえへんと張った。","translatedEnglishLine":"For some reason, Uzume puffed out her flat chest proudly."},{"lineNumber":190906,"originalJapaneseLine":"「主君に何かあってはいかんでござるからね、","translatedEnglishLine":"\"Something must not happen to my lord,"},{"lineNumber":190907,"originalJapaneseLine":"　今日はウズメが傍で守るでござる」","translatedEnglishLine":"so today Uzume will protect you by your side.\""},{"lineNumber":190908,"originalJapaneseLine":"「ま、主君は強いので護衛なんて","translatedEnglishLine":"\"Well, since my lord is strong,"},{"lineNumber":190909,"originalJapaneseLine":"　本当はいらんでござるけどね。","translatedEnglishLine":"I don't really need to be a bodyguard."},{"lineNumber":190910,"originalJapaneseLine":"　一緒に遊びに行く口実でござる」","translatedEnglishLine":"It's just an excuse to go out and have fun together.\""},{"lineNumber":190911,"originalJapaneseLine":"「さ、行こう行こーうでござる」","translatedEnglishLine":"\"Come on, let's go!\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1830,"input_tokens_details":{"cached_tokens":0},"output_tokens":2362,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":4192},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":190852,\"originalJapaneseLine\":\"「よっ、ほっ、はーっ」\",\"translatedEnglishLine\":\"\\\"Yo, ho, ha!\\\"\"},{\"lineNumber\":190853,\"originalJapaneseLine\":\"早朝、ウズメが手裏剣術の訓練をしていた。\",\"translatedEnglishLine\":\"Early in the morning, Uzume was training in shuriken techniques.\"},{\"lineNumber\":190854,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":190855,\"originalJapaneseLine\":\"「あ、おはようござる、主君どの」\",\"translatedEnglishLine\":\"\\\"Ah, good morning, my lord.\\\"\"},{\"lineNumber\":190856,\"originalJapaneseLine\":\"すこん、すこん、すこーん！\",\"translatedEnglishLine\":\"Thud, thud, swoosh!\"},{\"lineNumber\":190857,\"originalJapaneseLine\":\"顔はあなたに向けたまま、ウズメが\",\"translatedEnglishLine\":\"With her face still turned towards you, Uzume\"},{\"lineNumber\":190858,\"originalJapaneseLine\":\"木にくくりつけられた的に手裏剣を命中させる。\",\"translatedEnglishLine\":\"hits the target tied to the tree with her shuriken.\"},{\"lineNumber\":190859,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":190860,\"originalJapaneseLine\":\"その技術力にあなたはパチパチと拍手を送った。\",\"translatedEnglishLine\":\"You applaud her skill with a round of claps.\"},{\"lineNumber\":190861,\"originalJapaneseLine\":\"「にょほほ、照れるでござるね」\",\"translatedEnglishLine\":\"\\\"Nyohoho, I'm flattered, indeed.\\\"\"},{\"lineNumber\":190862,\"originalJapaneseLine\":\"「この手の技術は全て母上殿に教わったでござる。\",\"translatedEnglishLine\":\"\\\"All these kinds of skills were taught to me by my mother.\\\"\"},{\"lineNumber\":190863,\"originalJapaneseLine\":\"　ウズメが褒められると母上殿が\",\"translatedEnglishLine\":\"When Uzume is praised, my mother\"},{\"lineNumber\":190864,\"originalJapaneseLine\":\"　褒められたようで嬉しいでござる」\",\"translatedEnglishLine\":\"seems pleased as if she herself were praised.\\\"\"},{\"lineNumber\":190865,\"originalJapaneseLine\":\"「そういえば前にも言ったでござるね。\",\"translatedEnglishLine\":\"\\\"Now that you mention it, I've said it before.\\\"\"},{\"lineNumber\":190866,\"originalJapaneseLine\":\"　ウズメの師匠は母上殿でござる」\",\"translatedEnglishLine\":\"\\\"Uzume's master is my mother.\\\"\"},{\"lineNumber\":190867,\"originalJapaneseLine\":\"「ウズメの母上殿？\",\"translatedEnglishLine\":\"\\\"Uzume's mother?\\\"\"},{\"lineNumber\":190868,\"originalJapaneseLine\":\"　それはもうすごい人でござるよ」\",\"translatedEnglishLine\":\"\\\"She's truly an amazing person.\\\"\"},{\"lineNumber\":190869,\"originalJapaneseLine\":\"「その攻撃は雷のように苛烈、\",\"translatedEnglishLine\":\"\\\"Her attacks are fierce like lightning,\"},{\"lineNumber\":190870,\"originalJapaneseLine\":\"　その動きは木の葉のように軽やか、\",\"translatedEnglishLine\":\"her movements as light as leaves,\"},{\"lineNumber\":190871,\"originalJapaneseLine\":\"　その心は川のように柔軟……」\",\"translatedEnglishLine\":\"and her spirit as flexible as a river...\\\"\"},{\"lineNumber\":190872,\"originalJapaneseLine\":\"「まさに忍者の理想を体現される人でござる。\",\"translatedEnglishLine\":\"\\\"She embodies the very ideal of a ninja.\"},{\"lineNumber\":190873,\"originalJapaneseLine\":\"　ウズメも母上殿にだけは頭が上がらない」\",\"translatedEnglishLine\":\"Uzume can't hold her head up high before her mother.\\\"\"},{\"lineNumber\":190874,\"originalJapaneseLine\":\"「小さい頃から、それはもう、\",\"translatedEnglishLine\":\"\\\"Since I was little, really,\"},{\"lineNumber\":190875,\"originalJapaneseLine\":\"　たっくさんのことを教わったでござるよ」\",\"translatedEnglishLine\":\"I've learned so many things from her.\\\"\"},{\"lineNumber\":190876,\"originalJapaneseLine\":\"どうやらよほど尊敬しているらしい。\",\"translatedEnglishLine\":\"It seems she respects her very much.\"},{\"lineNumber\":190877,\"originalJapaneseLine\":\"母親のことを語るウズメは活き活きとしていた。\",\"translatedEnglishLine\":\"Uzume looked lively as she spoke about her mother.\"},{\"lineNumber\":190878,\"originalJapaneseLine\":\"「ウズメはお母さん、好きよねぇ……」\",\"translatedEnglishLine\":\"\\\"Uzume really loves her mother, doesn't she...?\\\"\"},{\"lineNumber\":190879,\"originalJapaneseLine\":\"「あ、志津香姉上」\",\"translatedEnglishLine\":\"\\\"Ah, sister Shizuka.\\\"\"},{\"lineNumber\":190880,\"originalJapaneseLine\":\"「うい、母上殿はウズメにとって\",\"translatedEnglishLine\":\"\\\"Yeah, my mother is to Uzume\"},{\"lineNumber\":190881,\"originalJapaneseLine\":\"　母にして師匠にして憧れでござる」\",\"translatedEnglishLine\":\"both a mother, a master, and an admiration.\\\"\"},{\"lineNumber\":190882,\"originalJapaneseLine\":\"「まあ、魔王の子って大体みんな\",\"translatedEnglishLine\":\"\\\"Well, the children of the Demon King are usually all\"},{\"lineNumber\":190883,\"originalJapaneseLine\":\"　母親と仲良しだけど……」\",\"translatedEnglishLine\":\"close with their mothers...\\\"\"},{\"lineNumber\":190884,\"originalJapaneseLine\":\"「憧れ……憧れ、ねぇ……」\",\"translatedEnglishLine\":\"\\\"Admiration... admiration, huh...\\\"\"},{\"lineNumber\":190885,\"originalJapaneseLine\":\"「ん？　どうかしたでござる？」\",\"translatedEnglishLine\":\"\\\"Hm? Is something wrong?\\\"\"},{\"lineNumber\":190886,\"originalJapaneseLine\":\"「んーん、なんでも」\",\"translatedEnglishLine\":\"\\\"Mm, nothing.\\\"\"},{\"lineNumber\":190887,\"originalJapaneseLine\":\"「？？」\",\"translatedEnglishLine\":\"\\\"??\\\"\"},{\"lineNumber\":190888,\"originalJapaneseLine\":\"「ああ、＜エール＞は何も知らないんだっけ」\",\"translatedEnglishLine\":\"\\\"Ah, <Yell> doesn't know anything, right?\\\"\"},{\"lineNumber\":190889,\"originalJapaneseLine\":\"こそっと、あなたにだけ聞こえるような\",\"translatedEnglishLine\":\"Quietly, so only you can hear,\"},{\"lineNumber\":190890,\"originalJapaneseLine\":\"小さな声で志津香が囁く。\",\"translatedEnglishLine\":\"Shizuka whispers in a small voice.\"},{\"lineNumber\":190891,\"originalJapaneseLine\":\"「ウズメのお母さんって確かに忍者だけど、\",\"translatedEnglishLine\":\"\\\"Uzume's mother is certainly a ninja, but,\"},{\"lineNumber\":190892,\"originalJapaneseLine\":\"　能力自体は、その……中の上くらいでね……」\",\"translatedEnglishLine\":\"her abilities themselves are... well... above average...\\\"\"},{\"lineNumber\":190893,\"originalJapaneseLine\":\"「要はウズメの方が才能も能力も高いのよ……\",\"translatedEnglishLine\":\"\\\"In short, Uzume has greater talent and ability...\"},{\"lineNumber\":190894,\"originalJapaneseLine\":\"　それが分かってないのはウズメだけでね」\",\"translatedEnglishLine\":\"and Uzume is the only one who doesn't realize this.\\\"\"},{\"lineNumber\":190895,\"originalJapaneseLine\":\"「はあ……かなみさんも大変だわ……」\",\"translatedEnglishLine\":\"\\\"Hah... Kanami-san has it tough too...\\\"\"},{\"lineNumber\":190896,\"originalJapaneseLine\":\"どうやら、志津香にとって親しい間柄に\",\"translatedEnglishLine\":\"Apparently, to Shizuka, that woman, someone close,\"},{\"lineNumber\":190897,\"originalJapaneseLine\":\"あるらしきその女性は苦労が絶えないらしい。\",\"translatedEnglishLine\":\"seems to suffer endless hardships.\"},{\"lineNumber\":190898,\"originalJapaneseLine\":\"「おーい、主君どのー！\",\"translatedEnglishLine\":\"\\\"Hey, my lord!\"},{\"lineNumber\":190899,\"originalJapaneseLine\":\"　主君も一緒に手裏剣投げしないでござるかー！」\",\"translatedEnglishLine\":\"Won't you throw shuriken together with me?\\\"\"},{\"lineNumber\":190900,\"originalJapaneseLine\":\"ウズメは無邪気に笑っていた。\",\"translatedEnglishLine\":\"Uzume was smiling innocently.\"},{\"lineNumber\":190901,\"originalJapaneseLine\":\"町に買い物に出ると、\",\"translatedEnglishLine\":\"When going out shopping in town,\"},{\"lineNumber\":190902,\"originalJapaneseLine\":\"何故かウズメもついてくることになった。\",\"translatedEnglishLine\":\"for some reason, Uzume ended up coming along.\"},{\"lineNumber\":190903,\"originalJapaneseLine\":\"「今日のウズメ、護衛。\",\"translatedEnglishLine\":\"\\\"Today's Uzume is the bodyguard.\"},{\"lineNumber\":190904,\"originalJapaneseLine\":\"　えっへんでござる」\",\"translatedEnglishLine\":\"Ehehen!\\\"\"},{\"lineNumber\":190905,\"originalJapaneseLine\":\"何故かウズメは薄い胸をえへんと張った。\",\"translatedEnglishLine\":\"For some reason, Uzume puffed out her flat chest proudly.\"},{\"lineNumber\":190906,\"originalJapaneseLine\":\"「主君に何かあってはいかんでござるからね、\",\"translatedEnglishLine\":\"\\\"Something must not happen to my lord,\"},{\"lineNumber\":190907,\"originalJapaneseLine\":\"　今日はウズメが傍で守るでござる」\",\"translatedEnglishLine\":\"so today Uzume will protect you by your side.\\\"\"},{\"lineNumber\":190908,\"originalJapaneseLine\":\"「ま、主君は強いので護衛なんて\",\"translatedEnglishLine\":\"\\\"Well, since my lord is strong,\"},{\"lineNumber\":190909,\"originalJapaneseLine\":\"　本当はいらんでござるけどね。\",\"translatedEnglishLine\":\"I don't really need to be a bodyguard.\"},{\"lineNumber\":190910,\"originalJapaneseLine\":\"　一緒に遊びに行く口実でござる」\",\"translatedEnglishLine\":\"It's just an excuse to go out and have fun together.\\\"\"},{\"lineNumber\":190911,\"originalJapaneseLine\":\"「さ、行こう行こーうでござる」\",\"translatedEnglishLine\":\"\\\"Come on, let's go!\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":190852,"originalJapaneseLine":"「よっ、ほっ、はーっ」","translatedEnglishLine":"\"Yo, ho, ha!\""},{"lineNumber":190853,"originalJapaneseLine":"早朝、ウズメが手裏剣術の訓練をしていた。","translatedEnglishLine":"Early in the morning, Uzume was training in shuriken techniques."},{"lineNumber":190854,"originalJapaneseLine":"「…………。」","translatedEnglishLine":"\"........\""},{"lineNumber":190855,"originalJapaneseLine":"「あ、おはようござる、主君どの」","translatedEnglishLine":"\"Ah, good morning, my lord.\""},{"lineNumber":190856,"originalJapaneseLine":"すこん、すこん、すこーん！","translatedEnglishLine":"Thud, thud, swoosh!"},{"lineNumber":190857,"originalJapaneseLine":"顔はあなたに向けたまま、ウズメが","translatedEnglishLine":"With her face still turned towards you, Uzume"},{"lineNumber":190858,"originalJapaneseLine":"木にくくりつけられた的に手裏剣を命中させる。","translatedEnglishLine":"hits the target tied to the tree with her shuriken."},{"lineNumber":190859,"originalJapaneseLine":"「…………。」","translatedEnglishLine":"\"........\""},{"lineNumber":190860,"originalJapaneseLine":"その技術力にあなたはパチパチと拍手を送った。","translatedEnglishLine":"You applaud her skill with a round of claps."},{"lineNumber":190861,"originalJapaneseLine":"「にょほほ、照れるでござるね」","translatedEnglishLine":"\"Nyohoho, I'm flattered, indeed.\""},{"lineNumber":190862,"originalJapaneseLine":"「この手の技術は全て母上殿に教わったでござる。","translatedEnglishLine":"\"All these kinds of skills were taught to me by my mother.\""},{"lineNumber":190863,"originalJapaneseLine":"　ウズメが褒められると母上殿が","translatedEnglishLine":"When Uzume is praised, my mother"},{"lineNumber":190864,"originalJapaneseLine":"　褒められたようで嬉しいでござる」","translatedEnglishLine":"seems pleased as if she herself were praised.\""},{"lineNumber":190865,"originalJapaneseLine":"「そういえば前にも言ったでござるね。","translatedEnglishLine":"\"Now that you mention it, I've said it before.\""},{"lineNumber":190866,"originalJapaneseLine":"　ウズメの師匠は母上殿でござる」","translatedEnglishLine":"\"Uzume's master is my mother.\""},{"lineNumber":190867,"originalJapaneseLine":"「ウズメの母上殿？","translatedEnglishLine":"\"Uzume's mother?\""},{"lineNumber":190868,"originalJapaneseLine":"　それはもうすごい人でござるよ」","translatedEnglishLine":"\"She's truly an amazing person.\""},{"lineNumber":190869,"originalJapaneseLine":"「その攻撃は雷のように苛烈、","translatedEnglishLine":"\"Her attacks are fierce like lightning,"},{"lineNumber":190870,"originalJapaneseLine":"　その動きは木の葉のように軽やか、","translatedEnglishLine":"her movements as light as leaves,"},{"lineNumber":190871,"originalJapaneseLine":"　その心は川のように柔軟……」","translatedEnglishLine":"and her spirit as flexible as a river...\""},{"lineNumber":190872,"originalJapaneseLine":"「まさに忍者の理想を体現される人でござる。","translatedEnglishLine":"\"She embodies the very ideal of a ninja."},{"lineNumber":190873,"originalJapaneseLine":"　ウズメも母上殿にだけは頭が上がらない」","translatedEnglishLine":"Uzume can't hold her head up high before her mother.\""},{"lineNumber":190874,"originalJapaneseLine":"「小さい頃から、それはもう、","translatedEnglishLine":"\"Since I was little, really,"},{"lineNumber":190875,"originalJapaneseLine":"　たっくさんのことを教わったでござるよ」","translatedEnglishLine":"I've learned so many things from her.\""},{"lineNumber":190876,"originalJapaneseLine":"どうやらよほど尊敬しているらしい。","translatedEnglishLine":"It seems she respects her very much."},{"lineNumber":190877,"originalJapaneseLine":"母親のことを語るウズメは活き活きとしていた。","translatedEnglishLine":"Uzume looked lively as she spoke about her mother."},{"lineNumber":190878,"originalJapaneseLine":"「ウズメはお母さん、好きよねぇ……」","translatedEnglishLine":"\"Uzume really loves her mother, doesn't she...?\""},{"lineNumber":190879,"originalJapaneseLine":"「あ、志津香姉上」","translatedEnglishLine":"\"Ah, sister Shizuka.\""},{"lineNumber":190880,"originalJapaneseLine":"「うい、母上殿はウズメにとって","translatedEnglishLine":"\"Yeah, my mother is to Uzume"},{"lineNumber":190881,"originalJapaneseLine":"　母にして師匠にして憧れでござる」","translatedEnglishLine":"both a mother, a master, and an admiration.\""},{"lineNumber":190882,"originalJapaneseLine":"「まあ、魔王の子って大体みんな","translatedEnglishLine":"\"Well, the children of the Demon King are usually all"},{"lineNumber":190883,"originalJapaneseLine":"　母親と仲良しだけど……」","translatedEnglishLine":"close with their mothers...\""},{"lineNumber":190884,"originalJapaneseLine":"「憧れ……憧れ、ねぇ……」","translatedEnglishLine":"\"Admiration... admiration, huh...\""},{"lineNumber":190885,"originalJapaneseLine":"「ん？　どうかしたでござる？」","translatedEnglishLine":"\"Hm? Is something wrong?\""},{"lineNumber":190886,"originalJapaneseLine":"「んーん、なんでも」","translatedEnglishLine":"\"Mm, nothing.\""},{"lineNumber":190887,"originalJapaneseLine":"「？？」","translatedEnglishLine":"\"??\""},{"lineNumber":190888,"originalJapaneseLine":"「ああ、＜エール＞は何も知らないんだっけ」","translatedEnglishLine":"\"Ah, <Yell> doesn't know anything, right?\""},{"lineNumber":190889,"originalJapaneseLine":"こそっと、あなたにだけ聞こえるような","translatedEnglishLine":"Quietly, so only you can hear,"},{"lineNumber":190890,"originalJapaneseLine":"小さな声で志津香が囁く。","translatedEnglishLine":"Shizuka whispers in a small voice."},{"lineNumber":190891,"originalJapaneseLine":"「ウズメのお母さんって確かに忍者だけど、","translatedEnglishLine":"\"Uzume's mother is certainly a ninja, but,"},{"lineNumber":190892,"originalJapaneseLine":"　能力自体は、その……中の上くらいでね……」","translatedEnglishLine":"her abilities themselves are... well... above average...\""},{"lineNumber":190893,"originalJapaneseLine":"「要はウズメの方が才能も能力も高いのよ……","translatedEnglishLine":"\"In short, Uzume has greater talent and ability..."},{"lineNumber":190894,"originalJapaneseLine":"　それが分かってないのはウズメだけでね」","translatedEnglishLine":"and Uzume is the only one who doesn't realize this.\""},{"lineNumber":190895,"originalJapaneseLine":"「はあ……かなみさんも大変だわ……」","translatedEnglishLine":"\"Hah... Kanami-san has it tough too...\""},{"lineNumber":190896,"originalJapaneseLine":"どうやら、志津香にとって親しい間柄に","translatedEnglishLine":"Apparently, to Shizuka, that woman, someone close,"},{"lineNumber":190897,"originalJapaneseLine":"あるらしきその女性は苦労が絶えないらしい。","translatedEnglishLine":"seems to suffer endless hardships."},{"lineNumber":190898,"originalJapaneseLine":"「おーい、主君どのー！","translatedEnglishLine":"\"Hey, my lord!"},{"lineNumber":190899,"originalJapaneseLine":"　主君も一緒に手裏剣投げしないでござるかー！」","translatedEnglishLine":"Won't you throw shuriken together with me?\""},{"lineNumber":190900,"originalJapaneseLine":"ウズメは無邪気に笑っていた。","translatedEnglishLine":"Uzume was smiling innocently."},{"lineNumber":190901,"originalJapaneseLine":"町に買い物に出ると、","translatedEnglishLine":"When going out shopping in town,"},{"lineNumber":190902,"originalJapaneseLine":"何故かウズメもついてくることになった。","translatedEnglishLine":"for some reason, Uzume ended up coming along."},{"lineNumber":190903,"originalJapaneseLine":"「今日のウズメ、護衛。","translatedEnglishLine":"\"Today's Uzume is the bodyguard."},{"lineNumber":190904,"originalJapaneseLine":"　えっへんでござる」","translatedEnglishLine":"Ehehen!\""},{"lineNumber":190905,"originalJapaneseLine":"何故かウズメは薄い胸をえへんと張った。","translatedEnglishLine":"For some reason, Uzume puffed out her flat chest proudly."},{"lineNumber":190906,"originalJapaneseLine":"「主君に何かあってはいかんでござるからね、","translatedEnglishLine":"\"Something must not happen to my lord,"},{"lineNumber":190907,"originalJapaneseLine":"　今日はウズメが傍で守るでござる」","translatedEnglishLine":"so today Uzume will protect you by your side.\""},{"lineNumber":190908,"originalJapaneseLine":"「ま、主君は強いので護衛なんて","translatedEnglishLine":"\"Well, since my lord is strong,"},{"lineNumber":190909,"originalJapaneseLine":"　本当はいらんでござるけどね。","translatedEnglishLine":"I don't really need to be a bodyguard."},{"lineNumber":190910,"originalJapaneseLine":"　一緒に遊びに行く口実でござる」","translatedEnglishLine":"It's just an excuse to go out and have fun together.\""},{"lineNumber":190911,"originalJapaneseLine":"「さ、行こう行こーうでござる」","translatedEnglishLine":"\"Come on, let's go!\""}]}}
+{
+    "id": "resp_0b3b2bd26610ec140068f1a8cdba6881958467ae8f2ca87ec1",
+    "object": "response",
+    "created_at": 1760667853,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0b3b2bd26610ec140068f1a8ce44dc81959e8586eaf1f21214",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":190852,\"originalJapaneseLine\":\"「よっ、ほっ、はーっ」\",\"translatedEnglishLine\":\"\\\"Yo, ho, ha!\\\"\"},{\"lineNumber\":190853,\"originalJapaneseLine\":\"早朝、ウズメが手裏剣術の訓練をしていた。\",\"translatedEnglishLine\":\"Early in the morning, Uzume was training in shuriken techniques.\"},{\"lineNumber\":190854,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":190855,\"originalJapaneseLine\":\"「あ、おはようござる、主君どの」\",\"translatedEnglishLine\":\"\\\"Ah, good morning, my lord.\\\"\"},{\"lineNumber\":190856,\"originalJapaneseLine\":\"すこん、すこん、すこーん！\",\"translatedEnglishLine\":\"Thud, thud, swoosh!\"},{\"lineNumber\":190857,\"originalJapaneseLine\":\"顔はあなたに向けたまま、ウズメが\",\"translatedEnglishLine\":\"With her face still turned towards you, Uzume\"},{\"lineNumber\":190858,\"originalJapaneseLine\":\"木にくくりつけられた的に手裏剣を命中させる。\",\"translatedEnglishLine\":\"hits the target tied to the tree with her shuriken.\"},{\"lineNumber\":190859,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":190860,\"originalJapaneseLine\":\"その技術力にあなたはパチパチと拍手を送った。\",\"translatedEnglishLine\":\"You applaud her skill with a round of claps.\"},{\"lineNumber\":190861,\"originalJapaneseLine\":\"「にょほほ、照れるでござるね」\",\"translatedEnglishLine\":\"\\\"Nyohoho, I'm flattered, indeed.\\\"\"},{\"lineNumber\":190862,\"originalJapaneseLine\":\"「この手の技術は全て母上殿に教わったでござる。\",\"translatedEnglishLine\":\"\\\"All these kinds of skills were taught to me by my mother.\\\"\"},{\"lineNumber\":190863,\"originalJapaneseLine\":\"　ウズメが褒められると母上殿が\",\"translatedEnglishLine\":\"When Uzume is praised, my mother\"},{\"lineNumber\":190864,\"originalJapaneseLine\":\"　褒められたようで嬉しいでござる」\",\"translatedEnglishLine\":\"seems pleased as if she herself were praised.\\\"\"},{\"lineNumber\":190865,\"originalJapaneseLine\":\"「そういえば前にも言ったでござるね。\",\"translatedEnglishLine\":\"\\\"Now that you mention it, I've said it before.\\\"\"},{\"lineNumber\":190866,\"originalJapaneseLine\":\"　ウズメの師匠は母上殿でござる」\",\"translatedEnglishLine\":\"\\\"Uzume's master is my mother.\\\"\"},{\"lineNumber\":190867,\"originalJapaneseLine\":\"「ウズメの母上殿？\",\"translatedEnglishLine\":\"\\\"Uzume's mother?\\\"\"},{\"lineNumber\":190868,\"originalJapaneseLine\":\"　それはもうすごい人でござるよ」\",\"translatedEnglishLine\":\"\\\"She's truly an amazing person.\\\"\"},{\"lineNumber\":190869,\"originalJapaneseLine\":\"「その攻撃は雷のように苛烈、\",\"translatedEnglishLine\":\"\\\"Her attacks are fierce like lightning,\"},{\"lineNumber\":190870,\"originalJapaneseLine\":\"　その動きは木の葉のように軽やか、\",\"translatedEnglishLine\":\"her movements as light as leaves,\"},{\"lineNumber\":190871,\"originalJapaneseLine\":\"　その心は川のように柔軟……」\",\"translatedEnglishLine\":\"and her spirit as flexible as a river...\\\"\"},{\"lineNumber\":190872,\"originalJapaneseLine\":\"「まさに忍者の理想を体現される人でござる。\",\"translatedEnglishLine\":\"\\\"She embodies the very ideal of a ninja.\"},{\"lineNumber\":190873,\"originalJapaneseLine\":\"　ウズメも母上殿にだけは頭が上がらない」\",\"translatedEnglishLine\":\"Uzume can't hold her head up high before her mother.\\\"\"},{\"lineNumber\":190874,\"originalJapaneseLine\":\"「小さい頃から、それはもう、\",\"translatedEnglishLine\":\"\\\"Since I was little, really,\"},{\"lineNumber\":190875,\"originalJapaneseLine\":\"　たっくさんのことを教わったでござるよ」\",\"translatedEnglishLine\":\"I've learned so many things from her.\\\"\"},{\"lineNumber\":190876,\"originalJapaneseLine\":\"どうやらよほど尊敬しているらしい。\",\"translatedEnglishLine\":\"It seems she respects her very much.\"},{\"lineNumber\":190877,\"originalJapaneseLine\":\"母親のことを語るウズメは活き活きとしていた。\",\"translatedEnglishLine\":\"Uzume looked lively as she spoke about her mother.\"},{\"lineNumber\":190878,\"originalJapaneseLine\":\"「ウズメはお母さん、好きよねぇ……」\",\"translatedEnglishLine\":\"\\\"Uzume really loves her mother, doesn't she...?\\\"\"},{\"lineNumber\":190879,\"originalJapaneseLine\":\"「あ、志津香姉上」\",\"translatedEnglishLine\":\"\\\"Ah, sister Shizuka.\\\"\"},{\"lineNumber\":190880,\"originalJapaneseLine\":\"「うい、母上殿はウズメにとって\",\"translatedEnglishLine\":\"\\\"Yeah, my mother is to Uzume\"},{\"lineNumber\":190881,\"originalJapaneseLine\":\"　母にして師匠にして憧れでござる」\",\"translatedEnglishLine\":\"both a mother, a master, and an admiration.\\\"\"},{\"lineNumber\":190882,\"originalJapaneseLine\":\"「まあ、魔王の子って大体みんな\",\"translatedEnglishLine\":\"\\\"Well, the children of the Demon King are usually all\"},{\"lineNumber\":190883,\"originalJapaneseLine\":\"　母親と仲良しだけど……」\",\"translatedEnglishLine\":\"close with their mothers...\\\"\"},{\"lineNumber\":190884,\"originalJapaneseLine\":\"「憧れ……憧れ、ねぇ……」\",\"translatedEnglishLine\":\"\\\"Admiration... admiration, huh...\\\"\"},{\"lineNumber\":190885,\"originalJapaneseLine\":\"「ん？　どうかしたでござる？」\",\"translatedEnglishLine\":\"\\\"Hm? Is something wrong?\\\"\"},{\"lineNumber\":190886,\"originalJapaneseLine\":\"「んーん、なんでも」\",\"translatedEnglishLine\":\"\\\"Mm, nothing.\\\"\"},{\"lineNumber\":190887,\"originalJapaneseLine\":\"「？？」\",\"translatedEnglishLine\":\"\\\"??\\\"\"},{\"lineNumber\":190888,\"originalJapaneseLine\":\"「ああ、＜エール＞は何も知らないんだっけ」\",\"translatedEnglishLine\":\"\\\"Ah, <Yell> doesn't know anything, right?\\\"\"},{\"lineNumber\":190889,\"originalJapaneseLine\":\"こそっと、あなたにだけ聞こえるような\",\"translatedEnglishLine\":\"Quietly, so only you can hear,\"},{\"lineNumber\":190890,\"originalJapaneseLine\":\"小さな声で志津香が囁く。\",\"translatedEnglishLine\":\"Shizuka whispers in a small voice.\"},{\"lineNumber\":190891,\"originalJapaneseLine\":\"「ウズメのお母さんって確かに忍者だけど、\",\"translatedEnglishLine\":\"\\\"Uzume's mother is certainly a ninja, but,\"},{\"lineNumber\":190892,\"originalJapaneseLine\":\"　能力自体は、その……中の上くらいでね……」\",\"translatedEnglishLine\":\"her abilities themselves are... well... above average...\\\"\"},{\"lineNumber\":190893,\"originalJapaneseLine\":\"「要はウズメの方が才能も能力も高いのよ……\",\"translatedEnglishLine\":\"\\\"In short, Uzume has greater talent and ability...\"},{\"lineNumber\":190894,\"originalJapaneseLine\":\"　それが分かってないのはウズメだけでね」\",\"translatedEnglishLine\":\"and Uzume is the only one who doesn't realize this.\\\"\"},{\"lineNumber\":190895,\"originalJapaneseLine\":\"「はあ……かなみさんも大変だわ……」\",\"translatedEnglishLine\":\"\\\"Hah... Kanami-san has it tough too...\\\"\"},{\"lineNumber\":190896,\"originalJapaneseLine\":\"どうやら、志津香にとって親しい間柄に\",\"translatedEnglishLine\":\"Apparently, to Shizuka, that woman, someone close,\"},{\"lineNumber\":190897,\"originalJapaneseLine\":\"あるらしきその女性は苦労が絶えないらしい。\",\"translatedEnglishLine\":\"seems to suffer endless hardships.\"},{\"lineNumber\":190898,\"originalJapaneseLine\":\"「おーい、主君どのー！\",\"translatedEnglishLine\":\"\\\"Hey, my lord!\"},{\"lineNumber\":190899,\"originalJapaneseLine\":\"　主君も一緒に手裏剣投げしないでござるかー！」\",\"translatedEnglishLine\":\"Won't you throw shuriken together with me?\\\"\"},{\"lineNumber\":190900,\"originalJapaneseLine\":\"ウズメは無邪気に笑っていた。\",\"translatedEnglishLine\":\"Uzume was smiling innocently.\"},{\"lineNumber\":190901,\"originalJapaneseLine\":\"町に買い物に出ると、\",\"translatedEnglishLine\":\"When going out shopping in town,\"},{\"lineNumber\":190902,\"originalJapaneseLine\":\"何故かウズメもついてくることになった。\",\"translatedEnglishLine\":\"for some reason, Uzume ended up coming along.\"},{\"lineNumber\":190903,\"originalJapaneseLine\":\"「今日のウズメ、護衛。\",\"translatedEnglishLine\":\"\\\"Today's Uzume is the bodyguard.\"},{\"lineNumber\":190904,\"originalJapaneseLine\":\"　えっへんでござる」\",\"translatedEnglishLine\":\"Ehehen!\\\"\"},{\"lineNumber\":190905,\"originalJapaneseLine\":\"何故かウズメは薄い胸をえへんと張った。\",\"translatedEnglishLine\":\"For some reason, Uzume puffed out her flat chest proudly.\"},{\"lineNumber\":190906,\"originalJapaneseLine\":\"「主君に何かあってはいかんでござるからね、\",\"translatedEnglishLine\":\"\\\"Something must not happen to my lord,\"},{\"lineNumber\":190907,\"originalJapaneseLine\":\"　今日はウズメが傍で守るでござる」\",\"translatedEnglishLine\":\"so today Uzume will protect you by your side.\\\"\"},{\"lineNumber\":190908,\"originalJapaneseLine\":\"「ま、主君は強いので護衛なんて\",\"translatedEnglishLine\":\"\\\"Well, since my lord is strong,\"},{\"lineNumber\":190909,\"originalJapaneseLine\":\"　本当はいらんでござるけどね。\",\"translatedEnglishLine\":\"I don't really need to be a bodyguard.\"},{\"lineNumber\":190910,\"originalJapaneseLine\":\"　一緒に遊びに行く口実でござる」\",\"translatedEnglishLine\":\"It's just an excuse to go out and have fun together.\\\"\"},{\"lineNumber\":190911,\"originalJapaneseLine\":\"「さ、行こう行こーうでござる」\",\"translatedEnglishLine\":\"\\\"Come on, let's go!\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 190852,
+                                "originalJapaneseLine": "「よっ、ほっ、はーっ」",
+                                "translatedEnglishLine": "\"Yo, ho, ha!\""
+                            },
+                            {
+                                "lineNumber": 190853,
+                                "originalJapaneseLine": "早朝、ウズメが手裏剣術の訓練をしていた。",
+                                "translatedEnglishLine": "Early in the morning, Uzume was training in shuriken techniques."
+                            },
+                            {
+                                "lineNumber": 190854,
+                                "originalJapaneseLine": "「…………。」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": 190855,
+                                "originalJapaneseLine": "「あ、おはようござる、主君どの」",
+                                "translatedEnglishLine": "\"Ah, good morning, my lord.\""
+                            },
+                            {
+                                "lineNumber": 190856,
+                                "originalJapaneseLine": "すこん、すこん、すこーん！",
+                                "translatedEnglishLine": "Thud, thud, swoosh!"
+                            },
+                            {
+                                "lineNumber": 190857,
+                                "originalJapaneseLine": "顔はあなたに向けたまま、ウズメが",
+                                "translatedEnglishLine": "With her face still turned towards you, Uzume"
+                            },
+                            {
+                                "lineNumber": 190858,
+                                "originalJapaneseLine": "木にくくりつけられた的に手裏剣を命中させる。",
+                                "translatedEnglishLine": "hits the target tied to the tree with her shuriken."
+                            },
+                            {
+                                "lineNumber": 190859,
+                                "originalJapaneseLine": "「…………。」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": 190860,
+                                "originalJapaneseLine": "その技術力にあなたはパチパチと拍手を送った。",
+                                "translatedEnglishLine": "You applaud her skill with a round of claps."
+                            },
+                            {
+                                "lineNumber": 190861,
+                                "originalJapaneseLine": "「にょほほ、照れるでござるね」",
+                                "translatedEnglishLine": "\"Nyohoho, I'm flattered, indeed.\""
+                            },
+                            {
+                                "lineNumber": 190862,
+                                "originalJapaneseLine": "「この手の技術は全て母上殿に教わったでござる。",
+                                "translatedEnglishLine": "\"All these kinds of skills were taught to me by my mother.\""
+                            },
+                            {
+                                "lineNumber": 190863,
+                                "originalJapaneseLine": "　ウズメが褒められると母上殿が",
+                                "translatedEnglishLine": "When Uzume is praised, my mother"
+                            },
+                            {
+                                "lineNumber": 190864,
+                                "originalJapaneseLine": "　褒められたようで嬉しいでござる」",
+                                "translatedEnglishLine": "seems pleased as if she herself were praised.\""
+                            },
+                            {
+                                "lineNumber": 190865,
+                                "originalJapaneseLine": "「そういえば前にも言ったでござるね。",
+                                "translatedEnglishLine": "\"Now that you mention it, I've said it before.\""
+                            },
+                            {
+                                "lineNumber": 190866,
+                                "originalJapaneseLine": "　ウズメの師匠は母上殿でござる」",
+                                "translatedEnglishLine": "\"Uzume's master is my mother.\""
+                            },
+                            {
+                                "lineNumber": 190867,
+                                "originalJapaneseLine": "「ウズメの母上殿？",
+                                "translatedEnglishLine": "\"Uzume's mother?\""
+                            },
+                            {
+                                "lineNumber": 190868,
+                                "originalJapaneseLine": "　それはもうすごい人でござるよ」",
+                                "translatedEnglishLine": "\"She's truly an amazing person.\""
+                            },
+                            {
+                                "lineNumber": 190869,
+                                "originalJapaneseLine": "「その攻撃は雷のように苛烈、",
+                                "translatedEnglishLine": "\"Her attacks are fierce like lightning,"
+                            },
+                            {
+                                "lineNumber": 190870,
+                                "originalJapaneseLine": "　その動きは木の葉のように軽やか、",
+                                "translatedEnglishLine": "her movements as light as leaves,"
+                            },
+                            {
+                                "lineNumber": 190871,
+                                "originalJapaneseLine": "　その心は川のように柔軟……」",
+                                "translatedEnglishLine": "and her spirit as flexible as a river...\""
+                            },
+                            {
+                                "lineNumber": 190872,
+                                "originalJapaneseLine": "「まさに忍者の理想を体現される人でござる。",
+                                "translatedEnglishLine": "\"She embodies the very ideal of a ninja."
+                            },
+                            {
+                                "lineNumber": 190873,
+                                "originalJapaneseLine": "　ウズメも母上殿にだけは頭が上がらない」",
+                                "translatedEnglishLine": "Uzume can't hold her head up high before her mother.\""
+                            },
+                            {
+                                "lineNumber": 190874,
+                                "originalJapaneseLine": "「小さい頃から、それはもう、",
+                                "translatedEnglishLine": "\"Since I was little, really,"
+                            },
+                            {
+                                "lineNumber": 190875,
+                                "originalJapaneseLine": "　たっくさんのことを教わったでござるよ」",
+                                "translatedEnglishLine": "I've learned so many things from her.\""
+                            },
+                            {
+                                "lineNumber": 190876,
+                                "originalJapaneseLine": "どうやらよほど尊敬しているらしい。",
+                                "translatedEnglishLine": "It seems she respects her very much."
+                            },
+                            {
+                                "lineNumber": 190877,
+                                "originalJapaneseLine": "母親のことを語るウズメは活き活きとしていた。",
+                                "translatedEnglishLine": "Uzume looked lively as she spoke about her mother."
+                            },
+                            {
+                                "lineNumber": 190878,
+                                "originalJapaneseLine": "「ウズメはお母さん、好きよねぇ……」",
+                                "translatedEnglishLine": "\"Uzume really loves her mother, doesn't she...?\""
+                            },
+                            {
+                                "lineNumber": 190879,
+                                "originalJapaneseLine": "「あ、志津香姉上」",
+                                "translatedEnglishLine": "\"Ah, sister Shizuka.\""
+                            },
+                            {
+                                "lineNumber": 190880,
+                                "originalJapaneseLine": "「うい、母上殿はウズメにとって",
+                                "translatedEnglishLine": "\"Yeah, my mother is to Uzume"
+                            },
+                            {
+                                "lineNumber": 190881,
+                                "originalJapaneseLine": "　母にして師匠にして憧れでござる」",
+                                "translatedEnglishLine": "both a mother, a master, and an admiration.\""
+                            },
+                            {
+                                "lineNumber": 190882,
+                                "originalJapaneseLine": "「まあ、魔王の子って大体みんな",
+                                "translatedEnglishLine": "\"Well, the children of the Demon King are usually all"
+                            },
+                            {
+                                "lineNumber": 190883,
+                                "originalJapaneseLine": "　母親と仲良しだけど……」",
+                                "translatedEnglishLine": "close with their mothers...\""
+                            },
+                            {
+                                "lineNumber": 190884,
+                                "originalJapaneseLine": "「憧れ……憧れ、ねぇ……」",
+                                "translatedEnglishLine": "\"Admiration... admiration, huh...\""
+                            },
+                            {
+                                "lineNumber": 190885,
+                                "originalJapaneseLine": "「ん？　どうかしたでござる？」",
+                                "translatedEnglishLine": "\"Hm? Is something wrong?\""
+                            },
+                            {
+                                "lineNumber": 190886,
+                                "originalJapaneseLine": "「んーん、なんでも」",
+                                "translatedEnglishLine": "\"Mm, nothing.\""
+                            },
+                            {
+                                "lineNumber": 190887,
+                                "originalJapaneseLine": "「？？」",
+                                "translatedEnglishLine": "\"??\""
+                            },
+                            {
+                                "lineNumber": 190888,
+                                "originalJapaneseLine": "「ああ、＜エール＞は何も知らないんだっけ」",
+                                "translatedEnglishLine": "\"Ah, <Yell> doesn't know anything, right?\""
+                            },
+                            {
+                                "lineNumber": 190889,
+                                "originalJapaneseLine": "こそっと、あなたにだけ聞こえるような",
+                                "translatedEnglishLine": "Quietly, so only you can hear,"
+                            },
+                            {
+                                "lineNumber": 190890,
+                                "originalJapaneseLine": "小さな声で志津香が囁く。",
+                                "translatedEnglishLine": "Shizuka whispers in a small voice."
+                            },
+                            {
+                                "lineNumber": 190891,
+                                "originalJapaneseLine": "「ウズメのお母さんって確かに忍者だけど、",
+                                "translatedEnglishLine": "\"Uzume's mother is certainly a ninja, but,"
+                            },
+                            {
+                                "lineNumber": 190892,
+                                "originalJapaneseLine": "　能力自体は、その……中の上くらいでね……」",
+                                "translatedEnglishLine": "her abilities themselves are... well... above average...\""
+                            },
+                            {
+                                "lineNumber": 190893,
+                                "originalJapaneseLine": "「要はウズメの方が才能も能力も高いのよ……",
+                                "translatedEnglishLine": "\"In short, Uzume has greater talent and ability..."
+                            },
+                            {
+                                "lineNumber": 190894,
+                                "originalJapaneseLine": "　それが分かってないのはウズメだけでね」",
+                                "translatedEnglishLine": "and Uzume is the only one who doesn't realize this.\""
+                            },
+                            {
+                                "lineNumber": 190895,
+                                "originalJapaneseLine": "「はあ……かなみさんも大変だわ……」",
+                                "translatedEnglishLine": "\"Hah... Kanami-san has it tough too...\""
+                            },
+                            {
+                                "lineNumber": 190896,
+                                "originalJapaneseLine": "どうやら、志津香にとって親しい間柄に",
+                                "translatedEnglishLine": "Apparently, to Shizuka, that woman, someone close,"
+                            },
+                            {
+                                "lineNumber": 190897,
+                                "originalJapaneseLine": "あるらしきその女性は苦労が絶えないらしい。",
+                                "translatedEnglishLine": "seems to suffer endless hardships."
+                            },
+                            {
+                                "lineNumber": 190898,
+                                "originalJapaneseLine": "「おーい、主君どのー！",
+                                "translatedEnglishLine": "\"Hey, my lord!"
+                            },
+                            {
+                                "lineNumber": 190899,
+                                "originalJapaneseLine": "　主君も一緒に手裏剣投げしないでござるかー！」",
+                                "translatedEnglishLine": "Won't you throw shuriken together with me?\""
+                            },
+                            {
+                                "lineNumber": 190900,
+                                "originalJapaneseLine": "ウズメは無邪気に笑っていた。",
+                                "translatedEnglishLine": "Uzume was smiling innocently."
+                            },
+                            {
+                                "lineNumber": 190901,
+                                "originalJapaneseLine": "町に買い物に出ると、",
+                                "translatedEnglishLine": "When going out shopping in town,"
+                            },
+                            {
+                                "lineNumber": 190902,
+                                "originalJapaneseLine": "何故かウズメもついてくることになった。",
+                                "translatedEnglishLine": "for some reason, Uzume ended up coming along."
+                            },
+                            {
+                                "lineNumber": 190903,
+                                "originalJapaneseLine": "「今日のウズメ、護衛。",
+                                "translatedEnglishLine": "\"Today's Uzume is the bodyguard."
+                            },
+                            {
+                                "lineNumber": 190904,
+                                "originalJapaneseLine": "　えっへんでござる」",
+                                "translatedEnglishLine": "Ehehen!\""
+                            },
+                            {
+                                "lineNumber": 190905,
+                                "originalJapaneseLine": "何故かウズメは薄い胸をえへんと張った。",
+                                "translatedEnglishLine": "For some reason, Uzume puffed out her flat chest proudly."
+                            },
+                            {
+                                "lineNumber": 190906,
+                                "originalJapaneseLine": "「主君に何かあってはいかんでござるからね、",
+                                "translatedEnglishLine": "\"Something must not happen to my lord,"
+                            },
+                            {
+                                "lineNumber": 190907,
+                                "originalJapaneseLine": "　今日はウズメが傍で守るでござる」",
+                                "translatedEnglishLine": "so today Uzume will protect you by your side.\""
+                            },
+                            {
+                                "lineNumber": 190908,
+                                "originalJapaneseLine": "「ま、主君は強いので護衛なんて",
+                                "translatedEnglishLine": "\"Well, since my lord is strong,"
+                            },
+                            {
+                                "lineNumber": 190909,
+                                "originalJapaneseLine": "　本当はいらんでござるけどね。",
+                                "translatedEnglishLine": "I don't really need to be a bodyguard."
+                            },
+                            {
+                                "lineNumber": 190910,
+                                "originalJapaneseLine": "　一緒に遊びに行く口実でござる」",
+                                "translatedEnglishLine": "It's just an excuse to go out and have fun together.\""
+                            },
+                            {
+                                "lineNumber": 190911,
+                                "originalJapaneseLine": "「さ、行こう行こーうでござる」",
+                                "translatedEnglishLine": "\"Come on, let's go!\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1830,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2362,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4192
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":190852,\"originalJapaneseLine\":\"「よっ、ほっ、はーっ」\",\"translatedEnglishLine\":\"\\\"Yo, ho, ha!\\\"\"},{\"lineNumber\":190853,\"originalJapaneseLine\":\"早朝、ウズメが手裏剣術の訓練をしていた。\",\"translatedEnglishLine\":\"Early in the morning, Uzume was training in shuriken techniques.\"},{\"lineNumber\":190854,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":190855,\"originalJapaneseLine\":\"「あ、おはようござる、主君どの」\",\"translatedEnglishLine\":\"\\\"Ah, good morning, my lord.\\\"\"},{\"lineNumber\":190856,\"originalJapaneseLine\":\"すこん、すこん、すこーん！\",\"translatedEnglishLine\":\"Thud, thud, swoosh!\"},{\"lineNumber\":190857,\"originalJapaneseLine\":\"顔はあなたに向けたまま、ウズメが\",\"translatedEnglishLine\":\"With her face still turned towards you, Uzume\"},{\"lineNumber\":190858,\"originalJapaneseLine\":\"木にくくりつけられた的に手裏剣を命中させる。\",\"translatedEnglishLine\":\"hits the target tied to the tree with her shuriken.\"},{\"lineNumber\":190859,\"originalJapaneseLine\":\"「…………。」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":190860,\"originalJapaneseLine\":\"その技術力にあなたはパチパチと拍手を送った。\",\"translatedEnglishLine\":\"You applaud her skill with a round of claps.\"},{\"lineNumber\":190861,\"originalJapaneseLine\":\"「にょほほ、照れるでござるね」\",\"translatedEnglishLine\":\"\\\"Nyohoho, I'm flattered, indeed.\\\"\"},{\"lineNumber\":190862,\"originalJapaneseLine\":\"「この手の技術は全て母上殿に教わったでござる。\",\"translatedEnglishLine\":\"\\\"All these kinds of skills were taught to me by my mother.\\\"\"},{\"lineNumber\":190863,\"originalJapaneseLine\":\"　ウズメが褒められると母上殿が\",\"translatedEnglishLine\":\"When Uzume is praised, my mother\"},{\"lineNumber\":190864,\"originalJapaneseLine\":\"　褒められたようで嬉しいでござる」\",\"translatedEnglishLine\":\"seems pleased as if she herself were praised.\\\"\"},{\"lineNumber\":190865,\"originalJapaneseLine\":\"「そういえば前にも言ったでござるね。\",\"translatedEnglishLine\":\"\\\"Now that you mention it, I've said it before.\\\"\"},{\"lineNumber\":190866,\"originalJapaneseLine\":\"　ウズメの師匠は母上殿でござる」\",\"translatedEnglishLine\":\"\\\"Uzume's master is my mother.\\\"\"},{\"lineNumber\":190867,\"originalJapaneseLine\":\"「ウズメの母上殿？\",\"translatedEnglishLine\":\"\\\"Uzume's mother?\\\"\"},{\"lineNumber\":190868,\"originalJapaneseLine\":\"　それはもうすごい人でござるよ」\",\"translatedEnglishLine\":\"\\\"She's truly an amazing person.\\\"\"},{\"lineNumber\":190869,\"originalJapaneseLine\":\"「その攻撃は雷のように苛烈、\",\"translatedEnglishLine\":\"\\\"Her attacks are fierce like lightning,\"},{\"lineNumber\":190870,\"originalJapaneseLine\":\"　その動きは木の葉のように軽やか、\",\"translatedEnglishLine\":\"her movements as light as leaves,\"},{\"lineNumber\":190871,\"originalJapaneseLine\":\"　その心は川のように柔軟……」\",\"translatedEnglishLine\":\"and her spirit as flexible as a river...\\\"\"},{\"lineNumber\":190872,\"originalJapaneseLine\":\"「まさに忍者の理想を体現される人でござる。\",\"translatedEnglishLine\":\"\\\"She embodies the very ideal of a ninja.\"},{\"lineNumber\":190873,\"originalJapaneseLine\":\"　ウズメも母上殿にだけは頭が上がらない」\",\"translatedEnglishLine\":\"Uzume can't hold her head up high before her mother.\\\"\"},{\"lineNumber\":190874,\"originalJapaneseLine\":\"「小さい頃から、それはもう、\",\"translatedEnglishLine\":\"\\\"Since I was little, really,\"},{\"lineNumber\":190875,\"originalJapaneseLine\":\"　たっくさんのことを教わったでござるよ」\",\"translatedEnglishLine\":\"I've learned so many things from her.\\\"\"},{\"lineNumber\":190876,\"originalJapaneseLine\":\"どうやらよほど尊敬しているらしい。\",\"translatedEnglishLine\":\"It seems she respects her very much.\"},{\"lineNumber\":190877,\"originalJapaneseLine\":\"母親のことを語るウズメは活き活きとしていた。\",\"translatedEnglishLine\":\"Uzume looked lively as she spoke about her mother.\"},{\"lineNumber\":190878,\"originalJapaneseLine\":\"「ウズメはお母さん、好きよねぇ……」\",\"translatedEnglishLine\":\"\\\"Uzume really loves her mother, doesn't she...?\\\"\"},{\"lineNumber\":190879,\"originalJapaneseLine\":\"「あ、志津香姉上」\",\"translatedEnglishLine\":\"\\\"Ah, sister Shizuka.\\\"\"},{\"lineNumber\":190880,\"originalJapaneseLine\":\"「うい、母上殿はウズメにとって\",\"translatedEnglishLine\":\"\\\"Yeah, my mother is to Uzume\"},{\"lineNumber\":190881,\"originalJapaneseLine\":\"　母にして師匠にして憧れでござる」\",\"translatedEnglishLine\":\"both a mother, a master, and an admiration.\\\"\"},{\"lineNumber\":190882,\"originalJapaneseLine\":\"「まあ、魔王の子って大体みんな\",\"translatedEnglishLine\":\"\\\"Well, the children of the Demon King are usually all\"},{\"lineNumber\":190883,\"originalJapaneseLine\":\"　母親と仲良しだけど……」\",\"translatedEnglishLine\":\"close with their mothers...\\\"\"},{\"lineNumber\":190884,\"originalJapaneseLine\":\"「憧れ……憧れ、ねぇ……」\",\"translatedEnglishLine\":\"\\\"Admiration... admiration, huh...\\\"\"},{\"lineNumber\":190885,\"originalJapaneseLine\":\"「ん？　どうかしたでござる？」\",\"translatedEnglishLine\":\"\\\"Hm? Is something wrong?\\\"\"},{\"lineNumber\":190886,\"originalJapaneseLine\":\"「んーん、なんでも」\",\"translatedEnglishLine\":\"\\\"Mm, nothing.\\\"\"},{\"lineNumber\":190887,\"originalJapaneseLine\":\"「？？」\",\"translatedEnglishLine\":\"\\\"??\\\"\"},{\"lineNumber\":190888,\"originalJapaneseLine\":\"「ああ、＜エール＞は何も知らないんだっけ」\",\"translatedEnglishLine\":\"\\\"Ah, <Yell> doesn't know anything, right?\\\"\"},{\"lineNumber\":190889,\"originalJapaneseLine\":\"こそっと、あなたにだけ聞こえるような\",\"translatedEnglishLine\":\"Quietly, so only you can hear,\"},{\"lineNumber\":190890,\"originalJapaneseLine\":\"小さな声で志津香が囁く。\",\"translatedEnglishLine\":\"Shizuka whispers in a small voice.\"},{\"lineNumber\":190891,\"originalJapaneseLine\":\"「ウズメのお母さんって確かに忍者だけど、\",\"translatedEnglishLine\":\"\\\"Uzume's mother is certainly a ninja, but,\"},{\"lineNumber\":190892,\"originalJapaneseLine\":\"　能力自体は、その……中の上くらいでね……」\",\"translatedEnglishLine\":\"her abilities themselves are... well... above average...\\\"\"},{\"lineNumber\":190893,\"originalJapaneseLine\":\"「要はウズメの方が才能も能力も高いのよ……\",\"translatedEnglishLine\":\"\\\"In short, Uzume has greater talent and ability...\"},{\"lineNumber\":190894,\"originalJapaneseLine\":\"　それが分かってないのはウズメだけでね」\",\"translatedEnglishLine\":\"and Uzume is the only one who doesn't realize this.\\\"\"},{\"lineNumber\":190895,\"originalJapaneseLine\":\"「はあ……かなみさんも大変だわ……」\",\"translatedEnglishLine\":\"\\\"Hah... Kanami-san has it tough too...\\\"\"},{\"lineNumber\":190896,\"originalJapaneseLine\":\"どうやら、志津香にとって親しい間柄に\",\"translatedEnglishLine\":\"Apparently, to Shizuka, that woman, someone close,\"},{\"lineNumber\":190897,\"originalJapaneseLine\":\"あるらしきその女性は苦労が絶えないらしい。\",\"translatedEnglishLine\":\"seems to suffer endless hardships.\"},{\"lineNumber\":190898,\"originalJapaneseLine\":\"「おーい、主君どのー！\",\"translatedEnglishLine\":\"\\\"Hey, my lord!\"},{\"lineNumber\":190899,\"originalJapaneseLine\":\"　主君も一緒に手裏剣投げしないでござるかー！」\",\"translatedEnglishLine\":\"Won't you throw shuriken together with me?\\\"\"},{\"lineNumber\":190900,\"originalJapaneseLine\":\"ウズメは無邪気に笑っていた。\",\"translatedEnglishLine\":\"Uzume was smiling innocently.\"},{\"lineNumber\":190901,\"originalJapaneseLine\":\"町に買い物に出ると、\",\"translatedEnglishLine\":\"When going out shopping in town,\"},{\"lineNumber\":190902,\"originalJapaneseLine\":\"何故かウズメもついてくることになった。\",\"translatedEnglishLine\":\"for some reason, Uzume ended up coming along.\"},{\"lineNumber\":190903,\"originalJapaneseLine\":\"「今日のウズメ、護衛。\",\"translatedEnglishLine\":\"\\\"Today's Uzume is the bodyguard.\"},{\"lineNumber\":190904,\"originalJapaneseLine\":\"　えっへんでござる」\",\"translatedEnglishLine\":\"Ehehen!\\\"\"},{\"lineNumber\":190905,\"originalJapaneseLine\":\"何故かウズメは薄い胸をえへんと張った。\",\"translatedEnglishLine\":\"For some reason, Uzume puffed out her flat chest proudly.\"},{\"lineNumber\":190906,\"originalJapaneseLine\":\"「主君に何かあってはいかんでござるからね、\",\"translatedEnglishLine\":\"\\\"Something must not happen to my lord,\"},{\"lineNumber\":190907,\"originalJapaneseLine\":\"　今日はウズメが傍で守るでござる」\",\"translatedEnglishLine\":\"so today Uzume will protect you by your side.\\\"\"},{\"lineNumber\":190908,\"originalJapaneseLine\":\"「ま、主君は強いので護衛なんて\",\"translatedEnglishLine\":\"\\\"Well, since my lord is strong,\"},{\"lineNumber\":190909,\"originalJapaneseLine\":\"　本当はいらんでござるけどね。\",\"translatedEnglishLine\":\"I don't really need to be a bodyguard.\"},{\"lineNumber\":190910,\"originalJapaneseLine\":\"　一緒に遊びに行く口実でござる」\",\"translatedEnglishLine\":\"It's just an excuse to go out and have fun together.\\\"\"},{\"lineNumber\":190911,\"originalJapaneseLine\":\"「さ、行こう行こーうでござる」\",\"translatedEnglishLine\":\"\\\"Come on, let's go!\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 190852,
+                "originalJapaneseLine": "「よっ、ほっ、はーっ」",
+                "translatedEnglishLine": "\"Yo, ho, ha!\""
+            },
+            {
+                "lineNumber": 190853,
+                "originalJapaneseLine": "早朝、ウズメが手裏剣術の訓練をしていた。",
+                "translatedEnglishLine": "Early in the morning, Uzume was training in shuriken techniques."
+            },
+            {
+                "lineNumber": 190854,
+                "originalJapaneseLine": "「…………。」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": 190855,
+                "originalJapaneseLine": "「あ、おはようござる、主君どの」",
+                "translatedEnglishLine": "\"Ah, good morning, my lord.\""
+            },
+            {
+                "lineNumber": 190856,
+                "originalJapaneseLine": "すこん、すこん、すこーん！",
+                "translatedEnglishLine": "Thud, thud, swoosh!"
+            },
+            {
+                "lineNumber": 190857,
+                "originalJapaneseLine": "顔はあなたに向けたまま、ウズメが",
+                "translatedEnglishLine": "With her face still turned towards you, Uzume"
+            },
+            {
+                "lineNumber": 190858,
+                "originalJapaneseLine": "木にくくりつけられた的に手裏剣を命中させる。",
+                "translatedEnglishLine": "hits the target tied to the tree with her shuriken."
+            },
+            {
+                "lineNumber": 190859,
+                "originalJapaneseLine": "「…………。」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": 190860,
+                "originalJapaneseLine": "その技術力にあなたはパチパチと拍手を送った。",
+                "translatedEnglishLine": "You applaud her skill with a round of claps."
+            },
+            {
+                "lineNumber": 190861,
+                "originalJapaneseLine": "「にょほほ、照れるでござるね」",
+                "translatedEnglishLine": "\"Nyohoho, I'm flattered, indeed.\""
+            },
+            {
+                "lineNumber": 190862,
+                "originalJapaneseLine": "「この手の技術は全て母上殿に教わったでござる。",
+                "translatedEnglishLine": "\"All these kinds of skills were taught to me by my mother.\""
+            },
+            {
+                "lineNumber": 190863,
+                "originalJapaneseLine": "　ウズメが褒められると母上殿が",
+                "translatedEnglishLine": "When Uzume is praised, my mother"
+            },
+            {
+                "lineNumber": 190864,
+                "originalJapaneseLine": "　褒められたようで嬉しいでござる」",
+                "translatedEnglishLine": "seems pleased as if she herself were praised.\""
+            },
+            {
+                "lineNumber": 190865,
+                "originalJapaneseLine": "「そういえば前にも言ったでござるね。",
+                "translatedEnglishLine": "\"Now that you mention it, I've said it before.\""
+            },
+            {
+                "lineNumber": 190866,
+                "originalJapaneseLine": "　ウズメの師匠は母上殿でござる」",
+                "translatedEnglishLine": "\"Uzume's master is my mother.\""
+            },
+            {
+                "lineNumber": 190867,
+                "originalJapaneseLine": "「ウズメの母上殿？",
+                "translatedEnglishLine": "\"Uzume's mother?\""
+            },
+            {
+                "lineNumber": 190868,
+                "originalJapaneseLine": "　それはもうすごい人でござるよ」",
+                "translatedEnglishLine": "\"She's truly an amazing person.\""
+            },
+            {
+                "lineNumber": 190869,
+                "originalJapaneseLine": "「その攻撃は雷のように苛烈、",
+                "translatedEnglishLine": "\"Her attacks are fierce like lightning,"
+            },
+            {
+                "lineNumber": 190870,
+                "originalJapaneseLine": "　その動きは木の葉のように軽やか、",
+                "translatedEnglishLine": "her movements as light as leaves,"
+            },
+            {
+                "lineNumber": 190871,
+                "originalJapaneseLine": "　その心は川のように柔軟……」",
+                "translatedEnglishLine": "and her spirit as flexible as a river...\""
+            },
+            {
+                "lineNumber": 190872,
+                "originalJapaneseLine": "「まさに忍者の理想を体現される人でござる。",
+                "translatedEnglishLine": "\"She embodies the very ideal of a ninja."
+            },
+            {
+                "lineNumber": 190873,
+                "originalJapaneseLine": "　ウズメも母上殿にだけは頭が上がらない」",
+                "translatedEnglishLine": "Uzume can't hold her head up high before her mother.\""
+            },
+            {
+                "lineNumber": 190874,
+                "originalJapaneseLine": "「小さい頃から、それはもう、",
+                "translatedEnglishLine": "\"Since I was little, really,"
+            },
+            {
+                "lineNumber": 190875,
+                "originalJapaneseLine": "　たっくさんのことを教わったでござるよ」",
+                "translatedEnglishLine": "I've learned so many things from her.\""
+            },
+            {
+                "lineNumber": 190876,
+                "originalJapaneseLine": "どうやらよほど尊敬しているらしい。",
+                "translatedEnglishLine": "It seems she respects her very much."
+            },
+            {
+                "lineNumber": 190877,
+                "originalJapaneseLine": "母親のことを語るウズメは活き活きとしていた。",
+                "translatedEnglishLine": "Uzume looked lively as she spoke about her mother."
+            },
+            {
+                "lineNumber": 190878,
+                "originalJapaneseLine": "「ウズメはお母さん、好きよねぇ……」",
+                "translatedEnglishLine": "\"Uzume really loves her mother, doesn't she...?\""
+            },
+            {
+                "lineNumber": 190879,
+                "originalJapaneseLine": "「あ、志津香姉上」",
+                "translatedEnglishLine": "\"Ah, sister Shizuka.\""
+            },
+            {
+                "lineNumber": 190880,
+                "originalJapaneseLine": "「うい、母上殿はウズメにとって",
+                "translatedEnglishLine": "\"Yeah, my mother is to Uzume"
+            },
+            {
+                "lineNumber": 190881,
+                "originalJapaneseLine": "　母にして師匠にして憧れでござる」",
+                "translatedEnglishLine": "both a mother, a master, and an admiration.\""
+            },
+            {
+                "lineNumber": 190882,
+                "originalJapaneseLine": "「まあ、魔王の子って大体みんな",
+                "translatedEnglishLine": "\"Well, the children of the Demon King are usually all"
+            },
+            {
+                "lineNumber": 190883,
+                "originalJapaneseLine": "　母親と仲良しだけど……」",
+                "translatedEnglishLine": "close with their mothers...\""
+            },
+            {
+                "lineNumber": 190884,
+                "originalJapaneseLine": "「憧れ……憧れ、ねぇ……」",
+                "translatedEnglishLine": "\"Admiration... admiration, huh...\""
+            },
+            {
+                "lineNumber": 190885,
+                "originalJapaneseLine": "「ん？　どうかしたでござる？」",
+                "translatedEnglishLine": "\"Hm? Is something wrong?\""
+            },
+            {
+                "lineNumber": 190886,
+                "originalJapaneseLine": "「んーん、なんでも」",
+                "translatedEnglishLine": "\"Mm, nothing.\""
+            },
+            {
+                "lineNumber": 190887,
+                "originalJapaneseLine": "「？？」",
+                "translatedEnglishLine": "\"??\""
+            },
+            {
+                "lineNumber": 190888,
+                "originalJapaneseLine": "「ああ、＜エール＞は何も知らないんだっけ」",
+                "translatedEnglishLine": "\"Ah, <Yell> doesn't know anything, right?\""
+            },
+            {
+                "lineNumber": 190889,
+                "originalJapaneseLine": "こそっと、あなたにだけ聞こえるような",
+                "translatedEnglishLine": "Quietly, so only you can hear,"
+            },
+            {
+                "lineNumber": 190890,
+                "originalJapaneseLine": "小さな声で志津香が囁く。",
+                "translatedEnglishLine": "Shizuka whispers in a small voice."
+            },
+            {
+                "lineNumber": 190891,
+                "originalJapaneseLine": "「ウズメのお母さんって確かに忍者だけど、",
+                "translatedEnglishLine": "\"Uzume's mother is certainly a ninja, but,"
+            },
+            {
+                "lineNumber": 190892,
+                "originalJapaneseLine": "　能力自体は、その……中の上くらいでね……」",
+                "translatedEnglishLine": "her abilities themselves are... well... above average...\""
+            },
+            {
+                "lineNumber": 190893,
+                "originalJapaneseLine": "「要はウズメの方が才能も能力も高いのよ……",
+                "translatedEnglishLine": "\"In short, Uzume has greater talent and ability..."
+            },
+            {
+                "lineNumber": 190894,
+                "originalJapaneseLine": "　それが分かってないのはウズメだけでね」",
+                "translatedEnglishLine": "and Uzume is the only one who doesn't realize this.\""
+            },
+            {
+                "lineNumber": 190895,
+                "originalJapaneseLine": "「はあ……かなみさんも大変だわ……」",
+                "translatedEnglishLine": "\"Hah... Kanami-san has it tough too...\""
+            },
+            {
+                "lineNumber": 190896,
+                "originalJapaneseLine": "どうやら、志津香にとって親しい間柄に",
+                "translatedEnglishLine": "Apparently, to Shizuka, that woman, someone close,"
+            },
+            {
+                "lineNumber": 190897,
+                "originalJapaneseLine": "あるらしきその女性は苦労が絶えないらしい。",
+                "translatedEnglishLine": "seems to suffer endless hardships."
+            },
+            {
+                "lineNumber": 190898,
+                "originalJapaneseLine": "「おーい、主君どのー！",
+                "translatedEnglishLine": "\"Hey, my lord!"
+            },
+            {
+                "lineNumber": 190899,
+                "originalJapaneseLine": "　主君も一緒に手裏剣投げしないでござるかー！」",
+                "translatedEnglishLine": "Won't you throw shuriken together with me?\""
+            },
+            {
+                "lineNumber": 190900,
+                "originalJapaneseLine": "ウズメは無邪気に笑っていた。",
+                "translatedEnglishLine": "Uzume was smiling innocently."
+            },
+            {
+                "lineNumber": 190901,
+                "originalJapaneseLine": "町に買い物に出ると、",
+                "translatedEnglishLine": "When going out shopping in town,"
+            },
+            {
+                "lineNumber": 190902,
+                "originalJapaneseLine": "何故かウズメもついてくることになった。",
+                "translatedEnglishLine": "for some reason, Uzume ended up coming along."
+            },
+            {
+                "lineNumber": 190903,
+                "originalJapaneseLine": "「今日のウズメ、護衛。",
+                "translatedEnglishLine": "\"Today's Uzume is the bodyguard."
+            },
+            {
+                "lineNumber": 190904,
+                "originalJapaneseLine": "　えっへんでござる」",
+                "translatedEnglishLine": "Ehehen!\""
+            },
+            {
+                "lineNumber": 190905,
+                "originalJapaneseLine": "何故かウズメは薄い胸をえへんと張った。",
+                "translatedEnglishLine": "For some reason, Uzume puffed out her flat chest proudly."
+            },
+            {
+                "lineNumber": 190906,
+                "originalJapaneseLine": "「主君に何かあってはいかんでござるからね、",
+                "translatedEnglishLine": "\"Something must not happen to my lord,"
+            },
+            {
+                "lineNumber": 190907,
+                "originalJapaneseLine": "　今日はウズメが傍で守るでござる」",
+                "translatedEnglishLine": "so today Uzume will protect you by your side.\""
+            },
+            {
+                "lineNumber": 190908,
+                "originalJapaneseLine": "「ま、主君は強いので護衛なんて",
+                "translatedEnglishLine": "\"Well, since my lord is strong,"
+            },
+            {
+                "lineNumber": 190909,
+                "originalJapaneseLine": "　本当はいらんでござるけどね。",
+                "translatedEnglishLine": "I don't really need to be a bodyguard."
+            },
+            {
+                "lineNumber": 190910,
+                "originalJapaneseLine": "　一緒に遊びに行く口実でござる」",
+                "translatedEnglishLine": "It's just an excuse to go out and have fun together.\""
+            },
+            {
+                "lineNumber": 190911,
+                "originalJapaneseLine": "「さ、行こう行こーうでござる」",
+                "translatedEnglishLine": "\"Come on, let's go!\""
+            }
+        ]
+    }
+}

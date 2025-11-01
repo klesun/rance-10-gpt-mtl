@@ -1,1 +1,719 @@
-{"id":"resp_020931c83686ca280068f23601c93881939a5dad9a6cf62b01","object":"response","created_at":1760704001,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_020931c83686ca280068f23602f164819396bcbabcf6a2c3b6","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":250492,\"originalJapaneseLine\":\"「ランス！！\",\"translatedEnglishLine\":\"\\\"Lance!!\\\"\"},{\"lineNumber\":250493,\"originalJapaneseLine\":\"「およそです」\",\"translatedEnglishLine\":\"\\\"Approximately.\\\"\"},{\"lineNumber\":250494,\"originalJapaneseLine\":\"今日も、叱咤する声が\",\"translatedEnglishLine\":\"Today as well, a scolding voice\"},{\"lineNumber\":250495,\"originalJapaneseLine\":\"ランス城に響く。\",\"translatedEnglishLine\":\"echoes through Lance Castle.\"},{\"lineNumber\":250496,\"originalJapaneseLine\":\"「にっぽー」\",\"translatedEnglishLine\":\"\\\"Nippo—\\\"\"},{\"lineNumber\":250497,\"originalJapaneseLine\":\"呟いて、マジックは保育園へと歩いていった。\",\"translatedEnglishLine\":\"Muttering, Magic walked towards the nursery school.\"},{\"lineNumber\":250498,\"originalJapaneseLine\":\"「デバッグフラグＯＮ\",\"translatedEnglishLine\":\"\\\"Debug flag ON\"},{\"lineNumber\":250499,\"originalJapaneseLine\":\"　すぐに２部、アウターをテストしなさい」\",\"translatedEnglishLine\":\"Test Part 2, Outer immediately.\\\"\"},{\"lineNumber\":250500,\"originalJapaneseLine\":\"ランスの道中記\",\"translatedEnglishLine\":\"Lance's Travelogue\"},{\"lineNumber\":250501,\"originalJapaneseLine\":\"こんちには、アリスです。\",\"translatedEnglishLine\":\"Hello, this is Alice.\"},{\"lineNumber\":250502,\"originalJapaneseLine\":\"今日はいい日かな？　楽しい日だったらいいね\",\"translatedEnglishLine\":\"Is today a good day? I hope it was a fun day.\"},{\"lineNumber\":250503,\"originalJapaneseLine\":\"毎日が幸せであるよう、前向きにいきましょう\",\"translatedEnglishLine\":\"Let's stay positive so every day is a happy day.\"},{\"lineNumber\":250504,\"originalJapaneseLine\":\"ゲームは楽しくプレイしてね\",\"translatedEnglishLine\":\"Please enjoy playing the game.\"},{\"lineNumber\":250505,\"originalJapaneseLine\":\"５行くらいまでのルームに入った時の挨拶\",\"translatedEnglishLine\":\"A greeting for entering a room with about five lines.\"},{\"lineNumber\":250506,\"originalJapaneseLine\":\"バージョン１．００です\",\"translatedEnglishLine\":\"This is version 1.00.\"},{\"lineNumber\":250507,\"originalJapaneseLine\":\"何か注意点などあれば・・うんぬん\",\"translatedEnglishLine\":\"If there are any points of caution... etc.\"},{\"lineNumber\":250508,\"originalJapaneseLine\":\"プレイする上でのお願い\",\"translatedEnglishLine\":\"Requests for playing the game.\"},{\"lineNumber\":250509,\"originalJapaneseLine\":\"シリーズが長くなり、多数の設定、旧知の情報等がありますが、その全てを初めての方に\",\"translatedEnglishLine\":\"The series has become long with many settings and familiar information, but to newcomers,\"},{\"lineNumber\":250510,\"originalJapaneseLine\":\"分かるように説明を入れると物語が進まなくなるので説明はある程度省かせて頂いています\",\"translatedEnglishLine\":\"if I explained everything for understanding, the story wouldn’t progress, so explanations are somewhat omitted.\"},{\"lineNumber\":250511,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":250512,\"originalJapaneseLine\":\"マニュアルをよく読んで欲しいですが・・・最初に全て読む必要はありません\",\"translatedEnglishLine\":\"I want you to read the manual carefully... but you don't need to read everything at the start.\"},{\"lineNumber\":250513,\"originalJapaneseLine\":\"操作が分かり難かったら、その部分を調べるように見て下さい\",\"translatedEnglishLine\":\"If the controls are confusing, please look up that part as needed.\"},{\"lineNumber\":250514,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":250515,\"originalJapaneseLine\":\"また、画面によっては、ヘルプボタンがある時があります。\",\"translatedEnglishLine\":\"Also, some screens have a help button.\"},{\"lineNumber\":250516,\"originalJapaneseLine\":\"その画面での必要な情報を見る事が出来るので見つけたら押してあげて下さい\",\"translatedEnglishLine\":\"You can see necessary information on that screen, so please press it when you find it.\"},{\"lineNumber\":250517,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":250518,\"originalJapaneseLine\":\"このゲーム特有の表現については、次の項目で説明いたします\",\"translatedEnglishLine\":\"Unique expressions of this game will be explained in the next section.\"},{\"lineNumber\":250519,\"originalJapaneseLine\":\"出来れば、これだけは見ておいてもらえるとよりスムーズにプレイ出来るかと思います\",\"translatedEnglishLine\":\"If possible, just reading this will help you play more smoothly.\"},{\"lineNumber\":250520,\"originalJapaneseLine\":\"ぺこ\",\"translatedEnglishLine\":\"*bow*\"},{\"lineNumber\":250521,\"originalJapaneseLine\":\"「今回は集団戦です\",\"translatedEnglishLine\":\"\\\"This time it’s a group battle.\"},{\"lineNumber\":250522,\"originalJapaneseLine\":\"　物語の序盤はランス君とシィルちゃんの二人だけですが、\",\"translatedEnglishLine\":\"At the start of the story, it’s just Lance and Sil, but\"},{\"lineNumber\":250523,\"originalJapaneseLine\":\"　どんどん仲間が増えて何十人という集団になります」\",\"translatedEnglishLine\":\"gradually allies increase and it becomes a group of dozens.\\\"\"},{\"lineNumber\":250524,\"originalJapaneseLine\":\"「部隊編成でリーダーを選び戦う事になりますが、\",\"translatedEnglishLine\":\"\\\"In the unit formation, you choose a leader to fight,\"},{\"lineNumber\":250525,\"originalJapaneseLine\":\"　通常のＲＰＧのように選んだリーダーだけが戦い\",\"translatedEnglishLine\":\"but unlike usual RPGs where only the chosen leader fights,\"},{\"lineNumber\":250526,\"originalJapaneseLine\":\"　後は待機という戦闘ではありません」\",\"translatedEnglishLine\":\"the others do not simply wait.\\\"\"},{\"lineNumber\":250527,\"originalJapaneseLine\":\"「リーダーが中心となって戦いますが、\",\"translatedEnglishLine\":\"\\\"The leader fights at the center,\"},{\"lineNumber\":250528,\"originalJapaneseLine\":\"　選ばれなかったキャラも一緒に戦います。\",\"translatedEnglishLine\":\"but characters not chosen also fight together.\"},{\"lineNumber\":250529,\"originalJapaneseLine\":\"　みんなで戦うイメージです」\",\"translatedEnglishLine\":\"The image is everyone fighting together.\\\"\"},{\"lineNumber\":250530,\"originalJapaneseLine\":\"この場合は、リーザスグループからリアをリーダーとして\",\"translatedEnglishLine\":\"In this case, Ria from the Leazas group is chosen as the leader,\"},{\"lineNumber\":250531,\"originalJapaneseLine\":\"選択していますが、選択されなかった者は部下として\",\"translatedEnglishLine\":\"but those not chosen act as subordinates,\"},{\"lineNumber\":250532,\"originalJapaneseLine\":\"リアと共に戦います\",\"translatedEnglishLine\":\"fighting together with Ria.\"},{\"lineNumber\":250533,\"originalJapaneseLine\":\"「同様に敵も単体ではありません\",\"translatedEnglishLine\":\"\\\"Similarly, enemies are not solitary.\"},{\"lineNumber\":250534,\"originalJapaneseLine\":\"　画面には５体表示されていますが、５体という訳ではありません\",\"translatedEnglishLine\":\"Five are shown on screen, but that doesn't mean there are only five.\"},{\"lineNumber\":250535,\"originalJapaneseLine\":\"　あくまでの集団のイメージなのです」\",\"translatedEnglishLine\":\"It's merely an image of a group.\\\"\"},{\"lineNumber\":250536,\"originalJapaneseLine\":\"「こちらは、比較的小規模な集団\",\"translatedEnglishLine\":\"\\\"This is a relatively small group,\"},{\"lineNumber\":250537,\"originalJapaneseLine\":\"　だいたい２０体程度の敵と思って下さい」\",\"translatedEnglishLine\":\"please think of about 20 enemies.\\\"\"},{\"lineNumber\":250538,\"originalJapaneseLine\":\"「先程よりぐっと増えて中規模な敵集団です。\",\"translatedEnglishLine\":\"\\\"Much larger than before, this is a mid-sized enemy group.\"},{\"lineNumber\":250539,\"originalJapaneseLine\":\"　だいたい５０−２００体程度かしら\",\"translatedEnglishLine\":\"About 50 to 200 or so, I suppose.\"},{\"lineNumber\":250540,\"originalJapaneseLine\":\"　数が増えた中盤以降のランス部隊と同数イメージです」\",\"translatedEnglishLine\":\"It's the same number as Lance’s troop mid to late game.\\\"\"},{\"lineNumber\":250541,\"originalJapaneseLine\":\"「すごい多いです\",\"translatedEnglishLine\":\"\\\"It's a huge number.\"},{\"lineNumber\":250542,\"originalJapaneseLine\":\"　数えられないくらいの大軍です\",\"translatedEnglishLine\":\"An army too large to count.\"},{\"lineNumber\":250543,\"originalJapaneseLine\":\"　数千、数万クラスかもしれません」\",\"translatedEnglishLine\":\"It might be in the thousands or tens of thousands.\\\"\"},{\"lineNumber\":250544,\"originalJapaneseLine\":\"「また、単体で現れる敵もいます。\",\"translatedEnglishLine\":\"\\\"Also, some enemies appear alone.\"},{\"lineNumber\":250545,\"originalJapaneseLine\":\"　ランスさん達は集団なので卑怯かもしれませんが\",\"translatedEnglishLine\":\"Lance and company are a group which may seem unfair,\"},{\"lineNumber\":250546,\"originalJapaneseLine\":\"　強い相手なので遠慮なくやりましょう」\",\"translatedEnglishLine\":\"but since the opponents are strong, fight without hesitation.\\\"\"},{\"lineNumber\":250547,\"originalJapaneseLine\":\"「はにほー\",\"translatedEnglishLine\":\"\\\"Haniho—\\\"\"},{\"lineNumber\":250548,\"originalJapaneseLine\":\"　説明おわり」\",\"translatedEnglishLine\":\"End of explanation.\\\"\"},{\"lineNumber\":250549,\"originalJapaneseLine\":\"「今回の冒険はクエスト単位でひと区切りとなっていて \",\"translatedEnglishLine\":\"\\\"This adventure is divided into segments by quests,\"},{\"lineNumber\":250550,\"originalJapaneseLine\":\"　このようなフローチャートで作られています。」\",\"translatedEnglishLine\":\"and is made with a flowchart like this.\\\"\"},{\"lineNumber\":250551,\"originalJapaneseLine\":\"「位置が繋がっている地図という訳で無く、\",\"translatedEnglishLine\":\"\\\"It's not a map connected by location,\"}]}","parsed":{"translationLines":[{"lineNumber":250492,"originalJapaneseLine":"「ランス！！","translatedEnglishLine":"\"Lance!!\""},{"lineNumber":250493,"originalJapaneseLine":"「およそです」","translatedEnglishLine":"\"Approximately.\""},{"lineNumber":250494,"originalJapaneseLine":"今日も、叱咤する声が","translatedEnglishLine":"Today as well, a scolding voice"},{"lineNumber":250495,"originalJapaneseLine":"ランス城に響く。","translatedEnglishLine":"echoes through Lance Castle."},{"lineNumber":250496,"originalJapaneseLine":"「にっぽー」","translatedEnglishLine":"\"Nippo—\""},{"lineNumber":250497,"originalJapaneseLine":"呟いて、マジックは保育園へと歩いていった。","translatedEnglishLine":"Muttering, Magic walked towards the nursery school."},{"lineNumber":250498,"originalJapaneseLine":"「デバッグフラグＯＮ","translatedEnglishLine":"\"Debug flag ON"},{"lineNumber":250499,"originalJapaneseLine":"　すぐに２部、アウターをテストしなさい」","translatedEnglishLine":"Test Part 2, Outer immediately.\""},{"lineNumber":250500,"originalJapaneseLine":"ランスの道中記","translatedEnglishLine":"Lance's Travelogue"},{"lineNumber":250501,"originalJapaneseLine":"こんちには、アリスです。","translatedEnglishLine":"Hello, this is Alice."},{"lineNumber":250502,"originalJapaneseLine":"今日はいい日かな？　楽しい日だったらいいね","translatedEnglishLine":"Is today a good day? I hope it was a fun day."},{"lineNumber":250503,"originalJapaneseLine":"毎日が幸せであるよう、前向きにいきましょう","translatedEnglishLine":"Let's stay positive so every day is a happy day."},{"lineNumber":250504,"originalJapaneseLine":"ゲームは楽しくプレイしてね","translatedEnglishLine":"Please enjoy playing the game."},{"lineNumber":250505,"originalJapaneseLine":"５行くらいまでのルームに入った時の挨拶","translatedEnglishLine":"A greeting for entering a room with about five lines."},{"lineNumber":250506,"originalJapaneseLine":"バージョン１．００です","translatedEnglishLine":"This is version 1.00."},{"lineNumber":250507,"originalJapaneseLine":"何か注意点などあれば・・うんぬん","translatedEnglishLine":"If there are any points of caution... etc."},{"lineNumber":250508,"originalJapaneseLine":"プレイする上でのお願い","translatedEnglishLine":"Requests for playing the game."},{"lineNumber":250509,"originalJapaneseLine":"シリーズが長くなり、多数の設定、旧知の情報等がありますが、その全てを初めての方に","translatedEnglishLine":"The series has become long with many settings and familiar information, but to newcomers,"},{"lineNumber":250510,"originalJapaneseLine":"分かるように説明を入れると物語が進まなくなるので説明はある程度省かせて頂いています","translatedEnglishLine":"if I explained everything for understanding, the story wouldn’t progress, so explanations are somewhat omitted."},{"lineNumber":250511,"originalJapaneseLine":"　","translatedEnglishLine":""},{"lineNumber":250512,"originalJapaneseLine":"マニュアルをよく読んで欲しいですが・・・最初に全て読む必要はありません","translatedEnglishLine":"I want you to read the manual carefully... but you don't need to read everything at the start."},{"lineNumber":250513,"originalJapaneseLine":"操作が分かり難かったら、その部分を調べるように見て下さい","translatedEnglishLine":"If the controls are confusing, please look up that part as needed."},{"lineNumber":250514,"originalJapaneseLine":"　","translatedEnglishLine":""},{"lineNumber":250515,"originalJapaneseLine":"また、画面によっては、ヘルプボタンがある時があります。","translatedEnglishLine":"Also, some screens have a help button."},{"lineNumber":250516,"originalJapaneseLine":"その画面での必要な情報を見る事が出来るので見つけたら押してあげて下さい","translatedEnglishLine":"You can see necessary information on that screen, so please press it when you find it."},{"lineNumber":250517,"originalJapaneseLine":"　","translatedEnglishLine":""},{"lineNumber":250518,"originalJapaneseLine":"このゲーム特有の表現については、次の項目で説明いたします","translatedEnglishLine":"Unique expressions of this game will be explained in the next section."},{"lineNumber":250519,"originalJapaneseLine":"出来れば、これだけは見ておいてもらえるとよりスムーズにプレイ出来るかと思います","translatedEnglishLine":"If possible, just reading this will help you play more smoothly."},{"lineNumber":250520,"originalJapaneseLine":"ぺこ","translatedEnglishLine":"*bow*"},{"lineNumber":250521,"originalJapaneseLine":"「今回は集団戦です","translatedEnglishLine":"\"This time it’s a group battle."},{"lineNumber":250522,"originalJapaneseLine":"　物語の序盤はランス君とシィルちゃんの二人だけですが、","translatedEnglishLine":"At the start of the story, it’s just Lance and Sil, but"},{"lineNumber":250523,"originalJapaneseLine":"　どんどん仲間が増えて何十人という集団になります」","translatedEnglishLine":"gradually allies increase and it becomes a group of dozens.\""},{"lineNumber":250524,"originalJapaneseLine":"「部隊編成でリーダーを選び戦う事になりますが、","translatedEnglishLine":"\"In the unit formation, you choose a leader to fight,"},{"lineNumber":250525,"originalJapaneseLine":"　通常のＲＰＧのように選んだリーダーだけが戦い","translatedEnglishLine":"but unlike usual RPGs where only the chosen leader fights,"},{"lineNumber":250526,"originalJapaneseLine":"　後は待機という戦闘ではありません」","translatedEnglishLine":"the others do not simply wait.\""},{"lineNumber":250527,"originalJapaneseLine":"「リーダーが中心となって戦いますが、","translatedEnglishLine":"\"The leader fights at the center,"},{"lineNumber":250528,"originalJapaneseLine":"　選ばれなかったキャラも一緒に戦います。","translatedEnglishLine":"but characters not chosen also fight together."},{"lineNumber":250529,"originalJapaneseLine":"　みんなで戦うイメージです」","translatedEnglishLine":"The image is everyone fighting together.\""},{"lineNumber":250530,"originalJapaneseLine":"この場合は、リーザスグループからリアをリーダーとして","translatedEnglishLine":"In this case, Ria from the Leazas group is chosen as the leader,"},{"lineNumber":250531,"originalJapaneseLine":"選択していますが、選択されなかった者は部下として","translatedEnglishLine":"but those not chosen act as subordinates,"},{"lineNumber":250532,"originalJapaneseLine":"リアと共に戦います","translatedEnglishLine":"fighting together with Ria."},{"lineNumber":250533,"originalJapaneseLine":"「同様に敵も単体ではありません","translatedEnglishLine":"\"Similarly, enemies are not solitary."},{"lineNumber":250534,"originalJapaneseLine":"　画面には５体表示されていますが、５体という訳ではありません","translatedEnglishLine":"Five are shown on screen, but that doesn't mean there are only five."},{"lineNumber":250535,"originalJapaneseLine":"　あくまでの集団のイメージなのです」","translatedEnglishLine":"It's merely an image of a group.\""},{"lineNumber":250536,"originalJapaneseLine":"「こちらは、比較的小規模な集団","translatedEnglishLine":"\"This is a relatively small group,"},{"lineNumber":250537,"originalJapaneseLine":"　だいたい２０体程度の敵と思って下さい」","translatedEnglishLine":"please think of about 20 enemies.\""},{"lineNumber":250538,"originalJapaneseLine":"「先程よりぐっと増えて中規模な敵集団です。","translatedEnglishLine":"\"Much larger than before, this is a mid-sized enemy group."},{"lineNumber":250539,"originalJapaneseLine":"　だいたい５０−２００体程度かしら","translatedEnglishLine":"About 50 to 200 or so, I suppose."},{"lineNumber":250540,"originalJapaneseLine":"　数が増えた中盤以降のランス部隊と同数イメージです」","translatedEnglishLine":"It's the same number as Lance’s troop mid to late game.\""},{"lineNumber":250541,"originalJapaneseLine":"「すごい多いです","translatedEnglishLine":"\"It's a huge number."},{"lineNumber":250542,"originalJapaneseLine":"　数えられないくらいの大軍です","translatedEnglishLine":"An army too large to count."},{"lineNumber":250543,"originalJapaneseLine":"　数千、数万クラスかもしれません」","translatedEnglishLine":"It might be in the thousands or tens of thousands.\""},{"lineNumber":250544,"originalJapaneseLine":"「また、単体で現れる敵もいます。","translatedEnglishLine":"\"Also, some enemies appear alone."},{"lineNumber":250545,"originalJapaneseLine":"　ランスさん達は集団なので卑怯かもしれませんが","translatedEnglishLine":"Lance and company are a group which may seem unfair,"},{"lineNumber":250546,"originalJapaneseLine":"　強い相手なので遠慮なくやりましょう」","translatedEnglishLine":"but since the opponents are strong, fight without hesitation.\""},{"lineNumber":250547,"originalJapaneseLine":"「はにほー","translatedEnglishLine":"\"Haniho—\""},{"lineNumber":250548,"originalJapaneseLine":"　説明おわり」","translatedEnglishLine":"End of explanation.\""},{"lineNumber":250549,"originalJapaneseLine":"「今回の冒険はクエスト単位でひと区切りとなっていて ","translatedEnglishLine":"\"This adventure is divided into segments by quests,"},{"lineNumber":250550,"originalJapaneseLine":"　このようなフローチャートで作られています。」","translatedEnglishLine":"and is made with a flowchart like this.\""},{"lineNumber":250551,"originalJapaneseLine":"「位置が繋がっている地図という訳で無く、","translatedEnglishLine":"\"It's not a map connected by location,"}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1793,"input_tokens_details":{"cached_tokens":0},"output_tokens":2316,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":4109},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":250492,\"originalJapaneseLine\":\"「ランス！！\",\"translatedEnglishLine\":\"\\\"Lance!!\\\"\"},{\"lineNumber\":250493,\"originalJapaneseLine\":\"「およそです」\",\"translatedEnglishLine\":\"\\\"Approximately.\\\"\"},{\"lineNumber\":250494,\"originalJapaneseLine\":\"今日も、叱咤する声が\",\"translatedEnglishLine\":\"Today as well, a scolding voice\"},{\"lineNumber\":250495,\"originalJapaneseLine\":\"ランス城に響く。\",\"translatedEnglishLine\":\"echoes through Lance Castle.\"},{\"lineNumber\":250496,\"originalJapaneseLine\":\"「にっぽー」\",\"translatedEnglishLine\":\"\\\"Nippo—\\\"\"},{\"lineNumber\":250497,\"originalJapaneseLine\":\"呟いて、マジックは保育園へと歩いていった。\",\"translatedEnglishLine\":\"Muttering, Magic walked towards the nursery school.\"},{\"lineNumber\":250498,\"originalJapaneseLine\":\"「デバッグフラグＯＮ\",\"translatedEnglishLine\":\"\\\"Debug flag ON\"},{\"lineNumber\":250499,\"originalJapaneseLine\":\"　すぐに２部、アウターをテストしなさい」\",\"translatedEnglishLine\":\"Test Part 2, Outer immediately.\\\"\"},{\"lineNumber\":250500,\"originalJapaneseLine\":\"ランスの道中記\",\"translatedEnglishLine\":\"Lance's Travelogue\"},{\"lineNumber\":250501,\"originalJapaneseLine\":\"こんちには、アリスです。\",\"translatedEnglishLine\":\"Hello, this is Alice.\"},{\"lineNumber\":250502,\"originalJapaneseLine\":\"今日はいい日かな？　楽しい日だったらいいね\",\"translatedEnglishLine\":\"Is today a good day? I hope it was a fun day.\"},{\"lineNumber\":250503,\"originalJapaneseLine\":\"毎日が幸せであるよう、前向きにいきましょう\",\"translatedEnglishLine\":\"Let's stay positive so every day is a happy day.\"},{\"lineNumber\":250504,\"originalJapaneseLine\":\"ゲームは楽しくプレイしてね\",\"translatedEnglishLine\":\"Please enjoy playing the game.\"},{\"lineNumber\":250505,\"originalJapaneseLine\":\"５行くらいまでのルームに入った時の挨拶\",\"translatedEnglishLine\":\"A greeting for entering a room with about five lines.\"},{\"lineNumber\":250506,\"originalJapaneseLine\":\"バージョン１．００です\",\"translatedEnglishLine\":\"This is version 1.00.\"},{\"lineNumber\":250507,\"originalJapaneseLine\":\"何か注意点などあれば・・うんぬん\",\"translatedEnglishLine\":\"If there are any points of caution... etc.\"},{\"lineNumber\":250508,\"originalJapaneseLine\":\"プレイする上でのお願い\",\"translatedEnglishLine\":\"Requests for playing the game.\"},{\"lineNumber\":250509,\"originalJapaneseLine\":\"シリーズが長くなり、多数の設定、旧知の情報等がありますが、その全てを初めての方に\",\"translatedEnglishLine\":\"The series has become long with many settings and familiar information, but to newcomers,\"},{\"lineNumber\":250510,\"originalJapaneseLine\":\"分かるように説明を入れると物語が進まなくなるので説明はある程度省かせて頂いています\",\"translatedEnglishLine\":\"if I explained everything for understanding, the story wouldn’t progress, so explanations are somewhat omitted.\"},{\"lineNumber\":250511,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":250512,\"originalJapaneseLine\":\"マニュアルをよく読んで欲しいですが・・・最初に全て読む必要はありません\",\"translatedEnglishLine\":\"I want you to read the manual carefully... but you don't need to read everything at the start.\"},{\"lineNumber\":250513,\"originalJapaneseLine\":\"操作が分かり難かったら、その部分を調べるように見て下さい\",\"translatedEnglishLine\":\"If the controls are confusing, please look up that part as needed.\"},{\"lineNumber\":250514,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":250515,\"originalJapaneseLine\":\"また、画面によっては、ヘルプボタンがある時があります。\",\"translatedEnglishLine\":\"Also, some screens have a help button.\"},{\"lineNumber\":250516,\"originalJapaneseLine\":\"その画面での必要な情報を見る事が出来るので見つけたら押してあげて下さい\",\"translatedEnglishLine\":\"You can see necessary information on that screen, so please press it when you find it.\"},{\"lineNumber\":250517,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":250518,\"originalJapaneseLine\":\"このゲーム特有の表現については、次の項目で説明いたします\",\"translatedEnglishLine\":\"Unique expressions of this game will be explained in the next section.\"},{\"lineNumber\":250519,\"originalJapaneseLine\":\"出来れば、これだけは見ておいてもらえるとよりスムーズにプレイ出来るかと思います\",\"translatedEnglishLine\":\"If possible, just reading this will help you play more smoothly.\"},{\"lineNumber\":250520,\"originalJapaneseLine\":\"ぺこ\",\"translatedEnglishLine\":\"*bow*\"},{\"lineNumber\":250521,\"originalJapaneseLine\":\"「今回は集団戦です\",\"translatedEnglishLine\":\"\\\"This time it’s a group battle.\"},{\"lineNumber\":250522,\"originalJapaneseLine\":\"　物語の序盤はランス君とシィルちゃんの二人だけですが、\",\"translatedEnglishLine\":\"At the start of the story, it’s just Lance and Sil, but\"},{\"lineNumber\":250523,\"originalJapaneseLine\":\"　どんどん仲間が増えて何十人という集団になります」\",\"translatedEnglishLine\":\"gradually allies increase and it becomes a group of dozens.\\\"\"},{\"lineNumber\":250524,\"originalJapaneseLine\":\"「部隊編成でリーダーを選び戦う事になりますが、\",\"translatedEnglishLine\":\"\\\"In the unit formation, you choose a leader to fight,\"},{\"lineNumber\":250525,\"originalJapaneseLine\":\"　通常のＲＰＧのように選んだリーダーだけが戦い\",\"translatedEnglishLine\":\"but unlike usual RPGs where only the chosen leader fights,\"},{\"lineNumber\":250526,\"originalJapaneseLine\":\"　後は待機という戦闘ではありません」\",\"translatedEnglishLine\":\"the others do not simply wait.\\\"\"},{\"lineNumber\":250527,\"originalJapaneseLine\":\"「リーダーが中心となって戦いますが、\",\"translatedEnglishLine\":\"\\\"The leader fights at the center,\"},{\"lineNumber\":250528,\"originalJapaneseLine\":\"　選ばれなかったキャラも一緒に戦います。\",\"translatedEnglishLine\":\"but characters not chosen also fight together.\"},{\"lineNumber\":250529,\"originalJapaneseLine\":\"　みんなで戦うイメージです」\",\"translatedEnglishLine\":\"The image is everyone fighting together.\\\"\"},{\"lineNumber\":250530,\"originalJapaneseLine\":\"この場合は、リーザスグループからリアをリーダーとして\",\"translatedEnglishLine\":\"In this case, Ria from the Leazas group is chosen as the leader,\"},{\"lineNumber\":250531,\"originalJapaneseLine\":\"選択していますが、選択されなかった者は部下として\",\"translatedEnglishLine\":\"but those not chosen act as subordinates,\"},{\"lineNumber\":250532,\"originalJapaneseLine\":\"リアと共に戦います\",\"translatedEnglishLine\":\"fighting together with Ria.\"},{\"lineNumber\":250533,\"originalJapaneseLine\":\"「同様に敵も単体ではありません\",\"translatedEnglishLine\":\"\\\"Similarly, enemies are not solitary.\"},{\"lineNumber\":250534,\"originalJapaneseLine\":\"　画面には５体表示されていますが、５体という訳ではありません\",\"translatedEnglishLine\":\"Five are shown on screen, but that doesn't mean there are only five.\"},{\"lineNumber\":250535,\"originalJapaneseLine\":\"　あくまでの集団のイメージなのです」\",\"translatedEnglishLine\":\"It's merely an image of a group.\\\"\"},{\"lineNumber\":250536,\"originalJapaneseLine\":\"「こちらは、比較的小規模な集団\",\"translatedEnglishLine\":\"\\\"This is a relatively small group,\"},{\"lineNumber\":250537,\"originalJapaneseLine\":\"　だいたい２０体程度の敵と思って下さい」\",\"translatedEnglishLine\":\"please think of about 20 enemies.\\\"\"},{\"lineNumber\":250538,\"originalJapaneseLine\":\"「先程よりぐっと増えて中規模な敵集団です。\",\"translatedEnglishLine\":\"\\\"Much larger than before, this is a mid-sized enemy group.\"},{\"lineNumber\":250539,\"originalJapaneseLine\":\"　だいたい５０−２００体程度かしら\",\"translatedEnglishLine\":\"About 50 to 200 or so, I suppose.\"},{\"lineNumber\":250540,\"originalJapaneseLine\":\"　数が増えた中盤以降のランス部隊と同数イメージです」\",\"translatedEnglishLine\":\"It's the same number as Lance’s troop mid to late game.\\\"\"},{\"lineNumber\":250541,\"originalJapaneseLine\":\"「すごい多いです\",\"translatedEnglishLine\":\"\\\"It's a huge number.\"},{\"lineNumber\":250542,\"originalJapaneseLine\":\"　数えられないくらいの大軍です\",\"translatedEnglishLine\":\"An army too large to count.\"},{\"lineNumber\":250543,\"originalJapaneseLine\":\"　数千、数万クラスかもしれません」\",\"translatedEnglishLine\":\"It might be in the thousands or tens of thousands.\\\"\"},{\"lineNumber\":250544,\"originalJapaneseLine\":\"「また、単体で現れる敵もいます。\",\"translatedEnglishLine\":\"\\\"Also, some enemies appear alone.\"},{\"lineNumber\":250545,\"originalJapaneseLine\":\"　ランスさん達は集団なので卑怯かもしれませんが\",\"translatedEnglishLine\":\"Lance and company are a group which may seem unfair,\"},{\"lineNumber\":250546,\"originalJapaneseLine\":\"　強い相手なので遠慮なくやりましょう」\",\"translatedEnglishLine\":\"but since the opponents are strong, fight without hesitation.\\\"\"},{\"lineNumber\":250547,\"originalJapaneseLine\":\"「はにほー\",\"translatedEnglishLine\":\"\\\"Haniho—\\\"\"},{\"lineNumber\":250548,\"originalJapaneseLine\":\"　説明おわり」\",\"translatedEnglishLine\":\"End of explanation.\\\"\"},{\"lineNumber\":250549,\"originalJapaneseLine\":\"「今回の冒険はクエスト単位でひと区切りとなっていて \",\"translatedEnglishLine\":\"\\\"This adventure is divided into segments by quests,\"},{\"lineNumber\":250550,\"originalJapaneseLine\":\"　このようなフローチャートで作られています。」\",\"translatedEnglishLine\":\"and is made with a flowchart like this.\\\"\"},{\"lineNumber\":250551,\"originalJapaneseLine\":\"「位置が繋がっている地図という訳で無く、\",\"translatedEnglishLine\":\"\\\"It's not a map connected by location,\"}]}","output_parsed":{"translationLines":[{"lineNumber":250492,"originalJapaneseLine":"「ランス！！","translatedEnglishLine":"\"Lance!!\""},{"lineNumber":250493,"originalJapaneseLine":"「およそです」","translatedEnglishLine":"\"Approximately.\""},{"lineNumber":250494,"originalJapaneseLine":"今日も、叱咤する声が","translatedEnglishLine":"Today as well, a scolding voice"},{"lineNumber":250495,"originalJapaneseLine":"ランス城に響く。","translatedEnglishLine":"echoes through Lance Castle."},{"lineNumber":250496,"originalJapaneseLine":"「にっぽー」","translatedEnglishLine":"\"Nippo—\""},{"lineNumber":250497,"originalJapaneseLine":"呟いて、マジックは保育園へと歩いていった。","translatedEnglishLine":"Muttering, Magic walked towards the nursery school."},{"lineNumber":250498,"originalJapaneseLine":"「デバッグフラグＯＮ","translatedEnglishLine":"\"Debug flag ON"},{"lineNumber":250499,"originalJapaneseLine":"　すぐに２部、アウターをテストしなさい」","translatedEnglishLine":"Test Part 2, Outer immediately.\""},{"lineNumber":250500,"originalJapaneseLine":"ランスの道中記","translatedEnglishLine":"Lance's Travelogue"},{"lineNumber":250501,"originalJapaneseLine":"こんちには、アリスです。","translatedEnglishLine":"Hello, this is Alice."},{"lineNumber":250502,"originalJapaneseLine":"今日はいい日かな？　楽しい日だったらいいね","translatedEnglishLine":"Is today a good day? I hope it was a fun day."},{"lineNumber":250503,"originalJapaneseLine":"毎日が幸せであるよう、前向きにいきましょう","translatedEnglishLine":"Let's stay positive so every day is a happy day."},{"lineNumber":250504,"originalJapaneseLine":"ゲームは楽しくプレイしてね","translatedEnglishLine":"Please enjoy playing the game."},{"lineNumber":250505,"originalJapaneseLine":"５行くらいまでのルームに入った時の挨拶","translatedEnglishLine":"A greeting for entering a room with about five lines."},{"lineNumber":250506,"originalJapaneseLine":"バージョン１．００です","translatedEnglishLine":"This is version 1.00."},{"lineNumber":250507,"originalJapaneseLine":"何か注意点などあれば・・うんぬん","translatedEnglishLine":"If there are any points of caution... etc."},{"lineNumber":250508,"originalJapaneseLine":"プレイする上でのお願い","translatedEnglishLine":"Requests for playing the game."},{"lineNumber":250509,"originalJapaneseLine":"シリーズが長くなり、多数の設定、旧知の情報等がありますが、その全てを初めての方に","translatedEnglishLine":"The series has become long with many settings and familiar information, but to newcomers,"},{"lineNumber":250510,"originalJapaneseLine":"分かるように説明を入れると物語が進まなくなるので説明はある程度省かせて頂いています","translatedEnglishLine":"if I explained everything for understanding, the story wouldn’t progress, so explanations are somewhat omitted."},{"lineNumber":250511,"originalJapaneseLine":"　","translatedEnglishLine":""},{"lineNumber":250512,"originalJapaneseLine":"マニュアルをよく読んで欲しいですが・・・最初に全て読む必要はありません","translatedEnglishLine":"I want you to read the manual carefully... but you don't need to read everything at the start."},{"lineNumber":250513,"originalJapaneseLine":"操作が分かり難かったら、その部分を調べるように見て下さい","translatedEnglishLine":"If the controls are confusing, please look up that part as needed."},{"lineNumber":250514,"originalJapaneseLine":"　","translatedEnglishLine":""},{"lineNumber":250515,"originalJapaneseLine":"また、画面によっては、ヘルプボタンがある時があります。","translatedEnglishLine":"Also, some screens have a help button."},{"lineNumber":250516,"originalJapaneseLine":"その画面での必要な情報を見る事が出来るので見つけたら押してあげて下さい","translatedEnglishLine":"You can see necessary information on that screen, so please press it when you find it."},{"lineNumber":250517,"originalJapaneseLine":"　","translatedEnglishLine":""},{"lineNumber":250518,"originalJapaneseLine":"このゲーム特有の表現については、次の項目で説明いたします","translatedEnglishLine":"Unique expressions of this game will be explained in the next section."},{"lineNumber":250519,"originalJapaneseLine":"出来れば、これだけは見ておいてもらえるとよりスムーズにプレイ出来るかと思います","translatedEnglishLine":"If possible, just reading this will help you play more smoothly."},{"lineNumber":250520,"originalJapaneseLine":"ぺこ","translatedEnglishLine":"*bow*"},{"lineNumber":250521,"originalJapaneseLine":"「今回は集団戦です","translatedEnglishLine":"\"This time it’s a group battle."},{"lineNumber":250522,"originalJapaneseLine":"　物語の序盤はランス君とシィルちゃんの二人だけですが、","translatedEnglishLine":"At the start of the story, it’s just Lance and Sil, but"},{"lineNumber":250523,"originalJapaneseLine":"　どんどん仲間が増えて何十人という集団になります」","translatedEnglishLine":"gradually allies increase and it becomes a group of dozens.\""},{"lineNumber":250524,"originalJapaneseLine":"「部隊編成でリーダーを選び戦う事になりますが、","translatedEnglishLine":"\"In the unit formation, you choose a leader to fight,"},{"lineNumber":250525,"originalJapaneseLine":"　通常のＲＰＧのように選んだリーダーだけが戦い","translatedEnglishLine":"but unlike usual RPGs where only the chosen leader fights,"},{"lineNumber":250526,"originalJapaneseLine":"　後は待機という戦闘ではありません」","translatedEnglishLine":"the others do not simply wait.\""},{"lineNumber":250527,"originalJapaneseLine":"「リーダーが中心となって戦いますが、","translatedEnglishLine":"\"The leader fights at the center,"},{"lineNumber":250528,"originalJapaneseLine":"　選ばれなかったキャラも一緒に戦います。","translatedEnglishLine":"but characters not chosen also fight together."},{"lineNumber":250529,"originalJapaneseLine":"　みんなで戦うイメージです」","translatedEnglishLine":"The image is everyone fighting together.\""},{"lineNumber":250530,"originalJapaneseLine":"この場合は、リーザスグループからリアをリーダーとして","translatedEnglishLine":"In this case, Ria from the Leazas group is chosen as the leader,"},{"lineNumber":250531,"originalJapaneseLine":"選択していますが、選択されなかった者は部下として","translatedEnglishLine":"but those not chosen act as subordinates,"},{"lineNumber":250532,"originalJapaneseLine":"リアと共に戦います","translatedEnglishLine":"fighting together with Ria."},{"lineNumber":250533,"originalJapaneseLine":"「同様に敵も単体ではありません","translatedEnglishLine":"\"Similarly, enemies are not solitary."},{"lineNumber":250534,"originalJapaneseLine":"　画面には５体表示されていますが、５体という訳ではありません","translatedEnglishLine":"Five are shown on screen, but that doesn't mean there are only five."},{"lineNumber":250535,"originalJapaneseLine":"　あくまでの集団のイメージなのです」","translatedEnglishLine":"It's merely an image of a group.\""},{"lineNumber":250536,"originalJapaneseLine":"「こちらは、比較的小規模な集団","translatedEnglishLine":"\"This is a relatively small group,"},{"lineNumber":250537,"originalJapaneseLine":"　だいたい２０体程度の敵と思って下さい」","translatedEnglishLine":"please think of about 20 enemies.\""},{"lineNumber":250538,"originalJapaneseLine":"「先程よりぐっと増えて中規模な敵集団です。","translatedEnglishLine":"\"Much larger than before, this is a mid-sized enemy group."},{"lineNumber":250539,"originalJapaneseLine":"　だいたい５０−２００体程度かしら","translatedEnglishLine":"About 50 to 200 or so, I suppose."},{"lineNumber":250540,"originalJapaneseLine":"　数が増えた中盤以降のランス部隊と同数イメージです」","translatedEnglishLine":"It's the same number as Lance’s troop mid to late game.\""},{"lineNumber":250541,"originalJapaneseLine":"「すごい多いです","translatedEnglishLine":"\"It's a huge number."},{"lineNumber":250542,"originalJapaneseLine":"　数えられないくらいの大軍です","translatedEnglishLine":"An army too large to count."},{"lineNumber":250543,"originalJapaneseLine":"　数千、数万クラスかもしれません」","translatedEnglishLine":"It might be in the thousands or tens of thousands.\""},{"lineNumber":250544,"originalJapaneseLine":"「また、単体で現れる敵もいます。","translatedEnglishLine":"\"Also, some enemies appear alone."},{"lineNumber":250545,"originalJapaneseLine":"　ランスさん達は集団なので卑怯かもしれませんが","translatedEnglishLine":"Lance and company are a group which may seem unfair,"},{"lineNumber":250546,"originalJapaneseLine":"　強い相手なので遠慮なくやりましょう」","translatedEnglishLine":"but since the opponents are strong, fight without hesitation.\""},{"lineNumber":250547,"originalJapaneseLine":"「はにほー","translatedEnglishLine":"\"Haniho—\""},{"lineNumber":250548,"originalJapaneseLine":"　説明おわり」","translatedEnglishLine":"End of explanation.\""},{"lineNumber":250549,"originalJapaneseLine":"「今回の冒険はクエスト単位でひと区切りとなっていて ","translatedEnglishLine":"\"This adventure is divided into segments by quests,"},{"lineNumber":250550,"originalJapaneseLine":"　このようなフローチャートで作られています。」","translatedEnglishLine":"and is made with a flowchart like this.\""},{"lineNumber":250551,"originalJapaneseLine":"「位置が繋がっている地図という訳で無く、","translatedEnglishLine":"\"It's not a map connected by location,"}]}}
+{
+    "id": "resp_020931c83686ca280068f23601c93881939a5dad9a6cf62b01",
+    "object": "response",
+    "created_at": 1760704001,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_020931c83686ca280068f23602f164819396bcbabcf6a2c3b6",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":250492,\"originalJapaneseLine\":\"「ランス！！\",\"translatedEnglishLine\":\"\\\"Lance!!\\\"\"},{\"lineNumber\":250493,\"originalJapaneseLine\":\"「およそです」\",\"translatedEnglishLine\":\"\\\"Approximately.\\\"\"},{\"lineNumber\":250494,\"originalJapaneseLine\":\"今日も、叱咤する声が\",\"translatedEnglishLine\":\"Today as well, a scolding voice\"},{\"lineNumber\":250495,\"originalJapaneseLine\":\"ランス城に響く。\",\"translatedEnglishLine\":\"echoes through Lance Castle.\"},{\"lineNumber\":250496,\"originalJapaneseLine\":\"「にっぽー」\",\"translatedEnglishLine\":\"\\\"Nippo—\\\"\"},{\"lineNumber\":250497,\"originalJapaneseLine\":\"呟いて、マジックは保育園へと歩いていった。\",\"translatedEnglishLine\":\"Muttering, Magic walked towards the nursery school.\"},{\"lineNumber\":250498,\"originalJapaneseLine\":\"「デバッグフラグＯＮ\",\"translatedEnglishLine\":\"\\\"Debug flag ON\"},{\"lineNumber\":250499,\"originalJapaneseLine\":\"　すぐに２部、アウターをテストしなさい」\",\"translatedEnglishLine\":\"Test Part 2, Outer immediately.\\\"\"},{\"lineNumber\":250500,\"originalJapaneseLine\":\"ランスの道中記\",\"translatedEnglishLine\":\"Lance's Travelogue\"},{\"lineNumber\":250501,\"originalJapaneseLine\":\"こんちには、アリスです。\",\"translatedEnglishLine\":\"Hello, this is Alice.\"},{\"lineNumber\":250502,\"originalJapaneseLine\":\"今日はいい日かな？　楽しい日だったらいいね\",\"translatedEnglishLine\":\"Is today a good day? I hope it was a fun day.\"},{\"lineNumber\":250503,\"originalJapaneseLine\":\"毎日が幸せであるよう、前向きにいきましょう\",\"translatedEnglishLine\":\"Let's stay positive so every day is a happy day.\"},{\"lineNumber\":250504,\"originalJapaneseLine\":\"ゲームは楽しくプレイしてね\",\"translatedEnglishLine\":\"Please enjoy playing the game.\"},{\"lineNumber\":250505,\"originalJapaneseLine\":\"５行くらいまでのルームに入った時の挨拶\",\"translatedEnglishLine\":\"A greeting for entering a room with about five lines.\"},{\"lineNumber\":250506,\"originalJapaneseLine\":\"バージョン１．００です\",\"translatedEnglishLine\":\"This is version 1.00.\"},{\"lineNumber\":250507,\"originalJapaneseLine\":\"何か注意点などあれば・・うんぬん\",\"translatedEnglishLine\":\"If there are any points of caution... etc.\"},{\"lineNumber\":250508,\"originalJapaneseLine\":\"プレイする上でのお願い\",\"translatedEnglishLine\":\"Requests for playing the game.\"},{\"lineNumber\":250509,\"originalJapaneseLine\":\"シリーズが長くなり、多数の設定、旧知の情報等がありますが、その全てを初めての方に\",\"translatedEnglishLine\":\"The series has become long with many settings and familiar information, but to newcomers,\"},{\"lineNumber\":250510,\"originalJapaneseLine\":\"分かるように説明を入れると物語が進まなくなるので説明はある程度省かせて頂いています\",\"translatedEnglishLine\":\"if I explained everything for understanding, the story wouldn’t progress, so explanations are somewhat omitted.\"},{\"lineNumber\":250511,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":250512,\"originalJapaneseLine\":\"マニュアルをよく読んで欲しいですが・・・最初に全て読む必要はありません\",\"translatedEnglishLine\":\"I want you to read the manual carefully... but you don't need to read everything at the start.\"},{\"lineNumber\":250513,\"originalJapaneseLine\":\"操作が分かり難かったら、その部分を調べるように見て下さい\",\"translatedEnglishLine\":\"If the controls are confusing, please look up that part as needed.\"},{\"lineNumber\":250514,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":250515,\"originalJapaneseLine\":\"また、画面によっては、ヘルプボタンがある時があります。\",\"translatedEnglishLine\":\"Also, some screens have a help button.\"},{\"lineNumber\":250516,\"originalJapaneseLine\":\"その画面での必要な情報を見る事が出来るので見つけたら押してあげて下さい\",\"translatedEnglishLine\":\"You can see necessary information on that screen, so please press it when you find it.\"},{\"lineNumber\":250517,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":250518,\"originalJapaneseLine\":\"このゲーム特有の表現については、次の項目で説明いたします\",\"translatedEnglishLine\":\"Unique expressions of this game will be explained in the next section.\"},{\"lineNumber\":250519,\"originalJapaneseLine\":\"出来れば、これだけは見ておいてもらえるとよりスムーズにプレイ出来るかと思います\",\"translatedEnglishLine\":\"If possible, just reading this will help you play more smoothly.\"},{\"lineNumber\":250520,\"originalJapaneseLine\":\"ぺこ\",\"translatedEnglishLine\":\"*bow*\"},{\"lineNumber\":250521,\"originalJapaneseLine\":\"「今回は集団戦です\",\"translatedEnglishLine\":\"\\\"This time it’s a group battle.\"},{\"lineNumber\":250522,\"originalJapaneseLine\":\"　物語の序盤はランス君とシィルちゃんの二人だけですが、\",\"translatedEnglishLine\":\"At the start of the story, it’s just Lance and Sil, but\"},{\"lineNumber\":250523,\"originalJapaneseLine\":\"　どんどん仲間が増えて何十人という集団になります」\",\"translatedEnglishLine\":\"gradually allies increase and it becomes a group of dozens.\\\"\"},{\"lineNumber\":250524,\"originalJapaneseLine\":\"「部隊編成でリーダーを選び戦う事になりますが、\",\"translatedEnglishLine\":\"\\\"In the unit formation, you choose a leader to fight,\"},{\"lineNumber\":250525,\"originalJapaneseLine\":\"　通常のＲＰＧのように選んだリーダーだけが戦い\",\"translatedEnglishLine\":\"but unlike usual RPGs where only the chosen leader fights,\"},{\"lineNumber\":250526,\"originalJapaneseLine\":\"　後は待機という戦闘ではありません」\",\"translatedEnglishLine\":\"the others do not simply wait.\\\"\"},{\"lineNumber\":250527,\"originalJapaneseLine\":\"「リーダーが中心となって戦いますが、\",\"translatedEnglishLine\":\"\\\"The leader fights at the center,\"},{\"lineNumber\":250528,\"originalJapaneseLine\":\"　選ばれなかったキャラも一緒に戦います。\",\"translatedEnglishLine\":\"but characters not chosen also fight together.\"},{\"lineNumber\":250529,\"originalJapaneseLine\":\"　みんなで戦うイメージです」\",\"translatedEnglishLine\":\"The image is everyone fighting together.\\\"\"},{\"lineNumber\":250530,\"originalJapaneseLine\":\"この場合は、リーザスグループからリアをリーダーとして\",\"translatedEnglishLine\":\"In this case, Ria from the Leazas group is chosen as the leader,\"},{\"lineNumber\":250531,\"originalJapaneseLine\":\"選択していますが、選択されなかった者は部下として\",\"translatedEnglishLine\":\"but those not chosen act as subordinates,\"},{\"lineNumber\":250532,\"originalJapaneseLine\":\"リアと共に戦います\",\"translatedEnglishLine\":\"fighting together with Ria.\"},{\"lineNumber\":250533,\"originalJapaneseLine\":\"「同様に敵も単体ではありません\",\"translatedEnglishLine\":\"\\\"Similarly, enemies are not solitary.\"},{\"lineNumber\":250534,\"originalJapaneseLine\":\"　画面には５体表示されていますが、５体という訳ではありません\",\"translatedEnglishLine\":\"Five are shown on screen, but that doesn't mean there are only five.\"},{\"lineNumber\":250535,\"originalJapaneseLine\":\"　あくまでの集団のイメージなのです」\",\"translatedEnglishLine\":\"It's merely an image of a group.\\\"\"},{\"lineNumber\":250536,\"originalJapaneseLine\":\"「こちらは、比較的小規模な集団\",\"translatedEnglishLine\":\"\\\"This is a relatively small group,\"},{\"lineNumber\":250537,\"originalJapaneseLine\":\"　だいたい２０体程度の敵と思って下さい」\",\"translatedEnglishLine\":\"please think of about 20 enemies.\\\"\"},{\"lineNumber\":250538,\"originalJapaneseLine\":\"「先程よりぐっと増えて中規模な敵集団です。\",\"translatedEnglishLine\":\"\\\"Much larger than before, this is a mid-sized enemy group.\"},{\"lineNumber\":250539,\"originalJapaneseLine\":\"　だいたい５０−２００体程度かしら\",\"translatedEnglishLine\":\"About 50 to 200 or so, I suppose.\"},{\"lineNumber\":250540,\"originalJapaneseLine\":\"　数が増えた中盤以降のランス部隊と同数イメージです」\",\"translatedEnglishLine\":\"It's the same number as Lance’s troop mid to late game.\\\"\"},{\"lineNumber\":250541,\"originalJapaneseLine\":\"「すごい多いです\",\"translatedEnglishLine\":\"\\\"It's a huge number.\"},{\"lineNumber\":250542,\"originalJapaneseLine\":\"　数えられないくらいの大軍です\",\"translatedEnglishLine\":\"An army too large to count.\"},{\"lineNumber\":250543,\"originalJapaneseLine\":\"　数千、数万クラスかもしれません」\",\"translatedEnglishLine\":\"It might be in the thousands or tens of thousands.\\\"\"},{\"lineNumber\":250544,\"originalJapaneseLine\":\"「また、単体で現れる敵もいます。\",\"translatedEnglishLine\":\"\\\"Also, some enemies appear alone.\"},{\"lineNumber\":250545,\"originalJapaneseLine\":\"　ランスさん達は集団なので卑怯かもしれませんが\",\"translatedEnglishLine\":\"Lance and company are a group which may seem unfair,\"},{\"lineNumber\":250546,\"originalJapaneseLine\":\"　強い相手なので遠慮なくやりましょう」\",\"translatedEnglishLine\":\"but since the opponents are strong, fight without hesitation.\\\"\"},{\"lineNumber\":250547,\"originalJapaneseLine\":\"「はにほー\",\"translatedEnglishLine\":\"\\\"Haniho—\\\"\"},{\"lineNumber\":250548,\"originalJapaneseLine\":\"　説明おわり」\",\"translatedEnglishLine\":\"End of explanation.\\\"\"},{\"lineNumber\":250549,\"originalJapaneseLine\":\"「今回の冒険はクエスト単位でひと区切りとなっていて \",\"translatedEnglishLine\":\"\\\"This adventure is divided into segments by quests,\"},{\"lineNumber\":250550,\"originalJapaneseLine\":\"　このようなフローチャートで作られています。」\",\"translatedEnglishLine\":\"and is made with a flowchart like this.\\\"\"},{\"lineNumber\":250551,\"originalJapaneseLine\":\"「位置が繋がっている地図という訳で無く、\",\"translatedEnglishLine\":\"\\\"It's not a map connected by location,\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 250492,
+                                "originalJapaneseLine": "「ランス！！",
+                                "translatedEnglishLine": "\"Lance!!\""
+                            },
+                            {
+                                "lineNumber": 250493,
+                                "originalJapaneseLine": "「およそです」",
+                                "translatedEnglishLine": "\"Approximately.\""
+                            },
+                            {
+                                "lineNumber": 250494,
+                                "originalJapaneseLine": "今日も、叱咤する声が",
+                                "translatedEnglishLine": "Today as well, a scolding voice"
+                            },
+                            {
+                                "lineNumber": 250495,
+                                "originalJapaneseLine": "ランス城に響く。",
+                                "translatedEnglishLine": "echoes through Lance Castle."
+                            },
+                            {
+                                "lineNumber": 250496,
+                                "originalJapaneseLine": "「にっぽー」",
+                                "translatedEnglishLine": "\"Nippo—\""
+                            },
+                            {
+                                "lineNumber": 250497,
+                                "originalJapaneseLine": "呟いて、マジックは保育園へと歩いていった。",
+                                "translatedEnglishLine": "Muttering, Magic walked towards the nursery school."
+                            },
+                            {
+                                "lineNumber": 250498,
+                                "originalJapaneseLine": "「デバッグフラグＯＮ",
+                                "translatedEnglishLine": "\"Debug flag ON"
+                            },
+                            {
+                                "lineNumber": 250499,
+                                "originalJapaneseLine": "　すぐに２部、アウターをテストしなさい」",
+                                "translatedEnglishLine": "Test Part 2, Outer immediately.\""
+                            },
+                            {
+                                "lineNumber": 250500,
+                                "originalJapaneseLine": "ランスの道中記",
+                                "translatedEnglishLine": "Lance's Travelogue"
+                            },
+                            {
+                                "lineNumber": 250501,
+                                "originalJapaneseLine": "こんちには、アリスです。",
+                                "translatedEnglishLine": "Hello, this is Alice."
+                            },
+                            {
+                                "lineNumber": 250502,
+                                "originalJapaneseLine": "今日はいい日かな？　楽しい日だったらいいね",
+                                "translatedEnglishLine": "Is today a good day? I hope it was a fun day."
+                            },
+                            {
+                                "lineNumber": 250503,
+                                "originalJapaneseLine": "毎日が幸せであるよう、前向きにいきましょう",
+                                "translatedEnglishLine": "Let's stay positive so every day is a happy day."
+                            },
+                            {
+                                "lineNumber": 250504,
+                                "originalJapaneseLine": "ゲームは楽しくプレイしてね",
+                                "translatedEnglishLine": "Please enjoy playing the game."
+                            },
+                            {
+                                "lineNumber": 250505,
+                                "originalJapaneseLine": "５行くらいまでのルームに入った時の挨拶",
+                                "translatedEnglishLine": "A greeting for entering a room with about five lines."
+                            },
+                            {
+                                "lineNumber": 250506,
+                                "originalJapaneseLine": "バージョン１．００です",
+                                "translatedEnglishLine": "This is version 1.00."
+                            },
+                            {
+                                "lineNumber": 250507,
+                                "originalJapaneseLine": "何か注意点などあれば・・うんぬん",
+                                "translatedEnglishLine": "If there are any points of caution... etc."
+                            },
+                            {
+                                "lineNumber": 250508,
+                                "originalJapaneseLine": "プレイする上でのお願い",
+                                "translatedEnglishLine": "Requests for playing the game."
+                            },
+                            {
+                                "lineNumber": 250509,
+                                "originalJapaneseLine": "シリーズが長くなり、多数の設定、旧知の情報等がありますが、その全てを初めての方に",
+                                "translatedEnglishLine": "The series has become long with many settings and familiar information, but to newcomers,"
+                            },
+                            {
+                                "lineNumber": 250510,
+                                "originalJapaneseLine": "分かるように説明を入れると物語が進まなくなるので説明はある程度省かせて頂いています",
+                                "translatedEnglishLine": "if I explained everything for understanding, the story wouldn’t progress, so explanations are somewhat omitted."
+                            },
+                            {
+                                "lineNumber": 250511,
+                                "originalJapaneseLine": "　",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": 250512,
+                                "originalJapaneseLine": "マニュアルをよく読んで欲しいですが・・・最初に全て読む必要はありません",
+                                "translatedEnglishLine": "I want you to read the manual carefully... but you don't need to read everything at the start."
+                            },
+                            {
+                                "lineNumber": 250513,
+                                "originalJapaneseLine": "操作が分かり難かったら、その部分を調べるように見て下さい",
+                                "translatedEnglishLine": "If the controls are confusing, please look up that part as needed."
+                            },
+                            {
+                                "lineNumber": 250514,
+                                "originalJapaneseLine": "　",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": 250515,
+                                "originalJapaneseLine": "また、画面によっては、ヘルプボタンがある時があります。",
+                                "translatedEnglishLine": "Also, some screens have a help button."
+                            },
+                            {
+                                "lineNumber": 250516,
+                                "originalJapaneseLine": "その画面での必要な情報を見る事が出来るので見つけたら押してあげて下さい",
+                                "translatedEnglishLine": "You can see necessary information on that screen, so please press it when you find it."
+                            },
+                            {
+                                "lineNumber": 250517,
+                                "originalJapaneseLine": "　",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": 250518,
+                                "originalJapaneseLine": "このゲーム特有の表現については、次の項目で説明いたします",
+                                "translatedEnglishLine": "Unique expressions of this game will be explained in the next section."
+                            },
+                            {
+                                "lineNumber": 250519,
+                                "originalJapaneseLine": "出来れば、これだけは見ておいてもらえるとよりスムーズにプレイ出来るかと思います",
+                                "translatedEnglishLine": "If possible, just reading this will help you play more smoothly."
+                            },
+                            {
+                                "lineNumber": 250520,
+                                "originalJapaneseLine": "ぺこ",
+                                "translatedEnglishLine": "*bow*"
+                            },
+                            {
+                                "lineNumber": 250521,
+                                "originalJapaneseLine": "「今回は集団戦です",
+                                "translatedEnglishLine": "\"This time it’s a group battle."
+                            },
+                            {
+                                "lineNumber": 250522,
+                                "originalJapaneseLine": "　物語の序盤はランス君とシィルちゃんの二人だけですが、",
+                                "translatedEnglishLine": "At the start of the story, it’s just Lance and Sil, but"
+                            },
+                            {
+                                "lineNumber": 250523,
+                                "originalJapaneseLine": "　どんどん仲間が増えて何十人という集団になります」",
+                                "translatedEnglishLine": "gradually allies increase and it becomes a group of dozens.\""
+                            },
+                            {
+                                "lineNumber": 250524,
+                                "originalJapaneseLine": "「部隊編成でリーダーを選び戦う事になりますが、",
+                                "translatedEnglishLine": "\"In the unit formation, you choose a leader to fight,"
+                            },
+                            {
+                                "lineNumber": 250525,
+                                "originalJapaneseLine": "　通常のＲＰＧのように選んだリーダーだけが戦い",
+                                "translatedEnglishLine": "but unlike usual RPGs where only the chosen leader fights,"
+                            },
+                            {
+                                "lineNumber": 250526,
+                                "originalJapaneseLine": "　後は待機という戦闘ではありません」",
+                                "translatedEnglishLine": "the others do not simply wait.\""
+                            },
+                            {
+                                "lineNumber": 250527,
+                                "originalJapaneseLine": "「リーダーが中心となって戦いますが、",
+                                "translatedEnglishLine": "\"The leader fights at the center,"
+                            },
+                            {
+                                "lineNumber": 250528,
+                                "originalJapaneseLine": "　選ばれなかったキャラも一緒に戦います。",
+                                "translatedEnglishLine": "but characters not chosen also fight together."
+                            },
+                            {
+                                "lineNumber": 250529,
+                                "originalJapaneseLine": "　みんなで戦うイメージです」",
+                                "translatedEnglishLine": "The image is everyone fighting together.\""
+                            },
+                            {
+                                "lineNumber": 250530,
+                                "originalJapaneseLine": "この場合は、リーザスグループからリアをリーダーとして",
+                                "translatedEnglishLine": "In this case, Ria from the Leazas group is chosen as the leader,"
+                            },
+                            {
+                                "lineNumber": 250531,
+                                "originalJapaneseLine": "選択していますが、選択されなかった者は部下として",
+                                "translatedEnglishLine": "but those not chosen act as subordinates,"
+                            },
+                            {
+                                "lineNumber": 250532,
+                                "originalJapaneseLine": "リアと共に戦います",
+                                "translatedEnglishLine": "fighting together with Ria."
+                            },
+                            {
+                                "lineNumber": 250533,
+                                "originalJapaneseLine": "「同様に敵も単体ではありません",
+                                "translatedEnglishLine": "\"Similarly, enemies are not solitary."
+                            },
+                            {
+                                "lineNumber": 250534,
+                                "originalJapaneseLine": "　画面には５体表示されていますが、５体という訳ではありません",
+                                "translatedEnglishLine": "Five are shown on screen, but that doesn't mean there are only five."
+                            },
+                            {
+                                "lineNumber": 250535,
+                                "originalJapaneseLine": "　あくまでの集団のイメージなのです」",
+                                "translatedEnglishLine": "It's merely an image of a group.\""
+                            },
+                            {
+                                "lineNumber": 250536,
+                                "originalJapaneseLine": "「こちらは、比較的小規模な集団",
+                                "translatedEnglishLine": "\"This is a relatively small group,"
+                            },
+                            {
+                                "lineNumber": 250537,
+                                "originalJapaneseLine": "　だいたい２０体程度の敵と思って下さい」",
+                                "translatedEnglishLine": "please think of about 20 enemies.\""
+                            },
+                            {
+                                "lineNumber": 250538,
+                                "originalJapaneseLine": "「先程よりぐっと増えて中規模な敵集団です。",
+                                "translatedEnglishLine": "\"Much larger than before, this is a mid-sized enemy group."
+                            },
+                            {
+                                "lineNumber": 250539,
+                                "originalJapaneseLine": "　だいたい５０−２００体程度かしら",
+                                "translatedEnglishLine": "About 50 to 200 or so, I suppose."
+                            },
+                            {
+                                "lineNumber": 250540,
+                                "originalJapaneseLine": "　数が増えた中盤以降のランス部隊と同数イメージです」",
+                                "translatedEnglishLine": "It's the same number as Lance’s troop mid to late game.\""
+                            },
+                            {
+                                "lineNumber": 250541,
+                                "originalJapaneseLine": "「すごい多いです",
+                                "translatedEnglishLine": "\"It's a huge number."
+                            },
+                            {
+                                "lineNumber": 250542,
+                                "originalJapaneseLine": "　数えられないくらいの大軍です",
+                                "translatedEnglishLine": "An army too large to count."
+                            },
+                            {
+                                "lineNumber": 250543,
+                                "originalJapaneseLine": "　数千、数万クラスかもしれません」",
+                                "translatedEnglishLine": "It might be in the thousands or tens of thousands.\""
+                            },
+                            {
+                                "lineNumber": 250544,
+                                "originalJapaneseLine": "「また、単体で現れる敵もいます。",
+                                "translatedEnglishLine": "\"Also, some enemies appear alone."
+                            },
+                            {
+                                "lineNumber": 250545,
+                                "originalJapaneseLine": "　ランスさん達は集団なので卑怯かもしれませんが",
+                                "translatedEnglishLine": "Lance and company are a group which may seem unfair,"
+                            },
+                            {
+                                "lineNumber": 250546,
+                                "originalJapaneseLine": "　強い相手なので遠慮なくやりましょう」",
+                                "translatedEnglishLine": "but since the opponents are strong, fight without hesitation.\""
+                            },
+                            {
+                                "lineNumber": 250547,
+                                "originalJapaneseLine": "「はにほー",
+                                "translatedEnglishLine": "\"Haniho—\""
+                            },
+                            {
+                                "lineNumber": 250548,
+                                "originalJapaneseLine": "　説明おわり」",
+                                "translatedEnglishLine": "End of explanation.\""
+                            },
+                            {
+                                "lineNumber": 250549,
+                                "originalJapaneseLine": "「今回の冒険はクエスト単位でひと区切りとなっていて ",
+                                "translatedEnglishLine": "\"This adventure is divided into segments by quests,"
+                            },
+                            {
+                                "lineNumber": 250550,
+                                "originalJapaneseLine": "　このようなフローチャートで作られています。」",
+                                "translatedEnglishLine": "and is made with a flowchart like this.\""
+                            },
+                            {
+                                "lineNumber": 250551,
+                                "originalJapaneseLine": "「位置が繋がっている地図という訳で無く、",
+                                "translatedEnglishLine": "\"It's not a map connected by location,"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1793,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2316,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4109
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":250492,\"originalJapaneseLine\":\"「ランス！！\",\"translatedEnglishLine\":\"\\\"Lance!!\\\"\"},{\"lineNumber\":250493,\"originalJapaneseLine\":\"「およそです」\",\"translatedEnglishLine\":\"\\\"Approximately.\\\"\"},{\"lineNumber\":250494,\"originalJapaneseLine\":\"今日も、叱咤する声が\",\"translatedEnglishLine\":\"Today as well, a scolding voice\"},{\"lineNumber\":250495,\"originalJapaneseLine\":\"ランス城に響く。\",\"translatedEnglishLine\":\"echoes through Lance Castle.\"},{\"lineNumber\":250496,\"originalJapaneseLine\":\"「にっぽー」\",\"translatedEnglishLine\":\"\\\"Nippo—\\\"\"},{\"lineNumber\":250497,\"originalJapaneseLine\":\"呟いて、マジックは保育園へと歩いていった。\",\"translatedEnglishLine\":\"Muttering, Magic walked towards the nursery school.\"},{\"lineNumber\":250498,\"originalJapaneseLine\":\"「デバッグフラグＯＮ\",\"translatedEnglishLine\":\"\\\"Debug flag ON\"},{\"lineNumber\":250499,\"originalJapaneseLine\":\"　すぐに２部、アウターをテストしなさい」\",\"translatedEnglishLine\":\"Test Part 2, Outer immediately.\\\"\"},{\"lineNumber\":250500,\"originalJapaneseLine\":\"ランスの道中記\",\"translatedEnglishLine\":\"Lance's Travelogue\"},{\"lineNumber\":250501,\"originalJapaneseLine\":\"こんちには、アリスです。\",\"translatedEnglishLine\":\"Hello, this is Alice.\"},{\"lineNumber\":250502,\"originalJapaneseLine\":\"今日はいい日かな？　楽しい日だったらいいね\",\"translatedEnglishLine\":\"Is today a good day? I hope it was a fun day.\"},{\"lineNumber\":250503,\"originalJapaneseLine\":\"毎日が幸せであるよう、前向きにいきましょう\",\"translatedEnglishLine\":\"Let's stay positive so every day is a happy day.\"},{\"lineNumber\":250504,\"originalJapaneseLine\":\"ゲームは楽しくプレイしてね\",\"translatedEnglishLine\":\"Please enjoy playing the game.\"},{\"lineNumber\":250505,\"originalJapaneseLine\":\"５行くらいまでのルームに入った時の挨拶\",\"translatedEnglishLine\":\"A greeting for entering a room with about five lines.\"},{\"lineNumber\":250506,\"originalJapaneseLine\":\"バージョン１．００です\",\"translatedEnglishLine\":\"This is version 1.00.\"},{\"lineNumber\":250507,\"originalJapaneseLine\":\"何か注意点などあれば・・うんぬん\",\"translatedEnglishLine\":\"If there are any points of caution... etc.\"},{\"lineNumber\":250508,\"originalJapaneseLine\":\"プレイする上でのお願い\",\"translatedEnglishLine\":\"Requests for playing the game.\"},{\"lineNumber\":250509,\"originalJapaneseLine\":\"シリーズが長くなり、多数の設定、旧知の情報等がありますが、その全てを初めての方に\",\"translatedEnglishLine\":\"The series has become long with many settings and familiar information, but to newcomers,\"},{\"lineNumber\":250510,\"originalJapaneseLine\":\"分かるように説明を入れると物語が進まなくなるので説明はある程度省かせて頂いています\",\"translatedEnglishLine\":\"if I explained everything for understanding, the story wouldn’t progress, so explanations are somewhat omitted.\"},{\"lineNumber\":250511,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":250512,\"originalJapaneseLine\":\"マニュアルをよく読んで欲しいですが・・・最初に全て読む必要はありません\",\"translatedEnglishLine\":\"I want you to read the manual carefully... but you don't need to read everything at the start.\"},{\"lineNumber\":250513,\"originalJapaneseLine\":\"操作が分かり難かったら、その部分を調べるように見て下さい\",\"translatedEnglishLine\":\"If the controls are confusing, please look up that part as needed.\"},{\"lineNumber\":250514,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":250515,\"originalJapaneseLine\":\"また、画面によっては、ヘルプボタンがある時があります。\",\"translatedEnglishLine\":\"Also, some screens have a help button.\"},{\"lineNumber\":250516,\"originalJapaneseLine\":\"その画面での必要な情報を見る事が出来るので見つけたら押してあげて下さい\",\"translatedEnglishLine\":\"You can see necessary information on that screen, so please press it when you find it.\"},{\"lineNumber\":250517,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":250518,\"originalJapaneseLine\":\"このゲーム特有の表現については、次の項目で説明いたします\",\"translatedEnglishLine\":\"Unique expressions of this game will be explained in the next section.\"},{\"lineNumber\":250519,\"originalJapaneseLine\":\"出来れば、これだけは見ておいてもらえるとよりスムーズにプレイ出来るかと思います\",\"translatedEnglishLine\":\"If possible, just reading this will help you play more smoothly.\"},{\"lineNumber\":250520,\"originalJapaneseLine\":\"ぺこ\",\"translatedEnglishLine\":\"*bow*\"},{\"lineNumber\":250521,\"originalJapaneseLine\":\"「今回は集団戦です\",\"translatedEnglishLine\":\"\\\"This time it’s a group battle.\"},{\"lineNumber\":250522,\"originalJapaneseLine\":\"　物語の序盤はランス君とシィルちゃんの二人だけですが、\",\"translatedEnglishLine\":\"At the start of the story, it’s just Lance and Sil, but\"},{\"lineNumber\":250523,\"originalJapaneseLine\":\"　どんどん仲間が増えて何十人という集団になります」\",\"translatedEnglishLine\":\"gradually allies increase and it becomes a group of dozens.\\\"\"},{\"lineNumber\":250524,\"originalJapaneseLine\":\"「部隊編成でリーダーを選び戦う事になりますが、\",\"translatedEnglishLine\":\"\\\"In the unit formation, you choose a leader to fight,\"},{\"lineNumber\":250525,\"originalJapaneseLine\":\"　通常のＲＰＧのように選んだリーダーだけが戦い\",\"translatedEnglishLine\":\"but unlike usual RPGs where only the chosen leader fights,\"},{\"lineNumber\":250526,\"originalJapaneseLine\":\"　後は待機という戦闘ではありません」\",\"translatedEnglishLine\":\"the others do not simply wait.\\\"\"},{\"lineNumber\":250527,\"originalJapaneseLine\":\"「リーダーが中心となって戦いますが、\",\"translatedEnglishLine\":\"\\\"The leader fights at the center,\"},{\"lineNumber\":250528,\"originalJapaneseLine\":\"　選ばれなかったキャラも一緒に戦います。\",\"translatedEnglishLine\":\"but characters not chosen also fight together.\"},{\"lineNumber\":250529,\"originalJapaneseLine\":\"　みんなで戦うイメージです」\",\"translatedEnglishLine\":\"The image is everyone fighting together.\\\"\"},{\"lineNumber\":250530,\"originalJapaneseLine\":\"この場合は、リーザスグループからリアをリーダーとして\",\"translatedEnglishLine\":\"In this case, Ria from the Leazas group is chosen as the leader,\"},{\"lineNumber\":250531,\"originalJapaneseLine\":\"選択していますが、選択されなかった者は部下として\",\"translatedEnglishLine\":\"but those not chosen act as subordinates,\"},{\"lineNumber\":250532,\"originalJapaneseLine\":\"リアと共に戦います\",\"translatedEnglishLine\":\"fighting together with Ria.\"},{\"lineNumber\":250533,\"originalJapaneseLine\":\"「同様に敵も単体ではありません\",\"translatedEnglishLine\":\"\\\"Similarly, enemies are not solitary.\"},{\"lineNumber\":250534,\"originalJapaneseLine\":\"　画面には５体表示されていますが、５体という訳ではありません\",\"translatedEnglishLine\":\"Five are shown on screen, but that doesn't mean there are only five.\"},{\"lineNumber\":250535,\"originalJapaneseLine\":\"　あくまでの集団のイメージなのです」\",\"translatedEnglishLine\":\"It's merely an image of a group.\\\"\"},{\"lineNumber\":250536,\"originalJapaneseLine\":\"「こちらは、比較的小規模な集団\",\"translatedEnglishLine\":\"\\\"This is a relatively small group,\"},{\"lineNumber\":250537,\"originalJapaneseLine\":\"　だいたい２０体程度の敵と思って下さい」\",\"translatedEnglishLine\":\"please think of about 20 enemies.\\\"\"},{\"lineNumber\":250538,\"originalJapaneseLine\":\"「先程よりぐっと増えて中規模な敵集団です。\",\"translatedEnglishLine\":\"\\\"Much larger than before, this is a mid-sized enemy group.\"},{\"lineNumber\":250539,\"originalJapaneseLine\":\"　だいたい５０−２００体程度かしら\",\"translatedEnglishLine\":\"About 50 to 200 or so, I suppose.\"},{\"lineNumber\":250540,\"originalJapaneseLine\":\"　数が増えた中盤以降のランス部隊と同数イメージです」\",\"translatedEnglishLine\":\"It's the same number as Lance’s troop mid to late game.\\\"\"},{\"lineNumber\":250541,\"originalJapaneseLine\":\"「すごい多いです\",\"translatedEnglishLine\":\"\\\"It's a huge number.\"},{\"lineNumber\":250542,\"originalJapaneseLine\":\"　数えられないくらいの大軍です\",\"translatedEnglishLine\":\"An army too large to count.\"},{\"lineNumber\":250543,\"originalJapaneseLine\":\"　数千、数万クラスかもしれません」\",\"translatedEnglishLine\":\"It might be in the thousands or tens of thousands.\\\"\"},{\"lineNumber\":250544,\"originalJapaneseLine\":\"「また、単体で現れる敵もいます。\",\"translatedEnglishLine\":\"\\\"Also, some enemies appear alone.\"},{\"lineNumber\":250545,\"originalJapaneseLine\":\"　ランスさん達は集団なので卑怯かもしれませんが\",\"translatedEnglishLine\":\"Lance and company are a group which may seem unfair,\"},{\"lineNumber\":250546,\"originalJapaneseLine\":\"　強い相手なので遠慮なくやりましょう」\",\"translatedEnglishLine\":\"but since the opponents are strong, fight without hesitation.\\\"\"},{\"lineNumber\":250547,\"originalJapaneseLine\":\"「はにほー\",\"translatedEnglishLine\":\"\\\"Haniho—\\\"\"},{\"lineNumber\":250548,\"originalJapaneseLine\":\"　説明おわり」\",\"translatedEnglishLine\":\"End of explanation.\\\"\"},{\"lineNumber\":250549,\"originalJapaneseLine\":\"「今回の冒険はクエスト単位でひと区切りとなっていて \",\"translatedEnglishLine\":\"\\\"This adventure is divided into segments by quests,\"},{\"lineNumber\":250550,\"originalJapaneseLine\":\"　このようなフローチャートで作られています。」\",\"translatedEnglishLine\":\"and is made with a flowchart like this.\\\"\"},{\"lineNumber\":250551,\"originalJapaneseLine\":\"「位置が繋がっている地図という訳で無く、\",\"translatedEnglishLine\":\"\\\"It's not a map connected by location,\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 250492,
+                "originalJapaneseLine": "「ランス！！",
+                "translatedEnglishLine": "\"Lance!!\""
+            },
+            {
+                "lineNumber": 250493,
+                "originalJapaneseLine": "「およそです」",
+                "translatedEnglishLine": "\"Approximately.\""
+            },
+            {
+                "lineNumber": 250494,
+                "originalJapaneseLine": "今日も、叱咤する声が",
+                "translatedEnglishLine": "Today as well, a scolding voice"
+            },
+            {
+                "lineNumber": 250495,
+                "originalJapaneseLine": "ランス城に響く。",
+                "translatedEnglishLine": "echoes through Lance Castle."
+            },
+            {
+                "lineNumber": 250496,
+                "originalJapaneseLine": "「にっぽー」",
+                "translatedEnglishLine": "\"Nippo—\""
+            },
+            {
+                "lineNumber": 250497,
+                "originalJapaneseLine": "呟いて、マジックは保育園へと歩いていった。",
+                "translatedEnglishLine": "Muttering, Magic walked towards the nursery school."
+            },
+            {
+                "lineNumber": 250498,
+                "originalJapaneseLine": "「デバッグフラグＯＮ",
+                "translatedEnglishLine": "\"Debug flag ON"
+            },
+            {
+                "lineNumber": 250499,
+                "originalJapaneseLine": "　すぐに２部、アウターをテストしなさい」",
+                "translatedEnglishLine": "Test Part 2, Outer immediately.\""
+            },
+            {
+                "lineNumber": 250500,
+                "originalJapaneseLine": "ランスの道中記",
+                "translatedEnglishLine": "Lance's Travelogue"
+            },
+            {
+                "lineNumber": 250501,
+                "originalJapaneseLine": "こんちには、アリスです。",
+                "translatedEnglishLine": "Hello, this is Alice."
+            },
+            {
+                "lineNumber": 250502,
+                "originalJapaneseLine": "今日はいい日かな？　楽しい日だったらいいね",
+                "translatedEnglishLine": "Is today a good day? I hope it was a fun day."
+            },
+            {
+                "lineNumber": 250503,
+                "originalJapaneseLine": "毎日が幸せであるよう、前向きにいきましょう",
+                "translatedEnglishLine": "Let's stay positive so every day is a happy day."
+            },
+            {
+                "lineNumber": 250504,
+                "originalJapaneseLine": "ゲームは楽しくプレイしてね",
+                "translatedEnglishLine": "Please enjoy playing the game."
+            },
+            {
+                "lineNumber": 250505,
+                "originalJapaneseLine": "５行くらいまでのルームに入った時の挨拶",
+                "translatedEnglishLine": "A greeting for entering a room with about five lines."
+            },
+            {
+                "lineNumber": 250506,
+                "originalJapaneseLine": "バージョン１．００です",
+                "translatedEnglishLine": "This is version 1.00."
+            },
+            {
+                "lineNumber": 250507,
+                "originalJapaneseLine": "何か注意点などあれば・・うんぬん",
+                "translatedEnglishLine": "If there are any points of caution... etc."
+            },
+            {
+                "lineNumber": 250508,
+                "originalJapaneseLine": "プレイする上でのお願い",
+                "translatedEnglishLine": "Requests for playing the game."
+            },
+            {
+                "lineNumber": 250509,
+                "originalJapaneseLine": "シリーズが長くなり、多数の設定、旧知の情報等がありますが、その全てを初めての方に",
+                "translatedEnglishLine": "The series has become long with many settings and familiar information, but to newcomers,"
+            },
+            {
+                "lineNumber": 250510,
+                "originalJapaneseLine": "分かるように説明を入れると物語が進まなくなるので説明はある程度省かせて頂いています",
+                "translatedEnglishLine": "if I explained everything for understanding, the story wouldn’t progress, so explanations are somewhat omitted."
+            },
+            {
+                "lineNumber": 250511,
+                "originalJapaneseLine": "　",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": 250512,
+                "originalJapaneseLine": "マニュアルをよく読んで欲しいですが・・・最初に全て読む必要はありません",
+                "translatedEnglishLine": "I want you to read the manual carefully... but you don't need to read everything at the start."
+            },
+            {
+                "lineNumber": 250513,
+                "originalJapaneseLine": "操作が分かり難かったら、その部分を調べるように見て下さい",
+                "translatedEnglishLine": "If the controls are confusing, please look up that part as needed."
+            },
+            {
+                "lineNumber": 250514,
+                "originalJapaneseLine": "　",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": 250515,
+                "originalJapaneseLine": "また、画面によっては、ヘルプボタンがある時があります。",
+                "translatedEnglishLine": "Also, some screens have a help button."
+            },
+            {
+                "lineNumber": 250516,
+                "originalJapaneseLine": "その画面での必要な情報を見る事が出来るので見つけたら押してあげて下さい",
+                "translatedEnglishLine": "You can see necessary information on that screen, so please press it when you find it."
+            },
+            {
+                "lineNumber": 250517,
+                "originalJapaneseLine": "　",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": 250518,
+                "originalJapaneseLine": "このゲーム特有の表現については、次の項目で説明いたします",
+                "translatedEnglishLine": "Unique expressions of this game will be explained in the next section."
+            },
+            {
+                "lineNumber": 250519,
+                "originalJapaneseLine": "出来れば、これだけは見ておいてもらえるとよりスムーズにプレイ出来るかと思います",
+                "translatedEnglishLine": "If possible, just reading this will help you play more smoothly."
+            },
+            {
+                "lineNumber": 250520,
+                "originalJapaneseLine": "ぺこ",
+                "translatedEnglishLine": "*bow*"
+            },
+            {
+                "lineNumber": 250521,
+                "originalJapaneseLine": "「今回は集団戦です",
+                "translatedEnglishLine": "\"This time it’s a group battle."
+            },
+            {
+                "lineNumber": 250522,
+                "originalJapaneseLine": "　物語の序盤はランス君とシィルちゃんの二人だけですが、",
+                "translatedEnglishLine": "At the start of the story, it’s just Lance and Sil, but"
+            },
+            {
+                "lineNumber": 250523,
+                "originalJapaneseLine": "　どんどん仲間が増えて何十人という集団になります」",
+                "translatedEnglishLine": "gradually allies increase and it becomes a group of dozens.\""
+            },
+            {
+                "lineNumber": 250524,
+                "originalJapaneseLine": "「部隊編成でリーダーを選び戦う事になりますが、",
+                "translatedEnglishLine": "\"In the unit formation, you choose a leader to fight,"
+            },
+            {
+                "lineNumber": 250525,
+                "originalJapaneseLine": "　通常のＲＰＧのように選んだリーダーだけが戦い",
+                "translatedEnglishLine": "but unlike usual RPGs where only the chosen leader fights,"
+            },
+            {
+                "lineNumber": 250526,
+                "originalJapaneseLine": "　後は待機という戦闘ではありません」",
+                "translatedEnglishLine": "the others do not simply wait.\""
+            },
+            {
+                "lineNumber": 250527,
+                "originalJapaneseLine": "「リーダーが中心となって戦いますが、",
+                "translatedEnglishLine": "\"The leader fights at the center,"
+            },
+            {
+                "lineNumber": 250528,
+                "originalJapaneseLine": "　選ばれなかったキャラも一緒に戦います。",
+                "translatedEnglishLine": "but characters not chosen also fight together."
+            },
+            {
+                "lineNumber": 250529,
+                "originalJapaneseLine": "　みんなで戦うイメージです」",
+                "translatedEnglishLine": "The image is everyone fighting together.\""
+            },
+            {
+                "lineNumber": 250530,
+                "originalJapaneseLine": "この場合は、リーザスグループからリアをリーダーとして",
+                "translatedEnglishLine": "In this case, Ria from the Leazas group is chosen as the leader,"
+            },
+            {
+                "lineNumber": 250531,
+                "originalJapaneseLine": "選択していますが、選択されなかった者は部下として",
+                "translatedEnglishLine": "but those not chosen act as subordinates,"
+            },
+            {
+                "lineNumber": 250532,
+                "originalJapaneseLine": "リアと共に戦います",
+                "translatedEnglishLine": "fighting together with Ria."
+            },
+            {
+                "lineNumber": 250533,
+                "originalJapaneseLine": "「同様に敵も単体ではありません",
+                "translatedEnglishLine": "\"Similarly, enemies are not solitary."
+            },
+            {
+                "lineNumber": 250534,
+                "originalJapaneseLine": "　画面には５体表示されていますが、５体という訳ではありません",
+                "translatedEnglishLine": "Five are shown on screen, but that doesn't mean there are only five."
+            },
+            {
+                "lineNumber": 250535,
+                "originalJapaneseLine": "　あくまでの集団のイメージなのです」",
+                "translatedEnglishLine": "It's merely an image of a group.\""
+            },
+            {
+                "lineNumber": 250536,
+                "originalJapaneseLine": "「こちらは、比較的小規模な集団",
+                "translatedEnglishLine": "\"This is a relatively small group,"
+            },
+            {
+                "lineNumber": 250537,
+                "originalJapaneseLine": "　だいたい２０体程度の敵と思って下さい」",
+                "translatedEnglishLine": "please think of about 20 enemies.\""
+            },
+            {
+                "lineNumber": 250538,
+                "originalJapaneseLine": "「先程よりぐっと増えて中規模な敵集団です。",
+                "translatedEnglishLine": "\"Much larger than before, this is a mid-sized enemy group."
+            },
+            {
+                "lineNumber": 250539,
+                "originalJapaneseLine": "　だいたい５０−２００体程度かしら",
+                "translatedEnglishLine": "About 50 to 200 or so, I suppose."
+            },
+            {
+                "lineNumber": 250540,
+                "originalJapaneseLine": "　数が増えた中盤以降のランス部隊と同数イメージです」",
+                "translatedEnglishLine": "It's the same number as Lance’s troop mid to late game.\""
+            },
+            {
+                "lineNumber": 250541,
+                "originalJapaneseLine": "「すごい多いです",
+                "translatedEnglishLine": "\"It's a huge number."
+            },
+            {
+                "lineNumber": 250542,
+                "originalJapaneseLine": "　数えられないくらいの大軍です",
+                "translatedEnglishLine": "An army too large to count."
+            },
+            {
+                "lineNumber": 250543,
+                "originalJapaneseLine": "　数千、数万クラスかもしれません」",
+                "translatedEnglishLine": "It might be in the thousands or tens of thousands.\""
+            },
+            {
+                "lineNumber": 250544,
+                "originalJapaneseLine": "「また、単体で現れる敵もいます。",
+                "translatedEnglishLine": "\"Also, some enemies appear alone."
+            },
+            {
+                "lineNumber": 250545,
+                "originalJapaneseLine": "　ランスさん達は集団なので卑怯かもしれませんが",
+                "translatedEnglishLine": "Lance and company are a group which may seem unfair,"
+            },
+            {
+                "lineNumber": 250546,
+                "originalJapaneseLine": "　強い相手なので遠慮なくやりましょう」",
+                "translatedEnglishLine": "but since the opponents are strong, fight without hesitation.\""
+            },
+            {
+                "lineNumber": 250547,
+                "originalJapaneseLine": "「はにほー",
+                "translatedEnglishLine": "\"Haniho—\""
+            },
+            {
+                "lineNumber": 250548,
+                "originalJapaneseLine": "　説明おわり」",
+                "translatedEnglishLine": "End of explanation.\""
+            },
+            {
+                "lineNumber": 250549,
+                "originalJapaneseLine": "「今回の冒険はクエスト単位でひと区切りとなっていて ",
+                "translatedEnglishLine": "\"This adventure is divided into segments by quests,"
+            },
+            {
+                "lineNumber": 250550,
+                "originalJapaneseLine": "　このようなフローチャートで作られています。」",
+                "translatedEnglishLine": "and is made with a flowchart like this.\""
+            },
+            {
+                "lineNumber": 250551,
+                "originalJapaneseLine": "「位置が繋がっている地図という訳で無く、",
+                "translatedEnglishLine": "\"It's not a map connected by location,"
+            }
+        ]
+    }
+}

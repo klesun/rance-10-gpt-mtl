@@ -1,1 +1,619 @@
-{"id":"resp_04dd318f924a4ce90068ef7e1a3d588197805b19619fcbe2fd","object":"response","created_at":1760525850,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_04dd318f924a4ce90068ef7e1aa7848197b82d218b1f0cadb2","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":31041,\"originalJapaneseLine\":\"「……どうしたんですか、総統。\",\"translatedEnglishLine\":\"\\\"...What's the matter, Supreme Leader?\"},{\"lineNumber\":31042,\"originalJapaneseLine\":\"　突然転がり込むようにして……」\",\"translatedEnglishLine\":\"Suddenly just barging in like this...\\\"\"},{\"lineNumber\":31043,\"originalJapaneseLine\":\"「このちびすけのせいだ」\",\"translatedEnglishLine\":\"\\\"It's this little brat's fault.\\\"\"},{\"lineNumber\":31044,\"originalJapaneseLine\":\"「まあ、そういうこともあるよね」\",\"translatedEnglishLine\":\"\\\"Well, that kind of thing happens sometimes.\\\"\"},{\"lineNumber\":31045,\"originalJapaneseLine\":\"「はあ……トラブルでなければいいですが」\",\"translatedEnglishLine\":\"\\\"Haa... I hope it's nothing troublesome.\\\"\"},{\"lineNumber\":31046,\"originalJapaneseLine\":\"「総統。ちょうど良いのでお伝えしますが。\",\"translatedEnglishLine\":\"\\\"Supreme Leader. Since this is a good opportunity, I'll inform you.\"},{\"lineNumber\":31047,\"originalJapaneseLine\":\"　魔人討伐の遠征ですが、\",\"translatedEnglishLine\":\"Regarding the expedition to defeat the demon lord,\"},{\"lineNumber\":31048,\"originalJapaneseLine\":\"　明日、午後一時からとなりました」\",\"translatedEnglishLine\":\"It has been scheduled to start tomorrow at 1 PM.\\\"\"},{\"lineNumber\":31049,\"originalJapaneseLine\":\"「準備はしっかりお願いします。\",\"translatedEnglishLine\":\"\\\"Please make sure to prepare thoroughly.\"},{\"lineNumber\":31050,\"originalJapaneseLine\":\"　今晩は早くお休みください」\",\"translatedEnglishLine\":\"Get some rest early tonight.\\\"\"},{\"lineNumber\":31051,\"originalJapaneseLine\":\"「ああ、分かった分かった」\",\"translatedEnglishLine\":\"\\\"Ah, alright, alright.\\\"\"},{\"lineNumber\":31052,\"originalJapaneseLine\":\"「そういえば……きちんと聞いていなかったな。\",\"translatedEnglishLine\":\"\\\"Now that you mention it... I haven't properly heard about it.\"},{\"lineNumber\":31053,\"originalJapaneseLine\":\"　地上では何が起こっているんだい？」\",\"translatedEnglishLine\":\"What's happening on the surface?\\\"\"},{\"lineNumber\":31054,\"originalJapaneseLine\":\"「なんだお前、賢そうなツラしてるくせに\",\"translatedEnglishLine\":\"\\\"What's with you? You look smart, yet\"},{\"lineNumber\":31055,\"originalJapaneseLine\":\"　何も知らんのか」\",\"translatedEnglishLine\":\"you don't know anything?\\\"\"},{\"lineNumber\":31056,\"originalJapaneseLine\":\"「賢くはないさ。世の中、分からないことだらけだ。\",\"translatedEnglishLine\":\"\\\"I'm not smart. The world is full of things I don't understand.\"},{\"lineNumber\":31057,\"originalJapaneseLine\":\"　知っているなら是非教えてくれないか」\",\"translatedEnglishLine\":\"If you know, please tell me.\\\"\"},{\"lineNumber\":31058,\"originalJapaneseLine\":\"「ふっ、そうかそうか。仕方がない。\",\"translatedEnglishLine\":\"\\\"Hmph, I see, I see. It can't be helped.\"},{\"lineNumber\":31059,\"originalJapaneseLine\":\"　特別に俺様が教えてやろう」\",\"translatedEnglishLine\":\"I'll specially teach you.\\\"\"},{\"lineNumber\":31060,\"originalJapaneseLine\":\"（……この二人、意外に相性いいのかしら……）\",\"translatedEnglishLine\":\"(...I wonder if these two actually get along better than expected...)\\\"\"},{\"lineNumber\":31061,\"originalJapaneseLine\":\"「今、この世界は魔物どもの総攻撃に遭っている。\",\"translatedEnglishLine\":\"\\\"Right now, this world is under an all-out attack by monsters.\"},{\"lineNumber\":31062,\"originalJapaneseLine\":\"　西の果てから、魔人に率いられた魔軍が、\",\"translatedEnglishLine\":\"From the western edge, the demon army led by demon lords,\"},{\"lineNumber\":31063,\"originalJapaneseLine\":\"　圧倒的な数と勢いで攻めて来やがったんだ」\",\"translatedEnglishLine\":\"has attacked with overwhelming numbers and momentum.\\\"\"},{\"lineNumber\":31064,\"originalJapaneseLine\":\"「数も少ない、弱っちい人類は太刀打ちできず、\",\"translatedEnglishLine\":\"\\\"The few, weak humans can't stand against them,\"},{\"lineNumber\":31065,\"originalJapaneseLine\":\"　為す術なしだ。そのまま負けそうになったが……」\",\"translatedEnglishLine\":\"and are helpless. We nearly lost as things were...\\\"\"},{\"lineNumber\":31066,\"originalJapaneseLine\":\"「そこを俺様が人類総統となって、\",\"translatedEnglishLine\":\"\\\"That's when I became the Supreme Leader of humanity,\"},{\"lineNumber\":31067,\"originalJapaneseLine\":\"　颯爽と助けてやっているところ、というわけだな」\",\"translatedEnglishLine\":\"and gallantly came to their aid, that's the situation.\\\"\"},{\"lineNumber\":31068,\"originalJapaneseLine\":\"「他の奴には手出しできない魔人も、\",\"translatedEnglishLine\":\"\\\"Even demon lords who others can't touch,\"},{\"lineNumber\":31069,\"originalJapaneseLine\":\"　俺の手にかかれば楽勝だ。\",\"translatedEnglishLine\":\"are easy for me to handle.\"},{\"lineNumber\":31070,\"originalJapaneseLine\":\"　何体も倒してやったのだが……」\",\"translatedEnglishLine\":\"I've defeated several of them, but...\\\"\"},{\"lineNumber\":31071,\"originalJapaneseLine\":\"「あいつらはとにかく数が多い。\",\"translatedEnglishLine\":\"\\\"They have an overwhelming number.\"},{\"lineNumber\":31072,\"originalJapaneseLine\":\"　本拠地にしていたランス城が襲われて、\",\"translatedEnglishLine\":\"They attacked Lance Castle, which was our base,\"},{\"lineNumber\":31073,\"originalJapaneseLine\":\"　そこには居られなくなった」\",\"translatedEnglishLine\":\"and we can no longer stay there.\\\"\"},{\"lineNumber\":31074,\"originalJapaneseLine\":\"「仕方なく、こんな僻地を新しい根城にしてる\",\"translatedEnglishLine\":\"\\\"Reluctantly, we've made this remote place our new stronghold.\"},{\"lineNumber\":31075,\"originalJapaneseLine\":\"　って訳だ」\",\"translatedEnglishLine\":\"That's the situation.\\\"\"},{\"lineNumber\":31076,\"originalJapaneseLine\":\"「それでも、無敵の俺様ならどうにでもなる。\",\"translatedEnglishLine\":\"\\\"Still, with invincible me, we can manage somehow.\"},{\"lineNumber\":31077,\"originalJapaneseLine\":\"　なるのだが……」\",\"translatedEnglishLine\":\"That is, however...\\\"\"},{\"lineNumber\":31078,\"originalJapaneseLine\":\"「奴らのボスであるケイブリスとかいう野郎、\",\"translatedEnglishLine\":\"\\\"That guy named Cavebris, their boss,\"},{\"lineNumber\":31079,\"originalJapaneseLine\":\"　こいつが魔物の森の奥から出てこない。\",\"translatedEnglishLine\":\"won't come out from the depths of the monster forest.\"},{\"lineNumber\":31080,\"originalJapaneseLine\":\"　いつまで経っても雑魚と戦わなきゃならん」\",\"translatedEnglishLine\":\"We have to keep fighting the small fry forever.\\\"\"},{\"lineNumber\":31081,\"originalJapaneseLine\":\"「頭を潰したいが正面から行くわけにもいかん。\",\"translatedEnglishLine\":\"\\\"I want to crush the head, but I can't go at it head-on.\"},{\"lineNumber\":31082,\"originalJapaneseLine\":\"　さあどうしたもんか、って所だな」\",\"translatedEnglishLine\":\"So now, what should we do? That’s the situation.\\\"\"},{\"lineNumber\":31083,\"originalJapaneseLine\":\"「なるほど……よくわかったよ。ありがとう。\",\"translatedEnglishLine\":\"\\\"I see... I understand well now. Thank you.\"},{\"lineNumber\":31084,\"originalJapaneseLine\":\"　それは確かに困った話だ」\",\"translatedEnglishLine\":\"That is certainly a troubling story.\\\"\"},{\"lineNumber\":31085,\"originalJapaneseLine\":\"「困ったでは済まんからみんな考えてるんだ。\",\"translatedEnglishLine\":\"\\\"It's more than just trouble, so everyone is thinking hard.\"},{\"lineNumber\":31086,\"originalJapaneseLine\":\"　お前もなんか知恵を出せ」\",\"translatedEnglishLine\":\"You should also come up with some ideas.\\\"\"},{\"lineNumber\":31087,\"originalJapaneseLine\":\"「正面から、は無理なんだよね……\",\"translatedEnglishLine\":\"\\\"Going head-on is impossible, huh...\"},{\"lineNumber\":31088,\"originalJapaneseLine\":\"　それなら……ううん…………」\",\"translatedEnglishLine\":\"If that's the case... hmm...\\\"\"},{\"lineNumber\":31089,\"originalJapaneseLine\":\"「ま、そんな簡単に出れば苦労は……」\",\"translatedEnglishLine\":\"\\\"Well, if it came out that easily, it wouldn't be such a problem...\\\"\"},{\"lineNumber\":31090,\"originalJapaneseLine\":\"「あっ」\",\"translatedEnglishLine\":\"\\\"Ah!\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":31041,"originalJapaneseLine":"「……どうしたんですか、総統。","translatedEnglishLine":"\"...What's the matter, Supreme Leader?"},{"lineNumber":31042,"originalJapaneseLine":"　突然転がり込むようにして……」","translatedEnglishLine":"Suddenly just barging in like this...\""},{"lineNumber":31043,"originalJapaneseLine":"「このちびすけのせいだ」","translatedEnglishLine":"\"It's this little brat's fault.\""},{"lineNumber":31044,"originalJapaneseLine":"「まあ、そういうこともあるよね」","translatedEnglishLine":"\"Well, that kind of thing happens sometimes.\""},{"lineNumber":31045,"originalJapaneseLine":"「はあ……トラブルでなければいいですが」","translatedEnglishLine":"\"Haa... I hope it's nothing troublesome.\""},{"lineNumber":31046,"originalJapaneseLine":"「総統。ちょうど良いのでお伝えしますが。","translatedEnglishLine":"\"Supreme Leader. Since this is a good opportunity, I'll inform you."},{"lineNumber":31047,"originalJapaneseLine":"　魔人討伐の遠征ですが、","translatedEnglishLine":"Regarding the expedition to defeat the demon lord,"},{"lineNumber":31048,"originalJapaneseLine":"　明日、午後一時からとなりました」","translatedEnglishLine":"It has been scheduled to start tomorrow at 1 PM.\""},{"lineNumber":31049,"originalJapaneseLine":"「準備はしっかりお願いします。","translatedEnglishLine":"\"Please make sure to prepare thoroughly."},{"lineNumber":31050,"originalJapaneseLine":"　今晩は早くお休みください」","translatedEnglishLine":"Get some rest early tonight.\""},{"lineNumber":31051,"originalJapaneseLine":"「ああ、分かった分かった」","translatedEnglishLine":"\"Ah, alright, alright.\""},{"lineNumber":31052,"originalJapaneseLine":"「そういえば……きちんと聞いていなかったな。","translatedEnglishLine":"\"Now that you mention it... I haven't properly heard about it."},{"lineNumber":31053,"originalJapaneseLine":"　地上では何が起こっているんだい？」","translatedEnglishLine":"What's happening on the surface?\""},{"lineNumber":31054,"originalJapaneseLine":"「なんだお前、賢そうなツラしてるくせに","translatedEnglishLine":"\"What's with you? You look smart, yet"},{"lineNumber":31055,"originalJapaneseLine":"　何も知らんのか」","translatedEnglishLine":"you don't know anything?\""},{"lineNumber":31056,"originalJapaneseLine":"「賢くはないさ。世の中、分からないことだらけだ。","translatedEnglishLine":"\"I'm not smart. The world is full of things I don't understand."},{"lineNumber":31057,"originalJapaneseLine":"　知っているなら是非教えてくれないか」","translatedEnglishLine":"If you know, please tell me.\""},{"lineNumber":31058,"originalJapaneseLine":"「ふっ、そうかそうか。仕方がない。","translatedEnglishLine":"\"Hmph, I see, I see. It can't be helped."},{"lineNumber":31059,"originalJapaneseLine":"　特別に俺様が教えてやろう」","translatedEnglishLine":"I'll specially teach you.\""},{"lineNumber":31060,"originalJapaneseLine":"（……この二人、意外に相性いいのかしら……）","translatedEnglishLine":"(...I wonder if these two actually get along better than expected...)\""},{"lineNumber":31061,"originalJapaneseLine":"「今、この世界は魔物どもの総攻撃に遭っている。","translatedEnglishLine":"\"Right now, this world is under an all-out attack by monsters."},{"lineNumber":31062,"originalJapaneseLine":"　西の果てから、魔人に率いられた魔軍が、","translatedEnglishLine":"From the western edge, the demon army led by demon lords,"},{"lineNumber":31063,"originalJapaneseLine":"　圧倒的な数と勢いで攻めて来やがったんだ」","translatedEnglishLine":"has attacked with overwhelming numbers and momentum.\""},{"lineNumber":31064,"originalJapaneseLine":"「数も少ない、弱っちい人類は太刀打ちできず、","translatedEnglishLine":"\"The few, weak humans can't stand against them,"},{"lineNumber":31065,"originalJapaneseLine":"　為す術なしだ。そのまま負けそうになったが……」","translatedEnglishLine":"and are helpless. We nearly lost as things were...\""},{"lineNumber":31066,"originalJapaneseLine":"「そこを俺様が人類総統となって、","translatedEnglishLine":"\"That's when I became the Supreme Leader of humanity,"},{"lineNumber":31067,"originalJapaneseLine":"　颯爽と助けてやっているところ、というわけだな」","translatedEnglishLine":"and gallantly came to their aid, that's the situation.\""},{"lineNumber":31068,"originalJapaneseLine":"「他の奴には手出しできない魔人も、","translatedEnglishLine":"\"Even demon lords who others can't touch,"},{"lineNumber":31069,"originalJapaneseLine":"　俺の手にかかれば楽勝だ。","translatedEnglishLine":"are easy for me to handle."},{"lineNumber":31070,"originalJapaneseLine":"　何体も倒してやったのだが……」","translatedEnglishLine":"I've defeated several of them, but...\""},{"lineNumber":31071,"originalJapaneseLine":"「あいつらはとにかく数が多い。","translatedEnglishLine":"\"They have an overwhelming number."},{"lineNumber":31072,"originalJapaneseLine":"　本拠地にしていたランス城が襲われて、","translatedEnglishLine":"They attacked Lance Castle, which was our base,"},{"lineNumber":31073,"originalJapaneseLine":"　そこには居られなくなった」","translatedEnglishLine":"and we can no longer stay there.\""},{"lineNumber":31074,"originalJapaneseLine":"「仕方なく、こんな僻地を新しい根城にしてる","translatedEnglishLine":"\"Reluctantly, we've made this remote place our new stronghold."},{"lineNumber":31075,"originalJapaneseLine":"　って訳だ」","translatedEnglishLine":"That's the situation.\""},{"lineNumber":31076,"originalJapaneseLine":"「それでも、無敵の俺様ならどうにでもなる。","translatedEnglishLine":"\"Still, with invincible me, we can manage somehow."},{"lineNumber":31077,"originalJapaneseLine":"　なるのだが……」","translatedEnglishLine":"That is, however...\""},{"lineNumber":31078,"originalJapaneseLine":"「奴らのボスであるケイブリスとかいう野郎、","translatedEnglishLine":"\"That guy named Cavebris, their boss,"},{"lineNumber":31079,"originalJapaneseLine":"　こいつが魔物の森の奥から出てこない。","translatedEnglishLine":"won't come out from the depths of the monster forest."},{"lineNumber":31080,"originalJapaneseLine":"　いつまで経っても雑魚と戦わなきゃならん」","translatedEnglishLine":"We have to keep fighting the small fry forever.\""},{"lineNumber":31081,"originalJapaneseLine":"「頭を潰したいが正面から行くわけにもいかん。","translatedEnglishLine":"\"I want to crush the head, but I can't go at it head-on."},{"lineNumber":31082,"originalJapaneseLine":"　さあどうしたもんか、って所だな」","translatedEnglishLine":"So now, what should we do? That’s the situation.\""},{"lineNumber":31083,"originalJapaneseLine":"「なるほど……よくわかったよ。ありがとう。","translatedEnglishLine":"\"I see... I understand well now. Thank you."},{"lineNumber":31084,"originalJapaneseLine":"　それは確かに困った話だ」","translatedEnglishLine":"That is certainly a troubling story.\""},{"lineNumber":31085,"originalJapaneseLine":"「困ったでは済まんからみんな考えてるんだ。","translatedEnglishLine":"\"It's more than just trouble, so everyone is thinking hard."},{"lineNumber":31086,"originalJapaneseLine":"　お前もなんか知恵を出せ」","translatedEnglishLine":"You should also come up with some ideas.\""},{"lineNumber":31087,"originalJapaneseLine":"「正面から、は無理なんだよね……","translatedEnglishLine":"\"Going head-on is impossible, huh..."},{"lineNumber":31088,"originalJapaneseLine":"　それなら……ううん…………」","translatedEnglishLine":"If that's the case... hmm...\""},{"lineNumber":31089,"originalJapaneseLine":"「ま、そんな簡単に出れば苦労は……」","translatedEnglishLine":"\"Well, if it came out that easily, it wouldn't be such a problem...\""},{"lineNumber":31090,"originalJapaneseLine":"「あっ」","translatedEnglishLine":"\"Ah!\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1552,"input_tokens_details":{"cached_tokens":0},"output_tokens":2010,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3562},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":31041,\"originalJapaneseLine\":\"「……どうしたんですか、総統。\",\"translatedEnglishLine\":\"\\\"...What's the matter, Supreme Leader?\"},{\"lineNumber\":31042,\"originalJapaneseLine\":\"　突然転がり込むようにして……」\",\"translatedEnglishLine\":\"Suddenly just barging in like this...\\\"\"},{\"lineNumber\":31043,\"originalJapaneseLine\":\"「このちびすけのせいだ」\",\"translatedEnglishLine\":\"\\\"It's this little brat's fault.\\\"\"},{\"lineNumber\":31044,\"originalJapaneseLine\":\"「まあ、そういうこともあるよね」\",\"translatedEnglishLine\":\"\\\"Well, that kind of thing happens sometimes.\\\"\"},{\"lineNumber\":31045,\"originalJapaneseLine\":\"「はあ……トラブルでなければいいですが」\",\"translatedEnglishLine\":\"\\\"Haa... I hope it's nothing troublesome.\\\"\"},{\"lineNumber\":31046,\"originalJapaneseLine\":\"「総統。ちょうど良いのでお伝えしますが。\",\"translatedEnglishLine\":\"\\\"Supreme Leader. Since this is a good opportunity, I'll inform you.\"},{\"lineNumber\":31047,\"originalJapaneseLine\":\"　魔人討伐の遠征ですが、\",\"translatedEnglishLine\":\"Regarding the expedition to defeat the demon lord,\"},{\"lineNumber\":31048,\"originalJapaneseLine\":\"　明日、午後一時からとなりました」\",\"translatedEnglishLine\":\"It has been scheduled to start tomorrow at 1 PM.\\\"\"},{\"lineNumber\":31049,\"originalJapaneseLine\":\"「準備はしっかりお願いします。\",\"translatedEnglishLine\":\"\\\"Please make sure to prepare thoroughly.\"},{\"lineNumber\":31050,\"originalJapaneseLine\":\"　今晩は早くお休みください」\",\"translatedEnglishLine\":\"Get some rest early tonight.\\\"\"},{\"lineNumber\":31051,\"originalJapaneseLine\":\"「ああ、分かった分かった」\",\"translatedEnglishLine\":\"\\\"Ah, alright, alright.\\\"\"},{\"lineNumber\":31052,\"originalJapaneseLine\":\"「そういえば……きちんと聞いていなかったな。\",\"translatedEnglishLine\":\"\\\"Now that you mention it... I haven't properly heard about it.\"},{\"lineNumber\":31053,\"originalJapaneseLine\":\"　地上では何が起こっているんだい？」\",\"translatedEnglishLine\":\"What's happening on the surface?\\\"\"},{\"lineNumber\":31054,\"originalJapaneseLine\":\"「なんだお前、賢そうなツラしてるくせに\",\"translatedEnglishLine\":\"\\\"What's with you? You look smart, yet\"},{\"lineNumber\":31055,\"originalJapaneseLine\":\"　何も知らんのか」\",\"translatedEnglishLine\":\"you don't know anything?\\\"\"},{\"lineNumber\":31056,\"originalJapaneseLine\":\"「賢くはないさ。世の中、分からないことだらけだ。\",\"translatedEnglishLine\":\"\\\"I'm not smart. The world is full of things I don't understand.\"},{\"lineNumber\":31057,\"originalJapaneseLine\":\"　知っているなら是非教えてくれないか」\",\"translatedEnglishLine\":\"If you know, please tell me.\\\"\"},{\"lineNumber\":31058,\"originalJapaneseLine\":\"「ふっ、そうかそうか。仕方がない。\",\"translatedEnglishLine\":\"\\\"Hmph, I see, I see. It can't be helped.\"},{\"lineNumber\":31059,\"originalJapaneseLine\":\"　特別に俺様が教えてやろう」\",\"translatedEnglishLine\":\"I'll specially teach you.\\\"\"},{\"lineNumber\":31060,\"originalJapaneseLine\":\"（……この二人、意外に相性いいのかしら……）\",\"translatedEnglishLine\":\"(...I wonder if these two actually get along better than expected...)\\\"\"},{\"lineNumber\":31061,\"originalJapaneseLine\":\"「今、この世界は魔物どもの総攻撃に遭っている。\",\"translatedEnglishLine\":\"\\\"Right now, this world is under an all-out attack by monsters.\"},{\"lineNumber\":31062,\"originalJapaneseLine\":\"　西の果てから、魔人に率いられた魔軍が、\",\"translatedEnglishLine\":\"From the western edge, the demon army led by demon lords,\"},{\"lineNumber\":31063,\"originalJapaneseLine\":\"　圧倒的な数と勢いで攻めて来やがったんだ」\",\"translatedEnglishLine\":\"has attacked with overwhelming numbers and momentum.\\\"\"},{\"lineNumber\":31064,\"originalJapaneseLine\":\"「数も少ない、弱っちい人類は太刀打ちできず、\",\"translatedEnglishLine\":\"\\\"The few, weak humans can't stand against them,\"},{\"lineNumber\":31065,\"originalJapaneseLine\":\"　為す術なしだ。そのまま負けそうになったが……」\",\"translatedEnglishLine\":\"and are helpless. We nearly lost as things were...\\\"\"},{\"lineNumber\":31066,\"originalJapaneseLine\":\"「そこを俺様が人類総統となって、\",\"translatedEnglishLine\":\"\\\"That's when I became the Supreme Leader of humanity,\"},{\"lineNumber\":31067,\"originalJapaneseLine\":\"　颯爽と助けてやっているところ、というわけだな」\",\"translatedEnglishLine\":\"and gallantly came to their aid, that's the situation.\\\"\"},{\"lineNumber\":31068,\"originalJapaneseLine\":\"「他の奴には手出しできない魔人も、\",\"translatedEnglishLine\":\"\\\"Even demon lords who others can't touch,\"},{\"lineNumber\":31069,\"originalJapaneseLine\":\"　俺の手にかかれば楽勝だ。\",\"translatedEnglishLine\":\"are easy for me to handle.\"},{\"lineNumber\":31070,\"originalJapaneseLine\":\"　何体も倒してやったのだが……」\",\"translatedEnglishLine\":\"I've defeated several of them, but...\\\"\"},{\"lineNumber\":31071,\"originalJapaneseLine\":\"「あいつらはとにかく数が多い。\",\"translatedEnglishLine\":\"\\\"They have an overwhelming number.\"},{\"lineNumber\":31072,\"originalJapaneseLine\":\"　本拠地にしていたランス城が襲われて、\",\"translatedEnglishLine\":\"They attacked Lance Castle, which was our base,\"},{\"lineNumber\":31073,\"originalJapaneseLine\":\"　そこには居られなくなった」\",\"translatedEnglishLine\":\"and we can no longer stay there.\\\"\"},{\"lineNumber\":31074,\"originalJapaneseLine\":\"「仕方なく、こんな僻地を新しい根城にしてる\",\"translatedEnglishLine\":\"\\\"Reluctantly, we've made this remote place our new stronghold.\"},{\"lineNumber\":31075,\"originalJapaneseLine\":\"　って訳だ」\",\"translatedEnglishLine\":\"That's the situation.\\\"\"},{\"lineNumber\":31076,\"originalJapaneseLine\":\"「それでも、無敵の俺様ならどうにでもなる。\",\"translatedEnglishLine\":\"\\\"Still, with invincible me, we can manage somehow.\"},{\"lineNumber\":31077,\"originalJapaneseLine\":\"　なるのだが……」\",\"translatedEnglishLine\":\"That is, however...\\\"\"},{\"lineNumber\":31078,\"originalJapaneseLine\":\"「奴らのボスであるケイブリスとかいう野郎、\",\"translatedEnglishLine\":\"\\\"That guy named Cavebris, their boss,\"},{\"lineNumber\":31079,\"originalJapaneseLine\":\"　こいつが魔物の森の奥から出てこない。\",\"translatedEnglishLine\":\"won't come out from the depths of the monster forest.\"},{\"lineNumber\":31080,\"originalJapaneseLine\":\"　いつまで経っても雑魚と戦わなきゃならん」\",\"translatedEnglishLine\":\"We have to keep fighting the small fry forever.\\\"\"},{\"lineNumber\":31081,\"originalJapaneseLine\":\"「頭を潰したいが正面から行くわけにもいかん。\",\"translatedEnglishLine\":\"\\\"I want to crush the head, but I can't go at it head-on.\"},{\"lineNumber\":31082,\"originalJapaneseLine\":\"　さあどうしたもんか、って所だな」\",\"translatedEnglishLine\":\"So now, what should we do? That’s the situation.\\\"\"},{\"lineNumber\":31083,\"originalJapaneseLine\":\"「なるほど……よくわかったよ。ありがとう。\",\"translatedEnglishLine\":\"\\\"I see... I understand well now. Thank you.\"},{\"lineNumber\":31084,\"originalJapaneseLine\":\"　それは確かに困った話だ」\",\"translatedEnglishLine\":\"That is certainly a troubling story.\\\"\"},{\"lineNumber\":31085,\"originalJapaneseLine\":\"「困ったでは済まんからみんな考えてるんだ。\",\"translatedEnglishLine\":\"\\\"It's more than just trouble, so everyone is thinking hard.\"},{\"lineNumber\":31086,\"originalJapaneseLine\":\"　お前もなんか知恵を出せ」\",\"translatedEnglishLine\":\"You should also come up with some ideas.\\\"\"},{\"lineNumber\":31087,\"originalJapaneseLine\":\"「正面から、は無理なんだよね……\",\"translatedEnglishLine\":\"\\\"Going head-on is impossible, huh...\"},{\"lineNumber\":31088,\"originalJapaneseLine\":\"　それなら……ううん…………」\",\"translatedEnglishLine\":\"If that's the case... hmm...\\\"\"},{\"lineNumber\":31089,\"originalJapaneseLine\":\"「ま、そんな簡単に出れば苦労は……」\",\"translatedEnglishLine\":\"\\\"Well, if it came out that easily, it wouldn't be such a problem...\\\"\"},{\"lineNumber\":31090,\"originalJapaneseLine\":\"「あっ」\",\"translatedEnglishLine\":\"\\\"Ah!\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":31041,"originalJapaneseLine":"「……どうしたんですか、総統。","translatedEnglishLine":"\"...What's the matter, Supreme Leader?"},{"lineNumber":31042,"originalJapaneseLine":"　突然転がり込むようにして……」","translatedEnglishLine":"Suddenly just barging in like this...\""},{"lineNumber":31043,"originalJapaneseLine":"「このちびすけのせいだ」","translatedEnglishLine":"\"It's this little brat's fault.\""},{"lineNumber":31044,"originalJapaneseLine":"「まあ、そういうこともあるよね」","translatedEnglishLine":"\"Well, that kind of thing happens sometimes.\""},{"lineNumber":31045,"originalJapaneseLine":"「はあ……トラブルでなければいいですが」","translatedEnglishLine":"\"Haa... I hope it's nothing troublesome.\""},{"lineNumber":31046,"originalJapaneseLine":"「総統。ちょうど良いのでお伝えしますが。","translatedEnglishLine":"\"Supreme Leader. Since this is a good opportunity, I'll inform you."},{"lineNumber":31047,"originalJapaneseLine":"　魔人討伐の遠征ですが、","translatedEnglishLine":"Regarding the expedition to defeat the demon lord,"},{"lineNumber":31048,"originalJapaneseLine":"　明日、午後一時からとなりました」","translatedEnglishLine":"It has been scheduled to start tomorrow at 1 PM.\""},{"lineNumber":31049,"originalJapaneseLine":"「準備はしっかりお願いします。","translatedEnglishLine":"\"Please make sure to prepare thoroughly."},{"lineNumber":31050,"originalJapaneseLine":"　今晩は早くお休みください」","translatedEnglishLine":"Get some rest early tonight.\""},{"lineNumber":31051,"originalJapaneseLine":"「ああ、分かった分かった」","translatedEnglishLine":"\"Ah, alright, alright.\""},{"lineNumber":31052,"originalJapaneseLine":"「そういえば……きちんと聞いていなかったな。","translatedEnglishLine":"\"Now that you mention it... I haven't properly heard about it."},{"lineNumber":31053,"originalJapaneseLine":"　地上では何が起こっているんだい？」","translatedEnglishLine":"What's happening on the surface?\""},{"lineNumber":31054,"originalJapaneseLine":"「なんだお前、賢そうなツラしてるくせに","translatedEnglishLine":"\"What's with you? You look smart, yet"},{"lineNumber":31055,"originalJapaneseLine":"　何も知らんのか」","translatedEnglishLine":"you don't know anything?\""},{"lineNumber":31056,"originalJapaneseLine":"「賢くはないさ。世の中、分からないことだらけだ。","translatedEnglishLine":"\"I'm not smart. The world is full of things I don't understand."},{"lineNumber":31057,"originalJapaneseLine":"　知っているなら是非教えてくれないか」","translatedEnglishLine":"If you know, please tell me.\""},{"lineNumber":31058,"originalJapaneseLine":"「ふっ、そうかそうか。仕方がない。","translatedEnglishLine":"\"Hmph, I see, I see. It can't be helped."},{"lineNumber":31059,"originalJapaneseLine":"　特別に俺様が教えてやろう」","translatedEnglishLine":"I'll specially teach you.\""},{"lineNumber":31060,"originalJapaneseLine":"（……この二人、意外に相性いいのかしら……）","translatedEnglishLine":"(...I wonder if these two actually get along better than expected...)\""},{"lineNumber":31061,"originalJapaneseLine":"「今、この世界は魔物どもの総攻撃に遭っている。","translatedEnglishLine":"\"Right now, this world is under an all-out attack by monsters."},{"lineNumber":31062,"originalJapaneseLine":"　西の果てから、魔人に率いられた魔軍が、","translatedEnglishLine":"From the western edge, the demon army led by demon lords,"},{"lineNumber":31063,"originalJapaneseLine":"　圧倒的な数と勢いで攻めて来やがったんだ」","translatedEnglishLine":"has attacked with overwhelming numbers and momentum.\""},{"lineNumber":31064,"originalJapaneseLine":"「数も少ない、弱っちい人類は太刀打ちできず、","translatedEnglishLine":"\"The few, weak humans can't stand against them,"},{"lineNumber":31065,"originalJapaneseLine":"　為す術なしだ。そのまま負けそうになったが……」","translatedEnglishLine":"and are helpless. We nearly lost as things were...\""},{"lineNumber":31066,"originalJapaneseLine":"「そこを俺様が人類総統となって、","translatedEnglishLine":"\"That's when I became the Supreme Leader of humanity,"},{"lineNumber":31067,"originalJapaneseLine":"　颯爽と助けてやっているところ、というわけだな」","translatedEnglishLine":"and gallantly came to their aid, that's the situation.\""},{"lineNumber":31068,"originalJapaneseLine":"「他の奴には手出しできない魔人も、","translatedEnglishLine":"\"Even demon lords who others can't touch,"},{"lineNumber":31069,"originalJapaneseLine":"　俺の手にかかれば楽勝だ。","translatedEnglishLine":"are easy for me to handle."},{"lineNumber":31070,"originalJapaneseLine":"　何体も倒してやったのだが……」","translatedEnglishLine":"I've defeated several of them, but...\""},{"lineNumber":31071,"originalJapaneseLine":"「あいつらはとにかく数が多い。","translatedEnglishLine":"\"They have an overwhelming number."},{"lineNumber":31072,"originalJapaneseLine":"　本拠地にしていたランス城が襲われて、","translatedEnglishLine":"They attacked Lance Castle, which was our base,"},{"lineNumber":31073,"originalJapaneseLine":"　そこには居られなくなった」","translatedEnglishLine":"and we can no longer stay there.\""},{"lineNumber":31074,"originalJapaneseLine":"「仕方なく、こんな僻地を新しい根城にしてる","translatedEnglishLine":"\"Reluctantly, we've made this remote place our new stronghold."},{"lineNumber":31075,"originalJapaneseLine":"　って訳だ」","translatedEnglishLine":"That's the situation.\""},{"lineNumber":31076,"originalJapaneseLine":"「それでも、無敵の俺様ならどうにでもなる。","translatedEnglishLine":"\"Still, with invincible me, we can manage somehow."},{"lineNumber":31077,"originalJapaneseLine":"　なるのだが……」","translatedEnglishLine":"That is, however...\""},{"lineNumber":31078,"originalJapaneseLine":"「奴らのボスであるケイブリスとかいう野郎、","translatedEnglishLine":"\"That guy named Cavebris, their boss,"},{"lineNumber":31079,"originalJapaneseLine":"　こいつが魔物の森の奥から出てこない。","translatedEnglishLine":"won't come out from the depths of the monster forest."},{"lineNumber":31080,"originalJapaneseLine":"　いつまで経っても雑魚と戦わなきゃならん」","translatedEnglishLine":"We have to keep fighting the small fry forever.\""},{"lineNumber":31081,"originalJapaneseLine":"「頭を潰したいが正面から行くわけにもいかん。","translatedEnglishLine":"\"I want to crush the head, but I can't go at it head-on."},{"lineNumber":31082,"originalJapaneseLine":"　さあどうしたもんか、って所だな」","translatedEnglishLine":"So now, what should we do? That’s the situation.\""},{"lineNumber":31083,"originalJapaneseLine":"「なるほど……よくわかったよ。ありがとう。","translatedEnglishLine":"\"I see... I understand well now. Thank you."},{"lineNumber":31084,"originalJapaneseLine":"　それは確かに困った話だ」","translatedEnglishLine":"That is certainly a troubling story.\""},{"lineNumber":31085,"originalJapaneseLine":"「困ったでは済まんからみんな考えてるんだ。","translatedEnglishLine":"\"It's more than just trouble, so everyone is thinking hard."},{"lineNumber":31086,"originalJapaneseLine":"　お前もなんか知恵を出せ」","translatedEnglishLine":"You should also come up with some ideas.\""},{"lineNumber":31087,"originalJapaneseLine":"「正面から、は無理なんだよね……","translatedEnglishLine":"\"Going head-on is impossible, huh..."},{"lineNumber":31088,"originalJapaneseLine":"　それなら……ううん…………」","translatedEnglishLine":"If that's the case... hmm...\""},{"lineNumber":31089,"originalJapaneseLine":"「ま、そんな簡単に出れば苦労は……」","translatedEnglishLine":"\"Well, if it came out that easily, it wouldn't be such a problem...\""},{"lineNumber":31090,"originalJapaneseLine":"「あっ」","translatedEnglishLine":"\"Ah!\""}]}}
+{
+    "id": "resp_04dd318f924a4ce90068ef7e1a3d588197805b19619fcbe2fd",
+    "object": "response",
+    "created_at": 1760525850,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_04dd318f924a4ce90068ef7e1aa7848197b82d218b1f0cadb2",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":31041,\"originalJapaneseLine\":\"「……どうしたんですか、総統。\",\"translatedEnglishLine\":\"\\\"...What's the matter, Supreme Leader?\"},{\"lineNumber\":31042,\"originalJapaneseLine\":\"　突然転がり込むようにして……」\",\"translatedEnglishLine\":\"Suddenly just barging in like this...\\\"\"},{\"lineNumber\":31043,\"originalJapaneseLine\":\"「このちびすけのせいだ」\",\"translatedEnglishLine\":\"\\\"It's this little brat's fault.\\\"\"},{\"lineNumber\":31044,\"originalJapaneseLine\":\"「まあ、そういうこともあるよね」\",\"translatedEnglishLine\":\"\\\"Well, that kind of thing happens sometimes.\\\"\"},{\"lineNumber\":31045,\"originalJapaneseLine\":\"「はあ……トラブルでなければいいですが」\",\"translatedEnglishLine\":\"\\\"Haa... I hope it's nothing troublesome.\\\"\"},{\"lineNumber\":31046,\"originalJapaneseLine\":\"「総統。ちょうど良いのでお伝えしますが。\",\"translatedEnglishLine\":\"\\\"Supreme Leader. Since this is a good opportunity, I'll inform you.\"},{\"lineNumber\":31047,\"originalJapaneseLine\":\"　魔人討伐の遠征ですが、\",\"translatedEnglishLine\":\"Regarding the expedition to defeat the demon lord,\"},{\"lineNumber\":31048,\"originalJapaneseLine\":\"　明日、午後一時からとなりました」\",\"translatedEnglishLine\":\"It has been scheduled to start tomorrow at 1 PM.\\\"\"},{\"lineNumber\":31049,\"originalJapaneseLine\":\"「準備はしっかりお願いします。\",\"translatedEnglishLine\":\"\\\"Please make sure to prepare thoroughly.\"},{\"lineNumber\":31050,\"originalJapaneseLine\":\"　今晩は早くお休みください」\",\"translatedEnglishLine\":\"Get some rest early tonight.\\\"\"},{\"lineNumber\":31051,\"originalJapaneseLine\":\"「ああ、分かった分かった」\",\"translatedEnglishLine\":\"\\\"Ah, alright, alright.\\\"\"},{\"lineNumber\":31052,\"originalJapaneseLine\":\"「そういえば……きちんと聞いていなかったな。\",\"translatedEnglishLine\":\"\\\"Now that you mention it... I haven't properly heard about it.\"},{\"lineNumber\":31053,\"originalJapaneseLine\":\"　地上では何が起こっているんだい？」\",\"translatedEnglishLine\":\"What's happening on the surface?\\\"\"},{\"lineNumber\":31054,\"originalJapaneseLine\":\"「なんだお前、賢そうなツラしてるくせに\",\"translatedEnglishLine\":\"\\\"What's with you? You look smart, yet\"},{\"lineNumber\":31055,\"originalJapaneseLine\":\"　何も知らんのか」\",\"translatedEnglishLine\":\"you don't know anything?\\\"\"},{\"lineNumber\":31056,\"originalJapaneseLine\":\"「賢くはないさ。世の中、分からないことだらけだ。\",\"translatedEnglishLine\":\"\\\"I'm not smart. The world is full of things I don't understand.\"},{\"lineNumber\":31057,\"originalJapaneseLine\":\"　知っているなら是非教えてくれないか」\",\"translatedEnglishLine\":\"If you know, please tell me.\\\"\"},{\"lineNumber\":31058,\"originalJapaneseLine\":\"「ふっ、そうかそうか。仕方がない。\",\"translatedEnglishLine\":\"\\\"Hmph, I see, I see. It can't be helped.\"},{\"lineNumber\":31059,\"originalJapaneseLine\":\"　特別に俺様が教えてやろう」\",\"translatedEnglishLine\":\"I'll specially teach you.\\\"\"},{\"lineNumber\":31060,\"originalJapaneseLine\":\"（……この二人、意外に相性いいのかしら……）\",\"translatedEnglishLine\":\"(...I wonder if these two actually get along better than expected...)\\\"\"},{\"lineNumber\":31061,\"originalJapaneseLine\":\"「今、この世界は魔物どもの総攻撃に遭っている。\",\"translatedEnglishLine\":\"\\\"Right now, this world is under an all-out attack by monsters.\"},{\"lineNumber\":31062,\"originalJapaneseLine\":\"　西の果てから、魔人に率いられた魔軍が、\",\"translatedEnglishLine\":\"From the western edge, the demon army led by demon lords,\"},{\"lineNumber\":31063,\"originalJapaneseLine\":\"　圧倒的な数と勢いで攻めて来やがったんだ」\",\"translatedEnglishLine\":\"has attacked with overwhelming numbers and momentum.\\\"\"},{\"lineNumber\":31064,\"originalJapaneseLine\":\"「数も少ない、弱っちい人類は太刀打ちできず、\",\"translatedEnglishLine\":\"\\\"The few, weak humans can't stand against them,\"},{\"lineNumber\":31065,\"originalJapaneseLine\":\"　為す術なしだ。そのまま負けそうになったが……」\",\"translatedEnglishLine\":\"and are helpless. We nearly lost as things were...\\\"\"},{\"lineNumber\":31066,\"originalJapaneseLine\":\"「そこを俺様が人類総統となって、\",\"translatedEnglishLine\":\"\\\"That's when I became the Supreme Leader of humanity,\"},{\"lineNumber\":31067,\"originalJapaneseLine\":\"　颯爽と助けてやっているところ、というわけだな」\",\"translatedEnglishLine\":\"and gallantly came to their aid, that's the situation.\\\"\"},{\"lineNumber\":31068,\"originalJapaneseLine\":\"「他の奴には手出しできない魔人も、\",\"translatedEnglishLine\":\"\\\"Even demon lords who others can't touch,\"},{\"lineNumber\":31069,\"originalJapaneseLine\":\"　俺の手にかかれば楽勝だ。\",\"translatedEnglishLine\":\"are easy for me to handle.\"},{\"lineNumber\":31070,\"originalJapaneseLine\":\"　何体も倒してやったのだが……」\",\"translatedEnglishLine\":\"I've defeated several of them, but...\\\"\"},{\"lineNumber\":31071,\"originalJapaneseLine\":\"「あいつらはとにかく数が多い。\",\"translatedEnglishLine\":\"\\\"They have an overwhelming number.\"},{\"lineNumber\":31072,\"originalJapaneseLine\":\"　本拠地にしていたランス城が襲われて、\",\"translatedEnglishLine\":\"They attacked Lance Castle, which was our base,\"},{\"lineNumber\":31073,\"originalJapaneseLine\":\"　そこには居られなくなった」\",\"translatedEnglishLine\":\"and we can no longer stay there.\\\"\"},{\"lineNumber\":31074,\"originalJapaneseLine\":\"「仕方なく、こんな僻地を新しい根城にしてる\",\"translatedEnglishLine\":\"\\\"Reluctantly, we've made this remote place our new stronghold.\"},{\"lineNumber\":31075,\"originalJapaneseLine\":\"　って訳だ」\",\"translatedEnglishLine\":\"That's the situation.\\\"\"},{\"lineNumber\":31076,\"originalJapaneseLine\":\"「それでも、無敵の俺様ならどうにでもなる。\",\"translatedEnglishLine\":\"\\\"Still, with invincible me, we can manage somehow.\"},{\"lineNumber\":31077,\"originalJapaneseLine\":\"　なるのだが……」\",\"translatedEnglishLine\":\"That is, however...\\\"\"},{\"lineNumber\":31078,\"originalJapaneseLine\":\"「奴らのボスであるケイブリスとかいう野郎、\",\"translatedEnglishLine\":\"\\\"That guy named Cavebris, their boss,\"},{\"lineNumber\":31079,\"originalJapaneseLine\":\"　こいつが魔物の森の奥から出てこない。\",\"translatedEnglishLine\":\"won't come out from the depths of the monster forest.\"},{\"lineNumber\":31080,\"originalJapaneseLine\":\"　いつまで経っても雑魚と戦わなきゃならん」\",\"translatedEnglishLine\":\"We have to keep fighting the small fry forever.\\\"\"},{\"lineNumber\":31081,\"originalJapaneseLine\":\"「頭を潰したいが正面から行くわけにもいかん。\",\"translatedEnglishLine\":\"\\\"I want to crush the head, but I can't go at it head-on.\"},{\"lineNumber\":31082,\"originalJapaneseLine\":\"　さあどうしたもんか、って所だな」\",\"translatedEnglishLine\":\"So now, what should we do? That’s the situation.\\\"\"},{\"lineNumber\":31083,\"originalJapaneseLine\":\"「なるほど……よくわかったよ。ありがとう。\",\"translatedEnglishLine\":\"\\\"I see... I understand well now. Thank you.\"},{\"lineNumber\":31084,\"originalJapaneseLine\":\"　それは確かに困った話だ」\",\"translatedEnglishLine\":\"That is certainly a troubling story.\\\"\"},{\"lineNumber\":31085,\"originalJapaneseLine\":\"「困ったでは済まんからみんな考えてるんだ。\",\"translatedEnglishLine\":\"\\\"It's more than just trouble, so everyone is thinking hard.\"},{\"lineNumber\":31086,\"originalJapaneseLine\":\"　お前もなんか知恵を出せ」\",\"translatedEnglishLine\":\"You should also come up with some ideas.\\\"\"},{\"lineNumber\":31087,\"originalJapaneseLine\":\"「正面から、は無理なんだよね……\",\"translatedEnglishLine\":\"\\\"Going head-on is impossible, huh...\"},{\"lineNumber\":31088,\"originalJapaneseLine\":\"　それなら……ううん…………」\",\"translatedEnglishLine\":\"If that's the case... hmm...\\\"\"},{\"lineNumber\":31089,\"originalJapaneseLine\":\"「ま、そんな簡単に出れば苦労は……」\",\"translatedEnglishLine\":\"\\\"Well, if it came out that easily, it wouldn't be such a problem...\\\"\"},{\"lineNumber\":31090,\"originalJapaneseLine\":\"「あっ」\",\"translatedEnglishLine\":\"\\\"Ah!\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 31041,
+                                "originalJapaneseLine": "「……どうしたんですか、総統。",
+                                "translatedEnglishLine": "\"...What's the matter, Supreme Leader?"
+                            },
+                            {
+                                "lineNumber": 31042,
+                                "originalJapaneseLine": "　突然転がり込むようにして……」",
+                                "translatedEnglishLine": "Suddenly just barging in like this...\""
+                            },
+                            {
+                                "lineNumber": 31043,
+                                "originalJapaneseLine": "「このちびすけのせいだ」",
+                                "translatedEnglishLine": "\"It's this little brat's fault.\""
+                            },
+                            {
+                                "lineNumber": 31044,
+                                "originalJapaneseLine": "「まあ、そういうこともあるよね」",
+                                "translatedEnglishLine": "\"Well, that kind of thing happens sometimes.\""
+                            },
+                            {
+                                "lineNumber": 31045,
+                                "originalJapaneseLine": "「はあ……トラブルでなければいいですが」",
+                                "translatedEnglishLine": "\"Haa... I hope it's nothing troublesome.\""
+                            },
+                            {
+                                "lineNumber": 31046,
+                                "originalJapaneseLine": "「総統。ちょうど良いのでお伝えしますが。",
+                                "translatedEnglishLine": "\"Supreme Leader. Since this is a good opportunity, I'll inform you."
+                            },
+                            {
+                                "lineNumber": 31047,
+                                "originalJapaneseLine": "　魔人討伐の遠征ですが、",
+                                "translatedEnglishLine": "Regarding the expedition to defeat the demon lord,"
+                            },
+                            {
+                                "lineNumber": 31048,
+                                "originalJapaneseLine": "　明日、午後一時からとなりました」",
+                                "translatedEnglishLine": "It has been scheduled to start tomorrow at 1 PM.\""
+                            },
+                            {
+                                "lineNumber": 31049,
+                                "originalJapaneseLine": "「準備はしっかりお願いします。",
+                                "translatedEnglishLine": "\"Please make sure to prepare thoroughly."
+                            },
+                            {
+                                "lineNumber": 31050,
+                                "originalJapaneseLine": "　今晩は早くお休みください」",
+                                "translatedEnglishLine": "Get some rest early tonight.\""
+                            },
+                            {
+                                "lineNumber": 31051,
+                                "originalJapaneseLine": "「ああ、分かった分かった」",
+                                "translatedEnglishLine": "\"Ah, alright, alright.\""
+                            },
+                            {
+                                "lineNumber": 31052,
+                                "originalJapaneseLine": "「そういえば……きちんと聞いていなかったな。",
+                                "translatedEnglishLine": "\"Now that you mention it... I haven't properly heard about it."
+                            },
+                            {
+                                "lineNumber": 31053,
+                                "originalJapaneseLine": "　地上では何が起こっているんだい？」",
+                                "translatedEnglishLine": "What's happening on the surface?\""
+                            },
+                            {
+                                "lineNumber": 31054,
+                                "originalJapaneseLine": "「なんだお前、賢そうなツラしてるくせに",
+                                "translatedEnglishLine": "\"What's with you? You look smart, yet"
+                            },
+                            {
+                                "lineNumber": 31055,
+                                "originalJapaneseLine": "　何も知らんのか」",
+                                "translatedEnglishLine": "you don't know anything?\""
+                            },
+                            {
+                                "lineNumber": 31056,
+                                "originalJapaneseLine": "「賢くはないさ。世の中、分からないことだらけだ。",
+                                "translatedEnglishLine": "\"I'm not smart. The world is full of things I don't understand."
+                            },
+                            {
+                                "lineNumber": 31057,
+                                "originalJapaneseLine": "　知っているなら是非教えてくれないか」",
+                                "translatedEnglishLine": "If you know, please tell me.\""
+                            },
+                            {
+                                "lineNumber": 31058,
+                                "originalJapaneseLine": "「ふっ、そうかそうか。仕方がない。",
+                                "translatedEnglishLine": "\"Hmph, I see, I see. It can't be helped."
+                            },
+                            {
+                                "lineNumber": 31059,
+                                "originalJapaneseLine": "　特別に俺様が教えてやろう」",
+                                "translatedEnglishLine": "I'll specially teach you.\""
+                            },
+                            {
+                                "lineNumber": 31060,
+                                "originalJapaneseLine": "（……この二人、意外に相性いいのかしら……）",
+                                "translatedEnglishLine": "(...I wonder if these two actually get along better than expected...)\""
+                            },
+                            {
+                                "lineNumber": 31061,
+                                "originalJapaneseLine": "「今、この世界は魔物どもの総攻撃に遭っている。",
+                                "translatedEnglishLine": "\"Right now, this world is under an all-out attack by monsters."
+                            },
+                            {
+                                "lineNumber": 31062,
+                                "originalJapaneseLine": "　西の果てから、魔人に率いられた魔軍が、",
+                                "translatedEnglishLine": "From the western edge, the demon army led by demon lords,"
+                            },
+                            {
+                                "lineNumber": 31063,
+                                "originalJapaneseLine": "　圧倒的な数と勢いで攻めて来やがったんだ」",
+                                "translatedEnglishLine": "has attacked with overwhelming numbers and momentum.\""
+                            },
+                            {
+                                "lineNumber": 31064,
+                                "originalJapaneseLine": "「数も少ない、弱っちい人類は太刀打ちできず、",
+                                "translatedEnglishLine": "\"The few, weak humans can't stand against them,"
+                            },
+                            {
+                                "lineNumber": 31065,
+                                "originalJapaneseLine": "　為す術なしだ。そのまま負けそうになったが……」",
+                                "translatedEnglishLine": "and are helpless. We nearly lost as things were...\""
+                            },
+                            {
+                                "lineNumber": 31066,
+                                "originalJapaneseLine": "「そこを俺様が人類総統となって、",
+                                "translatedEnglishLine": "\"That's when I became the Supreme Leader of humanity,"
+                            },
+                            {
+                                "lineNumber": 31067,
+                                "originalJapaneseLine": "　颯爽と助けてやっているところ、というわけだな」",
+                                "translatedEnglishLine": "and gallantly came to their aid, that's the situation.\""
+                            },
+                            {
+                                "lineNumber": 31068,
+                                "originalJapaneseLine": "「他の奴には手出しできない魔人も、",
+                                "translatedEnglishLine": "\"Even demon lords who others can't touch,"
+                            },
+                            {
+                                "lineNumber": 31069,
+                                "originalJapaneseLine": "　俺の手にかかれば楽勝だ。",
+                                "translatedEnglishLine": "are easy for me to handle."
+                            },
+                            {
+                                "lineNumber": 31070,
+                                "originalJapaneseLine": "　何体も倒してやったのだが……」",
+                                "translatedEnglishLine": "I've defeated several of them, but...\""
+                            },
+                            {
+                                "lineNumber": 31071,
+                                "originalJapaneseLine": "「あいつらはとにかく数が多い。",
+                                "translatedEnglishLine": "\"They have an overwhelming number."
+                            },
+                            {
+                                "lineNumber": 31072,
+                                "originalJapaneseLine": "　本拠地にしていたランス城が襲われて、",
+                                "translatedEnglishLine": "They attacked Lance Castle, which was our base,"
+                            },
+                            {
+                                "lineNumber": 31073,
+                                "originalJapaneseLine": "　そこには居られなくなった」",
+                                "translatedEnglishLine": "and we can no longer stay there.\""
+                            },
+                            {
+                                "lineNumber": 31074,
+                                "originalJapaneseLine": "「仕方なく、こんな僻地を新しい根城にしてる",
+                                "translatedEnglishLine": "\"Reluctantly, we've made this remote place our new stronghold."
+                            },
+                            {
+                                "lineNumber": 31075,
+                                "originalJapaneseLine": "　って訳だ」",
+                                "translatedEnglishLine": "That's the situation.\""
+                            },
+                            {
+                                "lineNumber": 31076,
+                                "originalJapaneseLine": "「それでも、無敵の俺様ならどうにでもなる。",
+                                "translatedEnglishLine": "\"Still, with invincible me, we can manage somehow."
+                            },
+                            {
+                                "lineNumber": 31077,
+                                "originalJapaneseLine": "　なるのだが……」",
+                                "translatedEnglishLine": "That is, however...\""
+                            },
+                            {
+                                "lineNumber": 31078,
+                                "originalJapaneseLine": "「奴らのボスであるケイブリスとかいう野郎、",
+                                "translatedEnglishLine": "\"That guy named Cavebris, their boss,"
+                            },
+                            {
+                                "lineNumber": 31079,
+                                "originalJapaneseLine": "　こいつが魔物の森の奥から出てこない。",
+                                "translatedEnglishLine": "won't come out from the depths of the monster forest."
+                            },
+                            {
+                                "lineNumber": 31080,
+                                "originalJapaneseLine": "　いつまで経っても雑魚と戦わなきゃならん」",
+                                "translatedEnglishLine": "We have to keep fighting the small fry forever.\""
+                            },
+                            {
+                                "lineNumber": 31081,
+                                "originalJapaneseLine": "「頭を潰したいが正面から行くわけにもいかん。",
+                                "translatedEnglishLine": "\"I want to crush the head, but I can't go at it head-on."
+                            },
+                            {
+                                "lineNumber": 31082,
+                                "originalJapaneseLine": "　さあどうしたもんか、って所だな」",
+                                "translatedEnglishLine": "So now, what should we do? That’s the situation.\""
+                            },
+                            {
+                                "lineNumber": 31083,
+                                "originalJapaneseLine": "「なるほど……よくわかったよ。ありがとう。",
+                                "translatedEnglishLine": "\"I see... I understand well now. Thank you."
+                            },
+                            {
+                                "lineNumber": 31084,
+                                "originalJapaneseLine": "　それは確かに困った話だ」",
+                                "translatedEnglishLine": "That is certainly a troubling story.\""
+                            },
+                            {
+                                "lineNumber": 31085,
+                                "originalJapaneseLine": "「困ったでは済まんからみんな考えてるんだ。",
+                                "translatedEnglishLine": "\"It's more than just trouble, so everyone is thinking hard."
+                            },
+                            {
+                                "lineNumber": 31086,
+                                "originalJapaneseLine": "　お前もなんか知恵を出せ」",
+                                "translatedEnglishLine": "You should also come up with some ideas.\""
+                            },
+                            {
+                                "lineNumber": 31087,
+                                "originalJapaneseLine": "「正面から、は無理なんだよね……",
+                                "translatedEnglishLine": "\"Going head-on is impossible, huh..."
+                            },
+                            {
+                                "lineNumber": 31088,
+                                "originalJapaneseLine": "　それなら……ううん…………」",
+                                "translatedEnglishLine": "If that's the case... hmm...\""
+                            },
+                            {
+                                "lineNumber": 31089,
+                                "originalJapaneseLine": "「ま、そんな簡単に出れば苦労は……」",
+                                "translatedEnglishLine": "\"Well, if it came out that easily, it wouldn't be such a problem...\""
+                            },
+                            {
+                                "lineNumber": 31090,
+                                "originalJapaneseLine": "「あっ」",
+                                "translatedEnglishLine": "\"Ah!\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1552,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2010,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3562
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":31041,\"originalJapaneseLine\":\"「……どうしたんですか、総統。\",\"translatedEnglishLine\":\"\\\"...What's the matter, Supreme Leader?\"},{\"lineNumber\":31042,\"originalJapaneseLine\":\"　突然転がり込むようにして……」\",\"translatedEnglishLine\":\"Suddenly just barging in like this...\\\"\"},{\"lineNumber\":31043,\"originalJapaneseLine\":\"「このちびすけのせいだ」\",\"translatedEnglishLine\":\"\\\"It's this little brat's fault.\\\"\"},{\"lineNumber\":31044,\"originalJapaneseLine\":\"「まあ、そういうこともあるよね」\",\"translatedEnglishLine\":\"\\\"Well, that kind of thing happens sometimes.\\\"\"},{\"lineNumber\":31045,\"originalJapaneseLine\":\"「はあ……トラブルでなければいいですが」\",\"translatedEnglishLine\":\"\\\"Haa... I hope it's nothing troublesome.\\\"\"},{\"lineNumber\":31046,\"originalJapaneseLine\":\"「総統。ちょうど良いのでお伝えしますが。\",\"translatedEnglishLine\":\"\\\"Supreme Leader. Since this is a good opportunity, I'll inform you.\"},{\"lineNumber\":31047,\"originalJapaneseLine\":\"　魔人討伐の遠征ですが、\",\"translatedEnglishLine\":\"Regarding the expedition to defeat the demon lord,\"},{\"lineNumber\":31048,\"originalJapaneseLine\":\"　明日、午後一時からとなりました」\",\"translatedEnglishLine\":\"It has been scheduled to start tomorrow at 1 PM.\\\"\"},{\"lineNumber\":31049,\"originalJapaneseLine\":\"「準備はしっかりお願いします。\",\"translatedEnglishLine\":\"\\\"Please make sure to prepare thoroughly.\"},{\"lineNumber\":31050,\"originalJapaneseLine\":\"　今晩は早くお休みください」\",\"translatedEnglishLine\":\"Get some rest early tonight.\\\"\"},{\"lineNumber\":31051,\"originalJapaneseLine\":\"「ああ、分かった分かった」\",\"translatedEnglishLine\":\"\\\"Ah, alright, alright.\\\"\"},{\"lineNumber\":31052,\"originalJapaneseLine\":\"「そういえば……きちんと聞いていなかったな。\",\"translatedEnglishLine\":\"\\\"Now that you mention it... I haven't properly heard about it.\"},{\"lineNumber\":31053,\"originalJapaneseLine\":\"　地上では何が起こっているんだい？」\",\"translatedEnglishLine\":\"What's happening on the surface?\\\"\"},{\"lineNumber\":31054,\"originalJapaneseLine\":\"「なんだお前、賢そうなツラしてるくせに\",\"translatedEnglishLine\":\"\\\"What's with you? You look smart, yet\"},{\"lineNumber\":31055,\"originalJapaneseLine\":\"　何も知らんのか」\",\"translatedEnglishLine\":\"you don't know anything?\\\"\"},{\"lineNumber\":31056,\"originalJapaneseLine\":\"「賢くはないさ。世の中、分からないことだらけだ。\",\"translatedEnglishLine\":\"\\\"I'm not smart. The world is full of things I don't understand.\"},{\"lineNumber\":31057,\"originalJapaneseLine\":\"　知っているなら是非教えてくれないか」\",\"translatedEnglishLine\":\"If you know, please tell me.\\\"\"},{\"lineNumber\":31058,\"originalJapaneseLine\":\"「ふっ、そうかそうか。仕方がない。\",\"translatedEnglishLine\":\"\\\"Hmph, I see, I see. It can't be helped.\"},{\"lineNumber\":31059,\"originalJapaneseLine\":\"　特別に俺様が教えてやろう」\",\"translatedEnglishLine\":\"I'll specially teach you.\\\"\"},{\"lineNumber\":31060,\"originalJapaneseLine\":\"（……この二人、意外に相性いいのかしら……）\",\"translatedEnglishLine\":\"(...I wonder if these two actually get along better than expected...)\\\"\"},{\"lineNumber\":31061,\"originalJapaneseLine\":\"「今、この世界は魔物どもの総攻撃に遭っている。\",\"translatedEnglishLine\":\"\\\"Right now, this world is under an all-out attack by monsters.\"},{\"lineNumber\":31062,\"originalJapaneseLine\":\"　西の果てから、魔人に率いられた魔軍が、\",\"translatedEnglishLine\":\"From the western edge, the demon army led by demon lords,\"},{\"lineNumber\":31063,\"originalJapaneseLine\":\"　圧倒的な数と勢いで攻めて来やがったんだ」\",\"translatedEnglishLine\":\"has attacked with overwhelming numbers and momentum.\\\"\"},{\"lineNumber\":31064,\"originalJapaneseLine\":\"「数も少ない、弱っちい人類は太刀打ちできず、\",\"translatedEnglishLine\":\"\\\"The few, weak humans can't stand against them,\"},{\"lineNumber\":31065,\"originalJapaneseLine\":\"　為す術なしだ。そのまま負けそうになったが……」\",\"translatedEnglishLine\":\"and are helpless. We nearly lost as things were...\\\"\"},{\"lineNumber\":31066,\"originalJapaneseLine\":\"「そこを俺様が人類総統となって、\",\"translatedEnglishLine\":\"\\\"That's when I became the Supreme Leader of humanity,\"},{\"lineNumber\":31067,\"originalJapaneseLine\":\"　颯爽と助けてやっているところ、というわけだな」\",\"translatedEnglishLine\":\"and gallantly came to their aid, that's the situation.\\\"\"},{\"lineNumber\":31068,\"originalJapaneseLine\":\"「他の奴には手出しできない魔人も、\",\"translatedEnglishLine\":\"\\\"Even demon lords who others can't touch,\"},{\"lineNumber\":31069,\"originalJapaneseLine\":\"　俺の手にかかれば楽勝だ。\",\"translatedEnglishLine\":\"are easy for me to handle.\"},{\"lineNumber\":31070,\"originalJapaneseLine\":\"　何体も倒してやったのだが……」\",\"translatedEnglishLine\":\"I've defeated several of them, but...\\\"\"},{\"lineNumber\":31071,\"originalJapaneseLine\":\"「あいつらはとにかく数が多い。\",\"translatedEnglishLine\":\"\\\"They have an overwhelming number.\"},{\"lineNumber\":31072,\"originalJapaneseLine\":\"　本拠地にしていたランス城が襲われて、\",\"translatedEnglishLine\":\"They attacked Lance Castle, which was our base,\"},{\"lineNumber\":31073,\"originalJapaneseLine\":\"　そこには居られなくなった」\",\"translatedEnglishLine\":\"and we can no longer stay there.\\\"\"},{\"lineNumber\":31074,\"originalJapaneseLine\":\"「仕方なく、こんな僻地を新しい根城にしてる\",\"translatedEnglishLine\":\"\\\"Reluctantly, we've made this remote place our new stronghold.\"},{\"lineNumber\":31075,\"originalJapaneseLine\":\"　って訳だ」\",\"translatedEnglishLine\":\"That's the situation.\\\"\"},{\"lineNumber\":31076,\"originalJapaneseLine\":\"「それでも、無敵の俺様ならどうにでもなる。\",\"translatedEnglishLine\":\"\\\"Still, with invincible me, we can manage somehow.\"},{\"lineNumber\":31077,\"originalJapaneseLine\":\"　なるのだが……」\",\"translatedEnglishLine\":\"That is, however...\\\"\"},{\"lineNumber\":31078,\"originalJapaneseLine\":\"「奴らのボスであるケイブリスとかいう野郎、\",\"translatedEnglishLine\":\"\\\"That guy named Cavebris, their boss,\"},{\"lineNumber\":31079,\"originalJapaneseLine\":\"　こいつが魔物の森の奥から出てこない。\",\"translatedEnglishLine\":\"won't come out from the depths of the monster forest.\"},{\"lineNumber\":31080,\"originalJapaneseLine\":\"　いつまで経っても雑魚と戦わなきゃならん」\",\"translatedEnglishLine\":\"We have to keep fighting the small fry forever.\\\"\"},{\"lineNumber\":31081,\"originalJapaneseLine\":\"「頭を潰したいが正面から行くわけにもいかん。\",\"translatedEnglishLine\":\"\\\"I want to crush the head, but I can't go at it head-on.\"},{\"lineNumber\":31082,\"originalJapaneseLine\":\"　さあどうしたもんか、って所だな」\",\"translatedEnglishLine\":\"So now, what should we do? That’s the situation.\\\"\"},{\"lineNumber\":31083,\"originalJapaneseLine\":\"「なるほど……よくわかったよ。ありがとう。\",\"translatedEnglishLine\":\"\\\"I see... I understand well now. Thank you.\"},{\"lineNumber\":31084,\"originalJapaneseLine\":\"　それは確かに困った話だ」\",\"translatedEnglishLine\":\"That is certainly a troubling story.\\\"\"},{\"lineNumber\":31085,\"originalJapaneseLine\":\"「困ったでは済まんからみんな考えてるんだ。\",\"translatedEnglishLine\":\"\\\"It's more than just trouble, so everyone is thinking hard.\"},{\"lineNumber\":31086,\"originalJapaneseLine\":\"　お前もなんか知恵を出せ」\",\"translatedEnglishLine\":\"You should also come up with some ideas.\\\"\"},{\"lineNumber\":31087,\"originalJapaneseLine\":\"「正面から、は無理なんだよね……\",\"translatedEnglishLine\":\"\\\"Going head-on is impossible, huh...\"},{\"lineNumber\":31088,\"originalJapaneseLine\":\"　それなら……ううん…………」\",\"translatedEnglishLine\":\"If that's the case... hmm...\\\"\"},{\"lineNumber\":31089,\"originalJapaneseLine\":\"「ま、そんな簡単に出れば苦労は……」\",\"translatedEnglishLine\":\"\\\"Well, if it came out that easily, it wouldn't be such a problem...\\\"\"},{\"lineNumber\":31090,\"originalJapaneseLine\":\"「あっ」\",\"translatedEnglishLine\":\"\\\"Ah!\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 31041,
+                "originalJapaneseLine": "「……どうしたんですか、総統。",
+                "translatedEnglishLine": "\"...What's the matter, Supreme Leader?"
+            },
+            {
+                "lineNumber": 31042,
+                "originalJapaneseLine": "　突然転がり込むようにして……」",
+                "translatedEnglishLine": "Suddenly just barging in like this...\""
+            },
+            {
+                "lineNumber": 31043,
+                "originalJapaneseLine": "「このちびすけのせいだ」",
+                "translatedEnglishLine": "\"It's this little brat's fault.\""
+            },
+            {
+                "lineNumber": 31044,
+                "originalJapaneseLine": "「まあ、そういうこともあるよね」",
+                "translatedEnglishLine": "\"Well, that kind of thing happens sometimes.\""
+            },
+            {
+                "lineNumber": 31045,
+                "originalJapaneseLine": "「はあ……トラブルでなければいいですが」",
+                "translatedEnglishLine": "\"Haa... I hope it's nothing troublesome.\""
+            },
+            {
+                "lineNumber": 31046,
+                "originalJapaneseLine": "「総統。ちょうど良いのでお伝えしますが。",
+                "translatedEnglishLine": "\"Supreme Leader. Since this is a good opportunity, I'll inform you."
+            },
+            {
+                "lineNumber": 31047,
+                "originalJapaneseLine": "　魔人討伐の遠征ですが、",
+                "translatedEnglishLine": "Regarding the expedition to defeat the demon lord,"
+            },
+            {
+                "lineNumber": 31048,
+                "originalJapaneseLine": "　明日、午後一時からとなりました」",
+                "translatedEnglishLine": "It has been scheduled to start tomorrow at 1 PM.\""
+            },
+            {
+                "lineNumber": 31049,
+                "originalJapaneseLine": "「準備はしっかりお願いします。",
+                "translatedEnglishLine": "\"Please make sure to prepare thoroughly."
+            },
+            {
+                "lineNumber": 31050,
+                "originalJapaneseLine": "　今晩は早くお休みください」",
+                "translatedEnglishLine": "Get some rest early tonight.\""
+            },
+            {
+                "lineNumber": 31051,
+                "originalJapaneseLine": "「ああ、分かった分かった」",
+                "translatedEnglishLine": "\"Ah, alright, alright.\""
+            },
+            {
+                "lineNumber": 31052,
+                "originalJapaneseLine": "「そういえば……きちんと聞いていなかったな。",
+                "translatedEnglishLine": "\"Now that you mention it... I haven't properly heard about it."
+            },
+            {
+                "lineNumber": 31053,
+                "originalJapaneseLine": "　地上では何が起こっているんだい？」",
+                "translatedEnglishLine": "What's happening on the surface?\""
+            },
+            {
+                "lineNumber": 31054,
+                "originalJapaneseLine": "「なんだお前、賢そうなツラしてるくせに",
+                "translatedEnglishLine": "\"What's with you? You look smart, yet"
+            },
+            {
+                "lineNumber": 31055,
+                "originalJapaneseLine": "　何も知らんのか」",
+                "translatedEnglishLine": "you don't know anything?\""
+            },
+            {
+                "lineNumber": 31056,
+                "originalJapaneseLine": "「賢くはないさ。世の中、分からないことだらけだ。",
+                "translatedEnglishLine": "\"I'm not smart. The world is full of things I don't understand."
+            },
+            {
+                "lineNumber": 31057,
+                "originalJapaneseLine": "　知っているなら是非教えてくれないか」",
+                "translatedEnglishLine": "If you know, please tell me.\""
+            },
+            {
+                "lineNumber": 31058,
+                "originalJapaneseLine": "「ふっ、そうかそうか。仕方がない。",
+                "translatedEnglishLine": "\"Hmph, I see, I see. It can't be helped."
+            },
+            {
+                "lineNumber": 31059,
+                "originalJapaneseLine": "　特別に俺様が教えてやろう」",
+                "translatedEnglishLine": "I'll specially teach you.\""
+            },
+            {
+                "lineNumber": 31060,
+                "originalJapaneseLine": "（……この二人、意外に相性いいのかしら……）",
+                "translatedEnglishLine": "(...I wonder if these two actually get along better than expected...)\""
+            },
+            {
+                "lineNumber": 31061,
+                "originalJapaneseLine": "「今、この世界は魔物どもの総攻撃に遭っている。",
+                "translatedEnglishLine": "\"Right now, this world is under an all-out attack by monsters."
+            },
+            {
+                "lineNumber": 31062,
+                "originalJapaneseLine": "　西の果てから、魔人に率いられた魔軍が、",
+                "translatedEnglishLine": "From the western edge, the demon army led by demon lords,"
+            },
+            {
+                "lineNumber": 31063,
+                "originalJapaneseLine": "　圧倒的な数と勢いで攻めて来やがったんだ」",
+                "translatedEnglishLine": "has attacked with overwhelming numbers and momentum.\""
+            },
+            {
+                "lineNumber": 31064,
+                "originalJapaneseLine": "「数も少ない、弱っちい人類は太刀打ちできず、",
+                "translatedEnglishLine": "\"The few, weak humans can't stand against them,"
+            },
+            {
+                "lineNumber": 31065,
+                "originalJapaneseLine": "　為す術なしだ。そのまま負けそうになったが……」",
+                "translatedEnglishLine": "and are helpless. We nearly lost as things were...\""
+            },
+            {
+                "lineNumber": 31066,
+                "originalJapaneseLine": "「そこを俺様が人類総統となって、",
+                "translatedEnglishLine": "\"That's when I became the Supreme Leader of humanity,"
+            },
+            {
+                "lineNumber": 31067,
+                "originalJapaneseLine": "　颯爽と助けてやっているところ、というわけだな」",
+                "translatedEnglishLine": "and gallantly came to their aid, that's the situation.\""
+            },
+            {
+                "lineNumber": 31068,
+                "originalJapaneseLine": "「他の奴には手出しできない魔人も、",
+                "translatedEnglishLine": "\"Even demon lords who others can't touch,"
+            },
+            {
+                "lineNumber": 31069,
+                "originalJapaneseLine": "　俺の手にかかれば楽勝だ。",
+                "translatedEnglishLine": "are easy for me to handle."
+            },
+            {
+                "lineNumber": 31070,
+                "originalJapaneseLine": "　何体も倒してやったのだが……」",
+                "translatedEnglishLine": "I've defeated several of them, but...\""
+            },
+            {
+                "lineNumber": 31071,
+                "originalJapaneseLine": "「あいつらはとにかく数が多い。",
+                "translatedEnglishLine": "\"They have an overwhelming number."
+            },
+            {
+                "lineNumber": 31072,
+                "originalJapaneseLine": "　本拠地にしていたランス城が襲われて、",
+                "translatedEnglishLine": "They attacked Lance Castle, which was our base,"
+            },
+            {
+                "lineNumber": 31073,
+                "originalJapaneseLine": "　そこには居られなくなった」",
+                "translatedEnglishLine": "and we can no longer stay there.\""
+            },
+            {
+                "lineNumber": 31074,
+                "originalJapaneseLine": "「仕方なく、こんな僻地を新しい根城にしてる",
+                "translatedEnglishLine": "\"Reluctantly, we've made this remote place our new stronghold."
+            },
+            {
+                "lineNumber": 31075,
+                "originalJapaneseLine": "　って訳だ」",
+                "translatedEnglishLine": "That's the situation.\""
+            },
+            {
+                "lineNumber": 31076,
+                "originalJapaneseLine": "「それでも、無敵の俺様ならどうにでもなる。",
+                "translatedEnglishLine": "\"Still, with invincible me, we can manage somehow."
+            },
+            {
+                "lineNumber": 31077,
+                "originalJapaneseLine": "　なるのだが……」",
+                "translatedEnglishLine": "That is, however...\""
+            },
+            {
+                "lineNumber": 31078,
+                "originalJapaneseLine": "「奴らのボスであるケイブリスとかいう野郎、",
+                "translatedEnglishLine": "\"That guy named Cavebris, their boss,"
+            },
+            {
+                "lineNumber": 31079,
+                "originalJapaneseLine": "　こいつが魔物の森の奥から出てこない。",
+                "translatedEnglishLine": "won't come out from the depths of the monster forest."
+            },
+            {
+                "lineNumber": 31080,
+                "originalJapaneseLine": "　いつまで経っても雑魚と戦わなきゃならん」",
+                "translatedEnglishLine": "We have to keep fighting the small fry forever.\""
+            },
+            {
+                "lineNumber": 31081,
+                "originalJapaneseLine": "「頭を潰したいが正面から行くわけにもいかん。",
+                "translatedEnglishLine": "\"I want to crush the head, but I can't go at it head-on."
+            },
+            {
+                "lineNumber": 31082,
+                "originalJapaneseLine": "　さあどうしたもんか、って所だな」",
+                "translatedEnglishLine": "So now, what should we do? That’s the situation.\""
+            },
+            {
+                "lineNumber": 31083,
+                "originalJapaneseLine": "「なるほど……よくわかったよ。ありがとう。",
+                "translatedEnglishLine": "\"I see... I understand well now. Thank you."
+            },
+            {
+                "lineNumber": 31084,
+                "originalJapaneseLine": "　それは確かに困った話だ」",
+                "translatedEnglishLine": "That is certainly a troubling story.\""
+            },
+            {
+                "lineNumber": 31085,
+                "originalJapaneseLine": "「困ったでは済まんからみんな考えてるんだ。",
+                "translatedEnglishLine": "\"It's more than just trouble, so everyone is thinking hard."
+            },
+            {
+                "lineNumber": 31086,
+                "originalJapaneseLine": "　お前もなんか知恵を出せ」",
+                "translatedEnglishLine": "You should also come up with some ideas.\""
+            },
+            {
+                "lineNumber": 31087,
+                "originalJapaneseLine": "「正面から、は無理なんだよね……",
+                "translatedEnglishLine": "\"Going head-on is impossible, huh..."
+            },
+            {
+                "lineNumber": 31088,
+                "originalJapaneseLine": "　それなら……ううん…………」",
+                "translatedEnglishLine": "If that's the case... hmm...\""
+            },
+            {
+                "lineNumber": 31089,
+                "originalJapaneseLine": "「ま、そんな簡単に出れば苦労は……」",
+                "translatedEnglishLine": "\"Well, if it came out that easily, it wouldn't be such a problem...\""
+            },
+            {
+                "lineNumber": 31090,
+                "originalJapaneseLine": "「あっ」",
+                "translatedEnglishLine": "\"Ah!\""
+            }
+        ]
+    }
+}

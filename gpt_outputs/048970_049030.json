@@ -1,1 +1,719 @@
-{"id":"resp_083fe795c880db230068efb773aabc8193846e50be2f8f207f","object":"response","created_at":1760540531,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_083fe795c880db230068efb7745ccc8193aab9eccf02c44428","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":48971,\"originalJapaneseLine\":\"「ん……よかった」\",\"translatedEnglishLine\":\"\\\"Mm... that's good.\\\"\"},{\"lineNumber\":48972,\"originalJapaneseLine\":\"「カロリア、どうかした？」\",\"translatedEnglishLine\":\"\\\"Karoria, what's wrong?\\\"\"},{\"lineNumber\":48973,\"originalJapaneseLine\":\"「街の人たち、\",\"translatedEnglishLine\":\"\\\"The people in town,\"},{\"lineNumber\":48974,\"originalJapaneseLine\":\"　前よりは辛そうじゃなくなってるから」\",\"translatedEnglishLine\":\" seem to be suffering less than before.\\\"\"},{\"lineNumber\":48975,\"originalJapaneseLine\":\"「あ……そういえばそうかも」\",\"translatedEnglishLine\":\"\\\"Ah... come to think of it, that might be true.\\\"\"},{\"lineNumber\":48976,\"originalJapaneseLine\":\"「そうですね……戦時下ですし、\",\"translatedEnglishLine\":\"\\\"Yes... we are in wartime, after all,\"},{\"lineNumber\":48977,\"originalJapaneseLine\":\"　既に多くのものを失っていますが……\",\"translatedEnglishLine\":\" and we have already lost a lot...\\\"\"},{\"lineNumber\":48978,\"originalJapaneseLine\":\"　魔人の脅威がなくなったのは大きいです」\",\"translatedEnglishLine\":\" but the disappearance of the demon threat is significant.\\\"\"},{\"lineNumber\":48979,\"originalJapaneseLine\":\"「おうおばちゃん、そのポポラパイうまそうだな。\",\"translatedEnglishLine\":\"\\\"Hey, ma'am, that Popora pie looks delicious.\"},{\"lineNumber\":48980,\"originalJapaneseLine\":\"　でかいのまるごとくれ」\",\"translatedEnglishLine\":\" Give me the big one whole.\\\"\"},{\"lineNumber\":48981,\"originalJapaneseLine\":\"「そのうち一人は、\",\"translatedEnglishLine\":\"\\\"One of them,\"},{\"lineNumber\":48982,\"originalJapaneseLine\":\"　実は未だに人類に脅威を与え続けてるけどね……\",\"translatedEnglishLine\":\" in fact, still continues to threaten humanity...\\\"\"},{\"lineNumber\":48983,\"originalJapaneseLine\":\"　食費的な意味で……」\",\"translatedEnglishLine\":\" In terms of food expenses...\\\"\"},{\"lineNumber\":48984,\"originalJapaneseLine\":\"「がつ、ふむ、まぐっ……ん、呼んだか？」\",\"translatedEnglishLine\":\"\\\"Gulp, hmm, mug... huh, did you call me?\\\"\"},{\"lineNumber\":48985,\"originalJapaneseLine\":\"「呼んどらんわ！　食いながら喋るな！」\",\"translatedEnglishLine\":\"\\\"I didn't call! Stop talking while eating!\\\"\"},{\"lineNumber\":48986,\"originalJapaneseLine\":\"「さっき、入ったお店の材料が\",\"translatedEnglishLine\":\"\\\"We ate enough to finish the ingredients at the shop we just went into...\\\"\"},{\"lineNumber\":48987,\"originalJapaneseLine\":\"　なくなるくらい食べたのに……\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":48988,\"originalJapaneseLine\":\"「ふん。とにかく司令部に行くんだったな」\",\"translatedEnglishLine\":\"\\\"Hmph. Anyway, we were supposed to go to the headquarters.\\\"\"},{\"lineNumber\":48989,\"originalJapaneseLine\":\"「はい。魔軍への反攻作戦を\",\"translatedEnglishLine\":\"\\\"Yes. They should be planning a counterattack operation against the Demon Army.\\\"\"},{\"lineNumber\":48990,\"originalJapaneseLine\":\"　計画しているはずです」\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":48991,\"originalJapaneseLine\":\"「よーし。さっさと行って魔物どもを叩き出すぞ」\",\"translatedEnglishLine\":\"\\\"Alright. Let's hurry and drive out those monsters.\\\"\"},{\"lineNumber\":48992,\"originalJapaneseLine\":\"「よーす。来たぞー」\",\"translatedEnglishLine\":\"\\\"Yo! We've arrived!\\\"\"},{\"lineNumber\":48993,\"originalJapaneseLine\":\"「ランス！」\",\"translatedEnglishLine\":\"\\\"Lance!\\\"\"},{\"lineNumber\":48994,\"originalJapaneseLine\":\"「ひっ、緑の総統！\",\"translatedEnglishLine\":\"\\\"Eek, the Green Chancellor!\"},{\"lineNumber\":48995,\"originalJapaneseLine\":\"　こっこここ、こんにちわ……」\",\"translatedEnglishLine\":\"H-hello...\\\"\"},{\"lineNumber\":48996,\"originalJapaneseLine\":\"「いいかげん、しゃんとしなさい。\",\"translatedEnglishLine\":\"\\\"Pull yourself together already.\"},{\"lineNumber\":48997,\"originalJapaneseLine\":\"　……お疲れ様です、ランス総統」\",\"translatedEnglishLine\":\"...Good work, Chancellor Lance.\\\"\"},{\"lineNumber\":48998,\"originalJapaneseLine\":\"「来たか、小僧」\",\"translatedEnglishLine\":\"\\\"You came, kid.\\\"\"},{\"lineNumber\":48999,\"originalJapaneseLine\":\"「よ、総統閣下」\",\"translatedEnglishLine\":\"\\\"Y-Your Excellency Chancellor.\\\"\"},{\"lineNumber\":49000,\"originalJapaneseLine\":\"「お疲れ様です」\",\"translatedEnglishLine\":\"\\\"Good work.\\\"\"},{\"lineNumber\":49001,\"originalJapaneseLine\":\"「ちっ、ウスピラはいいが、\",\"translatedEnglishLine\":\"\\\"Tch, the lowly ones are fine, but\"},{\"lineNumber\":49002,\"originalJapaneseLine\":\"　オマケどもまでいるじゃないか」\",\"translatedEnglishLine\":\" you're even bringing these extras along.\\\"\"},{\"lineNumber\":49003,\"originalJapaneseLine\":\"「魔人の軍がいなくなったおかげで、\",\"translatedEnglishLine\":\"\\\"Thanks to the absence of the demon army,\"},{\"lineNumber\":49004,\"originalJapaneseLine\":\"　正規軍にもちょいっと余裕ができてな。\",\"translatedEnglishLine\":\" the regular army is a little more at ease.\"},{\"lineNumber\":49005,\"originalJapaneseLine\":\"　こうして軍議の場が持てるってわけだ」\",\"translatedEnglishLine\":\" That's why we can hold this military meeting.\\\"\"},{\"lineNumber\":49006,\"originalJapaneseLine\":\"「ありゃ……なんか、ずいぶん人が少ないな。\",\"translatedEnglishLine\":\"\\\"Huh... there are surprisingly few people here.\"},{\"lineNumber\":49007,\"originalJapaneseLine\":\"　ケバ子もいないのか」\",\"translatedEnglishLine\":\" Kebako isn't here either?\\\"\"},{\"lineNumber\":49008,\"originalJapaneseLine\":\"「千鶴子も、今は前線に出てるの。\",\"translatedEnglishLine\":\"\\\"Chizuko is also out on the front lines now.\"},{\"lineNumber\":49009,\"originalJapaneseLine\":\"　とにかく、戦況が悪くて……」\",\"translatedEnglishLine\":\" The situation is bad, anyway...\\\"\"},{\"lineNumber\":49010,\"originalJapaneseLine\":\"「ふん。それならそれで、一発逆転のし甲斐がある」\",\"translatedEnglishLine\":\"\\\"Hmph. If that's the case, then there's merit in a dramatic comeback.\\\"\"},{\"lineNumber\":49011,\"originalJapaneseLine\":\"「おお、来たかランス殿！\",\"translatedEnglishLine\":\"\\\"Oh, you came, Lord Lance!\"},{\"lineNumber\":49012,\"originalJapaneseLine\":\"　壮健なようでなによりだ！」\",\"translatedEnglishLine\":\" Glad to see you're in good health!\\\"\"},{\"lineNumber\":49013,\"originalJapaneseLine\":\"「くっ、お前もいたか……暑苦しい」\",\"translatedEnglishLine\":\"\\\"Ugh, you're here too... so oppressive.\\\"\"},{\"lineNumber\":49014,\"originalJapaneseLine\":\"「はははは、変わらんな」\",\"translatedEnglishLine\":\"\\\"Hahaha, you haven’t changed.\\\"\"},{\"lineNumber\":49015,\"originalJapaneseLine\":\"「指揮は陛下が？」\",\"translatedEnglishLine\":\"\\\"Is His Majesty commanding?\\\"\"},{\"lineNumber\":49016,\"originalJapaneseLine\":\"「いいや、おおよそは千鶴子とマジックに任せる。\",\"translatedEnglishLine\":\"\\\"No, for the most part, command is left to Chizuko and Magic.\"},{\"lineNumber\":49017,\"originalJapaneseLine\":\"　年寄りが若者の頭を押さえつけることはない」\",\"translatedEnglishLine\":\" The old don't overpower the young.\\\"\"},{\"lineNumber\":49018,\"originalJapaneseLine\":\"「その代わりといってはなんだが、\",\"translatedEnglishLine\":\"\\\"In exchange, so to speak,\"},{\"lineNumber\":49019,\"originalJapaneseLine\":\"　私も大いに戦うぞ、ランス殿！\",\"translatedEnglishLine\":\" I will also fight greatly, Lord Lance!\"},{\"lineNumber\":49020,\"originalJapaneseLine\":\"　共に魔軍の脅威から、人類を守るのだ！」\",\"translatedEnglishLine\":\" Together, we shall protect humanity from the Demon Army's threat!\\\"\"},{\"lineNumber\":49021,\"originalJapaneseLine\":\"「ええい、肩組んでくるな鬱陶しい！」\",\"translatedEnglishLine\":\"\\\"Ugh, stop putting your arm around me, it's annoying!\\\"\"},{\"lineNumber\":49022,\"originalJapaneseLine\":\"「さて。じゃ、状況の説明をするわね」\",\"translatedEnglishLine\":\"\\\"Now then. I'll explain the situation.\\\"\"},{\"lineNumber\":49023,\"originalJapaneseLine\":\"「西部戦線は、ここラグナロックアーク。\",\"translatedEnglishLine\":\"\\\"The western front is here at Ragnarock Arc.\"},{\"lineNumber\":49024,\"originalJapaneseLine\":\"　東部戦線はテープを要所として、魔軍の侵攻を防いでるわ」\",\"translatedEnglishLine\":\" The eastern front uses Tape as a key point to defend against the Demon Army's invasion.\\\"\"},{\"lineNumber\":49025,\"originalJapaneseLine\":\"「……なんか、全然減ってなくないか？\",\"translatedEnglishLine\":\"\\\"...Doesn't it seem like they haven't decreased at all?\"},{\"lineNumber\":49026,\"originalJapaneseLine\":\"　まだ魔軍に支配されまくりだぞ」\",\"translatedEnglishLine\":\" They're still dominated by the Demon Army.\\\"\"},{\"lineNumber\":49027,\"originalJapaneseLine\":\"「とにかく魔軍は数が多いのよ……」\",\"translatedEnglishLine\":\"\\\"Anyway, the Demon Army is numerous...\\\"\"},{\"lineNumber\":49028,\"originalJapaneseLine\":\"「魔人達は大軍を率いる性格じゃなかったから、\",\"translatedEnglishLine\":\"\\\"The demons themselves didn’t have the nature to lead large armies,\"},{\"lineNumber\":49029,\"originalJapaneseLine\":\"　撤退した直属部隊も、全体からすると少ないし」\",\"translatedEnglishLine\":\" so even the immediate retreating units are few compared to the whole force.\\\"\"},{\"lineNumber\":49030,\"originalJapaneseLine\":\"「今は、支えていますが……\",\"translatedEnglishLine\":\"\\\"For now, they are holding the line, but...\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":48971,"originalJapaneseLine":"「ん……よかった」","translatedEnglishLine":"\"Mm... that's good.\""},{"lineNumber":48972,"originalJapaneseLine":"「カロリア、どうかした？」","translatedEnglishLine":"\"Karoria, what's wrong?\""},{"lineNumber":48973,"originalJapaneseLine":"「街の人たち、","translatedEnglishLine":"\"The people in town,"},{"lineNumber":48974,"originalJapaneseLine":"　前よりは辛そうじゃなくなってるから」","translatedEnglishLine":" seem to be suffering less than before.\""},{"lineNumber":48975,"originalJapaneseLine":"「あ……そういえばそうかも」","translatedEnglishLine":"\"Ah... come to think of it, that might be true.\""},{"lineNumber":48976,"originalJapaneseLine":"「そうですね……戦時下ですし、","translatedEnglishLine":"\"Yes... we are in wartime, after all,"},{"lineNumber":48977,"originalJapaneseLine":"　既に多くのものを失っていますが……","translatedEnglishLine":" and we have already lost a lot...\""},{"lineNumber":48978,"originalJapaneseLine":"　魔人の脅威がなくなったのは大きいです」","translatedEnglishLine":" but the disappearance of the demon threat is significant.\""},{"lineNumber":48979,"originalJapaneseLine":"「おうおばちゃん、そのポポラパイうまそうだな。","translatedEnglishLine":"\"Hey, ma'am, that Popora pie looks delicious."},{"lineNumber":48980,"originalJapaneseLine":"　でかいのまるごとくれ」","translatedEnglishLine":" Give me the big one whole.\""},{"lineNumber":48981,"originalJapaneseLine":"「そのうち一人は、","translatedEnglishLine":"\"One of them,"},{"lineNumber":48982,"originalJapaneseLine":"　実は未だに人類に脅威を与え続けてるけどね……","translatedEnglishLine":" in fact, still continues to threaten humanity...\""},{"lineNumber":48983,"originalJapaneseLine":"　食費的な意味で……」","translatedEnglishLine":" In terms of food expenses...\""},{"lineNumber":48984,"originalJapaneseLine":"「がつ、ふむ、まぐっ……ん、呼んだか？」","translatedEnglishLine":"\"Gulp, hmm, mug... huh, did you call me?\""},{"lineNumber":48985,"originalJapaneseLine":"「呼んどらんわ！　食いながら喋るな！」","translatedEnglishLine":"\"I didn't call! Stop talking while eating!\""},{"lineNumber":48986,"originalJapaneseLine":"「さっき、入ったお店の材料が","translatedEnglishLine":"\"We ate enough to finish the ingredients at the shop we just went into...\""},{"lineNumber":48987,"originalJapaneseLine":"　なくなるくらい食べたのに……","translatedEnglishLine":""},{"lineNumber":48988,"originalJapaneseLine":"「ふん。とにかく司令部に行くんだったな」","translatedEnglishLine":"\"Hmph. Anyway, we were supposed to go to the headquarters.\""},{"lineNumber":48989,"originalJapaneseLine":"「はい。魔軍への反攻作戦を","translatedEnglishLine":"\"Yes. They should be planning a counterattack operation against the Demon Army.\""},{"lineNumber":48990,"originalJapaneseLine":"　計画しているはずです」","translatedEnglishLine":""},{"lineNumber":48991,"originalJapaneseLine":"「よーし。さっさと行って魔物どもを叩き出すぞ」","translatedEnglishLine":"\"Alright. Let's hurry and drive out those monsters.\""},{"lineNumber":48992,"originalJapaneseLine":"「よーす。来たぞー」","translatedEnglishLine":"\"Yo! We've arrived!\""},{"lineNumber":48993,"originalJapaneseLine":"「ランス！」","translatedEnglishLine":"\"Lance!\""},{"lineNumber":48994,"originalJapaneseLine":"「ひっ、緑の総統！","translatedEnglishLine":"\"Eek, the Green Chancellor!"},{"lineNumber":48995,"originalJapaneseLine":"　こっこここ、こんにちわ……」","translatedEnglishLine":"H-hello...\""},{"lineNumber":48996,"originalJapaneseLine":"「いいかげん、しゃんとしなさい。","translatedEnglishLine":"\"Pull yourself together already."},{"lineNumber":48997,"originalJapaneseLine":"　……お疲れ様です、ランス総統」","translatedEnglishLine":"...Good work, Chancellor Lance.\""},{"lineNumber":48998,"originalJapaneseLine":"「来たか、小僧」","translatedEnglishLine":"\"You came, kid.\""},{"lineNumber":48999,"originalJapaneseLine":"「よ、総統閣下」","translatedEnglishLine":"\"Y-Your Excellency Chancellor.\""},{"lineNumber":49000,"originalJapaneseLine":"「お疲れ様です」","translatedEnglishLine":"\"Good work.\""},{"lineNumber":49001,"originalJapaneseLine":"「ちっ、ウスピラはいいが、","translatedEnglishLine":"\"Tch, the lowly ones are fine, but"},{"lineNumber":49002,"originalJapaneseLine":"　オマケどもまでいるじゃないか」","translatedEnglishLine":" you're even bringing these extras along.\""},{"lineNumber":49003,"originalJapaneseLine":"「魔人の軍がいなくなったおかげで、","translatedEnglishLine":"\"Thanks to the absence of the demon army,"},{"lineNumber":49004,"originalJapaneseLine":"　正規軍にもちょいっと余裕ができてな。","translatedEnglishLine":" the regular army is a little more at ease."},{"lineNumber":49005,"originalJapaneseLine":"　こうして軍議の場が持てるってわけだ」","translatedEnglishLine":" That's why we can hold this military meeting.\""},{"lineNumber":49006,"originalJapaneseLine":"「ありゃ……なんか、ずいぶん人が少ないな。","translatedEnglishLine":"\"Huh... there are surprisingly few people here."},{"lineNumber":49007,"originalJapaneseLine":"　ケバ子もいないのか」","translatedEnglishLine":" Kebako isn't here either?\""},{"lineNumber":49008,"originalJapaneseLine":"「千鶴子も、今は前線に出てるの。","translatedEnglishLine":"\"Chizuko is also out on the front lines now."},{"lineNumber":49009,"originalJapaneseLine":"　とにかく、戦況が悪くて……」","translatedEnglishLine":" The situation is bad, anyway...\""},{"lineNumber":49010,"originalJapaneseLine":"「ふん。それならそれで、一発逆転のし甲斐がある」","translatedEnglishLine":"\"Hmph. If that's the case, then there's merit in a dramatic comeback.\""},{"lineNumber":49011,"originalJapaneseLine":"「おお、来たかランス殿！","translatedEnglishLine":"\"Oh, you came, Lord Lance!"},{"lineNumber":49012,"originalJapaneseLine":"　壮健なようでなによりだ！」","translatedEnglishLine":" Glad to see you're in good health!\""},{"lineNumber":49013,"originalJapaneseLine":"「くっ、お前もいたか……暑苦しい」","translatedEnglishLine":"\"Ugh, you're here too... so oppressive.\""},{"lineNumber":49014,"originalJapaneseLine":"「はははは、変わらんな」","translatedEnglishLine":"\"Hahaha, you haven’t changed.\""},{"lineNumber":49015,"originalJapaneseLine":"「指揮は陛下が？」","translatedEnglishLine":"\"Is His Majesty commanding?\""},{"lineNumber":49016,"originalJapaneseLine":"「いいや、おおよそは千鶴子とマジックに任せる。","translatedEnglishLine":"\"No, for the most part, command is left to Chizuko and Magic."},{"lineNumber":49017,"originalJapaneseLine":"　年寄りが若者の頭を押さえつけることはない」","translatedEnglishLine":" The old don't overpower the young.\""},{"lineNumber":49018,"originalJapaneseLine":"「その代わりといってはなんだが、","translatedEnglishLine":"\"In exchange, so to speak,"},{"lineNumber":49019,"originalJapaneseLine":"　私も大いに戦うぞ、ランス殿！","translatedEnglishLine":" I will also fight greatly, Lord Lance!"},{"lineNumber":49020,"originalJapaneseLine":"　共に魔軍の脅威から、人類を守るのだ！」","translatedEnglishLine":" Together, we shall protect humanity from the Demon Army's threat!\""},{"lineNumber":49021,"originalJapaneseLine":"「ええい、肩組んでくるな鬱陶しい！」","translatedEnglishLine":"\"Ugh, stop putting your arm around me, it's annoying!\""},{"lineNumber":49022,"originalJapaneseLine":"「さて。じゃ、状況の説明をするわね」","translatedEnglishLine":"\"Now then. I'll explain the situation.\""},{"lineNumber":49023,"originalJapaneseLine":"「西部戦線は、ここラグナロックアーク。","translatedEnglishLine":"\"The western front is here at Ragnarock Arc."},{"lineNumber":49024,"originalJapaneseLine":"　東部戦線はテープを要所として、魔軍の侵攻を防いでるわ」","translatedEnglishLine":" The eastern front uses Tape as a key point to defend against the Demon Army's invasion.\""},{"lineNumber":49025,"originalJapaneseLine":"「……なんか、全然減ってなくないか？","translatedEnglishLine":"\"...Doesn't it seem like they haven't decreased at all?"},{"lineNumber":49026,"originalJapaneseLine":"　まだ魔軍に支配されまくりだぞ」","translatedEnglishLine":" They're still dominated by the Demon Army.\""},{"lineNumber":49027,"originalJapaneseLine":"「とにかく魔軍は数が多いのよ……」","translatedEnglishLine":"\"Anyway, the Demon Army is numerous...\""},{"lineNumber":49028,"originalJapaneseLine":"「魔人達は大軍を率いる性格じゃなかったから、","translatedEnglishLine":"\"The demons themselves didn’t have the nature to lead large armies,"},{"lineNumber":49029,"originalJapaneseLine":"　撤退した直属部隊も、全体からすると少ないし」","translatedEnglishLine":" so even the immediate retreating units are few compared to the whole force.\""},{"lineNumber":49030,"originalJapaneseLine":"「今は、支えていますが……","translatedEnglishLine":"\"For now, they are holding the line, but...\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1815,"input_tokens_details":{"cached_tokens":0},"output_tokens":2370,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":4185},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":48971,\"originalJapaneseLine\":\"「ん……よかった」\",\"translatedEnglishLine\":\"\\\"Mm... that's good.\\\"\"},{\"lineNumber\":48972,\"originalJapaneseLine\":\"「カロリア、どうかした？」\",\"translatedEnglishLine\":\"\\\"Karoria, what's wrong?\\\"\"},{\"lineNumber\":48973,\"originalJapaneseLine\":\"「街の人たち、\",\"translatedEnglishLine\":\"\\\"The people in town,\"},{\"lineNumber\":48974,\"originalJapaneseLine\":\"　前よりは辛そうじゃなくなってるから」\",\"translatedEnglishLine\":\" seem to be suffering less than before.\\\"\"},{\"lineNumber\":48975,\"originalJapaneseLine\":\"「あ……そういえばそうかも」\",\"translatedEnglishLine\":\"\\\"Ah... come to think of it, that might be true.\\\"\"},{\"lineNumber\":48976,\"originalJapaneseLine\":\"「そうですね……戦時下ですし、\",\"translatedEnglishLine\":\"\\\"Yes... we are in wartime, after all,\"},{\"lineNumber\":48977,\"originalJapaneseLine\":\"　既に多くのものを失っていますが……\",\"translatedEnglishLine\":\" and we have already lost a lot...\\\"\"},{\"lineNumber\":48978,\"originalJapaneseLine\":\"　魔人の脅威がなくなったのは大きいです」\",\"translatedEnglishLine\":\" but the disappearance of the demon threat is significant.\\\"\"},{\"lineNumber\":48979,\"originalJapaneseLine\":\"「おうおばちゃん、そのポポラパイうまそうだな。\",\"translatedEnglishLine\":\"\\\"Hey, ma'am, that Popora pie looks delicious.\"},{\"lineNumber\":48980,\"originalJapaneseLine\":\"　でかいのまるごとくれ」\",\"translatedEnglishLine\":\" Give me the big one whole.\\\"\"},{\"lineNumber\":48981,\"originalJapaneseLine\":\"「そのうち一人は、\",\"translatedEnglishLine\":\"\\\"One of them,\"},{\"lineNumber\":48982,\"originalJapaneseLine\":\"　実は未だに人類に脅威を与え続けてるけどね……\",\"translatedEnglishLine\":\" in fact, still continues to threaten humanity...\\\"\"},{\"lineNumber\":48983,\"originalJapaneseLine\":\"　食費的な意味で……」\",\"translatedEnglishLine\":\" In terms of food expenses...\\\"\"},{\"lineNumber\":48984,\"originalJapaneseLine\":\"「がつ、ふむ、まぐっ……ん、呼んだか？」\",\"translatedEnglishLine\":\"\\\"Gulp, hmm, mug... huh, did you call me?\\\"\"},{\"lineNumber\":48985,\"originalJapaneseLine\":\"「呼んどらんわ！　食いながら喋るな！」\",\"translatedEnglishLine\":\"\\\"I didn't call! Stop talking while eating!\\\"\"},{\"lineNumber\":48986,\"originalJapaneseLine\":\"「さっき、入ったお店の材料が\",\"translatedEnglishLine\":\"\\\"We ate enough to finish the ingredients at the shop we just went into...\\\"\"},{\"lineNumber\":48987,\"originalJapaneseLine\":\"　なくなるくらい食べたのに……\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":48988,\"originalJapaneseLine\":\"「ふん。とにかく司令部に行くんだったな」\",\"translatedEnglishLine\":\"\\\"Hmph. Anyway, we were supposed to go to the headquarters.\\\"\"},{\"lineNumber\":48989,\"originalJapaneseLine\":\"「はい。魔軍への反攻作戦を\",\"translatedEnglishLine\":\"\\\"Yes. They should be planning a counterattack operation against the Demon Army.\\\"\"},{\"lineNumber\":48990,\"originalJapaneseLine\":\"　計画しているはずです」\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":48991,\"originalJapaneseLine\":\"「よーし。さっさと行って魔物どもを叩き出すぞ」\",\"translatedEnglishLine\":\"\\\"Alright. Let's hurry and drive out those monsters.\\\"\"},{\"lineNumber\":48992,\"originalJapaneseLine\":\"「よーす。来たぞー」\",\"translatedEnglishLine\":\"\\\"Yo! We've arrived!\\\"\"},{\"lineNumber\":48993,\"originalJapaneseLine\":\"「ランス！」\",\"translatedEnglishLine\":\"\\\"Lance!\\\"\"},{\"lineNumber\":48994,\"originalJapaneseLine\":\"「ひっ、緑の総統！\",\"translatedEnglishLine\":\"\\\"Eek, the Green Chancellor!\"},{\"lineNumber\":48995,\"originalJapaneseLine\":\"　こっこここ、こんにちわ……」\",\"translatedEnglishLine\":\"H-hello...\\\"\"},{\"lineNumber\":48996,\"originalJapaneseLine\":\"「いいかげん、しゃんとしなさい。\",\"translatedEnglishLine\":\"\\\"Pull yourself together already.\"},{\"lineNumber\":48997,\"originalJapaneseLine\":\"　……お疲れ様です、ランス総統」\",\"translatedEnglishLine\":\"...Good work, Chancellor Lance.\\\"\"},{\"lineNumber\":48998,\"originalJapaneseLine\":\"「来たか、小僧」\",\"translatedEnglishLine\":\"\\\"You came, kid.\\\"\"},{\"lineNumber\":48999,\"originalJapaneseLine\":\"「よ、総統閣下」\",\"translatedEnglishLine\":\"\\\"Y-Your Excellency Chancellor.\\\"\"},{\"lineNumber\":49000,\"originalJapaneseLine\":\"「お疲れ様です」\",\"translatedEnglishLine\":\"\\\"Good work.\\\"\"},{\"lineNumber\":49001,\"originalJapaneseLine\":\"「ちっ、ウスピラはいいが、\",\"translatedEnglishLine\":\"\\\"Tch, the lowly ones are fine, but\"},{\"lineNumber\":49002,\"originalJapaneseLine\":\"　オマケどもまでいるじゃないか」\",\"translatedEnglishLine\":\" you're even bringing these extras along.\\\"\"},{\"lineNumber\":49003,\"originalJapaneseLine\":\"「魔人の軍がいなくなったおかげで、\",\"translatedEnglishLine\":\"\\\"Thanks to the absence of the demon army,\"},{\"lineNumber\":49004,\"originalJapaneseLine\":\"　正規軍にもちょいっと余裕ができてな。\",\"translatedEnglishLine\":\" the regular army is a little more at ease.\"},{\"lineNumber\":49005,\"originalJapaneseLine\":\"　こうして軍議の場が持てるってわけだ」\",\"translatedEnglishLine\":\" That's why we can hold this military meeting.\\\"\"},{\"lineNumber\":49006,\"originalJapaneseLine\":\"「ありゃ……なんか、ずいぶん人が少ないな。\",\"translatedEnglishLine\":\"\\\"Huh... there are surprisingly few people here.\"},{\"lineNumber\":49007,\"originalJapaneseLine\":\"　ケバ子もいないのか」\",\"translatedEnglishLine\":\" Kebako isn't here either?\\\"\"},{\"lineNumber\":49008,\"originalJapaneseLine\":\"「千鶴子も、今は前線に出てるの。\",\"translatedEnglishLine\":\"\\\"Chizuko is also out on the front lines now.\"},{\"lineNumber\":49009,\"originalJapaneseLine\":\"　とにかく、戦況が悪くて……」\",\"translatedEnglishLine\":\" The situation is bad, anyway...\\\"\"},{\"lineNumber\":49010,\"originalJapaneseLine\":\"「ふん。それならそれで、一発逆転のし甲斐がある」\",\"translatedEnglishLine\":\"\\\"Hmph. If that's the case, then there's merit in a dramatic comeback.\\\"\"},{\"lineNumber\":49011,\"originalJapaneseLine\":\"「おお、来たかランス殿！\",\"translatedEnglishLine\":\"\\\"Oh, you came, Lord Lance!\"},{\"lineNumber\":49012,\"originalJapaneseLine\":\"　壮健なようでなによりだ！」\",\"translatedEnglishLine\":\" Glad to see you're in good health!\\\"\"},{\"lineNumber\":49013,\"originalJapaneseLine\":\"「くっ、お前もいたか……暑苦しい」\",\"translatedEnglishLine\":\"\\\"Ugh, you're here too... so oppressive.\\\"\"},{\"lineNumber\":49014,\"originalJapaneseLine\":\"「はははは、変わらんな」\",\"translatedEnglishLine\":\"\\\"Hahaha, you haven’t changed.\\\"\"},{\"lineNumber\":49015,\"originalJapaneseLine\":\"「指揮は陛下が？」\",\"translatedEnglishLine\":\"\\\"Is His Majesty commanding?\\\"\"},{\"lineNumber\":49016,\"originalJapaneseLine\":\"「いいや、おおよそは千鶴子とマジックに任せる。\",\"translatedEnglishLine\":\"\\\"No, for the most part, command is left to Chizuko and Magic.\"},{\"lineNumber\":49017,\"originalJapaneseLine\":\"　年寄りが若者の頭を押さえつけることはない」\",\"translatedEnglishLine\":\" The old don't overpower the young.\\\"\"},{\"lineNumber\":49018,\"originalJapaneseLine\":\"「その代わりといってはなんだが、\",\"translatedEnglishLine\":\"\\\"In exchange, so to speak,\"},{\"lineNumber\":49019,\"originalJapaneseLine\":\"　私も大いに戦うぞ、ランス殿！\",\"translatedEnglishLine\":\" I will also fight greatly, Lord Lance!\"},{\"lineNumber\":49020,\"originalJapaneseLine\":\"　共に魔軍の脅威から、人類を守るのだ！」\",\"translatedEnglishLine\":\" Together, we shall protect humanity from the Demon Army's threat!\\\"\"},{\"lineNumber\":49021,\"originalJapaneseLine\":\"「ええい、肩組んでくるな鬱陶しい！」\",\"translatedEnglishLine\":\"\\\"Ugh, stop putting your arm around me, it's annoying!\\\"\"},{\"lineNumber\":49022,\"originalJapaneseLine\":\"「さて。じゃ、状況の説明をするわね」\",\"translatedEnglishLine\":\"\\\"Now then. I'll explain the situation.\\\"\"},{\"lineNumber\":49023,\"originalJapaneseLine\":\"「西部戦線は、ここラグナロックアーク。\",\"translatedEnglishLine\":\"\\\"The western front is here at Ragnarock Arc.\"},{\"lineNumber\":49024,\"originalJapaneseLine\":\"　東部戦線はテープを要所として、魔軍の侵攻を防いでるわ」\",\"translatedEnglishLine\":\" The eastern front uses Tape as a key point to defend against the Demon Army's invasion.\\\"\"},{\"lineNumber\":49025,\"originalJapaneseLine\":\"「……なんか、全然減ってなくないか？\",\"translatedEnglishLine\":\"\\\"...Doesn't it seem like they haven't decreased at all?\"},{\"lineNumber\":49026,\"originalJapaneseLine\":\"　まだ魔軍に支配されまくりだぞ」\",\"translatedEnglishLine\":\" They're still dominated by the Demon Army.\\\"\"},{\"lineNumber\":49027,\"originalJapaneseLine\":\"「とにかく魔軍は数が多いのよ……」\",\"translatedEnglishLine\":\"\\\"Anyway, the Demon Army is numerous...\\\"\"},{\"lineNumber\":49028,\"originalJapaneseLine\":\"「魔人達は大軍を率いる性格じゃなかったから、\",\"translatedEnglishLine\":\"\\\"The demons themselves didn’t have the nature to lead large armies,\"},{\"lineNumber\":49029,\"originalJapaneseLine\":\"　撤退した直属部隊も、全体からすると少ないし」\",\"translatedEnglishLine\":\" so even the immediate retreating units are few compared to the whole force.\\\"\"},{\"lineNumber\":49030,\"originalJapaneseLine\":\"「今は、支えていますが……\",\"translatedEnglishLine\":\"\\\"For now, they are holding the line, but...\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":48971,"originalJapaneseLine":"「ん……よかった」","translatedEnglishLine":"\"Mm... that's good.\""},{"lineNumber":48972,"originalJapaneseLine":"「カロリア、どうかした？」","translatedEnglishLine":"\"Karoria, what's wrong?\""},{"lineNumber":48973,"originalJapaneseLine":"「街の人たち、","translatedEnglishLine":"\"The people in town,"},{"lineNumber":48974,"originalJapaneseLine":"　前よりは辛そうじゃなくなってるから」","translatedEnglishLine":" seem to be suffering less than before.\""},{"lineNumber":48975,"originalJapaneseLine":"「あ……そういえばそうかも」","translatedEnglishLine":"\"Ah... come to think of it, that might be true.\""},{"lineNumber":48976,"originalJapaneseLine":"「そうですね……戦時下ですし、","translatedEnglishLine":"\"Yes... we are in wartime, after all,"},{"lineNumber":48977,"originalJapaneseLine":"　既に多くのものを失っていますが……","translatedEnglishLine":" and we have already lost a lot...\""},{"lineNumber":48978,"originalJapaneseLine":"　魔人の脅威がなくなったのは大きいです」","translatedEnglishLine":" but the disappearance of the demon threat is significant.\""},{"lineNumber":48979,"originalJapaneseLine":"「おうおばちゃん、そのポポラパイうまそうだな。","translatedEnglishLine":"\"Hey, ma'am, that Popora pie looks delicious."},{"lineNumber":48980,"originalJapaneseLine":"　でかいのまるごとくれ」","translatedEnglishLine":" Give me the big one whole.\""},{"lineNumber":48981,"originalJapaneseLine":"「そのうち一人は、","translatedEnglishLine":"\"One of them,"},{"lineNumber":48982,"originalJapaneseLine":"　実は未だに人類に脅威を与え続けてるけどね……","translatedEnglishLine":" in fact, still continues to threaten humanity...\""},{"lineNumber":48983,"originalJapaneseLine":"　食費的な意味で……」","translatedEnglishLine":" In terms of food expenses...\""},{"lineNumber":48984,"originalJapaneseLine":"「がつ、ふむ、まぐっ……ん、呼んだか？」","translatedEnglishLine":"\"Gulp, hmm, mug... huh, did you call me?\""},{"lineNumber":48985,"originalJapaneseLine":"「呼んどらんわ！　食いながら喋るな！」","translatedEnglishLine":"\"I didn't call! Stop talking while eating!\""},{"lineNumber":48986,"originalJapaneseLine":"「さっき、入ったお店の材料が","translatedEnglishLine":"\"We ate enough to finish the ingredients at the shop we just went into...\""},{"lineNumber":48987,"originalJapaneseLine":"　なくなるくらい食べたのに……","translatedEnglishLine":""},{"lineNumber":48988,"originalJapaneseLine":"「ふん。とにかく司令部に行くんだったな」","translatedEnglishLine":"\"Hmph. Anyway, we were supposed to go to the headquarters.\""},{"lineNumber":48989,"originalJapaneseLine":"「はい。魔軍への反攻作戦を","translatedEnglishLine":"\"Yes. They should be planning a counterattack operation against the Demon Army.\""},{"lineNumber":48990,"originalJapaneseLine":"　計画しているはずです」","translatedEnglishLine":""},{"lineNumber":48991,"originalJapaneseLine":"「よーし。さっさと行って魔物どもを叩き出すぞ」","translatedEnglishLine":"\"Alright. Let's hurry and drive out those monsters.\""},{"lineNumber":48992,"originalJapaneseLine":"「よーす。来たぞー」","translatedEnglishLine":"\"Yo! We've arrived!\""},{"lineNumber":48993,"originalJapaneseLine":"「ランス！」","translatedEnglishLine":"\"Lance!\""},{"lineNumber":48994,"originalJapaneseLine":"「ひっ、緑の総統！","translatedEnglishLine":"\"Eek, the Green Chancellor!"},{"lineNumber":48995,"originalJapaneseLine":"　こっこここ、こんにちわ……」","translatedEnglishLine":"H-hello...\""},{"lineNumber":48996,"originalJapaneseLine":"「いいかげん、しゃんとしなさい。","translatedEnglishLine":"\"Pull yourself together already."},{"lineNumber":48997,"originalJapaneseLine":"　……お疲れ様です、ランス総統」","translatedEnglishLine":"...Good work, Chancellor Lance.\""},{"lineNumber":48998,"originalJapaneseLine":"「来たか、小僧」","translatedEnglishLine":"\"You came, kid.\""},{"lineNumber":48999,"originalJapaneseLine":"「よ、総統閣下」","translatedEnglishLine":"\"Y-Your Excellency Chancellor.\""},{"lineNumber":49000,"originalJapaneseLine":"「お疲れ様です」","translatedEnglishLine":"\"Good work.\""},{"lineNumber":49001,"originalJapaneseLine":"「ちっ、ウスピラはいいが、","translatedEnglishLine":"\"Tch, the lowly ones are fine, but"},{"lineNumber":49002,"originalJapaneseLine":"　オマケどもまでいるじゃないか」","translatedEnglishLine":" you're even bringing these extras along.\""},{"lineNumber":49003,"originalJapaneseLine":"「魔人の軍がいなくなったおかげで、","translatedEnglishLine":"\"Thanks to the absence of the demon army,"},{"lineNumber":49004,"originalJapaneseLine":"　正規軍にもちょいっと余裕ができてな。","translatedEnglishLine":" the regular army is a little more at ease."},{"lineNumber":49005,"originalJapaneseLine":"　こうして軍議の場が持てるってわけだ」","translatedEnglishLine":" That's why we can hold this military meeting.\""},{"lineNumber":49006,"originalJapaneseLine":"「ありゃ……なんか、ずいぶん人が少ないな。","translatedEnglishLine":"\"Huh... there are surprisingly few people here."},{"lineNumber":49007,"originalJapaneseLine":"　ケバ子もいないのか」","translatedEnglishLine":" Kebako isn't here either?\""},{"lineNumber":49008,"originalJapaneseLine":"「千鶴子も、今は前線に出てるの。","translatedEnglishLine":"\"Chizuko is also out on the front lines now."},{"lineNumber":49009,"originalJapaneseLine":"　とにかく、戦況が悪くて……」","translatedEnglishLine":" The situation is bad, anyway...\""},{"lineNumber":49010,"originalJapaneseLine":"「ふん。それならそれで、一発逆転のし甲斐がある」","translatedEnglishLine":"\"Hmph. If that's the case, then there's merit in a dramatic comeback.\""},{"lineNumber":49011,"originalJapaneseLine":"「おお、来たかランス殿！","translatedEnglishLine":"\"Oh, you came, Lord Lance!"},{"lineNumber":49012,"originalJapaneseLine":"　壮健なようでなによりだ！」","translatedEnglishLine":" Glad to see you're in good health!\""},{"lineNumber":49013,"originalJapaneseLine":"「くっ、お前もいたか……暑苦しい」","translatedEnglishLine":"\"Ugh, you're here too... so oppressive.\""},{"lineNumber":49014,"originalJapaneseLine":"「はははは、変わらんな」","translatedEnglishLine":"\"Hahaha, you haven’t changed.\""},{"lineNumber":49015,"originalJapaneseLine":"「指揮は陛下が？」","translatedEnglishLine":"\"Is His Majesty commanding?\""},{"lineNumber":49016,"originalJapaneseLine":"「いいや、おおよそは千鶴子とマジックに任せる。","translatedEnglishLine":"\"No, for the most part, command is left to Chizuko and Magic."},{"lineNumber":49017,"originalJapaneseLine":"　年寄りが若者の頭を押さえつけることはない」","translatedEnglishLine":" The old don't overpower the young.\""},{"lineNumber":49018,"originalJapaneseLine":"「その代わりといってはなんだが、","translatedEnglishLine":"\"In exchange, so to speak,"},{"lineNumber":49019,"originalJapaneseLine":"　私も大いに戦うぞ、ランス殿！","translatedEnglishLine":" I will also fight greatly, Lord Lance!"},{"lineNumber":49020,"originalJapaneseLine":"　共に魔軍の脅威から、人類を守るのだ！」","translatedEnglishLine":" Together, we shall protect humanity from the Demon Army's threat!\""},{"lineNumber":49021,"originalJapaneseLine":"「ええい、肩組んでくるな鬱陶しい！」","translatedEnglishLine":"\"Ugh, stop putting your arm around me, it's annoying!\""},{"lineNumber":49022,"originalJapaneseLine":"「さて。じゃ、状況の説明をするわね」","translatedEnglishLine":"\"Now then. I'll explain the situation.\""},{"lineNumber":49023,"originalJapaneseLine":"「西部戦線は、ここラグナロックアーク。","translatedEnglishLine":"\"The western front is here at Ragnarock Arc."},{"lineNumber":49024,"originalJapaneseLine":"　東部戦線はテープを要所として、魔軍の侵攻を防いでるわ」","translatedEnglishLine":" The eastern front uses Tape as a key point to defend against the Demon Army's invasion.\""},{"lineNumber":49025,"originalJapaneseLine":"「……なんか、全然減ってなくないか？","translatedEnglishLine":"\"...Doesn't it seem like they haven't decreased at all?"},{"lineNumber":49026,"originalJapaneseLine":"　まだ魔軍に支配されまくりだぞ」","translatedEnglishLine":" They're still dominated by the Demon Army.\""},{"lineNumber":49027,"originalJapaneseLine":"「とにかく魔軍は数が多いのよ……」","translatedEnglishLine":"\"Anyway, the Demon Army is numerous...\""},{"lineNumber":49028,"originalJapaneseLine":"「魔人達は大軍を率いる性格じゃなかったから、","translatedEnglishLine":"\"The demons themselves didn’t have the nature to lead large armies,"},{"lineNumber":49029,"originalJapaneseLine":"　撤退した直属部隊も、全体からすると少ないし」","translatedEnglishLine":" so even the immediate retreating units are few compared to the whole force.\""},{"lineNumber":49030,"originalJapaneseLine":"「今は、支えていますが……","translatedEnglishLine":"\"For now, they are holding the line, but...\""}]}}
+{
+    "id": "resp_083fe795c880db230068efb773aabc8193846e50be2f8f207f",
+    "object": "response",
+    "created_at": 1760540531,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_083fe795c880db230068efb7745ccc8193aab9eccf02c44428",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":48971,\"originalJapaneseLine\":\"「ん……よかった」\",\"translatedEnglishLine\":\"\\\"Mm... that's good.\\\"\"},{\"lineNumber\":48972,\"originalJapaneseLine\":\"「カロリア、どうかした？」\",\"translatedEnglishLine\":\"\\\"Karoria, what's wrong?\\\"\"},{\"lineNumber\":48973,\"originalJapaneseLine\":\"「街の人たち、\",\"translatedEnglishLine\":\"\\\"The people in town,\"},{\"lineNumber\":48974,\"originalJapaneseLine\":\"　前よりは辛そうじゃなくなってるから」\",\"translatedEnglishLine\":\" seem to be suffering less than before.\\\"\"},{\"lineNumber\":48975,\"originalJapaneseLine\":\"「あ……そういえばそうかも」\",\"translatedEnglishLine\":\"\\\"Ah... come to think of it, that might be true.\\\"\"},{\"lineNumber\":48976,\"originalJapaneseLine\":\"「そうですね……戦時下ですし、\",\"translatedEnglishLine\":\"\\\"Yes... we are in wartime, after all,\"},{\"lineNumber\":48977,\"originalJapaneseLine\":\"　既に多くのものを失っていますが……\",\"translatedEnglishLine\":\" and we have already lost a lot...\\\"\"},{\"lineNumber\":48978,\"originalJapaneseLine\":\"　魔人の脅威がなくなったのは大きいです」\",\"translatedEnglishLine\":\" but the disappearance of the demon threat is significant.\\\"\"},{\"lineNumber\":48979,\"originalJapaneseLine\":\"「おうおばちゃん、そのポポラパイうまそうだな。\",\"translatedEnglishLine\":\"\\\"Hey, ma'am, that Popora pie looks delicious.\"},{\"lineNumber\":48980,\"originalJapaneseLine\":\"　でかいのまるごとくれ」\",\"translatedEnglishLine\":\" Give me the big one whole.\\\"\"},{\"lineNumber\":48981,\"originalJapaneseLine\":\"「そのうち一人は、\",\"translatedEnglishLine\":\"\\\"One of them,\"},{\"lineNumber\":48982,\"originalJapaneseLine\":\"　実は未だに人類に脅威を与え続けてるけどね……\",\"translatedEnglishLine\":\" in fact, still continues to threaten humanity...\\\"\"},{\"lineNumber\":48983,\"originalJapaneseLine\":\"　食費的な意味で……」\",\"translatedEnglishLine\":\" In terms of food expenses...\\\"\"},{\"lineNumber\":48984,\"originalJapaneseLine\":\"「がつ、ふむ、まぐっ……ん、呼んだか？」\",\"translatedEnglishLine\":\"\\\"Gulp, hmm, mug... huh, did you call me?\\\"\"},{\"lineNumber\":48985,\"originalJapaneseLine\":\"「呼んどらんわ！　食いながら喋るな！」\",\"translatedEnglishLine\":\"\\\"I didn't call! Stop talking while eating!\\\"\"},{\"lineNumber\":48986,\"originalJapaneseLine\":\"「さっき、入ったお店の材料が\",\"translatedEnglishLine\":\"\\\"We ate enough to finish the ingredients at the shop we just went into...\\\"\"},{\"lineNumber\":48987,\"originalJapaneseLine\":\"　なくなるくらい食べたのに……\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":48988,\"originalJapaneseLine\":\"「ふん。とにかく司令部に行くんだったな」\",\"translatedEnglishLine\":\"\\\"Hmph. Anyway, we were supposed to go to the headquarters.\\\"\"},{\"lineNumber\":48989,\"originalJapaneseLine\":\"「はい。魔軍への反攻作戦を\",\"translatedEnglishLine\":\"\\\"Yes. They should be planning a counterattack operation against the Demon Army.\\\"\"},{\"lineNumber\":48990,\"originalJapaneseLine\":\"　計画しているはずです」\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":48991,\"originalJapaneseLine\":\"「よーし。さっさと行って魔物どもを叩き出すぞ」\",\"translatedEnglishLine\":\"\\\"Alright. Let's hurry and drive out those monsters.\\\"\"},{\"lineNumber\":48992,\"originalJapaneseLine\":\"「よーす。来たぞー」\",\"translatedEnglishLine\":\"\\\"Yo! We've arrived!\\\"\"},{\"lineNumber\":48993,\"originalJapaneseLine\":\"「ランス！」\",\"translatedEnglishLine\":\"\\\"Lance!\\\"\"},{\"lineNumber\":48994,\"originalJapaneseLine\":\"「ひっ、緑の総統！\",\"translatedEnglishLine\":\"\\\"Eek, the Green Chancellor!\"},{\"lineNumber\":48995,\"originalJapaneseLine\":\"　こっこここ、こんにちわ……」\",\"translatedEnglishLine\":\"H-hello...\\\"\"},{\"lineNumber\":48996,\"originalJapaneseLine\":\"「いいかげん、しゃんとしなさい。\",\"translatedEnglishLine\":\"\\\"Pull yourself together already.\"},{\"lineNumber\":48997,\"originalJapaneseLine\":\"　……お疲れ様です、ランス総統」\",\"translatedEnglishLine\":\"...Good work, Chancellor Lance.\\\"\"},{\"lineNumber\":48998,\"originalJapaneseLine\":\"「来たか、小僧」\",\"translatedEnglishLine\":\"\\\"You came, kid.\\\"\"},{\"lineNumber\":48999,\"originalJapaneseLine\":\"「よ、総統閣下」\",\"translatedEnglishLine\":\"\\\"Y-Your Excellency Chancellor.\\\"\"},{\"lineNumber\":49000,\"originalJapaneseLine\":\"「お疲れ様です」\",\"translatedEnglishLine\":\"\\\"Good work.\\\"\"},{\"lineNumber\":49001,\"originalJapaneseLine\":\"「ちっ、ウスピラはいいが、\",\"translatedEnglishLine\":\"\\\"Tch, the lowly ones are fine, but\"},{\"lineNumber\":49002,\"originalJapaneseLine\":\"　オマケどもまでいるじゃないか」\",\"translatedEnglishLine\":\" you're even bringing these extras along.\\\"\"},{\"lineNumber\":49003,\"originalJapaneseLine\":\"「魔人の軍がいなくなったおかげで、\",\"translatedEnglishLine\":\"\\\"Thanks to the absence of the demon army,\"},{\"lineNumber\":49004,\"originalJapaneseLine\":\"　正規軍にもちょいっと余裕ができてな。\",\"translatedEnglishLine\":\" the regular army is a little more at ease.\"},{\"lineNumber\":49005,\"originalJapaneseLine\":\"　こうして軍議の場が持てるってわけだ」\",\"translatedEnglishLine\":\" That's why we can hold this military meeting.\\\"\"},{\"lineNumber\":49006,\"originalJapaneseLine\":\"「ありゃ……なんか、ずいぶん人が少ないな。\",\"translatedEnglishLine\":\"\\\"Huh... there are surprisingly few people here.\"},{\"lineNumber\":49007,\"originalJapaneseLine\":\"　ケバ子もいないのか」\",\"translatedEnglishLine\":\" Kebako isn't here either?\\\"\"},{\"lineNumber\":49008,\"originalJapaneseLine\":\"「千鶴子も、今は前線に出てるの。\",\"translatedEnglishLine\":\"\\\"Chizuko is also out on the front lines now.\"},{\"lineNumber\":49009,\"originalJapaneseLine\":\"　とにかく、戦況が悪くて……」\",\"translatedEnglishLine\":\" The situation is bad, anyway...\\\"\"},{\"lineNumber\":49010,\"originalJapaneseLine\":\"「ふん。それならそれで、一発逆転のし甲斐がある」\",\"translatedEnglishLine\":\"\\\"Hmph. If that's the case, then there's merit in a dramatic comeback.\\\"\"},{\"lineNumber\":49011,\"originalJapaneseLine\":\"「おお、来たかランス殿！\",\"translatedEnglishLine\":\"\\\"Oh, you came, Lord Lance!\"},{\"lineNumber\":49012,\"originalJapaneseLine\":\"　壮健なようでなによりだ！」\",\"translatedEnglishLine\":\" Glad to see you're in good health!\\\"\"},{\"lineNumber\":49013,\"originalJapaneseLine\":\"「くっ、お前もいたか……暑苦しい」\",\"translatedEnglishLine\":\"\\\"Ugh, you're here too... so oppressive.\\\"\"},{\"lineNumber\":49014,\"originalJapaneseLine\":\"「はははは、変わらんな」\",\"translatedEnglishLine\":\"\\\"Hahaha, you haven’t changed.\\\"\"},{\"lineNumber\":49015,\"originalJapaneseLine\":\"「指揮は陛下が？」\",\"translatedEnglishLine\":\"\\\"Is His Majesty commanding?\\\"\"},{\"lineNumber\":49016,\"originalJapaneseLine\":\"「いいや、おおよそは千鶴子とマジックに任せる。\",\"translatedEnglishLine\":\"\\\"No, for the most part, command is left to Chizuko and Magic.\"},{\"lineNumber\":49017,\"originalJapaneseLine\":\"　年寄りが若者の頭を押さえつけることはない」\",\"translatedEnglishLine\":\" The old don't overpower the young.\\\"\"},{\"lineNumber\":49018,\"originalJapaneseLine\":\"「その代わりといってはなんだが、\",\"translatedEnglishLine\":\"\\\"In exchange, so to speak,\"},{\"lineNumber\":49019,\"originalJapaneseLine\":\"　私も大いに戦うぞ、ランス殿！\",\"translatedEnglishLine\":\" I will also fight greatly, Lord Lance!\"},{\"lineNumber\":49020,\"originalJapaneseLine\":\"　共に魔軍の脅威から、人類を守るのだ！」\",\"translatedEnglishLine\":\" Together, we shall protect humanity from the Demon Army's threat!\\\"\"},{\"lineNumber\":49021,\"originalJapaneseLine\":\"「ええい、肩組んでくるな鬱陶しい！」\",\"translatedEnglishLine\":\"\\\"Ugh, stop putting your arm around me, it's annoying!\\\"\"},{\"lineNumber\":49022,\"originalJapaneseLine\":\"「さて。じゃ、状況の説明をするわね」\",\"translatedEnglishLine\":\"\\\"Now then. I'll explain the situation.\\\"\"},{\"lineNumber\":49023,\"originalJapaneseLine\":\"「西部戦線は、ここラグナロックアーク。\",\"translatedEnglishLine\":\"\\\"The western front is here at Ragnarock Arc.\"},{\"lineNumber\":49024,\"originalJapaneseLine\":\"　東部戦線はテープを要所として、魔軍の侵攻を防いでるわ」\",\"translatedEnglishLine\":\" The eastern front uses Tape as a key point to defend against the Demon Army's invasion.\\\"\"},{\"lineNumber\":49025,\"originalJapaneseLine\":\"「……なんか、全然減ってなくないか？\",\"translatedEnglishLine\":\"\\\"...Doesn't it seem like they haven't decreased at all?\"},{\"lineNumber\":49026,\"originalJapaneseLine\":\"　まだ魔軍に支配されまくりだぞ」\",\"translatedEnglishLine\":\" They're still dominated by the Demon Army.\\\"\"},{\"lineNumber\":49027,\"originalJapaneseLine\":\"「とにかく魔軍は数が多いのよ……」\",\"translatedEnglishLine\":\"\\\"Anyway, the Demon Army is numerous...\\\"\"},{\"lineNumber\":49028,\"originalJapaneseLine\":\"「魔人達は大軍を率いる性格じゃなかったから、\",\"translatedEnglishLine\":\"\\\"The demons themselves didn’t have the nature to lead large armies,\"},{\"lineNumber\":49029,\"originalJapaneseLine\":\"　撤退した直属部隊も、全体からすると少ないし」\",\"translatedEnglishLine\":\" so even the immediate retreating units are few compared to the whole force.\\\"\"},{\"lineNumber\":49030,\"originalJapaneseLine\":\"「今は、支えていますが……\",\"translatedEnglishLine\":\"\\\"For now, they are holding the line, but...\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 48971,
+                                "originalJapaneseLine": "「ん……よかった」",
+                                "translatedEnglishLine": "\"Mm... that's good.\""
+                            },
+                            {
+                                "lineNumber": 48972,
+                                "originalJapaneseLine": "「カロリア、どうかした？」",
+                                "translatedEnglishLine": "\"Karoria, what's wrong?\""
+                            },
+                            {
+                                "lineNumber": 48973,
+                                "originalJapaneseLine": "「街の人たち、",
+                                "translatedEnglishLine": "\"The people in town,"
+                            },
+                            {
+                                "lineNumber": 48974,
+                                "originalJapaneseLine": "　前よりは辛そうじゃなくなってるから」",
+                                "translatedEnglishLine": " seem to be suffering less than before.\""
+                            },
+                            {
+                                "lineNumber": 48975,
+                                "originalJapaneseLine": "「あ……そういえばそうかも」",
+                                "translatedEnglishLine": "\"Ah... come to think of it, that might be true.\""
+                            },
+                            {
+                                "lineNumber": 48976,
+                                "originalJapaneseLine": "「そうですね……戦時下ですし、",
+                                "translatedEnglishLine": "\"Yes... we are in wartime, after all,"
+                            },
+                            {
+                                "lineNumber": 48977,
+                                "originalJapaneseLine": "　既に多くのものを失っていますが……",
+                                "translatedEnglishLine": " and we have already lost a lot...\""
+                            },
+                            {
+                                "lineNumber": 48978,
+                                "originalJapaneseLine": "　魔人の脅威がなくなったのは大きいです」",
+                                "translatedEnglishLine": " but the disappearance of the demon threat is significant.\""
+                            },
+                            {
+                                "lineNumber": 48979,
+                                "originalJapaneseLine": "「おうおばちゃん、そのポポラパイうまそうだな。",
+                                "translatedEnglishLine": "\"Hey, ma'am, that Popora pie looks delicious."
+                            },
+                            {
+                                "lineNumber": 48980,
+                                "originalJapaneseLine": "　でかいのまるごとくれ」",
+                                "translatedEnglishLine": " Give me the big one whole.\""
+                            },
+                            {
+                                "lineNumber": 48981,
+                                "originalJapaneseLine": "「そのうち一人は、",
+                                "translatedEnglishLine": "\"One of them,"
+                            },
+                            {
+                                "lineNumber": 48982,
+                                "originalJapaneseLine": "　実は未だに人類に脅威を与え続けてるけどね……",
+                                "translatedEnglishLine": " in fact, still continues to threaten humanity...\""
+                            },
+                            {
+                                "lineNumber": 48983,
+                                "originalJapaneseLine": "　食費的な意味で……」",
+                                "translatedEnglishLine": " In terms of food expenses...\""
+                            },
+                            {
+                                "lineNumber": 48984,
+                                "originalJapaneseLine": "「がつ、ふむ、まぐっ……ん、呼んだか？」",
+                                "translatedEnglishLine": "\"Gulp, hmm, mug... huh, did you call me?\""
+                            },
+                            {
+                                "lineNumber": 48985,
+                                "originalJapaneseLine": "「呼んどらんわ！　食いながら喋るな！」",
+                                "translatedEnglishLine": "\"I didn't call! Stop talking while eating!\""
+                            },
+                            {
+                                "lineNumber": 48986,
+                                "originalJapaneseLine": "「さっき、入ったお店の材料が",
+                                "translatedEnglishLine": "\"We ate enough to finish the ingredients at the shop we just went into...\""
+                            },
+                            {
+                                "lineNumber": 48987,
+                                "originalJapaneseLine": "　なくなるくらい食べたのに……",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": 48988,
+                                "originalJapaneseLine": "「ふん。とにかく司令部に行くんだったな」",
+                                "translatedEnglishLine": "\"Hmph. Anyway, we were supposed to go to the headquarters.\""
+                            },
+                            {
+                                "lineNumber": 48989,
+                                "originalJapaneseLine": "「はい。魔軍への反攻作戦を",
+                                "translatedEnglishLine": "\"Yes. They should be planning a counterattack operation against the Demon Army.\""
+                            },
+                            {
+                                "lineNumber": 48990,
+                                "originalJapaneseLine": "　計画しているはずです」",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": 48991,
+                                "originalJapaneseLine": "「よーし。さっさと行って魔物どもを叩き出すぞ」",
+                                "translatedEnglishLine": "\"Alright. Let's hurry and drive out those monsters.\""
+                            },
+                            {
+                                "lineNumber": 48992,
+                                "originalJapaneseLine": "「よーす。来たぞー」",
+                                "translatedEnglishLine": "\"Yo! We've arrived!\""
+                            },
+                            {
+                                "lineNumber": 48993,
+                                "originalJapaneseLine": "「ランス！」",
+                                "translatedEnglishLine": "\"Lance!\""
+                            },
+                            {
+                                "lineNumber": 48994,
+                                "originalJapaneseLine": "「ひっ、緑の総統！",
+                                "translatedEnglishLine": "\"Eek, the Green Chancellor!"
+                            },
+                            {
+                                "lineNumber": 48995,
+                                "originalJapaneseLine": "　こっこここ、こんにちわ……」",
+                                "translatedEnglishLine": "H-hello...\""
+                            },
+                            {
+                                "lineNumber": 48996,
+                                "originalJapaneseLine": "「いいかげん、しゃんとしなさい。",
+                                "translatedEnglishLine": "\"Pull yourself together already."
+                            },
+                            {
+                                "lineNumber": 48997,
+                                "originalJapaneseLine": "　……お疲れ様です、ランス総統」",
+                                "translatedEnglishLine": "...Good work, Chancellor Lance.\""
+                            },
+                            {
+                                "lineNumber": 48998,
+                                "originalJapaneseLine": "「来たか、小僧」",
+                                "translatedEnglishLine": "\"You came, kid.\""
+                            },
+                            {
+                                "lineNumber": 48999,
+                                "originalJapaneseLine": "「よ、総統閣下」",
+                                "translatedEnglishLine": "\"Y-Your Excellency Chancellor.\""
+                            },
+                            {
+                                "lineNumber": 49000,
+                                "originalJapaneseLine": "「お疲れ様です」",
+                                "translatedEnglishLine": "\"Good work.\""
+                            },
+                            {
+                                "lineNumber": 49001,
+                                "originalJapaneseLine": "「ちっ、ウスピラはいいが、",
+                                "translatedEnglishLine": "\"Tch, the lowly ones are fine, but"
+                            },
+                            {
+                                "lineNumber": 49002,
+                                "originalJapaneseLine": "　オマケどもまでいるじゃないか」",
+                                "translatedEnglishLine": " you're even bringing these extras along.\""
+                            },
+                            {
+                                "lineNumber": 49003,
+                                "originalJapaneseLine": "「魔人の軍がいなくなったおかげで、",
+                                "translatedEnglishLine": "\"Thanks to the absence of the demon army,"
+                            },
+                            {
+                                "lineNumber": 49004,
+                                "originalJapaneseLine": "　正規軍にもちょいっと余裕ができてな。",
+                                "translatedEnglishLine": " the regular army is a little more at ease."
+                            },
+                            {
+                                "lineNumber": 49005,
+                                "originalJapaneseLine": "　こうして軍議の場が持てるってわけだ」",
+                                "translatedEnglishLine": " That's why we can hold this military meeting.\""
+                            },
+                            {
+                                "lineNumber": 49006,
+                                "originalJapaneseLine": "「ありゃ……なんか、ずいぶん人が少ないな。",
+                                "translatedEnglishLine": "\"Huh... there are surprisingly few people here."
+                            },
+                            {
+                                "lineNumber": 49007,
+                                "originalJapaneseLine": "　ケバ子もいないのか」",
+                                "translatedEnglishLine": " Kebako isn't here either?\""
+                            },
+                            {
+                                "lineNumber": 49008,
+                                "originalJapaneseLine": "「千鶴子も、今は前線に出てるの。",
+                                "translatedEnglishLine": "\"Chizuko is also out on the front lines now."
+                            },
+                            {
+                                "lineNumber": 49009,
+                                "originalJapaneseLine": "　とにかく、戦況が悪くて……」",
+                                "translatedEnglishLine": " The situation is bad, anyway...\""
+                            },
+                            {
+                                "lineNumber": 49010,
+                                "originalJapaneseLine": "「ふん。それならそれで、一発逆転のし甲斐がある」",
+                                "translatedEnglishLine": "\"Hmph. If that's the case, then there's merit in a dramatic comeback.\""
+                            },
+                            {
+                                "lineNumber": 49011,
+                                "originalJapaneseLine": "「おお、来たかランス殿！",
+                                "translatedEnglishLine": "\"Oh, you came, Lord Lance!"
+                            },
+                            {
+                                "lineNumber": 49012,
+                                "originalJapaneseLine": "　壮健なようでなによりだ！」",
+                                "translatedEnglishLine": " Glad to see you're in good health!\""
+                            },
+                            {
+                                "lineNumber": 49013,
+                                "originalJapaneseLine": "「くっ、お前もいたか……暑苦しい」",
+                                "translatedEnglishLine": "\"Ugh, you're here too... so oppressive.\""
+                            },
+                            {
+                                "lineNumber": 49014,
+                                "originalJapaneseLine": "「はははは、変わらんな」",
+                                "translatedEnglishLine": "\"Hahaha, you haven’t changed.\""
+                            },
+                            {
+                                "lineNumber": 49015,
+                                "originalJapaneseLine": "「指揮は陛下が？」",
+                                "translatedEnglishLine": "\"Is His Majesty commanding?\""
+                            },
+                            {
+                                "lineNumber": 49016,
+                                "originalJapaneseLine": "「いいや、おおよそは千鶴子とマジックに任せる。",
+                                "translatedEnglishLine": "\"No, for the most part, command is left to Chizuko and Magic."
+                            },
+                            {
+                                "lineNumber": 49017,
+                                "originalJapaneseLine": "　年寄りが若者の頭を押さえつけることはない」",
+                                "translatedEnglishLine": " The old don't overpower the young.\""
+                            },
+                            {
+                                "lineNumber": 49018,
+                                "originalJapaneseLine": "「その代わりといってはなんだが、",
+                                "translatedEnglishLine": "\"In exchange, so to speak,"
+                            },
+                            {
+                                "lineNumber": 49019,
+                                "originalJapaneseLine": "　私も大いに戦うぞ、ランス殿！",
+                                "translatedEnglishLine": " I will also fight greatly, Lord Lance!"
+                            },
+                            {
+                                "lineNumber": 49020,
+                                "originalJapaneseLine": "　共に魔軍の脅威から、人類を守るのだ！」",
+                                "translatedEnglishLine": " Together, we shall protect humanity from the Demon Army's threat!\""
+                            },
+                            {
+                                "lineNumber": 49021,
+                                "originalJapaneseLine": "「ええい、肩組んでくるな鬱陶しい！」",
+                                "translatedEnglishLine": "\"Ugh, stop putting your arm around me, it's annoying!\""
+                            },
+                            {
+                                "lineNumber": 49022,
+                                "originalJapaneseLine": "「さて。じゃ、状況の説明をするわね」",
+                                "translatedEnglishLine": "\"Now then. I'll explain the situation.\""
+                            },
+                            {
+                                "lineNumber": 49023,
+                                "originalJapaneseLine": "「西部戦線は、ここラグナロックアーク。",
+                                "translatedEnglishLine": "\"The western front is here at Ragnarock Arc."
+                            },
+                            {
+                                "lineNumber": 49024,
+                                "originalJapaneseLine": "　東部戦線はテープを要所として、魔軍の侵攻を防いでるわ」",
+                                "translatedEnglishLine": " The eastern front uses Tape as a key point to defend against the Demon Army's invasion.\""
+                            },
+                            {
+                                "lineNumber": 49025,
+                                "originalJapaneseLine": "「……なんか、全然減ってなくないか？",
+                                "translatedEnglishLine": "\"...Doesn't it seem like they haven't decreased at all?"
+                            },
+                            {
+                                "lineNumber": 49026,
+                                "originalJapaneseLine": "　まだ魔軍に支配されまくりだぞ」",
+                                "translatedEnglishLine": " They're still dominated by the Demon Army.\""
+                            },
+                            {
+                                "lineNumber": 49027,
+                                "originalJapaneseLine": "「とにかく魔軍は数が多いのよ……」",
+                                "translatedEnglishLine": "\"Anyway, the Demon Army is numerous...\""
+                            },
+                            {
+                                "lineNumber": 49028,
+                                "originalJapaneseLine": "「魔人達は大軍を率いる性格じゃなかったから、",
+                                "translatedEnglishLine": "\"The demons themselves didn’t have the nature to lead large armies,"
+                            },
+                            {
+                                "lineNumber": 49029,
+                                "originalJapaneseLine": "　撤退した直属部隊も、全体からすると少ないし」",
+                                "translatedEnglishLine": " so even the immediate retreating units are few compared to the whole force.\""
+                            },
+                            {
+                                "lineNumber": 49030,
+                                "originalJapaneseLine": "「今は、支えていますが……",
+                                "translatedEnglishLine": "\"For now, they are holding the line, but...\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1815,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2370,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4185
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":48971,\"originalJapaneseLine\":\"「ん……よかった」\",\"translatedEnglishLine\":\"\\\"Mm... that's good.\\\"\"},{\"lineNumber\":48972,\"originalJapaneseLine\":\"「カロリア、どうかした？」\",\"translatedEnglishLine\":\"\\\"Karoria, what's wrong?\\\"\"},{\"lineNumber\":48973,\"originalJapaneseLine\":\"「街の人たち、\",\"translatedEnglishLine\":\"\\\"The people in town,\"},{\"lineNumber\":48974,\"originalJapaneseLine\":\"　前よりは辛そうじゃなくなってるから」\",\"translatedEnglishLine\":\" seem to be suffering less than before.\\\"\"},{\"lineNumber\":48975,\"originalJapaneseLine\":\"「あ……そういえばそうかも」\",\"translatedEnglishLine\":\"\\\"Ah... come to think of it, that might be true.\\\"\"},{\"lineNumber\":48976,\"originalJapaneseLine\":\"「そうですね……戦時下ですし、\",\"translatedEnglishLine\":\"\\\"Yes... we are in wartime, after all,\"},{\"lineNumber\":48977,\"originalJapaneseLine\":\"　既に多くのものを失っていますが……\",\"translatedEnglishLine\":\" and we have already lost a lot...\\\"\"},{\"lineNumber\":48978,\"originalJapaneseLine\":\"　魔人の脅威がなくなったのは大きいです」\",\"translatedEnglishLine\":\" but the disappearance of the demon threat is significant.\\\"\"},{\"lineNumber\":48979,\"originalJapaneseLine\":\"「おうおばちゃん、そのポポラパイうまそうだな。\",\"translatedEnglishLine\":\"\\\"Hey, ma'am, that Popora pie looks delicious.\"},{\"lineNumber\":48980,\"originalJapaneseLine\":\"　でかいのまるごとくれ」\",\"translatedEnglishLine\":\" Give me the big one whole.\\\"\"},{\"lineNumber\":48981,\"originalJapaneseLine\":\"「そのうち一人は、\",\"translatedEnglishLine\":\"\\\"One of them,\"},{\"lineNumber\":48982,\"originalJapaneseLine\":\"　実は未だに人類に脅威を与え続けてるけどね……\",\"translatedEnglishLine\":\" in fact, still continues to threaten humanity...\\\"\"},{\"lineNumber\":48983,\"originalJapaneseLine\":\"　食費的な意味で……」\",\"translatedEnglishLine\":\" In terms of food expenses...\\\"\"},{\"lineNumber\":48984,\"originalJapaneseLine\":\"「がつ、ふむ、まぐっ……ん、呼んだか？」\",\"translatedEnglishLine\":\"\\\"Gulp, hmm, mug... huh, did you call me?\\\"\"},{\"lineNumber\":48985,\"originalJapaneseLine\":\"「呼んどらんわ！　食いながら喋るな！」\",\"translatedEnglishLine\":\"\\\"I didn't call! Stop talking while eating!\\\"\"},{\"lineNumber\":48986,\"originalJapaneseLine\":\"「さっき、入ったお店の材料が\",\"translatedEnglishLine\":\"\\\"We ate enough to finish the ingredients at the shop we just went into...\\\"\"},{\"lineNumber\":48987,\"originalJapaneseLine\":\"　なくなるくらい食べたのに……\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":48988,\"originalJapaneseLine\":\"「ふん。とにかく司令部に行くんだったな」\",\"translatedEnglishLine\":\"\\\"Hmph. Anyway, we were supposed to go to the headquarters.\\\"\"},{\"lineNumber\":48989,\"originalJapaneseLine\":\"「はい。魔軍への反攻作戦を\",\"translatedEnglishLine\":\"\\\"Yes. They should be planning a counterattack operation against the Demon Army.\\\"\"},{\"lineNumber\":48990,\"originalJapaneseLine\":\"　計画しているはずです」\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":48991,\"originalJapaneseLine\":\"「よーし。さっさと行って魔物どもを叩き出すぞ」\",\"translatedEnglishLine\":\"\\\"Alright. Let's hurry and drive out those monsters.\\\"\"},{\"lineNumber\":48992,\"originalJapaneseLine\":\"「よーす。来たぞー」\",\"translatedEnglishLine\":\"\\\"Yo! We've arrived!\\\"\"},{\"lineNumber\":48993,\"originalJapaneseLine\":\"「ランス！」\",\"translatedEnglishLine\":\"\\\"Lance!\\\"\"},{\"lineNumber\":48994,\"originalJapaneseLine\":\"「ひっ、緑の総統！\",\"translatedEnglishLine\":\"\\\"Eek, the Green Chancellor!\"},{\"lineNumber\":48995,\"originalJapaneseLine\":\"　こっこここ、こんにちわ……」\",\"translatedEnglishLine\":\"H-hello...\\\"\"},{\"lineNumber\":48996,\"originalJapaneseLine\":\"「いいかげん、しゃんとしなさい。\",\"translatedEnglishLine\":\"\\\"Pull yourself together already.\"},{\"lineNumber\":48997,\"originalJapaneseLine\":\"　……お疲れ様です、ランス総統」\",\"translatedEnglishLine\":\"...Good work, Chancellor Lance.\\\"\"},{\"lineNumber\":48998,\"originalJapaneseLine\":\"「来たか、小僧」\",\"translatedEnglishLine\":\"\\\"You came, kid.\\\"\"},{\"lineNumber\":48999,\"originalJapaneseLine\":\"「よ、総統閣下」\",\"translatedEnglishLine\":\"\\\"Y-Your Excellency Chancellor.\\\"\"},{\"lineNumber\":49000,\"originalJapaneseLine\":\"「お疲れ様です」\",\"translatedEnglishLine\":\"\\\"Good work.\\\"\"},{\"lineNumber\":49001,\"originalJapaneseLine\":\"「ちっ、ウスピラはいいが、\",\"translatedEnglishLine\":\"\\\"Tch, the lowly ones are fine, but\"},{\"lineNumber\":49002,\"originalJapaneseLine\":\"　オマケどもまでいるじゃないか」\",\"translatedEnglishLine\":\" you're even bringing these extras along.\\\"\"},{\"lineNumber\":49003,\"originalJapaneseLine\":\"「魔人の軍がいなくなったおかげで、\",\"translatedEnglishLine\":\"\\\"Thanks to the absence of the demon army,\"},{\"lineNumber\":49004,\"originalJapaneseLine\":\"　正規軍にもちょいっと余裕ができてな。\",\"translatedEnglishLine\":\" the regular army is a little more at ease.\"},{\"lineNumber\":49005,\"originalJapaneseLine\":\"　こうして軍議の場が持てるってわけだ」\",\"translatedEnglishLine\":\" That's why we can hold this military meeting.\\\"\"},{\"lineNumber\":49006,\"originalJapaneseLine\":\"「ありゃ……なんか、ずいぶん人が少ないな。\",\"translatedEnglishLine\":\"\\\"Huh... there are surprisingly few people here.\"},{\"lineNumber\":49007,\"originalJapaneseLine\":\"　ケバ子もいないのか」\",\"translatedEnglishLine\":\" Kebako isn't here either?\\\"\"},{\"lineNumber\":49008,\"originalJapaneseLine\":\"「千鶴子も、今は前線に出てるの。\",\"translatedEnglishLine\":\"\\\"Chizuko is also out on the front lines now.\"},{\"lineNumber\":49009,\"originalJapaneseLine\":\"　とにかく、戦況が悪くて……」\",\"translatedEnglishLine\":\" The situation is bad, anyway...\\\"\"},{\"lineNumber\":49010,\"originalJapaneseLine\":\"「ふん。それならそれで、一発逆転のし甲斐がある」\",\"translatedEnglishLine\":\"\\\"Hmph. If that's the case, then there's merit in a dramatic comeback.\\\"\"},{\"lineNumber\":49011,\"originalJapaneseLine\":\"「おお、来たかランス殿！\",\"translatedEnglishLine\":\"\\\"Oh, you came, Lord Lance!\"},{\"lineNumber\":49012,\"originalJapaneseLine\":\"　壮健なようでなによりだ！」\",\"translatedEnglishLine\":\" Glad to see you're in good health!\\\"\"},{\"lineNumber\":49013,\"originalJapaneseLine\":\"「くっ、お前もいたか……暑苦しい」\",\"translatedEnglishLine\":\"\\\"Ugh, you're here too... so oppressive.\\\"\"},{\"lineNumber\":49014,\"originalJapaneseLine\":\"「はははは、変わらんな」\",\"translatedEnglishLine\":\"\\\"Hahaha, you haven’t changed.\\\"\"},{\"lineNumber\":49015,\"originalJapaneseLine\":\"「指揮は陛下が？」\",\"translatedEnglishLine\":\"\\\"Is His Majesty commanding?\\\"\"},{\"lineNumber\":49016,\"originalJapaneseLine\":\"「いいや、おおよそは千鶴子とマジックに任せる。\",\"translatedEnglishLine\":\"\\\"No, for the most part, command is left to Chizuko and Magic.\"},{\"lineNumber\":49017,\"originalJapaneseLine\":\"　年寄りが若者の頭を押さえつけることはない」\",\"translatedEnglishLine\":\" The old don't overpower the young.\\\"\"},{\"lineNumber\":49018,\"originalJapaneseLine\":\"「その代わりといってはなんだが、\",\"translatedEnglishLine\":\"\\\"In exchange, so to speak,\"},{\"lineNumber\":49019,\"originalJapaneseLine\":\"　私も大いに戦うぞ、ランス殿！\",\"translatedEnglishLine\":\" I will also fight greatly, Lord Lance!\"},{\"lineNumber\":49020,\"originalJapaneseLine\":\"　共に魔軍の脅威から、人類を守るのだ！」\",\"translatedEnglishLine\":\" Together, we shall protect humanity from the Demon Army's threat!\\\"\"},{\"lineNumber\":49021,\"originalJapaneseLine\":\"「ええい、肩組んでくるな鬱陶しい！」\",\"translatedEnglishLine\":\"\\\"Ugh, stop putting your arm around me, it's annoying!\\\"\"},{\"lineNumber\":49022,\"originalJapaneseLine\":\"「さて。じゃ、状況の説明をするわね」\",\"translatedEnglishLine\":\"\\\"Now then. I'll explain the situation.\\\"\"},{\"lineNumber\":49023,\"originalJapaneseLine\":\"「西部戦線は、ここラグナロックアーク。\",\"translatedEnglishLine\":\"\\\"The western front is here at Ragnarock Arc.\"},{\"lineNumber\":49024,\"originalJapaneseLine\":\"　東部戦線はテープを要所として、魔軍の侵攻を防いでるわ」\",\"translatedEnglishLine\":\" The eastern front uses Tape as a key point to defend against the Demon Army's invasion.\\\"\"},{\"lineNumber\":49025,\"originalJapaneseLine\":\"「……なんか、全然減ってなくないか？\",\"translatedEnglishLine\":\"\\\"...Doesn't it seem like they haven't decreased at all?\"},{\"lineNumber\":49026,\"originalJapaneseLine\":\"　まだ魔軍に支配されまくりだぞ」\",\"translatedEnglishLine\":\" They're still dominated by the Demon Army.\\\"\"},{\"lineNumber\":49027,\"originalJapaneseLine\":\"「とにかく魔軍は数が多いのよ……」\",\"translatedEnglishLine\":\"\\\"Anyway, the Demon Army is numerous...\\\"\"},{\"lineNumber\":49028,\"originalJapaneseLine\":\"「魔人達は大軍を率いる性格じゃなかったから、\",\"translatedEnglishLine\":\"\\\"The demons themselves didn’t have the nature to lead large armies,\"},{\"lineNumber\":49029,\"originalJapaneseLine\":\"　撤退した直属部隊も、全体からすると少ないし」\",\"translatedEnglishLine\":\" so even the immediate retreating units are few compared to the whole force.\\\"\"},{\"lineNumber\":49030,\"originalJapaneseLine\":\"「今は、支えていますが……\",\"translatedEnglishLine\":\"\\\"For now, they are holding the line, but...\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 48971,
+                "originalJapaneseLine": "「ん……よかった」",
+                "translatedEnglishLine": "\"Mm... that's good.\""
+            },
+            {
+                "lineNumber": 48972,
+                "originalJapaneseLine": "「カロリア、どうかした？」",
+                "translatedEnglishLine": "\"Karoria, what's wrong?\""
+            },
+            {
+                "lineNumber": 48973,
+                "originalJapaneseLine": "「街の人たち、",
+                "translatedEnglishLine": "\"The people in town,"
+            },
+            {
+                "lineNumber": 48974,
+                "originalJapaneseLine": "　前よりは辛そうじゃなくなってるから」",
+                "translatedEnglishLine": " seem to be suffering less than before.\""
+            },
+            {
+                "lineNumber": 48975,
+                "originalJapaneseLine": "「あ……そういえばそうかも」",
+                "translatedEnglishLine": "\"Ah... come to think of it, that might be true.\""
+            },
+            {
+                "lineNumber": 48976,
+                "originalJapaneseLine": "「そうですね……戦時下ですし、",
+                "translatedEnglishLine": "\"Yes... we are in wartime, after all,"
+            },
+            {
+                "lineNumber": 48977,
+                "originalJapaneseLine": "　既に多くのものを失っていますが……",
+                "translatedEnglishLine": " and we have already lost a lot...\""
+            },
+            {
+                "lineNumber": 48978,
+                "originalJapaneseLine": "　魔人の脅威がなくなったのは大きいです」",
+                "translatedEnglishLine": " but the disappearance of the demon threat is significant.\""
+            },
+            {
+                "lineNumber": 48979,
+                "originalJapaneseLine": "「おうおばちゃん、そのポポラパイうまそうだな。",
+                "translatedEnglishLine": "\"Hey, ma'am, that Popora pie looks delicious."
+            },
+            {
+                "lineNumber": 48980,
+                "originalJapaneseLine": "　でかいのまるごとくれ」",
+                "translatedEnglishLine": " Give me the big one whole.\""
+            },
+            {
+                "lineNumber": 48981,
+                "originalJapaneseLine": "「そのうち一人は、",
+                "translatedEnglishLine": "\"One of them,"
+            },
+            {
+                "lineNumber": 48982,
+                "originalJapaneseLine": "　実は未だに人類に脅威を与え続けてるけどね……",
+                "translatedEnglishLine": " in fact, still continues to threaten humanity...\""
+            },
+            {
+                "lineNumber": 48983,
+                "originalJapaneseLine": "　食費的な意味で……」",
+                "translatedEnglishLine": " In terms of food expenses...\""
+            },
+            {
+                "lineNumber": 48984,
+                "originalJapaneseLine": "「がつ、ふむ、まぐっ……ん、呼んだか？」",
+                "translatedEnglishLine": "\"Gulp, hmm, mug... huh, did you call me?\""
+            },
+            {
+                "lineNumber": 48985,
+                "originalJapaneseLine": "「呼んどらんわ！　食いながら喋るな！」",
+                "translatedEnglishLine": "\"I didn't call! Stop talking while eating!\""
+            },
+            {
+                "lineNumber": 48986,
+                "originalJapaneseLine": "「さっき、入ったお店の材料が",
+                "translatedEnglishLine": "\"We ate enough to finish the ingredients at the shop we just went into...\""
+            },
+            {
+                "lineNumber": 48987,
+                "originalJapaneseLine": "　なくなるくらい食べたのに……",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": 48988,
+                "originalJapaneseLine": "「ふん。とにかく司令部に行くんだったな」",
+                "translatedEnglishLine": "\"Hmph. Anyway, we were supposed to go to the headquarters.\""
+            },
+            {
+                "lineNumber": 48989,
+                "originalJapaneseLine": "「はい。魔軍への反攻作戦を",
+                "translatedEnglishLine": "\"Yes. They should be planning a counterattack operation against the Demon Army.\""
+            },
+            {
+                "lineNumber": 48990,
+                "originalJapaneseLine": "　計画しているはずです」",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": 48991,
+                "originalJapaneseLine": "「よーし。さっさと行って魔物どもを叩き出すぞ」",
+                "translatedEnglishLine": "\"Alright. Let's hurry and drive out those monsters.\""
+            },
+            {
+                "lineNumber": 48992,
+                "originalJapaneseLine": "「よーす。来たぞー」",
+                "translatedEnglishLine": "\"Yo! We've arrived!\""
+            },
+            {
+                "lineNumber": 48993,
+                "originalJapaneseLine": "「ランス！」",
+                "translatedEnglishLine": "\"Lance!\""
+            },
+            {
+                "lineNumber": 48994,
+                "originalJapaneseLine": "「ひっ、緑の総統！",
+                "translatedEnglishLine": "\"Eek, the Green Chancellor!"
+            },
+            {
+                "lineNumber": 48995,
+                "originalJapaneseLine": "　こっこここ、こんにちわ……」",
+                "translatedEnglishLine": "H-hello...\""
+            },
+            {
+                "lineNumber": 48996,
+                "originalJapaneseLine": "「いいかげん、しゃんとしなさい。",
+                "translatedEnglishLine": "\"Pull yourself together already."
+            },
+            {
+                "lineNumber": 48997,
+                "originalJapaneseLine": "　……お疲れ様です、ランス総統」",
+                "translatedEnglishLine": "...Good work, Chancellor Lance.\""
+            },
+            {
+                "lineNumber": 48998,
+                "originalJapaneseLine": "「来たか、小僧」",
+                "translatedEnglishLine": "\"You came, kid.\""
+            },
+            {
+                "lineNumber": 48999,
+                "originalJapaneseLine": "「よ、総統閣下」",
+                "translatedEnglishLine": "\"Y-Your Excellency Chancellor.\""
+            },
+            {
+                "lineNumber": 49000,
+                "originalJapaneseLine": "「お疲れ様です」",
+                "translatedEnglishLine": "\"Good work.\""
+            },
+            {
+                "lineNumber": 49001,
+                "originalJapaneseLine": "「ちっ、ウスピラはいいが、",
+                "translatedEnglishLine": "\"Tch, the lowly ones are fine, but"
+            },
+            {
+                "lineNumber": 49002,
+                "originalJapaneseLine": "　オマケどもまでいるじゃないか」",
+                "translatedEnglishLine": " you're even bringing these extras along.\""
+            },
+            {
+                "lineNumber": 49003,
+                "originalJapaneseLine": "「魔人の軍がいなくなったおかげで、",
+                "translatedEnglishLine": "\"Thanks to the absence of the demon army,"
+            },
+            {
+                "lineNumber": 49004,
+                "originalJapaneseLine": "　正規軍にもちょいっと余裕ができてな。",
+                "translatedEnglishLine": " the regular army is a little more at ease."
+            },
+            {
+                "lineNumber": 49005,
+                "originalJapaneseLine": "　こうして軍議の場が持てるってわけだ」",
+                "translatedEnglishLine": " That's why we can hold this military meeting.\""
+            },
+            {
+                "lineNumber": 49006,
+                "originalJapaneseLine": "「ありゃ……なんか、ずいぶん人が少ないな。",
+                "translatedEnglishLine": "\"Huh... there are surprisingly few people here."
+            },
+            {
+                "lineNumber": 49007,
+                "originalJapaneseLine": "　ケバ子もいないのか」",
+                "translatedEnglishLine": " Kebako isn't here either?\""
+            },
+            {
+                "lineNumber": 49008,
+                "originalJapaneseLine": "「千鶴子も、今は前線に出てるの。",
+                "translatedEnglishLine": "\"Chizuko is also out on the front lines now."
+            },
+            {
+                "lineNumber": 49009,
+                "originalJapaneseLine": "　とにかく、戦況が悪くて……」",
+                "translatedEnglishLine": " The situation is bad, anyway...\""
+            },
+            {
+                "lineNumber": 49010,
+                "originalJapaneseLine": "「ふん。それならそれで、一発逆転のし甲斐がある」",
+                "translatedEnglishLine": "\"Hmph. If that's the case, then there's merit in a dramatic comeback.\""
+            },
+            {
+                "lineNumber": 49011,
+                "originalJapaneseLine": "「おお、来たかランス殿！",
+                "translatedEnglishLine": "\"Oh, you came, Lord Lance!"
+            },
+            {
+                "lineNumber": 49012,
+                "originalJapaneseLine": "　壮健なようでなによりだ！」",
+                "translatedEnglishLine": " Glad to see you're in good health!\""
+            },
+            {
+                "lineNumber": 49013,
+                "originalJapaneseLine": "「くっ、お前もいたか……暑苦しい」",
+                "translatedEnglishLine": "\"Ugh, you're here too... so oppressive.\""
+            },
+            {
+                "lineNumber": 49014,
+                "originalJapaneseLine": "「はははは、変わらんな」",
+                "translatedEnglishLine": "\"Hahaha, you haven’t changed.\""
+            },
+            {
+                "lineNumber": 49015,
+                "originalJapaneseLine": "「指揮は陛下が？」",
+                "translatedEnglishLine": "\"Is His Majesty commanding?\""
+            },
+            {
+                "lineNumber": 49016,
+                "originalJapaneseLine": "「いいや、おおよそは千鶴子とマジックに任せる。",
+                "translatedEnglishLine": "\"No, for the most part, command is left to Chizuko and Magic."
+            },
+            {
+                "lineNumber": 49017,
+                "originalJapaneseLine": "　年寄りが若者の頭を押さえつけることはない」",
+                "translatedEnglishLine": " The old don't overpower the young.\""
+            },
+            {
+                "lineNumber": 49018,
+                "originalJapaneseLine": "「その代わりといってはなんだが、",
+                "translatedEnglishLine": "\"In exchange, so to speak,"
+            },
+            {
+                "lineNumber": 49019,
+                "originalJapaneseLine": "　私も大いに戦うぞ、ランス殿！",
+                "translatedEnglishLine": " I will also fight greatly, Lord Lance!"
+            },
+            {
+                "lineNumber": 49020,
+                "originalJapaneseLine": "　共に魔軍の脅威から、人類を守るのだ！」",
+                "translatedEnglishLine": " Together, we shall protect humanity from the Demon Army's threat!\""
+            },
+            {
+                "lineNumber": 49021,
+                "originalJapaneseLine": "「ええい、肩組んでくるな鬱陶しい！」",
+                "translatedEnglishLine": "\"Ugh, stop putting your arm around me, it's annoying!\""
+            },
+            {
+                "lineNumber": 49022,
+                "originalJapaneseLine": "「さて。じゃ、状況の説明をするわね」",
+                "translatedEnglishLine": "\"Now then. I'll explain the situation.\""
+            },
+            {
+                "lineNumber": 49023,
+                "originalJapaneseLine": "「西部戦線は、ここラグナロックアーク。",
+                "translatedEnglishLine": "\"The western front is here at Ragnarock Arc."
+            },
+            {
+                "lineNumber": 49024,
+                "originalJapaneseLine": "　東部戦線はテープを要所として、魔軍の侵攻を防いでるわ」",
+                "translatedEnglishLine": " The eastern front uses Tape as a key point to defend against the Demon Army's invasion.\""
+            },
+            {
+                "lineNumber": 49025,
+                "originalJapaneseLine": "「……なんか、全然減ってなくないか？",
+                "translatedEnglishLine": "\"...Doesn't it seem like they haven't decreased at all?"
+            },
+            {
+                "lineNumber": 49026,
+                "originalJapaneseLine": "　まだ魔軍に支配されまくりだぞ」",
+                "translatedEnglishLine": " They're still dominated by the Demon Army.\""
+            },
+            {
+                "lineNumber": 49027,
+                "originalJapaneseLine": "「とにかく魔軍は数が多いのよ……」",
+                "translatedEnglishLine": "\"Anyway, the Demon Army is numerous...\""
+            },
+            {
+                "lineNumber": 49028,
+                "originalJapaneseLine": "「魔人達は大軍を率いる性格じゃなかったから、",
+                "translatedEnglishLine": "\"The demons themselves didn’t have the nature to lead large armies,"
+            },
+            {
+                "lineNumber": 49029,
+                "originalJapaneseLine": "　撤退した直属部隊も、全体からすると少ないし」",
+                "translatedEnglishLine": " so even the immediate retreating units are few compared to the whole force.\""
+            },
+            {
+                "lineNumber": 49030,
+                "originalJapaneseLine": "「今は、支えていますが……",
+                "translatedEnglishLine": "\"For now, they are holding the line, but...\""
+            }
+        ]
+    }
+}

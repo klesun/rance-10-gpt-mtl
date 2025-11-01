@@ -1,1 +1,619 @@
-{"id":"resp_0985d243c14d38320068f03d9b6b0881968dc166cfb5f85693","object":"response","created_at":1760574875,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0985d243c14d38320068f03d9c17c881969d92cafd9733d545","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 96641,\n      \"originalJapaneseLine\": \"「いえ、でも……確かにそうですね……\",\n      \"translatedEnglishLine\": \"\\\"No, but... that's certainly true...\\\"\"\n    },\n    {\n      \"lineNumber\": 96642,\n      \"originalJapaneseLine\": \"　努力、してみます」\",\n      \"translatedEnglishLine\": \"I'll try to put in the effort.\\\"\"\n    },\n    {\n      \"lineNumber\": 96643,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\".........\\\"\"\n    },\n    {\n      \"lineNumber\": 96644,\n      \"originalJapaneseLine\": \"「恐縮です」\",\n      \"translatedEnglishLine\": \"\\\"I'm humbled.\\\"\"\n    },\n    {\n      \"lineNumber\": 96645,\n      \"originalJapaneseLine\": \"…………\",\n      \"translatedEnglishLine\": \".........\"\n    },\n    {\n      \"lineNumber\": 96646,\n      \"originalJapaneseLine\": \"……\",\n      \"translatedEnglishLine\": \"...\"\n    },\n    {\n      \"lineNumber\": 96647,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\".........\\\"\"\n    },\n    {\n      \"lineNumber\": 96648,\n      \"originalJapaneseLine\": \"部屋から出たトルストイが\",\n      \"translatedEnglishLine\": \"Tolstoi, who had left the room,\"\n    },\n    {\n      \"lineNumber\": 96649,\n      \"originalJapaneseLine\": \"ガリガリと頭を掻く。\",\n      \"translatedEnglishLine\": \"scratched his head anxiously.\"\n    },\n    {\n      \"lineNumber\": 96650,\n      \"originalJapaneseLine\": \"「やれやれ……」\",\n      \"translatedEnglishLine\": \"\\\"Good grief...\\\"\"\n    },\n    {\n      \"lineNumber\": 96651,\n      \"originalJapaneseLine\": \"「貧乏くじ、また引かされたな……」\",\n      \"translatedEnglishLine\": \"\\\"I've drawn the short straw again...\\\"\"\n    },\n    {\n      \"lineNumber\": 96652,\n      \"originalJapaneseLine\": \"「よく言うぜ」\",\n      \"translatedEnglishLine\": \"\\\"You say that a lot.\\\"\"\n    },\n    {\n      \"lineNumber\": 96653,\n      \"originalJapaneseLine\": \"「ヒューバート殿」\",\n      \"translatedEnglishLine\": \"\\\"Lord Hubert.\\\"\"\n    },\n    {\n      \"lineNumber\": 96654,\n      \"originalJapaneseLine\": \"「貧乏くじは自分から引いたくせに」\",\n      \"translatedEnglishLine\": \"\\\"You drew the short straw yourself, though.\\\"\"\n    },\n    {\n      \"lineNumber\": 96655,\n      \"originalJapaneseLine\": \"「とんでもない。\",\n      \"translatedEnglishLine\": \"\\\"Not at all.\"\n    },\n    {\n      \"lineNumber\": 96656,\n      \"originalJapaneseLine\": \"　他に選択の余地がなかっただけです」\",\n      \"translatedEnglishLine\": \"I just had no other choice.\\\"\"\n    },\n    {\n      \"lineNumber\": 96657,\n      \"originalJapaneseLine\": \"「へっ……\",\n      \"translatedEnglishLine\": \"\\\"Heh...\"\n    },\n    {\n      \"lineNumber\": 96658,\n      \"originalJapaneseLine\": \"　まあ、そういうことにしておくぜ」\",\n      \"translatedEnglishLine\": \"Well, let's just say that.\\\"\"\n    },\n    {\n      \"lineNumber\": 96659,\n      \"originalJapaneseLine\": \"「はあ、どうも……\",\n      \"translatedEnglishLine\": \"\\\"Ah, thank you...\"\n    },\n    {\n      \"lineNumber\": 96660,\n      \"originalJapaneseLine\": \"　恐縮です」\",\n      \"translatedEnglishLine\": \"I'm humbled.\\\"\"\n    },\n    {\n      \"lineNumber\": 96661,\n      \"originalJapaneseLine\": \"「はあ……」\",\n      \"translatedEnglishLine\": \"\\\"Ha...\\\"\"\n    },\n    {\n      \"lineNumber\": 96662,\n      \"originalJapaneseLine\": \"トルストイが中庭で溜め息をついていた。\",\n      \"translatedEnglishLine\": \"Tolstoi was sighing in the courtyard.\"\n    },\n    {\n      \"lineNumber\": 96663,\n      \"originalJapaneseLine\": \"「おう」\",\n      \"translatedEnglishLine\": \"\\\"Hey.\\\"\"\n    },\n    {\n      \"lineNumber\": 96664,\n      \"originalJapaneseLine\": \"「こんにちは、トルストイさん」\",\n      \"translatedEnglishLine\": \"\\\"Hello, Tolstoi.\\\"\"\n    },\n    {\n      \"lineNumber\": 96665,\n      \"originalJapaneseLine\": \"「総統、シィルさん」\",\n      \"translatedEnglishLine\": \"\\\"Supreme Commander, Seale.\\\"\"\n    },\n    {\n      \"lineNumber\": 96666,\n      \"originalJapaneseLine\": \"「まったく、何度見ても暗い顔だな。\",\n      \"translatedEnglishLine\": \"\\\"Really, no matter how many times I see you, you always have such a gloomy face.\"\n    },\n    {\n      \"lineNumber\": 96667,\n      \"originalJapaneseLine\": \"　また貧乏くじがどうのと言っとったのか」\",\n      \"translatedEnglishLine\": \"Were you complaining again about drawing the short straw?\\\"\"\n    },\n    {\n      \"lineNumber\": 96668,\n      \"originalJapaneseLine\": \"「男の癖にグチグチとうっとうしい奴」\",\n      \"translatedEnglishLine\": \"\\\"You're so annoying, whining like a guy.\\\"\"\n    },\n    {\n      \"lineNumber\": 96669,\n      \"originalJapaneseLine\": \"「ら、ランス様……」\",\n      \"translatedEnglishLine\": \"\\\"L-Lance-sama...\\\"\"\n    },\n    {\n      \"lineNumber\": 96670,\n      \"originalJapaneseLine\": \"「はあ……これは失礼を。\",\n      \"translatedEnglishLine\": \"\\\"Ha... My apologies for that.\"\n    },\n    {\n      \"lineNumber\": 96671,\n      \"originalJapaneseLine\": \"　本当に気にしてるわけではありませんが、\",\n      \"translatedEnglishLine\": \"I don't truly mind, but\"\n    },\n    {\n      \"lineNumber\": 96672,\n      \"originalJapaneseLine\": \"　いつからか口癖になってましたね」\",\n      \"translatedEnglishLine\": \"it's become a habit to say it at some point.\\\"\"\n    },\n    {\n      \"lineNumber\": 96673,\n      \"originalJapaneseLine\": \"「自分で選んだ癖に文句垂れるな、と……\",\n      \"translatedEnglishLine\": \"\\\"I've been scolded by friends for complaining about something I chose myself...\\\"\"\n    },\n    {\n      \"lineNumber\": 96674,\n      \"originalJapaneseLine\": \"　友人にはよく叱られたものです」\",\n      \"translatedEnglishLine\": \"\\\"My friends often told me off for that.\\\"\"\n    },\n    {\n      \"lineNumber\": 96675,\n      \"originalJapaneseLine\": \"「ふん、まあいい。\",\n      \"translatedEnglishLine\": \"\\\"Hmph, well, whatever.\"\n    },\n    {\n      \"lineNumber\": 96676,\n      \"originalJapaneseLine\": \"　今日は別の話で来たのだ」\",\n      \"translatedEnglishLine\": \"I've come to talk about something else today.\\\"\"\n    },\n    {\n      \"lineNumber\": 96677,\n      \"originalJapaneseLine\": \"「別の話ですか」\",\n      \"translatedEnglishLine\": \"\\\"Something else?\\\"\"\n    },\n    {\n      \"lineNumber\": 96678,\n      \"originalJapaneseLine\": \"「お前、俺の女達に色目を使ってるだろう！」\",\n      \"translatedEnglishLine\": \"\\\"You're flirting with my women, aren't you!\\\"\"\n    },\n    {\n      \"lineNumber\": 96679,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\".........\\\"\"\n    },\n    {\n      \"lineNumber\": 96680,\n      \"originalJapaneseLine\": \"「ひどい誤解です」\",\n      \"translatedEnglishLine\": \"\\\"That's a terrible misunderstanding.\\\"\"\n    },\n    {\n      \"lineNumber\": 96681,\n      \"originalJapaneseLine\": \"「ら、ランス様……\",\n      \"translatedEnglishLine\": \"\\\"L-Lance-sama...\"\n    },\n    {\n      \"lineNumber\": 96682,\n      \"originalJapaneseLine\": \"　トルストイさん、そんなことしてませんよ」\",\n      \"translatedEnglishLine\": \"Tolstoi, he's not doing anything like that.\\\"\"\n    },\n    {\n      \"lineNumber\": 96683,\n      \"originalJapaneseLine\": \"「む、本当か？　本当だろうな？」\",\n      \"translatedEnglishLine\": \"\\\"Hmm, is that true? It better be true.\\\"\"\n    },\n    {\n      \"lineNumber\": 96684,\n      \"originalJapaneseLine\": \"「ほ、本当です」\",\n      \"translatedEnglishLine\": \"\\\"Y-yes, it is true.\\\"\"\n    },\n    {\n      \"lineNumber\": 96685,\n      \"originalJapaneseLine\": \"「ええ。\",\n      \"translatedEnglishLine\": \"\\\"Indeed.\"\n    },\n    {\n      \"lineNumber\": 96686,\n      \"originalJapaneseLine\": \"　総統の懇意の女性に色目を使うなど……\",\n      \"translatedEnglishLine\": \"To think of flirting with the Supreme Commander's favored women...\"\n    },\n    {\n      \"lineNumber\": 96687,\n      \"originalJapaneseLine\": \"　考えるだに震えてしまいますね」\",\n      \"translatedEnglishLine\": \"Just the thought of it makes me shudder.\\\"\"\n    },\n    {\n      \"lineNumber\": 96688,\n      \"originalJapaneseLine\": \"トルストイはボーッとした表情のまま答えた。\",\n      \"translatedEnglishLine\": \"Tolstoi replied with a dazed expression.\"\n    },\n    {\n      \"lineNumber\": 96689,\n      \"originalJapaneseLine\": \"「ふん、大体俺は部隊に俺以外の男が\",\n      \"translatedEnglishLine\": \"\\\"Hmph, generally speaking, I can't tolerate\"\n    },\n    {\n      \"lineNumber\": 96690,\n      \"originalJapaneseLine\": \"　いるってこと自体、我慢ならんのだ」\",\n      \"translatedEnglishLine\": \"the very idea of any other men being in the unit besides myself.\\\"\"\n    }\n  ]\n}","parsed":{"translationLines":[{"lineNumber":96641,"originalJapaneseLine":"「いえ、でも……確かにそうですね……","translatedEnglishLine":"\"No, but... that's certainly true...\""},{"lineNumber":96642,"originalJapaneseLine":"　努力、してみます」","translatedEnglishLine":"I'll try to put in the effort.\""},{"lineNumber":96643,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\".........\""},{"lineNumber":96644,"originalJapaneseLine":"「恐縮です」","translatedEnglishLine":"\"I'm humbled.\""},{"lineNumber":96645,"originalJapaneseLine":"…………","translatedEnglishLine":"........."},{"lineNumber":96646,"originalJapaneseLine":"……","translatedEnglishLine":"..."},{"lineNumber":96647,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\".........\""},{"lineNumber":96648,"originalJapaneseLine":"部屋から出たトルストイが","translatedEnglishLine":"Tolstoi, who had left the room,"},{"lineNumber":96649,"originalJapaneseLine":"ガリガリと頭を掻く。","translatedEnglishLine":"scratched his head anxiously."},{"lineNumber":96650,"originalJapaneseLine":"「やれやれ……」","translatedEnglishLine":"\"Good grief...\""},{"lineNumber":96651,"originalJapaneseLine":"「貧乏くじ、また引かされたな……」","translatedEnglishLine":"\"I've drawn the short straw again...\""},{"lineNumber":96652,"originalJapaneseLine":"「よく言うぜ」","translatedEnglishLine":"\"You say that a lot.\""},{"lineNumber":96653,"originalJapaneseLine":"「ヒューバート殿」","translatedEnglishLine":"\"Lord Hubert.\""},{"lineNumber":96654,"originalJapaneseLine":"「貧乏くじは自分から引いたくせに」","translatedEnglishLine":"\"You drew the short straw yourself, though.\""},{"lineNumber":96655,"originalJapaneseLine":"「とんでもない。","translatedEnglishLine":"\"Not at all."},{"lineNumber":96656,"originalJapaneseLine":"　他に選択の余地がなかっただけです」","translatedEnglishLine":"I just had no other choice.\""},{"lineNumber":96657,"originalJapaneseLine":"「へっ……","translatedEnglishLine":"\"Heh..."},{"lineNumber":96658,"originalJapaneseLine":"　まあ、そういうことにしておくぜ」","translatedEnglishLine":"Well, let's just say that.\""},{"lineNumber":96659,"originalJapaneseLine":"「はあ、どうも……","translatedEnglishLine":"\"Ah, thank you..."},{"lineNumber":96660,"originalJapaneseLine":"　恐縮です」","translatedEnglishLine":"I'm humbled.\""},{"lineNumber":96661,"originalJapaneseLine":"「はあ……」","translatedEnglishLine":"\"Ha...\""},{"lineNumber":96662,"originalJapaneseLine":"トルストイが中庭で溜め息をついていた。","translatedEnglishLine":"Tolstoi was sighing in the courtyard."},{"lineNumber":96663,"originalJapaneseLine":"「おう」","translatedEnglishLine":"\"Hey.\""},{"lineNumber":96664,"originalJapaneseLine":"「こんにちは、トルストイさん」","translatedEnglishLine":"\"Hello, Tolstoi.\""},{"lineNumber":96665,"originalJapaneseLine":"「総統、シィルさん」","translatedEnglishLine":"\"Supreme Commander, Seale.\""},{"lineNumber":96666,"originalJapaneseLine":"「まったく、何度見ても暗い顔だな。","translatedEnglishLine":"\"Really, no matter how many times I see you, you always have such a gloomy face."},{"lineNumber":96667,"originalJapaneseLine":"　また貧乏くじがどうのと言っとったのか」","translatedEnglishLine":"Were you complaining again about drawing the short straw?\""},{"lineNumber":96668,"originalJapaneseLine":"「男の癖にグチグチとうっとうしい奴」","translatedEnglishLine":"\"You're so annoying, whining like a guy.\""},{"lineNumber":96669,"originalJapaneseLine":"「ら、ランス様……」","translatedEnglishLine":"\"L-Lance-sama...\""},{"lineNumber":96670,"originalJapaneseLine":"「はあ……これは失礼を。","translatedEnglishLine":"\"Ha... My apologies for that."},{"lineNumber":96671,"originalJapaneseLine":"　本当に気にしてるわけではありませんが、","translatedEnglishLine":"I don't truly mind, but"},{"lineNumber":96672,"originalJapaneseLine":"　いつからか口癖になってましたね」","translatedEnglishLine":"it's become a habit to say it at some point.\""},{"lineNumber":96673,"originalJapaneseLine":"「自分で選んだ癖に文句垂れるな、と……","translatedEnglishLine":"\"I've been scolded by friends for complaining about something I chose myself...\""},{"lineNumber":96674,"originalJapaneseLine":"　友人にはよく叱られたものです」","translatedEnglishLine":"\"My friends often told me off for that.\""},{"lineNumber":96675,"originalJapaneseLine":"「ふん、まあいい。","translatedEnglishLine":"\"Hmph, well, whatever."},{"lineNumber":96676,"originalJapaneseLine":"　今日は別の話で来たのだ」","translatedEnglishLine":"I've come to talk about something else today.\""},{"lineNumber":96677,"originalJapaneseLine":"「別の話ですか」","translatedEnglishLine":"\"Something else?\""},{"lineNumber":96678,"originalJapaneseLine":"「お前、俺の女達に色目を使ってるだろう！」","translatedEnglishLine":"\"You're flirting with my women, aren't you!\""},{"lineNumber":96679,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\".........\""},{"lineNumber":96680,"originalJapaneseLine":"「ひどい誤解です」","translatedEnglishLine":"\"That's a terrible misunderstanding.\""},{"lineNumber":96681,"originalJapaneseLine":"「ら、ランス様……","translatedEnglishLine":"\"L-Lance-sama..."},{"lineNumber":96682,"originalJapaneseLine":"　トルストイさん、そんなことしてませんよ」","translatedEnglishLine":"Tolstoi, he's not doing anything like that.\""},{"lineNumber":96683,"originalJapaneseLine":"「む、本当か？　本当だろうな？」","translatedEnglishLine":"\"Hmm, is that true? It better be true.\""},{"lineNumber":96684,"originalJapaneseLine":"「ほ、本当です」","translatedEnglishLine":"\"Y-yes, it is true.\""},{"lineNumber":96685,"originalJapaneseLine":"「ええ。","translatedEnglishLine":"\"Indeed."},{"lineNumber":96686,"originalJapaneseLine":"　総統の懇意の女性に色目を使うなど……","translatedEnglishLine":"To think of flirting with the Supreme Commander's favored women..."},{"lineNumber":96687,"originalJapaneseLine":"　考えるだに震えてしまいますね」","translatedEnglishLine":"Just the thought of it makes me shudder.\""},{"lineNumber":96688,"originalJapaneseLine":"トルストイはボーッとした表情のまま答えた。","translatedEnglishLine":"Tolstoi replied with a dazed expression."},{"lineNumber":96689,"originalJapaneseLine":"「ふん、大体俺は部隊に俺以外の男が","translatedEnglishLine":"\"Hmph, generally speaking, I can't tolerate"},{"lineNumber":96690,"originalJapaneseLine":"　いるってこと自体、我慢ならんのだ」","translatedEnglishLine":"the very idea of any other men being in the unit besides myself.\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1354,"input_tokens_details":{"cached_tokens":0},"output_tokens":2279,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3633},"user":null,"metadata":{},"output_text":"{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 96641,\n      \"originalJapaneseLine\": \"「いえ、でも……確かにそうですね……\",\n      \"translatedEnglishLine\": \"\\\"No, but... that's certainly true...\\\"\"\n    },\n    {\n      \"lineNumber\": 96642,\n      \"originalJapaneseLine\": \"　努力、してみます」\",\n      \"translatedEnglishLine\": \"I'll try to put in the effort.\\\"\"\n    },\n    {\n      \"lineNumber\": 96643,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\".........\\\"\"\n    },\n    {\n      \"lineNumber\": 96644,\n      \"originalJapaneseLine\": \"「恐縮です」\",\n      \"translatedEnglishLine\": \"\\\"I'm humbled.\\\"\"\n    },\n    {\n      \"lineNumber\": 96645,\n      \"originalJapaneseLine\": \"…………\",\n      \"translatedEnglishLine\": \".........\"\n    },\n    {\n      \"lineNumber\": 96646,\n      \"originalJapaneseLine\": \"……\",\n      \"translatedEnglishLine\": \"...\"\n    },\n    {\n      \"lineNumber\": 96647,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\".........\\\"\"\n    },\n    {\n      \"lineNumber\": 96648,\n      \"originalJapaneseLine\": \"部屋から出たトルストイが\",\n      \"translatedEnglishLine\": \"Tolstoi, who had left the room,\"\n    },\n    {\n      \"lineNumber\": 96649,\n      \"originalJapaneseLine\": \"ガリガリと頭を掻く。\",\n      \"translatedEnglishLine\": \"scratched his head anxiously.\"\n    },\n    {\n      \"lineNumber\": 96650,\n      \"originalJapaneseLine\": \"「やれやれ……」\",\n      \"translatedEnglishLine\": \"\\\"Good grief...\\\"\"\n    },\n    {\n      \"lineNumber\": 96651,\n      \"originalJapaneseLine\": \"「貧乏くじ、また引かされたな……」\",\n      \"translatedEnglishLine\": \"\\\"I've drawn the short straw again...\\\"\"\n    },\n    {\n      \"lineNumber\": 96652,\n      \"originalJapaneseLine\": \"「よく言うぜ」\",\n      \"translatedEnglishLine\": \"\\\"You say that a lot.\\\"\"\n    },\n    {\n      \"lineNumber\": 96653,\n      \"originalJapaneseLine\": \"「ヒューバート殿」\",\n      \"translatedEnglishLine\": \"\\\"Lord Hubert.\\\"\"\n    },\n    {\n      \"lineNumber\": 96654,\n      \"originalJapaneseLine\": \"「貧乏くじは自分から引いたくせに」\",\n      \"translatedEnglishLine\": \"\\\"You drew the short straw yourself, though.\\\"\"\n    },\n    {\n      \"lineNumber\": 96655,\n      \"originalJapaneseLine\": \"「とんでもない。\",\n      \"translatedEnglishLine\": \"\\\"Not at all.\"\n    },\n    {\n      \"lineNumber\": 96656,\n      \"originalJapaneseLine\": \"　他に選択の余地がなかっただけです」\",\n      \"translatedEnglishLine\": \"I just had no other choice.\\\"\"\n    },\n    {\n      \"lineNumber\": 96657,\n      \"originalJapaneseLine\": \"「へっ……\",\n      \"translatedEnglishLine\": \"\\\"Heh...\"\n    },\n    {\n      \"lineNumber\": 96658,\n      \"originalJapaneseLine\": \"　まあ、そういうことにしておくぜ」\",\n      \"translatedEnglishLine\": \"Well, let's just say that.\\\"\"\n    },\n    {\n      \"lineNumber\": 96659,\n      \"originalJapaneseLine\": \"「はあ、どうも……\",\n      \"translatedEnglishLine\": \"\\\"Ah, thank you...\"\n    },\n    {\n      \"lineNumber\": 96660,\n      \"originalJapaneseLine\": \"　恐縮です」\",\n      \"translatedEnglishLine\": \"I'm humbled.\\\"\"\n    },\n    {\n      \"lineNumber\": 96661,\n      \"originalJapaneseLine\": \"「はあ……」\",\n      \"translatedEnglishLine\": \"\\\"Ha...\\\"\"\n    },\n    {\n      \"lineNumber\": 96662,\n      \"originalJapaneseLine\": \"トルストイが中庭で溜め息をついていた。\",\n      \"translatedEnglishLine\": \"Tolstoi was sighing in the courtyard.\"\n    },\n    {\n      \"lineNumber\": 96663,\n      \"originalJapaneseLine\": \"「おう」\",\n      \"translatedEnglishLine\": \"\\\"Hey.\\\"\"\n    },\n    {\n      \"lineNumber\": 96664,\n      \"originalJapaneseLine\": \"「こんにちは、トルストイさん」\",\n      \"translatedEnglishLine\": \"\\\"Hello, Tolstoi.\\\"\"\n    },\n    {\n      \"lineNumber\": 96665,\n      \"originalJapaneseLine\": \"「総統、シィルさん」\",\n      \"translatedEnglishLine\": \"\\\"Supreme Commander, Seale.\\\"\"\n    },\n    {\n      \"lineNumber\": 96666,\n      \"originalJapaneseLine\": \"「まったく、何度見ても暗い顔だな。\",\n      \"translatedEnglishLine\": \"\\\"Really, no matter how many times I see you, you always have such a gloomy face.\"\n    },\n    {\n      \"lineNumber\": 96667,\n      \"originalJapaneseLine\": \"　また貧乏くじがどうのと言っとったのか」\",\n      \"translatedEnglishLine\": \"Were you complaining again about drawing the short straw?\\\"\"\n    },\n    {\n      \"lineNumber\": 96668,\n      \"originalJapaneseLine\": \"「男の癖にグチグチとうっとうしい奴」\",\n      \"translatedEnglishLine\": \"\\\"You're so annoying, whining like a guy.\\\"\"\n    },\n    {\n      \"lineNumber\": 96669,\n      \"originalJapaneseLine\": \"「ら、ランス様……」\",\n      \"translatedEnglishLine\": \"\\\"L-Lance-sama...\\\"\"\n    },\n    {\n      \"lineNumber\": 96670,\n      \"originalJapaneseLine\": \"「はあ……これは失礼を。\",\n      \"translatedEnglishLine\": \"\\\"Ha... My apologies for that.\"\n    },\n    {\n      \"lineNumber\": 96671,\n      \"originalJapaneseLine\": \"　本当に気にしてるわけではありませんが、\",\n      \"translatedEnglishLine\": \"I don't truly mind, but\"\n    },\n    {\n      \"lineNumber\": 96672,\n      \"originalJapaneseLine\": \"　いつからか口癖になってましたね」\",\n      \"translatedEnglishLine\": \"it's become a habit to say it at some point.\\\"\"\n    },\n    {\n      \"lineNumber\": 96673,\n      \"originalJapaneseLine\": \"「自分で選んだ癖に文句垂れるな、と……\",\n      \"translatedEnglishLine\": \"\\\"I've been scolded by friends for complaining about something I chose myself...\\\"\"\n    },\n    {\n      \"lineNumber\": 96674,\n      \"originalJapaneseLine\": \"　友人にはよく叱られたものです」\",\n      \"translatedEnglishLine\": \"\\\"My friends often told me off for that.\\\"\"\n    },\n    {\n      \"lineNumber\": 96675,\n      \"originalJapaneseLine\": \"「ふん、まあいい。\",\n      \"translatedEnglishLine\": \"\\\"Hmph, well, whatever.\"\n    },\n    {\n      \"lineNumber\": 96676,\n      \"originalJapaneseLine\": \"　今日は別の話で来たのだ」\",\n      \"translatedEnglishLine\": \"I've come to talk about something else today.\\\"\"\n    },\n    {\n      \"lineNumber\": 96677,\n      \"originalJapaneseLine\": \"「別の話ですか」\",\n      \"translatedEnglishLine\": \"\\\"Something else?\\\"\"\n    },\n    {\n      \"lineNumber\": 96678,\n      \"originalJapaneseLine\": \"「お前、俺の女達に色目を使ってるだろう！」\",\n      \"translatedEnglishLine\": \"\\\"You're flirting with my women, aren't you!\\\"\"\n    },\n    {\n      \"lineNumber\": 96679,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\".........\\\"\"\n    },\n    {\n      \"lineNumber\": 96680,\n      \"originalJapaneseLine\": \"「ひどい誤解です」\",\n      \"translatedEnglishLine\": \"\\\"That's a terrible misunderstanding.\\\"\"\n    },\n    {\n      \"lineNumber\": 96681,\n      \"originalJapaneseLine\": \"「ら、ランス様……\",\n      \"translatedEnglishLine\": \"\\\"L-Lance-sama...\"\n    },\n    {\n      \"lineNumber\": 96682,\n      \"originalJapaneseLine\": \"　トルストイさん、そんなことしてませんよ」\",\n      \"translatedEnglishLine\": \"Tolstoi, he's not doing anything like that.\\\"\"\n    },\n    {\n      \"lineNumber\": 96683,\n      \"originalJapaneseLine\": \"「む、本当か？　本当だろうな？」\",\n      \"translatedEnglishLine\": \"\\\"Hmm, is that true? It better be true.\\\"\"\n    },\n    {\n      \"lineNumber\": 96684,\n      \"originalJapaneseLine\": \"「ほ、本当です」\",\n      \"translatedEnglishLine\": \"\\\"Y-yes, it is true.\\\"\"\n    },\n    {\n      \"lineNumber\": 96685,\n      \"originalJapaneseLine\": \"「ええ。\",\n      \"translatedEnglishLine\": \"\\\"Indeed.\"\n    },\n    {\n      \"lineNumber\": 96686,\n      \"originalJapaneseLine\": \"　総統の懇意の女性に色目を使うなど……\",\n      \"translatedEnglishLine\": \"To think of flirting with the Supreme Commander's favored women...\"\n    },\n    {\n      \"lineNumber\": 96687,\n      \"originalJapaneseLine\": \"　考えるだに震えてしまいますね」\",\n      \"translatedEnglishLine\": \"Just the thought of it makes me shudder.\\\"\"\n    },\n    {\n      \"lineNumber\": 96688,\n      \"originalJapaneseLine\": \"トルストイはボーッとした表情のまま答えた。\",\n      \"translatedEnglishLine\": \"Tolstoi replied with a dazed expression.\"\n    },\n    {\n      \"lineNumber\": 96689,\n      \"originalJapaneseLine\": \"「ふん、大体俺は部隊に俺以外の男が\",\n      \"translatedEnglishLine\": \"\\\"Hmph, generally speaking, I can't tolerate\"\n    },\n    {\n      \"lineNumber\": 96690,\n      \"originalJapaneseLine\": \"　いるってこと自体、我慢ならんのだ」\",\n      \"translatedEnglishLine\": \"the very idea of any other men being in the unit besides myself.\\\"\"\n    }\n  ]\n}","output_parsed":{"translationLines":[{"lineNumber":96641,"originalJapaneseLine":"「いえ、でも……確かにそうですね……","translatedEnglishLine":"\"No, but... that's certainly true...\""},{"lineNumber":96642,"originalJapaneseLine":"　努力、してみます」","translatedEnglishLine":"I'll try to put in the effort.\""},{"lineNumber":96643,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\".........\""},{"lineNumber":96644,"originalJapaneseLine":"「恐縮です」","translatedEnglishLine":"\"I'm humbled.\""},{"lineNumber":96645,"originalJapaneseLine":"…………","translatedEnglishLine":"........."},{"lineNumber":96646,"originalJapaneseLine":"……","translatedEnglishLine":"..."},{"lineNumber":96647,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\".........\""},{"lineNumber":96648,"originalJapaneseLine":"部屋から出たトルストイが","translatedEnglishLine":"Tolstoi, who had left the room,"},{"lineNumber":96649,"originalJapaneseLine":"ガリガリと頭を掻く。","translatedEnglishLine":"scratched his head anxiously."},{"lineNumber":96650,"originalJapaneseLine":"「やれやれ……」","translatedEnglishLine":"\"Good grief...\""},{"lineNumber":96651,"originalJapaneseLine":"「貧乏くじ、また引かされたな……」","translatedEnglishLine":"\"I've drawn the short straw again...\""},{"lineNumber":96652,"originalJapaneseLine":"「よく言うぜ」","translatedEnglishLine":"\"You say that a lot.\""},{"lineNumber":96653,"originalJapaneseLine":"「ヒューバート殿」","translatedEnglishLine":"\"Lord Hubert.\""},{"lineNumber":96654,"originalJapaneseLine":"「貧乏くじは自分から引いたくせに」","translatedEnglishLine":"\"You drew the short straw yourself, though.\""},{"lineNumber":96655,"originalJapaneseLine":"「とんでもない。","translatedEnglishLine":"\"Not at all."},{"lineNumber":96656,"originalJapaneseLine":"　他に選択の余地がなかっただけです」","translatedEnglishLine":"I just had no other choice.\""},{"lineNumber":96657,"originalJapaneseLine":"「へっ……","translatedEnglishLine":"\"Heh..."},{"lineNumber":96658,"originalJapaneseLine":"　まあ、そういうことにしておくぜ」","translatedEnglishLine":"Well, let's just say that.\""},{"lineNumber":96659,"originalJapaneseLine":"「はあ、どうも……","translatedEnglishLine":"\"Ah, thank you..."},{"lineNumber":96660,"originalJapaneseLine":"　恐縮です」","translatedEnglishLine":"I'm humbled.\""},{"lineNumber":96661,"originalJapaneseLine":"「はあ……」","translatedEnglishLine":"\"Ha...\""},{"lineNumber":96662,"originalJapaneseLine":"トルストイが中庭で溜め息をついていた。","translatedEnglishLine":"Tolstoi was sighing in the courtyard."},{"lineNumber":96663,"originalJapaneseLine":"「おう」","translatedEnglishLine":"\"Hey.\""},{"lineNumber":96664,"originalJapaneseLine":"「こんにちは、トルストイさん」","translatedEnglishLine":"\"Hello, Tolstoi.\""},{"lineNumber":96665,"originalJapaneseLine":"「総統、シィルさん」","translatedEnglishLine":"\"Supreme Commander, Seale.\""},{"lineNumber":96666,"originalJapaneseLine":"「まったく、何度見ても暗い顔だな。","translatedEnglishLine":"\"Really, no matter how many times I see you, you always have such a gloomy face."},{"lineNumber":96667,"originalJapaneseLine":"　また貧乏くじがどうのと言っとったのか」","translatedEnglishLine":"Were you complaining again about drawing the short straw?\""},{"lineNumber":96668,"originalJapaneseLine":"「男の癖にグチグチとうっとうしい奴」","translatedEnglishLine":"\"You're so annoying, whining like a guy.\""},{"lineNumber":96669,"originalJapaneseLine":"「ら、ランス様……」","translatedEnglishLine":"\"L-Lance-sama...\""},{"lineNumber":96670,"originalJapaneseLine":"「はあ……これは失礼を。","translatedEnglishLine":"\"Ha... My apologies for that."},{"lineNumber":96671,"originalJapaneseLine":"　本当に気にしてるわけではありませんが、","translatedEnglishLine":"I don't truly mind, but"},{"lineNumber":96672,"originalJapaneseLine":"　いつからか口癖になってましたね」","translatedEnglishLine":"it's become a habit to say it at some point.\""},{"lineNumber":96673,"originalJapaneseLine":"「自分で選んだ癖に文句垂れるな、と……","translatedEnglishLine":"\"I've been scolded by friends for complaining about something I chose myself...\""},{"lineNumber":96674,"originalJapaneseLine":"　友人にはよく叱られたものです」","translatedEnglishLine":"\"My friends often told me off for that.\""},{"lineNumber":96675,"originalJapaneseLine":"「ふん、まあいい。","translatedEnglishLine":"\"Hmph, well, whatever."},{"lineNumber":96676,"originalJapaneseLine":"　今日は別の話で来たのだ」","translatedEnglishLine":"I've come to talk about something else today.\""},{"lineNumber":96677,"originalJapaneseLine":"「別の話ですか」","translatedEnglishLine":"\"Something else?\""},{"lineNumber":96678,"originalJapaneseLine":"「お前、俺の女達に色目を使ってるだろう！」","translatedEnglishLine":"\"You're flirting with my women, aren't you!\""},{"lineNumber":96679,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\".........\""},{"lineNumber":96680,"originalJapaneseLine":"「ひどい誤解です」","translatedEnglishLine":"\"That's a terrible misunderstanding.\""},{"lineNumber":96681,"originalJapaneseLine":"「ら、ランス様……","translatedEnglishLine":"\"L-Lance-sama..."},{"lineNumber":96682,"originalJapaneseLine":"　トルストイさん、そんなことしてませんよ」","translatedEnglishLine":"Tolstoi, he's not doing anything like that.\""},{"lineNumber":96683,"originalJapaneseLine":"「む、本当か？　本当だろうな？」","translatedEnglishLine":"\"Hmm, is that true? It better be true.\""},{"lineNumber":96684,"originalJapaneseLine":"「ほ、本当です」","translatedEnglishLine":"\"Y-yes, it is true.\""},{"lineNumber":96685,"originalJapaneseLine":"「ええ。","translatedEnglishLine":"\"Indeed."},{"lineNumber":96686,"originalJapaneseLine":"　総統の懇意の女性に色目を使うなど……","translatedEnglishLine":"To think of flirting with the Supreme Commander's favored women..."},{"lineNumber":96687,"originalJapaneseLine":"　考えるだに震えてしまいますね」","translatedEnglishLine":"Just the thought of it makes me shudder.\""},{"lineNumber":96688,"originalJapaneseLine":"トルストイはボーッとした表情のまま答えた。","translatedEnglishLine":"Tolstoi replied with a dazed expression."},{"lineNumber":96689,"originalJapaneseLine":"「ふん、大体俺は部隊に俺以外の男が","translatedEnglishLine":"\"Hmph, generally speaking, I can't tolerate"},{"lineNumber":96690,"originalJapaneseLine":"　いるってこと自体、我慢ならんのだ」","translatedEnglishLine":"the very idea of any other men being in the unit besides myself.\""}]}}
+{
+    "id": "resp_0985d243c14d38320068f03d9b6b0881968dc166cfb5f85693",
+    "object": "response",
+    "created_at": 1760574875,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0985d243c14d38320068f03d9c17c881969d92cafd9733d545",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 96641,\n      \"originalJapaneseLine\": \"「いえ、でも……確かにそうですね……\",\n      \"translatedEnglishLine\": \"\\\"No, but... that's certainly true...\\\"\"\n    },\n    {\n      \"lineNumber\": 96642,\n      \"originalJapaneseLine\": \"　努力、してみます」\",\n      \"translatedEnglishLine\": \"I'll try to put in the effort.\\\"\"\n    },\n    {\n      \"lineNumber\": 96643,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\".........\\\"\"\n    },\n    {\n      \"lineNumber\": 96644,\n      \"originalJapaneseLine\": \"「恐縮です」\",\n      \"translatedEnglishLine\": \"\\\"I'm humbled.\\\"\"\n    },\n    {\n      \"lineNumber\": 96645,\n      \"originalJapaneseLine\": \"…………\",\n      \"translatedEnglishLine\": \".........\"\n    },\n    {\n      \"lineNumber\": 96646,\n      \"originalJapaneseLine\": \"……\",\n      \"translatedEnglishLine\": \"...\"\n    },\n    {\n      \"lineNumber\": 96647,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\".........\\\"\"\n    },\n    {\n      \"lineNumber\": 96648,\n      \"originalJapaneseLine\": \"部屋から出たトルストイが\",\n      \"translatedEnglishLine\": \"Tolstoi, who had left the room,\"\n    },\n    {\n      \"lineNumber\": 96649,\n      \"originalJapaneseLine\": \"ガリガリと頭を掻く。\",\n      \"translatedEnglishLine\": \"scratched his head anxiously.\"\n    },\n    {\n      \"lineNumber\": 96650,\n      \"originalJapaneseLine\": \"「やれやれ……」\",\n      \"translatedEnglishLine\": \"\\\"Good grief...\\\"\"\n    },\n    {\n      \"lineNumber\": 96651,\n      \"originalJapaneseLine\": \"「貧乏くじ、また引かされたな……」\",\n      \"translatedEnglishLine\": \"\\\"I've drawn the short straw again...\\\"\"\n    },\n    {\n      \"lineNumber\": 96652,\n      \"originalJapaneseLine\": \"「よく言うぜ」\",\n      \"translatedEnglishLine\": \"\\\"You say that a lot.\\\"\"\n    },\n    {\n      \"lineNumber\": 96653,\n      \"originalJapaneseLine\": \"「ヒューバート殿」\",\n      \"translatedEnglishLine\": \"\\\"Lord Hubert.\\\"\"\n    },\n    {\n      \"lineNumber\": 96654,\n      \"originalJapaneseLine\": \"「貧乏くじは自分から引いたくせに」\",\n      \"translatedEnglishLine\": \"\\\"You drew the short straw yourself, though.\\\"\"\n    },\n    {\n      \"lineNumber\": 96655,\n      \"originalJapaneseLine\": \"「とんでもない。\",\n      \"translatedEnglishLine\": \"\\\"Not at all.\"\n    },\n    {\n      \"lineNumber\": 96656,\n      \"originalJapaneseLine\": \"　他に選択の余地がなかっただけです」\",\n      \"translatedEnglishLine\": \"I just had no other choice.\\\"\"\n    },\n    {\n      \"lineNumber\": 96657,\n      \"originalJapaneseLine\": \"「へっ……\",\n      \"translatedEnglishLine\": \"\\\"Heh...\"\n    },\n    {\n      \"lineNumber\": 96658,\n      \"originalJapaneseLine\": \"　まあ、そういうことにしておくぜ」\",\n      \"translatedEnglishLine\": \"Well, let's just say that.\\\"\"\n    },\n    {\n      \"lineNumber\": 96659,\n      \"originalJapaneseLine\": \"「はあ、どうも……\",\n      \"translatedEnglishLine\": \"\\\"Ah, thank you...\"\n    },\n    {\n      \"lineNumber\": 96660,\n      \"originalJapaneseLine\": \"　恐縮です」\",\n      \"translatedEnglishLine\": \"I'm humbled.\\\"\"\n    },\n    {\n      \"lineNumber\": 96661,\n      \"originalJapaneseLine\": \"「はあ……」\",\n      \"translatedEnglishLine\": \"\\\"Ha...\\\"\"\n    },\n    {\n      \"lineNumber\": 96662,\n      \"originalJapaneseLine\": \"トルストイが中庭で溜め息をついていた。\",\n      \"translatedEnglishLine\": \"Tolstoi was sighing in the courtyard.\"\n    },\n    {\n      \"lineNumber\": 96663,\n      \"originalJapaneseLine\": \"「おう」\",\n      \"translatedEnglishLine\": \"\\\"Hey.\\\"\"\n    },\n    {\n      \"lineNumber\": 96664,\n      \"originalJapaneseLine\": \"「こんにちは、トルストイさん」\",\n      \"translatedEnglishLine\": \"\\\"Hello, Tolstoi.\\\"\"\n    },\n    {\n      \"lineNumber\": 96665,\n      \"originalJapaneseLine\": \"「総統、シィルさん」\",\n      \"translatedEnglishLine\": \"\\\"Supreme Commander, Seale.\\\"\"\n    },\n    {\n      \"lineNumber\": 96666,\n      \"originalJapaneseLine\": \"「まったく、何度見ても暗い顔だな。\",\n      \"translatedEnglishLine\": \"\\\"Really, no matter how many times I see you, you always have such a gloomy face.\"\n    },\n    {\n      \"lineNumber\": 96667,\n      \"originalJapaneseLine\": \"　また貧乏くじがどうのと言っとったのか」\",\n      \"translatedEnglishLine\": \"Were you complaining again about drawing the short straw?\\\"\"\n    },\n    {\n      \"lineNumber\": 96668,\n      \"originalJapaneseLine\": \"「男の癖にグチグチとうっとうしい奴」\",\n      \"translatedEnglishLine\": \"\\\"You're so annoying, whining like a guy.\\\"\"\n    },\n    {\n      \"lineNumber\": 96669,\n      \"originalJapaneseLine\": \"「ら、ランス様……」\",\n      \"translatedEnglishLine\": \"\\\"L-Lance-sama...\\\"\"\n    },\n    {\n      \"lineNumber\": 96670,\n      \"originalJapaneseLine\": \"「はあ……これは失礼を。\",\n      \"translatedEnglishLine\": \"\\\"Ha... My apologies for that.\"\n    },\n    {\n      \"lineNumber\": 96671,\n      \"originalJapaneseLine\": \"　本当に気にしてるわけではありませんが、\",\n      \"translatedEnglishLine\": \"I don't truly mind, but\"\n    },\n    {\n      \"lineNumber\": 96672,\n      \"originalJapaneseLine\": \"　いつからか口癖になってましたね」\",\n      \"translatedEnglishLine\": \"it's become a habit to say it at some point.\\\"\"\n    },\n    {\n      \"lineNumber\": 96673,\n      \"originalJapaneseLine\": \"「自分で選んだ癖に文句垂れるな、と……\",\n      \"translatedEnglishLine\": \"\\\"I've been scolded by friends for complaining about something I chose myself...\\\"\"\n    },\n    {\n      \"lineNumber\": 96674,\n      \"originalJapaneseLine\": \"　友人にはよく叱られたものです」\",\n      \"translatedEnglishLine\": \"\\\"My friends often told me off for that.\\\"\"\n    },\n    {\n      \"lineNumber\": 96675,\n      \"originalJapaneseLine\": \"「ふん、まあいい。\",\n      \"translatedEnglishLine\": \"\\\"Hmph, well, whatever.\"\n    },\n    {\n      \"lineNumber\": 96676,\n      \"originalJapaneseLine\": \"　今日は別の話で来たのだ」\",\n      \"translatedEnglishLine\": \"I've come to talk about something else today.\\\"\"\n    },\n    {\n      \"lineNumber\": 96677,\n      \"originalJapaneseLine\": \"「別の話ですか」\",\n      \"translatedEnglishLine\": \"\\\"Something else?\\\"\"\n    },\n    {\n      \"lineNumber\": 96678,\n      \"originalJapaneseLine\": \"「お前、俺の女達に色目を使ってるだろう！」\",\n      \"translatedEnglishLine\": \"\\\"You're flirting with my women, aren't you!\\\"\"\n    },\n    {\n      \"lineNumber\": 96679,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\".........\\\"\"\n    },\n    {\n      \"lineNumber\": 96680,\n      \"originalJapaneseLine\": \"「ひどい誤解です」\",\n      \"translatedEnglishLine\": \"\\\"That's a terrible misunderstanding.\\\"\"\n    },\n    {\n      \"lineNumber\": 96681,\n      \"originalJapaneseLine\": \"「ら、ランス様……\",\n      \"translatedEnglishLine\": \"\\\"L-Lance-sama...\"\n    },\n    {\n      \"lineNumber\": 96682,\n      \"originalJapaneseLine\": \"　トルストイさん、そんなことしてませんよ」\",\n      \"translatedEnglishLine\": \"Tolstoi, he's not doing anything like that.\\\"\"\n    },\n    {\n      \"lineNumber\": 96683,\n      \"originalJapaneseLine\": \"「む、本当か？　本当だろうな？」\",\n      \"translatedEnglishLine\": \"\\\"Hmm, is that true? It better be true.\\\"\"\n    },\n    {\n      \"lineNumber\": 96684,\n      \"originalJapaneseLine\": \"「ほ、本当です」\",\n      \"translatedEnglishLine\": \"\\\"Y-yes, it is true.\\\"\"\n    },\n    {\n      \"lineNumber\": 96685,\n      \"originalJapaneseLine\": \"「ええ。\",\n      \"translatedEnglishLine\": \"\\\"Indeed.\"\n    },\n    {\n      \"lineNumber\": 96686,\n      \"originalJapaneseLine\": \"　総統の懇意の女性に色目を使うなど……\",\n      \"translatedEnglishLine\": \"To think of flirting with the Supreme Commander's favored women...\"\n    },\n    {\n      \"lineNumber\": 96687,\n      \"originalJapaneseLine\": \"　考えるだに震えてしまいますね」\",\n      \"translatedEnglishLine\": \"Just the thought of it makes me shudder.\\\"\"\n    },\n    {\n      \"lineNumber\": 96688,\n      \"originalJapaneseLine\": \"トルストイはボーッとした表情のまま答えた。\",\n      \"translatedEnglishLine\": \"Tolstoi replied with a dazed expression.\"\n    },\n    {\n      \"lineNumber\": 96689,\n      \"originalJapaneseLine\": \"「ふん、大体俺は部隊に俺以外の男が\",\n      \"translatedEnglishLine\": \"\\\"Hmph, generally speaking, I can't tolerate\"\n    },\n    {\n      \"lineNumber\": 96690,\n      \"originalJapaneseLine\": \"　いるってこと自体、我慢ならんのだ」\",\n      \"translatedEnglishLine\": \"the very idea of any other men being in the unit besides myself.\\\"\"\n    }\n  ]\n}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 96641,
+                                "originalJapaneseLine": "「いえ、でも……確かにそうですね……",
+                                "translatedEnglishLine": "\"No, but... that's certainly true...\""
+                            },
+                            {
+                                "lineNumber": 96642,
+                                "originalJapaneseLine": "　努力、してみます」",
+                                "translatedEnglishLine": "I'll try to put in the effort.\""
+                            },
+                            {
+                                "lineNumber": 96643,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\".........\""
+                            },
+                            {
+                                "lineNumber": 96644,
+                                "originalJapaneseLine": "「恐縮です」",
+                                "translatedEnglishLine": "\"I'm humbled.\""
+                            },
+                            {
+                                "lineNumber": 96645,
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "........."
+                            },
+                            {
+                                "lineNumber": 96646,
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": 96647,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\".........\""
+                            },
+                            {
+                                "lineNumber": 96648,
+                                "originalJapaneseLine": "部屋から出たトルストイが",
+                                "translatedEnglishLine": "Tolstoi, who had left the room,"
+                            },
+                            {
+                                "lineNumber": 96649,
+                                "originalJapaneseLine": "ガリガリと頭を掻く。",
+                                "translatedEnglishLine": "scratched his head anxiously."
+                            },
+                            {
+                                "lineNumber": 96650,
+                                "originalJapaneseLine": "「やれやれ……」",
+                                "translatedEnglishLine": "\"Good grief...\""
+                            },
+                            {
+                                "lineNumber": 96651,
+                                "originalJapaneseLine": "「貧乏くじ、また引かされたな……」",
+                                "translatedEnglishLine": "\"I've drawn the short straw again...\""
+                            },
+                            {
+                                "lineNumber": 96652,
+                                "originalJapaneseLine": "「よく言うぜ」",
+                                "translatedEnglishLine": "\"You say that a lot.\""
+                            },
+                            {
+                                "lineNumber": 96653,
+                                "originalJapaneseLine": "「ヒューバート殿」",
+                                "translatedEnglishLine": "\"Lord Hubert.\""
+                            },
+                            {
+                                "lineNumber": 96654,
+                                "originalJapaneseLine": "「貧乏くじは自分から引いたくせに」",
+                                "translatedEnglishLine": "\"You drew the short straw yourself, though.\""
+                            },
+                            {
+                                "lineNumber": 96655,
+                                "originalJapaneseLine": "「とんでもない。",
+                                "translatedEnglishLine": "\"Not at all."
+                            },
+                            {
+                                "lineNumber": 96656,
+                                "originalJapaneseLine": "　他に選択の余地がなかっただけです」",
+                                "translatedEnglishLine": "I just had no other choice.\""
+                            },
+                            {
+                                "lineNumber": 96657,
+                                "originalJapaneseLine": "「へっ……",
+                                "translatedEnglishLine": "\"Heh..."
+                            },
+                            {
+                                "lineNumber": 96658,
+                                "originalJapaneseLine": "　まあ、そういうことにしておくぜ」",
+                                "translatedEnglishLine": "Well, let's just say that.\""
+                            },
+                            {
+                                "lineNumber": 96659,
+                                "originalJapaneseLine": "「はあ、どうも……",
+                                "translatedEnglishLine": "\"Ah, thank you..."
+                            },
+                            {
+                                "lineNumber": 96660,
+                                "originalJapaneseLine": "　恐縮です」",
+                                "translatedEnglishLine": "I'm humbled.\""
+                            },
+                            {
+                                "lineNumber": 96661,
+                                "originalJapaneseLine": "「はあ……」",
+                                "translatedEnglishLine": "\"Ha...\""
+                            },
+                            {
+                                "lineNumber": 96662,
+                                "originalJapaneseLine": "トルストイが中庭で溜め息をついていた。",
+                                "translatedEnglishLine": "Tolstoi was sighing in the courtyard."
+                            },
+                            {
+                                "lineNumber": 96663,
+                                "originalJapaneseLine": "「おう」",
+                                "translatedEnglishLine": "\"Hey.\""
+                            },
+                            {
+                                "lineNumber": 96664,
+                                "originalJapaneseLine": "「こんにちは、トルストイさん」",
+                                "translatedEnglishLine": "\"Hello, Tolstoi.\""
+                            },
+                            {
+                                "lineNumber": 96665,
+                                "originalJapaneseLine": "「総統、シィルさん」",
+                                "translatedEnglishLine": "\"Supreme Commander, Seale.\""
+                            },
+                            {
+                                "lineNumber": 96666,
+                                "originalJapaneseLine": "「まったく、何度見ても暗い顔だな。",
+                                "translatedEnglishLine": "\"Really, no matter how many times I see you, you always have such a gloomy face."
+                            },
+                            {
+                                "lineNumber": 96667,
+                                "originalJapaneseLine": "　また貧乏くじがどうのと言っとったのか」",
+                                "translatedEnglishLine": "Were you complaining again about drawing the short straw?\""
+                            },
+                            {
+                                "lineNumber": 96668,
+                                "originalJapaneseLine": "「男の癖にグチグチとうっとうしい奴」",
+                                "translatedEnglishLine": "\"You're so annoying, whining like a guy.\""
+                            },
+                            {
+                                "lineNumber": 96669,
+                                "originalJapaneseLine": "「ら、ランス様……」",
+                                "translatedEnglishLine": "\"L-Lance-sama...\""
+                            },
+                            {
+                                "lineNumber": 96670,
+                                "originalJapaneseLine": "「はあ……これは失礼を。",
+                                "translatedEnglishLine": "\"Ha... My apologies for that."
+                            },
+                            {
+                                "lineNumber": 96671,
+                                "originalJapaneseLine": "　本当に気にしてるわけではありませんが、",
+                                "translatedEnglishLine": "I don't truly mind, but"
+                            },
+                            {
+                                "lineNumber": 96672,
+                                "originalJapaneseLine": "　いつからか口癖になってましたね」",
+                                "translatedEnglishLine": "it's become a habit to say it at some point.\""
+                            },
+                            {
+                                "lineNumber": 96673,
+                                "originalJapaneseLine": "「自分で選んだ癖に文句垂れるな、と……",
+                                "translatedEnglishLine": "\"I've been scolded by friends for complaining about something I chose myself...\""
+                            },
+                            {
+                                "lineNumber": 96674,
+                                "originalJapaneseLine": "　友人にはよく叱られたものです」",
+                                "translatedEnglishLine": "\"My friends often told me off for that.\""
+                            },
+                            {
+                                "lineNumber": 96675,
+                                "originalJapaneseLine": "「ふん、まあいい。",
+                                "translatedEnglishLine": "\"Hmph, well, whatever."
+                            },
+                            {
+                                "lineNumber": 96676,
+                                "originalJapaneseLine": "　今日は別の話で来たのだ」",
+                                "translatedEnglishLine": "I've come to talk about something else today.\""
+                            },
+                            {
+                                "lineNumber": 96677,
+                                "originalJapaneseLine": "「別の話ですか」",
+                                "translatedEnglishLine": "\"Something else?\""
+                            },
+                            {
+                                "lineNumber": 96678,
+                                "originalJapaneseLine": "「お前、俺の女達に色目を使ってるだろう！」",
+                                "translatedEnglishLine": "\"You're flirting with my women, aren't you!\""
+                            },
+                            {
+                                "lineNumber": 96679,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\".........\""
+                            },
+                            {
+                                "lineNumber": 96680,
+                                "originalJapaneseLine": "「ひどい誤解です」",
+                                "translatedEnglishLine": "\"That's a terrible misunderstanding.\""
+                            },
+                            {
+                                "lineNumber": 96681,
+                                "originalJapaneseLine": "「ら、ランス様……",
+                                "translatedEnglishLine": "\"L-Lance-sama..."
+                            },
+                            {
+                                "lineNumber": 96682,
+                                "originalJapaneseLine": "　トルストイさん、そんなことしてませんよ」",
+                                "translatedEnglishLine": "Tolstoi, he's not doing anything like that.\""
+                            },
+                            {
+                                "lineNumber": 96683,
+                                "originalJapaneseLine": "「む、本当か？　本当だろうな？」",
+                                "translatedEnglishLine": "\"Hmm, is that true? It better be true.\""
+                            },
+                            {
+                                "lineNumber": 96684,
+                                "originalJapaneseLine": "「ほ、本当です」",
+                                "translatedEnglishLine": "\"Y-yes, it is true.\""
+                            },
+                            {
+                                "lineNumber": 96685,
+                                "originalJapaneseLine": "「ええ。",
+                                "translatedEnglishLine": "\"Indeed."
+                            },
+                            {
+                                "lineNumber": 96686,
+                                "originalJapaneseLine": "　総統の懇意の女性に色目を使うなど……",
+                                "translatedEnglishLine": "To think of flirting with the Supreme Commander's favored women..."
+                            },
+                            {
+                                "lineNumber": 96687,
+                                "originalJapaneseLine": "　考えるだに震えてしまいますね」",
+                                "translatedEnglishLine": "Just the thought of it makes me shudder.\""
+                            },
+                            {
+                                "lineNumber": 96688,
+                                "originalJapaneseLine": "トルストイはボーッとした表情のまま答えた。",
+                                "translatedEnglishLine": "Tolstoi replied with a dazed expression."
+                            },
+                            {
+                                "lineNumber": 96689,
+                                "originalJapaneseLine": "「ふん、大体俺は部隊に俺以外の男が",
+                                "translatedEnglishLine": "\"Hmph, generally speaking, I can't tolerate"
+                            },
+                            {
+                                "lineNumber": 96690,
+                                "originalJapaneseLine": "　いるってこと自体、我慢ならんのだ」",
+                                "translatedEnglishLine": "the very idea of any other men being in the unit besides myself.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1354,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2279,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3633
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 96641,\n      \"originalJapaneseLine\": \"「いえ、でも……確かにそうですね……\",\n      \"translatedEnglishLine\": \"\\\"No, but... that's certainly true...\\\"\"\n    },\n    {\n      \"lineNumber\": 96642,\n      \"originalJapaneseLine\": \"　努力、してみます」\",\n      \"translatedEnglishLine\": \"I'll try to put in the effort.\\\"\"\n    },\n    {\n      \"lineNumber\": 96643,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\".........\\\"\"\n    },\n    {\n      \"lineNumber\": 96644,\n      \"originalJapaneseLine\": \"「恐縮です」\",\n      \"translatedEnglishLine\": \"\\\"I'm humbled.\\\"\"\n    },\n    {\n      \"lineNumber\": 96645,\n      \"originalJapaneseLine\": \"…………\",\n      \"translatedEnglishLine\": \".........\"\n    },\n    {\n      \"lineNumber\": 96646,\n      \"originalJapaneseLine\": \"……\",\n      \"translatedEnglishLine\": \"...\"\n    },\n    {\n      \"lineNumber\": 96647,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\".........\\\"\"\n    },\n    {\n      \"lineNumber\": 96648,\n      \"originalJapaneseLine\": \"部屋から出たトルストイが\",\n      \"translatedEnglishLine\": \"Tolstoi, who had left the room,\"\n    },\n    {\n      \"lineNumber\": 96649,\n      \"originalJapaneseLine\": \"ガリガリと頭を掻く。\",\n      \"translatedEnglishLine\": \"scratched his head anxiously.\"\n    },\n    {\n      \"lineNumber\": 96650,\n      \"originalJapaneseLine\": \"「やれやれ……」\",\n      \"translatedEnglishLine\": \"\\\"Good grief...\\\"\"\n    },\n    {\n      \"lineNumber\": 96651,\n      \"originalJapaneseLine\": \"「貧乏くじ、また引かされたな……」\",\n      \"translatedEnglishLine\": \"\\\"I've drawn the short straw again...\\\"\"\n    },\n    {\n      \"lineNumber\": 96652,\n      \"originalJapaneseLine\": \"「よく言うぜ」\",\n      \"translatedEnglishLine\": \"\\\"You say that a lot.\\\"\"\n    },\n    {\n      \"lineNumber\": 96653,\n      \"originalJapaneseLine\": \"「ヒューバート殿」\",\n      \"translatedEnglishLine\": \"\\\"Lord Hubert.\\\"\"\n    },\n    {\n      \"lineNumber\": 96654,\n      \"originalJapaneseLine\": \"「貧乏くじは自分から引いたくせに」\",\n      \"translatedEnglishLine\": \"\\\"You drew the short straw yourself, though.\\\"\"\n    },\n    {\n      \"lineNumber\": 96655,\n      \"originalJapaneseLine\": \"「とんでもない。\",\n      \"translatedEnglishLine\": \"\\\"Not at all.\"\n    },\n    {\n      \"lineNumber\": 96656,\n      \"originalJapaneseLine\": \"　他に選択の余地がなかっただけです」\",\n      \"translatedEnglishLine\": \"I just had no other choice.\\\"\"\n    },\n    {\n      \"lineNumber\": 96657,\n      \"originalJapaneseLine\": \"「へっ……\",\n      \"translatedEnglishLine\": \"\\\"Heh...\"\n    },\n    {\n      \"lineNumber\": 96658,\n      \"originalJapaneseLine\": \"　まあ、そういうことにしておくぜ」\",\n      \"translatedEnglishLine\": \"Well, let's just say that.\\\"\"\n    },\n    {\n      \"lineNumber\": 96659,\n      \"originalJapaneseLine\": \"「はあ、どうも……\",\n      \"translatedEnglishLine\": \"\\\"Ah, thank you...\"\n    },\n    {\n      \"lineNumber\": 96660,\n      \"originalJapaneseLine\": \"　恐縮です」\",\n      \"translatedEnglishLine\": \"I'm humbled.\\\"\"\n    },\n    {\n      \"lineNumber\": 96661,\n      \"originalJapaneseLine\": \"「はあ……」\",\n      \"translatedEnglishLine\": \"\\\"Ha...\\\"\"\n    },\n    {\n      \"lineNumber\": 96662,\n      \"originalJapaneseLine\": \"トルストイが中庭で溜め息をついていた。\",\n      \"translatedEnglishLine\": \"Tolstoi was sighing in the courtyard.\"\n    },\n    {\n      \"lineNumber\": 96663,\n      \"originalJapaneseLine\": \"「おう」\",\n      \"translatedEnglishLine\": \"\\\"Hey.\\\"\"\n    },\n    {\n      \"lineNumber\": 96664,\n      \"originalJapaneseLine\": \"「こんにちは、トルストイさん」\",\n      \"translatedEnglishLine\": \"\\\"Hello, Tolstoi.\\\"\"\n    },\n    {\n      \"lineNumber\": 96665,\n      \"originalJapaneseLine\": \"「総統、シィルさん」\",\n      \"translatedEnglishLine\": \"\\\"Supreme Commander, Seale.\\\"\"\n    },\n    {\n      \"lineNumber\": 96666,\n      \"originalJapaneseLine\": \"「まったく、何度見ても暗い顔だな。\",\n      \"translatedEnglishLine\": \"\\\"Really, no matter how many times I see you, you always have such a gloomy face.\"\n    },\n    {\n      \"lineNumber\": 96667,\n      \"originalJapaneseLine\": \"　また貧乏くじがどうのと言っとったのか」\",\n      \"translatedEnglishLine\": \"Were you complaining again about drawing the short straw?\\\"\"\n    },\n    {\n      \"lineNumber\": 96668,\n      \"originalJapaneseLine\": \"「男の癖にグチグチとうっとうしい奴」\",\n      \"translatedEnglishLine\": \"\\\"You're so annoying, whining like a guy.\\\"\"\n    },\n    {\n      \"lineNumber\": 96669,\n      \"originalJapaneseLine\": \"「ら、ランス様……」\",\n      \"translatedEnglishLine\": \"\\\"L-Lance-sama...\\\"\"\n    },\n    {\n      \"lineNumber\": 96670,\n      \"originalJapaneseLine\": \"「はあ……これは失礼を。\",\n      \"translatedEnglishLine\": \"\\\"Ha... My apologies for that.\"\n    },\n    {\n      \"lineNumber\": 96671,\n      \"originalJapaneseLine\": \"　本当に気にしてるわけではありませんが、\",\n      \"translatedEnglishLine\": \"I don't truly mind, but\"\n    },\n    {\n      \"lineNumber\": 96672,\n      \"originalJapaneseLine\": \"　いつからか口癖になってましたね」\",\n      \"translatedEnglishLine\": \"it's become a habit to say it at some point.\\\"\"\n    },\n    {\n      \"lineNumber\": 96673,\n      \"originalJapaneseLine\": \"「自分で選んだ癖に文句垂れるな、と……\",\n      \"translatedEnglishLine\": \"\\\"I've been scolded by friends for complaining about something I chose myself...\\\"\"\n    },\n    {\n      \"lineNumber\": 96674,\n      \"originalJapaneseLine\": \"　友人にはよく叱られたものです」\",\n      \"translatedEnglishLine\": \"\\\"My friends often told me off for that.\\\"\"\n    },\n    {\n      \"lineNumber\": 96675,\n      \"originalJapaneseLine\": \"「ふん、まあいい。\",\n      \"translatedEnglishLine\": \"\\\"Hmph, well, whatever.\"\n    },\n    {\n      \"lineNumber\": 96676,\n      \"originalJapaneseLine\": \"　今日は別の話で来たのだ」\",\n      \"translatedEnglishLine\": \"I've come to talk about something else today.\\\"\"\n    },\n    {\n      \"lineNumber\": 96677,\n      \"originalJapaneseLine\": \"「別の話ですか」\",\n      \"translatedEnglishLine\": \"\\\"Something else?\\\"\"\n    },\n    {\n      \"lineNumber\": 96678,\n      \"originalJapaneseLine\": \"「お前、俺の女達に色目を使ってるだろう！」\",\n      \"translatedEnglishLine\": \"\\\"You're flirting with my women, aren't you!\\\"\"\n    },\n    {\n      \"lineNumber\": 96679,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\".........\\\"\"\n    },\n    {\n      \"lineNumber\": 96680,\n      \"originalJapaneseLine\": \"「ひどい誤解です」\",\n      \"translatedEnglishLine\": \"\\\"That's a terrible misunderstanding.\\\"\"\n    },\n    {\n      \"lineNumber\": 96681,\n      \"originalJapaneseLine\": \"「ら、ランス様……\",\n      \"translatedEnglishLine\": \"\\\"L-Lance-sama...\"\n    },\n    {\n      \"lineNumber\": 96682,\n      \"originalJapaneseLine\": \"　トルストイさん、そんなことしてませんよ」\",\n      \"translatedEnglishLine\": \"Tolstoi, he's not doing anything like that.\\\"\"\n    },\n    {\n      \"lineNumber\": 96683,\n      \"originalJapaneseLine\": \"「む、本当か？　本当だろうな？」\",\n      \"translatedEnglishLine\": \"\\\"Hmm, is that true? It better be true.\\\"\"\n    },\n    {\n      \"lineNumber\": 96684,\n      \"originalJapaneseLine\": \"「ほ、本当です」\",\n      \"translatedEnglishLine\": \"\\\"Y-yes, it is true.\\\"\"\n    },\n    {\n      \"lineNumber\": 96685,\n      \"originalJapaneseLine\": \"「ええ。\",\n      \"translatedEnglishLine\": \"\\\"Indeed.\"\n    },\n    {\n      \"lineNumber\": 96686,\n      \"originalJapaneseLine\": \"　総統の懇意の女性に色目を使うなど……\",\n      \"translatedEnglishLine\": \"To think of flirting with the Supreme Commander's favored women...\"\n    },\n    {\n      \"lineNumber\": 96687,\n      \"originalJapaneseLine\": \"　考えるだに震えてしまいますね」\",\n      \"translatedEnglishLine\": \"Just the thought of it makes me shudder.\\\"\"\n    },\n    {\n      \"lineNumber\": 96688,\n      \"originalJapaneseLine\": \"トルストイはボーッとした表情のまま答えた。\",\n      \"translatedEnglishLine\": \"Tolstoi replied with a dazed expression.\"\n    },\n    {\n      \"lineNumber\": 96689,\n      \"originalJapaneseLine\": \"「ふん、大体俺は部隊に俺以外の男が\",\n      \"translatedEnglishLine\": \"\\\"Hmph, generally speaking, I can't tolerate\"\n    },\n    {\n      \"lineNumber\": 96690,\n      \"originalJapaneseLine\": \"　いるってこと自体、我慢ならんのだ」\",\n      \"translatedEnglishLine\": \"the very idea of any other men being in the unit besides myself.\\\"\"\n    }\n  ]\n}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 96641,
+                "originalJapaneseLine": "「いえ、でも……確かにそうですね……",
+                "translatedEnglishLine": "\"No, but... that's certainly true...\""
+            },
+            {
+                "lineNumber": 96642,
+                "originalJapaneseLine": "　努力、してみます」",
+                "translatedEnglishLine": "I'll try to put in the effort.\""
+            },
+            {
+                "lineNumber": 96643,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\".........\""
+            },
+            {
+                "lineNumber": 96644,
+                "originalJapaneseLine": "「恐縮です」",
+                "translatedEnglishLine": "\"I'm humbled.\""
+            },
+            {
+                "lineNumber": 96645,
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "........."
+            },
+            {
+                "lineNumber": 96646,
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": 96647,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\".........\""
+            },
+            {
+                "lineNumber": 96648,
+                "originalJapaneseLine": "部屋から出たトルストイが",
+                "translatedEnglishLine": "Tolstoi, who had left the room,"
+            },
+            {
+                "lineNumber": 96649,
+                "originalJapaneseLine": "ガリガリと頭を掻く。",
+                "translatedEnglishLine": "scratched his head anxiously."
+            },
+            {
+                "lineNumber": 96650,
+                "originalJapaneseLine": "「やれやれ……」",
+                "translatedEnglishLine": "\"Good grief...\""
+            },
+            {
+                "lineNumber": 96651,
+                "originalJapaneseLine": "「貧乏くじ、また引かされたな……」",
+                "translatedEnglishLine": "\"I've drawn the short straw again...\""
+            },
+            {
+                "lineNumber": 96652,
+                "originalJapaneseLine": "「よく言うぜ」",
+                "translatedEnglishLine": "\"You say that a lot.\""
+            },
+            {
+                "lineNumber": 96653,
+                "originalJapaneseLine": "「ヒューバート殿」",
+                "translatedEnglishLine": "\"Lord Hubert.\""
+            },
+            {
+                "lineNumber": 96654,
+                "originalJapaneseLine": "「貧乏くじは自分から引いたくせに」",
+                "translatedEnglishLine": "\"You drew the short straw yourself, though.\""
+            },
+            {
+                "lineNumber": 96655,
+                "originalJapaneseLine": "「とんでもない。",
+                "translatedEnglishLine": "\"Not at all."
+            },
+            {
+                "lineNumber": 96656,
+                "originalJapaneseLine": "　他に選択の余地がなかっただけです」",
+                "translatedEnglishLine": "I just had no other choice.\""
+            },
+            {
+                "lineNumber": 96657,
+                "originalJapaneseLine": "「へっ……",
+                "translatedEnglishLine": "\"Heh..."
+            },
+            {
+                "lineNumber": 96658,
+                "originalJapaneseLine": "　まあ、そういうことにしておくぜ」",
+                "translatedEnglishLine": "Well, let's just say that.\""
+            },
+            {
+                "lineNumber": 96659,
+                "originalJapaneseLine": "「はあ、どうも……",
+                "translatedEnglishLine": "\"Ah, thank you..."
+            },
+            {
+                "lineNumber": 96660,
+                "originalJapaneseLine": "　恐縮です」",
+                "translatedEnglishLine": "I'm humbled.\""
+            },
+            {
+                "lineNumber": 96661,
+                "originalJapaneseLine": "「はあ……」",
+                "translatedEnglishLine": "\"Ha...\""
+            },
+            {
+                "lineNumber": 96662,
+                "originalJapaneseLine": "トルストイが中庭で溜め息をついていた。",
+                "translatedEnglishLine": "Tolstoi was sighing in the courtyard."
+            },
+            {
+                "lineNumber": 96663,
+                "originalJapaneseLine": "「おう」",
+                "translatedEnglishLine": "\"Hey.\""
+            },
+            {
+                "lineNumber": 96664,
+                "originalJapaneseLine": "「こんにちは、トルストイさん」",
+                "translatedEnglishLine": "\"Hello, Tolstoi.\""
+            },
+            {
+                "lineNumber": 96665,
+                "originalJapaneseLine": "「総統、シィルさん」",
+                "translatedEnglishLine": "\"Supreme Commander, Seale.\""
+            },
+            {
+                "lineNumber": 96666,
+                "originalJapaneseLine": "「まったく、何度見ても暗い顔だな。",
+                "translatedEnglishLine": "\"Really, no matter how many times I see you, you always have such a gloomy face."
+            },
+            {
+                "lineNumber": 96667,
+                "originalJapaneseLine": "　また貧乏くじがどうのと言っとったのか」",
+                "translatedEnglishLine": "Were you complaining again about drawing the short straw?\""
+            },
+            {
+                "lineNumber": 96668,
+                "originalJapaneseLine": "「男の癖にグチグチとうっとうしい奴」",
+                "translatedEnglishLine": "\"You're so annoying, whining like a guy.\""
+            },
+            {
+                "lineNumber": 96669,
+                "originalJapaneseLine": "「ら、ランス様……」",
+                "translatedEnglishLine": "\"L-Lance-sama...\""
+            },
+            {
+                "lineNumber": 96670,
+                "originalJapaneseLine": "「はあ……これは失礼を。",
+                "translatedEnglishLine": "\"Ha... My apologies for that."
+            },
+            {
+                "lineNumber": 96671,
+                "originalJapaneseLine": "　本当に気にしてるわけではありませんが、",
+                "translatedEnglishLine": "I don't truly mind, but"
+            },
+            {
+                "lineNumber": 96672,
+                "originalJapaneseLine": "　いつからか口癖になってましたね」",
+                "translatedEnglishLine": "it's become a habit to say it at some point.\""
+            },
+            {
+                "lineNumber": 96673,
+                "originalJapaneseLine": "「自分で選んだ癖に文句垂れるな、と……",
+                "translatedEnglishLine": "\"I've been scolded by friends for complaining about something I chose myself...\""
+            },
+            {
+                "lineNumber": 96674,
+                "originalJapaneseLine": "　友人にはよく叱られたものです」",
+                "translatedEnglishLine": "\"My friends often told me off for that.\""
+            },
+            {
+                "lineNumber": 96675,
+                "originalJapaneseLine": "「ふん、まあいい。",
+                "translatedEnglishLine": "\"Hmph, well, whatever."
+            },
+            {
+                "lineNumber": 96676,
+                "originalJapaneseLine": "　今日は別の話で来たのだ」",
+                "translatedEnglishLine": "I've come to talk about something else today.\""
+            },
+            {
+                "lineNumber": 96677,
+                "originalJapaneseLine": "「別の話ですか」",
+                "translatedEnglishLine": "\"Something else?\""
+            },
+            {
+                "lineNumber": 96678,
+                "originalJapaneseLine": "「お前、俺の女達に色目を使ってるだろう！」",
+                "translatedEnglishLine": "\"You're flirting with my women, aren't you!\""
+            },
+            {
+                "lineNumber": 96679,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\".........\""
+            },
+            {
+                "lineNumber": 96680,
+                "originalJapaneseLine": "「ひどい誤解です」",
+                "translatedEnglishLine": "\"That's a terrible misunderstanding.\""
+            },
+            {
+                "lineNumber": 96681,
+                "originalJapaneseLine": "「ら、ランス様……",
+                "translatedEnglishLine": "\"L-Lance-sama..."
+            },
+            {
+                "lineNumber": 96682,
+                "originalJapaneseLine": "　トルストイさん、そんなことしてませんよ」",
+                "translatedEnglishLine": "Tolstoi, he's not doing anything like that.\""
+            },
+            {
+                "lineNumber": 96683,
+                "originalJapaneseLine": "「む、本当か？　本当だろうな？」",
+                "translatedEnglishLine": "\"Hmm, is that true? It better be true.\""
+            },
+            {
+                "lineNumber": 96684,
+                "originalJapaneseLine": "「ほ、本当です」",
+                "translatedEnglishLine": "\"Y-yes, it is true.\""
+            },
+            {
+                "lineNumber": 96685,
+                "originalJapaneseLine": "「ええ。",
+                "translatedEnglishLine": "\"Indeed."
+            },
+            {
+                "lineNumber": 96686,
+                "originalJapaneseLine": "　総統の懇意の女性に色目を使うなど……",
+                "translatedEnglishLine": "To think of flirting with the Supreme Commander's favored women..."
+            },
+            {
+                "lineNumber": 96687,
+                "originalJapaneseLine": "　考えるだに震えてしまいますね」",
+                "translatedEnglishLine": "Just the thought of it makes me shudder.\""
+            },
+            {
+                "lineNumber": 96688,
+                "originalJapaneseLine": "トルストイはボーッとした表情のまま答えた。",
+                "translatedEnglishLine": "Tolstoi replied with a dazed expression."
+            },
+            {
+                "lineNumber": 96689,
+                "originalJapaneseLine": "「ふん、大体俺は部隊に俺以外の男が",
+                "translatedEnglishLine": "\"Hmph, generally speaking, I can't tolerate"
+            },
+            {
+                "lineNumber": 96690,
+                "originalJapaneseLine": "　いるってこと自体、我慢ならんのだ」",
+                "translatedEnglishLine": "the very idea of any other men being in the unit besides myself.\""
+            }
+        ]
+    }
+}

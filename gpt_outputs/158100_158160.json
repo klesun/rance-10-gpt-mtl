@@ -1,1 +1,719 @@
-{"id":"resp_0350d77047ae17220068f1618a4c7c8196b214a375ccd2b37f","object":"response","created_at":1760649610,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0350d77047ae17220068f1618ad3d081968e02c204b0d9d241","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":158041,\"originalJapaneseLine\":\"　お前の本ならここにあるぞーーー！\",\"translatedEnglishLine\":\"Here's your book!!!\"},{\"lineNumber\":158042,\"originalJapaneseLine\":\"「え！　本！？」\",\"translatedEnglishLine\":\"\\\"Huh! A book!?\\\"\"},{\"lineNumber\":158043,\"originalJapaneseLine\":\"ピタッと止まってハウゼルが振り返った。\",\"translatedEnglishLine\":\"Hausel stopped abruptly and turned around.\"},{\"lineNumber\":158044,\"originalJapaneseLine\":\"「おお、反応したよ！」\",\"translatedEnglishLine\":\"\\\"Oh, you reacted!\\\"\"},{\"lineNumber\":158045,\"originalJapaneseLine\":\"「がははは！　狙い通りだ！」\",\"translatedEnglishLine\":\"\\\"Gahaha! Just as planned!\\\"\"},{\"lineNumber\":158046,\"originalJapaneseLine\":\"「あ、あの！　本って、その、もしかして――！」\",\"translatedEnglishLine\":\"\\\"Uh, um! The book, could it be—!\\\"\"},{\"lineNumber\":158047,\"originalJapaneseLine\":\"「ドラゴンパッチの六巻ですよね？\",\"translatedEnglishLine\":\"\\\"It's volume six of Dragon Patch, right?\"},{\"lineNumber\":158048,\"originalJapaneseLine\":\"　昨日、落とされたのを拾っておいたんです」\",\"translatedEnglishLine\":\"I picked it up when you dropped it yesterday.\\\"\"},{\"lineNumber\":158049,\"originalJapaneseLine\":\"「あーーーっ！　それです！」\",\"translatedEnglishLine\":\"\\\"Ahhh! That's it!\\\"\"},{\"lineNumber\":158050,\"originalJapaneseLine\":\"「良かった、落として困っていたんですね。\",\"translatedEnglishLine\":\"\\\"I'm glad, you were troubled after dropping it.\"},{\"lineNumber\":158051,\"originalJapaneseLine\":\"　はい、どうぞ」\",\"translatedEnglishLine\":\"Here you go.\\\"\"},{\"lineNumber\":158052,\"originalJapaneseLine\":\"「ああ……良かった……」\",\"translatedEnglishLine\":\"\\\"Ah... I'm so relieved...\\\"\"},{\"lineNumber\":158053,\"originalJapaneseLine\":\"ハウゼルは受け取った本を胸元で抱きしめ、\",\"translatedEnglishLine\":\"Hausel hugged the received book close to his chest,\"},{\"lineNumber\":158054,\"originalJapaneseLine\":\"ほうっと息を漏らした。\",\"translatedEnglishLine\":\"and let out a long sigh.\"},{\"lineNumber\":158055,\"originalJapaneseLine\":\"「あ、あのぅ……」\",\"translatedEnglishLine\":\"\\\"Um, excuse me...\\\"\"},{\"lineNumber\":158056,\"originalJapaneseLine\":\"「ハウゼルさんもお好きなんですか？\",\"translatedEnglishLine\":\"\\\"Do you like it too, Hausel?\"},{\"lineNumber\":158057,\"originalJapaneseLine\":\"　ドラゴンパッチ」\",\"translatedEnglishLine\":\"Dragon Patch?\\\"\"},{\"lineNumber\":158058,\"originalJapaneseLine\":\"「え、ええ」\",\"translatedEnglishLine\":\"\\\"Y-Yeah.\\\"\"},{\"lineNumber\":158059,\"originalJapaneseLine\":\"「えへへ、面白いですよねー。\",\"translatedEnglishLine\":\"\\\"Hehe, it's fun, isn't it?\"},{\"lineNumber\":158060,\"originalJapaneseLine\":\"　主人公のロットンがいつでも\",\"translatedEnglishLine\":\"The hero Rotton is always\"},{\"lineNumber\":158061,\"originalJapaneseLine\":\"　ひたむきで一生懸命で……」\",\"translatedEnglishLine\":\"earnest and hardworking...\\\"\"},{\"lineNumber\":158062,\"originalJapaneseLine\":\"「わあ、私、この本のファンの方、\",\"translatedEnglishLine\":\"\\\"Wow, this is the first time I've met a fan of this book.\"},{\"lineNumber\":158063,\"originalJapaneseLine\":\"　初めてお会いしました。\",\"translatedEnglishLine\":\"Nice to meet you.\"},{\"lineNumber\":158064,\"originalJapaneseLine\":\"　そうそう、ロットン君いいですよね」\",\"translatedEnglishLine\":\"Yes, yes, Rotton is great.\\\"\"},{\"lineNumber\":158065,\"originalJapaneseLine\":\"「クー君は怠け者で臆病ですけど、\",\"translatedEnglishLine\":\"\\\"Ku is lazy and cowardly, but\"},{\"lineNumber\":158066,\"originalJapaneseLine\":\"　いざとなったらそんなロットン君が\",\"translatedEnglishLine\":\"when it comes down to it, that Rotton\"},{\"lineNumber\":158067,\"originalJapaneseLine\":\"　見捨てられなくて……」\",\"translatedEnglishLine\":\"can't bring himself to abandon him...\\\"\"},{\"lineNumber\":158068,\"originalJapaneseLine\":\"「あ、わたし、恥ずかしいんですけど、\",\"translatedEnglishLine\":\"\\\"Ah, I'm embarrassed to say this,\"},{\"lineNumber\":158069,\"originalJapaneseLine\":\"　竜姫アボガドとの恋愛模様が大好きで……」\",\"translatedEnglishLine\":\"but I love the romantic relationship with Princess Avocado...\\\"\"},{\"lineNumber\":158070,\"originalJapaneseLine\":\"「アボガド姫！　いいですよね！\",\"translatedEnglishLine\":\"\\\"Princess Avocado! She's great, isn't she!\"},{\"lineNumber\":158071,\"originalJapaneseLine\":\"　三巻の夜のテラスでの会話が\",\"translatedEnglishLine\":\"The conversation on the terrace at night in volume three\"},{\"lineNumber\":158072,\"originalJapaneseLine\":\"　私とっても大好きなんです！」\",\"translatedEnglishLine\":\"I really love it!\\\"\"},{\"lineNumber\":158073,\"originalJapaneseLine\":\"「二人の会話がすっごく可愛いんですよね！\",\"translatedEnglishLine\":\"\\\"Their conversation is super cute, you know!\"},{\"lineNumber\":158074,\"originalJapaneseLine\":\"　本当はお互いが大好きなのに\",\"translatedEnglishLine\":\"Though they actually love each other,\"},{\"lineNumber\":158075,\"originalJapaneseLine\":\"　照れてどっちも誤魔化そうとしていて！」\",\"translatedEnglishLine\":\"they're both shy and try to hide it!\\\"\"},{\"lineNumber\":158076,\"originalJapaneseLine\":\"「そうそう！　そうなんですよね！」\",\"translatedEnglishLine\":\"\\\"Yeah, exactly! That's how it is!\\\"\"},{\"lineNumber\":158077,\"originalJapaneseLine\":\"「こらーーー！」\",\"translatedEnglishLine\":\"\\\"Hey!!!\\\"\"},{\"lineNumber\":158078,\"originalJapaneseLine\":\"「ひゃうう！？　なななな、なんですか！？」\",\"translatedEnglishLine\":\"\\\"Hyaaa!? Wh-Wh-What is this!?\\\"\"},{\"lineNumber\":158079,\"originalJapaneseLine\":\"「なーにを盛り上がっとるか」\",\"translatedEnglishLine\":\"\\\"What are you all so excited about?\\\"\"},{\"lineNumber\":158080,\"originalJapaneseLine\":\"「大体、あっさりと渡してどうする。\",\"translatedEnglishLine\":\"\\\"And why hand it over so easily?\"},{\"lineNumber\":158081,\"originalJapaneseLine\":\"　俺様はそれをうまく使って\",\"translatedEnglishLine\":\"I was planning to cleverly use that\"},{\"lineNumber\":158082,\"originalJapaneseLine\":\"　エッチなことをしようとだな――」\",\"translatedEnglishLine\":\"to do something naughty—\\\"\"},{\"lineNumber\":158083,\"originalJapaneseLine\":\"「えっち？」\",\"translatedEnglishLine\":\"\\\"Naughty?\\\"\"},{\"lineNumber\":158084,\"originalJapaneseLine\":\"「あっ、すみません、私急いで本を返さないと！」\",\"translatedEnglishLine\":\"\\\"Ah, sorry, I have to hurry and return the book!\\\"\"},{\"lineNumber\":158085,\"originalJapaneseLine\":\"「今日のお礼はまた日を改めて……\",\"translatedEnglishLine\":\"\\\"I'll repay you another day for today...\"},{\"lineNumber\":158086,\"originalJapaneseLine\":\"　すみません、これで失礼をさせて頂きます」\",\"translatedEnglishLine\":\"Sorry, please excuse me now.\\\"\"},{\"lineNumber\":158087,\"originalJapaneseLine\":\"「え、あっ――！」\",\"translatedEnglishLine\":\"\\\"Eh, ah—!\\\"\"},{\"lineNumber\":158088,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":158089,\"originalJapaneseLine\":\"　　＜ぴゅーーーーん＞\",\"translatedEnglishLine\":\"<whoosh> \"},{\"lineNumber\":158090,\"originalJapaneseLine\":\"ハウゼルはあっという間に\",\"translatedEnglishLine\":\"Hausel quickly\"},{\"lineNumber\":158091,\"originalJapaneseLine\":\"飛んで去って行った。\",\"translatedEnglishLine\":\"flew away in an instant.\"},{\"lineNumber\":158092,\"originalJapaneseLine\":\"「こ、こら待てーーーーー！！！！」\",\"translatedEnglishLine\":\"\\\"H-Heeey, wait----!!!!\\\"\"},{\"lineNumber\":158093,\"originalJapaneseLine\":\"「…………逃げられた」\",\"translatedEnglishLine\":\"\\\"...He got away.\\\"\"},{\"lineNumber\":158094,\"originalJapaneseLine\":\"「逃げられちゃいましたねぇ……」\",\"translatedEnglishLine\":\"\\\"He really ran off, huh...\\\"\"},{\"lineNumber\":158095,\"originalJapaneseLine\":\"「……サチコ……後で……お仕置き」\",\"translatedEnglishLine\":\"\\\"...Sachiko... you'll be punished later.\\\"\"},{\"lineNumber\":158096,\"originalJapaneseLine\":\"「なんでですかーーー！？」\",\"translatedEnglishLine\":\"\\\"W-Why!?\\\"\"},{\"lineNumber\":158097,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"......\"},{\"lineNumber\":158098,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":158099,\"originalJapaneseLine\":\"「きょ、今日こそ仲直りしようと思っていたのに、\",\"translatedEnglishLine\":\"\\\"I-I was thinking we would make up today, but,\"},{\"lineNumber\":158100,\"originalJapaneseLine\":\"　な、なんで……なんで……\",\"translatedEnglishLine\":\"w-why... why...\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":158041,"originalJapaneseLine":"　お前の本ならここにあるぞーーー！","translatedEnglishLine":"Here's your book!!!"},{"lineNumber":158042,"originalJapaneseLine":"「え！　本！？」","translatedEnglishLine":"\"Huh! A book!?\""},{"lineNumber":158043,"originalJapaneseLine":"ピタッと止まってハウゼルが振り返った。","translatedEnglishLine":"Hausel stopped abruptly and turned around."},{"lineNumber":158044,"originalJapaneseLine":"「おお、反応したよ！」","translatedEnglishLine":"\"Oh, you reacted!\""},{"lineNumber":158045,"originalJapaneseLine":"「がははは！　狙い通りだ！」","translatedEnglishLine":"\"Gahaha! Just as planned!\""},{"lineNumber":158046,"originalJapaneseLine":"「あ、あの！　本って、その、もしかして――！」","translatedEnglishLine":"\"Uh, um! The book, could it be—!\""},{"lineNumber":158047,"originalJapaneseLine":"「ドラゴンパッチの六巻ですよね？","translatedEnglishLine":"\"It's volume six of Dragon Patch, right?"},{"lineNumber":158048,"originalJapaneseLine":"　昨日、落とされたのを拾っておいたんです」","translatedEnglishLine":"I picked it up when you dropped it yesterday.\""},{"lineNumber":158049,"originalJapaneseLine":"「あーーーっ！　それです！」","translatedEnglishLine":"\"Ahhh! That's it!\""},{"lineNumber":158050,"originalJapaneseLine":"「良かった、落として困っていたんですね。","translatedEnglishLine":"\"I'm glad, you were troubled after dropping it."},{"lineNumber":158051,"originalJapaneseLine":"　はい、どうぞ」","translatedEnglishLine":"Here you go.\""},{"lineNumber":158052,"originalJapaneseLine":"「ああ……良かった……」","translatedEnglishLine":"\"Ah... I'm so relieved...\""},{"lineNumber":158053,"originalJapaneseLine":"ハウゼルは受け取った本を胸元で抱きしめ、","translatedEnglishLine":"Hausel hugged the received book close to his chest,"},{"lineNumber":158054,"originalJapaneseLine":"ほうっと息を漏らした。","translatedEnglishLine":"and let out a long sigh."},{"lineNumber":158055,"originalJapaneseLine":"「あ、あのぅ……」","translatedEnglishLine":"\"Um, excuse me...\""},{"lineNumber":158056,"originalJapaneseLine":"「ハウゼルさんもお好きなんですか？","translatedEnglishLine":"\"Do you like it too, Hausel?"},{"lineNumber":158057,"originalJapaneseLine":"　ドラゴンパッチ」","translatedEnglishLine":"Dragon Patch?\""},{"lineNumber":158058,"originalJapaneseLine":"「え、ええ」","translatedEnglishLine":"\"Y-Yeah.\""},{"lineNumber":158059,"originalJapaneseLine":"「えへへ、面白いですよねー。","translatedEnglishLine":"\"Hehe, it's fun, isn't it?"},{"lineNumber":158060,"originalJapaneseLine":"　主人公のロットンがいつでも","translatedEnglishLine":"The hero Rotton is always"},{"lineNumber":158061,"originalJapaneseLine":"　ひたむきで一生懸命で……」","translatedEnglishLine":"earnest and hardworking...\""},{"lineNumber":158062,"originalJapaneseLine":"「わあ、私、この本のファンの方、","translatedEnglishLine":"\"Wow, this is the first time I've met a fan of this book."},{"lineNumber":158063,"originalJapaneseLine":"　初めてお会いしました。","translatedEnglishLine":"Nice to meet you."},{"lineNumber":158064,"originalJapaneseLine":"　そうそう、ロットン君いいですよね」","translatedEnglishLine":"Yes, yes, Rotton is great.\""},{"lineNumber":158065,"originalJapaneseLine":"「クー君は怠け者で臆病ですけど、","translatedEnglishLine":"\"Ku is lazy and cowardly, but"},{"lineNumber":158066,"originalJapaneseLine":"　いざとなったらそんなロットン君が","translatedEnglishLine":"when it comes down to it, that Rotton"},{"lineNumber":158067,"originalJapaneseLine":"　見捨てられなくて……」","translatedEnglishLine":"can't bring himself to abandon him...\""},{"lineNumber":158068,"originalJapaneseLine":"「あ、わたし、恥ずかしいんですけど、","translatedEnglishLine":"\"Ah, I'm embarrassed to say this,"},{"lineNumber":158069,"originalJapaneseLine":"　竜姫アボガドとの恋愛模様が大好きで……」","translatedEnglishLine":"but I love the romantic relationship with Princess Avocado...\""},{"lineNumber":158070,"originalJapaneseLine":"「アボガド姫！　いいですよね！","translatedEnglishLine":"\"Princess Avocado! She's great, isn't she!"},{"lineNumber":158071,"originalJapaneseLine":"　三巻の夜のテラスでの会話が","translatedEnglishLine":"The conversation on the terrace at night in volume three"},{"lineNumber":158072,"originalJapaneseLine":"　私とっても大好きなんです！」","translatedEnglishLine":"I really love it!\""},{"lineNumber":158073,"originalJapaneseLine":"「二人の会話がすっごく可愛いんですよね！","translatedEnglishLine":"\"Their conversation is super cute, you know!"},{"lineNumber":158074,"originalJapaneseLine":"　本当はお互いが大好きなのに","translatedEnglishLine":"Though they actually love each other,"},{"lineNumber":158075,"originalJapaneseLine":"　照れてどっちも誤魔化そうとしていて！」","translatedEnglishLine":"they're both shy and try to hide it!\""},{"lineNumber":158076,"originalJapaneseLine":"「そうそう！　そうなんですよね！」","translatedEnglishLine":"\"Yeah, exactly! That's how it is!\""},{"lineNumber":158077,"originalJapaneseLine":"「こらーーー！」","translatedEnglishLine":"\"Hey!!!\""},{"lineNumber":158078,"originalJapaneseLine":"「ひゃうう！？　なななな、なんですか！？」","translatedEnglishLine":"\"Hyaaa!? Wh-Wh-What is this!?\""},{"lineNumber":158079,"originalJapaneseLine":"「なーにを盛り上がっとるか」","translatedEnglishLine":"\"What are you all so excited about?\""},{"lineNumber":158080,"originalJapaneseLine":"「大体、あっさりと渡してどうする。","translatedEnglishLine":"\"And why hand it over so easily?"},{"lineNumber":158081,"originalJapaneseLine":"　俺様はそれをうまく使って","translatedEnglishLine":"I was planning to cleverly use that"},{"lineNumber":158082,"originalJapaneseLine":"　エッチなことをしようとだな――」","translatedEnglishLine":"to do something naughty—\""},{"lineNumber":158083,"originalJapaneseLine":"「えっち？」","translatedEnglishLine":"\"Naughty?\""},{"lineNumber":158084,"originalJapaneseLine":"「あっ、すみません、私急いで本を返さないと！」","translatedEnglishLine":"\"Ah, sorry, I have to hurry and return the book!\""},{"lineNumber":158085,"originalJapaneseLine":"「今日のお礼はまた日を改めて……","translatedEnglishLine":"\"I'll repay you another day for today..."},{"lineNumber":158086,"originalJapaneseLine":"　すみません、これで失礼をさせて頂きます」","translatedEnglishLine":"Sorry, please excuse me now.\""},{"lineNumber":158087,"originalJapaneseLine":"「え、あっ――！」","translatedEnglishLine":"\"Eh, ah—!\""},{"lineNumber":158088,"originalJapaneseLine":"　","translatedEnglishLine":""},{"lineNumber":158089,"originalJapaneseLine":"　　＜ぴゅーーーーん＞","translatedEnglishLine":"<whoosh> "},{"lineNumber":158090,"originalJapaneseLine":"ハウゼルはあっという間に","translatedEnglishLine":"Hausel quickly"},{"lineNumber":158091,"originalJapaneseLine":"飛んで去って行った。","translatedEnglishLine":"flew away in an instant."},{"lineNumber":158092,"originalJapaneseLine":"「こ、こら待てーーーーー！！！！」","translatedEnglishLine":"\"H-Heeey, wait----!!!!\""},{"lineNumber":158093,"originalJapaneseLine":"「…………逃げられた」","translatedEnglishLine":"\"...He got away.\""},{"lineNumber":158094,"originalJapaneseLine":"「逃げられちゃいましたねぇ……」","translatedEnglishLine":"\"He really ran off, huh...\""},{"lineNumber":158095,"originalJapaneseLine":"「……サチコ……後で……お仕置き」","translatedEnglishLine":"\"...Sachiko... you'll be punished later.\""},{"lineNumber":158096,"originalJapaneseLine":"「なんでですかーーー！？」","translatedEnglishLine":"\"W-Why!?\""},{"lineNumber":158097,"originalJapaneseLine":"…………","translatedEnglishLine":"......"},{"lineNumber":158098,"originalJapaneseLine":"……","translatedEnglishLine":"..."},{"lineNumber":158099,"originalJapaneseLine":"「きょ、今日こそ仲直りしようと思っていたのに、","translatedEnglishLine":"\"I-I was thinking we would make up today, but,"},{"lineNumber":158100,"originalJapaneseLine":"　な、なんで……なんで……","translatedEnglishLine":"w-why... why...\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1682,"input_tokens_details":{"cached_tokens":0},"output_tokens":2129,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3811},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":158041,\"originalJapaneseLine\":\"　お前の本ならここにあるぞーーー！\",\"translatedEnglishLine\":\"Here's your book!!!\"},{\"lineNumber\":158042,\"originalJapaneseLine\":\"「え！　本！？」\",\"translatedEnglishLine\":\"\\\"Huh! A book!?\\\"\"},{\"lineNumber\":158043,\"originalJapaneseLine\":\"ピタッと止まってハウゼルが振り返った。\",\"translatedEnglishLine\":\"Hausel stopped abruptly and turned around.\"},{\"lineNumber\":158044,\"originalJapaneseLine\":\"「おお、反応したよ！」\",\"translatedEnglishLine\":\"\\\"Oh, you reacted!\\\"\"},{\"lineNumber\":158045,\"originalJapaneseLine\":\"「がははは！　狙い通りだ！」\",\"translatedEnglishLine\":\"\\\"Gahaha! Just as planned!\\\"\"},{\"lineNumber\":158046,\"originalJapaneseLine\":\"「あ、あの！　本って、その、もしかして――！」\",\"translatedEnglishLine\":\"\\\"Uh, um! The book, could it be—!\\\"\"},{\"lineNumber\":158047,\"originalJapaneseLine\":\"「ドラゴンパッチの六巻ですよね？\",\"translatedEnglishLine\":\"\\\"It's volume six of Dragon Patch, right?\"},{\"lineNumber\":158048,\"originalJapaneseLine\":\"　昨日、落とされたのを拾っておいたんです」\",\"translatedEnglishLine\":\"I picked it up when you dropped it yesterday.\\\"\"},{\"lineNumber\":158049,\"originalJapaneseLine\":\"「あーーーっ！　それです！」\",\"translatedEnglishLine\":\"\\\"Ahhh! That's it!\\\"\"},{\"lineNumber\":158050,\"originalJapaneseLine\":\"「良かった、落として困っていたんですね。\",\"translatedEnglishLine\":\"\\\"I'm glad, you were troubled after dropping it.\"},{\"lineNumber\":158051,\"originalJapaneseLine\":\"　はい、どうぞ」\",\"translatedEnglishLine\":\"Here you go.\\\"\"},{\"lineNumber\":158052,\"originalJapaneseLine\":\"「ああ……良かった……」\",\"translatedEnglishLine\":\"\\\"Ah... I'm so relieved...\\\"\"},{\"lineNumber\":158053,\"originalJapaneseLine\":\"ハウゼルは受け取った本を胸元で抱きしめ、\",\"translatedEnglishLine\":\"Hausel hugged the received book close to his chest,\"},{\"lineNumber\":158054,\"originalJapaneseLine\":\"ほうっと息を漏らした。\",\"translatedEnglishLine\":\"and let out a long sigh.\"},{\"lineNumber\":158055,\"originalJapaneseLine\":\"「あ、あのぅ……」\",\"translatedEnglishLine\":\"\\\"Um, excuse me...\\\"\"},{\"lineNumber\":158056,\"originalJapaneseLine\":\"「ハウゼルさんもお好きなんですか？\",\"translatedEnglishLine\":\"\\\"Do you like it too, Hausel?\"},{\"lineNumber\":158057,\"originalJapaneseLine\":\"　ドラゴンパッチ」\",\"translatedEnglishLine\":\"Dragon Patch?\\\"\"},{\"lineNumber\":158058,\"originalJapaneseLine\":\"「え、ええ」\",\"translatedEnglishLine\":\"\\\"Y-Yeah.\\\"\"},{\"lineNumber\":158059,\"originalJapaneseLine\":\"「えへへ、面白いですよねー。\",\"translatedEnglishLine\":\"\\\"Hehe, it's fun, isn't it?\"},{\"lineNumber\":158060,\"originalJapaneseLine\":\"　主人公のロットンがいつでも\",\"translatedEnglishLine\":\"The hero Rotton is always\"},{\"lineNumber\":158061,\"originalJapaneseLine\":\"　ひたむきで一生懸命で……」\",\"translatedEnglishLine\":\"earnest and hardworking...\\\"\"},{\"lineNumber\":158062,\"originalJapaneseLine\":\"「わあ、私、この本のファンの方、\",\"translatedEnglishLine\":\"\\\"Wow, this is the first time I've met a fan of this book.\"},{\"lineNumber\":158063,\"originalJapaneseLine\":\"　初めてお会いしました。\",\"translatedEnglishLine\":\"Nice to meet you.\"},{\"lineNumber\":158064,\"originalJapaneseLine\":\"　そうそう、ロットン君いいですよね」\",\"translatedEnglishLine\":\"Yes, yes, Rotton is great.\\\"\"},{\"lineNumber\":158065,\"originalJapaneseLine\":\"「クー君は怠け者で臆病ですけど、\",\"translatedEnglishLine\":\"\\\"Ku is lazy and cowardly, but\"},{\"lineNumber\":158066,\"originalJapaneseLine\":\"　いざとなったらそんなロットン君が\",\"translatedEnglishLine\":\"when it comes down to it, that Rotton\"},{\"lineNumber\":158067,\"originalJapaneseLine\":\"　見捨てられなくて……」\",\"translatedEnglishLine\":\"can't bring himself to abandon him...\\\"\"},{\"lineNumber\":158068,\"originalJapaneseLine\":\"「あ、わたし、恥ずかしいんですけど、\",\"translatedEnglishLine\":\"\\\"Ah, I'm embarrassed to say this,\"},{\"lineNumber\":158069,\"originalJapaneseLine\":\"　竜姫アボガドとの恋愛模様が大好きで……」\",\"translatedEnglishLine\":\"but I love the romantic relationship with Princess Avocado...\\\"\"},{\"lineNumber\":158070,\"originalJapaneseLine\":\"「アボガド姫！　いいですよね！\",\"translatedEnglishLine\":\"\\\"Princess Avocado! She's great, isn't she!\"},{\"lineNumber\":158071,\"originalJapaneseLine\":\"　三巻の夜のテラスでの会話が\",\"translatedEnglishLine\":\"The conversation on the terrace at night in volume three\"},{\"lineNumber\":158072,\"originalJapaneseLine\":\"　私とっても大好きなんです！」\",\"translatedEnglishLine\":\"I really love it!\\\"\"},{\"lineNumber\":158073,\"originalJapaneseLine\":\"「二人の会話がすっごく可愛いんですよね！\",\"translatedEnglishLine\":\"\\\"Their conversation is super cute, you know!\"},{\"lineNumber\":158074,\"originalJapaneseLine\":\"　本当はお互いが大好きなのに\",\"translatedEnglishLine\":\"Though they actually love each other,\"},{\"lineNumber\":158075,\"originalJapaneseLine\":\"　照れてどっちも誤魔化そうとしていて！」\",\"translatedEnglishLine\":\"they're both shy and try to hide it!\\\"\"},{\"lineNumber\":158076,\"originalJapaneseLine\":\"「そうそう！　そうなんですよね！」\",\"translatedEnglishLine\":\"\\\"Yeah, exactly! That's how it is!\\\"\"},{\"lineNumber\":158077,\"originalJapaneseLine\":\"「こらーーー！」\",\"translatedEnglishLine\":\"\\\"Hey!!!\\\"\"},{\"lineNumber\":158078,\"originalJapaneseLine\":\"「ひゃうう！？　なななな、なんですか！？」\",\"translatedEnglishLine\":\"\\\"Hyaaa!? Wh-Wh-What is this!?\\\"\"},{\"lineNumber\":158079,\"originalJapaneseLine\":\"「なーにを盛り上がっとるか」\",\"translatedEnglishLine\":\"\\\"What are you all so excited about?\\\"\"},{\"lineNumber\":158080,\"originalJapaneseLine\":\"「大体、あっさりと渡してどうする。\",\"translatedEnglishLine\":\"\\\"And why hand it over so easily?\"},{\"lineNumber\":158081,\"originalJapaneseLine\":\"　俺様はそれをうまく使って\",\"translatedEnglishLine\":\"I was planning to cleverly use that\"},{\"lineNumber\":158082,\"originalJapaneseLine\":\"　エッチなことをしようとだな――」\",\"translatedEnglishLine\":\"to do something naughty—\\\"\"},{\"lineNumber\":158083,\"originalJapaneseLine\":\"「えっち？」\",\"translatedEnglishLine\":\"\\\"Naughty?\\\"\"},{\"lineNumber\":158084,\"originalJapaneseLine\":\"「あっ、すみません、私急いで本を返さないと！」\",\"translatedEnglishLine\":\"\\\"Ah, sorry, I have to hurry and return the book!\\\"\"},{\"lineNumber\":158085,\"originalJapaneseLine\":\"「今日のお礼はまた日を改めて……\",\"translatedEnglishLine\":\"\\\"I'll repay you another day for today...\"},{\"lineNumber\":158086,\"originalJapaneseLine\":\"　すみません、これで失礼をさせて頂きます」\",\"translatedEnglishLine\":\"Sorry, please excuse me now.\\\"\"},{\"lineNumber\":158087,\"originalJapaneseLine\":\"「え、あっ――！」\",\"translatedEnglishLine\":\"\\\"Eh, ah—!\\\"\"},{\"lineNumber\":158088,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":158089,\"originalJapaneseLine\":\"　　＜ぴゅーーーーん＞\",\"translatedEnglishLine\":\"<whoosh> \"},{\"lineNumber\":158090,\"originalJapaneseLine\":\"ハウゼルはあっという間に\",\"translatedEnglishLine\":\"Hausel quickly\"},{\"lineNumber\":158091,\"originalJapaneseLine\":\"飛んで去って行った。\",\"translatedEnglishLine\":\"flew away in an instant.\"},{\"lineNumber\":158092,\"originalJapaneseLine\":\"「こ、こら待てーーーーー！！！！」\",\"translatedEnglishLine\":\"\\\"H-Heeey, wait----!!!!\\\"\"},{\"lineNumber\":158093,\"originalJapaneseLine\":\"「…………逃げられた」\",\"translatedEnglishLine\":\"\\\"...He got away.\\\"\"},{\"lineNumber\":158094,\"originalJapaneseLine\":\"「逃げられちゃいましたねぇ……」\",\"translatedEnglishLine\":\"\\\"He really ran off, huh...\\\"\"},{\"lineNumber\":158095,\"originalJapaneseLine\":\"「……サチコ……後で……お仕置き」\",\"translatedEnglishLine\":\"\\\"...Sachiko... you'll be punished later.\\\"\"},{\"lineNumber\":158096,\"originalJapaneseLine\":\"「なんでですかーーー！？」\",\"translatedEnglishLine\":\"\\\"W-Why!?\\\"\"},{\"lineNumber\":158097,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"......\"},{\"lineNumber\":158098,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":158099,\"originalJapaneseLine\":\"「きょ、今日こそ仲直りしようと思っていたのに、\",\"translatedEnglishLine\":\"\\\"I-I was thinking we would make up today, but,\"},{\"lineNumber\":158100,\"originalJapaneseLine\":\"　な、なんで……なんで……\",\"translatedEnglishLine\":\"w-why... why...\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":158041,"originalJapaneseLine":"　お前の本ならここにあるぞーーー！","translatedEnglishLine":"Here's your book!!!"},{"lineNumber":158042,"originalJapaneseLine":"「え！　本！？」","translatedEnglishLine":"\"Huh! A book!?\""},{"lineNumber":158043,"originalJapaneseLine":"ピタッと止まってハウゼルが振り返った。","translatedEnglishLine":"Hausel stopped abruptly and turned around."},{"lineNumber":158044,"originalJapaneseLine":"「おお、反応したよ！」","translatedEnglishLine":"\"Oh, you reacted!\""},{"lineNumber":158045,"originalJapaneseLine":"「がははは！　狙い通りだ！」","translatedEnglishLine":"\"Gahaha! Just as planned!\""},{"lineNumber":158046,"originalJapaneseLine":"「あ、あの！　本って、その、もしかして――！」","translatedEnglishLine":"\"Uh, um! The book, could it be—!\""},{"lineNumber":158047,"originalJapaneseLine":"「ドラゴンパッチの六巻ですよね？","translatedEnglishLine":"\"It's volume six of Dragon Patch, right?"},{"lineNumber":158048,"originalJapaneseLine":"　昨日、落とされたのを拾っておいたんです」","translatedEnglishLine":"I picked it up when you dropped it yesterday.\""},{"lineNumber":158049,"originalJapaneseLine":"「あーーーっ！　それです！」","translatedEnglishLine":"\"Ahhh! That's it!\""},{"lineNumber":158050,"originalJapaneseLine":"「良かった、落として困っていたんですね。","translatedEnglishLine":"\"I'm glad, you were troubled after dropping it."},{"lineNumber":158051,"originalJapaneseLine":"　はい、どうぞ」","translatedEnglishLine":"Here you go.\""},{"lineNumber":158052,"originalJapaneseLine":"「ああ……良かった……」","translatedEnglishLine":"\"Ah... I'm so relieved...\""},{"lineNumber":158053,"originalJapaneseLine":"ハウゼルは受け取った本を胸元で抱きしめ、","translatedEnglishLine":"Hausel hugged the received book close to his chest,"},{"lineNumber":158054,"originalJapaneseLine":"ほうっと息を漏らした。","translatedEnglishLine":"and let out a long sigh."},{"lineNumber":158055,"originalJapaneseLine":"「あ、あのぅ……」","translatedEnglishLine":"\"Um, excuse me...\""},{"lineNumber":158056,"originalJapaneseLine":"「ハウゼルさんもお好きなんですか？","translatedEnglishLine":"\"Do you like it too, Hausel?"},{"lineNumber":158057,"originalJapaneseLine":"　ドラゴンパッチ」","translatedEnglishLine":"Dragon Patch?\""},{"lineNumber":158058,"originalJapaneseLine":"「え、ええ」","translatedEnglishLine":"\"Y-Yeah.\""},{"lineNumber":158059,"originalJapaneseLine":"「えへへ、面白いですよねー。","translatedEnglishLine":"\"Hehe, it's fun, isn't it?"},{"lineNumber":158060,"originalJapaneseLine":"　主人公のロットンがいつでも","translatedEnglishLine":"The hero Rotton is always"},{"lineNumber":158061,"originalJapaneseLine":"　ひたむきで一生懸命で……」","translatedEnglishLine":"earnest and hardworking...\""},{"lineNumber":158062,"originalJapaneseLine":"「わあ、私、この本のファンの方、","translatedEnglishLine":"\"Wow, this is the first time I've met a fan of this book."},{"lineNumber":158063,"originalJapaneseLine":"　初めてお会いしました。","translatedEnglishLine":"Nice to meet you."},{"lineNumber":158064,"originalJapaneseLine":"　そうそう、ロットン君いいですよね」","translatedEnglishLine":"Yes, yes, Rotton is great.\""},{"lineNumber":158065,"originalJapaneseLine":"「クー君は怠け者で臆病ですけど、","translatedEnglishLine":"\"Ku is lazy and cowardly, but"},{"lineNumber":158066,"originalJapaneseLine":"　いざとなったらそんなロットン君が","translatedEnglishLine":"when it comes down to it, that Rotton"},{"lineNumber":158067,"originalJapaneseLine":"　見捨てられなくて……」","translatedEnglishLine":"can't bring himself to abandon him...\""},{"lineNumber":158068,"originalJapaneseLine":"「あ、わたし、恥ずかしいんですけど、","translatedEnglishLine":"\"Ah, I'm embarrassed to say this,"},{"lineNumber":158069,"originalJapaneseLine":"　竜姫アボガドとの恋愛模様が大好きで……」","translatedEnglishLine":"but I love the romantic relationship with Princess Avocado...\""},{"lineNumber":158070,"originalJapaneseLine":"「アボガド姫！　いいですよね！","translatedEnglishLine":"\"Princess Avocado! She's great, isn't she!"},{"lineNumber":158071,"originalJapaneseLine":"　三巻の夜のテラスでの会話が","translatedEnglishLine":"The conversation on the terrace at night in volume three"},{"lineNumber":158072,"originalJapaneseLine":"　私とっても大好きなんです！」","translatedEnglishLine":"I really love it!\""},{"lineNumber":158073,"originalJapaneseLine":"「二人の会話がすっごく可愛いんですよね！","translatedEnglishLine":"\"Their conversation is super cute, you know!"},{"lineNumber":158074,"originalJapaneseLine":"　本当はお互いが大好きなのに","translatedEnglishLine":"Though they actually love each other,"},{"lineNumber":158075,"originalJapaneseLine":"　照れてどっちも誤魔化そうとしていて！」","translatedEnglishLine":"they're both shy and try to hide it!\""},{"lineNumber":158076,"originalJapaneseLine":"「そうそう！　そうなんですよね！」","translatedEnglishLine":"\"Yeah, exactly! That's how it is!\""},{"lineNumber":158077,"originalJapaneseLine":"「こらーーー！」","translatedEnglishLine":"\"Hey!!!\""},{"lineNumber":158078,"originalJapaneseLine":"「ひゃうう！？　なななな、なんですか！？」","translatedEnglishLine":"\"Hyaaa!? Wh-Wh-What is this!?\""},{"lineNumber":158079,"originalJapaneseLine":"「なーにを盛り上がっとるか」","translatedEnglishLine":"\"What are you all so excited about?\""},{"lineNumber":158080,"originalJapaneseLine":"「大体、あっさりと渡してどうする。","translatedEnglishLine":"\"And why hand it over so easily?"},{"lineNumber":158081,"originalJapaneseLine":"　俺様はそれをうまく使って","translatedEnglishLine":"I was planning to cleverly use that"},{"lineNumber":158082,"originalJapaneseLine":"　エッチなことをしようとだな――」","translatedEnglishLine":"to do something naughty—\""},{"lineNumber":158083,"originalJapaneseLine":"「えっち？」","translatedEnglishLine":"\"Naughty?\""},{"lineNumber":158084,"originalJapaneseLine":"「あっ、すみません、私急いで本を返さないと！」","translatedEnglishLine":"\"Ah, sorry, I have to hurry and return the book!\""},{"lineNumber":158085,"originalJapaneseLine":"「今日のお礼はまた日を改めて……","translatedEnglishLine":"\"I'll repay you another day for today..."},{"lineNumber":158086,"originalJapaneseLine":"　すみません、これで失礼をさせて頂きます」","translatedEnglishLine":"Sorry, please excuse me now.\""},{"lineNumber":158087,"originalJapaneseLine":"「え、あっ――！」","translatedEnglishLine":"\"Eh, ah—!\""},{"lineNumber":158088,"originalJapaneseLine":"　","translatedEnglishLine":""},{"lineNumber":158089,"originalJapaneseLine":"　　＜ぴゅーーーーん＞","translatedEnglishLine":"<whoosh> "},{"lineNumber":158090,"originalJapaneseLine":"ハウゼルはあっという間に","translatedEnglishLine":"Hausel quickly"},{"lineNumber":158091,"originalJapaneseLine":"飛んで去って行った。","translatedEnglishLine":"flew away in an instant."},{"lineNumber":158092,"originalJapaneseLine":"「こ、こら待てーーーーー！！！！」","translatedEnglishLine":"\"H-Heeey, wait----!!!!\""},{"lineNumber":158093,"originalJapaneseLine":"「…………逃げられた」","translatedEnglishLine":"\"...He got away.\""},{"lineNumber":158094,"originalJapaneseLine":"「逃げられちゃいましたねぇ……」","translatedEnglishLine":"\"He really ran off, huh...\""},{"lineNumber":158095,"originalJapaneseLine":"「……サチコ……後で……お仕置き」","translatedEnglishLine":"\"...Sachiko... you'll be punished later.\""},{"lineNumber":158096,"originalJapaneseLine":"「なんでですかーーー！？」","translatedEnglishLine":"\"W-Why!?\""},{"lineNumber":158097,"originalJapaneseLine":"…………","translatedEnglishLine":"......"},{"lineNumber":158098,"originalJapaneseLine":"……","translatedEnglishLine":"..."},{"lineNumber":158099,"originalJapaneseLine":"「きょ、今日こそ仲直りしようと思っていたのに、","translatedEnglishLine":"\"I-I was thinking we would make up today, but,"},{"lineNumber":158100,"originalJapaneseLine":"　な、なんで……なんで……","translatedEnglishLine":"w-why... why...\""}]}}
+{
+    "id": "resp_0350d77047ae17220068f1618a4c7c8196b214a375ccd2b37f",
+    "object": "response",
+    "created_at": 1760649610,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0350d77047ae17220068f1618ad3d081968e02c204b0d9d241",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":158041,\"originalJapaneseLine\":\"　お前の本ならここにあるぞーーー！\",\"translatedEnglishLine\":\"Here's your book!!!\"},{\"lineNumber\":158042,\"originalJapaneseLine\":\"「え！　本！？」\",\"translatedEnglishLine\":\"\\\"Huh! A book!?\\\"\"},{\"lineNumber\":158043,\"originalJapaneseLine\":\"ピタッと止まってハウゼルが振り返った。\",\"translatedEnglishLine\":\"Hausel stopped abruptly and turned around.\"},{\"lineNumber\":158044,\"originalJapaneseLine\":\"「おお、反応したよ！」\",\"translatedEnglishLine\":\"\\\"Oh, you reacted!\\\"\"},{\"lineNumber\":158045,\"originalJapaneseLine\":\"「がははは！　狙い通りだ！」\",\"translatedEnglishLine\":\"\\\"Gahaha! Just as planned!\\\"\"},{\"lineNumber\":158046,\"originalJapaneseLine\":\"「あ、あの！　本って、その、もしかして――！」\",\"translatedEnglishLine\":\"\\\"Uh, um! The book, could it be—!\\\"\"},{\"lineNumber\":158047,\"originalJapaneseLine\":\"「ドラゴンパッチの六巻ですよね？\",\"translatedEnglishLine\":\"\\\"It's volume six of Dragon Patch, right?\"},{\"lineNumber\":158048,\"originalJapaneseLine\":\"　昨日、落とされたのを拾っておいたんです」\",\"translatedEnglishLine\":\"I picked it up when you dropped it yesterday.\\\"\"},{\"lineNumber\":158049,\"originalJapaneseLine\":\"「あーーーっ！　それです！」\",\"translatedEnglishLine\":\"\\\"Ahhh! That's it!\\\"\"},{\"lineNumber\":158050,\"originalJapaneseLine\":\"「良かった、落として困っていたんですね。\",\"translatedEnglishLine\":\"\\\"I'm glad, you were troubled after dropping it.\"},{\"lineNumber\":158051,\"originalJapaneseLine\":\"　はい、どうぞ」\",\"translatedEnglishLine\":\"Here you go.\\\"\"},{\"lineNumber\":158052,\"originalJapaneseLine\":\"「ああ……良かった……」\",\"translatedEnglishLine\":\"\\\"Ah... I'm so relieved...\\\"\"},{\"lineNumber\":158053,\"originalJapaneseLine\":\"ハウゼルは受け取った本を胸元で抱きしめ、\",\"translatedEnglishLine\":\"Hausel hugged the received book close to his chest,\"},{\"lineNumber\":158054,\"originalJapaneseLine\":\"ほうっと息を漏らした。\",\"translatedEnglishLine\":\"and let out a long sigh.\"},{\"lineNumber\":158055,\"originalJapaneseLine\":\"「あ、あのぅ……」\",\"translatedEnglishLine\":\"\\\"Um, excuse me...\\\"\"},{\"lineNumber\":158056,\"originalJapaneseLine\":\"「ハウゼルさんもお好きなんですか？\",\"translatedEnglishLine\":\"\\\"Do you like it too, Hausel?\"},{\"lineNumber\":158057,\"originalJapaneseLine\":\"　ドラゴンパッチ」\",\"translatedEnglishLine\":\"Dragon Patch?\\\"\"},{\"lineNumber\":158058,\"originalJapaneseLine\":\"「え、ええ」\",\"translatedEnglishLine\":\"\\\"Y-Yeah.\\\"\"},{\"lineNumber\":158059,\"originalJapaneseLine\":\"「えへへ、面白いですよねー。\",\"translatedEnglishLine\":\"\\\"Hehe, it's fun, isn't it?\"},{\"lineNumber\":158060,\"originalJapaneseLine\":\"　主人公のロットンがいつでも\",\"translatedEnglishLine\":\"The hero Rotton is always\"},{\"lineNumber\":158061,\"originalJapaneseLine\":\"　ひたむきで一生懸命で……」\",\"translatedEnglishLine\":\"earnest and hardworking...\\\"\"},{\"lineNumber\":158062,\"originalJapaneseLine\":\"「わあ、私、この本のファンの方、\",\"translatedEnglishLine\":\"\\\"Wow, this is the first time I've met a fan of this book.\"},{\"lineNumber\":158063,\"originalJapaneseLine\":\"　初めてお会いしました。\",\"translatedEnglishLine\":\"Nice to meet you.\"},{\"lineNumber\":158064,\"originalJapaneseLine\":\"　そうそう、ロットン君いいですよね」\",\"translatedEnglishLine\":\"Yes, yes, Rotton is great.\\\"\"},{\"lineNumber\":158065,\"originalJapaneseLine\":\"「クー君は怠け者で臆病ですけど、\",\"translatedEnglishLine\":\"\\\"Ku is lazy and cowardly, but\"},{\"lineNumber\":158066,\"originalJapaneseLine\":\"　いざとなったらそんなロットン君が\",\"translatedEnglishLine\":\"when it comes down to it, that Rotton\"},{\"lineNumber\":158067,\"originalJapaneseLine\":\"　見捨てられなくて……」\",\"translatedEnglishLine\":\"can't bring himself to abandon him...\\\"\"},{\"lineNumber\":158068,\"originalJapaneseLine\":\"「あ、わたし、恥ずかしいんですけど、\",\"translatedEnglishLine\":\"\\\"Ah, I'm embarrassed to say this,\"},{\"lineNumber\":158069,\"originalJapaneseLine\":\"　竜姫アボガドとの恋愛模様が大好きで……」\",\"translatedEnglishLine\":\"but I love the romantic relationship with Princess Avocado...\\\"\"},{\"lineNumber\":158070,\"originalJapaneseLine\":\"「アボガド姫！　いいですよね！\",\"translatedEnglishLine\":\"\\\"Princess Avocado! She's great, isn't she!\"},{\"lineNumber\":158071,\"originalJapaneseLine\":\"　三巻の夜のテラスでの会話が\",\"translatedEnglishLine\":\"The conversation on the terrace at night in volume three\"},{\"lineNumber\":158072,\"originalJapaneseLine\":\"　私とっても大好きなんです！」\",\"translatedEnglishLine\":\"I really love it!\\\"\"},{\"lineNumber\":158073,\"originalJapaneseLine\":\"「二人の会話がすっごく可愛いんですよね！\",\"translatedEnglishLine\":\"\\\"Their conversation is super cute, you know!\"},{\"lineNumber\":158074,\"originalJapaneseLine\":\"　本当はお互いが大好きなのに\",\"translatedEnglishLine\":\"Though they actually love each other,\"},{\"lineNumber\":158075,\"originalJapaneseLine\":\"　照れてどっちも誤魔化そうとしていて！」\",\"translatedEnglishLine\":\"they're both shy and try to hide it!\\\"\"},{\"lineNumber\":158076,\"originalJapaneseLine\":\"「そうそう！　そうなんですよね！」\",\"translatedEnglishLine\":\"\\\"Yeah, exactly! That's how it is!\\\"\"},{\"lineNumber\":158077,\"originalJapaneseLine\":\"「こらーーー！」\",\"translatedEnglishLine\":\"\\\"Hey!!!\\\"\"},{\"lineNumber\":158078,\"originalJapaneseLine\":\"「ひゃうう！？　なななな、なんですか！？」\",\"translatedEnglishLine\":\"\\\"Hyaaa!? Wh-Wh-What is this!?\\\"\"},{\"lineNumber\":158079,\"originalJapaneseLine\":\"「なーにを盛り上がっとるか」\",\"translatedEnglishLine\":\"\\\"What are you all so excited about?\\\"\"},{\"lineNumber\":158080,\"originalJapaneseLine\":\"「大体、あっさりと渡してどうする。\",\"translatedEnglishLine\":\"\\\"And why hand it over so easily?\"},{\"lineNumber\":158081,\"originalJapaneseLine\":\"　俺様はそれをうまく使って\",\"translatedEnglishLine\":\"I was planning to cleverly use that\"},{\"lineNumber\":158082,\"originalJapaneseLine\":\"　エッチなことをしようとだな――」\",\"translatedEnglishLine\":\"to do something naughty—\\\"\"},{\"lineNumber\":158083,\"originalJapaneseLine\":\"「えっち？」\",\"translatedEnglishLine\":\"\\\"Naughty?\\\"\"},{\"lineNumber\":158084,\"originalJapaneseLine\":\"「あっ、すみません、私急いで本を返さないと！」\",\"translatedEnglishLine\":\"\\\"Ah, sorry, I have to hurry and return the book!\\\"\"},{\"lineNumber\":158085,\"originalJapaneseLine\":\"「今日のお礼はまた日を改めて……\",\"translatedEnglishLine\":\"\\\"I'll repay you another day for today...\"},{\"lineNumber\":158086,\"originalJapaneseLine\":\"　すみません、これで失礼をさせて頂きます」\",\"translatedEnglishLine\":\"Sorry, please excuse me now.\\\"\"},{\"lineNumber\":158087,\"originalJapaneseLine\":\"「え、あっ――！」\",\"translatedEnglishLine\":\"\\\"Eh, ah—!\\\"\"},{\"lineNumber\":158088,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":158089,\"originalJapaneseLine\":\"　　＜ぴゅーーーーん＞\",\"translatedEnglishLine\":\"<whoosh> \"},{\"lineNumber\":158090,\"originalJapaneseLine\":\"ハウゼルはあっという間に\",\"translatedEnglishLine\":\"Hausel quickly\"},{\"lineNumber\":158091,\"originalJapaneseLine\":\"飛んで去って行った。\",\"translatedEnglishLine\":\"flew away in an instant.\"},{\"lineNumber\":158092,\"originalJapaneseLine\":\"「こ、こら待てーーーーー！！！！」\",\"translatedEnglishLine\":\"\\\"H-Heeey, wait----!!!!\\\"\"},{\"lineNumber\":158093,\"originalJapaneseLine\":\"「…………逃げられた」\",\"translatedEnglishLine\":\"\\\"...He got away.\\\"\"},{\"lineNumber\":158094,\"originalJapaneseLine\":\"「逃げられちゃいましたねぇ……」\",\"translatedEnglishLine\":\"\\\"He really ran off, huh...\\\"\"},{\"lineNumber\":158095,\"originalJapaneseLine\":\"「……サチコ……後で……お仕置き」\",\"translatedEnglishLine\":\"\\\"...Sachiko... you'll be punished later.\\\"\"},{\"lineNumber\":158096,\"originalJapaneseLine\":\"「なんでですかーーー！？」\",\"translatedEnglishLine\":\"\\\"W-Why!?\\\"\"},{\"lineNumber\":158097,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"......\"},{\"lineNumber\":158098,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":158099,\"originalJapaneseLine\":\"「きょ、今日こそ仲直りしようと思っていたのに、\",\"translatedEnglishLine\":\"\\\"I-I was thinking we would make up today, but,\"},{\"lineNumber\":158100,\"originalJapaneseLine\":\"　な、なんで……なんで……\",\"translatedEnglishLine\":\"w-why... why...\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 158041,
+                                "originalJapaneseLine": "　お前の本ならここにあるぞーーー！",
+                                "translatedEnglishLine": "Here's your book!!!"
+                            },
+                            {
+                                "lineNumber": 158042,
+                                "originalJapaneseLine": "「え！　本！？」",
+                                "translatedEnglishLine": "\"Huh! A book!?\""
+                            },
+                            {
+                                "lineNumber": 158043,
+                                "originalJapaneseLine": "ピタッと止まってハウゼルが振り返った。",
+                                "translatedEnglishLine": "Hausel stopped abruptly and turned around."
+                            },
+                            {
+                                "lineNumber": 158044,
+                                "originalJapaneseLine": "「おお、反応したよ！」",
+                                "translatedEnglishLine": "\"Oh, you reacted!\""
+                            },
+                            {
+                                "lineNumber": 158045,
+                                "originalJapaneseLine": "「がははは！　狙い通りだ！」",
+                                "translatedEnglishLine": "\"Gahaha! Just as planned!\""
+                            },
+                            {
+                                "lineNumber": 158046,
+                                "originalJapaneseLine": "「あ、あの！　本って、その、もしかして――！」",
+                                "translatedEnglishLine": "\"Uh, um! The book, could it be—!\""
+                            },
+                            {
+                                "lineNumber": 158047,
+                                "originalJapaneseLine": "「ドラゴンパッチの六巻ですよね？",
+                                "translatedEnglishLine": "\"It's volume six of Dragon Patch, right?"
+                            },
+                            {
+                                "lineNumber": 158048,
+                                "originalJapaneseLine": "　昨日、落とされたのを拾っておいたんです」",
+                                "translatedEnglishLine": "I picked it up when you dropped it yesterday.\""
+                            },
+                            {
+                                "lineNumber": 158049,
+                                "originalJapaneseLine": "「あーーーっ！　それです！」",
+                                "translatedEnglishLine": "\"Ahhh! That's it!\""
+                            },
+                            {
+                                "lineNumber": 158050,
+                                "originalJapaneseLine": "「良かった、落として困っていたんですね。",
+                                "translatedEnglishLine": "\"I'm glad, you were troubled after dropping it."
+                            },
+                            {
+                                "lineNumber": 158051,
+                                "originalJapaneseLine": "　はい、どうぞ」",
+                                "translatedEnglishLine": "Here you go.\""
+                            },
+                            {
+                                "lineNumber": 158052,
+                                "originalJapaneseLine": "「ああ……良かった……」",
+                                "translatedEnglishLine": "\"Ah... I'm so relieved...\""
+                            },
+                            {
+                                "lineNumber": 158053,
+                                "originalJapaneseLine": "ハウゼルは受け取った本を胸元で抱きしめ、",
+                                "translatedEnglishLine": "Hausel hugged the received book close to his chest,"
+                            },
+                            {
+                                "lineNumber": 158054,
+                                "originalJapaneseLine": "ほうっと息を漏らした。",
+                                "translatedEnglishLine": "and let out a long sigh."
+                            },
+                            {
+                                "lineNumber": 158055,
+                                "originalJapaneseLine": "「あ、あのぅ……」",
+                                "translatedEnglishLine": "\"Um, excuse me...\""
+                            },
+                            {
+                                "lineNumber": 158056,
+                                "originalJapaneseLine": "「ハウゼルさんもお好きなんですか？",
+                                "translatedEnglishLine": "\"Do you like it too, Hausel?"
+                            },
+                            {
+                                "lineNumber": 158057,
+                                "originalJapaneseLine": "　ドラゴンパッチ」",
+                                "translatedEnglishLine": "Dragon Patch?\""
+                            },
+                            {
+                                "lineNumber": 158058,
+                                "originalJapaneseLine": "「え、ええ」",
+                                "translatedEnglishLine": "\"Y-Yeah.\""
+                            },
+                            {
+                                "lineNumber": 158059,
+                                "originalJapaneseLine": "「えへへ、面白いですよねー。",
+                                "translatedEnglishLine": "\"Hehe, it's fun, isn't it?"
+                            },
+                            {
+                                "lineNumber": 158060,
+                                "originalJapaneseLine": "　主人公のロットンがいつでも",
+                                "translatedEnglishLine": "The hero Rotton is always"
+                            },
+                            {
+                                "lineNumber": 158061,
+                                "originalJapaneseLine": "　ひたむきで一生懸命で……」",
+                                "translatedEnglishLine": "earnest and hardworking...\""
+                            },
+                            {
+                                "lineNumber": 158062,
+                                "originalJapaneseLine": "「わあ、私、この本のファンの方、",
+                                "translatedEnglishLine": "\"Wow, this is the first time I've met a fan of this book."
+                            },
+                            {
+                                "lineNumber": 158063,
+                                "originalJapaneseLine": "　初めてお会いしました。",
+                                "translatedEnglishLine": "Nice to meet you."
+                            },
+                            {
+                                "lineNumber": 158064,
+                                "originalJapaneseLine": "　そうそう、ロットン君いいですよね」",
+                                "translatedEnglishLine": "Yes, yes, Rotton is great.\""
+                            },
+                            {
+                                "lineNumber": 158065,
+                                "originalJapaneseLine": "「クー君は怠け者で臆病ですけど、",
+                                "translatedEnglishLine": "\"Ku is lazy and cowardly, but"
+                            },
+                            {
+                                "lineNumber": 158066,
+                                "originalJapaneseLine": "　いざとなったらそんなロットン君が",
+                                "translatedEnglishLine": "when it comes down to it, that Rotton"
+                            },
+                            {
+                                "lineNumber": 158067,
+                                "originalJapaneseLine": "　見捨てられなくて……」",
+                                "translatedEnglishLine": "can't bring himself to abandon him...\""
+                            },
+                            {
+                                "lineNumber": 158068,
+                                "originalJapaneseLine": "「あ、わたし、恥ずかしいんですけど、",
+                                "translatedEnglishLine": "\"Ah, I'm embarrassed to say this,"
+                            },
+                            {
+                                "lineNumber": 158069,
+                                "originalJapaneseLine": "　竜姫アボガドとの恋愛模様が大好きで……」",
+                                "translatedEnglishLine": "but I love the romantic relationship with Princess Avocado...\""
+                            },
+                            {
+                                "lineNumber": 158070,
+                                "originalJapaneseLine": "「アボガド姫！　いいですよね！",
+                                "translatedEnglishLine": "\"Princess Avocado! She's great, isn't she!"
+                            },
+                            {
+                                "lineNumber": 158071,
+                                "originalJapaneseLine": "　三巻の夜のテラスでの会話が",
+                                "translatedEnglishLine": "The conversation on the terrace at night in volume three"
+                            },
+                            {
+                                "lineNumber": 158072,
+                                "originalJapaneseLine": "　私とっても大好きなんです！」",
+                                "translatedEnglishLine": "I really love it!\""
+                            },
+                            {
+                                "lineNumber": 158073,
+                                "originalJapaneseLine": "「二人の会話がすっごく可愛いんですよね！",
+                                "translatedEnglishLine": "\"Their conversation is super cute, you know!"
+                            },
+                            {
+                                "lineNumber": 158074,
+                                "originalJapaneseLine": "　本当はお互いが大好きなのに",
+                                "translatedEnglishLine": "Though they actually love each other,"
+                            },
+                            {
+                                "lineNumber": 158075,
+                                "originalJapaneseLine": "　照れてどっちも誤魔化そうとしていて！」",
+                                "translatedEnglishLine": "they're both shy and try to hide it!\""
+                            },
+                            {
+                                "lineNumber": 158076,
+                                "originalJapaneseLine": "「そうそう！　そうなんですよね！」",
+                                "translatedEnglishLine": "\"Yeah, exactly! That's how it is!\""
+                            },
+                            {
+                                "lineNumber": 158077,
+                                "originalJapaneseLine": "「こらーーー！」",
+                                "translatedEnglishLine": "\"Hey!!!\""
+                            },
+                            {
+                                "lineNumber": 158078,
+                                "originalJapaneseLine": "「ひゃうう！？　なななな、なんですか！？」",
+                                "translatedEnglishLine": "\"Hyaaa!? Wh-Wh-What is this!?\""
+                            },
+                            {
+                                "lineNumber": 158079,
+                                "originalJapaneseLine": "「なーにを盛り上がっとるか」",
+                                "translatedEnglishLine": "\"What are you all so excited about?\""
+                            },
+                            {
+                                "lineNumber": 158080,
+                                "originalJapaneseLine": "「大体、あっさりと渡してどうする。",
+                                "translatedEnglishLine": "\"And why hand it over so easily?"
+                            },
+                            {
+                                "lineNumber": 158081,
+                                "originalJapaneseLine": "　俺様はそれをうまく使って",
+                                "translatedEnglishLine": "I was planning to cleverly use that"
+                            },
+                            {
+                                "lineNumber": 158082,
+                                "originalJapaneseLine": "　エッチなことをしようとだな――」",
+                                "translatedEnglishLine": "to do something naughty—\""
+                            },
+                            {
+                                "lineNumber": 158083,
+                                "originalJapaneseLine": "「えっち？」",
+                                "translatedEnglishLine": "\"Naughty?\""
+                            },
+                            {
+                                "lineNumber": 158084,
+                                "originalJapaneseLine": "「あっ、すみません、私急いで本を返さないと！」",
+                                "translatedEnglishLine": "\"Ah, sorry, I have to hurry and return the book!\""
+                            },
+                            {
+                                "lineNumber": 158085,
+                                "originalJapaneseLine": "「今日のお礼はまた日を改めて……",
+                                "translatedEnglishLine": "\"I'll repay you another day for today..."
+                            },
+                            {
+                                "lineNumber": 158086,
+                                "originalJapaneseLine": "　すみません、これで失礼をさせて頂きます」",
+                                "translatedEnglishLine": "Sorry, please excuse me now.\""
+                            },
+                            {
+                                "lineNumber": 158087,
+                                "originalJapaneseLine": "「え、あっ――！」",
+                                "translatedEnglishLine": "\"Eh, ah—!\""
+                            },
+                            {
+                                "lineNumber": 158088,
+                                "originalJapaneseLine": "　",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": 158089,
+                                "originalJapaneseLine": "　　＜ぴゅーーーーん＞",
+                                "translatedEnglishLine": "<whoosh> "
+                            },
+                            {
+                                "lineNumber": 158090,
+                                "originalJapaneseLine": "ハウゼルはあっという間に",
+                                "translatedEnglishLine": "Hausel quickly"
+                            },
+                            {
+                                "lineNumber": 158091,
+                                "originalJapaneseLine": "飛んで去って行った。",
+                                "translatedEnglishLine": "flew away in an instant."
+                            },
+                            {
+                                "lineNumber": 158092,
+                                "originalJapaneseLine": "「こ、こら待てーーーーー！！！！」",
+                                "translatedEnglishLine": "\"H-Heeey, wait----!!!!\""
+                            },
+                            {
+                                "lineNumber": 158093,
+                                "originalJapaneseLine": "「…………逃げられた」",
+                                "translatedEnglishLine": "\"...He got away.\""
+                            },
+                            {
+                                "lineNumber": 158094,
+                                "originalJapaneseLine": "「逃げられちゃいましたねぇ……」",
+                                "translatedEnglishLine": "\"He really ran off, huh...\""
+                            },
+                            {
+                                "lineNumber": 158095,
+                                "originalJapaneseLine": "「……サチコ……後で……お仕置き」",
+                                "translatedEnglishLine": "\"...Sachiko... you'll be punished later.\""
+                            },
+                            {
+                                "lineNumber": 158096,
+                                "originalJapaneseLine": "「なんでですかーーー！？」",
+                                "translatedEnglishLine": "\"W-Why!?\""
+                            },
+                            {
+                                "lineNumber": 158097,
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "......"
+                            },
+                            {
+                                "lineNumber": 158098,
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": 158099,
+                                "originalJapaneseLine": "「きょ、今日こそ仲直りしようと思っていたのに、",
+                                "translatedEnglishLine": "\"I-I was thinking we would make up today, but,"
+                            },
+                            {
+                                "lineNumber": 158100,
+                                "originalJapaneseLine": "　な、なんで……なんで……",
+                                "translatedEnglishLine": "w-why... why...\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1682,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2129,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3811
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":158041,\"originalJapaneseLine\":\"　お前の本ならここにあるぞーーー！\",\"translatedEnglishLine\":\"Here's your book!!!\"},{\"lineNumber\":158042,\"originalJapaneseLine\":\"「え！　本！？」\",\"translatedEnglishLine\":\"\\\"Huh! A book!?\\\"\"},{\"lineNumber\":158043,\"originalJapaneseLine\":\"ピタッと止まってハウゼルが振り返った。\",\"translatedEnglishLine\":\"Hausel stopped abruptly and turned around.\"},{\"lineNumber\":158044,\"originalJapaneseLine\":\"「おお、反応したよ！」\",\"translatedEnglishLine\":\"\\\"Oh, you reacted!\\\"\"},{\"lineNumber\":158045,\"originalJapaneseLine\":\"「がははは！　狙い通りだ！」\",\"translatedEnglishLine\":\"\\\"Gahaha! Just as planned!\\\"\"},{\"lineNumber\":158046,\"originalJapaneseLine\":\"「あ、あの！　本って、その、もしかして――！」\",\"translatedEnglishLine\":\"\\\"Uh, um! The book, could it be—!\\\"\"},{\"lineNumber\":158047,\"originalJapaneseLine\":\"「ドラゴンパッチの六巻ですよね？\",\"translatedEnglishLine\":\"\\\"It's volume six of Dragon Patch, right?\"},{\"lineNumber\":158048,\"originalJapaneseLine\":\"　昨日、落とされたのを拾っておいたんです」\",\"translatedEnglishLine\":\"I picked it up when you dropped it yesterday.\\\"\"},{\"lineNumber\":158049,\"originalJapaneseLine\":\"「あーーーっ！　それです！」\",\"translatedEnglishLine\":\"\\\"Ahhh! That's it!\\\"\"},{\"lineNumber\":158050,\"originalJapaneseLine\":\"「良かった、落として困っていたんですね。\",\"translatedEnglishLine\":\"\\\"I'm glad, you were troubled after dropping it.\"},{\"lineNumber\":158051,\"originalJapaneseLine\":\"　はい、どうぞ」\",\"translatedEnglishLine\":\"Here you go.\\\"\"},{\"lineNumber\":158052,\"originalJapaneseLine\":\"「ああ……良かった……」\",\"translatedEnglishLine\":\"\\\"Ah... I'm so relieved...\\\"\"},{\"lineNumber\":158053,\"originalJapaneseLine\":\"ハウゼルは受け取った本を胸元で抱きしめ、\",\"translatedEnglishLine\":\"Hausel hugged the received book close to his chest,\"},{\"lineNumber\":158054,\"originalJapaneseLine\":\"ほうっと息を漏らした。\",\"translatedEnglishLine\":\"and let out a long sigh.\"},{\"lineNumber\":158055,\"originalJapaneseLine\":\"「あ、あのぅ……」\",\"translatedEnglishLine\":\"\\\"Um, excuse me...\\\"\"},{\"lineNumber\":158056,\"originalJapaneseLine\":\"「ハウゼルさんもお好きなんですか？\",\"translatedEnglishLine\":\"\\\"Do you like it too, Hausel?\"},{\"lineNumber\":158057,\"originalJapaneseLine\":\"　ドラゴンパッチ」\",\"translatedEnglishLine\":\"Dragon Patch?\\\"\"},{\"lineNumber\":158058,\"originalJapaneseLine\":\"「え、ええ」\",\"translatedEnglishLine\":\"\\\"Y-Yeah.\\\"\"},{\"lineNumber\":158059,\"originalJapaneseLine\":\"「えへへ、面白いですよねー。\",\"translatedEnglishLine\":\"\\\"Hehe, it's fun, isn't it?\"},{\"lineNumber\":158060,\"originalJapaneseLine\":\"　主人公のロットンがいつでも\",\"translatedEnglishLine\":\"The hero Rotton is always\"},{\"lineNumber\":158061,\"originalJapaneseLine\":\"　ひたむきで一生懸命で……」\",\"translatedEnglishLine\":\"earnest and hardworking...\\\"\"},{\"lineNumber\":158062,\"originalJapaneseLine\":\"「わあ、私、この本のファンの方、\",\"translatedEnglishLine\":\"\\\"Wow, this is the first time I've met a fan of this book.\"},{\"lineNumber\":158063,\"originalJapaneseLine\":\"　初めてお会いしました。\",\"translatedEnglishLine\":\"Nice to meet you.\"},{\"lineNumber\":158064,\"originalJapaneseLine\":\"　そうそう、ロットン君いいですよね」\",\"translatedEnglishLine\":\"Yes, yes, Rotton is great.\\\"\"},{\"lineNumber\":158065,\"originalJapaneseLine\":\"「クー君は怠け者で臆病ですけど、\",\"translatedEnglishLine\":\"\\\"Ku is lazy and cowardly, but\"},{\"lineNumber\":158066,\"originalJapaneseLine\":\"　いざとなったらそんなロットン君が\",\"translatedEnglishLine\":\"when it comes down to it, that Rotton\"},{\"lineNumber\":158067,\"originalJapaneseLine\":\"　見捨てられなくて……」\",\"translatedEnglishLine\":\"can't bring himself to abandon him...\\\"\"},{\"lineNumber\":158068,\"originalJapaneseLine\":\"「あ、わたし、恥ずかしいんですけど、\",\"translatedEnglishLine\":\"\\\"Ah, I'm embarrassed to say this,\"},{\"lineNumber\":158069,\"originalJapaneseLine\":\"　竜姫アボガドとの恋愛模様が大好きで……」\",\"translatedEnglishLine\":\"but I love the romantic relationship with Princess Avocado...\\\"\"},{\"lineNumber\":158070,\"originalJapaneseLine\":\"「アボガド姫！　いいですよね！\",\"translatedEnglishLine\":\"\\\"Princess Avocado! She's great, isn't she!\"},{\"lineNumber\":158071,\"originalJapaneseLine\":\"　三巻の夜のテラスでの会話が\",\"translatedEnglishLine\":\"The conversation on the terrace at night in volume three\"},{\"lineNumber\":158072,\"originalJapaneseLine\":\"　私とっても大好きなんです！」\",\"translatedEnglishLine\":\"I really love it!\\\"\"},{\"lineNumber\":158073,\"originalJapaneseLine\":\"「二人の会話がすっごく可愛いんですよね！\",\"translatedEnglishLine\":\"\\\"Their conversation is super cute, you know!\"},{\"lineNumber\":158074,\"originalJapaneseLine\":\"　本当はお互いが大好きなのに\",\"translatedEnglishLine\":\"Though they actually love each other,\"},{\"lineNumber\":158075,\"originalJapaneseLine\":\"　照れてどっちも誤魔化そうとしていて！」\",\"translatedEnglishLine\":\"they're both shy and try to hide it!\\\"\"},{\"lineNumber\":158076,\"originalJapaneseLine\":\"「そうそう！　そうなんですよね！」\",\"translatedEnglishLine\":\"\\\"Yeah, exactly! That's how it is!\\\"\"},{\"lineNumber\":158077,\"originalJapaneseLine\":\"「こらーーー！」\",\"translatedEnglishLine\":\"\\\"Hey!!!\\\"\"},{\"lineNumber\":158078,\"originalJapaneseLine\":\"「ひゃうう！？　なななな、なんですか！？」\",\"translatedEnglishLine\":\"\\\"Hyaaa!? Wh-Wh-What is this!?\\\"\"},{\"lineNumber\":158079,\"originalJapaneseLine\":\"「なーにを盛り上がっとるか」\",\"translatedEnglishLine\":\"\\\"What are you all so excited about?\\\"\"},{\"lineNumber\":158080,\"originalJapaneseLine\":\"「大体、あっさりと渡してどうする。\",\"translatedEnglishLine\":\"\\\"And why hand it over so easily?\"},{\"lineNumber\":158081,\"originalJapaneseLine\":\"　俺様はそれをうまく使って\",\"translatedEnglishLine\":\"I was planning to cleverly use that\"},{\"lineNumber\":158082,\"originalJapaneseLine\":\"　エッチなことをしようとだな――」\",\"translatedEnglishLine\":\"to do something naughty—\\\"\"},{\"lineNumber\":158083,\"originalJapaneseLine\":\"「えっち？」\",\"translatedEnglishLine\":\"\\\"Naughty?\\\"\"},{\"lineNumber\":158084,\"originalJapaneseLine\":\"「あっ、すみません、私急いで本を返さないと！」\",\"translatedEnglishLine\":\"\\\"Ah, sorry, I have to hurry and return the book!\\\"\"},{\"lineNumber\":158085,\"originalJapaneseLine\":\"「今日のお礼はまた日を改めて……\",\"translatedEnglishLine\":\"\\\"I'll repay you another day for today...\"},{\"lineNumber\":158086,\"originalJapaneseLine\":\"　すみません、これで失礼をさせて頂きます」\",\"translatedEnglishLine\":\"Sorry, please excuse me now.\\\"\"},{\"lineNumber\":158087,\"originalJapaneseLine\":\"「え、あっ――！」\",\"translatedEnglishLine\":\"\\\"Eh, ah—!\\\"\"},{\"lineNumber\":158088,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":158089,\"originalJapaneseLine\":\"　　＜ぴゅーーーーん＞\",\"translatedEnglishLine\":\"<whoosh> \"},{\"lineNumber\":158090,\"originalJapaneseLine\":\"ハウゼルはあっという間に\",\"translatedEnglishLine\":\"Hausel quickly\"},{\"lineNumber\":158091,\"originalJapaneseLine\":\"飛んで去って行った。\",\"translatedEnglishLine\":\"flew away in an instant.\"},{\"lineNumber\":158092,\"originalJapaneseLine\":\"「こ、こら待てーーーーー！！！！」\",\"translatedEnglishLine\":\"\\\"H-Heeey, wait----!!!!\\\"\"},{\"lineNumber\":158093,\"originalJapaneseLine\":\"「…………逃げられた」\",\"translatedEnglishLine\":\"\\\"...He got away.\\\"\"},{\"lineNumber\":158094,\"originalJapaneseLine\":\"「逃げられちゃいましたねぇ……」\",\"translatedEnglishLine\":\"\\\"He really ran off, huh...\\\"\"},{\"lineNumber\":158095,\"originalJapaneseLine\":\"「……サチコ……後で……お仕置き」\",\"translatedEnglishLine\":\"\\\"...Sachiko... you'll be punished later.\\\"\"},{\"lineNumber\":158096,\"originalJapaneseLine\":\"「なんでですかーーー！？」\",\"translatedEnglishLine\":\"\\\"W-Why!?\\\"\"},{\"lineNumber\":158097,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"......\"},{\"lineNumber\":158098,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":158099,\"originalJapaneseLine\":\"「きょ、今日こそ仲直りしようと思っていたのに、\",\"translatedEnglishLine\":\"\\\"I-I was thinking we would make up today, but,\"},{\"lineNumber\":158100,\"originalJapaneseLine\":\"　な、なんで……なんで……\",\"translatedEnglishLine\":\"w-why... why...\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 158041,
+                "originalJapaneseLine": "　お前の本ならここにあるぞーーー！",
+                "translatedEnglishLine": "Here's your book!!!"
+            },
+            {
+                "lineNumber": 158042,
+                "originalJapaneseLine": "「え！　本！？」",
+                "translatedEnglishLine": "\"Huh! A book!?\""
+            },
+            {
+                "lineNumber": 158043,
+                "originalJapaneseLine": "ピタッと止まってハウゼルが振り返った。",
+                "translatedEnglishLine": "Hausel stopped abruptly and turned around."
+            },
+            {
+                "lineNumber": 158044,
+                "originalJapaneseLine": "「おお、反応したよ！」",
+                "translatedEnglishLine": "\"Oh, you reacted!\""
+            },
+            {
+                "lineNumber": 158045,
+                "originalJapaneseLine": "「がははは！　狙い通りだ！」",
+                "translatedEnglishLine": "\"Gahaha! Just as planned!\""
+            },
+            {
+                "lineNumber": 158046,
+                "originalJapaneseLine": "「あ、あの！　本って、その、もしかして――！」",
+                "translatedEnglishLine": "\"Uh, um! The book, could it be—!\""
+            },
+            {
+                "lineNumber": 158047,
+                "originalJapaneseLine": "「ドラゴンパッチの六巻ですよね？",
+                "translatedEnglishLine": "\"It's volume six of Dragon Patch, right?"
+            },
+            {
+                "lineNumber": 158048,
+                "originalJapaneseLine": "　昨日、落とされたのを拾っておいたんです」",
+                "translatedEnglishLine": "I picked it up when you dropped it yesterday.\""
+            },
+            {
+                "lineNumber": 158049,
+                "originalJapaneseLine": "「あーーーっ！　それです！」",
+                "translatedEnglishLine": "\"Ahhh! That's it!\""
+            },
+            {
+                "lineNumber": 158050,
+                "originalJapaneseLine": "「良かった、落として困っていたんですね。",
+                "translatedEnglishLine": "\"I'm glad, you were troubled after dropping it."
+            },
+            {
+                "lineNumber": 158051,
+                "originalJapaneseLine": "　はい、どうぞ」",
+                "translatedEnglishLine": "Here you go.\""
+            },
+            {
+                "lineNumber": 158052,
+                "originalJapaneseLine": "「ああ……良かった……」",
+                "translatedEnglishLine": "\"Ah... I'm so relieved...\""
+            },
+            {
+                "lineNumber": 158053,
+                "originalJapaneseLine": "ハウゼルは受け取った本を胸元で抱きしめ、",
+                "translatedEnglishLine": "Hausel hugged the received book close to his chest,"
+            },
+            {
+                "lineNumber": 158054,
+                "originalJapaneseLine": "ほうっと息を漏らした。",
+                "translatedEnglishLine": "and let out a long sigh."
+            },
+            {
+                "lineNumber": 158055,
+                "originalJapaneseLine": "「あ、あのぅ……」",
+                "translatedEnglishLine": "\"Um, excuse me...\""
+            },
+            {
+                "lineNumber": 158056,
+                "originalJapaneseLine": "「ハウゼルさんもお好きなんですか？",
+                "translatedEnglishLine": "\"Do you like it too, Hausel?"
+            },
+            {
+                "lineNumber": 158057,
+                "originalJapaneseLine": "　ドラゴンパッチ」",
+                "translatedEnglishLine": "Dragon Patch?\""
+            },
+            {
+                "lineNumber": 158058,
+                "originalJapaneseLine": "「え、ええ」",
+                "translatedEnglishLine": "\"Y-Yeah.\""
+            },
+            {
+                "lineNumber": 158059,
+                "originalJapaneseLine": "「えへへ、面白いですよねー。",
+                "translatedEnglishLine": "\"Hehe, it's fun, isn't it?"
+            },
+            {
+                "lineNumber": 158060,
+                "originalJapaneseLine": "　主人公のロットンがいつでも",
+                "translatedEnglishLine": "The hero Rotton is always"
+            },
+            {
+                "lineNumber": 158061,
+                "originalJapaneseLine": "　ひたむきで一生懸命で……」",
+                "translatedEnglishLine": "earnest and hardworking...\""
+            },
+            {
+                "lineNumber": 158062,
+                "originalJapaneseLine": "「わあ、私、この本のファンの方、",
+                "translatedEnglishLine": "\"Wow, this is the first time I've met a fan of this book."
+            },
+            {
+                "lineNumber": 158063,
+                "originalJapaneseLine": "　初めてお会いしました。",
+                "translatedEnglishLine": "Nice to meet you."
+            },
+            {
+                "lineNumber": 158064,
+                "originalJapaneseLine": "　そうそう、ロットン君いいですよね」",
+                "translatedEnglishLine": "Yes, yes, Rotton is great.\""
+            },
+            {
+                "lineNumber": 158065,
+                "originalJapaneseLine": "「クー君は怠け者で臆病ですけど、",
+                "translatedEnglishLine": "\"Ku is lazy and cowardly, but"
+            },
+            {
+                "lineNumber": 158066,
+                "originalJapaneseLine": "　いざとなったらそんなロットン君が",
+                "translatedEnglishLine": "when it comes down to it, that Rotton"
+            },
+            {
+                "lineNumber": 158067,
+                "originalJapaneseLine": "　見捨てられなくて……」",
+                "translatedEnglishLine": "can't bring himself to abandon him...\""
+            },
+            {
+                "lineNumber": 158068,
+                "originalJapaneseLine": "「あ、わたし、恥ずかしいんですけど、",
+                "translatedEnglishLine": "\"Ah, I'm embarrassed to say this,"
+            },
+            {
+                "lineNumber": 158069,
+                "originalJapaneseLine": "　竜姫アボガドとの恋愛模様が大好きで……」",
+                "translatedEnglishLine": "but I love the romantic relationship with Princess Avocado...\""
+            },
+            {
+                "lineNumber": 158070,
+                "originalJapaneseLine": "「アボガド姫！　いいですよね！",
+                "translatedEnglishLine": "\"Princess Avocado! She's great, isn't she!"
+            },
+            {
+                "lineNumber": 158071,
+                "originalJapaneseLine": "　三巻の夜のテラスでの会話が",
+                "translatedEnglishLine": "The conversation on the terrace at night in volume three"
+            },
+            {
+                "lineNumber": 158072,
+                "originalJapaneseLine": "　私とっても大好きなんです！」",
+                "translatedEnglishLine": "I really love it!\""
+            },
+            {
+                "lineNumber": 158073,
+                "originalJapaneseLine": "「二人の会話がすっごく可愛いんですよね！",
+                "translatedEnglishLine": "\"Their conversation is super cute, you know!"
+            },
+            {
+                "lineNumber": 158074,
+                "originalJapaneseLine": "　本当はお互いが大好きなのに",
+                "translatedEnglishLine": "Though they actually love each other,"
+            },
+            {
+                "lineNumber": 158075,
+                "originalJapaneseLine": "　照れてどっちも誤魔化そうとしていて！」",
+                "translatedEnglishLine": "they're both shy and try to hide it!\""
+            },
+            {
+                "lineNumber": 158076,
+                "originalJapaneseLine": "「そうそう！　そうなんですよね！」",
+                "translatedEnglishLine": "\"Yeah, exactly! That's how it is!\""
+            },
+            {
+                "lineNumber": 158077,
+                "originalJapaneseLine": "「こらーーー！」",
+                "translatedEnglishLine": "\"Hey!!!\""
+            },
+            {
+                "lineNumber": 158078,
+                "originalJapaneseLine": "「ひゃうう！？　なななな、なんですか！？」",
+                "translatedEnglishLine": "\"Hyaaa!? Wh-Wh-What is this!?\""
+            },
+            {
+                "lineNumber": 158079,
+                "originalJapaneseLine": "「なーにを盛り上がっとるか」",
+                "translatedEnglishLine": "\"What are you all so excited about?\""
+            },
+            {
+                "lineNumber": 158080,
+                "originalJapaneseLine": "「大体、あっさりと渡してどうする。",
+                "translatedEnglishLine": "\"And why hand it over so easily?"
+            },
+            {
+                "lineNumber": 158081,
+                "originalJapaneseLine": "　俺様はそれをうまく使って",
+                "translatedEnglishLine": "I was planning to cleverly use that"
+            },
+            {
+                "lineNumber": 158082,
+                "originalJapaneseLine": "　エッチなことをしようとだな――」",
+                "translatedEnglishLine": "to do something naughty—\""
+            },
+            {
+                "lineNumber": 158083,
+                "originalJapaneseLine": "「えっち？」",
+                "translatedEnglishLine": "\"Naughty?\""
+            },
+            {
+                "lineNumber": 158084,
+                "originalJapaneseLine": "「あっ、すみません、私急いで本を返さないと！」",
+                "translatedEnglishLine": "\"Ah, sorry, I have to hurry and return the book!\""
+            },
+            {
+                "lineNumber": 158085,
+                "originalJapaneseLine": "「今日のお礼はまた日を改めて……",
+                "translatedEnglishLine": "\"I'll repay you another day for today..."
+            },
+            {
+                "lineNumber": 158086,
+                "originalJapaneseLine": "　すみません、これで失礼をさせて頂きます」",
+                "translatedEnglishLine": "Sorry, please excuse me now.\""
+            },
+            {
+                "lineNumber": 158087,
+                "originalJapaneseLine": "「え、あっ――！」",
+                "translatedEnglishLine": "\"Eh, ah—!\""
+            },
+            {
+                "lineNumber": 158088,
+                "originalJapaneseLine": "　",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": 158089,
+                "originalJapaneseLine": "　　＜ぴゅーーーーん＞",
+                "translatedEnglishLine": "<whoosh> "
+            },
+            {
+                "lineNumber": 158090,
+                "originalJapaneseLine": "ハウゼルはあっという間に",
+                "translatedEnglishLine": "Hausel quickly"
+            },
+            {
+                "lineNumber": 158091,
+                "originalJapaneseLine": "飛んで去って行った。",
+                "translatedEnglishLine": "flew away in an instant."
+            },
+            {
+                "lineNumber": 158092,
+                "originalJapaneseLine": "「こ、こら待てーーーーー！！！！」",
+                "translatedEnglishLine": "\"H-Heeey, wait----!!!!\""
+            },
+            {
+                "lineNumber": 158093,
+                "originalJapaneseLine": "「…………逃げられた」",
+                "translatedEnglishLine": "\"...He got away.\""
+            },
+            {
+                "lineNumber": 158094,
+                "originalJapaneseLine": "「逃げられちゃいましたねぇ……」",
+                "translatedEnglishLine": "\"He really ran off, huh...\""
+            },
+            {
+                "lineNumber": 158095,
+                "originalJapaneseLine": "「……サチコ……後で……お仕置き」",
+                "translatedEnglishLine": "\"...Sachiko... you'll be punished later.\""
+            },
+            {
+                "lineNumber": 158096,
+                "originalJapaneseLine": "「なんでですかーーー！？」",
+                "translatedEnglishLine": "\"W-Why!?\""
+            },
+            {
+                "lineNumber": 158097,
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "......"
+            },
+            {
+                "lineNumber": 158098,
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": 158099,
+                "originalJapaneseLine": "「きょ、今日こそ仲直りしようと思っていたのに、",
+                "translatedEnglishLine": "\"I-I was thinking we would make up today, but,"
+            },
+            {
+                "lineNumber": 158100,
+                "originalJapaneseLine": "　な、なんで……なんで……",
+                "translatedEnglishLine": "w-why... why...\""
+            }
+        ]
+    }
+}

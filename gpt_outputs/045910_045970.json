@@ -1,1 +1,719 @@
-{"id":"resp_048ddc003d242f520068efaf8d2070819099701096d5cb86d0","object":"response","created_at":1760538509,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_048ddc003d242f520068efaf8d74588190bd525663e26d13de","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":45911,\"originalJapaneseLine\":\"「これなら直せます」\",\"translatedEnglishLine\":\"\\\"I can fix it with this.\\\"\"},{\"lineNumber\":45912,\"originalJapaneseLine\":\"「えっ！？」\",\"translatedEnglishLine\":\"\\\"Huh!?\\\"\"},{\"lineNumber\":45913,\"originalJapaneseLine\":\"「構いませんか、ランス」\",\"translatedEnglishLine\":\"\\\"Is it alright, Rance?\\\"\"},{\"lineNumber\":45914,\"originalJapaneseLine\":\"「なんだ、直るのか。いいぞ、やってやれ」\",\"translatedEnglishLine\":\"\\\"What, it can be fixed? Good, do it.\\\"\"},{\"lineNumber\":45915,\"originalJapaneseLine\":\"「はい。状態回復」\",\"translatedEnglishLine\":\"\\\"Yes. Status recovery.\\\"\"},{\"lineNumber\":45916,\"originalJapaneseLine\":\"「っ、く、がはっ……！　ま、魔人は……あれ？」\",\"translatedEnglishLine\":\"\\\"Ugh, gah...! The demon lord is... huh?\\\"\"},{\"lineNumber\":45917,\"originalJapaneseLine\":\"「おおおっ！　な、直った！」\",\"translatedEnglishLine\":\"\\\"Ohhh! I-it's fixed!\\\"\"},{\"lineNumber\":45918,\"originalJapaneseLine\":\"「あ、それでいいんだ……それなら私も直せます。\",\"translatedEnglishLine\":\"\\\"Ah, that’s fine... In that case, I can fix it too.\"},{\"lineNumber\":45919,\"originalJapaneseLine\":\"　お手伝いしていいですか？」\",\"translatedEnglishLine\":\"May I help?\\\"\"},{\"lineNumber\":45920,\"originalJapaneseLine\":\"「まあいいだろう」\",\"translatedEnglishLine\":\"\\\"Well, that’s fine.\\\"\"},{\"lineNumber\":45921,\"originalJapaneseLine\":\"「あ、あの、お手伝いします」\",\"translatedEnglishLine\":\"\\\"I-I’ll help.\\\"\"},{\"lineNumber\":45922,\"originalJapaneseLine\":\"「はい。ありがとうございます」\",\"translatedEnglishLine\":\"\\\"Yes. Thank you.\\\"\"},{\"lineNumber\":45923,\"originalJapaneseLine\":\"二人をはじめ、神魔法の心得がある者が\",\"translatedEnglishLine\":\"Starting with the two of them, those knowledgeable in divine magic\"},{\"lineNumber\":45924,\"originalJapaneseLine\":\"手分けして石化を解いていく。\",\"translatedEnglishLine\":\"worked together to break the petrification.\"},{\"lineNumber\":45925,\"originalJapaneseLine\":\"「ひのふの……四十人くらいか。\",\"translatedEnglishLine\":\"\\\"Hmm... about forty people, huh.\"},{\"lineNumber\":45926,\"originalJapaneseLine\":\"　けっこういたな」\",\"translatedEnglishLine\":\"There were quite a few.\\\"\"},{\"lineNumber\":45927,\"originalJapaneseLine\":\"「ふわあぁ……あんりがとうございます。\",\"translatedEnglishLine\":\"\\\"Wah… thank you very much.\"},{\"lineNumber\":45928,\"originalJapaneseLine\":\"　残ってるモンは神魔法に疎かったもんで……」\",\"translatedEnglishLine\":\"The ones left were unfamiliar with divine magic...\\\"\"},{\"lineNumber\":45929,\"originalJapaneseLine\":\"「よーし、これで仲間は動けるようになったな。\",\"translatedEnglishLine\":\"\\\"Alright, now our comrades can move again.\"},{\"lineNumber\":45930,\"originalJapaneseLine\":\"　全軍突撃だ、行ってこい」\",\"translatedEnglishLine\":\"It's a full army charge, go!\\\"\"},{\"lineNumber\":45931,\"originalJapaneseLine\":\"「ふわあぁっ！？」\",\"translatedEnglishLine\":\"\\\"Wahh!?\\\"\"},{\"lineNumber\":45932,\"originalJapaneseLine\":\"「さっき、仲間がこんなだから戦えないとか\",\"translatedEnglishLine\":\"\\\"Earlier you said you couldn't fight because your comrades were like this.\"},{\"lineNumber\":45933,\"originalJapaneseLine\":\"　ほざいてただろう。よかったな」\",\"translatedEnglishLine\":\"Now look, it's good, isn’t it?\\\"\"},{\"lineNumber\":45934,\"originalJapaneseLine\":\"「むむむ、無ン理ですー！　数万なんて大軍！」\",\"translatedEnglishLine\":\"\\\"Mmm, it's impossible! Tens of thousands, such a huge army!\\\"\"},{\"lineNumber\":45935,\"originalJapaneseLine\":\"「がははは、為せばなる。ほれ、行け行け」\",\"translatedEnglishLine\":\"\\\"Gahaha, where there's a will, there's a way. Now, go, go!\\\"\"},{\"lineNumber\":45936,\"originalJapaneseLine\":\"「か、可哀想ですよ、ランス様……」\",\"translatedEnglishLine\":\"\\\"Y-you're pitiful, Lord Rance...\\\"\"},{\"lineNumber\":45937,\"originalJapaneseLine\":\"「うう……お、お許しを……」\",\"translatedEnglishLine\":\"\\\"Ugh... p-please forgive me...\\\"\"},{\"lineNumber\":45938,\"originalJapaneseLine\":\"「ふん、雑魚どもが。しょうがないな」\",\"translatedEnglishLine\":\"\\\"Hmph, those small fries. Can't be helped.\\\"\"},{\"lineNumber\":45939,\"originalJapaneseLine\":\"「で……これからどーすんのさ、アニキ」\",\"translatedEnglishLine\":\"\\\"So... what’re we going to do now, big bro?\\\"\"},{\"lineNumber\":45940,\"originalJapaneseLine\":\"「魔物将軍をブチ殺す。それは変わらん」\",\"translatedEnglishLine\":\"\\\"Kill the demon general. That won’t change.\\\"\"},{\"lineNumber\":45941,\"originalJapaneseLine\":\"「問題はどこにいるかよね……\",\"translatedEnglishLine\":\"\\\"The problem is where he is...\"},{\"lineNumber\":45942,\"originalJapaneseLine\":\"　あれだけの数の魔軍の中から一人を捜すわけだし」\",\"translatedEnglishLine\":\"We have to search for one person among such a huge demon army.\\\"\"},{\"lineNumber\":45943,\"originalJapaneseLine\":\"「っても、グズグズしてるとマークが危ないだろ？\",\"translatedEnglishLine\":\"\\\"But if we hesitate, Mark will be in danger, right?\"},{\"lineNumber\":45944,\"originalJapaneseLine\":\"　見つけてから動けりゃいいだろうけど……」\",\"translatedEnglishLine\":\"It’d be ideal to move after finding him though...\\\"\"},{\"lineNumber\":45945,\"originalJapaneseLine\":\"「……屋上に行くか。おい、案内しろ」\",\"translatedEnglishLine\":\"\\\"...Let's go to the rooftop. Hey, guide me.\\\"\"},{\"lineNumber\":45946,\"originalJapaneseLine\":\"「は、はいっす！」\",\"translatedEnglishLine\":\"\\\"Y-yes!\\\"\"},{\"lineNumber\":45947,\"originalJapaneseLine\":\"熱を孕んだゼスの風が吹き抜けて、\",\"translatedEnglishLine\":\"A hot, charged Zeth wind blew through,\"},{\"lineNumber\":45948,\"originalJapaneseLine\":\"屋上へ出たランス達を迎えた。\",\"translatedEnglishLine\":\"welcoming Rance and the others as they reached the rooftop.\"},{\"lineNumber\":45949,\"originalJapaneseLine\":\"「どれどれ……」\",\"translatedEnglishLine\":\"\\\"Let’s see...\\\"\"},{\"lineNumber\":45950,\"originalJapaneseLine\":\"ランスは双眼鏡をマーク方面へと向けた。\",\"translatedEnglishLine\":\"Rance pointed his binoculars towards Mark’s direction.\"},{\"lineNumber\":45951,\"originalJapaneseLine\":\"「いるいる……始まってるな」\",\"translatedEnglishLine\":\"\\\"There they are... it’s started.\\\"\"},{\"lineNumber\":45952,\"originalJapaneseLine\":\"遠くで進軍している、魔軍の影。\",\"translatedEnglishLine\":\"The shadow of the demon army advancing in the distance.\"},{\"lineNumber\":45953,\"originalJapaneseLine\":\"突出した先鋒と、マーク防衛隊との間で、\",\"translatedEnglishLine\":\"Between the spearheading vanguard and Mark’s defense force,\"},{\"lineNumber\":45954,\"originalJapaneseLine\":\"既に戦端は開かれているようだった。\",\"translatedEnglishLine\":\"the battle seemed already underway.\"},{\"lineNumber\":45955,\"originalJapaneseLine\":\"「さっきより、数は減ったか？」\",\"translatedEnglishLine\":\"\\\"Have their numbers decreased since earlier?\\\"\"},{\"lineNumber\":45956,\"originalJapaneseLine\":\"「魔物将軍は残り一人。\",\"translatedEnglishLine\":\"\\\"Only one demon general remains.\"},{\"lineNumber\":45957,\"originalJapaneseLine\":\"　兵も二万くらいにはなってるはずだ」\",\"translatedEnglishLine\":\"The soldiers should be around twenty thousand.\\\"\"},{\"lineNumber\":45958,\"originalJapaneseLine\":\"「あの、時々チカチカ光ってるのは……\",\"translatedEnglishLine\":\"\\\"That flickering light sometimes is...\"},{\"lineNumber\":45959,\"originalJapaneseLine\":\"　カバッハーン将軍かしら」\",\"translatedEnglishLine\":\"General Kabahaan, perhaps?\\\"\"},{\"lineNumber\":45960,\"originalJapaneseLine\":\"「ふぅむ……雷帝も相当追い詰められているな。\",\"translatedEnglishLine\":\"\\\"Hmm... The Thunder Emperor is also quite cornered.\"},{\"lineNumber\":45961,\"originalJapaneseLine\":\"　あの老人の真価を見られる好機やもしれん」\",\"translatedEnglishLine\":\"This might be a good chance to see the true strength of that old man.\\\"\"},{\"lineNumber\":45962,\"originalJapaneseLine\":\"「そういや、あのカミナリ爺がいたか」\",\"translatedEnglishLine\":\"\\\"Come to think of it, that old thunder guy was here.\\\"\"},{\"lineNumber\":45963,\"originalJapaneseLine\":\"「でも、いくら雷帝様でも、二万なんて……」\",\"translatedEnglishLine\":\"\\\"But even the Thunder Emperor, twenty thousand is...\"},{\"lineNumber\":45964,\"originalJapaneseLine\":\"「ま、無理だろうな。がはははは、いい気味だ」\",\"translatedEnglishLine\":\"Well, it's probably impossible. Gahahaha, serves him right.\\\"\"},{\"lineNumber\":45965,\"originalJapaneseLine\":\"「……もしかして、昔懲らしめられたの、\",\"translatedEnglishLine\":\"\\\"...Could it be that he still holds a grudge from when he was punished long ago?\"},{\"lineNumber\":45966,\"originalJapaneseLine\":\"　まだ根に持ってるの？」\",\"translatedEnglishLine\":\"Still holding onto it?\\\"\"},{\"lineNumber\":45967,\"originalJapaneseLine\":\"「ふん。男なんかいくら死んでも構わん。\",\"translatedEnglishLine\":\"\\\"Hmph. I don’t care how many men die.\"},{\"lineNumber\":45968,\"originalJapaneseLine\":\"　口うるさくて偉そうな爺なんぞ尚更だ」\",\"translatedEnglishLine\":\"Especially annoying, arrogant old men like that.\\\"\"},{\"lineNumber\":45969,\"originalJapaneseLine\":\"「あのね……」\",\"translatedEnglishLine\":\"\\\"You see...\\\"\"},{\"lineNumber\":45970,\"originalJapaneseLine\":\"「だが、俺の女どもまで巻き込むのはまずいな。\",\"translatedEnglishLine\":\"\\\"But involving my women would be bad.\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":45911,"originalJapaneseLine":"「これなら直せます」","translatedEnglishLine":"\"I can fix it with this.\""},{"lineNumber":45912,"originalJapaneseLine":"「えっ！？」","translatedEnglishLine":"\"Huh!?\""},{"lineNumber":45913,"originalJapaneseLine":"「構いませんか、ランス」","translatedEnglishLine":"\"Is it alright, Rance?\""},{"lineNumber":45914,"originalJapaneseLine":"「なんだ、直るのか。いいぞ、やってやれ」","translatedEnglishLine":"\"What, it can be fixed? Good, do it.\""},{"lineNumber":45915,"originalJapaneseLine":"「はい。状態回復」","translatedEnglishLine":"\"Yes. Status recovery.\""},{"lineNumber":45916,"originalJapaneseLine":"「っ、く、がはっ……！　ま、魔人は……あれ？」","translatedEnglishLine":"\"Ugh, gah...! The demon lord is... huh?\""},{"lineNumber":45917,"originalJapaneseLine":"「おおおっ！　な、直った！」","translatedEnglishLine":"\"Ohhh! I-it's fixed!\""},{"lineNumber":45918,"originalJapaneseLine":"「あ、それでいいんだ……それなら私も直せます。","translatedEnglishLine":"\"Ah, that’s fine... In that case, I can fix it too."},{"lineNumber":45919,"originalJapaneseLine":"　お手伝いしていいですか？」","translatedEnglishLine":"May I help?\""},{"lineNumber":45920,"originalJapaneseLine":"「まあいいだろう」","translatedEnglishLine":"\"Well, that’s fine.\""},{"lineNumber":45921,"originalJapaneseLine":"「あ、あの、お手伝いします」","translatedEnglishLine":"\"I-I’ll help.\""},{"lineNumber":45922,"originalJapaneseLine":"「はい。ありがとうございます」","translatedEnglishLine":"\"Yes. Thank you.\""},{"lineNumber":45923,"originalJapaneseLine":"二人をはじめ、神魔法の心得がある者が","translatedEnglishLine":"Starting with the two of them, those knowledgeable in divine magic"},{"lineNumber":45924,"originalJapaneseLine":"手分けして石化を解いていく。","translatedEnglishLine":"worked together to break the petrification."},{"lineNumber":45925,"originalJapaneseLine":"「ひのふの……四十人くらいか。","translatedEnglishLine":"\"Hmm... about forty people, huh."},{"lineNumber":45926,"originalJapaneseLine":"　けっこういたな」","translatedEnglishLine":"There were quite a few.\""},{"lineNumber":45927,"originalJapaneseLine":"「ふわあぁ……あんりがとうございます。","translatedEnglishLine":"\"Wah… thank you very much."},{"lineNumber":45928,"originalJapaneseLine":"　残ってるモンは神魔法に疎かったもんで……」","translatedEnglishLine":"The ones left were unfamiliar with divine magic...\""},{"lineNumber":45929,"originalJapaneseLine":"「よーし、これで仲間は動けるようになったな。","translatedEnglishLine":"\"Alright, now our comrades can move again."},{"lineNumber":45930,"originalJapaneseLine":"　全軍突撃だ、行ってこい」","translatedEnglishLine":"It's a full army charge, go!\""},{"lineNumber":45931,"originalJapaneseLine":"「ふわあぁっ！？」","translatedEnglishLine":"\"Wahh!?\""},{"lineNumber":45932,"originalJapaneseLine":"「さっき、仲間がこんなだから戦えないとか","translatedEnglishLine":"\"Earlier you said you couldn't fight because your comrades were like this."},{"lineNumber":45933,"originalJapaneseLine":"　ほざいてただろう。よかったな」","translatedEnglishLine":"Now look, it's good, isn’t it?\""},{"lineNumber":45934,"originalJapaneseLine":"「むむむ、無ン理ですー！　数万なんて大軍！」","translatedEnglishLine":"\"Mmm, it's impossible! Tens of thousands, such a huge army!\""},{"lineNumber":45935,"originalJapaneseLine":"「がははは、為せばなる。ほれ、行け行け」","translatedEnglishLine":"\"Gahaha, where there's a will, there's a way. Now, go, go!\""},{"lineNumber":45936,"originalJapaneseLine":"「か、可哀想ですよ、ランス様……」","translatedEnglishLine":"\"Y-you're pitiful, Lord Rance...\""},{"lineNumber":45937,"originalJapaneseLine":"「うう……お、お許しを……」","translatedEnglishLine":"\"Ugh... p-please forgive me...\""},{"lineNumber":45938,"originalJapaneseLine":"「ふん、雑魚どもが。しょうがないな」","translatedEnglishLine":"\"Hmph, those small fries. Can't be helped.\""},{"lineNumber":45939,"originalJapaneseLine":"「で……これからどーすんのさ、アニキ」","translatedEnglishLine":"\"So... what’re we going to do now, big bro?\""},{"lineNumber":45940,"originalJapaneseLine":"「魔物将軍をブチ殺す。それは変わらん」","translatedEnglishLine":"\"Kill the demon general. That won’t change.\""},{"lineNumber":45941,"originalJapaneseLine":"「問題はどこにいるかよね……","translatedEnglishLine":"\"The problem is where he is..."},{"lineNumber":45942,"originalJapaneseLine":"　あれだけの数の魔軍の中から一人を捜すわけだし」","translatedEnglishLine":"We have to search for one person among such a huge demon army.\""},{"lineNumber":45943,"originalJapaneseLine":"「っても、グズグズしてるとマークが危ないだろ？","translatedEnglishLine":"\"But if we hesitate, Mark will be in danger, right?"},{"lineNumber":45944,"originalJapaneseLine":"　見つけてから動けりゃいいだろうけど……」","translatedEnglishLine":"It’d be ideal to move after finding him though...\""},{"lineNumber":45945,"originalJapaneseLine":"「……屋上に行くか。おい、案内しろ」","translatedEnglishLine":"\"...Let's go to the rooftop. Hey, guide me.\""},{"lineNumber":45946,"originalJapaneseLine":"「は、はいっす！」","translatedEnglishLine":"\"Y-yes!\""},{"lineNumber":45947,"originalJapaneseLine":"熱を孕んだゼスの風が吹き抜けて、","translatedEnglishLine":"A hot, charged Zeth wind blew through,"},{"lineNumber":45948,"originalJapaneseLine":"屋上へ出たランス達を迎えた。","translatedEnglishLine":"welcoming Rance and the others as they reached the rooftop."},{"lineNumber":45949,"originalJapaneseLine":"「どれどれ……」","translatedEnglishLine":"\"Let’s see...\""},{"lineNumber":45950,"originalJapaneseLine":"ランスは双眼鏡をマーク方面へと向けた。","translatedEnglishLine":"Rance pointed his binoculars towards Mark’s direction."},{"lineNumber":45951,"originalJapaneseLine":"「いるいる……始まってるな」","translatedEnglishLine":"\"There they are... it’s started.\""},{"lineNumber":45952,"originalJapaneseLine":"遠くで進軍している、魔軍の影。","translatedEnglishLine":"The shadow of the demon army advancing in the distance."},{"lineNumber":45953,"originalJapaneseLine":"突出した先鋒と、マーク防衛隊との間で、","translatedEnglishLine":"Between the spearheading vanguard and Mark’s defense force,"},{"lineNumber":45954,"originalJapaneseLine":"既に戦端は開かれているようだった。","translatedEnglishLine":"the battle seemed already underway."},{"lineNumber":45955,"originalJapaneseLine":"「さっきより、数は減ったか？」","translatedEnglishLine":"\"Have their numbers decreased since earlier?\""},{"lineNumber":45956,"originalJapaneseLine":"「魔物将軍は残り一人。","translatedEnglishLine":"\"Only one demon general remains."},{"lineNumber":45957,"originalJapaneseLine":"　兵も二万くらいにはなってるはずだ」","translatedEnglishLine":"The soldiers should be around twenty thousand.\""},{"lineNumber":45958,"originalJapaneseLine":"「あの、時々チカチカ光ってるのは……","translatedEnglishLine":"\"That flickering light sometimes is..."},{"lineNumber":45959,"originalJapaneseLine":"　カバッハーン将軍かしら」","translatedEnglishLine":"General Kabahaan, perhaps?\""},{"lineNumber":45960,"originalJapaneseLine":"「ふぅむ……雷帝も相当追い詰められているな。","translatedEnglishLine":"\"Hmm... The Thunder Emperor is also quite cornered."},{"lineNumber":45961,"originalJapaneseLine":"　あの老人の真価を見られる好機やもしれん」","translatedEnglishLine":"This might be a good chance to see the true strength of that old man.\""},{"lineNumber":45962,"originalJapaneseLine":"「そういや、あのカミナリ爺がいたか」","translatedEnglishLine":"\"Come to think of it, that old thunder guy was here.\""},{"lineNumber":45963,"originalJapaneseLine":"「でも、いくら雷帝様でも、二万なんて……」","translatedEnglishLine":"\"But even the Thunder Emperor, twenty thousand is..."},{"lineNumber":45964,"originalJapaneseLine":"「ま、無理だろうな。がはははは、いい気味だ」","translatedEnglishLine":"Well, it's probably impossible. Gahahaha, serves him right.\""},{"lineNumber":45965,"originalJapaneseLine":"「……もしかして、昔懲らしめられたの、","translatedEnglishLine":"\"...Could it be that he still holds a grudge from when he was punished long ago?"},{"lineNumber":45966,"originalJapaneseLine":"　まだ根に持ってるの？」","translatedEnglishLine":"Still holding onto it?\""},{"lineNumber":45967,"originalJapaneseLine":"「ふん。男なんかいくら死んでも構わん。","translatedEnglishLine":"\"Hmph. I don’t care how many men die."},{"lineNumber":45968,"originalJapaneseLine":"　口うるさくて偉そうな爺なんぞ尚更だ」","translatedEnglishLine":"Especially annoying, arrogant old men like that.\""},{"lineNumber":45969,"originalJapaneseLine":"「あのね……」","translatedEnglishLine":"\"You see...\""},{"lineNumber":45970,"originalJapaneseLine":"「だが、俺の女どもまで巻き込むのはまずいな。","translatedEnglishLine":"\"But involving my women would be bad.\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1827,"input_tokens_details":{"cached_tokens":0},"output_tokens":2415,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":4242},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":45911,\"originalJapaneseLine\":\"「これなら直せます」\",\"translatedEnglishLine\":\"\\\"I can fix it with this.\\\"\"},{\"lineNumber\":45912,\"originalJapaneseLine\":\"「えっ！？」\",\"translatedEnglishLine\":\"\\\"Huh!?\\\"\"},{\"lineNumber\":45913,\"originalJapaneseLine\":\"「構いませんか、ランス」\",\"translatedEnglishLine\":\"\\\"Is it alright, Rance?\\\"\"},{\"lineNumber\":45914,\"originalJapaneseLine\":\"「なんだ、直るのか。いいぞ、やってやれ」\",\"translatedEnglishLine\":\"\\\"What, it can be fixed? Good, do it.\\\"\"},{\"lineNumber\":45915,\"originalJapaneseLine\":\"「はい。状態回復」\",\"translatedEnglishLine\":\"\\\"Yes. Status recovery.\\\"\"},{\"lineNumber\":45916,\"originalJapaneseLine\":\"「っ、く、がはっ……！　ま、魔人は……あれ？」\",\"translatedEnglishLine\":\"\\\"Ugh, gah...! The demon lord is... huh?\\\"\"},{\"lineNumber\":45917,\"originalJapaneseLine\":\"「おおおっ！　な、直った！」\",\"translatedEnglishLine\":\"\\\"Ohhh! I-it's fixed!\\\"\"},{\"lineNumber\":45918,\"originalJapaneseLine\":\"「あ、それでいいんだ……それなら私も直せます。\",\"translatedEnglishLine\":\"\\\"Ah, that’s fine... In that case, I can fix it too.\"},{\"lineNumber\":45919,\"originalJapaneseLine\":\"　お手伝いしていいですか？」\",\"translatedEnglishLine\":\"May I help?\\\"\"},{\"lineNumber\":45920,\"originalJapaneseLine\":\"「まあいいだろう」\",\"translatedEnglishLine\":\"\\\"Well, that’s fine.\\\"\"},{\"lineNumber\":45921,\"originalJapaneseLine\":\"「あ、あの、お手伝いします」\",\"translatedEnglishLine\":\"\\\"I-I’ll help.\\\"\"},{\"lineNumber\":45922,\"originalJapaneseLine\":\"「はい。ありがとうございます」\",\"translatedEnglishLine\":\"\\\"Yes. Thank you.\\\"\"},{\"lineNumber\":45923,\"originalJapaneseLine\":\"二人をはじめ、神魔法の心得がある者が\",\"translatedEnglishLine\":\"Starting with the two of them, those knowledgeable in divine magic\"},{\"lineNumber\":45924,\"originalJapaneseLine\":\"手分けして石化を解いていく。\",\"translatedEnglishLine\":\"worked together to break the petrification.\"},{\"lineNumber\":45925,\"originalJapaneseLine\":\"「ひのふの……四十人くらいか。\",\"translatedEnglishLine\":\"\\\"Hmm... about forty people, huh.\"},{\"lineNumber\":45926,\"originalJapaneseLine\":\"　けっこういたな」\",\"translatedEnglishLine\":\"There were quite a few.\\\"\"},{\"lineNumber\":45927,\"originalJapaneseLine\":\"「ふわあぁ……あんりがとうございます。\",\"translatedEnglishLine\":\"\\\"Wah… thank you very much.\"},{\"lineNumber\":45928,\"originalJapaneseLine\":\"　残ってるモンは神魔法に疎かったもんで……」\",\"translatedEnglishLine\":\"The ones left were unfamiliar with divine magic...\\\"\"},{\"lineNumber\":45929,\"originalJapaneseLine\":\"「よーし、これで仲間は動けるようになったな。\",\"translatedEnglishLine\":\"\\\"Alright, now our comrades can move again.\"},{\"lineNumber\":45930,\"originalJapaneseLine\":\"　全軍突撃だ、行ってこい」\",\"translatedEnglishLine\":\"It's a full army charge, go!\\\"\"},{\"lineNumber\":45931,\"originalJapaneseLine\":\"「ふわあぁっ！？」\",\"translatedEnglishLine\":\"\\\"Wahh!?\\\"\"},{\"lineNumber\":45932,\"originalJapaneseLine\":\"「さっき、仲間がこんなだから戦えないとか\",\"translatedEnglishLine\":\"\\\"Earlier you said you couldn't fight because your comrades were like this.\"},{\"lineNumber\":45933,\"originalJapaneseLine\":\"　ほざいてただろう。よかったな」\",\"translatedEnglishLine\":\"Now look, it's good, isn’t it?\\\"\"},{\"lineNumber\":45934,\"originalJapaneseLine\":\"「むむむ、無ン理ですー！　数万なんて大軍！」\",\"translatedEnglishLine\":\"\\\"Mmm, it's impossible! Tens of thousands, such a huge army!\\\"\"},{\"lineNumber\":45935,\"originalJapaneseLine\":\"「がははは、為せばなる。ほれ、行け行け」\",\"translatedEnglishLine\":\"\\\"Gahaha, where there's a will, there's a way. Now, go, go!\\\"\"},{\"lineNumber\":45936,\"originalJapaneseLine\":\"「か、可哀想ですよ、ランス様……」\",\"translatedEnglishLine\":\"\\\"Y-you're pitiful, Lord Rance...\\\"\"},{\"lineNumber\":45937,\"originalJapaneseLine\":\"「うう……お、お許しを……」\",\"translatedEnglishLine\":\"\\\"Ugh... p-please forgive me...\\\"\"},{\"lineNumber\":45938,\"originalJapaneseLine\":\"「ふん、雑魚どもが。しょうがないな」\",\"translatedEnglishLine\":\"\\\"Hmph, those small fries. Can't be helped.\\\"\"},{\"lineNumber\":45939,\"originalJapaneseLine\":\"「で……これからどーすんのさ、アニキ」\",\"translatedEnglishLine\":\"\\\"So... what’re we going to do now, big bro?\\\"\"},{\"lineNumber\":45940,\"originalJapaneseLine\":\"「魔物将軍をブチ殺す。それは変わらん」\",\"translatedEnglishLine\":\"\\\"Kill the demon general. That won’t change.\\\"\"},{\"lineNumber\":45941,\"originalJapaneseLine\":\"「問題はどこにいるかよね……\",\"translatedEnglishLine\":\"\\\"The problem is where he is...\"},{\"lineNumber\":45942,\"originalJapaneseLine\":\"　あれだけの数の魔軍の中から一人を捜すわけだし」\",\"translatedEnglishLine\":\"We have to search for one person among such a huge demon army.\\\"\"},{\"lineNumber\":45943,\"originalJapaneseLine\":\"「っても、グズグズしてるとマークが危ないだろ？\",\"translatedEnglishLine\":\"\\\"But if we hesitate, Mark will be in danger, right?\"},{\"lineNumber\":45944,\"originalJapaneseLine\":\"　見つけてから動けりゃいいだろうけど……」\",\"translatedEnglishLine\":\"It’d be ideal to move after finding him though...\\\"\"},{\"lineNumber\":45945,\"originalJapaneseLine\":\"「……屋上に行くか。おい、案内しろ」\",\"translatedEnglishLine\":\"\\\"...Let's go to the rooftop. Hey, guide me.\\\"\"},{\"lineNumber\":45946,\"originalJapaneseLine\":\"「は、はいっす！」\",\"translatedEnglishLine\":\"\\\"Y-yes!\\\"\"},{\"lineNumber\":45947,\"originalJapaneseLine\":\"熱を孕んだゼスの風が吹き抜けて、\",\"translatedEnglishLine\":\"A hot, charged Zeth wind blew through,\"},{\"lineNumber\":45948,\"originalJapaneseLine\":\"屋上へ出たランス達を迎えた。\",\"translatedEnglishLine\":\"welcoming Rance and the others as they reached the rooftop.\"},{\"lineNumber\":45949,\"originalJapaneseLine\":\"「どれどれ……」\",\"translatedEnglishLine\":\"\\\"Let’s see...\\\"\"},{\"lineNumber\":45950,\"originalJapaneseLine\":\"ランスは双眼鏡をマーク方面へと向けた。\",\"translatedEnglishLine\":\"Rance pointed his binoculars towards Mark’s direction.\"},{\"lineNumber\":45951,\"originalJapaneseLine\":\"「いるいる……始まってるな」\",\"translatedEnglishLine\":\"\\\"There they are... it’s started.\\\"\"},{\"lineNumber\":45952,\"originalJapaneseLine\":\"遠くで進軍している、魔軍の影。\",\"translatedEnglishLine\":\"The shadow of the demon army advancing in the distance.\"},{\"lineNumber\":45953,\"originalJapaneseLine\":\"突出した先鋒と、マーク防衛隊との間で、\",\"translatedEnglishLine\":\"Between the spearheading vanguard and Mark’s defense force,\"},{\"lineNumber\":45954,\"originalJapaneseLine\":\"既に戦端は開かれているようだった。\",\"translatedEnglishLine\":\"the battle seemed already underway.\"},{\"lineNumber\":45955,\"originalJapaneseLine\":\"「さっきより、数は減ったか？」\",\"translatedEnglishLine\":\"\\\"Have their numbers decreased since earlier?\\\"\"},{\"lineNumber\":45956,\"originalJapaneseLine\":\"「魔物将軍は残り一人。\",\"translatedEnglishLine\":\"\\\"Only one demon general remains.\"},{\"lineNumber\":45957,\"originalJapaneseLine\":\"　兵も二万くらいにはなってるはずだ」\",\"translatedEnglishLine\":\"The soldiers should be around twenty thousand.\\\"\"},{\"lineNumber\":45958,\"originalJapaneseLine\":\"「あの、時々チカチカ光ってるのは……\",\"translatedEnglishLine\":\"\\\"That flickering light sometimes is...\"},{\"lineNumber\":45959,\"originalJapaneseLine\":\"　カバッハーン将軍かしら」\",\"translatedEnglishLine\":\"General Kabahaan, perhaps?\\\"\"},{\"lineNumber\":45960,\"originalJapaneseLine\":\"「ふぅむ……雷帝も相当追い詰められているな。\",\"translatedEnglishLine\":\"\\\"Hmm... The Thunder Emperor is also quite cornered.\"},{\"lineNumber\":45961,\"originalJapaneseLine\":\"　あの老人の真価を見られる好機やもしれん」\",\"translatedEnglishLine\":\"This might be a good chance to see the true strength of that old man.\\\"\"},{\"lineNumber\":45962,\"originalJapaneseLine\":\"「そういや、あのカミナリ爺がいたか」\",\"translatedEnglishLine\":\"\\\"Come to think of it, that old thunder guy was here.\\\"\"},{\"lineNumber\":45963,\"originalJapaneseLine\":\"「でも、いくら雷帝様でも、二万なんて……」\",\"translatedEnglishLine\":\"\\\"But even the Thunder Emperor, twenty thousand is...\"},{\"lineNumber\":45964,\"originalJapaneseLine\":\"「ま、無理だろうな。がはははは、いい気味だ」\",\"translatedEnglishLine\":\"Well, it's probably impossible. Gahahaha, serves him right.\\\"\"},{\"lineNumber\":45965,\"originalJapaneseLine\":\"「……もしかして、昔懲らしめられたの、\",\"translatedEnglishLine\":\"\\\"...Could it be that he still holds a grudge from when he was punished long ago?\"},{\"lineNumber\":45966,\"originalJapaneseLine\":\"　まだ根に持ってるの？」\",\"translatedEnglishLine\":\"Still holding onto it?\\\"\"},{\"lineNumber\":45967,\"originalJapaneseLine\":\"「ふん。男なんかいくら死んでも構わん。\",\"translatedEnglishLine\":\"\\\"Hmph. I don’t care how many men die.\"},{\"lineNumber\":45968,\"originalJapaneseLine\":\"　口うるさくて偉そうな爺なんぞ尚更だ」\",\"translatedEnglishLine\":\"Especially annoying, arrogant old men like that.\\\"\"},{\"lineNumber\":45969,\"originalJapaneseLine\":\"「あのね……」\",\"translatedEnglishLine\":\"\\\"You see...\\\"\"},{\"lineNumber\":45970,\"originalJapaneseLine\":\"「だが、俺の女どもまで巻き込むのはまずいな。\",\"translatedEnglishLine\":\"\\\"But involving my women would be bad.\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":45911,"originalJapaneseLine":"「これなら直せます」","translatedEnglishLine":"\"I can fix it with this.\""},{"lineNumber":45912,"originalJapaneseLine":"「えっ！？」","translatedEnglishLine":"\"Huh!?\""},{"lineNumber":45913,"originalJapaneseLine":"「構いませんか、ランス」","translatedEnglishLine":"\"Is it alright, Rance?\""},{"lineNumber":45914,"originalJapaneseLine":"「なんだ、直るのか。いいぞ、やってやれ」","translatedEnglishLine":"\"What, it can be fixed? Good, do it.\""},{"lineNumber":45915,"originalJapaneseLine":"「はい。状態回復」","translatedEnglishLine":"\"Yes. Status recovery.\""},{"lineNumber":45916,"originalJapaneseLine":"「っ、く、がはっ……！　ま、魔人は……あれ？」","translatedEnglishLine":"\"Ugh, gah...! The demon lord is... huh?\""},{"lineNumber":45917,"originalJapaneseLine":"「おおおっ！　な、直った！」","translatedEnglishLine":"\"Ohhh! I-it's fixed!\""},{"lineNumber":45918,"originalJapaneseLine":"「あ、それでいいんだ……それなら私も直せます。","translatedEnglishLine":"\"Ah, that’s fine... In that case, I can fix it too."},{"lineNumber":45919,"originalJapaneseLine":"　お手伝いしていいですか？」","translatedEnglishLine":"May I help?\""},{"lineNumber":45920,"originalJapaneseLine":"「まあいいだろう」","translatedEnglishLine":"\"Well, that’s fine.\""},{"lineNumber":45921,"originalJapaneseLine":"「あ、あの、お手伝いします」","translatedEnglishLine":"\"I-I’ll help.\""},{"lineNumber":45922,"originalJapaneseLine":"「はい。ありがとうございます」","translatedEnglishLine":"\"Yes. Thank you.\""},{"lineNumber":45923,"originalJapaneseLine":"二人をはじめ、神魔法の心得がある者が","translatedEnglishLine":"Starting with the two of them, those knowledgeable in divine magic"},{"lineNumber":45924,"originalJapaneseLine":"手分けして石化を解いていく。","translatedEnglishLine":"worked together to break the petrification."},{"lineNumber":45925,"originalJapaneseLine":"「ひのふの……四十人くらいか。","translatedEnglishLine":"\"Hmm... about forty people, huh."},{"lineNumber":45926,"originalJapaneseLine":"　けっこういたな」","translatedEnglishLine":"There were quite a few.\""},{"lineNumber":45927,"originalJapaneseLine":"「ふわあぁ……あんりがとうございます。","translatedEnglishLine":"\"Wah… thank you very much."},{"lineNumber":45928,"originalJapaneseLine":"　残ってるモンは神魔法に疎かったもんで……」","translatedEnglishLine":"The ones left were unfamiliar with divine magic...\""},{"lineNumber":45929,"originalJapaneseLine":"「よーし、これで仲間は動けるようになったな。","translatedEnglishLine":"\"Alright, now our comrades can move again."},{"lineNumber":45930,"originalJapaneseLine":"　全軍突撃だ、行ってこい」","translatedEnglishLine":"It's a full army charge, go!\""},{"lineNumber":45931,"originalJapaneseLine":"「ふわあぁっ！？」","translatedEnglishLine":"\"Wahh!?\""},{"lineNumber":45932,"originalJapaneseLine":"「さっき、仲間がこんなだから戦えないとか","translatedEnglishLine":"\"Earlier you said you couldn't fight because your comrades were like this."},{"lineNumber":45933,"originalJapaneseLine":"　ほざいてただろう。よかったな」","translatedEnglishLine":"Now look, it's good, isn’t it?\""},{"lineNumber":45934,"originalJapaneseLine":"「むむむ、無ン理ですー！　数万なんて大軍！」","translatedEnglishLine":"\"Mmm, it's impossible! Tens of thousands, such a huge army!\""},{"lineNumber":45935,"originalJapaneseLine":"「がははは、為せばなる。ほれ、行け行け」","translatedEnglishLine":"\"Gahaha, where there's a will, there's a way. Now, go, go!\""},{"lineNumber":45936,"originalJapaneseLine":"「か、可哀想ですよ、ランス様……」","translatedEnglishLine":"\"Y-you're pitiful, Lord Rance...\""},{"lineNumber":45937,"originalJapaneseLine":"「うう……お、お許しを……」","translatedEnglishLine":"\"Ugh... p-please forgive me...\""},{"lineNumber":45938,"originalJapaneseLine":"「ふん、雑魚どもが。しょうがないな」","translatedEnglishLine":"\"Hmph, those small fries. Can't be helped.\""},{"lineNumber":45939,"originalJapaneseLine":"「で……これからどーすんのさ、アニキ」","translatedEnglishLine":"\"So... what’re we going to do now, big bro?\""},{"lineNumber":45940,"originalJapaneseLine":"「魔物将軍をブチ殺す。それは変わらん」","translatedEnglishLine":"\"Kill the demon general. That won’t change.\""},{"lineNumber":45941,"originalJapaneseLine":"「問題はどこにいるかよね……","translatedEnglishLine":"\"The problem is where he is..."},{"lineNumber":45942,"originalJapaneseLine":"　あれだけの数の魔軍の中から一人を捜すわけだし」","translatedEnglishLine":"We have to search for one person among such a huge demon army.\""},{"lineNumber":45943,"originalJapaneseLine":"「っても、グズグズしてるとマークが危ないだろ？","translatedEnglishLine":"\"But if we hesitate, Mark will be in danger, right?"},{"lineNumber":45944,"originalJapaneseLine":"　見つけてから動けりゃいいだろうけど……」","translatedEnglishLine":"It’d be ideal to move after finding him though...\""},{"lineNumber":45945,"originalJapaneseLine":"「……屋上に行くか。おい、案内しろ」","translatedEnglishLine":"\"...Let's go to the rooftop. Hey, guide me.\""},{"lineNumber":45946,"originalJapaneseLine":"「は、はいっす！」","translatedEnglishLine":"\"Y-yes!\""},{"lineNumber":45947,"originalJapaneseLine":"熱を孕んだゼスの風が吹き抜けて、","translatedEnglishLine":"A hot, charged Zeth wind blew through,"},{"lineNumber":45948,"originalJapaneseLine":"屋上へ出たランス達を迎えた。","translatedEnglishLine":"welcoming Rance and the others as they reached the rooftop."},{"lineNumber":45949,"originalJapaneseLine":"「どれどれ……」","translatedEnglishLine":"\"Let’s see...\""},{"lineNumber":45950,"originalJapaneseLine":"ランスは双眼鏡をマーク方面へと向けた。","translatedEnglishLine":"Rance pointed his binoculars towards Mark’s direction."},{"lineNumber":45951,"originalJapaneseLine":"「いるいる……始まってるな」","translatedEnglishLine":"\"There they are... it’s started.\""},{"lineNumber":45952,"originalJapaneseLine":"遠くで進軍している、魔軍の影。","translatedEnglishLine":"The shadow of the demon army advancing in the distance."},{"lineNumber":45953,"originalJapaneseLine":"突出した先鋒と、マーク防衛隊との間で、","translatedEnglishLine":"Between the spearheading vanguard and Mark’s defense force,"},{"lineNumber":45954,"originalJapaneseLine":"既に戦端は開かれているようだった。","translatedEnglishLine":"the battle seemed already underway."},{"lineNumber":45955,"originalJapaneseLine":"「さっきより、数は減ったか？」","translatedEnglishLine":"\"Have their numbers decreased since earlier?\""},{"lineNumber":45956,"originalJapaneseLine":"「魔物将軍は残り一人。","translatedEnglishLine":"\"Only one demon general remains."},{"lineNumber":45957,"originalJapaneseLine":"　兵も二万くらいにはなってるはずだ」","translatedEnglishLine":"The soldiers should be around twenty thousand.\""},{"lineNumber":45958,"originalJapaneseLine":"「あの、時々チカチカ光ってるのは……","translatedEnglishLine":"\"That flickering light sometimes is..."},{"lineNumber":45959,"originalJapaneseLine":"　カバッハーン将軍かしら」","translatedEnglishLine":"General Kabahaan, perhaps?\""},{"lineNumber":45960,"originalJapaneseLine":"「ふぅむ……雷帝も相当追い詰められているな。","translatedEnglishLine":"\"Hmm... The Thunder Emperor is also quite cornered."},{"lineNumber":45961,"originalJapaneseLine":"　あの老人の真価を見られる好機やもしれん」","translatedEnglishLine":"This might be a good chance to see the true strength of that old man.\""},{"lineNumber":45962,"originalJapaneseLine":"「そういや、あのカミナリ爺がいたか」","translatedEnglishLine":"\"Come to think of it, that old thunder guy was here.\""},{"lineNumber":45963,"originalJapaneseLine":"「でも、いくら雷帝様でも、二万なんて……」","translatedEnglishLine":"\"But even the Thunder Emperor, twenty thousand is..."},{"lineNumber":45964,"originalJapaneseLine":"「ま、無理だろうな。がはははは、いい気味だ」","translatedEnglishLine":"Well, it's probably impossible. Gahahaha, serves him right.\""},{"lineNumber":45965,"originalJapaneseLine":"「……もしかして、昔懲らしめられたの、","translatedEnglishLine":"\"...Could it be that he still holds a grudge from when he was punished long ago?"},{"lineNumber":45966,"originalJapaneseLine":"　まだ根に持ってるの？」","translatedEnglishLine":"Still holding onto it?\""},{"lineNumber":45967,"originalJapaneseLine":"「ふん。男なんかいくら死んでも構わん。","translatedEnglishLine":"\"Hmph. I don’t care how many men die."},{"lineNumber":45968,"originalJapaneseLine":"　口うるさくて偉そうな爺なんぞ尚更だ」","translatedEnglishLine":"Especially annoying, arrogant old men like that.\""},{"lineNumber":45969,"originalJapaneseLine":"「あのね……」","translatedEnglishLine":"\"You see...\""},{"lineNumber":45970,"originalJapaneseLine":"「だが、俺の女どもまで巻き込むのはまずいな。","translatedEnglishLine":"\"But involving my women would be bad.\""}]}}
+{
+    "id": "resp_048ddc003d242f520068efaf8d2070819099701096d5cb86d0",
+    "object": "response",
+    "created_at": 1760538509,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_048ddc003d242f520068efaf8d74588190bd525663e26d13de",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":45911,\"originalJapaneseLine\":\"「これなら直せます」\",\"translatedEnglishLine\":\"\\\"I can fix it with this.\\\"\"},{\"lineNumber\":45912,\"originalJapaneseLine\":\"「えっ！？」\",\"translatedEnglishLine\":\"\\\"Huh!?\\\"\"},{\"lineNumber\":45913,\"originalJapaneseLine\":\"「構いませんか、ランス」\",\"translatedEnglishLine\":\"\\\"Is it alright, Rance?\\\"\"},{\"lineNumber\":45914,\"originalJapaneseLine\":\"「なんだ、直るのか。いいぞ、やってやれ」\",\"translatedEnglishLine\":\"\\\"What, it can be fixed? Good, do it.\\\"\"},{\"lineNumber\":45915,\"originalJapaneseLine\":\"「はい。状態回復」\",\"translatedEnglishLine\":\"\\\"Yes. Status recovery.\\\"\"},{\"lineNumber\":45916,\"originalJapaneseLine\":\"「っ、く、がはっ……！　ま、魔人は……あれ？」\",\"translatedEnglishLine\":\"\\\"Ugh, gah...! The demon lord is... huh?\\\"\"},{\"lineNumber\":45917,\"originalJapaneseLine\":\"「おおおっ！　な、直った！」\",\"translatedEnglishLine\":\"\\\"Ohhh! I-it's fixed!\\\"\"},{\"lineNumber\":45918,\"originalJapaneseLine\":\"「あ、それでいいんだ……それなら私も直せます。\",\"translatedEnglishLine\":\"\\\"Ah, that’s fine... In that case, I can fix it too.\"},{\"lineNumber\":45919,\"originalJapaneseLine\":\"　お手伝いしていいですか？」\",\"translatedEnglishLine\":\"May I help?\\\"\"},{\"lineNumber\":45920,\"originalJapaneseLine\":\"「まあいいだろう」\",\"translatedEnglishLine\":\"\\\"Well, that’s fine.\\\"\"},{\"lineNumber\":45921,\"originalJapaneseLine\":\"「あ、あの、お手伝いします」\",\"translatedEnglishLine\":\"\\\"I-I’ll help.\\\"\"},{\"lineNumber\":45922,\"originalJapaneseLine\":\"「はい。ありがとうございます」\",\"translatedEnglishLine\":\"\\\"Yes. Thank you.\\\"\"},{\"lineNumber\":45923,\"originalJapaneseLine\":\"二人をはじめ、神魔法の心得がある者が\",\"translatedEnglishLine\":\"Starting with the two of them, those knowledgeable in divine magic\"},{\"lineNumber\":45924,\"originalJapaneseLine\":\"手分けして石化を解いていく。\",\"translatedEnglishLine\":\"worked together to break the petrification.\"},{\"lineNumber\":45925,\"originalJapaneseLine\":\"「ひのふの……四十人くらいか。\",\"translatedEnglishLine\":\"\\\"Hmm... about forty people, huh.\"},{\"lineNumber\":45926,\"originalJapaneseLine\":\"　けっこういたな」\",\"translatedEnglishLine\":\"There were quite a few.\\\"\"},{\"lineNumber\":45927,\"originalJapaneseLine\":\"「ふわあぁ……あんりがとうございます。\",\"translatedEnglishLine\":\"\\\"Wah… thank you very much.\"},{\"lineNumber\":45928,\"originalJapaneseLine\":\"　残ってるモンは神魔法に疎かったもんで……」\",\"translatedEnglishLine\":\"The ones left were unfamiliar with divine magic...\\\"\"},{\"lineNumber\":45929,\"originalJapaneseLine\":\"「よーし、これで仲間は動けるようになったな。\",\"translatedEnglishLine\":\"\\\"Alright, now our comrades can move again.\"},{\"lineNumber\":45930,\"originalJapaneseLine\":\"　全軍突撃だ、行ってこい」\",\"translatedEnglishLine\":\"It's a full army charge, go!\\\"\"},{\"lineNumber\":45931,\"originalJapaneseLine\":\"「ふわあぁっ！？」\",\"translatedEnglishLine\":\"\\\"Wahh!?\\\"\"},{\"lineNumber\":45932,\"originalJapaneseLine\":\"「さっき、仲間がこんなだから戦えないとか\",\"translatedEnglishLine\":\"\\\"Earlier you said you couldn't fight because your comrades were like this.\"},{\"lineNumber\":45933,\"originalJapaneseLine\":\"　ほざいてただろう。よかったな」\",\"translatedEnglishLine\":\"Now look, it's good, isn’t it?\\\"\"},{\"lineNumber\":45934,\"originalJapaneseLine\":\"「むむむ、無ン理ですー！　数万なんて大軍！」\",\"translatedEnglishLine\":\"\\\"Mmm, it's impossible! Tens of thousands, such a huge army!\\\"\"},{\"lineNumber\":45935,\"originalJapaneseLine\":\"「がははは、為せばなる。ほれ、行け行け」\",\"translatedEnglishLine\":\"\\\"Gahaha, where there's a will, there's a way. Now, go, go!\\\"\"},{\"lineNumber\":45936,\"originalJapaneseLine\":\"「か、可哀想ですよ、ランス様……」\",\"translatedEnglishLine\":\"\\\"Y-you're pitiful, Lord Rance...\\\"\"},{\"lineNumber\":45937,\"originalJapaneseLine\":\"「うう……お、お許しを……」\",\"translatedEnglishLine\":\"\\\"Ugh... p-please forgive me...\\\"\"},{\"lineNumber\":45938,\"originalJapaneseLine\":\"「ふん、雑魚どもが。しょうがないな」\",\"translatedEnglishLine\":\"\\\"Hmph, those small fries. Can't be helped.\\\"\"},{\"lineNumber\":45939,\"originalJapaneseLine\":\"「で……これからどーすんのさ、アニキ」\",\"translatedEnglishLine\":\"\\\"So... what’re we going to do now, big bro?\\\"\"},{\"lineNumber\":45940,\"originalJapaneseLine\":\"「魔物将軍をブチ殺す。それは変わらん」\",\"translatedEnglishLine\":\"\\\"Kill the demon general. That won’t change.\\\"\"},{\"lineNumber\":45941,\"originalJapaneseLine\":\"「問題はどこにいるかよね……\",\"translatedEnglishLine\":\"\\\"The problem is where he is...\"},{\"lineNumber\":45942,\"originalJapaneseLine\":\"　あれだけの数の魔軍の中から一人を捜すわけだし」\",\"translatedEnglishLine\":\"We have to search for one person among such a huge demon army.\\\"\"},{\"lineNumber\":45943,\"originalJapaneseLine\":\"「っても、グズグズしてるとマークが危ないだろ？\",\"translatedEnglishLine\":\"\\\"But if we hesitate, Mark will be in danger, right?\"},{\"lineNumber\":45944,\"originalJapaneseLine\":\"　見つけてから動けりゃいいだろうけど……」\",\"translatedEnglishLine\":\"It’d be ideal to move after finding him though...\\\"\"},{\"lineNumber\":45945,\"originalJapaneseLine\":\"「……屋上に行くか。おい、案内しろ」\",\"translatedEnglishLine\":\"\\\"...Let's go to the rooftop. Hey, guide me.\\\"\"},{\"lineNumber\":45946,\"originalJapaneseLine\":\"「は、はいっす！」\",\"translatedEnglishLine\":\"\\\"Y-yes!\\\"\"},{\"lineNumber\":45947,\"originalJapaneseLine\":\"熱を孕んだゼスの風が吹き抜けて、\",\"translatedEnglishLine\":\"A hot, charged Zeth wind blew through,\"},{\"lineNumber\":45948,\"originalJapaneseLine\":\"屋上へ出たランス達を迎えた。\",\"translatedEnglishLine\":\"welcoming Rance and the others as they reached the rooftop.\"},{\"lineNumber\":45949,\"originalJapaneseLine\":\"「どれどれ……」\",\"translatedEnglishLine\":\"\\\"Let’s see...\\\"\"},{\"lineNumber\":45950,\"originalJapaneseLine\":\"ランスは双眼鏡をマーク方面へと向けた。\",\"translatedEnglishLine\":\"Rance pointed his binoculars towards Mark’s direction.\"},{\"lineNumber\":45951,\"originalJapaneseLine\":\"「いるいる……始まってるな」\",\"translatedEnglishLine\":\"\\\"There they are... it’s started.\\\"\"},{\"lineNumber\":45952,\"originalJapaneseLine\":\"遠くで進軍している、魔軍の影。\",\"translatedEnglishLine\":\"The shadow of the demon army advancing in the distance.\"},{\"lineNumber\":45953,\"originalJapaneseLine\":\"突出した先鋒と、マーク防衛隊との間で、\",\"translatedEnglishLine\":\"Between the spearheading vanguard and Mark’s defense force,\"},{\"lineNumber\":45954,\"originalJapaneseLine\":\"既に戦端は開かれているようだった。\",\"translatedEnglishLine\":\"the battle seemed already underway.\"},{\"lineNumber\":45955,\"originalJapaneseLine\":\"「さっきより、数は減ったか？」\",\"translatedEnglishLine\":\"\\\"Have their numbers decreased since earlier?\\\"\"},{\"lineNumber\":45956,\"originalJapaneseLine\":\"「魔物将軍は残り一人。\",\"translatedEnglishLine\":\"\\\"Only one demon general remains.\"},{\"lineNumber\":45957,\"originalJapaneseLine\":\"　兵も二万くらいにはなってるはずだ」\",\"translatedEnglishLine\":\"The soldiers should be around twenty thousand.\\\"\"},{\"lineNumber\":45958,\"originalJapaneseLine\":\"「あの、時々チカチカ光ってるのは……\",\"translatedEnglishLine\":\"\\\"That flickering light sometimes is...\"},{\"lineNumber\":45959,\"originalJapaneseLine\":\"　カバッハーン将軍かしら」\",\"translatedEnglishLine\":\"General Kabahaan, perhaps?\\\"\"},{\"lineNumber\":45960,\"originalJapaneseLine\":\"「ふぅむ……雷帝も相当追い詰められているな。\",\"translatedEnglishLine\":\"\\\"Hmm... The Thunder Emperor is also quite cornered.\"},{\"lineNumber\":45961,\"originalJapaneseLine\":\"　あの老人の真価を見られる好機やもしれん」\",\"translatedEnglishLine\":\"This might be a good chance to see the true strength of that old man.\\\"\"},{\"lineNumber\":45962,\"originalJapaneseLine\":\"「そういや、あのカミナリ爺がいたか」\",\"translatedEnglishLine\":\"\\\"Come to think of it, that old thunder guy was here.\\\"\"},{\"lineNumber\":45963,\"originalJapaneseLine\":\"「でも、いくら雷帝様でも、二万なんて……」\",\"translatedEnglishLine\":\"\\\"But even the Thunder Emperor, twenty thousand is...\"},{\"lineNumber\":45964,\"originalJapaneseLine\":\"「ま、無理だろうな。がはははは、いい気味だ」\",\"translatedEnglishLine\":\"Well, it's probably impossible. Gahahaha, serves him right.\\\"\"},{\"lineNumber\":45965,\"originalJapaneseLine\":\"「……もしかして、昔懲らしめられたの、\",\"translatedEnglishLine\":\"\\\"...Could it be that he still holds a grudge from when he was punished long ago?\"},{\"lineNumber\":45966,\"originalJapaneseLine\":\"　まだ根に持ってるの？」\",\"translatedEnglishLine\":\"Still holding onto it?\\\"\"},{\"lineNumber\":45967,\"originalJapaneseLine\":\"「ふん。男なんかいくら死んでも構わん。\",\"translatedEnglishLine\":\"\\\"Hmph. I don’t care how many men die.\"},{\"lineNumber\":45968,\"originalJapaneseLine\":\"　口うるさくて偉そうな爺なんぞ尚更だ」\",\"translatedEnglishLine\":\"Especially annoying, arrogant old men like that.\\\"\"},{\"lineNumber\":45969,\"originalJapaneseLine\":\"「あのね……」\",\"translatedEnglishLine\":\"\\\"You see...\\\"\"},{\"lineNumber\":45970,\"originalJapaneseLine\":\"「だが、俺の女どもまで巻き込むのはまずいな。\",\"translatedEnglishLine\":\"\\\"But involving my women would be bad.\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 45911,
+                                "originalJapaneseLine": "「これなら直せます」",
+                                "translatedEnglishLine": "\"I can fix it with this.\""
+                            },
+                            {
+                                "lineNumber": 45912,
+                                "originalJapaneseLine": "「えっ！？」",
+                                "translatedEnglishLine": "\"Huh!?\""
+                            },
+                            {
+                                "lineNumber": 45913,
+                                "originalJapaneseLine": "「構いませんか、ランス」",
+                                "translatedEnglishLine": "\"Is it alright, Rance?\""
+                            },
+                            {
+                                "lineNumber": 45914,
+                                "originalJapaneseLine": "「なんだ、直るのか。いいぞ、やってやれ」",
+                                "translatedEnglishLine": "\"What, it can be fixed? Good, do it.\""
+                            },
+                            {
+                                "lineNumber": 45915,
+                                "originalJapaneseLine": "「はい。状態回復」",
+                                "translatedEnglishLine": "\"Yes. Status recovery.\""
+                            },
+                            {
+                                "lineNumber": 45916,
+                                "originalJapaneseLine": "「っ、く、がはっ……！　ま、魔人は……あれ？」",
+                                "translatedEnglishLine": "\"Ugh, gah...! The demon lord is... huh?\""
+                            },
+                            {
+                                "lineNumber": 45917,
+                                "originalJapaneseLine": "「おおおっ！　な、直った！」",
+                                "translatedEnglishLine": "\"Ohhh! I-it's fixed!\""
+                            },
+                            {
+                                "lineNumber": 45918,
+                                "originalJapaneseLine": "「あ、それでいいんだ……それなら私も直せます。",
+                                "translatedEnglishLine": "\"Ah, that’s fine... In that case, I can fix it too."
+                            },
+                            {
+                                "lineNumber": 45919,
+                                "originalJapaneseLine": "　お手伝いしていいですか？」",
+                                "translatedEnglishLine": "May I help?\""
+                            },
+                            {
+                                "lineNumber": 45920,
+                                "originalJapaneseLine": "「まあいいだろう」",
+                                "translatedEnglishLine": "\"Well, that’s fine.\""
+                            },
+                            {
+                                "lineNumber": 45921,
+                                "originalJapaneseLine": "「あ、あの、お手伝いします」",
+                                "translatedEnglishLine": "\"I-I’ll help.\""
+                            },
+                            {
+                                "lineNumber": 45922,
+                                "originalJapaneseLine": "「はい。ありがとうございます」",
+                                "translatedEnglishLine": "\"Yes. Thank you.\""
+                            },
+                            {
+                                "lineNumber": 45923,
+                                "originalJapaneseLine": "二人をはじめ、神魔法の心得がある者が",
+                                "translatedEnglishLine": "Starting with the two of them, those knowledgeable in divine magic"
+                            },
+                            {
+                                "lineNumber": 45924,
+                                "originalJapaneseLine": "手分けして石化を解いていく。",
+                                "translatedEnglishLine": "worked together to break the petrification."
+                            },
+                            {
+                                "lineNumber": 45925,
+                                "originalJapaneseLine": "「ひのふの……四十人くらいか。",
+                                "translatedEnglishLine": "\"Hmm... about forty people, huh."
+                            },
+                            {
+                                "lineNumber": 45926,
+                                "originalJapaneseLine": "　けっこういたな」",
+                                "translatedEnglishLine": "There were quite a few.\""
+                            },
+                            {
+                                "lineNumber": 45927,
+                                "originalJapaneseLine": "「ふわあぁ……あんりがとうございます。",
+                                "translatedEnglishLine": "\"Wah… thank you very much."
+                            },
+                            {
+                                "lineNumber": 45928,
+                                "originalJapaneseLine": "　残ってるモンは神魔法に疎かったもんで……」",
+                                "translatedEnglishLine": "The ones left were unfamiliar with divine magic...\""
+                            },
+                            {
+                                "lineNumber": 45929,
+                                "originalJapaneseLine": "「よーし、これで仲間は動けるようになったな。",
+                                "translatedEnglishLine": "\"Alright, now our comrades can move again."
+                            },
+                            {
+                                "lineNumber": 45930,
+                                "originalJapaneseLine": "　全軍突撃だ、行ってこい」",
+                                "translatedEnglishLine": "It's a full army charge, go!\""
+                            },
+                            {
+                                "lineNumber": 45931,
+                                "originalJapaneseLine": "「ふわあぁっ！？」",
+                                "translatedEnglishLine": "\"Wahh!?\""
+                            },
+                            {
+                                "lineNumber": 45932,
+                                "originalJapaneseLine": "「さっき、仲間がこんなだから戦えないとか",
+                                "translatedEnglishLine": "\"Earlier you said you couldn't fight because your comrades were like this."
+                            },
+                            {
+                                "lineNumber": 45933,
+                                "originalJapaneseLine": "　ほざいてただろう。よかったな」",
+                                "translatedEnglishLine": "Now look, it's good, isn’t it?\""
+                            },
+                            {
+                                "lineNumber": 45934,
+                                "originalJapaneseLine": "「むむむ、無ン理ですー！　数万なんて大軍！」",
+                                "translatedEnglishLine": "\"Mmm, it's impossible! Tens of thousands, such a huge army!\""
+                            },
+                            {
+                                "lineNumber": 45935,
+                                "originalJapaneseLine": "「がははは、為せばなる。ほれ、行け行け」",
+                                "translatedEnglishLine": "\"Gahaha, where there's a will, there's a way. Now, go, go!\""
+                            },
+                            {
+                                "lineNumber": 45936,
+                                "originalJapaneseLine": "「か、可哀想ですよ、ランス様……」",
+                                "translatedEnglishLine": "\"Y-you're pitiful, Lord Rance...\""
+                            },
+                            {
+                                "lineNumber": 45937,
+                                "originalJapaneseLine": "「うう……お、お許しを……」",
+                                "translatedEnglishLine": "\"Ugh... p-please forgive me...\""
+                            },
+                            {
+                                "lineNumber": 45938,
+                                "originalJapaneseLine": "「ふん、雑魚どもが。しょうがないな」",
+                                "translatedEnglishLine": "\"Hmph, those small fries. Can't be helped.\""
+                            },
+                            {
+                                "lineNumber": 45939,
+                                "originalJapaneseLine": "「で……これからどーすんのさ、アニキ」",
+                                "translatedEnglishLine": "\"So... what’re we going to do now, big bro?\""
+                            },
+                            {
+                                "lineNumber": 45940,
+                                "originalJapaneseLine": "「魔物将軍をブチ殺す。それは変わらん」",
+                                "translatedEnglishLine": "\"Kill the demon general. That won’t change.\""
+                            },
+                            {
+                                "lineNumber": 45941,
+                                "originalJapaneseLine": "「問題はどこにいるかよね……",
+                                "translatedEnglishLine": "\"The problem is where he is..."
+                            },
+                            {
+                                "lineNumber": 45942,
+                                "originalJapaneseLine": "　あれだけの数の魔軍の中から一人を捜すわけだし」",
+                                "translatedEnglishLine": "We have to search for one person among such a huge demon army.\""
+                            },
+                            {
+                                "lineNumber": 45943,
+                                "originalJapaneseLine": "「っても、グズグズしてるとマークが危ないだろ？",
+                                "translatedEnglishLine": "\"But if we hesitate, Mark will be in danger, right?"
+                            },
+                            {
+                                "lineNumber": 45944,
+                                "originalJapaneseLine": "　見つけてから動けりゃいいだろうけど……」",
+                                "translatedEnglishLine": "It’d be ideal to move after finding him though...\""
+                            },
+                            {
+                                "lineNumber": 45945,
+                                "originalJapaneseLine": "「……屋上に行くか。おい、案内しろ」",
+                                "translatedEnglishLine": "\"...Let's go to the rooftop. Hey, guide me.\""
+                            },
+                            {
+                                "lineNumber": 45946,
+                                "originalJapaneseLine": "「は、はいっす！」",
+                                "translatedEnglishLine": "\"Y-yes!\""
+                            },
+                            {
+                                "lineNumber": 45947,
+                                "originalJapaneseLine": "熱を孕んだゼスの風が吹き抜けて、",
+                                "translatedEnglishLine": "A hot, charged Zeth wind blew through,"
+                            },
+                            {
+                                "lineNumber": 45948,
+                                "originalJapaneseLine": "屋上へ出たランス達を迎えた。",
+                                "translatedEnglishLine": "welcoming Rance and the others as they reached the rooftop."
+                            },
+                            {
+                                "lineNumber": 45949,
+                                "originalJapaneseLine": "「どれどれ……」",
+                                "translatedEnglishLine": "\"Let’s see...\""
+                            },
+                            {
+                                "lineNumber": 45950,
+                                "originalJapaneseLine": "ランスは双眼鏡をマーク方面へと向けた。",
+                                "translatedEnglishLine": "Rance pointed his binoculars towards Mark’s direction."
+                            },
+                            {
+                                "lineNumber": 45951,
+                                "originalJapaneseLine": "「いるいる……始まってるな」",
+                                "translatedEnglishLine": "\"There they are... it’s started.\""
+                            },
+                            {
+                                "lineNumber": 45952,
+                                "originalJapaneseLine": "遠くで進軍している、魔軍の影。",
+                                "translatedEnglishLine": "The shadow of the demon army advancing in the distance."
+                            },
+                            {
+                                "lineNumber": 45953,
+                                "originalJapaneseLine": "突出した先鋒と、マーク防衛隊との間で、",
+                                "translatedEnglishLine": "Between the spearheading vanguard and Mark’s defense force,"
+                            },
+                            {
+                                "lineNumber": 45954,
+                                "originalJapaneseLine": "既に戦端は開かれているようだった。",
+                                "translatedEnglishLine": "the battle seemed already underway."
+                            },
+                            {
+                                "lineNumber": 45955,
+                                "originalJapaneseLine": "「さっきより、数は減ったか？」",
+                                "translatedEnglishLine": "\"Have their numbers decreased since earlier?\""
+                            },
+                            {
+                                "lineNumber": 45956,
+                                "originalJapaneseLine": "「魔物将軍は残り一人。",
+                                "translatedEnglishLine": "\"Only one demon general remains."
+                            },
+                            {
+                                "lineNumber": 45957,
+                                "originalJapaneseLine": "　兵も二万くらいにはなってるはずだ」",
+                                "translatedEnglishLine": "The soldiers should be around twenty thousand.\""
+                            },
+                            {
+                                "lineNumber": 45958,
+                                "originalJapaneseLine": "「あの、時々チカチカ光ってるのは……",
+                                "translatedEnglishLine": "\"That flickering light sometimes is..."
+                            },
+                            {
+                                "lineNumber": 45959,
+                                "originalJapaneseLine": "　カバッハーン将軍かしら」",
+                                "translatedEnglishLine": "General Kabahaan, perhaps?\""
+                            },
+                            {
+                                "lineNumber": 45960,
+                                "originalJapaneseLine": "「ふぅむ……雷帝も相当追い詰められているな。",
+                                "translatedEnglishLine": "\"Hmm... The Thunder Emperor is also quite cornered."
+                            },
+                            {
+                                "lineNumber": 45961,
+                                "originalJapaneseLine": "　あの老人の真価を見られる好機やもしれん」",
+                                "translatedEnglishLine": "This might be a good chance to see the true strength of that old man.\""
+                            },
+                            {
+                                "lineNumber": 45962,
+                                "originalJapaneseLine": "「そういや、あのカミナリ爺がいたか」",
+                                "translatedEnglishLine": "\"Come to think of it, that old thunder guy was here.\""
+                            },
+                            {
+                                "lineNumber": 45963,
+                                "originalJapaneseLine": "「でも、いくら雷帝様でも、二万なんて……」",
+                                "translatedEnglishLine": "\"But even the Thunder Emperor, twenty thousand is..."
+                            },
+                            {
+                                "lineNumber": 45964,
+                                "originalJapaneseLine": "「ま、無理だろうな。がはははは、いい気味だ」",
+                                "translatedEnglishLine": "Well, it's probably impossible. Gahahaha, serves him right.\""
+                            },
+                            {
+                                "lineNumber": 45965,
+                                "originalJapaneseLine": "「……もしかして、昔懲らしめられたの、",
+                                "translatedEnglishLine": "\"...Could it be that he still holds a grudge from when he was punished long ago?"
+                            },
+                            {
+                                "lineNumber": 45966,
+                                "originalJapaneseLine": "　まだ根に持ってるの？」",
+                                "translatedEnglishLine": "Still holding onto it?\""
+                            },
+                            {
+                                "lineNumber": 45967,
+                                "originalJapaneseLine": "「ふん。男なんかいくら死んでも構わん。",
+                                "translatedEnglishLine": "\"Hmph. I don’t care how many men die."
+                            },
+                            {
+                                "lineNumber": 45968,
+                                "originalJapaneseLine": "　口うるさくて偉そうな爺なんぞ尚更だ」",
+                                "translatedEnglishLine": "Especially annoying, arrogant old men like that.\""
+                            },
+                            {
+                                "lineNumber": 45969,
+                                "originalJapaneseLine": "「あのね……」",
+                                "translatedEnglishLine": "\"You see...\""
+                            },
+                            {
+                                "lineNumber": 45970,
+                                "originalJapaneseLine": "「だが、俺の女どもまで巻き込むのはまずいな。",
+                                "translatedEnglishLine": "\"But involving my women would be bad.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1827,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2415,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4242
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":45911,\"originalJapaneseLine\":\"「これなら直せます」\",\"translatedEnglishLine\":\"\\\"I can fix it with this.\\\"\"},{\"lineNumber\":45912,\"originalJapaneseLine\":\"「えっ！？」\",\"translatedEnglishLine\":\"\\\"Huh!?\\\"\"},{\"lineNumber\":45913,\"originalJapaneseLine\":\"「構いませんか、ランス」\",\"translatedEnglishLine\":\"\\\"Is it alright, Rance?\\\"\"},{\"lineNumber\":45914,\"originalJapaneseLine\":\"「なんだ、直るのか。いいぞ、やってやれ」\",\"translatedEnglishLine\":\"\\\"What, it can be fixed? Good, do it.\\\"\"},{\"lineNumber\":45915,\"originalJapaneseLine\":\"「はい。状態回復」\",\"translatedEnglishLine\":\"\\\"Yes. Status recovery.\\\"\"},{\"lineNumber\":45916,\"originalJapaneseLine\":\"「っ、く、がはっ……！　ま、魔人は……あれ？」\",\"translatedEnglishLine\":\"\\\"Ugh, gah...! The demon lord is... huh?\\\"\"},{\"lineNumber\":45917,\"originalJapaneseLine\":\"「おおおっ！　な、直った！」\",\"translatedEnglishLine\":\"\\\"Ohhh! I-it's fixed!\\\"\"},{\"lineNumber\":45918,\"originalJapaneseLine\":\"「あ、それでいいんだ……それなら私も直せます。\",\"translatedEnglishLine\":\"\\\"Ah, that’s fine... In that case, I can fix it too.\"},{\"lineNumber\":45919,\"originalJapaneseLine\":\"　お手伝いしていいですか？」\",\"translatedEnglishLine\":\"May I help?\\\"\"},{\"lineNumber\":45920,\"originalJapaneseLine\":\"「まあいいだろう」\",\"translatedEnglishLine\":\"\\\"Well, that’s fine.\\\"\"},{\"lineNumber\":45921,\"originalJapaneseLine\":\"「あ、あの、お手伝いします」\",\"translatedEnglishLine\":\"\\\"I-I’ll help.\\\"\"},{\"lineNumber\":45922,\"originalJapaneseLine\":\"「はい。ありがとうございます」\",\"translatedEnglishLine\":\"\\\"Yes. Thank you.\\\"\"},{\"lineNumber\":45923,\"originalJapaneseLine\":\"二人をはじめ、神魔法の心得がある者が\",\"translatedEnglishLine\":\"Starting with the two of them, those knowledgeable in divine magic\"},{\"lineNumber\":45924,\"originalJapaneseLine\":\"手分けして石化を解いていく。\",\"translatedEnglishLine\":\"worked together to break the petrification.\"},{\"lineNumber\":45925,\"originalJapaneseLine\":\"「ひのふの……四十人くらいか。\",\"translatedEnglishLine\":\"\\\"Hmm... about forty people, huh.\"},{\"lineNumber\":45926,\"originalJapaneseLine\":\"　けっこういたな」\",\"translatedEnglishLine\":\"There were quite a few.\\\"\"},{\"lineNumber\":45927,\"originalJapaneseLine\":\"「ふわあぁ……あんりがとうございます。\",\"translatedEnglishLine\":\"\\\"Wah… thank you very much.\"},{\"lineNumber\":45928,\"originalJapaneseLine\":\"　残ってるモンは神魔法に疎かったもんで……」\",\"translatedEnglishLine\":\"The ones left were unfamiliar with divine magic...\\\"\"},{\"lineNumber\":45929,\"originalJapaneseLine\":\"「よーし、これで仲間は動けるようになったな。\",\"translatedEnglishLine\":\"\\\"Alright, now our comrades can move again.\"},{\"lineNumber\":45930,\"originalJapaneseLine\":\"　全軍突撃だ、行ってこい」\",\"translatedEnglishLine\":\"It's a full army charge, go!\\\"\"},{\"lineNumber\":45931,\"originalJapaneseLine\":\"「ふわあぁっ！？」\",\"translatedEnglishLine\":\"\\\"Wahh!?\\\"\"},{\"lineNumber\":45932,\"originalJapaneseLine\":\"「さっき、仲間がこんなだから戦えないとか\",\"translatedEnglishLine\":\"\\\"Earlier you said you couldn't fight because your comrades were like this.\"},{\"lineNumber\":45933,\"originalJapaneseLine\":\"　ほざいてただろう。よかったな」\",\"translatedEnglishLine\":\"Now look, it's good, isn’t it?\\\"\"},{\"lineNumber\":45934,\"originalJapaneseLine\":\"「むむむ、無ン理ですー！　数万なんて大軍！」\",\"translatedEnglishLine\":\"\\\"Mmm, it's impossible! Tens of thousands, such a huge army!\\\"\"},{\"lineNumber\":45935,\"originalJapaneseLine\":\"「がははは、為せばなる。ほれ、行け行け」\",\"translatedEnglishLine\":\"\\\"Gahaha, where there's a will, there's a way. Now, go, go!\\\"\"},{\"lineNumber\":45936,\"originalJapaneseLine\":\"「か、可哀想ですよ、ランス様……」\",\"translatedEnglishLine\":\"\\\"Y-you're pitiful, Lord Rance...\\\"\"},{\"lineNumber\":45937,\"originalJapaneseLine\":\"「うう……お、お許しを……」\",\"translatedEnglishLine\":\"\\\"Ugh... p-please forgive me...\\\"\"},{\"lineNumber\":45938,\"originalJapaneseLine\":\"「ふん、雑魚どもが。しょうがないな」\",\"translatedEnglishLine\":\"\\\"Hmph, those small fries. Can't be helped.\\\"\"},{\"lineNumber\":45939,\"originalJapaneseLine\":\"「で……これからどーすんのさ、アニキ」\",\"translatedEnglishLine\":\"\\\"So... what’re we going to do now, big bro?\\\"\"},{\"lineNumber\":45940,\"originalJapaneseLine\":\"「魔物将軍をブチ殺す。それは変わらん」\",\"translatedEnglishLine\":\"\\\"Kill the demon general. That won’t change.\\\"\"},{\"lineNumber\":45941,\"originalJapaneseLine\":\"「問題はどこにいるかよね……\",\"translatedEnglishLine\":\"\\\"The problem is where he is...\"},{\"lineNumber\":45942,\"originalJapaneseLine\":\"　あれだけの数の魔軍の中から一人を捜すわけだし」\",\"translatedEnglishLine\":\"We have to search for one person among such a huge demon army.\\\"\"},{\"lineNumber\":45943,\"originalJapaneseLine\":\"「っても、グズグズしてるとマークが危ないだろ？\",\"translatedEnglishLine\":\"\\\"But if we hesitate, Mark will be in danger, right?\"},{\"lineNumber\":45944,\"originalJapaneseLine\":\"　見つけてから動けりゃいいだろうけど……」\",\"translatedEnglishLine\":\"It’d be ideal to move after finding him though...\\\"\"},{\"lineNumber\":45945,\"originalJapaneseLine\":\"「……屋上に行くか。おい、案内しろ」\",\"translatedEnglishLine\":\"\\\"...Let's go to the rooftop. Hey, guide me.\\\"\"},{\"lineNumber\":45946,\"originalJapaneseLine\":\"「は、はいっす！」\",\"translatedEnglishLine\":\"\\\"Y-yes!\\\"\"},{\"lineNumber\":45947,\"originalJapaneseLine\":\"熱を孕んだゼスの風が吹き抜けて、\",\"translatedEnglishLine\":\"A hot, charged Zeth wind blew through,\"},{\"lineNumber\":45948,\"originalJapaneseLine\":\"屋上へ出たランス達を迎えた。\",\"translatedEnglishLine\":\"welcoming Rance and the others as they reached the rooftop.\"},{\"lineNumber\":45949,\"originalJapaneseLine\":\"「どれどれ……」\",\"translatedEnglishLine\":\"\\\"Let’s see...\\\"\"},{\"lineNumber\":45950,\"originalJapaneseLine\":\"ランスは双眼鏡をマーク方面へと向けた。\",\"translatedEnglishLine\":\"Rance pointed his binoculars towards Mark’s direction.\"},{\"lineNumber\":45951,\"originalJapaneseLine\":\"「いるいる……始まってるな」\",\"translatedEnglishLine\":\"\\\"There they are... it’s started.\\\"\"},{\"lineNumber\":45952,\"originalJapaneseLine\":\"遠くで進軍している、魔軍の影。\",\"translatedEnglishLine\":\"The shadow of the demon army advancing in the distance.\"},{\"lineNumber\":45953,\"originalJapaneseLine\":\"突出した先鋒と、マーク防衛隊との間で、\",\"translatedEnglishLine\":\"Between the spearheading vanguard and Mark’s defense force,\"},{\"lineNumber\":45954,\"originalJapaneseLine\":\"既に戦端は開かれているようだった。\",\"translatedEnglishLine\":\"the battle seemed already underway.\"},{\"lineNumber\":45955,\"originalJapaneseLine\":\"「さっきより、数は減ったか？」\",\"translatedEnglishLine\":\"\\\"Have their numbers decreased since earlier?\\\"\"},{\"lineNumber\":45956,\"originalJapaneseLine\":\"「魔物将軍は残り一人。\",\"translatedEnglishLine\":\"\\\"Only one demon general remains.\"},{\"lineNumber\":45957,\"originalJapaneseLine\":\"　兵も二万くらいにはなってるはずだ」\",\"translatedEnglishLine\":\"The soldiers should be around twenty thousand.\\\"\"},{\"lineNumber\":45958,\"originalJapaneseLine\":\"「あの、時々チカチカ光ってるのは……\",\"translatedEnglishLine\":\"\\\"That flickering light sometimes is...\"},{\"lineNumber\":45959,\"originalJapaneseLine\":\"　カバッハーン将軍かしら」\",\"translatedEnglishLine\":\"General Kabahaan, perhaps?\\\"\"},{\"lineNumber\":45960,\"originalJapaneseLine\":\"「ふぅむ……雷帝も相当追い詰められているな。\",\"translatedEnglishLine\":\"\\\"Hmm... The Thunder Emperor is also quite cornered.\"},{\"lineNumber\":45961,\"originalJapaneseLine\":\"　あの老人の真価を見られる好機やもしれん」\",\"translatedEnglishLine\":\"This might be a good chance to see the true strength of that old man.\\\"\"},{\"lineNumber\":45962,\"originalJapaneseLine\":\"「そういや、あのカミナリ爺がいたか」\",\"translatedEnglishLine\":\"\\\"Come to think of it, that old thunder guy was here.\\\"\"},{\"lineNumber\":45963,\"originalJapaneseLine\":\"「でも、いくら雷帝様でも、二万なんて……」\",\"translatedEnglishLine\":\"\\\"But even the Thunder Emperor, twenty thousand is...\"},{\"lineNumber\":45964,\"originalJapaneseLine\":\"「ま、無理だろうな。がはははは、いい気味だ」\",\"translatedEnglishLine\":\"Well, it's probably impossible. Gahahaha, serves him right.\\\"\"},{\"lineNumber\":45965,\"originalJapaneseLine\":\"「……もしかして、昔懲らしめられたの、\",\"translatedEnglishLine\":\"\\\"...Could it be that he still holds a grudge from when he was punished long ago?\"},{\"lineNumber\":45966,\"originalJapaneseLine\":\"　まだ根に持ってるの？」\",\"translatedEnglishLine\":\"Still holding onto it?\\\"\"},{\"lineNumber\":45967,\"originalJapaneseLine\":\"「ふん。男なんかいくら死んでも構わん。\",\"translatedEnglishLine\":\"\\\"Hmph. I don’t care how many men die.\"},{\"lineNumber\":45968,\"originalJapaneseLine\":\"　口うるさくて偉そうな爺なんぞ尚更だ」\",\"translatedEnglishLine\":\"Especially annoying, arrogant old men like that.\\\"\"},{\"lineNumber\":45969,\"originalJapaneseLine\":\"「あのね……」\",\"translatedEnglishLine\":\"\\\"You see...\\\"\"},{\"lineNumber\":45970,\"originalJapaneseLine\":\"「だが、俺の女どもまで巻き込むのはまずいな。\",\"translatedEnglishLine\":\"\\\"But involving my women would be bad.\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 45911,
+                "originalJapaneseLine": "「これなら直せます」",
+                "translatedEnglishLine": "\"I can fix it with this.\""
+            },
+            {
+                "lineNumber": 45912,
+                "originalJapaneseLine": "「えっ！？」",
+                "translatedEnglishLine": "\"Huh!?\""
+            },
+            {
+                "lineNumber": 45913,
+                "originalJapaneseLine": "「構いませんか、ランス」",
+                "translatedEnglishLine": "\"Is it alright, Rance?\""
+            },
+            {
+                "lineNumber": 45914,
+                "originalJapaneseLine": "「なんだ、直るのか。いいぞ、やってやれ」",
+                "translatedEnglishLine": "\"What, it can be fixed? Good, do it.\""
+            },
+            {
+                "lineNumber": 45915,
+                "originalJapaneseLine": "「はい。状態回復」",
+                "translatedEnglishLine": "\"Yes. Status recovery.\""
+            },
+            {
+                "lineNumber": 45916,
+                "originalJapaneseLine": "「っ、く、がはっ……！　ま、魔人は……あれ？」",
+                "translatedEnglishLine": "\"Ugh, gah...! The demon lord is... huh?\""
+            },
+            {
+                "lineNumber": 45917,
+                "originalJapaneseLine": "「おおおっ！　な、直った！」",
+                "translatedEnglishLine": "\"Ohhh! I-it's fixed!\""
+            },
+            {
+                "lineNumber": 45918,
+                "originalJapaneseLine": "「あ、それでいいんだ……それなら私も直せます。",
+                "translatedEnglishLine": "\"Ah, that’s fine... In that case, I can fix it too."
+            },
+            {
+                "lineNumber": 45919,
+                "originalJapaneseLine": "　お手伝いしていいですか？」",
+                "translatedEnglishLine": "May I help?\""
+            },
+            {
+                "lineNumber": 45920,
+                "originalJapaneseLine": "「まあいいだろう」",
+                "translatedEnglishLine": "\"Well, that’s fine.\""
+            },
+            {
+                "lineNumber": 45921,
+                "originalJapaneseLine": "「あ、あの、お手伝いします」",
+                "translatedEnglishLine": "\"I-I’ll help.\""
+            },
+            {
+                "lineNumber": 45922,
+                "originalJapaneseLine": "「はい。ありがとうございます」",
+                "translatedEnglishLine": "\"Yes. Thank you.\""
+            },
+            {
+                "lineNumber": 45923,
+                "originalJapaneseLine": "二人をはじめ、神魔法の心得がある者が",
+                "translatedEnglishLine": "Starting with the two of them, those knowledgeable in divine magic"
+            },
+            {
+                "lineNumber": 45924,
+                "originalJapaneseLine": "手分けして石化を解いていく。",
+                "translatedEnglishLine": "worked together to break the petrification."
+            },
+            {
+                "lineNumber": 45925,
+                "originalJapaneseLine": "「ひのふの……四十人くらいか。",
+                "translatedEnglishLine": "\"Hmm... about forty people, huh."
+            },
+            {
+                "lineNumber": 45926,
+                "originalJapaneseLine": "　けっこういたな」",
+                "translatedEnglishLine": "There were quite a few.\""
+            },
+            {
+                "lineNumber": 45927,
+                "originalJapaneseLine": "「ふわあぁ……あんりがとうございます。",
+                "translatedEnglishLine": "\"Wah… thank you very much."
+            },
+            {
+                "lineNumber": 45928,
+                "originalJapaneseLine": "　残ってるモンは神魔法に疎かったもんで……」",
+                "translatedEnglishLine": "The ones left were unfamiliar with divine magic...\""
+            },
+            {
+                "lineNumber": 45929,
+                "originalJapaneseLine": "「よーし、これで仲間は動けるようになったな。",
+                "translatedEnglishLine": "\"Alright, now our comrades can move again."
+            },
+            {
+                "lineNumber": 45930,
+                "originalJapaneseLine": "　全軍突撃だ、行ってこい」",
+                "translatedEnglishLine": "It's a full army charge, go!\""
+            },
+            {
+                "lineNumber": 45931,
+                "originalJapaneseLine": "「ふわあぁっ！？」",
+                "translatedEnglishLine": "\"Wahh!?\""
+            },
+            {
+                "lineNumber": 45932,
+                "originalJapaneseLine": "「さっき、仲間がこんなだから戦えないとか",
+                "translatedEnglishLine": "\"Earlier you said you couldn't fight because your comrades were like this."
+            },
+            {
+                "lineNumber": 45933,
+                "originalJapaneseLine": "　ほざいてただろう。よかったな」",
+                "translatedEnglishLine": "Now look, it's good, isn’t it?\""
+            },
+            {
+                "lineNumber": 45934,
+                "originalJapaneseLine": "「むむむ、無ン理ですー！　数万なんて大軍！」",
+                "translatedEnglishLine": "\"Mmm, it's impossible! Tens of thousands, such a huge army!\""
+            },
+            {
+                "lineNumber": 45935,
+                "originalJapaneseLine": "「がははは、為せばなる。ほれ、行け行け」",
+                "translatedEnglishLine": "\"Gahaha, where there's a will, there's a way. Now, go, go!\""
+            },
+            {
+                "lineNumber": 45936,
+                "originalJapaneseLine": "「か、可哀想ですよ、ランス様……」",
+                "translatedEnglishLine": "\"Y-you're pitiful, Lord Rance...\""
+            },
+            {
+                "lineNumber": 45937,
+                "originalJapaneseLine": "「うう……お、お許しを……」",
+                "translatedEnglishLine": "\"Ugh... p-please forgive me...\""
+            },
+            {
+                "lineNumber": 45938,
+                "originalJapaneseLine": "「ふん、雑魚どもが。しょうがないな」",
+                "translatedEnglishLine": "\"Hmph, those small fries. Can't be helped.\""
+            },
+            {
+                "lineNumber": 45939,
+                "originalJapaneseLine": "「で……これからどーすんのさ、アニキ」",
+                "translatedEnglishLine": "\"So... what’re we going to do now, big bro?\""
+            },
+            {
+                "lineNumber": 45940,
+                "originalJapaneseLine": "「魔物将軍をブチ殺す。それは変わらん」",
+                "translatedEnglishLine": "\"Kill the demon general. That won’t change.\""
+            },
+            {
+                "lineNumber": 45941,
+                "originalJapaneseLine": "「問題はどこにいるかよね……",
+                "translatedEnglishLine": "\"The problem is where he is..."
+            },
+            {
+                "lineNumber": 45942,
+                "originalJapaneseLine": "　あれだけの数の魔軍の中から一人を捜すわけだし」",
+                "translatedEnglishLine": "We have to search for one person among such a huge demon army.\""
+            },
+            {
+                "lineNumber": 45943,
+                "originalJapaneseLine": "「っても、グズグズしてるとマークが危ないだろ？",
+                "translatedEnglishLine": "\"But if we hesitate, Mark will be in danger, right?"
+            },
+            {
+                "lineNumber": 45944,
+                "originalJapaneseLine": "　見つけてから動けりゃいいだろうけど……」",
+                "translatedEnglishLine": "It’d be ideal to move after finding him though...\""
+            },
+            {
+                "lineNumber": 45945,
+                "originalJapaneseLine": "「……屋上に行くか。おい、案内しろ」",
+                "translatedEnglishLine": "\"...Let's go to the rooftop. Hey, guide me.\""
+            },
+            {
+                "lineNumber": 45946,
+                "originalJapaneseLine": "「は、はいっす！」",
+                "translatedEnglishLine": "\"Y-yes!\""
+            },
+            {
+                "lineNumber": 45947,
+                "originalJapaneseLine": "熱を孕んだゼスの風が吹き抜けて、",
+                "translatedEnglishLine": "A hot, charged Zeth wind blew through,"
+            },
+            {
+                "lineNumber": 45948,
+                "originalJapaneseLine": "屋上へ出たランス達を迎えた。",
+                "translatedEnglishLine": "welcoming Rance and the others as they reached the rooftop."
+            },
+            {
+                "lineNumber": 45949,
+                "originalJapaneseLine": "「どれどれ……」",
+                "translatedEnglishLine": "\"Let’s see...\""
+            },
+            {
+                "lineNumber": 45950,
+                "originalJapaneseLine": "ランスは双眼鏡をマーク方面へと向けた。",
+                "translatedEnglishLine": "Rance pointed his binoculars towards Mark’s direction."
+            },
+            {
+                "lineNumber": 45951,
+                "originalJapaneseLine": "「いるいる……始まってるな」",
+                "translatedEnglishLine": "\"There they are... it’s started.\""
+            },
+            {
+                "lineNumber": 45952,
+                "originalJapaneseLine": "遠くで進軍している、魔軍の影。",
+                "translatedEnglishLine": "The shadow of the demon army advancing in the distance."
+            },
+            {
+                "lineNumber": 45953,
+                "originalJapaneseLine": "突出した先鋒と、マーク防衛隊との間で、",
+                "translatedEnglishLine": "Between the spearheading vanguard and Mark’s defense force,"
+            },
+            {
+                "lineNumber": 45954,
+                "originalJapaneseLine": "既に戦端は開かれているようだった。",
+                "translatedEnglishLine": "the battle seemed already underway."
+            },
+            {
+                "lineNumber": 45955,
+                "originalJapaneseLine": "「さっきより、数は減ったか？」",
+                "translatedEnglishLine": "\"Have their numbers decreased since earlier?\""
+            },
+            {
+                "lineNumber": 45956,
+                "originalJapaneseLine": "「魔物将軍は残り一人。",
+                "translatedEnglishLine": "\"Only one demon general remains."
+            },
+            {
+                "lineNumber": 45957,
+                "originalJapaneseLine": "　兵も二万くらいにはなってるはずだ」",
+                "translatedEnglishLine": "The soldiers should be around twenty thousand.\""
+            },
+            {
+                "lineNumber": 45958,
+                "originalJapaneseLine": "「あの、時々チカチカ光ってるのは……",
+                "translatedEnglishLine": "\"That flickering light sometimes is..."
+            },
+            {
+                "lineNumber": 45959,
+                "originalJapaneseLine": "　カバッハーン将軍かしら」",
+                "translatedEnglishLine": "General Kabahaan, perhaps?\""
+            },
+            {
+                "lineNumber": 45960,
+                "originalJapaneseLine": "「ふぅむ……雷帝も相当追い詰められているな。",
+                "translatedEnglishLine": "\"Hmm... The Thunder Emperor is also quite cornered."
+            },
+            {
+                "lineNumber": 45961,
+                "originalJapaneseLine": "　あの老人の真価を見られる好機やもしれん」",
+                "translatedEnglishLine": "This might be a good chance to see the true strength of that old man.\""
+            },
+            {
+                "lineNumber": 45962,
+                "originalJapaneseLine": "「そういや、あのカミナリ爺がいたか」",
+                "translatedEnglishLine": "\"Come to think of it, that old thunder guy was here.\""
+            },
+            {
+                "lineNumber": 45963,
+                "originalJapaneseLine": "「でも、いくら雷帝様でも、二万なんて……」",
+                "translatedEnglishLine": "\"But even the Thunder Emperor, twenty thousand is..."
+            },
+            {
+                "lineNumber": 45964,
+                "originalJapaneseLine": "「ま、無理だろうな。がはははは、いい気味だ」",
+                "translatedEnglishLine": "Well, it's probably impossible. Gahahaha, serves him right.\""
+            },
+            {
+                "lineNumber": 45965,
+                "originalJapaneseLine": "「……もしかして、昔懲らしめられたの、",
+                "translatedEnglishLine": "\"...Could it be that he still holds a grudge from when he was punished long ago?"
+            },
+            {
+                "lineNumber": 45966,
+                "originalJapaneseLine": "　まだ根に持ってるの？」",
+                "translatedEnglishLine": "Still holding onto it?\""
+            },
+            {
+                "lineNumber": 45967,
+                "originalJapaneseLine": "「ふん。男なんかいくら死んでも構わん。",
+                "translatedEnglishLine": "\"Hmph. I don’t care how many men die."
+            },
+            {
+                "lineNumber": 45968,
+                "originalJapaneseLine": "　口うるさくて偉そうな爺なんぞ尚更だ」",
+                "translatedEnglishLine": "Especially annoying, arrogant old men like that.\""
+            },
+            {
+                "lineNumber": 45969,
+                "originalJapaneseLine": "「あのね……」",
+                "translatedEnglishLine": "\"You see...\""
+            },
+            {
+                "lineNumber": 45970,
+                "originalJapaneseLine": "「だが、俺の女どもまで巻き込むのはまずいな。",
+                "translatedEnglishLine": "\"But involving my women would be bad.\""
+            }
+        ]
+    }
+}

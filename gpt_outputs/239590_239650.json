@@ -1,1 +1,719 @@
-{"id":"resp_04c60388d60b06ff0068f21c43e61c819386243bc5a98987f8","object":"response","created_at":1760697411,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_04c60388d60b06ff0068f21c445f3c8193b0d1f7dbe46b1125","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":239532,\"originalJapaneseLine\":\"「…………そういう能力ではなく、\",\"translatedEnglishLine\":\"\\\"...It's not that kind of ability,\"},{\"lineNumber\":239533,\"originalJapaneseLine\":\"　ただそうなってしまうだけという、\",\"translatedEnglishLine\":\"it's just a peculiar physical trait that causes it to happen.\"},{\"lineNumber\":239534,\"originalJapaneseLine\":\"　特異体質のようなものだから」\",\"translatedEnglishLine\":\"It’s like an unusual constitution.\\\"\"},{\"lineNumber\":239535,\"originalJapaneseLine\":\"「そう都合良く魔王の情報が聞けるとは\",\"translatedEnglishLine\":\"\\\"So it’s not guaranteed that we can conveniently get information about the Demon King,\"},{\"lineNumber\":239536,\"originalJapaneseLine\":\"　限らないということだな？」\",\"translatedEnglishLine\":\"right?\\\"\"},{\"lineNumber\":239537,\"originalJapaneseLine\":\"「ええ、そう」\",\"translatedEnglishLine\":\"\\\"Yes, that's correct.\\\"\"},{\"lineNumber\":239538,\"originalJapaneseLine\":\"「なーに、大丈夫だ。\",\"translatedEnglishLine\":\"\\\"Don't worry, it'll be fine.\"},{\"lineNumber\":239539,\"originalJapaneseLine\":\"　なんとかなるなる。\",\"translatedEnglishLine\":\"We'll manage somehow.\"},{\"lineNumber\":239540,\"originalJapaneseLine\":\"　がははははははは！」\",\"translatedEnglishLine\":\"Hahaha!\\\"\"},{\"lineNumber\":239541,\"originalJapaneseLine\":\"「適当ね」\",\"translatedEnglishLine\":\"\\\"That’s quite casual.\\\"\"},{\"lineNumber\":239542,\"originalJapaneseLine\":\"ランス達の旅、二日目――\",\"translatedEnglishLine\":\"Lance and the others’ journey, Day Two――\"},{\"lineNumber\":239543,\"originalJapaneseLine\":\"「わあ、お団子美味しいですね」\",\"translatedEnglishLine\":\"\\\"Wow, these dumplings are delicious.\\\"\"},{\"lineNumber\":239544,\"originalJapaneseLine\":\"「うむ、まあまあ」\",\"translatedEnglishLine\":\"\\\"Hmm, not bad.\\\"\"},{\"lineNumber\":239545,\"originalJapaneseLine\":\"ランス達は旅の途中、茶屋で休憩していた。\",\"translatedEnglishLine\":\"Lance and the others were resting at a teahouse during their journey.\"},{\"lineNumber\":239546,\"originalJapaneseLine\":\"「おお、お嬢さん。\",\"translatedEnglishLine\":\"\\\"Oh, young lady.\"},{\"lineNumber\":239547,\"originalJapaneseLine\":\"　こういう子を見たことはないか？」\",\"translatedEnglishLine\":\"Have you seen a girl like this?\\\"\"},{\"lineNumber\":239548,\"originalJapaneseLine\":\"「手配書とはまた物騒ですね。\",\"translatedEnglishLine\":\"\\\"A wanted poster, that's quite scary.\"},{\"lineNumber\":239549,\"originalJapaneseLine\":\"　あら、可愛らしいお嬢さん」\",\"translatedEnglishLine\":\"Oh, what a cute young lady.\\\"\"},{\"lineNumber\":239550,\"originalJapaneseLine\":\"「……うーん、残念ながら見たことは」\",\"translatedEnglishLine\":\"\\\"...Hmm, unfortunately, I haven't seen anyone like that.\\\"\"},{\"lineNumber\":239551,\"originalJapaneseLine\":\"「そうか……\",\"translatedEnglishLine\":\"\\\"I see...\"},{\"lineNumber\":239552,\"originalJapaneseLine\":\"　まったく、どこにいるんだか」\",\"translatedEnglishLine\":\"I really wonder where she is.\\\"\"},{\"lineNumber\":239553,\"originalJapaneseLine\":\"「ズズ、おっ、茶が美味いな」\",\"translatedEnglishLine\":\"*slurp* Oh, this tea is good.\"},{\"lineNumber\":239554,\"originalJapaneseLine\":\"「そうですねぇ……\",\"translatedEnglishLine\":\"\\\"Yes indeed...\"},{\"lineNumber\":239555,\"originalJapaneseLine\":\"　なんだかまったりしますね……」\",\"translatedEnglishLine\":\"Somehow, it feels relaxing...\\\"\"},{\"lineNumber\":239556,\"originalJapaneseLine\":\"「うむ、心に沁みるぞ。\",\"translatedEnglishLine\":\"\\\"Mm, it soothes the soul.\"},{\"lineNumber\":239557,\"originalJapaneseLine\":\"　戦争始まってからこっち、\",\"translatedEnglishLine\":\"Since the war started,\"},{\"lineNumber\":239558,\"originalJapaneseLine\":\"　俺様は常に緊張感たっぷりだったからなぁ」\",\"translatedEnglishLine\":\"I've been constantly on edge.\\\"\"},{\"lineNumber\":239559,\"originalJapaneseLine\":\"（そ、そうだったかな……）\",\"translatedEnglishLine\":\"(I-is that so...?)\"},{\"lineNumber\":239560,\"originalJapaneseLine\":\"「あはは、この辺は平和ですからねえ」\",\"translatedEnglishLine\":\"\\\"Haha, this area is peaceful after all.\\\"\"},{\"lineNumber\":239561,\"originalJapaneseLine\":\"「しかし、ちと平和すぎないか。\",\"translatedEnglishLine\":\"\\\"But isn't it a bit too peaceful?\"},{\"lineNumber\":239562,\"originalJapaneseLine\":\"　世界は魔物が攻めてきて戦争中なんだぞ」\",\"translatedEnglishLine\":\"The world is at war with invading monsters, you know.\\\"\"},{\"lineNumber\":239563,\"originalJapaneseLine\":\"「はあ、そうらしいですねぇ……」\",\"translatedEnglishLine\":\"\\\"Yeah, so it seems...\\\"\"},{\"lineNumber\":239564,\"originalJapaneseLine\":\"「ですねぇ、とはなんだ」\",\"translatedEnglishLine\":\"\\\"What do you mean by 'so it seems'?\\\"\"},{\"lineNumber\":239565,\"originalJapaneseLine\":\"「いやぁ、正直私には\",\"translatedEnglishLine\":\"\\\"Well, honestly,\"},{\"lineNumber\":239566,\"originalJapaneseLine\":\"　難しくてよく分からんです、はい」\",\"translatedEnglishLine\":\"I find it difficult to really understand, yes.\\\"\"},{\"lineNumber\":239567,\"originalJapaneseLine\":\"「なーに、こんな田舎なら大丈夫ですよ。\",\"translatedEnglishLine\":\"\\\"Oh, it's fine in a countryside like this.\"},{\"lineNumber\":239568,\"originalJapaneseLine\":\"　あははは」\",\"translatedEnglishLine\":\"Hahaha.\\\"\"},{\"lineNumber\":239569,\"originalJapaneseLine\":\"「ふん、呑気なもんだ」\",\"translatedEnglishLine\":\"\\\"Hmph, how carefree.\\\"\"},{\"lineNumber\":239570,\"originalJapaneseLine\":\"「ぐふふ、そんな平和ボケじゃ、\",\"translatedEnglishLine\":\"\\\"Gufufu, with such peace-induced foolishness,\"},{\"lineNumber\":239571,\"originalJapaneseLine\":\"　悪漢に襲われたときどうなるか、\",\"translatedEnglishLine\":\"I'll have to teach you how your body reacts when villains attack,\"},{\"lineNumber\":239572,\"originalJapaneseLine\":\"　体に教えてやるのも悪くないな」\",\"translatedEnglishLine\":\"that's not a bad thing.\\\"\"},{\"lineNumber\":239573,\"originalJapaneseLine\":\"「お姉さん……\",\"translatedEnglishLine\":\"\\\"Big sister...\"},{\"lineNumber\":239574,\"originalJapaneseLine\":\"　……おかわり、いいかしら？」\",\"translatedEnglishLine\":\"...May I have seconds?\\\"\"},{\"lineNumber\":239575,\"originalJapaneseLine\":\"空の皿を持ったクレインが\",\"translatedEnglishLine\":\"Krein appeared quietly holding an empty plate.\"},{\"lineNumber\":239576,\"originalJapaneseLine\":\"そっと姿を見せた。\",\"translatedEnglishLine\":\"She showed herself softly.\"},{\"lineNumber\":239577,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":239578,\"originalJapaneseLine\":\"「？　なに？」\",\"translatedEnglishLine\":\"\\\"? What is it?\\\"\"},{\"lineNumber\":239579,\"originalJapaneseLine\":\"「いや、甘いの好きなんだなと。\",\"translatedEnglishLine\":\"\\\"No, I was just thinking you like sweets.\"},{\"lineNumber\":239580,\"originalJapaneseLine\":\"　ちょっと意外」\",\"translatedEnglishLine\":\"Kind of unexpected.\\\"\"},{\"lineNumber\":239581,\"originalJapaneseLine\":\"「…………人並み程度には」\",\"translatedEnglishLine\":\"\\\"...At about an average level.\\\"\"},{\"lineNumber\":239582,\"originalJapaneseLine\":\"ランス達の旅、三日目――\",\"translatedEnglishLine\":\"Lance and the others’ journey, Day Three――\"},{\"lineNumber\":239583,\"originalJapaneseLine\":\"ランス達は辺境の街に来ていた。\",\"translatedEnglishLine\":\"Lance and the others had arrived at a frontier town.\"},{\"lineNumber\":239584,\"originalJapaneseLine\":\"「はあ……いつになったら\",\"translatedEnglishLine\":\"\\\"Sigh... I wonder when\"},{\"lineNumber\":239585,\"originalJapaneseLine\":\"　物流は再開するのかしら……」\",\"translatedEnglishLine\":\"the logistics will resume...\\\"\"},{\"lineNumber\":239586,\"originalJapaneseLine\":\"「申し訳ありません、\",\"translatedEnglishLine\":\"\\\"We apologize,\"},{\"lineNumber\":239587,\"originalJapaneseLine\":\"　戦争のせいで中々物流が回復しませんで」\",\"translatedEnglishLine\":\"but due to the war, logistics have not been able to recover.\\\"\"},{\"lineNumber\":239588,\"originalJapaneseLine\":\"「どこの店の棚もがらーんとして、\",\"translatedEnglishLine\":\"\\\"Shelves in every shop are empty,\"},{\"lineNumber\":239589,\"originalJapaneseLine\":\"　このままじゃ餓死しちまうよ」\",\"translatedEnglishLine\":\"at this rate, people will starve to death.\\\"\"},{\"lineNumber\":239590,\"originalJapaneseLine\":\"「そうよそうよ、戦争はいつ終わるのよ。\",\"translatedEnglishLine\":\"\\\"That's right, that's right. When will this war end?\"},{\"lineNumber\":239591,\"originalJapaneseLine\":\"　魔物なんか早く蹴散らしてちょうだい。」\",\"translatedEnglishLine\":\"Please hurry up and drive those monsters away.\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":239532,"originalJapaneseLine":"「…………そういう能力ではなく、","translatedEnglishLine":"\"...It's not that kind of ability,"},{"lineNumber":239533,"originalJapaneseLine":"　ただそうなってしまうだけという、","translatedEnglishLine":"it's just a peculiar physical trait that causes it to happen."},{"lineNumber":239534,"originalJapaneseLine":"　特異体質のようなものだから」","translatedEnglishLine":"It’s like an unusual constitution.\""},{"lineNumber":239535,"originalJapaneseLine":"「そう都合良く魔王の情報が聞けるとは","translatedEnglishLine":"\"So it’s not guaranteed that we can conveniently get information about the Demon King,"},{"lineNumber":239536,"originalJapaneseLine":"　限らないということだな？」","translatedEnglishLine":"right?\""},{"lineNumber":239537,"originalJapaneseLine":"「ええ、そう」","translatedEnglishLine":"\"Yes, that's correct.\""},{"lineNumber":239538,"originalJapaneseLine":"「なーに、大丈夫だ。","translatedEnglishLine":"\"Don't worry, it'll be fine."},{"lineNumber":239539,"originalJapaneseLine":"　なんとかなるなる。","translatedEnglishLine":"We'll manage somehow."},{"lineNumber":239540,"originalJapaneseLine":"　がははははははは！」","translatedEnglishLine":"Hahaha!\""},{"lineNumber":239541,"originalJapaneseLine":"「適当ね」","translatedEnglishLine":"\"That’s quite casual.\""},{"lineNumber":239542,"originalJapaneseLine":"ランス達の旅、二日目――","translatedEnglishLine":"Lance and the others’ journey, Day Two――"},{"lineNumber":239543,"originalJapaneseLine":"「わあ、お団子美味しいですね」","translatedEnglishLine":"\"Wow, these dumplings are delicious.\""},{"lineNumber":239544,"originalJapaneseLine":"「うむ、まあまあ」","translatedEnglishLine":"\"Hmm, not bad.\""},{"lineNumber":239545,"originalJapaneseLine":"ランス達は旅の途中、茶屋で休憩していた。","translatedEnglishLine":"Lance and the others were resting at a teahouse during their journey."},{"lineNumber":239546,"originalJapaneseLine":"「おお、お嬢さん。","translatedEnglishLine":"\"Oh, young lady."},{"lineNumber":239547,"originalJapaneseLine":"　こういう子を見たことはないか？」","translatedEnglishLine":"Have you seen a girl like this?\""},{"lineNumber":239548,"originalJapaneseLine":"「手配書とはまた物騒ですね。","translatedEnglishLine":"\"A wanted poster, that's quite scary."},{"lineNumber":239549,"originalJapaneseLine":"　あら、可愛らしいお嬢さん」","translatedEnglishLine":"Oh, what a cute young lady.\""},{"lineNumber":239550,"originalJapaneseLine":"「……うーん、残念ながら見たことは」","translatedEnglishLine":"\"...Hmm, unfortunately, I haven't seen anyone like that.\""},{"lineNumber":239551,"originalJapaneseLine":"「そうか……","translatedEnglishLine":"\"I see..."},{"lineNumber":239552,"originalJapaneseLine":"　まったく、どこにいるんだか」","translatedEnglishLine":"I really wonder where she is.\""},{"lineNumber":239553,"originalJapaneseLine":"「ズズ、おっ、茶が美味いな」","translatedEnglishLine":"*slurp* Oh, this tea is good."},{"lineNumber":239554,"originalJapaneseLine":"「そうですねぇ……","translatedEnglishLine":"\"Yes indeed..."},{"lineNumber":239555,"originalJapaneseLine":"　なんだかまったりしますね……」","translatedEnglishLine":"Somehow, it feels relaxing...\""},{"lineNumber":239556,"originalJapaneseLine":"「うむ、心に沁みるぞ。","translatedEnglishLine":"\"Mm, it soothes the soul."},{"lineNumber":239557,"originalJapaneseLine":"　戦争始まってからこっち、","translatedEnglishLine":"Since the war started,"},{"lineNumber":239558,"originalJapaneseLine":"　俺様は常に緊張感たっぷりだったからなぁ」","translatedEnglishLine":"I've been constantly on edge.\""},{"lineNumber":239559,"originalJapaneseLine":"（そ、そうだったかな……）","translatedEnglishLine":"(I-is that so...?)"},{"lineNumber":239560,"originalJapaneseLine":"「あはは、この辺は平和ですからねえ」","translatedEnglishLine":"\"Haha, this area is peaceful after all.\""},{"lineNumber":239561,"originalJapaneseLine":"「しかし、ちと平和すぎないか。","translatedEnglishLine":"\"But isn't it a bit too peaceful?"},{"lineNumber":239562,"originalJapaneseLine":"　世界は魔物が攻めてきて戦争中なんだぞ」","translatedEnglishLine":"The world is at war with invading monsters, you know.\""},{"lineNumber":239563,"originalJapaneseLine":"「はあ、そうらしいですねぇ……」","translatedEnglishLine":"\"Yeah, so it seems...\""},{"lineNumber":239564,"originalJapaneseLine":"「ですねぇ、とはなんだ」","translatedEnglishLine":"\"What do you mean by 'so it seems'?\""},{"lineNumber":239565,"originalJapaneseLine":"「いやぁ、正直私には","translatedEnglishLine":"\"Well, honestly,"},{"lineNumber":239566,"originalJapaneseLine":"　難しくてよく分からんです、はい」","translatedEnglishLine":"I find it difficult to really understand, yes.\""},{"lineNumber":239567,"originalJapaneseLine":"「なーに、こんな田舎なら大丈夫ですよ。","translatedEnglishLine":"\"Oh, it's fine in a countryside like this."},{"lineNumber":239568,"originalJapaneseLine":"　あははは」","translatedEnglishLine":"Hahaha.\""},{"lineNumber":239569,"originalJapaneseLine":"「ふん、呑気なもんだ」","translatedEnglishLine":"\"Hmph, how carefree.\""},{"lineNumber":239570,"originalJapaneseLine":"「ぐふふ、そんな平和ボケじゃ、","translatedEnglishLine":"\"Gufufu, with such peace-induced foolishness,"},{"lineNumber":239571,"originalJapaneseLine":"　悪漢に襲われたときどうなるか、","translatedEnglishLine":"I'll have to teach you how your body reacts when villains attack,"},{"lineNumber":239572,"originalJapaneseLine":"　体に教えてやるのも悪くないな」","translatedEnglishLine":"that's not a bad thing.\""},{"lineNumber":239573,"originalJapaneseLine":"「お姉さん……","translatedEnglishLine":"\"Big sister..."},{"lineNumber":239574,"originalJapaneseLine":"　……おかわり、いいかしら？」","translatedEnglishLine":"...May I have seconds?\""},{"lineNumber":239575,"originalJapaneseLine":"空の皿を持ったクレインが","translatedEnglishLine":"Krein appeared quietly holding an empty plate."},{"lineNumber":239576,"originalJapaneseLine":"そっと姿を見せた。","translatedEnglishLine":"She showed herself softly."},{"lineNumber":239577,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"...\""},{"lineNumber":239578,"originalJapaneseLine":"「？　なに？」","translatedEnglishLine":"\"? What is it?\""},{"lineNumber":239579,"originalJapaneseLine":"「いや、甘いの好きなんだなと。","translatedEnglishLine":"\"No, I was just thinking you like sweets."},{"lineNumber":239580,"originalJapaneseLine":"　ちょっと意外」","translatedEnglishLine":"Kind of unexpected.\""},{"lineNumber":239581,"originalJapaneseLine":"「…………人並み程度には」","translatedEnglishLine":"\"...At about an average level.\""},{"lineNumber":239582,"originalJapaneseLine":"ランス達の旅、三日目――","translatedEnglishLine":"Lance and the others’ journey, Day Three――"},{"lineNumber":239583,"originalJapaneseLine":"ランス達は辺境の街に来ていた。","translatedEnglishLine":"Lance and the others had arrived at a frontier town."},{"lineNumber":239584,"originalJapaneseLine":"「はあ……いつになったら","translatedEnglishLine":"\"Sigh... I wonder when"},{"lineNumber":239585,"originalJapaneseLine":"　物流は再開するのかしら……」","translatedEnglishLine":"the logistics will resume...\""},{"lineNumber":239586,"originalJapaneseLine":"「申し訳ありません、","translatedEnglishLine":"\"We apologize,"},{"lineNumber":239587,"originalJapaneseLine":"　戦争のせいで中々物流が回復しませんで」","translatedEnglishLine":"but due to the war, logistics have not been able to recover.\""},{"lineNumber":239588,"originalJapaneseLine":"「どこの店の棚もがらーんとして、","translatedEnglishLine":"\"Shelves in every shop are empty,"},{"lineNumber":239589,"originalJapaneseLine":"　このままじゃ餓死しちまうよ」","translatedEnglishLine":"at this rate, people will starve to death.\""},{"lineNumber":239590,"originalJapaneseLine":"「そうよそうよ、戦争はいつ終わるのよ。","translatedEnglishLine":"\"That's right, that's right. When will this war end?"},{"lineNumber":239591,"originalJapaneseLine":"　魔物なんか早く蹴散らしてちょうだい。」","translatedEnglishLine":"Please hurry up and drive those monsters away.\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1643,"input_tokens_details":{"cached_tokens":0},"output_tokens":2104,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3747},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":239532,\"originalJapaneseLine\":\"「…………そういう能力ではなく、\",\"translatedEnglishLine\":\"\\\"...It's not that kind of ability,\"},{\"lineNumber\":239533,\"originalJapaneseLine\":\"　ただそうなってしまうだけという、\",\"translatedEnglishLine\":\"it's just a peculiar physical trait that causes it to happen.\"},{\"lineNumber\":239534,\"originalJapaneseLine\":\"　特異体質のようなものだから」\",\"translatedEnglishLine\":\"It’s like an unusual constitution.\\\"\"},{\"lineNumber\":239535,\"originalJapaneseLine\":\"「そう都合良く魔王の情報が聞けるとは\",\"translatedEnglishLine\":\"\\\"So it’s not guaranteed that we can conveniently get information about the Demon King,\"},{\"lineNumber\":239536,\"originalJapaneseLine\":\"　限らないということだな？」\",\"translatedEnglishLine\":\"right?\\\"\"},{\"lineNumber\":239537,\"originalJapaneseLine\":\"「ええ、そう」\",\"translatedEnglishLine\":\"\\\"Yes, that's correct.\\\"\"},{\"lineNumber\":239538,\"originalJapaneseLine\":\"「なーに、大丈夫だ。\",\"translatedEnglishLine\":\"\\\"Don't worry, it'll be fine.\"},{\"lineNumber\":239539,\"originalJapaneseLine\":\"　なんとかなるなる。\",\"translatedEnglishLine\":\"We'll manage somehow.\"},{\"lineNumber\":239540,\"originalJapaneseLine\":\"　がははははははは！」\",\"translatedEnglishLine\":\"Hahaha!\\\"\"},{\"lineNumber\":239541,\"originalJapaneseLine\":\"「適当ね」\",\"translatedEnglishLine\":\"\\\"That’s quite casual.\\\"\"},{\"lineNumber\":239542,\"originalJapaneseLine\":\"ランス達の旅、二日目――\",\"translatedEnglishLine\":\"Lance and the others’ journey, Day Two――\"},{\"lineNumber\":239543,\"originalJapaneseLine\":\"「わあ、お団子美味しいですね」\",\"translatedEnglishLine\":\"\\\"Wow, these dumplings are delicious.\\\"\"},{\"lineNumber\":239544,\"originalJapaneseLine\":\"「うむ、まあまあ」\",\"translatedEnglishLine\":\"\\\"Hmm, not bad.\\\"\"},{\"lineNumber\":239545,\"originalJapaneseLine\":\"ランス達は旅の途中、茶屋で休憩していた。\",\"translatedEnglishLine\":\"Lance and the others were resting at a teahouse during their journey.\"},{\"lineNumber\":239546,\"originalJapaneseLine\":\"「おお、お嬢さん。\",\"translatedEnglishLine\":\"\\\"Oh, young lady.\"},{\"lineNumber\":239547,\"originalJapaneseLine\":\"　こういう子を見たことはないか？」\",\"translatedEnglishLine\":\"Have you seen a girl like this?\\\"\"},{\"lineNumber\":239548,\"originalJapaneseLine\":\"「手配書とはまた物騒ですね。\",\"translatedEnglishLine\":\"\\\"A wanted poster, that's quite scary.\"},{\"lineNumber\":239549,\"originalJapaneseLine\":\"　あら、可愛らしいお嬢さん」\",\"translatedEnglishLine\":\"Oh, what a cute young lady.\\\"\"},{\"lineNumber\":239550,\"originalJapaneseLine\":\"「……うーん、残念ながら見たことは」\",\"translatedEnglishLine\":\"\\\"...Hmm, unfortunately, I haven't seen anyone like that.\\\"\"},{\"lineNumber\":239551,\"originalJapaneseLine\":\"「そうか……\",\"translatedEnglishLine\":\"\\\"I see...\"},{\"lineNumber\":239552,\"originalJapaneseLine\":\"　まったく、どこにいるんだか」\",\"translatedEnglishLine\":\"I really wonder where she is.\\\"\"},{\"lineNumber\":239553,\"originalJapaneseLine\":\"「ズズ、おっ、茶が美味いな」\",\"translatedEnglishLine\":\"*slurp* Oh, this tea is good.\"},{\"lineNumber\":239554,\"originalJapaneseLine\":\"「そうですねぇ……\",\"translatedEnglishLine\":\"\\\"Yes indeed...\"},{\"lineNumber\":239555,\"originalJapaneseLine\":\"　なんだかまったりしますね……」\",\"translatedEnglishLine\":\"Somehow, it feels relaxing...\\\"\"},{\"lineNumber\":239556,\"originalJapaneseLine\":\"「うむ、心に沁みるぞ。\",\"translatedEnglishLine\":\"\\\"Mm, it soothes the soul.\"},{\"lineNumber\":239557,\"originalJapaneseLine\":\"　戦争始まってからこっち、\",\"translatedEnglishLine\":\"Since the war started,\"},{\"lineNumber\":239558,\"originalJapaneseLine\":\"　俺様は常に緊張感たっぷりだったからなぁ」\",\"translatedEnglishLine\":\"I've been constantly on edge.\\\"\"},{\"lineNumber\":239559,\"originalJapaneseLine\":\"（そ、そうだったかな……）\",\"translatedEnglishLine\":\"(I-is that so...?)\"},{\"lineNumber\":239560,\"originalJapaneseLine\":\"「あはは、この辺は平和ですからねえ」\",\"translatedEnglishLine\":\"\\\"Haha, this area is peaceful after all.\\\"\"},{\"lineNumber\":239561,\"originalJapaneseLine\":\"「しかし、ちと平和すぎないか。\",\"translatedEnglishLine\":\"\\\"But isn't it a bit too peaceful?\"},{\"lineNumber\":239562,\"originalJapaneseLine\":\"　世界は魔物が攻めてきて戦争中なんだぞ」\",\"translatedEnglishLine\":\"The world is at war with invading monsters, you know.\\\"\"},{\"lineNumber\":239563,\"originalJapaneseLine\":\"「はあ、そうらしいですねぇ……」\",\"translatedEnglishLine\":\"\\\"Yeah, so it seems...\\\"\"},{\"lineNumber\":239564,\"originalJapaneseLine\":\"「ですねぇ、とはなんだ」\",\"translatedEnglishLine\":\"\\\"What do you mean by 'so it seems'?\\\"\"},{\"lineNumber\":239565,\"originalJapaneseLine\":\"「いやぁ、正直私には\",\"translatedEnglishLine\":\"\\\"Well, honestly,\"},{\"lineNumber\":239566,\"originalJapaneseLine\":\"　難しくてよく分からんです、はい」\",\"translatedEnglishLine\":\"I find it difficult to really understand, yes.\\\"\"},{\"lineNumber\":239567,\"originalJapaneseLine\":\"「なーに、こんな田舎なら大丈夫ですよ。\",\"translatedEnglishLine\":\"\\\"Oh, it's fine in a countryside like this.\"},{\"lineNumber\":239568,\"originalJapaneseLine\":\"　あははは」\",\"translatedEnglishLine\":\"Hahaha.\\\"\"},{\"lineNumber\":239569,\"originalJapaneseLine\":\"「ふん、呑気なもんだ」\",\"translatedEnglishLine\":\"\\\"Hmph, how carefree.\\\"\"},{\"lineNumber\":239570,\"originalJapaneseLine\":\"「ぐふふ、そんな平和ボケじゃ、\",\"translatedEnglishLine\":\"\\\"Gufufu, with such peace-induced foolishness,\"},{\"lineNumber\":239571,\"originalJapaneseLine\":\"　悪漢に襲われたときどうなるか、\",\"translatedEnglishLine\":\"I'll have to teach you how your body reacts when villains attack,\"},{\"lineNumber\":239572,\"originalJapaneseLine\":\"　体に教えてやるのも悪くないな」\",\"translatedEnglishLine\":\"that's not a bad thing.\\\"\"},{\"lineNumber\":239573,\"originalJapaneseLine\":\"「お姉さん……\",\"translatedEnglishLine\":\"\\\"Big sister...\"},{\"lineNumber\":239574,\"originalJapaneseLine\":\"　……おかわり、いいかしら？」\",\"translatedEnglishLine\":\"...May I have seconds?\\\"\"},{\"lineNumber\":239575,\"originalJapaneseLine\":\"空の皿を持ったクレインが\",\"translatedEnglishLine\":\"Krein appeared quietly holding an empty plate.\"},{\"lineNumber\":239576,\"originalJapaneseLine\":\"そっと姿を見せた。\",\"translatedEnglishLine\":\"She showed herself softly.\"},{\"lineNumber\":239577,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":239578,\"originalJapaneseLine\":\"「？　なに？」\",\"translatedEnglishLine\":\"\\\"? What is it?\\\"\"},{\"lineNumber\":239579,\"originalJapaneseLine\":\"「いや、甘いの好きなんだなと。\",\"translatedEnglishLine\":\"\\\"No, I was just thinking you like sweets.\"},{\"lineNumber\":239580,\"originalJapaneseLine\":\"　ちょっと意外」\",\"translatedEnglishLine\":\"Kind of unexpected.\\\"\"},{\"lineNumber\":239581,\"originalJapaneseLine\":\"「…………人並み程度には」\",\"translatedEnglishLine\":\"\\\"...At about an average level.\\\"\"},{\"lineNumber\":239582,\"originalJapaneseLine\":\"ランス達の旅、三日目――\",\"translatedEnglishLine\":\"Lance and the others’ journey, Day Three――\"},{\"lineNumber\":239583,\"originalJapaneseLine\":\"ランス達は辺境の街に来ていた。\",\"translatedEnglishLine\":\"Lance and the others had arrived at a frontier town.\"},{\"lineNumber\":239584,\"originalJapaneseLine\":\"「はあ……いつになったら\",\"translatedEnglishLine\":\"\\\"Sigh... I wonder when\"},{\"lineNumber\":239585,\"originalJapaneseLine\":\"　物流は再開するのかしら……」\",\"translatedEnglishLine\":\"the logistics will resume...\\\"\"},{\"lineNumber\":239586,\"originalJapaneseLine\":\"「申し訳ありません、\",\"translatedEnglishLine\":\"\\\"We apologize,\"},{\"lineNumber\":239587,\"originalJapaneseLine\":\"　戦争のせいで中々物流が回復しませんで」\",\"translatedEnglishLine\":\"but due to the war, logistics have not been able to recover.\\\"\"},{\"lineNumber\":239588,\"originalJapaneseLine\":\"「どこの店の棚もがらーんとして、\",\"translatedEnglishLine\":\"\\\"Shelves in every shop are empty,\"},{\"lineNumber\":239589,\"originalJapaneseLine\":\"　このままじゃ餓死しちまうよ」\",\"translatedEnglishLine\":\"at this rate, people will starve to death.\\\"\"},{\"lineNumber\":239590,\"originalJapaneseLine\":\"「そうよそうよ、戦争はいつ終わるのよ。\",\"translatedEnglishLine\":\"\\\"That's right, that's right. When will this war end?\"},{\"lineNumber\":239591,\"originalJapaneseLine\":\"　魔物なんか早く蹴散らしてちょうだい。」\",\"translatedEnglishLine\":\"Please hurry up and drive those monsters away.\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":239532,"originalJapaneseLine":"「…………そういう能力ではなく、","translatedEnglishLine":"\"...It's not that kind of ability,"},{"lineNumber":239533,"originalJapaneseLine":"　ただそうなってしまうだけという、","translatedEnglishLine":"it's just a peculiar physical trait that causes it to happen."},{"lineNumber":239534,"originalJapaneseLine":"　特異体質のようなものだから」","translatedEnglishLine":"It’s like an unusual constitution.\""},{"lineNumber":239535,"originalJapaneseLine":"「そう都合良く魔王の情報が聞けるとは","translatedEnglishLine":"\"So it’s not guaranteed that we can conveniently get information about the Demon King,"},{"lineNumber":239536,"originalJapaneseLine":"　限らないということだな？」","translatedEnglishLine":"right?\""},{"lineNumber":239537,"originalJapaneseLine":"「ええ、そう」","translatedEnglishLine":"\"Yes, that's correct.\""},{"lineNumber":239538,"originalJapaneseLine":"「なーに、大丈夫だ。","translatedEnglishLine":"\"Don't worry, it'll be fine."},{"lineNumber":239539,"originalJapaneseLine":"　なんとかなるなる。","translatedEnglishLine":"We'll manage somehow."},{"lineNumber":239540,"originalJapaneseLine":"　がははははははは！」","translatedEnglishLine":"Hahaha!\""},{"lineNumber":239541,"originalJapaneseLine":"「適当ね」","translatedEnglishLine":"\"That’s quite casual.\""},{"lineNumber":239542,"originalJapaneseLine":"ランス達の旅、二日目――","translatedEnglishLine":"Lance and the others’ journey, Day Two――"},{"lineNumber":239543,"originalJapaneseLine":"「わあ、お団子美味しいですね」","translatedEnglishLine":"\"Wow, these dumplings are delicious.\""},{"lineNumber":239544,"originalJapaneseLine":"「うむ、まあまあ」","translatedEnglishLine":"\"Hmm, not bad.\""},{"lineNumber":239545,"originalJapaneseLine":"ランス達は旅の途中、茶屋で休憩していた。","translatedEnglishLine":"Lance and the others were resting at a teahouse during their journey."},{"lineNumber":239546,"originalJapaneseLine":"「おお、お嬢さん。","translatedEnglishLine":"\"Oh, young lady."},{"lineNumber":239547,"originalJapaneseLine":"　こういう子を見たことはないか？」","translatedEnglishLine":"Have you seen a girl like this?\""},{"lineNumber":239548,"originalJapaneseLine":"「手配書とはまた物騒ですね。","translatedEnglishLine":"\"A wanted poster, that's quite scary."},{"lineNumber":239549,"originalJapaneseLine":"　あら、可愛らしいお嬢さん」","translatedEnglishLine":"Oh, what a cute young lady.\""},{"lineNumber":239550,"originalJapaneseLine":"「……うーん、残念ながら見たことは」","translatedEnglishLine":"\"...Hmm, unfortunately, I haven't seen anyone like that.\""},{"lineNumber":239551,"originalJapaneseLine":"「そうか……","translatedEnglishLine":"\"I see..."},{"lineNumber":239552,"originalJapaneseLine":"　まったく、どこにいるんだか」","translatedEnglishLine":"I really wonder where she is.\""},{"lineNumber":239553,"originalJapaneseLine":"「ズズ、おっ、茶が美味いな」","translatedEnglishLine":"*slurp* Oh, this tea is good."},{"lineNumber":239554,"originalJapaneseLine":"「そうですねぇ……","translatedEnglishLine":"\"Yes indeed..."},{"lineNumber":239555,"originalJapaneseLine":"　なんだかまったりしますね……」","translatedEnglishLine":"Somehow, it feels relaxing...\""},{"lineNumber":239556,"originalJapaneseLine":"「うむ、心に沁みるぞ。","translatedEnglishLine":"\"Mm, it soothes the soul."},{"lineNumber":239557,"originalJapaneseLine":"　戦争始まってからこっち、","translatedEnglishLine":"Since the war started,"},{"lineNumber":239558,"originalJapaneseLine":"　俺様は常に緊張感たっぷりだったからなぁ」","translatedEnglishLine":"I've been constantly on edge.\""},{"lineNumber":239559,"originalJapaneseLine":"（そ、そうだったかな……）","translatedEnglishLine":"(I-is that so...?)"},{"lineNumber":239560,"originalJapaneseLine":"「あはは、この辺は平和ですからねえ」","translatedEnglishLine":"\"Haha, this area is peaceful after all.\""},{"lineNumber":239561,"originalJapaneseLine":"「しかし、ちと平和すぎないか。","translatedEnglishLine":"\"But isn't it a bit too peaceful?"},{"lineNumber":239562,"originalJapaneseLine":"　世界は魔物が攻めてきて戦争中なんだぞ」","translatedEnglishLine":"The world is at war with invading monsters, you know.\""},{"lineNumber":239563,"originalJapaneseLine":"「はあ、そうらしいですねぇ……」","translatedEnglishLine":"\"Yeah, so it seems...\""},{"lineNumber":239564,"originalJapaneseLine":"「ですねぇ、とはなんだ」","translatedEnglishLine":"\"What do you mean by 'so it seems'?\""},{"lineNumber":239565,"originalJapaneseLine":"「いやぁ、正直私には","translatedEnglishLine":"\"Well, honestly,"},{"lineNumber":239566,"originalJapaneseLine":"　難しくてよく分からんです、はい」","translatedEnglishLine":"I find it difficult to really understand, yes.\""},{"lineNumber":239567,"originalJapaneseLine":"「なーに、こんな田舎なら大丈夫ですよ。","translatedEnglishLine":"\"Oh, it's fine in a countryside like this."},{"lineNumber":239568,"originalJapaneseLine":"　あははは」","translatedEnglishLine":"Hahaha.\""},{"lineNumber":239569,"originalJapaneseLine":"「ふん、呑気なもんだ」","translatedEnglishLine":"\"Hmph, how carefree.\""},{"lineNumber":239570,"originalJapaneseLine":"「ぐふふ、そんな平和ボケじゃ、","translatedEnglishLine":"\"Gufufu, with such peace-induced foolishness,"},{"lineNumber":239571,"originalJapaneseLine":"　悪漢に襲われたときどうなるか、","translatedEnglishLine":"I'll have to teach you how your body reacts when villains attack,"},{"lineNumber":239572,"originalJapaneseLine":"　体に教えてやるのも悪くないな」","translatedEnglishLine":"that's not a bad thing.\""},{"lineNumber":239573,"originalJapaneseLine":"「お姉さん……","translatedEnglishLine":"\"Big sister..."},{"lineNumber":239574,"originalJapaneseLine":"　……おかわり、いいかしら？」","translatedEnglishLine":"...May I have seconds?\""},{"lineNumber":239575,"originalJapaneseLine":"空の皿を持ったクレインが","translatedEnglishLine":"Krein appeared quietly holding an empty plate."},{"lineNumber":239576,"originalJapaneseLine":"そっと姿を見せた。","translatedEnglishLine":"She showed herself softly."},{"lineNumber":239577,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"...\""},{"lineNumber":239578,"originalJapaneseLine":"「？　なに？」","translatedEnglishLine":"\"? What is it?\""},{"lineNumber":239579,"originalJapaneseLine":"「いや、甘いの好きなんだなと。","translatedEnglishLine":"\"No, I was just thinking you like sweets."},{"lineNumber":239580,"originalJapaneseLine":"　ちょっと意外」","translatedEnglishLine":"Kind of unexpected.\""},{"lineNumber":239581,"originalJapaneseLine":"「…………人並み程度には」","translatedEnglishLine":"\"...At about an average level.\""},{"lineNumber":239582,"originalJapaneseLine":"ランス達の旅、三日目――","translatedEnglishLine":"Lance and the others’ journey, Day Three――"},{"lineNumber":239583,"originalJapaneseLine":"ランス達は辺境の街に来ていた。","translatedEnglishLine":"Lance and the others had arrived at a frontier town."},{"lineNumber":239584,"originalJapaneseLine":"「はあ……いつになったら","translatedEnglishLine":"\"Sigh... I wonder when"},{"lineNumber":239585,"originalJapaneseLine":"　物流は再開するのかしら……」","translatedEnglishLine":"the logistics will resume...\""},{"lineNumber":239586,"originalJapaneseLine":"「申し訳ありません、","translatedEnglishLine":"\"We apologize,"},{"lineNumber":239587,"originalJapaneseLine":"　戦争のせいで中々物流が回復しませんで」","translatedEnglishLine":"but due to the war, logistics have not been able to recover.\""},{"lineNumber":239588,"originalJapaneseLine":"「どこの店の棚もがらーんとして、","translatedEnglishLine":"\"Shelves in every shop are empty,"},{"lineNumber":239589,"originalJapaneseLine":"　このままじゃ餓死しちまうよ」","translatedEnglishLine":"at this rate, people will starve to death.\""},{"lineNumber":239590,"originalJapaneseLine":"「そうよそうよ、戦争はいつ終わるのよ。","translatedEnglishLine":"\"That's right, that's right. When will this war end?"},{"lineNumber":239591,"originalJapaneseLine":"　魔物なんか早く蹴散らしてちょうだい。」","translatedEnglishLine":"Please hurry up and drive those monsters away.\""}]}}
+{
+    "id": "resp_04c60388d60b06ff0068f21c43e61c819386243bc5a98987f8",
+    "object": "response",
+    "created_at": 1760697411,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_04c60388d60b06ff0068f21c445f3c8193b0d1f7dbe46b1125",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":239532,\"originalJapaneseLine\":\"「…………そういう能力ではなく、\",\"translatedEnglishLine\":\"\\\"...It's not that kind of ability,\"},{\"lineNumber\":239533,\"originalJapaneseLine\":\"　ただそうなってしまうだけという、\",\"translatedEnglishLine\":\"it's just a peculiar physical trait that causes it to happen.\"},{\"lineNumber\":239534,\"originalJapaneseLine\":\"　特異体質のようなものだから」\",\"translatedEnglishLine\":\"It’s like an unusual constitution.\\\"\"},{\"lineNumber\":239535,\"originalJapaneseLine\":\"「そう都合良く魔王の情報が聞けるとは\",\"translatedEnglishLine\":\"\\\"So it’s not guaranteed that we can conveniently get information about the Demon King,\"},{\"lineNumber\":239536,\"originalJapaneseLine\":\"　限らないということだな？」\",\"translatedEnglishLine\":\"right?\\\"\"},{\"lineNumber\":239537,\"originalJapaneseLine\":\"「ええ、そう」\",\"translatedEnglishLine\":\"\\\"Yes, that's correct.\\\"\"},{\"lineNumber\":239538,\"originalJapaneseLine\":\"「なーに、大丈夫だ。\",\"translatedEnglishLine\":\"\\\"Don't worry, it'll be fine.\"},{\"lineNumber\":239539,\"originalJapaneseLine\":\"　なんとかなるなる。\",\"translatedEnglishLine\":\"We'll manage somehow.\"},{\"lineNumber\":239540,\"originalJapaneseLine\":\"　がははははははは！」\",\"translatedEnglishLine\":\"Hahaha!\\\"\"},{\"lineNumber\":239541,\"originalJapaneseLine\":\"「適当ね」\",\"translatedEnglishLine\":\"\\\"That’s quite casual.\\\"\"},{\"lineNumber\":239542,\"originalJapaneseLine\":\"ランス達の旅、二日目――\",\"translatedEnglishLine\":\"Lance and the others’ journey, Day Two――\"},{\"lineNumber\":239543,\"originalJapaneseLine\":\"「わあ、お団子美味しいですね」\",\"translatedEnglishLine\":\"\\\"Wow, these dumplings are delicious.\\\"\"},{\"lineNumber\":239544,\"originalJapaneseLine\":\"「うむ、まあまあ」\",\"translatedEnglishLine\":\"\\\"Hmm, not bad.\\\"\"},{\"lineNumber\":239545,\"originalJapaneseLine\":\"ランス達は旅の途中、茶屋で休憩していた。\",\"translatedEnglishLine\":\"Lance and the others were resting at a teahouse during their journey.\"},{\"lineNumber\":239546,\"originalJapaneseLine\":\"「おお、お嬢さん。\",\"translatedEnglishLine\":\"\\\"Oh, young lady.\"},{\"lineNumber\":239547,\"originalJapaneseLine\":\"　こういう子を見たことはないか？」\",\"translatedEnglishLine\":\"Have you seen a girl like this?\\\"\"},{\"lineNumber\":239548,\"originalJapaneseLine\":\"「手配書とはまた物騒ですね。\",\"translatedEnglishLine\":\"\\\"A wanted poster, that's quite scary.\"},{\"lineNumber\":239549,\"originalJapaneseLine\":\"　あら、可愛らしいお嬢さん」\",\"translatedEnglishLine\":\"Oh, what a cute young lady.\\\"\"},{\"lineNumber\":239550,\"originalJapaneseLine\":\"「……うーん、残念ながら見たことは」\",\"translatedEnglishLine\":\"\\\"...Hmm, unfortunately, I haven't seen anyone like that.\\\"\"},{\"lineNumber\":239551,\"originalJapaneseLine\":\"「そうか……\",\"translatedEnglishLine\":\"\\\"I see...\"},{\"lineNumber\":239552,\"originalJapaneseLine\":\"　まったく、どこにいるんだか」\",\"translatedEnglishLine\":\"I really wonder where she is.\\\"\"},{\"lineNumber\":239553,\"originalJapaneseLine\":\"「ズズ、おっ、茶が美味いな」\",\"translatedEnglishLine\":\"*slurp* Oh, this tea is good.\"},{\"lineNumber\":239554,\"originalJapaneseLine\":\"「そうですねぇ……\",\"translatedEnglishLine\":\"\\\"Yes indeed...\"},{\"lineNumber\":239555,\"originalJapaneseLine\":\"　なんだかまったりしますね……」\",\"translatedEnglishLine\":\"Somehow, it feels relaxing...\\\"\"},{\"lineNumber\":239556,\"originalJapaneseLine\":\"「うむ、心に沁みるぞ。\",\"translatedEnglishLine\":\"\\\"Mm, it soothes the soul.\"},{\"lineNumber\":239557,\"originalJapaneseLine\":\"　戦争始まってからこっち、\",\"translatedEnglishLine\":\"Since the war started,\"},{\"lineNumber\":239558,\"originalJapaneseLine\":\"　俺様は常に緊張感たっぷりだったからなぁ」\",\"translatedEnglishLine\":\"I've been constantly on edge.\\\"\"},{\"lineNumber\":239559,\"originalJapaneseLine\":\"（そ、そうだったかな……）\",\"translatedEnglishLine\":\"(I-is that so...?)\"},{\"lineNumber\":239560,\"originalJapaneseLine\":\"「あはは、この辺は平和ですからねえ」\",\"translatedEnglishLine\":\"\\\"Haha, this area is peaceful after all.\\\"\"},{\"lineNumber\":239561,\"originalJapaneseLine\":\"「しかし、ちと平和すぎないか。\",\"translatedEnglishLine\":\"\\\"But isn't it a bit too peaceful?\"},{\"lineNumber\":239562,\"originalJapaneseLine\":\"　世界は魔物が攻めてきて戦争中なんだぞ」\",\"translatedEnglishLine\":\"The world is at war with invading monsters, you know.\\\"\"},{\"lineNumber\":239563,\"originalJapaneseLine\":\"「はあ、そうらしいですねぇ……」\",\"translatedEnglishLine\":\"\\\"Yeah, so it seems...\\\"\"},{\"lineNumber\":239564,\"originalJapaneseLine\":\"「ですねぇ、とはなんだ」\",\"translatedEnglishLine\":\"\\\"What do you mean by 'so it seems'?\\\"\"},{\"lineNumber\":239565,\"originalJapaneseLine\":\"「いやぁ、正直私には\",\"translatedEnglishLine\":\"\\\"Well, honestly,\"},{\"lineNumber\":239566,\"originalJapaneseLine\":\"　難しくてよく分からんです、はい」\",\"translatedEnglishLine\":\"I find it difficult to really understand, yes.\\\"\"},{\"lineNumber\":239567,\"originalJapaneseLine\":\"「なーに、こんな田舎なら大丈夫ですよ。\",\"translatedEnglishLine\":\"\\\"Oh, it's fine in a countryside like this.\"},{\"lineNumber\":239568,\"originalJapaneseLine\":\"　あははは」\",\"translatedEnglishLine\":\"Hahaha.\\\"\"},{\"lineNumber\":239569,\"originalJapaneseLine\":\"「ふん、呑気なもんだ」\",\"translatedEnglishLine\":\"\\\"Hmph, how carefree.\\\"\"},{\"lineNumber\":239570,\"originalJapaneseLine\":\"「ぐふふ、そんな平和ボケじゃ、\",\"translatedEnglishLine\":\"\\\"Gufufu, with such peace-induced foolishness,\"},{\"lineNumber\":239571,\"originalJapaneseLine\":\"　悪漢に襲われたときどうなるか、\",\"translatedEnglishLine\":\"I'll have to teach you how your body reacts when villains attack,\"},{\"lineNumber\":239572,\"originalJapaneseLine\":\"　体に教えてやるのも悪くないな」\",\"translatedEnglishLine\":\"that's not a bad thing.\\\"\"},{\"lineNumber\":239573,\"originalJapaneseLine\":\"「お姉さん……\",\"translatedEnglishLine\":\"\\\"Big sister...\"},{\"lineNumber\":239574,\"originalJapaneseLine\":\"　……おかわり、いいかしら？」\",\"translatedEnglishLine\":\"...May I have seconds?\\\"\"},{\"lineNumber\":239575,\"originalJapaneseLine\":\"空の皿を持ったクレインが\",\"translatedEnglishLine\":\"Krein appeared quietly holding an empty plate.\"},{\"lineNumber\":239576,\"originalJapaneseLine\":\"そっと姿を見せた。\",\"translatedEnglishLine\":\"She showed herself softly.\"},{\"lineNumber\":239577,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":239578,\"originalJapaneseLine\":\"「？　なに？」\",\"translatedEnglishLine\":\"\\\"? What is it?\\\"\"},{\"lineNumber\":239579,\"originalJapaneseLine\":\"「いや、甘いの好きなんだなと。\",\"translatedEnglishLine\":\"\\\"No, I was just thinking you like sweets.\"},{\"lineNumber\":239580,\"originalJapaneseLine\":\"　ちょっと意外」\",\"translatedEnglishLine\":\"Kind of unexpected.\\\"\"},{\"lineNumber\":239581,\"originalJapaneseLine\":\"「…………人並み程度には」\",\"translatedEnglishLine\":\"\\\"...At about an average level.\\\"\"},{\"lineNumber\":239582,\"originalJapaneseLine\":\"ランス達の旅、三日目――\",\"translatedEnglishLine\":\"Lance and the others’ journey, Day Three――\"},{\"lineNumber\":239583,\"originalJapaneseLine\":\"ランス達は辺境の街に来ていた。\",\"translatedEnglishLine\":\"Lance and the others had arrived at a frontier town.\"},{\"lineNumber\":239584,\"originalJapaneseLine\":\"「はあ……いつになったら\",\"translatedEnglishLine\":\"\\\"Sigh... I wonder when\"},{\"lineNumber\":239585,\"originalJapaneseLine\":\"　物流は再開するのかしら……」\",\"translatedEnglishLine\":\"the logistics will resume...\\\"\"},{\"lineNumber\":239586,\"originalJapaneseLine\":\"「申し訳ありません、\",\"translatedEnglishLine\":\"\\\"We apologize,\"},{\"lineNumber\":239587,\"originalJapaneseLine\":\"　戦争のせいで中々物流が回復しませんで」\",\"translatedEnglishLine\":\"but due to the war, logistics have not been able to recover.\\\"\"},{\"lineNumber\":239588,\"originalJapaneseLine\":\"「どこの店の棚もがらーんとして、\",\"translatedEnglishLine\":\"\\\"Shelves in every shop are empty,\"},{\"lineNumber\":239589,\"originalJapaneseLine\":\"　このままじゃ餓死しちまうよ」\",\"translatedEnglishLine\":\"at this rate, people will starve to death.\\\"\"},{\"lineNumber\":239590,\"originalJapaneseLine\":\"「そうよそうよ、戦争はいつ終わるのよ。\",\"translatedEnglishLine\":\"\\\"That's right, that's right. When will this war end?\"},{\"lineNumber\":239591,\"originalJapaneseLine\":\"　魔物なんか早く蹴散らしてちょうだい。」\",\"translatedEnglishLine\":\"Please hurry up and drive those monsters away.\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 239532,
+                                "originalJapaneseLine": "「…………そういう能力ではなく、",
+                                "translatedEnglishLine": "\"...It's not that kind of ability,"
+                            },
+                            {
+                                "lineNumber": 239533,
+                                "originalJapaneseLine": "　ただそうなってしまうだけという、",
+                                "translatedEnglishLine": "it's just a peculiar physical trait that causes it to happen."
+                            },
+                            {
+                                "lineNumber": 239534,
+                                "originalJapaneseLine": "　特異体質のようなものだから」",
+                                "translatedEnglishLine": "It’s like an unusual constitution.\""
+                            },
+                            {
+                                "lineNumber": 239535,
+                                "originalJapaneseLine": "「そう都合良く魔王の情報が聞けるとは",
+                                "translatedEnglishLine": "\"So it’s not guaranteed that we can conveniently get information about the Demon King,"
+                            },
+                            {
+                                "lineNumber": 239536,
+                                "originalJapaneseLine": "　限らないということだな？」",
+                                "translatedEnglishLine": "right?\""
+                            },
+                            {
+                                "lineNumber": 239537,
+                                "originalJapaneseLine": "「ええ、そう」",
+                                "translatedEnglishLine": "\"Yes, that's correct.\""
+                            },
+                            {
+                                "lineNumber": 239538,
+                                "originalJapaneseLine": "「なーに、大丈夫だ。",
+                                "translatedEnglishLine": "\"Don't worry, it'll be fine."
+                            },
+                            {
+                                "lineNumber": 239539,
+                                "originalJapaneseLine": "　なんとかなるなる。",
+                                "translatedEnglishLine": "We'll manage somehow."
+                            },
+                            {
+                                "lineNumber": 239540,
+                                "originalJapaneseLine": "　がははははははは！」",
+                                "translatedEnglishLine": "Hahaha!\""
+                            },
+                            {
+                                "lineNumber": 239541,
+                                "originalJapaneseLine": "「適当ね」",
+                                "translatedEnglishLine": "\"That’s quite casual.\""
+                            },
+                            {
+                                "lineNumber": 239542,
+                                "originalJapaneseLine": "ランス達の旅、二日目――",
+                                "translatedEnglishLine": "Lance and the others’ journey, Day Two――"
+                            },
+                            {
+                                "lineNumber": 239543,
+                                "originalJapaneseLine": "「わあ、お団子美味しいですね」",
+                                "translatedEnglishLine": "\"Wow, these dumplings are delicious.\""
+                            },
+                            {
+                                "lineNumber": 239544,
+                                "originalJapaneseLine": "「うむ、まあまあ」",
+                                "translatedEnglishLine": "\"Hmm, not bad.\""
+                            },
+                            {
+                                "lineNumber": 239545,
+                                "originalJapaneseLine": "ランス達は旅の途中、茶屋で休憩していた。",
+                                "translatedEnglishLine": "Lance and the others were resting at a teahouse during their journey."
+                            },
+                            {
+                                "lineNumber": 239546,
+                                "originalJapaneseLine": "「おお、お嬢さん。",
+                                "translatedEnglishLine": "\"Oh, young lady."
+                            },
+                            {
+                                "lineNumber": 239547,
+                                "originalJapaneseLine": "　こういう子を見たことはないか？」",
+                                "translatedEnglishLine": "Have you seen a girl like this?\""
+                            },
+                            {
+                                "lineNumber": 239548,
+                                "originalJapaneseLine": "「手配書とはまた物騒ですね。",
+                                "translatedEnglishLine": "\"A wanted poster, that's quite scary."
+                            },
+                            {
+                                "lineNumber": 239549,
+                                "originalJapaneseLine": "　あら、可愛らしいお嬢さん」",
+                                "translatedEnglishLine": "Oh, what a cute young lady.\""
+                            },
+                            {
+                                "lineNumber": 239550,
+                                "originalJapaneseLine": "「……うーん、残念ながら見たことは」",
+                                "translatedEnglishLine": "\"...Hmm, unfortunately, I haven't seen anyone like that.\""
+                            },
+                            {
+                                "lineNumber": 239551,
+                                "originalJapaneseLine": "「そうか……",
+                                "translatedEnglishLine": "\"I see..."
+                            },
+                            {
+                                "lineNumber": 239552,
+                                "originalJapaneseLine": "　まったく、どこにいるんだか」",
+                                "translatedEnglishLine": "I really wonder where she is.\""
+                            },
+                            {
+                                "lineNumber": 239553,
+                                "originalJapaneseLine": "「ズズ、おっ、茶が美味いな」",
+                                "translatedEnglishLine": "*slurp* Oh, this tea is good."
+                            },
+                            {
+                                "lineNumber": 239554,
+                                "originalJapaneseLine": "「そうですねぇ……",
+                                "translatedEnglishLine": "\"Yes indeed..."
+                            },
+                            {
+                                "lineNumber": 239555,
+                                "originalJapaneseLine": "　なんだかまったりしますね……」",
+                                "translatedEnglishLine": "Somehow, it feels relaxing...\""
+                            },
+                            {
+                                "lineNumber": 239556,
+                                "originalJapaneseLine": "「うむ、心に沁みるぞ。",
+                                "translatedEnglishLine": "\"Mm, it soothes the soul."
+                            },
+                            {
+                                "lineNumber": 239557,
+                                "originalJapaneseLine": "　戦争始まってからこっち、",
+                                "translatedEnglishLine": "Since the war started,"
+                            },
+                            {
+                                "lineNumber": 239558,
+                                "originalJapaneseLine": "　俺様は常に緊張感たっぷりだったからなぁ」",
+                                "translatedEnglishLine": "I've been constantly on edge.\""
+                            },
+                            {
+                                "lineNumber": 239559,
+                                "originalJapaneseLine": "（そ、そうだったかな……）",
+                                "translatedEnglishLine": "(I-is that so...?)"
+                            },
+                            {
+                                "lineNumber": 239560,
+                                "originalJapaneseLine": "「あはは、この辺は平和ですからねえ」",
+                                "translatedEnglishLine": "\"Haha, this area is peaceful after all.\""
+                            },
+                            {
+                                "lineNumber": 239561,
+                                "originalJapaneseLine": "「しかし、ちと平和すぎないか。",
+                                "translatedEnglishLine": "\"But isn't it a bit too peaceful?"
+                            },
+                            {
+                                "lineNumber": 239562,
+                                "originalJapaneseLine": "　世界は魔物が攻めてきて戦争中なんだぞ」",
+                                "translatedEnglishLine": "The world is at war with invading monsters, you know.\""
+                            },
+                            {
+                                "lineNumber": 239563,
+                                "originalJapaneseLine": "「はあ、そうらしいですねぇ……」",
+                                "translatedEnglishLine": "\"Yeah, so it seems...\""
+                            },
+                            {
+                                "lineNumber": 239564,
+                                "originalJapaneseLine": "「ですねぇ、とはなんだ」",
+                                "translatedEnglishLine": "\"What do you mean by 'so it seems'?\""
+                            },
+                            {
+                                "lineNumber": 239565,
+                                "originalJapaneseLine": "「いやぁ、正直私には",
+                                "translatedEnglishLine": "\"Well, honestly,"
+                            },
+                            {
+                                "lineNumber": 239566,
+                                "originalJapaneseLine": "　難しくてよく分からんです、はい」",
+                                "translatedEnglishLine": "I find it difficult to really understand, yes.\""
+                            },
+                            {
+                                "lineNumber": 239567,
+                                "originalJapaneseLine": "「なーに、こんな田舎なら大丈夫ですよ。",
+                                "translatedEnglishLine": "\"Oh, it's fine in a countryside like this."
+                            },
+                            {
+                                "lineNumber": 239568,
+                                "originalJapaneseLine": "　あははは」",
+                                "translatedEnglishLine": "Hahaha.\""
+                            },
+                            {
+                                "lineNumber": 239569,
+                                "originalJapaneseLine": "「ふん、呑気なもんだ」",
+                                "translatedEnglishLine": "\"Hmph, how carefree.\""
+                            },
+                            {
+                                "lineNumber": 239570,
+                                "originalJapaneseLine": "「ぐふふ、そんな平和ボケじゃ、",
+                                "translatedEnglishLine": "\"Gufufu, with such peace-induced foolishness,"
+                            },
+                            {
+                                "lineNumber": 239571,
+                                "originalJapaneseLine": "　悪漢に襲われたときどうなるか、",
+                                "translatedEnglishLine": "I'll have to teach you how your body reacts when villains attack,"
+                            },
+                            {
+                                "lineNumber": 239572,
+                                "originalJapaneseLine": "　体に教えてやるのも悪くないな」",
+                                "translatedEnglishLine": "that's not a bad thing.\""
+                            },
+                            {
+                                "lineNumber": 239573,
+                                "originalJapaneseLine": "「お姉さん……",
+                                "translatedEnglishLine": "\"Big sister..."
+                            },
+                            {
+                                "lineNumber": 239574,
+                                "originalJapaneseLine": "　……おかわり、いいかしら？」",
+                                "translatedEnglishLine": "...May I have seconds?\""
+                            },
+                            {
+                                "lineNumber": 239575,
+                                "originalJapaneseLine": "空の皿を持ったクレインが",
+                                "translatedEnglishLine": "Krein appeared quietly holding an empty plate."
+                            },
+                            {
+                                "lineNumber": 239576,
+                                "originalJapaneseLine": "そっと姿を見せた。",
+                                "translatedEnglishLine": "She showed herself softly."
+                            },
+                            {
+                                "lineNumber": 239577,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"...\""
+                            },
+                            {
+                                "lineNumber": 239578,
+                                "originalJapaneseLine": "「？　なに？」",
+                                "translatedEnglishLine": "\"? What is it?\""
+                            },
+                            {
+                                "lineNumber": 239579,
+                                "originalJapaneseLine": "「いや、甘いの好きなんだなと。",
+                                "translatedEnglishLine": "\"No, I was just thinking you like sweets."
+                            },
+                            {
+                                "lineNumber": 239580,
+                                "originalJapaneseLine": "　ちょっと意外」",
+                                "translatedEnglishLine": "Kind of unexpected.\""
+                            },
+                            {
+                                "lineNumber": 239581,
+                                "originalJapaneseLine": "「…………人並み程度には」",
+                                "translatedEnglishLine": "\"...At about an average level.\""
+                            },
+                            {
+                                "lineNumber": 239582,
+                                "originalJapaneseLine": "ランス達の旅、三日目――",
+                                "translatedEnglishLine": "Lance and the others’ journey, Day Three――"
+                            },
+                            {
+                                "lineNumber": 239583,
+                                "originalJapaneseLine": "ランス達は辺境の街に来ていた。",
+                                "translatedEnglishLine": "Lance and the others had arrived at a frontier town."
+                            },
+                            {
+                                "lineNumber": 239584,
+                                "originalJapaneseLine": "「はあ……いつになったら",
+                                "translatedEnglishLine": "\"Sigh... I wonder when"
+                            },
+                            {
+                                "lineNumber": 239585,
+                                "originalJapaneseLine": "　物流は再開するのかしら……」",
+                                "translatedEnglishLine": "the logistics will resume...\""
+                            },
+                            {
+                                "lineNumber": 239586,
+                                "originalJapaneseLine": "「申し訳ありません、",
+                                "translatedEnglishLine": "\"We apologize,"
+                            },
+                            {
+                                "lineNumber": 239587,
+                                "originalJapaneseLine": "　戦争のせいで中々物流が回復しませんで」",
+                                "translatedEnglishLine": "but due to the war, logistics have not been able to recover.\""
+                            },
+                            {
+                                "lineNumber": 239588,
+                                "originalJapaneseLine": "「どこの店の棚もがらーんとして、",
+                                "translatedEnglishLine": "\"Shelves in every shop are empty,"
+                            },
+                            {
+                                "lineNumber": 239589,
+                                "originalJapaneseLine": "　このままじゃ餓死しちまうよ」",
+                                "translatedEnglishLine": "at this rate, people will starve to death.\""
+                            },
+                            {
+                                "lineNumber": 239590,
+                                "originalJapaneseLine": "「そうよそうよ、戦争はいつ終わるのよ。",
+                                "translatedEnglishLine": "\"That's right, that's right. When will this war end?"
+                            },
+                            {
+                                "lineNumber": 239591,
+                                "originalJapaneseLine": "　魔物なんか早く蹴散らしてちょうだい。」",
+                                "translatedEnglishLine": "Please hurry up and drive those monsters away.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1643,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2104,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3747
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":239532,\"originalJapaneseLine\":\"「…………そういう能力ではなく、\",\"translatedEnglishLine\":\"\\\"...It's not that kind of ability,\"},{\"lineNumber\":239533,\"originalJapaneseLine\":\"　ただそうなってしまうだけという、\",\"translatedEnglishLine\":\"it's just a peculiar physical trait that causes it to happen.\"},{\"lineNumber\":239534,\"originalJapaneseLine\":\"　特異体質のようなものだから」\",\"translatedEnglishLine\":\"It’s like an unusual constitution.\\\"\"},{\"lineNumber\":239535,\"originalJapaneseLine\":\"「そう都合良く魔王の情報が聞けるとは\",\"translatedEnglishLine\":\"\\\"So it’s not guaranteed that we can conveniently get information about the Demon King,\"},{\"lineNumber\":239536,\"originalJapaneseLine\":\"　限らないということだな？」\",\"translatedEnglishLine\":\"right?\\\"\"},{\"lineNumber\":239537,\"originalJapaneseLine\":\"「ええ、そう」\",\"translatedEnglishLine\":\"\\\"Yes, that's correct.\\\"\"},{\"lineNumber\":239538,\"originalJapaneseLine\":\"「なーに、大丈夫だ。\",\"translatedEnglishLine\":\"\\\"Don't worry, it'll be fine.\"},{\"lineNumber\":239539,\"originalJapaneseLine\":\"　なんとかなるなる。\",\"translatedEnglishLine\":\"We'll manage somehow.\"},{\"lineNumber\":239540,\"originalJapaneseLine\":\"　がははははははは！」\",\"translatedEnglishLine\":\"Hahaha!\\\"\"},{\"lineNumber\":239541,\"originalJapaneseLine\":\"「適当ね」\",\"translatedEnglishLine\":\"\\\"That’s quite casual.\\\"\"},{\"lineNumber\":239542,\"originalJapaneseLine\":\"ランス達の旅、二日目――\",\"translatedEnglishLine\":\"Lance and the others’ journey, Day Two――\"},{\"lineNumber\":239543,\"originalJapaneseLine\":\"「わあ、お団子美味しいですね」\",\"translatedEnglishLine\":\"\\\"Wow, these dumplings are delicious.\\\"\"},{\"lineNumber\":239544,\"originalJapaneseLine\":\"「うむ、まあまあ」\",\"translatedEnglishLine\":\"\\\"Hmm, not bad.\\\"\"},{\"lineNumber\":239545,\"originalJapaneseLine\":\"ランス達は旅の途中、茶屋で休憩していた。\",\"translatedEnglishLine\":\"Lance and the others were resting at a teahouse during their journey.\"},{\"lineNumber\":239546,\"originalJapaneseLine\":\"「おお、お嬢さん。\",\"translatedEnglishLine\":\"\\\"Oh, young lady.\"},{\"lineNumber\":239547,\"originalJapaneseLine\":\"　こういう子を見たことはないか？」\",\"translatedEnglishLine\":\"Have you seen a girl like this?\\\"\"},{\"lineNumber\":239548,\"originalJapaneseLine\":\"「手配書とはまた物騒ですね。\",\"translatedEnglishLine\":\"\\\"A wanted poster, that's quite scary.\"},{\"lineNumber\":239549,\"originalJapaneseLine\":\"　あら、可愛らしいお嬢さん」\",\"translatedEnglishLine\":\"Oh, what a cute young lady.\\\"\"},{\"lineNumber\":239550,\"originalJapaneseLine\":\"「……うーん、残念ながら見たことは」\",\"translatedEnglishLine\":\"\\\"...Hmm, unfortunately, I haven't seen anyone like that.\\\"\"},{\"lineNumber\":239551,\"originalJapaneseLine\":\"「そうか……\",\"translatedEnglishLine\":\"\\\"I see...\"},{\"lineNumber\":239552,\"originalJapaneseLine\":\"　まったく、どこにいるんだか」\",\"translatedEnglishLine\":\"I really wonder where she is.\\\"\"},{\"lineNumber\":239553,\"originalJapaneseLine\":\"「ズズ、おっ、茶が美味いな」\",\"translatedEnglishLine\":\"*slurp* Oh, this tea is good.\"},{\"lineNumber\":239554,\"originalJapaneseLine\":\"「そうですねぇ……\",\"translatedEnglishLine\":\"\\\"Yes indeed...\"},{\"lineNumber\":239555,\"originalJapaneseLine\":\"　なんだかまったりしますね……」\",\"translatedEnglishLine\":\"Somehow, it feels relaxing...\\\"\"},{\"lineNumber\":239556,\"originalJapaneseLine\":\"「うむ、心に沁みるぞ。\",\"translatedEnglishLine\":\"\\\"Mm, it soothes the soul.\"},{\"lineNumber\":239557,\"originalJapaneseLine\":\"　戦争始まってからこっち、\",\"translatedEnglishLine\":\"Since the war started,\"},{\"lineNumber\":239558,\"originalJapaneseLine\":\"　俺様は常に緊張感たっぷりだったからなぁ」\",\"translatedEnglishLine\":\"I've been constantly on edge.\\\"\"},{\"lineNumber\":239559,\"originalJapaneseLine\":\"（そ、そうだったかな……）\",\"translatedEnglishLine\":\"(I-is that so...?)\"},{\"lineNumber\":239560,\"originalJapaneseLine\":\"「あはは、この辺は平和ですからねえ」\",\"translatedEnglishLine\":\"\\\"Haha, this area is peaceful after all.\\\"\"},{\"lineNumber\":239561,\"originalJapaneseLine\":\"「しかし、ちと平和すぎないか。\",\"translatedEnglishLine\":\"\\\"But isn't it a bit too peaceful?\"},{\"lineNumber\":239562,\"originalJapaneseLine\":\"　世界は魔物が攻めてきて戦争中なんだぞ」\",\"translatedEnglishLine\":\"The world is at war with invading monsters, you know.\\\"\"},{\"lineNumber\":239563,\"originalJapaneseLine\":\"「はあ、そうらしいですねぇ……」\",\"translatedEnglishLine\":\"\\\"Yeah, so it seems...\\\"\"},{\"lineNumber\":239564,\"originalJapaneseLine\":\"「ですねぇ、とはなんだ」\",\"translatedEnglishLine\":\"\\\"What do you mean by 'so it seems'?\\\"\"},{\"lineNumber\":239565,\"originalJapaneseLine\":\"「いやぁ、正直私には\",\"translatedEnglishLine\":\"\\\"Well, honestly,\"},{\"lineNumber\":239566,\"originalJapaneseLine\":\"　難しくてよく分からんです、はい」\",\"translatedEnglishLine\":\"I find it difficult to really understand, yes.\\\"\"},{\"lineNumber\":239567,\"originalJapaneseLine\":\"「なーに、こんな田舎なら大丈夫ですよ。\",\"translatedEnglishLine\":\"\\\"Oh, it's fine in a countryside like this.\"},{\"lineNumber\":239568,\"originalJapaneseLine\":\"　あははは」\",\"translatedEnglishLine\":\"Hahaha.\\\"\"},{\"lineNumber\":239569,\"originalJapaneseLine\":\"「ふん、呑気なもんだ」\",\"translatedEnglishLine\":\"\\\"Hmph, how carefree.\\\"\"},{\"lineNumber\":239570,\"originalJapaneseLine\":\"「ぐふふ、そんな平和ボケじゃ、\",\"translatedEnglishLine\":\"\\\"Gufufu, with such peace-induced foolishness,\"},{\"lineNumber\":239571,\"originalJapaneseLine\":\"　悪漢に襲われたときどうなるか、\",\"translatedEnglishLine\":\"I'll have to teach you how your body reacts when villains attack,\"},{\"lineNumber\":239572,\"originalJapaneseLine\":\"　体に教えてやるのも悪くないな」\",\"translatedEnglishLine\":\"that's not a bad thing.\\\"\"},{\"lineNumber\":239573,\"originalJapaneseLine\":\"「お姉さん……\",\"translatedEnglishLine\":\"\\\"Big sister...\"},{\"lineNumber\":239574,\"originalJapaneseLine\":\"　……おかわり、いいかしら？」\",\"translatedEnglishLine\":\"...May I have seconds?\\\"\"},{\"lineNumber\":239575,\"originalJapaneseLine\":\"空の皿を持ったクレインが\",\"translatedEnglishLine\":\"Krein appeared quietly holding an empty plate.\"},{\"lineNumber\":239576,\"originalJapaneseLine\":\"そっと姿を見せた。\",\"translatedEnglishLine\":\"She showed herself softly.\"},{\"lineNumber\":239577,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"...\\\"\"},{\"lineNumber\":239578,\"originalJapaneseLine\":\"「？　なに？」\",\"translatedEnglishLine\":\"\\\"? What is it?\\\"\"},{\"lineNumber\":239579,\"originalJapaneseLine\":\"「いや、甘いの好きなんだなと。\",\"translatedEnglishLine\":\"\\\"No, I was just thinking you like sweets.\"},{\"lineNumber\":239580,\"originalJapaneseLine\":\"　ちょっと意外」\",\"translatedEnglishLine\":\"Kind of unexpected.\\\"\"},{\"lineNumber\":239581,\"originalJapaneseLine\":\"「…………人並み程度には」\",\"translatedEnglishLine\":\"\\\"...At about an average level.\\\"\"},{\"lineNumber\":239582,\"originalJapaneseLine\":\"ランス達の旅、三日目――\",\"translatedEnglishLine\":\"Lance and the others’ journey, Day Three――\"},{\"lineNumber\":239583,\"originalJapaneseLine\":\"ランス達は辺境の街に来ていた。\",\"translatedEnglishLine\":\"Lance and the others had arrived at a frontier town.\"},{\"lineNumber\":239584,\"originalJapaneseLine\":\"「はあ……いつになったら\",\"translatedEnglishLine\":\"\\\"Sigh... I wonder when\"},{\"lineNumber\":239585,\"originalJapaneseLine\":\"　物流は再開するのかしら……」\",\"translatedEnglishLine\":\"the logistics will resume...\\\"\"},{\"lineNumber\":239586,\"originalJapaneseLine\":\"「申し訳ありません、\",\"translatedEnglishLine\":\"\\\"We apologize,\"},{\"lineNumber\":239587,\"originalJapaneseLine\":\"　戦争のせいで中々物流が回復しませんで」\",\"translatedEnglishLine\":\"but due to the war, logistics have not been able to recover.\\\"\"},{\"lineNumber\":239588,\"originalJapaneseLine\":\"「どこの店の棚もがらーんとして、\",\"translatedEnglishLine\":\"\\\"Shelves in every shop are empty,\"},{\"lineNumber\":239589,\"originalJapaneseLine\":\"　このままじゃ餓死しちまうよ」\",\"translatedEnglishLine\":\"at this rate, people will starve to death.\\\"\"},{\"lineNumber\":239590,\"originalJapaneseLine\":\"「そうよそうよ、戦争はいつ終わるのよ。\",\"translatedEnglishLine\":\"\\\"That's right, that's right. When will this war end?\"},{\"lineNumber\":239591,\"originalJapaneseLine\":\"　魔物なんか早く蹴散らしてちょうだい。」\",\"translatedEnglishLine\":\"Please hurry up and drive those monsters away.\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 239532,
+                "originalJapaneseLine": "「…………そういう能力ではなく、",
+                "translatedEnglishLine": "\"...It's not that kind of ability,"
+            },
+            {
+                "lineNumber": 239533,
+                "originalJapaneseLine": "　ただそうなってしまうだけという、",
+                "translatedEnglishLine": "it's just a peculiar physical trait that causes it to happen."
+            },
+            {
+                "lineNumber": 239534,
+                "originalJapaneseLine": "　特異体質のようなものだから」",
+                "translatedEnglishLine": "It’s like an unusual constitution.\""
+            },
+            {
+                "lineNumber": 239535,
+                "originalJapaneseLine": "「そう都合良く魔王の情報が聞けるとは",
+                "translatedEnglishLine": "\"So it’s not guaranteed that we can conveniently get information about the Demon King,"
+            },
+            {
+                "lineNumber": 239536,
+                "originalJapaneseLine": "　限らないということだな？」",
+                "translatedEnglishLine": "right?\""
+            },
+            {
+                "lineNumber": 239537,
+                "originalJapaneseLine": "「ええ、そう」",
+                "translatedEnglishLine": "\"Yes, that's correct.\""
+            },
+            {
+                "lineNumber": 239538,
+                "originalJapaneseLine": "「なーに、大丈夫だ。",
+                "translatedEnglishLine": "\"Don't worry, it'll be fine."
+            },
+            {
+                "lineNumber": 239539,
+                "originalJapaneseLine": "　なんとかなるなる。",
+                "translatedEnglishLine": "We'll manage somehow."
+            },
+            {
+                "lineNumber": 239540,
+                "originalJapaneseLine": "　がははははははは！」",
+                "translatedEnglishLine": "Hahaha!\""
+            },
+            {
+                "lineNumber": 239541,
+                "originalJapaneseLine": "「適当ね」",
+                "translatedEnglishLine": "\"That’s quite casual.\""
+            },
+            {
+                "lineNumber": 239542,
+                "originalJapaneseLine": "ランス達の旅、二日目――",
+                "translatedEnglishLine": "Lance and the others’ journey, Day Two――"
+            },
+            {
+                "lineNumber": 239543,
+                "originalJapaneseLine": "「わあ、お団子美味しいですね」",
+                "translatedEnglishLine": "\"Wow, these dumplings are delicious.\""
+            },
+            {
+                "lineNumber": 239544,
+                "originalJapaneseLine": "「うむ、まあまあ」",
+                "translatedEnglishLine": "\"Hmm, not bad.\""
+            },
+            {
+                "lineNumber": 239545,
+                "originalJapaneseLine": "ランス達は旅の途中、茶屋で休憩していた。",
+                "translatedEnglishLine": "Lance and the others were resting at a teahouse during their journey."
+            },
+            {
+                "lineNumber": 239546,
+                "originalJapaneseLine": "「おお、お嬢さん。",
+                "translatedEnglishLine": "\"Oh, young lady."
+            },
+            {
+                "lineNumber": 239547,
+                "originalJapaneseLine": "　こういう子を見たことはないか？」",
+                "translatedEnglishLine": "Have you seen a girl like this?\""
+            },
+            {
+                "lineNumber": 239548,
+                "originalJapaneseLine": "「手配書とはまた物騒ですね。",
+                "translatedEnglishLine": "\"A wanted poster, that's quite scary."
+            },
+            {
+                "lineNumber": 239549,
+                "originalJapaneseLine": "　あら、可愛らしいお嬢さん」",
+                "translatedEnglishLine": "Oh, what a cute young lady.\""
+            },
+            {
+                "lineNumber": 239550,
+                "originalJapaneseLine": "「……うーん、残念ながら見たことは」",
+                "translatedEnglishLine": "\"...Hmm, unfortunately, I haven't seen anyone like that.\""
+            },
+            {
+                "lineNumber": 239551,
+                "originalJapaneseLine": "「そうか……",
+                "translatedEnglishLine": "\"I see..."
+            },
+            {
+                "lineNumber": 239552,
+                "originalJapaneseLine": "　まったく、どこにいるんだか」",
+                "translatedEnglishLine": "I really wonder where she is.\""
+            },
+            {
+                "lineNumber": 239553,
+                "originalJapaneseLine": "「ズズ、おっ、茶が美味いな」",
+                "translatedEnglishLine": "*slurp* Oh, this tea is good."
+            },
+            {
+                "lineNumber": 239554,
+                "originalJapaneseLine": "「そうですねぇ……",
+                "translatedEnglishLine": "\"Yes indeed..."
+            },
+            {
+                "lineNumber": 239555,
+                "originalJapaneseLine": "　なんだかまったりしますね……」",
+                "translatedEnglishLine": "Somehow, it feels relaxing...\""
+            },
+            {
+                "lineNumber": 239556,
+                "originalJapaneseLine": "「うむ、心に沁みるぞ。",
+                "translatedEnglishLine": "\"Mm, it soothes the soul."
+            },
+            {
+                "lineNumber": 239557,
+                "originalJapaneseLine": "　戦争始まってからこっち、",
+                "translatedEnglishLine": "Since the war started,"
+            },
+            {
+                "lineNumber": 239558,
+                "originalJapaneseLine": "　俺様は常に緊張感たっぷりだったからなぁ」",
+                "translatedEnglishLine": "I've been constantly on edge.\""
+            },
+            {
+                "lineNumber": 239559,
+                "originalJapaneseLine": "（そ、そうだったかな……）",
+                "translatedEnglishLine": "(I-is that so...?)"
+            },
+            {
+                "lineNumber": 239560,
+                "originalJapaneseLine": "「あはは、この辺は平和ですからねえ」",
+                "translatedEnglishLine": "\"Haha, this area is peaceful after all.\""
+            },
+            {
+                "lineNumber": 239561,
+                "originalJapaneseLine": "「しかし、ちと平和すぎないか。",
+                "translatedEnglishLine": "\"But isn't it a bit too peaceful?"
+            },
+            {
+                "lineNumber": 239562,
+                "originalJapaneseLine": "　世界は魔物が攻めてきて戦争中なんだぞ」",
+                "translatedEnglishLine": "The world is at war with invading monsters, you know.\""
+            },
+            {
+                "lineNumber": 239563,
+                "originalJapaneseLine": "「はあ、そうらしいですねぇ……」",
+                "translatedEnglishLine": "\"Yeah, so it seems...\""
+            },
+            {
+                "lineNumber": 239564,
+                "originalJapaneseLine": "「ですねぇ、とはなんだ」",
+                "translatedEnglishLine": "\"What do you mean by 'so it seems'?\""
+            },
+            {
+                "lineNumber": 239565,
+                "originalJapaneseLine": "「いやぁ、正直私には",
+                "translatedEnglishLine": "\"Well, honestly,"
+            },
+            {
+                "lineNumber": 239566,
+                "originalJapaneseLine": "　難しくてよく分からんです、はい」",
+                "translatedEnglishLine": "I find it difficult to really understand, yes.\""
+            },
+            {
+                "lineNumber": 239567,
+                "originalJapaneseLine": "「なーに、こんな田舎なら大丈夫ですよ。",
+                "translatedEnglishLine": "\"Oh, it's fine in a countryside like this."
+            },
+            {
+                "lineNumber": 239568,
+                "originalJapaneseLine": "　あははは」",
+                "translatedEnglishLine": "Hahaha.\""
+            },
+            {
+                "lineNumber": 239569,
+                "originalJapaneseLine": "「ふん、呑気なもんだ」",
+                "translatedEnglishLine": "\"Hmph, how carefree.\""
+            },
+            {
+                "lineNumber": 239570,
+                "originalJapaneseLine": "「ぐふふ、そんな平和ボケじゃ、",
+                "translatedEnglishLine": "\"Gufufu, with such peace-induced foolishness,"
+            },
+            {
+                "lineNumber": 239571,
+                "originalJapaneseLine": "　悪漢に襲われたときどうなるか、",
+                "translatedEnglishLine": "I'll have to teach you how your body reacts when villains attack,"
+            },
+            {
+                "lineNumber": 239572,
+                "originalJapaneseLine": "　体に教えてやるのも悪くないな」",
+                "translatedEnglishLine": "that's not a bad thing.\""
+            },
+            {
+                "lineNumber": 239573,
+                "originalJapaneseLine": "「お姉さん……",
+                "translatedEnglishLine": "\"Big sister..."
+            },
+            {
+                "lineNumber": 239574,
+                "originalJapaneseLine": "　……おかわり、いいかしら？」",
+                "translatedEnglishLine": "...May I have seconds?\""
+            },
+            {
+                "lineNumber": 239575,
+                "originalJapaneseLine": "空の皿を持ったクレインが",
+                "translatedEnglishLine": "Krein appeared quietly holding an empty plate."
+            },
+            {
+                "lineNumber": 239576,
+                "originalJapaneseLine": "そっと姿を見せた。",
+                "translatedEnglishLine": "She showed herself softly."
+            },
+            {
+                "lineNumber": 239577,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"...\""
+            },
+            {
+                "lineNumber": 239578,
+                "originalJapaneseLine": "「？　なに？」",
+                "translatedEnglishLine": "\"? What is it?\""
+            },
+            {
+                "lineNumber": 239579,
+                "originalJapaneseLine": "「いや、甘いの好きなんだなと。",
+                "translatedEnglishLine": "\"No, I was just thinking you like sweets."
+            },
+            {
+                "lineNumber": 239580,
+                "originalJapaneseLine": "　ちょっと意外」",
+                "translatedEnglishLine": "Kind of unexpected.\""
+            },
+            {
+                "lineNumber": 239581,
+                "originalJapaneseLine": "「…………人並み程度には」",
+                "translatedEnglishLine": "\"...At about an average level.\""
+            },
+            {
+                "lineNumber": 239582,
+                "originalJapaneseLine": "ランス達の旅、三日目――",
+                "translatedEnglishLine": "Lance and the others’ journey, Day Three――"
+            },
+            {
+                "lineNumber": 239583,
+                "originalJapaneseLine": "ランス達は辺境の街に来ていた。",
+                "translatedEnglishLine": "Lance and the others had arrived at a frontier town."
+            },
+            {
+                "lineNumber": 239584,
+                "originalJapaneseLine": "「はあ……いつになったら",
+                "translatedEnglishLine": "\"Sigh... I wonder when"
+            },
+            {
+                "lineNumber": 239585,
+                "originalJapaneseLine": "　物流は再開するのかしら……」",
+                "translatedEnglishLine": "the logistics will resume...\""
+            },
+            {
+                "lineNumber": 239586,
+                "originalJapaneseLine": "「申し訳ありません、",
+                "translatedEnglishLine": "\"We apologize,"
+            },
+            {
+                "lineNumber": 239587,
+                "originalJapaneseLine": "　戦争のせいで中々物流が回復しませんで」",
+                "translatedEnglishLine": "but due to the war, logistics have not been able to recover.\""
+            },
+            {
+                "lineNumber": 239588,
+                "originalJapaneseLine": "「どこの店の棚もがらーんとして、",
+                "translatedEnglishLine": "\"Shelves in every shop are empty,"
+            },
+            {
+                "lineNumber": 239589,
+                "originalJapaneseLine": "　このままじゃ餓死しちまうよ」",
+                "translatedEnglishLine": "at this rate, people will starve to death.\""
+            },
+            {
+                "lineNumber": 239590,
+                "originalJapaneseLine": "「そうよそうよ、戦争はいつ終わるのよ。",
+                "translatedEnglishLine": "\"That's right, that's right. When will this war end?"
+            },
+            {
+                "lineNumber": 239591,
+                "originalJapaneseLine": "　魔物なんか早く蹴散らしてちょうだい。」",
+                "translatedEnglishLine": "Please hurry up and drive those monsters away.\""
+            }
+        ]
+    }
+}

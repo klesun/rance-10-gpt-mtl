@@ -1,1 +1,619 @@
-{"id":"resp_0d9e7df8ba1c04890068ef6cf7fe38819380ffc54dca45ce1c","object":"response","created_at":1760521464,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0d9e7df8ba1c04890068ef6cf8758481938a789e837472e461","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":131511,\"originalJapaneseLine\":\"「あ、はい、なんでしょう？\",\"translatedEnglishLine\":\"\\\"Ah, yes, what is it?\\\"\"},{\"lineNumber\":131512,\"originalJapaneseLine\":\"　お水ですか？」\",\"translatedEnglishLine\":\"\\\"Water?\\\"\"},{\"lineNumber\":131513,\"originalJapaneseLine\":\"名前を呼ばれ、シーラが嬉しそうにランスに近づく。\",\"translatedEnglishLine\":\"Called by name, Sheela happily approaches Lance.\"},{\"lineNumber\":131514,\"originalJapaneseLine\":\"「落ち着け、ただ世間話しようとしただけだ。\",\"translatedEnglishLine\":\"\\\"Calm down, I just wanted to have some small talk.\\\"\"},{\"lineNumber\":131515,\"originalJapaneseLine\":\"　その後、ヘルマンの様子はどうだ？」\",\"translatedEnglishLine\":\"\\\"So, how is the situation in Herman afterwards?\\\"\"},{\"lineNumber\":131516,\"originalJapaneseLine\":\"「はいっ、ランス様のおかげで、\",\"translatedEnglishLine\":\"\\\"Yes! Thanks to Lord Lance,\"},{\"lineNumber\":131517,\"originalJapaneseLine\":\"　今ではヘルマン内部も政策が円滑に進み、\",\"translatedEnglishLine\":\"now policies within Herman are proceeding smoothly,\"},{\"lineNumber\":131518,\"originalJapaneseLine\":\"　飢えに苦しむ方が少しずつですが減りました」\",\"translatedEnglishLine\":\"and the number of people suffering from hunger has gradually decreased.\\\"\"},{\"lineNumber\":131519,\"originalJapaneseLine\":\"「うむ、そうだ、俺様のおかげだ。\",\"translatedEnglishLine\":\"\\\"Hmm, that's right, it's thanks to me.\\\"\"},{\"lineNumber\":131520,\"originalJapaneseLine\":\"　感謝しろ、シーラ」\",\"translatedEnglishLine\":\"\\\"Be grateful, Sheela.\\\"\"},{\"lineNumber\":131521,\"originalJapaneseLine\":\"「はいっ」\",\"translatedEnglishLine\":\"\\\"Yes!\\\"\"},{\"lineNumber\":131522,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":131523,\"originalJapaneseLine\":\"「にこにこ、にこにこ」\",\"translatedEnglishLine\":\"\\\"Smile, smile.\\\"\"},{\"lineNumber\":131524,\"originalJapaneseLine\":\"「何をヘラヘラ笑ってる」\",\"translatedEnglishLine\":\"\\\"What are you grinning about?\\\"\"},{\"lineNumber\":131525,\"originalJapaneseLine\":\"「あいたっ！」\",\"translatedEnglishLine\":\"\\\"Ouch!\\\"\"},{\"lineNumber\":131526,\"originalJapaneseLine\":\"「えへへ、すみません……」\",\"translatedEnglishLine\":\"\\\"Hehe, sorry...\\\"\"},{\"lineNumber\":131527,\"originalJapaneseLine\":\"「？　なんで叩かれて喜んどんだ、お前。\",\"translatedEnglishLine\":\"\\\"? Why are you happy about being hit?\\\"\"},{\"lineNumber\":131528,\"originalJapaneseLine\":\"　えい、ぽかっ」\",\"translatedEnglishLine\":\"\\\"Take this!\\\" (sound of a hit)\"},{\"lineNumber\":131529,\"originalJapaneseLine\":\"「あうっ」\",\"translatedEnglishLine\":\"\\\"Auu!\\\"\"},{\"lineNumber\":131530,\"originalJapaneseLine\":\"「えへへ……」\",\"translatedEnglishLine\":\"\\\"Ehehe...\\\"\"},{\"lineNumber\":131531,\"originalJapaneseLine\":\"殴られた頭を撫でながらシーラは嬉しそうだった。\",\"translatedEnglishLine\":\"Sheela looked happy while patting her hit head.\"},{\"lineNumber\":131532,\"originalJapaneseLine\":\"「変な奴隷」\",\"translatedEnglishLine\":\"\\\"Weird slave.\\\"\"},{\"lineNumber\":131533,\"originalJapaneseLine\":\"「え？　あの、奴隷って……」\",\"translatedEnglishLine\":\"\\\"Huh? Um, slave...\\\"\"},{\"lineNumber\":131534,\"originalJapaneseLine\":\"「ん、シィルには言ってなかったか？\",\"translatedEnglishLine\":\"\\\"Hmm, haven't I told Shieel?\\\"\"},{\"lineNumber\":131535,\"originalJapaneseLine\":\"　シーラは俺の奴隷2号だ」\",\"translatedEnglishLine\":\"Sheela is my slave number two.\\\"\"},{\"lineNumber\":131536,\"originalJapaneseLine\":\"「ええっ！？　奴隷！？」\",\"translatedEnglishLine\":\"\\\"Eh!? A slave!?\\\"\"},{\"lineNumber\":131537,\"originalJapaneseLine\":\"「そんなに驚くことか？\",\"translatedEnglishLine\":\"\\\"Is it really that surprising?\\\"\"},{\"lineNumber\":131538,\"originalJapaneseLine\":\"　お前がいない間に不便だから、\",\"translatedEnglishLine\":\"\\\"While you were absent, it was inconvenient,\"},{\"lineNumber\":131539,\"originalJapaneseLine\":\"　こいつを俺様の奴隷に任命したのだ」\",\"translatedEnglishLine\":\"so I appointed this one as my slave.\\\"\"},{\"lineNumber\":131540,\"originalJapaneseLine\":\"「えっと、だって……\",\"translatedEnglishLine\":\"\\\"Um, but...\\\"\"},{\"lineNumber\":131541,\"originalJapaneseLine\":\"　ヘルマンの大統領……なんですよね？」\",\"translatedEnglishLine\":\"You're the president of Herman... right?\\\"\"},{\"lineNumber\":131542,\"originalJapaneseLine\":\"「そうだぞ。\",\"translatedEnglishLine\":\"\\\"That's right.\\\"\"},{\"lineNumber\":131543,\"originalJapaneseLine\":\"　だからなんだ？」\",\"translatedEnglishLine\":\"\\\"So what?\\\"\"},{\"lineNumber\":131544,\"originalJapaneseLine\":\"「あの……シィルさんというのは、もしかして……」\",\"translatedEnglishLine\":\"\\\"Um... Is it possible that Shieel-san is...\\\"\"},{\"lineNumber\":131545,\"originalJapaneseLine\":\"「あ、初めまして。\",\"translatedEnglishLine\":\"\\\"Ah, nice to meet you.\"},{\"lineNumber\":131546,\"originalJapaneseLine\":\"　私はランス様の助手のシィル――」\",\"translatedEnglishLine\":\"I am Lord Lance's assistant, Shieel--\\\"\"},{\"lineNumber\":131547,\"originalJapaneseLine\":\"「あいたっ！」\",\"translatedEnglishLine\":\"\\\"Ouch!\\\"\"},{\"lineNumber\":131548,\"originalJapaneseLine\":\"「こいつはシィル、奴隷1号。\",\"translatedEnglishLine\":\"\\\"This is Shieel, slave number one.\"},{\"lineNumber\":131549,\"originalJapaneseLine\":\"　シーラの奴隷の先輩だな」\",\"translatedEnglishLine\":\"He is senior to Sheela among the slaves.\\\"\"},{\"lineNumber\":131550,\"originalJapaneseLine\":\"「い、1号さん……」\",\"translatedEnglishLine\":\"\\\"S-senior number one...\\\"\"},{\"lineNumber\":131551,\"originalJapaneseLine\":\"「2号さん……」\",\"translatedEnglishLine\":\"\\\"Number two...\\\"\"},{\"lineNumber\":131552,\"originalJapaneseLine\":\"「あのぉ……申し訳ありません……\",\"translatedEnglishLine\":\"\\\"Um... I apologize...\"},{\"lineNumber\":131553,\"originalJapaneseLine\":\"　ランス様が、失礼なことを\",\"translatedEnglishLine\":\"Lord Lance has said something rude,\"},{\"lineNumber\":131554,\"originalJapaneseLine\":\"　言い出してしまったみたいで……」\",\"translatedEnglishLine\":\"it seems...\\\"\"},{\"lineNumber\":131555,\"originalJapaneseLine\":\"「こら、変なこと言うな！」\",\"translatedEnglishLine\":\"\\\"Hey, don’t say strange things!\\\"\"},{\"lineNumber\":131556,\"originalJapaneseLine\":\"「いえ、私がランス様に\",\"translatedEnglishLine\":\"\\\"No, I was the one who asked Lord Lance\"},{\"lineNumber\":131557,\"originalJapaneseLine\":\"　奴隷にして下さいとお願いしたんです」\",\"translatedEnglishLine\":\"to make me a slave.\\\"\"},{\"lineNumber\":131558,\"originalJapaneseLine\":\"「えっ、そうなんですか？」\",\"translatedEnglishLine\":\"\\\"Eh, is that so?\\\"\"},{\"lineNumber\":131559,\"originalJapaneseLine\":\"（す、少し……変わった方？）\",\"translatedEnglishLine\":\"(Is he... a bit strange?)\"},{\"lineNumber\":131560,\"originalJapaneseLine\":\"「がははははははははは！\",\"translatedEnglishLine\":\"\\\"Gahahahahahahahaha!\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":131511,"originalJapaneseLine":"「あ、はい、なんでしょう？","translatedEnglishLine":"\"Ah, yes, what is it?\""},{"lineNumber":131512,"originalJapaneseLine":"　お水ですか？」","translatedEnglishLine":"\"Water?\""},{"lineNumber":131513,"originalJapaneseLine":"名前を呼ばれ、シーラが嬉しそうにランスに近づく。","translatedEnglishLine":"Called by name, Sheela happily approaches Lance."},{"lineNumber":131514,"originalJapaneseLine":"「落ち着け、ただ世間話しようとしただけだ。","translatedEnglishLine":"\"Calm down, I just wanted to have some small talk.\""},{"lineNumber":131515,"originalJapaneseLine":"　その後、ヘルマンの様子はどうだ？」","translatedEnglishLine":"\"So, how is the situation in Herman afterwards?\""},{"lineNumber":131516,"originalJapaneseLine":"「はいっ、ランス様のおかげで、","translatedEnglishLine":"\"Yes! Thanks to Lord Lance,"},{"lineNumber":131517,"originalJapaneseLine":"　今ではヘルマン内部も政策が円滑に進み、","translatedEnglishLine":"now policies within Herman are proceeding smoothly,"},{"lineNumber":131518,"originalJapaneseLine":"　飢えに苦しむ方が少しずつですが減りました」","translatedEnglishLine":"and the number of people suffering from hunger has gradually decreased.\""},{"lineNumber":131519,"originalJapaneseLine":"「うむ、そうだ、俺様のおかげだ。","translatedEnglishLine":"\"Hmm, that's right, it's thanks to me.\""},{"lineNumber":131520,"originalJapaneseLine":"　感謝しろ、シーラ」","translatedEnglishLine":"\"Be grateful, Sheela.\""},{"lineNumber":131521,"originalJapaneseLine":"「はいっ」","translatedEnglishLine":"\"Yes!\""},{"lineNumber":131522,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"........\""},{"lineNumber":131523,"originalJapaneseLine":"「にこにこ、にこにこ」","translatedEnglishLine":"\"Smile, smile.\""},{"lineNumber":131524,"originalJapaneseLine":"「何をヘラヘラ笑ってる」","translatedEnglishLine":"\"What are you grinning about?\""},{"lineNumber":131525,"originalJapaneseLine":"「あいたっ！」","translatedEnglishLine":"\"Ouch!\""},{"lineNumber":131526,"originalJapaneseLine":"「えへへ、すみません……」","translatedEnglishLine":"\"Hehe, sorry...\""},{"lineNumber":131527,"originalJapaneseLine":"「？　なんで叩かれて喜んどんだ、お前。","translatedEnglishLine":"\"? Why are you happy about being hit?\""},{"lineNumber":131528,"originalJapaneseLine":"　えい、ぽかっ」","translatedEnglishLine":"\"Take this!\" (sound of a hit)"},{"lineNumber":131529,"originalJapaneseLine":"「あうっ」","translatedEnglishLine":"\"Auu!\""},{"lineNumber":131530,"originalJapaneseLine":"「えへへ……」","translatedEnglishLine":"\"Ehehe...\""},{"lineNumber":131531,"originalJapaneseLine":"殴られた頭を撫でながらシーラは嬉しそうだった。","translatedEnglishLine":"Sheela looked happy while patting her hit head."},{"lineNumber":131532,"originalJapaneseLine":"「変な奴隷」","translatedEnglishLine":"\"Weird slave.\""},{"lineNumber":131533,"originalJapaneseLine":"「え？　あの、奴隷って……」","translatedEnglishLine":"\"Huh? Um, slave...\""},{"lineNumber":131534,"originalJapaneseLine":"「ん、シィルには言ってなかったか？","translatedEnglishLine":"\"Hmm, haven't I told Shieel?\""},{"lineNumber":131535,"originalJapaneseLine":"　シーラは俺の奴隷2号だ」","translatedEnglishLine":"Sheela is my slave number two.\""},{"lineNumber":131536,"originalJapaneseLine":"「ええっ！？　奴隷！？」","translatedEnglishLine":"\"Eh!? A slave!?\""},{"lineNumber":131537,"originalJapaneseLine":"「そんなに驚くことか？","translatedEnglishLine":"\"Is it really that surprising?\""},{"lineNumber":131538,"originalJapaneseLine":"　お前がいない間に不便だから、","translatedEnglishLine":"\"While you were absent, it was inconvenient,"},{"lineNumber":131539,"originalJapaneseLine":"　こいつを俺様の奴隷に任命したのだ」","translatedEnglishLine":"so I appointed this one as my slave.\""},{"lineNumber":131540,"originalJapaneseLine":"「えっと、だって……","translatedEnglishLine":"\"Um, but...\""},{"lineNumber":131541,"originalJapaneseLine":"　ヘルマンの大統領……なんですよね？」","translatedEnglishLine":"You're the president of Herman... right?\""},{"lineNumber":131542,"originalJapaneseLine":"「そうだぞ。","translatedEnglishLine":"\"That's right.\""},{"lineNumber":131543,"originalJapaneseLine":"　だからなんだ？」","translatedEnglishLine":"\"So what?\""},{"lineNumber":131544,"originalJapaneseLine":"「あの……シィルさんというのは、もしかして……」","translatedEnglishLine":"\"Um... Is it possible that Shieel-san is...\""},{"lineNumber":131545,"originalJapaneseLine":"「あ、初めまして。","translatedEnglishLine":"\"Ah, nice to meet you."},{"lineNumber":131546,"originalJapaneseLine":"　私はランス様の助手のシィル――」","translatedEnglishLine":"I am Lord Lance's assistant, Shieel--\""},{"lineNumber":131547,"originalJapaneseLine":"「あいたっ！」","translatedEnglishLine":"\"Ouch!\""},{"lineNumber":131548,"originalJapaneseLine":"「こいつはシィル、奴隷1号。","translatedEnglishLine":"\"This is Shieel, slave number one."},{"lineNumber":131549,"originalJapaneseLine":"　シーラの奴隷の先輩だな」","translatedEnglishLine":"He is senior to Sheela among the slaves.\""},{"lineNumber":131550,"originalJapaneseLine":"「い、1号さん……」","translatedEnglishLine":"\"S-senior number one...\""},{"lineNumber":131551,"originalJapaneseLine":"「2号さん……」","translatedEnglishLine":"\"Number two...\""},{"lineNumber":131552,"originalJapaneseLine":"「あのぉ……申し訳ありません……","translatedEnglishLine":"\"Um... I apologize..."},{"lineNumber":131553,"originalJapaneseLine":"　ランス様が、失礼なことを","translatedEnglishLine":"Lord Lance has said something rude,"},{"lineNumber":131554,"originalJapaneseLine":"　言い出してしまったみたいで……」","translatedEnglishLine":"it seems...\""},{"lineNumber":131555,"originalJapaneseLine":"「こら、変なこと言うな！」","translatedEnglishLine":"\"Hey, don’t say strange things!\""},{"lineNumber":131556,"originalJapaneseLine":"「いえ、私がランス様に","translatedEnglishLine":"\"No, I was the one who asked Lord Lance"},{"lineNumber":131557,"originalJapaneseLine":"　奴隷にして下さいとお願いしたんです」","translatedEnglishLine":"to make me a slave.\""},{"lineNumber":131558,"originalJapaneseLine":"「えっ、そうなんですか？」","translatedEnglishLine":"\"Eh, is that so?\""},{"lineNumber":131559,"originalJapaneseLine":"（す、少し……変わった方？）","translatedEnglishLine":"(Is he... a bit strange?)"},{"lineNumber":131560,"originalJapaneseLine":"「がははははははははは！","translatedEnglishLine":"\"Gahahahahahahahaha!\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1410,"input_tokens_details":{"cached_tokens":0},"output_tokens":1756,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3166},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":131511,\"originalJapaneseLine\":\"「あ、はい、なんでしょう？\",\"translatedEnglishLine\":\"\\\"Ah, yes, what is it?\\\"\"},{\"lineNumber\":131512,\"originalJapaneseLine\":\"　お水ですか？」\",\"translatedEnglishLine\":\"\\\"Water?\\\"\"},{\"lineNumber\":131513,\"originalJapaneseLine\":\"名前を呼ばれ、シーラが嬉しそうにランスに近づく。\",\"translatedEnglishLine\":\"Called by name, Sheela happily approaches Lance.\"},{\"lineNumber\":131514,\"originalJapaneseLine\":\"「落ち着け、ただ世間話しようとしただけだ。\",\"translatedEnglishLine\":\"\\\"Calm down, I just wanted to have some small talk.\\\"\"},{\"lineNumber\":131515,\"originalJapaneseLine\":\"　その後、ヘルマンの様子はどうだ？」\",\"translatedEnglishLine\":\"\\\"So, how is the situation in Herman afterwards?\\\"\"},{\"lineNumber\":131516,\"originalJapaneseLine\":\"「はいっ、ランス様のおかげで、\",\"translatedEnglishLine\":\"\\\"Yes! Thanks to Lord Lance,\"},{\"lineNumber\":131517,\"originalJapaneseLine\":\"　今ではヘルマン内部も政策が円滑に進み、\",\"translatedEnglishLine\":\"now policies within Herman are proceeding smoothly,\"},{\"lineNumber\":131518,\"originalJapaneseLine\":\"　飢えに苦しむ方が少しずつですが減りました」\",\"translatedEnglishLine\":\"and the number of people suffering from hunger has gradually decreased.\\\"\"},{\"lineNumber\":131519,\"originalJapaneseLine\":\"「うむ、そうだ、俺様のおかげだ。\",\"translatedEnglishLine\":\"\\\"Hmm, that's right, it's thanks to me.\\\"\"},{\"lineNumber\":131520,\"originalJapaneseLine\":\"　感謝しろ、シーラ」\",\"translatedEnglishLine\":\"\\\"Be grateful, Sheela.\\\"\"},{\"lineNumber\":131521,\"originalJapaneseLine\":\"「はいっ」\",\"translatedEnglishLine\":\"\\\"Yes!\\\"\"},{\"lineNumber\":131522,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":131523,\"originalJapaneseLine\":\"「にこにこ、にこにこ」\",\"translatedEnglishLine\":\"\\\"Smile, smile.\\\"\"},{\"lineNumber\":131524,\"originalJapaneseLine\":\"「何をヘラヘラ笑ってる」\",\"translatedEnglishLine\":\"\\\"What are you grinning about?\\\"\"},{\"lineNumber\":131525,\"originalJapaneseLine\":\"「あいたっ！」\",\"translatedEnglishLine\":\"\\\"Ouch!\\\"\"},{\"lineNumber\":131526,\"originalJapaneseLine\":\"「えへへ、すみません……」\",\"translatedEnglishLine\":\"\\\"Hehe, sorry...\\\"\"},{\"lineNumber\":131527,\"originalJapaneseLine\":\"「？　なんで叩かれて喜んどんだ、お前。\",\"translatedEnglishLine\":\"\\\"? Why are you happy about being hit?\\\"\"},{\"lineNumber\":131528,\"originalJapaneseLine\":\"　えい、ぽかっ」\",\"translatedEnglishLine\":\"\\\"Take this!\\\" (sound of a hit)\"},{\"lineNumber\":131529,\"originalJapaneseLine\":\"「あうっ」\",\"translatedEnglishLine\":\"\\\"Auu!\\\"\"},{\"lineNumber\":131530,\"originalJapaneseLine\":\"「えへへ……」\",\"translatedEnglishLine\":\"\\\"Ehehe...\\\"\"},{\"lineNumber\":131531,\"originalJapaneseLine\":\"殴られた頭を撫でながらシーラは嬉しそうだった。\",\"translatedEnglishLine\":\"Sheela looked happy while patting her hit head.\"},{\"lineNumber\":131532,\"originalJapaneseLine\":\"「変な奴隷」\",\"translatedEnglishLine\":\"\\\"Weird slave.\\\"\"},{\"lineNumber\":131533,\"originalJapaneseLine\":\"「え？　あの、奴隷って……」\",\"translatedEnglishLine\":\"\\\"Huh? Um, slave...\\\"\"},{\"lineNumber\":131534,\"originalJapaneseLine\":\"「ん、シィルには言ってなかったか？\",\"translatedEnglishLine\":\"\\\"Hmm, haven't I told Shieel?\\\"\"},{\"lineNumber\":131535,\"originalJapaneseLine\":\"　シーラは俺の奴隷2号だ」\",\"translatedEnglishLine\":\"Sheela is my slave number two.\\\"\"},{\"lineNumber\":131536,\"originalJapaneseLine\":\"「ええっ！？　奴隷！？」\",\"translatedEnglishLine\":\"\\\"Eh!? A slave!?\\\"\"},{\"lineNumber\":131537,\"originalJapaneseLine\":\"「そんなに驚くことか？\",\"translatedEnglishLine\":\"\\\"Is it really that surprising?\\\"\"},{\"lineNumber\":131538,\"originalJapaneseLine\":\"　お前がいない間に不便だから、\",\"translatedEnglishLine\":\"\\\"While you were absent, it was inconvenient,\"},{\"lineNumber\":131539,\"originalJapaneseLine\":\"　こいつを俺様の奴隷に任命したのだ」\",\"translatedEnglishLine\":\"so I appointed this one as my slave.\\\"\"},{\"lineNumber\":131540,\"originalJapaneseLine\":\"「えっと、だって……\",\"translatedEnglishLine\":\"\\\"Um, but...\\\"\"},{\"lineNumber\":131541,\"originalJapaneseLine\":\"　ヘルマンの大統領……なんですよね？」\",\"translatedEnglishLine\":\"You're the president of Herman... right?\\\"\"},{\"lineNumber\":131542,\"originalJapaneseLine\":\"「そうだぞ。\",\"translatedEnglishLine\":\"\\\"That's right.\\\"\"},{\"lineNumber\":131543,\"originalJapaneseLine\":\"　だからなんだ？」\",\"translatedEnglishLine\":\"\\\"So what?\\\"\"},{\"lineNumber\":131544,\"originalJapaneseLine\":\"「あの……シィルさんというのは、もしかして……」\",\"translatedEnglishLine\":\"\\\"Um... Is it possible that Shieel-san is...\\\"\"},{\"lineNumber\":131545,\"originalJapaneseLine\":\"「あ、初めまして。\",\"translatedEnglishLine\":\"\\\"Ah, nice to meet you.\"},{\"lineNumber\":131546,\"originalJapaneseLine\":\"　私はランス様の助手のシィル――」\",\"translatedEnglishLine\":\"I am Lord Lance's assistant, Shieel--\\\"\"},{\"lineNumber\":131547,\"originalJapaneseLine\":\"「あいたっ！」\",\"translatedEnglishLine\":\"\\\"Ouch!\\\"\"},{\"lineNumber\":131548,\"originalJapaneseLine\":\"「こいつはシィル、奴隷1号。\",\"translatedEnglishLine\":\"\\\"This is Shieel, slave number one.\"},{\"lineNumber\":131549,\"originalJapaneseLine\":\"　シーラの奴隷の先輩だな」\",\"translatedEnglishLine\":\"He is senior to Sheela among the slaves.\\\"\"},{\"lineNumber\":131550,\"originalJapaneseLine\":\"「い、1号さん……」\",\"translatedEnglishLine\":\"\\\"S-senior number one...\\\"\"},{\"lineNumber\":131551,\"originalJapaneseLine\":\"「2号さん……」\",\"translatedEnglishLine\":\"\\\"Number two...\\\"\"},{\"lineNumber\":131552,\"originalJapaneseLine\":\"「あのぉ……申し訳ありません……\",\"translatedEnglishLine\":\"\\\"Um... I apologize...\"},{\"lineNumber\":131553,\"originalJapaneseLine\":\"　ランス様が、失礼なことを\",\"translatedEnglishLine\":\"Lord Lance has said something rude,\"},{\"lineNumber\":131554,\"originalJapaneseLine\":\"　言い出してしまったみたいで……」\",\"translatedEnglishLine\":\"it seems...\\\"\"},{\"lineNumber\":131555,\"originalJapaneseLine\":\"「こら、変なこと言うな！」\",\"translatedEnglishLine\":\"\\\"Hey, don’t say strange things!\\\"\"},{\"lineNumber\":131556,\"originalJapaneseLine\":\"「いえ、私がランス様に\",\"translatedEnglishLine\":\"\\\"No, I was the one who asked Lord Lance\"},{\"lineNumber\":131557,\"originalJapaneseLine\":\"　奴隷にして下さいとお願いしたんです」\",\"translatedEnglishLine\":\"to make me a slave.\\\"\"},{\"lineNumber\":131558,\"originalJapaneseLine\":\"「えっ、そうなんですか？」\",\"translatedEnglishLine\":\"\\\"Eh, is that so?\\\"\"},{\"lineNumber\":131559,\"originalJapaneseLine\":\"（す、少し……変わった方？）\",\"translatedEnglishLine\":\"(Is he... a bit strange?)\"},{\"lineNumber\":131560,\"originalJapaneseLine\":\"「がははははははははは！\",\"translatedEnglishLine\":\"\\\"Gahahahahahahahaha!\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":131511,"originalJapaneseLine":"「あ、はい、なんでしょう？","translatedEnglishLine":"\"Ah, yes, what is it?\""},{"lineNumber":131512,"originalJapaneseLine":"　お水ですか？」","translatedEnglishLine":"\"Water?\""},{"lineNumber":131513,"originalJapaneseLine":"名前を呼ばれ、シーラが嬉しそうにランスに近づく。","translatedEnglishLine":"Called by name, Sheela happily approaches Lance."},{"lineNumber":131514,"originalJapaneseLine":"「落ち着け、ただ世間話しようとしただけだ。","translatedEnglishLine":"\"Calm down, I just wanted to have some small talk.\""},{"lineNumber":131515,"originalJapaneseLine":"　その後、ヘルマンの様子はどうだ？」","translatedEnglishLine":"\"So, how is the situation in Herman afterwards?\""},{"lineNumber":131516,"originalJapaneseLine":"「はいっ、ランス様のおかげで、","translatedEnglishLine":"\"Yes! Thanks to Lord Lance,"},{"lineNumber":131517,"originalJapaneseLine":"　今ではヘルマン内部も政策が円滑に進み、","translatedEnglishLine":"now policies within Herman are proceeding smoothly,"},{"lineNumber":131518,"originalJapaneseLine":"　飢えに苦しむ方が少しずつですが減りました」","translatedEnglishLine":"and the number of people suffering from hunger has gradually decreased.\""},{"lineNumber":131519,"originalJapaneseLine":"「うむ、そうだ、俺様のおかげだ。","translatedEnglishLine":"\"Hmm, that's right, it's thanks to me.\""},{"lineNumber":131520,"originalJapaneseLine":"　感謝しろ、シーラ」","translatedEnglishLine":"\"Be grateful, Sheela.\""},{"lineNumber":131521,"originalJapaneseLine":"「はいっ」","translatedEnglishLine":"\"Yes!\""},{"lineNumber":131522,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"........\""},{"lineNumber":131523,"originalJapaneseLine":"「にこにこ、にこにこ」","translatedEnglishLine":"\"Smile, smile.\""},{"lineNumber":131524,"originalJapaneseLine":"「何をヘラヘラ笑ってる」","translatedEnglishLine":"\"What are you grinning about?\""},{"lineNumber":131525,"originalJapaneseLine":"「あいたっ！」","translatedEnglishLine":"\"Ouch!\""},{"lineNumber":131526,"originalJapaneseLine":"「えへへ、すみません……」","translatedEnglishLine":"\"Hehe, sorry...\""},{"lineNumber":131527,"originalJapaneseLine":"「？　なんで叩かれて喜んどんだ、お前。","translatedEnglishLine":"\"? Why are you happy about being hit?\""},{"lineNumber":131528,"originalJapaneseLine":"　えい、ぽかっ」","translatedEnglishLine":"\"Take this!\" (sound of a hit)"},{"lineNumber":131529,"originalJapaneseLine":"「あうっ」","translatedEnglishLine":"\"Auu!\""},{"lineNumber":131530,"originalJapaneseLine":"「えへへ……」","translatedEnglishLine":"\"Ehehe...\""},{"lineNumber":131531,"originalJapaneseLine":"殴られた頭を撫でながらシーラは嬉しそうだった。","translatedEnglishLine":"Sheela looked happy while patting her hit head."},{"lineNumber":131532,"originalJapaneseLine":"「変な奴隷」","translatedEnglishLine":"\"Weird slave.\""},{"lineNumber":131533,"originalJapaneseLine":"「え？　あの、奴隷って……」","translatedEnglishLine":"\"Huh? Um, slave...\""},{"lineNumber":131534,"originalJapaneseLine":"「ん、シィルには言ってなかったか？","translatedEnglishLine":"\"Hmm, haven't I told Shieel?\""},{"lineNumber":131535,"originalJapaneseLine":"　シーラは俺の奴隷2号だ」","translatedEnglishLine":"Sheela is my slave number two.\""},{"lineNumber":131536,"originalJapaneseLine":"「ええっ！？　奴隷！？」","translatedEnglishLine":"\"Eh!? A slave!?\""},{"lineNumber":131537,"originalJapaneseLine":"「そんなに驚くことか？","translatedEnglishLine":"\"Is it really that surprising?\""},{"lineNumber":131538,"originalJapaneseLine":"　お前がいない間に不便だから、","translatedEnglishLine":"\"While you were absent, it was inconvenient,"},{"lineNumber":131539,"originalJapaneseLine":"　こいつを俺様の奴隷に任命したのだ」","translatedEnglishLine":"so I appointed this one as my slave.\""},{"lineNumber":131540,"originalJapaneseLine":"「えっと、だって……","translatedEnglishLine":"\"Um, but...\""},{"lineNumber":131541,"originalJapaneseLine":"　ヘルマンの大統領……なんですよね？」","translatedEnglishLine":"You're the president of Herman... right?\""},{"lineNumber":131542,"originalJapaneseLine":"「そうだぞ。","translatedEnglishLine":"\"That's right.\""},{"lineNumber":131543,"originalJapaneseLine":"　だからなんだ？」","translatedEnglishLine":"\"So what?\""},{"lineNumber":131544,"originalJapaneseLine":"「あの……シィルさんというのは、もしかして……」","translatedEnglishLine":"\"Um... Is it possible that Shieel-san is...\""},{"lineNumber":131545,"originalJapaneseLine":"「あ、初めまして。","translatedEnglishLine":"\"Ah, nice to meet you."},{"lineNumber":131546,"originalJapaneseLine":"　私はランス様の助手のシィル――」","translatedEnglishLine":"I am Lord Lance's assistant, Shieel--\""},{"lineNumber":131547,"originalJapaneseLine":"「あいたっ！」","translatedEnglishLine":"\"Ouch!\""},{"lineNumber":131548,"originalJapaneseLine":"「こいつはシィル、奴隷1号。","translatedEnglishLine":"\"This is Shieel, slave number one."},{"lineNumber":131549,"originalJapaneseLine":"　シーラの奴隷の先輩だな」","translatedEnglishLine":"He is senior to Sheela among the slaves.\""},{"lineNumber":131550,"originalJapaneseLine":"「い、1号さん……」","translatedEnglishLine":"\"S-senior number one...\""},{"lineNumber":131551,"originalJapaneseLine":"「2号さん……」","translatedEnglishLine":"\"Number two...\""},{"lineNumber":131552,"originalJapaneseLine":"「あのぉ……申し訳ありません……","translatedEnglishLine":"\"Um... I apologize..."},{"lineNumber":131553,"originalJapaneseLine":"　ランス様が、失礼なことを","translatedEnglishLine":"Lord Lance has said something rude,"},{"lineNumber":131554,"originalJapaneseLine":"　言い出してしまったみたいで……」","translatedEnglishLine":"it seems...\""},{"lineNumber":131555,"originalJapaneseLine":"「こら、変なこと言うな！」","translatedEnglishLine":"\"Hey, don’t say strange things!\""},{"lineNumber":131556,"originalJapaneseLine":"「いえ、私がランス様に","translatedEnglishLine":"\"No, I was the one who asked Lord Lance"},{"lineNumber":131557,"originalJapaneseLine":"　奴隷にして下さいとお願いしたんです」","translatedEnglishLine":"to make me a slave.\""},{"lineNumber":131558,"originalJapaneseLine":"「えっ、そうなんですか？」","translatedEnglishLine":"\"Eh, is that so?\""},{"lineNumber":131559,"originalJapaneseLine":"（す、少し……変わった方？）","translatedEnglishLine":"(Is he... a bit strange?)"},{"lineNumber":131560,"originalJapaneseLine":"「がははははははははは！","translatedEnglishLine":"\"Gahahahahahahahaha!\""}]}}
+{
+    "id": "resp_0d9e7df8ba1c04890068ef6cf7fe38819380ffc54dca45ce1c",
+    "object": "response",
+    "created_at": 1760521464,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0d9e7df8ba1c04890068ef6cf8758481938a789e837472e461",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":131511,\"originalJapaneseLine\":\"「あ、はい、なんでしょう？\",\"translatedEnglishLine\":\"\\\"Ah, yes, what is it?\\\"\"},{\"lineNumber\":131512,\"originalJapaneseLine\":\"　お水ですか？」\",\"translatedEnglishLine\":\"\\\"Water?\\\"\"},{\"lineNumber\":131513,\"originalJapaneseLine\":\"名前を呼ばれ、シーラが嬉しそうにランスに近づく。\",\"translatedEnglishLine\":\"Called by name, Sheela happily approaches Lance.\"},{\"lineNumber\":131514,\"originalJapaneseLine\":\"「落ち着け、ただ世間話しようとしただけだ。\",\"translatedEnglishLine\":\"\\\"Calm down, I just wanted to have some small talk.\\\"\"},{\"lineNumber\":131515,\"originalJapaneseLine\":\"　その後、ヘルマンの様子はどうだ？」\",\"translatedEnglishLine\":\"\\\"So, how is the situation in Herman afterwards?\\\"\"},{\"lineNumber\":131516,\"originalJapaneseLine\":\"「はいっ、ランス様のおかげで、\",\"translatedEnglishLine\":\"\\\"Yes! Thanks to Lord Lance,\"},{\"lineNumber\":131517,\"originalJapaneseLine\":\"　今ではヘルマン内部も政策が円滑に進み、\",\"translatedEnglishLine\":\"now policies within Herman are proceeding smoothly,\"},{\"lineNumber\":131518,\"originalJapaneseLine\":\"　飢えに苦しむ方が少しずつですが減りました」\",\"translatedEnglishLine\":\"and the number of people suffering from hunger has gradually decreased.\\\"\"},{\"lineNumber\":131519,\"originalJapaneseLine\":\"「うむ、そうだ、俺様のおかげだ。\",\"translatedEnglishLine\":\"\\\"Hmm, that's right, it's thanks to me.\\\"\"},{\"lineNumber\":131520,\"originalJapaneseLine\":\"　感謝しろ、シーラ」\",\"translatedEnglishLine\":\"\\\"Be grateful, Sheela.\\\"\"},{\"lineNumber\":131521,\"originalJapaneseLine\":\"「はいっ」\",\"translatedEnglishLine\":\"\\\"Yes!\\\"\"},{\"lineNumber\":131522,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":131523,\"originalJapaneseLine\":\"「にこにこ、にこにこ」\",\"translatedEnglishLine\":\"\\\"Smile, smile.\\\"\"},{\"lineNumber\":131524,\"originalJapaneseLine\":\"「何をヘラヘラ笑ってる」\",\"translatedEnglishLine\":\"\\\"What are you grinning about?\\\"\"},{\"lineNumber\":131525,\"originalJapaneseLine\":\"「あいたっ！」\",\"translatedEnglishLine\":\"\\\"Ouch!\\\"\"},{\"lineNumber\":131526,\"originalJapaneseLine\":\"「えへへ、すみません……」\",\"translatedEnglishLine\":\"\\\"Hehe, sorry...\\\"\"},{\"lineNumber\":131527,\"originalJapaneseLine\":\"「？　なんで叩かれて喜んどんだ、お前。\",\"translatedEnglishLine\":\"\\\"? Why are you happy about being hit?\\\"\"},{\"lineNumber\":131528,\"originalJapaneseLine\":\"　えい、ぽかっ」\",\"translatedEnglishLine\":\"\\\"Take this!\\\" (sound of a hit)\"},{\"lineNumber\":131529,\"originalJapaneseLine\":\"「あうっ」\",\"translatedEnglishLine\":\"\\\"Auu!\\\"\"},{\"lineNumber\":131530,\"originalJapaneseLine\":\"「えへへ……」\",\"translatedEnglishLine\":\"\\\"Ehehe...\\\"\"},{\"lineNumber\":131531,\"originalJapaneseLine\":\"殴られた頭を撫でながらシーラは嬉しそうだった。\",\"translatedEnglishLine\":\"Sheela looked happy while patting her hit head.\"},{\"lineNumber\":131532,\"originalJapaneseLine\":\"「変な奴隷」\",\"translatedEnglishLine\":\"\\\"Weird slave.\\\"\"},{\"lineNumber\":131533,\"originalJapaneseLine\":\"「え？　あの、奴隷って……」\",\"translatedEnglishLine\":\"\\\"Huh? Um, slave...\\\"\"},{\"lineNumber\":131534,\"originalJapaneseLine\":\"「ん、シィルには言ってなかったか？\",\"translatedEnglishLine\":\"\\\"Hmm, haven't I told Shieel?\\\"\"},{\"lineNumber\":131535,\"originalJapaneseLine\":\"　シーラは俺の奴隷2号だ」\",\"translatedEnglishLine\":\"Sheela is my slave number two.\\\"\"},{\"lineNumber\":131536,\"originalJapaneseLine\":\"「ええっ！？　奴隷！？」\",\"translatedEnglishLine\":\"\\\"Eh!? A slave!?\\\"\"},{\"lineNumber\":131537,\"originalJapaneseLine\":\"「そんなに驚くことか？\",\"translatedEnglishLine\":\"\\\"Is it really that surprising?\\\"\"},{\"lineNumber\":131538,\"originalJapaneseLine\":\"　お前がいない間に不便だから、\",\"translatedEnglishLine\":\"\\\"While you were absent, it was inconvenient,\"},{\"lineNumber\":131539,\"originalJapaneseLine\":\"　こいつを俺様の奴隷に任命したのだ」\",\"translatedEnglishLine\":\"so I appointed this one as my slave.\\\"\"},{\"lineNumber\":131540,\"originalJapaneseLine\":\"「えっと、だって……\",\"translatedEnglishLine\":\"\\\"Um, but...\\\"\"},{\"lineNumber\":131541,\"originalJapaneseLine\":\"　ヘルマンの大統領……なんですよね？」\",\"translatedEnglishLine\":\"You're the president of Herman... right?\\\"\"},{\"lineNumber\":131542,\"originalJapaneseLine\":\"「そうだぞ。\",\"translatedEnglishLine\":\"\\\"That's right.\\\"\"},{\"lineNumber\":131543,\"originalJapaneseLine\":\"　だからなんだ？」\",\"translatedEnglishLine\":\"\\\"So what?\\\"\"},{\"lineNumber\":131544,\"originalJapaneseLine\":\"「あの……シィルさんというのは、もしかして……」\",\"translatedEnglishLine\":\"\\\"Um... Is it possible that Shieel-san is...\\\"\"},{\"lineNumber\":131545,\"originalJapaneseLine\":\"「あ、初めまして。\",\"translatedEnglishLine\":\"\\\"Ah, nice to meet you.\"},{\"lineNumber\":131546,\"originalJapaneseLine\":\"　私はランス様の助手のシィル――」\",\"translatedEnglishLine\":\"I am Lord Lance's assistant, Shieel--\\\"\"},{\"lineNumber\":131547,\"originalJapaneseLine\":\"「あいたっ！」\",\"translatedEnglishLine\":\"\\\"Ouch!\\\"\"},{\"lineNumber\":131548,\"originalJapaneseLine\":\"「こいつはシィル、奴隷1号。\",\"translatedEnglishLine\":\"\\\"This is Shieel, slave number one.\"},{\"lineNumber\":131549,\"originalJapaneseLine\":\"　シーラの奴隷の先輩だな」\",\"translatedEnglishLine\":\"He is senior to Sheela among the slaves.\\\"\"},{\"lineNumber\":131550,\"originalJapaneseLine\":\"「い、1号さん……」\",\"translatedEnglishLine\":\"\\\"S-senior number one...\\\"\"},{\"lineNumber\":131551,\"originalJapaneseLine\":\"「2号さん……」\",\"translatedEnglishLine\":\"\\\"Number two...\\\"\"},{\"lineNumber\":131552,\"originalJapaneseLine\":\"「あのぉ……申し訳ありません……\",\"translatedEnglishLine\":\"\\\"Um... I apologize...\"},{\"lineNumber\":131553,\"originalJapaneseLine\":\"　ランス様が、失礼なことを\",\"translatedEnglishLine\":\"Lord Lance has said something rude,\"},{\"lineNumber\":131554,\"originalJapaneseLine\":\"　言い出してしまったみたいで……」\",\"translatedEnglishLine\":\"it seems...\\\"\"},{\"lineNumber\":131555,\"originalJapaneseLine\":\"「こら、変なこと言うな！」\",\"translatedEnglishLine\":\"\\\"Hey, don’t say strange things!\\\"\"},{\"lineNumber\":131556,\"originalJapaneseLine\":\"「いえ、私がランス様に\",\"translatedEnglishLine\":\"\\\"No, I was the one who asked Lord Lance\"},{\"lineNumber\":131557,\"originalJapaneseLine\":\"　奴隷にして下さいとお願いしたんです」\",\"translatedEnglishLine\":\"to make me a slave.\\\"\"},{\"lineNumber\":131558,\"originalJapaneseLine\":\"「えっ、そうなんですか？」\",\"translatedEnglishLine\":\"\\\"Eh, is that so?\\\"\"},{\"lineNumber\":131559,\"originalJapaneseLine\":\"（す、少し……変わった方？）\",\"translatedEnglishLine\":\"(Is he... a bit strange?)\"},{\"lineNumber\":131560,\"originalJapaneseLine\":\"「がははははははははは！\",\"translatedEnglishLine\":\"\\\"Gahahahahahahahaha!\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 131511,
+                                "originalJapaneseLine": "「あ、はい、なんでしょう？",
+                                "translatedEnglishLine": "\"Ah, yes, what is it?\""
+                            },
+                            {
+                                "lineNumber": 131512,
+                                "originalJapaneseLine": "　お水ですか？」",
+                                "translatedEnglishLine": "\"Water?\""
+                            },
+                            {
+                                "lineNumber": 131513,
+                                "originalJapaneseLine": "名前を呼ばれ、シーラが嬉しそうにランスに近づく。",
+                                "translatedEnglishLine": "Called by name, Sheela happily approaches Lance."
+                            },
+                            {
+                                "lineNumber": 131514,
+                                "originalJapaneseLine": "「落ち着け、ただ世間話しようとしただけだ。",
+                                "translatedEnglishLine": "\"Calm down, I just wanted to have some small talk.\""
+                            },
+                            {
+                                "lineNumber": 131515,
+                                "originalJapaneseLine": "　その後、ヘルマンの様子はどうだ？」",
+                                "translatedEnglishLine": "\"So, how is the situation in Herman afterwards?\""
+                            },
+                            {
+                                "lineNumber": 131516,
+                                "originalJapaneseLine": "「はいっ、ランス様のおかげで、",
+                                "translatedEnglishLine": "\"Yes! Thanks to Lord Lance,"
+                            },
+                            {
+                                "lineNumber": 131517,
+                                "originalJapaneseLine": "　今ではヘルマン内部も政策が円滑に進み、",
+                                "translatedEnglishLine": "now policies within Herman are proceeding smoothly,"
+                            },
+                            {
+                                "lineNumber": 131518,
+                                "originalJapaneseLine": "　飢えに苦しむ方が少しずつですが減りました」",
+                                "translatedEnglishLine": "and the number of people suffering from hunger has gradually decreased.\""
+                            },
+                            {
+                                "lineNumber": 131519,
+                                "originalJapaneseLine": "「うむ、そうだ、俺様のおかげだ。",
+                                "translatedEnglishLine": "\"Hmm, that's right, it's thanks to me.\""
+                            },
+                            {
+                                "lineNumber": 131520,
+                                "originalJapaneseLine": "　感謝しろ、シーラ」",
+                                "translatedEnglishLine": "\"Be grateful, Sheela.\""
+                            },
+                            {
+                                "lineNumber": 131521,
+                                "originalJapaneseLine": "「はいっ」",
+                                "translatedEnglishLine": "\"Yes!\""
+                            },
+                            {
+                                "lineNumber": 131522,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": 131523,
+                                "originalJapaneseLine": "「にこにこ、にこにこ」",
+                                "translatedEnglishLine": "\"Smile, smile.\""
+                            },
+                            {
+                                "lineNumber": 131524,
+                                "originalJapaneseLine": "「何をヘラヘラ笑ってる」",
+                                "translatedEnglishLine": "\"What are you grinning about?\""
+                            },
+                            {
+                                "lineNumber": 131525,
+                                "originalJapaneseLine": "「あいたっ！」",
+                                "translatedEnglishLine": "\"Ouch!\""
+                            },
+                            {
+                                "lineNumber": 131526,
+                                "originalJapaneseLine": "「えへへ、すみません……」",
+                                "translatedEnglishLine": "\"Hehe, sorry...\""
+                            },
+                            {
+                                "lineNumber": 131527,
+                                "originalJapaneseLine": "「？　なんで叩かれて喜んどんだ、お前。",
+                                "translatedEnglishLine": "\"? Why are you happy about being hit?\""
+                            },
+                            {
+                                "lineNumber": 131528,
+                                "originalJapaneseLine": "　えい、ぽかっ」",
+                                "translatedEnglishLine": "\"Take this!\" (sound of a hit)"
+                            },
+                            {
+                                "lineNumber": 131529,
+                                "originalJapaneseLine": "「あうっ」",
+                                "translatedEnglishLine": "\"Auu!\""
+                            },
+                            {
+                                "lineNumber": 131530,
+                                "originalJapaneseLine": "「えへへ……」",
+                                "translatedEnglishLine": "\"Ehehe...\""
+                            },
+                            {
+                                "lineNumber": 131531,
+                                "originalJapaneseLine": "殴られた頭を撫でながらシーラは嬉しそうだった。",
+                                "translatedEnglishLine": "Sheela looked happy while patting her hit head."
+                            },
+                            {
+                                "lineNumber": 131532,
+                                "originalJapaneseLine": "「変な奴隷」",
+                                "translatedEnglishLine": "\"Weird slave.\""
+                            },
+                            {
+                                "lineNumber": 131533,
+                                "originalJapaneseLine": "「え？　あの、奴隷って……」",
+                                "translatedEnglishLine": "\"Huh? Um, slave...\""
+                            },
+                            {
+                                "lineNumber": 131534,
+                                "originalJapaneseLine": "「ん、シィルには言ってなかったか？",
+                                "translatedEnglishLine": "\"Hmm, haven't I told Shieel?\""
+                            },
+                            {
+                                "lineNumber": 131535,
+                                "originalJapaneseLine": "　シーラは俺の奴隷2号だ」",
+                                "translatedEnglishLine": "Sheela is my slave number two.\""
+                            },
+                            {
+                                "lineNumber": 131536,
+                                "originalJapaneseLine": "「ええっ！？　奴隷！？」",
+                                "translatedEnglishLine": "\"Eh!? A slave!?\""
+                            },
+                            {
+                                "lineNumber": 131537,
+                                "originalJapaneseLine": "「そんなに驚くことか？",
+                                "translatedEnglishLine": "\"Is it really that surprising?\""
+                            },
+                            {
+                                "lineNumber": 131538,
+                                "originalJapaneseLine": "　お前がいない間に不便だから、",
+                                "translatedEnglishLine": "\"While you were absent, it was inconvenient,"
+                            },
+                            {
+                                "lineNumber": 131539,
+                                "originalJapaneseLine": "　こいつを俺様の奴隷に任命したのだ」",
+                                "translatedEnglishLine": "so I appointed this one as my slave.\""
+                            },
+                            {
+                                "lineNumber": 131540,
+                                "originalJapaneseLine": "「えっと、だって……",
+                                "translatedEnglishLine": "\"Um, but...\""
+                            },
+                            {
+                                "lineNumber": 131541,
+                                "originalJapaneseLine": "　ヘルマンの大統領……なんですよね？」",
+                                "translatedEnglishLine": "You're the president of Herman... right?\""
+                            },
+                            {
+                                "lineNumber": 131542,
+                                "originalJapaneseLine": "「そうだぞ。",
+                                "translatedEnglishLine": "\"That's right.\""
+                            },
+                            {
+                                "lineNumber": 131543,
+                                "originalJapaneseLine": "　だからなんだ？」",
+                                "translatedEnglishLine": "\"So what?\""
+                            },
+                            {
+                                "lineNumber": 131544,
+                                "originalJapaneseLine": "「あの……シィルさんというのは、もしかして……」",
+                                "translatedEnglishLine": "\"Um... Is it possible that Shieel-san is...\""
+                            },
+                            {
+                                "lineNumber": 131545,
+                                "originalJapaneseLine": "「あ、初めまして。",
+                                "translatedEnglishLine": "\"Ah, nice to meet you."
+                            },
+                            {
+                                "lineNumber": 131546,
+                                "originalJapaneseLine": "　私はランス様の助手のシィル――」",
+                                "translatedEnglishLine": "I am Lord Lance's assistant, Shieel--\""
+                            },
+                            {
+                                "lineNumber": 131547,
+                                "originalJapaneseLine": "「あいたっ！」",
+                                "translatedEnglishLine": "\"Ouch!\""
+                            },
+                            {
+                                "lineNumber": 131548,
+                                "originalJapaneseLine": "「こいつはシィル、奴隷1号。",
+                                "translatedEnglishLine": "\"This is Shieel, slave number one."
+                            },
+                            {
+                                "lineNumber": 131549,
+                                "originalJapaneseLine": "　シーラの奴隷の先輩だな」",
+                                "translatedEnglishLine": "He is senior to Sheela among the slaves.\""
+                            },
+                            {
+                                "lineNumber": 131550,
+                                "originalJapaneseLine": "「い、1号さん……」",
+                                "translatedEnglishLine": "\"S-senior number one...\""
+                            },
+                            {
+                                "lineNumber": 131551,
+                                "originalJapaneseLine": "「2号さん……」",
+                                "translatedEnglishLine": "\"Number two...\""
+                            },
+                            {
+                                "lineNumber": 131552,
+                                "originalJapaneseLine": "「あのぉ……申し訳ありません……",
+                                "translatedEnglishLine": "\"Um... I apologize..."
+                            },
+                            {
+                                "lineNumber": 131553,
+                                "originalJapaneseLine": "　ランス様が、失礼なことを",
+                                "translatedEnglishLine": "Lord Lance has said something rude,"
+                            },
+                            {
+                                "lineNumber": 131554,
+                                "originalJapaneseLine": "　言い出してしまったみたいで……」",
+                                "translatedEnglishLine": "it seems...\""
+                            },
+                            {
+                                "lineNumber": 131555,
+                                "originalJapaneseLine": "「こら、変なこと言うな！」",
+                                "translatedEnglishLine": "\"Hey, don’t say strange things!\""
+                            },
+                            {
+                                "lineNumber": 131556,
+                                "originalJapaneseLine": "「いえ、私がランス様に",
+                                "translatedEnglishLine": "\"No, I was the one who asked Lord Lance"
+                            },
+                            {
+                                "lineNumber": 131557,
+                                "originalJapaneseLine": "　奴隷にして下さいとお願いしたんです」",
+                                "translatedEnglishLine": "to make me a slave.\""
+                            },
+                            {
+                                "lineNumber": 131558,
+                                "originalJapaneseLine": "「えっ、そうなんですか？」",
+                                "translatedEnglishLine": "\"Eh, is that so?\""
+                            },
+                            {
+                                "lineNumber": 131559,
+                                "originalJapaneseLine": "（す、少し……変わった方？）",
+                                "translatedEnglishLine": "(Is he... a bit strange?)"
+                            },
+                            {
+                                "lineNumber": 131560,
+                                "originalJapaneseLine": "「がははははははははは！",
+                                "translatedEnglishLine": "\"Gahahahahahahahaha!\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1410,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1756,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3166
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":131511,\"originalJapaneseLine\":\"「あ、はい、なんでしょう？\",\"translatedEnglishLine\":\"\\\"Ah, yes, what is it?\\\"\"},{\"lineNumber\":131512,\"originalJapaneseLine\":\"　お水ですか？」\",\"translatedEnglishLine\":\"\\\"Water?\\\"\"},{\"lineNumber\":131513,\"originalJapaneseLine\":\"名前を呼ばれ、シーラが嬉しそうにランスに近づく。\",\"translatedEnglishLine\":\"Called by name, Sheela happily approaches Lance.\"},{\"lineNumber\":131514,\"originalJapaneseLine\":\"「落ち着け、ただ世間話しようとしただけだ。\",\"translatedEnglishLine\":\"\\\"Calm down, I just wanted to have some small talk.\\\"\"},{\"lineNumber\":131515,\"originalJapaneseLine\":\"　その後、ヘルマンの様子はどうだ？」\",\"translatedEnglishLine\":\"\\\"So, how is the situation in Herman afterwards?\\\"\"},{\"lineNumber\":131516,\"originalJapaneseLine\":\"「はいっ、ランス様のおかげで、\",\"translatedEnglishLine\":\"\\\"Yes! Thanks to Lord Lance,\"},{\"lineNumber\":131517,\"originalJapaneseLine\":\"　今ではヘルマン内部も政策が円滑に進み、\",\"translatedEnglishLine\":\"now policies within Herman are proceeding smoothly,\"},{\"lineNumber\":131518,\"originalJapaneseLine\":\"　飢えに苦しむ方が少しずつですが減りました」\",\"translatedEnglishLine\":\"and the number of people suffering from hunger has gradually decreased.\\\"\"},{\"lineNumber\":131519,\"originalJapaneseLine\":\"「うむ、そうだ、俺様のおかげだ。\",\"translatedEnglishLine\":\"\\\"Hmm, that's right, it's thanks to me.\\\"\"},{\"lineNumber\":131520,\"originalJapaneseLine\":\"　感謝しろ、シーラ」\",\"translatedEnglishLine\":\"\\\"Be grateful, Sheela.\\\"\"},{\"lineNumber\":131521,\"originalJapaneseLine\":\"「はいっ」\",\"translatedEnglishLine\":\"\\\"Yes!\\\"\"},{\"lineNumber\":131522,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":131523,\"originalJapaneseLine\":\"「にこにこ、にこにこ」\",\"translatedEnglishLine\":\"\\\"Smile, smile.\\\"\"},{\"lineNumber\":131524,\"originalJapaneseLine\":\"「何をヘラヘラ笑ってる」\",\"translatedEnglishLine\":\"\\\"What are you grinning about?\\\"\"},{\"lineNumber\":131525,\"originalJapaneseLine\":\"「あいたっ！」\",\"translatedEnglishLine\":\"\\\"Ouch!\\\"\"},{\"lineNumber\":131526,\"originalJapaneseLine\":\"「えへへ、すみません……」\",\"translatedEnglishLine\":\"\\\"Hehe, sorry...\\\"\"},{\"lineNumber\":131527,\"originalJapaneseLine\":\"「？　なんで叩かれて喜んどんだ、お前。\",\"translatedEnglishLine\":\"\\\"? Why are you happy about being hit?\\\"\"},{\"lineNumber\":131528,\"originalJapaneseLine\":\"　えい、ぽかっ」\",\"translatedEnglishLine\":\"\\\"Take this!\\\" (sound of a hit)\"},{\"lineNumber\":131529,\"originalJapaneseLine\":\"「あうっ」\",\"translatedEnglishLine\":\"\\\"Auu!\\\"\"},{\"lineNumber\":131530,\"originalJapaneseLine\":\"「えへへ……」\",\"translatedEnglishLine\":\"\\\"Ehehe...\\\"\"},{\"lineNumber\":131531,\"originalJapaneseLine\":\"殴られた頭を撫でながらシーラは嬉しそうだった。\",\"translatedEnglishLine\":\"Sheela looked happy while patting her hit head.\"},{\"lineNumber\":131532,\"originalJapaneseLine\":\"「変な奴隷」\",\"translatedEnglishLine\":\"\\\"Weird slave.\\\"\"},{\"lineNumber\":131533,\"originalJapaneseLine\":\"「え？　あの、奴隷って……」\",\"translatedEnglishLine\":\"\\\"Huh? Um, slave...\\\"\"},{\"lineNumber\":131534,\"originalJapaneseLine\":\"「ん、シィルには言ってなかったか？\",\"translatedEnglishLine\":\"\\\"Hmm, haven't I told Shieel?\\\"\"},{\"lineNumber\":131535,\"originalJapaneseLine\":\"　シーラは俺の奴隷2号だ」\",\"translatedEnglishLine\":\"Sheela is my slave number two.\\\"\"},{\"lineNumber\":131536,\"originalJapaneseLine\":\"「ええっ！？　奴隷！？」\",\"translatedEnglishLine\":\"\\\"Eh!? A slave!?\\\"\"},{\"lineNumber\":131537,\"originalJapaneseLine\":\"「そんなに驚くことか？\",\"translatedEnglishLine\":\"\\\"Is it really that surprising?\\\"\"},{\"lineNumber\":131538,\"originalJapaneseLine\":\"　お前がいない間に不便だから、\",\"translatedEnglishLine\":\"\\\"While you were absent, it was inconvenient,\"},{\"lineNumber\":131539,\"originalJapaneseLine\":\"　こいつを俺様の奴隷に任命したのだ」\",\"translatedEnglishLine\":\"so I appointed this one as my slave.\\\"\"},{\"lineNumber\":131540,\"originalJapaneseLine\":\"「えっと、だって……\",\"translatedEnglishLine\":\"\\\"Um, but...\\\"\"},{\"lineNumber\":131541,\"originalJapaneseLine\":\"　ヘルマンの大統領……なんですよね？」\",\"translatedEnglishLine\":\"You're the president of Herman... right?\\\"\"},{\"lineNumber\":131542,\"originalJapaneseLine\":\"「そうだぞ。\",\"translatedEnglishLine\":\"\\\"That's right.\\\"\"},{\"lineNumber\":131543,\"originalJapaneseLine\":\"　だからなんだ？」\",\"translatedEnglishLine\":\"\\\"So what?\\\"\"},{\"lineNumber\":131544,\"originalJapaneseLine\":\"「あの……シィルさんというのは、もしかして……」\",\"translatedEnglishLine\":\"\\\"Um... Is it possible that Shieel-san is...\\\"\"},{\"lineNumber\":131545,\"originalJapaneseLine\":\"「あ、初めまして。\",\"translatedEnglishLine\":\"\\\"Ah, nice to meet you.\"},{\"lineNumber\":131546,\"originalJapaneseLine\":\"　私はランス様の助手のシィル――」\",\"translatedEnglishLine\":\"I am Lord Lance's assistant, Shieel--\\\"\"},{\"lineNumber\":131547,\"originalJapaneseLine\":\"「あいたっ！」\",\"translatedEnglishLine\":\"\\\"Ouch!\\\"\"},{\"lineNumber\":131548,\"originalJapaneseLine\":\"「こいつはシィル、奴隷1号。\",\"translatedEnglishLine\":\"\\\"This is Shieel, slave number one.\"},{\"lineNumber\":131549,\"originalJapaneseLine\":\"　シーラの奴隷の先輩だな」\",\"translatedEnglishLine\":\"He is senior to Sheela among the slaves.\\\"\"},{\"lineNumber\":131550,\"originalJapaneseLine\":\"「い、1号さん……」\",\"translatedEnglishLine\":\"\\\"S-senior number one...\\\"\"},{\"lineNumber\":131551,\"originalJapaneseLine\":\"「2号さん……」\",\"translatedEnglishLine\":\"\\\"Number two...\\\"\"},{\"lineNumber\":131552,\"originalJapaneseLine\":\"「あのぉ……申し訳ありません……\",\"translatedEnglishLine\":\"\\\"Um... I apologize...\"},{\"lineNumber\":131553,\"originalJapaneseLine\":\"　ランス様が、失礼なことを\",\"translatedEnglishLine\":\"Lord Lance has said something rude,\"},{\"lineNumber\":131554,\"originalJapaneseLine\":\"　言い出してしまったみたいで……」\",\"translatedEnglishLine\":\"it seems...\\\"\"},{\"lineNumber\":131555,\"originalJapaneseLine\":\"「こら、変なこと言うな！」\",\"translatedEnglishLine\":\"\\\"Hey, don’t say strange things!\\\"\"},{\"lineNumber\":131556,\"originalJapaneseLine\":\"「いえ、私がランス様に\",\"translatedEnglishLine\":\"\\\"No, I was the one who asked Lord Lance\"},{\"lineNumber\":131557,\"originalJapaneseLine\":\"　奴隷にして下さいとお願いしたんです」\",\"translatedEnglishLine\":\"to make me a slave.\\\"\"},{\"lineNumber\":131558,\"originalJapaneseLine\":\"「えっ、そうなんですか？」\",\"translatedEnglishLine\":\"\\\"Eh, is that so?\\\"\"},{\"lineNumber\":131559,\"originalJapaneseLine\":\"（す、少し……変わった方？）\",\"translatedEnglishLine\":\"(Is he... a bit strange?)\"},{\"lineNumber\":131560,\"originalJapaneseLine\":\"「がははははははははは！\",\"translatedEnglishLine\":\"\\\"Gahahahahahahahaha!\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 131511,
+                "originalJapaneseLine": "「あ、はい、なんでしょう？",
+                "translatedEnglishLine": "\"Ah, yes, what is it?\""
+            },
+            {
+                "lineNumber": 131512,
+                "originalJapaneseLine": "　お水ですか？」",
+                "translatedEnglishLine": "\"Water?\""
+            },
+            {
+                "lineNumber": 131513,
+                "originalJapaneseLine": "名前を呼ばれ、シーラが嬉しそうにランスに近づく。",
+                "translatedEnglishLine": "Called by name, Sheela happily approaches Lance."
+            },
+            {
+                "lineNumber": 131514,
+                "originalJapaneseLine": "「落ち着け、ただ世間話しようとしただけだ。",
+                "translatedEnglishLine": "\"Calm down, I just wanted to have some small talk.\""
+            },
+            {
+                "lineNumber": 131515,
+                "originalJapaneseLine": "　その後、ヘルマンの様子はどうだ？」",
+                "translatedEnglishLine": "\"So, how is the situation in Herman afterwards?\""
+            },
+            {
+                "lineNumber": 131516,
+                "originalJapaneseLine": "「はいっ、ランス様のおかげで、",
+                "translatedEnglishLine": "\"Yes! Thanks to Lord Lance,"
+            },
+            {
+                "lineNumber": 131517,
+                "originalJapaneseLine": "　今ではヘルマン内部も政策が円滑に進み、",
+                "translatedEnglishLine": "now policies within Herman are proceeding smoothly,"
+            },
+            {
+                "lineNumber": 131518,
+                "originalJapaneseLine": "　飢えに苦しむ方が少しずつですが減りました」",
+                "translatedEnglishLine": "and the number of people suffering from hunger has gradually decreased.\""
+            },
+            {
+                "lineNumber": 131519,
+                "originalJapaneseLine": "「うむ、そうだ、俺様のおかげだ。",
+                "translatedEnglishLine": "\"Hmm, that's right, it's thanks to me.\""
+            },
+            {
+                "lineNumber": 131520,
+                "originalJapaneseLine": "　感謝しろ、シーラ」",
+                "translatedEnglishLine": "\"Be grateful, Sheela.\""
+            },
+            {
+                "lineNumber": 131521,
+                "originalJapaneseLine": "「はいっ」",
+                "translatedEnglishLine": "\"Yes!\""
+            },
+            {
+                "lineNumber": 131522,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": 131523,
+                "originalJapaneseLine": "「にこにこ、にこにこ」",
+                "translatedEnglishLine": "\"Smile, smile.\""
+            },
+            {
+                "lineNumber": 131524,
+                "originalJapaneseLine": "「何をヘラヘラ笑ってる」",
+                "translatedEnglishLine": "\"What are you grinning about?\""
+            },
+            {
+                "lineNumber": 131525,
+                "originalJapaneseLine": "「あいたっ！」",
+                "translatedEnglishLine": "\"Ouch!\""
+            },
+            {
+                "lineNumber": 131526,
+                "originalJapaneseLine": "「えへへ、すみません……」",
+                "translatedEnglishLine": "\"Hehe, sorry...\""
+            },
+            {
+                "lineNumber": 131527,
+                "originalJapaneseLine": "「？　なんで叩かれて喜んどんだ、お前。",
+                "translatedEnglishLine": "\"? Why are you happy about being hit?\""
+            },
+            {
+                "lineNumber": 131528,
+                "originalJapaneseLine": "　えい、ぽかっ」",
+                "translatedEnglishLine": "\"Take this!\" (sound of a hit)"
+            },
+            {
+                "lineNumber": 131529,
+                "originalJapaneseLine": "「あうっ」",
+                "translatedEnglishLine": "\"Auu!\""
+            },
+            {
+                "lineNumber": 131530,
+                "originalJapaneseLine": "「えへへ……」",
+                "translatedEnglishLine": "\"Ehehe...\""
+            },
+            {
+                "lineNumber": 131531,
+                "originalJapaneseLine": "殴られた頭を撫でながらシーラは嬉しそうだった。",
+                "translatedEnglishLine": "Sheela looked happy while patting her hit head."
+            },
+            {
+                "lineNumber": 131532,
+                "originalJapaneseLine": "「変な奴隷」",
+                "translatedEnglishLine": "\"Weird slave.\""
+            },
+            {
+                "lineNumber": 131533,
+                "originalJapaneseLine": "「え？　あの、奴隷って……」",
+                "translatedEnglishLine": "\"Huh? Um, slave...\""
+            },
+            {
+                "lineNumber": 131534,
+                "originalJapaneseLine": "「ん、シィルには言ってなかったか？",
+                "translatedEnglishLine": "\"Hmm, haven't I told Shieel?\""
+            },
+            {
+                "lineNumber": 131535,
+                "originalJapaneseLine": "　シーラは俺の奴隷2号だ」",
+                "translatedEnglishLine": "Sheela is my slave number two.\""
+            },
+            {
+                "lineNumber": 131536,
+                "originalJapaneseLine": "「ええっ！？　奴隷！？」",
+                "translatedEnglishLine": "\"Eh!? A slave!?\""
+            },
+            {
+                "lineNumber": 131537,
+                "originalJapaneseLine": "「そんなに驚くことか？",
+                "translatedEnglishLine": "\"Is it really that surprising?\""
+            },
+            {
+                "lineNumber": 131538,
+                "originalJapaneseLine": "　お前がいない間に不便だから、",
+                "translatedEnglishLine": "\"While you were absent, it was inconvenient,"
+            },
+            {
+                "lineNumber": 131539,
+                "originalJapaneseLine": "　こいつを俺様の奴隷に任命したのだ」",
+                "translatedEnglishLine": "so I appointed this one as my slave.\""
+            },
+            {
+                "lineNumber": 131540,
+                "originalJapaneseLine": "「えっと、だって……",
+                "translatedEnglishLine": "\"Um, but...\""
+            },
+            {
+                "lineNumber": 131541,
+                "originalJapaneseLine": "　ヘルマンの大統領……なんですよね？」",
+                "translatedEnglishLine": "You're the president of Herman... right?\""
+            },
+            {
+                "lineNumber": 131542,
+                "originalJapaneseLine": "「そうだぞ。",
+                "translatedEnglishLine": "\"That's right.\""
+            },
+            {
+                "lineNumber": 131543,
+                "originalJapaneseLine": "　だからなんだ？」",
+                "translatedEnglishLine": "\"So what?\""
+            },
+            {
+                "lineNumber": 131544,
+                "originalJapaneseLine": "「あの……シィルさんというのは、もしかして……」",
+                "translatedEnglishLine": "\"Um... Is it possible that Shieel-san is...\""
+            },
+            {
+                "lineNumber": 131545,
+                "originalJapaneseLine": "「あ、初めまして。",
+                "translatedEnglishLine": "\"Ah, nice to meet you."
+            },
+            {
+                "lineNumber": 131546,
+                "originalJapaneseLine": "　私はランス様の助手のシィル――」",
+                "translatedEnglishLine": "I am Lord Lance's assistant, Shieel--\""
+            },
+            {
+                "lineNumber": 131547,
+                "originalJapaneseLine": "「あいたっ！」",
+                "translatedEnglishLine": "\"Ouch!\""
+            },
+            {
+                "lineNumber": 131548,
+                "originalJapaneseLine": "「こいつはシィル、奴隷1号。",
+                "translatedEnglishLine": "\"This is Shieel, slave number one."
+            },
+            {
+                "lineNumber": 131549,
+                "originalJapaneseLine": "　シーラの奴隷の先輩だな」",
+                "translatedEnglishLine": "He is senior to Sheela among the slaves.\""
+            },
+            {
+                "lineNumber": 131550,
+                "originalJapaneseLine": "「い、1号さん……」",
+                "translatedEnglishLine": "\"S-senior number one...\""
+            },
+            {
+                "lineNumber": 131551,
+                "originalJapaneseLine": "「2号さん……」",
+                "translatedEnglishLine": "\"Number two...\""
+            },
+            {
+                "lineNumber": 131552,
+                "originalJapaneseLine": "「あのぉ……申し訳ありません……",
+                "translatedEnglishLine": "\"Um... I apologize..."
+            },
+            {
+                "lineNumber": 131553,
+                "originalJapaneseLine": "　ランス様が、失礼なことを",
+                "translatedEnglishLine": "Lord Lance has said something rude,"
+            },
+            {
+                "lineNumber": 131554,
+                "originalJapaneseLine": "　言い出してしまったみたいで……」",
+                "translatedEnglishLine": "it seems...\""
+            },
+            {
+                "lineNumber": 131555,
+                "originalJapaneseLine": "「こら、変なこと言うな！」",
+                "translatedEnglishLine": "\"Hey, don’t say strange things!\""
+            },
+            {
+                "lineNumber": 131556,
+                "originalJapaneseLine": "「いえ、私がランス様に",
+                "translatedEnglishLine": "\"No, I was the one who asked Lord Lance"
+            },
+            {
+                "lineNumber": 131557,
+                "originalJapaneseLine": "　奴隷にして下さいとお願いしたんです」",
+                "translatedEnglishLine": "to make me a slave.\""
+            },
+            {
+                "lineNumber": 131558,
+                "originalJapaneseLine": "「えっ、そうなんですか？」",
+                "translatedEnglishLine": "\"Eh, is that so?\""
+            },
+            {
+                "lineNumber": 131559,
+                "originalJapaneseLine": "（す、少し……変わった方？）",
+                "translatedEnglishLine": "(Is he... a bit strange?)"
+            },
+            {
+                "lineNumber": 131560,
+                "originalJapaneseLine": "「がははははははははは！",
+                "translatedEnglishLine": "\"Gahahahahahahahaha!\""
+            }
+        ]
+    }
+}

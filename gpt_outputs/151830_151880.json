@@ -1,1 +1,619 @@
-{"id":"resp_0f8725dfaee5dd4b0068f14ef3778c8195b5d2a1c105af30e7","object":"response","created_at":1760644851,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0f8725dfaee5dd4b0068f14ef3e42881959437b948303f931d","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":151831,\"originalJapaneseLine\":\"「ぐふふふ、話は数日前のことだ……」\",\"translatedEnglishLine\":\"\\\"Gufufufu, this story is from a few days ago...\\\"\"},{\"lineNumber\":151832,\"originalJapaneseLine\":\"ランス城――\",\"translatedEnglishLine\":\"Lance Castle――\"},{\"lineNumber\":151833,\"originalJapaneseLine\":\"司令部――\",\"translatedEnglishLine\":\"Command Headquarters――\"},{\"lineNumber\":151834,\"originalJapaneseLine\":\"「ふむ」\",\"translatedEnglishLine\":\"\\\"Hmm.\\\"\"},{\"lineNumber\":151835,\"originalJapaneseLine\":\"なんとなくランスは司令部を覗きに来ていた。\",\"translatedEnglishLine\":\"For some reason, Lance had come to peek into the command headquarters.\"},{\"lineNumber\":151836,\"originalJapaneseLine\":\"時刻は深夜にも関わらず、\",\"translatedEnglishLine\":\"Despite being midnight,\"},{\"lineNumber\":151837,\"originalJapaneseLine\":\"昼間と同程度の人間が忙しそうに働いていた。\",\"translatedEnglishLine\":\"about as many people as during the day were busy at work.\"},{\"lineNumber\":151838,\"originalJapaneseLine\":\"「ウルザちゃんや、アールコートちゃんは\",\"translatedEnglishLine\":\"\\\"Urza-chan and Arcoat-chan\"},{\"lineNumber\":151839,\"originalJapaneseLine\":\"　もう寝たようだな……残るは……」\",\"translatedEnglishLine\":\"seem to have already gone to sleep... The ones still here are...\\\"\"},{\"lineNumber\":151840,\"originalJapaneseLine\":\"「あ、これは、総統……」\",\"translatedEnglishLine\":\"\\\"Ah, this is... Supreme Commander...\\\"\"},{\"lineNumber\":151841,\"originalJapaneseLine\":\"「よう、クリームちゃん、\",\"translatedEnglishLine\":\"\\\"Hey, Cream-chan,\"},{\"lineNumber\":151842,\"originalJapaneseLine\":\"　こんな時間まで残業か？」\",\"translatedEnglishLine\":\"working overtime at this hour?\\\"\"},{\"lineNumber\":151843,\"originalJapaneseLine\":\"「いえ、残業というか、これは……」\",\"translatedEnglishLine\":\"\\\"No, it's not exactly overtime, this is...\\\"\"},{\"lineNumber\":151844,\"originalJapaneseLine\":\"「うん？　ヘルマンの地図を見ていたのか……\",\"translatedEnglishLine\":\"\\\"Hmm? You were looking at the map of Helman...?\"},{\"lineNumber\":151845,\"originalJapaneseLine\":\"　しかもただの地図じゃないな」\",\"translatedEnglishLine\":\"And not just any map.\\\"\"},{\"lineNumber\":151846,\"originalJapaneseLine\":\"「ええ、これは対魔軍作戦の地図です」\",\"translatedEnglishLine\":\"\\\"Yes, this is the operational map against the demon army.\\\"\"},{\"lineNumber\":151847,\"originalJapaneseLine\":\"「なんだ、気になるのか？」\",\"translatedEnglishLine\":\"\\\"Oh? Are you interested?\\\"\"},{\"lineNumber\":151848,\"originalJapaneseLine\":\"「……当然です」\",\"translatedEnglishLine\":\"\\\"...Of course.\\\"\"},{\"lineNumber\":151849,\"originalJapaneseLine\":\"「透琳先生が軍師として動かれているので、\",\"translatedEnglishLine\":\"\\\"Because Ms. Torin is acting as the military strategist,\"},{\"lineNumber\":151850,\"originalJapaneseLine\":\"　私なんかよりずっと上手く\",\"translatedEnglishLine\":\"she is handling things much better than someone like me,\"},{\"lineNumber\":151851,\"originalJapaneseLine\":\"　やってくれていますが……」\",\"translatedEnglishLine\":\"but still...\\\"\"},{\"lineNumber\":151852,\"originalJapaneseLine\":\"「魔軍の兵力は膨大です。\",\"translatedEnglishLine\":\"\\\"The demon army's forces are vast.\"},{\"lineNumber\":151853,\"originalJapaneseLine\":\"　厳しい戦いが続いています」\",\"translatedEnglishLine\":\"A harsh battle continues.\\\"\"},{\"lineNumber\":151854,\"originalJapaneseLine\":\"「ヘルマンじゃ俺様が二人も魔人を殺しただろう。\",\"translatedEnglishLine\":\"\\\"In Helman, I killed two of the demon lords myself.\"},{\"lineNumber\":151855,\"originalJapaneseLine\":\"　楽勝じゃないのか？」\",\"translatedEnglishLine\":\"Isn't it an easy win?\\\"\"},{\"lineNumber\":151856,\"originalJapaneseLine\":\"「そんな簡単なわけないではないですか。\",\"translatedEnglishLine\":\"\\\"It's not that simple.\"},{\"lineNumber\":151857,\"originalJapaneseLine\":\"　戦争の基本である、兵数に差がありすぎます」\",\"translatedEnglishLine\":\"There is a huge numerical advantage in troops, which is fundamental in war.\\\"\"},{\"lineNumber\":151858,\"originalJapaneseLine\":\"「せめて、ヘルマン方面の魔軍を率いる\",\"translatedEnglishLine\":\"\\\"At the very least, if we could defeat\"},{\"lineNumber\":151859,\"originalJapaneseLine\":\"　魔物大将軍ルメイを討てればいいのですが……」\",\"translatedEnglishLine\":\"the demon general Lumei leading the demon army in the Helman area...\\\"\"},{\"lineNumber\":151860,\"originalJapaneseLine\":\"「よし、話は分かった」\",\"translatedEnglishLine\":\"\\\"Alright, I understand the situation.\\\"\"},{\"lineNumber\":151861,\"originalJapaneseLine\":\"「ルメイは俺様がとっちめてきてやろう」\",\"translatedEnglishLine\":\"\\\"I'll go and take down Lumei myself.\\\"\"},{\"lineNumber\":151862,\"originalJapaneseLine\":\"「え、ちょっと待って下さい！？」\",\"translatedEnglishLine\":\"\\\"Eh, please wait a moment!?\\\"\"},{\"lineNumber\":151863,\"originalJapaneseLine\":\"「ランス総統の仕事はあくまでも、\",\"translatedEnglishLine\":\"\\\"Supreme Commander Lance's job is ultimately to,\"},{\"lineNumber\":151864,\"originalJapaneseLine\":\"　魔人の討伐です。\",\"translatedEnglishLine\":\"defeat the demon lords.\"},{\"lineNumber\":151865,\"originalJapaneseLine\":\"　貴重な戦力を大将軍の討伐の為には……\",\"translatedEnglishLine\":\"Using such valuable forces to take down a general...\\\"\"},{\"lineNumber\":151866,\"originalJapaneseLine\":\"「おーっと、だが誤解するなよ！」\",\"translatedEnglishLine\":\"\\\"Whoa, but don't misunderstand!\\\"\"},{\"lineNumber\":151867,\"originalJapaneseLine\":\"「俺もタダでは動かん。\",\"translatedEnglishLine\":\"\\\"I won't move for free either.\"},{\"lineNumber\":151868,\"originalJapaneseLine\":\"　ご褒美がなくてはな……」\",\"translatedEnglishLine\":\"I need a reward...\\\"\"},{\"lineNumber\":151869,\"originalJapaneseLine\":\"「え、いえ、そんな話はしてな……」\",\"translatedEnglishLine\":\"\\\"Eh, no, we weren't talking about that...\\\"\"},{\"lineNumber\":151870,\"originalJapaneseLine\":\"「俺が向こうのトップを殺したら、\",\"translatedEnglishLine\":\"\\\"If I kill their top commander,\"},{\"lineNumber\":151871,\"originalJapaneseLine\":\"　お礼にやらせろ、いいな」\",\"translatedEnglishLine\":\"you'll let me have my way as a reward, got it?\\\"\"},{\"lineNumber\":151872,\"originalJapaneseLine\":\"「や、ら……」\",\"translatedEnglishLine\":\"\\\"Le-let me...\\\"\"},{\"lineNumber\":151873,\"originalJapaneseLine\":\"「なっ！」\",\"translatedEnglishLine\":\"\\\"Wha-!\\\"\"},{\"lineNumber\":151874,\"originalJapaneseLine\":\"「い、いいわけないでしょう！」\",\"translatedEnglishLine\":\"\\\"Th-That’s absolutely not okay!\\\"\"},{\"lineNumber\":151875,\"originalJapaneseLine\":\"「いや、今俺が決めた。\",\"translatedEnglishLine\":\"\\\"No, I've just decided now.\"},{\"lineNumber\":151876,\"originalJapaneseLine\":\"　魔物大将軍ルメイを倒したら\",\"translatedEnglishLine\":\"If I defeat the demon general Lumei,\"},{\"lineNumber\":151877,\"originalJapaneseLine\":\"　クリームちゃんがセックスしてくれる」\",\"translatedEnglishLine\":\"Cream-chan will have sex with me.\\\"\"},{\"lineNumber\":151878,\"originalJapaneseLine\":\"「これは総統閣下による決定だ」\",\"translatedEnglishLine\":\"\\\"This is a decision by Supreme Commander His Excellency.\\\"\"},{\"lineNumber\":151879,\"originalJapaneseLine\":\"「さーて、話も終わったし寝るかー」\",\"translatedEnglishLine\":\"\\\"Well then, the talk's over, time to sleep.\\\"\"},{\"lineNumber\":151880,\"originalJapaneseLine\":\"「ちょ、ちょっと待って下さい！\",\"translatedEnglishLine\":\"\\\"W-wait just a moment!\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":151831,"originalJapaneseLine":"「ぐふふふ、話は数日前のことだ……」","translatedEnglishLine":"\"Gufufufu, this story is from a few days ago...\""},{"lineNumber":151832,"originalJapaneseLine":"ランス城――","translatedEnglishLine":"Lance Castle――"},{"lineNumber":151833,"originalJapaneseLine":"司令部――","translatedEnglishLine":"Command Headquarters――"},{"lineNumber":151834,"originalJapaneseLine":"「ふむ」","translatedEnglishLine":"\"Hmm.\""},{"lineNumber":151835,"originalJapaneseLine":"なんとなくランスは司令部を覗きに来ていた。","translatedEnglishLine":"For some reason, Lance had come to peek into the command headquarters."},{"lineNumber":151836,"originalJapaneseLine":"時刻は深夜にも関わらず、","translatedEnglishLine":"Despite being midnight,"},{"lineNumber":151837,"originalJapaneseLine":"昼間と同程度の人間が忙しそうに働いていた。","translatedEnglishLine":"about as many people as during the day were busy at work."},{"lineNumber":151838,"originalJapaneseLine":"「ウルザちゃんや、アールコートちゃんは","translatedEnglishLine":"\"Urza-chan and Arcoat-chan"},{"lineNumber":151839,"originalJapaneseLine":"　もう寝たようだな……残るは……」","translatedEnglishLine":"seem to have already gone to sleep... The ones still here are...\""},{"lineNumber":151840,"originalJapaneseLine":"「あ、これは、総統……」","translatedEnglishLine":"\"Ah, this is... Supreme Commander...\""},{"lineNumber":151841,"originalJapaneseLine":"「よう、クリームちゃん、","translatedEnglishLine":"\"Hey, Cream-chan,"},{"lineNumber":151842,"originalJapaneseLine":"　こんな時間まで残業か？」","translatedEnglishLine":"working overtime at this hour?\""},{"lineNumber":151843,"originalJapaneseLine":"「いえ、残業というか、これは……」","translatedEnglishLine":"\"No, it's not exactly overtime, this is...\""},{"lineNumber":151844,"originalJapaneseLine":"「うん？　ヘルマンの地図を見ていたのか……","translatedEnglishLine":"\"Hmm? You were looking at the map of Helman...?"},{"lineNumber":151845,"originalJapaneseLine":"　しかもただの地図じゃないな」","translatedEnglishLine":"And not just any map.\""},{"lineNumber":151846,"originalJapaneseLine":"「ええ、これは対魔軍作戦の地図です」","translatedEnglishLine":"\"Yes, this is the operational map against the demon army.\""},{"lineNumber":151847,"originalJapaneseLine":"「なんだ、気になるのか？」","translatedEnglishLine":"\"Oh? Are you interested?\""},{"lineNumber":151848,"originalJapaneseLine":"「……当然です」","translatedEnglishLine":"\"...Of course.\""},{"lineNumber":151849,"originalJapaneseLine":"「透琳先生が軍師として動かれているので、","translatedEnglishLine":"\"Because Ms. Torin is acting as the military strategist,"},{"lineNumber":151850,"originalJapaneseLine":"　私なんかよりずっと上手く","translatedEnglishLine":"she is handling things much better than someone like me,"},{"lineNumber":151851,"originalJapaneseLine":"　やってくれていますが……」","translatedEnglishLine":"but still...\""},{"lineNumber":151852,"originalJapaneseLine":"「魔軍の兵力は膨大です。","translatedEnglishLine":"\"The demon army's forces are vast."},{"lineNumber":151853,"originalJapaneseLine":"　厳しい戦いが続いています」","translatedEnglishLine":"A harsh battle continues.\""},{"lineNumber":151854,"originalJapaneseLine":"「ヘルマンじゃ俺様が二人も魔人を殺しただろう。","translatedEnglishLine":"\"In Helman, I killed two of the demon lords myself."},{"lineNumber":151855,"originalJapaneseLine":"　楽勝じゃないのか？」","translatedEnglishLine":"Isn't it an easy win?\""},{"lineNumber":151856,"originalJapaneseLine":"「そんな簡単なわけないではないですか。","translatedEnglishLine":"\"It's not that simple."},{"lineNumber":151857,"originalJapaneseLine":"　戦争の基本である、兵数に差がありすぎます」","translatedEnglishLine":"There is a huge numerical advantage in troops, which is fundamental in war.\""},{"lineNumber":151858,"originalJapaneseLine":"「せめて、ヘルマン方面の魔軍を率いる","translatedEnglishLine":"\"At the very least, if we could defeat"},{"lineNumber":151859,"originalJapaneseLine":"　魔物大将軍ルメイを討てればいいのですが……」","translatedEnglishLine":"the demon general Lumei leading the demon army in the Helman area...\""},{"lineNumber":151860,"originalJapaneseLine":"「よし、話は分かった」","translatedEnglishLine":"\"Alright, I understand the situation.\""},{"lineNumber":151861,"originalJapaneseLine":"「ルメイは俺様がとっちめてきてやろう」","translatedEnglishLine":"\"I'll go and take down Lumei myself.\""},{"lineNumber":151862,"originalJapaneseLine":"「え、ちょっと待って下さい！？」","translatedEnglishLine":"\"Eh, please wait a moment!?\""},{"lineNumber":151863,"originalJapaneseLine":"「ランス総統の仕事はあくまでも、","translatedEnglishLine":"\"Supreme Commander Lance's job is ultimately to,"},{"lineNumber":151864,"originalJapaneseLine":"　魔人の討伐です。","translatedEnglishLine":"defeat the demon lords."},{"lineNumber":151865,"originalJapaneseLine":"　貴重な戦力を大将軍の討伐の為には……","translatedEnglishLine":"Using such valuable forces to take down a general...\""},{"lineNumber":151866,"originalJapaneseLine":"「おーっと、だが誤解するなよ！」","translatedEnglishLine":"\"Whoa, but don't misunderstand!\""},{"lineNumber":151867,"originalJapaneseLine":"「俺もタダでは動かん。","translatedEnglishLine":"\"I won't move for free either."},{"lineNumber":151868,"originalJapaneseLine":"　ご褒美がなくてはな……」","translatedEnglishLine":"I need a reward...\""},{"lineNumber":151869,"originalJapaneseLine":"「え、いえ、そんな話はしてな……」","translatedEnglishLine":"\"Eh, no, we weren't talking about that...\""},{"lineNumber":151870,"originalJapaneseLine":"「俺が向こうのトップを殺したら、","translatedEnglishLine":"\"If I kill their top commander,"},{"lineNumber":151871,"originalJapaneseLine":"　お礼にやらせろ、いいな」","translatedEnglishLine":"you'll let me have my way as a reward, got it?\""},{"lineNumber":151872,"originalJapaneseLine":"「や、ら……」","translatedEnglishLine":"\"Le-let me...\""},{"lineNumber":151873,"originalJapaneseLine":"「なっ！」","translatedEnglishLine":"\"Wha-!\""},{"lineNumber":151874,"originalJapaneseLine":"「い、いいわけないでしょう！」","translatedEnglishLine":"\"Th-That’s absolutely not okay!\""},{"lineNumber":151875,"originalJapaneseLine":"「いや、今俺が決めた。","translatedEnglishLine":"\"No, I've just decided now."},{"lineNumber":151876,"originalJapaneseLine":"　魔物大将軍ルメイを倒したら","translatedEnglishLine":"If I defeat the demon general Lumei,"},{"lineNumber":151877,"originalJapaneseLine":"　クリームちゃんがセックスしてくれる」","translatedEnglishLine":"Cream-chan will have sex with me.\""},{"lineNumber":151878,"originalJapaneseLine":"「これは総統閣下による決定だ」","translatedEnglishLine":"\"This is a decision by Supreme Commander His Excellency.\""},{"lineNumber":151879,"originalJapaneseLine":"「さーて、話も終わったし寝るかー」","translatedEnglishLine":"\"Well then, the talk's over, time to sleep.\""},{"lineNumber":151880,"originalJapaneseLine":"「ちょ、ちょっと待って下さい！","translatedEnglishLine":"\"W-wait just a moment!\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1451,"input_tokens_details":{"cached_tokens":0},"output_tokens":1871,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3322},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":151831,\"originalJapaneseLine\":\"「ぐふふふ、話は数日前のことだ……」\",\"translatedEnglishLine\":\"\\\"Gufufufu, this story is from a few days ago...\\\"\"},{\"lineNumber\":151832,\"originalJapaneseLine\":\"ランス城――\",\"translatedEnglishLine\":\"Lance Castle――\"},{\"lineNumber\":151833,\"originalJapaneseLine\":\"司令部――\",\"translatedEnglishLine\":\"Command Headquarters――\"},{\"lineNumber\":151834,\"originalJapaneseLine\":\"「ふむ」\",\"translatedEnglishLine\":\"\\\"Hmm.\\\"\"},{\"lineNumber\":151835,\"originalJapaneseLine\":\"なんとなくランスは司令部を覗きに来ていた。\",\"translatedEnglishLine\":\"For some reason, Lance had come to peek into the command headquarters.\"},{\"lineNumber\":151836,\"originalJapaneseLine\":\"時刻は深夜にも関わらず、\",\"translatedEnglishLine\":\"Despite being midnight,\"},{\"lineNumber\":151837,\"originalJapaneseLine\":\"昼間と同程度の人間が忙しそうに働いていた。\",\"translatedEnglishLine\":\"about as many people as during the day were busy at work.\"},{\"lineNumber\":151838,\"originalJapaneseLine\":\"「ウルザちゃんや、アールコートちゃんは\",\"translatedEnglishLine\":\"\\\"Urza-chan and Arcoat-chan\"},{\"lineNumber\":151839,\"originalJapaneseLine\":\"　もう寝たようだな……残るは……」\",\"translatedEnglishLine\":\"seem to have already gone to sleep... The ones still here are...\\\"\"},{\"lineNumber\":151840,\"originalJapaneseLine\":\"「あ、これは、総統……」\",\"translatedEnglishLine\":\"\\\"Ah, this is... Supreme Commander...\\\"\"},{\"lineNumber\":151841,\"originalJapaneseLine\":\"「よう、クリームちゃん、\",\"translatedEnglishLine\":\"\\\"Hey, Cream-chan,\"},{\"lineNumber\":151842,\"originalJapaneseLine\":\"　こんな時間まで残業か？」\",\"translatedEnglishLine\":\"working overtime at this hour?\\\"\"},{\"lineNumber\":151843,\"originalJapaneseLine\":\"「いえ、残業というか、これは……」\",\"translatedEnglishLine\":\"\\\"No, it's not exactly overtime, this is...\\\"\"},{\"lineNumber\":151844,\"originalJapaneseLine\":\"「うん？　ヘルマンの地図を見ていたのか……\",\"translatedEnglishLine\":\"\\\"Hmm? You were looking at the map of Helman...?\"},{\"lineNumber\":151845,\"originalJapaneseLine\":\"　しかもただの地図じゃないな」\",\"translatedEnglishLine\":\"And not just any map.\\\"\"},{\"lineNumber\":151846,\"originalJapaneseLine\":\"「ええ、これは対魔軍作戦の地図です」\",\"translatedEnglishLine\":\"\\\"Yes, this is the operational map against the demon army.\\\"\"},{\"lineNumber\":151847,\"originalJapaneseLine\":\"「なんだ、気になるのか？」\",\"translatedEnglishLine\":\"\\\"Oh? Are you interested?\\\"\"},{\"lineNumber\":151848,\"originalJapaneseLine\":\"「……当然です」\",\"translatedEnglishLine\":\"\\\"...Of course.\\\"\"},{\"lineNumber\":151849,\"originalJapaneseLine\":\"「透琳先生が軍師として動かれているので、\",\"translatedEnglishLine\":\"\\\"Because Ms. Torin is acting as the military strategist,\"},{\"lineNumber\":151850,\"originalJapaneseLine\":\"　私なんかよりずっと上手く\",\"translatedEnglishLine\":\"she is handling things much better than someone like me,\"},{\"lineNumber\":151851,\"originalJapaneseLine\":\"　やってくれていますが……」\",\"translatedEnglishLine\":\"but still...\\\"\"},{\"lineNumber\":151852,\"originalJapaneseLine\":\"「魔軍の兵力は膨大です。\",\"translatedEnglishLine\":\"\\\"The demon army's forces are vast.\"},{\"lineNumber\":151853,\"originalJapaneseLine\":\"　厳しい戦いが続いています」\",\"translatedEnglishLine\":\"A harsh battle continues.\\\"\"},{\"lineNumber\":151854,\"originalJapaneseLine\":\"「ヘルマンじゃ俺様が二人も魔人を殺しただろう。\",\"translatedEnglishLine\":\"\\\"In Helman, I killed two of the demon lords myself.\"},{\"lineNumber\":151855,\"originalJapaneseLine\":\"　楽勝じゃないのか？」\",\"translatedEnglishLine\":\"Isn't it an easy win?\\\"\"},{\"lineNumber\":151856,\"originalJapaneseLine\":\"「そんな簡単なわけないではないですか。\",\"translatedEnglishLine\":\"\\\"It's not that simple.\"},{\"lineNumber\":151857,\"originalJapaneseLine\":\"　戦争の基本である、兵数に差がありすぎます」\",\"translatedEnglishLine\":\"There is a huge numerical advantage in troops, which is fundamental in war.\\\"\"},{\"lineNumber\":151858,\"originalJapaneseLine\":\"「せめて、ヘルマン方面の魔軍を率いる\",\"translatedEnglishLine\":\"\\\"At the very least, if we could defeat\"},{\"lineNumber\":151859,\"originalJapaneseLine\":\"　魔物大将軍ルメイを討てればいいのですが……」\",\"translatedEnglishLine\":\"the demon general Lumei leading the demon army in the Helman area...\\\"\"},{\"lineNumber\":151860,\"originalJapaneseLine\":\"「よし、話は分かった」\",\"translatedEnglishLine\":\"\\\"Alright, I understand the situation.\\\"\"},{\"lineNumber\":151861,\"originalJapaneseLine\":\"「ルメイは俺様がとっちめてきてやろう」\",\"translatedEnglishLine\":\"\\\"I'll go and take down Lumei myself.\\\"\"},{\"lineNumber\":151862,\"originalJapaneseLine\":\"「え、ちょっと待って下さい！？」\",\"translatedEnglishLine\":\"\\\"Eh, please wait a moment!?\\\"\"},{\"lineNumber\":151863,\"originalJapaneseLine\":\"「ランス総統の仕事はあくまでも、\",\"translatedEnglishLine\":\"\\\"Supreme Commander Lance's job is ultimately to,\"},{\"lineNumber\":151864,\"originalJapaneseLine\":\"　魔人の討伐です。\",\"translatedEnglishLine\":\"defeat the demon lords.\"},{\"lineNumber\":151865,\"originalJapaneseLine\":\"　貴重な戦力を大将軍の討伐の為には……\",\"translatedEnglishLine\":\"Using such valuable forces to take down a general...\\\"\"},{\"lineNumber\":151866,\"originalJapaneseLine\":\"「おーっと、だが誤解するなよ！」\",\"translatedEnglishLine\":\"\\\"Whoa, but don't misunderstand!\\\"\"},{\"lineNumber\":151867,\"originalJapaneseLine\":\"「俺もタダでは動かん。\",\"translatedEnglishLine\":\"\\\"I won't move for free either.\"},{\"lineNumber\":151868,\"originalJapaneseLine\":\"　ご褒美がなくてはな……」\",\"translatedEnglishLine\":\"I need a reward...\\\"\"},{\"lineNumber\":151869,\"originalJapaneseLine\":\"「え、いえ、そんな話はしてな……」\",\"translatedEnglishLine\":\"\\\"Eh, no, we weren't talking about that...\\\"\"},{\"lineNumber\":151870,\"originalJapaneseLine\":\"「俺が向こうのトップを殺したら、\",\"translatedEnglishLine\":\"\\\"If I kill their top commander,\"},{\"lineNumber\":151871,\"originalJapaneseLine\":\"　お礼にやらせろ、いいな」\",\"translatedEnglishLine\":\"you'll let me have my way as a reward, got it?\\\"\"},{\"lineNumber\":151872,\"originalJapaneseLine\":\"「や、ら……」\",\"translatedEnglishLine\":\"\\\"Le-let me...\\\"\"},{\"lineNumber\":151873,\"originalJapaneseLine\":\"「なっ！」\",\"translatedEnglishLine\":\"\\\"Wha-!\\\"\"},{\"lineNumber\":151874,\"originalJapaneseLine\":\"「い、いいわけないでしょう！」\",\"translatedEnglishLine\":\"\\\"Th-That’s absolutely not okay!\\\"\"},{\"lineNumber\":151875,\"originalJapaneseLine\":\"「いや、今俺が決めた。\",\"translatedEnglishLine\":\"\\\"No, I've just decided now.\"},{\"lineNumber\":151876,\"originalJapaneseLine\":\"　魔物大将軍ルメイを倒したら\",\"translatedEnglishLine\":\"If I defeat the demon general Lumei,\"},{\"lineNumber\":151877,\"originalJapaneseLine\":\"　クリームちゃんがセックスしてくれる」\",\"translatedEnglishLine\":\"Cream-chan will have sex with me.\\\"\"},{\"lineNumber\":151878,\"originalJapaneseLine\":\"「これは総統閣下による決定だ」\",\"translatedEnglishLine\":\"\\\"This is a decision by Supreme Commander His Excellency.\\\"\"},{\"lineNumber\":151879,\"originalJapaneseLine\":\"「さーて、話も終わったし寝るかー」\",\"translatedEnglishLine\":\"\\\"Well then, the talk's over, time to sleep.\\\"\"},{\"lineNumber\":151880,\"originalJapaneseLine\":\"「ちょ、ちょっと待って下さい！\",\"translatedEnglishLine\":\"\\\"W-wait just a moment!\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":151831,"originalJapaneseLine":"「ぐふふふ、話は数日前のことだ……」","translatedEnglishLine":"\"Gufufufu, this story is from a few days ago...\""},{"lineNumber":151832,"originalJapaneseLine":"ランス城――","translatedEnglishLine":"Lance Castle――"},{"lineNumber":151833,"originalJapaneseLine":"司令部――","translatedEnglishLine":"Command Headquarters――"},{"lineNumber":151834,"originalJapaneseLine":"「ふむ」","translatedEnglishLine":"\"Hmm.\""},{"lineNumber":151835,"originalJapaneseLine":"なんとなくランスは司令部を覗きに来ていた。","translatedEnglishLine":"For some reason, Lance had come to peek into the command headquarters."},{"lineNumber":151836,"originalJapaneseLine":"時刻は深夜にも関わらず、","translatedEnglishLine":"Despite being midnight,"},{"lineNumber":151837,"originalJapaneseLine":"昼間と同程度の人間が忙しそうに働いていた。","translatedEnglishLine":"about as many people as during the day were busy at work."},{"lineNumber":151838,"originalJapaneseLine":"「ウルザちゃんや、アールコートちゃんは","translatedEnglishLine":"\"Urza-chan and Arcoat-chan"},{"lineNumber":151839,"originalJapaneseLine":"　もう寝たようだな……残るは……」","translatedEnglishLine":"seem to have already gone to sleep... The ones still here are...\""},{"lineNumber":151840,"originalJapaneseLine":"「あ、これは、総統……」","translatedEnglishLine":"\"Ah, this is... Supreme Commander...\""},{"lineNumber":151841,"originalJapaneseLine":"「よう、クリームちゃん、","translatedEnglishLine":"\"Hey, Cream-chan,"},{"lineNumber":151842,"originalJapaneseLine":"　こんな時間まで残業か？」","translatedEnglishLine":"working overtime at this hour?\""},{"lineNumber":151843,"originalJapaneseLine":"「いえ、残業というか、これは……」","translatedEnglishLine":"\"No, it's not exactly overtime, this is...\""},{"lineNumber":151844,"originalJapaneseLine":"「うん？　ヘルマンの地図を見ていたのか……","translatedEnglishLine":"\"Hmm? You were looking at the map of Helman...?"},{"lineNumber":151845,"originalJapaneseLine":"　しかもただの地図じゃないな」","translatedEnglishLine":"And not just any map.\""},{"lineNumber":151846,"originalJapaneseLine":"「ええ、これは対魔軍作戦の地図です」","translatedEnglishLine":"\"Yes, this is the operational map against the demon army.\""},{"lineNumber":151847,"originalJapaneseLine":"「なんだ、気になるのか？」","translatedEnglishLine":"\"Oh? Are you interested?\""},{"lineNumber":151848,"originalJapaneseLine":"「……当然です」","translatedEnglishLine":"\"...Of course.\""},{"lineNumber":151849,"originalJapaneseLine":"「透琳先生が軍師として動かれているので、","translatedEnglishLine":"\"Because Ms. Torin is acting as the military strategist,"},{"lineNumber":151850,"originalJapaneseLine":"　私なんかよりずっと上手く","translatedEnglishLine":"she is handling things much better than someone like me,"},{"lineNumber":151851,"originalJapaneseLine":"　やってくれていますが……」","translatedEnglishLine":"but still...\""},{"lineNumber":151852,"originalJapaneseLine":"「魔軍の兵力は膨大です。","translatedEnglishLine":"\"The demon army's forces are vast."},{"lineNumber":151853,"originalJapaneseLine":"　厳しい戦いが続いています」","translatedEnglishLine":"A harsh battle continues.\""},{"lineNumber":151854,"originalJapaneseLine":"「ヘルマンじゃ俺様が二人も魔人を殺しただろう。","translatedEnglishLine":"\"In Helman, I killed two of the demon lords myself."},{"lineNumber":151855,"originalJapaneseLine":"　楽勝じゃないのか？」","translatedEnglishLine":"Isn't it an easy win?\""},{"lineNumber":151856,"originalJapaneseLine":"「そんな簡単なわけないではないですか。","translatedEnglishLine":"\"It's not that simple."},{"lineNumber":151857,"originalJapaneseLine":"　戦争の基本である、兵数に差がありすぎます」","translatedEnglishLine":"There is a huge numerical advantage in troops, which is fundamental in war.\""},{"lineNumber":151858,"originalJapaneseLine":"「せめて、ヘルマン方面の魔軍を率いる","translatedEnglishLine":"\"At the very least, if we could defeat"},{"lineNumber":151859,"originalJapaneseLine":"　魔物大将軍ルメイを討てればいいのですが……」","translatedEnglishLine":"the demon general Lumei leading the demon army in the Helman area...\""},{"lineNumber":151860,"originalJapaneseLine":"「よし、話は分かった」","translatedEnglishLine":"\"Alright, I understand the situation.\""},{"lineNumber":151861,"originalJapaneseLine":"「ルメイは俺様がとっちめてきてやろう」","translatedEnglishLine":"\"I'll go and take down Lumei myself.\""},{"lineNumber":151862,"originalJapaneseLine":"「え、ちょっと待って下さい！？」","translatedEnglishLine":"\"Eh, please wait a moment!?\""},{"lineNumber":151863,"originalJapaneseLine":"「ランス総統の仕事はあくまでも、","translatedEnglishLine":"\"Supreme Commander Lance's job is ultimately to,"},{"lineNumber":151864,"originalJapaneseLine":"　魔人の討伐です。","translatedEnglishLine":"defeat the demon lords."},{"lineNumber":151865,"originalJapaneseLine":"　貴重な戦力を大将軍の討伐の為には……","translatedEnglishLine":"Using such valuable forces to take down a general...\""},{"lineNumber":151866,"originalJapaneseLine":"「おーっと、だが誤解するなよ！」","translatedEnglishLine":"\"Whoa, but don't misunderstand!\""},{"lineNumber":151867,"originalJapaneseLine":"「俺もタダでは動かん。","translatedEnglishLine":"\"I won't move for free either."},{"lineNumber":151868,"originalJapaneseLine":"　ご褒美がなくてはな……」","translatedEnglishLine":"I need a reward...\""},{"lineNumber":151869,"originalJapaneseLine":"「え、いえ、そんな話はしてな……」","translatedEnglishLine":"\"Eh, no, we weren't talking about that...\""},{"lineNumber":151870,"originalJapaneseLine":"「俺が向こうのトップを殺したら、","translatedEnglishLine":"\"If I kill their top commander,"},{"lineNumber":151871,"originalJapaneseLine":"　お礼にやらせろ、いいな」","translatedEnglishLine":"you'll let me have my way as a reward, got it?\""},{"lineNumber":151872,"originalJapaneseLine":"「や、ら……」","translatedEnglishLine":"\"Le-let me...\""},{"lineNumber":151873,"originalJapaneseLine":"「なっ！」","translatedEnglishLine":"\"Wha-!\""},{"lineNumber":151874,"originalJapaneseLine":"「い、いいわけないでしょう！」","translatedEnglishLine":"\"Th-That’s absolutely not okay!\""},{"lineNumber":151875,"originalJapaneseLine":"「いや、今俺が決めた。","translatedEnglishLine":"\"No, I've just decided now."},{"lineNumber":151876,"originalJapaneseLine":"　魔物大将軍ルメイを倒したら","translatedEnglishLine":"If I defeat the demon general Lumei,"},{"lineNumber":151877,"originalJapaneseLine":"　クリームちゃんがセックスしてくれる」","translatedEnglishLine":"Cream-chan will have sex with me.\""},{"lineNumber":151878,"originalJapaneseLine":"「これは総統閣下による決定だ」","translatedEnglishLine":"\"This is a decision by Supreme Commander His Excellency.\""},{"lineNumber":151879,"originalJapaneseLine":"「さーて、話も終わったし寝るかー」","translatedEnglishLine":"\"Well then, the talk's over, time to sleep.\""},{"lineNumber":151880,"originalJapaneseLine":"「ちょ、ちょっと待って下さい！","translatedEnglishLine":"\"W-wait just a moment!\""}]}}
+{
+    "id": "resp_0f8725dfaee5dd4b0068f14ef3778c8195b5d2a1c105af30e7",
+    "object": "response",
+    "created_at": 1760644851,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0f8725dfaee5dd4b0068f14ef3e42881959437b948303f931d",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":151831,\"originalJapaneseLine\":\"「ぐふふふ、話は数日前のことだ……」\",\"translatedEnglishLine\":\"\\\"Gufufufu, this story is from a few days ago...\\\"\"},{\"lineNumber\":151832,\"originalJapaneseLine\":\"ランス城――\",\"translatedEnglishLine\":\"Lance Castle――\"},{\"lineNumber\":151833,\"originalJapaneseLine\":\"司令部――\",\"translatedEnglishLine\":\"Command Headquarters――\"},{\"lineNumber\":151834,\"originalJapaneseLine\":\"「ふむ」\",\"translatedEnglishLine\":\"\\\"Hmm.\\\"\"},{\"lineNumber\":151835,\"originalJapaneseLine\":\"なんとなくランスは司令部を覗きに来ていた。\",\"translatedEnglishLine\":\"For some reason, Lance had come to peek into the command headquarters.\"},{\"lineNumber\":151836,\"originalJapaneseLine\":\"時刻は深夜にも関わらず、\",\"translatedEnglishLine\":\"Despite being midnight,\"},{\"lineNumber\":151837,\"originalJapaneseLine\":\"昼間と同程度の人間が忙しそうに働いていた。\",\"translatedEnglishLine\":\"about as many people as during the day were busy at work.\"},{\"lineNumber\":151838,\"originalJapaneseLine\":\"「ウルザちゃんや、アールコートちゃんは\",\"translatedEnglishLine\":\"\\\"Urza-chan and Arcoat-chan\"},{\"lineNumber\":151839,\"originalJapaneseLine\":\"　もう寝たようだな……残るは……」\",\"translatedEnglishLine\":\"seem to have already gone to sleep... The ones still here are...\\\"\"},{\"lineNumber\":151840,\"originalJapaneseLine\":\"「あ、これは、総統……」\",\"translatedEnglishLine\":\"\\\"Ah, this is... Supreme Commander...\\\"\"},{\"lineNumber\":151841,\"originalJapaneseLine\":\"「よう、クリームちゃん、\",\"translatedEnglishLine\":\"\\\"Hey, Cream-chan,\"},{\"lineNumber\":151842,\"originalJapaneseLine\":\"　こんな時間まで残業か？」\",\"translatedEnglishLine\":\"working overtime at this hour?\\\"\"},{\"lineNumber\":151843,\"originalJapaneseLine\":\"「いえ、残業というか、これは……」\",\"translatedEnglishLine\":\"\\\"No, it's not exactly overtime, this is...\\\"\"},{\"lineNumber\":151844,\"originalJapaneseLine\":\"「うん？　ヘルマンの地図を見ていたのか……\",\"translatedEnglishLine\":\"\\\"Hmm? You were looking at the map of Helman...?\"},{\"lineNumber\":151845,\"originalJapaneseLine\":\"　しかもただの地図じゃないな」\",\"translatedEnglishLine\":\"And not just any map.\\\"\"},{\"lineNumber\":151846,\"originalJapaneseLine\":\"「ええ、これは対魔軍作戦の地図です」\",\"translatedEnglishLine\":\"\\\"Yes, this is the operational map against the demon army.\\\"\"},{\"lineNumber\":151847,\"originalJapaneseLine\":\"「なんだ、気になるのか？」\",\"translatedEnglishLine\":\"\\\"Oh? Are you interested?\\\"\"},{\"lineNumber\":151848,\"originalJapaneseLine\":\"「……当然です」\",\"translatedEnglishLine\":\"\\\"...Of course.\\\"\"},{\"lineNumber\":151849,\"originalJapaneseLine\":\"「透琳先生が軍師として動かれているので、\",\"translatedEnglishLine\":\"\\\"Because Ms. Torin is acting as the military strategist,\"},{\"lineNumber\":151850,\"originalJapaneseLine\":\"　私なんかよりずっと上手く\",\"translatedEnglishLine\":\"she is handling things much better than someone like me,\"},{\"lineNumber\":151851,\"originalJapaneseLine\":\"　やってくれていますが……」\",\"translatedEnglishLine\":\"but still...\\\"\"},{\"lineNumber\":151852,\"originalJapaneseLine\":\"「魔軍の兵力は膨大です。\",\"translatedEnglishLine\":\"\\\"The demon army's forces are vast.\"},{\"lineNumber\":151853,\"originalJapaneseLine\":\"　厳しい戦いが続いています」\",\"translatedEnglishLine\":\"A harsh battle continues.\\\"\"},{\"lineNumber\":151854,\"originalJapaneseLine\":\"「ヘルマンじゃ俺様が二人も魔人を殺しただろう。\",\"translatedEnglishLine\":\"\\\"In Helman, I killed two of the demon lords myself.\"},{\"lineNumber\":151855,\"originalJapaneseLine\":\"　楽勝じゃないのか？」\",\"translatedEnglishLine\":\"Isn't it an easy win?\\\"\"},{\"lineNumber\":151856,\"originalJapaneseLine\":\"「そんな簡単なわけないではないですか。\",\"translatedEnglishLine\":\"\\\"It's not that simple.\"},{\"lineNumber\":151857,\"originalJapaneseLine\":\"　戦争の基本である、兵数に差がありすぎます」\",\"translatedEnglishLine\":\"There is a huge numerical advantage in troops, which is fundamental in war.\\\"\"},{\"lineNumber\":151858,\"originalJapaneseLine\":\"「せめて、ヘルマン方面の魔軍を率いる\",\"translatedEnglishLine\":\"\\\"At the very least, if we could defeat\"},{\"lineNumber\":151859,\"originalJapaneseLine\":\"　魔物大将軍ルメイを討てればいいのですが……」\",\"translatedEnglishLine\":\"the demon general Lumei leading the demon army in the Helman area...\\\"\"},{\"lineNumber\":151860,\"originalJapaneseLine\":\"「よし、話は分かった」\",\"translatedEnglishLine\":\"\\\"Alright, I understand the situation.\\\"\"},{\"lineNumber\":151861,\"originalJapaneseLine\":\"「ルメイは俺様がとっちめてきてやろう」\",\"translatedEnglishLine\":\"\\\"I'll go and take down Lumei myself.\\\"\"},{\"lineNumber\":151862,\"originalJapaneseLine\":\"「え、ちょっと待って下さい！？」\",\"translatedEnglishLine\":\"\\\"Eh, please wait a moment!?\\\"\"},{\"lineNumber\":151863,\"originalJapaneseLine\":\"「ランス総統の仕事はあくまでも、\",\"translatedEnglishLine\":\"\\\"Supreme Commander Lance's job is ultimately to,\"},{\"lineNumber\":151864,\"originalJapaneseLine\":\"　魔人の討伐です。\",\"translatedEnglishLine\":\"defeat the demon lords.\"},{\"lineNumber\":151865,\"originalJapaneseLine\":\"　貴重な戦力を大将軍の討伐の為には……\",\"translatedEnglishLine\":\"Using such valuable forces to take down a general...\\\"\"},{\"lineNumber\":151866,\"originalJapaneseLine\":\"「おーっと、だが誤解するなよ！」\",\"translatedEnglishLine\":\"\\\"Whoa, but don't misunderstand!\\\"\"},{\"lineNumber\":151867,\"originalJapaneseLine\":\"「俺もタダでは動かん。\",\"translatedEnglishLine\":\"\\\"I won't move for free either.\"},{\"lineNumber\":151868,\"originalJapaneseLine\":\"　ご褒美がなくてはな……」\",\"translatedEnglishLine\":\"I need a reward...\\\"\"},{\"lineNumber\":151869,\"originalJapaneseLine\":\"「え、いえ、そんな話はしてな……」\",\"translatedEnglishLine\":\"\\\"Eh, no, we weren't talking about that...\\\"\"},{\"lineNumber\":151870,\"originalJapaneseLine\":\"「俺が向こうのトップを殺したら、\",\"translatedEnglishLine\":\"\\\"If I kill their top commander,\"},{\"lineNumber\":151871,\"originalJapaneseLine\":\"　お礼にやらせろ、いいな」\",\"translatedEnglishLine\":\"you'll let me have my way as a reward, got it?\\\"\"},{\"lineNumber\":151872,\"originalJapaneseLine\":\"「や、ら……」\",\"translatedEnglishLine\":\"\\\"Le-let me...\\\"\"},{\"lineNumber\":151873,\"originalJapaneseLine\":\"「なっ！」\",\"translatedEnglishLine\":\"\\\"Wha-!\\\"\"},{\"lineNumber\":151874,\"originalJapaneseLine\":\"「い、いいわけないでしょう！」\",\"translatedEnglishLine\":\"\\\"Th-That’s absolutely not okay!\\\"\"},{\"lineNumber\":151875,\"originalJapaneseLine\":\"「いや、今俺が決めた。\",\"translatedEnglishLine\":\"\\\"No, I've just decided now.\"},{\"lineNumber\":151876,\"originalJapaneseLine\":\"　魔物大将軍ルメイを倒したら\",\"translatedEnglishLine\":\"If I defeat the demon general Lumei,\"},{\"lineNumber\":151877,\"originalJapaneseLine\":\"　クリームちゃんがセックスしてくれる」\",\"translatedEnglishLine\":\"Cream-chan will have sex with me.\\\"\"},{\"lineNumber\":151878,\"originalJapaneseLine\":\"「これは総統閣下による決定だ」\",\"translatedEnglishLine\":\"\\\"This is a decision by Supreme Commander His Excellency.\\\"\"},{\"lineNumber\":151879,\"originalJapaneseLine\":\"「さーて、話も終わったし寝るかー」\",\"translatedEnglishLine\":\"\\\"Well then, the talk's over, time to sleep.\\\"\"},{\"lineNumber\":151880,\"originalJapaneseLine\":\"「ちょ、ちょっと待って下さい！\",\"translatedEnglishLine\":\"\\\"W-wait just a moment!\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 151831,
+                                "originalJapaneseLine": "「ぐふふふ、話は数日前のことだ……」",
+                                "translatedEnglishLine": "\"Gufufufu, this story is from a few days ago...\""
+                            },
+                            {
+                                "lineNumber": 151832,
+                                "originalJapaneseLine": "ランス城――",
+                                "translatedEnglishLine": "Lance Castle――"
+                            },
+                            {
+                                "lineNumber": 151833,
+                                "originalJapaneseLine": "司令部――",
+                                "translatedEnglishLine": "Command Headquarters――"
+                            },
+                            {
+                                "lineNumber": 151834,
+                                "originalJapaneseLine": "「ふむ」",
+                                "translatedEnglishLine": "\"Hmm.\""
+                            },
+                            {
+                                "lineNumber": 151835,
+                                "originalJapaneseLine": "なんとなくランスは司令部を覗きに来ていた。",
+                                "translatedEnglishLine": "For some reason, Lance had come to peek into the command headquarters."
+                            },
+                            {
+                                "lineNumber": 151836,
+                                "originalJapaneseLine": "時刻は深夜にも関わらず、",
+                                "translatedEnglishLine": "Despite being midnight,"
+                            },
+                            {
+                                "lineNumber": 151837,
+                                "originalJapaneseLine": "昼間と同程度の人間が忙しそうに働いていた。",
+                                "translatedEnglishLine": "about as many people as during the day were busy at work."
+                            },
+                            {
+                                "lineNumber": 151838,
+                                "originalJapaneseLine": "「ウルザちゃんや、アールコートちゃんは",
+                                "translatedEnglishLine": "\"Urza-chan and Arcoat-chan"
+                            },
+                            {
+                                "lineNumber": 151839,
+                                "originalJapaneseLine": "　もう寝たようだな……残るは……」",
+                                "translatedEnglishLine": "seem to have already gone to sleep... The ones still here are...\""
+                            },
+                            {
+                                "lineNumber": 151840,
+                                "originalJapaneseLine": "「あ、これは、総統……」",
+                                "translatedEnglishLine": "\"Ah, this is... Supreme Commander...\""
+                            },
+                            {
+                                "lineNumber": 151841,
+                                "originalJapaneseLine": "「よう、クリームちゃん、",
+                                "translatedEnglishLine": "\"Hey, Cream-chan,"
+                            },
+                            {
+                                "lineNumber": 151842,
+                                "originalJapaneseLine": "　こんな時間まで残業か？」",
+                                "translatedEnglishLine": "working overtime at this hour?\""
+                            },
+                            {
+                                "lineNumber": 151843,
+                                "originalJapaneseLine": "「いえ、残業というか、これは……」",
+                                "translatedEnglishLine": "\"No, it's not exactly overtime, this is...\""
+                            },
+                            {
+                                "lineNumber": 151844,
+                                "originalJapaneseLine": "「うん？　ヘルマンの地図を見ていたのか……",
+                                "translatedEnglishLine": "\"Hmm? You were looking at the map of Helman...?"
+                            },
+                            {
+                                "lineNumber": 151845,
+                                "originalJapaneseLine": "　しかもただの地図じゃないな」",
+                                "translatedEnglishLine": "And not just any map.\""
+                            },
+                            {
+                                "lineNumber": 151846,
+                                "originalJapaneseLine": "「ええ、これは対魔軍作戦の地図です」",
+                                "translatedEnglishLine": "\"Yes, this is the operational map against the demon army.\""
+                            },
+                            {
+                                "lineNumber": 151847,
+                                "originalJapaneseLine": "「なんだ、気になるのか？」",
+                                "translatedEnglishLine": "\"Oh? Are you interested?\""
+                            },
+                            {
+                                "lineNumber": 151848,
+                                "originalJapaneseLine": "「……当然です」",
+                                "translatedEnglishLine": "\"...Of course.\""
+                            },
+                            {
+                                "lineNumber": 151849,
+                                "originalJapaneseLine": "「透琳先生が軍師として動かれているので、",
+                                "translatedEnglishLine": "\"Because Ms. Torin is acting as the military strategist,"
+                            },
+                            {
+                                "lineNumber": 151850,
+                                "originalJapaneseLine": "　私なんかよりずっと上手く",
+                                "translatedEnglishLine": "she is handling things much better than someone like me,"
+                            },
+                            {
+                                "lineNumber": 151851,
+                                "originalJapaneseLine": "　やってくれていますが……」",
+                                "translatedEnglishLine": "but still...\""
+                            },
+                            {
+                                "lineNumber": 151852,
+                                "originalJapaneseLine": "「魔軍の兵力は膨大です。",
+                                "translatedEnglishLine": "\"The demon army's forces are vast."
+                            },
+                            {
+                                "lineNumber": 151853,
+                                "originalJapaneseLine": "　厳しい戦いが続いています」",
+                                "translatedEnglishLine": "A harsh battle continues.\""
+                            },
+                            {
+                                "lineNumber": 151854,
+                                "originalJapaneseLine": "「ヘルマンじゃ俺様が二人も魔人を殺しただろう。",
+                                "translatedEnglishLine": "\"In Helman, I killed two of the demon lords myself."
+                            },
+                            {
+                                "lineNumber": 151855,
+                                "originalJapaneseLine": "　楽勝じゃないのか？」",
+                                "translatedEnglishLine": "Isn't it an easy win?\""
+                            },
+                            {
+                                "lineNumber": 151856,
+                                "originalJapaneseLine": "「そんな簡単なわけないではないですか。",
+                                "translatedEnglishLine": "\"It's not that simple."
+                            },
+                            {
+                                "lineNumber": 151857,
+                                "originalJapaneseLine": "　戦争の基本である、兵数に差がありすぎます」",
+                                "translatedEnglishLine": "There is a huge numerical advantage in troops, which is fundamental in war.\""
+                            },
+                            {
+                                "lineNumber": 151858,
+                                "originalJapaneseLine": "「せめて、ヘルマン方面の魔軍を率いる",
+                                "translatedEnglishLine": "\"At the very least, if we could defeat"
+                            },
+                            {
+                                "lineNumber": 151859,
+                                "originalJapaneseLine": "　魔物大将軍ルメイを討てればいいのですが……」",
+                                "translatedEnglishLine": "the demon general Lumei leading the demon army in the Helman area...\""
+                            },
+                            {
+                                "lineNumber": 151860,
+                                "originalJapaneseLine": "「よし、話は分かった」",
+                                "translatedEnglishLine": "\"Alright, I understand the situation.\""
+                            },
+                            {
+                                "lineNumber": 151861,
+                                "originalJapaneseLine": "「ルメイは俺様がとっちめてきてやろう」",
+                                "translatedEnglishLine": "\"I'll go and take down Lumei myself.\""
+                            },
+                            {
+                                "lineNumber": 151862,
+                                "originalJapaneseLine": "「え、ちょっと待って下さい！？」",
+                                "translatedEnglishLine": "\"Eh, please wait a moment!?\""
+                            },
+                            {
+                                "lineNumber": 151863,
+                                "originalJapaneseLine": "「ランス総統の仕事はあくまでも、",
+                                "translatedEnglishLine": "\"Supreme Commander Lance's job is ultimately to,"
+                            },
+                            {
+                                "lineNumber": 151864,
+                                "originalJapaneseLine": "　魔人の討伐です。",
+                                "translatedEnglishLine": "defeat the demon lords."
+                            },
+                            {
+                                "lineNumber": 151865,
+                                "originalJapaneseLine": "　貴重な戦力を大将軍の討伐の為には……",
+                                "translatedEnglishLine": "Using such valuable forces to take down a general...\""
+                            },
+                            {
+                                "lineNumber": 151866,
+                                "originalJapaneseLine": "「おーっと、だが誤解するなよ！」",
+                                "translatedEnglishLine": "\"Whoa, but don't misunderstand!\""
+                            },
+                            {
+                                "lineNumber": 151867,
+                                "originalJapaneseLine": "「俺もタダでは動かん。",
+                                "translatedEnglishLine": "\"I won't move for free either."
+                            },
+                            {
+                                "lineNumber": 151868,
+                                "originalJapaneseLine": "　ご褒美がなくてはな……」",
+                                "translatedEnglishLine": "I need a reward...\""
+                            },
+                            {
+                                "lineNumber": 151869,
+                                "originalJapaneseLine": "「え、いえ、そんな話はしてな……」",
+                                "translatedEnglishLine": "\"Eh, no, we weren't talking about that...\""
+                            },
+                            {
+                                "lineNumber": 151870,
+                                "originalJapaneseLine": "「俺が向こうのトップを殺したら、",
+                                "translatedEnglishLine": "\"If I kill their top commander,"
+                            },
+                            {
+                                "lineNumber": 151871,
+                                "originalJapaneseLine": "　お礼にやらせろ、いいな」",
+                                "translatedEnglishLine": "you'll let me have my way as a reward, got it?\""
+                            },
+                            {
+                                "lineNumber": 151872,
+                                "originalJapaneseLine": "「や、ら……」",
+                                "translatedEnglishLine": "\"Le-let me...\""
+                            },
+                            {
+                                "lineNumber": 151873,
+                                "originalJapaneseLine": "「なっ！」",
+                                "translatedEnglishLine": "\"Wha-!\""
+                            },
+                            {
+                                "lineNumber": 151874,
+                                "originalJapaneseLine": "「い、いいわけないでしょう！」",
+                                "translatedEnglishLine": "\"Th-That’s absolutely not okay!\""
+                            },
+                            {
+                                "lineNumber": 151875,
+                                "originalJapaneseLine": "「いや、今俺が決めた。",
+                                "translatedEnglishLine": "\"No, I've just decided now."
+                            },
+                            {
+                                "lineNumber": 151876,
+                                "originalJapaneseLine": "　魔物大将軍ルメイを倒したら",
+                                "translatedEnglishLine": "If I defeat the demon general Lumei,"
+                            },
+                            {
+                                "lineNumber": 151877,
+                                "originalJapaneseLine": "　クリームちゃんがセックスしてくれる」",
+                                "translatedEnglishLine": "Cream-chan will have sex with me.\""
+                            },
+                            {
+                                "lineNumber": 151878,
+                                "originalJapaneseLine": "「これは総統閣下による決定だ」",
+                                "translatedEnglishLine": "\"This is a decision by Supreme Commander His Excellency.\""
+                            },
+                            {
+                                "lineNumber": 151879,
+                                "originalJapaneseLine": "「さーて、話も終わったし寝るかー」",
+                                "translatedEnglishLine": "\"Well then, the talk's over, time to sleep.\""
+                            },
+                            {
+                                "lineNumber": 151880,
+                                "originalJapaneseLine": "「ちょ、ちょっと待って下さい！",
+                                "translatedEnglishLine": "\"W-wait just a moment!\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1451,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1871,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3322
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":151831,\"originalJapaneseLine\":\"「ぐふふふ、話は数日前のことだ……」\",\"translatedEnglishLine\":\"\\\"Gufufufu, this story is from a few days ago...\\\"\"},{\"lineNumber\":151832,\"originalJapaneseLine\":\"ランス城――\",\"translatedEnglishLine\":\"Lance Castle――\"},{\"lineNumber\":151833,\"originalJapaneseLine\":\"司令部――\",\"translatedEnglishLine\":\"Command Headquarters――\"},{\"lineNumber\":151834,\"originalJapaneseLine\":\"「ふむ」\",\"translatedEnglishLine\":\"\\\"Hmm.\\\"\"},{\"lineNumber\":151835,\"originalJapaneseLine\":\"なんとなくランスは司令部を覗きに来ていた。\",\"translatedEnglishLine\":\"For some reason, Lance had come to peek into the command headquarters.\"},{\"lineNumber\":151836,\"originalJapaneseLine\":\"時刻は深夜にも関わらず、\",\"translatedEnglishLine\":\"Despite being midnight,\"},{\"lineNumber\":151837,\"originalJapaneseLine\":\"昼間と同程度の人間が忙しそうに働いていた。\",\"translatedEnglishLine\":\"about as many people as during the day were busy at work.\"},{\"lineNumber\":151838,\"originalJapaneseLine\":\"「ウルザちゃんや、アールコートちゃんは\",\"translatedEnglishLine\":\"\\\"Urza-chan and Arcoat-chan\"},{\"lineNumber\":151839,\"originalJapaneseLine\":\"　もう寝たようだな……残るは……」\",\"translatedEnglishLine\":\"seem to have already gone to sleep... The ones still here are...\\\"\"},{\"lineNumber\":151840,\"originalJapaneseLine\":\"「あ、これは、総統……」\",\"translatedEnglishLine\":\"\\\"Ah, this is... Supreme Commander...\\\"\"},{\"lineNumber\":151841,\"originalJapaneseLine\":\"「よう、クリームちゃん、\",\"translatedEnglishLine\":\"\\\"Hey, Cream-chan,\"},{\"lineNumber\":151842,\"originalJapaneseLine\":\"　こんな時間まで残業か？」\",\"translatedEnglishLine\":\"working overtime at this hour?\\\"\"},{\"lineNumber\":151843,\"originalJapaneseLine\":\"「いえ、残業というか、これは……」\",\"translatedEnglishLine\":\"\\\"No, it's not exactly overtime, this is...\\\"\"},{\"lineNumber\":151844,\"originalJapaneseLine\":\"「うん？　ヘルマンの地図を見ていたのか……\",\"translatedEnglishLine\":\"\\\"Hmm? You were looking at the map of Helman...?\"},{\"lineNumber\":151845,\"originalJapaneseLine\":\"　しかもただの地図じゃないな」\",\"translatedEnglishLine\":\"And not just any map.\\\"\"},{\"lineNumber\":151846,\"originalJapaneseLine\":\"「ええ、これは対魔軍作戦の地図です」\",\"translatedEnglishLine\":\"\\\"Yes, this is the operational map against the demon army.\\\"\"},{\"lineNumber\":151847,\"originalJapaneseLine\":\"「なんだ、気になるのか？」\",\"translatedEnglishLine\":\"\\\"Oh? Are you interested?\\\"\"},{\"lineNumber\":151848,\"originalJapaneseLine\":\"「……当然です」\",\"translatedEnglishLine\":\"\\\"...Of course.\\\"\"},{\"lineNumber\":151849,\"originalJapaneseLine\":\"「透琳先生が軍師として動かれているので、\",\"translatedEnglishLine\":\"\\\"Because Ms. Torin is acting as the military strategist,\"},{\"lineNumber\":151850,\"originalJapaneseLine\":\"　私なんかよりずっと上手く\",\"translatedEnglishLine\":\"she is handling things much better than someone like me,\"},{\"lineNumber\":151851,\"originalJapaneseLine\":\"　やってくれていますが……」\",\"translatedEnglishLine\":\"but still...\\\"\"},{\"lineNumber\":151852,\"originalJapaneseLine\":\"「魔軍の兵力は膨大です。\",\"translatedEnglishLine\":\"\\\"The demon army's forces are vast.\"},{\"lineNumber\":151853,\"originalJapaneseLine\":\"　厳しい戦いが続いています」\",\"translatedEnglishLine\":\"A harsh battle continues.\\\"\"},{\"lineNumber\":151854,\"originalJapaneseLine\":\"「ヘルマンじゃ俺様が二人も魔人を殺しただろう。\",\"translatedEnglishLine\":\"\\\"In Helman, I killed two of the demon lords myself.\"},{\"lineNumber\":151855,\"originalJapaneseLine\":\"　楽勝じゃないのか？」\",\"translatedEnglishLine\":\"Isn't it an easy win?\\\"\"},{\"lineNumber\":151856,\"originalJapaneseLine\":\"「そんな簡単なわけないではないですか。\",\"translatedEnglishLine\":\"\\\"It's not that simple.\"},{\"lineNumber\":151857,\"originalJapaneseLine\":\"　戦争の基本である、兵数に差がありすぎます」\",\"translatedEnglishLine\":\"There is a huge numerical advantage in troops, which is fundamental in war.\\\"\"},{\"lineNumber\":151858,\"originalJapaneseLine\":\"「せめて、ヘルマン方面の魔軍を率いる\",\"translatedEnglishLine\":\"\\\"At the very least, if we could defeat\"},{\"lineNumber\":151859,\"originalJapaneseLine\":\"　魔物大将軍ルメイを討てればいいのですが……」\",\"translatedEnglishLine\":\"the demon general Lumei leading the demon army in the Helman area...\\\"\"},{\"lineNumber\":151860,\"originalJapaneseLine\":\"「よし、話は分かった」\",\"translatedEnglishLine\":\"\\\"Alright, I understand the situation.\\\"\"},{\"lineNumber\":151861,\"originalJapaneseLine\":\"「ルメイは俺様がとっちめてきてやろう」\",\"translatedEnglishLine\":\"\\\"I'll go and take down Lumei myself.\\\"\"},{\"lineNumber\":151862,\"originalJapaneseLine\":\"「え、ちょっと待って下さい！？」\",\"translatedEnglishLine\":\"\\\"Eh, please wait a moment!?\\\"\"},{\"lineNumber\":151863,\"originalJapaneseLine\":\"「ランス総統の仕事はあくまでも、\",\"translatedEnglishLine\":\"\\\"Supreme Commander Lance's job is ultimately to,\"},{\"lineNumber\":151864,\"originalJapaneseLine\":\"　魔人の討伐です。\",\"translatedEnglishLine\":\"defeat the demon lords.\"},{\"lineNumber\":151865,\"originalJapaneseLine\":\"　貴重な戦力を大将軍の討伐の為には……\",\"translatedEnglishLine\":\"Using such valuable forces to take down a general...\\\"\"},{\"lineNumber\":151866,\"originalJapaneseLine\":\"「おーっと、だが誤解するなよ！」\",\"translatedEnglishLine\":\"\\\"Whoa, but don't misunderstand!\\\"\"},{\"lineNumber\":151867,\"originalJapaneseLine\":\"「俺もタダでは動かん。\",\"translatedEnglishLine\":\"\\\"I won't move for free either.\"},{\"lineNumber\":151868,\"originalJapaneseLine\":\"　ご褒美がなくてはな……」\",\"translatedEnglishLine\":\"I need a reward...\\\"\"},{\"lineNumber\":151869,\"originalJapaneseLine\":\"「え、いえ、そんな話はしてな……」\",\"translatedEnglishLine\":\"\\\"Eh, no, we weren't talking about that...\\\"\"},{\"lineNumber\":151870,\"originalJapaneseLine\":\"「俺が向こうのトップを殺したら、\",\"translatedEnglishLine\":\"\\\"If I kill their top commander,\"},{\"lineNumber\":151871,\"originalJapaneseLine\":\"　お礼にやらせろ、いいな」\",\"translatedEnglishLine\":\"you'll let me have my way as a reward, got it?\\\"\"},{\"lineNumber\":151872,\"originalJapaneseLine\":\"「や、ら……」\",\"translatedEnglishLine\":\"\\\"Le-let me...\\\"\"},{\"lineNumber\":151873,\"originalJapaneseLine\":\"「なっ！」\",\"translatedEnglishLine\":\"\\\"Wha-!\\\"\"},{\"lineNumber\":151874,\"originalJapaneseLine\":\"「い、いいわけないでしょう！」\",\"translatedEnglishLine\":\"\\\"Th-That’s absolutely not okay!\\\"\"},{\"lineNumber\":151875,\"originalJapaneseLine\":\"「いや、今俺が決めた。\",\"translatedEnglishLine\":\"\\\"No, I've just decided now.\"},{\"lineNumber\":151876,\"originalJapaneseLine\":\"　魔物大将軍ルメイを倒したら\",\"translatedEnglishLine\":\"If I defeat the demon general Lumei,\"},{\"lineNumber\":151877,\"originalJapaneseLine\":\"　クリームちゃんがセックスしてくれる」\",\"translatedEnglishLine\":\"Cream-chan will have sex with me.\\\"\"},{\"lineNumber\":151878,\"originalJapaneseLine\":\"「これは総統閣下による決定だ」\",\"translatedEnglishLine\":\"\\\"This is a decision by Supreme Commander His Excellency.\\\"\"},{\"lineNumber\":151879,\"originalJapaneseLine\":\"「さーて、話も終わったし寝るかー」\",\"translatedEnglishLine\":\"\\\"Well then, the talk's over, time to sleep.\\\"\"},{\"lineNumber\":151880,\"originalJapaneseLine\":\"「ちょ、ちょっと待って下さい！\",\"translatedEnglishLine\":\"\\\"W-wait just a moment!\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 151831,
+                "originalJapaneseLine": "「ぐふふふ、話は数日前のことだ……」",
+                "translatedEnglishLine": "\"Gufufufu, this story is from a few days ago...\""
+            },
+            {
+                "lineNumber": 151832,
+                "originalJapaneseLine": "ランス城――",
+                "translatedEnglishLine": "Lance Castle――"
+            },
+            {
+                "lineNumber": 151833,
+                "originalJapaneseLine": "司令部――",
+                "translatedEnglishLine": "Command Headquarters――"
+            },
+            {
+                "lineNumber": 151834,
+                "originalJapaneseLine": "「ふむ」",
+                "translatedEnglishLine": "\"Hmm.\""
+            },
+            {
+                "lineNumber": 151835,
+                "originalJapaneseLine": "なんとなくランスは司令部を覗きに来ていた。",
+                "translatedEnglishLine": "For some reason, Lance had come to peek into the command headquarters."
+            },
+            {
+                "lineNumber": 151836,
+                "originalJapaneseLine": "時刻は深夜にも関わらず、",
+                "translatedEnglishLine": "Despite being midnight,"
+            },
+            {
+                "lineNumber": 151837,
+                "originalJapaneseLine": "昼間と同程度の人間が忙しそうに働いていた。",
+                "translatedEnglishLine": "about as many people as during the day were busy at work."
+            },
+            {
+                "lineNumber": 151838,
+                "originalJapaneseLine": "「ウルザちゃんや、アールコートちゃんは",
+                "translatedEnglishLine": "\"Urza-chan and Arcoat-chan"
+            },
+            {
+                "lineNumber": 151839,
+                "originalJapaneseLine": "　もう寝たようだな……残るは……」",
+                "translatedEnglishLine": "seem to have already gone to sleep... The ones still here are...\""
+            },
+            {
+                "lineNumber": 151840,
+                "originalJapaneseLine": "「あ、これは、総統……」",
+                "translatedEnglishLine": "\"Ah, this is... Supreme Commander...\""
+            },
+            {
+                "lineNumber": 151841,
+                "originalJapaneseLine": "「よう、クリームちゃん、",
+                "translatedEnglishLine": "\"Hey, Cream-chan,"
+            },
+            {
+                "lineNumber": 151842,
+                "originalJapaneseLine": "　こんな時間まで残業か？」",
+                "translatedEnglishLine": "working overtime at this hour?\""
+            },
+            {
+                "lineNumber": 151843,
+                "originalJapaneseLine": "「いえ、残業というか、これは……」",
+                "translatedEnglishLine": "\"No, it's not exactly overtime, this is...\""
+            },
+            {
+                "lineNumber": 151844,
+                "originalJapaneseLine": "「うん？　ヘルマンの地図を見ていたのか……",
+                "translatedEnglishLine": "\"Hmm? You were looking at the map of Helman...?"
+            },
+            {
+                "lineNumber": 151845,
+                "originalJapaneseLine": "　しかもただの地図じゃないな」",
+                "translatedEnglishLine": "And not just any map.\""
+            },
+            {
+                "lineNumber": 151846,
+                "originalJapaneseLine": "「ええ、これは対魔軍作戦の地図です」",
+                "translatedEnglishLine": "\"Yes, this is the operational map against the demon army.\""
+            },
+            {
+                "lineNumber": 151847,
+                "originalJapaneseLine": "「なんだ、気になるのか？」",
+                "translatedEnglishLine": "\"Oh? Are you interested?\""
+            },
+            {
+                "lineNumber": 151848,
+                "originalJapaneseLine": "「……当然です」",
+                "translatedEnglishLine": "\"...Of course.\""
+            },
+            {
+                "lineNumber": 151849,
+                "originalJapaneseLine": "「透琳先生が軍師として動かれているので、",
+                "translatedEnglishLine": "\"Because Ms. Torin is acting as the military strategist,"
+            },
+            {
+                "lineNumber": 151850,
+                "originalJapaneseLine": "　私なんかよりずっと上手く",
+                "translatedEnglishLine": "she is handling things much better than someone like me,"
+            },
+            {
+                "lineNumber": 151851,
+                "originalJapaneseLine": "　やってくれていますが……」",
+                "translatedEnglishLine": "but still...\""
+            },
+            {
+                "lineNumber": 151852,
+                "originalJapaneseLine": "「魔軍の兵力は膨大です。",
+                "translatedEnglishLine": "\"The demon army's forces are vast."
+            },
+            {
+                "lineNumber": 151853,
+                "originalJapaneseLine": "　厳しい戦いが続いています」",
+                "translatedEnglishLine": "A harsh battle continues.\""
+            },
+            {
+                "lineNumber": 151854,
+                "originalJapaneseLine": "「ヘルマンじゃ俺様が二人も魔人を殺しただろう。",
+                "translatedEnglishLine": "\"In Helman, I killed two of the demon lords myself."
+            },
+            {
+                "lineNumber": 151855,
+                "originalJapaneseLine": "　楽勝じゃないのか？」",
+                "translatedEnglishLine": "Isn't it an easy win?\""
+            },
+            {
+                "lineNumber": 151856,
+                "originalJapaneseLine": "「そんな簡単なわけないではないですか。",
+                "translatedEnglishLine": "\"It's not that simple."
+            },
+            {
+                "lineNumber": 151857,
+                "originalJapaneseLine": "　戦争の基本である、兵数に差がありすぎます」",
+                "translatedEnglishLine": "There is a huge numerical advantage in troops, which is fundamental in war.\""
+            },
+            {
+                "lineNumber": 151858,
+                "originalJapaneseLine": "「せめて、ヘルマン方面の魔軍を率いる",
+                "translatedEnglishLine": "\"At the very least, if we could defeat"
+            },
+            {
+                "lineNumber": 151859,
+                "originalJapaneseLine": "　魔物大将軍ルメイを討てればいいのですが……」",
+                "translatedEnglishLine": "the demon general Lumei leading the demon army in the Helman area...\""
+            },
+            {
+                "lineNumber": 151860,
+                "originalJapaneseLine": "「よし、話は分かった」",
+                "translatedEnglishLine": "\"Alright, I understand the situation.\""
+            },
+            {
+                "lineNumber": 151861,
+                "originalJapaneseLine": "「ルメイは俺様がとっちめてきてやろう」",
+                "translatedEnglishLine": "\"I'll go and take down Lumei myself.\""
+            },
+            {
+                "lineNumber": 151862,
+                "originalJapaneseLine": "「え、ちょっと待って下さい！？」",
+                "translatedEnglishLine": "\"Eh, please wait a moment!?\""
+            },
+            {
+                "lineNumber": 151863,
+                "originalJapaneseLine": "「ランス総統の仕事はあくまでも、",
+                "translatedEnglishLine": "\"Supreme Commander Lance's job is ultimately to,"
+            },
+            {
+                "lineNumber": 151864,
+                "originalJapaneseLine": "　魔人の討伐です。",
+                "translatedEnglishLine": "defeat the demon lords."
+            },
+            {
+                "lineNumber": 151865,
+                "originalJapaneseLine": "　貴重な戦力を大将軍の討伐の為には……",
+                "translatedEnglishLine": "Using such valuable forces to take down a general...\""
+            },
+            {
+                "lineNumber": 151866,
+                "originalJapaneseLine": "「おーっと、だが誤解するなよ！」",
+                "translatedEnglishLine": "\"Whoa, but don't misunderstand!\""
+            },
+            {
+                "lineNumber": 151867,
+                "originalJapaneseLine": "「俺もタダでは動かん。",
+                "translatedEnglishLine": "\"I won't move for free either."
+            },
+            {
+                "lineNumber": 151868,
+                "originalJapaneseLine": "　ご褒美がなくてはな……」",
+                "translatedEnglishLine": "I need a reward...\""
+            },
+            {
+                "lineNumber": 151869,
+                "originalJapaneseLine": "「え、いえ、そんな話はしてな……」",
+                "translatedEnglishLine": "\"Eh, no, we weren't talking about that...\""
+            },
+            {
+                "lineNumber": 151870,
+                "originalJapaneseLine": "「俺が向こうのトップを殺したら、",
+                "translatedEnglishLine": "\"If I kill their top commander,"
+            },
+            {
+                "lineNumber": 151871,
+                "originalJapaneseLine": "　お礼にやらせろ、いいな」",
+                "translatedEnglishLine": "you'll let me have my way as a reward, got it?\""
+            },
+            {
+                "lineNumber": 151872,
+                "originalJapaneseLine": "「や、ら……」",
+                "translatedEnglishLine": "\"Le-let me...\""
+            },
+            {
+                "lineNumber": 151873,
+                "originalJapaneseLine": "「なっ！」",
+                "translatedEnglishLine": "\"Wha-!\""
+            },
+            {
+                "lineNumber": 151874,
+                "originalJapaneseLine": "「い、いいわけないでしょう！」",
+                "translatedEnglishLine": "\"Th-That’s absolutely not okay!\""
+            },
+            {
+                "lineNumber": 151875,
+                "originalJapaneseLine": "「いや、今俺が決めた。",
+                "translatedEnglishLine": "\"No, I've just decided now."
+            },
+            {
+                "lineNumber": 151876,
+                "originalJapaneseLine": "　魔物大将軍ルメイを倒したら",
+                "translatedEnglishLine": "If I defeat the demon general Lumei,"
+            },
+            {
+                "lineNumber": 151877,
+                "originalJapaneseLine": "　クリームちゃんがセックスしてくれる」",
+                "translatedEnglishLine": "Cream-chan will have sex with me.\""
+            },
+            {
+                "lineNumber": 151878,
+                "originalJapaneseLine": "「これは総統閣下による決定だ」",
+                "translatedEnglishLine": "\"This is a decision by Supreme Commander His Excellency.\""
+            },
+            {
+                "lineNumber": 151879,
+                "originalJapaneseLine": "「さーて、話も終わったし寝るかー」",
+                "translatedEnglishLine": "\"Well then, the talk's over, time to sleep.\""
+            },
+            {
+                "lineNumber": 151880,
+                "originalJapaneseLine": "「ちょ、ちょっと待って下さい！",
+                "translatedEnglishLine": "\"W-wait just a moment!\""
+            }
+        ]
+    }
+}

@@ -1,1 +1,619 @@
-{"id":"resp_0c1199a0104e66010068efe1d93f708196af5f800ad788dc94","object":"response","created_at":1760551385,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0c1199a0104e66010068efe1da0ff48196af1b6bfa24f9707a","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":64571,\"originalJapaneseLine\":\"「あーもうこんな時にー！」\",\"translatedEnglishLine\":\"\\\"Ah, not now of all times!\\\"\"},{\"lineNumber\":64572,\"originalJapaneseLine\":\"「で、何がどうなってんだ」\",\"translatedEnglishLine\":\"\\\"So, what exactly is going on?\\\"\"},{\"lineNumber\":64573,\"originalJapaneseLine\":\"「えーと、ヌヌハラは？」\",\"translatedEnglishLine\":\"\\\"Umm, what about Nunuhara?\\\"\"},{\"lineNumber\":64574,\"originalJapaneseLine\":\"「だめです、耐えられなかったようです」\",\"translatedEnglishLine\":\"\\\"No good, it seems he couldn't hold out.\\\"\"},{\"lineNumber\":64575,\"originalJapaneseLine\":\"「さよか……うーん。ま、置いといて。\",\"translatedEnglishLine\":\"\\\"Is that so... hmm. Well, let's put that aside.\\\"\"},{\"lineNumber\":64576,\"originalJapaneseLine\":\"　コンピュータがな、急に使えなくなってん」\",\"translatedEnglishLine\":\"\\\"The computer suddenly stopped working.\\\"\"},{\"lineNumber\":64577,\"originalJapaneseLine\":\"「なんだ役に立たんな。\",\"translatedEnglishLine\":\"\\\"Well, that's useless.\\\"\"},{\"lineNumber\":64578,\"originalJapaneseLine\":\"　で、それってどうなるんだ？」\",\"translatedEnglishLine\":\"\\\"So, what does that mean?\\\"\"},{\"lineNumber\":64579,\"originalJapaneseLine\":\"「各国間の情報のやりとりは全滅です。\",\"translatedEnglishLine\":\"\\\"All communication of information between nations has been wiped out.\\\"\"},{\"lineNumber\":64580,\"originalJapaneseLine\":\"　人力でやらなければならないとしたら……」\",\"translatedEnglishLine\":\"\\\"If we have to do it manually...\\\"\"},{\"lineNumber\":64581,\"originalJapaneseLine\":\"「早うし使おても、一日二日はかかるやろ。\",\"translatedEnglishLine\":\"\\\"Even if we hurry and use humans, it'll take a day or two.\\\"\"},{\"lineNumber\":64582,\"originalJapaneseLine\":\"　今までのようなやりとりはもう出来へん」\",\"translatedEnglishLine\":\"\\\"We won't be able to communicate the way we used to anymore.\\\"\"},{\"lineNumber\":64583,\"originalJapaneseLine\":\"「相談、連絡、指揮、報告、取引。\",\"translatedEnglishLine\":\"\\\"Consultations, contacts, commands, reports, transactions.\\\"\"},{\"lineNumber\":64584,\"originalJapaneseLine\":\"　全部、コンピュータに頼っとったからな」\",\"translatedEnglishLine\":\"\\\"We relied entirely on computers for all of them.\\\"\"},{\"lineNumber\":64585,\"originalJapaneseLine\":\"「壊れたんなら直せばいいのではないか」\",\"translatedEnglishLine\":\"\\\"If it's broken, can't we just fix it?\\\"\"},{\"lineNumber\":64586,\"originalJapaneseLine\":\"「それが……あかんねん。\",\"translatedEnglishLine\":\"\\\"Well... that's the problem.\\\"\"},{\"lineNumber\":64587,\"originalJapaneseLine\":\"　コンピュータは、誰にも直せへん」\",\"translatedEnglishLine\":\"\\\"No one can fix the computer.\\\"\"},{\"lineNumber\":64588,\"originalJapaneseLine\":\"「は？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":64589,\"originalJapaneseLine\":\"「なんで動くのか、分かってないのよ。\",\"translatedEnglishLine\":\"\\\"We don't understand how it works.\\\"\"},{\"lineNumber\":64590,\"originalJapaneseLine\":\"　情報魔法の使い手が、魔法で動かせることは\",\"translatedEnglishLine\":\"\\\"We know that those who use information magic can operate it with magic,\\\"\"},{\"lineNumber\":64591,\"originalJapaneseLine\":\"　分かってるんだけど……」\",\"translatedEnglishLine\":\"\\\"but that's about all we understand...\\\"\"},{\"lineNumber\":64592,\"originalJapaneseLine\":\"「たまに遺跡で見つかるものが、\",\"translatedEnglishLine\":\"\\\"Sometimes pieces are found in ruins,\\\"\"},{\"lineNumber\":64593,\"originalJapaneseLine\":\"　市場に流通してて……それだけ、なんだよね」\",\"translatedEnglishLine\":\"\\\"which circulate in the market... and that's it.\\\"\"},{\"lineNumber\":64594,\"originalJapaneseLine\":\"「ここをこうすれば動く。こういう事ができる。\",\"translatedEnglishLine\":\"\\\"If you do this here, it works. These are what it can do.\\\"\"},{\"lineNumber\":64595,\"originalJapaneseLine\":\"　専門家にも、そこまでしか分かってへん」\",\"translatedEnglishLine\":\"\\\"Even experts only understand it up to that point.\\\"\"},{\"lineNumber\":64596,\"originalJapaneseLine\":\"「……そんなモンを使ってたのか」\",\"translatedEnglishLine\":\"\\\"...So we've been using something like that?\\\"\"},{\"lineNumber\":64597,\"originalJapaneseLine\":\"「背に腹は代えられん、ちゅうやつや。\",\"translatedEnglishLine\":\"\\\"We had no choice, that's the kind of thing it was.\\\"\"},{\"lineNumber\":64598,\"originalJapaneseLine\":\"　せやけど……」\",\"translatedEnglishLine\":\"\\\"But still...\\\"\"},{\"lineNumber\":64599,\"originalJapaneseLine\":\"「それが使えなくなってる、ってわけか」\",\"translatedEnglishLine\":\"\\\"So it's become unusable, huh.\\\"\"},{\"lineNumber\":64600,\"originalJapaneseLine\":\"「データを送ってもエラーが起きて失敗。\",\"translatedEnglishLine\":\"\\\"If you send data, errors happen and it fails.\\\"\"},{\"lineNumber\":64601,\"originalJapaneseLine\":\"　向こうからのデータもまったく読み取れません」\",\"translatedEnglishLine\":\"\\\"We can't read any data coming from the other side either.\\\"\"},{\"lineNumber\":64602,\"originalJapaneseLine\":\"「ふぅむ。なんか厄介そうだな」\",\"translatedEnglishLine\":\"\\\"Hmm. Sounds troublesome.\\\"\"},{\"lineNumber\":64603,\"originalJapaneseLine\":\"「普段、人力でやってへんところやさかい、\",\"translatedEnglishLine\":\"\\\"Since we don't usually do this manually,\\\"\"},{\"lineNumber\":64604,\"originalJapaneseLine\":\"　しんどいわ。篠田が色々指揮しとるけど……」\",\"translatedEnglishLine\":\"\\\"it's tough. Shinoda is orchestrating many things, but...\\\"\"},{\"lineNumber\":64605,\"originalJapaneseLine\":\"「ゼスはもっと混乱してるんじゃないでしょうか……\",\"translatedEnglishLine\":\"\\\"Isn't Zeth even more confused...?\\\"\"},{\"lineNumber\":64606,\"originalJapaneseLine\":\"　コンピュータ、よく使ってますし……」\",\"translatedEnglishLine\":\"\\\"They use computers a lot as well...\\\"\"},{\"lineNumber\":64607,\"originalJapaneseLine\":\"「よし、とりあえず見てみるか。\",\"translatedEnglishLine\":\"\\\"Alright, for now let's go take a look.\\\"\"},{\"lineNumber\":64608,\"originalJapaneseLine\":\"　そのコンピュータのある所に案内しろ」\",\"translatedEnglishLine\":\"\\\"Show me where the computer is.\\\"\"},{\"lineNumber\":64609,\"originalJapaneseLine\":\"特設のコンピュータルームは、\",\"translatedEnglishLine\":\"The special computer room\"},{\"lineNumber\":64610,\"originalJapaneseLine\":\"ハチ女の巣をつついたように大騒ぎになっていた。\",\"translatedEnglishLine\":\"was in an uproar, like poking a hornet's nest.\"},{\"lineNumber\":64611,\"originalJapaneseLine\":\"「くっそ、ええい……これはなんて書いてあるんだ」\",\"translatedEnglishLine\":\"\\\"Damn it, hey... what does this say?\\\"\"},{\"lineNumber\":64612,\"originalJapaneseLine\":\"「あっ、ゼス司令部！　ゼス司令部、聞こえますか！\",\"translatedEnglishLine\":\"\\\"Ah, Zeth Command! Zeth Command, can you hear me?\\\"\"},{\"lineNumber\":64613,\"originalJapaneseLine\":\"　こちら自由都市連合軍……聞こえますか！」\",\"translatedEnglishLine\":\"\\\"This is the Free Cities United Army... can you hear me?\\\"\"},{\"lineNumber\":64614,\"originalJapaneseLine\":\"「はあ……こりゃひどいな」\",\"translatedEnglishLine\":\"\\\"Hah... this is terrible.\\\"\"},{\"lineNumber\":64615,\"originalJapaneseLine\":\"「ホントよねぇ」\",\"translatedEnglishLine\":\"\\\"Really, isn't it?\\\"\"},{\"lineNumber\":64616,\"originalJapaneseLine\":\"「げっ……」\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":64617,\"originalJapaneseLine\":\"「やっぱりよく分からない物を使っちゃ\",\"translatedEnglishLine\":\"\\\"As expected, using something we don't really understand\\\"\"},{\"lineNumber\":64618,\"originalJapaneseLine\":\"　ダメだったのよ。\",\"translatedEnglishLine\":\"\\\"was a mistake.\\\"\"},{\"lineNumber\":64619,\"originalJapaneseLine\":\"　いくら便利でもね、もしもの時に困るでしょう？」\",\"translatedEnglishLine\":\"\\\"No matter how convenient, it causes trouble in emergencies, doesn't it?\\\"\"},{\"lineNumber\":64620,\"originalJapaneseLine\":\"「アイスでも、できるだけうしバスじゃなくて\",\"translatedEnglishLine\":\"\\\"Even for ice, try to avoid using the cow buses as much as possible.\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":64571,"originalJapaneseLine":"「あーもうこんな時にー！」","translatedEnglishLine":"\"Ah, not now of all times!\""},{"lineNumber":64572,"originalJapaneseLine":"「で、何がどうなってんだ」","translatedEnglishLine":"\"So, what exactly is going on?\""},{"lineNumber":64573,"originalJapaneseLine":"「えーと、ヌヌハラは？」","translatedEnglishLine":"\"Umm, what about Nunuhara?\""},{"lineNumber":64574,"originalJapaneseLine":"「だめです、耐えられなかったようです」","translatedEnglishLine":"\"No good, it seems he couldn't hold out.\""},{"lineNumber":64575,"originalJapaneseLine":"「さよか……うーん。ま、置いといて。","translatedEnglishLine":"\"Is that so... hmm. Well, let's put that aside.\""},{"lineNumber":64576,"originalJapaneseLine":"　コンピュータがな、急に使えなくなってん」","translatedEnglishLine":"\"The computer suddenly stopped working.\""},{"lineNumber":64577,"originalJapaneseLine":"「なんだ役に立たんな。","translatedEnglishLine":"\"Well, that's useless.\""},{"lineNumber":64578,"originalJapaneseLine":"　で、それってどうなるんだ？」","translatedEnglishLine":"\"So, what does that mean?\""},{"lineNumber":64579,"originalJapaneseLine":"「各国間の情報のやりとりは全滅です。","translatedEnglishLine":"\"All communication of information between nations has been wiped out.\""},{"lineNumber":64580,"originalJapaneseLine":"　人力でやらなければならないとしたら……」","translatedEnglishLine":"\"If we have to do it manually...\""},{"lineNumber":64581,"originalJapaneseLine":"「早うし使おても、一日二日はかかるやろ。","translatedEnglishLine":"\"Even if we hurry and use humans, it'll take a day or two.\""},{"lineNumber":64582,"originalJapaneseLine":"　今までのようなやりとりはもう出来へん」","translatedEnglishLine":"\"We won't be able to communicate the way we used to anymore.\""},{"lineNumber":64583,"originalJapaneseLine":"「相談、連絡、指揮、報告、取引。","translatedEnglishLine":"\"Consultations, contacts, commands, reports, transactions.\""},{"lineNumber":64584,"originalJapaneseLine":"　全部、コンピュータに頼っとったからな」","translatedEnglishLine":"\"We relied entirely on computers for all of them.\""},{"lineNumber":64585,"originalJapaneseLine":"「壊れたんなら直せばいいのではないか」","translatedEnglishLine":"\"If it's broken, can't we just fix it?\""},{"lineNumber":64586,"originalJapaneseLine":"「それが……あかんねん。","translatedEnglishLine":"\"Well... that's the problem.\""},{"lineNumber":64587,"originalJapaneseLine":"　コンピュータは、誰にも直せへん」","translatedEnglishLine":"\"No one can fix the computer.\""},{"lineNumber":64588,"originalJapaneseLine":"「は？」","translatedEnglishLine":"\"Huh?\""},{"lineNumber":64589,"originalJapaneseLine":"「なんで動くのか、分かってないのよ。","translatedEnglishLine":"\"We don't understand how it works.\""},{"lineNumber":64590,"originalJapaneseLine":"　情報魔法の使い手が、魔法で動かせることは","translatedEnglishLine":"\"We know that those who use information magic can operate it with magic,\""},{"lineNumber":64591,"originalJapaneseLine":"　分かってるんだけど……」","translatedEnglishLine":"\"but that's about all we understand...\""},{"lineNumber":64592,"originalJapaneseLine":"「たまに遺跡で見つかるものが、","translatedEnglishLine":"\"Sometimes pieces are found in ruins,\""},{"lineNumber":64593,"originalJapaneseLine":"　市場に流通してて……それだけ、なんだよね」","translatedEnglishLine":"\"which circulate in the market... and that's it.\""},{"lineNumber":64594,"originalJapaneseLine":"「ここをこうすれば動く。こういう事ができる。","translatedEnglishLine":"\"If you do this here, it works. These are what it can do.\""},{"lineNumber":64595,"originalJapaneseLine":"　専門家にも、そこまでしか分かってへん」","translatedEnglishLine":"\"Even experts only understand it up to that point.\""},{"lineNumber":64596,"originalJapaneseLine":"「……そんなモンを使ってたのか」","translatedEnglishLine":"\"...So we've been using something like that?\""},{"lineNumber":64597,"originalJapaneseLine":"「背に腹は代えられん、ちゅうやつや。","translatedEnglishLine":"\"We had no choice, that's the kind of thing it was.\""},{"lineNumber":64598,"originalJapaneseLine":"　せやけど……」","translatedEnglishLine":"\"But still...\""},{"lineNumber":64599,"originalJapaneseLine":"「それが使えなくなってる、ってわけか」","translatedEnglishLine":"\"So it's become unusable, huh.\""},{"lineNumber":64600,"originalJapaneseLine":"「データを送ってもエラーが起きて失敗。","translatedEnglishLine":"\"If you send data, errors happen and it fails.\""},{"lineNumber":64601,"originalJapaneseLine":"　向こうからのデータもまったく読み取れません」","translatedEnglishLine":"\"We can't read any data coming from the other side either.\""},{"lineNumber":64602,"originalJapaneseLine":"「ふぅむ。なんか厄介そうだな」","translatedEnglishLine":"\"Hmm. Sounds troublesome.\""},{"lineNumber":64603,"originalJapaneseLine":"「普段、人力でやってへんところやさかい、","translatedEnglishLine":"\"Since we don't usually do this manually,\""},{"lineNumber":64604,"originalJapaneseLine":"　しんどいわ。篠田が色々指揮しとるけど……」","translatedEnglishLine":"\"it's tough. Shinoda is orchestrating many things, but...\""},{"lineNumber":64605,"originalJapaneseLine":"「ゼスはもっと混乱してるんじゃないでしょうか……","translatedEnglishLine":"\"Isn't Zeth even more confused...?\""},{"lineNumber":64606,"originalJapaneseLine":"　コンピュータ、よく使ってますし……」","translatedEnglishLine":"\"They use computers a lot as well...\""},{"lineNumber":64607,"originalJapaneseLine":"「よし、とりあえず見てみるか。","translatedEnglishLine":"\"Alright, for now let's go take a look.\""},{"lineNumber":64608,"originalJapaneseLine":"　そのコンピュータのある所に案内しろ」","translatedEnglishLine":"\"Show me where the computer is.\""},{"lineNumber":64609,"originalJapaneseLine":"特設のコンピュータルームは、","translatedEnglishLine":"The special computer room"},{"lineNumber":64610,"originalJapaneseLine":"ハチ女の巣をつついたように大騒ぎになっていた。","translatedEnglishLine":"was in an uproar, like poking a hornet's nest."},{"lineNumber":64611,"originalJapaneseLine":"「くっそ、ええい……これはなんて書いてあるんだ」","translatedEnglishLine":"\"Damn it, hey... what does this say?\""},{"lineNumber":64612,"originalJapaneseLine":"「あっ、ゼス司令部！　ゼス司令部、聞こえますか！","translatedEnglishLine":"\"Ah, Zeth Command! Zeth Command, can you hear me?\""},{"lineNumber":64613,"originalJapaneseLine":"　こちら自由都市連合軍……聞こえますか！」","translatedEnglishLine":"\"This is the Free Cities United Army... can you hear me?\""},{"lineNumber":64614,"originalJapaneseLine":"「はあ……こりゃひどいな」","translatedEnglishLine":"\"Hah... this is terrible.\""},{"lineNumber":64615,"originalJapaneseLine":"「ホントよねぇ」","translatedEnglishLine":"\"Really, isn't it?\""},{"lineNumber":64616,"originalJapaneseLine":"「げっ……」","translatedEnglishLine":"\"Ugh...\""},{"lineNumber":64617,"originalJapaneseLine":"「やっぱりよく分からない物を使っちゃ","translatedEnglishLine":"\"As expected, using something we don't really understand\""},{"lineNumber":64618,"originalJapaneseLine":"　ダメだったのよ。","translatedEnglishLine":"\"was a mistake.\""},{"lineNumber":64619,"originalJapaneseLine":"　いくら便利でもね、もしもの時に困るでしょう？」","translatedEnglishLine":"\"No matter how convenient, it causes trouble in emergencies, doesn't it?\""},{"lineNumber":64620,"originalJapaneseLine":"「アイスでも、できるだけうしバスじゃなくて","translatedEnglishLine":"\"Even for ice, try to avoid using the cow buses as much as possible.\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1563,"input_tokens_details":{"cached_tokens":0},"output_tokens":2038,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3601},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":64571,\"originalJapaneseLine\":\"「あーもうこんな時にー！」\",\"translatedEnglishLine\":\"\\\"Ah, not now of all times!\\\"\"},{\"lineNumber\":64572,\"originalJapaneseLine\":\"「で、何がどうなってんだ」\",\"translatedEnglishLine\":\"\\\"So, what exactly is going on?\\\"\"},{\"lineNumber\":64573,\"originalJapaneseLine\":\"「えーと、ヌヌハラは？」\",\"translatedEnglishLine\":\"\\\"Umm, what about Nunuhara?\\\"\"},{\"lineNumber\":64574,\"originalJapaneseLine\":\"「だめです、耐えられなかったようです」\",\"translatedEnglishLine\":\"\\\"No good, it seems he couldn't hold out.\\\"\"},{\"lineNumber\":64575,\"originalJapaneseLine\":\"「さよか……うーん。ま、置いといて。\",\"translatedEnglishLine\":\"\\\"Is that so... hmm. Well, let's put that aside.\\\"\"},{\"lineNumber\":64576,\"originalJapaneseLine\":\"　コンピュータがな、急に使えなくなってん」\",\"translatedEnglishLine\":\"\\\"The computer suddenly stopped working.\\\"\"},{\"lineNumber\":64577,\"originalJapaneseLine\":\"「なんだ役に立たんな。\",\"translatedEnglishLine\":\"\\\"Well, that's useless.\\\"\"},{\"lineNumber\":64578,\"originalJapaneseLine\":\"　で、それってどうなるんだ？」\",\"translatedEnglishLine\":\"\\\"So, what does that mean?\\\"\"},{\"lineNumber\":64579,\"originalJapaneseLine\":\"「各国間の情報のやりとりは全滅です。\",\"translatedEnglishLine\":\"\\\"All communication of information between nations has been wiped out.\\\"\"},{\"lineNumber\":64580,\"originalJapaneseLine\":\"　人力でやらなければならないとしたら……」\",\"translatedEnglishLine\":\"\\\"If we have to do it manually...\\\"\"},{\"lineNumber\":64581,\"originalJapaneseLine\":\"「早うし使おても、一日二日はかかるやろ。\",\"translatedEnglishLine\":\"\\\"Even if we hurry and use humans, it'll take a day or two.\\\"\"},{\"lineNumber\":64582,\"originalJapaneseLine\":\"　今までのようなやりとりはもう出来へん」\",\"translatedEnglishLine\":\"\\\"We won't be able to communicate the way we used to anymore.\\\"\"},{\"lineNumber\":64583,\"originalJapaneseLine\":\"「相談、連絡、指揮、報告、取引。\",\"translatedEnglishLine\":\"\\\"Consultations, contacts, commands, reports, transactions.\\\"\"},{\"lineNumber\":64584,\"originalJapaneseLine\":\"　全部、コンピュータに頼っとったからな」\",\"translatedEnglishLine\":\"\\\"We relied entirely on computers for all of them.\\\"\"},{\"lineNumber\":64585,\"originalJapaneseLine\":\"「壊れたんなら直せばいいのではないか」\",\"translatedEnglishLine\":\"\\\"If it's broken, can't we just fix it?\\\"\"},{\"lineNumber\":64586,\"originalJapaneseLine\":\"「それが……あかんねん。\",\"translatedEnglishLine\":\"\\\"Well... that's the problem.\\\"\"},{\"lineNumber\":64587,\"originalJapaneseLine\":\"　コンピュータは、誰にも直せへん」\",\"translatedEnglishLine\":\"\\\"No one can fix the computer.\\\"\"},{\"lineNumber\":64588,\"originalJapaneseLine\":\"「は？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":64589,\"originalJapaneseLine\":\"「なんで動くのか、分かってないのよ。\",\"translatedEnglishLine\":\"\\\"We don't understand how it works.\\\"\"},{\"lineNumber\":64590,\"originalJapaneseLine\":\"　情報魔法の使い手が、魔法で動かせることは\",\"translatedEnglishLine\":\"\\\"We know that those who use information magic can operate it with magic,\\\"\"},{\"lineNumber\":64591,\"originalJapaneseLine\":\"　分かってるんだけど……」\",\"translatedEnglishLine\":\"\\\"but that's about all we understand...\\\"\"},{\"lineNumber\":64592,\"originalJapaneseLine\":\"「たまに遺跡で見つかるものが、\",\"translatedEnglishLine\":\"\\\"Sometimes pieces are found in ruins,\\\"\"},{\"lineNumber\":64593,\"originalJapaneseLine\":\"　市場に流通してて……それだけ、なんだよね」\",\"translatedEnglishLine\":\"\\\"which circulate in the market... and that's it.\\\"\"},{\"lineNumber\":64594,\"originalJapaneseLine\":\"「ここをこうすれば動く。こういう事ができる。\",\"translatedEnglishLine\":\"\\\"If you do this here, it works. These are what it can do.\\\"\"},{\"lineNumber\":64595,\"originalJapaneseLine\":\"　専門家にも、そこまでしか分かってへん」\",\"translatedEnglishLine\":\"\\\"Even experts only understand it up to that point.\\\"\"},{\"lineNumber\":64596,\"originalJapaneseLine\":\"「……そんなモンを使ってたのか」\",\"translatedEnglishLine\":\"\\\"...So we've been using something like that?\\\"\"},{\"lineNumber\":64597,\"originalJapaneseLine\":\"「背に腹は代えられん、ちゅうやつや。\",\"translatedEnglishLine\":\"\\\"We had no choice, that's the kind of thing it was.\\\"\"},{\"lineNumber\":64598,\"originalJapaneseLine\":\"　せやけど……」\",\"translatedEnglishLine\":\"\\\"But still...\\\"\"},{\"lineNumber\":64599,\"originalJapaneseLine\":\"「それが使えなくなってる、ってわけか」\",\"translatedEnglishLine\":\"\\\"So it's become unusable, huh.\\\"\"},{\"lineNumber\":64600,\"originalJapaneseLine\":\"「データを送ってもエラーが起きて失敗。\",\"translatedEnglishLine\":\"\\\"If you send data, errors happen and it fails.\\\"\"},{\"lineNumber\":64601,\"originalJapaneseLine\":\"　向こうからのデータもまったく読み取れません」\",\"translatedEnglishLine\":\"\\\"We can't read any data coming from the other side either.\\\"\"},{\"lineNumber\":64602,\"originalJapaneseLine\":\"「ふぅむ。なんか厄介そうだな」\",\"translatedEnglishLine\":\"\\\"Hmm. Sounds troublesome.\\\"\"},{\"lineNumber\":64603,\"originalJapaneseLine\":\"「普段、人力でやってへんところやさかい、\",\"translatedEnglishLine\":\"\\\"Since we don't usually do this manually,\\\"\"},{\"lineNumber\":64604,\"originalJapaneseLine\":\"　しんどいわ。篠田が色々指揮しとるけど……」\",\"translatedEnglishLine\":\"\\\"it's tough. Shinoda is orchestrating many things, but...\\\"\"},{\"lineNumber\":64605,\"originalJapaneseLine\":\"「ゼスはもっと混乱してるんじゃないでしょうか……\",\"translatedEnglishLine\":\"\\\"Isn't Zeth even more confused...?\\\"\"},{\"lineNumber\":64606,\"originalJapaneseLine\":\"　コンピュータ、よく使ってますし……」\",\"translatedEnglishLine\":\"\\\"They use computers a lot as well...\\\"\"},{\"lineNumber\":64607,\"originalJapaneseLine\":\"「よし、とりあえず見てみるか。\",\"translatedEnglishLine\":\"\\\"Alright, for now let's go take a look.\\\"\"},{\"lineNumber\":64608,\"originalJapaneseLine\":\"　そのコンピュータのある所に案内しろ」\",\"translatedEnglishLine\":\"\\\"Show me where the computer is.\\\"\"},{\"lineNumber\":64609,\"originalJapaneseLine\":\"特設のコンピュータルームは、\",\"translatedEnglishLine\":\"The special computer room\"},{\"lineNumber\":64610,\"originalJapaneseLine\":\"ハチ女の巣をつついたように大騒ぎになっていた。\",\"translatedEnglishLine\":\"was in an uproar, like poking a hornet's nest.\"},{\"lineNumber\":64611,\"originalJapaneseLine\":\"「くっそ、ええい……これはなんて書いてあるんだ」\",\"translatedEnglishLine\":\"\\\"Damn it, hey... what does this say?\\\"\"},{\"lineNumber\":64612,\"originalJapaneseLine\":\"「あっ、ゼス司令部！　ゼス司令部、聞こえますか！\",\"translatedEnglishLine\":\"\\\"Ah, Zeth Command! Zeth Command, can you hear me?\\\"\"},{\"lineNumber\":64613,\"originalJapaneseLine\":\"　こちら自由都市連合軍……聞こえますか！」\",\"translatedEnglishLine\":\"\\\"This is the Free Cities United Army... can you hear me?\\\"\"},{\"lineNumber\":64614,\"originalJapaneseLine\":\"「はあ……こりゃひどいな」\",\"translatedEnglishLine\":\"\\\"Hah... this is terrible.\\\"\"},{\"lineNumber\":64615,\"originalJapaneseLine\":\"「ホントよねぇ」\",\"translatedEnglishLine\":\"\\\"Really, isn't it?\\\"\"},{\"lineNumber\":64616,\"originalJapaneseLine\":\"「げっ……」\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":64617,\"originalJapaneseLine\":\"「やっぱりよく分からない物を使っちゃ\",\"translatedEnglishLine\":\"\\\"As expected, using something we don't really understand\\\"\"},{\"lineNumber\":64618,\"originalJapaneseLine\":\"　ダメだったのよ。\",\"translatedEnglishLine\":\"\\\"was a mistake.\\\"\"},{\"lineNumber\":64619,\"originalJapaneseLine\":\"　いくら便利でもね、もしもの時に困るでしょう？」\",\"translatedEnglishLine\":\"\\\"No matter how convenient, it causes trouble in emergencies, doesn't it?\\\"\"},{\"lineNumber\":64620,\"originalJapaneseLine\":\"「アイスでも、できるだけうしバスじゃなくて\",\"translatedEnglishLine\":\"\\\"Even for ice, try to avoid using the cow buses as much as possible.\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":64571,"originalJapaneseLine":"「あーもうこんな時にー！」","translatedEnglishLine":"\"Ah, not now of all times!\""},{"lineNumber":64572,"originalJapaneseLine":"「で、何がどうなってんだ」","translatedEnglishLine":"\"So, what exactly is going on?\""},{"lineNumber":64573,"originalJapaneseLine":"「えーと、ヌヌハラは？」","translatedEnglishLine":"\"Umm, what about Nunuhara?\""},{"lineNumber":64574,"originalJapaneseLine":"「だめです、耐えられなかったようです」","translatedEnglishLine":"\"No good, it seems he couldn't hold out.\""},{"lineNumber":64575,"originalJapaneseLine":"「さよか……うーん。ま、置いといて。","translatedEnglishLine":"\"Is that so... hmm. Well, let's put that aside.\""},{"lineNumber":64576,"originalJapaneseLine":"　コンピュータがな、急に使えなくなってん」","translatedEnglishLine":"\"The computer suddenly stopped working.\""},{"lineNumber":64577,"originalJapaneseLine":"「なんだ役に立たんな。","translatedEnglishLine":"\"Well, that's useless.\""},{"lineNumber":64578,"originalJapaneseLine":"　で、それってどうなるんだ？」","translatedEnglishLine":"\"So, what does that mean?\""},{"lineNumber":64579,"originalJapaneseLine":"「各国間の情報のやりとりは全滅です。","translatedEnglishLine":"\"All communication of information between nations has been wiped out.\""},{"lineNumber":64580,"originalJapaneseLine":"　人力でやらなければならないとしたら……」","translatedEnglishLine":"\"If we have to do it manually...\""},{"lineNumber":64581,"originalJapaneseLine":"「早うし使おても、一日二日はかかるやろ。","translatedEnglishLine":"\"Even if we hurry and use humans, it'll take a day or two.\""},{"lineNumber":64582,"originalJapaneseLine":"　今までのようなやりとりはもう出来へん」","translatedEnglishLine":"\"We won't be able to communicate the way we used to anymore.\""},{"lineNumber":64583,"originalJapaneseLine":"「相談、連絡、指揮、報告、取引。","translatedEnglishLine":"\"Consultations, contacts, commands, reports, transactions.\""},{"lineNumber":64584,"originalJapaneseLine":"　全部、コンピュータに頼っとったからな」","translatedEnglishLine":"\"We relied entirely on computers for all of them.\""},{"lineNumber":64585,"originalJapaneseLine":"「壊れたんなら直せばいいのではないか」","translatedEnglishLine":"\"If it's broken, can't we just fix it?\""},{"lineNumber":64586,"originalJapaneseLine":"「それが……あかんねん。","translatedEnglishLine":"\"Well... that's the problem.\""},{"lineNumber":64587,"originalJapaneseLine":"　コンピュータは、誰にも直せへん」","translatedEnglishLine":"\"No one can fix the computer.\""},{"lineNumber":64588,"originalJapaneseLine":"「は？」","translatedEnglishLine":"\"Huh?\""},{"lineNumber":64589,"originalJapaneseLine":"「なんで動くのか、分かってないのよ。","translatedEnglishLine":"\"We don't understand how it works.\""},{"lineNumber":64590,"originalJapaneseLine":"　情報魔法の使い手が、魔法で動かせることは","translatedEnglishLine":"\"We know that those who use information magic can operate it with magic,\""},{"lineNumber":64591,"originalJapaneseLine":"　分かってるんだけど……」","translatedEnglishLine":"\"but that's about all we understand...\""},{"lineNumber":64592,"originalJapaneseLine":"「たまに遺跡で見つかるものが、","translatedEnglishLine":"\"Sometimes pieces are found in ruins,\""},{"lineNumber":64593,"originalJapaneseLine":"　市場に流通してて……それだけ、なんだよね」","translatedEnglishLine":"\"which circulate in the market... and that's it.\""},{"lineNumber":64594,"originalJapaneseLine":"「ここをこうすれば動く。こういう事ができる。","translatedEnglishLine":"\"If you do this here, it works. These are what it can do.\""},{"lineNumber":64595,"originalJapaneseLine":"　専門家にも、そこまでしか分かってへん」","translatedEnglishLine":"\"Even experts only understand it up to that point.\""},{"lineNumber":64596,"originalJapaneseLine":"「……そんなモンを使ってたのか」","translatedEnglishLine":"\"...So we've been using something like that?\""},{"lineNumber":64597,"originalJapaneseLine":"「背に腹は代えられん、ちゅうやつや。","translatedEnglishLine":"\"We had no choice, that's the kind of thing it was.\""},{"lineNumber":64598,"originalJapaneseLine":"　せやけど……」","translatedEnglishLine":"\"But still...\""},{"lineNumber":64599,"originalJapaneseLine":"「それが使えなくなってる、ってわけか」","translatedEnglishLine":"\"So it's become unusable, huh.\""},{"lineNumber":64600,"originalJapaneseLine":"「データを送ってもエラーが起きて失敗。","translatedEnglishLine":"\"If you send data, errors happen and it fails.\""},{"lineNumber":64601,"originalJapaneseLine":"　向こうからのデータもまったく読み取れません」","translatedEnglishLine":"\"We can't read any data coming from the other side either.\""},{"lineNumber":64602,"originalJapaneseLine":"「ふぅむ。なんか厄介そうだな」","translatedEnglishLine":"\"Hmm. Sounds troublesome.\""},{"lineNumber":64603,"originalJapaneseLine":"「普段、人力でやってへんところやさかい、","translatedEnglishLine":"\"Since we don't usually do this manually,\""},{"lineNumber":64604,"originalJapaneseLine":"　しんどいわ。篠田が色々指揮しとるけど……」","translatedEnglishLine":"\"it's tough. Shinoda is orchestrating many things, but...\""},{"lineNumber":64605,"originalJapaneseLine":"「ゼスはもっと混乱してるんじゃないでしょうか……","translatedEnglishLine":"\"Isn't Zeth even more confused...?\""},{"lineNumber":64606,"originalJapaneseLine":"　コンピュータ、よく使ってますし……」","translatedEnglishLine":"\"They use computers a lot as well...\""},{"lineNumber":64607,"originalJapaneseLine":"「よし、とりあえず見てみるか。","translatedEnglishLine":"\"Alright, for now let's go take a look.\""},{"lineNumber":64608,"originalJapaneseLine":"　そのコンピュータのある所に案内しろ」","translatedEnglishLine":"\"Show me where the computer is.\""},{"lineNumber":64609,"originalJapaneseLine":"特設のコンピュータルームは、","translatedEnglishLine":"The special computer room"},{"lineNumber":64610,"originalJapaneseLine":"ハチ女の巣をつついたように大騒ぎになっていた。","translatedEnglishLine":"was in an uproar, like poking a hornet's nest."},{"lineNumber":64611,"originalJapaneseLine":"「くっそ、ええい……これはなんて書いてあるんだ」","translatedEnglishLine":"\"Damn it, hey... what does this say?\""},{"lineNumber":64612,"originalJapaneseLine":"「あっ、ゼス司令部！　ゼス司令部、聞こえますか！","translatedEnglishLine":"\"Ah, Zeth Command! Zeth Command, can you hear me?\""},{"lineNumber":64613,"originalJapaneseLine":"　こちら自由都市連合軍……聞こえますか！」","translatedEnglishLine":"\"This is the Free Cities United Army... can you hear me?\""},{"lineNumber":64614,"originalJapaneseLine":"「はあ……こりゃひどいな」","translatedEnglishLine":"\"Hah... this is terrible.\""},{"lineNumber":64615,"originalJapaneseLine":"「ホントよねぇ」","translatedEnglishLine":"\"Really, isn't it?\""},{"lineNumber":64616,"originalJapaneseLine":"「げっ……」","translatedEnglishLine":"\"Ugh...\""},{"lineNumber":64617,"originalJapaneseLine":"「やっぱりよく分からない物を使っちゃ","translatedEnglishLine":"\"As expected, using something we don't really understand\""},{"lineNumber":64618,"originalJapaneseLine":"　ダメだったのよ。","translatedEnglishLine":"\"was a mistake.\""},{"lineNumber":64619,"originalJapaneseLine":"　いくら便利でもね、もしもの時に困るでしょう？」","translatedEnglishLine":"\"No matter how convenient, it causes trouble in emergencies, doesn't it?\""},{"lineNumber":64620,"originalJapaneseLine":"「アイスでも、できるだけうしバスじゃなくて","translatedEnglishLine":"\"Even for ice, try to avoid using the cow buses as much as possible.\""}]}}
+{
+    "id": "resp_0c1199a0104e66010068efe1d93f708196af5f800ad788dc94",
+    "object": "response",
+    "created_at": 1760551385,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0c1199a0104e66010068efe1da0ff48196af1b6bfa24f9707a",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":64571,\"originalJapaneseLine\":\"「あーもうこんな時にー！」\",\"translatedEnglishLine\":\"\\\"Ah, not now of all times!\\\"\"},{\"lineNumber\":64572,\"originalJapaneseLine\":\"「で、何がどうなってんだ」\",\"translatedEnglishLine\":\"\\\"So, what exactly is going on?\\\"\"},{\"lineNumber\":64573,\"originalJapaneseLine\":\"「えーと、ヌヌハラは？」\",\"translatedEnglishLine\":\"\\\"Umm, what about Nunuhara?\\\"\"},{\"lineNumber\":64574,\"originalJapaneseLine\":\"「だめです、耐えられなかったようです」\",\"translatedEnglishLine\":\"\\\"No good, it seems he couldn't hold out.\\\"\"},{\"lineNumber\":64575,\"originalJapaneseLine\":\"「さよか……うーん。ま、置いといて。\",\"translatedEnglishLine\":\"\\\"Is that so... hmm. Well, let's put that aside.\\\"\"},{\"lineNumber\":64576,\"originalJapaneseLine\":\"　コンピュータがな、急に使えなくなってん」\",\"translatedEnglishLine\":\"\\\"The computer suddenly stopped working.\\\"\"},{\"lineNumber\":64577,\"originalJapaneseLine\":\"「なんだ役に立たんな。\",\"translatedEnglishLine\":\"\\\"Well, that's useless.\\\"\"},{\"lineNumber\":64578,\"originalJapaneseLine\":\"　で、それってどうなるんだ？」\",\"translatedEnglishLine\":\"\\\"So, what does that mean?\\\"\"},{\"lineNumber\":64579,\"originalJapaneseLine\":\"「各国間の情報のやりとりは全滅です。\",\"translatedEnglishLine\":\"\\\"All communication of information between nations has been wiped out.\\\"\"},{\"lineNumber\":64580,\"originalJapaneseLine\":\"　人力でやらなければならないとしたら……」\",\"translatedEnglishLine\":\"\\\"If we have to do it manually...\\\"\"},{\"lineNumber\":64581,\"originalJapaneseLine\":\"「早うし使おても、一日二日はかかるやろ。\",\"translatedEnglishLine\":\"\\\"Even if we hurry and use humans, it'll take a day or two.\\\"\"},{\"lineNumber\":64582,\"originalJapaneseLine\":\"　今までのようなやりとりはもう出来へん」\",\"translatedEnglishLine\":\"\\\"We won't be able to communicate the way we used to anymore.\\\"\"},{\"lineNumber\":64583,\"originalJapaneseLine\":\"「相談、連絡、指揮、報告、取引。\",\"translatedEnglishLine\":\"\\\"Consultations, contacts, commands, reports, transactions.\\\"\"},{\"lineNumber\":64584,\"originalJapaneseLine\":\"　全部、コンピュータに頼っとったからな」\",\"translatedEnglishLine\":\"\\\"We relied entirely on computers for all of them.\\\"\"},{\"lineNumber\":64585,\"originalJapaneseLine\":\"「壊れたんなら直せばいいのではないか」\",\"translatedEnglishLine\":\"\\\"If it's broken, can't we just fix it?\\\"\"},{\"lineNumber\":64586,\"originalJapaneseLine\":\"「それが……あかんねん。\",\"translatedEnglishLine\":\"\\\"Well... that's the problem.\\\"\"},{\"lineNumber\":64587,\"originalJapaneseLine\":\"　コンピュータは、誰にも直せへん」\",\"translatedEnglishLine\":\"\\\"No one can fix the computer.\\\"\"},{\"lineNumber\":64588,\"originalJapaneseLine\":\"「は？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":64589,\"originalJapaneseLine\":\"「なんで動くのか、分かってないのよ。\",\"translatedEnglishLine\":\"\\\"We don't understand how it works.\\\"\"},{\"lineNumber\":64590,\"originalJapaneseLine\":\"　情報魔法の使い手が、魔法で動かせることは\",\"translatedEnglishLine\":\"\\\"We know that those who use information magic can operate it with magic,\\\"\"},{\"lineNumber\":64591,\"originalJapaneseLine\":\"　分かってるんだけど……」\",\"translatedEnglishLine\":\"\\\"but that's about all we understand...\\\"\"},{\"lineNumber\":64592,\"originalJapaneseLine\":\"「たまに遺跡で見つかるものが、\",\"translatedEnglishLine\":\"\\\"Sometimes pieces are found in ruins,\\\"\"},{\"lineNumber\":64593,\"originalJapaneseLine\":\"　市場に流通してて……それだけ、なんだよね」\",\"translatedEnglishLine\":\"\\\"which circulate in the market... and that's it.\\\"\"},{\"lineNumber\":64594,\"originalJapaneseLine\":\"「ここをこうすれば動く。こういう事ができる。\",\"translatedEnglishLine\":\"\\\"If you do this here, it works. These are what it can do.\\\"\"},{\"lineNumber\":64595,\"originalJapaneseLine\":\"　専門家にも、そこまでしか分かってへん」\",\"translatedEnglishLine\":\"\\\"Even experts only understand it up to that point.\\\"\"},{\"lineNumber\":64596,\"originalJapaneseLine\":\"「……そんなモンを使ってたのか」\",\"translatedEnglishLine\":\"\\\"...So we've been using something like that?\\\"\"},{\"lineNumber\":64597,\"originalJapaneseLine\":\"「背に腹は代えられん、ちゅうやつや。\",\"translatedEnglishLine\":\"\\\"We had no choice, that's the kind of thing it was.\\\"\"},{\"lineNumber\":64598,\"originalJapaneseLine\":\"　せやけど……」\",\"translatedEnglishLine\":\"\\\"But still...\\\"\"},{\"lineNumber\":64599,\"originalJapaneseLine\":\"「それが使えなくなってる、ってわけか」\",\"translatedEnglishLine\":\"\\\"So it's become unusable, huh.\\\"\"},{\"lineNumber\":64600,\"originalJapaneseLine\":\"「データを送ってもエラーが起きて失敗。\",\"translatedEnglishLine\":\"\\\"If you send data, errors happen and it fails.\\\"\"},{\"lineNumber\":64601,\"originalJapaneseLine\":\"　向こうからのデータもまったく読み取れません」\",\"translatedEnglishLine\":\"\\\"We can't read any data coming from the other side either.\\\"\"},{\"lineNumber\":64602,\"originalJapaneseLine\":\"「ふぅむ。なんか厄介そうだな」\",\"translatedEnglishLine\":\"\\\"Hmm. Sounds troublesome.\\\"\"},{\"lineNumber\":64603,\"originalJapaneseLine\":\"「普段、人力でやってへんところやさかい、\",\"translatedEnglishLine\":\"\\\"Since we don't usually do this manually,\\\"\"},{\"lineNumber\":64604,\"originalJapaneseLine\":\"　しんどいわ。篠田が色々指揮しとるけど……」\",\"translatedEnglishLine\":\"\\\"it's tough. Shinoda is orchestrating many things, but...\\\"\"},{\"lineNumber\":64605,\"originalJapaneseLine\":\"「ゼスはもっと混乱してるんじゃないでしょうか……\",\"translatedEnglishLine\":\"\\\"Isn't Zeth even more confused...?\\\"\"},{\"lineNumber\":64606,\"originalJapaneseLine\":\"　コンピュータ、よく使ってますし……」\",\"translatedEnglishLine\":\"\\\"They use computers a lot as well...\\\"\"},{\"lineNumber\":64607,\"originalJapaneseLine\":\"「よし、とりあえず見てみるか。\",\"translatedEnglishLine\":\"\\\"Alright, for now let's go take a look.\\\"\"},{\"lineNumber\":64608,\"originalJapaneseLine\":\"　そのコンピュータのある所に案内しろ」\",\"translatedEnglishLine\":\"\\\"Show me where the computer is.\\\"\"},{\"lineNumber\":64609,\"originalJapaneseLine\":\"特設のコンピュータルームは、\",\"translatedEnglishLine\":\"The special computer room\"},{\"lineNumber\":64610,\"originalJapaneseLine\":\"ハチ女の巣をつついたように大騒ぎになっていた。\",\"translatedEnglishLine\":\"was in an uproar, like poking a hornet's nest.\"},{\"lineNumber\":64611,\"originalJapaneseLine\":\"「くっそ、ええい……これはなんて書いてあるんだ」\",\"translatedEnglishLine\":\"\\\"Damn it, hey... what does this say?\\\"\"},{\"lineNumber\":64612,\"originalJapaneseLine\":\"「あっ、ゼス司令部！　ゼス司令部、聞こえますか！\",\"translatedEnglishLine\":\"\\\"Ah, Zeth Command! Zeth Command, can you hear me?\\\"\"},{\"lineNumber\":64613,\"originalJapaneseLine\":\"　こちら自由都市連合軍……聞こえますか！」\",\"translatedEnglishLine\":\"\\\"This is the Free Cities United Army... can you hear me?\\\"\"},{\"lineNumber\":64614,\"originalJapaneseLine\":\"「はあ……こりゃひどいな」\",\"translatedEnglishLine\":\"\\\"Hah... this is terrible.\\\"\"},{\"lineNumber\":64615,\"originalJapaneseLine\":\"「ホントよねぇ」\",\"translatedEnglishLine\":\"\\\"Really, isn't it?\\\"\"},{\"lineNumber\":64616,\"originalJapaneseLine\":\"「げっ……」\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":64617,\"originalJapaneseLine\":\"「やっぱりよく分からない物を使っちゃ\",\"translatedEnglishLine\":\"\\\"As expected, using something we don't really understand\\\"\"},{\"lineNumber\":64618,\"originalJapaneseLine\":\"　ダメだったのよ。\",\"translatedEnglishLine\":\"\\\"was a mistake.\\\"\"},{\"lineNumber\":64619,\"originalJapaneseLine\":\"　いくら便利でもね、もしもの時に困るでしょう？」\",\"translatedEnglishLine\":\"\\\"No matter how convenient, it causes trouble in emergencies, doesn't it?\\\"\"},{\"lineNumber\":64620,\"originalJapaneseLine\":\"「アイスでも、できるだけうしバスじゃなくて\",\"translatedEnglishLine\":\"\\\"Even for ice, try to avoid using the cow buses as much as possible.\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 64571,
+                                "originalJapaneseLine": "「あーもうこんな時にー！」",
+                                "translatedEnglishLine": "\"Ah, not now of all times!\""
+                            },
+                            {
+                                "lineNumber": 64572,
+                                "originalJapaneseLine": "「で、何がどうなってんだ」",
+                                "translatedEnglishLine": "\"So, what exactly is going on?\""
+                            },
+                            {
+                                "lineNumber": 64573,
+                                "originalJapaneseLine": "「えーと、ヌヌハラは？」",
+                                "translatedEnglishLine": "\"Umm, what about Nunuhara?\""
+                            },
+                            {
+                                "lineNumber": 64574,
+                                "originalJapaneseLine": "「だめです、耐えられなかったようです」",
+                                "translatedEnglishLine": "\"No good, it seems he couldn't hold out.\""
+                            },
+                            {
+                                "lineNumber": 64575,
+                                "originalJapaneseLine": "「さよか……うーん。ま、置いといて。",
+                                "translatedEnglishLine": "\"Is that so... hmm. Well, let's put that aside.\""
+                            },
+                            {
+                                "lineNumber": 64576,
+                                "originalJapaneseLine": "　コンピュータがな、急に使えなくなってん」",
+                                "translatedEnglishLine": "\"The computer suddenly stopped working.\""
+                            },
+                            {
+                                "lineNumber": 64577,
+                                "originalJapaneseLine": "「なんだ役に立たんな。",
+                                "translatedEnglishLine": "\"Well, that's useless.\""
+                            },
+                            {
+                                "lineNumber": 64578,
+                                "originalJapaneseLine": "　で、それってどうなるんだ？」",
+                                "translatedEnglishLine": "\"So, what does that mean?\""
+                            },
+                            {
+                                "lineNumber": 64579,
+                                "originalJapaneseLine": "「各国間の情報のやりとりは全滅です。",
+                                "translatedEnglishLine": "\"All communication of information between nations has been wiped out.\""
+                            },
+                            {
+                                "lineNumber": 64580,
+                                "originalJapaneseLine": "　人力でやらなければならないとしたら……」",
+                                "translatedEnglishLine": "\"If we have to do it manually...\""
+                            },
+                            {
+                                "lineNumber": 64581,
+                                "originalJapaneseLine": "「早うし使おても、一日二日はかかるやろ。",
+                                "translatedEnglishLine": "\"Even if we hurry and use humans, it'll take a day or two.\""
+                            },
+                            {
+                                "lineNumber": 64582,
+                                "originalJapaneseLine": "　今までのようなやりとりはもう出来へん」",
+                                "translatedEnglishLine": "\"We won't be able to communicate the way we used to anymore.\""
+                            },
+                            {
+                                "lineNumber": 64583,
+                                "originalJapaneseLine": "「相談、連絡、指揮、報告、取引。",
+                                "translatedEnglishLine": "\"Consultations, contacts, commands, reports, transactions.\""
+                            },
+                            {
+                                "lineNumber": 64584,
+                                "originalJapaneseLine": "　全部、コンピュータに頼っとったからな」",
+                                "translatedEnglishLine": "\"We relied entirely on computers for all of them.\""
+                            },
+                            {
+                                "lineNumber": 64585,
+                                "originalJapaneseLine": "「壊れたんなら直せばいいのではないか」",
+                                "translatedEnglishLine": "\"If it's broken, can't we just fix it?\""
+                            },
+                            {
+                                "lineNumber": 64586,
+                                "originalJapaneseLine": "「それが……あかんねん。",
+                                "translatedEnglishLine": "\"Well... that's the problem.\""
+                            },
+                            {
+                                "lineNumber": 64587,
+                                "originalJapaneseLine": "　コンピュータは、誰にも直せへん」",
+                                "translatedEnglishLine": "\"No one can fix the computer.\""
+                            },
+                            {
+                                "lineNumber": 64588,
+                                "originalJapaneseLine": "「は？」",
+                                "translatedEnglishLine": "\"Huh?\""
+                            },
+                            {
+                                "lineNumber": 64589,
+                                "originalJapaneseLine": "「なんで動くのか、分かってないのよ。",
+                                "translatedEnglishLine": "\"We don't understand how it works.\""
+                            },
+                            {
+                                "lineNumber": 64590,
+                                "originalJapaneseLine": "　情報魔法の使い手が、魔法で動かせることは",
+                                "translatedEnglishLine": "\"We know that those who use information magic can operate it with magic,\""
+                            },
+                            {
+                                "lineNumber": 64591,
+                                "originalJapaneseLine": "　分かってるんだけど……」",
+                                "translatedEnglishLine": "\"but that's about all we understand...\""
+                            },
+                            {
+                                "lineNumber": 64592,
+                                "originalJapaneseLine": "「たまに遺跡で見つかるものが、",
+                                "translatedEnglishLine": "\"Sometimes pieces are found in ruins,\""
+                            },
+                            {
+                                "lineNumber": 64593,
+                                "originalJapaneseLine": "　市場に流通してて……それだけ、なんだよね」",
+                                "translatedEnglishLine": "\"which circulate in the market... and that's it.\""
+                            },
+                            {
+                                "lineNumber": 64594,
+                                "originalJapaneseLine": "「ここをこうすれば動く。こういう事ができる。",
+                                "translatedEnglishLine": "\"If you do this here, it works. These are what it can do.\""
+                            },
+                            {
+                                "lineNumber": 64595,
+                                "originalJapaneseLine": "　専門家にも、そこまでしか分かってへん」",
+                                "translatedEnglishLine": "\"Even experts only understand it up to that point.\""
+                            },
+                            {
+                                "lineNumber": 64596,
+                                "originalJapaneseLine": "「……そんなモンを使ってたのか」",
+                                "translatedEnglishLine": "\"...So we've been using something like that?\""
+                            },
+                            {
+                                "lineNumber": 64597,
+                                "originalJapaneseLine": "「背に腹は代えられん、ちゅうやつや。",
+                                "translatedEnglishLine": "\"We had no choice, that's the kind of thing it was.\""
+                            },
+                            {
+                                "lineNumber": 64598,
+                                "originalJapaneseLine": "　せやけど……」",
+                                "translatedEnglishLine": "\"But still...\""
+                            },
+                            {
+                                "lineNumber": 64599,
+                                "originalJapaneseLine": "「それが使えなくなってる、ってわけか」",
+                                "translatedEnglishLine": "\"So it's become unusable, huh.\""
+                            },
+                            {
+                                "lineNumber": 64600,
+                                "originalJapaneseLine": "「データを送ってもエラーが起きて失敗。",
+                                "translatedEnglishLine": "\"If you send data, errors happen and it fails.\""
+                            },
+                            {
+                                "lineNumber": 64601,
+                                "originalJapaneseLine": "　向こうからのデータもまったく読み取れません」",
+                                "translatedEnglishLine": "\"We can't read any data coming from the other side either.\""
+                            },
+                            {
+                                "lineNumber": 64602,
+                                "originalJapaneseLine": "「ふぅむ。なんか厄介そうだな」",
+                                "translatedEnglishLine": "\"Hmm. Sounds troublesome.\""
+                            },
+                            {
+                                "lineNumber": 64603,
+                                "originalJapaneseLine": "「普段、人力でやってへんところやさかい、",
+                                "translatedEnglishLine": "\"Since we don't usually do this manually,\""
+                            },
+                            {
+                                "lineNumber": 64604,
+                                "originalJapaneseLine": "　しんどいわ。篠田が色々指揮しとるけど……」",
+                                "translatedEnglishLine": "\"it's tough. Shinoda is orchestrating many things, but...\""
+                            },
+                            {
+                                "lineNumber": 64605,
+                                "originalJapaneseLine": "「ゼスはもっと混乱してるんじゃないでしょうか……",
+                                "translatedEnglishLine": "\"Isn't Zeth even more confused...?\""
+                            },
+                            {
+                                "lineNumber": 64606,
+                                "originalJapaneseLine": "　コンピュータ、よく使ってますし……」",
+                                "translatedEnglishLine": "\"They use computers a lot as well...\""
+                            },
+                            {
+                                "lineNumber": 64607,
+                                "originalJapaneseLine": "「よし、とりあえず見てみるか。",
+                                "translatedEnglishLine": "\"Alright, for now let's go take a look.\""
+                            },
+                            {
+                                "lineNumber": 64608,
+                                "originalJapaneseLine": "　そのコンピュータのある所に案内しろ」",
+                                "translatedEnglishLine": "\"Show me where the computer is.\""
+                            },
+                            {
+                                "lineNumber": 64609,
+                                "originalJapaneseLine": "特設のコンピュータルームは、",
+                                "translatedEnglishLine": "The special computer room"
+                            },
+                            {
+                                "lineNumber": 64610,
+                                "originalJapaneseLine": "ハチ女の巣をつついたように大騒ぎになっていた。",
+                                "translatedEnglishLine": "was in an uproar, like poking a hornet's nest."
+                            },
+                            {
+                                "lineNumber": 64611,
+                                "originalJapaneseLine": "「くっそ、ええい……これはなんて書いてあるんだ」",
+                                "translatedEnglishLine": "\"Damn it, hey... what does this say?\""
+                            },
+                            {
+                                "lineNumber": 64612,
+                                "originalJapaneseLine": "「あっ、ゼス司令部！　ゼス司令部、聞こえますか！",
+                                "translatedEnglishLine": "\"Ah, Zeth Command! Zeth Command, can you hear me?\""
+                            },
+                            {
+                                "lineNumber": 64613,
+                                "originalJapaneseLine": "　こちら自由都市連合軍……聞こえますか！」",
+                                "translatedEnglishLine": "\"This is the Free Cities United Army... can you hear me?\""
+                            },
+                            {
+                                "lineNumber": 64614,
+                                "originalJapaneseLine": "「はあ……こりゃひどいな」",
+                                "translatedEnglishLine": "\"Hah... this is terrible.\""
+                            },
+                            {
+                                "lineNumber": 64615,
+                                "originalJapaneseLine": "「ホントよねぇ」",
+                                "translatedEnglishLine": "\"Really, isn't it?\""
+                            },
+                            {
+                                "lineNumber": 64616,
+                                "originalJapaneseLine": "「げっ……」",
+                                "translatedEnglishLine": "\"Ugh...\""
+                            },
+                            {
+                                "lineNumber": 64617,
+                                "originalJapaneseLine": "「やっぱりよく分からない物を使っちゃ",
+                                "translatedEnglishLine": "\"As expected, using something we don't really understand\""
+                            },
+                            {
+                                "lineNumber": 64618,
+                                "originalJapaneseLine": "　ダメだったのよ。",
+                                "translatedEnglishLine": "\"was a mistake.\""
+                            },
+                            {
+                                "lineNumber": 64619,
+                                "originalJapaneseLine": "　いくら便利でもね、もしもの時に困るでしょう？」",
+                                "translatedEnglishLine": "\"No matter how convenient, it causes trouble in emergencies, doesn't it?\""
+                            },
+                            {
+                                "lineNumber": 64620,
+                                "originalJapaneseLine": "「アイスでも、できるだけうしバスじゃなくて",
+                                "translatedEnglishLine": "\"Even for ice, try to avoid using the cow buses as much as possible.\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1563,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2038,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3601
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":64571,\"originalJapaneseLine\":\"「あーもうこんな時にー！」\",\"translatedEnglishLine\":\"\\\"Ah, not now of all times!\\\"\"},{\"lineNumber\":64572,\"originalJapaneseLine\":\"「で、何がどうなってんだ」\",\"translatedEnglishLine\":\"\\\"So, what exactly is going on?\\\"\"},{\"lineNumber\":64573,\"originalJapaneseLine\":\"「えーと、ヌヌハラは？」\",\"translatedEnglishLine\":\"\\\"Umm, what about Nunuhara?\\\"\"},{\"lineNumber\":64574,\"originalJapaneseLine\":\"「だめです、耐えられなかったようです」\",\"translatedEnglishLine\":\"\\\"No good, it seems he couldn't hold out.\\\"\"},{\"lineNumber\":64575,\"originalJapaneseLine\":\"「さよか……うーん。ま、置いといて。\",\"translatedEnglishLine\":\"\\\"Is that so... hmm. Well, let's put that aside.\\\"\"},{\"lineNumber\":64576,\"originalJapaneseLine\":\"　コンピュータがな、急に使えなくなってん」\",\"translatedEnglishLine\":\"\\\"The computer suddenly stopped working.\\\"\"},{\"lineNumber\":64577,\"originalJapaneseLine\":\"「なんだ役に立たんな。\",\"translatedEnglishLine\":\"\\\"Well, that's useless.\\\"\"},{\"lineNumber\":64578,\"originalJapaneseLine\":\"　で、それってどうなるんだ？」\",\"translatedEnglishLine\":\"\\\"So, what does that mean?\\\"\"},{\"lineNumber\":64579,\"originalJapaneseLine\":\"「各国間の情報のやりとりは全滅です。\",\"translatedEnglishLine\":\"\\\"All communication of information between nations has been wiped out.\\\"\"},{\"lineNumber\":64580,\"originalJapaneseLine\":\"　人力でやらなければならないとしたら……」\",\"translatedEnglishLine\":\"\\\"If we have to do it manually...\\\"\"},{\"lineNumber\":64581,\"originalJapaneseLine\":\"「早うし使おても、一日二日はかかるやろ。\",\"translatedEnglishLine\":\"\\\"Even if we hurry and use humans, it'll take a day or two.\\\"\"},{\"lineNumber\":64582,\"originalJapaneseLine\":\"　今までのようなやりとりはもう出来へん」\",\"translatedEnglishLine\":\"\\\"We won't be able to communicate the way we used to anymore.\\\"\"},{\"lineNumber\":64583,\"originalJapaneseLine\":\"「相談、連絡、指揮、報告、取引。\",\"translatedEnglishLine\":\"\\\"Consultations, contacts, commands, reports, transactions.\\\"\"},{\"lineNumber\":64584,\"originalJapaneseLine\":\"　全部、コンピュータに頼っとったからな」\",\"translatedEnglishLine\":\"\\\"We relied entirely on computers for all of them.\\\"\"},{\"lineNumber\":64585,\"originalJapaneseLine\":\"「壊れたんなら直せばいいのではないか」\",\"translatedEnglishLine\":\"\\\"If it's broken, can't we just fix it?\\\"\"},{\"lineNumber\":64586,\"originalJapaneseLine\":\"「それが……あかんねん。\",\"translatedEnglishLine\":\"\\\"Well... that's the problem.\\\"\"},{\"lineNumber\":64587,\"originalJapaneseLine\":\"　コンピュータは、誰にも直せへん」\",\"translatedEnglishLine\":\"\\\"No one can fix the computer.\\\"\"},{\"lineNumber\":64588,\"originalJapaneseLine\":\"「は？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":64589,\"originalJapaneseLine\":\"「なんで動くのか、分かってないのよ。\",\"translatedEnglishLine\":\"\\\"We don't understand how it works.\\\"\"},{\"lineNumber\":64590,\"originalJapaneseLine\":\"　情報魔法の使い手が、魔法で動かせることは\",\"translatedEnglishLine\":\"\\\"We know that those who use information magic can operate it with magic,\\\"\"},{\"lineNumber\":64591,\"originalJapaneseLine\":\"　分かってるんだけど……」\",\"translatedEnglishLine\":\"\\\"but that's about all we understand...\\\"\"},{\"lineNumber\":64592,\"originalJapaneseLine\":\"「たまに遺跡で見つかるものが、\",\"translatedEnglishLine\":\"\\\"Sometimes pieces are found in ruins,\\\"\"},{\"lineNumber\":64593,\"originalJapaneseLine\":\"　市場に流通してて……それだけ、なんだよね」\",\"translatedEnglishLine\":\"\\\"which circulate in the market... and that's it.\\\"\"},{\"lineNumber\":64594,\"originalJapaneseLine\":\"「ここをこうすれば動く。こういう事ができる。\",\"translatedEnglishLine\":\"\\\"If you do this here, it works. These are what it can do.\\\"\"},{\"lineNumber\":64595,\"originalJapaneseLine\":\"　専門家にも、そこまでしか分かってへん」\",\"translatedEnglishLine\":\"\\\"Even experts only understand it up to that point.\\\"\"},{\"lineNumber\":64596,\"originalJapaneseLine\":\"「……そんなモンを使ってたのか」\",\"translatedEnglishLine\":\"\\\"...So we've been using something like that?\\\"\"},{\"lineNumber\":64597,\"originalJapaneseLine\":\"「背に腹は代えられん、ちゅうやつや。\",\"translatedEnglishLine\":\"\\\"We had no choice, that's the kind of thing it was.\\\"\"},{\"lineNumber\":64598,\"originalJapaneseLine\":\"　せやけど……」\",\"translatedEnglishLine\":\"\\\"But still...\\\"\"},{\"lineNumber\":64599,\"originalJapaneseLine\":\"「それが使えなくなってる、ってわけか」\",\"translatedEnglishLine\":\"\\\"So it's become unusable, huh.\\\"\"},{\"lineNumber\":64600,\"originalJapaneseLine\":\"「データを送ってもエラーが起きて失敗。\",\"translatedEnglishLine\":\"\\\"If you send data, errors happen and it fails.\\\"\"},{\"lineNumber\":64601,\"originalJapaneseLine\":\"　向こうからのデータもまったく読み取れません」\",\"translatedEnglishLine\":\"\\\"We can't read any data coming from the other side either.\\\"\"},{\"lineNumber\":64602,\"originalJapaneseLine\":\"「ふぅむ。なんか厄介そうだな」\",\"translatedEnglishLine\":\"\\\"Hmm. Sounds troublesome.\\\"\"},{\"lineNumber\":64603,\"originalJapaneseLine\":\"「普段、人力でやってへんところやさかい、\",\"translatedEnglishLine\":\"\\\"Since we don't usually do this manually,\\\"\"},{\"lineNumber\":64604,\"originalJapaneseLine\":\"　しんどいわ。篠田が色々指揮しとるけど……」\",\"translatedEnglishLine\":\"\\\"it's tough. Shinoda is orchestrating many things, but...\\\"\"},{\"lineNumber\":64605,\"originalJapaneseLine\":\"「ゼスはもっと混乱してるんじゃないでしょうか……\",\"translatedEnglishLine\":\"\\\"Isn't Zeth even more confused...?\\\"\"},{\"lineNumber\":64606,\"originalJapaneseLine\":\"　コンピュータ、よく使ってますし……」\",\"translatedEnglishLine\":\"\\\"They use computers a lot as well...\\\"\"},{\"lineNumber\":64607,\"originalJapaneseLine\":\"「よし、とりあえず見てみるか。\",\"translatedEnglishLine\":\"\\\"Alright, for now let's go take a look.\\\"\"},{\"lineNumber\":64608,\"originalJapaneseLine\":\"　そのコンピュータのある所に案内しろ」\",\"translatedEnglishLine\":\"\\\"Show me where the computer is.\\\"\"},{\"lineNumber\":64609,\"originalJapaneseLine\":\"特設のコンピュータルームは、\",\"translatedEnglishLine\":\"The special computer room\"},{\"lineNumber\":64610,\"originalJapaneseLine\":\"ハチ女の巣をつついたように大騒ぎになっていた。\",\"translatedEnglishLine\":\"was in an uproar, like poking a hornet's nest.\"},{\"lineNumber\":64611,\"originalJapaneseLine\":\"「くっそ、ええい……これはなんて書いてあるんだ」\",\"translatedEnglishLine\":\"\\\"Damn it, hey... what does this say?\\\"\"},{\"lineNumber\":64612,\"originalJapaneseLine\":\"「あっ、ゼス司令部！　ゼス司令部、聞こえますか！\",\"translatedEnglishLine\":\"\\\"Ah, Zeth Command! Zeth Command, can you hear me?\\\"\"},{\"lineNumber\":64613,\"originalJapaneseLine\":\"　こちら自由都市連合軍……聞こえますか！」\",\"translatedEnglishLine\":\"\\\"This is the Free Cities United Army... can you hear me?\\\"\"},{\"lineNumber\":64614,\"originalJapaneseLine\":\"「はあ……こりゃひどいな」\",\"translatedEnglishLine\":\"\\\"Hah... this is terrible.\\\"\"},{\"lineNumber\":64615,\"originalJapaneseLine\":\"「ホントよねぇ」\",\"translatedEnglishLine\":\"\\\"Really, isn't it?\\\"\"},{\"lineNumber\":64616,\"originalJapaneseLine\":\"「げっ……」\",\"translatedEnglishLine\":\"\\\"Ugh...\\\"\"},{\"lineNumber\":64617,\"originalJapaneseLine\":\"「やっぱりよく分からない物を使っちゃ\",\"translatedEnglishLine\":\"\\\"As expected, using something we don't really understand\\\"\"},{\"lineNumber\":64618,\"originalJapaneseLine\":\"　ダメだったのよ。\",\"translatedEnglishLine\":\"\\\"was a mistake.\\\"\"},{\"lineNumber\":64619,\"originalJapaneseLine\":\"　いくら便利でもね、もしもの時に困るでしょう？」\",\"translatedEnglishLine\":\"\\\"No matter how convenient, it causes trouble in emergencies, doesn't it?\\\"\"},{\"lineNumber\":64620,\"originalJapaneseLine\":\"「アイスでも、できるだけうしバスじゃなくて\",\"translatedEnglishLine\":\"\\\"Even for ice, try to avoid using the cow buses as much as possible.\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 64571,
+                "originalJapaneseLine": "「あーもうこんな時にー！」",
+                "translatedEnglishLine": "\"Ah, not now of all times!\""
+            },
+            {
+                "lineNumber": 64572,
+                "originalJapaneseLine": "「で、何がどうなってんだ」",
+                "translatedEnglishLine": "\"So, what exactly is going on?\""
+            },
+            {
+                "lineNumber": 64573,
+                "originalJapaneseLine": "「えーと、ヌヌハラは？」",
+                "translatedEnglishLine": "\"Umm, what about Nunuhara?\""
+            },
+            {
+                "lineNumber": 64574,
+                "originalJapaneseLine": "「だめです、耐えられなかったようです」",
+                "translatedEnglishLine": "\"No good, it seems he couldn't hold out.\""
+            },
+            {
+                "lineNumber": 64575,
+                "originalJapaneseLine": "「さよか……うーん。ま、置いといて。",
+                "translatedEnglishLine": "\"Is that so... hmm. Well, let's put that aside.\""
+            },
+            {
+                "lineNumber": 64576,
+                "originalJapaneseLine": "　コンピュータがな、急に使えなくなってん」",
+                "translatedEnglishLine": "\"The computer suddenly stopped working.\""
+            },
+            {
+                "lineNumber": 64577,
+                "originalJapaneseLine": "「なんだ役に立たんな。",
+                "translatedEnglishLine": "\"Well, that's useless.\""
+            },
+            {
+                "lineNumber": 64578,
+                "originalJapaneseLine": "　で、それってどうなるんだ？」",
+                "translatedEnglishLine": "\"So, what does that mean?\""
+            },
+            {
+                "lineNumber": 64579,
+                "originalJapaneseLine": "「各国間の情報のやりとりは全滅です。",
+                "translatedEnglishLine": "\"All communication of information between nations has been wiped out.\""
+            },
+            {
+                "lineNumber": 64580,
+                "originalJapaneseLine": "　人力でやらなければならないとしたら……」",
+                "translatedEnglishLine": "\"If we have to do it manually...\""
+            },
+            {
+                "lineNumber": 64581,
+                "originalJapaneseLine": "「早うし使おても、一日二日はかかるやろ。",
+                "translatedEnglishLine": "\"Even if we hurry and use humans, it'll take a day or two.\""
+            },
+            {
+                "lineNumber": 64582,
+                "originalJapaneseLine": "　今までのようなやりとりはもう出来へん」",
+                "translatedEnglishLine": "\"We won't be able to communicate the way we used to anymore.\""
+            },
+            {
+                "lineNumber": 64583,
+                "originalJapaneseLine": "「相談、連絡、指揮、報告、取引。",
+                "translatedEnglishLine": "\"Consultations, contacts, commands, reports, transactions.\""
+            },
+            {
+                "lineNumber": 64584,
+                "originalJapaneseLine": "　全部、コンピュータに頼っとったからな」",
+                "translatedEnglishLine": "\"We relied entirely on computers for all of them.\""
+            },
+            {
+                "lineNumber": 64585,
+                "originalJapaneseLine": "「壊れたんなら直せばいいのではないか」",
+                "translatedEnglishLine": "\"If it's broken, can't we just fix it?\""
+            },
+            {
+                "lineNumber": 64586,
+                "originalJapaneseLine": "「それが……あかんねん。",
+                "translatedEnglishLine": "\"Well... that's the problem.\""
+            },
+            {
+                "lineNumber": 64587,
+                "originalJapaneseLine": "　コンピュータは、誰にも直せへん」",
+                "translatedEnglishLine": "\"No one can fix the computer.\""
+            },
+            {
+                "lineNumber": 64588,
+                "originalJapaneseLine": "「は？」",
+                "translatedEnglishLine": "\"Huh?\""
+            },
+            {
+                "lineNumber": 64589,
+                "originalJapaneseLine": "「なんで動くのか、分かってないのよ。",
+                "translatedEnglishLine": "\"We don't understand how it works.\""
+            },
+            {
+                "lineNumber": 64590,
+                "originalJapaneseLine": "　情報魔法の使い手が、魔法で動かせることは",
+                "translatedEnglishLine": "\"We know that those who use information magic can operate it with magic,\""
+            },
+            {
+                "lineNumber": 64591,
+                "originalJapaneseLine": "　分かってるんだけど……」",
+                "translatedEnglishLine": "\"but that's about all we understand...\""
+            },
+            {
+                "lineNumber": 64592,
+                "originalJapaneseLine": "「たまに遺跡で見つかるものが、",
+                "translatedEnglishLine": "\"Sometimes pieces are found in ruins,\""
+            },
+            {
+                "lineNumber": 64593,
+                "originalJapaneseLine": "　市場に流通してて……それだけ、なんだよね」",
+                "translatedEnglishLine": "\"which circulate in the market... and that's it.\""
+            },
+            {
+                "lineNumber": 64594,
+                "originalJapaneseLine": "「ここをこうすれば動く。こういう事ができる。",
+                "translatedEnglishLine": "\"If you do this here, it works. These are what it can do.\""
+            },
+            {
+                "lineNumber": 64595,
+                "originalJapaneseLine": "　専門家にも、そこまでしか分かってへん」",
+                "translatedEnglishLine": "\"Even experts only understand it up to that point.\""
+            },
+            {
+                "lineNumber": 64596,
+                "originalJapaneseLine": "「……そんなモンを使ってたのか」",
+                "translatedEnglishLine": "\"...So we've been using something like that?\""
+            },
+            {
+                "lineNumber": 64597,
+                "originalJapaneseLine": "「背に腹は代えられん、ちゅうやつや。",
+                "translatedEnglishLine": "\"We had no choice, that's the kind of thing it was.\""
+            },
+            {
+                "lineNumber": 64598,
+                "originalJapaneseLine": "　せやけど……」",
+                "translatedEnglishLine": "\"But still...\""
+            },
+            {
+                "lineNumber": 64599,
+                "originalJapaneseLine": "「それが使えなくなってる、ってわけか」",
+                "translatedEnglishLine": "\"So it's become unusable, huh.\""
+            },
+            {
+                "lineNumber": 64600,
+                "originalJapaneseLine": "「データを送ってもエラーが起きて失敗。",
+                "translatedEnglishLine": "\"If you send data, errors happen and it fails.\""
+            },
+            {
+                "lineNumber": 64601,
+                "originalJapaneseLine": "　向こうからのデータもまったく読み取れません」",
+                "translatedEnglishLine": "\"We can't read any data coming from the other side either.\""
+            },
+            {
+                "lineNumber": 64602,
+                "originalJapaneseLine": "「ふぅむ。なんか厄介そうだな」",
+                "translatedEnglishLine": "\"Hmm. Sounds troublesome.\""
+            },
+            {
+                "lineNumber": 64603,
+                "originalJapaneseLine": "「普段、人力でやってへんところやさかい、",
+                "translatedEnglishLine": "\"Since we don't usually do this manually,\""
+            },
+            {
+                "lineNumber": 64604,
+                "originalJapaneseLine": "　しんどいわ。篠田が色々指揮しとるけど……」",
+                "translatedEnglishLine": "\"it's tough. Shinoda is orchestrating many things, but...\""
+            },
+            {
+                "lineNumber": 64605,
+                "originalJapaneseLine": "「ゼスはもっと混乱してるんじゃないでしょうか……",
+                "translatedEnglishLine": "\"Isn't Zeth even more confused...?\""
+            },
+            {
+                "lineNumber": 64606,
+                "originalJapaneseLine": "　コンピュータ、よく使ってますし……」",
+                "translatedEnglishLine": "\"They use computers a lot as well...\""
+            },
+            {
+                "lineNumber": 64607,
+                "originalJapaneseLine": "「よし、とりあえず見てみるか。",
+                "translatedEnglishLine": "\"Alright, for now let's go take a look.\""
+            },
+            {
+                "lineNumber": 64608,
+                "originalJapaneseLine": "　そのコンピュータのある所に案内しろ」",
+                "translatedEnglishLine": "\"Show me where the computer is.\""
+            },
+            {
+                "lineNumber": 64609,
+                "originalJapaneseLine": "特設のコンピュータルームは、",
+                "translatedEnglishLine": "The special computer room"
+            },
+            {
+                "lineNumber": 64610,
+                "originalJapaneseLine": "ハチ女の巣をつついたように大騒ぎになっていた。",
+                "translatedEnglishLine": "was in an uproar, like poking a hornet's nest."
+            },
+            {
+                "lineNumber": 64611,
+                "originalJapaneseLine": "「くっそ、ええい……これはなんて書いてあるんだ」",
+                "translatedEnglishLine": "\"Damn it, hey... what does this say?\""
+            },
+            {
+                "lineNumber": 64612,
+                "originalJapaneseLine": "「あっ、ゼス司令部！　ゼス司令部、聞こえますか！",
+                "translatedEnglishLine": "\"Ah, Zeth Command! Zeth Command, can you hear me?\""
+            },
+            {
+                "lineNumber": 64613,
+                "originalJapaneseLine": "　こちら自由都市連合軍……聞こえますか！」",
+                "translatedEnglishLine": "\"This is the Free Cities United Army... can you hear me?\""
+            },
+            {
+                "lineNumber": 64614,
+                "originalJapaneseLine": "「はあ……こりゃひどいな」",
+                "translatedEnglishLine": "\"Hah... this is terrible.\""
+            },
+            {
+                "lineNumber": 64615,
+                "originalJapaneseLine": "「ホントよねぇ」",
+                "translatedEnglishLine": "\"Really, isn't it?\""
+            },
+            {
+                "lineNumber": 64616,
+                "originalJapaneseLine": "「げっ……」",
+                "translatedEnglishLine": "\"Ugh...\""
+            },
+            {
+                "lineNumber": 64617,
+                "originalJapaneseLine": "「やっぱりよく分からない物を使っちゃ",
+                "translatedEnglishLine": "\"As expected, using something we don't really understand\""
+            },
+            {
+                "lineNumber": 64618,
+                "originalJapaneseLine": "　ダメだったのよ。",
+                "translatedEnglishLine": "\"was a mistake.\""
+            },
+            {
+                "lineNumber": 64619,
+                "originalJapaneseLine": "　いくら便利でもね、もしもの時に困るでしょう？」",
+                "translatedEnglishLine": "\"No matter how convenient, it causes trouble in emergencies, doesn't it?\""
+            },
+            {
+                "lineNumber": 64620,
+                "originalJapaneseLine": "「アイスでも、できるだけうしバスじゃなくて",
+                "translatedEnglishLine": "\"Even for ice, try to avoid using the cow buses as much as possible.\""
+            }
+        ]
+    }
+}

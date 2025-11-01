@@ -1,1 +1,719 @@
-{"id":"resp_0d850bf42579dd090068f106663e4c81968ca6195c919ee5ae","object":"response","created_at":1760626278,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0d850bf42579dd090068f10667666881969c5bce3a5683d4ca","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":123751,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"…………\\\"\"},{\"lineNumber\":123752,\"originalJapaneseLine\":\"「はっ！」\",\"translatedEnglishLine\":\"\\\"Ha!\\\"\"},{\"lineNumber\":123753,\"originalJapaneseLine\":\"「　いや、熊子じゃないよ！　虎子だよ！」\",\"translatedEnglishLine\":\"\\\"No, I'm not Kumako! I'm Torako!\\\"\"},{\"lineNumber\":123754,\"originalJapaneseLine\":\"「はあー？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":123755,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"…………\\\"\"},{\"lineNumber\":123756,\"originalJapaneseLine\":\"「あ、虎子。\",\"translatedEnglishLine\":\"\\\"Ah, Torako.\"},{\"lineNumber\":123757,\"originalJapaneseLine\":\"　いいからこれ見て」\",\"translatedEnglishLine\":\"Just look at this.\\\"\"},{\"lineNumber\":123758,\"originalJapaneseLine\":\"「なにちょっと分からなくなってるのよ！」\",\"translatedEnglishLine\":\"\\\"Why are you suddenly so confused!\\\"\"},{\"lineNumber\":123759,\"originalJapaneseLine\":\"「勝子のせいで私、\",\"translatedEnglishLine\":\"\\\"Because of Katsuko,\"},{\"lineNumber\":123760,\"originalJapaneseLine\":\"　後輩の子に熊子先輩ってこの間呼ばれたのよ！？\",\"translatedEnglishLine\":\"the junior called me 'Kumako-senpai' the other day!?\\\"\"},{\"lineNumber\":123761,\"originalJapaneseLine\":\"　本気にした子まで出たじゃん！」\",\"translatedEnglishLine\":\"There was even someone who took it seriously!\\\"\"},{\"lineNumber\":123762,\"originalJapaneseLine\":\"「はいはい、いいからこれ見て」\",\"translatedEnglishLine\":\"\\\"Alright, alright, just look at this.\\\"\"},{\"lineNumber\":123763,\"originalJapaneseLine\":\"「クスン……なによこれ……」\",\"translatedEnglishLine\":\"\\\"Sniff... What is this...?\\\"\"},{\"lineNumber\":123764,\"originalJapaneseLine\":\"「ほら、これが虎バンバラに、クマの写真」\",\"translatedEnglishLine\":\"\\\"See, here’s a photo of a tiger, and here’s one of a bear.\\\"\"},{\"lineNumber\":123765,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"…………\\\"\"},{\"lineNumber\":123766,\"originalJapaneseLine\":\"ツイーと勝子の視線が虎子の頭上に向かう。\",\"translatedEnglishLine\":\"Katsuko’s gaze quickly shifts above Torako's head.\"},{\"lineNumber\":123767,\"originalJapaneseLine\":\"「あんたの耳、どう見てもクマの方が近い」\",\"translatedEnglishLine\":\"\\\"No matter how you look at it, your ears are closer to a bear's.\\\"\"},{\"lineNumber\":123768,\"originalJapaneseLine\":\"「まだその話引っ張るの！？」\",\"translatedEnglishLine\":\"\\\"Are you still dragging that story on!?\\\"\"},{\"lineNumber\":123769,\"originalJapaneseLine\":\"「大好きなお婆ちゃんがくれた\",\"translatedEnglishLine\":\"\\\"My beloved grandma gave me\"},{\"lineNumber\":123770,\"originalJapaneseLine\":\"　この髪留めを馬鹿にしたら怒るんだからね！」\",\"translatedEnglishLine\":\"this hairpin, so don’t make fun of it or I’ll get mad!\\\"\"},{\"lineNumber\":123771,\"originalJapaneseLine\":\"「……おばあさんが虎耳だって言ったの？」\",\"translatedEnglishLine\":\"\\\"...Did grandma say these are tiger ears?\\\"\"},{\"lineNumber\":123772,\"originalJapaneseLine\":\"「言ったもん！」\",\"translatedEnglishLine\":\"\\\"She did!\\\"\"},{\"lineNumber\":123773,\"originalJapaneseLine\":\"「わーい、おばーちゃんだいすきー」\",\"translatedEnglishLine\":\"\\\"Yay, I love grandma!\\\"\"},{\"lineNumber\":123774,\"originalJapaneseLine\":\"「ほほほ、虎子は本当に元気だねぇ」\",\"translatedEnglishLine\":\"\\\"Hohoho, Torako, you really are full of energy.\\\"\"},{\"lineNumber\":123775,\"originalJapaneseLine\":\"「さ、これをおつけなさい」\",\"translatedEnglishLine\":\"\\\"Now, put this on.\\\"\"},{\"lineNumber\":123776,\"originalJapaneseLine\":\"「わー、おばーちゃんこれなにー？」\",\"translatedEnglishLine\":\"\\\"Wow, Grandma, what’s this?\\\"\"},{\"lineNumber\":123777,\"originalJapaneseLine\":\"「虎子に似合うと思って買っておいたんだよ……」\",\"translatedEnglishLine\":\"\\\"I bought it because I thought it would suit Torako...\\\"\"},{\"lineNumber\":123778,\"originalJapaneseLine\":\"「わーい、おばーちゃん、どう？」\",\"translatedEnglishLine\":\"\\\"Yay, Grandma, how is it?\\\"\"},{\"lineNumber\":123779,\"originalJapaneseLine\":\"「ふふ、思った通り、\",\"translatedEnglishLine\":\"\\\"Hehe, just as I thought,\"},{\"lineNumber\":123780,\"originalJapaneseLine\":\"　虎子によぉく似合ってるわ」\",\"translatedEnglishLine\":\"it really suits Torako well.\\\"\"},{\"lineNumber\":123781,\"originalJapaneseLine\":\"「えへへー、じゃあこれからずっとこれつけるねー」\",\"translatedEnglishLine\":\"\\\"Ehehe, then I’ll wear this all the time from now on!\\\"\"},{\"lineNumber\":123782,\"originalJapaneseLine\":\"「ほほほ、そうかい？　それは嬉しいねぇ」\",\"translatedEnglishLine\":\"\\\"Hohoho, really? That makes me happy.\\\"\"},{\"lineNumber\":123783,\"originalJapaneseLine\":\"「あははー、おばーちゃん、おばーちゃーん♪」\",\"translatedEnglishLine\":\"\\\"Ahaha, Grandma, Grandma~♪\\\"\"},{\"lineNumber\":123784,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"…………\"},{\"lineNumber\":123785,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"……\"},{\"lineNumber\":123786,\"originalJapaneseLine\":\"「あれ！？　虎の耳だなんて言ってない！？」\",\"translatedEnglishLine\":\"\\\"Huh!? Nobody said they were tiger ears!?\\\"\"},{\"lineNumber\":123787,\"originalJapaneseLine\":\"「お婆ちゃん、これなんの耳！？」\",\"translatedEnglishLine\":\"\\\"Grandma, what kind of ears are these!?\\\"\"},{\"lineNumber\":123788,\"originalJapaneseLine\":\"「たぬきじゃなかったのか？」\",\"translatedEnglishLine\":\"\\\"Weren’t they tanuki ears?\\\"\"},{\"lineNumber\":123789,\"originalJapaneseLine\":\"「へ？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":123790,\"originalJapaneseLine\":\"「いや、私は以前からたぬきの耳かと\",\"translatedEnglishLine\":\"\\\"No, I always thought they were tanuki ears.\"},{\"lineNumber\":123791,\"originalJapaneseLine\":\"見る度に郷愁の念に駆られていたものだ」\",\"translatedEnglishLine\":\"Every time I saw them, I was filled with nostalgia.\\\"\"},{\"lineNumber\":123792,\"originalJapaneseLine\":\"「たぬーーーーー！？」\",\"translatedEnglishLine\":\"\\\"Tanuki——!?\\\"\"},{\"lineNumber\":123793,\"originalJapaneseLine\":\"「いやー、なんかランクダウンした気がするー！？」\",\"translatedEnglishLine\":\"\\\"Ah, somehow I feel like you’ve been downgraded!?\\\"\"},{\"lineNumber\":123794,\"originalJapaneseLine\":\"「あんた……\",\"translatedEnglishLine\":\"\\\"You…\\\"\"},{\"lineNumber\":123795,\"originalJapaneseLine\":\"「たぬ子だったの？」\",\"translatedEnglishLine\":\"\\\"Were you Tanuko?\\\"\"},{\"lineNumber\":123796,\"originalJapaneseLine\":\"「虎子だよ！\",\"translatedEnglishLine\":\"\\\"I'm Torako!\"},{\"lineNumber\":123797,\"originalJapaneseLine\":\"　仮にこれが狸でも死ぬまで虎子だよ！」\",\"translatedEnglishLine\":\"Even if these were tanuki ears, I’m Torako until I die!\\\"\"},{\"lineNumber\":123798,\"originalJapaneseLine\":\"「おっと、そろそろ訓練の時間ね」\",\"translatedEnglishLine\":\"\\\"Oops, it’s about time for training.\\\"\"},{\"lineNumber\":123799,\"originalJapaneseLine\":\"「行くわよ、たぬ子」\",\"translatedEnglishLine\":\"\\\"Let's go, Tanuko.\\\"\"},{\"lineNumber\":123800,\"originalJapaneseLine\":\"「うわーん！　勝子の馬鹿馬鹿馬鹿ー！」\",\"translatedEnglishLine\":\"\\\"Waaah! Katsuko, you idiot, idiot, idiot!\\\"\"},{\"lineNumber\":123801,\"originalJapaneseLine\":\"「……で、結局それなんの耳なの？」\",\"translatedEnglishLine\":\"\\\"...So, in the end, what kind of ears are those?\\\"\"},{\"lineNumber\":123802,\"originalJapaneseLine\":\"「もう私にも分からないよ！\",\"translatedEnglishLine\":\"\\\"I don’t even know myself anymore!\\\"\"},{\"lineNumber\":123803,\"originalJapaneseLine\":\"　馬鹿ー！　すっとこどっこいー！」\",\"translatedEnglishLine\":\"\\\"Idiot! Blockhead!\\\"\"},{\"lineNumber\":123804,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"…………\\\"\"},{\"lineNumber\":123805,\"originalJapaneseLine\":\"「あいつら本当は仲いいんじゃ」\",\"translatedEnglishLine\":\"\\\"Those two actually get along well, don’t they?\\\"\"},{\"lineNumber\":123806,\"originalJapaneseLine\":\"「いやいや、仲悪いですよ。\",\"translatedEnglishLine\":\"\\\"No, no, they don’t get along.\"},{\"lineNumber\":123807,\"originalJapaneseLine\":\"　困らせられてます」\",\"translatedEnglishLine\":\"They’re making things difficult for me.\\\"\"},{\"lineNumber\":123808,\"originalJapaneseLine\":\"「……そうか」\",\"translatedEnglishLine\":\"\\\"...I see.\\\"\"},{\"lineNumber\":123809,\"originalJapaneseLine\":\"「あ、ランスさん……」\",\"translatedEnglishLine\":\"\\\"Ah, Rance-san...\\\"\"},{\"lineNumber\":123810,\"originalJapaneseLine\":\"「よう、勝子か……」\",\"translatedEnglishLine\":\"\\\"Hey, Katsuko...\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":123751,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"…………\""},{"lineNumber":123752,"originalJapaneseLine":"「はっ！」","translatedEnglishLine":"\"Ha!\""},{"lineNumber":123753,"originalJapaneseLine":"「　いや、熊子じゃないよ！　虎子だよ！」","translatedEnglishLine":"\"No, I'm not Kumako! I'm Torako!\""},{"lineNumber":123754,"originalJapaneseLine":"「はあー？」","translatedEnglishLine":"\"Huh?\""},{"lineNumber":123755,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"…………\""},{"lineNumber":123756,"originalJapaneseLine":"「あ、虎子。","translatedEnglishLine":"\"Ah, Torako."},{"lineNumber":123757,"originalJapaneseLine":"　いいからこれ見て」","translatedEnglishLine":"Just look at this.\""},{"lineNumber":123758,"originalJapaneseLine":"「なにちょっと分からなくなってるのよ！」","translatedEnglishLine":"\"Why are you suddenly so confused!\""},{"lineNumber":123759,"originalJapaneseLine":"「勝子のせいで私、","translatedEnglishLine":"\"Because of Katsuko,"},{"lineNumber":123760,"originalJapaneseLine":"　後輩の子に熊子先輩ってこの間呼ばれたのよ！？","translatedEnglishLine":"the junior called me 'Kumako-senpai' the other day!?\""},{"lineNumber":123761,"originalJapaneseLine":"　本気にした子まで出たじゃん！」","translatedEnglishLine":"There was even someone who took it seriously!\""},{"lineNumber":123762,"originalJapaneseLine":"「はいはい、いいからこれ見て」","translatedEnglishLine":"\"Alright, alright, just look at this.\""},{"lineNumber":123763,"originalJapaneseLine":"「クスン……なによこれ……」","translatedEnglishLine":"\"Sniff... What is this...?\""},{"lineNumber":123764,"originalJapaneseLine":"「ほら、これが虎バンバラに、クマの写真」","translatedEnglishLine":"\"See, here’s a photo of a tiger, and here’s one of a bear.\""},{"lineNumber":123765,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"…………\""},{"lineNumber":123766,"originalJapaneseLine":"ツイーと勝子の視線が虎子の頭上に向かう。","translatedEnglishLine":"Katsuko’s gaze quickly shifts above Torako's head."},{"lineNumber":123767,"originalJapaneseLine":"「あんたの耳、どう見てもクマの方が近い」","translatedEnglishLine":"\"No matter how you look at it, your ears are closer to a bear's.\""},{"lineNumber":123768,"originalJapaneseLine":"「まだその話引っ張るの！？」","translatedEnglishLine":"\"Are you still dragging that story on!?\""},{"lineNumber":123769,"originalJapaneseLine":"「大好きなお婆ちゃんがくれた","translatedEnglishLine":"\"My beloved grandma gave me"},{"lineNumber":123770,"originalJapaneseLine":"　この髪留めを馬鹿にしたら怒るんだからね！」","translatedEnglishLine":"this hairpin, so don’t make fun of it or I’ll get mad!\""},{"lineNumber":123771,"originalJapaneseLine":"「……おばあさんが虎耳だって言ったの？」","translatedEnglishLine":"\"...Did grandma say these are tiger ears?\""},{"lineNumber":123772,"originalJapaneseLine":"「言ったもん！」","translatedEnglishLine":"\"She did!\""},{"lineNumber":123773,"originalJapaneseLine":"「わーい、おばーちゃんだいすきー」","translatedEnglishLine":"\"Yay, I love grandma!\""},{"lineNumber":123774,"originalJapaneseLine":"「ほほほ、虎子は本当に元気だねぇ」","translatedEnglishLine":"\"Hohoho, Torako, you really are full of energy.\""},{"lineNumber":123775,"originalJapaneseLine":"「さ、これをおつけなさい」","translatedEnglishLine":"\"Now, put this on.\""},{"lineNumber":123776,"originalJapaneseLine":"「わー、おばーちゃんこれなにー？」","translatedEnglishLine":"\"Wow, Grandma, what’s this?\""},{"lineNumber":123777,"originalJapaneseLine":"「虎子に似合うと思って買っておいたんだよ……」","translatedEnglishLine":"\"I bought it because I thought it would suit Torako...\""},{"lineNumber":123778,"originalJapaneseLine":"「わーい、おばーちゃん、どう？」","translatedEnglishLine":"\"Yay, Grandma, how is it?\""},{"lineNumber":123779,"originalJapaneseLine":"「ふふ、思った通り、","translatedEnglishLine":"\"Hehe, just as I thought,"},{"lineNumber":123780,"originalJapaneseLine":"　虎子によぉく似合ってるわ」","translatedEnglishLine":"it really suits Torako well.\""},{"lineNumber":123781,"originalJapaneseLine":"「えへへー、じゃあこれからずっとこれつけるねー」","translatedEnglishLine":"\"Ehehe, then I’ll wear this all the time from now on!\""},{"lineNumber":123782,"originalJapaneseLine":"「ほほほ、そうかい？　それは嬉しいねぇ」","translatedEnglishLine":"\"Hohoho, really? That makes me happy.\""},{"lineNumber":123783,"originalJapaneseLine":"「あははー、おばーちゃん、おばーちゃーん♪」","translatedEnglishLine":"\"Ahaha, Grandma, Grandma~♪\""},{"lineNumber":123784,"originalJapaneseLine":"…………","translatedEnglishLine":"…………"},{"lineNumber":123785,"originalJapaneseLine":"……","translatedEnglishLine":"……"},{"lineNumber":123786,"originalJapaneseLine":"「あれ！？　虎の耳だなんて言ってない！？」","translatedEnglishLine":"\"Huh!? Nobody said they were tiger ears!?\""},{"lineNumber":123787,"originalJapaneseLine":"「お婆ちゃん、これなんの耳！？」","translatedEnglishLine":"\"Grandma, what kind of ears are these!?\""},{"lineNumber":123788,"originalJapaneseLine":"「たぬきじゃなかったのか？」","translatedEnglishLine":"\"Weren’t they tanuki ears?\""},{"lineNumber":123789,"originalJapaneseLine":"「へ？」","translatedEnglishLine":"\"Huh?\""},{"lineNumber":123790,"originalJapaneseLine":"「いや、私は以前からたぬきの耳かと","translatedEnglishLine":"\"No, I always thought they were tanuki ears."},{"lineNumber":123791,"originalJapaneseLine":"見る度に郷愁の念に駆られていたものだ」","translatedEnglishLine":"Every time I saw them, I was filled with nostalgia.\""},{"lineNumber":123792,"originalJapaneseLine":"「たぬーーーーー！？」","translatedEnglishLine":"\"Tanuki——!?\""},{"lineNumber":123793,"originalJapaneseLine":"「いやー、なんかランクダウンした気がするー！？」","translatedEnglishLine":"\"Ah, somehow I feel like you’ve been downgraded!?\""},{"lineNumber":123794,"originalJapaneseLine":"「あんた……","translatedEnglishLine":"\"You…\""},{"lineNumber":123795,"originalJapaneseLine":"「たぬ子だったの？」","translatedEnglishLine":"\"Were you Tanuko?\""},{"lineNumber":123796,"originalJapaneseLine":"「虎子だよ！","translatedEnglishLine":"\"I'm Torako!"},{"lineNumber":123797,"originalJapaneseLine":"　仮にこれが狸でも死ぬまで虎子だよ！」","translatedEnglishLine":"Even if these were tanuki ears, I’m Torako until I die!\""},{"lineNumber":123798,"originalJapaneseLine":"「おっと、そろそろ訓練の時間ね」","translatedEnglishLine":"\"Oops, it’s about time for training.\""},{"lineNumber":123799,"originalJapaneseLine":"「行くわよ、たぬ子」","translatedEnglishLine":"\"Let's go, Tanuko.\""},{"lineNumber":123800,"originalJapaneseLine":"「うわーん！　勝子の馬鹿馬鹿馬鹿ー！」","translatedEnglishLine":"\"Waaah! Katsuko, you idiot, idiot, idiot!\""},{"lineNumber":123801,"originalJapaneseLine":"「……で、結局それなんの耳なの？」","translatedEnglishLine":"\"...So, in the end, what kind of ears are those?\""},{"lineNumber":123802,"originalJapaneseLine":"「もう私にも分からないよ！","translatedEnglishLine":"\"I don’t even know myself anymore!\""},{"lineNumber":123803,"originalJapaneseLine":"　馬鹿ー！　すっとこどっこいー！」","translatedEnglishLine":"\"Idiot! Blockhead!\""},{"lineNumber":123804,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"…………\""},{"lineNumber":123805,"originalJapaneseLine":"「あいつら本当は仲いいんじゃ」","translatedEnglishLine":"\"Those two actually get along well, don’t they?\""},{"lineNumber":123806,"originalJapaneseLine":"「いやいや、仲悪いですよ。","translatedEnglishLine":"\"No, no, they don’t get along."},{"lineNumber":123807,"originalJapaneseLine":"　困らせられてます」","translatedEnglishLine":"They’re making things difficult for me.\""},{"lineNumber":123808,"originalJapaneseLine":"「……そうか」","translatedEnglishLine":"\"...I see.\""},{"lineNumber":123809,"originalJapaneseLine":"「あ、ランスさん……」","translatedEnglishLine":"\"Ah, Rance-san...\""},{"lineNumber":123810,"originalJapaneseLine":"「よう、勝子か……」","translatedEnglishLine":"\"Hey, Katsuko...\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1671,"input_tokens_details":{"cached_tokens":0},"output_tokens":2199,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3870},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":123751,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"…………\\\"\"},{\"lineNumber\":123752,\"originalJapaneseLine\":\"「はっ！」\",\"translatedEnglishLine\":\"\\\"Ha!\\\"\"},{\"lineNumber\":123753,\"originalJapaneseLine\":\"「　いや、熊子じゃないよ！　虎子だよ！」\",\"translatedEnglishLine\":\"\\\"No, I'm not Kumako! I'm Torako!\\\"\"},{\"lineNumber\":123754,\"originalJapaneseLine\":\"「はあー？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":123755,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"…………\\\"\"},{\"lineNumber\":123756,\"originalJapaneseLine\":\"「あ、虎子。\",\"translatedEnglishLine\":\"\\\"Ah, Torako.\"},{\"lineNumber\":123757,\"originalJapaneseLine\":\"　いいからこれ見て」\",\"translatedEnglishLine\":\"Just look at this.\\\"\"},{\"lineNumber\":123758,\"originalJapaneseLine\":\"「なにちょっと分からなくなってるのよ！」\",\"translatedEnglishLine\":\"\\\"Why are you suddenly so confused!\\\"\"},{\"lineNumber\":123759,\"originalJapaneseLine\":\"「勝子のせいで私、\",\"translatedEnglishLine\":\"\\\"Because of Katsuko,\"},{\"lineNumber\":123760,\"originalJapaneseLine\":\"　後輩の子に熊子先輩ってこの間呼ばれたのよ！？\",\"translatedEnglishLine\":\"the junior called me 'Kumako-senpai' the other day!?\\\"\"},{\"lineNumber\":123761,\"originalJapaneseLine\":\"　本気にした子まで出たじゃん！」\",\"translatedEnglishLine\":\"There was even someone who took it seriously!\\\"\"},{\"lineNumber\":123762,\"originalJapaneseLine\":\"「はいはい、いいからこれ見て」\",\"translatedEnglishLine\":\"\\\"Alright, alright, just look at this.\\\"\"},{\"lineNumber\":123763,\"originalJapaneseLine\":\"「クスン……なによこれ……」\",\"translatedEnglishLine\":\"\\\"Sniff... What is this...?\\\"\"},{\"lineNumber\":123764,\"originalJapaneseLine\":\"「ほら、これが虎バンバラに、クマの写真」\",\"translatedEnglishLine\":\"\\\"See, here’s a photo of a tiger, and here’s one of a bear.\\\"\"},{\"lineNumber\":123765,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"…………\\\"\"},{\"lineNumber\":123766,\"originalJapaneseLine\":\"ツイーと勝子の視線が虎子の頭上に向かう。\",\"translatedEnglishLine\":\"Katsuko’s gaze quickly shifts above Torako's head.\"},{\"lineNumber\":123767,\"originalJapaneseLine\":\"「あんたの耳、どう見てもクマの方が近い」\",\"translatedEnglishLine\":\"\\\"No matter how you look at it, your ears are closer to a bear's.\\\"\"},{\"lineNumber\":123768,\"originalJapaneseLine\":\"「まだその話引っ張るの！？」\",\"translatedEnglishLine\":\"\\\"Are you still dragging that story on!?\\\"\"},{\"lineNumber\":123769,\"originalJapaneseLine\":\"「大好きなお婆ちゃんがくれた\",\"translatedEnglishLine\":\"\\\"My beloved grandma gave me\"},{\"lineNumber\":123770,\"originalJapaneseLine\":\"　この髪留めを馬鹿にしたら怒るんだからね！」\",\"translatedEnglishLine\":\"this hairpin, so don’t make fun of it or I’ll get mad!\\\"\"},{\"lineNumber\":123771,\"originalJapaneseLine\":\"「……おばあさんが虎耳だって言ったの？」\",\"translatedEnglishLine\":\"\\\"...Did grandma say these are tiger ears?\\\"\"},{\"lineNumber\":123772,\"originalJapaneseLine\":\"「言ったもん！」\",\"translatedEnglishLine\":\"\\\"She did!\\\"\"},{\"lineNumber\":123773,\"originalJapaneseLine\":\"「わーい、おばーちゃんだいすきー」\",\"translatedEnglishLine\":\"\\\"Yay, I love grandma!\\\"\"},{\"lineNumber\":123774,\"originalJapaneseLine\":\"「ほほほ、虎子は本当に元気だねぇ」\",\"translatedEnglishLine\":\"\\\"Hohoho, Torako, you really are full of energy.\\\"\"},{\"lineNumber\":123775,\"originalJapaneseLine\":\"「さ、これをおつけなさい」\",\"translatedEnglishLine\":\"\\\"Now, put this on.\\\"\"},{\"lineNumber\":123776,\"originalJapaneseLine\":\"「わー、おばーちゃんこれなにー？」\",\"translatedEnglishLine\":\"\\\"Wow, Grandma, what’s this?\\\"\"},{\"lineNumber\":123777,\"originalJapaneseLine\":\"「虎子に似合うと思って買っておいたんだよ……」\",\"translatedEnglishLine\":\"\\\"I bought it because I thought it would suit Torako...\\\"\"},{\"lineNumber\":123778,\"originalJapaneseLine\":\"「わーい、おばーちゃん、どう？」\",\"translatedEnglishLine\":\"\\\"Yay, Grandma, how is it?\\\"\"},{\"lineNumber\":123779,\"originalJapaneseLine\":\"「ふふ、思った通り、\",\"translatedEnglishLine\":\"\\\"Hehe, just as I thought,\"},{\"lineNumber\":123780,\"originalJapaneseLine\":\"　虎子によぉく似合ってるわ」\",\"translatedEnglishLine\":\"it really suits Torako well.\\\"\"},{\"lineNumber\":123781,\"originalJapaneseLine\":\"「えへへー、じゃあこれからずっとこれつけるねー」\",\"translatedEnglishLine\":\"\\\"Ehehe, then I’ll wear this all the time from now on!\\\"\"},{\"lineNumber\":123782,\"originalJapaneseLine\":\"「ほほほ、そうかい？　それは嬉しいねぇ」\",\"translatedEnglishLine\":\"\\\"Hohoho, really? That makes me happy.\\\"\"},{\"lineNumber\":123783,\"originalJapaneseLine\":\"「あははー、おばーちゃん、おばーちゃーん♪」\",\"translatedEnglishLine\":\"\\\"Ahaha, Grandma, Grandma~♪\\\"\"},{\"lineNumber\":123784,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"…………\"},{\"lineNumber\":123785,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"……\"},{\"lineNumber\":123786,\"originalJapaneseLine\":\"「あれ！？　虎の耳だなんて言ってない！？」\",\"translatedEnglishLine\":\"\\\"Huh!? Nobody said they were tiger ears!?\\\"\"},{\"lineNumber\":123787,\"originalJapaneseLine\":\"「お婆ちゃん、これなんの耳！？」\",\"translatedEnglishLine\":\"\\\"Grandma, what kind of ears are these!?\\\"\"},{\"lineNumber\":123788,\"originalJapaneseLine\":\"「たぬきじゃなかったのか？」\",\"translatedEnglishLine\":\"\\\"Weren’t they tanuki ears?\\\"\"},{\"lineNumber\":123789,\"originalJapaneseLine\":\"「へ？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":123790,\"originalJapaneseLine\":\"「いや、私は以前からたぬきの耳かと\",\"translatedEnglishLine\":\"\\\"No, I always thought they were tanuki ears.\"},{\"lineNumber\":123791,\"originalJapaneseLine\":\"見る度に郷愁の念に駆られていたものだ」\",\"translatedEnglishLine\":\"Every time I saw them, I was filled with nostalgia.\\\"\"},{\"lineNumber\":123792,\"originalJapaneseLine\":\"「たぬーーーーー！？」\",\"translatedEnglishLine\":\"\\\"Tanuki——!?\\\"\"},{\"lineNumber\":123793,\"originalJapaneseLine\":\"「いやー、なんかランクダウンした気がするー！？」\",\"translatedEnglishLine\":\"\\\"Ah, somehow I feel like you’ve been downgraded!?\\\"\"},{\"lineNumber\":123794,\"originalJapaneseLine\":\"「あんた……\",\"translatedEnglishLine\":\"\\\"You…\\\"\"},{\"lineNumber\":123795,\"originalJapaneseLine\":\"「たぬ子だったの？」\",\"translatedEnglishLine\":\"\\\"Were you Tanuko?\\\"\"},{\"lineNumber\":123796,\"originalJapaneseLine\":\"「虎子だよ！\",\"translatedEnglishLine\":\"\\\"I'm Torako!\"},{\"lineNumber\":123797,\"originalJapaneseLine\":\"　仮にこれが狸でも死ぬまで虎子だよ！」\",\"translatedEnglishLine\":\"Even if these were tanuki ears, I’m Torako until I die!\\\"\"},{\"lineNumber\":123798,\"originalJapaneseLine\":\"「おっと、そろそろ訓練の時間ね」\",\"translatedEnglishLine\":\"\\\"Oops, it’s about time for training.\\\"\"},{\"lineNumber\":123799,\"originalJapaneseLine\":\"「行くわよ、たぬ子」\",\"translatedEnglishLine\":\"\\\"Let's go, Tanuko.\\\"\"},{\"lineNumber\":123800,\"originalJapaneseLine\":\"「うわーん！　勝子の馬鹿馬鹿馬鹿ー！」\",\"translatedEnglishLine\":\"\\\"Waaah! Katsuko, you idiot, idiot, idiot!\\\"\"},{\"lineNumber\":123801,\"originalJapaneseLine\":\"「……で、結局それなんの耳なの？」\",\"translatedEnglishLine\":\"\\\"...So, in the end, what kind of ears are those?\\\"\"},{\"lineNumber\":123802,\"originalJapaneseLine\":\"「もう私にも分からないよ！\",\"translatedEnglishLine\":\"\\\"I don’t even know myself anymore!\\\"\"},{\"lineNumber\":123803,\"originalJapaneseLine\":\"　馬鹿ー！　すっとこどっこいー！」\",\"translatedEnglishLine\":\"\\\"Idiot! Blockhead!\\\"\"},{\"lineNumber\":123804,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"…………\\\"\"},{\"lineNumber\":123805,\"originalJapaneseLine\":\"「あいつら本当は仲いいんじゃ」\",\"translatedEnglishLine\":\"\\\"Those two actually get along well, don’t they?\\\"\"},{\"lineNumber\":123806,\"originalJapaneseLine\":\"「いやいや、仲悪いですよ。\",\"translatedEnglishLine\":\"\\\"No, no, they don’t get along.\"},{\"lineNumber\":123807,\"originalJapaneseLine\":\"　困らせられてます」\",\"translatedEnglishLine\":\"They’re making things difficult for me.\\\"\"},{\"lineNumber\":123808,\"originalJapaneseLine\":\"「……そうか」\",\"translatedEnglishLine\":\"\\\"...I see.\\\"\"},{\"lineNumber\":123809,\"originalJapaneseLine\":\"「あ、ランスさん……」\",\"translatedEnglishLine\":\"\\\"Ah, Rance-san...\\\"\"},{\"lineNumber\":123810,\"originalJapaneseLine\":\"「よう、勝子か……」\",\"translatedEnglishLine\":\"\\\"Hey, Katsuko...\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":123751,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"…………\""},{"lineNumber":123752,"originalJapaneseLine":"「はっ！」","translatedEnglishLine":"\"Ha!\""},{"lineNumber":123753,"originalJapaneseLine":"「　いや、熊子じゃないよ！　虎子だよ！」","translatedEnglishLine":"\"No, I'm not Kumako! I'm Torako!\""},{"lineNumber":123754,"originalJapaneseLine":"「はあー？」","translatedEnglishLine":"\"Huh?\""},{"lineNumber":123755,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"…………\""},{"lineNumber":123756,"originalJapaneseLine":"「あ、虎子。","translatedEnglishLine":"\"Ah, Torako."},{"lineNumber":123757,"originalJapaneseLine":"　いいからこれ見て」","translatedEnglishLine":"Just look at this.\""},{"lineNumber":123758,"originalJapaneseLine":"「なにちょっと分からなくなってるのよ！」","translatedEnglishLine":"\"Why are you suddenly so confused!\""},{"lineNumber":123759,"originalJapaneseLine":"「勝子のせいで私、","translatedEnglishLine":"\"Because of Katsuko,"},{"lineNumber":123760,"originalJapaneseLine":"　後輩の子に熊子先輩ってこの間呼ばれたのよ！？","translatedEnglishLine":"the junior called me 'Kumako-senpai' the other day!?\""},{"lineNumber":123761,"originalJapaneseLine":"　本気にした子まで出たじゃん！」","translatedEnglishLine":"There was even someone who took it seriously!\""},{"lineNumber":123762,"originalJapaneseLine":"「はいはい、いいからこれ見て」","translatedEnglishLine":"\"Alright, alright, just look at this.\""},{"lineNumber":123763,"originalJapaneseLine":"「クスン……なによこれ……」","translatedEnglishLine":"\"Sniff... What is this...?\""},{"lineNumber":123764,"originalJapaneseLine":"「ほら、これが虎バンバラに、クマの写真」","translatedEnglishLine":"\"See, here’s a photo of a tiger, and here’s one of a bear.\""},{"lineNumber":123765,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"…………\""},{"lineNumber":123766,"originalJapaneseLine":"ツイーと勝子の視線が虎子の頭上に向かう。","translatedEnglishLine":"Katsuko’s gaze quickly shifts above Torako's head."},{"lineNumber":123767,"originalJapaneseLine":"「あんたの耳、どう見てもクマの方が近い」","translatedEnglishLine":"\"No matter how you look at it, your ears are closer to a bear's.\""},{"lineNumber":123768,"originalJapaneseLine":"「まだその話引っ張るの！？」","translatedEnglishLine":"\"Are you still dragging that story on!?\""},{"lineNumber":123769,"originalJapaneseLine":"「大好きなお婆ちゃんがくれた","translatedEnglishLine":"\"My beloved grandma gave me"},{"lineNumber":123770,"originalJapaneseLine":"　この髪留めを馬鹿にしたら怒るんだからね！」","translatedEnglishLine":"this hairpin, so don’t make fun of it or I’ll get mad!\""},{"lineNumber":123771,"originalJapaneseLine":"「……おばあさんが虎耳だって言ったの？」","translatedEnglishLine":"\"...Did grandma say these are tiger ears?\""},{"lineNumber":123772,"originalJapaneseLine":"「言ったもん！」","translatedEnglishLine":"\"She did!\""},{"lineNumber":123773,"originalJapaneseLine":"「わーい、おばーちゃんだいすきー」","translatedEnglishLine":"\"Yay, I love grandma!\""},{"lineNumber":123774,"originalJapaneseLine":"「ほほほ、虎子は本当に元気だねぇ」","translatedEnglishLine":"\"Hohoho, Torako, you really are full of energy.\""},{"lineNumber":123775,"originalJapaneseLine":"「さ、これをおつけなさい」","translatedEnglishLine":"\"Now, put this on.\""},{"lineNumber":123776,"originalJapaneseLine":"「わー、おばーちゃんこれなにー？」","translatedEnglishLine":"\"Wow, Grandma, what’s this?\""},{"lineNumber":123777,"originalJapaneseLine":"「虎子に似合うと思って買っておいたんだよ……」","translatedEnglishLine":"\"I bought it because I thought it would suit Torako...\""},{"lineNumber":123778,"originalJapaneseLine":"「わーい、おばーちゃん、どう？」","translatedEnglishLine":"\"Yay, Grandma, how is it?\""},{"lineNumber":123779,"originalJapaneseLine":"「ふふ、思った通り、","translatedEnglishLine":"\"Hehe, just as I thought,"},{"lineNumber":123780,"originalJapaneseLine":"　虎子によぉく似合ってるわ」","translatedEnglishLine":"it really suits Torako well.\""},{"lineNumber":123781,"originalJapaneseLine":"「えへへー、じゃあこれからずっとこれつけるねー」","translatedEnglishLine":"\"Ehehe, then I’ll wear this all the time from now on!\""},{"lineNumber":123782,"originalJapaneseLine":"「ほほほ、そうかい？　それは嬉しいねぇ」","translatedEnglishLine":"\"Hohoho, really? That makes me happy.\""},{"lineNumber":123783,"originalJapaneseLine":"「あははー、おばーちゃん、おばーちゃーん♪」","translatedEnglishLine":"\"Ahaha, Grandma, Grandma~♪\""},{"lineNumber":123784,"originalJapaneseLine":"…………","translatedEnglishLine":"…………"},{"lineNumber":123785,"originalJapaneseLine":"……","translatedEnglishLine":"……"},{"lineNumber":123786,"originalJapaneseLine":"「あれ！？　虎の耳だなんて言ってない！？」","translatedEnglishLine":"\"Huh!? Nobody said they were tiger ears!?\""},{"lineNumber":123787,"originalJapaneseLine":"「お婆ちゃん、これなんの耳！？」","translatedEnglishLine":"\"Grandma, what kind of ears are these!?\""},{"lineNumber":123788,"originalJapaneseLine":"「たぬきじゃなかったのか？」","translatedEnglishLine":"\"Weren’t they tanuki ears?\""},{"lineNumber":123789,"originalJapaneseLine":"「へ？」","translatedEnglishLine":"\"Huh?\""},{"lineNumber":123790,"originalJapaneseLine":"「いや、私は以前からたぬきの耳かと","translatedEnglishLine":"\"No, I always thought they were tanuki ears."},{"lineNumber":123791,"originalJapaneseLine":"見る度に郷愁の念に駆られていたものだ」","translatedEnglishLine":"Every time I saw them, I was filled with nostalgia.\""},{"lineNumber":123792,"originalJapaneseLine":"「たぬーーーーー！？」","translatedEnglishLine":"\"Tanuki——!?\""},{"lineNumber":123793,"originalJapaneseLine":"「いやー、なんかランクダウンした気がするー！？」","translatedEnglishLine":"\"Ah, somehow I feel like you’ve been downgraded!?\""},{"lineNumber":123794,"originalJapaneseLine":"「あんた……","translatedEnglishLine":"\"You…\""},{"lineNumber":123795,"originalJapaneseLine":"「たぬ子だったの？」","translatedEnglishLine":"\"Were you Tanuko?\""},{"lineNumber":123796,"originalJapaneseLine":"「虎子だよ！","translatedEnglishLine":"\"I'm Torako!"},{"lineNumber":123797,"originalJapaneseLine":"　仮にこれが狸でも死ぬまで虎子だよ！」","translatedEnglishLine":"Even if these were tanuki ears, I’m Torako until I die!\""},{"lineNumber":123798,"originalJapaneseLine":"「おっと、そろそろ訓練の時間ね」","translatedEnglishLine":"\"Oops, it’s about time for training.\""},{"lineNumber":123799,"originalJapaneseLine":"「行くわよ、たぬ子」","translatedEnglishLine":"\"Let's go, Tanuko.\""},{"lineNumber":123800,"originalJapaneseLine":"「うわーん！　勝子の馬鹿馬鹿馬鹿ー！」","translatedEnglishLine":"\"Waaah! Katsuko, you idiot, idiot, idiot!\""},{"lineNumber":123801,"originalJapaneseLine":"「……で、結局それなんの耳なの？」","translatedEnglishLine":"\"...So, in the end, what kind of ears are those?\""},{"lineNumber":123802,"originalJapaneseLine":"「もう私にも分からないよ！","translatedEnglishLine":"\"I don’t even know myself anymore!\""},{"lineNumber":123803,"originalJapaneseLine":"　馬鹿ー！　すっとこどっこいー！」","translatedEnglishLine":"\"Idiot! Blockhead!\""},{"lineNumber":123804,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"…………\""},{"lineNumber":123805,"originalJapaneseLine":"「あいつら本当は仲いいんじゃ」","translatedEnglishLine":"\"Those two actually get along well, don’t they?\""},{"lineNumber":123806,"originalJapaneseLine":"「いやいや、仲悪いですよ。","translatedEnglishLine":"\"No, no, they don’t get along."},{"lineNumber":123807,"originalJapaneseLine":"　困らせられてます」","translatedEnglishLine":"They’re making things difficult for me.\""},{"lineNumber":123808,"originalJapaneseLine":"「……そうか」","translatedEnglishLine":"\"...I see.\""},{"lineNumber":123809,"originalJapaneseLine":"「あ、ランスさん……」","translatedEnglishLine":"\"Ah, Rance-san...\""},{"lineNumber":123810,"originalJapaneseLine":"「よう、勝子か……」","translatedEnglishLine":"\"Hey, Katsuko...\""}]}}
+{
+    "id": "resp_0d850bf42579dd090068f106663e4c81968ca6195c919ee5ae",
+    "object": "response",
+    "created_at": 1760626278,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0d850bf42579dd090068f10667666881969c5bce3a5683d4ca",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":123751,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"…………\\\"\"},{\"lineNumber\":123752,\"originalJapaneseLine\":\"「はっ！」\",\"translatedEnglishLine\":\"\\\"Ha!\\\"\"},{\"lineNumber\":123753,\"originalJapaneseLine\":\"「　いや、熊子じゃないよ！　虎子だよ！」\",\"translatedEnglishLine\":\"\\\"No, I'm not Kumako! I'm Torako!\\\"\"},{\"lineNumber\":123754,\"originalJapaneseLine\":\"「はあー？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":123755,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"…………\\\"\"},{\"lineNumber\":123756,\"originalJapaneseLine\":\"「あ、虎子。\",\"translatedEnglishLine\":\"\\\"Ah, Torako.\"},{\"lineNumber\":123757,\"originalJapaneseLine\":\"　いいからこれ見て」\",\"translatedEnglishLine\":\"Just look at this.\\\"\"},{\"lineNumber\":123758,\"originalJapaneseLine\":\"「なにちょっと分からなくなってるのよ！」\",\"translatedEnglishLine\":\"\\\"Why are you suddenly so confused!\\\"\"},{\"lineNumber\":123759,\"originalJapaneseLine\":\"「勝子のせいで私、\",\"translatedEnglishLine\":\"\\\"Because of Katsuko,\"},{\"lineNumber\":123760,\"originalJapaneseLine\":\"　後輩の子に熊子先輩ってこの間呼ばれたのよ！？\",\"translatedEnglishLine\":\"the junior called me 'Kumako-senpai' the other day!?\\\"\"},{\"lineNumber\":123761,\"originalJapaneseLine\":\"　本気にした子まで出たじゃん！」\",\"translatedEnglishLine\":\"There was even someone who took it seriously!\\\"\"},{\"lineNumber\":123762,\"originalJapaneseLine\":\"「はいはい、いいからこれ見て」\",\"translatedEnglishLine\":\"\\\"Alright, alright, just look at this.\\\"\"},{\"lineNumber\":123763,\"originalJapaneseLine\":\"「クスン……なによこれ……」\",\"translatedEnglishLine\":\"\\\"Sniff... What is this...?\\\"\"},{\"lineNumber\":123764,\"originalJapaneseLine\":\"「ほら、これが虎バンバラに、クマの写真」\",\"translatedEnglishLine\":\"\\\"See, here’s a photo of a tiger, and here’s one of a bear.\\\"\"},{\"lineNumber\":123765,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"…………\\\"\"},{\"lineNumber\":123766,\"originalJapaneseLine\":\"ツイーと勝子の視線が虎子の頭上に向かう。\",\"translatedEnglishLine\":\"Katsuko’s gaze quickly shifts above Torako's head.\"},{\"lineNumber\":123767,\"originalJapaneseLine\":\"「あんたの耳、どう見てもクマの方が近い」\",\"translatedEnglishLine\":\"\\\"No matter how you look at it, your ears are closer to a bear's.\\\"\"},{\"lineNumber\":123768,\"originalJapaneseLine\":\"「まだその話引っ張るの！？」\",\"translatedEnglishLine\":\"\\\"Are you still dragging that story on!?\\\"\"},{\"lineNumber\":123769,\"originalJapaneseLine\":\"「大好きなお婆ちゃんがくれた\",\"translatedEnglishLine\":\"\\\"My beloved grandma gave me\"},{\"lineNumber\":123770,\"originalJapaneseLine\":\"　この髪留めを馬鹿にしたら怒るんだからね！」\",\"translatedEnglishLine\":\"this hairpin, so don’t make fun of it or I’ll get mad!\\\"\"},{\"lineNumber\":123771,\"originalJapaneseLine\":\"「……おばあさんが虎耳だって言ったの？」\",\"translatedEnglishLine\":\"\\\"...Did grandma say these are tiger ears?\\\"\"},{\"lineNumber\":123772,\"originalJapaneseLine\":\"「言ったもん！」\",\"translatedEnglishLine\":\"\\\"She did!\\\"\"},{\"lineNumber\":123773,\"originalJapaneseLine\":\"「わーい、おばーちゃんだいすきー」\",\"translatedEnglishLine\":\"\\\"Yay, I love grandma!\\\"\"},{\"lineNumber\":123774,\"originalJapaneseLine\":\"「ほほほ、虎子は本当に元気だねぇ」\",\"translatedEnglishLine\":\"\\\"Hohoho, Torako, you really are full of energy.\\\"\"},{\"lineNumber\":123775,\"originalJapaneseLine\":\"「さ、これをおつけなさい」\",\"translatedEnglishLine\":\"\\\"Now, put this on.\\\"\"},{\"lineNumber\":123776,\"originalJapaneseLine\":\"「わー、おばーちゃんこれなにー？」\",\"translatedEnglishLine\":\"\\\"Wow, Grandma, what’s this?\\\"\"},{\"lineNumber\":123777,\"originalJapaneseLine\":\"「虎子に似合うと思って買っておいたんだよ……」\",\"translatedEnglishLine\":\"\\\"I bought it because I thought it would suit Torako...\\\"\"},{\"lineNumber\":123778,\"originalJapaneseLine\":\"「わーい、おばーちゃん、どう？」\",\"translatedEnglishLine\":\"\\\"Yay, Grandma, how is it?\\\"\"},{\"lineNumber\":123779,\"originalJapaneseLine\":\"「ふふ、思った通り、\",\"translatedEnglishLine\":\"\\\"Hehe, just as I thought,\"},{\"lineNumber\":123780,\"originalJapaneseLine\":\"　虎子によぉく似合ってるわ」\",\"translatedEnglishLine\":\"it really suits Torako well.\\\"\"},{\"lineNumber\":123781,\"originalJapaneseLine\":\"「えへへー、じゃあこれからずっとこれつけるねー」\",\"translatedEnglishLine\":\"\\\"Ehehe, then I’ll wear this all the time from now on!\\\"\"},{\"lineNumber\":123782,\"originalJapaneseLine\":\"「ほほほ、そうかい？　それは嬉しいねぇ」\",\"translatedEnglishLine\":\"\\\"Hohoho, really? That makes me happy.\\\"\"},{\"lineNumber\":123783,\"originalJapaneseLine\":\"「あははー、おばーちゃん、おばーちゃーん♪」\",\"translatedEnglishLine\":\"\\\"Ahaha, Grandma, Grandma~♪\\\"\"},{\"lineNumber\":123784,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"…………\"},{\"lineNumber\":123785,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"……\"},{\"lineNumber\":123786,\"originalJapaneseLine\":\"「あれ！？　虎の耳だなんて言ってない！？」\",\"translatedEnglishLine\":\"\\\"Huh!? Nobody said they were tiger ears!?\\\"\"},{\"lineNumber\":123787,\"originalJapaneseLine\":\"「お婆ちゃん、これなんの耳！？」\",\"translatedEnglishLine\":\"\\\"Grandma, what kind of ears are these!?\\\"\"},{\"lineNumber\":123788,\"originalJapaneseLine\":\"「たぬきじゃなかったのか？」\",\"translatedEnglishLine\":\"\\\"Weren’t they tanuki ears?\\\"\"},{\"lineNumber\":123789,\"originalJapaneseLine\":\"「へ？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":123790,\"originalJapaneseLine\":\"「いや、私は以前からたぬきの耳かと\",\"translatedEnglishLine\":\"\\\"No, I always thought they were tanuki ears.\"},{\"lineNumber\":123791,\"originalJapaneseLine\":\"見る度に郷愁の念に駆られていたものだ」\",\"translatedEnglishLine\":\"Every time I saw them, I was filled with nostalgia.\\\"\"},{\"lineNumber\":123792,\"originalJapaneseLine\":\"「たぬーーーーー！？」\",\"translatedEnglishLine\":\"\\\"Tanuki——!?\\\"\"},{\"lineNumber\":123793,\"originalJapaneseLine\":\"「いやー、なんかランクダウンした気がするー！？」\",\"translatedEnglishLine\":\"\\\"Ah, somehow I feel like you’ve been downgraded!?\\\"\"},{\"lineNumber\":123794,\"originalJapaneseLine\":\"「あんた……\",\"translatedEnglishLine\":\"\\\"You…\\\"\"},{\"lineNumber\":123795,\"originalJapaneseLine\":\"「たぬ子だったの？」\",\"translatedEnglishLine\":\"\\\"Were you Tanuko?\\\"\"},{\"lineNumber\":123796,\"originalJapaneseLine\":\"「虎子だよ！\",\"translatedEnglishLine\":\"\\\"I'm Torako!\"},{\"lineNumber\":123797,\"originalJapaneseLine\":\"　仮にこれが狸でも死ぬまで虎子だよ！」\",\"translatedEnglishLine\":\"Even if these were tanuki ears, I’m Torako until I die!\\\"\"},{\"lineNumber\":123798,\"originalJapaneseLine\":\"「おっと、そろそろ訓練の時間ね」\",\"translatedEnglishLine\":\"\\\"Oops, it’s about time for training.\\\"\"},{\"lineNumber\":123799,\"originalJapaneseLine\":\"「行くわよ、たぬ子」\",\"translatedEnglishLine\":\"\\\"Let's go, Tanuko.\\\"\"},{\"lineNumber\":123800,\"originalJapaneseLine\":\"「うわーん！　勝子の馬鹿馬鹿馬鹿ー！」\",\"translatedEnglishLine\":\"\\\"Waaah! Katsuko, you idiot, idiot, idiot!\\\"\"},{\"lineNumber\":123801,\"originalJapaneseLine\":\"「……で、結局それなんの耳なの？」\",\"translatedEnglishLine\":\"\\\"...So, in the end, what kind of ears are those?\\\"\"},{\"lineNumber\":123802,\"originalJapaneseLine\":\"「もう私にも分からないよ！\",\"translatedEnglishLine\":\"\\\"I don’t even know myself anymore!\\\"\"},{\"lineNumber\":123803,\"originalJapaneseLine\":\"　馬鹿ー！　すっとこどっこいー！」\",\"translatedEnglishLine\":\"\\\"Idiot! Blockhead!\\\"\"},{\"lineNumber\":123804,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"…………\\\"\"},{\"lineNumber\":123805,\"originalJapaneseLine\":\"「あいつら本当は仲いいんじゃ」\",\"translatedEnglishLine\":\"\\\"Those two actually get along well, don’t they?\\\"\"},{\"lineNumber\":123806,\"originalJapaneseLine\":\"「いやいや、仲悪いですよ。\",\"translatedEnglishLine\":\"\\\"No, no, they don’t get along.\"},{\"lineNumber\":123807,\"originalJapaneseLine\":\"　困らせられてます」\",\"translatedEnglishLine\":\"They’re making things difficult for me.\\\"\"},{\"lineNumber\":123808,\"originalJapaneseLine\":\"「……そうか」\",\"translatedEnglishLine\":\"\\\"...I see.\\\"\"},{\"lineNumber\":123809,\"originalJapaneseLine\":\"「あ、ランスさん……」\",\"translatedEnglishLine\":\"\\\"Ah, Rance-san...\\\"\"},{\"lineNumber\":123810,\"originalJapaneseLine\":\"「よう、勝子か……」\",\"translatedEnglishLine\":\"\\\"Hey, Katsuko...\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 123751,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"…………\""
+                            },
+                            {
+                                "lineNumber": 123752,
+                                "originalJapaneseLine": "「はっ！」",
+                                "translatedEnglishLine": "\"Ha!\""
+                            },
+                            {
+                                "lineNumber": 123753,
+                                "originalJapaneseLine": "「　いや、熊子じゃないよ！　虎子だよ！」",
+                                "translatedEnglishLine": "\"No, I'm not Kumako! I'm Torako!\""
+                            },
+                            {
+                                "lineNumber": 123754,
+                                "originalJapaneseLine": "「はあー？」",
+                                "translatedEnglishLine": "\"Huh?\""
+                            },
+                            {
+                                "lineNumber": 123755,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"…………\""
+                            },
+                            {
+                                "lineNumber": 123756,
+                                "originalJapaneseLine": "「あ、虎子。",
+                                "translatedEnglishLine": "\"Ah, Torako."
+                            },
+                            {
+                                "lineNumber": 123757,
+                                "originalJapaneseLine": "　いいからこれ見て」",
+                                "translatedEnglishLine": "Just look at this.\""
+                            },
+                            {
+                                "lineNumber": 123758,
+                                "originalJapaneseLine": "「なにちょっと分からなくなってるのよ！」",
+                                "translatedEnglishLine": "\"Why are you suddenly so confused!\""
+                            },
+                            {
+                                "lineNumber": 123759,
+                                "originalJapaneseLine": "「勝子のせいで私、",
+                                "translatedEnglishLine": "\"Because of Katsuko,"
+                            },
+                            {
+                                "lineNumber": 123760,
+                                "originalJapaneseLine": "　後輩の子に熊子先輩ってこの間呼ばれたのよ！？",
+                                "translatedEnglishLine": "the junior called me 'Kumako-senpai' the other day!?\""
+                            },
+                            {
+                                "lineNumber": 123761,
+                                "originalJapaneseLine": "　本気にした子まで出たじゃん！」",
+                                "translatedEnglishLine": "There was even someone who took it seriously!\""
+                            },
+                            {
+                                "lineNumber": 123762,
+                                "originalJapaneseLine": "「はいはい、いいからこれ見て」",
+                                "translatedEnglishLine": "\"Alright, alright, just look at this.\""
+                            },
+                            {
+                                "lineNumber": 123763,
+                                "originalJapaneseLine": "「クスン……なによこれ……」",
+                                "translatedEnglishLine": "\"Sniff... What is this...?\""
+                            },
+                            {
+                                "lineNumber": 123764,
+                                "originalJapaneseLine": "「ほら、これが虎バンバラに、クマの写真」",
+                                "translatedEnglishLine": "\"See, here’s a photo of a tiger, and here’s one of a bear.\""
+                            },
+                            {
+                                "lineNumber": 123765,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"…………\""
+                            },
+                            {
+                                "lineNumber": 123766,
+                                "originalJapaneseLine": "ツイーと勝子の視線が虎子の頭上に向かう。",
+                                "translatedEnglishLine": "Katsuko’s gaze quickly shifts above Torako's head."
+                            },
+                            {
+                                "lineNumber": 123767,
+                                "originalJapaneseLine": "「あんたの耳、どう見てもクマの方が近い」",
+                                "translatedEnglishLine": "\"No matter how you look at it, your ears are closer to a bear's.\""
+                            },
+                            {
+                                "lineNumber": 123768,
+                                "originalJapaneseLine": "「まだその話引っ張るの！？」",
+                                "translatedEnglishLine": "\"Are you still dragging that story on!?\""
+                            },
+                            {
+                                "lineNumber": 123769,
+                                "originalJapaneseLine": "「大好きなお婆ちゃんがくれた",
+                                "translatedEnglishLine": "\"My beloved grandma gave me"
+                            },
+                            {
+                                "lineNumber": 123770,
+                                "originalJapaneseLine": "　この髪留めを馬鹿にしたら怒るんだからね！」",
+                                "translatedEnglishLine": "this hairpin, so don’t make fun of it or I’ll get mad!\""
+                            },
+                            {
+                                "lineNumber": 123771,
+                                "originalJapaneseLine": "「……おばあさんが虎耳だって言ったの？」",
+                                "translatedEnglishLine": "\"...Did grandma say these are tiger ears?\""
+                            },
+                            {
+                                "lineNumber": 123772,
+                                "originalJapaneseLine": "「言ったもん！」",
+                                "translatedEnglishLine": "\"She did!\""
+                            },
+                            {
+                                "lineNumber": 123773,
+                                "originalJapaneseLine": "「わーい、おばーちゃんだいすきー」",
+                                "translatedEnglishLine": "\"Yay, I love grandma!\""
+                            },
+                            {
+                                "lineNumber": 123774,
+                                "originalJapaneseLine": "「ほほほ、虎子は本当に元気だねぇ」",
+                                "translatedEnglishLine": "\"Hohoho, Torako, you really are full of energy.\""
+                            },
+                            {
+                                "lineNumber": 123775,
+                                "originalJapaneseLine": "「さ、これをおつけなさい」",
+                                "translatedEnglishLine": "\"Now, put this on.\""
+                            },
+                            {
+                                "lineNumber": 123776,
+                                "originalJapaneseLine": "「わー、おばーちゃんこれなにー？」",
+                                "translatedEnglishLine": "\"Wow, Grandma, what’s this?\""
+                            },
+                            {
+                                "lineNumber": 123777,
+                                "originalJapaneseLine": "「虎子に似合うと思って買っておいたんだよ……」",
+                                "translatedEnglishLine": "\"I bought it because I thought it would suit Torako...\""
+                            },
+                            {
+                                "lineNumber": 123778,
+                                "originalJapaneseLine": "「わーい、おばーちゃん、どう？」",
+                                "translatedEnglishLine": "\"Yay, Grandma, how is it?\""
+                            },
+                            {
+                                "lineNumber": 123779,
+                                "originalJapaneseLine": "「ふふ、思った通り、",
+                                "translatedEnglishLine": "\"Hehe, just as I thought,"
+                            },
+                            {
+                                "lineNumber": 123780,
+                                "originalJapaneseLine": "　虎子によぉく似合ってるわ」",
+                                "translatedEnglishLine": "it really suits Torako well.\""
+                            },
+                            {
+                                "lineNumber": 123781,
+                                "originalJapaneseLine": "「えへへー、じゃあこれからずっとこれつけるねー」",
+                                "translatedEnglishLine": "\"Ehehe, then I’ll wear this all the time from now on!\""
+                            },
+                            {
+                                "lineNumber": 123782,
+                                "originalJapaneseLine": "「ほほほ、そうかい？　それは嬉しいねぇ」",
+                                "translatedEnglishLine": "\"Hohoho, really? That makes me happy.\""
+                            },
+                            {
+                                "lineNumber": 123783,
+                                "originalJapaneseLine": "「あははー、おばーちゃん、おばーちゃーん♪」",
+                                "translatedEnglishLine": "\"Ahaha, Grandma, Grandma~♪\""
+                            },
+                            {
+                                "lineNumber": 123784,
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "…………"
+                            },
+                            {
+                                "lineNumber": 123785,
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "……"
+                            },
+                            {
+                                "lineNumber": 123786,
+                                "originalJapaneseLine": "「あれ！？　虎の耳だなんて言ってない！？」",
+                                "translatedEnglishLine": "\"Huh!? Nobody said they were tiger ears!?\""
+                            },
+                            {
+                                "lineNumber": 123787,
+                                "originalJapaneseLine": "「お婆ちゃん、これなんの耳！？」",
+                                "translatedEnglishLine": "\"Grandma, what kind of ears are these!?\""
+                            },
+                            {
+                                "lineNumber": 123788,
+                                "originalJapaneseLine": "「たぬきじゃなかったのか？」",
+                                "translatedEnglishLine": "\"Weren’t they tanuki ears?\""
+                            },
+                            {
+                                "lineNumber": 123789,
+                                "originalJapaneseLine": "「へ？」",
+                                "translatedEnglishLine": "\"Huh?\""
+                            },
+                            {
+                                "lineNumber": 123790,
+                                "originalJapaneseLine": "「いや、私は以前からたぬきの耳かと",
+                                "translatedEnglishLine": "\"No, I always thought they were tanuki ears."
+                            },
+                            {
+                                "lineNumber": 123791,
+                                "originalJapaneseLine": "見る度に郷愁の念に駆られていたものだ」",
+                                "translatedEnglishLine": "Every time I saw them, I was filled with nostalgia.\""
+                            },
+                            {
+                                "lineNumber": 123792,
+                                "originalJapaneseLine": "「たぬーーーーー！？」",
+                                "translatedEnglishLine": "\"Tanuki——!?\""
+                            },
+                            {
+                                "lineNumber": 123793,
+                                "originalJapaneseLine": "「いやー、なんかランクダウンした気がするー！？」",
+                                "translatedEnglishLine": "\"Ah, somehow I feel like you’ve been downgraded!?\""
+                            },
+                            {
+                                "lineNumber": 123794,
+                                "originalJapaneseLine": "「あんた……",
+                                "translatedEnglishLine": "\"You…\""
+                            },
+                            {
+                                "lineNumber": 123795,
+                                "originalJapaneseLine": "「たぬ子だったの？」",
+                                "translatedEnglishLine": "\"Were you Tanuko?\""
+                            },
+                            {
+                                "lineNumber": 123796,
+                                "originalJapaneseLine": "「虎子だよ！",
+                                "translatedEnglishLine": "\"I'm Torako!"
+                            },
+                            {
+                                "lineNumber": 123797,
+                                "originalJapaneseLine": "　仮にこれが狸でも死ぬまで虎子だよ！」",
+                                "translatedEnglishLine": "Even if these were tanuki ears, I’m Torako until I die!\""
+                            },
+                            {
+                                "lineNumber": 123798,
+                                "originalJapaneseLine": "「おっと、そろそろ訓練の時間ね」",
+                                "translatedEnglishLine": "\"Oops, it’s about time for training.\""
+                            },
+                            {
+                                "lineNumber": 123799,
+                                "originalJapaneseLine": "「行くわよ、たぬ子」",
+                                "translatedEnglishLine": "\"Let's go, Tanuko.\""
+                            },
+                            {
+                                "lineNumber": 123800,
+                                "originalJapaneseLine": "「うわーん！　勝子の馬鹿馬鹿馬鹿ー！」",
+                                "translatedEnglishLine": "\"Waaah! Katsuko, you idiot, idiot, idiot!\""
+                            },
+                            {
+                                "lineNumber": 123801,
+                                "originalJapaneseLine": "「……で、結局それなんの耳なの？」",
+                                "translatedEnglishLine": "\"...So, in the end, what kind of ears are those?\""
+                            },
+                            {
+                                "lineNumber": 123802,
+                                "originalJapaneseLine": "「もう私にも分からないよ！",
+                                "translatedEnglishLine": "\"I don’t even know myself anymore!\""
+                            },
+                            {
+                                "lineNumber": 123803,
+                                "originalJapaneseLine": "　馬鹿ー！　すっとこどっこいー！」",
+                                "translatedEnglishLine": "\"Idiot! Blockhead!\""
+                            },
+                            {
+                                "lineNumber": 123804,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"…………\""
+                            },
+                            {
+                                "lineNumber": 123805,
+                                "originalJapaneseLine": "「あいつら本当は仲いいんじゃ」",
+                                "translatedEnglishLine": "\"Those two actually get along well, don’t they?\""
+                            },
+                            {
+                                "lineNumber": 123806,
+                                "originalJapaneseLine": "「いやいや、仲悪いですよ。",
+                                "translatedEnglishLine": "\"No, no, they don’t get along."
+                            },
+                            {
+                                "lineNumber": 123807,
+                                "originalJapaneseLine": "　困らせられてます」",
+                                "translatedEnglishLine": "They’re making things difficult for me.\""
+                            },
+                            {
+                                "lineNumber": 123808,
+                                "originalJapaneseLine": "「……そうか」",
+                                "translatedEnglishLine": "\"...I see.\""
+                            },
+                            {
+                                "lineNumber": 123809,
+                                "originalJapaneseLine": "「あ、ランスさん……」",
+                                "translatedEnglishLine": "\"Ah, Rance-san...\""
+                            },
+                            {
+                                "lineNumber": 123810,
+                                "originalJapaneseLine": "「よう、勝子か……」",
+                                "translatedEnglishLine": "\"Hey, Katsuko...\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1671,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2199,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3870
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":123751,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"…………\\\"\"},{\"lineNumber\":123752,\"originalJapaneseLine\":\"「はっ！」\",\"translatedEnglishLine\":\"\\\"Ha!\\\"\"},{\"lineNumber\":123753,\"originalJapaneseLine\":\"「　いや、熊子じゃないよ！　虎子だよ！」\",\"translatedEnglishLine\":\"\\\"No, I'm not Kumako! I'm Torako!\\\"\"},{\"lineNumber\":123754,\"originalJapaneseLine\":\"「はあー？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":123755,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"…………\\\"\"},{\"lineNumber\":123756,\"originalJapaneseLine\":\"「あ、虎子。\",\"translatedEnglishLine\":\"\\\"Ah, Torako.\"},{\"lineNumber\":123757,\"originalJapaneseLine\":\"　いいからこれ見て」\",\"translatedEnglishLine\":\"Just look at this.\\\"\"},{\"lineNumber\":123758,\"originalJapaneseLine\":\"「なにちょっと分からなくなってるのよ！」\",\"translatedEnglishLine\":\"\\\"Why are you suddenly so confused!\\\"\"},{\"lineNumber\":123759,\"originalJapaneseLine\":\"「勝子のせいで私、\",\"translatedEnglishLine\":\"\\\"Because of Katsuko,\"},{\"lineNumber\":123760,\"originalJapaneseLine\":\"　後輩の子に熊子先輩ってこの間呼ばれたのよ！？\",\"translatedEnglishLine\":\"the junior called me 'Kumako-senpai' the other day!?\\\"\"},{\"lineNumber\":123761,\"originalJapaneseLine\":\"　本気にした子まで出たじゃん！」\",\"translatedEnglishLine\":\"There was even someone who took it seriously!\\\"\"},{\"lineNumber\":123762,\"originalJapaneseLine\":\"「はいはい、いいからこれ見て」\",\"translatedEnglishLine\":\"\\\"Alright, alright, just look at this.\\\"\"},{\"lineNumber\":123763,\"originalJapaneseLine\":\"「クスン……なによこれ……」\",\"translatedEnglishLine\":\"\\\"Sniff... What is this...?\\\"\"},{\"lineNumber\":123764,\"originalJapaneseLine\":\"「ほら、これが虎バンバラに、クマの写真」\",\"translatedEnglishLine\":\"\\\"See, here’s a photo of a tiger, and here’s one of a bear.\\\"\"},{\"lineNumber\":123765,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"…………\\\"\"},{\"lineNumber\":123766,\"originalJapaneseLine\":\"ツイーと勝子の視線が虎子の頭上に向かう。\",\"translatedEnglishLine\":\"Katsuko’s gaze quickly shifts above Torako's head.\"},{\"lineNumber\":123767,\"originalJapaneseLine\":\"「あんたの耳、どう見てもクマの方が近い」\",\"translatedEnglishLine\":\"\\\"No matter how you look at it, your ears are closer to a bear's.\\\"\"},{\"lineNumber\":123768,\"originalJapaneseLine\":\"「まだその話引っ張るの！？」\",\"translatedEnglishLine\":\"\\\"Are you still dragging that story on!?\\\"\"},{\"lineNumber\":123769,\"originalJapaneseLine\":\"「大好きなお婆ちゃんがくれた\",\"translatedEnglishLine\":\"\\\"My beloved grandma gave me\"},{\"lineNumber\":123770,\"originalJapaneseLine\":\"　この髪留めを馬鹿にしたら怒るんだからね！」\",\"translatedEnglishLine\":\"this hairpin, so don’t make fun of it or I’ll get mad!\\\"\"},{\"lineNumber\":123771,\"originalJapaneseLine\":\"「……おばあさんが虎耳だって言ったの？」\",\"translatedEnglishLine\":\"\\\"...Did grandma say these are tiger ears?\\\"\"},{\"lineNumber\":123772,\"originalJapaneseLine\":\"「言ったもん！」\",\"translatedEnglishLine\":\"\\\"She did!\\\"\"},{\"lineNumber\":123773,\"originalJapaneseLine\":\"「わーい、おばーちゃんだいすきー」\",\"translatedEnglishLine\":\"\\\"Yay, I love grandma!\\\"\"},{\"lineNumber\":123774,\"originalJapaneseLine\":\"「ほほほ、虎子は本当に元気だねぇ」\",\"translatedEnglishLine\":\"\\\"Hohoho, Torako, you really are full of energy.\\\"\"},{\"lineNumber\":123775,\"originalJapaneseLine\":\"「さ、これをおつけなさい」\",\"translatedEnglishLine\":\"\\\"Now, put this on.\\\"\"},{\"lineNumber\":123776,\"originalJapaneseLine\":\"「わー、おばーちゃんこれなにー？」\",\"translatedEnglishLine\":\"\\\"Wow, Grandma, what’s this?\\\"\"},{\"lineNumber\":123777,\"originalJapaneseLine\":\"「虎子に似合うと思って買っておいたんだよ……」\",\"translatedEnglishLine\":\"\\\"I bought it because I thought it would suit Torako...\\\"\"},{\"lineNumber\":123778,\"originalJapaneseLine\":\"「わーい、おばーちゃん、どう？」\",\"translatedEnglishLine\":\"\\\"Yay, Grandma, how is it?\\\"\"},{\"lineNumber\":123779,\"originalJapaneseLine\":\"「ふふ、思った通り、\",\"translatedEnglishLine\":\"\\\"Hehe, just as I thought,\"},{\"lineNumber\":123780,\"originalJapaneseLine\":\"　虎子によぉく似合ってるわ」\",\"translatedEnglishLine\":\"it really suits Torako well.\\\"\"},{\"lineNumber\":123781,\"originalJapaneseLine\":\"「えへへー、じゃあこれからずっとこれつけるねー」\",\"translatedEnglishLine\":\"\\\"Ehehe, then I’ll wear this all the time from now on!\\\"\"},{\"lineNumber\":123782,\"originalJapaneseLine\":\"「ほほほ、そうかい？　それは嬉しいねぇ」\",\"translatedEnglishLine\":\"\\\"Hohoho, really? That makes me happy.\\\"\"},{\"lineNumber\":123783,\"originalJapaneseLine\":\"「あははー、おばーちゃん、おばーちゃーん♪」\",\"translatedEnglishLine\":\"\\\"Ahaha, Grandma, Grandma~♪\\\"\"},{\"lineNumber\":123784,\"originalJapaneseLine\":\"…………\",\"translatedEnglishLine\":\"…………\"},{\"lineNumber\":123785,\"originalJapaneseLine\":\"……\",\"translatedEnglishLine\":\"……\"},{\"lineNumber\":123786,\"originalJapaneseLine\":\"「あれ！？　虎の耳だなんて言ってない！？」\",\"translatedEnglishLine\":\"\\\"Huh!? Nobody said they were tiger ears!?\\\"\"},{\"lineNumber\":123787,\"originalJapaneseLine\":\"「お婆ちゃん、これなんの耳！？」\",\"translatedEnglishLine\":\"\\\"Grandma, what kind of ears are these!?\\\"\"},{\"lineNumber\":123788,\"originalJapaneseLine\":\"「たぬきじゃなかったのか？」\",\"translatedEnglishLine\":\"\\\"Weren’t they tanuki ears?\\\"\"},{\"lineNumber\":123789,\"originalJapaneseLine\":\"「へ？」\",\"translatedEnglishLine\":\"\\\"Huh?\\\"\"},{\"lineNumber\":123790,\"originalJapaneseLine\":\"「いや、私は以前からたぬきの耳かと\",\"translatedEnglishLine\":\"\\\"No, I always thought they were tanuki ears.\"},{\"lineNumber\":123791,\"originalJapaneseLine\":\"見る度に郷愁の念に駆られていたものだ」\",\"translatedEnglishLine\":\"Every time I saw them, I was filled with nostalgia.\\\"\"},{\"lineNumber\":123792,\"originalJapaneseLine\":\"「たぬーーーーー！？」\",\"translatedEnglishLine\":\"\\\"Tanuki——!?\\\"\"},{\"lineNumber\":123793,\"originalJapaneseLine\":\"「いやー、なんかランクダウンした気がするー！？」\",\"translatedEnglishLine\":\"\\\"Ah, somehow I feel like you’ve been downgraded!?\\\"\"},{\"lineNumber\":123794,\"originalJapaneseLine\":\"「あんた……\",\"translatedEnglishLine\":\"\\\"You…\\\"\"},{\"lineNumber\":123795,\"originalJapaneseLine\":\"「たぬ子だったの？」\",\"translatedEnglishLine\":\"\\\"Were you Tanuko?\\\"\"},{\"lineNumber\":123796,\"originalJapaneseLine\":\"「虎子だよ！\",\"translatedEnglishLine\":\"\\\"I'm Torako!\"},{\"lineNumber\":123797,\"originalJapaneseLine\":\"　仮にこれが狸でも死ぬまで虎子だよ！」\",\"translatedEnglishLine\":\"Even if these were tanuki ears, I’m Torako until I die!\\\"\"},{\"lineNumber\":123798,\"originalJapaneseLine\":\"「おっと、そろそろ訓練の時間ね」\",\"translatedEnglishLine\":\"\\\"Oops, it’s about time for training.\\\"\"},{\"lineNumber\":123799,\"originalJapaneseLine\":\"「行くわよ、たぬ子」\",\"translatedEnglishLine\":\"\\\"Let's go, Tanuko.\\\"\"},{\"lineNumber\":123800,\"originalJapaneseLine\":\"「うわーん！　勝子の馬鹿馬鹿馬鹿ー！」\",\"translatedEnglishLine\":\"\\\"Waaah! Katsuko, you idiot, idiot, idiot!\\\"\"},{\"lineNumber\":123801,\"originalJapaneseLine\":\"「……で、結局それなんの耳なの？」\",\"translatedEnglishLine\":\"\\\"...So, in the end, what kind of ears are those?\\\"\"},{\"lineNumber\":123802,\"originalJapaneseLine\":\"「もう私にも分からないよ！\",\"translatedEnglishLine\":\"\\\"I don’t even know myself anymore!\\\"\"},{\"lineNumber\":123803,\"originalJapaneseLine\":\"　馬鹿ー！　すっとこどっこいー！」\",\"translatedEnglishLine\":\"\\\"Idiot! Blockhead!\\\"\"},{\"lineNumber\":123804,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"…………\\\"\"},{\"lineNumber\":123805,\"originalJapaneseLine\":\"「あいつら本当は仲いいんじゃ」\",\"translatedEnglishLine\":\"\\\"Those two actually get along well, don’t they?\\\"\"},{\"lineNumber\":123806,\"originalJapaneseLine\":\"「いやいや、仲悪いですよ。\",\"translatedEnglishLine\":\"\\\"No, no, they don’t get along.\"},{\"lineNumber\":123807,\"originalJapaneseLine\":\"　困らせられてます」\",\"translatedEnglishLine\":\"They’re making things difficult for me.\\\"\"},{\"lineNumber\":123808,\"originalJapaneseLine\":\"「……そうか」\",\"translatedEnglishLine\":\"\\\"...I see.\\\"\"},{\"lineNumber\":123809,\"originalJapaneseLine\":\"「あ、ランスさん……」\",\"translatedEnglishLine\":\"\\\"Ah, Rance-san...\\\"\"},{\"lineNumber\":123810,\"originalJapaneseLine\":\"「よう、勝子か……」\",\"translatedEnglishLine\":\"\\\"Hey, Katsuko...\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 123751,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"…………\""
+            },
+            {
+                "lineNumber": 123752,
+                "originalJapaneseLine": "「はっ！」",
+                "translatedEnglishLine": "\"Ha!\""
+            },
+            {
+                "lineNumber": 123753,
+                "originalJapaneseLine": "「　いや、熊子じゃないよ！　虎子だよ！」",
+                "translatedEnglishLine": "\"No, I'm not Kumako! I'm Torako!\""
+            },
+            {
+                "lineNumber": 123754,
+                "originalJapaneseLine": "「はあー？」",
+                "translatedEnglishLine": "\"Huh?\""
+            },
+            {
+                "lineNumber": 123755,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"…………\""
+            },
+            {
+                "lineNumber": 123756,
+                "originalJapaneseLine": "「あ、虎子。",
+                "translatedEnglishLine": "\"Ah, Torako."
+            },
+            {
+                "lineNumber": 123757,
+                "originalJapaneseLine": "　いいからこれ見て」",
+                "translatedEnglishLine": "Just look at this.\""
+            },
+            {
+                "lineNumber": 123758,
+                "originalJapaneseLine": "「なにちょっと分からなくなってるのよ！」",
+                "translatedEnglishLine": "\"Why are you suddenly so confused!\""
+            },
+            {
+                "lineNumber": 123759,
+                "originalJapaneseLine": "「勝子のせいで私、",
+                "translatedEnglishLine": "\"Because of Katsuko,"
+            },
+            {
+                "lineNumber": 123760,
+                "originalJapaneseLine": "　後輩の子に熊子先輩ってこの間呼ばれたのよ！？",
+                "translatedEnglishLine": "the junior called me 'Kumako-senpai' the other day!?\""
+            },
+            {
+                "lineNumber": 123761,
+                "originalJapaneseLine": "　本気にした子まで出たじゃん！」",
+                "translatedEnglishLine": "There was even someone who took it seriously!\""
+            },
+            {
+                "lineNumber": 123762,
+                "originalJapaneseLine": "「はいはい、いいからこれ見て」",
+                "translatedEnglishLine": "\"Alright, alright, just look at this.\""
+            },
+            {
+                "lineNumber": 123763,
+                "originalJapaneseLine": "「クスン……なによこれ……」",
+                "translatedEnglishLine": "\"Sniff... What is this...?\""
+            },
+            {
+                "lineNumber": 123764,
+                "originalJapaneseLine": "「ほら、これが虎バンバラに、クマの写真」",
+                "translatedEnglishLine": "\"See, here’s a photo of a tiger, and here’s one of a bear.\""
+            },
+            {
+                "lineNumber": 123765,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"…………\""
+            },
+            {
+                "lineNumber": 123766,
+                "originalJapaneseLine": "ツイーと勝子の視線が虎子の頭上に向かう。",
+                "translatedEnglishLine": "Katsuko’s gaze quickly shifts above Torako's head."
+            },
+            {
+                "lineNumber": 123767,
+                "originalJapaneseLine": "「あんたの耳、どう見てもクマの方が近い」",
+                "translatedEnglishLine": "\"No matter how you look at it, your ears are closer to a bear's.\""
+            },
+            {
+                "lineNumber": 123768,
+                "originalJapaneseLine": "「まだその話引っ張るの！？」",
+                "translatedEnglishLine": "\"Are you still dragging that story on!?\""
+            },
+            {
+                "lineNumber": 123769,
+                "originalJapaneseLine": "「大好きなお婆ちゃんがくれた",
+                "translatedEnglishLine": "\"My beloved grandma gave me"
+            },
+            {
+                "lineNumber": 123770,
+                "originalJapaneseLine": "　この髪留めを馬鹿にしたら怒るんだからね！」",
+                "translatedEnglishLine": "this hairpin, so don’t make fun of it or I’ll get mad!\""
+            },
+            {
+                "lineNumber": 123771,
+                "originalJapaneseLine": "「……おばあさんが虎耳だって言ったの？」",
+                "translatedEnglishLine": "\"...Did grandma say these are tiger ears?\""
+            },
+            {
+                "lineNumber": 123772,
+                "originalJapaneseLine": "「言ったもん！」",
+                "translatedEnglishLine": "\"She did!\""
+            },
+            {
+                "lineNumber": 123773,
+                "originalJapaneseLine": "「わーい、おばーちゃんだいすきー」",
+                "translatedEnglishLine": "\"Yay, I love grandma!\""
+            },
+            {
+                "lineNumber": 123774,
+                "originalJapaneseLine": "「ほほほ、虎子は本当に元気だねぇ」",
+                "translatedEnglishLine": "\"Hohoho, Torako, you really are full of energy.\""
+            },
+            {
+                "lineNumber": 123775,
+                "originalJapaneseLine": "「さ、これをおつけなさい」",
+                "translatedEnglishLine": "\"Now, put this on.\""
+            },
+            {
+                "lineNumber": 123776,
+                "originalJapaneseLine": "「わー、おばーちゃんこれなにー？」",
+                "translatedEnglishLine": "\"Wow, Grandma, what’s this?\""
+            },
+            {
+                "lineNumber": 123777,
+                "originalJapaneseLine": "「虎子に似合うと思って買っておいたんだよ……」",
+                "translatedEnglishLine": "\"I bought it because I thought it would suit Torako...\""
+            },
+            {
+                "lineNumber": 123778,
+                "originalJapaneseLine": "「わーい、おばーちゃん、どう？」",
+                "translatedEnglishLine": "\"Yay, Grandma, how is it?\""
+            },
+            {
+                "lineNumber": 123779,
+                "originalJapaneseLine": "「ふふ、思った通り、",
+                "translatedEnglishLine": "\"Hehe, just as I thought,"
+            },
+            {
+                "lineNumber": 123780,
+                "originalJapaneseLine": "　虎子によぉく似合ってるわ」",
+                "translatedEnglishLine": "it really suits Torako well.\""
+            },
+            {
+                "lineNumber": 123781,
+                "originalJapaneseLine": "「えへへー、じゃあこれからずっとこれつけるねー」",
+                "translatedEnglishLine": "\"Ehehe, then I’ll wear this all the time from now on!\""
+            },
+            {
+                "lineNumber": 123782,
+                "originalJapaneseLine": "「ほほほ、そうかい？　それは嬉しいねぇ」",
+                "translatedEnglishLine": "\"Hohoho, really? That makes me happy.\""
+            },
+            {
+                "lineNumber": 123783,
+                "originalJapaneseLine": "「あははー、おばーちゃん、おばーちゃーん♪」",
+                "translatedEnglishLine": "\"Ahaha, Grandma, Grandma~♪\""
+            },
+            {
+                "lineNumber": 123784,
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "…………"
+            },
+            {
+                "lineNumber": 123785,
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "……"
+            },
+            {
+                "lineNumber": 123786,
+                "originalJapaneseLine": "「あれ！？　虎の耳だなんて言ってない！？」",
+                "translatedEnglishLine": "\"Huh!? Nobody said they were tiger ears!?\""
+            },
+            {
+                "lineNumber": 123787,
+                "originalJapaneseLine": "「お婆ちゃん、これなんの耳！？」",
+                "translatedEnglishLine": "\"Grandma, what kind of ears are these!?\""
+            },
+            {
+                "lineNumber": 123788,
+                "originalJapaneseLine": "「たぬきじゃなかったのか？」",
+                "translatedEnglishLine": "\"Weren’t they tanuki ears?\""
+            },
+            {
+                "lineNumber": 123789,
+                "originalJapaneseLine": "「へ？」",
+                "translatedEnglishLine": "\"Huh?\""
+            },
+            {
+                "lineNumber": 123790,
+                "originalJapaneseLine": "「いや、私は以前からたぬきの耳かと",
+                "translatedEnglishLine": "\"No, I always thought they were tanuki ears."
+            },
+            {
+                "lineNumber": 123791,
+                "originalJapaneseLine": "見る度に郷愁の念に駆られていたものだ」",
+                "translatedEnglishLine": "Every time I saw them, I was filled with nostalgia.\""
+            },
+            {
+                "lineNumber": 123792,
+                "originalJapaneseLine": "「たぬーーーーー！？」",
+                "translatedEnglishLine": "\"Tanuki——!?\""
+            },
+            {
+                "lineNumber": 123793,
+                "originalJapaneseLine": "「いやー、なんかランクダウンした気がするー！？」",
+                "translatedEnglishLine": "\"Ah, somehow I feel like you’ve been downgraded!?\""
+            },
+            {
+                "lineNumber": 123794,
+                "originalJapaneseLine": "「あんた……",
+                "translatedEnglishLine": "\"You…\""
+            },
+            {
+                "lineNumber": 123795,
+                "originalJapaneseLine": "「たぬ子だったの？」",
+                "translatedEnglishLine": "\"Were you Tanuko?\""
+            },
+            {
+                "lineNumber": 123796,
+                "originalJapaneseLine": "「虎子だよ！",
+                "translatedEnglishLine": "\"I'm Torako!"
+            },
+            {
+                "lineNumber": 123797,
+                "originalJapaneseLine": "　仮にこれが狸でも死ぬまで虎子だよ！」",
+                "translatedEnglishLine": "Even if these were tanuki ears, I’m Torako until I die!\""
+            },
+            {
+                "lineNumber": 123798,
+                "originalJapaneseLine": "「おっと、そろそろ訓練の時間ね」",
+                "translatedEnglishLine": "\"Oops, it’s about time for training.\""
+            },
+            {
+                "lineNumber": 123799,
+                "originalJapaneseLine": "「行くわよ、たぬ子」",
+                "translatedEnglishLine": "\"Let's go, Tanuko.\""
+            },
+            {
+                "lineNumber": 123800,
+                "originalJapaneseLine": "「うわーん！　勝子の馬鹿馬鹿馬鹿ー！」",
+                "translatedEnglishLine": "\"Waaah! Katsuko, you idiot, idiot, idiot!\""
+            },
+            {
+                "lineNumber": 123801,
+                "originalJapaneseLine": "「……で、結局それなんの耳なの？」",
+                "translatedEnglishLine": "\"...So, in the end, what kind of ears are those?\""
+            },
+            {
+                "lineNumber": 123802,
+                "originalJapaneseLine": "「もう私にも分からないよ！",
+                "translatedEnglishLine": "\"I don’t even know myself anymore!\""
+            },
+            {
+                "lineNumber": 123803,
+                "originalJapaneseLine": "　馬鹿ー！　すっとこどっこいー！」",
+                "translatedEnglishLine": "\"Idiot! Blockhead!\""
+            },
+            {
+                "lineNumber": 123804,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"…………\""
+            },
+            {
+                "lineNumber": 123805,
+                "originalJapaneseLine": "「あいつら本当は仲いいんじゃ」",
+                "translatedEnglishLine": "\"Those two actually get along well, don’t they?\""
+            },
+            {
+                "lineNumber": 123806,
+                "originalJapaneseLine": "「いやいや、仲悪いですよ。",
+                "translatedEnglishLine": "\"No, no, they don’t get along."
+            },
+            {
+                "lineNumber": 123807,
+                "originalJapaneseLine": "　困らせられてます」",
+                "translatedEnglishLine": "They’re making things difficult for me.\""
+            },
+            {
+                "lineNumber": 123808,
+                "originalJapaneseLine": "「……そうか」",
+                "translatedEnglishLine": "\"...I see.\""
+            },
+            {
+                "lineNumber": 123809,
+                "originalJapaneseLine": "「あ、ランスさん……」",
+                "translatedEnglishLine": "\"Ah, Rance-san...\""
+            },
+            {
+                "lineNumber": 123810,
+                "originalJapaneseLine": "「よう、勝子か……」",
+                "translatedEnglishLine": "\"Hey, Katsuko...\""
+            }
+        ]
+    }
+}

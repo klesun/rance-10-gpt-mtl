@@ -1,1 +1,619 @@
-{"id":"resp_0ea2c12aa7e86f100068f05b0e935c8196b692774225e27fb3","object":"response","created_at":1760582414,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0ea2c12aa7e86f100068f05b0f458881968788e1f5e0118500","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":104071,\"originalJapaneseLine\":\"　是非ヨシフ討伐の話をして頂けませんか？\",\"translatedEnglishLine\":\"Could you please tell us about the defeat of Yosif?\"},{\"lineNumber\":104072,\"originalJapaneseLine\":\"「がははは、良かろう。\",\"translatedEnglishLine\":\"\\\"Gahahaha, very well.\"},{\"lineNumber\":104073,\"originalJapaneseLine\":\"　俺様が微に入り細に入り\",\"translatedEnglishLine\":\"I shall tell you the tale in complete detail,\"},{\"lineNumber\":104074,\"originalJapaneseLine\":\"　英雄譚を聞かせてやろう！」\",\"translatedEnglishLine\":\"the heroic story!\\\"\"},{\"lineNumber\":104075,\"originalJapaneseLine\":\"「きゃあ！　やった！」\",\"translatedEnglishLine\":\"\\\"Kyaa! Yay!\\\"\"},{\"lineNumber\":104076,\"originalJapaneseLine\":\"「わあ、リーザス救国の英雄から\",\"translatedEnglishLine\":\"\\\"Wow, to hear the story from the hero who saved Leazas,\"},{\"lineNumber\":104077,\"originalJapaneseLine\":\"　お話が聞けるなんて！」\",\"translatedEnglishLine\":\"that's amazing!\\\"\"},{\"lineNumber\":104078,\"originalJapaneseLine\":\"（くくく、親衛隊の子は、\",\"translatedEnglishLine\":\"(Hehe, the children of the royal guard,\"},{\"lineNumber\":104079,\"originalJapaneseLine\":\"　お嬢様ばかりだから純真な子が多くていいな）\",\"translatedEnglishLine\":\"all these young ladies, so many innocent girls, that's nice.)\"},{\"lineNumber\":104080,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":104081,\"originalJapaneseLine\":\"「あの、ランスさま。\",\"translatedEnglishLine\":\"\\\"Um, Lord Rance.\"},{\"lineNumber\":104082,\"originalJapaneseLine\":\"　ちょっとこちらへ――」\",\"translatedEnglishLine\":\"Could you come here for a moment—\\\"\"},{\"lineNumber\":104083,\"originalJapaneseLine\":\"「こほん、ランスさま」\",\"translatedEnglishLine\":\"\\\"Ahem, Lord Rance.\\\"\"},{\"lineNumber\":104084,\"originalJapaneseLine\":\"「なんだ？」\",\"translatedEnglishLine\":\"\\\"What is it?\\\"\"},{\"lineNumber\":104085,\"originalJapaneseLine\":\"「……そ、その。\",\"translatedEnglishLine\":\"\\\"...W-well.\"},{\"lineNumber\":104086,\"originalJapaneseLine\":\"　ヨシフとの戦いの顛末に関しては、\",\"translatedEnglishLine\":\"About the outcome of the battle with Yosif,\"},{\"lineNumber\":104087,\"originalJapaneseLine\":\"　どうか内密にして頂きたいのです」\",\"translatedEnglishLine\":\"I beg you to keep it completely confidential.\\\"\"},{\"lineNumber\":104088,\"originalJapaneseLine\":\"「何故だ。\",\"translatedEnglishLine\":\"\\\"Why? Everyone wants to hear about my exploits.\"},{\"lineNumber\":104089,\"originalJapaneseLine\":\"　俺様の活躍を皆も聞きたがってるぞ」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":104090,\"originalJapaneseLine\":\"「……ランスさま個人の活躍の話は\",\"translatedEnglishLine\":\"\\\"...You may talk as much as you like about Lord Rance's personal achievements,\"},{\"lineNumber\":104091,\"originalJapaneseLine\":\"　いくらして頂いても結構なのですが」\",\"translatedEnglishLine\":\"that's absolutely fine,\"},{\"lineNumber\":104092,\"originalJapaneseLine\":\"「わたくしが晒した痴態の話は\",\"translatedEnglishLine\":\"but the story about the disgrace I endured\"},{\"lineNumber\":104093,\"originalJapaneseLine\":\"　絶対の絶対の絶対に避けて頂きたいのです」\",\"translatedEnglishLine\":\"I absolutely, positively want to avoid being told about it.\\\"\"},{\"lineNumber\":104094,\"originalJapaneseLine\":\"「なんだってまた。\",\"translatedEnglishLine\":\"\\\"What on earth? There's nothing to hide here.\"},{\"lineNumber\":104095,\"originalJapaneseLine\":\"　隠すようなもんでもなかろう」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":104096,\"originalJapaneseLine\":\"「隠すような話ですわよ！」\",\"translatedEnglishLine\":\"\\\"It's definitely something to hide!\\\"\"},{\"lineNumber\":104097,\"originalJapaneseLine\":\"「……とにかく、\",\"translatedEnglishLine\":\"\\\"...Anyway,\"},{\"lineNumber\":104098,\"originalJapaneseLine\":\"　絶対に変なことは言わないで下さいましね」\",\"translatedEnglishLine\":\"please don't say anything weird, okay?\\\"\"},{\"lineNumber\":104099,\"originalJapaneseLine\":\"「あー、はいはい」\",\"translatedEnglishLine\":\"\\\"Ah, yeah, yeah.\\\"\"},{\"lineNumber\":104100,\"originalJapaneseLine\":\"「はいはい、ではなく！」\",\"translatedEnglishLine\":\"\\\"Not just yeah, yeah!\\\"\"},{\"lineNumber\":104101,\"originalJapaneseLine\":\"「おお、マジの顔……」\",\"translatedEnglishLine\":\"\\\"Oh, a serious face...\\\"\"},{\"lineNumber\":104102,\"originalJapaneseLine\":\"「分かった分かった。\",\"translatedEnglishLine\":\"\\\"Alright, alright.\"},{\"lineNumber\":104103,\"originalJapaneseLine\":\"　適当に誤魔化す」\",\"translatedEnglishLine\":\"I'll bluff my way through this.\\\"\"},{\"lineNumber\":104104,\"originalJapaneseLine\":\"「お願いいたしますわよ……本当に」\",\"translatedEnglishLine\":\"\\\"I earnestly beg you... truly.\\\"\"},{\"lineNumber\":104105,\"originalJapaneseLine\":\"ランス達が戻ると、早速質問攻めにあった。\",\"translatedEnglishLine\":\"When Rance and the others returned, they were immediately bombarded with questions.\"},{\"lineNumber\":104106,\"originalJapaneseLine\":\"「確か二人だけでの潜入任務だったのですよね、\",\"translatedEnglishLine\":\"\\\"If I remember correctly, it was a covert mission with just the two of you,\"},{\"lineNumber\":104107,\"originalJapaneseLine\":\"　怖くなかったのですか？」\",\"translatedEnglishLine\":\"weren't you scared?\\\"\"},{\"lineNumber\":104108,\"originalJapaneseLine\":\"「もちろん不安はありましたが、\",\"translatedEnglishLine\":\"\\\"Of course, I was anxious,\"},{\"lineNumber\":104109,\"originalJapaneseLine\":\"　誰かがやらねばならないことでしたから」\",\"translatedEnglishLine\":\"but it was something that had to be done by someone.\\\"\"},{\"lineNumber\":104110,\"originalJapaneseLine\":\"「ああ、素晴らしいです、お姉様……」\",\"translatedEnglishLine\":\"\\\"Ah, that's wonderful, big sister...\\\"\"},{\"lineNumber\":104111,\"originalJapaneseLine\":\"「おほほほ、そんなことありませんわー」\",\"translatedEnglishLine\":\"\\\"Oh hohoho, that's not true at all—\\\"\"},{\"lineNumber\":104112,\"originalJapaneseLine\":\"（猫かぶっとるなぁ）\",\"translatedEnglishLine\":\"(She's putting on an act.)\"},{\"lineNumber\":104113,\"originalJapaneseLine\":\"「でも、どうやって潜入をなされたのですか？」\",\"translatedEnglishLine\":\"\\\"But, how exactly did you infiltrate?\\\"\"},{\"lineNumber\":104114,\"originalJapaneseLine\":\"「ふふん、それは俺様の作戦勝ちだな」\",\"translatedEnglishLine\":\"\\\"Fufun, that was thanks to my brilliant strategy.\\\"\"},{\"lineNumber\":104115,\"originalJapaneseLine\":\"「潜入する町で行われていた\",\"translatedEnglishLine\":\"\\\"In the town we infiltrated,\"},{\"lineNumber\":104116,\"originalJapaneseLine\":\"　ガールズショーなる大会に\",\"translatedEnglishLine\":\"there was a contest called the Girls Show,\"},{\"lineNumber\":104117,\"originalJapaneseLine\":\"　チルディを出場させたのだ」\",\"translatedEnglishLine\":\"and I made Tildi participate in it.\\\"\"},{\"lineNumber\":104118,\"originalJapaneseLine\":\"「ガールズショー？」\",\"translatedEnglishLine\":\"\\\"Girls Show?\\\"\"},{\"lineNumber\":104119,\"originalJapaneseLine\":\"「うむ、一番素晴らしい穴奴隷を決める大会で――」\",\"translatedEnglishLine\":\"\\\"Yes, it's a competition to decide the best hole slave—\\\"\"},{\"lineNumber\":104120,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"}]}","parsed":{"translationLines":[{"lineNumber":104071,"originalJapaneseLine":"　是非ヨシフ討伐の話をして頂けませんか？","translatedEnglishLine":"Could you please tell us about the defeat of Yosif?"},{"lineNumber":104072,"originalJapaneseLine":"「がははは、良かろう。","translatedEnglishLine":"\"Gahahaha, very well."},{"lineNumber":104073,"originalJapaneseLine":"　俺様が微に入り細に入り","translatedEnglishLine":"I shall tell you the tale in complete detail,"},{"lineNumber":104074,"originalJapaneseLine":"　英雄譚を聞かせてやろう！」","translatedEnglishLine":"the heroic story!\""},{"lineNumber":104075,"originalJapaneseLine":"「きゃあ！　やった！」","translatedEnglishLine":"\"Kyaa! Yay!\""},{"lineNumber":104076,"originalJapaneseLine":"「わあ、リーザス救国の英雄から","translatedEnglishLine":"\"Wow, to hear the story from the hero who saved Leazas,"},{"lineNumber":104077,"originalJapaneseLine":"　お話が聞けるなんて！」","translatedEnglishLine":"that's amazing!\""},{"lineNumber":104078,"originalJapaneseLine":"（くくく、親衛隊の子は、","translatedEnglishLine":"(Hehe, the children of the royal guard,"},{"lineNumber":104079,"originalJapaneseLine":"　お嬢様ばかりだから純真な子が多くていいな）","translatedEnglishLine":"all these young ladies, so many innocent girls, that's nice.)"},{"lineNumber":104080,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"........\""},{"lineNumber":104081,"originalJapaneseLine":"「あの、ランスさま。","translatedEnglishLine":"\"Um, Lord Rance."},{"lineNumber":104082,"originalJapaneseLine":"　ちょっとこちらへ――」","translatedEnglishLine":"Could you come here for a moment—\""},{"lineNumber":104083,"originalJapaneseLine":"「こほん、ランスさま」","translatedEnglishLine":"\"Ahem, Lord Rance.\""},{"lineNumber":104084,"originalJapaneseLine":"「なんだ？」","translatedEnglishLine":"\"What is it?\""},{"lineNumber":104085,"originalJapaneseLine":"「……そ、その。","translatedEnglishLine":"\"...W-well."},{"lineNumber":104086,"originalJapaneseLine":"　ヨシフとの戦いの顛末に関しては、","translatedEnglishLine":"About the outcome of the battle with Yosif,"},{"lineNumber":104087,"originalJapaneseLine":"　どうか内密にして頂きたいのです」","translatedEnglishLine":"I beg you to keep it completely confidential.\""},{"lineNumber":104088,"originalJapaneseLine":"「何故だ。","translatedEnglishLine":"\"Why? Everyone wants to hear about my exploits."},{"lineNumber":104089,"originalJapaneseLine":"　俺様の活躍を皆も聞きたがってるぞ」","translatedEnglishLine":"\""},{"lineNumber":104090,"originalJapaneseLine":"「……ランスさま個人の活躍の話は","translatedEnglishLine":"\"...You may talk as much as you like about Lord Rance's personal achievements,"},{"lineNumber":104091,"originalJapaneseLine":"　いくらして頂いても結構なのですが」","translatedEnglishLine":"that's absolutely fine,"},{"lineNumber":104092,"originalJapaneseLine":"「わたくしが晒した痴態の話は","translatedEnglishLine":"but the story about the disgrace I endured"},{"lineNumber":104093,"originalJapaneseLine":"　絶対の絶対の絶対に避けて頂きたいのです」","translatedEnglishLine":"I absolutely, positively want to avoid being told about it.\""},{"lineNumber":104094,"originalJapaneseLine":"「なんだってまた。","translatedEnglishLine":"\"What on earth? There's nothing to hide here."},{"lineNumber":104095,"originalJapaneseLine":"　隠すようなもんでもなかろう」","translatedEnglishLine":"\""},{"lineNumber":104096,"originalJapaneseLine":"「隠すような話ですわよ！」","translatedEnglishLine":"\"It's definitely something to hide!\""},{"lineNumber":104097,"originalJapaneseLine":"「……とにかく、","translatedEnglishLine":"\"...Anyway,"},{"lineNumber":104098,"originalJapaneseLine":"　絶対に変なことは言わないで下さいましね」","translatedEnglishLine":"please don't say anything weird, okay?\""},{"lineNumber":104099,"originalJapaneseLine":"「あー、はいはい」","translatedEnglishLine":"\"Ah, yeah, yeah.\""},{"lineNumber":104100,"originalJapaneseLine":"「はいはい、ではなく！」","translatedEnglishLine":"\"Not just yeah, yeah!\""},{"lineNumber":104101,"originalJapaneseLine":"「おお、マジの顔……」","translatedEnglishLine":"\"Oh, a serious face...\""},{"lineNumber":104102,"originalJapaneseLine":"「分かった分かった。","translatedEnglishLine":"\"Alright, alright."},{"lineNumber":104103,"originalJapaneseLine":"　適当に誤魔化す」","translatedEnglishLine":"I'll bluff my way through this.\""},{"lineNumber":104104,"originalJapaneseLine":"「お願いいたしますわよ……本当に」","translatedEnglishLine":"\"I earnestly beg you... truly.\""},{"lineNumber":104105,"originalJapaneseLine":"ランス達が戻ると、早速質問攻めにあった。","translatedEnglishLine":"When Rance and the others returned, they were immediately bombarded with questions."},{"lineNumber":104106,"originalJapaneseLine":"「確か二人だけでの潜入任務だったのですよね、","translatedEnglishLine":"\"If I remember correctly, it was a covert mission with just the two of you,"},{"lineNumber":104107,"originalJapaneseLine":"　怖くなかったのですか？」","translatedEnglishLine":"weren't you scared?\""},{"lineNumber":104108,"originalJapaneseLine":"「もちろん不安はありましたが、","translatedEnglishLine":"\"Of course, I was anxious,"},{"lineNumber":104109,"originalJapaneseLine":"　誰かがやらねばならないことでしたから」","translatedEnglishLine":"but it was something that had to be done by someone.\""},{"lineNumber":104110,"originalJapaneseLine":"「ああ、素晴らしいです、お姉様……」","translatedEnglishLine":"\"Ah, that's wonderful, big sister...\""},{"lineNumber":104111,"originalJapaneseLine":"「おほほほ、そんなことありませんわー」","translatedEnglishLine":"\"Oh hohoho, that's not true at all—\""},{"lineNumber":104112,"originalJapaneseLine":"（猫かぶっとるなぁ）","translatedEnglishLine":"(She's putting on an act.)"},{"lineNumber":104113,"originalJapaneseLine":"「でも、どうやって潜入をなされたのですか？」","translatedEnglishLine":"\"But, how exactly did you infiltrate?\""},{"lineNumber":104114,"originalJapaneseLine":"「ふふん、それは俺様の作戦勝ちだな」","translatedEnglishLine":"\"Fufun, that was thanks to my brilliant strategy.\""},{"lineNumber":104115,"originalJapaneseLine":"「潜入する町で行われていた","translatedEnglishLine":"\"In the town we infiltrated,"},{"lineNumber":104116,"originalJapaneseLine":"　ガールズショーなる大会に","translatedEnglishLine":"there was a contest called the Girls Show,"},{"lineNumber":104117,"originalJapaneseLine":"　チルディを出場させたのだ」","translatedEnglishLine":"and I made Tildi participate in it.\""},{"lineNumber":104118,"originalJapaneseLine":"「ガールズショー？」","translatedEnglishLine":"\"Girls Show?\""},{"lineNumber":104119,"originalJapaneseLine":"「うむ、一番素晴らしい穴奴隷を決める大会で――」","translatedEnglishLine":"\"Yes, it's a competition to decide the best hole slave—\""},{"lineNumber":104120,"originalJapaneseLine":"　","translatedEnglishLine":""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1426,"input_tokens_details":{"cached_tokens":0},"output_tokens":1807,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3233},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":104071,\"originalJapaneseLine\":\"　是非ヨシフ討伐の話をして頂けませんか？\",\"translatedEnglishLine\":\"Could you please tell us about the defeat of Yosif?\"},{\"lineNumber\":104072,\"originalJapaneseLine\":\"「がははは、良かろう。\",\"translatedEnglishLine\":\"\\\"Gahahaha, very well.\"},{\"lineNumber\":104073,\"originalJapaneseLine\":\"　俺様が微に入り細に入り\",\"translatedEnglishLine\":\"I shall tell you the tale in complete detail,\"},{\"lineNumber\":104074,\"originalJapaneseLine\":\"　英雄譚を聞かせてやろう！」\",\"translatedEnglishLine\":\"the heroic story!\\\"\"},{\"lineNumber\":104075,\"originalJapaneseLine\":\"「きゃあ！　やった！」\",\"translatedEnglishLine\":\"\\\"Kyaa! Yay!\\\"\"},{\"lineNumber\":104076,\"originalJapaneseLine\":\"「わあ、リーザス救国の英雄から\",\"translatedEnglishLine\":\"\\\"Wow, to hear the story from the hero who saved Leazas,\"},{\"lineNumber\":104077,\"originalJapaneseLine\":\"　お話が聞けるなんて！」\",\"translatedEnglishLine\":\"that's amazing!\\\"\"},{\"lineNumber\":104078,\"originalJapaneseLine\":\"（くくく、親衛隊の子は、\",\"translatedEnglishLine\":\"(Hehe, the children of the royal guard,\"},{\"lineNumber\":104079,\"originalJapaneseLine\":\"　お嬢様ばかりだから純真な子が多くていいな）\",\"translatedEnglishLine\":\"all these young ladies, so many innocent girls, that's nice.)\"},{\"lineNumber\":104080,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":104081,\"originalJapaneseLine\":\"「あの、ランスさま。\",\"translatedEnglishLine\":\"\\\"Um, Lord Rance.\"},{\"lineNumber\":104082,\"originalJapaneseLine\":\"　ちょっとこちらへ――」\",\"translatedEnglishLine\":\"Could you come here for a moment—\\\"\"},{\"lineNumber\":104083,\"originalJapaneseLine\":\"「こほん、ランスさま」\",\"translatedEnglishLine\":\"\\\"Ahem, Lord Rance.\\\"\"},{\"lineNumber\":104084,\"originalJapaneseLine\":\"「なんだ？」\",\"translatedEnglishLine\":\"\\\"What is it?\\\"\"},{\"lineNumber\":104085,\"originalJapaneseLine\":\"「……そ、その。\",\"translatedEnglishLine\":\"\\\"...W-well.\"},{\"lineNumber\":104086,\"originalJapaneseLine\":\"　ヨシフとの戦いの顛末に関しては、\",\"translatedEnglishLine\":\"About the outcome of the battle with Yosif,\"},{\"lineNumber\":104087,\"originalJapaneseLine\":\"　どうか内密にして頂きたいのです」\",\"translatedEnglishLine\":\"I beg you to keep it completely confidential.\\\"\"},{\"lineNumber\":104088,\"originalJapaneseLine\":\"「何故だ。\",\"translatedEnglishLine\":\"\\\"Why? Everyone wants to hear about my exploits.\"},{\"lineNumber\":104089,\"originalJapaneseLine\":\"　俺様の活躍を皆も聞きたがってるぞ」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":104090,\"originalJapaneseLine\":\"「……ランスさま個人の活躍の話は\",\"translatedEnglishLine\":\"\\\"...You may talk as much as you like about Lord Rance's personal achievements,\"},{\"lineNumber\":104091,\"originalJapaneseLine\":\"　いくらして頂いても結構なのですが」\",\"translatedEnglishLine\":\"that's absolutely fine,\"},{\"lineNumber\":104092,\"originalJapaneseLine\":\"「わたくしが晒した痴態の話は\",\"translatedEnglishLine\":\"but the story about the disgrace I endured\"},{\"lineNumber\":104093,\"originalJapaneseLine\":\"　絶対の絶対の絶対に避けて頂きたいのです」\",\"translatedEnglishLine\":\"I absolutely, positively want to avoid being told about it.\\\"\"},{\"lineNumber\":104094,\"originalJapaneseLine\":\"「なんだってまた。\",\"translatedEnglishLine\":\"\\\"What on earth? There's nothing to hide here.\"},{\"lineNumber\":104095,\"originalJapaneseLine\":\"　隠すようなもんでもなかろう」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":104096,\"originalJapaneseLine\":\"「隠すような話ですわよ！」\",\"translatedEnglishLine\":\"\\\"It's definitely something to hide!\\\"\"},{\"lineNumber\":104097,\"originalJapaneseLine\":\"「……とにかく、\",\"translatedEnglishLine\":\"\\\"...Anyway,\"},{\"lineNumber\":104098,\"originalJapaneseLine\":\"　絶対に変なことは言わないで下さいましね」\",\"translatedEnglishLine\":\"please don't say anything weird, okay?\\\"\"},{\"lineNumber\":104099,\"originalJapaneseLine\":\"「あー、はいはい」\",\"translatedEnglishLine\":\"\\\"Ah, yeah, yeah.\\\"\"},{\"lineNumber\":104100,\"originalJapaneseLine\":\"「はいはい、ではなく！」\",\"translatedEnglishLine\":\"\\\"Not just yeah, yeah!\\\"\"},{\"lineNumber\":104101,\"originalJapaneseLine\":\"「おお、マジの顔……」\",\"translatedEnglishLine\":\"\\\"Oh, a serious face...\\\"\"},{\"lineNumber\":104102,\"originalJapaneseLine\":\"「分かった分かった。\",\"translatedEnglishLine\":\"\\\"Alright, alright.\"},{\"lineNumber\":104103,\"originalJapaneseLine\":\"　適当に誤魔化す」\",\"translatedEnglishLine\":\"I'll bluff my way through this.\\\"\"},{\"lineNumber\":104104,\"originalJapaneseLine\":\"「お願いいたしますわよ……本当に」\",\"translatedEnglishLine\":\"\\\"I earnestly beg you... truly.\\\"\"},{\"lineNumber\":104105,\"originalJapaneseLine\":\"ランス達が戻ると、早速質問攻めにあった。\",\"translatedEnglishLine\":\"When Rance and the others returned, they were immediately bombarded with questions.\"},{\"lineNumber\":104106,\"originalJapaneseLine\":\"「確か二人だけでの潜入任務だったのですよね、\",\"translatedEnglishLine\":\"\\\"If I remember correctly, it was a covert mission with just the two of you,\"},{\"lineNumber\":104107,\"originalJapaneseLine\":\"　怖くなかったのですか？」\",\"translatedEnglishLine\":\"weren't you scared?\\\"\"},{\"lineNumber\":104108,\"originalJapaneseLine\":\"「もちろん不安はありましたが、\",\"translatedEnglishLine\":\"\\\"Of course, I was anxious,\"},{\"lineNumber\":104109,\"originalJapaneseLine\":\"　誰かがやらねばならないことでしたから」\",\"translatedEnglishLine\":\"but it was something that had to be done by someone.\\\"\"},{\"lineNumber\":104110,\"originalJapaneseLine\":\"「ああ、素晴らしいです、お姉様……」\",\"translatedEnglishLine\":\"\\\"Ah, that's wonderful, big sister...\\\"\"},{\"lineNumber\":104111,\"originalJapaneseLine\":\"「おほほほ、そんなことありませんわー」\",\"translatedEnglishLine\":\"\\\"Oh hohoho, that's not true at all—\\\"\"},{\"lineNumber\":104112,\"originalJapaneseLine\":\"（猫かぶっとるなぁ）\",\"translatedEnglishLine\":\"(She's putting on an act.)\"},{\"lineNumber\":104113,\"originalJapaneseLine\":\"「でも、どうやって潜入をなされたのですか？」\",\"translatedEnglishLine\":\"\\\"But, how exactly did you infiltrate?\\\"\"},{\"lineNumber\":104114,\"originalJapaneseLine\":\"「ふふん、それは俺様の作戦勝ちだな」\",\"translatedEnglishLine\":\"\\\"Fufun, that was thanks to my brilliant strategy.\\\"\"},{\"lineNumber\":104115,\"originalJapaneseLine\":\"「潜入する町で行われていた\",\"translatedEnglishLine\":\"\\\"In the town we infiltrated,\"},{\"lineNumber\":104116,\"originalJapaneseLine\":\"　ガールズショーなる大会に\",\"translatedEnglishLine\":\"there was a contest called the Girls Show,\"},{\"lineNumber\":104117,\"originalJapaneseLine\":\"　チルディを出場させたのだ」\",\"translatedEnglishLine\":\"and I made Tildi participate in it.\\\"\"},{\"lineNumber\":104118,\"originalJapaneseLine\":\"「ガールズショー？」\",\"translatedEnglishLine\":\"\\\"Girls Show?\\\"\"},{\"lineNumber\":104119,\"originalJapaneseLine\":\"「うむ、一番素晴らしい穴奴隷を決める大会で――」\",\"translatedEnglishLine\":\"\\\"Yes, it's a competition to decide the best hole slave—\\\"\"},{\"lineNumber\":104120,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":104071,"originalJapaneseLine":"　是非ヨシフ討伐の話をして頂けませんか？","translatedEnglishLine":"Could you please tell us about the defeat of Yosif?"},{"lineNumber":104072,"originalJapaneseLine":"「がははは、良かろう。","translatedEnglishLine":"\"Gahahaha, very well."},{"lineNumber":104073,"originalJapaneseLine":"　俺様が微に入り細に入り","translatedEnglishLine":"I shall tell you the tale in complete detail,"},{"lineNumber":104074,"originalJapaneseLine":"　英雄譚を聞かせてやろう！」","translatedEnglishLine":"the heroic story!\""},{"lineNumber":104075,"originalJapaneseLine":"「きゃあ！　やった！」","translatedEnglishLine":"\"Kyaa! Yay!\""},{"lineNumber":104076,"originalJapaneseLine":"「わあ、リーザス救国の英雄から","translatedEnglishLine":"\"Wow, to hear the story from the hero who saved Leazas,"},{"lineNumber":104077,"originalJapaneseLine":"　お話が聞けるなんて！」","translatedEnglishLine":"that's amazing!\""},{"lineNumber":104078,"originalJapaneseLine":"（くくく、親衛隊の子は、","translatedEnglishLine":"(Hehe, the children of the royal guard,"},{"lineNumber":104079,"originalJapaneseLine":"　お嬢様ばかりだから純真な子が多くていいな）","translatedEnglishLine":"all these young ladies, so many innocent girls, that's nice.)"},{"lineNumber":104080,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"........\""},{"lineNumber":104081,"originalJapaneseLine":"「あの、ランスさま。","translatedEnglishLine":"\"Um, Lord Rance."},{"lineNumber":104082,"originalJapaneseLine":"　ちょっとこちらへ――」","translatedEnglishLine":"Could you come here for a moment—\""},{"lineNumber":104083,"originalJapaneseLine":"「こほん、ランスさま」","translatedEnglishLine":"\"Ahem, Lord Rance.\""},{"lineNumber":104084,"originalJapaneseLine":"「なんだ？」","translatedEnglishLine":"\"What is it?\""},{"lineNumber":104085,"originalJapaneseLine":"「……そ、その。","translatedEnglishLine":"\"...W-well."},{"lineNumber":104086,"originalJapaneseLine":"　ヨシフとの戦いの顛末に関しては、","translatedEnglishLine":"About the outcome of the battle with Yosif,"},{"lineNumber":104087,"originalJapaneseLine":"　どうか内密にして頂きたいのです」","translatedEnglishLine":"I beg you to keep it completely confidential.\""},{"lineNumber":104088,"originalJapaneseLine":"「何故だ。","translatedEnglishLine":"\"Why? Everyone wants to hear about my exploits."},{"lineNumber":104089,"originalJapaneseLine":"　俺様の活躍を皆も聞きたがってるぞ」","translatedEnglishLine":"\""},{"lineNumber":104090,"originalJapaneseLine":"「……ランスさま個人の活躍の話は","translatedEnglishLine":"\"...You may talk as much as you like about Lord Rance's personal achievements,"},{"lineNumber":104091,"originalJapaneseLine":"　いくらして頂いても結構なのですが」","translatedEnglishLine":"that's absolutely fine,"},{"lineNumber":104092,"originalJapaneseLine":"「わたくしが晒した痴態の話は","translatedEnglishLine":"but the story about the disgrace I endured"},{"lineNumber":104093,"originalJapaneseLine":"　絶対の絶対の絶対に避けて頂きたいのです」","translatedEnglishLine":"I absolutely, positively want to avoid being told about it.\""},{"lineNumber":104094,"originalJapaneseLine":"「なんだってまた。","translatedEnglishLine":"\"What on earth? There's nothing to hide here."},{"lineNumber":104095,"originalJapaneseLine":"　隠すようなもんでもなかろう」","translatedEnglishLine":"\""},{"lineNumber":104096,"originalJapaneseLine":"「隠すような話ですわよ！」","translatedEnglishLine":"\"It's definitely something to hide!\""},{"lineNumber":104097,"originalJapaneseLine":"「……とにかく、","translatedEnglishLine":"\"...Anyway,"},{"lineNumber":104098,"originalJapaneseLine":"　絶対に変なことは言わないで下さいましね」","translatedEnglishLine":"please don't say anything weird, okay?\""},{"lineNumber":104099,"originalJapaneseLine":"「あー、はいはい」","translatedEnglishLine":"\"Ah, yeah, yeah.\""},{"lineNumber":104100,"originalJapaneseLine":"「はいはい、ではなく！」","translatedEnglishLine":"\"Not just yeah, yeah!\""},{"lineNumber":104101,"originalJapaneseLine":"「おお、マジの顔……」","translatedEnglishLine":"\"Oh, a serious face...\""},{"lineNumber":104102,"originalJapaneseLine":"「分かった分かった。","translatedEnglishLine":"\"Alright, alright."},{"lineNumber":104103,"originalJapaneseLine":"　適当に誤魔化す」","translatedEnglishLine":"I'll bluff my way through this.\""},{"lineNumber":104104,"originalJapaneseLine":"「お願いいたしますわよ……本当に」","translatedEnglishLine":"\"I earnestly beg you... truly.\""},{"lineNumber":104105,"originalJapaneseLine":"ランス達が戻ると、早速質問攻めにあった。","translatedEnglishLine":"When Rance and the others returned, they were immediately bombarded with questions."},{"lineNumber":104106,"originalJapaneseLine":"「確か二人だけでの潜入任務だったのですよね、","translatedEnglishLine":"\"If I remember correctly, it was a covert mission with just the two of you,"},{"lineNumber":104107,"originalJapaneseLine":"　怖くなかったのですか？」","translatedEnglishLine":"weren't you scared?\""},{"lineNumber":104108,"originalJapaneseLine":"「もちろん不安はありましたが、","translatedEnglishLine":"\"Of course, I was anxious,"},{"lineNumber":104109,"originalJapaneseLine":"　誰かがやらねばならないことでしたから」","translatedEnglishLine":"but it was something that had to be done by someone.\""},{"lineNumber":104110,"originalJapaneseLine":"「ああ、素晴らしいです、お姉様……」","translatedEnglishLine":"\"Ah, that's wonderful, big sister...\""},{"lineNumber":104111,"originalJapaneseLine":"「おほほほ、そんなことありませんわー」","translatedEnglishLine":"\"Oh hohoho, that's not true at all—\""},{"lineNumber":104112,"originalJapaneseLine":"（猫かぶっとるなぁ）","translatedEnglishLine":"(She's putting on an act.)"},{"lineNumber":104113,"originalJapaneseLine":"「でも、どうやって潜入をなされたのですか？」","translatedEnglishLine":"\"But, how exactly did you infiltrate?\""},{"lineNumber":104114,"originalJapaneseLine":"「ふふん、それは俺様の作戦勝ちだな」","translatedEnglishLine":"\"Fufun, that was thanks to my brilliant strategy.\""},{"lineNumber":104115,"originalJapaneseLine":"「潜入する町で行われていた","translatedEnglishLine":"\"In the town we infiltrated,"},{"lineNumber":104116,"originalJapaneseLine":"　ガールズショーなる大会に","translatedEnglishLine":"there was a contest called the Girls Show,"},{"lineNumber":104117,"originalJapaneseLine":"　チルディを出場させたのだ」","translatedEnglishLine":"and I made Tildi participate in it.\""},{"lineNumber":104118,"originalJapaneseLine":"「ガールズショー？」","translatedEnglishLine":"\"Girls Show?\""},{"lineNumber":104119,"originalJapaneseLine":"「うむ、一番素晴らしい穴奴隷を決める大会で――」","translatedEnglishLine":"\"Yes, it's a competition to decide the best hole slave—\""},{"lineNumber":104120,"originalJapaneseLine":"　","translatedEnglishLine":""}]}}
+{
+    "id": "resp_0ea2c12aa7e86f100068f05b0e935c8196b692774225e27fb3",
+    "object": "response",
+    "created_at": 1760582414,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0ea2c12aa7e86f100068f05b0f458881968788e1f5e0118500",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":104071,\"originalJapaneseLine\":\"　是非ヨシフ討伐の話をして頂けませんか？\",\"translatedEnglishLine\":\"Could you please tell us about the defeat of Yosif?\"},{\"lineNumber\":104072,\"originalJapaneseLine\":\"「がははは、良かろう。\",\"translatedEnglishLine\":\"\\\"Gahahaha, very well.\"},{\"lineNumber\":104073,\"originalJapaneseLine\":\"　俺様が微に入り細に入り\",\"translatedEnglishLine\":\"I shall tell you the tale in complete detail,\"},{\"lineNumber\":104074,\"originalJapaneseLine\":\"　英雄譚を聞かせてやろう！」\",\"translatedEnglishLine\":\"the heroic story!\\\"\"},{\"lineNumber\":104075,\"originalJapaneseLine\":\"「きゃあ！　やった！」\",\"translatedEnglishLine\":\"\\\"Kyaa! Yay!\\\"\"},{\"lineNumber\":104076,\"originalJapaneseLine\":\"「わあ、リーザス救国の英雄から\",\"translatedEnglishLine\":\"\\\"Wow, to hear the story from the hero who saved Leazas,\"},{\"lineNumber\":104077,\"originalJapaneseLine\":\"　お話が聞けるなんて！」\",\"translatedEnglishLine\":\"that's amazing!\\\"\"},{\"lineNumber\":104078,\"originalJapaneseLine\":\"（くくく、親衛隊の子は、\",\"translatedEnglishLine\":\"(Hehe, the children of the royal guard,\"},{\"lineNumber\":104079,\"originalJapaneseLine\":\"　お嬢様ばかりだから純真な子が多くていいな）\",\"translatedEnglishLine\":\"all these young ladies, so many innocent girls, that's nice.)\"},{\"lineNumber\":104080,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":104081,\"originalJapaneseLine\":\"「あの、ランスさま。\",\"translatedEnglishLine\":\"\\\"Um, Lord Rance.\"},{\"lineNumber\":104082,\"originalJapaneseLine\":\"　ちょっとこちらへ――」\",\"translatedEnglishLine\":\"Could you come here for a moment—\\\"\"},{\"lineNumber\":104083,\"originalJapaneseLine\":\"「こほん、ランスさま」\",\"translatedEnglishLine\":\"\\\"Ahem, Lord Rance.\\\"\"},{\"lineNumber\":104084,\"originalJapaneseLine\":\"「なんだ？」\",\"translatedEnglishLine\":\"\\\"What is it?\\\"\"},{\"lineNumber\":104085,\"originalJapaneseLine\":\"「……そ、その。\",\"translatedEnglishLine\":\"\\\"...W-well.\"},{\"lineNumber\":104086,\"originalJapaneseLine\":\"　ヨシフとの戦いの顛末に関しては、\",\"translatedEnglishLine\":\"About the outcome of the battle with Yosif,\"},{\"lineNumber\":104087,\"originalJapaneseLine\":\"　どうか内密にして頂きたいのです」\",\"translatedEnglishLine\":\"I beg you to keep it completely confidential.\\\"\"},{\"lineNumber\":104088,\"originalJapaneseLine\":\"「何故だ。\",\"translatedEnglishLine\":\"\\\"Why? Everyone wants to hear about my exploits.\"},{\"lineNumber\":104089,\"originalJapaneseLine\":\"　俺様の活躍を皆も聞きたがってるぞ」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":104090,\"originalJapaneseLine\":\"「……ランスさま個人の活躍の話は\",\"translatedEnglishLine\":\"\\\"...You may talk as much as you like about Lord Rance's personal achievements,\"},{\"lineNumber\":104091,\"originalJapaneseLine\":\"　いくらして頂いても結構なのですが」\",\"translatedEnglishLine\":\"that's absolutely fine,\"},{\"lineNumber\":104092,\"originalJapaneseLine\":\"「わたくしが晒した痴態の話は\",\"translatedEnglishLine\":\"but the story about the disgrace I endured\"},{\"lineNumber\":104093,\"originalJapaneseLine\":\"　絶対の絶対の絶対に避けて頂きたいのです」\",\"translatedEnglishLine\":\"I absolutely, positively want to avoid being told about it.\\\"\"},{\"lineNumber\":104094,\"originalJapaneseLine\":\"「なんだってまた。\",\"translatedEnglishLine\":\"\\\"What on earth? There's nothing to hide here.\"},{\"lineNumber\":104095,\"originalJapaneseLine\":\"　隠すようなもんでもなかろう」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":104096,\"originalJapaneseLine\":\"「隠すような話ですわよ！」\",\"translatedEnglishLine\":\"\\\"It's definitely something to hide!\\\"\"},{\"lineNumber\":104097,\"originalJapaneseLine\":\"「……とにかく、\",\"translatedEnglishLine\":\"\\\"...Anyway,\"},{\"lineNumber\":104098,\"originalJapaneseLine\":\"　絶対に変なことは言わないで下さいましね」\",\"translatedEnglishLine\":\"please don't say anything weird, okay?\\\"\"},{\"lineNumber\":104099,\"originalJapaneseLine\":\"「あー、はいはい」\",\"translatedEnglishLine\":\"\\\"Ah, yeah, yeah.\\\"\"},{\"lineNumber\":104100,\"originalJapaneseLine\":\"「はいはい、ではなく！」\",\"translatedEnglishLine\":\"\\\"Not just yeah, yeah!\\\"\"},{\"lineNumber\":104101,\"originalJapaneseLine\":\"「おお、マジの顔……」\",\"translatedEnglishLine\":\"\\\"Oh, a serious face...\\\"\"},{\"lineNumber\":104102,\"originalJapaneseLine\":\"「分かった分かった。\",\"translatedEnglishLine\":\"\\\"Alright, alright.\"},{\"lineNumber\":104103,\"originalJapaneseLine\":\"　適当に誤魔化す」\",\"translatedEnglishLine\":\"I'll bluff my way through this.\\\"\"},{\"lineNumber\":104104,\"originalJapaneseLine\":\"「お願いいたしますわよ……本当に」\",\"translatedEnglishLine\":\"\\\"I earnestly beg you... truly.\\\"\"},{\"lineNumber\":104105,\"originalJapaneseLine\":\"ランス達が戻ると、早速質問攻めにあった。\",\"translatedEnglishLine\":\"When Rance and the others returned, they were immediately bombarded with questions.\"},{\"lineNumber\":104106,\"originalJapaneseLine\":\"「確か二人だけでの潜入任務だったのですよね、\",\"translatedEnglishLine\":\"\\\"If I remember correctly, it was a covert mission with just the two of you,\"},{\"lineNumber\":104107,\"originalJapaneseLine\":\"　怖くなかったのですか？」\",\"translatedEnglishLine\":\"weren't you scared?\\\"\"},{\"lineNumber\":104108,\"originalJapaneseLine\":\"「もちろん不安はありましたが、\",\"translatedEnglishLine\":\"\\\"Of course, I was anxious,\"},{\"lineNumber\":104109,\"originalJapaneseLine\":\"　誰かがやらねばならないことでしたから」\",\"translatedEnglishLine\":\"but it was something that had to be done by someone.\\\"\"},{\"lineNumber\":104110,\"originalJapaneseLine\":\"「ああ、素晴らしいです、お姉様……」\",\"translatedEnglishLine\":\"\\\"Ah, that's wonderful, big sister...\\\"\"},{\"lineNumber\":104111,\"originalJapaneseLine\":\"「おほほほ、そんなことありませんわー」\",\"translatedEnglishLine\":\"\\\"Oh hohoho, that's not true at all—\\\"\"},{\"lineNumber\":104112,\"originalJapaneseLine\":\"（猫かぶっとるなぁ）\",\"translatedEnglishLine\":\"(She's putting on an act.)\"},{\"lineNumber\":104113,\"originalJapaneseLine\":\"「でも、どうやって潜入をなされたのですか？」\",\"translatedEnglishLine\":\"\\\"But, how exactly did you infiltrate?\\\"\"},{\"lineNumber\":104114,\"originalJapaneseLine\":\"「ふふん、それは俺様の作戦勝ちだな」\",\"translatedEnglishLine\":\"\\\"Fufun, that was thanks to my brilliant strategy.\\\"\"},{\"lineNumber\":104115,\"originalJapaneseLine\":\"「潜入する町で行われていた\",\"translatedEnglishLine\":\"\\\"In the town we infiltrated,\"},{\"lineNumber\":104116,\"originalJapaneseLine\":\"　ガールズショーなる大会に\",\"translatedEnglishLine\":\"there was a contest called the Girls Show,\"},{\"lineNumber\":104117,\"originalJapaneseLine\":\"　チルディを出場させたのだ」\",\"translatedEnglishLine\":\"and I made Tildi participate in it.\\\"\"},{\"lineNumber\":104118,\"originalJapaneseLine\":\"「ガールズショー？」\",\"translatedEnglishLine\":\"\\\"Girls Show?\\\"\"},{\"lineNumber\":104119,\"originalJapaneseLine\":\"「うむ、一番素晴らしい穴奴隷を決める大会で――」\",\"translatedEnglishLine\":\"\\\"Yes, it's a competition to decide the best hole slave—\\\"\"},{\"lineNumber\":104120,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 104071,
+                                "originalJapaneseLine": "　是非ヨシフ討伐の話をして頂けませんか？",
+                                "translatedEnglishLine": "Could you please tell us about the defeat of Yosif?"
+                            },
+                            {
+                                "lineNumber": 104072,
+                                "originalJapaneseLine": "「がははは、良かろう。",
+                                "translatedEnglishLine": "\"Gahahaha, very well."
+                            },
+                            {
+                                "lineNumber": 104073,
+                                "originalJapaneseLine": "　俺様が微に入り細に入り",
+                                "translatedEnglishLine": "I shall tell you the tale in complete detail,"
+                            },
+                            {
+                                "lineNumber": 104074,
+                                "originalJapaneseLine": "　英雄譚を聞かせてやろう！」",
+                                "translatedEnglishLine": "the heroic story!\""
+                            },
+                            {
+                                "lineNumber": 104075,
+                                "originalJapaneseLine": "「きゃあ！　やった！」",
+                                "translatedEnglishLine": "\"Kyaa! Yay!\""
+                            },
+                            {
+                                "lineNumber": 104076,
+                                "originalJapaneseLine": "「わあ、リーザス救国の英雄から",
+                                "translatedEnglishLine": "\"Wow, to hear the story from the hero who saved Leazas,"
+                            },
+                            {
+                                "lineNumber": 104077,
+                                "originalJapaneseLine": "　お話が聞けるなんて！」",
+                                "translatedEnglishLine": "that's amazing!\""
+                            },
+                            {
+                                "lineNumber": 104078,
+                                "originalJapaneseLine": "（くくく、親衛隊の子は、",
+                                "translatedEnglishLine": "(Hehe, the children of the royal guard,"
+                            },
+                            {
+                                "lineNumber": 104079,
+                                "originalJapaneseLine": "　お嬢様ばかりだから純真な子が多くていいな）",
+                                "translatedEnglishLine": "all these young ladies, so many innocent girls, that's nice.)"
+                            },
+                            {
+                                "lineNumber": 104080,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": 104081,
+                                "originalJapaneseLine": "「あの、ランスさま。",
+                                "translatedEnglishLine": "\"Um, Lord Rance."
+                            },
+                            {
+                                "lineNumber": 104082,
+                                "originalJapaneseLine": "　ちょっとこちらへ――」",
+                                "translatedEnglishLine": "Could you come here for a moment—\""
+                            },
+                            {
+                                "lineNumber": 104083,
+                                "originalJapaneseLine": "「こほん、ランスさま」",
+                                "translatedEnglishLine": "\"Ahem, Lord Rance.\""
+                            },
+                            {
+                                "lineNumber": 104084,
+                                "originalJapaneseLine": "「なんだ？」",
+                                "translatedEnglishLine": "\"What is it?\""
+                            },
+                            {
+                                "lineNumber": 104085,
+                                "originalJapaneseLine": "「……そ、その。",
+                                "translatedEnglishLine": "\"...W-well."
+                            },
+                            {
+                                "lineNumber": 104086,
+                                "originalJapaneseLine": "　ヨシフとの戦いの顛末に関しては、",
+                                "translatedEnglishLine": "About the outcome of the battle with Yosif,"
+                            },
+                            {
+                                "lineNumber": 104087,
+                                "originalJapaneseLine": "　どうか内密にして頂きたいのです」",
+                                "translatedEnglishLine": "I beg you to keep it completely confidential.\""
+                            },
+                            {
+                                "lineNumber": 104088,
+                                "originalJapaneseLine": "「何故だ。",
+                                "translatedEnglishLine": "\"Why? Everyone wants to hear about my exploits."
+                            },
+                            {
+                                "lineNumber": 104089,
+                                "originalJapaneseLine": "　俺様の活躍を皆も聞きたがってるぞ」",
+                                "translatedEnglishLine": "\""
+                            },
+                            {
+                                "lineNumber": 104090,
+                                "originalJapaneseLine": "「……ランスさま個人の活躍の話は",
+                                "translatedEnglishLine": "\"...You may talk as much as you like about Lord Rance's personal achievements,"
+                            },
+                            {
+                                "lineNumber": 104091,
+                                "originalJapaneseLine": "　いくらして頂いても結構なのですが」",
+                                "translatedEnglishLine": "that's absolutely fine,"
+                            },
+                            {
+                                "lineNumber": 104092,
+                                "originalJapaneseLine": "「わたくしが晒した痴態の話は",
+                                "translatedEnglishLine": "but the story about the disgrace I endured"
+                            },
+                            {
+                                "lineNumber": 104093,
+                                "originalJapaneseLine": "　絶対の絶対の絶対に避けて頂きたいのです」",
+                                "translatedEnglishLine": "I absolutely, positively want to avoid being told about it.\""
+                            },
+                            {
+                                "lineNumber": 104094,
+                                "originalJapaneseLine": "「なんだってまた。",
+                                "translatedEnglishLine": "\"What on earth? There's nothing to hide here."
+                            },
+                            {
+                                "lineNumber": 104095,
+                                "originalJapaneseLine": "　隠すようなもんでもなかろう」",
+                                "translatedEnglishLine": "\""
+                            },
+                            {
+                                "lineNumber": 104096,
+                                "originalJapaneseLine": "「隠すような話ですわよ！」",
+                                "translatedEnglishLine": "\"It's definitely something to hide!\""
+                            },
+                            {
+                                "lineNumber": 104097,
+                                "originalJapaneseLine": "「……とにかく、",
+                                "translatedEnglishLine": "\"...Anyway,"
+                            },
+                            {
+                                "lineNumber": 104098,
+                                "originalJapaneseLine": "　絶対に変なことは言わないで下さいましね」",
+                                "translatedEnglishLine": "please don't say anything weird, okay?\""
+                            },
+                            {
+                                "lineNumber": 104099,
+                                "originalJapaneseLine": "「あー、はいはい」",
+                                "translatedEnglishLine": "\"Ah, yeah, yeah.\""
+                            },
+                            {
+                                "lineNumber": 104100,
+                                "originalJapaneseLine": "「はいはい、ではなく！」",
+                                "translatedEnglishLine": "\"Not just yeah, yeah!\""
+                            },
+                            {
+                                "lineNumber": 104101,
+                                "originalJapaneseLine": "「おお、マジの顔……」",
+                                "translatedEnglishLine": "\"Oh, a serious face...\""
+                            },
+                            {
+                                "lineNumber": 104102,
+                                "originalJapaneseLine": "「分かった分かった。",
+                                "translatedEnglishLine": "\"Alright, alright."
+                            },
+                            {
+                                "lineNumber": 104103,
+                                "originalJapaneseLine": "　適当に誤魔化す」",
+                                "translatedEnglishLine": "I'll bluff my way through this.\""
+                            },
+                            {
+                                "lineNumber": 104104,
+                                "originalJapaneseLine": "「お願いいたしますわよ……本当に」",
+                                "translatedEnglishLine": "\"I earnestly beg you... truly.\""
+                            },
+                            {
+                                "lineNumber": 104105,
+                                "originalJapaneseLine": "ランス達が戻ると、早速質問攻めにあった。",
+                                "translatedEnglishLine": "When Rance and the others returned, they were immediately bombarded with questions."
+                            },
+                            {
+                                "lineNumber": 104106,
+                                "originalJapaneseLine": "「確か二人だけでの潜入任務だったのですよね、",
+                                "translatedEnglishLine": "\"If I remember correctly, it was a covert mission with just the two of you,"
+                            },
+                            {
+                                "lineNumber": 104107,
+                                "originalJapaneseLine": "　怖くなかったのですか？」",
+                                "translatedEnglishLine": "weren't you scared?\""
+                            },
+                            {
+                                "lineNumber": 104108,
+                                "originalJapaneseLine": "「もちろん不安はありましたが、",
+                                "translatedEnglishLine": "\"Of course, I was anxious,"
+                            },
+                            {
+                                "lineNumber": 104109,
+                                "originalJapaneseLine": "　誰かがやらねばならないことでしたから」",
+                                "translatedEnglishLine": "but it was something that had to be done by someone.\""
+                            },
+                            {
+                                "lineNumber": 104110,
+                                "originalJapaneseLine": "「ああ、素晴らしいです、お姉様……」",
+                                "translatedEnglishLine": "\"Ah, that's wonderful, big sister...\""
+                            },
+                            {
+                                "lineNumber": 104111,
+                                "originalJapaneseLine": "「おほほほ、そんなことありませんわー」",
+                                "translatedEnglishLine": "\"Oh hohoho, that's not true at all—\""
+                            },
+                            {
+                                "lineNumber": 104112,
+                                "originalJapaneseLine": "（猫かぶっとるなぁ）",
+                                "translatedEnglishLine": "(She's putting on an act.)"
+                            },
+                            {
+                                "lineNumber": 104113,
+                                "originalJapaneseLine": "「でも、どうやって潜入をなされたのですか？」",
+                                "translatedEnglishLine": "\"But, how exactly did you infiltrate?\""
+                            },
+                            {
+                                "lineNumber": 104114,
+                                "originalJapaneseLine": "「ふふん、それは俺様の作戦勝ちだな」",
+                                "translatedEnglishLine": "\"Fufun, that was thanks to my brilliant strategy.\""
+                            },
+                            {
+                                "lineNumber": 104115,
+                                "originalJapaneseLine": "「潜入する町で行われていた",
+                                "translatedEnglishLine": "\"In the town we infiltrated,"
+                            },
+                            {
+                                "lineNumber": 104116,
+                                "originalJapaneseLine": "　ガールズショーなる大会に",
+                                "translatedEnglishLine": "there was a contest called the Girls Show,"
+                            },
+                            {
+                                "lineNumber": 104117,
+                                "originalJapaneseLine": "　チルディを出場させたのだ」",
+                                "translatedEnglishLine": "and I made Tildi participate in it.\""
+                            },
+                            {
+                                "lineNumber": 104118,
+                                "originalJapaneseLine": "「ガールズショー？」",
+                                "translatedEnglishLine": "\"Girls Show?\""
+                            },
+                            {
+                                "lineNumber": 104119,
+                                "originalJapaneseLine": "「うむ、一番素晴らしい穴奴隷を決める大会で――」",
+                                "translatedEnglishLine": "\"Yes, it's a competition to decide the best hole slave—\""
+                            },
+                            {
+                                "lineNumber": 104120,
+                                "originalJapaneseLine": "　",
+                                "translatedEnglishLine": ""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1426,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1807,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3233
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":104071,\"originalJapaneseLine\":\"　是非ヨシフ討伐の話をして頂けませんか？\",\"translatedEnglishLine\":\"Could you please tell us about the defeat of Yosif?\"},{\"lineNumber\":104072,\"originalJapaneseLine\":\"「がははは、良かろう。\",\"translatedEnglishLine\":\"\\\"Gahahaha, very well.\"},{\"lineNumber\":104073,\"originalJapaneseLine\":\"　俺様が微に入り細に入り\",\"translatedEnglishLine\":\"I shall tell you the tale in complete detail,\"},{\"lineNumber\":104074,\"originalJapaneseLine\":\"　英雄譚を聞かせてやろう！」\",\"translatedEnglishLine\":\"the heroic story!\\\"\"},{\"lineNumber\":104075,\"originalJapaneseLine\":\"「きゃあ！　やった！」\",\"translatedEnglishLine\":\"\\\"Kyaa! Yay!\\\"\"},{\"lineNumber\":104076,\"originalJapaneseLine\":\"「わあ、リーザス救国の英雄から\",\"translatedEnglishLine\":\"\\\"Wow, to hear the story from the hero who saved Leazas,\"},{\"lineNumber\":104077,\"originalJapaneseLine\":\"　お話が聞けるなんて！」\",\"translatedEnglishLine\":\"that's amazing!\\\"\"},{\"lineNumber\":104078,\"originalJapaneseLine\":\"（くくく、親衛隊の子は、\",\"translatedEnglishLine\":\"(Hehe, the children of the royal guard,\"},{\"lineNumber\":104079,\"originalJapaneseLine\":\"　お嬢様ばかりだから純真な子が多くていいな）\",\"translatedEnglishLine\":\"all these young ladies, so many innocent girls, that's nice.)\"},{\"lineNumber\":104080,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":104081,\"originalJapaneseLine\":\"「あの、ランスさま。\",\"translatedEnglishLine\":\"\\\"Um, Lord Rance.\"},{\"lineNumber\":104082,\"originalJapaneseLine\":\"　ちょっとこちらへ――」\",\"translatedEnglishLine\":\"Could you come here for a moment—\\\"\"},{\"lineNumber\":104083,\"originalJapaneseLine\":\"「こほん、ランスさま」\",\"translatedEnglishLine\":\"\\\"Ahem, Lord Rance.\\\"\"},{\"lineNumber\":104084,\"originalJapaneseLine\":\"「なんだ？」\",\"translatedEnglishLine\":\"\\\"What is it?\\\"\"},{\"lineNumber\":104085,\"originalJapaneseLine\":\"「……そ、その。\",\"translatedEnglishLine\":\"\\\"...W-well.\"},{\"lineNumber\":104086,\"originalJapaneseLine\":\"　ヨシフとの戦いの顛末に関しては、\",\"translatedEnglishLine\":\"About the outcome of the battle with Yosif,\"},{\"lineNumber\":104087,\"originalJapaneseLine\":\"　どうか内密にして頂きたいのです」\",\"translatedEnglishLine\":\"I beg you to keep it completely confidential.\\\"\"},{\"lineNumber\":104088,\"originalJapaneseLine\":\"「何故だ。\",\"translatedEnglishLine\":\"\\\"Why? Everyone wants to hear about my exploits.\"},{\"lineNumber\":104089,\"originalJapaneseLine\":\"　俺様の活躍を皆も聞きたがってるぞ」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":104090,\"originalJapaneseLine\":\"「……ランスさま個人の活躍の話は\",\"translatedEnglishLine\":\"\\\"...You may talk as much as you like about Lord Rance's personal achievements,\"},{\"lineNumber\":104091,\"originalJapaneseLine\":\"　いくらして頂いても結構なのですが」\",\"translatedEnglishLine\":\"that's absolutely fine,\"},{\"lineNumber\":104092,\"originalJapaneseLine\":\"「わたくしが晒した痴態の話は\",\"translatedEnglishLine\":\"but the story about the disgrace I endured\"},{\"lineNumber\":104093,\"originalJapaneseLine\":\"　絶対の絶対の絶対に避けて頂きたいのです」\",\"translatedEnglishLine\":\"I absolutely, positively want to avoid being told about it.\\\"\"},{\"lineNumber\":104094,\"originalJapaneseLine\":\"「なんだってまた。\",\"translatedEnglishLine\":\"\\\"What on earth? There's nothing to hide here.\"},{\"lineNumber\":104095,\"originalJapaneseLine\":\"　隠すようなもんでもなかろう」\",\"translatedEnglishLine\":\"\\\"\"},{\"lineNumber\":104096,\"originalJapaneseLine\":\"「隠すような話ですわよ！」\",\"translatedEnglishLine\":\"\\\"It's definitely something to hide!\\\"\"},{\"lineNumber\":104097,\"originalJapaneseLine\":\"「……とにかく、\",\"translatedEnglishLine\":\"\\\"...Anyway,\"},{\"lineNumber\":104098,\"originalJapaneseLine\":\"　絶対に変なことは言わないで下さいましね」\",\"translatedEnglishLine\":\"please don't say anything weird, okay?\\\"\"},{\"lineNumber\":104099,\"originalJapaneseLine\":\"「あー、はいはい」\",\"translatedEnglishLine\":\"\\\"Ah, yeah, yeah.\\\"\"},{\"lineNumber\":104100,\"originalJapaneseLine\":\"「はいはい、ではなく！」\",\"translatedEnglishLine\":\"\\\"Not just yeah, yeah!\\\"\"},{\"lineNumber\":104101,\"originalJapaneseLine\":\"「おお、マジの顔……」\",\"translatedEnglishLine\":\"\\\"Oh, a serious face...\\\"\"},{\"lineNumber\":104102,\"originalJapaneseLine\":\"「分かった分かった。\",\"translatedEnglishLine\":\"\\\"Alright, alright.\"},{\"lineNumber\":104103,\"originalJapaneseLine\":\"　適当に誤魔化す」\",\"translatedEnglishLine\":\"I'll bluff my way through this.\\\"\"},{\"lineNumber\":104104,\"originalJapaneseLine\":\"「お願いいたしますわよ……本当に」\",\"translatedEnglishLine\":\"\\\"I earnestly beg you... truly.\\\"\"},{\"lineNumber\":104105,\"originalJapaneseLine\":\"ランス達が戻ると、早速質問攻めにあった。\",\"translatedEnglishLine\":\"When Rance and the others returned, they were immediately bombarded with questions.\"},{\"lineNumber\":104106,\"originalJapaneseLine\":\"「確か二人だけでの潜入任務だったのですよね、\",\"translatedEnglishLine\":\"\\\"If I remember correctly, it was a covert mission with just the two of you,\"},{\"lineNumber\":104107,\"originalJapaneseLine\":\"　怖くなかったのですか？」\",\"translatedEnglishLine\":\"weren't you scared?\\\"\"},{\"lineNumber\":104108,\"originalJapaneseLine\":\"「もちろん不安はありましたが、\",\"translatedEnglishLine\":\"\\\"Of course, I was anxious,\"},{\"lineNumber\":104109,\"originalJapaneseLine\":\"　誰かがやらねばならないことでしたから」\",\"translatedEnglishLine\":\"but it was something that had to be done by someone.\\\"\"},{\"lineNumber\":104110,\"originalJapaneseLine\":\"「ああ、素晴らしいです、お姉様……」\",\"translatedEnglishLine\":\"\\\"Ah, that's wonderful, big sister...\\\"\"},{\"lineNumber\":104111,\"originalJapaneseLine\":\"「おほほほ、そんなことありませんわー」\",\"translatedEnglishLine\":\"\\\"Oh hohoho, that's not true at all—\\\"\"},{\"lineNumber\":104112,\"originalJapaneseLine\":\"（猫かぶっとるなぁ）\",\"translatedEnglishLine\":\"(She's putting on an act.)\"},{\"lineNumber\":104113,\"originalJapaneseLine\":\"「でも、どうやって潜入をなされたのですか？」\",\"translatedEnglishLine\":\"\\\"But, how exactly did you infiltrate?\\\"\"},{\"lineNumber\":104114,\"originalJapaneseLine\":\"「ふふん、それは俺様の作戦勝ちだな」\",\"translatedEnglishLine\":\"\\\"Fufun, that was thanks to my brilliant strategy.\\\"\"},{\"lineNumber\":104115,\"originalJapaneseLine\":\"「潜入する町で行われていた\",\"translatedEnglishLine\":\"\\\"In the town we infiltrated,\"},{\"lineNumber\":104116,\"originalJapaneseLine\":\"　ガールズショーなる大会に\",\"translatedEnglishLine\":\"there was a contest called the Girls Show,\"},{\"lineNumber\":104117,\"originalJapaneseLine\":\"　チルディを出場させたのだ」\",\"translatedEnglishLine\":\"and I made Tildi participate in it.\\\"\"},{\"lineNumber\":104118,\"originalJapaneseLine\":\"「ガールズショー？」\",\"translatedEnglishLine\":\"\\\"Girls Show?\\\"\"},{\"lineNumber\":104119,\"originalJapaneseLine\":\"「うむ、一番素晴らしい穴奴隷を決める大会で――」\",\"translatedEnglishLine\":\"\\\"Yes, it's a competition to decide the best hole slave—\\\"\"},{\"lineNumber\":104120,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 104071,
+                "originalJapaneseLine": "　是非ヨシフ討伐の話をして頂けませんか？",
+                "translatedEnglishLine": "Could you please tell us about the defeat of Yosif?"
+            },
+            {
+                "lineNumber": 104072,
+                "originalJapaneseLine": "「がははは、良かろう。",
+                "translatedEnglishLine": "\"Gahahaha, very well."
+            },
+            {
+                "lineNumber": 104073,
+                "originalJapaneseLine": "　俺様が微に入り細に入り",
+                "translatedEnglishLine": "I shall tell you the tale in complete detail,"
+            },
+            {
+                "lineNumber": 104074,
+                "originalJapaneseLine": "　英雄譚を聞かせてやろう！」",
+                "translatedEnglishLine": "the heroic story!\""
+            },
+            {
+                "lineNumber": 104075,
+                "originalJapaneseLine": "「きゃあ！　やった！」",
+                "translatedEnglishLine": "\"Kyaa! Yay!\""
+            },
+            {
+                "lineNumber": 104076,
+                "originalJapaneseLine": "「わあ、リーザス救国の英雄から",
+                "translatedEnglishLine": "\"Wow, to hear the story from the hero who saved Leazas,"
+            },
+            {
+                "lineNumber": 104077,
+                "originalJapaneseLine": "　お話が聞けるなんて！」",
+                "translatedEnglishLine": "that's amazing!\""
+            },
+            {
+                "lineNumber": 104078,
+                "originalJapaneseLine": "（くくく、親衛隊の子は、",
+                "translatedEnglishLine": "(Hehe, the children of the royal guard,"
+            },
+            {
+                "lineNumber": 104079,
+                "originalJapaneseLine": "　お嬢様ばかりだから純真な子が多くていいな）",
+                "translatedEnglishLine": "all these young ladies, so many innocent girls, that's nice.)"
+            },
+            {
+                "lineNumber": 104080,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": 104081,
+                "originalJapaneseLine": "「あの、ランスさま。",
+                "translatedEnglishLine": "\"Um, Lord Rance."
+            },
+            {
+                "lineNumber": 104082,
+                "originalJapaneseLine": "　ちょっとこちらへ――」",
+                "translatedEnglishLine": "Could you come here for a moment—\""
+            },
+            {
+                "lineNumber": 104083,
+                "originalJapaneseLine": "「こほん、ランスさま」",
+                "translatedEnglishLine": "\"Ahem, Lord Rance.\""
+            },
+            {
+                "lineNumber": 104084,
+                "originalJapaneseLine": "「なんだ？」",
+                "translatedEnglishLine": "\"What is it?\""
+            },
+            {
+                "lineNumber": 104085,
+                "originalJapaneseLine": "「……そ、その。",
+                "translatedEnglishLine": "\"...W-well."
+            },
+            {
+                "lineNumber": 104086,
+                "originalJapaneseLine": "　ヨシフとの戦いの顛末に関しては、",
+                "translatedEnglishLine": "About the outcome of the battle with Yosif,"
+            },
+            {
+                "lineNumber": 104087,
+                "originalJapaneseLine": "　どうか内密にして頂きたいのです」",
+                "translatedEnglishLine": "I beg you to keep it completely confidential.\""
+            },
+            {
+                "lineNumber": 104088,
+                "originalJapaneseLine": "「何故だ。",
+                "translatedEnglishLine": "\"Why? Everyone wants to hear about my exploits."
+            },
+            {
+                "lineNumber": 104089,
+                "originalJapaneseLine": "　俺様の活躍を皆も聞きたがってるぞ」",
+                "translatedEnglishLine": "\""
+            },
+            {
+                "lineNumber": 104090,
+                "originalJapaneseLine": "「……ランスさま個人の活躍の話は",
+                "translatedEnglishLine": "\"...You may talk as much as you like about Lord Rance's personal achievements,"
+            },
+            {
+                "lineNumber": 104091,
+                "originalJapaneseLine": "　いくらして頂いても結構なのですが」",
+                "translatedEnglishLine": "that's absolutely fine,"
+            },
+            {
+                "lineNumber": 104092,
+                "originalJapaneseLine": "「わたくしが晒した痴態の話は",
+                "translatedEnglishLine": "but the story about the disgrace I endured"
+            },
+            {
+                "lineNumber": 104093,
+                "originalJapaneseLine": "　絶対の絶対の絶対に避けて頂きたいのです」",
+                "translatedEnglishLine": "I absolutely, positively want to avoid being told about it.\""
+            },
+            {
+                "lineNumber": 104094,
+                "originalJapaneseLine": "「なんだってまた。",
+                "translatedEnglishLine": "\"What on earth? There's nothing to hide here."
+            },
+            {
+                "lineNumber": 104095,
+                "originalJapaneseLine": "　隠すようなもんでもなかろう」",
+                "translatedEnglishLine": "\""
+            },
+            {
+                "lineNumber": 104096,
+                "originalJapaneseLine": "「隠すような話ですわよ！」",
+                "translatedEnglishLine": "\"It's definitely something to hide!\""
+            },
+            {
+                "lineNumber": 104097,
+                "originalJapaneseLine": "「……とにかく、",
+                "translatedEnglishLine": "\"...Anyway,"
+            },
+            {
+                "lineNumber": 104098,
+                "originalJapaneseLine": "　絶対に変なことは言わないで下さいましね」",
+                "translatedEnglishLine": "please don't say anything weird, okay?\""
+            },
+            {
+                "lineNumber": 104099,
+                "originalJapaneseLine": "「あー、はいはい」",
+                "translatedEnglishLine": "\"Ah, yeah, yeah.\""
+            },
+            {
+                "lineNumber": 104100,
+                "originalJapaneseLine": "「はいはい、ではなく！」",
+                "translatedEnglishLine": "\"Not just yeah, yeah!\""
+            },
+            {
+                "lineNumber": 104101,
+                "originalJapaneseLine": "「おお、マジの顔……」",
+                "translatedEnglishLine": "\"Oh, a serious face...\""
+            },
+            {
+                "lineNumber": 104102,
+                "originalJapaneseLine": "「分かった分かった。",
+                "translatedEnglishLine": "\"Alright, alright."
+            },
+            {
+                "lineNumber": 104103,
+                "originalJapaneseLine": "　適当に誤魔化す」",
+                "translatedEnglishLine": "I'll bluff my way through this.\""
+            },
+            {
+                "lineNumber": 104104,
+                "originalJapaneseLine": "「お願いいたしますわよ……本当に」",
+                "translatedEnglishLine": "\"I earnestly beg you... truly.\""
+            },
+            {
+                "lineNumber": 104105,
+                "originalJapaneseLine": "ランス達が戻ると、早速質問攻めにあった。",
+                "translatedEnglishLine": "When Rance and the others returned, they were immediately bombarded with questions."
+            },
+            {
+                "lineNumber": 104106,
+                "originalJapaneseLine": "「確か二人だけでの潜入任務だったのですよね、",
+                "translatedEnglishLine": "\"If I remember correctly, it was a covert mission with just the two of you,"
+            },
+            {
+                "lineNumber": 104107,
+                "originalJapaneseLine": "　怖くなかったのですか？」",
+                "translatedEnglishLine": "weren't you scared?\""
+            },
+            {
+                "lineNumber": 104108,
+                "originalJapaneseLine": "「もちろん不安はありましたが、",
+                "translatedEnglishLine": "\"Of course, I was anxious,"
+            },
+            {
+                "lineNumber": 104109,
+                "originalJapaneseLine": "　誰かがやらねばならないことでしたから」",
+                "translatedEnglishLine": "but it was something that had to be done by someone.\""
+            },
+            {
+                "lineNumber": 104110,
+                "originalJapaneseLine": "「ああ、素晴らしいです、お姉様……」",
+                "translatedEnglishLine": "\"Ah, that's wonderful, big sister...\""
+            },
+            {
+                "lineNumber": 104111,
+                "originalJapaneseLine": "「おほほほ、そんなことありませんわー」",
+                "translatedEnglishLine": "\"Oh hohoho, that's not true at all—\""
+            },
+            {
+                "lineNumber": 104112,
+                "originalJapaneseLine": "（猫かぶっとるなぁ）",
+                "translatedEnglishLine": "(She's putting on an act.)"
+            },
+            {
+                "lineNumber": 104113,
+                "originalJapaneseLine": "「でも、どうやって潜入をなされたのですか？」",
+                "translatedEnglishLine": "\"But, how exactly did you infiltrate?\""
+            },
+            {
+                "lineNumber": 104114,
+                "originalJapaneseLine": "「ふふん、それは俺様の作戦勝ちだな」",
+                "translatedEnglishLine": "\"Fufun, that was thanks to my brilliant strategy.\""
+            },
+            {
+                "lineNumber": 104115,
+                "originalJapaneseLine": "「潜入する町で行われていた",
+                "translatedEnglishLine": "\"In the town we infiltrated,"
+            },
+            {
+                "lineNumber": 104116,
+                "originalJapaneseLine": "　ガールズショーなる大会に",
+                "translatedEnglishLine": "there was a contest called the Girls Show,"
+            },
+            {
+                "lineNumber": 104117,
+                "originalJapaneseLine": "　チルディを出場させたのだ」",
+                "translatedEnglishLine": "and I made Tildi participate in it.\""
+            },
+            {
+                "lineNumber": 104118,
+                "originalJapaneseLine": "「ガールズショー？」",
+                "translatedEnglishLine": "\"Girls Show?\""
+            },
+            {
+                "lineNumber": 104119,
+                "originalJapaneseLine": "「うむ、一番素晴らしい穴奴隷を決める大会で――」",
+                "translatedEnglishLine": "\"Yes, it's a competition to decide the best hole slave—\""
+            },
+            {
+                "lineNumber": 104120,
+                "originalJapaneseLine": "　",
+                "translatedEnglishLine": ""
+            }
+        ]
+    }
+}

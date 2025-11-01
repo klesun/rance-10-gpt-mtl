@@ -1,1 +1,719 @@
-{"id":"resp_0022d9b5a84be9690068f241b8aba081938d54bbaa86146a4a","object":"response","created_at":1760707000,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0022d9b5a84be9690068f241b8eb78819387664b4c40a13683","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":254752,\"originalJapaneseLine\":\"残念だったな、ここは鍾乳洞の中だぞ、自由には飛べまい\",\"translatedEnglishLine\":\"Too bad, this is inside a limestone cave, you can't fly freely here.\"},{\"lineNumber\":254753,\"originalJapaneseLine\":\"むむ・・・\",\"translatedEnglishLine\":\"Hmm...\"},{\"lineNumber\":254754,\"originalJapaneseLine\":\"（こうして前回の戦闘で苦戦したハウゼルの飛行が封じられる）\",\"translatedEnglishLine\":\"(Thus, Howzer's flying, which had struggled in the previous battle, is sealed off.)\"},{\"lineNumber\":254755,\"originalJapaneseLine\":\"戦闘中の割り込みイベント　第２ターン\",\"translatedEnglishLine\":\"Interrupt event during battle - Turn 2\"},{\"lineNumber\":254756,\"originalJapaneseLine\":\"ハウゼルが得意の火炎攻撃をしようとした時\",\"translatedEnglishLine\":\"When Howzer tried to use his specialty, the flame attack,\"},{\"lineNumber\":254757,\"originalJapaneseLine\":\"おーーっと、ここにあるのは貴重な本だぞ、燃えてしまったらもう二度と\",\"translatedEnglishLine\":\"Oh—wait, this is a valuable book here. If it burns, it will never be available again.\"},{\"lineNumber\":254758,\"originalJapaneseLine\":\"手に入らない、いいのかなぁ、燃やしてしまっても・・\",\"translatedEnglishLine\":\"You can't get it anywhere else. Is it really okay to burn it...?\"},{\"lineNumber\":254759,\"originalJapaneseLine\":\"ぐぬぬぬ・・\",\"translatedEnglishLine\":\"Grrrr...\"},{\"lineNumber\":254760,\"originalJapaneseLine\":\"（こうして前回の戦闘で苦戦したハウゼルの火炎攻撃が封じられる）\",\"translatedEnglishLine\":\"(Thus, Howzer's flame attack, which had struggled in the previous battle, is sealed off.)\"},{\"lineNumber\":254761,\"originalJapaneseLine\":\"戦闘中の割り込みイベント　ハウゼル体力４０％以下\",\"translatedEnglishLine\":\"Interrupt event during battle - Howzer's HP below 40%\"},{\"lineNumber\":254762,\"originalJapaneseLine\":\"炎、飛行を封じられだいぶピンチ\",\"translatedEnglishLine\":\"With flames and flying sealed off, he's in quite a pinch.\"},{\"lineNumber\":254763,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":254764,\"originalJapaneseLine\":\"ぐっ・・・このままでは、そうだ逃げよう\",\"translatedEnglishLine\":\"Ugh... at this rate, that's right, I should run away.\"},{\"lineNumber\":254765,\"originalJapaneseLine\":\"とハウゼルが洞窟の出口に向かおうとすると\",\"translatedEnglishLine\":\"As Howzer attempts to head toward the cave exit,\"},{\"lineNumber\":254766,\"originalJapaneseLine\":\"サクラ「あっ、ドラゴンパッチ７巻の残りわずかみたいだわ\",\"translatedEnglishLine\":\"Sakura: \\\"Ah, it looks like there are only a few copies left of Dragon Patch Volume 7.\\\"\"},{\"lineNumber\":254767,\"originalJapaneseLine\":\"　　　　こんな戦いが始まって逃げ出したいけど、今並んでおかないと\",\"translatedEnglishLine\":\"I've got this fight starting and want to run away, but if I don't line up now,\"},{\"lineNumber\":254768,\"originalJapaneseLine\":\"　　　　２度と手に入らないわ」棒読み、　ネタ＝文字通りサクラ\",\"translatedEnglishLine\":\"I'll never get it again.\\\" Monotone delivery, joke = literally Sakura.\"},{\"lineNumber\":254769,\"originalJapaneseLine\":\"ハウゼルは本が気になって逃げれない。\",\"translatedEnglishLine\":\"Howzer can't run away because he's concerned about the book.\"},{\"lineNumber\":254770,\"originalJapaneseLine\":\"なんとか倒して捕まえる。\",\"translatedEnglishLine\":\"Somehow, defeat him and capture him.\"},{\"lineNumber\":254771,\"originalJapaneseLine\":\"卑怯ですと文句を言うハウゼルだが、カオスを突きつけられてそれまで\",\"translatedEnglishLine\":\"Howzer complains it's unfair, but when Chaos is threatened, he stops.\"},{\"lineNumber\":254772,\"originalJapaneseLine\":\"負けました・・せめて、死ぬ前にあの本を見せて下さい。\",\"translatedEnglishLine\":\"I've lost... At least, please let me see that book before I die.\"},{\"lineNumber\":254773,\"originalJapaneseLine\":\"それを見て・・あわあわと困るドエススキー、そこまでわしの本を・・\",\"translatedEnglishLine\":\"Seeing that... Doessky flustered and troubled, 'My book... to that extent...'\"},{\"lineNumber\":254774,\"originalJapaneseLine\":\"しかし、わしはなんて事をと・・作家苦悩とか\",\"translatedEnglishLine\":\"But what have I done... writer's anguish and such.\"},{\"lineNumber\":254775,\"originalJapaneseLine\":\"そんなのは無視してランスの決断\",\"translatedEnglishLine\":\"Ignoring all that, Rance's decision.\"},{\"lineNumber\":254776,\"originalJapaneseLine\":\"＞選択\",\"translatedEnglishLine\":\"> Choice\"},{\"lineNumber\":254777,\"originalJapaneseLine\":\"＞本を見せる\",\"translatedEnglishLine\":\"> Show the book\"},{\"lineNumber\":254778,\"originalJapaneseLine\":\"＞本を見せない\",\"translatedEnglishLine\":\"> Don't show the book\"},{\"lineNumber\":254779,\"originalJapaneseLine\":\"＞本を見せる\",\"translatedEnglishLine\":\"> Show the book\"},{\"lineNumber\":254780,\"originalJapaneseLine\":\"しばらく読むとハウゼルが怒る、なんだ・・これは・・\",\"translatedEnglishLine\":\"After reading for a while, Howzer gets angry, 'What... is this...?'\"},{\"lineNumber\":254781,\"originalJapaneseLine\":\"時間が無いドエススキーに適当にかかせたので無茶苦茶。\",\"translatedEnglishLine\":\"It was written messily because Doessky made it hastily without time.\"},{\"lineNumber\":254782,\"originalJapaneseLine\":\"もしくは白紙\",\"translatedEnglishLine\":\"Or it might be blank.\"},{\"lineNumber\":254783,\"originalJapaneseLine\":\"怒ったハウゼルにランス達は焼き殺されます\",\"translatedEnglishLine\":\"If Howzer gets angry, Rance and the others will be burned to death.\"},{\"lineNumber\":254784,\"originalJapaneseLine\":\"＞本を見せない\",\"translatedEnglishLine\":\"> Don't show the book\"},{\"lineNumber\":254785,\"originalJapaneseLine\":\"残念だな、お前もみただろう、２００名以上が並んでいた。\",\"translatedEnglishLine\":\"Too bad, you saw it too, right? Over 200 people were lined up.\"},{\"lineNumber\":254786,\"originalJapaneseLine\":\"とっくに売れてしまったわ。\",\"translatedEnglishLine\":\"It's already sold out long ago.\"},{\"lineNumber\":254787,\"originalJapaneseLine\":\"くっ・・・朝一で並んだのに・・\",\"translatedEnglishLine\":\"Ugh... even though I lined up first thing in the morning...\"},{\"lineNumber\":254788,\"originalJapaneseLine\":\"ま、任せろ、俺がどこかから奪い取ってきてやる。\",\"translatedEnglishLine\":\"Well, leave it to me, I'll snatch one from somewhere.\"},{\"lineNumber\":254789,\"originalJapaneseLine\":\"ほ、ほんとうなのか・・と　懐く\",\"translatedEnglishLine\":\"Reassured: \\\"R-Really...?\\\" and warms up.\"},{\"lineNumber\":254790,\"originalJapaneseLine\":\"俺の城に来い\",\"translatedEnglishLine\":\"Come to my castle.\"},{\"lineNumber\":254791,\"originalJapaneseLine\":\"わかった\",\"translatedEnglishLine\":\"Got it.\"},{\"lineNumber\":254792,\"originalJapaneseLine\":\"その頃、北部の戦場、魔軍司令部\",\"translatedEnglishLine\":\"At that time, northern battlefield, demon army headquarters.\"},{\"lineNumber\":254793,\"originalJapaneseLine\":\"魔物将軍、なんだと・・ハウゼルが人間共に捕まっただと・・\",\"translatedEnglishLine\":\"Demon general: What... Howzer was captured by the humans...?\"},{\"lineNumber\":254794,\"originalJapaneseLine\":\"火炎書士の報告聞く\",\"translatedEnglishLine\":\"Listens to the report from the flame scribe.\"},{\"lineNumber\":254795,\"originalJapaneseLine\":\"それを窓の外から来ているサイゼル\",\"translatedEnglishLine\":\"Saizel, coming from outside the window.\"},{\"lineNumber\":254796,\"originalJapaneseLine\":\"えっ、ハウゼルが捕まった・・て、あのカオスを持つ男にて事・・\",\"translatedEnglishLine\":\"Eh, Howzer was captured... by that man who wields Chaos...?\"},{\"lineNumber\":254797,\"originalJapaneseLine\":\"ガクガク、ぶるぶる・・・ハウゼルが無事なはずが無い・・・あの男に\",\"translatedEnglishLine\":\"Shaking uncontrollably... There's no way Howzer is safe... with that man.\"},{\"lineNumber\":254798,\"originalJapaneseLine\":\"ひどい事をされている、た、助けないと・・でも、怖い\",\"translatedEnglishLine\":\"He's being treated terribly, I-I've got to help him... but I'm scared.\"},{\"lineNumber\":254799,\"originalJapaneseLine\":\"どうしよう、魔物大将軍ヨシフ様に怒られる\",\"translatedEnglishLine\":\"What should I do? Demon General Yoshif will get angry.\"},{\"lineNumber\":254800,\"originalJapaneseLine\":\"魔物将軍はヨシフをとことん恐れている、そしてわれ先にと逃げ出す\",\"translatedEnglishLine\":\"The demon general fears Yoshif thoroughly, and they hurry to escape.\"},{\"lineNumber\":254801,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":254802,\"originalJapaneseLine\":\"３軍、４軍の司令部\",\"translatedEnglishLine\":\"Headquarters of the 3rd and 4th armies.\"},{\"lineNumber\":254803,\"originalJapaneseLine\":\"おかしいな、魔軍が止まったぞ、なんか動揺しているようだ\",\"translatedEnglishLine\":\"That's strange, the demon army has stopped. They seem shaken.\"},{\"lineNumber\":254804,\"originalJapaneseLine\":\"よし、いっきにいくぞーと\",\"translatedEnglishLine\":\"Alright, let's go all at once!\"},{\"lineNumber\":254805,\"originalJapaneseLine\":\"リーザス軍がいっきに盛り返すシーン\",\"translatedEnglishLine\":\"Scene where the Lizas army quickly recovers.\"},{\"lineNumber\":254806,\"originalJapaneseLine\":\"ランス城\",\"translatedEnglishLine\":\"Rance Castle.\"},{\"lineNumber\":254807,\"originalJapaneseLine\":\"サチコに図書室を案内されてご満悦なハウゼル\",\"translatedEnglishLine\":\"Howzer is delighted as Sachiko guides him through the library.\"},{\"lineNumber\":254808,\"originalJapaneseLine\":\"そこに、火炎司書が現れる。\",\"translatedEnglishLine\":\"Then, the Flame Scribe appears.\"},{\"lineNumber\":254809,\"originalJapaneseLine\":\"カオスに殺されているかと思ったけど無事だったのね\",\"translatedEnglishLine\":\"I thought you’d been killed by Chaos, but you’re safe.\"},{\"lineNumber\":254810,\"originalJapaneseLine\":\"さぁ、戻りましょう、\",\"translatedEnglishLine\":\"Come on, let’s go back.\"},{\"lineNumber\":254811,\"originalJapaneseLine\":\"ケイブリス様の命令に従わないとホーネット様が殺されてしまいますよ\",\"translatedEnglishLine\":\"If we don't obey Lord Kaibris's orders, Lord Hornet will be killed.\"}]}","parsed":{"translationLines":[{"lineNumber":254752,"originalJapaneseLine":"残念だったな、ここは鍾乳洞の中だぞ、自由には飛べまい","translatedEnglishLine":"Too bad, this is inside a limestone cave, you can't fly freely here."},{"lineNumber":254753,"originalJapaneseLine":"むむ・・・","translatedEnglishLine":"Hmm..."},{"lineNumber":254754,"originalJapaneseLine":"（こうして前回の戦闘で苦戦したハウゼルの飛行が封じられる）","translatedEnglishLine":"(Thus, Howzer's flying, which had struggled in the previous battle, is sealed off.)"},{"lineNumber":254755,"originalJapaneseLine":"戦闘中の割り込みイベント　第２ターン","translatedEnglishLine":"Interrupt event during battle - Turn 2"},{"lineNumber":254756,"originalJapaneseLine":"ハウゼルが得意の火炎攻撃をしようとした時","translatedEnglishLine":"When Howzer tried to use his specialty, the flame attack,"},{"lineNumber":254757,"originalJapaneseLine":"おーーっと、ここにあるのは貴重な本だぞ、燃えてしまったらもう二度と","translatedEnglishLine":"Oh—wait, this is a valuable book here. If it burns, it will never be available again."},{"lineNumber":254758,"originalJapaneseLine":"手に入らない、いいのかなぁ、燃やしてしまっても・・","translatedEnglishLine":"You can't get it anywhere else. Is it really okay to burn it...?"},{"lineNumber":254759,"originalJapaneseLine":"ぐぬぬぬ・・","translatedEnglishLine":"Grrrr..."},{"lineNumber":254760,"originalJapaneseLine":"（こうして前回の戦闘で苦戦したハウゼルの火炎攻撃が封じられる）","translatedEnglishLine":"(Thus, Howzer's flame attack, which had struggled in the previous battle, is sealed off.)"},{"lineNumber":254761,"originalJapaneseLine":"戦闘中の割り込みイベント　ハウゼル体力４０％以下","translatedEnglishLine":"Interrupt event during battle - Howzer's HP below 40%"},{"lineNumber":254762,"originalJapaneseLine":"炎、飛行を封じられだいぶピンチ","translatedEnglishLine":"With flames and flying sealed off, he's in quite a pinch."},{"lineNumber":254763,"originalJapaneseLine":"　","translatedEnglishLine":""},{"lineNumber":254764,"originalJapaneseLine":"ぐっ・・・このままでは、そうだ逃げよう","translatedEnglishLine":"Ugh... at this rate, that's right, I should run away."},{"lineNumber":254765,"originalJapaneseLine":"とハウゼルが洞窟の出口に向かおうとすると","translatedEnglishLine":"As Howzer attempts to head toward the cave exit,"},{"lineNumber":254766,"originalJapaneseLine":"サクラ「あっ、ドラゴンパッチ７巻の残りわずかみたいだわ","translatedEnglishLine":"Sakura: \"Ah, it looks like there are only a few copies left of Dragon Patch Volume 7.\""},{"lineNumber":254767,"originalJapaneseLine":"　　　　こんな戦いが始まって逃げ出したいけど、今並んでおかないと","translatedEnglishLine":"I've got this fight starting and want to run away, but if I don't line up now,"},{"lineNumber":254768,"originalJapaneseLine":"　　　　２度と手に入らないわ」棒読み、　ネタ＝文字通りサクラ","translatedEnglishLine":"I'll never get it again.\" Monotone delivery, joke = literally Sakura."},{"lineNumber":254769,"originalJapaneseLine":"ハウゼルは本が気になって逃げれない。","translatedEnglishLine":"Howzer can't run away because he's concerned about the book."},{"lineNumber":254770,"originalJapaneseLine":"なんとか倒して捕まえる。","translatedEnglishLine":"Somehow, defeat him and capture him."},{"lineNumber":254771,"originalJapaneseLine":"卑怯ですと文句を言うハウゼルだが、カオスを突きつけられてそれまで","translatedEnglishLine":"Howzer complains it's unfair, but when Chaos is threatened, he stops."},{"lineNumber":254772,"originalJapaneseLine":"負けました・・せめて、死ぬ前にあの本を見せて下さい。","translatedEnglishLine":"I've lost... At least, please let me see that book before I die."},{"lineNumber":254773,"originalJapaneseLine":"それを見て・・あわあわと困るドエススキー、そこまでわしの本を・・","translatedEnglishLine":"Seeing that... Doessky flustered and troubled, 'My book... to that extent...'"},{"lineNumber":254774,"originalJapaneseLine":"しかし、わしはなんて事をと・・作家苦悩とか","translatedEnglishLine":"But what have I done... writer's anguish and such."},{"lineNumber":254775,"originalJapaneseLine":"そんなのは無視してランスの決断","translatedEnglishLine":"Ignoring all that, Rance's decision."},{"lineNumber":254776,"originalJapaneseLine":"＞選択","translatedEnglishLine":"> Choice"},{"lineNumber":254777,"originalJapaneseLine":"＞本を見せる","translatedEnglishLine":"> Show the book"},{"lineNumber":254778,"originalJapaneseLine":"＞本を見せない","translatedEnglishLine":"> Don't show the book"},{"lineNumber":254779,"originalJapaneseLine":"＞本を見せる","translatedEnglishLine":"> Show the book"},{"lineNumber":254780,"originalJapaneseLine":"しばらく読むとハウゼルが怒る、なんだ・・これは・・","translatedEnglishLine":"After reading for a while, Howzer gets angry, 'What... is this...?'"},{"lineNumber":254781,"originalJapaneseLine":"時間が無いドエススキーに適当にかかせたので無茶苦茶。","translatedEnglishLine":"It was written messily because Doessky made it hastily without time."},{"lineNumber":254782,"originalJapaneseLine":"もしくは白紙","translatedEnglishLine":"Or it might be blank."},{"lineNumber":254783,"originalJapaneseLine":"怒ったハウゼルにランス達は焼き殺されます","translatedEnglishLine":"If Howzer gets angry, Rance and the others will be burned to death."},{"lineNumber":254784,"originalJapaneseLine":"＞本を見せない","translatedEnglishLine":"> Don't show the book"},{"lineNumber":254785,"originalJapaneseLine":"残念だな、お前もみただろう、２００名以上が並んでいた。","translatedEnglishLine":"Too bad, you saw it too, right? Over 200 people were lined up."},{"lineNumber":254786,"originalJapaneseLine":"とっくに売れてしまったわ。","translatedEnglishLine":"It's already sold out long ago."},{"lineNumber":254787,"originalJapaneseLine":"くっ・・・朝一で並んだのに・・","translatedEnglishLine":"Ugh... even though I lined up first thing in the morning..."},{"lineNumber":254788,"originalJapaneseLine":"ま、任せろ、俺がどこかから奪い取ってきてやる。","translatedEnglishLine":"Well, leave it to me, I'll snatch one from somewhere."},{"lineNumber":254789,"originalJapaneseLine":"ほ、ほんとうなのか・・と　懐く","translatedEnglishLine":"Reassured: \"R-Really...?\" and warms up."},{"lineNumber":254790,"originalJapaneseLine":"俺の城に来い","translatedEnglishLine":"Come to my castle."},{"lineNumber":254791,"originalJapaneseLine":"わかった","translatedEnglishLine":"Got it."},{"lineNumber":254792,"originalJapaneseLine":"その頃、北部の戦場、魔軍司令部","translatedEnglishLine":"At that time, northern battlefield, demon army headquarters."},{"lineNumber":254793,"originalJapaneseLine":"魔物将軍、なんだと・・ハウゼルが人間共に捕まっただと・・","translatedEnglishLine":"Demon general: What... Howzer was captured by the humans...?"},{"lineNumber":254794,"originalJapaneseLine":"火炎書士の報告聞く","translatedEnglishLine":"Listens to the report from the flame scribe."},{"lineNumber":254795,"originalJapaneseLine":"それを窓の外から来ているサイゼル","translatedEnglishLine":"Saizel, coming from outside the window."},{"lineNumber":254796,"originalJapaneseLine":"えっ、ハウゼルが捕まった・・て、あのカオスを持つ男にて事・・","translatedEnglishLine":"Eh, Howzer was captured... by that man who wields Chaos...?"},{"lineNumber":254797,"originalJapaneseLine":"ガクガク、ぶるぶる・・・ハウゼルが無事なはずが無い・・・あの男に","translatedEnglishLine":"Shaking uncontrollably... There's no way Howzer is safe... with that man."},{"lineNumber":254798,"originalJapaneseLine":"ひどい事をされている、た、助けないと・・でも、怖い","translatedEnglishLine":"He's being treated terribly, I-I've got to help him... but I'm scared."},{"lineNumber":254799,"originalJapaneseLine":"どうしよう、魔物大将軍ヨシフ様に怒られる","translatedEnglishLine":"What should I do? Demon General Yoshif will get angry."},{"lineNumber":254800,"originalJapaneseLine":"魔物将軍はヨシフをとことん恐れている、そしてわれ先にと逃げ出す","translatedEnglishLine":"The demon general fears Yoshif thoroughly, and they hurry to escape."},{"lineNumber":254801,"originalJapaneseLine":"　","translatedEnglishLine":""},{"lineNumber":254802,"originalJapaneseLine":"３軍、４軍の司令部","translatedEnglishLine":"Headquarters of the 3rd and 4th armies."},{"lineNumber":254803,"originalJapaneseLine":"おかしいな、魔軍が止まったぞ、なんか動揺しているようだ","translatedEnglishLine":"That's strange, the demon army has stopped. They seem shaken."},{"lineNumber":254804,"originalJapaneseLine":"よし、いっきにいくぞーと","translatedEnglishLine":"Alright, let's go all at once!"},{"lineNumber":254805,"originalJapaneseLine":"リーザス軍がいっきに盛り返すシーン","translatedEnglishLine":"Scene where the Lizas army quickly recovers."},{"lineNumber":254806,"originalJapaneseLine":"ランス城","translatedEnglishLine":"Rance Castle."},{"lineNumber":254807,"originalJapaneseLine":"サチコに図書室を案内されてご満悦なハウゼル","translatedEnglishLine":"Howzer is delighted as Sachiko guides him through the library."},{"lineNumber":254808,"originalJapaneseLine":"そこに、火炎司書が現れる。","translatedEnglishLine":"Then, the Flame Scribe appears."},{"lineNumber":254809,"originalJapaneseLine":"カオスに殺されているかと思ったけど無事だったのね","translatedEnglishLine":"I thought you’d been killed by Chaos, but you’re safe."},{"lineNumber":254810,"originalJapaneseLine":"さぁ、戻りましょう、","translatedEnglishLine":"Come on, let’s go back."},{"lineNumber":254811,"originalJapaneseLine":"ケイブリス様の命令に従わないとホーネット様が殺されてしまいますよ","translatedEnglishLine":"If we don't obey Lord Kaibris's orders, Lord Hornet will be killed."}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1929,"input_tokens_details":{"cached_tokens":0},"output_tokens":2606,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":4535},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":254752,\"originalJapaneseLine\":\"残念だったな、ここは鍾乳洞の中だぞ、自由には飛べまい\",\"translatedEnglishLine\":\"Too bad, this is inside a limestone cave, you can't fly freely here.\"},{\"lineNumber\":254753,\"originalJapaneseLine\":\"むむ・・・\",\"translatedEnglishLine\":\"Hmm...\"},{\"lineNumber\":254754,\"originalJapaneseLine\":\"（こうして前回の戦闘で苦戦したハウゼルの飛行が封じられる）\",\"translatedEnglishLine\":\"(Thus, Howzer's flying, which had struggled in the previous battle, is sealed off.)\"},{\"lineNumber\":254755,\"originalJapaneseLine\":\"戦闘中の割り込みイベント　第２ターン\",\"translatedEnglishLine\":\"Interrupt event during battle - Turn 2\"},{\"lineNumber\":254756,\"originalJapaneseLine\":\"ハウゼルが得意の火炎攻撃をしようとした時\",\"translatedEnglishLine\":\"When Howzer tried to use his specialty, the flame attack,\"},{\"lineNumber\":254757,\"originalJapaneseLine\":\"おーーっと、ここにあるのは貴重な本だぞ、燃えてしまったらもう二度と\",\"translatedEnglishLine\":\"Oh—wait, this is a valuable book here. If it burns, it will never be available again.\"},{\"lineNumber\":254758,\"originalJapaneseLine\":\"手に入らない、いいのかなぁ、燃やしてしまっても・・\",\"translatedEnglishLine\":\"You can't get it anywhere else. Is it really okay to burn it...?\"},{\"lineNumber\":254759,\"originalJapaneseLine\":\"ぐぬぬぬ・・\",\"translatedEnglishLine\":\"Grrrr...\"},{\"lineNumber\":254760,\"originalJapaneseLine\":\"（こうして前回の戦闘で苦戦したハウゼルの火炎攻撃が封じられる）\",\"translatedEnglishLine\":\"(Thus, Howzer's flame attack, which had struggled in the previous battle, is sealed off.)\"},{\"lineNumber\":254761,\"originalJapaneseLine\":\"戦闘中の割り込みイベント　ハウゼル体力４０％以下\",\"translatedEnglishLine\":\"Interrupt event during battle - Howzer's HP below 40%\"},{\"lineNumber\":254762,\"originalJapaneseLine\":\"炎、飛行を封じられだいぶピンチ\",\"translatedEnglishLine\":\"With flames and flying sealed off, he's in quite a pinch.\"},{\"lineNumber\":254763,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":254764,\"originalJapaneseLine\":\"ぐっ・・・このままでは、そうだ逃げよう\",\"translatedEnglishLine\":\"Ugh... at this rate, that's right, I should run away.\"},{\"lineNumber\":254765,\"originalJapaneseLine\":\"とハウゼルが洞窟の出口に向かおうとすると\",\"translatedEnglishLine\":\"As Howzer attempts to head toward the cave exit,\"},{\"lineNumber\":254766,\"originalJapaneseLine\":\"サクラ「あっ、ドラゴンパッチ７巻の残りわずかみたいだわ\",\"translatedEnglishLine\":\"Sakura: \\\"Ah, it looks like there are only a few copies left of Dragon Patch Volume 7.\\\"\"},{\"lineNumber\":254767,\"originalJapaneseLine\":\"　　　　こんな戦いが始まって逃げ出したいけど、今並んでおかないと\",\"translatedEnglishLine\":\"I've got this fight starting and want to run away, but if I don't line up now,\"},{\"lineNumber\":254768,\"originalJapaneseLine\":\"　　　　２度と手に入らないわ」棒読み、　ネタ＝文字通りサクラ\",\"translatedEnglishLine\":\"I'll never get it again.\\\" Monotone delivery, joke = literally Sakura.\"},{\"lineNumber\":254769,\"originalJapaneseLine\":\"ハウゼルは本が気になって逃げれない。\",\"translatedEnglishLine\":\"Howzer can't run away because he's concerned about the book.\"},{\"lineNumber\":254770,\"originalJapaneseLine\":\"なんとか倒して捕まえる。\",\"translatedEnglishLine\":\"Somehow, defeat him and capture him.\"},{\"lineNumber\":254771,\"originalJapaneseLine\":\"卑怯ですと文句を言うハウゼルだが、カオスを突きつけられてそれまで\",\"translatedEnglishLine\":\"Howzer complains it's unfair, but when Chaos is threatened, he stops.\"},{\"lineNumber\":254772,\"originalJapaneseLine\":\"負けました・・せめて、死ぬ前にあの本を見せて下さい。\",\"translatedEnglishLine\":\"I've lost... At least, please let me see that book before I die.\"},{\"lineNumber\":254773,\"originalJapaneseLine\":\"それを見て・・あわあわと困るドエススキー、そこまでわしの本を・・\",\"translatedEnglishLine\":\"Seeing that... Doessky flustered and troubled, 'My book... to that extent...'\"},{\"lineNumber\":254774,\"originalJapaneseLine\":\"しかし、わしはなんて事をと・・作家苦悩とか\",\"translatedEnglishLine\":\"But what have I done... writer's anguish and such.\"},{\"lineNumber\":254775,\"originalJapaneseLine\":\"そんなのは無視してランスの決断\",\"translatedEnglishLine\":\"Ignoring all that, Rance's decision.\"},{\"lineNumber\":254776,\"originalJapaneseLine\":\"＞選択\",\"translatedEnglishLine\":\"> Choice\"},{\"lineNumber\":254777,\"originalJapaneseLine\":\"＞本を見せる\",\"translatedEnglishLine\":\"> Show the book\"},{\"lineNumber\":254778,\"originalJapaneseLine\":\"＞本を見せない\",\"translatedEnglishLine\":\"> Don't show the book\"},{\"lineNumber\":254779,\"originalJapaneseLine\":\"＞本を見せる\",\"translatedEnglishLine\":\"> Show the book\"},{\"lineNumber\":254780,\"originalJapaneseLine\":\"しばらく読むとハウゼルが怒る、なんだ・・これは・・\",\"translatedEnglishLine\":\"After reading for a while, Howzer gets angry, 'What... is this...?'\"},{\"lineNumber\":254781,\"originalJapaneseLine\":\"時間が無いドエススキーに適当にかかせたので無茶苦茶。\",\"translatedEnglishLine\":\"It was written messily because Doessky made it hastily without time.\"},{\"lineNumber\":254782,\"originalJapaneseLine\":\"もしくは白紙\",\"translatedEnglishLine\":\"Or it might be blank.\"},{\"lineNumber\":254783,\"originalJapaneseLine\":\"怒ったハウゼルにランス達は焼き殺されます\",\"translatedEnglishLine\":\"If Howzer gets angry, Rance and the others will be burned to death.\"},{\"lineNumber\":254784,\"originalJapaneseLine\":\"＞本を見せない\",\"translatedEnglishLine\":\"> Don't show the book\"},{\"lineNumber\":254785,\"originalJapaneseLine\":\"残念だな、お前もみただろう、２００名以上が並んでいた。\",\"translatedEnglishLine\":\"Too bad, you saw it too, right? Over 200 people were lined up.\"},{\"lineNumber\":254786,\"originalJapaneseLine\":\"とっくに売れてしまったわ。\",\"translatedEnglishLine\":\"It's already sold out long ago.\"},{\"lineNumber\":254787,\"originalJapaneseLine\":\"くっ・・・朝一で並んだのに・・\",\"translatedEnglishLine\":\"Ugh... even though I lined up first thing in the morning...\"},{\"lineNumber\":254788,\"originalJapaneseLine\":\"ま、任せろ、俺がどこかから奪い取ってきてやる。\",\"translatedEnglishLine\":\"Well, leave it to me, I'll snatch one from somewhere.\"},{\"lineNumber\":254789,\"originalJapaneseLine\":\"ほ、ほんとうなのか・・と　懐く\",\"translatedEnglishLine\":\"Reassured: \\\"R-Really...?\\\" and warms up.\"},{\"lineNumber\":254790,\"originalJapaneseLine\":\"俺の城に来い\",\"translatedEnglishLine\":\"Come to my castle.\"},{\"lineNumber\":254791,\"originalJapaneseLine\":\"わかった\",\"translatedEnglishLine\":\"Got it.\"},{\"lineNumber\":254792,\"originalJapaneseLine\":\"その頃、北部の戦場、魔軍司令部\",\"translatedEnglishLine\":\"At that time, northern battlefield, demon army headquarters.\"},{\"lineNumber\":254793,\"originalJapaneseLine\":\"魔物将軍、なんだと・・ハウゼルが人間共に捕まっただと・・\",\"translatedEnglishLine\":\"Demon general: What... Howzer was captured by the humans...?\"},{\"lineNumber\":254794,\"originalJapaneseLine\":\"火炎書士の報告聞く\",\"translatedEnglishLine\":\"Listens to the report from the flame scribe.\"},{\"lineNumber\":254795,\"originalJapaneseLine\":\"それを窓の外から来ているサイゼル\",\"translatedEnglishLine\":\"Saizel, coming from outside the window.\"},{\"lineNumber\":254796,\"originalJapaneseLine\":\"えっ、ハウゼルが捕まった・・て、あのカオスを持つ男にて事・・\",\"translatedEnglishLine\":\"Eh, Howzer was captured... by that man who wields Chaos...?\"},{\"lineNumber\":254797,\"originalJapaneseLine\":\"ガクガク、ぶるぶる・・・ハウゼルが無事なはずが無い・・・あの男に\",\"translatedEnglishLine\":\"Shaking uncontrollably... There's no way Howzer is safe... with that man.\"},{\"lineNumber\":254798,\"originalJapaneseLine\":\"ひどい事をされている、た、助けないと・・でも、怖い\",\"translatedEnglishLine\":\"He's being treated terribly, I-I've got to help him... but I'm scared.\"},{\"lineNumber\":254799,\"originalJapaneseLine\":\"どうしよう、魔物大将軍ヨシフ様に怒られる\",\"translatedEnglishLine\":\"What should I do? Demon General Yoshif will get angry.\"},{\"lineNumber\":254800,\"originalJapaneseLine\":\"魔物将軍はヨシフをとことん恐れている、そしてわれ先にと逃げ出す\",\"translatedEnglishLine\":\"The demon general fears Yoshif thoroughly, and they hurry to escape.\"},{\"lineNumber\":254801,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":254802,\"originalJapaneseLine\":\"３軍、４軍の司令部\",\"translatedEnglishLine\":\"Headquarters of the 3rd and 4th armies.\"},{\"lineNumber\":254803,\"originalJapaneseLine\":\"おかしいな、魔軍が止まったぞ、なんか動揺しているようだ\",\"translatedEnglishLine\":\"That's strange, the demon army has stopped. They seem shaken.\"},{\"lineNumber\":254804,\"originalJapaneseLine\":\"よし、いっきにいくぞーと\",\"translatedEnglishLine\":\"Alright, let's go all at once!\"},{\"lineNumber\":254805,\"originalJapaneseLine\":\"リーザス軍がいっきに盛り返すシーン\",\"translatedEnglishLine\":\"Scene where the Lizas army quickly recovers.\"},{\"lineNumber\":254806,\"originalJapaneseLine\":\"ランス城\",\"translatedEnglishLine\":\"Rance Castle.\"},{\"lineNumber\":254807,\"originalJapaneseLine\":\"サチコに図書室を案内されてご満悦なハウゼル\",\"translatedEnglishLine\":\"Howzer is delighted as Sachiko guides him through the library.\"},{\"lineNumber\":254808,\"originalJapaneseLine\":\"そこに、火炎司書が現れる。\",\"translatedEnglishLine\":\"Then, the Flame Scribe appears.\"},{\"lineNumber\":254809,\"originalJapaneseLine\":\"カオスに殺されているかと思ったけど無事だったのね\",\"translatedEnglishLine\":\"I thought you’d been killed by Chaos, but you’re safe.\"},{\"lineNumber\":254810,\"originalJapaneseLine\":\"さぁ、戻りましょう、\",\"translatedEnglishLine\":\"Come on, let’s go back.\"},{\"lineNumber\":254811,\"originalJapaneseLine\":\"ケイブリス様の命令に従わないとホーネット様が殺されてしまいますよ\",\"translatedEnglishLine\":\"If we don't obey Lord Kaibris's orders, Lord Hornet will be killed.\"}]}","output_parsed":{"translationLines":[{"lineNumber":254752,"originalJapaneseLine":"残念だったな、ここは鍾乳洞の中だぞ、自由には飛べまい","translatedEnglishLine":"Too bad, this is inside a limestone cave, you can't fly freely here."},{"lineNumber":254753,"originalJapaneseLine":"むむ・・・","translatedEnglishLine":"Hmm..."},{"lineNumber":254754,"originalJapaneseLine":"（こうして前回の戦闘で苦戦したハウゼルの飛行が封じられる）","translatedEnglishLine":"(Thus, Howzer's flying, which had struggled in the previous battle, is sealed off.)"},{"lineNumber":254755,"originalJapaneseLine":"戦闘中の割り込みイベント　第２ターン","translatedEnglishLine":"Interrupt event during battle - Turn 2"},{"lineNumber":254756,"originalJapaneseLine":"ハウゼルが得意の火炎攻撃をしようとした時","translatedEnglishLine":"When Howzer tried to use his specialty, the flame attack,"},{"lineNumber":254757,"originalJapaneseLine":"おーーっと、ここにあるのは貴重な本だぞ、燃えてしまったらもう二度と","translatedEnglishLine":"Oh—wait, this is a valuable book here. If it burns, it will never be available again."},{"lineNumber":254758,"originalJapaneseLine":"手に入らない、いいのかなぁ、燃やしてしまっても・・","translatedEnglishLine":"You can't get it anywhere else. Is it really okay to burn it...?"},{"lineNumber":254759,"originalJapaneseLine":"ぐぬぬぬ・・","translatedEnglishLine":"Grrrr..."},{"lineNumber":254760,"originalJapaneseLine":"（こうして前回の戦闘で苦戦したハウゼルの火炎攻撃が封じられる）","translatedEnglishLine":"(Thus, Howzer's flame attack, which had struggled in the previous battle, is sealed off.)"},{"lineNumber":254761,"originalJapaneseLine":"戦闘中の割り込みイベント　ハウゼル体力４０％以下","translatedEnglishLine":"Interrupt event during battle - Howzer's HP below 40%"},{"lineNumber":254762,"originalJapaneseLine":"炎、飛行を封じられだいぶピンチ","translatedEnglishLine":"With flames and flying sealed off, he's in quite a pinch."},{"lineNumber":254763,"originalJapaneseLine":"　","translatedEnglishLine":""},{"lineNumber":254764,"originalJapaneseLine":"ぐっ・・・このままでは、そうだ逃げよう","translatedEnglishLine":"Ugh... at this rate, that's right, I should run away."},{"lineNumber":254765,"originalJapaneseLine":"とハウゼルが洞窟の出口に向かおうとすると","translatedEnglishLine":"As Howzer attempts to head toward the cave exit,"},{"lineNumber":254766,"originalJapaneseLine":"サクラ「あっ、ドラゴンパッチ７巻の残りわずかみたいだわ","translatedEnglishLine":"Sakura: \"Ah, it looks like there are only a few copies left of Dragon Patch Volume 7.\""},{"lineNumber":254767,"originalJapaneseLine":"　　　　こんな戦いが始まって逃げ出したいけど、今並んでおかないと","translatedEnglishLine":"I've got this fight starting and want to run away, but if I don't line up now,"},{"lineNumber":254768,"originalJapaneseLine":"　　　　２度と手に入らないわ」棒読み、　ネタ＝文字通りサクラ","translatedEnglishLine":"I'll never get it again.\" Monotone delivery, joke = literally Sakura."},{"lineNumber":254769,"originalJapaneseLine":"ハウゼルは本が気になって逃げれない。","translatedEnglishLine":"Howzer can't run away because he's concerned about the book."},{"lineNumber":254770,"originalJapaneseLine":"なんとか倒して捕まえる。","translatedEnglishLine":"Somehow, defeat him and capture him."},{"lineNumber":254771,"originalJapaneseLine":"卑怯ですと文句を言うハウゼルだが、カオスを突きつけられてそれまで","translatedEnglishLine":"Howzer complains it's unfair, but when Chaos is threatened, he stops."},{"lineNumber":254772,"originalJapaneseLine":"負けました・・せめて、死ぬ前にあの本を見せて下さい。","translatedEnglishLine":"I've lost... At least, please let me see that book before I die."},{"lineNumber":254773,"originalJapaneseLine":"それを見て・・あわあわと困るドエススキー、そこまでわしの本を・・","translatedEnglishLine":"Seeing that... Doessky flustered and troubled, 'My book... to that extent...'"},{"lineNumber":254774,"originalJapaneseLine":"しかし、わしはなんて事をと・・作家苦悩とか","translatedEnglishLine":"But what have I done... writer's anguish and such."},{"lineNumber":254775,"originalJapaneseLine":"そんなのは無視してランスの決断","translatedEnglishLine":"Ignoring all that, Rance's decision."},{"lineNumber":254776,"originalJapaneseLine":"＞選択","translatedEnglishLine":"> Choice"},{"lineNumber":254777,"originalJapaneseLine":"＞本を見せる","translatedEnglishLine":"> Show the book"},{"lineNumber":254778,"originalJapaneseLine":"＞本を見せない","translatedEnglishLine":"> Don't show the book"},{"lineNumber":254779,"originalJapaneseLine":"＞本を見せる","translatedEnglishLine":"> Show the book"},{"lineNumber":254780,"originalJapaneseLine":"しばらく読むとハウゼルが怒る、なんだ・・これは・・","translatedEnglishLine":"After reading for a while, Howzer gets angry, 'What... is this...?'"},{"lineNumber":254781,"originalJapaneseLine":"時間が無いドエススキーに適当にかかせたので無茶苦茶。","translatedEnglishLine":"It was written messily because Doessky made it hastily without time."},{"lineNumber":254782,"originalJapaneseLine":"もしくは白紙","translatedEnglishLine":"Or it might be blank."},{"lineNumber":254783,"originalJapaneseLine":"怒ったハウゼルにランス達は焼き殺されます","translatedEnglishLine":"If Howzer gets angry, Rance and the others will be burned to death."},{"lineNumber":254784,"originalJapaneseLine":"＞本を見せない","translatedEnglishLine":"> Don't show the book"},{"lineNumber":254785,"originalJapaneseLine":"残念だな、お前もみただろう、２００名以上が並んでいた。","translatedEnglishLine":"Too bad, you saw it too, right? Over 200 people were lined up."},{"lineNumber":254786,"originalJapaneseLine":"とっくに売れてしまったわ。","translatedEnglishLine":"It's already sold out long ago."},{"lineNumber":254787,"originalJapaneseLine":"くっ・・・朝一で並んだのに・・","translatedEnglishLine":"Ugh... even though I lined up first thing in the morning..."},{"lineNumber":254788,"originalJapaneseLine":"ま、任せろ、俺がどこかから奪い取ってきてやる。","translatedEnglishLine":"Well, leave it to me, I'll snatch one from somewhere."},{"lineNumber":254789,"originalJapaneseLine":"ほ、ほんとうなのか・・と　懐く","translatedEnglishLine":"Reassured: \"R-Really...?\" and warms up."},{"lineNumber":254790,"originalJapaneseLine":"俺の城に来い","translatedEnglishLine":"Come to my castle."},{"lineNumber":254791,"originalJapaneseLine":"わかった","translatedEnglishLine":"Got it."},{"lineNumber":254792,"originalJapaneseLine":"その頃、北部の戦場、魔軍司令部","translatedEnglishLine":"At that time, northern battlefield, demon army headquarters."},{"lineNumber":254793,"originalJapaneseLine":"魔物将軍、なんだと・・ハウゼルが人間共に捕まっただと・・","translatedEnglishLine":"Demon general: What... Howzer was captured by the humans...?"},{"lineNumber":254794,"originalJapaneseLine":"火炎書士の報告聞く","translatedEnglishLine":"Listens to the report from the flame scribe."},{"lineNumber":254795,"originalJapaneseLine":"それを窓の外から来ているサイゼル","translatedEnglishLine":"Saizel, coming from outside the window."},{"lineNumber":254796,"originalJapaneseLine":"えっ、ハウゼルが捕まった・・て、あのカオスを持つ男にて事・・","translatedEnglishLine":"Eh, Howzer was captured... by that man who wields Chaos...?"},{"lineNumber":254797,"originalJapaneseLine":"ガクガク、ぶるぶる・・・ハウゼルが無事なはずが無い・・・あの男に","translatedEnglishLine":"Shaking uncontrollably... There's no way Howzer is safe... with that man."},{"lineNumber":254798,"originalJapaneseLine":"ひどい事をされている、た、助けないと・・でも、怖い","translatedEnglishLine":"He's being treated terribly, I-I've got to help him... but I'm scared."},{"lineNumber":254799,"originalJapaneseLine":"どうしよう、魔物大将軍ヨシフ様に怒られる","translatedEnglishLine":"What should I do? Demon General Yoshif will get angry."},{"lineNumber":254800,"originalJapaneseLine":"魔物将軍はヨシフをとことん恐れている、そしてわれ先にと逃げ出す","translatedEnglishLine":"The demon general fears Yoshif thoroughly, and they hurry to escape."},{"lineNumber":254801,"originalJapaneseLine":"　","translatedEnglishLine":""},{"lineNumber":254802,"originalJapaneseLine":"３軍、４軍の司令部","translatedEnglishLine":"Headquarters of the 3rd and 4th armies."},{"lineNumber":254803,"originalJapaneseLine":"おかしいな、魔軍が止まったぞ、なんか動揺しているようだ","translatedEnglishLine":"That's strange, the demon army has stopped. They seem shaken."},{"lineNumber":254804,"originalJapaneseLine":"よし、いっきにいくぞーと","translatedEnglishLine":"Alright, let's go all at once!"},{"lineNumber":254805,"originalJapaneseLine":"リーザス軍がいっきに盛り返すシーン","translatedEnglishLine":"Scene where the Lizas army quickly recovers."},{"lineNumber":254806,"originalJapaneseLine":"ランス城","translatedEnglishLine":"Rance Castle."},{"lineNumber":254807,"originalJapaneseLine":"サチコに図書室を案内されてご満悦なハウゼル","translatedEnglishLine":"Howzer is delighted as Sachiko guides him through the library."},{"lineNumber":254808,"originalJapaneseLine":"そこに、火炎司書が現れる。","translatedEnglishLine":"Then, the Flame Scribe appears."},{"lineNumber":254809,"originalJapaneseLine":"カオスに殺されているかと思ったけど無事だったのね","translatedEnglishLine":"I thought you’d been killed by Chaos, but you’re safe."},{"lineNumber":254810,"originalJapaneseLine":"さぁ、戻りましょう、","translatedEnglishLine":"Come on, let’s go back."},{"lineNumber":254811,"originalJapaneseLine":"ケイブリス様の命令に従わないとホーネット様が殺されてしまいますよ","translatedEnglishLine":"If we don't obey Lord Kaibris's orders, Lord Hornet will be killed."}]}}
+{
+    "id": "resp_0022d9b5a84be9690068f241b8aba081938d54bbaa86146a4a",
+    "object": "response",
+    "created_at": 1760707000,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0022d9b5a84be9690068f241b8eb78819387664b4c40a13683",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":254752,\"originalJapaneseLine\":\"残念だったな、ここは鍾乳洞の中だぞ、自由には飛べまい\",\"translatedEnglishLine\":\"Too bad, this is inside a limestone cave, you can't fly freely here.\"},{\"lineNumber\":254753,\"originalJapaneseLine\":\"むむ・・・\",\"translatedEnglishLine\":\"Hmm...\"},{\"lineNumber\":254754,\"originalJapaneseLine\":\"（こうして前回の戦闘で苦戦したハウゼルの飛行が封じられる）\",\"translatedEnglishLine\":\"(Thus, Howzer's flying, which had struggled in the previous battle, is sealed off.)\"},{\"lineNumber\":254755,\"originalJapaneseLine\":\"戦闘中の割り込みイベント　第２ターン\",\"translatedEnglishLine\":\"Interrupt event during battle - Turn 2\"},{\"lineNumber\":254756,\"originalJapaneseLine\":\"ハウゼルが得意の火炎攻撃をしようとした時\",\"translatedEnglishLine\":\"When Howzer tried to use his specialty, the flame attack,\"},{\"lineNumber\":254757,\"originalJapaneseLine\":\"おーーっと、ここにあるのは貴重な本だぞ、燃えてしまったらもう二度と\",\"translatedEnglishLine\":\"Oh—wait, this is a valuable book here. If it burns, it will never be available again.\"},{\"lineNumber\":254758,\"originalJapaneseLine\":\"手に入らない、いいのかなぁ、燃やしてしまっても・・\",\"translatedEnglishLine\":\"You can't get it anywhere else. Is it really okay to burn it...?\"},{\"lineNumber\":254759,\"originalJapaneseLine\":\"ぐぬぬぬ・・\",\"translatedEnglishLine\":\"Grrrr...\"},{\"lineNumber\":254760,\"originalJapaneseLine\":\"（こうして前回の戦闘で苦戦したハウゼルの火炎攻撃が封じられる）\",\"translatedEnglishLine\":\"(Thus, Howzer's flame attack, which had struggled in the previous battle, is sealed off.)\"},{\"lineNumber\":254761,\"originalJapaneseLine\":\"戦闘中の割り込みイベント　ハウゼル体力４０％以下\",\"translatedEnglishLine\":\"Interrupt event during battle - Howzer's HP below 40%\"},{\"lineNumber\":254762,\"originalJapaneseLine\":\"炎、飛行を封じられだいぶピンチ\",\"translatedEnglishLine\":\"With flames and flying sealed off, he's in quite a pinch.\"},{\"lineNumber\":254763,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":254764,\"originalJapaneseLine\":\"ぐっ・・・このままでは、そうだ逃げよう\",\"translatedEnglishLine\":\"Ugh... at this rate, that's right, I should run away.\"},{\"lineNumber\":254765,\"originalJapaneseLine\":\"とハウゼルが洞窟の出口に向かおうとすると\",\"translatedEnglishLine\":\"As Howzer attempts to head toward the cave exit,\"},{\"lineNumber\":254766,\"originalJapaneseLine\":\"サクラ「あっ、ドラゴンパッチ７巻の残りわずかみたいだわ\",\"translatedEnglishLine\":\"Sakura: \\\"Ah, it looks like there are only a few copies left of Dragon Patch Volume 7.\\\"\"},{\"lineNumber\":254767,\"originalJapaneseLine\":\"　　　　こんな戦いが始まって逃げ出したいけど、今並んでおかないと\",\"translatedEnglishLine\":\"I've got this fight starting and want to run away, but if I don't line up now,\"},{\"lineNumber\":254768,\"originalJapaneseLine\":\"　　　　２度と手に入らないわ」棒読み、　ネタ＝文字通りサクラ\",\"translatedEnglishLine\":\"I'll never get it again.\\\" Monotone delivery, joke = literally Sakura.\"},{\"lineNumber\":254769,\"originalJapaneseLine\":\"ハウゼルは本が気になって逃げれない。\",\"translatedEnglishLine\":\"Howzer can't run away because he's concerned about the book.\"},{\"lineNumber\":254770,\"originalJapaneseLine\":\"なんとか倒して捕まえる。\",\"translatedEnglishLine\":\"Somehow, defeat him and capture him.\"},{\"lineNumber\":254771,\"originalJapaneseLine\":\"卑怯ですと文句を言うハウゼルだが、カオスを突きつけられてそれまで\",\"translatedEnglishLine\":\"Howzer complains it's unfair, but when Chaos is threatened, he stops.\"},{\"lineNumber\":254772,\"originalJapaneseLine\":\"負けました・・せめて、死ぬ前にあの本を見せて下さい。\",\"translatedEnglishLine\":\"I've lost... At least, please let me see that book before I die.\"},{\"lineNumber\":254773,\"originalJapaneseLine\":\"それを見て・・あわあわと困るドエススキー、そこまでわしの本を・・\",\"translatedEnglishLine\":\"Seeing that... Doessky flustered and troubled, 'My book... to that extent...'\"},{\"lineNumber\":254774,\"originalJapaneseLine\":\"しかし、わしはなんて事をと・・作家苦悩とか\",\"translatedEnglishLine\":\"But what have I done... writer's anguish and such.\"},{\"lineNumber\":254775,\"originalJapaneseLine\":\"そんなのは無視してランスの決断\",\"translatedEnglishLine\":\"Ignoring all that, Rance's decision.\"},{\"lineNumber\":254776,\"originalJapaneseLine\":\"＞選択\",\"translatedEnglishLine\":\"> Choice\"},{\"lineNumber\":254777,\"originalJapaneseLine\":\"＞本を見せる\",\"translatedEnglishLine\":\"> Show the book\"},{\"lineNumber\":254778,\"originalJapaneseLine\":\"＞本を見せない\",\"translatedEnglishLine\":\"> Don't show the book\"},{\"lineNumber\":254779,\"originalJapaneseLine\":\"＞本を見せる\",\"translatedEnglishLine\":\"> Show the book\"},{\"lineNumber\":254780,\"originalJapaneseLine\":\"しばらく読むとハウゼルが怒る、なんだ・・これは・・\",\"translatedEnglishLine\":\"After reading for a while, Howzer gets angry, 'What... is this...?'\"},{\"lineNumber\":254781,\"originalJapaneseLine\":\"時間が無いドエススキーに適当にかかせたので無茶苦茶。\",\"translatedEnglishLine\":\"It was written messily because Doessky made it hastily without time.\"},{\"lineNumber\":254782,\"originalJapaneseLine\":\"もしくは白紙\",\"translatedEnglishLine\":\"Or it might be blank.\"},{\"lineNumber\":254783,\"originalJapaneseLine\":\"怒ったハウゼルにランス達は焼き殺されます\",\"translatedEnglishLine\":\"If Howzer gets angry, Rance and the others will be burned to death.\"},{\"lineNumber\":254784,\"originalJapaneseLine\":\"＞本を見せない\",\"translatedEnglishLine\":\"> Don't show the book\"},{\"lineNumber\":254785,\"originalJapaneseLine\":\"残念だな、お前もみただろう、２００名以上が並んでいた。\",\"translatedEnglishLine\":\"Too bad, you saw it too, right? Over 200 people were lined up.\"},{\"lineNumber\":254786,\"originalJapaneseLine\":\"とっくに売れてしまったわ。\",\"translatedEnglishLine\":\"It's already sold out long ago.\"},{\"lineNumber\":254787,\"originalJapaneseLine\":\"くっ・・・朝一で並んだのに・・\",\"translatedEnglishLine\":\"Ugh... even though I lined up first thing in the morning...\"},{\"lineNumber\":254788,\"originalJapaneseLine\":\"ま、任せろ、俺がどこかから奪い取ってきてやる。\",\"translatedEnglishLine\":\"Well, leave it to me, I'll snatch one from somewhere.\"},{\"lineNumber\":254789,\"originalJapaneseLine\":\"ほ、ほんとうなのか・・と　懐く\",\"translatedEnglishLine\":\"Reassured: \\\"R-Really...?\\\" and warms up.\"},{\"lineNumber\":254790,\"originalJapaneseLine\":\"俺の城に来い\",\"translatedEnglishLine\":\"Come to my castle.\"},{\"lineNumber\":254791,\"originalJapaneseLine\":\"わかった\",\"translatedEnglishLine\":\"Got it.\"},{\"lineNumber\":254792,\"originalJapaneseLine\":\"その頃、北部の戦場、魔軍司令部\",\"translatedEnglishLine\":\"At that time, northern battlefield, demon army headquarters.\"},{\"lineNumber\":254793,\"originalJapaneseLine\":\"魔物将軍、なんだと・・ハウゼルが人間共に捕まっただと・・\",\"translatedEnglishLine\":\"Demon general: What... Howzer was captured by the humans...?\"},{\"lineNumber\":254794,\"originalJapaneseLine\":\"火炎書士の報告聞く\",\"translatedEnglishLine\":\"Listens to the report from the flame scribe.\"},{\"lineNumber\":254795,\"originalJapaneseLine\":\"それを窓の外から来ているサイゼル\",\"translatedEnglishLine\":\"Saizel, coming from outside the window.\"},{\"lineNumber\":254796,\"originalJapaneseLine\":\"えっ、ハウゼルが捕まった・・て、あのカオスを持つ男にて事・・\",\"translatedEnglishLine\":\"Eh, Howzer was captured... by that man who wields Chaos...?\"},{\"lineNumber\":254797,\"originalJapaneseLine\":\"ガクガク、ぶるぶる・・・ハウゼルが無事なはずが無い・・・あの男に\",\"translatedEnglishLine\":\"Shaking uncontrollably... There's no way Howzer is safe... with that man.\"},{\"lineNumber\":254798,\"originalJapaneseLine\":\"ひどい事をされている、た、助けないと・・でも、怖い\",\"translatedEnglishLine\":\"He's being treated terribly, I-I've got to help him... but I'm scared.\"},{\"lineNumber\":254799,\"originalJapaneseLine\":\"どうしよう、魔物大将軍ヨシフ様に怒られる\",\"translatedEnglishLine\":\"What should I do? Demon General Yoshif will get angry.\"},{\"lineNumber\":254800,\"originalJapaneseLine\":\"魔物将軍はヨシフをとことん恐れている、そしてわれ先にと逃げ出す\",\"translatedEnglishLine\":\"The demon general fears Yoshif thoroughly, and they hurry to escape.\"},{\"lineNumber\":254801,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":254802,\"originalJapaneseLine\":\"３軍、４軍の司令部\",\"translatedEnglishLine\":\"Headquarters of the 3rd and 4th armies.\"},{\"lineNumber\":254803,\"originalJapaneseLine\":\"おかしいな、魔軍が止まったぞ、なんか動揺しているようだ\",\"translatedEnglishLine\":\"That's strange, the demon army has stopped. They seem shaken.\"},{\"lineNumber\":254804,\"originalJapaneseLine\":\"よし、いっきにいくぞーと\",\"translatedEnglishLine\":\"Alright, let's go all at once!\"},{\"lineNumber\":254805,\"originalJapaneseLine\":\"リーザス軍がいっきに盛り返すシーン\",\"translatedEnglishLine\":\"Scene where the Lizas army quickly recovers.\"},{\"lineNumber\":254806,\"originalJapaneseLine\":\"ランス城\",\"translatedEnglishLine\":\"Rance Castle.\"},{\"lineNumber\":254807,\"originalJapaneseLine\":\"サチコに図書室を案内されてご満悦なハウゼル\",\"translatedEnglishLine\":\"Howzer is delighted as Sachiko guides him through the library.\"},{\"lineNumber\":254808,\"originalJapaneseLine\":\"そこに、火炎司書が現れる。\",\"translatedEnglishLine\":\"Then, the Flame Scribe appears.\"},{\"lineNumber\":254809,\"originalJapaneseLine\":\"カオスに殺されているかと思ったけど無事だったのね\",\"translatedEnglishLine\":\"I thought you’d been killed by Chaos, but you’re safe.\"},{\"lineNumber\":254810,\"originalJapaneseLine\":\"さぁ、戻りましょう、\",\"translatedEnglishLine\":\"Come on, let’s go back.\"},{\"lineNumber\":254811,\"originalJapaneseLine\":\"ケイブリス様の命令に従わないとホーネット様が殺されてしまいますよ\",\"translatedEnglishLine\":\"If we don't obey Lord Kaibris's orders, Lord Hornet will be killed.\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 254752,
+                                "originalJapaneseLine": "残念だったな、ここは鍾乳洞の中だぞ、自由には飛べまい",
+                                "translatedEnglishLine": "Too bad, this is inside a limestone cave, you can't fly freely here."
+                            },
+                            {
+                                "lineNumber": 254753,
+                                "originalJapaneseLine": "むむ・・・",
+                                "translatedEnglishLine": "Hmm..."
+                            },
+                            {
+                                "lineNumber": 254754,
+                                "originalJapaneseLine": "（こうして前回の戦闘で苦戦したハウゼルの飛行が封じられる）",
+                                "translatedEnglishLine": "(Thus, Howzer's flying, which had struggled in the previous battle, is sealed off.)"
+                            },
+                            {
+                                "lineNumber": 254755,
+                                "originalJapaneseLine": "戦闘中の割り込みイベント　第２ターン",
+                                "translatedEnglishLine": "Interrupt event during battle - Turn 2"
+                            },
+                            {
+                                "lineNumber": 254756,
+                                "originalJapaneseLine": "ハウゼルが得意の火炎攻撃をしようとした時",
+                                "translatedEnglishLine": "When Howzer tried to use his specialty, the flame attack,"
+                            },
+                            {
+                                "lineNumber": 254757,
+                                "originalJapaneseLine": "おーーっと、ここにあるのは貴重な本だぞ、燃えてしまったらもう二度と",
+                                "translatedEnglishLine": "Oh—wait, this is a valuable book here. If it burns, it will never be available again."
+                            },
+                            {
+                                "lineNumber": 254758,
+                                "originalJapaneseLine": "手に入らない、いいのかなぁ、燃やしてしまっても・・",
+                                "translatedEnglishLine": "You can't get it anywhere else. Is it really okay to burn it...?"
+                            },
+                            {
+                                "lineNumber": 254759,
+                                "originalJapaneseLine": "ぐぬぬぬ・・",
+                                "translatedEnglishLine": "Grrrr..."
+                            },
+                            {
+                                "lineNumber": 254760,
+                                "originalJapaneseLine": "（こうして前回の戦闘で苦戦したハウゼルの火炎攻撃が封じられる）",
+                                "translatedEnglishLine": "(Thus, Howzer's flame attack, which had struggled in the previous battle, is sealed off.)"
+                            },
+                            {
+                                "lineNumber": 254761,
+                                "originalJapaneseLine": "戦闘中の割り込みイベント　ハウゼル体力４０％以下",
+                                "translatedEnglishLine": "Interrupt event during battle - Howzer's HP below 40%"
+                            },
+                            {
+                                "lineNumber": 254762,
+                                "originalJapaneseLine": "炎、飛行を封じられだいぶピンチ",
+                                "translatedEnglishLine": "With flames and flying sealed off, he's in quite a pinch."
+                            },
+                            {
+                                "lineNumber": 254763,
+                                "originalJapaneseLine": "　",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": 254764,
+                                "originalJapaneseLine": "ぐっ・・・このままでは、そうだ逃げよう",
+                                "translatedEnglishLine": "Ugh... at this rate, that's right, I should run away."
+                            },
+                            {
+                                "lineNumber": 254765,
+                                "originalJapaneseLine": "とハウゼルが洞窟の出口に向かおうとすると",
+                                "translatedEnglishLine": "As Howzer attempts to head toward the cave exit,"
+                            },
+                            {
+                                "lineNumber": 254766,
+                                "originalJapaneseLine": "サクラ「あっ、ドラゴンパッチ７巻の残りわずかみたいだわ",
+                                "translatedEnglishLine": "Sakura: \"Ah, it looks like there are only a few copies left of Dragon Patch Volume 7.\""
+                            },
+                            {
+                                "lineNumber": 254767,
+                                "originalJapaneseLine": "　　　　こんな戦いが始まって逃げ出したいけど、今並んでおかないと",
+                                "translatedEnglishLine": "I've got this fight starting and want to run away, but if I don't line up now,"
+                            },
+                            {
+                                "lineNumber": 254768,
+                                "originalJapaneseLine": "　　　　２度と手に入らないわ」棒読み、　ネタ＝文字通りサクラ",
+                                "translatedEnglishLine": "I'll never get it again.\" Monotone delivery, joke = literally Sakura."
+                            },
+                            {
+                                "lineNumber": 254769,
+                                "originalJapaneseLine": "ハウゼルは本が気になって逃げれない。",
+                                "translatedEnglishLine": "Howzer can't run away because he's concerned about the book."
+                            },
+                            {
+                                "lineNumber": 254770,
+                                "originalJapaneseLine": "なんとか倒して捕まえる。",
+                                "translatedEnglishLine": "Somehow, defeat him and capture him."
+                            },
+                            {
+                                "lineNumber": 254771,
+                                "originalJapaneseLine": "卑怯ですと文句を言うハウゼルだが、カオスを突きつけられてそれまで",
+                                "translatedEnglishLine": "Howzer complains it's unfair, but when Chaos is threatened, he stops."
+                            },
+                            {
+                                "lineNumber": 254772,
+                                "originalJapaneseLine": "負けました・・せめて、死ぬ前にあの本を見せて下さい。",
+                                "translatedEnglishLine": "I've lost... At least, please let me see that book before I die."
+                            },
+                            {
+                                "lineNumber": 254773,
+                                "originalJapaneseLine": "それを見て・・あわあわと困るドエススキー、そこまでわしの本を・・",
+                                "translatedEnglishLine": "Seeing that... Doessky flustered and troubled, 'My book... to that extent...'"
+                            },
+                            {
+                                "lineNumber": 254774,
+                                "originalJapaneseLine": "しかし、わしはなんて事をと・・作家苦悩とか",
+                                "translatedEnglishLine": "But what have I done... writer's anguish and such."
+                            },
+                            {
+                                "lineNumber": 254775,
+                                "originalJapaneseLine": "そんなのは無視してランスの決断",
+                                "translatedEnglishLine": "Ignoring all that, Rance's decision."
+                            },
+                            {
+                                "lineNumber": 254776,
+                                "originalJapaneseLine": "＞選択",
+                                "translatedEnglishLine": "> Choice"
+                            },
+                            {
+                                "lineNumber": 254777,
+                                "originalJapaneseLine": "＞本を見せる",
+                                "translatedEnglishLine": "> Show the book"
+                            },
+                            {
+                                "lineNumber": 254778,
+                                "originalJapaneseLine": "＞本を見せない",
+                                "translatedEnglishLine": "> Don't show the book"
+                            },
+                            {
+                                "lineNumber": 254779,
+                                "originalJapaneseLine": "＞本を見せる",
+                                "translatedEnglishLine": "> Show the book"
+                            },
+                            {
+                                "lineNumber": 254780,
+                                "originalJapaneseLine": "しばらく読むとハウゼルが怒る、なんだ・・これは・・",
+                                "translatedEnglishLine": "After reading for a while, Howzer gets angry, 'What... is this...?'"
+                            },
+                            {
+                                "lineNumber": 254781,
+                                "originalJapaneseLine": "時間が無いドエススキーに適当にかかせたので無茶苦茶。",
+                                "translatedEnglishLine": "It was written messily because Doessky made it hastily without time."
+                            },
+                            {
+                                "lineNumber": 254782,
+                                "originalJapaneseLine": "もしくは白紙",
+                                "translatedEnglishLine": "Or it might be blank."
+                            },
+                            {
+                                "lineNumber": 254783,
+                                "originalJapaneseLine": "怒ったハウゼルにランス達は焼き殺されます",
+                                "translatedEnglishLine": "If Howzer gets angry, Rance and the others will be burned to death."
+                            },
+                            {
+                                "lineNumber": 254784,
+                                "originalJapaneseLine": "＞本を見せない",
+                                "translatedEnglishLine": "> Don't show the book"
+                            },
+                            {
+                                "lineNumber": 254785,
+                                "originalJapaneseLine": "残念だな、お前もみただろう、２００名以上が並んでいた。",
+                                "translatedEnglishLine": "Too bad, you saw it too, right? Over 200 people were lined up."
+                            },
+                            {
+                                "lineNumber": 254786,
+                                "originalJapaneseLine": "とっくに売れてしまったわ。",
+                                "translatedEnglishLine": "It's already sold out long ago."
+                            },
+                            {
+                                "lineNumber": 254787,
+                                "originalJapaneseLine": "くっ・・・朝一で並んだのに・・",
+                                "translatedEnglishLine": "Ugh... even though I lined up first thing in the morning..."
+                            },
+                            {
+                                "lineNumber": 254788,
+                                "originalJapaneseLine": "ま、任せろ、俺がどこかから奪い取ってきてやる。",
+                                "translatedEnglishLine": "Well, leave it to me, I'll snatch one from somewhere."
+                            },
+                            {
+                                "lineNumber": 254789,
+                                "originalJapaneseLine": "ほ、ほんとうなのか・・と　懐く",
+                                "translatedEnglishLine": "Reassured: \"R-Really...?\" and warms up."
+                            },
+                            {
+                                "lineNumber": 254790,
+                                "originalJapaneseLine": "俺の城に来い",
+                                "translatedEnglishLine": "Come to my castle."
+                            },
+                            {
+                                "lineNumber": 254791,
+                                "originalJapaneseLine": "わかった",
+                                "translatedEnglishLine": "Got it."
+                            },
+                            {
+                                "lineNumber": 254792,
+                                "originalJapaneseLine": "その頃、北部の戦場、魔軍司令部",
+                                "translatedEnglishLine": "At that time, northern battlefield, demon army headquarters."
+                            },
+                            {
+                                "lineNumber": 254793,
+                                "originalJapaneseLine": "魔物将軍、なんだと・・ハウゼルが人間共に捕まっただと・・",
+                                "translatedEnglishLine": "Demon general: What... Howzer was captured by the humans...?"
+                            },
+                            {
+                                "lineNumber": 254794,
+                                "originalJapaneseLine": "火炎書士の報告聞く",
+                                "translatedEnglishLine": "Listens to the report from the flame scribe."
+                            },
+                            {
+                                "lineNumber": 254795,
+                                "originalJapaneseLine": "それを窓の外から来ているサイゼル",
+                                "translatedEnglishLine": "Saizel, coming from outside the window."
+                            },
+                            {
+                                "lineNumber": 254796,
+                                "originalJapaneseLine": "えっ、ハウゼルが捕まった・・て、あのカオスを持つ男にて事・・",
+                                "translatedEnglishLine": "Eh, Howzer was captured... by that man who wields Chaos...?"
+                            },
+                            {
+                                "lineNumber": 254797,
+                                "originalJapaneseLine": "ガクガク、ぶるぶる・・・ハウゼルが無事なはずが無い・・・あの男に",
+                                "translatedEnglishLine": "Shaking uncontrollably... There's no way Howzer is safe... with that man."
+                            },
+                            {
+                                "lineNumber": 254798,
+                                "originalJapaneseLine": "ひどい事をされている、た、助けないと・・でも、怖い",
+                                "translatedEnglishLine": "He's being treated terribly, I-I've got to help him... but I'm scared."
+                            },
+                            {
+                                "lineNumber": 254799,
+                                "originalJapaneseLine": "どうしよう、魔物大将軍ヨシフ様に怒られる",
+                                "translatedEnglishLine": "What should I do? Demon General Yoshif will get angry."
+                            },
+                            {
+                                "lineNumber": 254800,
+                                "originalJapaneseLine": "魔物将軍はヨシフをとことん恐れている、そしてわれ先にと逃げ出す",
+                                "translatedEnglishLine": "The demon general fears Yoshif thoroughly, and they hurry to escape."
+                            },
+                            {
+                                "lineNumber": 254801,
+                                "originalJapaneseLine": "　",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": 254802,
+                                "originalJapaneseLine": "３軍、４軍の司令部",
+                                "translatedEnglishLine": "Headquarters of the 3rd and 4th armies."
+                            },
+                            {
+                                "lineNumber": 254803,
+                                "originalJapaneseLine": "おかしいな、魔軍が止まったぞ、なんか動揺しているようだ",
+                                "translatedEnglishLine": "That's strange, the demon army has stopped. They seem shaken."
+                            },
+                            {
+                                "lineNumber": 254804,
+                                "originalJapaneseLine": "よし、いっきにいくぞーと",
+                                "translatedEnglishLine": "Alright, let's go all at once!"
+                            },
+                            {
+                                "lineNumber": 254805,
+                                "originalJapaneseLine": "リーザス軍がいっきに盛り返すシーン",
+                                "translatedEnglishLine": "Scene where the Lizas army quickly recovers."
+                            },
+                            {
+                                "lineNumber": 254806,
+                                "originalJapaneseLine": "ランス城",
+                                "translatedEnglishLine": "Rance Castle."
+                            },
+                            {
+                                "lineNumber": 254807,
+                                "originalJapaneseLine": "サチコに図書室を案内されてご満悦なハウゼル",
+                                "translatedEnglishLine": "Howzer is delighted as Sachiko guides him through the library."
+                            },
+                            {
+                                "lineNumber": 254808,
+                                "originalJapaneseLine": "そこに、火炎司書が現れる。",
+                                "translatedEnglishLine": "Then, the Flame Scribe appears."
+                            },
+                            {
+                                "lineNumber": 254809,
+                                "originalJapaneseLine": "カオスに殺されているかと思ったけど無事だったのね",
+                                "translatedEnglishLine": "I thought you’d been killed by Chaos, but you’re safe."
+                            },
+                            {
+                                "lineNumber": 254810,
+                                "originalJapaneseLine": "さぁ、戻りましょう、",
+                                "translatedEnglishLine": "Come on, let’s go back."
+                            },
+                            {
+                                "lineNumber": 254811,
+                                "originalJapaneseLine": "ケイブリス様の命令に従わないとホーネット様が殺されてしまいますよ",
+                                "translatedEnglishLine": "If we don't obey Lord Kaibris's orders, Lord Hornet will be killed."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1929,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2606,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4535
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":254752,\"originalJapaneseLine\":\"残念だったな、ここは鍾乳洞の中だぞ、自由には飛べまい\",\"translatedEnglishLine\":\"Too bad, this is inside a limestone cave, you can't fly freely here.\"},{\"lineNumber\":254753,\"originalJapaneseLine\":\"むむ・・・\",\"translatedEnglishLine\":\"Hmm...\"},{\"lineNumber\":254754,\"originalJapaneseLine\":\"（こうして前回の戦闘で苦戦したハウゼルの飛行が封じられる）\",\"translatedEnglishLine\":\"(Thus, Howzer's flying, which had struggled in the previous battle, is sealed off.)\"},{\"lineNumber\":254755,\"originalJapaneseLine\":\"戦闘中の割り込みイベント　第２ターン\",\"translatedEnglishLine\":\"Interrupt event during battle - Turn 2\"},{\"lineNumber\":254756,\"originalJapaneseLine\":\"ハウゼルが得意の火炎攻撃をしようとした時\",\"translatedEnglishLine\":\"When Howzer tried to use his specialty, the flame attack,\"},{\"lineNumber\":254757,\"originalJapaneseLine\":\"おーーっと、ここにあるのは貴重な本だぞ、燃えてしまったらもう二度と\",\"translatedEnglishLine\":\"Oh—wait, this is a valuable book here. If it burns, it will never be available again.\"},{\"lineNumber\":254758,\"originalJapaneseLine\":\"手に入らない、いいのかなぁ、燃やしてしまっても・・\",\"translatedEnglishLine\":\"You can't get it anywhere else. Is it really okay to burn it...?\"},{\"lineNumber\":254759,\"originalJapaneseLine\":\"ぐぬぬぬ・・\",\"translatedEnglishLine\":\"Grrrr...\"},{\"lineNumber\":254760,\"originalJapaneseLine\":\"（こうして前回の戦闘で苦戦したハウゼルの火炎攻撃が封じられる）\",\"translatedEnglishLine\":\"(Thus, Howzer's flame attack, which had struggled in the previous battle, is sealed off.)\"},{\"lineNumber\":254761,\"originalJapaneseLine\":\"戦闘中の割り込みイベント　ハウゼル体力４０％以下\",\"translatedEnglishLine\":\"Interrupt event during battle - Howzer's HP below 40%\"},{\"lineNumber\":254762,\"originalJapaneseLine\":\"炎、飛行を封じられだいぶピンチ\",\"translatedEnglishLine\":\"With flames and flying sealed off, he's in quite a pinch.\"},{\"lineNumber\":254763,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":254764,\"originalJapaneseLine\":\"ぐっ・・・このままでは、そうだ逃げよう\",\"translatedEnglishLine\":\"Ugh... at this rate, that's right, I should run away.\"},{\"lineNumber\":254765,\"originalJapaneseLine\":\"とハウゼルが洞窟の出口に向かおうとすると\",\"translatedEnglishLine\":\"As Howzer attempts to head toward the cave exit,\"},{\"lineNumber\":254766,\"originalJapaneseLine\":\"サクラ「あっ、ドラゴンパッチ７巻の残りわずかみたいだわ\",\"translatedEnglishLine\":\"Sakura: \\\"Ah, it looks like there are only a few copies left of Dragon Patch Volume 7.\\\"\"},{\"lineNumber\":254767,\"originalJapaneseLine\":\"　　　　こんな戦いが始まって逃げ出したいけど、今並んでおかないと\",\"translatedEnglishLine\":\"I've got this fight starting and want to run away, but if I don't line up now,\"},{\"lineNumber\":254768,\"originalJapaneseLine\":\"　　　　２度と手に入らないわ」棒読み、　ネタ＝文字通りサクラ\",\"translatedEnglishLine\":\"I'll never get it again.\\\" Monotone delivery, joke = literally Sakura.\"},{\"lineNumber\":254769,\"originalJapaneseLine\":\"ハウゼルは本が気になって逃げれない。\",\"translatedEnglishLine\":\"Howzer can't run away because he's concerned about the book.\"},{\"lineNumber\":254770,\"originalJapaneseLine\":\"なんとか倒して捕まえる。\",\"translatedEnglishLine\":\"Somehow, defeat him and capture him.\"},{\"lineNumber\":254771,\"originalJapaneseLine\":\"卑怯ですと文句を言うハウゼルだが、カオスを突きつけられてそれまで\",\"translatedEnglishLine\":\"Howzer complains it's unfair, but when Chaos is threatened, he stops.\"},{\"lineNumber\":254772,\"originalJapaneseLine\":\"負けました・・せめて、死ぬ前にあの本を見せて下さい。\",\"translatedEnglishLine\":\"I've lost... At least, please let me see that book before I die.\"},{\"lineNumber\":254773,\"originalJapaneseLine\":\"それを見て・・あわあわと困るドエススキー、そこまでわしの本を・・\",\"translatedEnglishLine\":\"Seeing that... Doessky flustered and troubled, 'My book... to that extent...'\"},{\"lineNumber\":254774,\"originalJapaneseLine\":\"しかし、わしはなんて事をと・・作家苦悩とか\",\"translatedEnglishLine\":\"But what have I done... writer's anguish and such.\"},{\"lineNumber\":254775,\"originalJapaneseLine\":\"そんなのは無視してランスの決断\",\"translatedEnglishLine\":\"Ignoring all that, Rance's decision.\"},{\"lineNumber\":254776,\"originalJapaneseLine\":\"＞選択\",\"translatedEnglishLine\":\"> Choice\"},{\"lineNumber\":254777,\"originalJapaneseLine\":\"＞本を見せる\",\"translatedEnglishLine\":\"> Show the book\"},{\"lineNumber\":254778,\"originalJapaneseLine\":\"＞本を見せない\",\"translatedEnglishLine\":\"> Don't show the book\"},{\"lineNumber\":254779,\"originalJapaneseLine\":\"＞本を見せる\",\"translatedEnglishLine\":\"> Show the book\"},{\"lineNumber\":254780,\"originalJapaneseLine\":\"しばらく読むとハウゼルが怒る、なんだ・・これは・・\",\"translatedEnglishLine\":\"After reading for a while, Howzer gets angry, 'What... is this...?'\"},{\"lineNumber\":254781,\"originalJapaneseLine\":\"時間が無いドエススキーに適当にかかせたので無茶苦茶。\",\"translatedEnglishLine\":\"It was written messily because Doessky made it hastily without time.\"},{\"lineNumber\":254782,\"originalJapaneseLine\":\"もしくは白紙\",\"translatedEnglishLine\":\"Or it might be blank.\"},{\"lineNumber\":254783,\"originalJapaneseLine\":\"怒ったハウゼルにランス達は焼き殺されます\",\"translatedEnglishLine\":\"If Howzer gets angry, Rance and the others will be burned to death.\"},{\"lineNumber\":254784,\"originalJapaneseLine\":\"＞本を見せない\",\"translatedEnglishLine\":\"> Don't show the book\"},{\"lineNumber\":254785,\"originalJapaneseLine\":\"残念だな、お前もみただろう、２００名以上が並んでいた。\",\"translatedEnglishLine\":\"Too bad, you saw it too, right? Over 200 people were lined up.\"},{\"lineNumber\":254786,\"originalJapaneseLine\":\"とっくに売れてしまったわ。\",\"translatedEnglishLine\":\"It's already sold out long ago.\"},{\"lineNumber\":254787,\"originalJapaneseLine\":\"くっ・・・朝一で並んだのに・・\",\"translatedEnglishLine\":\"Ugh... even though I lined up first thing in the morning...\"},{\"lineNumber\":254788,\"originalJapaneseLine\":\"ま、任せろ、俺がどこかから奪い取ってきてやる。\",\"translatedEnglishLine\":\"Well, leave it to me, I'll snatch one from somewhere.\"},{\"lineNumber\":254789,\"originalJapaneseLine\":\"ほ、ほんとうなのか・・と　懐く\",\"translatedEnglishLine\":\"Reassured: \\\"R-Really...?\\\" and warms up.\"},{\"lineNumber\":254790,\"originalJapaneseLine\":\"俺の城に来い\",\"translatedEnglishLine\":\"Come to my castle.\"},{\"lineNumber\":254791,\"originalJapaneseLine\":\"わかった\",\"translatedEnglishLine\":\"Got it.\"},{\"lineNumber\":254792,\"originalJapaneseLine\":\"その頃、北部の戦場、魔軍司令部\",\"translatedEnglishLine\":\"At that time, northern battlefield, demon army headquarters.\"},{\"lineNumber\":254793,\"originalJapaneseLine\":\"魔物将軍、なんだと・・ハウゼルが人間共に捕まっただと・・\",\"translatedEnglishLine\":\"Demon general: What... Howzer was captured by the humans...?\"},{\"lineNumber\":254794,\"originalJapaneseLine\":\"火炎書士の報告聞く\",\"translatedEnglishLine\":\"Listens to the report from the flame scribe.\"},{\"lineNumber\":254795,\"originalJapaneseLine\":\"それを窓の外から来ているサイゼル\",\"translatedEnglishLine\":\"Saizel, coming from outside the window.\"},{\"lineNumber\":254796,\"originalJapaneseLine\":\"えっ、ハウゼルが捕まった・・て、あのカオスを持つ男にて事・・\",\"translatedEnglishLine\":\"Eh, Howzer was captured... by that man who wields Chaos...?\"},{\"lineNumber\":254797,\"originalJapaneseLine\":\"ガクガク、ぶるぶる・・・ハウゼルが無事なはずが無い・・・あの男に\",\"translatedEnglishLine\":\"Shaking uncontrollably... There's no way Howzer is safe... with that man.\"},{\"lineNumber\":254798,\"originalJapaneseLine\":\"ひどい事をされている、た、助けないと・・でも、怖い\",\"translatedEnglishLine\":\"He's being treated terribly, I-I've got to help him... but I'm scared.\"},{\"lineNumber\":254799,\"originalJapaneseLine\":\"どうしよう、魔物大将軍ヨシフ様に怒られる\",\"translatedEnglishLine\":\"What should I do? Demon General Yoshif will get angry.\"},{\"lineNumber\":254800,\"originalJapaneseLine\":\"魔物将軍はヨシフをとことん恐れている、そしてわれ先にと逃げ出す\",\"translatedEnglishLine\":\"The demon general fears Yoshif thoroughly, and they hurry to escape.\"},{\"lineNumber\":254801,\"originalJapaneseLine\":\"　\",\"translatedEnglishLine\":\"\"},{\"lineNumber\":254802,\"originalJapaneseLine\":\"３軍、４軍の司令部\",\"translatedEnglishLine\":\"Headquarters of the 3rd and 4th armies.\"},{\"lineNumber\":254803,\"originalJapaneseLine\":\"おかしいな、魔軍が止まったぞ、なんか動揺しているようだ\",\"translatedEnglishLine\":\"That's strange, the demon army has stopped. They seem shaken.\"},{\"lineNumber\":254804,\"originalJapaneseLine\":\"よし、いっきにいくぞーと\",\"translatedEnglishLine\":\"Alright, let's go all at once!\"},{\"lineNumber\":254805,\"originalJapaneseLine\":\"リーザス軍がいっきに盛り返すシーン\",\"translatedEnglishLine\":\"Scene where the Lizas army quickly recovers.\"},{\"lineNumber\":254806,\"originalJapaneseLine\":\"ランス城\",\"translatedEnglishLine\":\"Rance Castle.\"},{\"lineNumber\":254807,\"originalJapaneseLine\":\"サチコに図書室を案内されてご満悦なハウゼル\",\"translatedEnglishLine\":\"Howzer is delighted as Sachiko guides him through the library.\"},{\"lineNumber\":254808,\"originalJapaneseLine\":\"そこに、火炎司書が現れる。\",\"translatedEnglishLine\":\"Then, the Flame Scribe appears.\"},{\"lineNumber\":254809,\"originalJapaneseLine\":\"カオスに殺されているかと思ったけど無事だったのね\",\"translatedEnglishLine\":\"I thought you’d been killed by Chaos, but you’re safe.\"},{\"lineNumber\":254810,\"originalJapaneseLine\":\"さぁ、戻りましょう、\",\"translatedEnglishLine\":\"Come on, let’s go back.\"},{\"lineNumber\":254811,\"originalJapaneseLine\":\"ケイブリス様の命令に従わないとホーネット様が殺されてしまいますよ\",\"translatedEnglishLine\":\"If we don't obey Lord Kaibris's orders, Lord Hornet will be killed.\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 254752,
+                "originalJapaneseLine": "残念だったな、ここは鍾乳洞の中だぞ、自由には飛べまい",
+                "translatedEnglishLine": "Too bad, this is inside a limestone cave, you can't fly freely here."
+            },
+            {
+                "lineNumber": 254753,
+                "originalJapaneseLine": "むむ・・・",
+                "translatedEnglishLine": "Hmm..."
+            },
+            {
+                "lineNumber": 254754,
+                "originalJapaneseLine": "（こうして前回の戦闘で苦戦したハウゼルの飛行が封じられる）",
+                "translatedEnglishLine": "(Thus, Howzer's flying, which had struggled in the previous battle, is sealed off.)"
+            },
+            {
+                "lineNumber": 254755,
+                "originalJapaneseLine": "戦闘中の割り込みイベント　第２ターン",
+                "translatedEnglishLine": "Interrupt event during battle - Turn 2"
+            },
+            {
+                "lineNumber": 254756,
+                "originalJapaneseLine": "ハウゼルが得意の火炎攻撃をしようとした時",
+                "translatedEnglishLine": "When Howzer tried to use his specialty, the flame attack,"
+            },
+            {
+                "lineNumber": 254757,
+                "originalJapaneseLine": "おーーっと、ここにあるのは貴重な本だぞ、燃えてしまったらもう二度と",
+                "translatedEnglishLine": "Oh—wait, this is a valuable book here. If it burns, it will never be available again."
+            },
+            {
+                "lineNumber": 254758,
+                "originalJapaneseLine": "手に入らない、いいのかなぁ、燃やしてしまっても・・",
+                "translatedEnglishLine": "You can't get it anywhere else. Is it really okay to burn it...?"
+            },
+            {
+                "lineNumber": 254759,
+                "originalJapaneseLine": "ぐぬぬぬ・・",
+                "translatedEnglishLine": "Grrrr..."
+            },
+            {
+                "lineNumber": 254760,
+                "originalJapaneseLine": "（こうして前回の戦闘で苦戦したハウゼルの火炎攻撃が封じられる）",
+                "translatedEnglishLine": "(Thus, Howzer's flame attack, which had struggled in the previous battle, is sealed off.)"
+            },
+            {
+                "lineNumber": 254761,
+                "originalJapaneseLine": "戦闘中の割り込みイベント　ハウゼル体力４０％以下",
+                "translatedEnglishLine": "Interrupt event during battle - Howzer's HP below 40%"
+            },
+            {
+                "lineNumber": 254762,
+                "originalJapaneseLine": "炎、飛行を封じられだいぶピンチ",
+                "translatedEnglishLine": "With flames and flying sealed off, he's in quite a pinch."
+            },
+            {
+                "lineNumber": 254763,
+                "originalJapaneseLine": "　",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": 254764,
+                "originalJapaneseLine": "ぐっ・・・このままでは、そうだ逃げよう",
+                "translatedEnglishLine": "Ugh... at this rate, that's right, I should run away."
+            },
+            {
+                "lineNumber": 254765,
+                "originalJapaneseLine": "とハウゼルが洞窟の出口に向かおうとすると",
+                "translatedEnglishLine": "As Howzer attempts to head toward the cave exit,"
+            },
+            {
+                "lineNumber": 254766,
+                "originalJapaneseLine": "サクラ「あっ、ドラゴンパッチ７巻の残りわずかみたいだわ",
+                "translatedEnglishLine": "Sakura: \"Ah, it looks like there are only a few copies left of Dragon Patch Volume 7.\""
+            },
+            {
+                "lineNumber": 254767,
+                "originalJapaneseLine": "　　　　こんな戦いが始まって逃げ出したいけど、今並んでおかないと",
+                "translatedEnglishLine": "I've got this fight starting and want to run away, but if I don't line up now,"
+            },
+            {
+                "lineNumber": 254768,
+                "originalJapaneseLine": "　　　　２度と手に入らないわ」棒読み、　ネタ＝文字通りサクラ",
+                "translatedEnglishLine": "I'll never get it again.\" Monotone delivery, joke = literally Sakura."
+            },
+            {
+                "lineNumber": 254769,
+                "originalJapaneseLine": "ハウゼルは本が気になって逃げれない。",
+                "translatedEnglishLine": "Howzer can't run away because he's concerned about the book."
+            },
+            {
+                "lineNumber": 254770,
+                "originalJapaneseLine": "なんとか倒して捕まえる。",
+                "translatedEnglishLine": "Somehow, defeat him and capture him."
+            },
+            {
+                "lineNumber": 254771,
+                "originalJapaneseLine": "卑怯ですと文句を言うハウゼルだが、カオスを突きつけられてそれまで",
+                "translatedEnglishLine": "Howzer complains it's unfair, but when Chaos is threatened, he stops."
+            },
+            {
+                "lineNumber": 254772,
+                "originalJapaneseLine": "負けました・・せめて、死ぬ前にあの本を見せて下さい。",
+                "translatedEnglishLine": "I've lost... At least, please let me see that book before I die."
+            },
+            {
+                "lineNumber": 254773,
+                "originalJapaneseLine": "それを見て・・あわあわと困るドエススキー、そこまでわしの本を・・",
+                "translatedEnglishLine": "Seeing that... Doessky flustered and troubled, 'My book... to that extent...'"
+            },
+            {
+                "lineNumber": 254774,
+                "originalJapaneseLine": "しかし、わしはなんて事をと・・作家苦悩とか",
+                "translatedEnglishLine": "But what have I done... writer's anguish and such."
+            },
+            {
+                "lineNumber": 254775,
+                "originalJapaneseLine": "そんなのは無視してランスの決断",
+                "translatedEnglishLine": "Ignoring all that, Rance's decision."
+            },
+            {
+                "lineNumber": 254776,
+                "originalJapaneseLine": "＞選択",
+                "translatedEnglishLine": "> Choice"
+            },
+            {
+                "lineNumber": 254777,
+                "originalJapaneseLine": "＞本を見せる",
+                "translatedEnglishLine": "> Show the book"
+            },
+            {
+                "lineNumber": 254778,
+                "originalJapaneseLine": "＞本を見せない",
+                "translatedEnglishLine": "> Don't show the book"
+            },
+            {
+                "lineNumber": 254779,
+                "originalJapaneseLine": "＞本を見せる",
+                "translatedEnglishLine": "> Show the book"
+            },
+            {
+                "lineNumber": 254780,
+                "originalJapaneseLine": "しばらく読むとハウゼルが怒る、なんだ・・これは・・",
+                "translatedEnglishLine": "After reading for a while, Howzer gets angry, 'What... is this...?'"
+            },
+            {
+                "lineNumber": 254781,
+                "originalJapaneseLine": "時間が無いドエススキーに適当にかかせたので無茶苦茶。",
+                "translatedEnglishLine": "It was written messily because Doessky made it hastily without time."
+            },
+            {
+                "lineNumber": 254782,
+                "originalJapaneseLine": "もしくは白紙",
+                "translatedEnglishLine": "Or it might be blank."
+            },
+            {
+                "lineNumber": 254783,
+                "originalJapaneseLine": "怒ったハウゼルにランス達は焼き殺されます",
+                "translatedEnglishLine": "If Howzer gets angry, Rance and the others will be burned to death."
+            },
+            {
+                "lineNumber": 254784,
+                "originalJapaneseLine": "＞本を見せない",
+                "translatedEnglishLine": "> Don't show the book"
+            },
+            {
+                "lineNumber": 254785,
+                "originalJapaneseLine": "残念だな、お前もみただろう、２００名以上が並んでいた。",
+                "translatedEnglishLine": "Too bad, you saw it too, right? Over 200 people were lined up."
+            },
+            {
+                "lineNumber": 254786,
+                "originalJapaneseLine": "とっくに売れてしまったわ。",
+                "translatedEnglishLine": "It's already sold out long ago."
+            },
+            {
+                "lineNumber": 254787,
+                "originalJapaneseLine": "くっ・・・朝一で並んだのに・・",
+                "translatedEnglishLine": "Ugh... even though I lined up first thing in the morning..."
+            },
+            {
+                "lineNumber": 254788,
+                "originalJapaneseLine": "ま、任せろ、俺がどこかから奪い取ってきてやる。",
+                "translatedEnglishLine": "Well, leave it to me, I'll snatch one from somewhere."
+            },
+            {
+                "lineNumber": 254789,
+                "originalJapaneseLine": "ほ、ほんとうなのか・・と　懐く",
+                "translatedEnglishLine": "Reassured: \"R-Really...?\" and warms up."
+            },
+            {
+                "lineNumber": 254790,
+                "originalJapaneseLine": "俺の城に来い",
+                "translatedEnglishLine": "Come to my castle."
+            },
+            {
+                "lineNumber": 254791,
+                "originalJapaneseLine": "わかった",
+                "translatedEnglishLine": "Got it."
+            },
+            {
+                "lineNumber": 254792,
+                "originalJapaneseLine": "その頃、北部の戦場、魔軍司令部",
+                "translatedEnglishLine": "At that time, northern battlefield, demon army headquarters."
+            },
+            {
+                "lineNumber": 254793,
+                "originalJapaneseLine": "魔物将軍、なんだと・・ハウゼルが人間共に捕まっただと・・",
+                "translatedEnglishLine": "Demon general: What... Howzer was captured by the humans...?"
+            },
+            {
+                "lineNumber": 254794,
+                "originalJapaneseLine": "火炎書士の報告聞く",
+                "translatedEnglishLine": "Listens to the report from the flame scribe."
+            },
+            {
+                "lineNumber": 254795,
+                "originalJapaneseLine": "それを窓の外から来ているサイゼル",
+                "translatedEnglishLine": "Saizel, coming from outside the window."
+            },
+            {
+                "lineNumber": 254796,
+                "originalJapaneseLine": "えっ、ハウゼルが捕まった・・て、あのカオスを持つ男にて事・・",
+                "translatedEnglishLine": "Eh, Howzer was captured... by that man who wields Chaos...?"
+            },
+            {
+                "lineNumber": 254797,
+                "originalJapaneseLine": "ガクガク、ぶるぶる・・・ハウゼルが無事なはずが無い・・・あの男に",
+                "translatedEnglishLine": "Shaking uncontrollably... There's no way Howzer is safe... with that man."
+            },
+            {
+                "lineNumber": 254798,
+                "originalJapaneseLine": "ひどい事をされている、た、助けないと・・でも、怖い",
+                "translatedEnglishLine": "He's being treated terribly, I-I've got to help him... but I'm scared."
+            },
+            {
+                "lineNumber": 254799,
+                "originalJapaneseLine": "どうしよう、魔物大将軍ヨシフ様に怒られる",
+                "translatedEnglishLine": "What should I do? Demon General Yoshif will get angry."
+            },
+            {
+                "lineNumber": 254800,
+                "originalJapaneseLine": "魔物将軍はヨシフをとことん恐れている、そしてわれ先にと逃げ出す",
+                "translatedEnglishLine": "The demon general fears Yoshif thoroughly, and they hurry to escape."
+            },
+            {
+                "lineNumber": 254801,
+                "originalJapaneseLine": "　",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": 254802,
+                "originalJapaneseLine": "３軍、４軍の司令部",
+                "translatedEnglishLine": "Headquarters of the 3rd and 4th armies."
+            },
+            {
+                "lineNumber": 254803,
+                "originalJapaneseLine": "おかしいな、魔軍が止まったぞ、なんか動揺しているようだ",
+                "translatedEnglishLine": "That's strange, the demon army has stopped. They seem shaken."
+            },
+            {
+                "lineNumber": 254804,
+                "originalJapaneseLine": "よし、いっきにいくぞーと",
+                "translatedEnglishLine": "Alright, let's go all at once!"
+            },
+            {
+                "lineNumber": 254805,
+                "originalJapaneseLine": "リーザス軍がいっきに盛り返すシーン",
+                "translatedEnglishLine": "Scene where the Lizas army quickly recovers."
+            },
+            {
+                "lineNumber": 254806,
+                "originalJapaneseLine": "ランス城",
+                "translatedEnglishLine": "Rance Castle."
+            },
+            {
+                "lineNumber": 254807,
+                "originalJapaneseLine": "サチコに図書室を案内されてご満悦なハウゼル",
+                "translatedEnglishLine": "Howzer is delighted as Sachiko guides him through the library."
+            },
+            {
+                "lineNumber": 254808,
+                "originalJapaneseLine": "そこに、火炎司書が現れる。",
+                "translatedEnglishLine": "Then, the Flame Scribe appears."
+            },
+            {
+                "lineNumber": 254809,
+                "originalJapaneseLine": "カオスに殺されているかと思ったけど無事だったのね",
+                "translatedEnglishLine": "I thought you’d been killed by Chaos, but you’re safe."
+            },
+            {
+                "lineNumber": 254810,
+                "originalJapaneseLine": "さぁ、戻りましょう、",
+                "translatedEnglishLine": "Come on, let’s go back."
+            },
+            {
+                "lineNumber": 254811,
+                "originalJapaneseLine": "ケイブリス様の命令に従わないとホーネット様が殺されてしまいますよ",
+                "translatedEnglishLine": "If we don't obey Lord Kaibris's orders, Lord Hornet will be killed."
+            }
+        ]
+    }
+}

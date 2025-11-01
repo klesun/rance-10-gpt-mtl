@@ -1,1 +1,619 @@
-{"id":"resp_0a28549701c65e990068f01107bc448195acb2aee3a0b0e960","object":"response","created_at":1760563463,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0a28549701c65e990068f0110854a08195a7c520eb4a67ed37","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 80241,\n      \"originalJapaneseLine\": \"「駄目だ駄目だ。」\",\n      \"translatedEnglishLine\": \"\\\"No, no.\\\"\"\n    },\n    {\n      \"lineNumber\": 80242,\n      \"originalJapaneseLine\": \"　そんなことぜーったいにせんぞ」\",\n      \"translatedEnglishLine\": \"I absolutely won't do such a thing.\\\"\"\n    },\n    {\n      \"lineNumber\": 80243,\n      \"originalJapaneseLine\": \"「いえ、最初から無意味です」\",\n      \"translatedEnglishLine\": \"\\\"No, it’s meaningless from the start.\\\"\"\n    },\n    {\n      \"lineNumber\": 80244,\n      \"originalJapaneseLine\": \"「美樹さんを殺しても……\",\n      \"translatedEnglishLine\": \"\\\"Even if you kill Miki-san...\\\"\"\n    },\n    {\n      \"lineNumber\": 80245,\n      \"originalJapaneseLine\": \"　なにも解決しませんから」\",\n      \"translatedEnglishLine\": \"Nothing will be solved.\\\"\"\n    },\n    {\n      \"lineNumber\": 80246,\n      \"originalJapaneseLine\": \"「何故だ？」\",\n      \"translatedEnglishLine\": \"\\\"Why?\\\"\"\n    },\n    {\n      \"lineNumber\": 80247,\n      \"originalJapaneseLine\": \"「なんでもです」\",\n      \"translatedEnglishLine\": \"\\\"Because that’s just how it is.\\\"\"\n    },\n    {\n      \"lineNumber\": 80248,\n      \"originalJapaneseLine\": \"「残念ながら、\",\n      \"translatedEnglishLine\": \"\\\"Unfortunately,\\\"\"\n    },\n    {\n      \"lineNumber\": 80249,\n      \"originalJapaneseLine\": \"　そういう風にこの世は出来ています」\",\n      \"translatedEnglishLine\": \"the world is made that way.\\\"\"\n    },\n    {\n      \"lineNumber\": 80250,\n      \"originalJapaneseLine\": \"「……よく分からんが、\",\n      \"translatedEnglishLine\": \"\\\"...I don’t really understand, but\\\"\"\n    },\n    {\n      \"lineNumber\": 80251,\n      \"originalJapaneseLine\": \"　まあ、お前が言うならそうなんだろうな」\",\n      \"translatedEnglishLine\": \"well, if you say so, then it must be true.\\\"\"\n    },\n    {\n      \"lineNumber\": 80252,\n      \"originalJapaneseLine\": \"「なら、それ以外の解決策を見つけるだけだ」\",\n      \"translatedEnglishLine\": \"\\\"Then, we just have to find another solution.\\\"\"\n    },\n    {\n      \"lineNumber\": 80253,\n      \"originalJapaneseLine\": \"「ランス様、何か策があるんですか？」\",\n      \"translatedEnglishLine\": \"\\\"Master Rance, do you have any plan?\\\"\"\n    },\n    {\n      \"lineNumber\": 80254,\n      \"originalJapaneseLine\": \"「クルックーもミラクルも\",\n      \"translatedEnglishLine\": \"\\\"Things that Klook and Miracle haven’t even tried,\\\"\"\n    },\n    {\n      \"lineNumber\": 80255,\n      \"originalJapaneseLine\": \"　試さなかったようなことをあれこれ試す」\",\n      \"translatedEnglishLine\": \"we’ll try all sorts of things like that.\\\"\"\n    },\n    {\n      \"lineNumber\": 80256,\n      \"originalJapaneseLine\": \"「まずはお湯でもぶっかけてみよう。\",\n      \"translatedEnglishLine\": \"\\\"First, let's try pouring hot water on her.\"\n    },\n    {\n      \"lineNumber\": 80257,\n      \"originalJapaneseLine\": \"　それが駄目なら冷水もかける」\",\n      \"translatedEnglishLine\": \"If that doesn’t work, then cold water.\\\"\"\n    },\n    {\n      \"lineNumber\": 80258,\n      \"originalJapaneseLine\": \"「……カオスマスター、\",\n      \"translatedEnglishLine\": \"\\\"...Chaos Master,\"\n    },\n    {\n      \"lineNumber\": 80259,\n      \"originalJapaneseLine\": \"　ふざけているわけではないよな？」\",\n      \"translatedEnglishLine\": \"you’re not joking, right?\\\"\"\n    },\n    {\n      \"lineNumber\": 80260,\n      \"originalJapaneseLine\": \"「大真面目だ馬鹿者！」\",\n      \"translatedEnglishLine\": \"\\\"I’m dead serious, idiot!\\\"\"\n    },\n    {\n      \"lineNumber\": 80261,\n      \"originalJapaneseLine\": \"「お前らがしてなさそうなことと言ったら\",\n      \"translatedEnglishLine\": \"\\\"If you say things we haven’t tried yet,\"\n    },\n    {\n      \"lineNumber\": 80262,\n      \"originalJapaneseLine\": \"　もうそういうアホらしいことしかなかろう」\",\n      \"translatedEnglishLine\": \"there’s probably nothing left but such foolish things.\\\"\"\n    },\n    {\n      \"lineNumber\": 80263,\n      \"originalJapaneseLine\": \"「おい、誰か牛乳を大量に用意しろ。\",\n      \"translatedEnglishLine\": \"\\\"Hey, someone get a large amount of milk ready.\"\n    },\n    {\n      \"lineNumber\": 80264,\n      \"originalJapaneseLine\": \"　漬け込んでみる」\",\n      \"translatedEnglishLine\": \"We’ll try soaking her in it.\\\"\"\n    },\n    {\n      \"lineNumber\": 80265,\n      \"originalJapaneseLine\": \"「くさみ抜きか？」\",\n      \"translatedEnglishLine\": \"\\\"To remove the smell?\\\"\"\n    },\n    {\n      \"lineNumber\": 80266,\n      \"originalJapaneseLine\": \"「えーい、茶化すな！」\",\n      \"translatedEnglishLine\": \"\\\"Hey, don’t mock me!\\\"\"\n    },\n    {\n      \"lineNumber\": 80267,\n      \"originalJapaneseLine\": \"…………\",\n      \"translatedEnglishLine\": \"…………\"\n    },\n    {\n      \"lineNumber\": 80268,\n      \"originalJapaneseLine\": \"……\",\n      \"translatedEnglishLine\": \"……\"\n    },\n    {\n      \"lineNumber\": 80269,\n      \"originalJapaneseLine\": \"ランス達は思いつく限りの対策を講じてみたが、\",\n      \"translatedEnglishLine\": \"Rance and the others tried every possible countermeasure,\"\n    },\n    {\n      \"lineNumber\": 80270,\n      \"originalJapaneseLine\": \"魔王化を止めることは出来なかった。\",\n      \"translatedEnglishLine\": \"but they could not stop the transformation into the Demon King.\"\n    },\n    {\n      \"lineNumber\": 80271,\n      \"originalJapaneseLine\": \"「はあはあ……\",\n      \"translatedEnglishLine\": \"\\\"Haa, haa...\\\"\"\n    },\n    {\n      \"lineNumber\": 80272,\n      \"originalJapaneseLine\": \"　くそ、これだけやって駄目か……」\",\n      \"translatedEnglishLine\": \"Damn, after all that, it’s no good...\\\"\"\n    },\n    {\n      \"lineNumber\": 80273,\n      \"originalJapaneseLine\": \"「うう……このままじゃ……\",\n      \"translatedEnglishLine\": \"\\\"Ugh... if this keeps up...\\\"\"\n    },\n    {\n      \"lineNumber\": 80274,\n      \"originalJapaneseLine\": \"　本当に美樹ちゃんが魔王に……」\",\n      \"translatedEnglishLine\": \"Miki-chan will really become the Demon King...\\\"\"\n    },\n    {\n      \"lineNumber\": 80275,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"............\\\"\"\n    },\n    {\n      \"lineNumber\": 80276,\n      \"originalJapaneseLine\": \"「シィル、部屋に戻るぞ」\",\n      \"translatedEnglishLine\": \"\\\"Seal, let’s go back to the room.\\\"\"\n    },\n    {\n      \"lineNumber\": 80277,\n      \"originalJapaneseLine\": \"「えっ？」\",\n      \"translatedEnglishLine\": \"\\\"Huh?\\\"\"\n    },\n    {\n      \"lineNumber\": 80278,\n      \"originalJapaneseLine\": \"「飽きた。セックスする」\",\n      \"translatedEnglishLine\": \"\\\"I’m bored. Let’s have sex.\\\"\"\n    },\n    {\n      \"lineNumber\": 80279,\n      \"originalJapaneseLine\": \"「え、ええっ……」\",\n      \"translatedEnglishLine\": \"\\\"Eh, ehh...\\\"\"\n    },\n    {\n      \"lineNumber\": 80280,\n      \"originalJapaneseLine\": \"「待って下さい、総統！\",\n      \"translatedEnglishLine\": \"\\\"Please wait, Commander!\"\n    },\n    {\n      \"lineNumber\": 80281,\n      \"originalJapaneseLine\": \"　そんな無責任な！」\",\n      \"translatedEnglishLine\": \"That’s so irresponsible!\\\"\"\n    },\n    {\n      \"lineNumber\": 80282,\n      \"originalJapaneseLine\": \"「百発はやるぞー」\",\n      \"translatedEnglishLine\": \"\\\"I’ll do it a hundred times!\\\"\"\n    },\n    {\n      \"lineNumber\": 80283,\n      \"originalJapaneseLine\": \"「あっ、この……」\",\n      \"translatedEnglishLine\": \"\\\"Ah, um...\\\"\"\n    },\n    {\n      \"lineNumber\": 80284,\n      \"originalJapaneseLine\": \"「気にするな、クリーム・ガノブレード。\",\n      \"translatedEnglishLine\": \"\\\"Don’t worry about it, Cream Ganoblade.\"\n    },\n    {\n      \"lineNumber\": 80285,\n      \"originalJapaneseLine\": \"　カオスマスターにそっち方面で期待は\",\n      \"translatedEnglishLine\": \"Neither I nor the Pope have any expectations of Chaos Master in that area.\"\n    },\n    {\n      \"lineNumber\": 80286,\n      \"originalJapaneseLine\": \"　余も法王もしておらん」\",\n      \"translatedEnglishLine\": \"\"\n    },\n    {\n      \"lineNumber\": 80287,\n      \"originalJapaneseLine\": \"「そうですね」\",\n      \"translatedEnglishLine\": \"\\\"That’s true.\\\"\"\n    },\n    {\n      \"lineNumber\": 80288,\n      \"originalJapaneseLine\": \"「ああ、もう……」\",\n      \"translatedEnglishLine\": \"\\\"Ah, geez...\\\"\"\n    },\n    {\n      \"lineNumber\": 80289,\n      \"originalJapaneseLine\": \"頭痛を抑えるように、\",\n      \"translatedEnglishLine\": \"Trying to relieve her headache,\"\n    },\n    {\n      \"lineNumber\": 80290,\n      \"originalJapaneseLine\": \"クリームが頭を手で押さえる。\",\n      \"translatedEnglishLine\": \"Cream held her head with her hands.\"\n    }\n  ]\n}","parsed":{"translationLines":[{"lineNumber":80241,"originalJapaneseLine":"「駄目だ駄目だ。」","translatedEnglishLine":"\"No, no.\""},{"lineNumber":80242,"originalJapaneseLine":"　そんなことぜーったいにせんぞ」","translatedEnglishLine":"I absolutely won't do such a thing.\""},{"lineNumber":80243,"originalJapaneseLine":"「いえ、最初から無意味です」","translatedEnglishLine":"\"No, it’s meaningless from the start.\""},{"lineNumber":80244,"originalJapaneseLine":"「美樹さんを殺しても……","translatedEnglishLine":"\"Even if you kill Miki-san...\""},{"lineNumber":80245,"originalJapaneseLine":"　なにも解決しませんから」","translatedEnglishLine":"Nothing will be solved.\""},{"lineNumber":80246,"originalJapaneseLine":"「何故だ？」","translatedEnglishLine":"\"Why?\""},{"lineNumber":80247,"originalJapaneseLine":"「なんでもです」","translatedEnglishLine":"\"Because that’s just how it is.\""},{"lineNumber":80248,"originalJapaneseLine":"「残念ながら、","translatedEnglishLine":"\"Unfortunately,\""},{"lineNumber":80249,"originalJapaneseLine":"　そういう風にこの世は出来ています」","translatedEnglishLine":"the world is made that way.\""},{"lineNumber":80250,"originalJapaneseLine":"「……よく分からんが、","translatedEnglishLine":"\"...I don’t really understand, but\""},{"lineNumber":80251,"originalJapaneseLine":"　まあ、お前が言うならそうなんだろうな」","translatedEnglishLine":"well, if you say so, then it must be true.\""},{"lineNumber":80252,"originalJapaneseLine":"「なら、それ以外の解決策を見つけるだけだ」","translatedEnglishLine":"\"Then, we just have to find another solution.\""},{"lineNumber":80253,"originalJapaneseLine":"「ランス様、何か策があるんですか？」","translatedEnglishLine":"\"Master Rance, do you have any plan?\""},{"lineNumber":80254,"originalJapaneseLine":"「クルックーもミラクルも","translatedEnglishLine":"\"Things that Klook and Miracle haven’t even tried,\""},{"lineNumber":80255,"originalJapaneseLine":"　試さなかったようなことをあれこれ試す」","translatedEnglishLine":"we’ll try all sorts of things like that.\""},{"lineNumber":80256,"originalJapaneseLine":"「まずはお湯でもぶっかけてみよう。","translatedEnglishLine":"\"First, let's try pouring hot water on her."},{"lineNumber":80257,"originalJapaneseLine":"　それが駄目なら冷水もかける」","translatedEnglishLine":"If that doesn’t work, then cold water.\""},{"lineNumber":80258,"originalJapaneseLine":"「……カオスマスター、","translatedEnglishLine":"\"...Chaos Master,"},{"lineNumber":80259,"originalJapaneseLine":"　ふざけているわけではないよな？」","translatedEnglishLine":"you’re not joking, right?\""},{"lineNumber":80260,"originalJapaneseLine":"「大真面目だ馬鹿者！」","translatedEnglishLine":"\"I’m dead serious, idiot!\""},{"lineNumber":80261,"originalJapaneseLine":"「お前らがしてなさそうなことと言ったら","translatedEnglishLine":"\"If you say things we haven’t tried yet,"},{"lineNumber":80262,"originalJapaneseLine":"　もうそういうアホらしいことしかなかろう」","translatedEnglishLine":"there’s probably nothing left but such foolish things.\""},{"lineNumber":80263,"originalJapaneseLine":"「おい、誰か牛乳を大量に用意しろ。","translatedEnglishLine":"\"Hey, someone get a large amount of milk ready."},{"lineNumber":80264,"originalJapaneseLine":"　漬け込んでみる」","translatedEnglishLine":"We’ll try soaking her in it.\""},{"lineNumber":80265,"originalJapaneseLine":"「くさみ抜きか？」","translatedEnglishLine":"\"To remove the smell?\""},{"lineNumber":80266,"originalJapaneseLine":"「えーい、茶化すな！」","translatedEnglishLine":"\"Hey, don’t mock me!\""},{"lineNumber":80267,"originalJapaneseLine":"…………","translatedEnglishLine":"…………"},{"lineNumber":80268,"originalJapaneseLine":"……","translatedEnglishLine":"……"},{"lineNumber":80269,"originalJapaneseLine":"ランス達は思いつく限りの対策を講じてみたが、","translatedEnglishLine":"Rance and the others tried every possible countermeasure,"},{"lineNumber":80270,"originalJapaneseLine":"魔王化を止めることは出来なかった。","translatedEnglishLine":"but they could not stop the transformation into the Demon King."},{"lineNumber":80271,"originalJapaneseLine":"「はあはあ……","translatedEnglishLine":"\"Haa, haa...\""},{"lineNumber":80272,"originalJapaneseLine":"　くそ、これだけやって駄目か……」","translatedEnglishLine":"Damn, after all that, it’s no good...\""},{"lineNumber":80273,"originalJapaneseLine":"「うう……このままじゃ……","translatedEnglishLine":"\"Ugh... if this keeps up...\""},{"lineNumber":80274,"originalJapaneseLine":"　本当に美樹ちゃんが魔王に……」","translatedEnglishLine":"Miki-chan will really become the Demon King...\""},{"lineNumber":80275,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"............\""},{"lineNumber":80276,"originalJapaneseLine":"「シィル、部屋に戻るぞ」","translatedEnglishLine":"\"Seal, let’s go back to the room.\""},{"lineNumber":80277,"originalJapaneseLine":"「えっ？」","translatedEnglishLine":"\"Huh?\""},{"lineNumber":80278,"originalJapaneseLine":"「飽きた。セックスする」","translatedEnglishLine":"\"I’m bored. Let’s have sex.\""},{"lineNumber":80279,"originalJapaneseLine":"「え、ええっ……」","translatedEnglishLine":"\"Eh, ehh...\""},{"lineNumber":80280,"originalJapaneseLine":"「待って下さい、総統！","translatedEnglishLine":"\"Please wait, Commander!"},{"lineNumber":80281,"originalJapaneseLine":"　そんな無責任な！」","translatedEnglishLine":"That’s so irresponsible!\""},{"lineNumber":80282,"originalJapaneseLine":"「百発はやるぞー」","translatedEnglishLine":"\"I’ll do it a hundred times!\""},{"lineNumber":80283,"originalJapaneseLine":"「あっ、この……」","translatedEnglishLine":"\"Ah, um...\""},{"lineNumber":80284,"originalJapaneseLine":"「気にするな、クリーム・ガノブレード。","translatedEnglishLine":"\"Don’t worry about it, Cream Ganoblade."},{"lineNumber":80285,"originalJapaneseLine":"　カオスマスターにそっち方面で期待は","translatedEnglishLine":"Neither I nor the Pope have any expectations of Chaos Master in that area."},{"lineNumber":80286,"originalJapaneseLine":"　余も法王もしておらん」","translatedEnglishLine":""},{"lineNumber":80287,"originalJapaneseLine":"「そうですね」","translatedEnglishLine":"\"That’s true.\""},{"lineNumber":80288,"originalJapaneseLine":"「ああ、もう……」","translatedEnglishLine":"\"Ah, geez...\""},{"lineNumber":80289,"originalJapaneseLine":"頭痛を抑えるように、","translatedEnglishLine":"Trying to relieve her headache,"},{"lineNumber":80290,"originalJapaneseLine":"クリームが頭を手で押さえる。","translatedEnglishLine":"Cream held her head with her hands."}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1366,"input_tokens_details":{"cached_tokens":0},"output_tokens":2331,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3697},"user":null,"metadata":{},"output_text":"{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 80241,\n      \"originalJapaneseLine\": \"「駄目だ駄目だ。」\",\n      \"translatedEnglishLine\": \"\\\"No, no.\\\"\"\n    },\n    {\n      \"lineNumber\": 80242,\n      \"originalJapaneseLine\": \"　そんなことぜーったいにせんぞ」\",\n      \"translatedEnglishLine\": \"I absolutely won't do such a thing.\\\"\"\n    },\n    {\n      \"lineNumber\": 80243,\n      \"originalJapaneseLine\": \"「いえ、最初から無意味です」\",\n      \"translatedEnglishLine\": \"\\\"No, it’s meaningless from the start.\\\"\"\n    },\n    {\n      \"lineNumber\": 80244,\n      \"originalJapaneseLine\": \"「美樹さんを殺しても……\",\n      \"translatedEnglishLine\": \"\\\"Even if you kill Miki-san...\\\"\"\n    },\n    {\n      \"lineNumber\": 80245,\n      \"originalJapaneseLine\": \"　なにも解決しませんから」\",\n      \"translatedEnglishLine\": \"Nothing will be solved.\\\"\"\n    },\n    {\n      \"lineNumber\": 80246,\n      \"originalJapaneseLine\": \"「何故だ？」\",\n      \"translatedEnglishLine\": \"\\\"Why?\\\"\"\n    },\n    {\n      \"lineNumber\": 80247,\n      \"originalJapaneseLine\": \"「なんでもです」\",\n      \"translatedEnglishLine\": \"\\\"Because that’s just how it is.\\\"\"\n    },\n    {\n      \"lineNumber\": 80248,\n      \"originalJapaneseLine\": \"「残念ながら、\",\n      \"translatedEnglishLine\": \"\\\"Unfortunately,\\\"\"\n    },\n    {\n      \"lineNumber\": 80249,\n      \"originalJapaneseLine\": \"　そういう風にこの世は出来ています」\",\n      \"translatedEnglishLine\": \"the world is made that way.\\\"\"\n    },\n    {\n      \"lineNumber\": 80250,\n      \"originalJapaneseLine\": \"「……よく分からんが、\",\n      \"translatedEnglishLine\": \"\\\"...I don’t really understand, but\\\"\"\n    },\n    {\n      \"lineNumber\": 80251,\n      \"originalJapaneseLine\": \"　まあ、お前が言うならそうなんだろうな」\",\n      \"translatedEnglishLine\": \"well, if you say so, then it must be true.\\\"\"\n    },\n    {\n      \"lineNumber\": 80252,\n      \"originalJapaneseLine\": \"「なら、それ以外の解決策を見つけるだけだ」\",\n      \"translatedEnglishLine\": \"\\\"Then, we just have to find another solution.\\\"\"\n    },\n    {\n      \"lineNumber\": 80253,\n      \"originalJapaneseLine\": \"「ランス様、何か策があるんですか？」\",\n      \"translatedEnglishLine\": \"\\\"Master Rance, do you have any plan?\\\"\"\n    },\n    {\n      \"lineNumber\": 80254,\n      \"originalJapaneseLine\": \"「クルックーもミラクルも\",\n      \"translatedEnglishLine\": \"\\\"Things that Klook and Miracle haven’t even tried,\\\"\"\n    },\n    {\n      \"lineNumber\": 80255,\n      \"originalJapaneseLine\": \"　試さなかったようなことをあれこれ試す」\",\n      \"translatedEnglishLine\": \"we’ll try all sorts of things like that.\\\"\"\n    },\n    {\n      \"lineNumber\": 80256,\n      \"originalJapaneseLine\": \"「まずはお湯でもぶっかけてみよう。\",\n      \"translatedEnglishLine\": \"\\\"First, let's try pouring hot water on her.\"\n    },\n    {\n      \"lineNumber\": 80257,\n      \"originalJapaneseLine\": \"　それが駄目なら冷水もかける」\",\n      \"translatedEnglishLine\": \"If that doesn’t work, then cold water.\\\"\"\n    },\n    {\n      \"lineNumber\": 80258,\n      \"originalJapaneseLine\": \"「……カオスマスター、\",\n      \"translatedEnglishLine\": \"\\\"...Chaos Master,\"\n    },\n    {\n      \"lineNumber\": 80259,\n      \"originalJapaneseLine\": \"　ふざけているわけではないよな？」\",\n      \"translatedEnglishLine\": \"you’re not joking, right?\\\"\"\n    },\n    {\n      \"lineNumber\": 80260,\n      \"originalJapaneseLine\": \"「大真面目だ馬鹿者！」\",\n      \"translatedEnglishLine\": \"\\\"I’m dead serious, idiot!\\\"\"\n    },\n    {\n      \"lineNumber\": 80261,\n      \"originalJapaneseLine\": \"「お前らがしてなさそうなことと言ったら\",\n      \"translatedEnglishLine\": \"\\\"If you say things we haven’t tried yet,\"\n    },\n    {\n      \"lineNumber\": 80262,\n      \"originalJapaneseLine\": \"　もうそういうアホらしいことしかなかろう」\",\n      \"translatedEnglishLine\": \"there’s probably nothing left but such foolish things.\\\"\"\n    },\n    {\n      \"lineNumber\": 80263,\n      \"originalJapaneseLine\": \"「おい、誰か牛乳を大量に用意しろ。\",\n      \"translatedEnglishLine\": \"\\\"Hey, someone get a large amount of milk ready.\"\n    },\n    {\n      \"lineNumber\": 80264,\n      \"originalJapaneseLine\": \"　漬け込んでみる」\",\n      \"translatedEnglishLine\": \"We’ll try soaking her in it.\\\"\"\n    },\n    {\n      \"lineNumber\": 80265,\n      \"originalJapaneseLine\": \"「くさみ抜きか？」\",\n      \"translatedEnglishLine\": \"\\\"To remove the smell?\\\"\"\n    },\n    {\n      \"lineNumber\": 80266,\n      \"originalJapaneseLine\": \"「えーい、茶化すな！」\",\n      \"translatedEnglishLine\": \"\\\"Hey, don’t mock me!\\\"\"\n    },\n    {\n      \"lineNumber\": 80267,\n      \"originalJapaneseLine\": \"…………\",\n      \"translatedEnglishLine\": \"…………\"\n    },\n    {\n      \"lineNumber\": 80268,\n      \"originalJapaneseLine\": \"……\",\n      \"translatedEnglishLine\": \"……\"\n    },\n    {\n      \"lineNumber\": 80269,\n      \"originalJapaneseLine\": \"ランス達は思いつく限りの対策を講じてみたが、\",\n      \"translatedEnglishLine\": \"Rance and the others tried every possible countermeasure,\"\n    },\n    {\n      \"lineNumber\": 80270,\n      \"originalJapaneseLine\": \"魔王化を止めることは出来なかった。\",\n      \"translatedEnglishLine\": \"but they could not stop the transformation into the Demon King.\"\n    },\n    {\n      \"lineNumber\": 80271,\n      \"originalJapaneseLine\": \"「はあはあ……\",\n      \"translatedEnglishLine\": \"\\\"Haa, haa...\\\"\"\n    },\n    {\n      \"lineNumber\": 80272,\n      \"originalJapaneseLine\": \"　くそ、これだけやって駄目か……」\",\n      \"translatedEnglishLine\": \"Damn, after all that, it’s no good...\\\"\"\n    },\n    {\n      \"lineNumber\": 80273,\n      \"originalJapaneseLine\": \"「うう……このままじゃ……\",\n      \"translatedEnglishLine\": \"\\\"Ugh... if this keeps up...\\\"\"\n    },\n    {\n      \"lineNumber\": 80274,\n      \"originalJapaneseLine\": \"　本当に美樹ちゃんが魔王に……」\",\n      \"translatedEnglishLine\": \"Miki-chan will really become the Demon King...\\\"\"\n    },\n    {\n      \"lineNumber\": 80275,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"............\\\"\"\n    },\n    {\n      \"lineNumber\": 80276,\n      \"originalJapaneseLine\": \"「シィル、部屋に戻るぞ」\",\n      \"translatedEnglishLine\": \"\\\"Seal, let’s go back to the room.\\\"\"\n    },\n    {\n      \"lineNumber\": 80277,\n      \"originalJapaneseLine\": \"「えっ？」\",\n      \"translatedEnglishLine\": \"\\\"Huh?\\\"\"\n    },\n    {\n      \"lineNumber\": 80278,\n      \"originalJapaneseLine\": \"「飽きた。セックスする」\",\n      \"translatedEnglishLine\": \"\\\"I’m bored. Let’s have sex.\\\"\"\n    },\n    {\n      \"lineNumber\": 80279,\n      \"originalJapaneseLine\": \"「え、ええっ……」\",\n      \"translatedEnglishLine\": \"\\\"Eh, ehh...\\\"\"\n    },\n    {\n      \"lineNumber\": 80280,\n      \"originalJapaneseLine\": \"「待って下さい、総統！\",\n      \"translatedEnglishLine\": \"\\\"Please wait, Commander!\"\n    },\n    {\n      \"lineNumber\": 80281,\n      \"originalJapaneseLine\": \"　そんな無責任な！」\",\n      \"translatedEnglishLine\": \"That’s so irresponsible!\\\"\"\n    },\n    {\n      \"lineNumber\": 80282,\n      \"originalJapaneseLine\": \"「百発はやるぞー」\",\n      \"translatedEnglishLine\": \"\\\"I’ll do it a hundred times!\\\"\"\n    },\n    {\n      \"lineNumber\": 80283,\n      \"originalJapaneseLine\": \"「あっ、この……」\",\n      \"translatedEnglishLine\": \"\\\"Ah, um...\\\"\"\n    },\n    {\n      \"lineNumber\": 80284,\n      \"originalJapaneseLine\": \"「気にするな、クリーム・ガノブレード。\",\n      \"translatedEnglishLine\": \"\\\"Don’t worry about it, Cream Ganoblade.\"\n    },\n    {\n      \"lineNumber\": 80285,\n      \"originalJapaneseLine\": \"　カオスマスターにそっち方面で期待は\",\n      \"translatedEnglishLine\": \"Neither I nor the Pope have any expectations of Chaos Master in that area.\"\n    },\n    {\n      \"lineNumber\": 80286,\n      \"originalJapaneseLine\": \"　余も法王もしておらん」\",\n      \"translatedEnglishLine\": \"\"\n    },\n    {\n      \"lineNumber\": 80287,\n      \"originalJapaneseLine\": \"「そうですね」\",\n      \"translatedEnglishLine\": \"\\\"That’s true.\\\"\"\n    },\n    {\n      \"lineNumber\": 80288,\n      \"originalJapaneseLine\": \"「ああ、もう……」\",\n      \"translatedEnglishLine\": \"\\\"Ah, geez...\\\"\"\n    },\n    {\n      \"lineNumber\": 80289,\n      \"originalJapaneseLine\": \"頭痛を抑えるように、\",\n      \"translatedEnglishLine\": \"Trying to relieve her headache,\"\n    },\n    {\n      \"lineNumber\": 80290,\n      \"originalJapaneseLine\": \"クリームが頭を手で押さえる。\",\n      \"translatedEnglishLine\": \"Cream held her head with her hands.\"\n    }\n  ]\n}","output_parsed":{"translationLines":[{"lineNumber":80241,"originalJapaneseLine":"「駄目だ駄目だ。」","translatedEnglishLine":"\"No, no.\""},{"lineNumber":80242,"originalJapaneseLine":"　そんなことぜーったいにせんぞ」","translatedEnglishLine":"I absolutely won't do such a thing.\""},{"lineNumber":80243,"originalJapaneseLine":"「いえ、最初から無意味です」","translatedEnglishLine":"\"No, it’s meaningless from the start.\""},{"lineNumber":80244,"originalJapaneseLine":"「美樹さんを殺しても……","translatedEnglishLine":"\"Even if you kill Miki-san...\""},{"lineNumber":80245,"originalJapaneseLine":"　なにも解決しませんから」","translatedEnglishLine":"Nothing will be solved.\""},{"lineNumber":80246,"originalJapaneseLine":"「何故だ？」","translatedEnglishLine":"\"Why?\""},{"lineNumber":80247,"originalJapaneseLine":"「なんでもです」","translatedEnglishLine":"\"Because that’s just how it is.\""},{"lineNumber":80248,"originalJapaneseLine":"「残念ながら、","translatedEnglishLine":"\"Unfortunately,\""},{"lineNumber":80249,"originalJapaneseLine":"　そういう風にこの世は出来ています」","translatedEnglishLine":"the world is made that way.\""},{"lineNumber":80250,"originalJapaneseLine":"「……よく分からんが、","translatedEnglishLine":"\"...I don’t really understand, but\""},{"lineNumber":80251,"originalJapaneseLine":"　まあ、お前が言うならそうなんだろうな」","translatedEnglishLine":"well, if you say so, then it must be true.\""},{"lineNumber":80252,"originalJapaneseLine":"「なら、それ以外の解決策を見つけるだけだ」","translatedEnglishLine":"\"Then, we just have to find another solution.\""},{"lineNumber":80253,"originalJapaneseLine":"「ランス様、何か策があるんですか？」","translatedEnglishLine":"\"Master Rance, do you have any plan?\""},{"lineNumber":80254,"originalJapaneseLine":"「クルックーもミラクルも","translatedEnglishLine":"\"Things that Klook and Miracle haven’t even tried,\""},{"lineNumber":80255,"originalJapaneseLine":"　試さなかったようなことをあれこれ試す」","translatedEnglishLine":"we’ll try all sorts of things like that.\""},{"lineNumber":80256,"originalJapaneseLine":"「まずはお湯でもぶっかけてみよう。","translatedEnglishLine":"\"First, let's try pouring hot water on her."},{"lineNumber":80257,"originalJapaneseLine":"　それが駄目なら冷水もかける」","translatedEnglishLine":"If that doesn’t work, then cold water.\""},{"lineNumber":80258,"originalJapaneseLine":"「……カオスマスター、","translatedEnglishLine":"\"...Chaos Master,"},{"lineNumber":80259,"originalJapaneseLine":"　ふざけているわけではないよな？」","translatedEnglishLine":"you’re not joking, right?\""},{"lineNumber":80260,"originalJapaneseLine":"「大真面目だ馬鹿者！」","translatedEnglishLine":"\"I’m dead serious, idiot!\""},{"lineNumber":80261,"originalJapaneseLine":"「お前らがしてなさそうなことと言ったら","translatedEnglishLine":"\"If you say things we haven’t tried yet,"},{"lineNumber":80262,"originalJapaneseLine":"　もうそういうアホらしいことしかなかろう」","translatedEnglishLine":"there’s probably nothing left but such foolish things.\""},{"lineNumber":80263,"originalJapaneseLine":"「おい、誰か牛乳を大量に用意しろ。","translatedEnglishLine":"\"Hey, someone get a large amount of milk ready."},{"lineNumber":80264,"originalJapaneseLine":"　漬け込んでみる」","translatedEnglishLine":"We’ll try soaking her in it.\""},{"lineNumber":80265,"originalJapaneseLine":"「くさみ抜きか？」","translatedEnglishLine":"\"To remove the smell?\""},{"lineNumber":80266,"originalJapaneseLine":"「えーい、茶化すな！」","translatedEnglishLine":"\"Hey, don’t mock me!\""},{"lineNumber":80267,"originalJapaneseLine":"…………","translatedEnglishLine":"…………"},{"lineNumber":80268,"originalJapaneseLine":"……","translatedEnglishLine":"……"},{"lineNumber":80269,"originalJapaneseLine":"ランス達は思いつく限りの対策を講じてみたが、","translatedEnglishLine":"Rance and the others tried every possible countermeasure,"},{"lineNumber":80270,"originalJapaneseLine":"魔王化を止めることは出来なかった。","translatedEnglishLine":"but they could not stop the transformation into the Demon King."},{"lineNumber":80271,"originalJapaneseLine":"「はあはあ……","translatedEnglishLine":"\"Haa, haa...\""},{"lineNumber":80272,"originalJapaneseLine":"　くそ、これだけやって駄目か……」","translatedEnglishLine":"Damn, after all that, it’s no good...\""},{"lineNumber":80273,"originalJapaneseLine":"「うう……このままじゃ……","translatedEnglishLine":"\"Ugh... if this keeps up...\""},{"lineNumber":80274,"originalJapaneseLine":"　本当に美樹ちゃんが魔王に……」","translatedEnglishLine":"Miki-chan will really become the Demon King...\""},{"lineNumber":80275,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"............\""},{"lineNumber":80276,"originalJapaneseLine":"「シィル、部屋に戻るぞ」","translatedEnglishLine":"\"Seal, let’s go back to the room.\""},{"lineNumber":80277,"originalJapaneseLine":"「えっ？」","translatedEnglishLine":"\"Huh?\""},{"lineNumber":80278,"originalJapaneseLine":"「飽きた。セックスする」","translatedEnglishLine":"\"I’m bored. Let’s have sex.\""},{"lineNumber":80279,"originalJapaneseLine":"「え、ええっ……」","translatedEnglishLine":"\"Eh, ehh...\""},{"lineNumber":80280,"originalJapaneseLine":"「待って下さい、総統！","translatedEnglishLine":"\"Please wait, Commander!"},{"lineNumber":80281,"originalJapaneseLine":"　そんな無責任な！」","translatedEnglishLine":"That’s so irresponsible!\""},{"lineNumber":80282,"originalJapaneseLine":"「百発はやるぞー」","translatedEnglishLine":"\"I’ll do it a hundred times!\""},{"lineNumber":80283,"originalJapaneseLine":"「あっ、この……」","translatedEnglishLine":"\"Ah, um...\""},{"lineNumber":80284,"originalJapaneseLine":"「気にするな、クリーム・ガノブレード。","translatedEnglishLine":"\"Don’t worry about it, Cream Ganoblade."},{"lineNumber":80285,"originalJapaneseLine":"　カオスマスターにそっち方面で期待は","translatedEnglishLine":"Neither I nor the Pope have any expectations of Chaos Master in that area."},{"lineNumber":80286,"originalJapaneseLine":"　余も法王もしておらん」","translatedEnglishLine":""},{"lineNumber":80287,"originalJapaneseLine":"「そうですね」","translatedEnglishLine":"\"That’s true.\""},{"lineNumber":80288,"originalJapaneseLine":"「ああ、もう……」","translatedEnglishLine":"\"Ah, geez...\""},{"lineNumber":80289,"originalJapaneseLine":"頭痛を抑えるように、","translatedEnglishLine":"Trying to relieve her headache,"},{"lineNumber":80290,"originalJapaneseLine":"クリームが頭を手で押さえる。","translatedEnglishLine":"Cream held her head with her hands."}]}}
+{
+    "id": "resp_0a28549701c65e990068f01107bc448195acb2aee3a0b0e960",
+    "object": "response",
+    "created_at": 1760563463,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0a28549701c65e990068f0110854a08195a7c520eb4a67ed37",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 80241,\n      \"originalJapaneseLine\": \"「駄目だ駄目だ。」\",\n      \"translatedEnglishLine\": \"\\\"No, no.\\\"\"\n    },\n    {\n      \"lineNumber\": 80242,\n      \"originalJapaneseLine\": \"　そんなことぜーったいにせんぞ」\",\n      \"translatedEnglishLine\": \"I absolutely won't do such a thing.\\\"\"\n    },\n    {\n      \"lineNumber\": 80243,\n      \"originalJapaneseLine\": \"「いえ、最初から無意味です」\",\n      \"translatedEnglishLine\": \"\\\"No, it’s meaningless from the start.\\\"\"\n    },\n    {\n      \"lineNumber\": 80244,\n      \"originalJapaneseLine\": \"「美樹さんを殺しても……\",\n      \"translatedEnglishLine\": \"\\\"Even if you kill Miki-san...\\\"\"\n    },\n    {\n      \"lineNumber\": 80245,\n      \"originalJapaneseLine\": \"　なにも解決しませんから」\",\n      \"translatedEnglishLine\": \"Nothing will be solved.\\\"\"\n    },\n    {\n      \"lineNumber\": 80246,\n      \"originalJapaneseLine\": \"「何故だ？」\",\n      \"translatedEnglishLine\": \"\\\"Why?\\\"\"\n    },\n    {\n      \"lineNumber\": 80247,\n      \"originalJapaneseLine\": \"「なんでもです」\",\n      \"translatedEnglishLine\": \"\\\"Because that’s just how it is.\\\"\"\n    },\n    {\n      \"lineNumber\": 80248,\n      \"originalJapaneseLine\": \"「残念ながら、\",\n      \"translatedEnglishLine\": \"\\\"Unfortunately,\\\"\"\n    },\n    {\n      \"lineNumber\": 80249,\n      \"originalJapaneseLine\": \"　そういう風にこの世は出来ています」\",\n      \"translatedEnglishLine\": \"the world is made that way.\\\"\"\n    },\n    {\n      \"lineNumber\": 80250,\n      \"originalJapaneseLine\": \"「……よく分からんが、\",\n      \"translatedEnglishLine\": \"\\\"...I don’t really understand, but\\\"\"\n    },\n    {\n      \"lineNumber\": 80251,\n      \"originalJapaneseLine\": \"　まあ、お前が言うならそうなんだろうな」\",\n      \"translatedEnglishLine\": \"well, if you say so, then it must be true.\\\"\"\n    },\n    {\n      \"lineNumber\": 80252,\n      \"originalJapaneseLine\": \"「なら、それ以外の解決策を見つけるだけだ」\",\n      \"translatedEnglishLine\": \"\\\"Then, we just have to find another solution.\\\"\"\n    },\n    {\n      \"lineNumber\": 80253,\n      \"originalJapaneseLine\": \"「ランス様、何か策があるんですか？」\",\n      \"translatedEnglishLine\": \"\\\"Master Rance, do you have any plan?\\\"\"\n    },\n    {\n      \"lineNumber\": 80254,\n      \"originalJapaneseLine\": \"「クルックーもミラクルも\",\n      \"translatedEnglishLine\": \"\\\"Things that Klook and Miracle haven’t even tried,\\\"\"\n    },\n    {\n      \"lineNumber\": 80255,\n      \"originalJapaneseLine\": \"　試さなかったようなことをあれこれ試す」\",\n      \"translatedEnglishLine\": \"we’ll try all sorts of things like that.\\\"\"\n    },\n    {\n      \"lineNumber\": 80256,\n      \"originalJapaneseLine\": \"「まずはお湯でもぶっかけてみよう。\",\n      \"translatedEnglishLine\": \"\\\"First, let's try pouring hot water on her.\"\n    },\n    {\n      \"lineNumber\": 80257,\n      \"originalJapaneseLine\": \"　それが駄目なら冷水もかける」\",\n      \"translatedEnglishLine\": \"If that doesn’t work, then cold water.\\\"\"\n    },\n    {\n      \"lineNumber\": 80258,\n      \"originalJapaneseLine\": \"「……カオスマスター、\",\n      \"translatedEnglishLine\": \"\\\"...Chaos Master,\"\n    },\n    {\n      \"lineNumber\": 80259,\n      \"originalJapaneseLine\": \"　ふざけているわけではないよな？」\",\n      \"translatedEnglishLine\": \"you’re not joking, right?\\\"\"\n    },\n    {\n      \"lineNumber\": 80260,\n      \"originalJapaneseLine\": \"「大真面目だ馬鹿者！」\",\n      \"translatedEnglishLine\": \"\\\"I’m dead serious, idiot!\\\"\"\n    },\n    {\n      \"lineNumber\": 80261,\n      \"originalJapaneseLine\": \"「お前らがしてなさそうなことと言ったら\",\n      \"translatedEnglishLine\": \"\\\"If you say things we haven’t tried yet,\"\n    },\n    {\n      \"lineNumber\": 80262,\n      \"originalJapaneseLine\": \"　もうそういうアホらしいことしかなかろう」\",\n      \"translatedEnglishLine\": \"there’s probably nothing left but such foolish things.\\\"\"\n    },\n    {\n      \"lineNumber\": 80263,\n      \"originalJapaneseLine\": \"「おい、誰か牛乳を大量に用意しろ。\",\n      \"translatedEnglishLine\": \"\\\"Hey, someone get a large amount of milk ready.\"\n    },\n    {\n      \"lineNumber\": 80264,\n      \"originalJapaneseLine\": \"　漬け込んでみる」\",\n      \"translatedEnglishLine\": \"We’ll try soaking her in it.\\\"\"\n    },\n    {\n      \"lineNumber\": 80265,\n      \"originalJapaneseLine\": \"「くさみ抜きか？」\",\n      \"translatedEnglishLine\": \"\\\"To remove the smell?\\\"\"\n    },\n    {\n      \"lineNumber\": 80266,\n      \"originalJapaneseLine\": \"「えーい、茶化すな！」\",\n      \"translatedEnglishLine\": \"\\\"Hey, don’t mock me!\\\"\"\n    },\n    {\n      \"lineNumber\": 80267,\n      \"originalJapaneseLine\": \"…………\",\n      \"translatedEnglishLine\": \"…………\"\n    },\n    {\n      \"lineNumber\": 80268,\n      \"originalJapaneseLine\": \"……\",\n      \"translatedEnglishLine\": \"……\"\n    },\n    {\n      \"lineNumber\": 80269,\n      \"originalJapaneseLine\": \"ランス達は思いつく限りの対策を講じてみたが、\",\n      \"translatedEnglishLine\": \"Rance and the others tried every possible countermeasure,\"\n    },\n    {\n      \"lineNumber\": 80270,\n      \"originalJapaneseLine\": \"魔王化を止めることは出来なかった。\",\n      \"translatedEnglishLine\": \"but they could not stop the transformation into the Demon King.\"\n    },\n    {\n      \"lineNumber\": 80271,\n      \"originalJapaneseLine\": \"「はあはあ……\",\n      \"translatedEnglishLine\": \"\\\"Haa, haa...\\\"\"\n    },\n    {\n      \"lineNumber\": 80272,\n      \"originalJapaneseLine\": \"　くそ、これだけやって駄目か……」\",\n      \"translatedEnglishLine\": \"Damn, after all that, it’s no good...\\\"\"\n    },\n    {\n      \"lineNumber\": 80273,\n      \"originalJapaneseLine\": \"「うう……このままじゃ……\",\n      \"translatedEnglishLine\": \"\\\"Ugh... if this keeps up...\\\"\"\n    },\n    {\n      \"lineNumber\": 80274,\n      \"originalJapaneseLine\": \"　本当に美樹ちゃんが魔王に……」\",\n      \"translatedEnglishLine\": \"Miki-chan will really become the Demon King...\\\"\"\n    },\n    {\n      \"lineNumber\": 80275,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"............\\\"\"\n    },\n    {\n      \"lineNumber\": 80276,\n      \"originalJapaneseLine\": \"「シィル、部屋に戻るぞ」\",\n      \"translatedEnglishLine\": \"\\\"Seal, let’s go back to the room.\\\"\"\n    },\n    {\n      \"lineNumber\": 80277,\n      \"originalJapaneseLine\": \"「えっ？」\",\n      \"translatedEnglishLine\": \"\\\"Huh?\\\"\"\n    },\n    {\n      \"lineNumber\": 80278,\n      \"originalJapaneseLine\": \"「飽きた。セックスする」\",\n      \"translatedEnglishLine\": \"\\\"I’m bored. Let’s have sex.\\\"\"\n    },\n    {\n      \"lineNumber\": 80279,\n      \"originalJapaneseLine\": \"「え、ええっ……」\",\n      \"translatedEnglishLine\": \"\\\"Eh, ehh...\\\"\"\n    },\n    {\n      \"lineNumber\": 80280,\n      \"originalJapaneseLine\": \"「待って下さい、総統！\",\n      \"translatedEnglishLine\": \"\\\"Please wait, Commander!\"\n    },\n    {\n      \"lineNumber\": 80281,\n      \"originalJapaneseLine\": \"　そんな無責任な！」\",\n      \"translatedEnglishLine\": \"That’s so irresponsible!\\\"\"\n    },\n    {\n      \"lineNumber\": 80282,\n      \"originalJapaneseLine\": \"「百発はやるぞー」\",\n      \"translatedEnglishLine\": \"\\\"I’ll do it a hundred times!\\\"\"\n    },\n    {\n      \"lineNumber\": 80283,\n      \"originalJapaneseLine\": \"「あっ、この……」\",\n      \"translatedEnglishLine\": \"\\\"Ah, um...\\\"\"\n    },\n    {\n      \"lineNumber\": 80284,\n      \"originalJapaneseLine\": \"「気にするな、クリーム・ガノブレード。\",\n      \"translatedEnglishLine\": \"\\\"Don’t worry about it, Cream Ganoblade.\"\n    },\n    {\n      \"lineNumber\": 80285,\n      \"originalJapaneseLine\": \"　カオスマスターにそっち方面で期待は\",\n      \"translatedEnglishLine\": \"Neither I nor the Pope have any expectations of Chaos Master in that area.\"\n    },\n    {\n      \"lineNumber\": 80286,\n      \"originalJapaneseLine\": \"　余も法王もしておらん」\",\n      \"translatedEnglishLine\": \"\"\n    },\n    {\n      \"lineNumber\": 80287,\n      \"originalJapaneseLine\": \"「そうですね」\",\n      \"translatedEnglishLine\": \"\\\"That’s true.\\\"\"\n    },\n    {\n      \"lineNumber\": 80288,\n      \"originalJapaneseLine\": \"「ああ、もう……」\",\n      \"translatedEnglishLine\": \"\\\"Ah, geez...\\\"\"\n    },\n    {\n      \"lineNumber\": 80289,\n      \"originalJapaneseLine\": \"頭痛を抑えるように、\",\n      \"translatedEnglishLine\": \"Trying to relieve her headache,\"\n    },\n    {\n      \"lineNumber\": 80290,\n      \"originalJapaneseLine\": \"クリームが頭を手で押さえる。\",\n      \"translatedEnglishLine\": \"Cream held her head with her hands.\"\n    }\n  ]\n}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 80241,
+                                "originalJapaneseLine": "「駄目だ駄目だ。」",
+                                "translatedEnglishLine": "\"No, no.\""
+                            },
+                            {
+                                "lineNumber": 80242,
+                                "originalJapaneseLine": "　そんなことぜーったいにせんぞ」",
+                                "translatedEnglishLine": "I absolutely won't do such a thing.\""
+                            },
+                            {
+                                "lineNumber": 80243,
+                                "originalJapaneseLine": "「いえ、最初から無意味です」",
+                                "translatedEnglishLine": "\"No, it’s meaningless from the start.\""
+                            },
+                            {
+                                "lineNumber": 80244,
+                                "originalJapaneseLine": "「美樹さんを殺しても……",
+                                "translatedEnglishLine": "\"Even if you kill Miki-san...\""
+                            },
+                            {
+                                "lineNumber": 80245,
+                                "originalJapaneseLine": "　なにも解決しませんから」",
+                                "translatedEnglishLine": "Nothing will be solved.\""
+                            },
+                            {
+                                "lineNumber": 80246,
+                                "originalJapaneseLine": "「何故だ？」",
+                                "translatedEnglishLine": "\"Why?\""
+                            },
+                            {
+                                "lineNumber": 80247,
+                                "originalJapaneseLine": "「なんでもです」",
+                                "translatedEnglishLine": "\"Because that’s just how it is.\""
+                            },
+                            {
+                                "lineNumber": 80248,
+                                "originalJapaneseLine": "「残念ながら、",
+                                "translatedEnglishLine": "\"Unfortunately,\""
+                            },
+                            {
+                                "lineNumber": 80249,
+                                "originalJapaneseLine": "　そういう風にこの世は出来ています」",
+                                "translatedEnglishLine": "the world is made that way.\""
+                            },
+                            {
+                                "lineNumber": 80250,
+                                "originalJapaneseLine": "「……よく分からんが、",
+                                "translatedEnglishLine": "\"...I don’t really understand, but\""
+                            },
+                            {
+                                "lineNumber": 80251,
+                                "originalJapaneseLine": "　まあ、お前が言うならそうなんだろうな」",
+                                "translatedEnglishLine": "well, if you say so, then it must be true.\""
+                            },
+                            {
+                                "lineNumber": 80252,
+                                "originalJapaneseLine": "「なら、それ以外の解決策を見つけるだけだ」",
+                                "translatedEnglishLine": "\"Then, we just have to find another solution.\""
+                            },
+                            {
+                                "lineNumber": 80253,
+                                "originalJapaneseLine": "「ランス様、何か策があるんですか？」",
+                                "translatedEnglishLine": "\"Master Rance, do you have any plan?\""
+                            },
+                            {
+                                "lineNumber": 80254,
+                                "originalJapaneseLine": "「クルックーもミラクルも",
+                                "translatedEnglishLine": "\"Things that Klook and Miracle haven’t even tried,\""
+                            },
+                            {
+                                "lineNumber": 80255,
+                                "originalJapaneseLine": "　試さなかったようなことをあれこれ試す」",
+                                "translatedEnglishLine": "we’ll try all sorts of things like that.\""
+                            },
+                            {
+                                "lineNumber": 80256,
+                                "originalJapaneseLine": "「まずはお湯でもぶっかけてみよう。",
+                                "translatedEnglishLine": "\"First, let's try pouring hot water on her."
+                            },
+                            {
+                                "lineNumber": 80257,
+                                "originalJapaneseLine": "　それが駄目なら冷水もかける」",
+                                "translatedEnglishLine": "If that doesn’t work, then cold water.\""
+                            },
+                            {
+                                "lineNumber": 80258,
+                                "originalJapaneseLine": "「……カオスマスター、",
+                                "translatedEnglishLine": "\"...Chaos Master,"
+                            },
+                            {
+                                "lineNumber": 80259,
+                                "originalJapaneseLine": "　ふざけているわけではないよな？」",
+                                "translatedEnglishLine": "you’re not joking, right?\""
+                            },
+                            {
+                                "lineNumber": 80260,
+                                "originalJapaneseLine": "「大真面目だ馬鹿者！」",
+                                "translatedEnglishLine": "\"I’m dead serious, idiot!\""
+                            },
+                            {
+                                "lineNumber": 80261,
+                                "originalJapaneseLine": "「お前らがしてなさそうなことと言ったら",
+                                "translatedEnglishLine": "\"If you say things we haven’t tried yet,"
+                            },
+                            {
+                                "lineNumber": 80262,
+                                "originalJapaneseLine": "　もうそういうアホらしいことしかなかろう」",
+                                "translatedEnglishLine": "there’s probably nothing left but such foolish things.\""
+                            },
+                            {
+                                "lineNumber": 80263,
+                                "originalJapaneseLine": "「おい、誰か牛乳を大量に用意しろ。",
+                                "translatedEnglishLine": "\"Hey, someone get a large amount of milk ready."
+                            },
+                            {
+                                "lineNumber": 80264,
+                                "originalJapaneseLine": "　漬け込んでみる」",
+                                "translatedEnglishLine": "We’ll try soaking her in it.\""
+                            },
+                            {
+                                "lineNumber": 80265,
+                                "originalJapaneseLine": "「くさみ抜きか？」",
+                                "translatedEnglishLine": "\"To remove the smell?\""
+                            },
+                            {
+                                "lineNumber": 80266,
+                                "originalJapaneseLine": "「えーい、茶化すな！」",
+                                "translatedEnglishLine": "\"Hey, don’t mock me!\""
+                            },
+                            {
+                                "lineNumber": 80267,
+                                "originalJapaneseLine": "…………",
+                                "translatedEnglishLine": "…………"
+                            },
+                            {
+                                "lineNumber": 80268,
+                                "originalJapaneseLine": "……",
+                                "translatedEnglishLine": "……"
+                            },
+                            {
+                                "lineNumber": 80269,
+                                "originalJapaneseLine": "ランス達は思いつく限りの対策を講じてみたが、",
+                                "translatedEnglishLine": "Rance and the others tried every possible countermeasure,"
+                            },
+                            {
+                                "lineNumber": 80270,
+                                "originalJapaneseLine": "魔王化を止めることは出来なかった。",
+                                "translatedEnglishLine": "but they could not stop the transformation into the Demon King."
+                            },
+                            {
+                                "lineNumber": 80271,
+                                "originalJapaneseLine": "「はあはあ……",
+                                "translatedEnglishLine": "\"Haa, haa...\""
+                            },
+                            {
+                                "lineNumber": 80272,
+                                "originalJapaneseLine": "　くそ、これだけやって駄目か……」",
+                                "translatedEnglishLine": "Damn, after all that, it’s no good...\""
+                            },
+                            {
+                                "lineNumber": 80273,
+                                "originalJapaneseLine": "「うう……このままじゃ……",
+                                "translatedEnglishLine": "\"Ugh... if this keeps up...\""
+                            },
+                            {
+                                "lineNumber": 80274,
+                                "originalJapaneseLine": "　本当に美樹ちゃんが魔王に……」",
+                                "translatedEnglishLine": "Miki-chan will really become the Demon King...\""
+                            },
+                            {
+                                "lineNumber": 80275,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"............\""
+                            },
+                            {
+                                "lineNumber": 80276,
+                                "originalJapaneseLine": "「シィル、部屋に戻るぞ」",
+                                "translatedEnglishLine": "\"Seal, let’s go back to the room.\""
+                            },
+                            {
+                                "lineNumber": 80277,
+                                "originalJapaneseLine": "「えっ？」",
+                                "translatedEnglishLine": "\"Huh?\""
+                            },
+                            {
+                                "lineNumber": 80278,
+                                "originalJapaneseLine": "「飽きた。セックスする」",
+                                "translatedEnglishLine": "\"I’m bored. Let’s have sex.\""
+                            },
+                            {
+                                "lineNumber": 80279,
+                                "originalJapaneseLine": "「え、ええっ……」",
+                                "translatedEnglishLine": "\"Eh, ehh...\""
+                            },
+                            {
+                                "lineNumber": 80280,
+                                "originalJapaneseLine": "「待って下さい、総統！",
+                                "translatedEnglishLine": "\"Please wait, Commander!"
+                            },
+                            {
+                                "lineNumber": 80281,
+                                "originalJapaneseLine": "　そんな無責任な！」",
+                                "translatedEnglishLine": "That’s so irresponsible!\""
+                            },
+                            {
+                                "lineNumber": 80282,
+                                "originalJapaneseLine": "「百発はやるぞー」",
+                                "translatedEnglishLine": "\"I’ll do it a hundred times!\""
+                            },
+                            {
+                                "lineNumber": 80283,
+                                "originalJapaneseLine": "「あっ、この……」",
+                                "translatedEnglishLine": "\"Ah, um...\""
+                            },
+                            {
+                                "lineNumber": 80284,
+                                "originalJapaneseLine": "「気にするな、クリーム・ガノブレード。",
+                                "translatedEnglishLine": "\"Don’t worry about it, Cream Ganoblade."
+                            },
+                            {
+                                "lineNumber": 80285,
+                                "originalJapaneseLine": "　カオスマスターにそっち方面で期待は",
+                                "translatedEnglishLine": "Neither I nor the Pope have any expectations of Chaos Master in that area."
+                            },
+                            {
+                                "lineNumber": 80286,
+                                "originalJapaneseLine": "　余も法王もしておらん」",
+                                "translatedEnglishLine": ""
+                            },
+                            {
+                                "lineNumber": 80287,
+                                "originalJapaneseLine": "「そうですね」",
+                                "translatedEnglishLine": "\"That’s true.\""
+                            },
+                            {
+                                "lineNumber": 80288,
+                                "originalJapaneseLine": "「ああ、もう……」",
+                                "translatedEnglishLine": "\"Ah, geez...\""
+                            },
+                            {
+                                "lineNumber": 80289,
+                                "originalJapaneseLine": "頭痛を抑えるように、",
+                                "translatedEnglishLine": "Trying to relieve her headache,"
+                            },
+                            {
+                                "lineNumber": 80290,
+                                "originalJapaneseLine": "クリームが頭を手で押さえる。",
+                                "translatedEnglishLine": "Cream held her head with her hands."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1366,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2331,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3697
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 80241,\n      \"originalJapaneseLine\": \"「駄目だ駄目だ。」\",\n      \"translatedEnglishLine\": \"\\\"No, no.\\\"\"\n    },\n    {\n      \"lineNumber\": 80242,\n      \"originalJapaneseLine\": \"　そんなことぜーったいにせんぞ」\",\n      \"translatedEnglishLine\": \"I absolutely won't do such a thing.\\\"\"\n    },\n    {\n      \"lineNumber\": 80243,\n      \"originalJapaneseLine\": \"「いえ、最初から無意味です」\",\n      \"translatedEnglishLine\": \"\\\"No, it’s meaningless from the start.\\\"\"\n    },\n    {\n      \"lineNumber\": 80244,\n      \"originalJapaneseLine\": \"「美樹さんを殺しても……\",\n      \"translatedEnglishLine\": \"\\\"Even if you kill Miki-san...\\\"\"\n    },\n    {\n      \"lineNumber\": 80245,\n      \"originalJapaneseLine\": \"　なにも解決しませんから」\",\n      \"translatedEnglishLine\": \"Nothing will be solved.\\\"\"\n    },\n    {\n      \"lineNumber\": 80246,\n      \"originalJapaneseLine\": \"「何故だ？」\",\n      \"translatedEnglishLine\": \"\\\"Why?\\\"\"\n    },\n    {\n      \"lineNumber\": 80247,\n      \"originalJapaneseLine\": \"「なんでもです」\",\n      \"translatedEnglishLine\": \"\\\"Because that’s just how it is.\\\"\"\n    },\n    {\n      \"lineNumber\": 80248,\n      \"originalJapaneseLine\": \"「残念ながら、\",\n      \"translatedEnglishLine\": \"\\\"Unfortunately,\\\"\"\n    },\n    {\n      \"lineNumber\": 80249,\n      \"originalJapaneseLine\": \"　そういう風にこの世は出来ています」\",\n      \"translatedEnglishLine\": \"the world is made that way.\\\"\"\n    },\n    {\n      \"lineNumber\": 80250,\n      \"originalJapaneseLine\": \"「……よく分からんが、\",\n      \"translatedEnglishLine\": \"\\\"...I don’t really understand, but\\\"\"\n    },\n    {\n      \"lineNumber\": 80251,\n      \"originalJapaneseLine\": \"　まあ、お前が言うならそうなんだろうな」\",\n      \"translatedEnglishLine\": \"well, if you say so, then it must be true.\\\"\"\n    },\n    {\n      \"lineNumber\": 80252,\n      \"originalJapaneseLine\": \"「なら、それ以外の解決策を見つけるだけだ」\",\n      \"translatedEnglishLine\": \"\\\"Then, we just have to find another solution.\\\"\"\n    },\n    {\n      \"lineNumber\": 80253,\n      \"originalJapaneseLine\": \"「ランス様、何か策があるんですか？」\",\n      \"translatedEnglishLine\": \"\\\"Master Rance, do you have any plan?\\\"\"\n    },\n    {\n      \"lineNumber\": 80254,\n      \"originalJapaneseLine\": \"「クルックーもミラクルも\",\n      \"translatedEnglishLine\": \"\\\"Things that Klook and Miracle haven’t even tried,\\\"\"\n    },\n    {\n      \"lineNumber\": 80255,\n      \"originalJapaneseLine\": \"　試さなかったようなことをあれこれ試す」\",\n      \"translatedEnglishLine\": \"we’ll try all sorts of things like that.\\\"\"\n    },\n    {\n      \"lineNumber\": 80256,\n      \"originalJapaneseLine\": \"「まずはお湯でもぶっかけてみよう。\",\n      \"translatedEnglishLine\": \"\\\"First, let's try pouring hot water on her.\"\n    },\n    {\n      \"lineNumber\": 80257,\n      \"originalJapaneseLine\": \"　それが駄目なら冷水もかける」\",\n      \"translatedEnglishLine\": \"If that doesn’t work, then cold water.\\\"\"\n    },\n    {\n      \"lineNumber\": 80258,\n      \"originalJapaneseLine\": \"「……カオスマスター、\",\n      \"translatedEnglishLine\": \"\\\"...Chaos Master,\"\n    },\n    {\n      \"lineNumber\": 80259,\n      \"originalJapaneseLine\": \"　ふざけているわけではないよな？」\",\n      \"translatedEnglishLine\": \"you’re not joking, right?\\\"\"\n    },\n    {\n      \"lineNumber\": 80260,\n      \"originalJapaneseLine\": \"「大真面目だ馬鹿者！」\",\n      \"translatedEnglishLine\": \"\\\"I’m dead serious, idiot!\\\"\"\n    },\n    {\n      \"lineNumber\": 80261,\n      \"originalJapaneseLine\": \"「お前らがしてなさそうなことと言ったら\",\n      \"translatedEnglishLine\": \"\\\"If you say things we haven’t tried yet,\"\n    },\n    {\n      \"lineNumber\": 80262,\n      \"originalJapaneseLine\": \"　もうそういうアホらしいことしかなかろう」\",\n      \"translatedEnglishLine\": \"there’s probably nothing left but such foolish things.\\\"\"\n    },\n    {\n      \"lineNumber\": 80263,\n      \"originalJapaneseLine\": \"「おい、誰か牛乳を大量に用意しろ。\",\n      \"translatedEnglishLine\": \"\\\"Hey, someone get a large amount of milk ready.\"\n    },\n    {\n      \"lineNumber\": 80264,\n      \"originalJapaneseLine\": \"　漬け込んでみる」\",\n      \"translatedEnglishLine\": \"We’ll try soaking her in it.\\\"\"\n    },\n    {\n      \"lineNumber\": 80265,\n      \"originalJapaneseLine\": \"「くさみ抜きか？」\",\n      \"translatedEnglishLine\": \"\\\"To remove the smell?\\\"\"\n    },\n    {\n      \"lineNumber\": 80266,\n      \"originalJapaneseLine\": \"「えーい、茶化すな！」\",\n      \"translatedEnglishLine\": \"\\\"Hey, don’t mock me!\\\"\"\n    },\n    {\n      \"lineNumber\": 80267,\n      \"originalJapaneseLine\": \"…………\",\n      \"translatedEnglishLine\": \"…………\"\n    },\n    {\n      \"lineNumber\": 80268,\n      \"originalJapaneseLine\": \"……\",\n      \"translatedEnglishLine\": \"……\"\n    },\n    {\n      \"lineNumber\": 80269,\n      \"originalJapaneseLine\": \"ランス達は思いつく限りの対策を講じてみたが、\",\n      \"translatedEnglishLine\": \"Rance and the others tried every possible countermeasure,\"\n    },\n    {\n      \"lineNumber\": 80270,\n      \"originalJapaneseLine\": \"魔王化を止めることは出来なかった。\",\n      \"translatedEnglishLine\": \"but they could not stop the transformation into the Demon King.\"\n    },\n    {\n      \"lineNumber\": 80271,\n      \"originalJapaneseLine\": \"「はあはあ……\",\n      \"translatedEnglishLine\": \"\\\"Haa, haa...\\\"\"\n    },\n    {\n      \"lineNumber\": 80272,\n      \"originalJapaneseLine\": \"　くそ、これだけやって駄目か……」\",\n      \"translatedEnglishLine\": \"Damn, after all that, it’s no good...\\\"\"\n    },\n    {\n      \"lineNumber\": 80273,\n      \"originalJapaneseLine\": \"「うう……このままじゃ……\",\n      \"translatedEnglishLine\": \"\\\"Ugh... if this keeps up...\\\"\"\n    },\n    {\n      \"lineNumber\": 80274,\n      \"originalJapaneseLine\": \"　本当に美樹ちゃんが魔王に……」\",\n      \"translatedEnglishLine\": \"Miki-chan will really become the Demon King...\\\"\"\n    },\n    {\n      \"lineNumber\": 80275,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"............\\\"\"\n    },\n    {\n      \"lineNumber\": 80276,\n      \"originalJapaneseLine\": \"「シィル、部屋に戻るぞ」\",\n      \"translatedEnglishLine\": \"\\\"Seal, let’s go back to the room.\\\"\"\n    },\n    {\n      \"lineNumber\": 80277,\n      \"originalJapaneseLine\": \"「えっ？」\",\n      \"translatedEnglishLine\": \"\\\"Huh?\\\"\"\n    },\n    {\n      \"lineNumber\": 80278,\n      \"originalJapaneseLine\": \"「飽きた。セックスする」\",\n      \"translatedEnglishLine\": \"\\\"I’m bored. Let’s have sex.\\\"\"\n    },\n    {\n      \"lineNumber\": 80279,\n      \"originalJapaneseLine\": \"「え、ええっ……」\",\n      \"translatedEnglishLine\": \"\\\"Eh, ehh...\\\"\"\n    },\n    {\n      \"lineNumber\": 80280,\n      \"originalJapaneseLine\": \"「待って下さい、総統！\",\n      \"translatedEnglishLine\": \"\\\"Please wait, Commander!\"\n    },\n    {\n      \"lineNumber\": 80281,\n      \"originalJapaneseLine\": \"　そんな無責任な！」\",\n      \"translatedEnglishLine\": \"That’s so irresponsible!\\\"\"\n    },\n    {\n      \"lineNumber\": 80282,\n      \"originalJapaneseLine\": \"「百発はやるぞー」\",\n      \"translatedEnglishLine\": \"\\\"I’ll do it a hundred times!\\\"\"\n    },\n    {\n      \"lineNumber\": 80283,\n      \"originalJapaneseLine\": \"「あっ、この……」\",\n      \"translatedEnglishLine\": \"\\\"Ah, um...\\\"\"\n    },\n    {\n      \"lineNumber\": 80284,\n      \"originalJapaneseLine\": \"「気にするな、クリーム・ガノブレード。\",\n      \"translatedEnglishLine\": \"\\\"Don’t worry about it, Cream Ganoblade.\"\n    },\n    {\n      \"lineNumber\": 80285,\n      \"originalJapaneseLine\": \"　カオスマスターにそっち方面で期待は\",\n      \"translatedEnglishLine\": \"Neither I nor the Pope have any expectations of Chaos Master in that area.\"\n    },\n    {\n      \"lineNumber\": 80286,\n      \"originalJapaneseLine\": \"　余も法王もしておらん」\",\n      \"translatedEnglishLine\": \"\"\n    },\n    {\n      \"lineNumber\": 80287,\n      \"originalJapaneseLine\": \"「そうですね」\",\n      \"translatedEnglishLine\": \"\\\"That’s true.\\\"\"\n    },\n    {\n      \"lineNumber\": 80288,\n      \"originalJapaneseLine\": \"「ああ、もう……」\",\n      \"translatedEnglishLine\": \"\\\"Ah, geez...\\\"\"\n    },\n    {\n      \"lineNumber\": 80289,\n      \"originalJapaneseLine\": \"頭痛を抑えるように、\",\n      \"translatedEnglishLine\": \"Trying to relieve her headache,\"\n    },\n    {\n      \"lineNumber\": 80290,\n      \"originalJapaneseLine\": \"クリームが頭を手で押さえる。\",\n      \"translatedEnglishLine\": \"Cream held her head with her hands.\"\n    }\n  ]\n}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 80241,
+                "originalJapaneseLine": "「駄目だ駄目だ。」",
+                "translatedEnglishLine": "\"No, no.\""
+            },
+            {
+                "lineNumber": 80242,
+                "originalJapaneseLine": "　そんなことぜーったいにせんぞ」",
+                "translatedEnglishLine": "I absolutely won't do such a thing.\""
+            },
+            {
+                "lineNumber": 80243,
+                "originalJapaneseLine": "「いえ、最初から無意味です」",
+                "translatedEnglishLine": "\"No, it’s meaningless from the start.\""
+            },
+            {
+                "lineNumber": 80244,
+                "originalJapaneseLine": "「美樹さんを殺しても……",
+                "translatedEnglishLine": "\"Even if you kill Miki-san...\""
+            },
+            {
+                "lineNumber": 80245,
+                "originalJapaneseLine": "　なにも解決しませんから」",
+                "translatedEnglishLine": "Nothing will be solved.\""
+            },
+            {
+                "lineNumber": 80246,
+                "originalJapaneseLine": "「何故だ？」",
+                "translatedEnglishLine": "\"Why?\""
+            },
+            {
+                "lineNumber": 80247,
+                "originalJapaneseLine": "「なんでもです」",
+                "translatedEnglishLine": "\"Because that’s just how it is.\""
+            },
+            {
+                "lineNumber": 80248,
+                "originalJapaneseLine": "「残念ながら、",
+                "translatedEnglishLine": "\"Unfortunately,\""
+            },
+            {
+                "lineNumber": 80249,
+                "originalJapaneseLine": "　そういう風にこの世は出来ています」",
+                "translatedEnglishLine": "the world is made that way.\""
+            },
+            {
+                "lineNumber": 80250,
+                "originalJapaneseLine": "「……よく分からんが、",
+                "translatedEnglishLine": "\"...I don’t really understand, but\""
+            },
+            {
+                "lineNumber": 80251,
+                "originalJapaneseLine": "　まあ、お前が言うならそうなんだろうな」",
+                "translatedEnglishLine": "well, if you say so, then it must be true.\""
+            },
+            {
+                "lineNumber": 80252,
+                "originalJapaneseLine": "「なら、それ以外の解決策を見つけるだけだ」",
+                "translatedEnglishLine": "\"Then, we just have to find another solution.\""
+            },
+            {
+                "lineNumber": 80253,
+                "originalJapaneseLine": "「ランス様、何か策があるんですか？」",
+                "translatedEnglishLine": "\"Master Rance, do you have any plan?\""
+            },
+            {
+                "lineNumber": 80254,
+                "originalJapaneseLine": "「クルックーもミラクルも",
+                "translatedEnglishLine": "\"Things that Klook and Miracle haven’t even tried,\""
+            },
+            {
+                "lineNumber": 80255,
+                "originalJapaneseLine": "　試さなかったようなことをあれこれ試す」",
+                "translatedEnglishLine": "we’ll try all sorts of things like that.\""
+            },
+            {
+                "lineNumber": 80256,
+                "originalJapaneseLine": "「まずはお湯でもぶっかけてみよう。",
+                "translatedEnglishLine": "\"First, let's try pouring hot water on her."
+            },
+            {
+                "lineNumber": 80257,
+                "originalJapaneseLine": "　それが駄目なら冷水もかける」",
+                "translatedEnglishLine": "If that doesn’t work, then cold water.\""
+            },
+            {
+                "lineNumber": 80258,
+                "originalJapaneseLine": "「……カオスマスター、",
+                "translatedEnglishLine": "\"...Chaos Master,"
+            },
+            {
+                "lineNumber": 80259,
+                "originalJapaneseLine": "　ふざけているわけではないよな？」",
+                "translatedEnglishLine": "you’re not joking, right?\""
+            },
+            {
+                "lineNumber": 80260,
+                "originalJapaneseLine": "「大真面目だ馬鹿者！」",
+                "translatedEnglishLine": "\"I’m dead serious, idiot!\""
+            },
+            {
+                "lineNumber": 80261,
+                "originalJapaneseLine": "「お前らがしてなさそうなことと言ったら",
+                "translatedEnglishLine": "\"If you say things we haven’t tried yet,"
+            },
+            {
+                "lineNumber": 80262,
+                "originalJapaneseLine": "　もうそういうアホらしいことしかなかろう」",
+                "translatedEnglishLine": "there’s probably nothing left but such foolish things.\""
+            },
+            {
+                "lineNumber": 80263,
+                "originalJapaneseLine": "「おい、誰か牛乳を大量に用意しろ。",
+                "translatedEnglishLine": "\"Hey, someone get a large amount of milk ready."
+            },
+            {
+                "lineNumber": 80264,
+                "originalJapaneseLine": "　漬け込んでみる」",
+                "translatedEnglishLine": "We’ll try soaking her in it.\""
+            },
+            {
+                "lineNumber": 80265,
+                "originalJapaneseLine": "「くさみ抜きか？」",
+                "translatedEnglishLine": "\"To remove the smell?\""
+            },
+            {
+                "lineNumber": 80266,
+                "originalJapaneseLine": "「えーい、茶化すな！」",
+                "translatedEnglishLine": "\"Hey, don’t mock me!\""
+            },
+            {
+                "lineNumber": 80267,
+                "originalJapaneseLine": "…………",
+                "translatedEnglishLine": "…………"
+            },
+            {
+                "lineNumber": 80268,
+                "originalJapaneseLine": "……",
+                "translatedEnglishLine": "……"
+            },
+            {
+                "lineNumber": 80269,
+                "originalJapaneseLine": "ランス達は思いつく限りの対策を講じてみたが、",
+                "translatedEnglishLine": "Rance and the others tried every possible countermeasure,"
+            },
+            {
+                "lineNumber": 80270,
+                "originalJapaneseLine": "魔王化を止めることは出来なかった。",
+                "translatedEnglishLine": "but they could not stop the transformation into the Demon King."
+            },
+            {
+                "lineNumber": 80271,
+                "originalJapaneseLine": "「はあはあ……",
+                "translatedEnglishLine": "\"Haa, haa...\""
+            },
+            {
+                "lineNumber": 80272,
+                "originalJapaneseLine": "　くそ、これだけやって駄目か……」",
+                "translatedEnglishLine": "Damn, after all that, it’s no good...\""
+            },
+            {
+                "lineNumber": 80273,
+                "originalJapaneseLine": "「うう……このままじゃ……",
+                "translatedEnglishLine": "\"Ugh... if this keeps up...\""
+            },
+            {
+                "lineNumber": 80274,
+                "originalJapaneseLine": "　本当に美樹ちゃんが魔王に……」",
+                "translatedEnglishLine": "Miki-chan will really become the Demon King...\""
+            },
+            {
+                "lineNumber": 80275,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"............\""
+            },
+            {
+                "lineNumber": 80276,
+                "originalJapaneseLine": "「シィル、部屋に戻るぞ」",
+                "translatedEnglishLine": "\"Seal, let’s go back to the room.\""
+            },
+            {
+                "lineNumber": 80277,
+                "originalJapaneseLine": "「えっ？」",
+                "translatedEnglishLine": "\"Huh?\""
+            },
+            {
+                "lineNumber": 80278,
+                "originalJapaneseLine": "「飽きた。セックスする」",
+                "translatedEnglishLine": "\"I’m bored. Let’s have sex.\""
+            },
+            {
+                "lineNumber": 80279,
+                "originalJapaneseLine": "「え、ええっ……」",
+                "translatedEnglishLine": "\"Eh, ehh...\""
+            },
+            {
+                "lineNumber": 80280,
+                "originalJapaneseLine": "「待って下さい、総統！",
+                "translatedEnglishLine": "\"Please wait, Commander!"
+            },
+            {
+                "lineNumber": 80281,
+                "originalJapaneseLine": "　そんな無責任な！」",
+                "translatedEnglishLine": "That’s so irresponsible!\""
+            },
+            {
+                "lineNumber": 80282,
+                "originalJapaneseLine": "「百発はやるぞー」",
+                "translatedEnglishLine": "\"I’ll do it a hundred times!\""
+            },
+            {
+                "lineNumber": 80283,
+                "originalJapaneseLine": "「あっ、この……」",
+                "translatedEnglishLine": "\"Ah, um...\""
+            },
+            {
+                "lineNumber": 80284,
+                "originalJapaneseLine": "「気にするな、クリーム・ガノブレード。",
+                "translatedEnglishLine": "\"Don’t worry about it, Cream Ganoblade."
+            },
+            {
+                "lineNumber": 80285,
+                "originalJapaneseLine": "　カオスマスターにそっち方面で期待は",
+                "translatedEnglishLine": "Neither I nor the Pope have any expectations of Chaos Master in that area."
+            },
+            {
+                "lineNumber": 80286,
+                "originalJapaneseLine": "　余も法王もしておらん」",
+                "translatedEnglishLine": ""
+            },
+            {
+                "lineNumber": 80287,
+                "originalJapaneseLine": "「そうですね」",
+                "translatedEnglishLine": "\"That’s true.\""
+            },
+            {
+                "lineNumber": 80288,
+                "originalJapaneseLine": "「ああ、もう……」",
+                "translatedEnglishLine": "\"Ah, geez...\""
+            },
+            {
+                "lineNumber": 80289,
+                "originalJapaneseLine": "頭痛を抑えるように、",
+                "translatedEnglishLine": "Trying to relieve her headache,"
+            },
+            {
+                "lineNumber": 80290,
+                "originalJapaneseLine": "クリームが頭を手で押さえる。",
+                "translatedEnglishLine": "Cream held her head with her hands."
+            }
+        ]
+    }
+}

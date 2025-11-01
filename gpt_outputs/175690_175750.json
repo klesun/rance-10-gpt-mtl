@@ -1,1 +1,719 @@
-{"id":"resp_07efef15eadc9a380068f188594cec81909d63b261ab798c4c","object":"response","created_at":1760659545,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_07efef15eadc9a380068f188599d088190a6eceda35e61c6a1","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":175631,\"originalJapaneseLine\":\"　ら、ランス様ぁ！？\",\"translatedEnglishLine\":\"L-Lance-sama!?\"},{\"lineNumber\":175632,\"originalJapaneseLine\":\"「がははは！　シィル、俺から離れるなよぉ！\",\"translatedEnglishLine\":\"Gahahaha! Sheila, don't stray away from me!\"},{\"lineNumber\":175633,\"originalJapaneseLine\":\"　ぎゅっと抱きついてろ！」\",\"translatedEnglishLine\":\"Hold on to me tight!\"},{\"lineNumber\":175634,\"originalJapaneseLine\":\"「ははは、はいー！」\",\"translatedEnglishLine\":\"Haha, okay!\"},{\"lineNumber\":175635,\"originalJapaneseLine\":\"『5、4、3……』\",\"translatedEnglishLine\":\"'5, 4, 3...'\"},{\"lineNumber\":175636,\"originalJapaneseLine\":\"「来るぞ来るぞ来るぞ来るぞぉぉぉお！」\",\"translatedEnglishLine\":\"Here it comes, here it comes, here it comes, heeere it comes!\"},{\"lineNumber\":175637,\"originalJapaneseLine\":\"『2、1――\",\"translatedEnglishLine\":\"'2, 1—'\"},{\"lineNumber\":175638,\"originalJapaneseLine\":\"　……0でございます』\",\"translatedEnglishLine\":\"'...0 now.'\"},\n\n{\"lineNumber\":175639,\"originalJapaneseLine\":\"「ランス城あたたたたたーーーーーっく！！！！」\",\"translatedEnglishLine\":\"Lance Castle atttttttt-tack!!!!\"},{\"lineNumber\":175640,\"originalJapaneseLine\":\"そして――\",\"translatedEnglishLine\":\"And then—\"},{\"lineNumber\":175641,\"originalJapaneseLine\":\"ランス城は爆音を轟かせて、\",\"translatedEnglishLine\":\"Lance Castle roared with a booming sound,\"},\n\n{\"lineNumber\":175642,\"originalJapaneseLine\":\"ベズドグ山に激突した。\",\"translatedEnglishLine\":\"and crashed into Mount Bezdug.\"},\n\n{\"lineNumber\":175643,\"originalJapaneseLine\":\"「う……」\",\"translatedEnglishLine\":\"Ugh...\"},\n\n{\"lineNumber\":175644,\"originalJapaneseLine\":\"「う〜〜〜〜ん……」\",\"translatedEnglishLine\":\"Uuuuuuunnnn...\"},\n\n{\"lineNumber\":175645,\"originalJapaneseLine\":\"「はっ！　な、なんだここ！？\",\"translatedEnglishLine\":\"Hah! W-Where is this!?\"},\n\n{\"lineNumber\":175646,\"originalJapaneseLine\":\"　あれからどうなった！？」\",\"translatedEnglishLine\":\"What happened after that!?\"},\n\n{\"lineNumber\":175647,\"originalJapaneseLine\":\"「むぎゅう……ら、ランス様……\",\"translatedEnglishLine\":\"Mugyuu... L-Lance-sama...\"},\n\n{\"lineNumber\":175648,\"originalJapaneseLine\":\"　苦しいですぅ……」\",\"translatedEnglishLine\":\"It hurts...\"},\n\n{\"lineNumber\":175649,\"originalJapaneseLine\":\"「ああ、倒れてきた壁の下敷きになってるようだな。\",\"translatedEnglishLine\":\"Ah, it looks like we're trapped under a fallen wall.\"},\n\n{\"lineNumber\":175650,\"originalJapaneseLine\":\"　うむむむ……」\",\"translatedEnglishLine\":\"Ummm...\"},\n\n{\"lineNumber\":175651,\"originalJapaneseLine\":\"「とりゃーーー！」\",\"translatedEnglishLine\":\"Toryaaah!\"},\n\n{\"lineNumber\":175652,\"originalJapaneseLine\":\"「お、おお、これはまた……」\",\"translatedEnglishLine\":\"O-oh, this is quite something...\"},\n\n{\"lineNumber\":175653,\"originalJapaneseLine\":\"「結構な大惨事」\",\"translatedEnglishLine\":\"A rather big disaster.\"},\n\n{\"lineNumber\":175654,\"originalJapaneseLine\":\"「アホですか貴方はーーッ！」\",\"translatedEnglishLine\":\"Are you an idiot or what?!\"},\n \n{\"lineNumber\":175655,\"originalJapaneseLine\":\"「けほっ、けほっ……\",\"translatedEnglishLine\":\"Keh, keh... (cough, cough)...\"},\n\n{\"lineNumber\":175656,\"originalJapaneseLine\":\"　頭打ってしまいました……」\",\"translatedEnglishLine\":\"I hit my head...\"},\n\n{\"lineNumber\":175657,\"originalJapaneseLine\":\"「おお、良かった良かった。\",\"translatedEnglishLine\":\"Oh, that's good, that's good.\"},\n\n{\"lineNumber\":175658,\"originalJapaneseLine\":\"　君達も生きてたか」\",\"translatedEnglishLine\":\"You all survived too, huh?\"},\n\n{\"lineNumber\":175659,\"originalJapaneseLine\":\"「うう……ランス様、無茶しすぎです……」\",\"translatedEnglishLine\":\"Ugh... Lance-sama, you overdid it...\"},\n\n{\"lineNumber\":175660,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"Hah...\"},\n\n{\"lineNumber\":175661,\"originalJapaneseLine\":\"　怪我人と敵側の様子の調査を行います……」\",\"translatedEnglishLine\":\"We need to check on the injured and investigate the enemy's status...\"},\n\n{\"lineNumber\":175662,\"originalJapaneseLine\":\"軍師達が率先して、\",\"translatedEnglishLine\":\"The strategists took the lead,\"},\n\n{\"lineNumber\":175663,\"originalJapaneseLine\":\"城内で無事な人間の点呼がすぐさま行われた。\",\"translatedEnglishLine\":\"and quickly took roll call of the unharmed inside the castle.\"},\n\n{\"lineNumber\":175664,\"originalJapaneseLine\":\"玉座の間に、無事だった人間と、\",\"translatedEnglishLine\":\"In the throne room, those who were safe,\"},\n\n{\"lineNumber\":175665,\"originalJapaneseLine\":\"各国の主要人物達が集められる。\",\"translatedEnglishLine\":\"and the main figures from each country were gathered.\"},\n\n{\"lineNumber\":175666,\"originalJapaneseLine\":\"「やれやれ、まさか城ごと突撃するとは……\",\"translatedEnglishLine\":\"Good grief, to think we charged with the whole castle...\"},\n\n{\"lineNumber\":175667,\"originalJapaneseLine\":\"　いや、こうなってもおかしくなかった、か」\",\"translatedEnglishLine\":\"No, maybe it wasn't so strange it ended like this.\"},\n\n{\"lineNumber\":175668,\"originalJapaneseLine\":\"「あいてて……\",\"translatedEnglishLine\":\"Ouch ouch...\"},\n\n{\"lineNumber\":175669,\"originalJapaneseLine\":\"　こりゃ、戦闘はちょいと無理そうだ……」\",\"translatedEnglishLine\":\"Looks like fighting's a bit impossible right now...\"},\n\n{\"lineNumber\":175670,\"originalJapaneseLine\":\"「馬鹿体力の癖に怪我して身動き出来んとは、\",\"translatedEnglishLine\":\"Despite your stupid stamina, you got injured and can't move,\"},\n\n{\"lineNumber\":175671,\"originalJapaneseLine\":\"　本当にいいとこ一つも残ってないな」\",\"translatedEnglishLine\":\"Not a single good point left in you.\"},\n\n{\"lineNumber\":175672,\"originalJapaneseLine\":\"「いや、面目ねえ……\",\"translatedEnglishLine\":\"No, I'm ashamed...\"},\n\n{\"lineNumber\":175673,\"originalJapaneseLine\":\"　言い訳はしねぇよ」\",\"translatedEnglishLine\":\"I won't make excuses.\"},\n\n{\"lineNumber\":175674,\"originalJapaneseLine\":\"「あんたが無茶するからでしょうが！」\",\"translatedEnglishLine\":\"It's because you pushed yourself too hard!\"},\n\n{\"lineNumber\":175675,\"originalJapaneseLine\":\"「パットンはみんなを守って怪我したのー」\",\"translatedEnglishLine\":\"Patton got hurt trying to protect everyone—\"},\n\n{\"lineNumber\":175676,\"originalJapaneseLine\":\"「それでも二人にも怪我させちまったからな……\",\"translatedEnglishLine\":\"Still, I ended up hurting two others too...\"},\n\n{\"lineNumber\":175677,\"originalJapaneseLine\":\"　面目ねぇってのはそういうことさ」\",\"translatedEnglishLine\":\"That's what I mean by being ashamed.\"},\n\n{\"lineNumber\":175678,\"originalJapaneseLine\":\"「しかし、実際これからどうする？\",\"translatedEnglishLine\":\"But seriously, what do we do now?\"},\n\n{\"lineNumber\":175679,\"originalJapaneseLine\":\"　動けない奴は俺以外にも結構いるぞ」\",\"translatedEnglishLine\":\"There are quite a few besides me who can't move.\"},\n\n{\"lineNumber\":175680,\"originalJapaneseLine\":\"「そうですね……\",\"translatedEnglishLine\":\"That's right...\"},\n\n{\"lineNumber\":175681,\"originalJapaneseLine\":\"　残念ながら魔人討伐隊の半分ほどが……\",\"translatedEnglishLine\":\"Unfortunately, about half of the demon extermination team...\"},\n\n{\"lineNumber\":175682,\"originalJapaneseLine\":\"「敵の様子はどうなってる？」\",\"translatedEnglishLine\":\"What's the status of the enemy?\"},\n\n{\"lineNumber\":175683,\"originalJapaneseLine\":\"「動きが一切ありません。\",\"translatedEnglishLine\":\"They aren't moving at all.\"},\n\n{\"lineNumber\":175684,\"originalJapaneseLine\":\"　おそらくかなり混乱してるようです」\",\"translatedEnglishLine\":\"They must be quite confused.\"},\n\n{\"lineNumber\":175685,\"originalJapaneseLine\":\"「はははは！\",\"translatedEnglishLine\":\"Hahaha!\"},\n\n{\"lineNumber\":175686,\"originalJapaneseLine\":\"　なんせ、味方すら混乱してるんだ、\",\"translatedEnglishLine\":\"After all, even our allies are confused,\"},\n\n{\"lineNumber\":175687,\"originalJapaneseLine\":\"　敵にはもっと混乱してもらわなくっちゃな」\",\"translatedEnglishLine\":\"so the enemy should be confused even more.\"},\n\n{\"lineNumber\":175688,\"originalJapaneseLine\":\"「やかましい」\",\"translatedEnglishLine\":\"Shut up.\"},\n\n{\"lineNumber\":175689,\"originalJapaneseLine\":\"「やっぱりここは皆さんの回復を待ってから、\",\"translatedEnglishLine\":\"As expected, we should wait for everyone to recover,\"},\n\n{\"lineNumber\":175690,\"originalJapaneseLine\":\"　改めて出撃を……」\",\"translatedEnglishLine\":\"and then set out again...\"}]}","parsed":{"translationLines":[{"lineNumber":175631,"originalJapaneseLine":"　ら、ランス様ぁ！？","translatedEnglishLine":"L-Lance-sama!?"},{"lineNumber":175632,"originalJapaneseLine":"「がははは！　シィル、俺から離れるなよぉ！","translatedEnglishLine":"Gahahaha! Sheila, don't stray away from me!"},{"lineNumber":175633,"originalJapaneseLine":"　ぎゅっと抱きついてろ！」","translatedEnglishLine":"Hold on to me tight!"},{"lineNumber":175634,"originalJapaneseLine":"「ははは、はいー！」","translatedEnglishLine":"Haha, okay!"},{"lineNumber":175635,"originalJapaneseLine":"『5、4、3……』","translatedEnglishLine":"'5, 4, 3...'"},{"lineNumber":175636,"originalJapaneseLine":"「来るぞ来るぞ来るぞ来るぞぉぉぉお！」","translatedEnglishLine":"Here it comes, here it comes, here it comes, heeere it comes!"},{"lineNumber":175637,"originalJapaneseLine":"『2、1――","translatedEnglishLine":"'2, 1—'"},{"lineNumber":175638,"originalJapaneseLine":"　……0でございます』","translatedEnglishLine":"'...0 now.'"},{"lineNumber":175639,"originalJapaneseLine":"「ランス城あたたたたたーーーーーっく！！！！」","translatedEnglishLine":"Lance Castle atttttttt-tack!!!!"},{"lineNumber":175640,"originalJapaneseLine":"そして――","translatedEnglishLine":"And then—"},{"lineNumber":175641,"originalJapaneseLine":"ランス城は爆音を轟かせて、","translatedEnglishLine":"Lance Castle roared with a booming sound,"},{"lineNumber":175642,"originalJapaneseLine":"ベズドグ山に激突した。","translatedEnglishLine":"and crashed into Mount Bezdug."},{"lineNumber":175643,"originalJapaneseLine":"「う……」","translatedEnglishLine":"Ugh..."},{"lineNumber":175644,"originalJapaneseLine":"「う〜〜〜〜ん……」","translatedEnglishLine":"Uuuuuuunnnn..."},{"lineNumber":175645,"originalJapaneseLine":"「はっ！　な、なんだここ！？","translatedEnglishLine":"Hah! W-Where is this!?"},{"lineNumber":175646,"originalJapaneseLine":"　あれからどうなった！？」","translatedEnglishLine":"What happened after that!?"},{"lineNumber":175647,"originalJapaneseLine":"「むぎゅう……ら、ランス様……","translatedEnglishLine":"Mugyuu... L-Lance-sama..."},{"lineNumber":175648,"originalJapaneseLine":"　苦しいですぅ……」","translatedEnglishLine":"It hurts..."},{"lineNumber":175649,"originalJapaneseLine":"「ああ、倒れてきた壁の下敷きになってるようだな。","translatedEnglishLine":"Ah, it looks like we're trapped under a fallen wall."},{"lineNumber":175650,"originalJapaneseLine":"　うむむむ……」","translatedEnglishLine":"Ummm..."},{"lineNumber":175651,"originalJapaneseLine":"「とりゃーーー！」","translatedEnglishLine":"Toryaaah!"},{"lineNumber":175652,"originalJapaneseLine":"「お、おお、これはまた……」","translatedEnglishLine":"O-oh, this is quite something..."},{"lineNumber":175653,"originalJapaneseLine":"「結構な大惨事」","translatedEnglishLine":"A rather big disaster."},{"lineNumber":175654,"originalJapaneseLine":"「アホですか貴方はーーッ！」","translatedEnglishLine":"Are you an idiot or what?!"},{"lineNumber":175655,"originalJapaneseLine":"「けほっ、けほっ……","translatedEnglishLine":"Keh, keh... (cough, cough)..."},{"lineNumber":175656,"originalJapaneseLine":"　頭打ってしまいました……」","translatedEnglishLine":"I hit my head..."},{"lineNumber":175657,"originalJapaneseLine":"「おお、良かった良かった。","translatedEnglishLine":"Oh, that's good, that's good."},{"lineNumber":175658,"originalJapaneseLine":"　君達も生きてたか」","translatedEnglishLine":"You all survived too, huh?"},{"lineNumber":175659,"originalJapaneseLine":"「うう……ランス様、無茶しすぎです……」","translatedEnglishLine":"Ugh... Lance-sama, you overdid it..."},{"lineNumber":175660,"originalJapaneseLine":"「はあ……","translatedEnglishLine":"Hah..."},{"lineNumber":175661,"originalJapaneseLine":"　怪我人と敵側の様子の調査を行います……」","translatedEnglishLine":"We need to check on the injured and investigate the enemy's status..."},{"lineNumber":175662,"originalJapaneseLine":"軍師達が率先して、","translatedEnglishLine":"The strategists took the lead,"},{"lineNumber":175663,"originalJapaneseLine":"城内で無事な人間の点呼がすぐさま行われた。","translatedEnglishLine":"and quickly took roll call of the unharmed inside the castle."},{"lineNumber":175664,"originalJapaneseLine":"玉座の間に、無事だった人間と、","translatedEnglishLine":"In the throne room, those who were safe,"},{"lineNumber":175665,"originalJapaneseLine":"各国の主要人物達が集められる。","translatedEnglishLine":"and the main figures from each country were gathered."},{"lineNumber":175666,"originalJapaneseLine":"「やれやれ、まさか城ごと突撃するとは……","translatedEnglishLine":"Good grief, to think we charged with the whole castle..."},{"lineNumber":175667,"originalJapaneseLine":"　いや、こうなってもおかしくなかった、か」","translatedEnglishLine":"No, maybe it wasn't so strange it ended like this."},{"lineNumber":175668,"originalJapaneseLine":"「あいてて……","translatedEnglishLine":"Ouch ouch..."},{"lineNumber":175669,"originalJapaneseLine":"　こりゃ、戦闘はちょいと無理そうだ……」","translatedEnglishLine":"Looks like fighting's a bit impossible right now..."},{"lineNumber":175670,"originalJapaneseLine":"「馬鹿体力の癖に怪我して身動き出来んとは、","translatedEnglishLine":"Despite your stupid stamina, you got injured and can't move,"},{"lineNumber":175671,"originalJapaneseLine":"　本当にいいとこ一つも残ってないな」","translatedEnglishLine":"Not a single good point left in you."},{"lineNumber":175672,"originalJapaneseLine":"「いや、面目ねえ……","translatedEnglishLine":"No, I'm ashamed..."},{"lineNumber":175673,"originalJapaneseLine":"　言い訳はしねぇよ」","translatedEnglishLine":"I won't make excuses."},{"lineNumber":175674,"originalJapaneseLine":"「あんたが無茶するからでしょうが！」","translatedEnglishLine":"It's because you pushed yourself too hard!"},{"lineNumber":175675,"originalJapaneseLine":"「パットンはみんなを守って怪我したのー」","translatedEnglishLine":"Patton got hurt trying to protect everyone—"},{"lineNumber":175676,"originalJapaneseLine":"「それでも二人にも怪我させちまったからな……","translatedEnglishLine":"Still, I ended up hurting two others too..."},{"lineNumber":175677,"originalJapaneseLine":"　面目ねぇってのはそういうことさ」","translatedEnglishLine":"That's what I mean by being ashamed."},{"lineNumber":175678,"originalJapaneseLine":"「しかし、実際これからどうする？","translatedEnglishLine":"But seriously, what do we do now?"},{"lineNumber":175679,"originalJapaneseLine":"　動けない奴は俺以外にも結構いるぞ」","translatedEnglishLine":"There are quite a few besides me who can't move."},{"lineNumber":175680,"originalJapaneseLine":"「そうですね……","translatedEnglishLine":"That's right..."},{"lineNumber":175681,"originalJapaneseLine":"　残念ながら魔人討伐隊の半分ほどが……","translatedEnglishLine":"Unfortunately, about half of the demon extermination team..."},{"lineNumber":175682,"originalJapaneseLine":"「敵の様子はどうなってる？」","translatedEnglishLine":"What's the status of the enemy?"},{"lineNumber":175683,"originalJapaneseLine":"「動きが一切ありません。","translatedEnglishLine":"They aren't moving at all."},{"lineNumber":175684,"originalJapaneseLine":"　おそらくかなり混乱してるようです」","translatedEnglishLine":"They must be quite confused."},{"lineNumber":175685,"originalJapaneseLine":"「はははは！","translatedEnglishLine":"Hahaha!"},{"lineNumber":175686,"originalJapaneseLine":"　なんせ、味方すら混乱してるんだ、","translatedEnglishLine":"After all, even our allies are confused,"},{"lineNumber":175687,"originalJapaneseLine":"　敵にはもっと混乱してもらわなくっちゃな」","translatedEnglishLine":"so the enemy should be confused even more."},{"lineNumber":175688,"originalJapaneseLine":"「やかましい」","translatedEnglishLine":"Shut up."},{"lineNumber":175689,"originalJapaneseLine":"「やっぱりここは皆さんの回復を待ってから、","translatedEnglishLine":"As expected, we should wait for everyone to recover,"},{"lineNumber":175690,"originalJapaneseLine":"　改めて出撃を……」","translatedEnglishLine":"and then set out again..."}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1684,"input_tokens_details":{"cached_tokens":0},"output_tokens":2174,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3858},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":175631,\"originalJapaneseLine\":\"　ら、ランス様ぁ！？\",\"translatedEnglishLine\":\"L-Lance-sama!?\"},{\"lineNumber\":175632,\"originalJapaneseLine\":\"「がははは！　シィル、俺から離れるなよぉ！\",\"translatedEnglishLine\":\"Gahahaha! Sheila, don't stray away from me!\"},{\"lineNumber\":175633,\"originalJapaneseLine\":\"　ぎゅっと抱きついてろ！」\",\"translatedEnglishLine\":\"Hold on to me tight!\"},{\"lineNumber\":175634,\"originalJapaneseLine\":\"「ははは、はいー！」\",\"translatedEnglishLine\":\"Haha, okay!\"},{\"lineNumber\":175635,\"originalJapaneseLine\":\"『5、4、3……』\",\"translatedEnglishLine\":\"'5, 4, 3...'\"},{\"lineNumber\":175636,\"originalJapaneseLine\":\"「来るぞ来るぞ来るぞ来るぞぉぉぉお！」\",\"translatedEnglishLine\":\"Here it comes, here it comes, here it comes, heeere it comes!\"},{\"lineNumber\":175637,\"originalJapaneseLine\":\"『2、1――\",\"translatedEnglishLine\":\"'2, 1—'\"},{\"lineNumber\":175638,\"originalJapaneseLine\":\"　……0でございます』\",\"translatedEnglishLine\":\"'...0 now.'\"},\n\n{\"lineNumber\":175639,\"originalJapaneseLine\":\"「ランス城あたたたたたーーーーーっく！！！！」\",\"translatedEnglishLine\":\"Lance Castle atttttttt-tack!!!!\"},{\"lineNumber\":175640,\"originalJapaneseLine\":\"そして――\",\"translatedEnglishLine\":\"And then—\"},{\"lineNumber\":175641,\"originalJapaneseLine\":\"ランス城は爆音を轟かせて、\",\"translatedEnglishLine\":\"Lance Castle roared with a booming sound,\"},\n\n{\"lineNumber\":175642,\"originalJapaneseLine\":\"ベズドグ山に激突した。\",\"translatedEnglishLine\":\"and crashed into Mount Bezdug.\"},\n\n{\"lineNumber\":175643,\"originalJapaneseLine\":\"「う……」\",\"translatedEnglishLine\":\"Ugh...\"},\n\n{\"lineNumber\":175644,\"originalJapaneseLine\":\"「う〜〜〜〜ん……」\",\"translatedEnglishLine\":\"Uuuuuuunnnn...\"},\n\n{\"lineNumber\":175645,\"originalJapaneseLine\":\"「はっ！　な、なんだここ！？\",\"translatedEnglishLine\":\"Hah! W-Where is this!?\"},\n\n{\"lineNumber\":175646,\"originalJapaneseLine\":\"　あれからどうなった！？」\",\"translatedEnglishLine\":\"What happened after that!?\"},\n\n{\"lineNumber\":175647,\"originalJapaneseLine\":\"「むぎゅう……ら、ランス様……\",\"translatedEnglishLine\":\"Mugyuu... L-Lance-sama...\"},\n\n{\"lineNumber\":175648,\"originalJapaneseLine\":\"　苦しいですぅ……」\",\"translatedEnglishLine\":\"It hurts...\"},\n\n{\"lineNumber\":175649,\"originalJapaneseLine\":\"「ああ、倒れてきた壁の下敷きになってるようだな。\",\"translatedEnglishLine\":\"Ah, it looks like we're trapped under a fallen wall.\"},\n\n{\"lineNumber\":175650,\"originalJapaneseLine\":\"　うむむむ……」\",\"translatedEnglishLine\":\"Ummm...\"},\n\n{\"lineNumber\":175651,\"originalJapaneseLine\":\"「とりゃーーー！」\",\"translatedEnglishLine\":\"Toryaaah!\"},\n\n{\"lineNumber\":175652,\"originalJapaneseLine\":\"「お、おお、これはまた……」\",\"translatedEnglishLine\":\"O-oh, this is quite something...\"},\n\n{\"lineNumber\":175653,\"originalJapaneseLine\":\"「結構な大惨事」\",\"translatedEnglishLine\":\"A rather big disaster.\"},\n\n{\"lineNumber\":175654,\"originalJapaneseLine\":\"「アホですか貴方はーーッ！」\",\"translatedEnglishLine\":\"Are you an idiot or what?!\"},\n \n{\"lineNumber\":175655,\"originalJapaneseLine\":\"「けほっ、けほっ……\",\"translatedEnglishLine\":\"Keh, keh... (cough, cough)...\"},\n\n{\"lineNumber\":175656,\"originalJapaneseLine\":\"　頭打ってしまいました……」\",\"translatedEnglishLine\":\"I hit my head...\"},\n\n{\"lineNumber\":175657,\"originalJapaneseLine\":\"「おお、良かった良かった。\",\"translatedEnglishLine\":\"Oh, that's good, that's good.\"},\n\n{\"lineNumber\":175658,\"originalJapaneseLine\":\"　君達も生きてたか」\",\"translatedEnglishLine\":\"You all survived too, huh?\"},\n\n{\"lineNumber\":175659,\"originalJapaneseLine\":\"「うう……ランス様、無茶しすぎです……」\",\"translatedEnglishLine\":\"Ugh... Lance-sama, you overdid it...\"},\n\n{\"lineNumber\":175660,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"Hah...\"},\n\n{\"lineNumber\":175661,\"originalJapaneseLine\":\"　怪我人と敵側の様子の調査を行います……」\",\"translatedEnglishLine\":\"We need to check on the injured and investigate the enemy's status...\"},\n\n{\"lineNumber\":175662,\"originalJapaneseLine\":\"軍師達が率先して、\",\"translatedEnglishLine\":\"The strategists took the lead,\"},\n\n{\"lineNumber\":175663,\"originalJapaneseLine\":\"城内で無事な人間の点呼がすぐさま行われた。\",\"translatedEnglishLine\":\"and quickly took roll call of the unharmed inside the castle.\"},\n\n{\"lineNumber\":175664,\"originalJapaneseLine\":\"玉座の間に、無事だった人間と、\",\"translatedEnglishLine\":\"In the throne room, those who were safe,\"},\n\n{\"lineNumber\":175665,\"originalJapaneseLine\":\"各国の主要人物達が集められる。\",\"translatedEnglishLine\":\"and the main figures from each country were gathered.\"},\n\n{\"lineNumber\":175666,\"originalJapaneseLine\":\"「やれやれ、まさか城ごと突撃するとは……\",\"translatedEnglishLine\":\"Good grief, to think we charged with the whole castle...\"},\n\n{\"lineNumber\":175667,\"originalJapaneseLine\":\"　いや、こうなってもおかしくなかった、か」\",\"translatedEnglishLine\":\"No, maybe it wasn't so strange it ended like this.\"},\n\n{\"lineNumber\":175668,\"originalJapaneseLine\":\"「あいてて……\",\"translatedEnglishLine\":\"Ouch ouch...\"},\n\n{\"lineNumber\":175669,\"originalJapaneseLine\":\"　こりゃ、戦闘はちょいと無理そうだ……」\",\"translatedEnglishLine\":\"Looks like fighting's a bit impossible right now...\"},\n\n{\"lineNumber\":175670,\"originalJapaneseLine\":\"「馬鹿体力の癖に怪我して身動き出来んとは、\",\"translatedEnglishLine\":\"Despite your stupid stamina, you got injured and can't move,\"},\n\n{\"lineNumber\":175671,\"originalJapaneseLine\":\"　本当にいいとこ一つも残ってないな」\",\"translatedEnglishLine\":\"Not a single good point left in you.\"},\n\n{\"lineNumber\":175672,\"originalJapaneseLine\":\"「いや、面目ねえ……\",\"translatedEnglishLine\":\"No, I'm ashamed...\"},\n\n{\"lineNumber\":175673,\"originalJapaneseLine\":\"　言い訳はしねぇよ」\",\"translatedEnglishLine\":\"I won't make excuses.\"},\n\n{\"lineNumber\":175674,\"originalJapaneseLine\":\"「あんたが無茶するからでしょうが！」\",\"translatedEnglishLine\":\"It's because you pushed yourself too hard!\"},\n\n{\"lineNumber\":175675,\"originalJapaneseLine\":\"「パットンはみんなを守って怪我したのー」\",\"translatedEnglishLine\":\"Patton got hurt trying to protect everyone—\"},\n\n{\"lineNumber\":175676,\"originalJapaneseLine\":\"「それでも二人にも怪我させちまったからな……\",\"translatedEnglishLine\":\"Still, I ended up hurting two others too...\"},\n\n{\"lineNumber\":175677,\"originalJapaneseLine\":\"　面目ねぇってのはそういうことさ」\",\"translatedEnglishLine\":\"That's what I mean by being ashamed.\"},\n\n{\"lineNumber\":175678,\"originalJapaneseLine\":\"「しかし、実際これからどうする？\",\"translatedEnglishLine\":\"But seriously, what do we do now?\"},\n\n{\"lineNumber\":175679,\"originalJapaneseLine\":\"　動けない奴は俺以外にも結構いるぞ」\",\"translatedEnglishLine\":\"There are quite a few besides me who can't move.\"},\n\n{\"lineNumber\":175680,\"originalJapaneseLine\":\"「そうですね……\",\"translatedEnglishLine\":\"That's right...\"},\n\n{\"lineNumber\":175681,\"originalJapaneseLine\":\"　残念ながら魔人討伐隊の半分ほどが……\",\"translatedEnglishLine\":\"Unfortunately, about half of the demon extermination team...\"},\n\n{\"lineNumber\":175682,\"originalJapaneseLine\":\"「敵の様子はどうなってる？」\",\"translatedEnglishLine\":\"What's the status of the enemy?\"},\n\n{\"lineNumber\":175683,\"originalJapaneseLine\":\"「動きが一切ありません。\",\"translatedEnglishLine\":\"They aren't moving at all.\"},\n\n{\"lineNumber\":175684,\"originalJapaneseLine\":\"　おそらくかなり混乱してるようです」\",\"translatedEnglishLine\":\"They must be quite confused.\"},\n\n{\"lineNumber\":175685,\"originalJapaneseLine\":\"「はははは！\",\"translatedEnglishLine\":\"Hahaha!\"},\n\n{\"lineNumber\":175686,\"originalJapaneseLine\":\"　なんせ、味方すら混乱してるんだ、\",\"translatedEnglishLine\":\"After all, even our allies are confused,\"},\n\n{\"lineNumber\":175687,\"originalJapaneseLine\":\"　敵にはもっと混乱してもらわなくっちゃな」\",\"translatedEnglishLine\":\"so the enemy should be confused even more.\"},\n\n{\"lineNumber\":175688,\"originalJapaneseLine\":\"「やかましい」\",\"translatedEnglishLine\":\"Shut up.\"},\n\n{\"lineNumber\":175689,\"originalJapaneseLine\":\"「やっぱりここは皆さんの回復を待ってから、\",\"translatedEnglishLine\":\"As expected, we should wait for everyone to recover,\"},\n\n{\"lineNumber\":175690,\"originalJapaneseLine\":\"　改めて出撃を……」\",\"translatedEnglishLine\":\"and then set out again...\"}]}","output_parsed":{"translationLines":[{"lineNumber":175631,"originalJapaneseLine":"　ら、ランス様ぁ！？","translatedEnglishLine":"L-Lance-sama!?"},{"lineNumber":175632,"originalJapaneseLine":"「がははは！　シィル、俺から離れるなよぉ！","translatedEnglishLine":"Gahahaha! Sheila, don't stray away from me!"},{"lineNumber":175633,"originalJapaneseLine":"　ぎゅっと抱きついてろ！」","translatedEnglishLine":"Hold on to me tight!"},{"lineNumber":175634,"originalJapaneseLine":"「ははは、はいー！」","translatedEnglishLine":"Haha, okay!"},{"lineNumber":175635,"originalJapaneseLine":"『5、4、3……』","translatedEnglishLine":"'5, 4, 3...'"},{"lineNumber":175636,"originalJapaneseLine":"「来るぞ来るぞ来るぞ来るぞぉぉぉお！」","translatedEnglishLine":"Here it comes, here it comes, here it comes, heeere it comes!"},{"lineNumber":175637,"originalJapaneseLine":"『2、1――","translatedEnglishLine":"'2, 1—'"},{"lineNumber":175638,"originalJapaneseLine":"　……0でございます』","translatedEnglishLine":"'...0 now.'"},{"lineNumber":175639,"originalJapaneseLine":"「ランス城あたたたたたーーーーーっく！！！！」","translatedEnglishLine":"Lance Castle atttttttt-tack!!!!"},{"lineNumber":175640,"originalJapaneseLine":"そして――","translatedEnglishLine":"And then—"},{"lineNumber":175641,"originalJapaneseLine":"ランス城は爆音を轟かせて、","translatedEnglishLine":"Lance Castle roared with a booming sound,"},{"lineNumber":175642,"originalJapaneseLine":"ベズドグ山に激突した。","translatedEnglishLine":"and crashed into Mount Bezdug."},{"lineNumber":175643,"originalJapaneseLine":"「う……」","translatedEnglishLine":"Ugh..."},{"lineNumber":175644,"originalJapaneseLine":"「う〜〜〜〜ん……」","translatedEnglishLine":"Uuuuuuunnnn..."},{"lineNumber":175645,"originalJapaneseLine":"「はっ！　な、なんだここ！？","translatedEnglishLine":"Hah! W-Where is this!?"},{"lineNumber":175646,"originalJapaneseLine":"　あれからどうなった！？」","translatedEnglishLine":"What happened after that!?"},{"lineNumber":175647,"originalJapaneseLine":"「むぎゅう……ら、ランス様……","translatedEnglishLine":"Mugyuu... L-Lance-sama..."},{"lineNumber":175648,"originalJapaneseLine":"　苦しいですぅ……」","translatedEnglishLine":"It hurts..."},{"lineNumber":175649,"originalJapaneseLine":"「ああ、倒れてきた壁の下敷きになってるようだな。","translatedEnglishLine":"Ah, it looks like we're trapped under a fallen wall."},{"lineNumber":175650,"originalJapaneseLine":"　うむむむ……」","translatedEnglishLine":"Ummm..."},{"lineNumber":175651,"originalJapaneseLine":"「とりゃーーー！」","translatedEnglishLine":"Toryaaah!"},{"lineNumber":175652,"originalJapaneseLine":"「お、おお、これはまた……」","translatedEnglishLine":"O-oh, this is quite something..."},{"lineNumber":175653,"originalJapaneseLine":"「結構な大惨事」","translatedEnglishLine":"A rather big disaster."},{"lineNumber":175654,"originalJapaneseLine":"「アホですか貴方はーーッ！」","translatedEnglishLine":"Are you an idiot or what?!"},{"lineNumber":175655,"originalJapaneseLine":"「けほっ、けほっ……","translatedEnglishLine":"Keh, keh... (cough, cough)..."},{"lineNumber":175656,"originalJapaneseLine":"　頭打ってしまいました……」","translatedEnglishLine":"I hit my head..."},{"lineNumber":175657,"originalJapaneseLine":"「おお、良かった良かった。","translatedEnglishLine":"Oh, that's good, that's good."},{"lineNumber":175658,"originalJapaneseLine":"　君達も生きてたか」","translatedEnglishLine":"You all survived too, huh?"},{"lineNumber":175659,"originalJapaneseLine":"「うう……ランス様、無茶しすぎです……」","translatedEnglishLine":"Ugh... Lance-sama, you overdid it..."},{"lineNumber":175660,"originalJapaneseLine":"「はあ……","translatedEnglishLine":"Hah..."},{"lineNumber":175661,"originalJapaneseLine":"　怪我人と敵側の様子の調査を行います……」","translatedEnglishLine":"We need to check on the injured and investigate the enemy's status..."},{"lineNumber":175662,"originalJapaneseLine":"軍師達が率先して、","translatedEnglishLine":"The strategists took the lead,"},{"lineNumber":175663,"originalJapaneseLine":"城内で無事な人間の点呼がすぐさま行われた。","translatedEnglishLine":"and quickly took roll call of the unharmed inside the castle."},{"lineNumber":175664,"originalJapaneseLine":"玉座の間に、無事だった人間と、","translatedEnglishLine":"In the throne room, those who were safe,"},{"lineNumber":175665,"originalJapaneseLine":"各国の主要人物達が集められる。","translatedEnglishLine":"and the main figures from each country were gathered."},{"lineNumber":175666,"originalJapaneseLine":"「やれやれ、まさか城ごと突撃するとは……","translatedEnglishLine":"Good grief, to think we charged with the whole castle..."},{"lineNumber":175667,"originalJapaneseLine":"　いや、こうなってもおかしくなかった、か」","translatedEnglishLine":"No, maybe it wasn't so strange it ended like this."},{"lineNumber":175668,"originalJapaneseLine":"「あいてて……","translatedEnglishLine":"Ouch ouch..."},{"lineNumber":175669,"originalJapaneseLine":"　こりゃ、戦闘はちょいと無理そうだ……」","translatedEnglishLine":"Looks like fighting's a bit impossible right now..."},{"lineNumber":175670,"originalJapaneseLine":"「馬鹿体力の癖に怪我して身動き出来んとは、","translatedEnglishLine":"Despite your stupid stamina, you got injured and can't move,"},{"lineNumber":175671,"originalJapaneseLine":"　本当にいいとこ一つも残ってないな」","translatedEnglishLine":"Not a single good point left in you."},{"lineNumber":175672,"originalJapaneseLine":"「いや、面目ねえ……","translatedEnglishLine":"No, I'm ashamed..."},{"lineNumber":175673,"originalJapaneseLine":"　言い訳はしねぇよ」","translatedEnglishLine":"I won't make excuses."},{"lineNumber":175674,"originalJapaneseLine":"「あんたが無茶するからでしょうが！」","translatedEnglishLine":"It's because you pushed yourself too hard!"},{"lineNumber":175675,"originalJapaneseLine":"「パットンはみんなを守って怪我したのー」","translatedEnglishLine":"Patton got hurt trying to protect everyone—"},{"lineNumber":175676,"originalJapaneseLine":"「それでも二人にも怪我させちまったからな……","translatedEnglishLine":"Still, I ended up hurting two others too..."},{"lineNumber":175677,"originalJapaneseLine":"　面目ねぇってのはそういうことさ」","translatedEnglishLine":"That's what I mean by being ashamed."},{"lineNumber":175678,"originalJapaneseLine":"「しかし、実際これからどうする？","translatedEnglishLine":"But seriously, what do we do now?"},{"lineNumber":175679,"originalJapaneseLine":"　動けない奴は俺以外にも結構いるぞ」","translatedEnglishLine":"There are quite a few besides me who can't move."},{"lineNumber":175680,"originalJapaneseLine":"「そうですね……","translatedEnglishLine":"That's right..."},{"lineNumber":175681,"originalJapaneseLine":"　残念ながら魔人討伐隊の半分ほどが……","translatedEnglishLine":"Unfortunately, about half of the demon extermination team..."},{"lineNumber":175682,"originalJapaneseLine":"「敵の様子はどうなってる？」","translatedEnglishLine":"What's the status of the enemy?"},{"lineNumber":175683,"originalJapaneseLine":"「動きが一切ありません。","translatedEnglishLine":"They aren't moving at all."},{"lineNumber":175684,"originalJapaneseLine":"　おそらくかなり混乱してるようです」","translatedEnglishLine":"They must be quite confused."},{"lineNumber":175685,"originalJapaneseLine":"「はははは！","translatedEnglishLine":"Hahaha!"},{"lineNumber":175686,"originalJapaneseLine":"　なんせ、味方すら混乱してるんだ、","translatedEnglishLine":"After all, even our allies are confused,"},{"lineNumber":175687,"originalJapaneseLine":"　敵にはもっと混乱してもらわなくっちゃな」","translatedEnglishLine":"so the enemy should be confused even more."},{"lineNumber":175688,"originalJapaneseLine":"「やかましい」","translatedEnglishLine":"Shut up."},{"lineNumber":175689,"originalJapaneseLine":"「やっぱりここは皆さんの回復を待ってから、","translatedEnglishLine":"As expected, we should wait for everyone to recover,"},{"lineNumber":175690,"originalJapaneseLine":"　改めて出撃を……」","translatedEnglishLine":"and then set out again..."}]}}
+{
+    "id": "resp_07efef15eadc9a380068f188594cec81909d63b261ab798c4c",
+    "object": "response",
+    "created_at": 1760659545,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_07efef15eadc9a380068f188599d088190a6eceda35e61c6a1",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":175631,\"originalJapaneseLine\":\"　ら、ランス様ぁ！？\",\"translatedEnglishLine\":\"L-Lance-sama!?\"},{\"lineNumber\":175632,\"originalJapaneseLine\":\"「がははは！　シィル、俺から離れるなよぉ！\",\"translatedEnglishLine\":\"Gahahaha! Sheila, don't stray away from me!\"},{\"lineNumber\":175633,\"originalJapaneseLine\":\"　ぎゅっと抱きついてろ！」\",\"translatedEnglishLine\":\"Hold on to me tight!\"},{\"lineNumber\":175634,\"originalJapaneseLine\":\"「ははは、はいー！」\",\"translatedEnglishLine\":\"Haha, okay!\"},{\"lineNumber\":175635,\"originalJapaneseLine\":\"『5、4、3……』\",\"translatedEnglishLine\":\"'5, 4, 3...'\"},{\"lineNumber\":175636,\"originalJapaneseLine\":\"「来るぞ来るぞ来るぞ来るぞぉぉぉお！」\",\"translatedEnglishLine\":\"Here it comes, here it comes, here it comes, heeere it comes!\"},{\"lineNumber\":175637,\"originalJapaneseLine\":\"『2、1――\",\"translatedEnglishLine\":\"'2, 1—'\"},{\"lineNumber\":175638,\"originalJapaneseLine\":\"　……0でございます』\",\"translatedEnglishLine\":\"'...0 now.'\"},\n\n{\"lineNumber\":175639,\"originalJapaneseLine\":\"「ランス城あたたたたたーーーーーっく！！！！」\",\"translatedEnglishLine\":\"Lance Castle atttttttt-tack!!!!\"},{\"lineNumber\":175640,\"originalJapaneseLine\":\"そして――\",\"translatedEnglishLine\":\"And then—\"},{\"lineNumber\":175641,\"originalJapaneseLine\":\"ランス城は爆音を轟かせて、\",\"translatedEnglishLine\":\"Lance Castle roared with a booming sound,\"},\n\n{\"lineNumber\":175642,\"originalJapaneseLine\":\"ベズドグ山に激突した。\",\"translatedEnglishLine\":\"and crashed into Mount Bezdug.\"},\n\n{\"lineNumber\":175643,\"originalJapaneseLine\":\"「う……」\",\"translatedEnglishLine\":\"Ugh...\"},\n\n{\"lineNumber\":175644,\"originalJapaneseLine\":\"「う〜〜〜〜ん……」\",\"translatedEnglishLine\":\"Uuuuuuunnnn...\"},\n\n{\"lineNumber\":175645,\"originalJapaneseLine\":\"「はっ！　な、なんだここ！？\",\"translatedEnglishLine\":\"Hah! W-Where is this!?\"},\n\n{\"lineNumber\":175646,\"originalJapaneseLine\":\"　あれからどうなった！？」\",\"translatedEnglishLine\":\"What happened after that!?\"},\n\n{\"lineNumber\":175647,\"originalJapaneseLine\":\"「むぎゅう……ら、ランス様……\",\"translatedEnglishLine\":\"Mugyuu... L-Lance-sama...\"},\n\n{\"lineNumber\":175648,\"originalJapaneseLine\":\"　苦しいですぅ……」\",\"translatedEnglishLine\":\"It hurts...\"},\n\n{\"lineNumber\":175649,\"originalJapaneseLine\":\"「ああ、倒れてきた壁の下敷きになってるようだな。\",\"translatedEnglishLine\":\"Ah, it looks like we're trapped under a fallen wall.\"},\n\n{\"lineNumber\":175650,\"originalJapaneseLine\":\"　うむむむ……」\",\"translatedEnglishLine\":\"Ummm...\"},\n\n{\"lineNumber\":175651,\"originalJapaneseLine\":\"「とりゃーーー！」\",\"translatedEnglishLine\":\"Toryaaah!\"},\n\n{\"lineNumber\":175652,\"originalJapaneseLine\":\"「お、おお、これはまた……」\",\"translatedEnglishLine\":\"O-oh, this is quite something...\"},\n\n{\"lineNumber\":175653,\"originalJapaneseLine\":\"「結構な大惨事」\",\"translatedEnglishLine\":\"A rather big disaster.\"},\n\n{\"lineNumber\":175654,\"originalJapaneseLine\":\"「アホですか貴方はーーッ！」\",\"translatedEnglishLine\":\"Are you an idiot or what?!\"},\n \n{\"lineNumber\":175655,\"originalJapaneseLine\":\"「けほっ、けほっ……\",\"translatedEnglishLine\":\"Keh, keh... (cough, cough)...\"},\n\n{\"lineNumber\":175656,\"originalJapaneseLine\":\"　頭打ってしまいました……」\",\"translatedEnglishLine\":\"I hit my head...\"},\n\n{\"lineNumber\":175657,\"originalJapaneseLine\":\"「おお、良かった良かった。\",\"translatedEnglishLine\":\"Oh, that's good, that's good.\"},\n\n{\"lineNumber\":175658,\"originalJapaneseLine\":\"　君達も生きてたか」\",\"translatedEnglishLine\":\"You all survived too, huh?\"},\n\n{\"lineNumber\":175659,\"originalJapaneseLine\":\"「うう……ランス様、無茶しすぎです……」\",\"translatedEnglishLine\":\"Ugh... Lance-sama, you overdid it...\"},\n\n{\"lineNumber\":175660,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"Hah...\"},\n\n{\"lineNumber\":175661,\"originalJapaneseLine\":\"　怪我人と敵側の様子の調査を行います……」\",\"translatedEnglishLine\":\"We need to check on the injured and investigate the enemy's status...\"},\n\n{\"lineNumber\":175662,\"originalJapaneseLine\":\"軍師達が率先して、\",\"translatedEnglishLine\":\"The strategists took the lead,\"},\n\n{\"lineNumber\":175663,\"originalJapaneseLine\":\"城内で無事な人間の点呼がすぐさま行われた。\",\"translatedEnglishLine\":\"and quickly took roll call of the unharmed inside the castle.\"},\n\n{\"lineNumber\":175664,\"originalJapaneseLine\":\"玉座の間に、無事だった人間と、\",\"translatedEnglishLine\":\"In the throne room, those who were safe,\"},\n\n{\"lineNumber\":175665,\"originalJapaneseLine\":\"各国の主要人物達が集められる。\",\"translatedEnglishLine\":\"and the main figures from each country were gathered.\"},\n\n{\"lineNumber\":175666,\"originalJapaneseLine\":\"「やれやれ、まさか城ごと突撃するとは……\",\"translatedEnglishLine\":\"Good grief, to think we charged with the whole castle...\"},\n\n{\"lineNumber\":175667,\"originalJapaneseLine\":\"　いや、こうなってもおかしくなかった、か」\",\"translatedEnglishLine\":\"No, maybe it wasn't so strange it ended like this.\"},\n\n{\"lineNumber\":175668,\"originalJapaneseLine\":\"「あいてて……\",\"translatedEnglishLine\":\"Ouch ouch...\"},\n\n{\"lineNumber\":175669,\"originalJapaneseLine\":\"　こりゃ、戦闘はちょいと無理そうだ……」\",\"translatedEnglishLine\":\"Looks like fighting's a bit impossible right now...\"},\n\n{\"lineNumber\":175670,\"originalJapaneseLine\":\"「馬鹿体力の癖に怪我して身動き出来んとは、\",\"translatedEnglishLine\":\"Despite your stupid stamina, you got injured and can't move,\"},\n\n{\"lineNumber\":175671,\"originalJapaneseLine\":\"　本当にいいとこ一つも残ってないな」\",\"translatedEnglishLine\":\"Not a single good point left in you.\"},\n\n{\"lineNumber\":175672,\"originalJapaneseLine\":\"「いや、面目ねえ……\",\"translatedEnglishLine\":\"No, I'm ashamed...\"},\n\n{\"lineNumber\":175673,\"originalJapaneseLine\":\"　言い訳はしねぇよ」\",\"translatedEnglishLine\":\"I won't make excuses.\"},\n\n{\"lineNumber\":175674,\"originalJapaneseLine\":\"「あんたが無茶するからでしょうが！」\",\"translatedEnglishLine\":\"It's because you pushed yourself too hard!\"},\n\n{\"lineNumber\":175675,\"originalJapaneseLine\":\"「パットンはみんなを守って怪我したのー」\",\"translatedEnglishLine\":\"Patton got hurt trying to protect everyone—\"},\n\n{\"lineNumber\":175676,\"originalJapaneseLine\":\"「それでも二人にも怪我させちまったからな……\",\"translatedEnglishLine\":\"Still, I ended up hurting two others too...\"},\n\n{\"lineNumber\":175677,\"originalJapaneseLine\":\"　面目ねぇってのはそういうことさ」\",\"translatedEnglishLine\":\"That's what I mean by being ashamed.\"},\n\n{\"lineNumber\":175678,\"originalJapaneseLine\":\"「しかし、実際これからどうする？\",\"translatedEnglishLine\":\"But seriously, what do we do now?\"},\n\n{\"lineNumber\":175679,\"originalJapaneseLine\":\"　動けない奴は俺以外にも結構いるぞ」\",\"translatedEnglishLine\":\"There are quite a few besides me who can't move.\"},\n\n{\"lineNumber\":175680,\"originalJapaneseLine\":\"「そうですね……\",\"translatedEnglishLine\":\"That's right...\"},\n\n{\"lineNumber\":175681,\"originalJapaneseLine\":\"　残念ながら魔人討伐隊の半分ほどが……\",\"translatedEnglishLine\":\"Unfortunately, about half of the demon extermination team...\"},\n\n{\"lineNumber\":175682,\"originalJapaneseLine\":\"「敵の様子はどうなってる？」\",\"translatedEnglishLine\":\"What's the status of the enemy?\"},\n\n{\"lineNumber\":175683,\"originalJapaneseLine\":\"「動きが一切ありません。\",\"translatedEnglishLine\":\"They aren't moving at all.\"},\n\n{\"lineNumber\":175684,\"originalJapaneseLine\":\"　おそらくかなり混乱してるようです」\",\"translatedEnglishLine\":\"They must be quite confused.\"},\n\n{\"lineNumber\":175685,\"originalJapaneseLine\":\"「はははは！\",\"translatedEnglishLine\":\"Hahaha!\"},\n\n{\"lineNumber\":175686,\"originalJapaneseLine\":\"　なんせ、味方すら混乱してるんだ、\",\"translatedEnglishLine\":\"After all, even our allies are confused,\"},\n\n{\"lineNumber\":175687,\"originalJapaneseLine\":\"　敵にはもっと混乱してもらわなくっちゃな」\",\"translatedEnglishLine\":\"so the enemy should be confused even more.\"},\n\n{\"lineNumber\":175688,\"originalJapaneseLine\":\"「やかましい」\",\"translatedEnglishLine\":\"Shut up.\"},\n\n{\"lineNumber\":175689,\"originalJapaneseLine\":\"「やっぱりここは皆さんの回復を待ってから、\",\"translatedEnglishLine\":\"As expected, we should wait for everyone to recover,\"},\n\n{\"lineNumber\":175690,\"originalJapaneseLine\":\"　改めて出撃を……」\",\"translatedEnglishLine\":\"and then set out again...\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 175631,
+                                "originalJapaneseLine": "　ら、ランス様ぁ！？",
+                                "translatedEnglishLine": "L-Lance-sama!?"
+                            },
+                            {
+                                "lineNumber": 175632,
+                                "originalJapaneseLine": "「がははは！　シィル、俺から離れるなよぉ！",
+                                "translatedEnglishLine": "Gahahaha! Sheila, don't stray away from me!"
+                            },
+                            {
+                                "lineNumber": 175633,
+                                "originalJapaneseLine": "　ぎゅっと抱きついてろ！」",
+                                "translatedEnglishLine": "Hold on to me tight!"
+                            },
+                            {
+                                "lineNumber": 175634,
+                                "originalJapaneseLine": "「ははは、はいー！」",
+                                "translatedEnglishLine": "Haha, okay!"
+                            },
+                            {
+                                "lineNumber": 175635,
+                                "originalJapaneseLine": "『5、4、3……』",
+                                "translatedEnglishLine": "'5, 4, 3...'"
+                            },
+                            {
+                                "lineNumber": 175636,
+                                "originalJapaneseLine": "「来るぞ来るぞ来るぞ来るぞぉぉぉお！」",
+                                "translatedEnglishLine": "Here it comes, here it comes, here it comes, heeere it comes!"
+                            },
+                            {
+                                "lineNumber": 175637,
+                                "originalJapaneseLine": "『2、1――",
+                                "translatedEnglishLine": "'2, 1—'"
+                            },
+                            {
+                                "lineNumber": 175638,
+                                "originalJapaneseLine": "　……0でございます』",
+                                "translatedEnglishLine": "'...0 now.'"
+                            },
+                            {
+                                "lineNumber": 175639,
+                                "originalJapaneseLine": "「ランス城あたたたたたーーーーーっく！！！！」",
+                                "translatedEnglishLine": "Lance Castle atttttttt-tack!!!!"
+                            },
+                            {
+                                "lineNumber": 175640,
+                                "originalJapaneseLine": "そして――",
+                                "translatedEnglishLine": "And then—"
+                            },
+                            {
+                                "lineNumber": 175641,
+                                "originalJapaneseLine": "ランス城は爆音を轟かせて、",
+                                "translatedEnglishLine": "Lance Castle roared with a booming sound,"
+                            },
+                            {
+                                "lineNumber": 175642,
+                                "originalJapaneseLine": "ベズドグ山に激突した。",
+                                "translatedEnglishLine": "and crashed into Mount Bezdug."
+                            },
+                            {
+                                "lineNumber": 175643,
+                                "originalJapaneseLine": "「う……」",
+                                "translatedEnglishLine": "Ugh..."
+                            },
+                            {
+                                "lineNumber": 175644,
+                                "originalJapaneseLine": "「う〜〜〜〜ん……」",
+                                "translatedEnglishLine": "Uuuuuuunnnn..."
+                            },
+                            {
+                                "lineNumber": 175645,
+                                "originalJapaneseLine": "「はっ！　な、なんだここ！？",
+                                "translatedEnglishLine": "Hah! W-Where is this!?"
+                            },
+                            {
+                                "lineNumber": 175646,
+                                "originalJapaneseLine": "　あれからどうなった！？」",
+                                "translatedEnglishLine": "What happened after that!?"
+                            },
+                            {
+                                "lineNumber": 175647,
+                                "originalJapaneseLine": "「むぎゅう……ら、ランス様……",
+                                "translatedEnglishLine": "Mugyuu... L-Lance-sama..."
+                            },
+                            {
+                                "lineNumber": 175648,
+                                "originalJapaneseLine": "　苦しいですぅ……」",
+                                "translatedEnglishLine": "It hurts..."
+                            },
+                            {
+                                "lineNumber": 175649,
+                                "originalJapaneseLine": "「ああ、倒れてきた壁の下敷きになってるようだな。",
+                                "translatedEnglishLine": "Ah, it looks like we're trapped under a fallen wall."
+                            },
+                            {
+                                "lineNumber": 175650,
+                                "originalJapaneseLine": "　うむむむ……」",
+                                "translatedEnglishLine": "Ummm..."
+                            },
+                            {
+                                "lineNumber": 175651,
+                                "originalJapaneseLine": "「とりゃーーー！」",
+                                "translatedEnglishLine": "Toryaaah!"
+                            },
+                            {
+                                "lineNumber": 175652,
+                                "originalJapaneseLine": "「お、おお、これはまた……」",
+                                "translatedEnglishLine": "O-oh, this is quite something..."
+                            },
+                            {
+                                "lineNumber": 175653,
+                                "originalJapaneseLine": "「結構な大惨事」",
+                                "translatedEnglishLine": "A rather big disaster."
+                            },
+                            {
+                                "lineNumber": 175654,
+                                "originalJapaneseLine": "「アホですか貴方はーーッ！」",
+                                "translatedEnglishLine": "Are you an idiot or what?!"
+                            },
+                            {
+                                "lineNumber": 175655,
+                                "originalJapaneseLine": "「けほっ、けほっ……",
+                                "translatedEnglishLine": "Keh, keh... (cough, cough)..."
+                            },
+                            {
+                                "lineNumber": 175656,
+                                "originalJapaneseLine": "　頭打ってしまいました……」",
+                                "translatedEnglishLine": "I hit my head..."
+                            },
+                            {
+                                "lineNumber": 175657,
+                                "originalJapaneseLine": "「おお、良かった良かった。",
+                                "translatedEnglishLine": "Oh, that's good, that's good."
+                            },
+                            {
+                                "lineNumber": 175658,
+                                "originalJapaneseLine": "　君達も生きてたか」",
+                                "translatedEnglishLine": "You all survived too, huh?"
+                            },
+                            {
+                                "lineNumber": 175659,
+                                "originalJapaneseLine": "「うう……ランス様、無茶しすぎです……」",
+                                "translatedEnglishLine": "Ugh... Lance-sama, you overdid it..."
+                            },
+                            {
+                                "lineNumber": 175660,
+                                "originalJapaneseLine": "「はあ……",
+                                "translatedEnglishLine": "Hah..."
+                            },
+                            {
+                                "lineNumber": 175661,
+                                "originalJapaneseLine": "　怪我人と敵側の様子の調査を行います……」",
+                                "translatedEnglishLine": "We need to check on the injured and investigate the enemy's status..."
+                            },
+                            {
+                                "lineNumber": 175662,
+                                "originalJapaneseLine": "軍師達が率先して、",
+                                "translatedEnglishLine": "The strategists took the lead,"
+                            },
+                            {
+                                "lineNumber": 175663,
+                                "originalJapaneseLine": "城内で無事な人間の点呼がすぐさま行われた。",
+                                "translatedEnglishLine": "and quickly took roll call of the unharmed inside the castle."
+                            },
+                            {
+                                "lineNumber": 175664,
+                                "originalJapaneseLine": "玉座の間に、無事だった人間と、",
+                                "translatedEnglishLine": "In the throne room, those who were safe,"
+                            },
+                            {
+                                "lineNumber": 175665,
+                                "originalJapaneseLine": "各国の主要人物達が集められる。",
+                                "translatedEnglishLine": "and the main figures from each country were gathered."
+                            },
+                            {
+                                "lineNumber": 175666,
+                                "originalJapaneseLine": "「やれやれ、まさか城ごと突撃するとは……",
+                                "translatedEnglishLine": "Good grief, to think we charged with the whole castle..."
+                            },
+                            {
+                                "lineNumber": 175667,
+                                "originalJapaneseLine": "　いや、こうなってもおかしくなかった、か」",
+                                "translatedEnglishLine": "No, maybe it wasn't so strange it ended like this."
+                            },
+                            {
+                                "lineNumber": 175668,
+                                "originalJapaneseLine": "「あいてて……",
+                                "translatedEnglishLine": "Ouch ouch..."
+                            },
+                            {
+                                "lineNumber": 175669,
+                                "originalJapaneseLine": "　こりゃ、戦闘はちょいと無理そうだ……」",
+                                "translatedEnglishLine": "Looks like fighting's a bit impossible right now..."
+                            },
+                            {
+                                "lineNumber": 175670,
+                                "originalJapaneseLine": "「馬鹿体力の癖に怪我して身動き出来んとは、",
+                                "translatedEnglishLine": "Despite your stupid stamina, you got injured and can't move,"
+                            },
+                            {
+                                "lineNumber": 175671,
+                                "originalJapaneseLine": "　本当にいいとこ一つも残ってないな」",
+                                "translatedEnglishLine": "Not a single good point left in you."
+                            },
+                            {
+                                "lineNumber": 175672,
+                                "originalJapaneseLine": "「いや、面目ねえ……",
+                                "translatedEnglishLine": "No, I'm ashamed..."
+                            },
+                            {
+                                "lineNumber": 175673,
+                                "originalJapaneseLine": "　言い訳はしねぇよ」",
+                                "translatedEnglishLine": "I won't make excuses."
+                            },
+                            {
+                                "lineNumber": 175674,
+                                "originalJapaneseLine": "「あんたが無茶するからでしょうが！」",
+                                "translatedEnglishLine": "It's because you pushed yourself too hard!"
+                            },
+                            {
+                                "lineNumber": 175675,
+                                "originalJapaneseLine": "「パットンはみんなを守って怪我したのー」",
+                                "translatedEnglishLine": "Patton got hurt trying to protect everyone—"
+                            },
+                            {
+                                "lineNumber": 175676,
+                                "originalJapaneseLine": "「それでも二人にも怪我させちまったからな……",
+                                "translatedEnglishLine": "Still, I ended up hurting two others too..."
+                            },
+                            {
+                                "lineNumber": 175677,
+                                "originalJapaneseLine": "　面目ねぇってのはそういうことさ」",
+                                "translatedEnglishLine": "That's what I mean by being ashamed."
+                            },
+                            {
+                                "lineNumber": 175678,
+                                "originalJapaneseLine": "「しかし、実際これからどうする？",
+                                "translatedEnglishLine": "But seriously, what do we do now?"
+                            },
+                            {
+                                "lineNumber": 175679,
+                                "originalJapaneseLine": "　動けない奴は俺以外にも結構いるぞ」",
+                                "translatedEnglishLine": "There are quite a few besides me who can't move."
+                            },
+                            {
+                                "lineNumber": 175680,
+                                "originalJapaneseLine": "「そうですね……",
+                                "translatedEnglishLine": "That's right..."
+                            },
+                            {
+                                "lineNumber": 175681,
+                                "originalJapaneseLine": "　残念ながら魔人討伐隊の半分ほどが……",
+                                "translatedEnglishLine": "Unfortunately, about half of the demon extermination team..."
+                            },
+                            {
+                                "lineNumber": 175682,
+                                "originalJapaneseLine": "「敵の様子はどうなってる？」",
+                                "translatedEnglishLine": "What's the status of the enemy?"
+                            },
+                            {
+                                "lineNumber": 175683,
+                                "originalJapaneseLine": "「動きが一切ありません。",
+                                "translatedEnglishLine": "They aren't moving at all."
+                            },
+                            {
+                                "lineNumber": 175684,
+                                "originalJapaneseLine": "　おそらくかなり混乱してるようです」",
+                                "translatedEnglishLine": "They must be quite confused."
+                            },
+                            {
+                                "lineNumber": 175685,
+                                "originalJapaneseLine": "「はははは！",
+                                "translatedEnglishLine": "Hahaha!"
+                            },
+                            {
+                                "lineNumber": 175686,
+                                "originalJapaneseLine": "　なんせ、味方すら混乱してるんだ、",
+                                "translatedEnglishLine": "After all, even our allies are confused,"
+                            },
+                            {
+                                "lineNumber": 175687,
+                                "originalJapaneseLine": "　敵にはもっと混乱してもらわなくっちゃな」",
+                                "translatedEnglishLine": "so the enemy should be confused even more."
+                            },
+                            {
+                                "lineNumber": 175688,
+                                "originalJapaneseLine": "「やかましい」",
+                                "translatedEnglishLine": "Shut up."
+                            },
+                            {
+                                "lineNumber": 175689,
+                                "originalJapaneseLine": "「やっぱりここは皆さんの回復を待ってから、",
+                                "translatedEnglishLine": "As expected, we should wait for everyone to recover,"
+                            },
+                            {
+                                "lineNumber": 175690,
+                                "originalJapaneseLine": "　改めて出撃を……」",
+                                "translatedEnglishLine": "and then set out again..."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1684,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2174,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3858
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":175631,\"originalJapaneseLine\":\"　ら、ランス様ぁ！？\",\"translatedEnglishLine\":\"L-Lance-sama!?\"},{\"lineNumber\":175632,\"originalJapaneseLine\":\"「がははは！　シィル、俺から離れるなよぉ！\",\"translatedEnglishLine\":\"Gahahaha! Sheila, don't stray away from me!\"},{\"lineNumber\":175633,\"originalJapaneseLine\":\"　ぎゅっと抱きついてろ！」\",\"translatedEnglishLine\":\"Hold on to me tight!\"},{\"lineNumber\":175634,\"originalJapaneseLine\":\"「ははは、はいー！」\",\"translatedEnglishLine\":\"Haha, okay!\"},{\"lineNumber\":175635,\"originalJapaneseLine\":\"『5、4、3……』\",\"translatedEnglishLine\":\"'5, 4, 3...'\"},{\"lineNumber\":175636,\"originalJapaneseLine\":\"「来るぞ来るぞ来るぞ来るぞぉぉぉお！」\",\"translatedEnglishLine\":\"Here it comes, here it comes, here it comes, heeere it comes!\"},{\"lineNumber\":175637,\"originalJapaneseLine\":\"『2、1――\",\"translatedEnglishLine\":\"'2, 1—'\"},{\"lineNumber\":175638,\"originalJapaneseLine\":\"　……0でございます』\",\"translatedEnglishLine\":\"'...0 now.'\"},\n\n{\"lineNumber\":175639,\"originalJapaneseLine\":\"「ランス城あたたたたたーーーーーっく！！！！」\",\"translatedEnglishLine\":\"Lance Castle atttttttt-tack!!!!\"},{\"lineNumber\":175640,\"originalJapaneseLine\":\"そして――\",\"translatedEnglishLine\":\"And then—\"},{\"lineNumber\":175641,\"originalJapaneseLine\":\"ランス城は爆音を轟かせて、\",\"translatedEnglishLine\":\"Lance Castle roared with a booming sound,\"},\n\n{\"lineNumber\":175642,\"originalJapaneseLine\":\"ベズドグ山に激突した。\",\"translatedEnglishLine\":\"and crashed into Mount Bezdug.\"},\n\n{\"lineNumber\":175643,\"originalJapaneseLine\":\"「う……」\",\"translatedEnglishLine\":\"Ugh...\"},\n\n{\"lineNumber\":175644,\"originalJapaneseLine\":\"「う〜〜〜〜ん……」\",\"translatedEnglishLine\":\"Uuuuuuunnnn...\"},\n\n{\"lineNumber\":175645,\"originalJapaneseLine\":\"「はっ！　な、なんだここ！？\",\"translatedEnglishLine\":\"Hah! W-Where is this!?\"},\n\n{\"lineNumber\":175646,\"originalJapaneseLine\":\"　あれからどうなった！？」\",\"translatedEnglishLine\":\"What happened after that!?\"},\n\n{\"lineNumber\":175647,\"originalJapaneseLine\":\"「むぎゅう……ら、ランス様……\",\"translatedEnglishLine\":\"Mugyuu... L-Lance-sama...\"},\n\n{\"lineNumber\":175648,\"originalJapaneseLine\":\"　苦しいですぅ……」\",\"translatedEnglishLine\":\"It hurts...\"},\n\n{\"lineNumber\":175649,\"originalJapaneseLine\":\"「ああ、倒れてきた壁の下敷きになってるようだな。\",\"translatedEnglishLine\":\"Ah, it looks like we're trapped under a fallen wall.\"},\n\n{\"lineNumber\":175650,\"originalJapaneseLine\":\"　うむむむ……」\",\"translatedEnglishLine\":\"Ummm...\"},\n\n{\"lineNumber\":175651,\"originalJapaneseLine\":\"「とりゃーーー！」\",\"translatedEnglishLine\":\"Toryaaah!\"},\n\n{\"lineNumber\":175652,\"originalJapaneseLine\":\"「お、おお、これはまた……」\",\"translatedEnglishLine\":\"O-oh, this is quite something...\"},\n\n{\"lineNumber\":175653,\"originalJapaneseLine\":\"「結構な大惨事」\",\"translatedEnglishLine\":\"A rather big disaster.\"},\n\n{\"lineNumber\":175654,\"originalJapaneseLine\":\"「アホですか貴方はーーッ！」\",\"translatedEnglishLine\":\"Are you an idiot or what?!\"},\n \n{\"lineNumber\":175655,\"originalJapaneseLine\":\"「けほっ、けほっ……\",\"translatedEnglishLine\":\"Keh, keh... (cough, cough)...\"},\n\n{\"lineNumber\":175656,\"originalJapaneseLine\":\"　頭打ってしまいました……」\",\"translatedEnglishLine\":\"I hit my head...\"},\n\n{\"lineNumber\":175657,\"originalJapaneseLine\":\"「おお、良かった良かった。\",\"translatedEnglishLine\":\"Oh, that's good, that's good.\"},\n\n{\"lineNumber\":175658,\"originalJapaneseLine\":\"　君達も生きてたか」\",\"translatedEnglishLine\":\"You all survived too, huh?\"},\n\n{\"lineNumber\":175659,\"originalJapaneseLine\":\"「うう……ランス様、無茶しすぎです……」\",\"translatedEnglishLine\":\"Ugh... Lance-sama, you overdid it...\"},\n\n{\"lineNumber\":175660,\"originalJapaneseLine\":\"「はあ……\",\"translatedEnglishLine\":\"Hah...\"},\n\n{\"lineNumber\":175661,\"originalJapaneseLine\":\"　怪我人と敵側の様子の調査を行います……」\",\"translatedEnglishLine\":\"We need to check on the injured and investigate the enemy's status...\"},\n\n{\"lineNumber\":175662,\"originalJapaneseLine\":\"軍師達が率先して、\",\"translatedEnglishLine\":\"The strategists took the lead,\"},\n\n{\"lineNumber\":175663,\"originalJapaneseLine\":\"城内で無事な人間の点呼がすぐさま行われた。\",\"translatedEnglishLine\":\"and quickly took roll call of the unharmed inside the castle.\"},\n\n{\"lineNumber\":175664,\"originalJapaneseLine\":\"玉座の間に、無事だった人間と、\",\"translatedEnglishLine\":\"In the throne room, those who were safe,\"},\n\n{\"lineNumber\":175665,\"originalJapaneseLine\":\"各国の主要人物達が集められる。\",\"translatedEnglishLine\":\"and the main figures from each country were gathered.\"},\n\n{\"lineNumber\":175666,\"originalJapaneseLine\":\"「やれやれ、まさか城ごと突撃するとは……\",\"translatedEnglishLine\":\"Good grief, to think we charged with the whole castle...\"},\n\n{\"lineNumber\":175667,\"originalJapaneseLine\":\"　いや、こうなってもおかしくなかった、か」\",\"translatedEnglishLine\":\"No, maybe it wasn't so strange it ended like this.\"},\n\n{\"lineNumber\":175668,\"originalJapaneseLine\":\"「あいてて……\",\"translatedEnglishLine\":\"Ouch ouch...\"},\n\n{\"lineNumber\":175669,\"originalJapaneseLine\":\"　こりゃ、戦闘はちょいと無理そうだ……」\",\"translatedEnglishLine\":\"Looks like fighting's a bit impossible right now...\"},\n\n{\"lineNumber\":175670,\"originalJapaneseLine\":\"「馬鹿体力の癖に怪我して身動き出来んとは、\",\"translatedEnglishLine\":\"Despite your stupid stamina, you got injured and can't move,\"},\n\n{\"lineNumber\":175671,\"originalJapaneseLine\":\"　本当にいいとこ一つも残ってないな」\",\"translatedEnglishLine\":\"Not a single good point left in you.\"},\n\n{\"lineNumber\":175672,\"originalJapaneseLine\":\"「いや、面目ねえ……\",\"translatedEnglishLine\":\"No, I'm ashamed...\"},\n\n{\"lineNumber\":175673,\"originalJapaneseLine\":\"　言い訳はしねぇよ」\",\"translatedEnglishLine\":\"I won't make excuses.\"},\n\n{\"lineNumber\":175674,\"originalJapaneseLine\":\"「あんたが無茶するからでしょうが！」\",\"translatedEnglishLine\":\"It's because you pushed yourself too hard!\"},\n\n{\"lineNumber\":175675,\"originalJapaneseLine\":\"「パットンはみんなを守って怪我したのー」\",\"translatedEnglishLine\":\"Patton got hurt trying to protect everyone—\"},\n\n{\"lineNumber\":175676,\"originalJapaneseLine\":\"「それでも二人にも怪我させちまったからな……\",\"translatedEnglishLine\":\"Still, I ended up hurting two others too...\"},\n\n{\"lineNumber\":175677,\"originalJapaneseLine\":\"　面目ねぇってのはそういうことさ」\",\"translatedEnglishLine\":\"That's what I mean by being ashamed.\"},\n\n{\"lineNumber\":175678,\"originalJapaneseLine\":\"「しかし、実際これからどうする？\",\"translatedEnglishLine\":\"But seriously, what do we do now?\"},\n\n{\"lineNumber\":175679,\"originalJapaneseLine\":\"　動けない奴は俺以外にも結構いるぞ」\",\"translatedEnglishLine\":\"There are quite a few besides me who can't move.\"},\n\n{\"lineNumber\":175680,\"originalJapaneseLine\":\"「そうですね……\",\"translatedEnglishLine\":\"That's right...\"},\n\n{\"lineNumber\":175681,\"originalJapaneseLine\":\"　残念ながら魔人討伐隊の半分ほどが……\",\"translatedEnglishLine\":\"Unfortunately, about half of the demon extermination team...\"},\n\n{\"lineNumber\":175682,\"originalJapaneseLine\":\"「敵の様子はどうなってる？」\",\"translatedEnglishLine\":\"What's the status of the enemy?\"},\n\n{\"lineNumber\":175683,\"originalJapaneseLine\":\"「動きが一切ありません。\",\"translatedEnglishLine\":\"They aren't moving at all.\"},\n\n{\"lineNumber\":175684,\"originalJapaneseLine\":\"　おそらくかなり混乱してるようです」\",\"translatedEnglishLine\":\"They must be quite confused.\"},\n\n{\"lineNumber\":175685,\"originalJapaneseLine\":\"「はははは！\",\"translatedEnglishLine\":\"Hahaha!\"},\n\n{\"lineNumber\":175686,\"originalJapaneseLine\":\"　なんせ、味方すら混乱してるんだ、\",\"translatedEnglishLine\":\"After all, even our allies are confused,\"},\n\n{\"lineNumber\":175687,\"originalJapaneseLine\":\"　敵にはもっと混乱してもらわなくっちゃな」\",\"translatedEnglishLine\":\"so the enemy should be confused even more.\"},\n\n{\"lineNumber\":175688,\"originalJapaneseLine\":\"「やかましい」\",\"translatedEnglishLine\":\"Shut up.\"},\n\n{\"lineNumber\":175689,\"originalJapaneseLine\":\"「やっぱりここは皆さんの回復を待ってから、\",\"translatedEnglishLine\":\"As expected, we should wait for everyone to recover,\"},\n\n{\"lineNumber\":175690,\"originalJapaneseLine\":\"　改めて出撃を……」\",\"translatedEnglishLine\":\"and then set out again...\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 175631,
+                "originalJapaneseLine": "　ら、ランス様ぁ！？",
+                "translatedEnglishLine": "L-Lance-sama!?"
+            },
+            {
+                "lineNumber": 175632,
+                "originalJapaneseLine": "「がははは！　シィル、俺から離れるなよぉ！",
+                "translatedEnglishLine": "Gahahaha! Sheila, don't stray away from me!"
+            },
+            {
+                "lineNumber": 175633,
+                "originalJapaneseLine": "　ぎゅっと抱きついてろ！」",
+                "translatedEnglishLine": "Hold on to me tight!"
+            },
+            {
+                "lineNumber": 175634,
+                "originalJapaneseLine": "「ははは、はいー！」",
+                "translatedEnglishLine": "Haha, okay!"
+            },
+            {
+                "lineNumber": 175635,
+                "originalJapaneseLine": "『5、4、3……』",
+                "translatedEnglishLine": "'5, 4, 3...'"
+            },
+            {
+                "lineNumber": 175636,
+                "originalJapaneseLine": "「来るぞ来るぞ来るぞ来るぞぉぉぉお！」",
+                "translatedEnglishLine": "Here it comes, here it comes, here it comes, heeere it comes!"
+            },
+            {
+                "lineNumber": 175637,
+                "originalJapaneseLine": "『2、1――",
+                "translatedEnglishLine": "'2, 1—'"
+            },
+            {
+                "lineNumber": 175638,
+                "originalJapaneseLine": "　……0でございます』",
+                "translatedEnglishLine": "'...0 now.'"
+            },
+            {
+                "lineNumber": 175639,
+                "originalJapaneseLine": "「ランス城あたたたたたーーーーーっく！！！！」",
+                "translatedEnglishLine": "Lance Castle atttttttt-tack!!!!"
+            },
+            {
+                "lineNumber": 175640,
+                "originalJapaneseLine": "そして――",
+                "translatedEnglishLine": "And then—"
+            },
+            {
+                "lineNumber": 175641,
+                "originalJapaneseLine": "ランス城は爆音を轟かせて、",
+                "translatedEnglishLine": "Lance Castle roared with a booming sound,"
+            },
+            {
+                "lineNumber": 175642,
+                "originalJapaneseLine": "ベズドグ山に激突した。",
+                "translatedEnglishLine": "and crashed into Mount Bezdug."
+            },
+            {
+                "lineNumber": 175643,
+                "originalJapaneseLine": "「う……」",
+                "translatedEnglishLine": "Ugh..."
+            },
+            {
+                "lineNumber": 175644,
+                "originalJapaneseLine": "「う〜〜〜〜ん……」",
+                "translatedEnglishLine": "Uuuuuuunnnn..."
+            },
+            {
+                "lineNumber": 175645,
+                "originalJapaneseLine": "「はっ！　な、なんだここ！？",
+                "translatedEnglishLine": "Hah! W-Where is this!?"
+            },
+            {
+                "lineNumber": 175646,
+                "originalJapaneseLine": "　あれからどうなった！？」",
+                "translatedEnglishLine": "What happened after that!?"
+            },
+            {
+                "lineNumber": 175647,
+                "originalJapaneseLine": "「むぎゅう……ら、ランス様……",
+                "translatedEnglishLine": "Mugyuu... L-Lance-sama..."
+            },
+            {
+                "lineNumber": 175648,
+                "originalJapaneseLine": "　苦しいですぅ……」",
+                "translatedEnglishLine": "It hurts..."
+            },
+            {
+                "lineNumber": 175649,
+                "originalJapaneseLine": "「ああ、倒れてきた壁の下敷きになってるようだな。",
+                "translatedEnglishLine": "Ah, it looks like we're trapped under a fallen wall."
+            },
+            {
+                "lineNumber": 175650,
+                "originalJapaneseLine": "　うむむむ……」",
+                "translatedEnglishLine": "Ummm..."
+            },
+            {
+                "lineNumber": 175651,
+                "originalJapaneseLine": "「とりゃーーー！」",
+                "translatedEnglishLine": "Toryaaah!"
+            },
+            {
+                "lineNumber": 175652,
+                "originalJapaneseLine": "「お、おお、これはまた……」",
+                "translatedEnglishLine": "O-oh, this is quite something..."
+            },
+            {
+                "lineNumber": 175653,
+                "originalJapaneseLine": "「結構な大惨事」",
+                "translatedEnglishLine": "A rather big disaster."
+            },
+            {
+                "lineNumber": 175654,
+                "originalJapaneseLine": "「アホですか貴方はーーッ！」",
+                "translatedEnglishLine": "Are you an idiot or what?!"
+            },
+            {
+                "lineNumber": 175655,
+                "originalJapaneseLine": "「けほっ、けほっ……",
+                "translatedEnglishLine": "Keh, keh... (cough, cough)..."
+            },
+            {
+                "lineNumber": 175656,
+                "originalJapaneseLine": "　頭打ってしまいました……」",
+                "translatedEnglishLine": "I hit my head..."
+            },
+            {
+                "lineNumber": 175657,
+                "originalJapaneseLine": "「おお、良かった良かった。",
+                "translatedEnglishLine": "Oh, that's good, that's good."
+            },
+            {
+                "lineNumber": 175658,
+                "originalJapaneseLine": "　君達も生きてたか」",
+                "translatedEnglishLine": "You all survived too, huh?"
+            },
+            {
+                "lineNumber": 175659,
+                "originalJapaneseLine": "「うう……ランス様、無茶しすぎです……」",
+                "translatedEnglishLine": "Ugh... Lance-sama, you overdid it..."
+            },
+            {
+                "lineNumber": 175660,
+                "originalJapaneseLine": "「はあ……",
+                "translatedEnglishLine": "Hah..."
+            },
+            {
+                "lineNumber": 175661,
+                "originalJapaneseLine": "　怪我人と敵側の様子の調査を行います……」",
+                "translatedEnglishLine": "We need to check on the injured and investigate the enemy's status..."
+            },
+            {
+                "lineNumber": 175662,
+                "originalJapaneseLine": "軍師達が率先して、",
+                "translatedEnglishLine": "The strategists took the lead,"
+            },
+            {
+                "lineNumber": 175663,
+                "originalJapaneseLine": "城内で無事な人間の点呼がすぐさま行われた。",
+                "translatedEnglishLine": "and quickly took roll call of the unharmed inside the castle."
+            },
+            {
+                "lineNumber": 175664,
+                "originalJapaneseLine": "玉座の間に、無事だった人間と、",
+                "translatedEnglishLine": "In the throne room, those who were safe,"
+            },
+            {
+                "lineNumber": 175665,
+                "originalJapaneseLine": "各国の主要人物達が集められる。",
+                "translatedEnglishLine": "and the main figures from each country were gathered."
+            },
+            {
+                "lineNumber": 175666,
+                "originalJapaneseLine": "「やれやれ、まさか城ごと突撃するとは……",
+                "translatedEnglishLine": "Good grief, to think we charged with the whole castle..."
+            },
+            {
+                "lineNumber": 175667,
+                "originalJapaneseLine": "　いや、こうなってもおかしくなかった、か」",
+                "translatedEnglishLine": "No, maybe it wasn't so strange it ended like this."
+            },
+            {
+                "lineNumber": 175668,
+                "originalJapaneseLine": "「あいてて……",
+                "translatedEnglishLine": "Ouch ouch..."
+            },
+            {
+                "lineNumber": 175669,
+                "originalJapaneseLine": "　こりゃ、戦闘はちょいと無理そうだ……」",
+                "translatedEnglishLine": "Looks like fighting's a bit impossible right now..."
+            },
+            {
+                "lineNumber": 175670,
+                "originalJapaneseLine": "「馬鹿体力の癖に怪我して身動き出来んとは、",
+                "translatedEnglishLine": "Despite your stupid stamina, you got injured and can't move,"
+            },
+            {
+                "lineNumber": 175671,
+                "originalJapaneseLine": "　本当にいいとこ一つも残ってないな」",
+                "translatedEnglishLine": "Not a single good point left in you."
+            },
+            {
+                "lineNumber": 175672,
+                "originalJapaneseLine": "「いや、面目ねえ……",
+                "translatedEnglishLine": "No, I'm ashamed..."
+            },
+            {
+                "lineNumber": 175673,
+                "originalJapaneseLine": "　言い訳はしねぇよ」",
+                "translatedEnglishLine": "I won't make excuses."
+            },
+            {
+                "lineNumber": 175674,
+                "originalJapaneseLine": "「あんたが無茶するからでしょうが！」",
+                "translatedEnglishLine": "It's because you pushed yourself too hard!"
+            },
+            {
+                "lineNumber": 175675,
+                "originalJapaneseLine": "「パットンはみんなを守って怪我したのー」",
+                "translatedEnglishLine": "Patton got hurt trying to protect everyone—"
+            },
+            {
+                "lineNumber": 175676,
+                "originalJapaneseLine": "「それでも二人にも怪我させちまったからな……",
+                "translatedEnglishLine": "Still, I ended up hurting two others too..."
+            },
+            {
+                "lineNumber": 175677,
+                "originalJapaneseLine": "　面目ねぇってのはそういうことさ」",
+                "translatedEnglishLine": "That's what I mean by being ashamed."
+            },
+            {
+                "lineNumber": 175678,
+                "originalJapaneseLine": "「しかし、実際これからどうする？",
+                "translatedEnglishLine": "But seriously, what do we do now?"
+            },
+            {
+                "lineNumber": 175679,
+                "originalJapaneseLine": "　動けない奴は俺以外にも結構いるぞ」",
+                "translatedEnglishLine": "There are quite a few besides me who can't move."
+            },
+            {
+                "lineNumber": 175680,
+                "originalJapaneseLine": "「そうですね……",
+                "translatedEnglishLine": "That's right..."
+            },
+            {
+                "lineNumber": 175681,
+                "originalJapaneseLine": "　残念ながら魔人討伐隊の半分ほどが……",
+                "translatedEnglishLine": "Unfortunately, about half of the demon extermination team..."
+            },
+            {
+                "lineNumber": 175682,
+                "originalJapaneseLine": "「敵の様子はどうなってる？」",
+                "translatedEnglishLine": "What's the status of the enemy?"
+            },
+            {
+                "lineNumber": 175683,
+                "originalJapaneseLine": "「動きが一切ありません。",
+                "translatedEnglishLine": "They aren't moving at all."
+            },
+            {
+                "lineNumber": 175684,
+                "originalJapaneseLine": "　おそらくかなり混乱してるようです」",
+                "translatedEnglishLine": "They must be quite confused."
+            },
+            {
+                "lineNumber": 175685,
+                "originalJapaneseLine": "「はははは！",
+                "translatedEnglishLine": "Hahaha!"
+            },
+            {
+                "lineNumber": 175686,
+                "originalJapaneseLine": "　なんせ、味方すら混乱してるんだ、",
+                "translatedEnglishLine": "After all, even our allies are confused,"
+            },
+            {
+                "lineNumber": 175687,
+                "originalJapaneseLine": "　敵にはもっと混乱してもらわなくっちゃな」",
+                "translatedEnglishLine": "so the enemy should be confused even more."
+            },
+            {
+                "lineNumber": 175688,
+                "originalJapaneseLine": "「やかましい」",
+                "translatedEnglishLine": "Shut up."
+            },
+            {
+                "lineNumber": 175689,
+                "originalJapaneseLine": "「やっぱりここは皆さんの回復を待ってから、",
+                "translatedEnglishLine": "As expected, we should wait for everyone to recover,"
+            },
+            {
+                "lineNumber": 175690,
+                "originalJapaneseLine": "　改めて出撃を……」",
+                "translatedEnglishLine": "and then set out again..."
+            }
+        ]
+    }
+}

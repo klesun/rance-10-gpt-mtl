@@ -1,1 +1,719 @@
-{"id":"resp_0c713d873c4cd6ef0068ef8538615c819785b327601d226fc4","object":"response","created_at":1760527672,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0c713d873c4cd6ef0068ef85390c20819782737ff180506cea","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":33691,\"originalJapaneseLine\":\"『西！　そのまままっすぐ西に行きなさい！\",\"translatedEnglishLine\":\"'West! Go straight west just like that!\"},{\"lineNumber\":33692,\"originalJapaneseLine\":\"　ゼスの、向こうまで！'\",\"translatedEnglishLine\":\"To the other side of Zeth!'\"},{\"lineNumber\":33693,\"originalJapaneseLine\":\"「お、おおおおぉぉっ……！\",\"translatedEnglishLine\":\"\\\"O-ooooh...!\"},{\"lineNumber\":33694,\"originalJapaneseLine\":\"　し、城が……動く…………！？」\",\"translatedEnglishLine\":\"Th-the castle... is moving...!?\"},{\"lineNumber\":33695,\"originalJapaneseLine\":\"アニスに誘導され、追うトッポス。\",\"translatedEnglishLine\":\"Guided by Anise, Toppos pursues.\"},{\"lineNumber\":33696,\"originalJapaneseLine\":\"その胴に巻かれた強靱なロープが、ランス城を引き。\",\"translatedEnglishLine\":\"The strong rope wrapped around its torso pulls Rance Castle.\"},{\"lineNumber\":33697,\"originalJapaneseLine\":\"魔物界への旅が始まった。\",\"translatedEnglishLine\":\"The journey to the Monster World has begun.\"},{\"lineNumber\":33698,\"originalJapaneseLine\":\"「おお……砂漠の中でも走ってくぞあいつ」\",\"translatedEnglishLine\":\"\\\"Oh... it’s running even through the desert.\\\"\"},{\"lineNumber\":33699,\"originalJapaneseLine\":\"「上空からでも熱気が伝わってくるような……\",\"translatedEnglishLine\":\"\\\"You can feel the heat even from the sky...\"},{\"lineNumber\":33700,\"originalJapaneseLine\":\"　大丈夫でしょうか、トッポスさん……」\",\"translatedEnglishLine\":\"I wonder if Toppos is alright...\\\"\"},{\"lineNumber\":33701,\"originalJapaneseLine\":\"「おっ？　なんだあそこ？　街があるぞ」\",\"translatedEnglishLine\":\"\\\"Oh? What's that over there? There's a town.\\\"\"},{\"lineNumber\":33702,\"originalJapaneseLine\":\"「こんな砂漠の中に……」\",\"translatedEnglishLine\":\"\\\"In the middle of such a desert...\\\"\"},{\"lineNumber\":33703,\"originalJapaneseLine\":\"「…………っつか、魔軍……？\",\"translatedEnglishLine\":\"\\\"...Or rather, the demon army...?\"},{\"lineNumber\":33704,\"originalJapaneseLine\":\"　魔物兵がウジャウジャいるぞ」\",\"translatedEnglishLine\":\"There are swarms of monster soldiers everywhere.\\\"\"},{\"lineNumber\":33705,\"originalJapaneseLine\":\"「なんだ、侵入者……それに、ト、トッポス！？\",\"translatedEnglishLine\":\"\\\"What? Intruders... and T-Toppos!?\\\"\"},{\"lineNumber\":33706,\"originalJapaneseLine\":\"　くっ、迎撃！」\",\"translatedEnglishLine\":\"Damn, intercept them!\\\"\"},{\"lineNumber\":33707,\"originalJapaneseLine\":\"「あっ、あっ、トッポスさんとアニスさんが\",\"translatedEnglishLine\":\"\\\"Ah, ah, Toppos and Anise are\"},{\"lineNumber\":33708,\"originalJapaneseLine\":\"　襲われてますよ！」\",\"translatedEnglishLine\":\"being attacked!\\\"\"},{\"lineNumber\":33709,\"originalJapaneseLine\":\"「それでも単独で切り抜けてるな……\",\"translatedEnglishLine\":\"\\\"Even so, they're breaking through on their own...\\\"\"},{\"lineNumber\":33710,\"originalJapaneseLine\":\"　さすが災害コンビ……」\",\"translatedEnglishLine\":\"As expected from the disaster duo...\\\"\"},{\"lineNumber\":33711,\"originalJapaneseLine\":\"「おお……砂漠の中でも走ってくぞあいつ」\",\"translatedEnglishLine\":\"\\\"Oh... it’s running even through the desert.\\\"\"},{\"lineNumber\":33712,\"originalJapaneseLine\":\"「上空からでも熱気が伝わってくるような……\",\"translatedEnglishLine\":\"\\\"You can feel the heat even from the sky...\"},{\"lineNumber\":33713,\"originalJapaneseLine\":\"　大丈夫でしょうか、トッポスさん……」\",\"translatedEnglishLine\":\"I wonder if Toppos is alright...\\\"\"},{\"lineNumber\":33714,\"originalJapaneseLine\":\"「おっ、シャングリラだ」\",\"translatedEnglishLine\":\"\\\"Oh, it’s Shangri-La.\\\"\"},{\"lineNumber\":33715,\"originalJapaneseLine\":\"「ぴゅっぴゅーーー。ほらこっちですよーっ」\",\"translatedEnglishLine\":\"\\\"Pyu pyu---. Hey, this way!\\\"\"},{\"lineNumber\":33716,\"originalJapaneseLine\":\"「ひいいッ！？　ア、アニス様！？」\",\"translatedEnglishLine\":\"\\\"Eek!? A-Anise-sama!?\\\"\"},{\"lineNumber\":33717,\"originalJapaneseLine\":\"「なっ、と、トッポス！？\",\"translatedEnglishLine\":\"\\\"W-What, T-Toppos!?\\\"\"},{\"lineNumber\":33718,\"originalJapaneseLine\":\"　伝説の魔物が何故……！」\",\"translatedEnglishLine\":\"Why is the legendary monster here...!\\\"\"},{\"lineNumber\":33719,\"originalJapaneseLine\":\"「こ、こいつが……！？\",\"translatedEnglishLine\":\"\\\"T-This guy...!?\\\"\"},{\"lineNumber\":33720,\"originalJapaneseLine\":\"　ど、どうするんだ！　攻撃するべきか！？」\",\"translatedEnglishLine\":\"W-What do we do! Should we attack!?\\\"\"},{\"lineNumber\":33721,\"originalJapaneseLine\":\"「クッ……！\",\"translatedEnglishLine\":\"\\\"Grr...!\"},{\"lineNumber\":33722,\"originalJapaneseLine\":\"　総統達が命を賭けて奪取したこのシャングリラ、\",\"translatedEnglishLine\":\"This Shangri-La that the leaders risked their lives to capture,\"},{\"lineNumber\":33723,\"originalJapaneseLine\":\"　魔物にむざむざ蹂躙されるわけには……！」\",\"translatedEnglishLine\":\"cannot simply be trampled by monsters...!\\\"\"},{\"lineNumber\":33724,\"originalJapaneseLine\":\"「わはははは、あいつら敵と勘違いして\",\"translatedEnglishLine\":\"\\\"Wahahahaha, they mistook them for enemies\"},{\"lineNumber\":33725,\"originalJapaneseLine\":\"　トッポスを攻撃し始めたぞ。無駄だ無駄だ」\",\"translatedEnglishLine\":\"and started attacking Toppos. It’s useless, useless.\\\"\"},{\"lineNumber\":33726,\"originalJapaneseLine\":\"「は、反撃されたら無駄な被害が出るでしょう！\",\"translatedEnglishLine\":\"\\\"If they fight back, there’ll be unnecessary damage!\"},{\"lineNumber\":33727,\"originalJapaneseLine\":\"　笑ってないで止めてください！」\",\"translatedEnglishLine\":\"Stop laughing and intervene!\\\"\"},{\"lineNumber\":33728,\"originalJapaneseLine\":\"一直線に、更に西へ。\",\"translatedEnglishLine\":\"Straight line, further west.\"},{\"lineNumber\":33729,\"originalJapaneseLine\":\"「おっ、カラーの森か。\",\"translatedEnglishLine\":\"\\\"Oh, the Kara Forest.\"},{\"lineNumber\":33730,\"originalJapaneseLine\":\"　村は……上からは見えないか。ちっぽけだからな」\",\"translatedEnglishLine\":\"The village... can’t be seen from above. It's so small.\\\"\"},{\"lineNumber\":33731,\"originalJapaneseLine\":\"「見えぬように結界を張っておるからじゃ！\",\"translatedEnglishLine\":\"\\\"Because we’ve set up barriers so it can’t be seen!\"},{\"lineNumber\":33732,\"originalJapaneseLine\":\"　このたわけ者が！」\",\"translatedEnglishLine\":\"You fool!\\\"\"},{\"lineNumber\":33733,\"originalJapaneseLine\":\"「燃やしたのに、結界だけ生きてるのか。\",\"translatedEnglishLine\":\"\\\"Even though it was burned, only the barrier remains intact.\"},{\"lineNumber\":33734,\"originalJapaneseLine\":\"　なかなか頑丈だな」\",\"translatedEnglishLine\":\"It’s pretty tough.\\\"\"},{\"lineNumber\":33735,\"originalJapaneseLine\":\"「貴様ーーーーーーーーッ！\",\"translatedEnglishLine\":\"\\\"Youuuuuuuuuu!\\\"\"},{\"lineNumber\":33736,\"originalJapaneseLine\":\"　よくも臆面もなくッ……！」\",\"translatedEnglishLine\":\"How dare you so shamelessly...!\\\"\"},{\"lineNumber\":33737,\"originalJapaneseLine\":\"「まあまあ。引っ越ししたと思えば、ね？」\",\"translatedEnglishLine\":\"\\\"Now, now. Just think of it as having moved, okay?\\\"\"},{\"lineNumber\":33738,\"originalJapaneseLine\":\"「うう、しかし……」\",\"translatedEnglishLine\":\"\\\"Ugh, but...\\\"\"},{\"lineNumber\":33739,\"originalJapaneseLine\":\"「パステル。次の村をどこに定めるのか。\",\"translatedEnglishLine\":\"\\\"Pastel. Have you decided where to settle the next village?\"},{\"lineNumber\":33740,\"originalJapaneseLine\":\"　考えているか？」\",\"translatedEnglishLine\":\"Are you thinking about it?\\\"\"},{\"lineNumber\":33741,\"originalJapaneseLine\":\"「うっ……つ、次の場所、ですか。\",\"translatedEnglishLine\":\"\\\"Ugh... the next place, you say.\"},{\"lineNumber\":33742,\"originalJapaneseLine\":\"　それはその、また森の焼け跡に改めて……」\",\"translatedEnglishLine\":\"Well, it’s that, maybe again on the burnt remains of the forest...\\\"\"},{\"lineNumber\":33743,\"originalJapaneseLine\":\"「………………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":33744,\"originalJapaneseLine\":\"「………………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":33745,\"originalJapaneseLine\":\"「それでもいいが。\",\"translatedEnglishLine\":\"\\\"That would be fine too.\"},{\"lineNumber\":33746,\"originalJapaneseLine\":\"　漫然と惰性に流されてはいけない。\",\"translatedEnglishLine\":\"You must not drift along aimlessly out of habit.\"},{\"lineNumber\":33747,\"originalJapaneseLine\":\"　女王の仕事」\",\"translatedEnglishLine\":\"That is the queen’s duty.\\\"\"},{\"lineNumber\":33748,\"originalJapaneseLine\":\"「は、はい……」\",\"translatedEnglishLine\":\"\\\"Y-Yes...\\\"\"},{\"lineNumber\":33749,\"originalJapaneseLine\":\"「ふわーーーあ。そろそろ魔物界か？」\",\"translatedEnglishLine\":\"\\\"Fuwaaaah. Are we close to the Monster World now?\\\"\"},{\"lineNumber\":33750,\"originalJapaneseLine\":\"「……と、和んでいるところで！\",\"translatedEnglishLine\":\"\\\"...And just as I was relaxing!\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":33691,"originalJapaneseLine":"『西！　そのまままっすぐ西に行きなさい！","translatedEnglishLine":"'West! Go straight west just like that!"},{"lineNumber":33692,"originalJapaneseLine":"　ゼスの、向こうまで！'","translatedEnglishLine":"To the other side of Zeth!'"},{"lineNumber":33693,"originalJapaneseLine":"「お、おおおおぉぉっ……！","translatedEnglishLine":"\"O-ooooh...!"},{"lineNumber":33694,"originalJapaneseLine":"　し、城が……動く…………！？」","translatedEnglishLine":"Th-the castle... is moving...!?"},{"lineNumber":33695,"originalJapaneseLine":"アニスに誘導され、追うトッポス。","translatedEnglishLine":"Guided by Anise, Toppos pursues."},{"lineNumber":33696,"originalJapaneseLine":"その胴に巻かれた強靱なロープが、ランス城を引き。","translatedEnglishLine":"The strong rope wrapped around its torso pulls Rance Castle."},{"lineNumber":33697,"originalJapaneseLine":"魔物界への旅が始まった。","translatedEnglishLine":"The journey to the Monster World has begun."},{"lineNumber":33698,"originalJapaneseLine":"「おお……砂漠の中でも走ってくぞあいつ」","translatedEnglishLine":"\"Oh... it’s running even through the desert.\""},{"lineNumber":33699,"originalJapaneseLine":"「上空からでも熱気が伝わってくるような……","translatedEnglishLine":"\"You can feel the heat even from the sky..."},{"lineNumber":33700,"originalJapaneseLine":"　大丈夫でしょうか、トッポスさん……」","translatedEnglishLine":"I wonder if Toppos is alright...\""},{"lineNumber":33701,"originalJapaneseLine":"「おっ？　なんだあそこ？　街があるぞ」","translatedEnglishLine":"\"Oh? What's that over there? There's a town.\""},{"lineNumber":33702,"originalJapaneseLine":"「こんな砂漠の中に……」","translatedEnglishLine":"\"In the middle of such a desert...\""},{"lineNumber":33703,"originalJapaneseLine":"「…………っつか、魔軍……？","translatedEnglishLine":"\"...Or rather, the demon army...?"},{"lineNumber":33704,"originalJapaneseLine":"　魔物兵がウジャウジャいるぞ」","translatedEnglishLine":"There are swarms of monster soldiers everywhere.\""},{"lineNumber":33705,"originalJapaneseLine":"「なんだ、侵入者……それに、ト、トッポス！？","translatedEnglishLine":"\"What? Intruders... and T-Toppos!?\""},{"lineNumber":33706,"originalJapaneseLine":"　くっ、迎撃！」","translatedEnglishLine":"Damn, intercept them!\""},{"lineNumber":33707,"originalJapaneseLine":"「あっ、あっ、トッポスさんとアニスさんが","translatedEnglishLine":"\"Ah, ah, Toppos and Anise are"},{"lineNumber":33708,"originalJapaneseLine":"　襲われてますよ！」","translatedEnglishLine":"being attacked!\""},{"lineNumber":33709,"originalJapaneseLine":"「それでも単独で切り抜けてるな……","translatedEnglishLine":"\"Even so, they're breaking through on their own...\""},{"lineNumber":33710,"originalJapaneseLine":"　さすが災害コンビ……」","translatedEnglishLine":"As expected from the disaster duo...\""},{"lineNumber":33711,"originalJapaneseLine":"「おお……砂漠の中でも走ってくぞあいつ」","translatedEnglishLine":"\"Oh... it’s running even through the desert.\""},{"lineNumber":33712,"originalJapaneseLine":"「上空からでも熱気が伝わってくるような……","translatedEnglishLine":"\"You can feel the heat even from the sky..."},{"lineNumber":33713,"originalJapaneseLine":"　大丈夫でしょうか、トッポスさん……」","translatedEnglishLine":"I wonder if Toppos is alright...\""},{"lineNumber":33714,"originalJapaneseLine":"「おっ、シャングリラだ」","translatedEnglishLine":"\"Oh, it’s Shangri-La.\""},{"lineNumber":33715,"originalJapaneseLine":"「ぴゅっぴゅーーー。ほらこっちですよーっ」","translatedEnglishLine":"\"Pyu pyu---. Hey, this way!\""},{"lineNumber":33716,"originalJapaneseLine":"「ひいいッ！？　ア、アニス様！？」","translatedEnglishLine":"\"Eek!? A-Anise-sama!?\""},{"lineNumber":33717,"originalJapaneseLine":"「なっ、と、トッポス！？","translatedEnglishLine":"\"W-What, T-Toppos!?\""},{"lineNumber":33718,"originalJapaneseLine":"　伝説の魔物が何故……！」","translatedEnglishLine":"Why is the legendary monster here...!\""},{"lineNumber":33719,"originalJapaneseLine":"「こ、こいつが……！？","translatedEnglishLine":"\"T-This guy...!?\""},{"lineNumber":33720,"originalJapaneseLine":"　ど、どうするんだ！　攻撃するべきか！？」","translatedEnglishLine":"W-What do we do! Should we attack!?\""},{"lineNumber":33721,"originalJapaneseLine":"「クッ……！","translatedEnglishLine":"\"Grr...!"},{"lineNumber":33722,"originalJapaneseLine":"　総統達が命を賭けて奪取したこのシャングリラ、","translatedEnglishLine":"This Shangri-La that the leaders risked their lives to capture,"},{"lineNumber":33723,"originalJapaneseLine":"　魔物にむざむざ蹂躙されるわけには……！」","translatedEnglishLine":"cannot simply be trampled by monsters...!\""},{"lineNumber":33724,"originalJapaneseLine":"「わはははは、あいつら敵と勘違いして","translatedEnglishLine":"\"Wahahahaha, they mistook them for enemies"},{"lineNumber":33725,"originalJapaneseLine":"　トッポスを攻撃し始めたぞ。無駄だ無駄だ」","translatedEnglishLine":"and started attacking Toppos. It’s useless, useless.\""},{"lineNumber":33726,"originalJapaneseLine":"「は、反撃されたら無駄な被害が出るでしょう！","translatedEnglishLine":"\"If they fight back, there’ll be unnecessary damage!"},{"lineNumber":33727,"originalJapaneseLine":"　笑ってないで止めてください！」","translatedEnglishLine":"Stop laughing and intervene!\""},{"lineNumber":33728,"originalJapaneseLine":"一直線に、更に西へ。","translatedEnglishLine":"Straight line, further west."},{"lineNumber":33729,"originalJapaneseLine":"「おっ、カラーの森か。","translatedEnglishLine":"\"Oh, the Kara Forest."},{"lineNumber":33730,"originalJapaneseLine":"　村は……上からは見えないか。ちっぽけだからな」","translatedEnglishLine":"The village... can’t be seen from above. It's so small.\""},{"lineNumber":33731,"originalJapaneseLine":"「見えぬように結界を張っておるからじゃ！","translatedEnglishLine":"\"Because we’ve set up barriers so it can’t be seen!"},{"lineNumber":33732,"originalJapaneseLine":"　このたわけ者が！」","translatedEnglishLine":"You fool!\""},{"lineNumber":33733,"originalJapaneseLine":"「燃やしたのに、結界だけ生きてるのか。","translatedEnglishLine":"\"Even though it was burned, only the barrier remains intact."},{"lineNumber":33734,"originalJapaneseLine":"　なかなか頑丈だな」","translatedEnglishLine":"It’s pretty tough.\""},{"lineNumber":33735,"originalJapaneseLine":"「貴様ーーーーーーーーッ！","translatedEnglishLine":"\"Youuuuuuuuuu!\""},{"lineNumber":33736,"originalJapaneseLine":"　よくも臆面もなくッ……！」","translatedEnglishLine":"How dare you so shamelessly...!\""},{"lineNumber":33737,"originalJapaneseLine":"「まあまあ。引っ越ししたと思えば、ね？」","translatedEnglishLine":"\"Now, now. Just think of it as having moved, okay?\""},{"lineNumber":33738,"originalJapaneseLine":"「うう、しかし……」","translatedEnglishLine":"\"Ugh, but...\""},{"lineNumber":33739,"originalJapaneseLine":"「パステル。次の村をどこに定めるのか。","translatedEnglishLine":"\"Pastel. Have you decided where to settle the next village?"},{"lineNumber":33740,"originalJapaneseLine":"　考えているか？」","translatedEnglishLine":"Are you thinking about it?\""},{"lineNumber":33741,"originalJapaneseLine":"「うっ……つ、次の場所、ですか。","translatedEnglishLine":"\"Ugh... the next place, you say."},{"lineNumber":33742,"originalJapaneseLine":"　それはその、また森の焼け跡に改めて……」","translatedEnglishLine":"Well, it’s that, maybe again on the burnt remains of the forest...\""},{"lineNumber":33743,"originalJapaneseLine":"「………………」","translatedEnglishLine":"\"........\""},{"lineNumber":33744,"originalJapaneseLine":"「………………」","translatedEnglishLine":"\"........\""},{"lineNumber":33745,"originalJapaneseLine":"「それでもいいが。","translatedEnglishLine":"\"That would be fine too."},{"lineNumber":33746,"originalJapaneseLine":"　漫然と惰性に流されてはいけない。","translatedEnglishLine":"You must not drift along aimlessly out of habit."},{"lineNumber":33747,"originalJapaneseLine":"　女王の仕事」","translatedEnglishLine":"That is the queen’s duty.\""},{"lineNumber":33748,"originalJapaneseLine":"「は、はい……」","translatedEnglishLine":"\"Y-Yes...\""},{"lineNumber":33749,"originalJapaneseLine":"「ふわーーーあ。そろそろ魔物界か？」","translatedEnglishLine":"\"Fuwaaaah. Are we close to the Monster World now?\""},{"lineNumber":33750,"originalJapaneseLine":"「……と、和んでいるところで！","translatedEnglishLine":"\"...And just as I was relaxing!\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1774,"input_tokens_details":{"cached_tokens":0},"output_tokens":2321,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":4095},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":33691,\"originalJapaneseLine\":\"『西！　そのまままっすぐ西に行きなさい！\",\"translatedEnglishLine\":\"'West! Go straight west just like that!\"},{\"lineNumber\":33692,\"originalJapaneseLine\":\"　ゼスの、向こうまで！'\",\"translatedEnglishLine\":\"To the other side of Zeth!'\"},{\"lineNumber\":33693,\"originalJapaneseLine\":\"「お、おおおおぉぉっ……！\",\"translatedEnglishLine\":\"\\\"O-ooooh...!\"},{\"lineNumber\":33694,\"originalJapaneseLine\":\"　し、城が……動く…………！？」\",\"translatedEnglishLine\":\"Th-the castle... is moving...!?\"},{\"lineNumber\":33695,\"originalJapaneseLine\":\"アニスに誘導され、追うトッポス。\",\"translatedEnglishLine\":\"Guided by Anise, Toppos pursues.\"},{\"lineNumber\":33696,\"originalJapaneseLine\":\"その胴に巻かれた強靱なロープが、ランス城を引き。\",\"translatedEnglishLine\":\"The strong rope wrapped around its torso pulls Rance Castle.\"},{\"lineNumber\":33697,\"originalJapaneseLine\":\"魔物界への旅が始まった。\",\"translatedEnglishLine\":\"The journey to the Monster World has begun.\"},{\"lineNumber\":33698,\"originalJapaneseLine\":\"「おお……砂漠の中でも走ってくぞあいつ」\",\"translatedEnglishLine\":\"\\\"Oh... it’s running even through the desert.\\\"\"},{\"lineNumber\":33699,\"originalJapaneseLine\":\"「上空からでも熱気が伝わってくるような……\",\"translatedEnglishLine\":\"\\\"You can feel the heat even from the sky...\"},{\"lineNumber\":33700,\"originalJapaneseLine\":\"　大丈夫でしょうか、トッポスさん……」\",\"translatedEnglishLine\":\"I wonder if Toppos is alright...\\\"\"},{\"lineNumber\":33701,\"originalJapaneseLine\":\"「おっ？　なんだあそこ？　街があるぞ」\",\"translatedEnglishLine\":\"\\\"Oh? What's that over there? There's a town.\\\"\"},{\"lineNumber\":33702,\"originalJapaneseLine\":\"「こんな砂漠の中に……」\",\"translatedEnglishLine\":\"\\\"In the middle of such a desert...\\\"\"},{\"lineNumber\":33703,\"originalJapaneseLine\":\"「…………っつか、魔軍……？\",\"translatedEnglishLine\":\"\\\"...Or rather, the demon army...?\"},{\"lineNumber\":33704,\"originalJapaneseLine\":\"　魔物兵がウジャウジャいるぞ」\",\"translatedEnglishLine\":\"There are swarms of monster soldiers everywhere.\\\"\"},{\"lineNumber\":33705,\"originalJapaneseLine\":\"「なんだ、侵入者……それに、ト、トッポス！？\",\"translatedEnglishLine\":\"\\\"What? Intruders... and T-Toppos!?\\\"\"},{\"lineNumber\":33706,\"originalJapaneseLine\":\"　くっ、迎撃！」\",\"translatedEnglishLine\":\"Damn, intercept them!\\\"\"},{\"lineNumber\":33707,\"originalJapaneseLine\":\"「あっ、あっ、トッポスさんとアニスさんが\",\"translatedEnglishLine\":\"\\\"Ah, ah, Toppos and Anise are\"},{\"lineNumber\":33708,\"originalJapaneseLine\":\"　襲われてますよ！」\",\"translatedEnglishLine\":\"being attacked!\\\"\"},{\"lineNumber\":33709,\"originalJapaneseLine\":\"「それでも単独で切り抜けてるな……\",\"translatedEnglishLine\":\"\\\"Even so, they're breaking through on their own...\\\"\"},{\"lineNumber\":33710,\"originalJapaneseLine\":\"　さすが災害コンビ……」\",\"translatedEnglishLine\":\"As expected from the disaster duo...\\\"\"},{\"lineNumber\":33711,\"originalJapaneseLine\":\"「おお……砂漠の中でも走ってくぞあいつ」\",\"translatedEnglishLine\":\"\\\"Oh... it’s running even through the desert.\\\"\"},{\"lineNumber\":33712,\"originalJapaneseLine\":\"「上空からでも熱気が伝わってくるような……\",\"translatedEnglishLine\":\"\\\"You can feel the heat even from the sky...\"},{\"lineNumber\":33713,\"originalJapaneseLine\":\"　大丈夫でしょうか、トッポスさん……」\",\"translatedEnglishLine\":\"I wonder if Toppos is alright...\\\"\"},{\"lineNumber\":33714,\"originalJapaneseLine\":\"「おっ、シャングリラだ」\",\"translatedEnglishLine\":\"\\\"Oh, it’s Shangri-La.\\\"\"},{\"lineNumber\":33715,\"originalJapaneseLine\":\"「ぴゅっぴゅーーー。ほらこっちですよーっ」\",\"translatedEnglishLine\":\"\\\"Pyu pyu---. Hey, this way!\\\"\"},{\"lineNumber\":33716,\"originalJapaneseLine\":\"「ひいいッ！？　ア、アニス様！？」\",\"translatedEnglishLine\":\"\\\"Eek!? A-Anise-sama!?\\\"\"},{\"lineNumber\":33717,\"originalJapaneseLine\":\"「なっ、と、トッポス！？\",\"translatedEnglishLine\":\"\\\"W-What, T-Toppos!?\\\"\"},{\"lineNumber\":33718,\"originalJapaneseLine\":\"　伝説の魔物が何故……！」\",\"translatedEnglishLine\":\"Why is the legendary monster here...!\\\"\"},{\"lineNumber\":33719,\"originalJapaneseLine\":\"「こ、こいつが……！？\",\"translatedEnglishLine\":\"\\\"T-This guy...!?\\\"\"},{\"lineNumber\":33720,\"originalJapaneseLine\":\"　ど、どうするんだ！　攻撃するべきか！？」\",\"translatedEnglishLine\":\"W-What do we do! Should we attack!?\\\"\"},{\"lineNumber\":33721,\"originalJapaneseLine\":\"「クッ……！\",\"translatedEnglishLine\":\"\\\"Grr...!\"},{\"lineNumber\":33722,\"originalJapaneseLine\":\"　総統達が命を賭けて奪取したこのシャングリラ、\",\"translatedEnglishLine\":\"This Shangri-La that the leaders risked their lives to capture,\"},{\"lineNumber\":33723,\"originalJapaneseLine\":\"　魔物にむざむざ蹂躙されるわけには……！」\",\"translatedEnglishLine\":\"cannot simply be trampled by monsters...!\\\"\"},{\"lineNumber\":33724,\"originalJapaneseLine\":\"「わはははは、あいつら敵と勘違いして\",\"translatedEnglishLine\":\"\\\"Wahahahaha, they mistook them for enemies\"},{\"lineNumber\":33725,\"originalJapaneseLine\":\"　トッポスを攻撃し始めたぞ。無駄だ無駄だ」\",\"translatedEnglishLine\":\"and started attacking Toppos. It’s useless, useless.\\\"\"},{\"lineNumber\":33726,\"originalJapaneseLine\":\"「は、反撃されたら無駄な被害が出るでしょう！\",\"translatedEnglishLine\":\"\\\"If they fight back, there’ll be unnecessary damage!\"},{\"lineNumber\":33727,\"originalJapaneseLine\":\"　笑ってないで止めてください！」\",\"translatedEnglishLine\":\"Stop laughing and intervene!\\\"\"},{\"lineNumber\":33728,\"originalJapaneseLine\":\"一直線に、更に西へ。\",\"translatedEnglishLine\":\"Straight line, further west.\"},{\"lineNumber\":33729,\"originalJapaneseLine\":\"「おっ、カラーの森か。\",\"translatedEnglishLine\":\"\\\"Oh, the Kara Forest.\"},{\"lineNumber\":33730,\"originalJapaneseLine\":\"　村は……上からは見えないか。ちっぽけだからな」\",\"translatedEnglishLine\":\"The village... can’t be seen from above. It's so small.\\\"\"},{\"lineNumber\":33731,\"originalJapaneseLine\":\"「見えぬように結界を張っておるからじゃ！\",\"translatedEnglishLine\":\"\\\"Because we’ve set up barriers so it can’t be seen!\"},{\"lineNumber\":33732,\"originalJapaneseLine\":\"　このたわけ者が！」\",\"translatedEnglishLine\":\"You fool!\\\"\"},{\"lineNumber\":33733,\"originalJapaneseLine\":\"「燃やしたのに、結界だけ生きてるのか。\",\"translatedEnglishLine\":\"\\\"Even though it was burned, only the barrier remains intact.\"},{\"lineNumber\":33734,\"originalJapaneseLine\":\"　なかなか頑丈だな」\",\"translatedEnglishLine\":\"It’s pretty tough.\\\"\"},{\"lineNumber\":33735,\"originalJapaneseLine\":\"「貴様ーーーーーーーーッ！\",\"translatedEnglishLine\":\"\\\"Youuuuuuuuuu!\\\"\"},{\"lineNumber\":33736,\"originalJapaneseLine\":\"　よくも臆面もなくッ……！」\",\"translatedEnglishLine\":\"How dare you so shamelessly...!\\\"\"},{\"lineNumber\":33737,\"originalJapaneseLine\":\"「まあまあ。引っ越ししたと思えば、ね？」\",\"translatedEnglishLine\":\"\\\"Now, now. Just think of it as having moved, okay?\\\"\"},{\"lineNumber\":33738,\"originalJapaneseLine\":\"「うう、しかし……」\",\"translatedEnglishLine\":\"\\\"Ugh, but...\\\"\"},{\"lineNumber\":33739,\"originalJapaneseLine\":\"「パステル。次の村をどこに定めるのか。\",\"translatedEnglishLine\":\"\\\"Pastel. Have you decided where to settle the next village?\"},{\"lineNumber\":33740,\"originalJapaneseLine\":\"　考えているか？」\",\"translatedEnglishLine\":\"Are you thinking about it?\\\"\"},{\"lineNumber\":33741,\"originalJapaneseLine\":\"「うっ……つ、次の場所、ですか。\",\"translatedEnglishLine\":\"\\\"Ugh... the next place, you say.\"},{\"lineNumber\":33742,\"originalJapaneseLine\":\"　それはその、また森の焼け跡に改めて……」\",\"translatedEnglishLine\":\"Well, it’s that, maybe again on the burnt remains of the forest...\\\"\"},{\"lineNumber\":33743,\"originalJapaneseLine\":\"「………………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":33744,\"originalJapaneseLine\":\"「………………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":33745,\"originalJapaneseLine\":\"「それでもいいが。\",\"translatedEnglishLine\":\"\\\"That would be fine too.\"},{\"lineNumber\":33746,\"originalJapaneseLine\":\"　漫然と惰性に流されてはいけない。\",\"translatedEnglishLine\":\"You must not drift along aimlessly out of habit.\"},{\"lineNumber\":33747,\"originalJapaneseLine\":\"　女王の仕事」\",\"translatedEnglishLine\":\"That is the queen’s duty.\\\"\"},{\"lineNumber\":33748,\"originalJapaneseLine\":\"「は、はい……」\",\"translatedEnglishLine\":\"\\\"Y-Yes...\\\"\"},{\"lineNumber\":33749,\"originalJapaneseLine\":\"「ふわーーーあ。そろそろ魔物界か？」\",\"translatedEnglishLine\":\"\\\"Fuwaaaah. Are we close to the Monster World now?\\\"\"},{\"lineNumber\":33750,\"originalJapaneseLine\":\"「……と、和んでいるところで！\",\"translatedEnglishLine\":\"\\\"...And just as I was relaxing!\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":33691,"originalJapaneseLine":"『西！　そのまままっすぐ西に行きなさい！","translatedEnglishLine":"'West! Go straight west just like that!"},{"lineNumber":33692,"originalJapaneseLine":"　ゼスの、向こうまで！'","translatedEnglishLine":"To the other side of Zeth!'"},{"lineNumber":33693,"originalJapaneseLine":"「お、おおおおぉぉっ……！","translatedEnglishLine":"\"O-ooooh...!"},{"lineNumber":33694,"originalJapaneseLine":"　し、城が……動く…………！？」","translatedEnglishLine":"Th-the castle... is moving...!?"},{"lineNumber":33695,"originalJapaneseLine":"アニスに誘導され、追うトッポス。","translatedEnglishLine":"Guided by Anise, Toppos pursues."},{"lineNumber":33696,"originalJapaneseLine":"その胴に巻かれた強靱なロープが、ランス城を引き。","translatedEnglishLine":"The strong rope wrapped around its torso pulls Rance Castle."},{"lineNumber":33697,"originalJapaneseLine":"魔物界への旅が始まった。","translatedEnglishLine":"The journey to the Monster World has begun."},{"lineNumber":33698,"originalJapaneseLine":"「おお……砂漠の中でも走ってくぞあいつ」","translatedEnglishLine":"\"Oh... it’s running even through the desert.\""},{"lineNumber":33699,"originalJapaneseLine":"「上空からでも熱気が伝わってくるような……","translatedEnglishLine":"\"You can feel the heat even from the sky..."},{"lineNumber":33700,"originalJapaneseLine":"　大丈夫でしょうか、トッポスさん……」","translatedEnglishLine":"I wonder if Toppos is alright...\""},{"lineNumber":33701,"originalJapaneseLine":"「おっ？　なんだあそこ？　街があるぞ」","translatedEnglishLine":"\"Oh? What's that over there? There's a town.\""},{"lineNumber":33702,"originalJapaneseLine":"「こんな砂漠の中に……」","translatedEnglishLine":"\"In the middle of such a desert...\""},{"lineNumber":33703,"originalJapaneseLine":"「…………っつか、魔軍……？","translatedEnglishLine":"\"...Or rather, the demon army...?"},{"lineNumber":33704,"originalJapaneseLine":"　魔物兵がウジャウジャいるぞ」","translatedEnglishLine":"There are swarms of monster soldiers everywhere.\""},{"lineNumber":33705,"originalJapaneseLine":"「なんだ、侵入者……それに、ト、トッポス！？","translatedEnglishLine":"\"What? Intruders... and T-Toppos!?\""},{"lineNumber":33706,"originalJapaneseLine":"　くっ、迎撃！」","translatedEnglishLine":"Damn, intercept them!\""},{"lineNumber":33707,"originalJapaneseLine":"「あっ、あっ、トッポスさんとアニスさんが","translatedEnglishLine":"\"Ah, ah, Toppos and Anise are"},{"lineNumber":33708,"originalJapaneseLine":"　襲われてますよ！」","translatedEnglishLine":"being attacked!\""},{"lineNumber":33709,"originalJapaneseLine":"「それでも単独で切り抜けてるな……","translatedEnglishLine":"\"Even so, they're breaking through on their own...\""},{"lineNumber":33710,"originalJapaneseLine":"　さすが災害コンビ……」","translatedEnglishLine":"As expected from the disaster duo...\""},{"lineNumber":33711,"originalJapaneseLine":"「おお……砂漠の中でも走ってくぞあいつ」","translatedEnglishLine":"\"Oh... it’s running even through the desert.\""},{"lineNumber":33712,"originalJapaneseLine":"「上空からでも熱気が伝わってくるような……","translatedEnglishLine":"\"You can feel the heat even from the sky..."},{"lineNumber":33713,"originalJapaneseLine":"　大丈夫でしょうか、トッポスさん……」","translatedEnglishLine":"I wonder if Toppos is alright...\""},{"lineNumber":33714,"originalJapaneseLine":"「おっ、シャングリラだ」","translatedEnglishLine":"\"Oh, it’s Shangri-La.\""},{"lineNumber":33715,"originalJapaneseLine":"「ぴゅっぴゅーーー。ほらこっちですよーっ」","translatedEnglishLine":"\"Pyu pyu---. Hey, this way!\""},{"lineNumber":33716,"originalJapaneseLine":"「ひいいッ！？　ア、アニス様！？」","translatedEnglishLine":"\"Eek!? A-Anise-sama!?\""},{"lineNumber":33717,"originalJapaneseLine":"「なっ、と、トッポス！？","translatedEnglishLine":"\"W-What, T-Toppos!?\""},{"lineNumber":33718,"originalJapaneseLine":"　伝説の魔物が何故……！」","translatedEnglishLine":"Why is the legendary monster here...!\""},{"lineNumber":33719,"originalJapaneseLine":"「こ、こいつが……！？","translatedEnglishLine":"\"T-This guy...!?\""},{"lineNumber":33720,"originalJapaneseLine":"　ど、どうするんだ！　攻撃するべきか！？」","translatedEnglishLine":"W-What do we do! Should we attack!?\""},{"lineNumber":33721,"originalJapaneseLine":"「クッ……！","translatedEnglishLine":"\"Grr...!"},{"lineNumber":33722,"originalJapaneseLine":"　総統達が命を賭けて奪取したこのシャングリラ、","translatedEnglishLine":"This Shangri-La that the leaders risked their lives to capture,"},{"lineNumber":33723,"originalJapaneseLine":"　魔物にむざむざ蹂躙されるわけには……！」","translatedEnglishLine":"cannot simply be trampled by monsters...!\""},{"lineNumber":33724,"originalJapaneseLine":"「わはははは、あいつら敵と勘違いして","translatedEnglishLine":"\"Wahahahaha, they mistook them for enemies"},{"lineNumber":33725,"originalJapaneseLine":"　トッポスを攻撃し始めたぞ。無駄だ無駄だ」","translatedEnglishLine":"and started attacking Toppos. It’s useless, useless.\""},{"lineNumber":33726,"originalJapaneseLine":"「は、反撃されたら無駄な被害が出るでしょう！","translatedEnglishLine":"\"If they fight back, there’ll be unnecessary damage!"},{"lineNumber":33727,"originalJapaneseLine":"　笑ってないで止めてください！」","translatedEnglishLine":"Stop laughing and intervene!\""},{"lineNumber":33728,"originalJapaneseLine":"一直線に、更に西へ。","translatedEnglishLine":"Straight line, further west."},{"lineNumber":33729,"originalJapaneseLine":"「おっ、カラーの森か。","translatedEnglishLine":"\"Oh, the Kara Forest."},{"lineNumber":33730,"originalJapaneseLine":"　村は……上からは見えないか。ちっぽけだからな」","translatedEnglishLine":"The village... can’t be seen from above. It's so small.\""},{"lineNumber":33731,"originalJapaneseLine":"「見えぬように結界を張っておるからじゃ！","translatedEnglishLine":"\"Because we’ve set up barriers so it can’t be seen!"},{"lineNumber":33732,"originalJapaneseLine":"　このたわけ者が！」","translatedEnglishLine":"You fool!\""},{"lineNumber":33733,"originalJapaneseLine":"「燃やしたのに、結界だけ生きてるのか。","translatedEnglishLine":"\"Even though it was burned, only the barrier remains intact."},{"lineNumber":33734,"originalJapaneseLine":"　なかなか頑丈だな」","translatedEnglishLine":"It’s pretty tough.\""},{"lineNumber":33735,"originalJapaneseLine":"「貴様ーーーーーーーーッ！","translatedEnglishLine":"\"Youuuuuuuuuu!\""},{"lineNumber":33736,"originalJapaneseLine":"　よくも臆面もなくッ……！」","translatedEnglishLine":"How dare you so shamelessly...!\""},{"lineNumber":33737,"originalJapaneseLine":"「まあまあ。引っ越ししたと思えば、ね？」","translatedEnglishLine":"\"Now, now. Just think of it as having moved, okay?\""},{"lineNumber":33738,"originalJapaneseLine":"「うう、しかし……」","translatedEnglishLine":"\"Ugh, but...\""},{"lineNumber":33739,"originalJapaneseLine":"「パステル。次の村をどこに定めるのか。","translatedEnglishLine":"\"Pastel. Have you decided where to settle the next village?"},{"lineNumber":33740,"originalJapaneseLine":"　考えているか？」","translatedEnglishLine":"Are you thinking about it?\""},{"lineNumber":33741,"originalJapaneseLine":"「うっ……つ、次の場所、ですか。","translatedEnglishLine":"\"Ugh... the next place, you say."},{"lineNumber":33742,"originalJapaneseLine":"　それはその、また森の焼け跡に改めて……」","translatedEnglishLine":"Well, it’s that, maybe again on the burnt remains of the forest...\""},{"lineNumber":33743,"originalJapaneseLine":"「………………」","translatedEnglishLine":"\"........\""},{"lineNumber":33744,"originalJapaneseLine":"「………………」","translatedEnglishLine":"\"........\""},{"lineNumber":33745,"originalJapaneseLine":"「それでもいいが。","translatedEnglishLine":"\"That would be fine too."},{"lineNumber":33746,"originalJapaneseLine":"　漫然と惰性に流されてはいけない。","translatedEnglishLine":"You must not drift along aimlessly out of habit."},{"lineNumber":33747,"originalJapaneseLine":"　女王の仕事」","translatedEnglishLine":"That is the queen’s duty.\""},{"lineNumber":33748,"originalJapaneseLine":"「は、はい……」","translatedEnglishLine":"\"Y-Yes...\""},{"lineNumber":33749,"originalJapaneseLine":"「ふわーーーあ。そろそろ魔物界か？」","translatedEnglishLine":"\"Fuwaaaah. Are we close to the Monster World now?\""},{"lineNumber":33750,"originalJapaneseLine":"「……と、和んでいるところで！","translatedEnglishLine":"\"...And just as I was relaxing!\""}]}}
+{
+    "id": "resp_0c713d873c4cd6ef0068ef8538615c819785b327601d226fc4",
+    "object": "response",
+    "created_at": 1760527672,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0c713d873c4cd6ef0068ef85390c20819782737ff180506cea",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":33691,\"originalJapaneseLine\":\"『西！　そのまままっすぐ西に行きなさい！\",\"translatedEnglishLine\":\"'West! Go straight west just like that!\"},{\"lineNumber\":33692,\"originalJapaneseLine\":\"　ゼスの、向こうまで！'\",\"translatedEnglishLine\":\"To the other side of Zeth!'\"},{\"lineNumber\":33693,\"originalJapaneseLine\":\"「お、おおおおぉぉっ……！\",\"translatedEnglishLine\":\"\\\"O-ooooh...!\"},{\"lineNumber\":33694,\"originalJapaneseLine\":\"　し、城が……動く…………！？」\",\"translatedEnglishLine\":\"Th-the castle... is moving...!?\"},{\"lineNumber\":33695,\"originalJapaneseLine\":\"アニスに誘導され、追うトッポス。\",\"translatedEnglishLine\":\"Guided by Anise, Toppos pursues.\"},{\"lineNumber\":33696,\"originalJapaneseLine\":\"その胴に巻かれた強靱なロープが、ランス城を引き。\",\"translatedEnglishLine\":\"The strong rope wrapped around its torso pulls Rance Castle.\"},{\"lineNumber\":33697,\"originalJapaneseLine\":\"魔物界への旅が始まった。\",\"translatedEnglishLine\":\"The journey to the Monster World has begun.\"},{\"lineNumber\":33698,\"originalJapaneseLine\":\"「おお……砂漠の中でも走ってくぞあいつ」\",\"translatedEnglishLine\":\"\\\"Oh... it’s running even through the desert.\\\"\"},{\"lineNumber\":33699,\"originalJapaneseLine\":\"「上空からでも熱気が伝わってくるような……\",\"translatedEnglishLine\":\"\\\"You can feel the heat even from the sky...\"},{\"lineNumber\":33700,\"originalJapaneseLine\":\"　大丈夫でしょうか、トッポスさん……」\",\"translatedEnglishLine\":\"I wonder if Toppos is alright...\\\"\"},{\"lineNumber\":33701,\"originalJapaneseLine\":\"「おっ？　なんだあそこ？　街があるぞ」\",\"translatedEnglishLine\":\"\\\"Oh? What's that over there? There's a town.\\\"\"},{\"lineNumber\":33702,\"originalJapaneseLine\":\"「こんな砂漠の中に……」\",\"translatedEnglishLine\":\"\\\"In the middle of such a desert...\\\"\"},{\"lineNumber\":33703,\"originalJapaneseLine\":\"「…………っつか、魔軍……？\",\"translatedEnglishLine\":\"\\\"...Or rather, the demon army...?\"},{\"lineNumber\":33704,\"originalJapaneseLine\":\"　魔物兵がウジャウジャいるぞ」\",\"translatedEnglishLine\":\"There are swarms of monster soldiers everywhere.\\\"\"},{\"lineNumber\":33705,\"originalJapaneseLine\":\"「なんだ、侵入者……それに、ト、トッポス！？\",\"translatedEnglishLine\":\"\\\"What? Intruders... and T-Toppos!?\\\"\"},{\"lineNumber\":33706,\"originalJapaneseLine\":\"　くっ、迎撃！」\",\"translatedEnglishLine\":\"Damn, intercept them!\\\"\"},{\"lineNumber\":33707,\"originalJapaneseLine\":\"「あっ、あっ、トッポスさんとアニスさんが\",\"translatedEnglishLine\":\"\\\"Ah, ah, Toppos and Anise are\"},{\"lineNumber\":33708,\"originalJapaneseLine\":\"　襲われてますよ！」\",\"translatedEnglishLine\":\"being attacked!\\\"\"},{\"lineNumber\":33709,\"originalJapaneseLine\":\"「それでも単独で切り抜けてるな……\",\"translatedEnglishLine\":\"\\\"Even so, they're breaking through on their own...\\\"\"},{\"lineNumber\":33710,\"originalJapaneseLine\":\"　さすが災害コンビ……」\",\"translatedEnglishLine\":\"As expected from the disaster duo...\\\"\"},{\"lineNumber\":33711,\"originalJapaneseLine\":\"「おお……砂漠の中でも走ってくぞあいつ」\",\"translatedEnglishLine\":\"\\\"Oh... it’s running even through the desert.\\\"\"},{\"lineNumber\":33712,\"originalJapaneseLine\":\"「上空からでも熱気が伝わってくるような……\",\"translatedEnglishLine\":\"\\\"You can feel the heat even from the sky...\"},{\"lineNumber\":33713,\"originalJapaneseLine\":\"　大丈夫でしょうか、トッポスさん……」\",\"translatedEnglishLine\":\"I wonder if Toppos is alright...\\\"\"},{\"lineNumber\":33714,\"originalJapaneseLine\":\"「おっ、シャングリラだ」\",\"translatedEnglishLine\":\"\\\"Oh, it’s Shangri-La.\\\"\"},{\"lineNumber\":33715,\"originalJapaneseLine\":\"「ぴゅっぴゅーーー。ほらこっちですよーっ」\",\"translatedEnglishLine\":\"\\\"Pyu pyu---. Hey, this way!\\\"\"},{\"lineNumber\":33716,\"originalJapaneseLine\":\"「ひいいッ！？　ア、アニス様！？」\",\"translatedEnglishLine\":\"\\\"Eek!? A-Anise-sama!?\\\"\"},{\"lineNumber\":33717,\"originalJapaneseLine\":\"「なっ、と、トッポス！？\",\"translatedEnglishLine\":\"\\\"W-What, T-Toppos!?\\\"\"},{\"lineNumber\":33718,\"originalJapaneseLine\":\"　伝説の魔物が何故……！」\",\"translatedEnglishLine\":\"Why is the legendary monster here...!\\\"\"},{\"lineNumber\":33719,\"originalJapaneseLine\":\"「こ、こいつが……！？\",\"translatedEnglishLine\":\"\\\"T-This guy...!?\\\"\"},{\"lineNumber\":33720,\"originalJapaneseLine\":\"　ど、どうするんだ！　攻撃するべきか！？」\",\"translatedEnglishLine\":\"W-What do we do! Should we attack!?\\\"\"},{\"lineNumber\":33721,\"originalJapaneseLine\":\"「クッ……！\",\"translatedEnglishLine\":\"\\\"Grr...!\"},{\"lineNumber\":33722,\"originalJapaneseLine\":\"　総統達が命を賭けて奪取したこのシャングリラ、\",\"translatedEnglishLine\":\"This Shangri-La that the leaders risked their lives to capture,\"},{\"lineNumber\":33723,\"originalJapaneseLine\":\"　魔物にむざむざ蹂躙されるわけには……！」\",\"translatedEnglishLine\":\"cannot simply be trampled by monsters...!\\\"\"},{\"lineNumber\":33724,\"originalJapaneseLine\":\"「わはははは、あいつら敵と勘違いして\",\"translatedEnglishLine\":\"\\\"Wahahahaha, they mistook them for enemies\"},{\"lineNumber\":33725,\"originalJapaneseLine\":\"　トッポスを攻撃し始めたぞ。無駄だ無駄だ」\",\"translatedEnglishLine\":\"and started attacking Toppos. It’s useless, useless.\\\"\"},{\"lineNumber\":33726,\"originalJapaneseLine\":\"「は、反撃されたら無駄な被害が出るでしょう！\",\"translatedEnglishLine\":\"\\\"If they fight back, there’ll be unnecessary damage!\"},{\"lineNumber\":33727,\"originalJapaneseLine\":\"　笑ってないで止めてください！」\",\"translatedEnglishLine\":\"Stop laughing and intervene!\\\"\"},{\"lineNumber\":33728,\"originalJapaneseLine\":\"一直線に、更に西へ。\",\"translatedEnglishLine\":\"Straight line, further west.\"},{\"lineNumber\":33729,\"originalJapaneseLine\":\"「おっ、カラーの森か。\",\"translatedEnglishLine\":\"\\\"Oh, the Kara Forest.\"},{\"lineNumber\":33730,\"originalJapaneseLine\":\"　村は……上からは見えないか。ちっぽけだからな」\",\"translatedEnglishLine\":\"The village... can’t be seen from above. It's so small.\\\"\"},{\"lineNumber\":33731,\"originalJapaneseLine\":\"「見えぬように結界を張っておるからじゃ！\",\"translatedEnglishLine\":\"\\\"Because we’ve set up barriers so it can’t be seen!\"},{\"lineNumber\":33732,\"originalJapaneseLine\":\"　このたわけ者が！」\",\"translatedEnglishLine\":\"You fool!\\\"\"},{\"lineNumber\":33733,\"originalJapaneseLine\":\"「燃やしたのに、結界だけ生きてるのか。\",\"translatedEnglishLine\":\"\\\"Even though it was burned, only the barrier remains intact.\"},{\"lineNumber\":33734,\"originalJapaneseLine\":\"　なかなか頑丈だな」\",\"translatedEnglishLine\":\"It’s pretty tough.\\\"\"},{\"lineNumber\":33735,\"originalJapaneseLine\":\"「貴様ーーーーーーーーッ！\",\"translatedEnglishLine\":\"\\\"Youuuuuuuuuu!\\\"\"},{\"lineNumber\":33736,\"originalJapaneseLine\":\"　よくも臆面もなくッ……！」\",\"translatedEnglishLine\":\"How dare you so shamelessly...!\\\"\"},{\"lineNumber\":33737,\"originalJapaneseLine\":\"「まあまあ。引っ越ししたと思えば、ね？」\",\"translatedEnglishLine\":\"\\\"Now, now. Just think of it as having moved, okay?\\\"\"},{\"lineNumber\":33738,\"originalJapaneseLine\":\"「うう、しかし……」\",\"translatedEnglishLine\":\"\\\"Ugh, but...\\\"\"},{\"lineNumber\":33739,\"originalJapaneseLine\":\"「パステル。次の村をどこに定めるのか。\",\"translatedEnglishLine\":\"\\\"Pastel. Have you decided where to settle the next village?\"},{\"lineNumber\":33740,\"originalJapaneseLine\":\"　考えているか？」\",\"translatedEnglishLine\":\"Are you thinking about it?\\\"\"},{\"lineNumber\":33741,\"originalJapaneseLine\":\"「うっ……つ、次の場所、ですか。\",\"translatedEnglishLine\":\"\\\"Ugh... the next place, you say.\"},{\"lineNumber\":33742,\"originalJapaneseLine\":\"　それはその、また森の焼け跡に改めて……」\",\"translatedEnglishLine\":\"Well, it’s that, maybe again on the burnt remains of the forest...\\\"\"},{\"lineNumber\":33743,\"originalJapaneseLine\":\"「………………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":33744,\"originalJapaneseLine\":\"「………………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":33745,\"originalJapaneseLine\":\"「それでもいいが。\",\"translatedEnglishLine\":\"\\\"That would be fine too.\"},{\"lineNumber\":33746,\"originalJapaneseLine\":\"　漫然と惰性に流されてはいけない。\",\"translatedEnglishLine\":\"You must not drift along aimlessly out of habit.\"},{\"lineNumber\":33747,\"originalJapaneseLine\":\"　女王の仕事」\",\"translatedEnglishLine\":\"That is the queen’s duty.\\\"\"},{\"lineNumber\":33748,\"originalJapaneseLine\":\"「は、はい……」\",\"translatedEnglishLine\":\"\\\"Y-Yes...\\\"\"},{\"lineNumber\":33749,\"originalJapaneseLine\":\"「ふわーーーあ。そろそろ魔物界か？」\",\"translatedEnglishLine\":\"\\\"Fuwaaaah. Are we close to the Monster World now?\\\"\"},{\"lineNumber\":33750,\"originalJapaneseLine\":\"「……と、和んでいるところで！\",\"translatedEnglishLine\":\"\\\"...And just as I was relaxing!\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 33691,
+                                "originalJapaneseLine": "『西！　そのまままっすぐ西に行きなさい！",
+                                "translatedEnglishLine": "'West! Go straight west just like that!"
+                            },
+                            {
+                                "lineNumber": 33692,
+                                "originalJapaneseLine": "　ゼスの、向こうまで！'",
+                                "translatedEnglishLine": "To the other side of Zeth!'"
+                            },
+                            {
+                                "lineNumber": 33693,
+                                "originalJapaneseLine": "「お、おおおおぉぉっ……！",
+                                "translatedEnglishLine": "\"O-ooooh...!"
+                            },
+                            {
+                                "lineNumber": 33694,
+                                "originalJapaneseLine": "　し、城が……動く…………！？」",
+                                "translatedEnglishLine": "Th-the castle... is moving...!?"
+                            },
+                            {
+                                "lineNumber": 33695,
+                                "originalJapaneseLine": "アニスに誘導され、追うトッポス。",
+                                "translatedEnglishLine": "Guided by Anise, Toppos pursues."
+                            },
+                            {
+                                "lineNumber": 33696,
+                                "originalJapaneseLine": "その胴に巻かれた強靱なロープが、ランス城を引き。",
+                                "translatedEnglishLine": "The strong rope wrapped around its torso pulls Rance Castle."
+                            },
+                            {
+                                "lineNumber": 33697,
+                                "originalJapaneseLine": "魔物界への旅が始まった。",
+                                "translatedEnglishLine": "The journey to the Monster World has begun."
+                            },
+                            {
+                                "lineNumber": 33698,
+                                "originalJapaneseLine": "「おお……砂漠の中でも走ってくぞあいつ」",
+                                "translatedEnglishLine": "\"Oh... it’s running even through the desert.\""
+                            },
+                            {
+                                "lineNumber": 33699,
+                                "originalJapaneseLine": "「上空からでも熱気が伝わってくるような……",
+                                "translatedEnglishLine": "\"You can feel the heat even from the sky..."
+                            },
+                            {
+                                "lineNumber": 33700,
+                                "originalJapaneseLine": "　大丈夫でしょうか、トッポスさん……」",
+                                "translatedEnglishLine": "I wonder if Toppos is alright...\""
+                            },
+                            {
+                                "lineNumber": 33701,
+                                "originalJapaneseLine": "「おっ？　なんだあそこ？　街があるぞ」",
+                                "translatedEnglishLine": "\"Oh? What's that over there? There's a town.\""
+                            },
+                            {
+                                "lineNumber": 33702,
+                                "originalJapaneseLine": "「こんな砂漠の中に……」",
+                                "translatedEnglishLine": "\"In the middle of such a desert...\""
+                            },
+                            {
+                                "lineNumber": 33703,
+                                "originalJapaneseLine": "「…………っつか、魔軍……？",
+                                "translatedEnglishLine": "\"...Or rather, the demon army...?"
+                            },
+                            {
+                                "lineNumber": 33704,
+                                "originalJapaneseLine": "　魔物兵がウジャウジャいるぞ」",
+                                "translatedEnglishLine": "There are swarms of monster soldiers everywhere.\""
+                            },
+                            {
+                                "lineNumber": 33705,
+                                "originalJapaneseLine": "「なんだ、侵入者……それに、ト、トッポス！？",
+                                "translatedEnglishLine": "\"What? Intruders... and T-Toppos!?\""
+                            },
+                            {
+                                "lineNumber": 33706,
+                                "originalJapaneseLine": "　くっ、迎撃！」",
+                                "translatedEnglishLine": "Damn, intercept them!\""
+                            },
+                            {
+                                "lineNumber": 33707,
+                                "originalJapaneseLine": "「あっ、あっ、トッポスさんとアニスさんが",
+                                "translatedEnglishLine": "\"Ah, ah, Toppos and Anise are"
+                            },
+                            {
+                                "lineNumber": 33708,
+                                "originalJapaneseLine": "　襲われてますよ！」",
+                                "translatedEnglishLine": "being attacked!\""
+                            },
+                            {
+                                "lineNumber": 33709,
+                                "originalJapaneseLine": "「それでも単独で切り抜けてるな……",
+                                "translatedEnglishLine": "\"Even so, they're breaking through on their own...\""
+                            },
+                            {
+                                "lineNumber": 33710,
+                                "originalJapaneseLine": "　さすが災害コンビ……」",
+                                "translatedEnglishLine": "As expected from the disaster duo...\""
+                            },
+                            {
+                                "lineNumber": 33711,
+                                "originalJapaneseLine": "「おお……砂漠の中でも走ってくぞあいつ」",
+                                "translatedEnglishLine": "\"Oh... it’s running even through the desert.\""
+                            },
+                            {
+                                "lineNumber": 33712,
+                                "originalJapaneseLine": "「上空からでも熱気が伝わってくるような……",
+                                "translatedEnglishLine": "\"You can feel the heat even from the sky..."
+                            },
+                            {
+                                "lineNumber": 33713,
+                                "originalJapaneseLine": "　大丈夫でしょうか、トッポスさん……」",
+                                "translatedEnglishLine": "I wonder if Toppos is alright...\""
+                            },
+                            {
+                                "lineNumber": 33714,
+                                "originalJapaneseLine": "「おっ、シャングリラだ」",
+                                "translatedEnglishLine": "\"Oh, it’s Shangri-La.\""
+                            },
+                            {
+                                "lineNumber": 33715,
+                                "originalJapaneseLine": "「ぴゅっぴゅーーー。ほらこっちですよーっ」",
+                                "translatedEnglishLine": "\"Pyu pyu---. Hey, this way!\""
+                            },
+                            {
+                                "lineNumber": 33716,
+                                "originalJapaneseLine": "「ひいいッ！？　ア、アニス様！？」",
+                                "translatedEnglishLine": "\"Eek!? A-Anise-sama!?\""
+                            },
+                            {
+                                "lineNumber": 33717,
+                                "originalJapaneseLine": "「なっ、と、トッポス！？",
+                                "translatedEnglishLine": "\"W-What, T-Toppos!?\""
+                            },
+                            {
+                                "lineNumber": 33718,
+                                "originalJapaneseLine": "　伝説の魔物が何故……！」",
+                                "translatedEnglishLine": "Why is the legendary monster here...!\""
+                            },
+                            {
+                                "lineNumber": 33719,
+                                "originalJapaneseLine": "「こ、こいつが……！？",
+                                "translatedEnglishLine": "\"T-This guy...!?\""
+                            },
+                            {
+                                "lineNumber": 33720,
+                                "originalJapaneseLine": "　ど、どうするんだ！　攻撃するべきか！？」",
+                                "translatedEnglishLine": "W-What do we do! Should we attack!?\""
+                            },
+                            {
+                                "lineNumber": 33721,
+                                "originalJapaneseLine": "「クッ……！",
+                                "translatedEnglishLine": "\"Grr...!"
+                            },
+                            {
+                                "lineNumber": 33722,
+                                "originalJapaneseLine": "　総統達が命を賭けて奪取したこのシャングリラ、",
+                                "translatedEnglishLine": "This Shangri-La that the leaders risked their lives to capture,"
+                            },
+                            {
+                                "lineNumber": 33723,
+                                "originalJapaneseLine": "　魔物にむざむざ蹂躙されるわけには……！」",
+                                "translatedEnglishLine": "cannot simply be trampled by monsters...!\""
+                            },
+                            {
+                                "lineNumber": 33724,
+                                "originalJapaneseLine": "「わはははは、あいつら敵と勘違いして",
+                                "translatedEnglishLine": "\"Wahahahaha, they mistook them for enemies"
+                            },
+                            {
+                                "lineNumber": 33725,
+                                "originalJapaneseLine": "　トッポスを攻撃し始めたぞ。無駄だ無駄だ」",
+                                "translatedEnglishLine": "and started attacking Toppos. It’s useless, useless.\""
+                            },
+                            {
+                                "lineNumber": 33726,
+                                "originalJapaneseLine": "「は、反撃されたら無駄な被害が出るでしょう！",
+                                "translatedEnglishLine": "\"If they fight back, there’ll be unnecessary damage!"
+                            },
+                            {
+                                "lineNumber": 33727,
+                                "originalJapaneseLine": "　笑ってないで止めてください！」",
+                                "translatedEnglishLine": "Stop laughing and intervene!\""
+                            },
+                            {
+                                "lineNumber": 33728,
+                                "originalJapaneseLine": "一直線に、更に西へ。",
+                                "translatedEnglishLine": "Straight line, further west."
+                            },
+                            {
+                                "lineNumber": 33729,
+                                "originalJapaneseLine": "「おっ、カラーの森か。",
+                                "translatedEnglishLine": "\"Oh, the Kara Forest."
+                            },
+                            {
+                                "lineNumber": 33730,
+                                "originalJapaneseLine": "　村は……上からは見えないか。ちっぽけだからな」",
+                                "translatedEnglishLine": "The village... can’t be seen from above. It's so small.\""
+                            },
+                            {
+                                "lineNumber": 33731,
+                                "originalJapaneseLine": "「見えぬように結界を張っておるからじゃ！",
+                                "translatedEnglishLine": "\"Because we’ve set up barriers so it can’t be seen!"
+                            },
+                            {
+                                "lineNumber": 33732,
+                                "originalJapaneseLine": "　このたわけ者が！」",
+                                "translatedEnglishLine": "You fool!\""
+                            },
+                            {
+                                "lineNumber": 33733,
+                                "originalJapaneseLine": "「燃やしたのに、結界だけ生きてるのか。",
+                                "translatedEnglishLine": "\"Even though it was burned, only the barrier remains intact."
+                            },
+                            {
+                                "lineNumber": 33734,
+                                "originalJapaneseLine": "　なかなか頑丈だな」",
+                                "translatedEnglishLine": "It’s pretty tough.\""
+                            },
+                            {
+                                "lineNumber": 33735,
+                                "originalJapaneseLine": "「貴様ーーーーーーーーッ！",
+                                "translatedEnglishLine": "\"Youuuuuuuuuu!\""
+                            },
+                            {
+                                "lineNumber": 33736,
+                                "originalJapaneseLine": "　よくも臆面もなくッ……！」",
+                                "translatedEnglishLine": "How dare you so shamelessly...!\""
+                            },
+                            {
+                                "lineNumber": 33737,
+                                "originalJapaneseLine": "「まあまあ。引っ越ししたと思えば、ね？」",
+                                "translatedEnglishLine": "\"Now, now. Just think of it as having moved, okay?\""
+                            },
+                            {
+                                "lineNumber": 33738,
+                                "originalJapaneseLine": "「うう、しかし……」",
+                                "translatedEnglishLine": "\"Ugh, but...\""
+                            },
+                            {
+                                "lineNumber": 33739,
+                                "originalJapaneseLine": "「パステル。次の村をどこに定めるのか。",
+                                "translatedEnglishLine": "\"Pastel. Have you decided where to settle the next village?"
+                            },
+                            {
+                                "lineNumber": 33740,
+                                "originalJapaneseLine": "　考えているか？」",
+                                "translatedEnglishLine": "Are you thinking about it?\""
+                            },
+                            {
+                                "lineNumber": 33741,
+                                "originalJapaneseLine": "「うっ……つ、次の場所、ですか。",
+                                "translatedEnglishLine": "\"Ugh... the next place, you say."
+                            },
+                            {
+                                "lineNumber": 33742,
+                                "originalJapaneseLine": "　それはその、また森の焼け跡に改めて……」",
+                                "translatedEnglishLine": "Well, it’s that, maybe again on the burnt remains of the forest...\""
+                            },
+                            {
+                                "lineNumber": 33743,
+                                "originalJapaneseLine": "「………………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": 33744,
+                                "originalJapaneseLine": "「………………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": 33745,
+                                "originalJapaneseLine": "「それでもいいが。",
+                                "translatedEnglishLine": "\"That would be fine too."
+                            },
+                            {
+                                "lineNumber": 33746,
+                                "originalJapaneseLine": "　漫然と惰性に流されてはいけない。",
+                                "translatedEnglishLine": "You must not drift along aimlessly out of habit."
+                            },
+                            {
+                                "lineNumber": 33747,
+                                "originalJapaneseLine": "　女王の仕事」",
+                                "translatedEnglishLine": "That is the queen’s duty.\""
+                            },
+                            {
+                                "lineNumber": 33748,
+                                "originalJapaneseLine": "「は、はい……」",
+                                "translatedEnglishLine": "\"Y-Yes...\""
+                            },
+                            {
+                                "lineNumber": 33749,
+                                "originalJapaneseLine": "「ふわーーーあ。そろそろ魔物界か？」",
+                                "translatedEnglishLine": "\"Fuwaaaah. Are we close to the Monster World now?\""
+                            },
+                            {
+                                "lineNumber": 33750,
+                                "originalJapaneseLine": "「……と、和んでいるところで！",
+                                "translatedEnglishLine": "\"...And just as I was relaxing!\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1774,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2321,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4095
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":33691,\"originalJapaneseLine\":\"『西！　そのまままっすぐ西に行きなさい！\",\"translatedEnglishLine\":\"'West! Go straight west just like that!\"},{\"lineNumber\":33692,\"originalJapaneseLine\":\"　ゼスの、向こうまで！'\",\"translatedEnglishLine\":\"To the other side of Zeth!'\"},{\"lineNumber\":33693,\"originalJapaneseLine\":\"「お、おおおおぉぉっ……！\",\"translatedEnglishLine\":\"\\\"O-ooooh...!\"},{\"lineNumber\":33694,\"originalJapaneseLine\":\"　し、城が……動く…………！？」\",\"translatedEnglishLine\":\"Th-the castle... is moving...!?\"},{\"lineNumber\":33695,\"originalJapaneseLine\":\"アニスに誘導され、追うトッポス。\",\"translatedEnglishLine\":\"Guided by Anise, Toppos pursues.\"},{\"lineNumber\":33696,\"originalJapaneseLine\":\"その胴に巻かれた強靱なロープが、ランス城を引き。\",\"translatedEnglishLine\":\"The strong rope wrapped around its torso pulls Rance Castle.\"},{\"lineNumber\":33697,\"originalJapaneseLine\":\"魔物界への旅が始まった。\",\"translatedEnglishLine\":\"The journey to the Monster World has begun.\"},{\"lineNumber\":33698,\"originalJapaneseLine\":\"「おお……砂漠の中でも走ってくぞあいつ」\",\"translatedEnglishLine\":\"\\\"Oh... it’s running even through the desert.\\\"\"},{\"lineNumber\":33699,\"originalJapaneseLine\":\"「上空からでも熱気が伝わってくるような……\",\"translatedEnglishLine\":\"\\\"You can feel the heat even from the sky...\"},{\"lineNumber\":33700,\"originalJapaneseLine\":\"　大丈夫でしょうか、トッポスさん……」\",\"translatedEnglishLine\":\"I wonder if Toppos is alright...\\\"\"},{\"lineNumber\":33701,\"originalJapaneseLine\":\"「おっ？　なんだあそこ？　街があるぞ」\",\"translatedEnglishLine\":\"\\\"Oh? What's that over there? There's a town.\\\"\"},{\"lineNumber\":33702,\"originalJapaneseLine\":\"「こんな砂漠の中に……」\",\"translatedEnglishLine\":\"\\\"In the middle of such a desert...\\\"\"},{\"lineNumber\":33703,\"originalJapaneseLine\":\"「…………っつか、魔軍……？\",\"translatedEnglishLine\":\"\\\"...Or rather, the demon army...?\"},{\"lineNumber\":33704,\"originalJapaneseLine\":\"　魔物兵がウジャウジャいるぞ」\",\"translatedEnglishLine\":\"There are swarms of monster soldiers everywhere.\\\"\"},{\"lineNumber\":33705,\"originalJapaneseLine\":\"「なんだ、侵入者……それに、ト、トッポス！？\",\"translatedEnglishLine\":\"\\\"What? Intruders... and T-Toppos!?\\\"\"},{\"lineNumber\":33706,\"originalJapaneseLine\":\"　くっ、迎撃！」\",\"translatedEnglishLine\":\"Damn, intercept them!\\\"\"},{\"lineNumber\":33707,\"originalJapaneseLine\":\"「あっ、あっ、トッポスさんとアニスさんが\",\"translatedEnglishLine\":\"\\\"Ah, ah, Toppos and Anise are\"},{\"lineNumber\":33708,\"originalJapaneseLine\":\"　襲われてますよ！」\",\"translatedEnglishLine\":\"being attacked!\\\"\"},{\"lineNumber\":33709,\"originalJapaneseLine\":\"「それでも単独で切り抜けてるな……\",\"translatedEnglishLine\":\"\\\"Even so, they're breaking through on their own...\\\"\"},{\"lineNumber\":33710,\"originalJapaneseLine\":\"　さすが災害コンビ……」\",\"translatedEnglishLine\":\"As expected from the disaster duo...\\\"\"},{\"lineNumber\":33711,\"originalJapaneseLine\":\"「おお……砂漠の中でも走ってくぞあいつ」\",\"translatedEnglishLine\":\"\\\"Oh... it’s running even through the desert.\\\"\"},{\"lineNumber\":33712,\"originalJapaneseLine\":\"「上空からでも熱気が伝わってくるような……\",\"translatedEnglishLine\":\"\\\"You can feel the heat even from the sky...\"},{\"lineNumber\":33713,\"originalJapaneseLine\":\"　大丈夫でしょうか、トッポスさん……」\",\"translatedEnglishLine\":\"I wonder if Toppos is alright...\\\"\"},{\"lineNumber\":33714,\"originalJapaneseLine\":\"「おっ、シャングリラだ」\",\"translatedEnglishLine\":\"\\\"Oh, it’s Shangri-La.\\\"\"},{\"lineNumber\":33715,\"originalJapaneseLine\":\"「ぴゅっぴゅーーー。ほらこっちですよーっ」\",\"translatedEnglishLine\":\"\\\"Pyu pyu---. Hey, this way!\\\"\"},{\"lineNumber\":33716,\"originalJapaneseLine\":\"「ひいいッ！？　ア、アニス様！？」\",\"translatedEnglishLine\":\"\\\"Eek!? A-Anise-sama!?\\\"\"},{\"lineNumber\":33717,\"originalJapaneseLine\":\"「なっ、と、トッポス！？\",\"translatedEnglishLine\":\"\\\"W-What, T-Toppos!?\\\"\"},{\"lineNumber\":33718,\"originalJapaneseLine\":\"　伝説の魔物が何故……！」\",\"translatedEnglishLine\":\"Why is the legendary monster here...!\\\"\"},{\"lineNumber\":33719,\"originalJapaneseLine\":\"「こ、こいつが……！？\",\"translatedEnglishLine\":\"\\\"T-This guy...!?\\\"\"},{\"lineNumber\":33720,\"originalJapaneseLine\":\"　ど、どうするんだ！　攻撃するべきか！？」\",\"translatedEnglishLine\":\"W-What do we do! Should we attack!?\\\"\"},{\"lineNumber\":33721,\"originalJapaneseLine\":\"「クッ……！\",\"translatedEnglishLine\":\"\\\"Grr...!\"},{\"lineNumber\":33722,\"originalJapaneseLine\":\"　総統達が命を賭けて奪取したこのシャングリラ、\",\"translatedEnglishLine\":\"This Shangri-La that the leaders risked their lives to capture,\"},{\"lineNumber\":33723,\"originalJapaneseLine\":\"　魔物にむざむざ蹂躙されるわけには……！」\",\"translatedEnglishLine\":\"cannot simply be trampled by monsters...!\\\"\"},{\"lineNumber\":33724,\"originalJapaneseLine\":\"「わはははは、あいつら敵と勘違いして\",\"translatedEnglishLine\":\"\\\"Wahahahaha, they mistook them for enemies\"},{\"lineNumber\":33725,\"originalJapaneseLine\":\"　トッポスを攻撃し始めたぞ。無駄だ無駄だ」\",\"translatedEnglishLine\":\"and started attacking Toppos. It’s useless, useless.\\\"\"},{\"lineNumber\":33726,\"originalJapaneseLine\":\"「は、反撃されたら無駄な被害が出るでしょう！\",\"translatedEnglishLine\":\"\\\"If they fight back, there’ll be unnecessary damage!\"},{\"lineNumber\":33727,\"originalJapaneseLine\":\"　笑ってないで止めてください！」\",\"translatedEnglishLine\":\"Stop laughing and intervene!\\\"\"},{\"lineNumber\":33728,\"originalJapaneseLine\":\"一直線に、更に西へ。\",\"translatedEnglishLine\":\"Straight line, further west.\"},{\"lineNumber\":33729,\"originalJapaneseLine\":\"「おっ、カラーの森か。\",\"translatedEnglishLine\":\"\\\"Oh, the Kara Forest.\"},{\"lineNumber\":33730,\"originalJapaneseLine\":\"　村は……上からは見えないか。ちっぽけだからな」\",\"translatedEnglishLine\":\"The village... can’t be seen from above. It's so small.\\\"\"},{\"lineNumber\":33731,\"originalJapaneseLine\":\"「見えぬように結界を張っておるからじゃ！\",\"translatedEnglishLine\":\"\\\"Because we’ve set up barriers so it can’t be seen!\"},{\"lineNumber\":33732,\"originalJapaneseLine\":\"　このたわけ者が！」\",\"translatedEnglishLine\":\"You fool!\\\"\"},{\"lineNumber\":33733,\"originalJapaneseLine\":\"「燃やしたのに、結界だけ生きてるのか。\",\"translatedEnglishLine\":\"\\\"Even though it was burned, only the barrier remains intact.\"},{\"lineNumber\":33734,\"originalJapaneseLine\":\"　なかなか頑丈だな」\",\"translatedEnglishLine\":\"It’s pretty tough.\\\"\"},{\"lineNumber\":33735,\"originalJapaneseLine\":\"「貴様ーーーーーーーーッ！\",\"translatedEnglishLine\":\"\\\"Youuuuuuuuuu!\\\"\"},{\"lineNumber\":33736,\"originalJapaneseLine\":\"　よくも臆面もなくッ……！」\",\"translatedEnglishLine\":\"How dare you so shamelessly...!\\\"\"},{\"lineNumber\":33737,\"originalJapaneseLine\":\"「まあまあ。引っ越ししたと思えば、ね？」\",\"translatedEnglishLine\":\"\\\"Now, now. Just think of it as having moved, okay?\\\"\"},{\"lineNumber\":33738,\"originalJapaneseLine\":\"「うう、しかし……」\",\"translatedEnglishLine\":\"\\\"Ugh, but...\\\"\"},{\"lineNumber\":33739,\"originalJapaneseLine\":\"「パステル。次の村をどこに定めるのか。\",\"translatedEnglishLine\":\"\\\"Pastel. Have you decided where to settle the next village?\"},{\"lineNumber\":33740,\"originalJapaneseLine\":\"　考えているか？」\",\"translatedEnglishLine\":\"Are you thinking about it?\\\"\"},{\"lineNumber\":33741,\"originalJapaneseLine\":\"「うっ……つ、次の場所、ですか。\",\"translatedEnglishLine\":\"\\\"Ugh... the next place, you say.\"},{\"lineNumber\":33742,\"originalJapaneseLine\":\"　それはその、また森の焼け跡に改めて……」\",\"translatedEnglishLine\":\"Well, it’s that, maybe again on the burnt remains of the forest...\\\"\"},{\"lineNumber\":33743,\"originalJapaneseLine\":\"「………………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":33744,\"originalJapaneseLine\":\"「………………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":33745,\"originalJapaneseLine\":\"「それでもいいが。\",\"translatedEnglishLine\":\"\\\"That would be fine too.\"},{\"lineNumber\":33746,\"originalJapaneseLine\":\"　漫然と惰性に流されてはいけない。\",\"translatedEnglishLine\":\"You must not drift along aimlessly out of habit.\"},{\"lineNumber\":33747,\"originalJapaneseLine\":\"　女王の仕事」\",\"translatedEnglishLine\":\"That is the queen’s duty.\\\"\"},{\"lineNumber\":33748,\"originalJapaneseLine\":\"「は、はい……」\",\"translatedEnglishLine\":\"\\\"Y-Yes...\\\"\"},{\"lineNumber\":33749,\"originalJapaneseLine\":\"「ふわーーーあ。そろそろ魔物界か？」\",\"translatedEnglishLine\":\"\\\"Fuwaaaah. Are we close to the Monster World now?\\\"\"},{\"lineNumber\":33750,\"originalJapaneseLine\":\"「……と、和んでいるところで！\",\"translatedEnglishLine\":\"\\\"...And just as I was relaxing!\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 33691,
+                "originalJapaneseLine": "『西！　そのまままっすぐ西に行きなさい！",
+                "translatedEnglishLine": "'West! Go straight west just like that!"
+            },
+            {
+                "lineNumber": 33692,
+                "originalJapaneseLine": "　ゼスの、向こうまで！'",
+                "translatedEnglishLine": "To the other side of Zeth!'"
+            },
+            {
+                "lineNumber": 33693,
+                "originalJapaneseLine": "「お、おおおおぉぉっ……！",
+                "translatedEnglishLine": "\"O-ooooh...!"
+            },
+            {
+                "lineNumber": 33694,
+                "originalJapaneseLine": "　し、城が……動く…………！？」",
+                "translatedEnglishLine": "Th-the castle... is moving...!?"
+            },
+            {
+                "lineNumber": 33695,
+                "originalJapaneseLine": "アニスに誘導され、追うトッポス。",
+                "translatedEnglishLine": "Guided by Anise, Toppos pursues."
+            },
+            {
+                "lineNumber": 33696,
+                "originalJapaneseLine": "その胴に巻かれた強靱なロープが、ランス城を引き。",
+                "translatedEnglishLine": "The strong rope wrapped around its torso pulls Rance Castle."
+            },
+            {
+                "lineNumber": 33697,
+                "originalJapaneseLine": "魔物界への旅が始まった。",
+                "translatedEnglishLine": "The journey to the Monster World has begun."
+            },
+            {
+                "lineNumber": 33698,
+                "originalJapaneseLine": "「おお……砂漠の中でも走ってくぞあいつ」",
+                "translatedEnglishLine": "\"Oh... it’s running even through the desert.\""
+            },
+            {
+                "lineNumber": 33699,
+                "originalJapaneseLine": "「上空からでも熱気が伝わってくるような……",
+                "translatedEnglishLine": "\"You can feel the heat even from the sky..."
+            },
+            {
+                "lineNumber": 33700,
+                "originalJapaneseLine": "　大丈夫でしょうか、トッポスさん……」",
+                "translatedEnglishLine": "I wonder if Toppos is alright...\""
+            },
+            {
+                "lineNumber": 33701,
+                "originalJapaneseLine": "「おっ？　なんだあそこ？　街があるぞ」",
+                "translatedEnglishLine": "\"Oh? What's that over there? There's a town.\""
+            },
+            {
+                "lineNumber": 33702,
+                "originalJapaneseLine": "「こんな砂漠の中に……」",
+                "translatedEnglishLine": "\"In the middle of such a desert...\""
+            },
+            {
+                "lineNumber": 33703,
+                "originalJapaneseLine": "「…………っつか、魔軍……？",
+                "translatedEnglishLine": "\"...Or rather, the demon army...?"
+            },
+            {
+                "lineNumber": 33704,
+                "originalJapaneseLine": "　魔物兵がウジャウジャいるぞ」",
+                "translatedEnglishLine": "There are swarms of monster soldiers everywhere.\""
+            },
+            {
+                "lineNumber": 33705,
+                "originalJapaneseLine": "「なんだ、侵入者……それに、ト、トッポス！？",
+                "translatedEnglishLine": "\"What? Intruders... and T-Toppos!?\""
+            },
+            {
+                "lineNumber": 33706,
+                "originalJapaneseLine": "　くっ、迎撃！」",
+                "translatedEnglishLine": "Damn, intercept them!\""
+            },
+            {
+                "lineNumber": 33707,
+                "originalJapaneseLine": "「あっ、あっ、トッポスさんとアニスさんが",
+                "translatedEnglishLine": "\"Ah, ah, Toppos and Anise are"
+            },
+            {
+                "lineNumber": 33708,
+                "originalJapaneseLine": "　襲われてますよ！」",
+                "translatedEnglishLine": "being attacked!\""
+            },
+            {
+                "lineNumber": 33709,
+                "originalJapaneseLine": "「それでも単独で切り抜けてるな……",
+                "translatedEnglishLine": "\"Even so, they're breaking through on their own...\""
+            },
+            {
+                "lineNumber": 33710,
+                "originalJapaneseLine": "　さすが災害コンビ……」",
+                "translatedEnglishLine": "As expected from the disaster duo...\""
+            },
+            {
+                "lineNumber": 33711,
+                "originalJapaneseLine": "「おお……砂漠の中でも走ってくぞあいつ」",
+                "translatedEnglishLine": "\"Oh... it’s running even through the desert.\""
+            },
+            {
+                "lineNumber": 33712,
+                "originalJapaneseLine": "「上空からでも熱気が伝わってくるような……",
+                "translatedEnglishLine": "\"You can feel the heat even from the sky..."
+            },
+            {
+                "lineNumber": 33713,
+                "originalJapaneseLine": "　大丈夫でしょうか、トッポスさん……」",
+                "translatedEnglishLine": "I wonder if Toppos is alright...\""
+            },
+            {
+                "lineNumber": 33714,
+                "originalJapaneseLine": "「おっ、シャングリラだ」",
+                "translatedEnglishLine": "\"Oh, it’s Shangri-La.\""
+            },
+            {
+                "lineNumber": 33715,
+                "originalJapaneseLine": "「ぴゅっぴゅーーー。ほらこっちですよーっ」",
+                "translatedEnglishLine": "\"Pyu pyu---. Hey, this way!\""
+            },
+            {
+                "lineNumber": 33716,
+                "originalJapaneseLine": "「ひいいッ！？　ア、アニス様！？」",
+                "translatedEnglishLine": "\"Eek!? A-Anise-sama!?\""
+            },
+            {
+                "lineNumber": 33717,
+                "originalJapaneseLine": "「なっ、と、トッポス！？",
+                "translatedEnglishLine": "\"W-What, T-Toppos!?\""
+            },
+            {
+                "lineNumber": 33718,
+                "originalJapaneseLine": "　伝説の魔物が何故……！」",
+                "translatedEnglishLine": "Why is the legendary monster here...!\""
+            },
+            {
+                "lineNumber": 33719,
+                "originalJapaneseLine": "「こ、こいつが……！？",
+                "translatedEnglishLine": "\"T-This guy...!?\""
+            },
+            {
+                "lineNumber": 33720,
+                "originalJapaneseLine": "　ど、どうするんだ！　攻撃するべきか！？」",
+                "translatedEnglishLine": "W-What do we do! Should we attack!?\""
+            },
+            {
+                "lineNumber": 33721,
+                "originalJapaneseLine": "「クッ……！",
+                "translatedEnglishLine": "\"Grr...!"
+            },
+            {
+                "lineNumber": 33722,
+                "originalJapaneseLine": "　総統達が命を賭けて奪取したこのシャングリラ、",
+                "translatedEnglishLine": "This Shangri-La that the leaders risked their lives to capture,"
+            },
+            {
+                "lineNumber": 33723,
+                "originalJapaneseLine": "　魔物にむざむざ蹂躙されるわけには……！」",
+                "translatedEnglishLine": "cannot simply be trampled by monsters...!\""
+            },
+            {
+                "lineNumber": 33724,
+                "originalJapaneseLine": "「わはははは、あいつら敵と勘違いして",
+                "translatedEnglishLine": "\"Wahahahaha, they mistook them for enemies"
+            },
+            {
+                "lineNumber": 33725,
+                "originalJapaneseLine": "　トッポスを攻撃し始めたぞ。無駄だ無駄だ」",
+                "translatedEnglishLine": "and started attacking Toppos. It’s useless, useless.\""
+            },
+            {
+                "lineNumber": 33726,
+                "originalJapaneseLine": "「は、反撃されたら無駄な被害が出るでしょう！",
+                "translatedEnglishLine": "\"If they fight back, there’ll be unnecessary damage!"
+            },
+            {
+                "lineNumber": 33727,
+                "originalJapaneseLine": "　笑ってないで止めてください！」",
+                "translatedEnglishLine": "Stop laughing and intervene!\""
+            },
+            {
+                "lineNumber": 33728,
+                "originalJapaneseLine": "一直線に、更に西へ。",
+                "translatedEnglishLine": "Straight line, further west."
+            },
+            {
+                "lineNumber": 33729,
+                "originalJapaneseLine": "「おっ、カラーの森か。",
+                "translatedEnglishLine": "\"Oh, the Kara Forest."
+            },
+            {
+                "lineNumber": 33730,
+                "originalJapaneseLine": "　村は……上からは見えないか。ちっぽけだからな」",
+                "translatedEnglishLine": "The village... can’t be seen from above. It's so small.\""
+            },
+            {
+                "lineNumber": 33731,
+                "originalJapaneseLine": "「見えぬように結界を張っておるからじゃ！",
+                "translatedEnglishLine": "\"Because we’ve set up barriers so it can’t be seen!"
+            },
+            {
+                "lineNumber": 33732,
+                "originalJapaneseLine": "　このたわけ者が！」",
+                "translatedEnglishLine": "You fool!\""
+            },
+            {
+                "lineNumber": 33733,
+                "originalJapaneseLine": "「燃やしたのに、結界だけ生きてるのか。",
+                "translatedEnglishLine": "\"Even though it was burned, only the barrier remains intact."
+            },
+            {
+                "lineNumber": 33734,
+                "originalJapaneseLine": "　なかなか頑丈だな」",
+                "translatedEnglishLine": "It’s pretty tough.\""
+            },
+            {
+                "lineNumber": 33735,
+                "originalJapaneseLine": "「貴様ーーーーーーーーッ！",
+                "translatedEnglishLine": "\"Youuuuuuuuuu!\""
+            },
+            {
+                "lineNumber": 33736,
+                "originalJapaneseLine": "　よくも臆面もなくッ……！」",
+                "translatedEnglishLine": "How dare you so shamelessly...!\""
+            },
+            {
+                "lineNumber": 33737,
+                "originalJapaneseLine": "「まあまあ。引っ越ししたと思えば、ね？」",
+                "translatedEnglishLine": "\"Now, now. Just think of it as having moved, okay?\""
+            },
+            {
+                "lineNumber": 33738,
+                "originalJapaneseLine": "「うう、しかし……」",
+                "translatedEnglishLine": "\"Ugh, but...\""
+            },
+            {
+                "lineNumber": 33739,
+                "originalJapaneseLine": "「パステル。次の村をどこに定めるのか。",
+                "translatedEnglishLine": "\"Pastel. Have you decided where to settle the next village?"
+            },
+            {
+                "lineNumber": 33740,
+                "originalJapaneseLine": "　考えているか？」",
+                "translatedEnglishLine": "Are you thinking about it?\""
+            },
+            {
+                "lineNumber": 33741,
+                "originalJapaneseLine": "「うっ……つ、次の場所、ですか。",
+                "translatedEnglishLine": "\"Ugh... the next place, you say."
+            },
+            {
+                "lineNumber": 33742,
+                "originalJapaneseLine": "　それはその、また森の焼け跡に改めて……」",
+                "translatedEnglishLine": "Well, it’s that, maybe again on the burnt remains of the forest...\""
+            },
+            {
+                "lineNumber": 33743,
+                "originalJapaneseLine": "「………………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": 33744,
+                "originalJapaneseLine": "「………………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": 33745,
+                "originalJapaneseLine": "「それでもいいが。",
+                "translatedEnglishLine": "\"That would be fine too."
+            },
+            {
+                "lineNumber": 33746,
+                "originalJapaneseLine": "　漫然と惰性に流されてはいけない。",
+                "translatedEnglishLine": "You must not drift along aimlessly out of habit."
+            },
+            {
+                "lineNumber": 33747,
+                "originalJapaneseLine": "　女王の仕事」",
+                "translatedEnglishLine": "That is the queen’s duty.\""
+            },
+            {
+                "lineNumber": 33748,
+                "originalJapaneseLine": "「は、はい……」",
+                "translatedEnglishLine": "\"Y-Yes...\""
+            },
+            {
+                "lineNumber": 33749,
+                "originalJapaneseLine": "「ふわーーーあ。そろそろ魔物界か？」",
+                "translatedEnglishLine": "\"Fuwaaaah. Are we close to the Monster World now?\""
+            },
+            {
+                "lineNumber": 33750,
+                "originalJapaneseLine": "「……と、和んでいるところで！",
+                "translatedEnglishLine": "\"...And just as I was relaxing!\""
+            }
+        ]
+    }
+}

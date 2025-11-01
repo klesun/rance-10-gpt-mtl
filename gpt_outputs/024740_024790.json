@@ -1,1 +1,619 @@
-{"id":"resp_066f081913ae274a0068ef3aa67d3881938bb244e76e2355f0","object":"response","created_at":1760508582,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_066f081913ae274a0068ef3aa6ffbc8193ae7f127718821997","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":24741,\"originalJapaneseLine\":\"スーは投擲に使った斧を手早く回収して、\",\"translatedEnglishLine\":\"Sue quickly retrieved the axe she had thrown,\"},{\"lineNumber\":24742,\"originalJapaneseLine\":\"一息ついた。\",\"translatedEnglishLine\":\"and took a breath.\"},{\"lineNumber\":24743,\"originalJapaneseLine\":\"「お見事です、スー様！　して、これから……」\",\"translatedEnglishLine\":\"\\\"Well done, Lady Sue! Now, from here on...\\\"\"},{\"lineNumber\":24744,\"originalJapaneseLine\":\"「敵陣の奥に入り込んで魔物隊長を叩きます。\",\"translatedEnglishLine\":\"\\\"We'll penetrate deep into the enemy lines and strike the monster captain.\"},{\"lineNumber\":24745,\"originalJapaneseLine\":\"　目を引きつけて、撤退。タイミング、気をつけて」\",\"translatedEnglishLine\":\"Draw their attention and then retreat. Be careful with the timing.\\\"\"},{\"lineNumber\":24746,\"originalJapaneseLine\":\"「ははっ！」\",\"translatedEnglishLine\":\"\\\"Haha!\\\"\"},{\"lineNumber\":24747,\"originalJapaneseLine\":\"「それと……陽動担当の人たちは、そのまま。\",\"translatedEnglishLine\":\"\\\"Also... those in charge of the diversion, hold your positions.\"},{\"lineNumber\":24748,\"originalJapaneseLine\":\"　危なくなったら下がってください」\",\"translatedEnglishLine\":\"If it becomes dangerous, please withdraw.\\\"\"},{\"lineNumber\":24749,\"originalJapaneseLine\":\"「は、はい！」\",\"translatedEnglishLine\":\"\\\"Y-Yes!\\\"\"},{\"lineNumber\":24750,\"originalJapaneseLine\":\"「私たちの行動、ひとつひとつに\",\"translatedEnglishLine\":\"\\\"Every single one of our actions\"},{\"lineNumber\":24751,\"originalJapaneseLine\":\"　リーザスの命運がかかっています。\",\"translatedEnglishLine\":\"carries the fate of Leazas.\"},{\"lineNumber\":24752,\"originalJapaneseLine\":\"　心してかかりましょう」\",\"translatedEnglishLine\":\"Let's proceed with resolve.\\\"\"},{\"lineNumber\":24753,\"originalJapaneseLine\":\"決然とした表情でそう言うと、\",\"translatedEnglishLine\":\"With a determined expression, she said so,\"},{\"lineNumber\":24754,\"originalJapaneseLine\":\"スーは兵を引き連れ、駆け出した。\",\"translatedEnglishLine\":\"and Sue led her troops and dashed forward.\"},{\"lineNumber\":24755,\"originalJapaneseLine\":\"――戦況は、容易には動かなかった。\",\"translatedEnglishLine\":\"--The battle situation did not change easily.\"},{\"lineNumber\":24756,\"originalJapaneseLine\":\"数と兵の質で上回る魔軍が押し気味に進めていたが、\",\"translatedEnglishLine\":\"The demon army, superior in both numbers and soldier quality, was pressing forward,\"},{\"lineNumber\":24757,\"originalJapaneseLine\":\"バレスの指揮によって、部隊は容易に崩れない。\",\"translatedEnglishLine\":\"but under Bares' command, the units did not collapse easily.\"},{\"lineNumber\":24758,\"originalJapaneseLine\":\"魔軍、リーザス方面軍。\",\"translatedEnglishLine\":\"The demon army, Leazas regional forces.\"},{\"lineNumber\":24759,\"originalJapaneseLine\":\"首脳たる、ヨシフの幕僚たちは、\",\"translatedEnglishLine\":\"The commanders, Joseph's staff,\"},{\"lineNumber\":24760,\"originalJapaneseLine\":\"思案げに戦場を眺めていた。\",\"translatedEnglishLine\":\"were thoughtfully watching the battlefield.\"},{\"lineNumber\":24761,\"originalJapaneseLine\":\"「ふむ…………これは、今日も決着はつかんか」\",\"translatedEnglishLine\":\"\\\"Hmm... it seems there won't be a conclusion today either.\\\"\"},{\"lineNumber\":24762,\"originalJapaneseLine\":\"「押してはいますが……粘るものですね。\",\"translatedEnglishLine\":\"\\\"We are pushing, but... they are tenacious.\"},{\"lineNumber\":24763,\"originalJapaneseLine\":\"　やはりあの数だ、陣が厚い」\",\"translatedEnglishLine\":\"After all, with those numbers, their formation is thick.\\\"\"},{\"lineNumber\":24764,\"originalJapaneseLine\":\"人間側の陣形は、幾重もの陣を引き、\",\"translatedEnglishLine\":\"The human side's formation consisted of many layered lines,\"},{\"lineNumber\":24765,\"originalJapaneseLine\":\"その厚みで戦う形だった。\",\"translatedEnglishLine\":\"fighting with their density.\"},{\"lineNumber\":24766,\"originalJapaneseLine\":\"どこかの部隊が突破されたかと思えば、\",\"translatedEnglishLine\":\"Whenever one unit seemed to be broken through,\"},{\"lineNumber\":24767,\"originalJapaneseLine\":\"たちどころに他の部隊が援護に回って戦線を支え、\",\"translatedEnglishLine\":\"another unit quickly moved to support and maintain the frontline,\"},{\"lineNumber\":24768,\"originalJapaneseLine\":\"撤退した部隊の生き残りは再編してまた前線に来る。\",\"translatedEnglishLine\":\"The survivors from those who withdrew reorganized and returned to the frontlines.\"},{\"lineNumber\":24769,\"originalJapaneseLine\":\"魔軍の猛々しい将兵達にとっても、\",\"translatedEnglishLine\":\"Even for the fierce demon soldiers,\"},{\"lineNumber\":24770,\"originalJapaneseLine\":\"些かならず辟易する展開だった。\",\"translatedEnglishLine\":\"this was a somewhat frustrating development.\"},{\"lineNumber\":24771,\"originalJapaneseLine\":\"「半分ほどは、押し破ってやったがな。\",\"translatedEnglishLine\":\"\\\"We have broken through about half,\"},{\"lineNumber\":24772,\"originalJapaneseLine\":\"　……もう半分あると思うと、面倒だな……」\",\"translatedEnglishLine\":\"...but thinking there’s still the other half is troublesome...\\\"\"},{\"lineNumber\":24773,\"originalJapaneseLine\":\"「全面対決で全軍をぶつけられればいいのだがネ。\",\"translatedEnglishLine\":\"\\\"It would be better if we could bring our entire army to a full confrontation.\"},{\"lineNumber\":24774,\"originalJapaneseLine\":\"　どこかに引き込みたいのか、伏兵を良く使ウ。\",\"translatedEnglishLine\":\"They often use ambushes, trying to lure us somewhere.\"},{\"lineNumber\":24775,\"originalJapaneseLine\":\"　嵌るわけにはいかんヨ」\",\"translatedEnglishLine\":\"We must not fall into their trap.\\\"\"},{\"lineNumber\":24776,\"originalJapaneseLine\":\"「赤鎧の軍は攻め。青鎧の軍は守りですか。\",\"translatedEnglishLine\":\"\\\"The red-armored army is on offense. The blue-armored army is defending.\"},{\"lineNumber\":24777,\"originalJapaneseLine\":\"　あれも、そこそこに厄介ではありますが……」\",\"translatedEnglishLine\":\"They’re fairly troublesome as well...\\\"\"},{\"lineNumber\":24778,\"originalJapaneseLine\":\"「大局に影響はあるまい。\",\"translatedEnglishLine\":\"\\\"It probably won't affect the bigger picture.\"},{\"lineNumber\":24779,\"originalJapaneseLine\":\"　多少注意して、叩き潰してやればいい」\",\"translatedEnglishLine\":\"We just need to be a little cautious and crush them.\\\"\"},{\"lineNumber\":24780,\"originalJapaneseLine\":\"懸念のような事を口にしてはいるが、\",\"translatedEnglishLine\":\"Though they voiced concerns,\"},{\"lineNumber\":24781,\"originalJapaneseLine\":\"魔物将軍達に焦りはない。\",\"translatedEnglishLine\":\"the demon generals were not anxious.\"},{\"lineNumber\":24782,\"originalJapaneseLine\":\"全体としては有利に傾いているし、\",\"translatedEnglishLine\":\"Overall, the situation was leaning in their favor,\"},{\"lineNumber\":24783,\"originalJapaneseLine\":\"戦況のせいで大きな消耗もない。\",\"translatedEnglishLine\":\"and there was no significant attrition due to the battle.\"},{\"lineNumber\":24784,\"originalJapaneseLine\":\"主たるヨシフの機嫌の方が、よほど厄介だった。\",\"translatedEnglishLine\":\"The mood of their leader, Joseph, was much more troublesome.\"},{\"lineNumber\":24785,\"originalJapaneseLine\":\"「ヨシフ様はどちらに？」\",\"translatedEnglishLine\":\"\\\"Where is Lord Joseph?\\\"\"},{\"lineNumber\":24786,\"originalJapaneseLine\":\"「お休み中だヨ。出るまでも無いと仰せサ。\",\"translatedEnglishLine\":\"\\\"He is resting. He said there is no need for him to appear.\"},{\"lineNumber\":24787,\"originalJapaneseLine\":\"　女王にしか興味がないんじゃないのかナ」\",\"translatedEnglishLine\":\"Maybe he's only interested in the queen.\\\"\"},{\"lineNumber\":24788,\"originalJapaneseLine\":\"「た、たたたた、大変です！」\",\"translatedEnglishLine\":\"\\\"T- t t t-this is terrible!\\\"\"},{\"lineNumber\":24789,\"originalJapaneseLine\":\"突如として、血相を変えた一人の伝令が\",\"translatedEnglishLine\":\"Suddenly, a messenger with a pale face\"},{\"lineNumber\":24790,\"originalJapaneseLine\":\"テントに飛び込んできた。\",\"translatedEnglishLine\":\"rushed into the tent.\"}]}","parsed":{"translationLines":[{"lineNumber":24741,"originalJapaneseLine":"スーは投擲に使った斧を手早く回収して、","translatedEnglishLine":"Sue quickly retrieved the axe she had thrown,"},{"lineNumber":24742,"originalJapaneseLine":"一息ついた。","translatedEnglishLine":"and took a breath."},{"lineNumber":24743,"originalJapaneseLine":"「お見事です、スー様！　して、これから……」","translatedEnglishLine":"\"Well done, Lady Sue! Now, from here on...\""},{"lineNumber":24744,"originalJapaneseLine":"「敵陣の奥に入り込んで魔物隊長を叩きます。","translatedEnglishLine":"\"We'll penetrate deep into the enemy lines and strike the monster captain."},{"lineNumber":24745,"originalJapaneseLine":"　目を引きつけて、撤退。タイミング、気をつけて」","translatedEnglishLine":"Draw their attention and then retreat. Be careful with the timing.\""},{"lineNumber":24746,"originalJapaneseLine":"「ははっ！」","translatedEnglishLine":"\"Haha!\""},{"lineNumber":24747,"originalJapaneseLine":"「それと……陽動担当の人たちは、そのまま。","translatedEnglishLine":"\"Also... those in charge of the diversion, hold your positions."},{"lineNumber":24748,"originalJapaneseLine":"　危なくなったら下がってください」","translatedEnglishLine":"If it becomes dangerous, please withdraw.\""},{"lineNumber":24749,"originalJapaneseLine":"「は、はい！」","translatedEnglishLine":"\"Y-Yes!\""},{"lineNumber":24750,"originalJapaneseLine":"「私たちの行動、ひとつひとつに","translatedEnglishLine":"\"Every single one of our actions"},{"lineNumber":24751,"originalJapaneseLine":"　リーザスの命運がかかっています。","translatedEnglishLine":"carries the fate of Leazas."},{"lineNumber":24752,"originalJapaneseLine":"　心してかかりましょう」","translatedEnglishLine":"Let's proceed with resolve.\""},{"lineNumber":24753,"originalJapaneseLine":"決然とした表情でそう言うと、","translatedEnglishLine":"With a determined expression, she said so,"},{"lineNumber":24754,"originalJapaneseLine":"スーは兵を引き連れ、駆け出した。","translatedEnglishLine":"and Sue led her troops and dashed forward."},{"lineNumber":24755,"originalJapaneseLine":"――戦況は、容易には動かなかった。","translatedEnglishLine":"--The battle situation did not change easily."},{"lineNumber":24756,"originalJapaneseLine":"数と兵の質で上回る魔軍が押し気味に進めていたが、","translatedEnglishLine":"The demon army, superior in both numbers and soldier quality, was pressing forward,"},{"lineNumber":24757,"originalJapaneseLine":"バレスの指揮によって、部隊は容易に崩れない。","translatedEnglishLine":"but under Bares' command, the units did not collapse easily."},{"lineNumber":24758,"originalJapaneseLine":"魔軍、リーザス方面軍。","translatedEnglishLine":"The demon army, Leazas regional forces."},{"lineNumber":24759,"originalJapaneseLine":"首脳たる、ヨシフの幕僚たちは、","translatedEnglishLine":"The commanders, Joseph's staff,"},{"lineNumber":24760,"originalJapaneseLine":"思案げに戦場を眺めていた。","translatedEnglishLine":"were thoughtfully watching the battlefield."},{"lineNumber":24761,"originalJapaneseLine":"「ふむ…………これは、今日も決着はつかんか」","translatedEnglishLine":"\"Hmm... it seems there won't be a conclusion today either.\""},{"lineNumber":24762,"originalJapaneseLine":"「押してはいますが……粘るものですね。","translatedEnglishLine":"\"We are pushing, but... they are tenacious."},{"lineNumber":24763,"originalJapaneseLine":"　やはりあの数だ、陣が厚い」","translatedEnglishLine":"After all, with those numbers, their formation is thick.\""},{"lineNumber":24764,"originalJapaneseLine":"人間側の陣形は、幾重もの陣を引き、","translatedEnglishLine":"The human side's formation consisted of many layered lines,"},{"lineNumber":24765,"originalJapaneseLine":"その厚みで戦う形だった。","translatedEnglishLine":"fighting with their density."},{"lineNumber":24766,"originalJapaneseLine":"どこかの部隊が突破されたかと思えば、","translatedEnglishLine":"Whenever one unit seemed to be broken through,"},{"lineNumber":24767,"originalJapaneseLine":"たちどころに他の部隊が援護に回って戦線を支え、","translatedEnglishLine":"another unit quickly moved to support and maintain the frontline,"},{"lineNumber":24768,"originalJapaneseLine":"撤退した部隊の生き残りは再編してまた前線に来る。","translatedEnglishLine":"The survivors from those who withdrew reorganized and returned to the frontlines."},{"lineNumber":24769,"originalJapaneseLine":"魔軍の猛々しい将兵達にとっても、","translatedEnglishLine":"Even for the fierce demon soldiers,"},{"lineNumber":24770,"originalJapaneseLine":"些かならず辟易する展開だった。","translatedEnglishLine":"this was a somewhat frustrating development."},{"lineNumber":24771,"originalJapaneseLine":"「半分ほどは、押し破ってやったがな。","translatedEnglishLine":"\"We have broken through about half,"},{"lineNumber":24772,"originalJapaneseLine":"　……もう半分あると思うと、面倒だな……」","translatedEnglishLine":"...but thinking there’s still the other half is troublesome...\""},{"lineNumber":24773,"originalJapaneseLine":"「全面対決で全軍をぶつけられればいいのだがネ。","translatedEnglishLine":"\"It would be better if we could bring our entire army to a full confrontation."},{"lineNumber":24774,"originalJapaneseLine":"　どこかに引き込みたいのか、伏兵を良く使ウ。","translatedEnglishLine":"They often use ambushes, trying to lure us somewhere."},{"lineNumber":24775,"originalJapaneseLine":"　嵌るわけにはいかんヨ」","translatedEnglishLine":"We must not fall into their trap.\""},{"lineNumber":24776,"originalJapaneseLine":"「赤鎧の軍は攻め。青鎧の軍は守りですか。","translatedEnglishLine":"\"The red-armored army is on offense. The blue-armored army is defending."},{"lineNumber":24777,"originalJapaneseLine":"　あれも、そこそこに厄介ではありますが……」","translatedEnglishLine":"They’re fairly troublesome as well...\""},{"lineNumber":24778,"originalJapaneseLine":"「大局に影響はあるまい。","translatedEnglishLine":"\"It probably won't affect the bigger picture."},{"lineNumber":24779,"originalJapaneseLine":"　多少注意して、叩き潰してやればいい」","translatedEnglishLine":"We just need to be a little cautious and crush them.\""},{"lineNumber":24780,"originalJapaneseLine":"懸念のような事を口にしてはいるが、","translatedEnglishLine":"Though they voiced concerns,"},{"lineNumber":24781,"originalJapaneseLine":"魔物将軍達に焦りはない。","translatedEnglishLine":"the demon generals were not anxious."},{"lineNumber":24782,"originalJapaneseLine":"全体としては有利に傾いているし、","translatedEnglishLine":"Overall, the situation was leaning in their favor,"},{"lineNumber":24783,"originalJapaneseLine":"戦況のせいで大きな消耗もない。","translatedEnglishLine":"and there was no significant attrition due to the battle."},{"lineNumber":24784,"originalJapaneseLine":"主たるヨシフの機嫌の方が、よほど厄介だった。","translatedEnglishLine":"The mood of their leader, Joseph, was much more troublesome."},{"lineNumber":24785,"originalJapaneseLine":"「ヨシフ様はどちらに？」","translatedEnglishLine":"\"Where is Lord Joseph?\""},{"lineNumber":24786,"originalJapaneseLine":"「お休み中だヨ。出るまでも無いと仰せサ。","translatedEnglishLine":"\"He is resting. He said there is no need for him to appear."},{"lineNumber":24787,"originalJapaneseLine":"　女王にしか興味がないんじゃないのかナ」","translatedEnglishLine":"Maybe he's only interested in the queen.\""},{"lineNumber":24788,"originalJapaneseLine":"「た、たたたた、大変です！」","translatedEnglishLine":"\"T- t t t-this is terrible!\""},{"lineNumber":24789,"originalJapaneseLine":"突如として、血相を変えた一人の伝令が","translatedEnglishLine":"Suddenly, a messenger with a pale face"},{"lineNumber":24790,"originalJapaneseLine":"テントに飛び込んできた。","translatedEnglishLine":"rushed into the tent."}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1593,"input_tokens_details":{"cached_tokens":0},"output_tokens":2037,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3630},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":24741,\"originalJapaneseLine\":\"スーは投擲に使った斧を手早く回収して、\",\"translatedEnglishLine\":\"Sue quickly retrieved the axe she had thrown,\"},{\"lineNumber\":24742,\"originalJapaneseLine\":\"一息ついた。\",\"translatedEnglishLine\":\"and took a breath.\"},{\"lineNumber\":24743,\"originalJapaneseLine\":\"「お見事です、スー様！　して、これから……」\",\"translatedEnglishLine\":\"\\\"Well done, Lady Sue! Now, from here on...\\\"\"},{\"lineNumber\":24744,\"originalJapaneseLine\":\"「敵陣の奥に入り込んで魔物隊長を叩きます。\",\"translatedEnglishLine\":\"\\\"We'll penetrate deep into the enemy lines and strike the monster captain.\"},{\"lineNumber\":24745,\"originalJapaneseLine\":\"　目を引きつけて、撤退。タイミング、気をつけて」\",\"translatedEnglishLine\":\"Draw their attention and then retreat. Be careful with the timing.\\\"\"},{\"lineNumber\":24746,\"originalJapaneseLine\":\"「ははっ！」\",\"translatedEnglishLine\":\"\\\"Haha!\\\"\"},{\"lineNumber\":24747,\"originalJapaneseLine\":\"「それと……陽動担当の人たちは、そのまま。\",\"translatedEnglishLine\":\"\\\"Also... those in charge of the diversion, hold your positions.\"},{\"lineNumber\":24748,\"originalJapaneseLine\":\"　危なくなったら下がってください」\",\"translatedEnglishLine\":\"If it becomes dangerous, please withdraw.\\\"\"},{\"lineNumber\":24749,\"originalJapaneseLine\":\"「は、はい！」\",\"translatedEnglishLine\":\"\\\"Y-Yes!\\\"\"},{\"lineNumber\":24750,\"originalJapaneseLine\":\"「私たちの行動、ひとつひとつに\",\"translatedEnglishLine\":\"\\\"Every single one of our actions\"},{\"lineNumber\":24751,\"originalJapaneseLine\":\"　リーザスの命運がかかっています。\",\"translatedEnglishLine\":\"carries the fate of Leazas.\"},{\"lineNumber\":24752,\"originalJapaneseLine\":\"　心してかかりましょう」\",\"translatedEnglishLine\":\"Let's proceed with resolve.\\\"\"},{\"lineNumber\":24753,\"originalJapaneseLine\":\"決然とした表情でそう言うと、\",\"translatedEnglishLine\":\"With a determined expression, she said so,\"},{\"lineNumber\":24754,\"originalJapaneseLine\":\"スーは兵を引き連れ、駆け出した。\",\"translatedEnglishLine\":\"and Sue led her troops and dashed forward.\"},{\"lineNumber\":24755,\"originalJapaneseLine\":\"――戦況は、容易には動かなかった。\",\"translatedEnglishLine\":\"--The battle situation did not change easily.\"},{\"lineNumber\":24756,\"originalJapaneseLine\":\"数と兵の質で上回る魔軍が押し気味に進めていたが、\",\"translatedEnglishLine\":\"The demon army, superior in both numbers and soldier quality, was pressing forward,\"},{\"lineNumber\":24757,\"originalJapaneseLine\":\"バレスの指揮によって、部隊は容易に崩れない。\",\"translatedEnglishLine\":\"but under Bares' command, the units did not collapse easily.\"},{\"lineNumber\":24758,\"originalJapaneseLine\":\"魔軍、リーザス方面軍。\",\"translatedEnglishLine\":\"The demon army, Leazas regional forces.\"},{\"lineNumber\":24759,\"originalJapaneseLine\":\"首脳たる、ヨシフの幕僚たちは、\",\"translatedEnglishLine\":\"The commanders, Joseph's staff,\"},{\"lineNumber\":24760,\"originalJapaneseLine\":\"思案げに戦場を眺めていた。\",\"translatedEnglishLine\":\"were thoughtfully watching the battlefield.\"},{\"lineNumber\":24761,\"originalJapaneseLine\":\"「ふむ…………これは、今日も決着はつかんか」\",\"translatedEnglishLine\":\"\\\"Hmm... it seems there won't be a conclusion today either.\\\"\"},{\"lineNumber\":24762,\"originalJapaneseLine\":\"「押してはいますが……粘るものですね。\",\"translatedEnglishLine\":\"\\\"We are pushing, but... they are tenacious.\"},{\"lineNumber\":24763,\"originalJapaneseLine\":\"　やはりあの数だ、陣が厚い」\",\"translatedEnglishLine\":\"After all, with those numbers, their formation is thick.\\\"\"},{\"lineNumber\":24764,\"originalJapaneseLine\":\"人間側の陣形は、幾重もの陣を引き、\",\"translatedEnglishLine\":\"The human side's formation consisted of many layered lines,\"},{\"lineNumber\":24765,\"originalJapaneseLine\":\"その厚みで戦う形だった。\",\"translatedEnglishLine\":\"fighting with their density.\"},{\"lineNumber\":24766,\"originalJapaneseLine\":\"どこかの部隊が突破されたかと思えば、\",\"translatedEnglishLine\":\"Whenever one unit seemed to be broken through,\"},{\"lineNumber\":24767,\"originalJapaneseLine\":\"たちどころに他の部隊が援護に回って戦線を支え、\",\"translatedEnglishLine\":\"another unit quickly moved to support and maintain the frontline,\"},{\"lineNumber\":24768,\"originalJapaneseLine\":\"撤退した部隊の生き残りは再編してまた前線に来る。\",\"translatedEnglishLine\":\"The survivors from those who withdrew reorganized and returned to the frontlines.\"},{\"lineNumber\":24769,\"originalJapaneseLine\":\"魔軍の猛々しい将兵達にとっても、\",\"translatedEnglishLine\":\"Even for the fierce demon soldiers,\"},{\"lineNumber\":24770,\"originalJapaneseLine\":\"些かならず辟易する展開だった。\",\"translatedEnglishLine\":\"this was a somewhat frustrating development.\"},{\"lineNumber\":24771,\"originalJapaneseLine\":\"「半分ほどは、押し破ってやったがな。\",\"translatedEnglishLine\":\"\\\"We have broken through about half,\"},{\"lineNumber\":24772,\"originalJapaneseLine\":\"　……もう半分あると思うと、面倒だな……」\",\"translatedEnglishLine\":\"...but thinking there’s still the other half is troublesome...\\\"\"},{\"lineNumber\":24773,\"originalJapaneseLine\":\"「全面対決で全軍をぶつけられればいいのだがネ。\",\"translatedEnglishLine\":\"\\\"It would be better if we could bring our entire army to a full confrontation.\"},{\"lineNumber\":24774,\"originalJapaneseLine\":\"　どこかに引き込みたいのか、伏兵を良く使ウ。\",\"translatedEnglishLine\":\"They often use ambushes, trying to lure us somewhere.\"},{\"lineNumber\":24775,\"originalJapaneseLine\":\"　嵌るわけにはいかんヨ」\",\"translatedEnglishLine\":\"We must not fall into their trap.\\\"\"},{\"lineNumber\":24776,\"originalJapaneseLine\":\"「赤鎧の軍は攻め。青鎧の軍は守りですか。\",\"translatedEnglishLine\":\"\\\"The red-armored army is on offense. The blue-armored army is defending.\"},{\"lineNumber\":24777,\"originalJapaneseLine\":\"　あれも、そこそこに厄介ではありますが……」\",\"translatedEnglishLine\":\"They’re fairly troublesome as well...\\\"\"},{\"lineNumber\":24778,\"originalJapaneseLine\":\"「大局に影響はあるまい。\",\"translatedEnglishLine\":\"\\\"It probably won't affect the bigger picture.\"},{\"lineNumber\":24779,\"originalJapaneseLine\":\"　多少注意して、叩き潰してやればいい」\",\"translatedEnglishLine\":\"We just need to be a little cautious and crush them.\\\"\"},{\"lineNumber\":24780,\"originalJapaneseLine\":\"懸念のような事を口にしてはいるが、\",\"translatedEnglishLine\":\"Though they voiced concerns,\"},{\"lineNumber\":24781,\"originalJapaneseLine\":\"魔物将軍達に焦りはない。\",\"translatedEnglishLine\":\"the demon generals were not anxious.\"},{\"lineNumber\":24782,\"originalJapaneseLine\":\"全体としては有利に傾いているし、\",\"translatedEnglishLine\":\"Overall, the situation was leaning in their favor,\"},{\"lineNumber\":24783,\"originalJapaneseLine\":\"戦況のせいで大きな消耗もない。\",\"translatedEnglishLine\":\"and there was no significant attrition due to the battle.\"},{\"lineNumber\":24784,\"originalJapaneseLine\":\"主たるヨシフの機嫌の方が、よほど厄介だった。\",\"translatedEnglishLine\":\"The mood of their leader, Joseph, was much more troublesome.\"},{\"lineNumber\":24785,\"originalJapaneseLine\":\"「ヨシフ様はどちらに？」\",\"translatedEnglishLine\":\"\\\"Where is Lord Joseph?\\\"\"},{\"lineNumber\":24786,\"originalJapaneseLine\":\"「お休み中だヨ。出るまでも無いと仰せサ。\",\"translatedEnglishLine\":\"\\\"He is resting. He said there is no need for him to appear.\"},{\"lineNumber\":24787,\"originalJapaneseLine\":\"　女王にしか興味がないんじゃないのかナ」\",\"translatedEnglishLine\":\"Maybe he's only interested in the queen.\\\"\"},{\"lineNumber\":24788,\"originalJapaneseLine\":\"「た、たたたた、大変です！」\",\"translatedEnglishLine\":\"\\\"T- t t t-this is terrible!\\\"\"},{\"lineNumber\":24789,\"originalJapaneseLine\":\"突如として、血相を変えた一人の伝令が\",\"translatedEnglishLine\":\"Suddenly, a messenger with a pale face\"},{\"lineNumber\":24790,\"originalJapaneseLine\":\"テントに飛び込んできた。\",\"translatedEnglishLine\":\"rushed into the tent.\"}]}","output_parsed":{"translationLines":[{"lineNumber":24741,"originalJapaneseLine":"スーは投擲に使った斧を手早く回収して、","translatedEnglishLine":"Sue quickly retrieved the axe she had thrown,"},{"lineNumber":24742,"originalJapaneseLine":"一息ついた。","translatedEnglishLine":"and took a breath."},{"lineNumber":24743,"originalJapaneseLine":"「お見事です、スー様！　して、これから……」","translatedEnglishLine":"\"Well done, Lady Sue! Now, from here on...\""},{"lineNumber":24744,"originalJapaneseLine":"「敵陣の奥に入り込んで魔物隊長を叩きます。","translatedEnglishLine":"\"We'll penetrate deep into the enemy lines and strike the monster captain."},{"lineNumber":24745,"originalJapaneseLine":"　目を引きつけて、撤退。タイミング、気をつけて」","translatedEnglishLine":"Draw their attention and then retreat. Be careful with the timing.\""},{"lineNumber":24746,"originalJapaneseLine":"「ははっ！」","translatedEnglishLine":"\"Haha!\""},{"lineNumber":24747,"originalJapaneseLine":"「それと……陽動担当の人たちは、そのまま。","translatedEnglishLine":"\"Also... those in charge of the diversion, hold your positions."},{"lineNumber":24748,"originalJapaneseLine":"　危なくなったら下がってください」","translatedEnglishLine":"If it becomes dangerous, please withdraw.\""},{"lineNumber":24749,"originalJapaneseLine":"「は、はい！」","translatedEnglishLine":"\"Y-Yes!\""},{"lineNumber":24750,"originalJapaneseLine":"「私たちの行動、ひとつひとつに","translatedEnglishLine":"\"Every single one of our actions"},{"lineNumber":24751,"originalJapaneseLine":"　リーザスの命運がかかっています。","translatedEnglishLine":"carries the fate of Leazas."},{"lineNumber":24752,"originalJapaneseLine":"　心してかかりましょう」","translatedEnglishLine":"Let's proceed with resolve.\""},{"lineNumber":24753,"originalJapaneseLine":"決然とした表情でそう言うと、","translatedEnglishLine":"With a determined expression, she said so,"},{"lineNumber":24754,"originalJapaneseLine":"スーは兵を引き連れ、駆け出した。","translatedEnglishLine":"and Sue led her troops and dashed forward."},{"lineNumber":24755,"originalJapaneseLine":"――戦況は、容易には動かなかった。","translatedEnglishLine":"--The battle situation did not change easily."},{"lineNumber":24756,"originalJapaneseLine":"数と兵の質で上回る魔軍が押し気味に進めていたが、","translatedEnglishLine":"The demon army, superior in both numbers and soldier quality, was pressing forward,"},{"lineNumber":24757,"originalJapaneseLine":"バレスの指揮によって、部隊は容易に崩れない。","translatedEnglishLine":"but under Bares' command, the units did not collapse easily."},{"lineNumber":24758,"originalJapaneseLine":"魔軍、リーザス方面軍。","translatedEnglishLine":"The demon army, Leazas regional forces."},{"lineNumber":24759,"originalJapaneseLine":"首脳たる、ヨシフの幕僚たちは、","translatedEnglishLine":"The commanders, Joseph's staff,"},{"lineNumber":24760,"originalJapaneseLine":"思案げに戦場を眺めていた。","translatedEnglishLine":"were thoughtfully watching the battlefield."},{"lineNumber":24761,"originalJapaneseLine":"「ふむ…………これは、今日も決着はつかんか」","translatedEnglishLine":"\"Hmm... it seems there won't be a conclusion today either.\""},{"lineNumber":24762,"originalJapaneseLine":"「押してはいますが……粘るものですね。","translatedEnglishLine":"\"We are pushing, but... they are tenacious."},{"lineNumber":24763,"originalJapaneseLine":"　やはりあの数だ、陣が厚い」","translatedEnglishLine":"After all, with those numbers, their formation is thick.\""},{"lineNumber":24764,"originalJapaneseLine":"人間側の陣形は、幾重もの陣を引き、","translatedEnglishLine":"The human side's formation consisted of many layered lines,"},{"lineNumber":24765,"originalJapaneseLine":"その厚みで戦う形だった。","translatedEnglishLine":"fighting with their density."},{"lineNumber":24766,"originalJapaneseLine":"どこかの部隊が突破されたかと思えば、","translatedEnglishLine":"Whenever one unit seemed to be broken through,"},{"lineNumber":24767,"originalJapaneseLine":"たちどころに他の部隊が援護に回って戦線を支え、","translatedEnglishLine":"another unit quickly moved to support and maintain the frontline,"},{"lineNumber":24768,"originalJapaneseLine":"撤退した部隊の生き残りは再編してまた前線に来る。","translatedEnglishLine":"The survivors from those who withdrew reorganized and returned to the frontlines."},{"lineNumber":24769,"originalJapaneseLine":"魔軍の猛々しい将兵達にとっても、","translatedEnglishLine":"Even for the fierce demon soldiers,"},{"lineNumber":24770,"originalJapaneseLine":"些かならず辟易する展開だった。","translatedEnglishLine":"this was a somewhat frustrating development."},{"lineNumber":24771,"originalJapaneseLine":"「半分ほどは、押し破ってやったがな。","translatedEnglishLine":"\"We have broken through about half,"},{"lineNumber":24772,"originalJapaneseLine":"　……もう半分あると思うと、面倒だな……」","translatedEnglishLine":"...but thinking there’s still the other half is troublesome...\""},{"lineNumber":24773,"originalJapaneseLine":"「全面対決で全軍をぶつけられればいいのだがネ。","translatedEnglishLine":"\"It would be better if we could bring our entire army to a full confrontation."},{"lineNumber":24774,"originalJapaneseLine":"　どこかに引き込みたいのか、伏兵を良く使ウ。","translatedEnglishLine":"They often use ambushes, trying to lure us somewhere."},{"lineNumber":24775,"originalJapaneseLine":"　嵌るわけにはいかんヨ」","translatedEnglishLine":"We must not fall into their trap.\""},{"lineNumber":24776,"originalJapaneseLine":"「赤鎧の軍は攻め。青鎧の軍は守りですか。","translatedEnglishLine":"\"The red-armored army is on offense. The blue-armored army is defending."},{"lineNumber":24777,"originalJapaneseLine":"　あれも、そこそこに厄介ではありますが……」","translatedEnglishLine":"They’re fairly troublesome as well...\""},{"lineNumber":24778,"originalJapaneseLine":"「大局に影響はあるまい。","translatedEnglishLine":"\"It probably won't affect the bigger picture."},{"lineNumber":24779,"originalJapaneseLine":"　多少注意して、叩き潰してやればいい」","translatedEnglishLine":"We just need to be a little cautious and crush them.\""},{"lineNumber":24780,"originalJapaneseLine":"懸念のような事を口にしてはいるが、","translatedEnglishLine":"Though they voiced concerns,"},{"lineNumber":24781,"originalJapaneseLine":"魔物将軍達に焦りはない。","translatedEnglishLine":"the demon generals were not anxious."},{"lineNumber":24782,"originalJapaneseLine":"全体としては有利に傾いているし、","translatedEnglishLine":"Overall, the situation was leaning in their favor,"},{"lineNumber":24783,"originalJapaneseLine":"戦況のせいで大きな消耗もない。","translatedEnglishLine":"and there was no significant attrition due to the battle."},{"lineNumber":24784,"originalJapaneseLine":"主たるヨシフの機嫌の方が、よほど厄介だった。","translatedEnglishLine":"The mood of their leader, Joseph, was much more troublesome."},{"lineNumber":24785,"originalJapaneseLine":"「ヨシフ様はどちらに？」","translatedEnglishLine":"\"Where is Lord Joseph?\""},{"lineNumber":24786,"originalJapaneseLine":"「お休み中だヨ。出るまでも無いと仰せサ。","translatedEnglishLine":"\"He is resting. He said there is no need for him to appear."},{"lineNumber":24787,"originalJapaneseLine":"　女王にしか興味がないんじゃないのかナ」","translatedEnglishLine":"Maybe he's only interested in the queen.\""},{"lineNumber":24788,"originalJapaneseLine":"「た、たたたた、大変です！」","translatedEnglishLine":"\"T- t t t-this is terrible!\""},{"lineNumber":24789,"originalJapaneseLine":"突如として、血相を変えた一人の伝令が","translatedEnglishLine":"Suddenly, a messenger with a pale face"},{"lineNumber":24790,"originalJapaneseLine":"テントに飛び込んできた。","translatedEnglishLine":"rushed into the tent."}]}}
+{
+    "id": "resp_066f081913ae274a0068ef3aa67d3881938bb244e76e2355f0",
+    "object": "response",
+    "created_at": 1760508582,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_066f081913ae274a0068ef3aa6ffbc8193ae7f127718821997",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":24741,\"originalJapaneseLine\":\"スーは投擲に使った斧を手早く回収して、\",\"translatedEnglishLine\":\"Sue quickly retrieved the axe she had thrown,\"},{\"lineNumber\":24742,\"originalJapaneseLine\":\"一息ついた。\",\"translatedEnglishLine\":\"and took a breath.\"},{\"lineNumber\":24743,\"originalJapaneseLine\":\"「お見事です、スー様！　して、これから……」\",\"translatedEnglishLine\":\"\\\"Well done, Lady Sue! Now, from here on...\\\"\"},{\"lineNumber\":24744,\"originalJapaneseLine\":\"「敵陣の奥に入り込んで魔物隊長を叩きます。\",\"translatedEnglishLine\":\"\\\"We'll penetrate deep into the enemy lines and strike the monster captain.\"},{\"lineNumber\":24745,\"originalJapaneseLine\":\"　目を引きつけて、撤退。タイミング、気をつけて」\",\"translatedEnglishLine\":\"Draw their attention and then retreat. Be careful with the timing.\\\"\"},{\"lineNumber\":24746,\"originalJapaneseLine\":\"「ははっ！」\",\"translatedEnglishLine\":\"\\\"Haha!\\\"\"},{\"lineNumber\":24747,\"originalJapaneseLine\":\"「それと……陽動担当の人たちは、そのまま。\",\"translatedEnglishLine\":\"\\\"Also... those in charge of the diversion, hold your positions.\"},{\"lineNumber\":24748,\"originalJapaneseLine\":\"　危なくなったら下がってください」\",\"translatedEnglishLine\":\"If it becomes dangerous, please withdraw.\\\"\"},{\"lineNumber\":24749,\"originalJapaneseLine\":\"「は、はい！」\",\"translatedEnglishLine\":\"\\\"Y-Yes!\\\"\"},{\"lineNumber\":24750,\"originalJapaneseLine\":\"「私たちの行動、ひとつひとつに\",\"translatedEnglishLine\":\"\\\"Every single one of our actions\"},{\"lineNumber\":24751,\"originalJapaneseLine\":\"　リーザスの命運がかかっています。\",\"translatedEnglishLine\":\"carries the fate of Leazas.\"},{\"lineNumber\":24752,\"originalJapaneseLine\":\"　心してかかりましょう」\",\"translatedEnglishLine\":\"Let's proceed with resolve.\\\"\"},{\"lineNumber\":24753,\"originalJapaneseLine\":\"決然とした表情でそう言うと、\",\"translatedEnglishLine\":\"With a determined expression, she said so,\"},{\"lineNumber\":24754,\"originalJapaneseLine\":\"スーは兵を引き連れ、駆け出した。\",\"translatedEnglishLine\":\"and Sue led her troops and dashed forward.\"},{\"lineNumber\":24755,\"originalJapaneseLine\":\"――戦況は、容易には動かなかった。\",\"translatedEnglishLine\":\"--The battle situation did not change easily.\"},{\"lineNumber\":24756,\"originalJapaneseLine\":\"数と兵の質で上回る魔軍が押し気味に進めていたが、\",\"translatedEnglishLine\":\"The demon army, superior in both numbers and soldier quality, was pressing forward,\"},{\"lineNumber\":24757,\"originalJapaneseLine\":\"バレスの指揮によって、部隊は容易に崩れない。\",\"translatedEnglishLine\":\"but under Bares' command, the units did not collapse easily.\"},{\"lineNumber\":24758,\"originalJapaneseLine\":\"魔軍、リーザス方面軍。\",\"translatedEnglishLine\":\"The demon army, Leazas regional forces.\"},{\"lineNumber\":24759,\"originalJapaneseLine\":\"首脳たる、ヨシフの幕僚たちは、\",\"translatedEnglishLine\":\"The commanders, Joseph's staff,\"},{\"lineNumber\":24760,\"originalJapaneseLine\":\"思案げに戦場を眺めていた。\",\"translatedEnglishLine\":\"were thoughtfully watching the battlefield.\"},{\"lineNumber\":24761,\"originalJapaneseLine\":\"「ふむ…………これは、今日も決着はつかんか」\",\"translatedEnglishLine\":\"\\\"Hmm... it seems there won't be a conclusion today either.\\\"\"},{\"lineNumber\":24762,\"originalJapaneseLine\":\"「押してはいますが……粘るものですね。\",\"translatedEnglishLine\":\"\\\"We are pushing, but... they are tenacious.\"},{\"lineNumber\":24763,\"originalJapaneseLine\":\"　やはりあの数だ、陣が厚い」\",\"translatedEnglishLine\":\"After all, with those numbers, their formation is thick.\\\"\"},{\"lineNumber\":24764,\"originalJapaneseLine\":\"人間側の陣形は、幾重もの陣を引き、\",\"translatedEnglishLine\":\"The human side's formation consisted of many layered lines,\"},{\"lineNumber\":24765,\"originalJapaneseLine\":\"その厚みで戦う形だった。\",\"translatedEnglishLine\":\"fighting with their density.\"},{\"lineNumber\":24766,\"originalJapaneseLine\":\"どこかの部隊が突破されたかと思えば、\",\"translatedEnglishLine\":\"Whenever one unit seemed to be broken through,\"},{\"lineNumber\":24767,\"originalJapaneseLine\":\"たちどころに他の部隊が援護に回って戦線を支え、\",\"translatedEnglishLine\":\"another unit quickly moved to support and maintain the frontline,\"},{\"lineNumber\":24768,\"originalJapaneseLine\":\"撤退した部隊の生き残りは再編してまた前線に来る。\",\"translatedEnglishLine\":\"The survivors from those who withdrew reorganized and returned to the frontlines.\"},{\"lineNumber\":24769,\"originalJapaneseLine\":\"魔軍の猛々しい将兵達にとっても、\",\"translatedEnglishLine\":\"Even for the fierce demon soldiers,\"},{\"lineNumber\":24770,\"originalJapaneseLine\":\"些かならず辟易する展開だった。\",\"translatedEnglishLine\":\"this was a somewhat frustrating development.\"},{\"lineNumber\":24771,\"originalJapaneseLine\":\"「半分ほどは、押し破ってやったがな。\",\"translatedEnglishLine\":\"\\\"We have broken through about half,\"},{\"lineNumber\":24772,\"originalJapaneseLine\":\"　……もう半分あると思うと、面倒だな……」\",\"translatedEnglishLine\":\"...but thinking there’s still the other half is troublesome...\\\"\"},{\"lineNumber\":24773,\"originalJapaneseLine\":\"「全面対決で全軍をぶつけられればいいのだがネ。\",\"translatedEnglishLine\":\"\\\"It would be better if we could bring our entire army to a full confrontation.\"},{\"lineNumber\":24774,\"originalJapaneseLine\":\"　どこかに引き込みたいのか、伏兵を良く使ウ。\",\"translatedEnglishLine\":\"They often use ambushes, trying to lure us somewhere.\"},{\"lineNumber\":24775,\"originalJapaneseLine\":\"　嵌るわけにはいかんヨ」\",\"translatedEnglishLine\":\"We must not fall into their trap.\\\"\"},{\"lineNumber\":24776,\"originalJapaneseLine\":\"「赤鎧の軍は攻め。青鎧の軍は守りですか。\",\"translatedEnglishLine\":\"\\\"The red-armored army is on offense. The blue-armored army is defending.\"},{\"lineNumber\":24777,\"originalJapaneseLine\":\"　あれも、そこそこに厄介ではありますが……」\",\"translatedEnglishLine\":\"They’re fairly troublesome as well...\\\"\"},{\"lineNumber\":24778,\"originalJapaneseLine\":\"「大局に影響はあるまい。\",\"translatedEnglishLine\":\"\\\"It probably won't affect the bigger picture.\"},{\"lineNumber\":24779,\"originalJapaneseLine\":\"　多少注意して、叩き潰してやればいい」\",\"translatedEnglishLine\":\"We just need to be a little cautious and crush them.\\\"\"},{\"lineNumber\":24780,\"originalJapaneseLine\":\"懸念のような事を口にしてはいるが、\",\"translatedEnglishLine\":\"Though they voiced concerns,\"},{\"lineNumber\":24781,\"originalJapaneseLine\":\"魔物将軍達に焦りはない。\",\"translatedEnglishLine\":\"the demon generals were not anxious.\"},{\"lineNumber\":24782,\"originalJapaneseLine\":\"全体としては有利に傾いているし、\",\"translatedEnglishLine\":\"Overall, the situation was leaning in their favor,\"},{\"lineNumber\":24783,\"originalJapaneseLine\":\"戦況のせいで大きな消耗もない。\",\"translatedEnglishLine\":\"and there was no significant attrition due to the battle.\"},{\"lineNumber\":24784,\"originalJapaneseLine\":\"主たるヨシフの機嫌の方が、よほど厄介だった。\",\"translatedEnglishLine\":\"The mood of their leader, Joseph, was much more troublesome.\"},{\"lineNumber\":24785,\"originalJapaneseLine\":\"「ヨシフ様はどちらに？」\",\"translatedEnglishLine\":\"\\\"Where is Lord Joseph?\\\"\"},{\"lineNumber\":24786,\"originalJapaneseLine\":\"「お休み中だヨ。出るまでも無いと仰せサ。\",\"translatedEnglishLine\":\"\\\"He is resting. He said there is no need for him to appear.\"},{\"lineNumber\":24787,\"originalJapaneseLine\":\"　女王にしか興味がないんじゃないのかナ」\",\"translatedEnglishLine\":\"Maybe he's only interested in the queen.\\\"\"},{\"lineNumber\":24788,\"originalJapaneseLine\":\"「た、たたたた、大変です！」\",\"translatedEnglishLine\":\"\\\"T- t t t-this is terrible!\\\"\"},{\"lineNumber\":24789,\"originalJapaneseLine\":\"突如として、血相を変えた一人の伝令が\",\"translatedEnglishLine\":\"Suddenly, a messenger with a pale face\"},{\"lineNumber\":24790,\"originalJapaneseLine\":\"テントに飛び込んできた。\",\"translatedEnglishLine\":\"rushed into the tent.\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 24741,
+                                "originalJapaneseLine": "スーは投擲に使った斧を手早く回収して、",
+                                "translatedEnglishLine": "Sue quickly retrieved the axe she had thrown,"
+                            },
+                            {
+                                "lineNumber": 24742,
+                                "originalJapaneseLine": "一息ついた。",
+                                "translatedEnglishLine": "and took a breath."
+                            },
+                            {
+                                "lineNumber": 24743,
+                                "originalJapaneseLine": "「お見事です、スー様！　して、これから……」",
+                                "translatedEnglishLine": "\"Well done, Lady Sue! Now, from here on...\""
+                            },
+                            {
+                                "lineNumber": 24744,
+                                "originalJapaneseLine": "「敵陣の奥に入り込んで魔物隊長を叩きます。",
+                                "translatedEnglishLine": "\"We'll penetrate deep into the enemy lines and strike the monster captain."
+                            },
+                            {
+                                "lineNumber": 24745,
+                                "originalJapaneseLine": "　目を引きつけて、撤退。タイミング、気をつけて」",
+                                "translatedEnglishLine": "Draw their attention and then retreat. Be careful with the timing.\""
+                            },
+                            {
+                                "lineNumber": 24746,
+                                "originalJapaneseLine": "「ははっ！」",
+                                "translatedEnglishLine": "\"Haha!\""
+                            },
+                            {
+                                "lineNumber": 24747,
+                                "originalJapaneseLine": "「それと……陽動担当の人たちは、そのまま。",
+                                "translatedEnglishLine": "\"Also... those in charge of the diversion, hold your positions."
+                            },
+                            {
+                                "lineNumber": 24748,
+                                "originalJapaneseLine": "　危なくなったら下がってください」",
+                                "translatedEnglishLine": "If it becomes dangerous, please withdraw.\""
+                            },
+                            {
+                                "lineNumber": 24749,
+                                "originalJapaneseLine": "「は、はい！」",
+                                "translatedEnglishLine": "\"Y-Yes!\""
+                            },
+                            {
+                                "lineNumber": 24750,
+                                "originalJapaneseLine": "「私たちの行動、ひとつひとつに",
+                                "translatedEnglishLine": "\"Every single one of our actions"
+                            },
+                            {
+                                "lineNumber": 24751,
+                                "originalJapaneseLine": "　リーザスの命運がかかっています。",
+                                "translatedEnglishLine": "carries the fate of Leazas."
+                            },
+                            {
+                                "lineNumber": 24752,
+                                "originalJapaneseLine": "　心してかかりましょう」",
+                                "translatedEnglishLine": "Let's proceed with resolve.\""
+                            },
+                            {
+                                "lineNumber": 24753,
+                                "originalJapaneseLine": "決然とした表情でそう言うと、",
+                                "translatedEnglishLine": "With a determined expression, she said so,"
+                            },
+                            {
+                                "lineNumber": 24754,
+                                "originalJapaneseLine": "スーは兵を引き連れ、駆け出した。",
+                                "translatedEnglishLine": "and Sue led her troops and dashed forward."
+                            },
+                            {
+                                "lineNumber": 24755,
+                                "originalJapaneseLine": "――戦況は、容易には動かなかった。",
+                                "translatedEnglishLine": "--The battle situation did not change easily."
+                            },
+                            {
+                                "lineNumber": 24756,
+                                "originalJapaneseLine": "数と兵の質で上回る魔軍が押し気味に進めていたが、",
+                                "translatedEnglishLine": "The demon army, superior in both numbers and soldier quality, was pressing forward,"
+                            },
+                            {
+                                "lineNumber": 24757,
+                                "originalJapaneseLine": "バレスの指揮によって、部隊は容易に崩れない。",
+                                "translatedEnglishLine": "but under Bares' command, the units did not collapse easily."
+                            },
+                            {
+                                "lineNumber": 24758,
+                                "originalJapaneseLine": "魔軍、リーザス方面軍。",
+                                "translatedEnglishLine": "The demon army, Leazas regional forces."
+                            },
+                            {
+                                "lineNumber": 24759,
+                                "originalJapaneseLine": "首脳たる、ヨシフの幕僚たちは、",
+                                "translatedEnglishLine": "The commanders, Joseph's staff,"
+                            },
+                            {
+                                "lineNumber": 24760,
+                                "originalJapaneseLine": "思案げに戦場を眺めていた。",
+                                "translatedEnglishLine": "were thoughtfully watching the battlefield."
+                            },
+                            {
+                                "lineNumber": 24761,
+                                "originalJapaneseLine": "「ふむ…………これは、今日も決着はつかんか」",
+                                "translatedEnglishLine": "\"Hmm... it seems there won't be a conclusion today either.\""
+                            },
+                            {
+                                "lineNumber": 24762,
+                                "originalJapaneseLine": "「押してはいますが……粘るものですね。",
+                                "translatedEnglishLine": "\"We are pushing, but... they are tenacious."
+                            },
+                            {
+                                "lineNumber": 24763,
+                                "originalJapaneseLine": "　やはりあの数だ、陣が厚い」",
+                                "translatedEnglishLine": "After all, with those numbers, their formation is thick.\""
+                            },
+                            {
+                                "lineNumber": 24764,
+                                "originalJapaneseLine": "人間側の陣形は、幾重もの陣を引き、",
+                                "translatedEnglishLine": "The human side's formation consisted of many layered lines,"
+                            },
+                            {
+                                "lineNumber": 24765,
+                                "originalJapaneseLine": "その厚みで戦う形だった。",
+                                "translatedEnglishLine": "fighting with their density."
+                            },
+                            {
+                                "lineNumber": 24766,
+                                "originalJapaneseLine": "どこかの部隊が突破されたかと思えば、",
+                                "translatedEnglishLine": "Whenever one unit seemed to be broken through,"
+                            },
+                            {
+                                "lineNumber": 24767,
+                                "originalJapaneseLine": "たちどころに他の部隊が援護に回って戦線を支え、",
+                                "translatedEnglishLine": "another unit quickly moved to support and maintain the frontline,"
+                            },
+                            {
+                                "lineNumber": 24768,
+                                "originalJapaneseLine": "撤退した部隊の生き残りは再編してまた前線に来る。",
+                                "translatedEnglishLine": "The survivors from those who withdrew reorganized and returned to the frontlines."
+                            },
+                            {
+                                "lineNumber": 24769,
+                                "originalJapaneseLine": "魔軍の猛々しい将兵達にとっても、",
+                                "translatedEnglishLine": "Even for the fierce demon soldiers,"
+                            },
+                            {
+                                "lineNumber": 24770,
+                                "originalJapaneseLine": "些かならず辟易する展開だった。",
+                                "translatedEnglishLine": "this was a somewhat frustrating development."
+                            },
+                            {
+                                "lineNumber": 24771,
+                                "originalJapaneseLine": "「半分ほどは、押し破ってやったがな。",
+                                "translatedEnglishLine": "\"We have broken through about half,"
+                            },
+                            {
+                                "lineNumber": 24772,
+                                "originalJapaneseLine": "　……もう半分あると思うと、面倒だな……」",
+                                "translatedEnglishLine": "...but thinking there’s still the other half is troublesome...\""
+                            },
+                            {
+                                "lineNumber": 24773,
+                                "originalJapaneseLine": "「全面対決で全軍をぶつけられればいいのだがネ。",
+                                "translatedEnglishLine": "\"It would be better if we could bring our entire army to a full confrontation."
+                            },
+                            {
+                                "lineNumber": 24774,
+                                "originalJapaneseLine": "　どこかに引き込みたいのか、伏兵を良く使ウ。",
+                                "translatedEnglishLine": "They often use ambushes, trying to lure us somewhere."
+                            },
+                            {
+                                "lineNumber": 24775,
+                                "originalJapaneseLine": "　嵌るわけにはいかんヨ」",
+                                "translatedEnglishLine": "We must not fall into their trap.\""
+                            },
+                            {
+                                "lineNumber": 24776,
+                                "originalJapaneseLine": "「赤鎧の軍は攻め。青鎧の軍は守りですか。",
+                                "translatedEnglishLine": "\"The red-armored army is on offense. The blue-armored army is defending."
+                            },
+                            {
+                                "lineNumber": 24777,
+                                "originalJapaneseLine": "　あれも、そこそこに厄介ではありますが……」",
+                                "translatedEnglishLine": "They’re fairly troublesome as well...\""
+                            },
+                            {
+                                "lineNumber": 24778,
+                                "originalJapaneseLine": "「大局に影響はあるまい。",
+                                "translatedEnglishLine": "\"It probably won't affect the bigger picture."
+                            },
+                            {
+                                "lineNumber": 24779,
+                                "originalJapaneseLine": "　多少注意して、叩き潰してやればいい」",
+                                "translatedEnglishLine": "We just need to be a little cautious and crush them.\""
+                            },
+                            {
+                                "lineNumber": 24780,
+                                "originalJapaneseLine": "懸念のような事を口にしてはいるが、",
+                                "translatedEnglishLine": "Though they voiced concerns,"
+                            },
+                            {
+                                "lineNumber": 24781,
+                                "originalJapaneseLine": "魔物将軍達に焦りはない。",
+                                "translatedEnglishLine": "the demon generals were not anxious."
+                            },
+                            {
+                                "lineNumber": 24782,
+                                "originalJapaneseLine": "全体としては有利に傾いているし、",
+                                "translatedEnglishLine": "Overall, the situation was leaning in their favor,"
+                            },
+                            {
+                                "lineNumber": 24783,
+                                "originalJapaneseLine": "戦況のせいで大きな消耗もない。",
+                                "translatedEnglishLine": "and there was no significant attrition due to the battle."
+                            },
+                            {
+                                "lineNumber": 24784,
+                                "originalJapaneseLine": "主たるヨシフの機嫌の方が、よほど厄介だった。",
+                                "translatedEnglishLine": "The mood of their leader, Joseph, was much more troublesome."
+                            },
+                            {
+                                "lineNumber": 24785,
+                                "originalJapaneseLine": "「ヨシフ様はどちらに？」",
+                                "translatedEnglishLine": "\"Where is Lord Joseph?\""
+                            },
+                            {
+                                "lineNumber": 24786,
+                                "originalJapaneseLine": "「お休み中だヨ。出るまでも無いと仰せサ。",
+                                "translatedEnglishLine": "\"He is resting. He said there is no need for him to appear."
+                            },
+                            {
+                                "lineNumber": 24787,
+                                "originalJapaneseLine": "　女王にしか興味がないんじゃないのかナ」",
+                                "translatedEnglishLine": "Maybe he's only interested in the queen.\""
+                            },
+                            {
+                                "lineNumber": 24788,
+                                "originalJapaneseLine": "「た、たたたた、大変です！」",
+                                "translatedEnglishLine": "\"T- t t t-this is terrible!\""
+                            },
+                            {
+                                "lineNumber": 24789,
+                                "originalJapaneseLine": "突如として、血相を変えた一人の伝令が",
+                                "translatedEnglishLine": "Suddenly, a messenger with a pale face"
+                            },
+                            {
+                                "lineNumber": 24790,
+                                "originalJapaneseLine": "テントに飛び込んできた。",
+                                "translatedEnglishLine": "rushed into the tent."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1593,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2037,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3630
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":24741,\"originalJapaneseLine\":\"スーは投擲に使った斧を手早く回収して、\",\"translatedEnglishLine\":\"Sue quickly retrieved the axe she had thrown,\"},{\"lineNumber\":24742,\"originalJapaneseLine\":\"一息ついた。\",\"translatedEnglishLine\":\"and took a breath.\"},{\"lineNumber\":24743,\"originalJapaneseLine\":\"「お見事です、スー様！　して、これから……」\",\"translatedEnglishLine\":\"\\\"Well done, Lady Sue! Now, from here on...\\\"\"},{\"lineNumber\":24744,\"originalJapaneseLine\":\"「敵陣の奥に入り込んで魔物隊長を叩きます。\",\"translatedEnglishLine\":\"\\\"We'll penetrate deep into the enemy lines and strike the monster captain.\"},{\"lineNumber\":24745,\"originalJapaneseLine\":\"　目を引きつけて、撤退。タイミング、気をつけて」\",\"translatedEnglishLine\":\"Draw their attention and then retreat. Be careful with the timing.\\\"\"},{\"lineNumber\":24746,\"originalJapaneseLine\":\"「ははっ！」\",\"translatedEnglishLine\":\"\\\"Haha!\\\"\"},{\"lineNumber\":24747,\"originalJapaneseLine\":\"「それと……陽動担当の人たちは、そのまま。\",\"translatedEnglishLine\":\"\\\"Also... those in charge of the diversion, hold your positions.\"},{\"lineNumber\":24748,\"originalJapaneseLine\":\"　危なくなったら下がってください」\",\"translatedEnglishLine\":\"If it becomes dangerous, please withdraw.\\\"\"},{\"lineNumber\":24749,\"originalJapaneseLine\":\"「は、はい！」\",\"translatedEnglishLine\":\"\\\"Y-Yes!\\\"\"},{\"lineNumber\":24750,\"originalJapaneseLine\":\"「私たちの行動、ひとつひとつに\",\"translatedEnglishLine\":\"\\\"Every single one of our actions\"},{\"lineNumber\":24751,\"originalJapaneseLine\":\"　リーザスの命運がかかっています。\",\"translatedEnglishLine\":\"carries the fate of Leazas.\"},{\"lineNumber\":24752,\"originalJapaneseLine\":\"　心してかかりましょう」\",\"translatedEnglishLine\":\"Let's proceed with resolve.\\\"\"},{\"lineNumber\":24753,\"originalJapaneseLine\":\"決然とした表情でそう言うと、\",\"translatedEnglishLine\":\"With a determined expression, she said so,\"},{\"lineNumber\":24754,\"originalJapaneseLine\":\"スーは兵を引き連れ、駆け出した。\",\"translatedEnglishLine\":\"and Sue led her troops and dashed forward.\"},{\"lineNumber\":24755,\"originalJapaneseLine\":\"――戦況は、容易には動かなかった。\",\"translatedEnglishLine\":\"--The battle situation did not change easily.\"},{\"lineNumber\":24756,\"originalJapaneseLine\":\"数と兵の質で上回る魔軍が押し気味に進めていたが、\",\"translatedEnglishLine\":\"The demon army, superior in both numbers and soldier quality, was pressing forward,\"},{\"lineNumber\":24757,\"originalJapaneseLine\":\"バレスの指揮によって、部隊は容易に崩れない。\",\"translatedEnglishLine\":\"but under Bares' command, the units did not collapse easily.\"},{\"lineNumber\":24758,\"originalJapaneseLine\":\"魔軍、リーザス方面軍。\",\"translatedEnglishLine\":\"The demon army, Leazas regional forces.\"},{\"lineNumber\":24759,\"originalJapaneseLine\":\"首脳たる、ヨシフの幕僚たちは、\",\"translatedEnglishLine\":\"The commanders, Joseph's staff,\"},{\"lineNumber\":24760,\"originalJapaneseLine\":\"思案げに戦場を眺めていた。\",\"translatedEnglishLine\":\"were thoughtfully watching the battlefield.\"},{\"lineNumber\":24761,\"originalJapaneseLine\":\"「ふむ…………これは、今日も決着はつかんか」\",\"translatedEnglishLine\":\"\\\"Hmm... it seems there won't be a conclusion today either.\\\"\"},{\"lineNumber\":24762,\"originalJapaneseLine\":\"「押してはいますが……粘るものですね。\",\"translatedEnglishLine\":\"\\\"We are pushing, but... they are tenacious.\"},{\"lineNumber\":24763,\"originalJapaneseLine\":\"　やはりあの数だ、陣が厚い」\",\"translatedEnglishLine\":\"After all, with those numbers, their formation is thick.\\\"\"},{\"lineNumber\":24764,\"originalJapaneseLine\":\"人間側の陣形は、幾重もの陣を引き、\",\"translatedEnglishLine\":\"The human side's formation consisted of many layered lines,\"},{\"lineNumber\":24765,\"originalJapaneseLine\":\"その厚みで戦う形だった。\",\"translatedEnglishLine\":\"fighting with their density.\"},{\"lineNumber\":24766,\"originalJapaneseLine\":\"どこかの部隊が突破されたかと思えば、\",\"translatedEnglishLine\":\"Whenever one unit seemed to be broken through,\"},{\"lineNumber\":24767,\"originalJapaneseLine\":\"たちどころに他の部隊が援護に回って戦線を支え、\",\"translatedEnglishLine\":\"another unit quickly moved to support and maintain the frontline,\"},{\"lineNumber\":24768,\"originalJapaneseLine\":\"撤退した部隊の生き残りは再編してまた前線に来る。\",\"translatedEnglishLine\":\"The survivors from those who withdrew reorganized and returned to the frontlines.\"},{\"lineNumber\":24769,\"originalJapaneseLine\":\"魔軍の猛々しい将兵達にとっても、\",\"translatedEnglishLine\":\"Even for the fierce demon soldiers,\"},{\"lineNumber\":24770,\"originalJapaneseLine\":\"些かならず辟易する展開だった。\",\"translatedEnglishLine\":\"this was a somewhat frustrating development.\"},{\"lineNumber\":24771,\"originalJapaneseLine\":\"「半分ほどは、押し破ってやったがな。\",\"translatedEnglishLine\":\"\\\"We have broken through about half,\"},{\"lineNumber\":24772,\"originalJapaneseLine\":\"　……もう半分あると思うと、面倒だな……」\",\"translatedEnglishLine\":\"...but thinking there’s still the other half is troublesome...\\\"\"},{\"lineNumber\":24773,\"originalJapaneseLine\":\"「全面対決で全軍をぶつけられればいいのだがネ。\",\"translatedEnglishLine\":\"\\\"It would be better if we could bring our entire army to a full confrontation.\"},{\"lineNumber\":24774,\"originalJapaneseLine\":\"　どこかに引き込みたいのか、伏兵を良く使ウ。\",\"translatedEnglishLine\":\"They often use ambushes, trying to lure us somewhere.\"},{\"lineNumber\":24775,\"originalJapaneseLine\":\"　嵌るわけにはいかんヨ」\",\"translatedEnglishLine\":\"We must not fall into their trap.\\\"\"},{\"lineNumber\":24776,\"originalJapaneseLine\":\"「赤鎧の軍は攻め。青鎧の軍は守りですか。\",\"translatedEnglishLine\":\"\\\"The red-armored army is on offense. The blue-armored army is defending.\"},{\"lineNumber\":24777,\"originalJapaneseLine\":\"　あれも、そこそこに厄介ではありますが……」\",\"translatedEnglishLine\":\"They’re fairly troublesome as well...\\\"\"},{\"lineNumber\":24778,\"originalJapaneseLine\":\"「大局に影響はあるまい。\",\"translatedEnglishLine\":\"\\\"It probably won't affect the bigger picture.\"},{\"lineNumber\":24779,\"originalJapaneseLine\":\"　多少注意して、叩き潰してやればいい」\",\"translatedEnglishLine\":\"We just need to be a little cautious and crush them.\\\"\"},{\"lineNumber\":24780,\"originalJapaneseLine\":\"懸念のような事を口にしてはいるが、\",\"translatedEnglishLine\":\"Though they voiced concerns,\"},{\"lineNumber\":24781,\"originalJapaneseLine\":\"魔物将軍達に焦りはない。\",\"translatedEnglishLine\":\"the demon generals were not anxious.\"},{\"lineNumber\":24782,\"originalJapaneseLine\":\"全体としては有利に傾いているし、\",\"translatedEnglishLine\":\"Overall, the situation was leaning in their favor,\"},{\"lineNumber\":24783,\"originalJapaneseLine\":\"戦況のせいで大きな消耗もない。\",\"translatedEnglishLine\":\"and there was no significant attrition due to the battle.\"},{\"lineNumber\":24784,\"originalJapaneseLine\":\"主たるヨシフの機嫌の方が、よほど厄介だった。\",\"translatedEnglishLine\":\"The mood of their leader, Joseph, was much more troublesome.\"},{\"lineNumber\":24785,\"originalJapaneseLine\":\"「ヨシフ様はどちらに？」\",\"translatedEnglishLine\":\"\\\"Where is Lord Joseph?\\\"\"},{\"lineNumber\":24786,\"originalJapaneseLine\":\"「お休み中だヨ。出るまでも無いと仰せサ。\",\"translatedEnglishLine\":\"\\\"He is resting. He said there is no need for him to appear.\"},{\"lineNumber\":24787,\"originalJapaneseLine\":\"　女王にしか興味がないんじゃないのかナ」\",\"translatedEnglishLine\":\"Maybe he's only interested in the queen.\\\"\"},{\"lineNumber\":24788,\"originalJapaneseLine\":\"「た、たたたた、大変です！」\",\"translatedEnglishLine\":\"\\\"T- t t t-this is terrible!\\\"\"},{\"lineNumber\":24789,\"originalJapaneseLine\":\"突如として、血相を変えた一人の伝令が\",\"translatedEnglishLine\":\"Suddenly, a messenger with a pale face\"},{\"lineNumber\":24790,\"originalJapaneseLine\":\"テントに飛び込んできた。\",\"translatedEnglishLine\":\"rushed into the tent.\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 24741,
+                "originalJapaneseLine": "スーは投擲に使った斧を手早く回収して、",
+                "translatedEnglishLine": "Sue quickly retrieved the axe she had thrown,"
+            },
+            {
+                "lineNumber": 24742,
+                "originalJapaneseLine": "一息ついた。",
+                "translatedEnglishLine": "and took a breath."
+            },
+            {
+                "lineNumber": 24743,
+                "originalJapaneseLine": "「お見事です、スー様！　して、これから……」",
+                "translatedEnglishLine": "\"Well done, Lady Sue! Now, from here on...\""
+            },
+            {
+                "lineNumber": 24744,
+                "originalJapaneseLine": "「敵陣の奥に入り込んで魔物隊長を叩きます。",
+                "translatedEnglishLine": "\"We'll penetrate deep into the enemy lines and strike the monster captain."
+            },
+            {
+                "lineNumber": 24745,
+                "originalJapaneseLine": "　目を引きつけて、撤退。タイミング、気をつけて」",
+                "translatedEnglishLine": "Draw their attention and then retreat. Be careful with the timing.\""
+            },
+            {
+                "lineNumber": 24746,
+                "originalJapaneseLine": "「ははっ！」",
+                "translatedEnglishLine": "\"Haha!\""
+            },
+            {
+                "lineNumber": 24747,
+                "originalJapaneseLine": "「それと……陽動担当の人たちは、そのまま。",
+                "translatedEnglishLine": "\"Also... those in charge of the diversion, hold your positions."
+            },
+            {
+                "lineNumber": 24748,
+                "originalJapaneseLine": "　危なくなったら下がってください」",
+                "translatedEnglishLine": "If it becomes dangerous, please withdraw.\""
+            },
+            {
+                "lineNumber": 24749,
+                "originalJapaneseLine": "「は、はい！」",
+                "translatedEnglishLine": "\"Y-Yes!\""
+            },
+            {
+                "lineNumber": 24750,
+                "originalJapaneseLine": "「私たちの行動、ひとつひとつに",
+                "translatedEnglishLine": "\"Every single one of our actions"
+            },
+            {
+                "lineNumber": 24751,
+                "originalJapaneseLine": "　リーザスの命運がかかっています。",
+                "translatedEnglishLine": "carries the fate of Leazas."
+            },
+            {
+                "lineNumber": 24752,
+                "originalJapaneseLine": "　心してかかりましょう」",
+                "translatedEnglishLine": "Let's proceed with resolve.\""
+            },
+            {
+                "lineNumber": 24753,
+                "originalJapaneseLine": "決然とした表情でそう言うと、",
+                "translatedEnglishLine": "With a determined expression, she said so,"
+            },
+            {
+                "lineNumber": 24754,
+                "originalJapaneseLine": "スーは兵を引き連れ、駆け出した。",
+                "translatedEnglishLine": "and Sue led her troops and dashed forward."
+            },
+            {
+                "lineNumber": 24755,
+                "originalJapaneseLine": "――戦況は、容易には動かなかった。",
+                "translatedEnglishLine": "--The battle situation did not change easily."
+            },
+            {
+                "lineNumber": 24756,
+                "originalJapaneseLine": "数と兵の質で上回る魔軍が押し気味に進めていたが、",
+                "translatedEnglishLine": "The demon army, superior in both numbers and soldier quality, was pressing forward,"
+            },
+            {
+                "lineNumber": 24757,
+                "originalJapaneseLine": "バレスの指揮によって、部隊は容易に崩れない。",
+                "translatedEnglishLine": "but under Bares' command, the units did not collapse easily."
+            },
+            {
+                "lineNumber": 24758,
+                "originalJapaneseLine": "魔軍、リーザス方面軍。",
+                "translatedEnglishLine": "The demon army, Leazas regional forces."
+            },
+            {
+                "lineNumber": 24759,
+                "originalJapaneseLine": "首脳たる、ヨシフの幕僚たちは、",
+                "translatedEnglishLine": "The commanders, Joseph's staff,"
+            },
+            {
+                "lineNumber": 24760,
+                "originalJapaneseLine": "思案げに戦場を眺めていた。",
+                "translatedEnglishLine": "were thoughtfully watching the battlefield."
+            },
+            {
+                "lineNumber": 24761,
+                "originalJapaneseLine": "「ふむ…………これは、今日も決着はつかんか」",
+                "translatedEnglishLine": "\"Hmm... it seems there won't be a conclusion today either.\""
+            },
+            {
+                "lineNumber": 24762,
+                "originalJapaneseLine": "「押してはいますが……粘るものですね。",
+                "translatedEnglishLine": "\"We are pushing, but... they are tenacious."
+            },
+            {
+                "lineNumber": 24763,
+                "originalJapaneseLine": "　やはりあの数だ、陣が厚い」",
+                "translatedEnglishLine": "After all, with those numbers, their formation is thick.\""
+            },
+            {
+                "lineNumber": 24764,
+                "originalJapaneseLine": "人間側の陣形は、幾重もの陣を引き、",
+                "translatedEnglishLine": "The human side's formation consisted of many layered lines,"
+            },
+            {
+                "lineNumber": 24765,
+                "originalJapaneseLine": "その厚みで戦う形だった。",
+                "translatedEnglishLine": "fighting with their density."
+            },
+            {
+                "lineNumber": 24766,
+                "originalJapaneseLine": "どこかの部隊が突破されたかと思えば、",
+                "translatedEnglishLine": "Whenever one unit seemed to be broken through,"
+            },
+            {
+                "lineNumber": 24767,
+                "originalJapaneseLine": "たちどころに他の部隊が援護に回って戦線を支え、",
+                "translatedEnglishLine": "another unit quickly moved to support and maintain the frontline,"
+            },
+            {
+                "lineNumber": 24768,
+                "originalJapaneseLine": "撤退した部隊の生き残りは再編してまた前線に来る。",
+                "translatedEnglishLine": "The survivors from those who withdrew reorganized and returned to the frontlines."
+            },
+            {
+                "lineNumber": 24769,
+                "originalJapaneseLine": "魔軍の猛々しい将兵達にとっても、",
+                "translatedEnglishLine": "Even for the fierce demon soldiers,"
+            },
+            {
+                "lineNumber": 24770,
+                "originalJapaneseLine": "些かならず辟易する展開だった。",
+                "translatedEnglishLine": "this was a somewhat frustrating development."
+            },
+            {
+                "lineNumber": 24771,
+                "originalJapaneseLine": "「半分ほどは、押し破ってやったがな。",
+                "translatedEnglishLine": "\"We have broken through about half,"
+            },
+            {
+                "lineNumber": 24772,
+                "originalJapaneseLine": "　……もう半分あると思うと、面倒だな……」",
+                "translatedEnglishLine": "...but thinking there’s still the other half is troublesome...\""
+            },
+            {
+                "lineNumber": 24773,
+                "originalJapaneseLine": "「全面対決で全軍をぶつけられればいいのだがネ。",
+                "translatedEnglishLine": "\"It would be better if we could bring our entire army to a full confrontation."
+            },
+            {
+                "lineNumber": 24774,
+                "originalJapaneseLine": "　どこかに引き込みたいのか、伏兵を良く使ウ。",
+                "translatedEnglishLine": "They often use ambushes, trying to lure us somewhere."
+            },
+            {
+                "lineNumber": 24775,
+                "originalJapaneseLine": "　嵌るわけにはいかんヨ」",
+                "translatedEnglishLine": "We must not fall into their trap.\""
+            },
+            {
+                "lineNumber": 24776,
+                "originalJapaneseLine": "「赤鎧の軍は攻め。青鎧の軍は守りですか。",
+                "translatedEnglishLine": "\"The red-armored army is on offense. The blue-armored army is defending."
+            },
+            {
+                "lineNumber": 24777,
+                "originalJapaneseLine": "　あれも、そこそこに厄介ではありますが……」",
+                "translatedEnglishLine": "They’re fairly troublesome as well...\""
+            },
+            {
+                "lineNumber": 24778,
+                "originalJapaneseLine": "「大局に影響はあるまい。",
+                "translatedEnglishLine": "\"It probably won't affect the bigger picture."
+            },
+            {
+                "lineNumber": 24779,
+                "originalJapaneseLine": "　多少注意して、叩き潰してやればいい」",
+                "translatedEnglishLine": "We just need to be a little cautious and crush them.\""
+            },
+            {
+                "lineNumber": 24780,
+                "originalJapaneseLine": "懸念のような事を口にしてはいるが、",
+                "translatedEnglishLine": "Though they voiced concerns,"
+            },
+            {
+                "lineNumber": 24781,
+                "originalJapaneseLine": "魔物将軍達に焦りはない。",
+                "translatedEnglishLine": "the demon generals were not anxious."
+            },
+            {
+                "lineNumber": 24782,
+                "originalJapaneseLine": "全体としては有利に傾いているし、",
+                "translatedEnglishLine": "Overall, the situation was leaning in their favor,"
+            },
+            {
+                "lineNumber": 24783,
+                "originalJapaneseLine": "戦況のせいで大きな消耗もない。",
+                "translatedEnglishLine": "and there was no significant attrition due to the battle."
+            },
+            {
+                "lineNumber": 24784,
+                "originalJapaneseLine": "主たるヨシフの機嫌の方が、よほど厄介だった。",
+                "translatedEnglishLine": "The mood of their leader, Joseph, was much more troublesome."
+            },
+            {
+                "lineNumber": 24785,
+                "originalJapaneseLine": "「ヨシフ様はどちらに？」",
+                "translatedEnglishLine": "\"Where is Lord Joseph?\""
+            },
+            {
+                "lineNumber": 24786,
+                "originalJapaneseLine": "「お休み中だヨ。出るまでも無いと仰せサ。",
+                "translatedEnglishLine": "\"He is resting. He said there is no need for him to appear."
+            },
+            {
+                "lineNumber": 24787,
+                "originalJapaneseLine": "　女王にしか興味がないんじゃないのかナ」",
+                "translatedEnglishLine": "Maybe he's only interested in the queen.\""
+            },
+            {
+                "lineNumber": 24788,
+                "originalJapaneseLine": "「た、たたたた、大変です！」",
+                "translatedEnglishLine": "\"T- t t t-this is terrible!\""
+            },
+            {
+                "lineNumber": 24789,
+                "originalJapaneseLine": "突如として、血相を変えた一人の伝令が",
+                "translatedEnglishLine": "Suddenly, a messenger with a pale face"
+            },
+            {
+                "lineNumber": 24790,
+                "originalJapaneseLine": "テントに飛び込んできた。",
+                "translatedEnglishLine": "rushed into the tent."
+            }
+        ]
+    }
+}

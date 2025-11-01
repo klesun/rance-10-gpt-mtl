@@ -1,1 +1,719 @@
-{"id":"resp_048ea9acd1b8f4720068f1909de73c819696985b6b99dd8c74","object":"response","created_at":1760661661,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_048ea9acd1b8f4720068f1909e7838819681ff4b79c25fae9b","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":179701,\"originalJapaneseLine\":\"「……本当だろうな。\",\"translatedEnglishLine\":\"\\\"...Is it really true?\"},{\"lineNumber\":179702,\"originalJapaneseLine\":\"　お前、死ぬほど胡散臭いぞ」\",\"translatedEnglishLine\":\"You look incredibly suspicious.\\\"\"},{\"lineNumber\":179703,\"originalJapaneseLine\":\"「はひっ、ももも、\",\"translatedEnglishLine\":\"\\\"Y-Yes, s-s-sir,\"},{\"lineNumber\":179704,\"originalJapaneseLine\":\"　申し訳ありません……よぼよぼ……」\",\"translatedEnglishLine\":\"I apologize... I'm old and weak...\\\"\"},{\"lineNumber\":179705,\"originalJapaneseLine\":\"「この方の話の通りのルートを通り、\",\"translatedEnglishLine\":\"\\\"We followed the exact route this person described,\"},{\"lineNumber\":179706,\"originalJapaneseLine\":\"　確認を取らせました。\",\"translatedEnglishLine\":\"and confirmed it.\"},{\"lineNumber\":179707,\"originalJapaneseLine\":\"　確かにシャングリラと思しき建物がありました」\",\"translatedEnglishLine\":\"There was indeed a building presumed to be Shangri-La.\\\"\"},{\"lineNumber\":179708,\"originalJapaneseLine\":\"「ふむ、なら本当にあるのか」\",\"translatedEnglishLine\":\"\\\"Hmm, so it really exists.\\\"\"},{\"lineNumber\":179709,\"originalJapaneseLine\":\"「は、はひ……間違いありません……」\",\"translatedEnglishLine\":\"\\\"Y-yes... there is no mistake...\\\"\"},{\"lineNumber\":179710,\"originalJapaneseLine\":\"「シャングリラと他の国家の交易の中継ぎを\",\"translatedEnglishLine\":\"\\\"I was acting as an intermediary for trade between Shangri-La and other countries...\"},{\"lineNumber\":179711,\"originalJapaneseLine\":\"　させて頂いておりました……ひぃひぃ……」\",\"translatedEnglishLine\":\"... huff huff ...\\\"\"},{\"lineNumber\":179712,\"originalJapaneseLine\":\"「私はほんの十名にも満たないギルド所属ですが……\",\"translatedEnglishLine\":\"\\\"I belong to a guild with fewer than ten members...\"},{\"lineNumber\":179713,\"originalJapaneseLine\":\"　シャングリラとの交易はそのギルドが\",\"translatedEnglishLine\":\"The trade with Shangri-La was monopolized by that guild...\"},{\"lineNumber\":179714,\"originalJapaneseLine\":\"　独占している状態でありました……はひ……」\",\"translatedEnglishLine\":\"... huff ...\\\"\"},{\"lineNumber\":179715,\"originalJapaneseLine\":\"「よく今までシャングリラの存在が\",\"translatedEnglishLine\":\"\\\"It's amazing that until now, the existence of Shangri-La\"},{\"lineNumber\":179716,\"originalJapaneseLine\":\"　他の方に知られませんでしたね」\",\"translatedEnglishLine\":\"was not known to others.\\\"\"},{\"lineNumber\":179717,\"originalJapaneseLine\":\"「シャングリラ様は大変お金払いの良い\",\"translatedEnglishLine\":\"\\\"Lord Shangri-La was a very generous customer with payment...\"},{\"lineNumber\":179718,\"originalJapaneseLine\":\"　上客様でございましたから……」\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":179719,\"originalJapaneseLine\":\"「独占するべく、\",\"translatedEnglishLine\":\"\\\"To maintain the monopoly,\"},{\"lineNumber\":179720,\"originalJapaneseLine\":\"　他の方には秘密していた、と」\",\"translatedEnglishLine\":\"they kept it secret from others.\\\"\"},{\"lineNumber\":179721,\"originalJapaneseLine\":\"「さすが聡明で……\",\"translatedEnglishLine\":\"\\\"As expected of the wise ones...,\"},{\"lineNumber\":179722,\"originalJapaneseLine\":\"　そういうことでございます……よぼよぼ……」\",\"translatedEnglishLine\":\"that's how it was... old and weak...\\\"\"},{\"lineNumber\":179723,\"originalJapaneseLine\":\"「私共は人類と魔軍の戦争が始まる直前、\",\"translatedEnglishLine\":\"\\\"Just before the war between humanity and the demon army began,\"},{\"lineNumber\":179724,\"originalJapaneseLine\":\"　シャングリラに呼び出されました……」\",\"translatedEnglishLine\":\"we were summoned to Shangri-La...\\\"\"},{\"lineNumber\":179725,\"originalJapaneseLine\":\"「そこで見たのでございます……\",\"translatedEnglishLine\":\"\\\"What I saw there was...\"},{\"lineNumber\":179726,\"originalJapaneseLine\":\"　ああ、口に出すのも恐ろしい……」\",\"translatedEnglishLine\":\"Ah, it's terrifying even to speak of it...\\\"\"},{\"lineNumber\":179727,\"originalJapaneseLine\":\"「もったいぶらず、ちゃちゃっと話せ。\",\"translatedEnglishLine\":\"\\\"Don't beat around the bush, just say it quickly.\"},{\"lineNumber\":179728,\"originalJapaneseLine\":\"　なにを見た？」\",\"translatedEnglishLine\":\"What did you see?\\\"\"},{\"lineNumber\":179729,\"originalJapaneseLine\":\"「は、はひ……」\",\"translatedEnglishLine\":\"\\\"Y-Yes...\\\"\"},{\"lineNumber\":179730,\"originalJapaneseLine\":\"「シャングリラ中に蠢くおびただしい数の……\",\"translatedEnglishLine\":\"\\\"An enormous number of writhing creatures throughout Shangri-La...\"},{\"lineNumber\":179731,\"originalJapaneseLine\":\"　ま、魔物でございます……」\",\"translatedEnglishLine\":\"They were demons...\\\"\"},{\"lineNumber\":179732,\"originalJapaneseLine\":\"「ほほう」\",\"translatedEnglishLine\":\"\\\"Oh ho.\\\"\"},{\"lineNumber\":179733,\"originalJapaneseLine\":\"「おそらく、それが後に人類圏に攻め込んだ、\",\"translatedEnglishLine\":\"\\\"Those were probably the ones who later invaded the human territories,\"},{\"lineNumber\":179734,\"originalJapaneseLine\":\"　合計200万の軍団でしょう」\",\"translatedEnglishLine\":\"a total force of 2 million troops.\\\"\"},{\"lineNumber\":179735,\"originalJapaneseLine\":\"「は、はひ……\",\"translatedEnglishLine\":\"\\\"Y-Yes...\"},{\"lineNumber\":179736,\"originalJapaneseLine\":\"　私のような者には理解できませんが……」\",\"translatedEnglishLine\":\"I cannot comprehend it as a person like me...\\\"\"},{\"lineNumber\":179737,\"originalJapaneseLine\":\"「ま、魔物は次から次へと\",\"translatedEnglishLine\":\"\\\"The demons kept appearing one after another,\"},{\"lineNumber\":179738,\"originalJapaneseLine\":\"　不思議な魔方陣より現れ続けておりました」\",\"translatedEnglishLine\":\"continuously emerging from mysterious magic circles.\\\"\"},{\"lineNumber\":179739,\"originalJapaneseLine\":\"「魔方陣だと？」\",\"translatedEnglishLine\":\"\\\"Magic circles, you say?\\\"\"},{\"lineNumber\":179740,\"originalJapaneseLine\":\"「おそらくそれは転移魔方陣だな」\",\"translatedEnglishLine\":\"\\\"Those were probably teleportation magic circles.\\\"\"},{\"lineNumber\":179741,\"originalJapaneseLine\":\"「二箇所にある大きな魔方陣を介して、\",\"translatedEnglishLine\":\"\\\"Using two large magic circles in different locations,\"},{\"lineNumber\":179742,\"originalJapaneseLine\":\"　生き物、無生物の区別なくワープさせるものだ」\",\"translatedEnglishLine\":\"they warp living and non-living things alike.\\\"\"},{\"lineNumber\":179743,\"originalJapaneseLine\":\"「五年前にサテラ達がリーザスに攻め込んだとき、\",\"translatedEnglishLine\":\"\\\"When Satera and others attacked Rizas five years ago,\"},{\"lineNumber\":179744,\"originalJapaneseLine\":\"　ヘルマンの兵をリーザス城内に運んだのも\",\"translatedEnglishLine\":\"the soldiers of Hellman were transported inside Rizas Castle\"},{\"lineNumber\":179745,\"originalJapaneseLine\":\"　その転移魔方陣の力だ」\",\"translatedEnglishLine\":\"by the power of those teleportation magic circles.\\\"\"},{\"lineNumber\":179746,\"originalJapaneseLine\":\"「なるほど、それを使って\",\"translatedEnglishLine\":\"\\\"I see, they used that to directly send troops\"},{\"lineNumber\":179747,\"originalJapaneseLine\":\"　魔物界からこちらに直接兵を送っていたのか」\",\"translatedEnglishLine\":\"from the demon world to here.\\\"\"},{\"lineNumber\":179748,\"originalJapaneseLine\":\"「キナニ砂漠は世界の中心地です。\",\"translatedEnglishLine\":\"\\\"The Kinani Desert is the center of the world.\"},{\"lineNumber\":179749,\"originalJapaneseLine\":\"　あそこが取られている状態は\",\"translatedEnglishLine\":\"Having that place taken away\"},{\"lineNumber\":179750,\"originalJapaneseLine\":\"　かなり痛いですね……」\",\"translatedEnglishLine\":\"is quite damaging, isn't it...\\\"\"},{\"lineNumber\":179751,\"originalJapaneseLine\":\"「しかし、どうして案内人どもは、\",\"translatedEnglishLine\":\"\\\"But why did the guides,\"},{\"lineNumber\":179752,\"originalJapaneseLine\":\"　その話を俺らに話さんのだ」\",\"translatedEnglishLine\":\"not tell us this story?\\\"\"},{\"lineNumber\":179753,\"originalJapaneseLine\":\"「は、はひ……もももも、申し訳ありません……\",\"translatedEnglishLine\":\"\\\"Y-Yes... s-s-sorry...\"},{\"lineNumber\":179754,\"originalJapaneseLine\":\"　私共のほとんどは、その……\",\"translatedEnglishLine\":\"Most of us...\"},{\"lineNumber\":179755,\"originalJapaneseLine\":\"　口封じに殺されたのでございます」\",\"translatedEnglishLine\":\"were silenced to keep us from speaking.\\\"\"},{\"lineNumber\":179756,\"originalJapaneseLine\":\"「シャングリラに呼ばれた理由とは、\",\"translatedEnglishLine\":\"\\\"The reason we were summoned to Shangri-La,\"},{\"lineNumber\":179757,\"originalJapaneseLine\":\"　まさしくそれでございます……」\",\"translatedEnglishLine\":\"was precisely that...\\\"\"},{\"lineNumber\":179758,\"originalJapaneseLine\":\"「私を含めた数名は命からがら\",\"translatedEnglishLine\":\"\\\"A few of us, including myself, barely escaped with our lives,\"},{\"lineNumber\":179759,\"originalJapaneseLine\":\"　逃げおおせましたが……\",\"translatedEnglishLine\":\"but...\\\"\"},{\"lineNumber\":179760,\"originalJapaneseLine\":\"「それからもずっと魔物に命を\",\"translatedEnglishLine\":\"\\\"And since then, always living under threat from demons...\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":179701,"originalJapaneseLine":"「……本当だろうな。","translatedEnglishLine":"\"...Is it really true?"},{"lineNumber":179702,"originalJapaneseLine":"　お前、死ぬほど胡散臭いぞ」","translatedEnglishLine":"You look incredibly suspicious.\""},{"lineNumber":179703,"originalJapaneseLine":"「はひっ、ももも、","translatedEnglishLine":"\"Y-Yes, s-s-sir,"},{"lineNumber":179704,"originalJapaneseLine":"　申し訳ありません……よぼよぼ……」","translatedEnglishLine":"I apologize... I'm old and weak...\""},{"lineNumber":179705,"originalJapaneseLine":"「この方の話の通りのルートを通り、","translatedEnglishLine":"\"We followed the exact route this person described,"},{"lineNumber":179706,"originalJapaneseLine":"　確認を取らせました。","translatedEnglishLine":"and confirmed it."},{"lineNumber":179707,"originalJapaneseLine":"　確かにシャングリラと思しき建物がありました」","translatedEnglishLine":"There was indeed a building presumed to be Shangri-La.\""},{"lineNumber":179708,"originalJapaneseLine":"「ふむ、なら本当にあるのか」","translatedEnglishLine":"\"Hmm, so it really exists.\""},{"lineNumber":179709,"originalJapaneseLine":"「は、はひ……間違いありません……」","translatedEnglishLine":"\"Y-yes... there is no mistake...\""},{"lineNumber":179710,"originalJapaneseLine":"「シャングリラと他の国家の交易の中継ぎを","translatedEnglishLine":"\"I was acting as an intermediary for trade between Shangri-La and other countries..."},{"lineNumber":179711,"originalJapaneseLine":"　させて頂いておりました……ひぃひぃ……」","translatedEnglishLine":"... huff huff ...\""},{"lineNumber":179712,"originalJapaneseLine":"「私はほんの十名にも満たないギルド所属ですが……","translatedEnglishLine":"\"I belong to a guild with fewer than ten members..."},{"lineNumber":179713,"originalJapaneseLine":"　シャングリラとの交易はそのギルドが","translatedEnglishLine":"The trade with Shangri-La was monopolized by that guild..."},{"lineNumber":179714,"originalJapaneseLine":"　独占している状態でありました……はひ……」","translatedEnglishLine":"... huff ...\""},{"lineNumber":179715,"originalJapaneseLine":"「よく今までシャングリラの存在が","translatedEnglishLine":"\"It's amazing that until now, the existence of Shangri-La"},{"lineNumber":179716,"originalJapaneseLine":"　他の方に知られませんでしたね」","translatedEnglishLine":"was not known to others.\""},{"lineNumber":179717,"originalJapaneseLine":"「シャングリラ様は大変お金払いの良い","translatedEnglishLine":"\"Lord Shangri-La was a very generous customer with payment..."},{"lineNumber":179718,"originalJapaneseLine":"　上客様でございましたから……」","translatedEnglishLine":"..."},{"lineNumber":179719,"originalJapaneseLine":"「独占するべく、","translatedEnglishLine":"\"To maintain the monopoly,"},{"lineNumber":179720,"originalJapaneseLine":"　他の方には秘密していた、と」","translatedEnglishLine":"they kept it secret from others.\""},{"lineNumber":179721,"originalJapaneseLine":"「さすが聡明で……","translatedEnglishLine":"\"As expected of the wise ones...,"},{"lineNumber":179722,"originalJapaneseLine":"　そういうことでございます……よぼよぼ……」","translatedEnglishLine":"that's how it was... old and weak...\""},{"lineNumber":179723,"originalJapaneseLine":"「私共は人類と魔軍の戦争が始まる直前、","translatedEnglishLine":"\"Just before the war between humanity and the demon army began,"},{"lineNumber":179724,"originalJapaneseLine":"　シャングリラに呼び出されました……」","translatedEnglishLine":"we were summoned to Shangri-La...\""},{"lineNumber":179725,"originalJapaneseLine":"「そこで見たのでございます……","translatedEnglishLine":"\"What I saw there was..."},{"lineNumber":179726,"originalJapaneseLine":"　ああ、口に出すのも恐ろしい……」","translatedEnglishLine":"Ah, it's terrifying even to speak of it...\""},{"lineNumber":179727,"originalJapaneseLine":"「もったいぶらず、ちゃちゃっと話せ。","translatedEnglishLine":"\"Don't beat around the bush, just say it quickly."},{"lineNumber":179728,"originalJapaneseLine":"　なにを見た？」","translatedEnglishLine":"What did you see?\""},{"lineNumber":179729,"originalJapaneseLine":"「は、はひ……」","translatedEnglishLine":"\"Y-Yes...\""},{"lineNumber":179730,"originalJapaneseLine":"「シャングリラ中に蠢くおびただしい数の……","translatedEnglishLine":"\"An enormous number of writhing creatures throughout Shangri-La..."},{"lineNumber":179731,"originalJapaneseLine":"　ま、魔物でございます……」","translatedEnglishLine":"They were demons...\""},{"lineNumber":179732,"originalJapaneseLine":"「ほほう」","translatedEnglishLine":"\"Oh ho.\""},{"lineNumber":179733,"originalJapaneseLine":"「おそらく、それが後に人類圏に攻め込んだ、","translatedEnglishLine":"\"Those were probably the ones who later invaded the human territories,"},{"lineNumber":179734,"originalJapaneseLine":"　合計200万の軍団でしょう」","translatedEnglishLine":"a total force of 2 million troops.\""},{"lineNumber":179735,"originalJapaneseLine":"「は、はひ……","translatedEnglishLine":"\"Y-Yes..."},{"lineNumber":179736,"originalJapaneseLine":"　私のような者には理解できませんが……」","translatedEnglishLine":"I cannot comprehend it as a person like me...\""},{"lineNumber":179737,"originalJapaneseLine":"「ま、魔物は次から次へと","translatedEnglishLine":"\"The demons kept appearing one after another,"},{"lineNumber":179738,"originalJapaneseLine":"　不思議な魔方陣より現れ続けておりました」","translatedEnglishLine":"continuously emerging from mysterious magic circles.\""},{"lineNumber":179739,"originalJapaneseLine":"「魔方陣だと？」","translatedEnglishLine":"\"Magic circles, you say?\""},{"lineNumber":179740,"originalJapaneseLine":"「おそらくそれは転移魔方陣だな」","translatedEnglishLine":"\"Those were probably teleportation magic circles.\""},{"lineNumber":179741,"originalJapaneseLine":"「二箇所にある大きな魔方陣を介して、","translatedEnglishLine":"\"Using two large magic circles in different locations,"},{"lineNumber":179742,"originalJapaneseLine":"　生き物、無生物の区別なくワープさせるものだ」","translatedEnglishLine":"they warp living and non-living things alike.\""},{"lineNumber":179743,"originalJapaneseLine":"「五年前にサテラ達がリーザスに攻め込んだとき、","translatedEnglishLine":"\"When Satera and others attacked Rizas five years ago,"},{"lineNumber":179744,"originalJapaneseLine":"　ヘルマンの兵をリーザス城内に運んだのも","translatedEnglishLine":"the soldiers of Hellman were transported inside Rizas Castle"},{"lineNumber":179745,"originalJapaneseLine":"　その転移魔方陣の力だ」","translatedEnglishLine":"by the power of those teleportation magic circles.\""},{"lineNumber":179746,"originalJapaneseLine":"「なるほど、それを使って","translatedEnglishLine":"\"I see, they used that to directly send troops"},{"lineNumber":179747,"originalJapaneseLine":"　魔物界からこちらに直接兵を送っていたのか」","translatedEnglishLine":"from the demon world to here.\""},{"lineNumber":179748,"originalJapaneseLine":"「キナニ砂漠は世界の中心地です。","translatedEnglishLine":"\"The Kinani Desert is the center of the world."},{"lineNumber":179749,"originalJapaneseLine":"　あそこが取られている状態は","translatedEnglishLine":"Having that place taken away"},{"lineNumber":179750,"originalJapaneseLine":"　かなり痛いですね……」","translatedEnglishLine":"is quite damaging, isn't it...\""},{"lineNumber":179751,"originalJapaneseLine":"「しかし、どうして案内人どもは、","translatedEnglishLine":"\"But why did the guides,"},{"lineNumber":179752,"originalJapaneseLine":"　その話を俺らに話さんのだ」","translatedEnglishLine":"not tell us this story?\""},{"lineNumber":179753,"originalJapaneseLine":"「は、はひ……もももも、申し訳ありません……","translatedEnglishLine":"\"Y-Yes... s-s-sorry..."},{"lineNumber":179754,"originalJapaneseLine":"　私共のほとんどは、その……","translatedEnglishLine":"Most of us..."},{"lineNumber":179755,"originalJapaneseLine":"　口封じに殺されたのでございます」","translatedEnglishLine":"were silenced to keep us from speaking.\""},{"lineNumber":179756,"originalJapaneseLine":"「シャングリラに呼ばれた理由とは、","translatedEnglishLine":"\"The reason we were summoned to Shangri-La,"},{"lineNumber":179757,"originalJapaneseLine":"　まさしくそれでございます……」","translatedEnglishLine":"was precisely that...\""},{"lineNumber":179758,"originalJapaneseLine":"「私を含めた数名は命からがら","translatedEnglishLine":"\"A few of us, including myself, barely escaped with our lives,"},{"lineNumber":179759,"originalJapaneseLine":"　逃げおおせましたが……","translatedEnglishLine":"but...\""},{"lineNumber":179760,"originalJapaneseLine":"「それからもずっと魔物に命を","translatedEnglishLine":"\"And since then, always living under threat from demons...\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1745,"input_tokens_details":{"cached_tokens":0},"output_tokens":2244,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3989},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":179701,\"originalJapaneseLine\":\"「……本当だろうな。\",\"translatedEnglishLine\":\"\\\"...Is it really true?\"},{\"lineNumber\":179702,\"originalJapaneseLine\":\"　お前、死ぬほど胡散臭いぞ」\",\"translatedEnglishLine\":\"You look incredibly suspicious.\\\"\"},{\"lineNumber\":179703,\"originalJapaneseLine\":\"「はひっ、ももも、\",\"translatedEnglishLine\":\"\\\"Y-Yes, s-s-sir,\"},{\"lineNumber\":179704,\"originalJapaneseLine\":\"　申し訳ありません……よぼよぼ……」\",\"translatedEnglishLine\":\"I apologize... I'm old and weak...\\\"\"},{\"lineNumber\":179705,\"originalJapaneseLine\":\"「この方の話の通りのルートを通り、\",\"translatedEnglishLine\":\"\\\"We followed the exact route this person described,\"},{\"lineNumber\":179706,\"originalJapaneseLine\":\"　確認を取らせました。\",\"translatedEnglishLine\":\"and confirmed it.\"},{\"lineNumber\":179707,\"originalJapaneseLine\":\"　確かにシャングリラと思しき建物がありました」\",\"translatedEnglishLine\":\"There was indeed a building presumed to be Shangri-La.\\\"\"},{\"lineNumber\":179708,\"originalJapaneseLine\":\"「ふむ、なら本当にあるのか」\",\"translatedEnglishLine\":\"\\\"Hmm, so it really exists.\\\"\"},{\"lineNumber\":179709,\"originalJapaneseLine\":\"「は、はひ……間違いありません……」\",\"translatedEnglishLine\":\"\\\"Y-yes... there is no mistake...\\\"\"},{\"lineNumber\":179710,\"originalJapaneseLine\":\"「シャングリラと他の国家の交易の中継ぎを\",\"translatedEnglishLine\":\"\\\"I was acting as an intermediary for trade between Shangri-La and other countries...\"},{\"lineNumber\":179711,\"originalJapaneseLine\":\"　させて頂いておりました……ひぃひぃ……」\",\"translatedEnglishLine\":\"... huff huff ...\\\"\"},{\"lineNumber\":179712,\"originalJapaneseLine\":\"「私はほんの十名にも満たないギルド所属ですが……\",\"translatedEnglishLine\":\"\\\"I belong to a guild with fewer than ten members...\"},{\"lineNumber\":179713,\"originalJapaneseLine\":\"　シャングリラとの交易はそのギルドが\",\"translatedEnglishLine\":\"The trade with Shangri-La was monopolized by that guild...\"},{\"lineNumber\":179714,\"originalJapaneseLine\":\"　独占している状態でありました……はひ……」\",\"translatedEnglishLine\":\"... huff ...\\\"\"},{\"lineNumber\":179715,\"originalJapaneseLine\":\"「よく今までシャングリラの存在が\",\"translatedEnglishLine\":\"\\\"It's amazing that until now, the existence of Shangri-La\"},{\"lineNumber\":179716,\"originalJapaneseLine\":\"　他の方に知られませんでしたね」\",\"translatedEnglishLine\":\"was not known to others.\\\"\"},{\"lineNumber\":179717,\"originalJapaneseLine\":\"「シャングリラ様は大変お金払いの良い\",\"translatedEnglishLine\":\"\\\"Lord Shangri-La was a very generous customer with payment...\"},{\"lineNumber\":179718,\"originalJapaneseLine\":\"　上客様でございましたから……」\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":179719,\"originalJapaneseLine\":\"「独占するべく、\",\"translatedEnglishLine\":\"\\\"To maintain the monopoly,\"},{\"lineNumber\":179720,\"originalJapaneseLine\":\"　他の方には秘密していた、と」\",\"translatedEnglishLine\":\"they kept it secret from others.\\\"\"},{\"lineNumber\":179721,\"originalJapaneseLine\":\"「さすが聡明で……\",\"translatedEnglishLine\":\"\\\"As expected of the wise ones...,\"},{\"lineNumber\":179722,\"originalJapaneseLine\":\"　そういうことでございます……よぼよぼ……」\",\"translatedEnglishLine\":\"that's how it was... old and weak...\\\"\"},{\"lineNumber\":179723,\"originalJapaneseLine\":\"「私共は人類と魔軍の戦争が始まる直前、\",\"translatedEnglishLine\":\"\\\"Just before the war between humanity and the demon army began,\"},{\"lineNumber\":179724,\"originalJapaneseLine\":\"　シャングリラに呼び出されました……」\",\"translatedEnglishLine\":\"we were summoned to Shangri-La...\\\"\"},{\"lineNumber\":179725,\"originalJapaneseLine\":\"「そこで見たのでございます……\",\"translatedEnglishLine\":\"\\\"What I saw there was...\"},{\"lineNumber\":179726,\"originalJapaneseLine\":\"　ああ、口に出すのも恐ろしい……」\",\"translatedEnglishLine\":\"Ah, it's terrifying even to speak of it...\\\"\"},{\"lineNumber\":179727,\"originalJapaneseLine\":\"「もったいぶらず、ちゃちゃっと話せ。\",\"translatedEnglishLine\":\"\\\"Don't beat around the bush, just say it quickly.\"},{\"lineNumber\":179728,\"originalJapaneseLine\":\"　なにを見た？」\",\"translatedEnglishLine\":\"What did you see?\\\"\"},{\"lineNumber\":179729,\"originalJapaneseLine\":\"「は、はひ……」\",\"translatedEnglishLine\":\"\\\"Y-Yes...\\\"\"},{\"lineNumber\":179730,\"originalJapaneseLine\":\"「シャングリラ中に蠢くおびただしい数の……\",\"translatedEnglishLine\":\"\\\"An enormous number of writhing creatures throughout Shangri-La...\"},{\"lineNumber\":179731,\"originalJapaneseLine\":\"　ま、魔物でございます……」\",\"translatedEnglishLine\":\"They were demons...\\\"\"},{\"lineNumber\":179732,\"originalJapaneseLine\":\"「ほほう」\",\"translatedEnglishLine\":\"\\\"Oh ho.\\\"\"},{\"lineNumber\":179733,\"originalJapaneseLine\":\"「おそらく、それが後に人類圏に攻め込んだ、\",\"translatedEnglishLine\":\"\\\"Those were probably the ones who later invaded the human territories,\"},{\"lineNumber\":179734,\"originalJapaneseLine\":\"　合計200万の軍団でしょう」\",\"translatedEnglishLine\":\"a total force of 2 million troops.\\\"\"},{\"lineNumber\":179735,\"originalJapaneseLine\":\"「は、はひ……\",\"translatedEnglishLine\":\"\\\"Y-Yes...\"},{\"lineNumber\":179736,\"originalJapaneseLine\":\"　私のような者には理解できませんが……」\",\"translatedEnglishLine\":\"I cannot comprehend it as a person like me...\\\"\"},{\"lineNumber\":179737,\"originalJapaneseLine\":\"「ま、魔物は次から次へと\",\"translatedEnglishLine\":\"\\\"The demons kept appearing one after another,\"},{\"lineNumber\":179738,\"originalJapaneseLine\":\"　不思議な魔方陣より現れ続けておりました」\",\"translatedEnglishLine\":\"continuously emerging from mysterious magic circles.\\\"\"},{\"lineNumber\":179739,\"originalJapaneseLine\":\"「魔方陣だと？」\",\"translatedEnglishLine\":\"\\\"Magic circles, you say?\\\"\"},{\"lineNumber\":179740,\"originalJapaneseLine\":\"「おそらくそれは転移魔方陣だな」\",\"translatedEnglishLine\":\"\\\"Those were probably teleportation magic circles.\\\"\"},{\"lineNumber\":179741,\"originalJapaneseLine\":\"「二箇所にある大きな魔方陣を介して、\",\"translatedEnglishLine\":\"\\\"Using two large magic circles in different locations,\"},{\"lineNumber\":179742,\"originalJapaneseLine\":\"　生き物、無生物の区別なくワープさせるものだ」\",\"translatedEnglishLine\":\"they warp living and non-living things alike.\\\"\"},{\"lineNumber\":179743,\"originalJapaneseLine\":\"「五年前にサテラ達がリーザスに攻め込んだとき、\",\"translatedEnglishLine\":\"\\\"When Satera and others attacked Rizas five years ago,\"},{\"lineNumber\":179744,\"originalJapaneseLine\":\"　ヘルマンの兵をリーザス城内に運んだのも\",\"translatedEnglishLine\":\"the soldiers of Hellman were transported inside Rizas Castle\"},{\"lineNumber\":179745,\"originalJapaneseLine\":\"　その転移魔方陣の力だ」\",\"translatedEnglishLine\":\"by the power of those teleportation magic circles.\\\"\"},{\"lineNumber\":179746,\"originalJapaneseLine\":\"「なるほど、それを使って\",\"translatedEnglishLine\":\"\\\"I see, they used that to directly send troops\"},{\"lineNumber\":179747,\"originalJapaneseLine\":\"　魔物界からこちらに直接兵を送っていたのか」\",\"translatedEnglishLine\":\"from the demon world to here.\\\"\"},{\"lineNumber\":179748,\"originalJapaneseLine\":\"「キナニ砂漠は世界の中心地です。\",\"translatedEnglishLine\":\"\\\"The Kinani Desert is the center of the world.\"},{\"lineNumber\":179749,\"originalJapaneseLine\":\"　あそこが取られている状態は\",\"translatedEnglishLine\":\"Having that place taken away\"},{\"lineNumber\":179750,\"originalJapaneseLine\":\"　かなり痛いですね……」\",\"translatedEnglishLine\":\"is quite damaging, isn't it...\\\"\"},{\"lineNumber\":179751,\"originalJapaneseLine\":\"「しかし、どうして案内人どもは、\",\"translatedEnglishLine\":\"\\\"But why did the guides,\"},{\"lineNumber\":179752,\"originalJapaneseLine\":\"　その話を俺らに話さんのだ」\",\"translatedEnglishLine\":\"not tell us this story?\\\"\"},{\"lineNumber\":179753,\"originalJapaneseLine\":\"「は、はひ……もももも、申し訳ありません……\",\"translatedEnglishLine\":\"\\\"Y-Yes... s-s-sorry...\"},{\"lineNumber\":179754,\"originalJapaneseLine\":\"　私共のほとんどは、その……\",\"translatedEnglishLine\":\"Most of us...\"},{\"lineNumber\":179755,\"originalJapaneseLine\":\"　口封じに殺されたのでございます」\",\"translatedEnglishLine\":\"were silenced to keep us from speaking.\\\"\"},{\"lineNumber\":179756,\"originalJapaneseLine\":\"「シャングリラに呼ばれた理由とは、\",\"translatedEnglishLine\":\"\\\"The reason we were summoned to Shangri-La,\"},{\"lineNumber\":179757,\"originalJapaneseLine\":\"　まさしくそれでございます……」\",\"translatedEnglishLine\":\"was precisely that...\\\"\"},{\"lineNumber\":179758,\"originalJapaneseLine\":\"「私を含めた数名は命からがら\",\"translatedEnglishLine\":\"\\\"A few of us, including myself, barely escaped with our lives,\"},{\"lineNumber\":179759,\"originalJapaneseLine\":\"　逃げおおせましたが……\",\"translatedEnglishLine\":\"but...\\\"\"},{\"lineNumber\":179760,\"originalJapaneseLine\":\"「それからもずっと魔物に命を\",\"translatedEnglishLine\":\"\\\"And since then, always living under threat from demons...\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":179701,"originalJapaneseLine":"「……本当だろうな。","translatedEnglishLine":"\"...Is it really true?"},{"lineNumber":179702,"originalJapaneseLine":"　お前、死ぬほど胡散臭いぞ」","translatedEnglishLine":"You look incredibly suspicious.\""},{"lineNumber":179703,"originalJapaneseLine":"「はひっ、ももも、","translatedEnglishLine":"\"Y-Yes, s-s-sir,"},{"lineNumber":179704,"originalJapaneseLine":"　申し訳ありません……よぼよぼ……」","translatedEnglishLine":"I apologize... I'm old and weak...\""},{"lineNumber":179705,"originalJapaneseLine":"「この方の話の通りのルートを通り、","translatedEnglishLine":"\"We followed the exact route this person described,"},{"lineNumber":179706,"originalJapaneseLine":"　確認を取らせました。","translatedEnglishLine":"and confirmed it."},{"lineNumber":179707,"originalJapaneseLine":"　確かにシャングリラと思しき建物がありました」","translatedEnglishLine":"There was indeed a building presumed to be Shangri-La.\""},{"lineNumber":179708,"originalJapaneseLine":"「ふむ、なら本当にあるのか」","translatedEnglishLine":"\"Hmm, so it really exists.\""},{"lineNumber":179709,"originalJapaneseLine":"「は、はひ……間違いありません……」","translatedEnglishLine":"\"Y-yes... there is no mistake...\""},{"lineNumber":179710,"originalJapaneseLine":"「シャングリラと他の国家の交易の中継ぎを","translatedEnglishLine":"\"I was acting as an intermediary for trade between Shangri-La and other countries..."},{"lineNumber":179711,"originalJapaneseLine":"　させて頂いておりました……ひぃひぃ……」","translatedEnglishLine":"... huff huff ...\""},{"lineNumber":179712,"originalJapaneseLine":"「私はほんの十名にも満たないギルド所属ですが……","translatedEnglishLine":"\"I belong to a guild with fewer than ten members..."},{"lineNumber":179713,"originalJapaneseLine":"　シャングリラとの交易はそのギルドが","translatedEnglishLine":"The trade with Shangri-La was monopolized by that guild..."},{"lineNumber":179714,"originalJapaneseLine":"　独占している状態でありました……はひ……」","translatedEnglishLine":"... huff ...\""},{"lineNumber":179715,"originalJapaneseLine":"「よく今までシャングリラの存在が","translatedEnglishLine":"\"It's amazing that until now, the existence of Shangri-La"},{"lineNumber":179716,"originalJapaneseLine":"　他の方に知られませんでしたね」","translatedEnglishLine":"was not known to others.\""},{"lineNumber":179717,"originalJapaneseLine":"「シャングリラ様は大変お金払いの良い","translatedEnglishLine":"\"Lord Shangri-La was a very generous customer with payment..."},{"lineNumber":179718,"originalJapaneseLine":"　上客様でございましたから……」","translatedEnglishLine":"..."},{"lineNumber":179719,"originalJapaneseLine":"「独占するべく、","translatedEnglishLine":"\"To maintain the monopoly,"},{"lineNumber":179720,"originalJapaneseLine":"　他の方には秘密していた、と」","translatedEnglishLine":"they kept it secret from others.\""},{"lineNumber":179721,"originalJapaneseLine":"「さすが聡明で……","translatedEnglishLine":"\"As expected of the wise ones...,"},{"lineNumber":179722,"originalJapaneseLine":"　そういうことでございます……よぼよぼ……」","translatedEnglishLine":"that's how it was... old and weak...\""},{"lineNumber":179723,"originalJapaneseLine":"「私共は人類と魔軍の戦争が始まる直前、","translatedEnglishLine":"\"Just before the war between humanity and the demon army began,"},{"lineNumber":179724,"originalJapaneseLine":"　シャングリラに呼び出されました……」","translatedEnglishLine":"we were summoned to Shangri-La...\""},{"lineNumber":179725,"originalJapaneseLine":"「そこで見たのでございます……","translatedEnglishLine":"\"What I saw there was..."},{"lineNumber":179726,"originalJapaneseLine":"　ああ、口に出すのも恐ろしい……」","translatedEnglishLine":"Ah, it's terrifying even to speak of it...\""},{"lineNumber":179727,"originalJapaneseLine":"「もったいぶらず、ちゃちゃっと話せ。","translatedEnglishLine":"\"Don't beat around the bush, just say it quickly."},{"lineNumber":179728,"originalJapaneseLine":"　なにを見た？」","translatedEnglishLine":"What did you see?\""},{"lineNumber":179729,"originalJapaneseLine":"「は、はひ……」","translatedEnglishLine":"\"Y-Yes...\""},{"lineNumber":179730,"originalJapaneseLine":"「シャングリラ中に蠢くおびただしい数の……","translatedEnglishLine":"\"An enormous number of writhing creatures throughout Shangri-La..."},{"lineNumber":179731,"originalJapaneseLine":"　ま、魔物でございます……」","translatedEnglishLine":"They were demons...\""},{"lineNumber":179732,"originalJapaneseLine":"「ほほう」","translatedEnglishLine":"\"Oh ho.\""},{"lineNumber":179733,"originalJapaneseLine":"「おそらく、それが後に人類圏に攻め込んだ、","translatedEnglishLine":"\"Those were probably the ones who later invaded the human territories,"},{"lineNumber":179734,"originalJapaneseLine":"　合計200万の軍団でしょう」","translatedEnglishLine":"a total force of 2 million troops.\""},{"lineNumber":179735,"originalJapaneseLine":"「は、はひ……","translatedEnglishLine":"\"Y-Yes..."},{"lineNumber":179736,"originalJapaneseLine":"　私のような者には理解できませんが……」","translatedEnglishLine":"I cannot comprehend it as a person like me...\""},{"lineNumber":179737,"originalJapaneseLine":"「ま、魔物は次から次へと","translatedEnglishLine":"\"The demons kept appearing one after another,"},{"lineNumber":179738,"originalJapaneseLine":"　不思議な魔方陣より現れ続けておりました」","translatedEnglishLine":"continuously emerging from mysterious magic circles.\""},{"lineNumber":179739,"originalJapaneseLine":"「魔方陣だと？」","translatedEnglishLine":"\"Magic circles, you say?\""},{"lineNumber":179740,"originalJapaneseLine":"「おそらくそれは転移魔方陣だな」","translatedEnglishLine":"\"Those were probably teleportation magic circles.\""},{"lineNumber":179741,"originalJapaneseLine":"「二箇所にある大きな魔方陣を介して、","translatedEnglishLine":"\"Using two large magic circles in different locations,"},{"lineNumber":179742,"originalJapaneseLine":"　生き物、無生物の区別なくワープさせるものだ」","translatedEnglishLine":"they warp living and non-living things alike.\""},{"lineNumber":179743,"originalJapaneseLine":"「五年前にサテラ達がリーザスに攻め込んだとき、","translatedEnglishLine":"\"When Satera and others attacked Rizas five years ago,"},{"lineNumber":179744,"originalJapaneseLine":"　ヘルマンの兵をリーザス城内に運んだのも","translatedEnglishLine":"the soldiers of Hellman were transported inside Rizas Castle"},{"lineNumber":179745,"originalJapaneseLine":"　その転移魔方陣の力だ」","translatedEnglishLine":"by the power of those teleportation magic circles.\""},{"lineNumber":179746,"originalJapaneseLine":"「なるほど、それを使って","translatedEnglishLine":"\"I see, they used that to directly send troops"},{"lineNumber":179747,"originalJapaneseLine":"　魔物界からこちらに直接兵を送っていたのか」","translatedEnglishLine":"from the demon world to here.\""},{"lineNumber":179748,"originalJapaneseLine":"「キナニ砂漠は世界の中心地です。","translatedEnglishLine":"\"The Kinani Desert is the center of the world."},{"lineNumber":179749,"originalJapaneseLine":"　あそこが取られている状態は","translatedEnglishLine":"Having that place taken away"},{"lineNumber":179750,"originalJapaneseLine":"　かなり痛いですね……」","translatedEnglishLine":"is quite damaging, isn't it...\""},{"lineNumber":179751,"originalJapaneseLine":"「しかし、どうして案内人どもは、","translatedEnglishLine":"\"But why did the guides,"},{"lineNumber":179752,"originalJapaneseLine":"　その話を俺らに話さんのだ」","translatedEnglishLine":"not tell us this story?\""},{"lineNumber":179753,"originalJapaneseLine":"「は、はひ……もももも、申し訳ありません……","translatedEnglishLine":"\"Y-Yes... s-s-sorry..."},{"lineNumber":179754,"originalJapaneseLine":"　私共のほとんどは、その……","translatedEnglishLine":"Most of us..."},{"lineNumber":179755,"originalJapaneseLine":"　口封じに殺されたのでございます」","translatedEnglishLine":"were silenced to keep us from speaking.\""},{"lineNumber":179756,"originalJapaneseLine":"「シャングリラに呼ばれた理由とは、","translatedEnglishLine":"\"The reason we were summoned to Shangri-La,"},{"lineNumber":179757,"originalJapaneseLine":"　まさしくそれでございます……」","translatedEnglishLine":"was precisely that...\""},{"lineNumber":179758,"originalJapaneseLine":"「私を含めた数名は命からがら","translatedEnglishLine":"\"A few of us, including myself, barely escaped with our lives,"},{"lineNumber":179759,"originalJapaneseLine":"　逃げおおせましたが……","translatedEnglishLine":"but...\""},{"lineNumber":179760,"originalJapaneseLine":"「それからもずっと魔物に命を","translatedEnglishLine":"\"And since then, always living under threat from demons...\""}]}}
+{
+    "id": "resp_048ea9acd1b8f4720068f1909de73c819696985b6b99dd8c74",
+    "object": "response",
+    "created_at": 1760661661,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_048ea9acd1b8f4720068f1909e7838819681ff4b79c25fae9b",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":179701,\"originalJapaneseLine\":\"「……本当だろうな。\",\"translatedEnglishLine\":\"\\\"...Is it really true?\"},{\"lineNumber\":179702,\"originalJapaneseLine\":\"　お前、死ぬほど胡散臭いぞ」\",\"translatedEnglishLine\":\"You look incredibly suspicious.\\\"\"},{\"lineNumber\":179703,\"originalJapaneseLine\":\"「はひっ、ももも、\",\"translatedEnglishLine\":\"\\\"Y-Yes, s-s-sir,\"},{\"lineNumber\":179704,\"originalJapaneseLine\":\"　申し訳ありません……よぼよぼ……」\",\"translatedEnglishLine\":\"I apologize... I'm old and weak...\\\"\"},{\"lineNumber\":179705,\"originalJapaneseLine\":\"「この方の話の通りのルートを通り、\",\"translatedEnglishLine\":\"\\\"We followed the exact route this person described,\"},{\"lineNumber\":179706,\"originalJapaneseLine\":\"　確認を取らせました。\",\"translatedEnglishLine\":\"and confirmed it.\"},{\"lineNumber\":179707,\"originalJapaneseLine\":\"　確かにシャングリラと思しき建物がありました」\",\"translatedEnglishLine\":\"There was indeed a building presumed to be Shangri-La.\\\"\"},{\"lineNumber\":179708,\"originalJapaneseLine\":\"「ふむ、なら本当にあるのか」\",\"translatedEnglishLine\":\"\\\"Hmm, so it really exists.\\\"\"},{\"lineNumber\":179709,\"originalJapaneseLine\":\"「は、はひ……間違いありません……」\",\"translatedEnglishLine\":\"\\\"Y-yes... there is no mistake...\\\"\"},{\"lineNumber\":179710,\"originalJapaneseLine\":\"「シャングリラと他の国家の交易の中継ぎを\",\"translatedEnglishLine\":\"\\\"I was acting as an intermediary for trade between Shangri-La and other countries...\"},{\"lineNumber\":179711,\"originalJapaneseLine\":\"　させて頂いておりました……ひぃひぃ……」\",\"translatedEnglishLine\":\"... huff huff ...\\\"\"},{\"lineNumber\":179712,\"originalJapaneseLine\":\"「私はほんの十名にも満たないギルド所属ですが……\",\"translatedEnglishLine\":\"\\\"I belong to a guild with fewer than ten members...\"},{\"lineNumber\":179713,\"originalJapaneseLine\":\"　シャングリラとの交易はそのギルドが\",\"translatedEnglishLine\":\"The trade with Shangri-La was monopolized by that guild...\"},{\"lineNumber\":179714,\"originalJapaneseLine\":\"　独占している状態でありました……はひ……」\",\"translatedEnglishLine\":\"... huff ...\\\"\"},{\"lineNumber\":179715,\"originalJapaneseLine\":\"「よく今までシャングリラの存在が\",\"translatedEnglishLine\":\"\\\"It's amazing that until now, the existence of Shangri-La\"},{\"lineNumber\":179716,\"originalJapaneseLine\":\"　他の方に知られませんでしたね」\",\"translatedEnglishLine\":\"was not known to others.\\\"\"},{\"lineNumber\":179717,\"originalJapaneseLine\":\"「シャングリラ様は大変お金払いの良い\",\"translatedEnglishLine\":\"\\\"Lord Shangri-La was a very generous customer with payment...\"},{\"lineNumber\":179718,\"originalJapaneseLine\":\"　上客様でございましたから……」\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":179719,\"originalJapaneseLine\":\"「独占するべく、\",\"translatedEnglishLine\":\"\\\"To maintain the monopoly,\"},{\"lineNumber\":179720,\"originalJapaneseLine\":\"　他の方には秘密していた、と」\",\"translatedEnglishLine\":\"they kept it secret from others.\\\"\"},{\"lineNumber\":179721,\"originalJapaneseLine\":\"「さすが聡明で……\",\"translatedEnglishLine\":\"\\\"As expected of the wise ones...,\"},{\"lineNumber\":179722,\"originalJapaneseLine\":\"　そういうことでございます……よぼよぼ……」\",\"translatedEnglishLine\":\"that's how it was... old and weak...\\\"\"},{\"lineNumber\":179723,\"originalJapaneseLine\":\"「私共は人類と魔軍の戦争が始まる直前、\",\"translatedEnglishLine\":\"\\\"Just before the war between humanity and the demon army began,\"},{\"lineNumber\":179724,\"originalJapaneseLine\":\"　シャングリラに呼び出されました……」\",\"translatedEnglishLine\":\"we were summoned to Shangri-La...\\\"\"},{\"lineNumber\":179725,\"originalJapaneseLine\":\"「そこで見たのでございます……\",\"translatedEnglishLine\":\"\\\"What I saw there was...\"},{\"lineNumber\":179726,\"originalJapaneseLine\":\"　ああ、口に出すのも恐ろしい……」\",\"translatedEnglishLine\":\"Ah, it's terrifying even to speak of it...\\\"\"},{\"lineNumber\":179727,\"originalJapaneseLine\":\"「もったいぶらず、ちゃちゃっと話せ。\",\"translatedEnglishLine\":\"\\\"Don't beat around the bush, just say it quickly.\"},{\"lineNumber\":179728,\"originalJapaneseLine\":\"　なにを見た？」\",\"translatedEnglishLine\":\"What did you see?\\\"\"},{\"lineNumber\":179729,\"originalJapaneseLine\":\"「は、はひ……」\",\"translatedEnglishLine\":\"\\\"Y-Yes...\\\"\"},{\"lineNumber\":179730,\"originalJapaneseLine\":\"「シャングリラ中に蠢くおびただしい数の……\",\"translatedEnglishLine\":\"\\\"An enormous number of writhing creatures throughout Shangri-La...\"},{\"lineNumber\":179731,\"originalJapaneseLine\":\"　ま、魔物でございます……」\",\"translatedEnglishLine\":\"They were demons...\\\"\"},{\"lineNumber\":179732,\"originalJapaneseLine\":\"「ほほう」\",\"translatedEnglishLine\":\"\\\"Oh ho.\\\"\"},{\"lineNumber\":179733,\"originalJapaneseLine\":\"「おそらく、それが後に人類圏に攻め込んだ、\",\"translatedEnglishLine\":\"\\\"Those were probably the ones who later invaded the human territories,\"},{\"lineNumber\":179734,\"originalJapaneseLine\":\"　合計200万の軍団でしょう」\",\"translatedEnglishLine\":\"a total force of 2 million troops.\\\"\"},{\"lineNumber\":179735,\"originalJapaneseLine\":\"「は、はひ……\",\"translatedEnglishLine\":\"\\\"Y-Yes...\"},{\"lineNumber\":179736,\"originalJapaneseLine\":\"　私のような者には理解できませんが……」\",\"translatedEnglishLine\":\"I cannot comprehend it as a person like me...\\\"\"},{\"lineNumber\":179737,\"originalJapaneseLine\":\"「ま、魔物は次から次へと\",\"translatedEnglishLine\":\"\\\"The demons kept appearing one after another,\"},{\"lineNumber\":179738,\"originalJapaneseLine\":\"　不思議な魔方陣より現れ続けておりました」\",\"translatedEnglishLine\":\"continuously emerging from mysterious magic circles.\\\"\"},{\"lineNumber\":179739,\"originalJapaneseLine\":\"「魔方陣だと？」\",\"translatedEnglishLine\":\"\\\"Magic circles, you say?\\\"\"},{\"lineNumber\":179740,\"originalJapaneseLine\":\"「おそらくそれは転移魔方陣だな」\",\"translatedEnglishLine\":\"\\\"Those were probably teleportation magic circles.\\\"\"},{\"lineNumber\":179741,\"originalJapaneseLine\":\"「二箇所にある大きな魔方陣を介して、\",\"translatedEnglishLine\":\"\\\"Using two large magic circles in different locations,\"},{\"lineNumber\":179742,\"originalJapaneseLine\":\"　生き物、無生物の区別なくワープさせるものだ」\",\"translatedEnglishLine\":\"they warp living and non-living things alike.\\\"\"},{\"lineNumber\":179743,\"originalJapaneseLine\":\"「五年前にサテラ達がリーザスに攻め込んだとき、\",\"translatedEnglishLine\":\"\\\"When Satera and others attacked Rizas five years ago,\"},{\"lineNumber\":179744,\"originalJapaneseLine\":\"　ヘルマンの兵をリーザス城内に運んだのも\",\"translatedEnglishLine\":\"the soldiers of Hellman were transported inside Rizas Castle\"},{\"lineNumber\":179745,\"originalJapaneseLine\":\"　その転移魔方陣の力だ」\",\"translatedEnglishLine\":\"by the power of those teleportation magic circles.\\\"\"},{\"lineNumber\":179746,\"originalJapaneseLine\":\"「なるほど、それを使って\",\"translatedEnglishLine\":\"\\\"I see, they used that to directly send troops\"},{\"lineNumber\":179747,\"originalJapaneseLine\":\"　魔物界からこちらに直接兵を送っていたのか」\",\"translatedEnglishLine\":\"from the demon world to here.\\\"\"},{\"lineNumber\":179748,\"originalJapaneseLine\":\"「キナニ砂漠は世界の中心地です。\",\"translatedEnglishLine\":\"\\\"The Kinani Desert is the center of the world.\"},{\"lineNumber\":179749,\"originalJapaneseLine\":\"　あそこが取られている状態は\",\"translatedEnglishLine\":\"Having that place taken away\"},{\"lineNumber\":179750,\"originalJapaneseLine\":\"　かなり痛いですね……」\",\"translatedEnglishLine\":\"is quite damaging, isn't it...\\\"\"},{\"lineNumber\":179751,\"originalJapaneseLine\":\"「しかし、どうして案内人どもは、\",\"translatedEnglishLine\":\"\\\"But why did the guides,\"},{\"lineNumber\":179752,\"originalJapaneseLine\":\"　その話を俺らに話さんのだ」\",\"translatedEnglishLine\":\"not tell us this story?\\\"\"},{\"lineNumber\":179753,\"originalJapaneseLine\":\"「は、はひ……もももも、申し訳ありません……\",\"translatedEnglishLine\":\"\\\"Y-Yes... s-s-sorry...\"},{\"lineNumber\":179754,\"originalJapaneseLine\":\"　私共のほとんどは、その……\",\"translatedEnglishLine\":\"Most of us...\"},{\"lineNumber\":179755,\"originalJapaneseLine\":\"　口封じに殺されたのでございます」\",\"translatedEnglishLine\":\"were silenced to keep us from speaking.\\\"\"},{\"lineNumber\":179756,\"originalJapaneseLine\":\"「シャングリラに呼ばれた理由とは、\",\"translatedEnglishLine\":\"\\\"The reason we were summoned to Shangri-La,\"},{\"lineNumber\":179757,\"originalJapaneseLine\":\"　まさしくそれでございます……」\",\"translatedEnglishLine\":\"was precisely that...\\\"\"},{\"lineNumber\":179758,\"originalJapaneseLine\":\"「私を含めた数名は命からがら\",\"translatedEnglishLine\":\"\\\"A few of us, including myself, barely escaped with our lives,\"},{\"lineNumber\":179759,\"originalJapaneseLine\":\"　逃げおおせましたが……\",\"translatedEnglishLine\":\"but...\\\"\"},{\"lineNumber\":179760,\"originalJapaneseLine\":\"「それからもずっと魔物に命を\",\"translatedEnglishLine\":\"\\\"And since then, always living under threat from demons...\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 179701,
+                                "originalJapaneseLine": "「……本当だろうな。",
+                                "translatedEnglishLine": "\"...Is it really true?"
+                            },
+                            {
+                                "lineNumber": 179702,
+                                "originalJapaneseLine": "　お前、死ぬほど胡散臭いぞ」",
+                                "translatedEnglishLine": "You look incredibly suspicious.\""
+                            },
+                            {
+                                "lineNumber": 179703,
+                                "originalJapaneseLine": "「はひっ、ももも、",
+                                "translatedEnglishLine": "\"Y-Yes, s-s-sir,"
+                            },
+                            {
+                                "lineNumber": 179704,
+                                "originalJapaneseLine": "　申し訳ありません……よぼよぼ……」",
+                                "translatedEnglishLine": "I apologize... I'm old and weak...\""
+                            },
+                            {
+                                "lineNumber": 179705,
+                                "originalJapaneseLine": "「この方の話の通りのルートを通り、",
+                                "translatedEnglishLine": "\"We followed the exact route this person described,"
+                            },
+                            {
+                                "lineNumber": 179706,
+                                "originalJapaneseLine": "　確認を取らせました。",
+                                "translatedEnglishLine": "and confirmed it."
+                            },
+                            {
+                                "lineNumber": 179707,
+                                "originalJapaneseLine": "　確かにシャングリラと思しき建物がありました」",
+                                "translatedEnglishLine": "There was indeed a building presumed to be Shangri-La.\""
+                            },
+                            {
+                                "lineNumber": 179708,
+                                "originalJapaneseLine": "「ふむ、なら本当にあるのか」",
+                                "translatedEnglishLine": "\"Hmm, so it really exists.\""
+                            },
+                            {
+                                "lineNumber": 179709,
+                                "originalJapaneseLine": "「は、はひ……間違いありません……」",
+                                "translatedEnglishLine": "\"Y-yes... there is no mistake...\""
+                            },
+                            {
+                                "lineNumber": 179710,
+                                "originalJapaneseLine": "「シャングリラと他の国家の交易の中継ぎを",
+                                "translatedEnglishLine": "\"I was acting as an intermediary for trade between Shangri-La and other countries..."
+                            },
+                            {
+                                "lineNumber": 179711,
+                                "originalJapaneseLine": "　させて頂いておりました……ひぃひぃ……」",
+                                "translatedEnglishLine": "... huff huff ...\""
+                            },
+                            {
+                                "lineNumber": 179712,
+                                "originalJapaneseLine": "「私はほんの十名にも満たないギルド所属ですが……",
+                                "translatedEnglishLine": "\"I belong to a guild with fewer than ten members..."
+                            },
+                            {
+                                "lineNumber": 179713,
+                                "originalJapaneseLine": "　シャングリラとの交易はそのギルドが",
+                                "translatedEnglishLine": "The trade with Shangri-La was monopolized by that guild..."
+                            },
+                            {
+                                "lineNumber": 179714,
+                                "originalJapaneseLine": "　独占している状態でありました……はひ……」",
+                                "translatedEnglishLine": "... huff ...\""
+                            },
+                            {
+                                "lineNumber": 179715,
+                                "originalJapaneseLine": "「よく今までシャングリラの存在が",
+                                "translatedEnglishLine": "\"It's amazing that until now, the existence of Shangri-La"
+                            },
+                            {
+                                "lineNumber": 179716,
+                                "originalJapaneseLine": "　他の方に知られませんでしたね」",
+                                "translatedEnglishLine": "was not known to others.\""
+                            },
+                            {
+                                "lineNumber": 179717,
+                                "originalJapaneseLine": "「シャングリラ様は大変お金払いの良い",
+                                "translatedEnglishLine": "\"Lord Shangri-La was a very generous customer with payment..."
+                            },
+                            {
+                                "lineNumber": 179718,
+                                "originalJapaneseLine": "　上客様でございましたから……」",
+                                "translatedEnglishLine": "..."
+                            },
+                            {
+                                "lineNumber": 179719,
+                                "originalJapaneseLine": "「独占するべく、",
+                                "translatedEnglishLine": "\"To maintain the monopoly,"
+                            },
+                            {
+                                "lineNumber": 179720,
+                                "originalJapaneseLine": "　他の方には秘密していた、と」",
+                                "translatedEnglishLine": "they kept it secret from others.\""
+                            },
+                            {
+                                "lineNumber": 179721,
+                                "originalJapaneseLine": "「さすが聡明で……",
+                                "translatedEnglishLine": "\"As expected of the wise ones...,"
+                            },
+                            {
+                                "lineNumber": 179722,
+                                "originalJapaneseLine": "　そういうことでございます……よぼよぼ……」",
+                                "translatedEnglishLine": "that's how it was... old and weak...\""
+                            },
+                            {
+                                "lineNumber": 179723,
+                                "originalJapaneseLine": "「私共は人類と魔軍の戦争が始まる直前、",
+                                "translatedEnglishLine": "\"Just before the war between humanity and the demon army began,"
+                            },
+                            {
+                                "lineNumber": 179724,
+                                "originalJapaneseLine": "　シャングリラに呼び出されました……」",
+                                "translatedEnglishLine": "we were summoned to Shangri-La...\""
+                            },
+                            {
+                                "lineNumber": 179725,
+                                "originalJapaneseLine": "「そこで見たのでございます……",
+                                "translatedEnglishLine": "\"What I saw there was..."
+                            },
+                            {
+                                "lineNumber": 179726,
+                                "originalJapaneseLine": "　ああ、口に出すのも恐ろしい……」",
+                                "translatedEnglishLine": "Ah, it's terrifying even to speak of it...\""
+                            },
+                            {
+                                "lineNumber": 179727,
+                                "originalJapaneseLine": "「もったいぶらず、ちゃちゃっと話せ。",
+                                "translatedEnglishLine": "\"Don't beat around the bush, just say it quickly."
+                            },
+                            {
+                                "lineNumber": 179728,
+                                "originalJapaneseLine": "　なにを見た？」",
+                                "translatedEnglishLine": "What did you see?\""
+                            },
+                            {
+                                "lineNumber": 179729,
+                                "originalJapaneseLine": "「は、はひ……」",
+                                "translatedEnglishLine": "\"Y-Yes...\""
+                            },
+                            {
+                                "lineNumber": 179730,
+                                "originalJapaneseLine": "「シャングリラ中に蠢くおびただしい数の……",
+                                "translatedEnglishLine": "\"An enormous number of writhing creatures throughout Shangri-La..."
+                            },
+                            {
+                                "lineNumber": 179731,
+                                "originalJapaneseLine": "　ま、魔物でございます……」",
+                                "translatedEnglishLine": "They were demons...\""
+                            },
+                            {
+                                "lineNumber": 179732,
+                                "originalJapaneseLine": "「ほほう」",
+                                "translatedEnglishLine": "\"Oh ho.\""
+                            },
+                            {
+                                "lineNumber": 179733,
+                                "originalJapaneseLine": "「おそらく、それが後に人類圏に攻め込んだ、",
+                                "translatedEnglishLine": "\"Those were probably the ones who later invaded the human territories,"
+                            },
+                            {
+                                "lineNumber": 179734,
+                                "originalJapaneseLine": "　合計200万の軍団でしょう」",
+                                "translatedEnglishLine": "a total force of 2 million troops.\""
+                            },
+                            {
+                                "lineNumber": 179735,
+                                "originalJapaneseLine": "「は、はひ……",
+                                "translatedEnglishLine": "\"Y-Yes..."
+                            },
+                            {
+                                "lineNumber": 179736,
+                                "originalJapaneseLine": "　私のような者には理解できませんが……」",
+                                "translatedEnglishLine": "I cannot comprehend it as a person like me...\""
+                            },
+                            {
+                                "lineNumber": 179737,
+                                "originalJapaneseLine": "「ま、魔物は次から次へと",
+                                "translatedEnglishLine": "\"The demons kept appearing one after another,"
+                            },
+                            {
+                                "lineNumber": 179738,
+                                "originalJapaneseLine": "　不思議な魔方陣より現れ続けておりました」",
+                                "translatedEnglishLine": "continuously emerging from mysterious magic circles.\""
+                            },
+                            {
+                                "lineNumber": 179739,
+                                "originalJapaneseLine": "「魔方陣だと？」",
+                                "translatedEnglishLine": "\"Magic circles, you say?\""
+                            },
+                            {
+                                "lineNumber": 179740,
+                                "originalJapaneseLine": "「おそらくそれは転移魔方陣だな」",
+                                "translatedEnglishLine": "\"Those were probably teleportation magic circles.\""
+                            },
+                            {
+                                "lineNumber": 179741,
+                                "originalJapaneseLine": "「二箇所にある大きな魔方陣を介して、",
+                                "translatedEnglishLine": "\"Using two large magic circles in different locations,"
+                            },
+                            {
+                                "lineNumber": 179742,
+                                "originalJapaneseLine": "　生き物、無生物の区別なくワープさせるものだ」",
+                                "translatedEnglishLine": "they warp living and non-living things alike.\""
+                            },
+                            {
+                                "lineNumber": 179743,
+                                "originalJapaneseLine": "「五年前にサテラ達がリーザスに攻め込んだとき、",
+                                "translatedEnglishLine": "\"When Satera and others attacked Rizas five years ago,"
+                            },
+                            {
+                                "lineNumber": 179744,
+                                "originalJapaneseLine": "　ヘルマンの兵をリーザス城内に運んだのも",
+                                "translatedEnglishLine": "the soldiers of Hellman were transported inside Rizas Castle"
+                            },
+                            {
+                                "lineNumber": 179745,
+                                "originalJapaneseLine": "　その転移魔方陣の力だ」",
+                                "translatedEnglishLine": "by the power of those teleportation magic circles.\""
+                            },
+                            {
+                                "lineNumber": 179746,
+                                "originalJapaneseLine": "「なるほど、それを使って",
+                                "translatedEnglishLine": "\"I see, they used that to directly send troops"
+                            },
+                            {
+                                "lineNumber": 179747,
+                                "originalJapaneseLine": "　魔物界からこちらに直接兵を送っていたのか」",
+                                "translatedEnglishLine": "from the demon world to here.\""
+                            },
+                            {
+                                "lineNumber": 179748,
+                                "originalJapaneseLine": "「キナニ砂漠は世界の中心地です。",
+                                "translatedEnglishLine": "\"The Kinani Desert is the center of the world."
+                            },
+                            {
+                                "lineNumber": 179749,
+                                "originalJapaneseLine": "　あそこが取られている状態は",
+                                "translatedEnglishLine": "Having that place taken away"
+                            },
+                            {
+                                "lineNumber": 179750,
+                                "originalJapaneseLine": "　かなり痛いですね……」",
+                                "translatedEnglishLine": "is quite damaging, isn't it...\""
+                            },
+                            {
+                                "lineNumber": 179751,
+                                "originalJapaneseLine": "「しかし、どうして案内人どもは、",
+                                "translatedEnglishLine": "\"But why did the guides,"
+                            },
+                            {
+                                "lineNumber": 179752,
+                                "originalJapaneseLine": "　その話を俺らに話さんのだ」",
+                                "translatedEnglishLine": "not tell us this story?\""
+                            },
+                            {
+                                "lineNumber": 179753,
+                                "originalJapaneseLine": "「は、はひ……もももも、申し訳ありません……",
+                                "translatedEnglishLine": "\"Y-Yes... s-s-sorry..."
+                            },
+                            {
+                                "lineNumber": 179754,
+                                "originalJapaneseLine": "　私共のほとんどは、その……",
+                                "translatedEnglishLine": "Most of us..."
+                            },
+                            {
+                                "lineNumber": 179755,
+                                "originalJapaneseLine": "　口封じに殺されたのでございます」",
+                                "translatedEnglishLine": "were silenced to keep us from speaking.\""
+                            },
+                            {
+                                "lineNumber": 179756,
+                                "originalJapaneseLine": "「シャングリラに呼ばれた理由とは、",
+                                "translatedEnglishLine": "\"The reason we were summoned to Shangri-La,"
+                            },
+                            {
+                                "lineNumber": 179757,
+                                "originalJapaneseLine": "　まさしくそれでございます……」",
+                                "translatedEnglishLine": "was precisely that...\""
+                            },
+                            {
+                                "lineNumber": 179758,
+                                "originalJapaneseLine": "「私を含めた数名は命からがら",
+                                "translatedEnglishLine": "\"A few of us, including myself, barely escaped with our lives,"
+                            },
+                            {
+                                "lineNumber": 179759,
+                                "originalJapaneseLine": "　逃げおおせましたが……",
+                                "translatedEnglishLine": "but...\""
+                            },
+                            {
+                                "lineNumber": 179760,
+                                "originalJapaneseLine": "「それからもずっと魔物に命を",
+                                "translatedEnglishLine": "\"And since then, always living under threat from demons...\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1745,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2244,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3989
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":179701,\"originalJapaneseLine\":\"「……本当だろうな。\",\"translatedEnglishLine\":\"\\\"...Is it really true?\"},{\"lineNumber\":179702,\"originalJapaneseLine\":\"　お前、死ぬほど胡散臭いぞ」\",\"translatedEnglishLine\":\"You look incredibly suspicious.\\\"\"},{\"lineNumber\":179703,\"originalJapaneseLine\":\"「はひっ、ももも、\",\"translatedEnglishLine\":\"\\\"Y-Yes, s-s-sir,\"},{\"lineNumber\":179704,\"originalJapaneseLine\":\"　申し訳ありません……よぼよぼ……」\",\"translatedEnglishLine\":\"I apologize... I'm old and weak...\\\"\"},{\"lineNumber\":179705,\"originalJapaneseLine\":\"「この方の話の通りのルートを通り、\",\"translatedEnglishLine\":\"\\\"We followed the exact route this person described,\"},{\"lineNumber\":179706,\"originalJapaneseLine\":\"　確認を取らせました。\",\"translatedEnglishLine\":\"and confirmed it.\"},{\"lineNumber\":179707,\"originalJapaneseLine\":\"　確かにシャングリラと思しき建物がありました」\",\"translatedEnglishLine\":\"There was indeed a building presumed to be Shangri-La.\\\"\"},{\"lineNumber\":179708,\"originalJapaneseLine\":\"「ふむ、なら本当にあるのか」\",\"translatedEnglishLine\":\"\\\"Hmm, so it really exists.\\\"\"},{\"lineNumber\":179709,\"originalJapaneseLine\":\"「は、はひ……間違いありません……」\",\"translatedEnglishLine\":\"\\\"Y-yes... there is no mistake...\\\"\"},{\"lineNumber\":179710,\"originalJapaneseLine\":\"「シャングリラと他の国家の交易の中継ぎを\",\"translatedEnglishLine\":\"\\\"I was acting as an intermediary for trade between Shangri-La and other countries...\"},{\"lineNumber\":179711,\"originalJapaneseLine\":\"　させて頂いておりました……ひぃひぃ……」\",\"translatedEnglishLine\":\"... huff huff ...\\\"\"},{\"lineNumber\":179712,\"originalJapaneseLine\":\"「私はほんの十名にも満たないギルド所属ですが……\",\"translatedEnglishLine\":\"\\\"I belong to a guild with fewer than ten members...\"},{\"lineNumber\":179713,\"originalJapaneseLine\":\"　シャングリラとの交易はそのギルドが\",\"translatedEnglishLine\":\"The trade with Shangri-La was monopolized by that guild...\"},{\"lineNumber\":179714,\"originalJapaneseLine\":\"　独占している状態でありました……はひ……」\",\"translatedEnglishLine\":\"... huff ...\\\"\"},{\"lineNumber\":179715,\"originalJapaneseLine\":\"「よく今までシャングリラの存在が\",\"translatedEnglishLine\":\"\\\"It's amazing that until now, the existence of Shangri-La\"},{\"lineNumber\":179716,\"originalJapaneseLine\":\"　他の方に知られませんでしたね」\",\"translatedEnglishLine\":\"was not known to others.\\\"\"},{\"lineNumber\":179717,\"originalJapaneseLine\":\"「シャングリラ様は大変お金払いの良い\",\"translatedEnglishLine\":\"\\\"Lord Shangri-La was a very generous customer with payment...\"},{\"lineNumber\":179718,\"originalJapaneseLine\":\"　上客様でございましたから……」\",\"translatedEnglishLine\":\"...\"},{\"lineNumber\":179719,\"originalJapaneseLine\":\"「独占するべく、\",\"translatedEnglishLine\":\"\\\"To maintain the monopoly,\"},{\"lineNumber\":179720,\"originalJapaneseLine\":\"　他の方には秘密していた、と」\",\"translatedEnglishLine\":\"they kept it secret from others.\\\"\"},{\"lineNumber\":179721,\"originalJapaneseLine\":\"「さすが聡明で……\",\"translatedEnglishLine\":\"\\\"As expected of the wise ones...,\"},{\"lineNumber\":179722,\"originalJapaneseLine\":\"　そういうことでございます……よぼよぼ……」\",\"translatedEnglishLine\":\"that's how it was... old and weak...\\\"\"},{\"lineNumber\":179723,\"originalJapaneseLine\":\"「私共は人類と魔軍の戦争が始まる直前、\",\"translatedEnglishLine\":\"\\\"Just before the war between humanity and the demon army began,\"},{\"lineNumber\":179724,\"originalJapaneseLine\":\"　シャングリラに呼び出されました……」\",\"translatedEnglishLine\":\"we were summoned to Shangri-La...\\\"\"},{\"lineNumber\":179725,\"originalJapaneseLine\":\"「そこで見たのでございます……\",\"translatedEnglishLine\":\"\\\"What I saw there was...\"},{\"lineNumber\":179726,\"originalJapaneseLine\":\"　ああ、口に出すのも恐ろしい……」\",\"translatedEnglishLine\":\"Ah, it's terrifying even to speak of it...\\\"\"},{\"lineNumber\":179727,\"originalJapaneseLine\":\"「もったいぶらず、ちゃちゃっと話せ。\",\"translatedEnglishLine\":\"\\\"Don't beat around the bush, just say it quickly.\"},{\"lineNumber\":179728,\"originalJapaneseLine\":\"　なにを見た？」\",\"translatedEnglishLine\":\"What did you see?\\\"\"},{\"lineNumber\":179729,\"originalJapaneseLine\":\"「は、はひ……」\",\"translatedEnglishLine\":\"\\\"Y-Yes...\\\"\"},{\"lineNumber\":179730,\"originalJapaneseLine\":\"「シャングリラ中に蠢くおびただしい数の……\",\"translatedEnglishLine\":\"\\\"An enormous number of writhing creatures throughout Shangri-La...\"},{\"lineNumber\":179731,\"originalJapaneseLine\":\"　ま、魔物でございます……」\",\"translatedEnglishLine\":\"They were demons...\\\"\"},{\"lineNumber\":179732,\"originalJapaneseLine\":\"「ほほう」\",\"translatedEnglishLine\":\"\\\"Oh ho.\\\"\"},{\"lineNumber\":179733,\"originalJapaneseLine\":\"「おそらく、それが後に人類圏に攻め込んだ、\",\"translatedEnglishLine\":\"\\\"Those were probably the ones who later invaded the human territories,\"},{\"lineNumber\":179734,\"originalJapaneseLine\":\"　合計200万の軍団でしょう」\",\"translatedEnglishLine\":\"a total force of 2 million troops.\\\"\"},{\"lineNumber\":179735,\"originalJapaneseLine\":\"「は、はひ……\",\"translatedEnglishLine\":\"\\\"Y-Yes...\"},{\"lineNumber\":179736,\"originalJapaneseLine\":\"　私のような者には理解できませんが……」\",\"translatedEnglishLine\":\"I cannot comprehend it as a person like me...\\\"\"},{\"lineNumber\":179737,\"originalJapaneseLine\":\"「ま、魔物は次から次へと\",\"translatedEnglishLine\":\"\\\"The demons kept appearing one after another,\"},{\"lineNumber\":179738,\"originalJapaneseLine\":\"　不思議な魔方陣より現れ続けておりました」\",\"translatedEnglishLine\":\"continuously emerging from mysterious magic circles.\\\"\"},{\"lineNumber\":179739,\"originalJapaneseLine\":\"「魔方陣だと？」\",\"translatedEnglishLine\":\"\\\"Magic circles, you say?\\\"\"},{\"lineNumber\":179740,\"originalJapaneseLine\":\"「おそらくそれは転移魔方陣だな」\",\"translatedEnglishLine\":\"\\\"Those were probably teleportation magic circles.\\\"\"},{\"lineNumber\":179741,\"originalJapaneseLine\":\"「二箇所にある大きな魔方陣を介して、\",\"translatedEnglishLine\":\"\\\"Using two large magic circles in different locations,\"},{\"lineNumber\":179742,\"originalJapaneseLine\":\"　生き物、無生物の区別なくワープさせるものだ」\",\"translatedEnglishLine\":\"they warp living and non-living things alike.\\\"\"},{\"lineNumber\":179743,\"originalJapaneseLine\":\"「五年前にサテラ達がリーザスに攻め込んだとき、\",\"translatedEnglishLine\":\"\\\"When Satera and others attacked Rizas five years ago,\"},{\"lineNumber\":179744,\"originalJapaneseLine\":\"　ヘルマンの兵をリーザス城内に運んだのも\",\"translatedEnglishLine\":\"the soldiers of Hellman were transported inside Rizas Castle\"},{\"lineNumber\":179745,\"originalJapaneseLine\":\"　その転移魔方陣の力だ」\",\"translatedEnglishLine\":\"by the power of those teleportation magic circles.\\\"\"},{\"lineNumber\":179746,\"originalJapaneseLine\":\"「なるほど、それを使って\",\"translatedEnglishLine\":\"\\\"I see, they used that to directly send troops\"},{\"lineNumber\":179747,\"originalJapaneseLine\":\"　魔物界からこちらに直接兵を送っていたのか」\",\"translatedEnglishLine\":\"from the demon world to here.\\\"\"},{\"lineNumber\":179748,\"originalJapaneseLine\":\"「キナニ砂漠は世界の中心地です。\",\"translatedEnglishLine\":\"\\\"The Kinani Desert is the center of the world.\"},{\"lineNumber\":179749,\"originalJapaneseLine\":\"　あそこが取られている状態は\",\"translatedEnglishLine\":\"Having that place taken away\"},{\"lineNumber\":179750,\"originalJapaneseLine\":\"　かなり痛いですね……」\",\"translatedEnglishLine\":\"is quite damaging, isn't it...\\\"\"},{\"lineNumber\":179751,\"originalJapaneseLine\":\"「しかし、どうして案内人どもは、\",\"translatedEnglishLine\":\"\\\"But why did the guides,\"},{\"lineNumber\":179752,\"originalJapaneseLine\":\"　その話を俺らに話さんのだ」\",\"translatedEnglishLine\":\"not tell us this story?\\\"\"},{\"lineNumber\":179753,\"originalJapaneseLine\":\"「は、はひ……もももも、申し訳ありません……\",\"translatedEnglishLine\":\"\\\"Y-Yes... s-s-sorry...\"},{\"lineNumber\":179754,\"originalJapaneseLine\":\"　私共のほとんどは、その……\",\"translatedEnglishLine\":\"Most of us...\"},{\"lineNumber\":179755,\"originalJapaneseLine\":\"　口封じに殺されたのでございます」\",\"translatedEnglishLine\":\"were silenced to keep us from speaking.\\\"\"},{\"lineNumber\":179756,\"originalJapaneseLine\":\"「シャングリラに呼ばれた理由とは、\",\"translatedEnglishLine\":\"\\\"The reason we were summoned to Shangri-La,\"},{\"lineNumber\":179757,\"originalJapaneseLine\":\"　まさしくそれでございます……」\",\"translatedEnglishLine\":\"was precisely that...\\\"\"},{\"lineNumber\":179758,\"originalJapaneseLine\":\"「私を含めた数名は命からがら\",\"translatedEnglishLine\":\"\\\"A few of us, including myself, barely escaped with our lives,\"},{\"lineNumber\":179759,\"originalJapaneseLine\":\"　逃げおおせましたが……\",\"translatedEnglishLine\":\"but...\\\"\"},{\"lineNumber\":179760,\"originalJapaneseLine\":\"「それからもずっと魔物に命を\",\"translatedEnglishLine\":\"\\\"And since then, always living under threat from demons...\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 179701,
+                "originalJapaneseLine": "「……本当だろうな。",
+                "translatedEnglishLine": "\"...Is it really true?"
+            },
+            {
+                "lineNumber": 179702,
+                "originalJapaneseLine": "　お前、死ぬほど胡散臭いぞ」",
+                "translatedEnglishLine": "You look incredibly suspicious.\""
+            },
+            {
+                "lineNumber": 179703,
+                "originalJapaneseLine": "「はひっ、ももも、",
+                "translatedEnglishLine": "\"Y-Yes, s-s-sir,"
+            },
+            {
+                "lineNumber": 179704,
+                "originalJapaneseLine": "　申し訳ありません……よぼよぼ……」",
+                "translatedEnglishLine": "I apologize... I'm old and weak...\""
+            },
+            {
+                "lineNumber": 179705,
+                "originalJapaneseLine": "「この方の話の通りのルートを通り、",
+                "translatedEnglishLine": "\"We followed the exact route this person described,"
+            },
+            {
+                "lineNumber": 179706,
+                "originalJapaneseLine": "　確認を取らせました。",
+                "translatedEnglishLine": "and confirmed it."
+            },
+            {
+                "lineNumber": 179707,
+                "originalJapaneseLine": "　確かにシャングリラと思しき建物がありました」",
+                "translatedEnglishLine": "There was indeed a building presumed to be Shangri-La.\""
+            },
+            {
+                "lineNumber": 179708,
+                "originalJapaneseLine": "「ふむ、なら本当にあるのか」",
+                "translatedEnglishLine": "\"Hmm, so it really exists.\""
+            },
+            {
+                "lineNumber": 179709,
+                "originalJapaneseLine": "「は、はひ……間違いありません……」",
+                "translatedEnglishLine": "\"Y-yes... there is no mistake...\""
+            },
+            {
+                "lineNumber": 179710,
+                "originalJapaneseLine": "「シャングリラと他の国家の交易の中継ぎを",
+                "translatedEnglishLine": "\"I was acting as an intermediary for trade between Shangri-La and other countries..."
+            },
+            {
+                "lineNumber": 179711,
+                "originalJapaneseLine": "　させて頂いておりました……ひぃひぃ……」",
+                "translatedEnglishLine": "... huff huff ...\""
+            },
+            {
+                "lineNumber": 179712,
+                "originalJapaneseLine": "「私はほんの十名にも満たないギルド所属ですが……",
+                "translatedEnglishLine": "\"I belong to a guild with fewer than ten members..."
+            },
+            {
+                "lineNumber": 179713,
+                "originalJapaneseLine": "　シャングリラとの交易はそのギルドが",
+                "translatedEnglishLine": "The trade with Shangri-La was monopolized by that guild..."
+            },
+            {
+                "lineNumber": 179714,
+                "originalJapaneseLine": "　独占している状態でありました……はひ……」",
+                "translatedEnglishLine": "... huff ...\""
+            },
+            {
+                "lineNumber": 179715,
+                "originalJapaneseLine": "「よく今までシャングリラの存在が",
+                "translatedEnglishLine": "\"It's amazing that until now, the existence of Shangri-La"
+            },
+            {
+                "lineNumber": 179716,
+                "originalJapaneseLine": "　他の方に知られませんでしたね」",
+                "translatedEnglishLine": "was not known to others.\""
+            },
+            {
+                "lineNumber": 179717,
+                "originalJapaneseLine": "「シャングリラ様は大変お金払いの良い",
+                "translatedEnglishLine": "\"Lord Shangri-La was a very generous customer with payment..."
+            },
+            {
+                "lineNumber": 179718,
+                "originalJapaneseLine": "　上客様でございましたから……」",
+                "translatedEnglishLine": "..."
+            },
+            {
+                "lineNumber": 179719,
+                "originalJapaneseLine": "「独占するべく、",
+                "translatedEnglishLine": "\"To maintain the monopoly,"
+            },
+            {
+                "lineNumber": 179720,
+                "originalJapaneseLine": "　他の方には秘密していた、と」",
+                "translatedEnglishLine": "they kept it secret from others.\""
+            },
+            {
+                "lineNumber": 179721,
+                "originalJapaneseLine": "「さすが聡明で……",
+                "translatedEnglishLine": "\"As expected of the wise ones...,"
+            },
+            {
+                "lineNumber": 179722,
+                "originalJapaneseLine": "　そういうことでございます……よぼよぼ……」",
+                "translatedEnglishLine": "that's how it was... old and weak...\""
+            },
+            {
+                "lineNumber": 179723,
+                "originalJapaneseLine": "「私共は人類と魔軍の戦争が始まる直前、",
+                "translatedEnglishLine": "\"Just before the war between humanity and the demon army began,"
+            },
+            {
+                "lineNumber": 179724,
+                "originalJapaneseLine": "　シャングリラに呼び出されました……」",
+                "translatedEnglishLine": "we were summoned to Shangri-La...\""
+            },
+            {
+                "lineNumber": 179725,
+                "originalJapaneseLine": "「そこで見たのでございます……",
+                "translatedEnglishLine": "\"What I saw there was..."
+            },
+            {
+                "lineNumber": 179726,
+                "originalJapaneseLine": "　ああ、口に出すのも恐ろしい……」",
+                "translatedEnglishLine": "Ah, it's terrifying even to speak of it...\""
+            },
+            {
+                "lineNumber": 179727,
+                "originalJapaneseLine": "「もったいぶらず、ちゃちゃっと話せ。",
+                "translatedEnglishLine": "\"Don't beat around the bush, just say it quickly."
+            },
+            {
+                "lineNumber": 179728,
+                "originalJapaneseLine": "　なにを見た？」",
+                "translatedEnglishLine": "What did you see?\""
+            },
+            {
+                "lineNumber": 179729,
+                "originalJapaneseLine": "「は、はひ……」",
+                "translatedEnglishLine": "\"Y-Yes...\""
+            },
+            {
+                "lineNumber": 179730,
+                "originalJapaneseLine": "「シャングリラ中に蠢くおびただしい数の……",
+                "translatedEnglishLine": "\"An enormous number of writhing creatures throughout Shangri-La..."
+            },
+            {
+                "lineNumber": 179731,
+                "originalJapaneseLine": "　ま、魔物でございます……」",
+                "translatedEnglishLine": "They were demons...\""
+            },
+            {
+                "lineNumber": 179732,
+                "originalJapaneseLine": "「ほほう」",
+                "translatedEnglishLine": "\"Oh ho.\""
+            },
+            {
+                "lineNumber": 179733,
+                "originalJapaneseLine": "「おそらく、それが後に人類圏に攻め込んだ、",
+                "translatedEnglishLine": "\"Those were probably the ones who later invaded the human territories,"
+            },
+            {
+                "lineNumber": 179734,
+                "originalJapaneseLine": "　合計200万の軍団でしょう」",
+                "translatedEnglishLine": "a total force of 2 million troops.\""
+            },
+            {
+                "lineNumber": 179735,
+                "originalJapaneseLine": "「は、はひ……",
+                "translatedEnglishLine": "\"Y-Yes..."
+            },
+            {
+                "lineNumber": 179736,
+                "originalJapaneseLine": "　私のような者には理解できませんが……」",
+                "translatedEnglishLine": "I cannot comprehend it as a person like me...\""
+            },
+            {
+                "lineNumber": 179737,
+                "originalJapaneseLine": "「ま、魔物は次から次へと",
+                "translatedEnglishLine": "\"The demons kept appearing one after another,"
+            },
+            {
+                "lineNumber": 179738,
+                "originalJapaneseLine": "　不思議な魔方陣より現れ続けておりました」",
+                "translatedEnglishLine": "continuously emerging from mysterious magic circles.\""
+            },
+            {
+                "lineNumber": 179739,
+                "originalJapaneseLine": "「魔方陣だと？」",
+                "translatedEnglishLine": "\"Magic circles, you say?\""
+            },
+            {
+                "lineNumber": 179740,
+                "originalJapaneseLine": "「おそらくそれは転移魔方陣だな」",
+                "translatedEnglishLine": "\"Those were probably teleportation magic circles.\""
+            },
+            {
+                "lineNumber": 179741,
+                "originalJapaneseLine": "「二箇所にある大きな魔方陣を介して、",
+                "translatedEnglishLine": "\"Using two large magic circles in different locations,"
+            },
+            {
+                "lineNumber": 179742,
+                "originalJapaneseLine": "　生き物、無生物の区別なくワープさせるものだ」",
+                "translatedEnglishLine": "they warp living and non-living things alike.\""
+            },
+            {
+                "lineNumber": 179743,
+                "originalJapaneseLine": "「五年前にサテラ達がリーザスに攻め込んだとき、",
+                "translatedEnglishLine": "\"When Satera and others attacked Rizas five years ago,"
+            },
+            {
+                "lineNumber": 179744,
+                "originalJapaneseLine": "　ヘルマンの兵をリーザス城内に運んだのも",
+                "translatedEnglishLine": "the soldiers of Hellman were transported inside Rizas Castle"
+            },
+            {
+                "lineNumber": 179745,
+                "originalJapaneseLine": "　その転移魔方陣の力だ」",
+                "translatedEnglishLine": "by the power of those teleportation magic circles.\""
+            },
+            {
+                "lineNumber": 179746,
+                "originalJapaneseLine": "「なるほど、それを使って",
+                "translatedEnglishLine": "\"I see, they used that to directly send troops"
+            },
+            {
+                "lineNumber": 179747,
+                "originalJapaneseLine": "　魔物界からこちらに直接兵を送っていたのか」",
+                "translatedEnglishLine": "from the demon world to here.\""
+            },
+            {
+                "lineNumber": 179748,
+                "originalJapaneseLine": "「キナニ砂漠は世界の中心地です。",
+                "translatedEnglishLine": "\"The Kinani Desert is the center of the world."
+            },
+            {
+                "lineNumber": 179749,
+                "originalJapaneseLine": "　あそこが取られている状態は",
+                "translatedEnglishLine": "Having that place taken away"
+            },
+            {
+                "lineNumber": 179750,
+                "originalJapaneseLine": "　かなり痛いですね……」",
+                "translatedEnglishLine": "is quite damaging, isn't it...\""
+            },
+            {
+                "lineNumber": 179751,
+                "originalJapaneseLine": "「しかし、どうして案内人どもは、",
+                "translatedEnglishLine": "\"But why did the guides,"
+            },
+            {
+                "lineNumber": 179752,
+                "originalJapaneseLine": "　その話を俺らに話さんのだ」",
+                "translatedEnglishLine": "not tell us this story?\""
+            },
+            {
+                "lineNumber": 179753,
+                "originalJapaneseLine": "「は、はひ……もももも、申し訳ありません……",
+                "translatedEnglishLine": "\"Y-Yes... s-s-sorry..."
+            },
+            {
+                "lineNumber": 179754,
+                "originalJapaneseLine": "　私共のほとんどは、その……",
+                "translatedEnglishLine": "Most of us..."
+            },
+            {
+                "lineNumber": 179755,
+                "originalJapaneseLine": "　口封じに殺されたのでございます」",
+                "translatedEnglishLine": "were silenced to keep us from speaking.\""
+            },
+            {
+                "lineNumber": 179756,
+                "originalJapaneseLine": "「シャングリラに呼ばれた理由とは、",
+                "translatedEnglishLine": "\"The reason we were summoned to Shangri-La,"
+            },
+            {
+                "lineNumber": 179757,
+                "originalJapaneseLine": "　まさしくそれでございます……」",
+                "translatedEnglishLine": "was precisely that...\""
+            },
+            {
+                "lineNumber": 179758,
+                "originalJapaneseLine": "「私を含めた数名は命からがら",
+                "translatedEnglishLine": "\"A few of us, including myself, barely escaped with our lives,"
+            },
+            {
+                "lineNumber": 179759,
+                "originalJapaneseLine": "　逃げおおせましたが……",
+                "translatedEnglishLine": "but...\""
+            },
+            {
+                "lineNumber": 179760,
+                "originalJapaneseLine": "「それからもずっと魔物に命を",
+                "translatedEnglishLine": "\"And since then, always living under threat from demons...\""
+            }
+        ]
+    }
+}

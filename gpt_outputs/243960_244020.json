@@ -1,1 +1,719 @@
-{"id":"resp_04e8b99186d437270068f226d0bc3481949e34703396139ef1","object":"response","created_at":1760700112,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_04e8b99186d437270068f226d13e248194939362e7b1b66c68","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":243902,\"originalJapaneseLine\":\"「いや、待て、あれはぶたか？」\",\"translatedEnglishLine\":\"\\\"No, wait, is that a pig?\\\"\"},{\"lineNumber\":243903,\"originalJapaneseLine\":\"「ぶたにしてぶたにあらず！\",\"translatedEnglishLine\":\"\\\"A pig but not just a pig!\"},{\"lineNumber\":243904,\"originalJapaneseLine\":\"　俺はぶたバンバラの突然変異体よォ！」\",\"translatedEnglishLine\":\"I am a mutant of the pig Banbara!\\\"\"},{\"lineNumber\":243905,\"originalJapaneseLine\":\"「醜いだるだるな他のと比べんな！\",\"translatedEnglishLine\":\"\\\"Don't compare me to the ugly, flabby others!\"},{\"lineNumber\":243906,\"originalJapaneseLine\":\"　この体は鋼の筋肉で包まれた\",\"translatedEnglishLine\":\"This body is wrapped in steel muscles,\"},{\"lineNumber\":243907,\"originalJapaneseLine\":\"　体脂肪率驚異の0％よ！」\",\"translatedEnglishLine\":\"with a shocking body fat percentage of 0%!\\\"\"},{\"lineNumber\":243908,\"originalJapaneseLine\":\"「……なんだこいつ」\",\"translatedEnglishLine\":\"\\\"...What is this guy?\\\"\"},{\"lineNumber\":243909,\"originalJapaneseLine\":\"「ふーん、こいつがえーと……\",\"translatedEnglishLine\":\"\\\"Hmm, this guy is uh...\"},{\"lineNumber\":243910,\"originalJapaneseLine\":\"　ランス、だっけ？\",\"translatedEnglishLine\":\"Rance, right?\"},{\"lineNumber\":243911,\"originalJapaneseLine\":\"　あんまり強くなさそー」\",\"translatedEnglishLine\":\"He doesn't seem very strong.\\\"\"},{\"lineNumber\":243912,\"originalJapaneseLine\":\"「油断禁物……で、ある」\",\"translatedEnglishLine\":\"\\\"Don't be careless... that's for sure.\\\"\"},{\"lineNumber\":243913,\"originalJapaneseLine\":\"「彼らはるろんたの突然変異体、王様と\",\"translatedEnglishLine\":\"\\\"They are mutants of Ruronta, the King and\"},{\"lineNumber\":243914,\"originalJapaneseLine\":\"　ハチ女の突然変異体、通称、\",\"translatedEnglishLine\":\"mutant of the Bee Woman, commonly known as,\"},{\"lineNumber\":243915,\"originalJapaneseLine\":\"　スズメバチ女のニードルです」\",\"translatedEnglishLine\":\"Needle the Hornet Woman.\\\"\"},{\"lineNumber\":243916,\"originalJapaneseLine\":\"「そして、私が隊の長を務める、\",\"translatedEnglishLine\":\"\\\"And I serve as the leader of the squad,\"},{\"lineNumber\":243917,\"originalJapaneseLine\":\"　アカメ……皆には学者と呼ばれています……\",\"translatedEnglishLine\":\"Akame... everyone calls me the Scholar...\"},{\"lineNumber\":243918,\"originalJapaneseLine\":\"　どうぞ、お見知りおきを」\",\"translatedEnglishLine\":\"Please, remember me.\\\"\"},{\"lineNumber\":243919,\"originalJapaneseLine\":\"「なんだなんだ？\",\"translatedEnglishLine\":\"\\\"What is this, what is this?\"},{\"lineNumber\":243920,\"originalJapaneseLine\":\"　けったいなモンスターがぞろぞろと」\",\"translatedEnglishLine\":\"A bunch of strange monsters are coming out.\\\"\"},{\"lineNumber\":243921,\"originalJapaneseLine\":\"学者と名乗ったアカメの後ろには\",\"translatedEnglishLine\":\"Behind Akame, who called herself the Scholar,\"},{\"lineNumber\":243922,\"originalJapaneseLine\":\"大量のモンスター達が並んでいた。\",\"translatedEnglishLine\":\"a large number of monsters were lined up.\"},{\"lineNumber\":243923,\"originalJapaneseLine\":\"「まさか……マエリータ隊か？」\",\"translatedEnglishLine\":\"\\\"No way... is this the Maelita Squad?\\\"\"},{\"lineNumber\":243924,\"originalJapaneseLine\":\"「おや、魔人であるサテラ様にまで\",\"translatedEnglishLine\":\"\\\"Oh my, even Lady Satella, the demon lord,\"},{\"lineNumber\":243925,\"originalJapaneseLine\":\"　名を知られているとは、光栄ですね」\",\"translatedEnglishLine\":\"knows our name? I'm honored.\\\"\"},{\"lineNumber\":243926,\"originalJapaneseLine\":\"「ふん、白々しい……\",\"translatedEnglishLine\":\"\\\"Hmph, how insincere...\"},{\"lineNumber\":243927,\"originalJapaneseLine\":\"　直接戦ったことはなくても、サテラが\",\"translatedEnglishLine\":\"Even if she hasn't fought directly,\"},{\"lineNumber\":243928,\"originalJapaneseLine\":\"　何度お前らに苦労させられたことか……」\",\"translatedEnglishLine\":\"Satella has had countless struggles because of you...\\\"\"},{\"lineNumber\":243929,\"originalJapaneseLine\":\"「サテラ、このトンチキな集団はなんだ？」\",\"translatedEnglishLine\":\"\\\"Satella, what is this crazy group?\\\"\"},{\"lineNumber\":243930,\"originalJapaneseLine\":\"「マエリータ隊……\",\"translatedEnglishLine\":\"\\\"The Maelita Squad...\"},{\"lineNumber\":243931,\"originalJapaneseLine\":\"　派閥戦争時代にケイブリス派で活躍した\",\"translatedEnglishLine\":\"They were a special unit active during the faction war era on the Kaebris side,\"},{\"lineNumber\":243932,\"originalJapaneseLine\":\"　特殊な魔物だけで編成した特別部隊だ」\",\"translatedEnglishLine\":\"a special unit composed only of unique monsters.\\\"\"},{\"lineNumber\":243933,\"originalJapaneseLine\":\"「つ、強いんですか？」\",\"translatedEnglishLine\":\"\\\"A-are they strong?\\\"\"},{\"lineNumber\":243934,\"originalJapaneseLine\":\"「入隊条件は魔物の中でも強い者のみ、だからな。\",\"translatedEnglishLine\":\"\\\"The requirement to join is to be among the strongest monsters.\"},{\"lineNumber\":243935,\"originalJapaneseLine\":\"　普通の部隊よりも……\",\"translatedEnglishLine\":\"So, compared to ordinary units...\"},{\"lineNumber\":243936,\"originalJapaneseLine\":\"「少数精鋭部隊が故に気づけば現れ、\",\"translatedEnglishLine\":\"\\\"Because it's an elite small unit, they appear before you notice,\"},{\"lineNumber\":243937,\"originalJapaneseLine\":\"　またすぐに姿をくらませる連中だ。\",\"translatedEnglishLine\":\"and vanish again quickly.\"},{\"lineNumber\":243938,\"originalJapaneseLine\":\"　こいつらに何度仲間を殺されたか……」\",\"translatedEnglishLine\":\"How many times have they killed my comrades...\\\"\"},{\"lineNumber\":243939,\"originalJapaneseLine\":\"「がはははははははは！\",\"translatedEnglishLine\":\"\\\"Gahahahahahaha!\"},{\"lineNumber\":243940,\"originalJapaneseLine\":\"　雑魚の魔物連中と何も変わらんわ！」\",\"translatedEnglishLine\":\"They're no different from weak monsters!\\\"\"},{\"lineNumber\":243941,\"originalJapaneseLine\":\"「いざ、尋常に勝負して\",\"translatedEnglishLine\":\"\\\"Now, let's fight a fair battle,\"},{\"lineNumber\":243942,\"originalJapaneseLine\":\"　俺様の経験値となるがいい！」\",\"translatedEnglishLine\":\"and become my experience points!\\\"\"},{\"lineNumber\":243943,\"originalJapaneseLine\":\"「ふんっ、威勢がいいじゃねぇか。\",\"translatedEnglishLine\":\"\\\"Hmph, you sure are spirited.\"},{\"lineNumber\":243944,\"originalJapaneseLine\":\"　言ってやれ剣豪！」\",\"translatedEnglishLine\":\"Say it, swordsman!\\\"\"},{\"lineNumber\":243945,\"originalJapaneseLine\":\"「カオスマスター！　やぶれたりィ！」\",\"translatedEnglishLine\":\"\\\"Chaos Master! Defeated!\\\"\"},{\"lineNumber\":243946,\"originalJapaneseLine\":\"「な、なんだと！？」\",\"translatedEnglishLine\":\"\\\"W-what!?\\\"\"},{\"lineNumber\":243947,\"originalJapaneseLine\":\"「勝つつもりなら何故鞘を捨てる！」\",\"translatedEnglishLine\":\"\\\"If you intend to win, why throw away your scabbard!?\\\"\"},{\"lineNumber\":243948,\"originalJapaneseLine\":\"「最初からカオスの鞘なんて持っとらんわ！」\",\"translatedEnglishLine\":\"\\\"I never had a Chaos scabbard to begin with!\\\"\"},{\"lineNumber\":243949,\"originalJapaneseLine\":\"「抜き身なの危ないから\",\"translatedEnglishLine\":\"\\\"It's dangerous to be unsheathed,\"},{\"lineNumber\":243950,\"originalJapaneseLine\":\"　本当は作りたいんですけどねぇ」\",\"translatedEnglishLine\":\"I really want to make one though.\\\"\"},{\"lineNumber\":243951,\"originalJapaneseLine\":\"「暑くて蒸れるのいやー」\",\"translatedEnglishLine\":\"\\\"I hate it because it gets hot and sweaty—\\\"\"},{\"lineNumber\":243952,\"originalJapaneseLine\":\"「……カオスさん蒸れるんですか？」\",\"translatedEnglishLine\":\"\\\"...Chaos, do you really get all sweaty?\\\"\"},{\"lineNumber\":243953,\"originalJapaneseLine\":\"「ええい、ごちゃごちゃ抜かすな！\",\"translatedEnglishLine\":\"\\\"Enough of the useless chatter!\"},{\"lineNumber\":243954,\"originalJapaneseLine\":\"　緊張感がなくなるだろうが！」\",\"translatedEnglishLine\":\"It's killing the tension!\\\"\"},{\"lineNumber\":243955,\"originalJapaneseLine\":\"「ハッ、ハハハ！\",\"translatedEnglishLine\":\"\\\"Ha, hahaha!\"},{\"lineNumber\":243956,\"originalJapaneseLine\":\"　なんだァ、こいつら！　面白い奴らだな！」\",\"translatedEnglishLine\":\"What are these guys! They're interesting fellows!\\\"\"},{\"lineNumber\":243957,\"originalJapaneseLine\":\"「とにかくこいつらを殺ーーす！」\",\"translatedEnglishLine\":\"\\\"Anyway, kill these guys!\\\"\"},{\"lineNumber\":243958,\"originalJapaneseLine\":\"「全員、戦闘態勢を！\",\"translatedEnglishLine\":\"\\\"Everyone, get into combat formation!\"},{\"lineNumber\":243959,\"originalJapaneseLine\":\"　行きます！」\",\"translatedEnglishLine\":\"Let's go!\\\"\"},{\"lineNumber\":243960,\"originalJapaneseLine\":\"「……皆さん、そこまでです」\",\"translatedEnglishLine\":\"\\\"...Everyone, that's enough.\\\"\"},{\"lineNumber\":243961,\"originalJapaneseLine\":\"戦いの最中、学者は冷静に戦いを制止した。\",\"translatedEnglishLine\":\"In the midst of the battle, the Scholar calmly stopped the fight.\"}]}","parsed":{"translationLines":[{"lineNumber":243902,"originalJapaneseLine":"「いや、待て、あれはぶたか？」","translatedEnglishLine":"\"No, wait, is that a pig?\""},{"lineNumber":243903,"originalJapaneseLine":"「ぶたにしてぶたにあらず！","translatedEnglishLine":"\"A pig but not just a pig!"},{"lineNumber":243904,"originalJapaneseLine":"　俺はぶたバンバラの突然変異体よォ！」","translatedEnglishLine":"I am a mutant of the pig Banbara!\""},{"lineNumber":243905,"originalJapaneseLine":"「醜いだるだるな他のと比べんな！","translatedEnglishLine":"\"Don't compare me to the ugly, flabby others!"},{"lineNumber":243906,"originalJapaneseLine":"　この体は鋼の筋肉で包まれた","translatedEnglishLine":"This body is wrapped in steel muscles,"},{"lineNumber":243907,"originalJapaneseLine":"　体脂肪率驚異の0％よ！」","translatedEnglishLine":"with a shocking body fat percentage of 0%!\""},{"lineNumber":243908,"originalJapaneseLine":"「……なんだこいつ」","translatedEnglishLine":"\"...What is this guy?\""},{"lineNumber":243909,"originalJapaneseLine":"「ふーん、こいつがえーと……","translatedEnglishLine":"\"Hmm, this guy is uh..."},{"lineNumber":243910,"originalJapaneseLine":"　ランス、だっけ？","translatedEnglishLine":"Rance, right?"},{"lineNumber":243911,"originalJapaneseLine":"　あんまり強くなさそー」","translatedEnglishLine":"He doesn't seem very strong.\""},{"lineNumber":243912,"originalJapaneseLine":"「油断禁物……で、ある」","translatedEnglishLine":"\"Don't be careless... that's for sure.\""},{"lineNumber":243913,"originalJapaneseLine":"「彼らはるろんたの突然変異体、王様と","translatedEnglishLine":"\"They are mutants of Ruronta, the King and"},{"lineNumber":243914,"originalJapaneseLine":"　ハチ女の突然変異体、通称、","translatedEnglishLine":"mutant of the Bee Woman, commonly known as,"},{"lineNumber":243915,"originalJapaneseLine":"　スズメバチ女のニードルです」","translatedEnglishLine":"Needle the Hornet Woman.\""},{"lineNumber":243916,"originalJapaneseLine":"「そして、私が隊の長を務める、","translatedEnglishLine":"\"And I serve as the leader of the squad,"},{"lineNumber":243917,"originalJapaneseLine":"　アカメ……皆には学者と呼ばれています……","translatedEnglishLine":"Akame... everyone calls me the Scholar..."},{"lineNumber":243918,"originalJapaneseLine":"　どうぞ、お見知りおきを」","translatedEnglishLine":"Please, remember me.\""},{"lineNumber":243919,"originalJapaneseLine":"「なんだなんだ？","translatedEnglishLine":"\"What is this, what is this?"},{"lineNumber":243920,"originalJapaneseLine":"　けったいなモンスターがぞろぞろと」","translatedEnglishLine":"A bunch of strange monsters are coming out.\""},{"lineNumber":243921,"originalJapaneseLine":"学者と名乗ったアカメの後ろには","translatedEnglishLine":"Behind Akame, who called herself the Scholar,"},{"lineNumber":243922,"originalJapaneseLine":"大量のモンスター達が並んでいた。","translatedEnglishLine":"a large number of monsters were lined up."},{"lineNumber":243923,"originalJapaneseLine":"「まさか……マエリータ隊か？」","translatedEnglishLine":"\"No way... is this the Maelita Squad?\""},{"lineNumber":243924,"originalJapaneseLine":"「おや、魔人であるサテラ様にまで","translatedEnglishLine":"\"Oh my, even Lady Satella, the demon lord,"},{"lineNumber":243925,"originalJapaneseLine":"　名を知られているとは、光栄ですね」","translatedEnglishLine":"knows our name? I'm honored.\""},{"lineNumber":243926,"originalJapaneseLine":"「ふん、白々しい……","translatedEnglishLine":"\"Hmph, how insincere..."},{"lineNumber":243927,"originalJapaneseLine":"　直接戦ったことはなくても、サテラが","translatedEnglishLine":"Even if she hasn't fought directly,"},{"lineNumber":243928,"originalJapaneseLine":"　何度お前らに苦労させられたことか……」","translatedEnglishLine":"Satella has had countless struggles because of you...\""},{"lineNumber":243929,"originalJapaneseLine":"「サテラ、このトンチキな集団はなんだ？」","translatedEnglishLine":"\"Satella, what is this crazy group?\""},{"lineNumber":243930,"originalJapaneseLine":"「マエリータ隊……","translatedEnglishLine":"\"The Maelita Squad..."},{"lineNumber":243931,"originalJapaneseLine":"　派閥戦争時代にケイブリス派で活躍した","translatedEnglishLine":"They were a special unit active during the faction war era on the Kaebris side,"},{"lineNumber":243932,"originalJapaneseLine":"　特殊な魔物だけで編成した特別部隊だ」","translatedEnglishLine":"a special unit composed only of unique monsters.\""},{"lineNumber":243933,"originalJapaneseLine":"「つ、強いんですか？」","translatedEnglishLine":"\"A-are they strong?\""},{"lineNumber":243934,"originalJapaneseLine":"「入隊条件は魔物の中でも強い者のみ、だからな。","translatedEnglishLine":"\"The requirement to join is to be among the strongest monsters."},{"lineNumber":243935,"originalJapaneseLine":"　普通の部隊よりも……","translatedEnglishLine":"So, compared to ordinary units..."},{"lineNumber":243936,"originalJapaneseLine":"「少数精鋭部隊が故に気づけば現れ、","translatedEnglishLine":"\"Because it's an elite small unit, they appear before you notice,"},{"lineNumber":243937,"originalJapaneseLine":"　またすぐに姿をくらませる連中だ。","translatedEnglishLine":"and vanish again quickly."},{"lineNumber":243938,"originalJapaneseLine":"　こいつらに何度仲間を殺されたか……」","translatedEnglishLine":"How many times have they killed my comrades...\""},{"lineNumber":243939,"originalJapaneseLine":"「がはははははははは！","translatedEnglishLine":"\"Gahahahahahaha!"},{"lineNumber":243940,"originalJapaneseLine":"　雑魚の魔物連中と何も変わらんわ！」","translatedEnglishLine":"They're no different from weak monsters!\""},{"lineNumber":243941,"originalJapaneseLine":"「いざ、尋常に勝負して","translatedEnglishLine":"\"Now, let's fight a fair battle,"},{"lineNumber":243942,"originalJapaneseLine":"　俺様の経験値となるがいい！」","translatedEnglishLine":"and become my experience points!\""},{"lineNumber":243943,"originalJapaneseLine":"「ふんっ、威勢がいいじゃねぇか。","translatedEnglishLine":"\"Hmph, you sure are spirited."},{"lineNumber":243944,"originalJapaneseLine":"　言ってやれ剣豪！」","translatedEnglishLine":"Say it, swordsman!\""},{"lineNumber":243945,"originalJapaneseLine":"「カオスマスター！　やぶれたりィ！」","translatedEnglishLine":"\"Chaos Master! Defeated!\""},{"lineNumber":243946,"originalJapaneseLine":"「な、なんだと！？」","translatedEnglishLine":"\"W-what!?\""},{"lineNumber":243947,"originalJapaneseLine":"「勝つつもりなら何故鞘を捨てる！」","translatedEnglishLine":"\"If you intend to win, why throw away your scabbard!?\""},{"lineNumber":243948,"originalJapaneseLine":"「最初からカオスの鞘なんて持っとらんわ！」","translatedEnglishLine":"\"I never had a Chaos scabbard to begin with!\""},{"lineNumber":243949,"originalJapaneseLine":"「抜き身なの危ないから","translatedEnglishLine":"\"It's dangerous to be unsheathed,"},{"lineNumber":243950,"originalJapaneseLine":"　本当は作りたいんですけどねぇ」","translatedEnglishLine":"I really want to make one though.\""},{"lineNumber":243951,"originalJapaneseLine":"「暑くて蒸れるのいやー」","translatedEnglishLine":"\"I hate it because it gets hot and sweaty—\""},{"lineNumber":243952,"originalJapaneseLine":"「……カオスさん蒸れるんですか？」","translatedEnglishLine":"\"...Chaos, do you really get all sweaty?\""},{"lineNumber":243953,"originalJapaneseLine":"「ええい、ごちゃごちゃ抜かすな！","translatedEnglishLine":"\"Enough of the useless chatter!"},{"lineNumber":243954,"originalJapaneseLine":"　緊張感がなくなるだろうが！」","translatedEnglishLine":"It's killing the tension!\""},{"lineNumber":243955,"originalJapaneseLine":"「ハッ、ハハハ！","translatedEnglishLine":"\"Ha, hahaha!"},{"lineNumber":243956,"originalJapaneseLine":"　なんだァ、こいつら！　面白い奴らだな！」","translatedEnglishLine":"What are these guys! They're interesting fellows!\""},{"lineNumber":243957,"originalJapaneseLine":"「とにかくこいつらを殺ーーす！」","translatedEnglishLine":"\"Anyway, kill these guys!\""},{"lineNumber":243958,"originalJapaneseLine":"「全員、戦闘態勢を！","translatedEnglishLine":"\"Everyone, get into combat formation!"},{"lineNumber":243959,"originalJapaneseLine":"　行きます！」","translatedEnglishLine":"Let's go!\""},{"lineNumber":243960,"originalJapaneseLine":"「……皆さん、そこまでです」","translatedEnglishLine":"\"...Everyone, that's enough.\""},{"lineNumber":243961,"originalJapaneseLine":"戦いの最中、学者は冷静に戦いを制止した。","translatedEnglishLine":"In the midst of the battle, the Scholar calmly stopped the fight."}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1765,"input_tokens_details":{"cached_tokens":0},"output_tokens":2283,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":4048},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":243902,\"originalJapaneseLine\":\"「いや、待て、あれはぶたか？」\",\"translatedEnglishLine\":\"\\\"No, wait, is that a pig?\\\"\"},{\"lineNumber\":243903,\"originalJapaneseLine\":\"「ぶたにしてぶたにあらず！\",\"translatedEnglishLine\":\"\\\"A pig but not just a pig!\"},{\"lineNumber\":243904,\"originalJapaneseLine\":\"　俺はぶたバンバラの突然変異体よォ！」\",\"translatedEnglishLine\":\"I am a mutant of the pig Banbara!\\\"\"},{\"lineNumber\":243905,\"originalJapaneseLine\":\"「醜いだるだるな他のと比べんな！\",\"translatedEnglishLine\":\"\\\"Don't compare me to the ugly, flabby others!\"},{\"lineNumber\":243906,\"originalJapaneseLine\":\"　この体は鋼の筋肉で包まれた\",\"translatedEnglishLine\":\"This body is wrapped in steel muscles,\"},{\"lineNumber\":243907,\"originalJapaneseLine\":\"　体脂肪率驚異の0％よ！」\",\"translatedEnglishLine\":\"with a shocking body fat percentage of 0%!\\\"\"},{\"lineNumber\":243908,\"originalJapaneseLine\":\"「……なんだこいつ」\",\"translatedEnglishLine\":\"\\\"...What is this guy?\\\"\"},{\"lineNumber\":243909,\"originalJapaneseLine\":\"「ふーん、こいつがえーと……\",\"translatedEnglishLine\":\"\\\"Hmm, this guy is uh...\"},{\"lineNumber\":243910,\"originalJapaneseLine\":\"　ランス、だっけ？\",\"translatedEnglishLine\":\"Rance, right?\"},{\"lineNumber\":243911,\"originalJapaneseLine\":\"　あんまり強くなさそー」\",\"translatedEnglishLine\":\"He doesn't seem very strong.\\\"\"},{\"lineNumber\":243912,\"originalJapaneseLine\":\"「油断禁物……で、ある」\",\"translatedEnglishLine\":\"\\\"Don't be careless... that's for sure.\\\"\"},{\"lineNumber\":243913,\"originalJapaneseLine\":\"「彼らはるろんたの突然変異体、王様と\",\"translatedEnglishLine\":\"\\\"They are mutants of Ruronta, the King and\"},{\"lineNumber\":243914,\"originalJapaneseLine\":\"　ハチ女の突然変異体、通称、\",\"translatedEnglishLine\":\"mutant of the Bee Woman, commonly known as,\"},{\"lineNumber\":243915,\"originalJapaneseLine\":\"　スズメバチ女のニードルです」\",\"translatedEnglishLine\":\"Needle the Hornet Woman.\\\"\"},{\"lineNumber\":243916,\"originalJapaneseLine\":\"「そして、私が隊の長を務める、\",\"translatedEnglishLine\":\"\\\"And I serve as the leader of the squad,\"},{\"lineNumber\":243917,\"originalJapaneseLine\":\"　アカメ……皆には学者と呼ばれています……\",\"translatedEnglishLine\":\"Akame... everyone calls me the Scholar...\"},{\"lineNumber\":243918,\"originalJapaneseLine\":\"　どうぞ、お見知りおきを」\",\"translatedEnglishLine\":\"Please, remember me.\\\"\"},{\"lineNumber\":243919,\"originalJapaneseLine\":\"「なんだなんだ？\",\"translatedEnglishLine\":\"\\\"What is this, what is this?\"},{\"lineNumber\":243920,\"originalJapaneseLine\":\"　けったいなモンスターがぞろぞろと」\",\"translatedEnglishLine\":\"A bunch of strange monsters are coming out.\\\"\"},{\"lineNumber\":243921,\"originalJapaneseLine\":\"学者と名乗ったアカメの後ろには\",\"translatedEnglishLine\":\"Behind Akame, who called herself the Scholar,\"},{\"lineNumber\":243922,\"originalJapaneseLine\":\"大量のモンスター達が並んでいた。\",\"translatedEnglishLine\":\"a large number of monsters were lined up.\"},{\"lineNumber\":243923,\"originalJapaneseLine\":\"「まさか……マエリータ隊か？」\",\"translatedEnglishLine\":\"\\\"No way... is this the Maelita Squad?\\\"\"},{\"lineNumber\":243924,\"originalJapaneseLine\":\"「おや、魔人であるサテラ様にまで\",\"translatedEnglishLine\":\"\\\"Oh my, even Lady Satella, the demon lord,\"},{\"lineNumber\":243925,\"originalJapaneseLine\":\"　名を知られているとは、光栄ですね」\",\"translatedEnglishLine\":\"knows our name? I'm honored.\\\"\"},{\"lineNumber\":243926,\"originalJapaneseLine\":\"「ふん、白々しい……\",\"translatedEnglishLine\":\"\\\"Hmph, how insincere...\"},{\"lineNumber\":243927,\"originalJapaneseLine\":\"　直接戦ったことはなくても、サテラが\",\"translatedEnglishLine\":\"Even if she hasn't fought directly,\"},{\"lineNumber\":243928,\"originalJapaneseLine\":\"　何度お前らに苦労させられたことか……」\",\"translatedEnglishLine\":\"Satella has had countless struggles because of you...\\\"\"},{\"lineNumber\":243929,\"originalJapaneseLine\":\"「サテラ、このトンチキな集団はなんだ？」\",\"translatedEnglishLine\":\"\\\"Satella, what is this crazy group?\\\"\"},{\"lineNumber\":243930,\"originalJapaneseLine\":\"「マエリータ隊……\",\"translatedEnglishLine\":\"\\\"The Maelita Squad...\"},{\"lineNumber\":243931,\"originalJapaneseLine\":\"　派閥戦争時代にケイブリス派で活躍した\",\"translatedEnglishLine\":\"They were a special unit active during the faction war era on the Kaebris side,\"},{\"lineNumber\":243932,\"originalJapaneseLine\":\"　特殊な魔物だけで編成した特別部隊だ」\",\"translatedEnglishLine\":\"a special unit composed only of unique monsters.\\\"\"},{\"lineNumber\":243933,\"originalJapaneseLine\":\"「つ、強いんですか？」\",\"translatedEnglishLine\":\"\\\"A-are they strong?\\\"\"},{\"lineNumber\":243934,\"originalJapaneseLine\":\"「入隊条件は魔物の中でも強い者のみ、だからな。\",\"translatedEnglishLine\":\"\\\"The requirement to join is to be among the strongest monsters.\"},{\"lineNumber\":243935,\"originalJapaneseLine\":\"　普通の部隊よりも……\",\"translatedEnglishLine\":\"So, compared to ordinary units...\"},{\"lineNumber\":243936,\"originalJapaneseLine\":\"「少数精鋭部隊が故に気づけば現れ、\",\"translatedEnglishLine\":\"\\\"Because it's an elite small unit, they appear before you notice,\"},{\"lineNumber\":243937,\"originalJapaneseLine\":\"　またすぐに姿をくらませる連中だ。\",\"translatedEnglishLine\":\"and vanish again quickly.\"},{\"lineNumber\":243938,\"originalJapaneseLine\":\"　こいつらに何度仲間を殺されたか……」\",\"translatedEnglishLine\":\"How many times have they killed my comrades...\\\"\"},{\"lineNumber\":243939,\"originalJapaneseLine\":\"「がはははははははは！\",\"translatedEnglishLine\":\"\\\"Gahahahahahaha!\"},{\"lineNumber\":243940,\"originalJapaneseLine\":\"　雑魚の魔物連中と何も変わらんわ！」\",\"translatedEnglishLine\":\"They're no different from weak monsters!\\\"\"},{\"lineNumber\":243941,\"originalJapaneseLine\":\"「いざ、尋常に勝負して\",\"translatedEnglishLine\":\"\\\"Now, let's fight a fair battle,\"},{\"lineNumber\":243942,\"originalJapaneseLine\":\"　俺様の経験値となるがいい！」\",\"translatedEnglishLine\":\"and become my experience points!\\\"\"},{\"lineNumber\":243943,\"originalJapaneseLine\":\"「ふんっ、威勢がいいじゃねぇか。\",\"translatedEnglishLine\":\"\\\"Hmph, you sure are spirited.\"},{\"lineNumber\":243944,\"originalJapaneseLine\":\"　言ってやれ剣豪！」\",\"translatedEnglishLine\":\"Say it, swordsman!\\\"\"},{\"lineNumber\":243945,\"originalJapaneseLine\":\"「カオスマスター！　やぶれたりィ！」\",\"translatedEnglishLine\":\"\\\"Chaos Master! Defeated!\\\"\"},{\"lineNumber\":243946,\"originalJapaneseLine\":\"「な、なんだと！？」\",\"translatedEnglishLine\":\"\\\"W-what!?\\\"\"},{\"lineNumber\":243947,\"originalJapaneseLine\":\"「勝つつもりなら何故鞘を捨てる！」\",\"translatedEnglishLine\":\"\\\"If you intend to win, why throw away your scabbard!?\\\"\"},{\"lineNumber\":243948,\"originalJapaneseLine\":\"「最初からカオスの鞘なんて持っとらんわ！」\",\"translatedEnglishLine\":\"\\\"I never had a Chaos scabbard to begin with!\\\"\"},{\"lineNumber\":243949,\"originalJapaneseLine\":\"「抜き身なの危ないから\",\"translatedEnglishLine\":\"\\\"It's dangerous to be unsheathed,\"},{\"lineNumber\":243950,\"originalJapaneseLine\":\"　本当は作りたいんですけどねぇ」\",\"translatedEnglishLine\":\"I really want to make one though.\\\"\"},{\"lineNumber\":243951,\"originalJapaneseLine\":\"「暑くて蒸れるのいやー」\",\"translatedEnglishLine\":\"\\\"I hate it because it gets hot and sweaty—\\\"\"},{\"lineNumber\":243952,\"originalJapaneseLine\":\"「……カオスさん蒸れるんですか？」\",\"translatedEnglishLine\":\"\\\"...Chaos, do you really get all sweaty?\\\"\"},{\"lineNumber\":243953,\"originalJapaneseLine\":\"「ええい、ごちゃごちゃ抜かすな！\",\"translatedEnglishLine\":\"\\\"Enough of the useless chatter!\"},{\"lineNumber\":243954,\"originalJapaneseLine\":\"　緊張感がなくなるだろうが！」\",\"translatedEnglishLine\":\"It's killing the tension!\\\"\"},{\"lineNumber\":243955,\"originalJapaneseLine\":\"「ハッ、ハハハ！\",\"translatedEnglishLine\":\"\\\"Ha, hahaha!\"},{\"lineNumber\":243956,\"originalJapaneseLine\":\"　なんだァ、こいつら！　面白い奴らだな！」\",\"translatedEnglishLine\":\"What are these guys! They're interesting fellows!\\\"\"},{\"lineNumber\":243957,\"originalJapaneseLine\":\"「とにかくこいつらを殺ーーす！」\",\"translatedEnglishLine\":\"\\\"Anyway, kill these guys!\\\"\"},{\"lineNumber\":243958,\"originalJapaneseLine\":\"「全員、戦闘態勢を！\",\"translatedEnglishLine\":\"\\\"Everyone, get into combat formation!\"},{\"lineNumber\":243959,\"originalJapaneseLine\":\"　行きます！」\",\"translatedEnglishLine\":\"Let's go!\\\"\"},{\"lineNumber\":243960,\"originalJapaneseLine\":\"「……皆さん、そこまでです」\",\"translatedEnglishLine\":\"\\\"...Everyone, that's enough.\\\"\"},{\"lineNumber\":243961,\"originalJapaneseLine\":\"戦いの最中、学者は冷静に戦いを制止した。\",\"translatedEnglishLine\":\"In the midst of the battle, the Scholar calmly stopped the fight.\"}]}","output_parsed":{"translationLines":[{"lineNumber":243902,"originalJapaneseLine":"「いや、待て、あれはぶたか？」","translatedEnglishLine":"\"No, wait, is that a pig?\""},{"lineNumber":243903,"originalJapaneseLine":"「ぶたにしてぶたにあらず！","translatedEnglishLine":"\"A pig but not just a pig!"},{"lineNumber":243904,"originalJapaneseLine":"　俺はぶたバンバラの突然変異体よォ！」","translatedEnglishLine":"I am a mutant of the pig Banbara!\""},{"lineNumber":243905,"originalJapaneseLine":"「醜いだるだるな他のと比べんな！","translatedEnglishLine":"\"Don't compare me to the ugly, flabby others!"},{"lineNumber":243906,"originalJapaneseLine":"　この体は鋼の筋肉で包まれた","translatedEnglishLine":"This body is wrapped in steel muscles,"},{"lineNumber":243907,"originalJapaneseLine":"　体脂肪率驚異の0％よ！」","translatedEnglishLine":"with a shocking body fat percentage of 0%!\""},{"lineNumber":243908,"originalJapaneseLine":"「……なんだこいつ」","translatedEnglishLine":"\"...What is this guy?\""},{"lineNumber":243909,"originalJapaneseLine":"「ふーん、こいつがえーと……","translatedEnglishLine":"\"Hmm, this guy is uh..."},{"lineNumber":243910,"originalJapaneseLine":"　ランス、だっけ？","translatedEnglishLine":"Rance, right?"},{"lineNumber":243911,"originalJapaneseLine":"　あんまり強くなさそー」","translatedEnglishLine":"He doesn't seem very strong.\""},{"lineNumber":243912,"originalJapaneseLine":"「油断禁物……で、ある」","translatedEnglishLine":"\"Don't be careless... that's for sure.\""},{"lineNumber":243913,"originalJapaneseLine":"「彼らはるろんたの突然変異体、王様と","translatedEnglishLine":"\"They are mutants of Ruronta, the King and"},{"lineNumber":243914,"originalJapaneseLine":"　ハチ女の突然変異体、通称、","translatedEnglishLine":"mutant of the Bee Woman, commonly known as,"},{"lineNumber":243915,"originalJapaneseLine":"　スズメバチ女のニードルです」","translatedEnglishLine":"Needle the Hornet Woman.\""},{"lineNumber":243916,"originalJapaneseLine":"「そして、私が隊の長を務める、","translatedEnglishLine":"\"And I serve as the leader of the squad,"},{"lineNumber":243917,"originalJapaneseLine":"　アカメ……皆には学者と呼ばれています……","translatedEnglishLine":"Akame... everyone calls me the Scholar..."},{"lineNumber":243918,"originalJapaneseLine":"　どうぞ、お見知りおきを」","translatedEnglishLine":"Please, remember me.\""},{"lineNumber":243919,"originalJapaneseLine":"「なんだなんだ？","translatedEnglishLine":"\"What is this, what is this?"},{"lineNumber":243920,"originalJapaneseLine":"　けったいなモンスターがぞろぞろと」","translatedEnglishLine":"A bunch of strange monsters are coming out.\""},{"lineNumber":243921,"originalJapaneseLine":"学者と名乗ったアカメの後ろには","translatedEnglishLine":"Behind Akame, who called herself the Scholar,"},{"lineNumber":243922,"originalJapaneseLine":"大量のモンスター達が並んでいた。","translatedEnglishLine":"a large number of monsters were lined up."},{"lineNumber":243923,"originalJapaneseLine":"「まさか……マエリータ隊か？」","translatedEnglishLine":"\"No way... is this the Maelita Squad?\""},{"lineNumber":243924,"originalJapaneseLine":"「おや、魔人であるサテラ様にまで","translatedEnglishLine":"\"Oh my, even Lady Satella, the demon lord,"},{"lineNumber":243925,"originalJapaneseLine":"　名を知られているとは、光栄ですね」","translatedEnglishLine":"knows our name? I'm honored.\""},{"lineNumber":243926,"originalJapaneseLine":"「ふん、白々しい……","translatedEnglishLine":"\"Hmph, how insincere..."},{"lineNumber":243927,"originalJapaneseLine":"　直接戦ったことはなくても、サテラが","translatedEnglishLine":"Even if she hasn't fought directly,"},{"lineNumber":243928,"originalJapaneseLine":"　何度お前らに苦労させられたことか……」","translatedEnglishLine":"Satella has had countless struggles because of you...\""},{"lineNumber":243929,"originalJapaneseLine":"「サテラ、このトンチキな集団はなんだ？」","translatedEnglishLine":"\"Satella, what is this crazy group?\""},{"lineNumber":243930,"originalJapaneseLine":"「マエリータ隊……","translatedEnglishLine":"\"The Maelita Squad..."},{"lineNumber":243931,"originalJapaneseLine":"　派閥戦争時代にケイブリス派で活躍した","translatedEnglishLine":"They were a special unit active during the faction war era on the Kaebris side,"},{"lineNumber":243932,"originalJapaneseLine":"　特殊な魔物だけで編成した特別部隊だ」","translatedEnglishLine":"a special unit composed only of unique monsters.\""},{"lineNumber":243933,"originalJapaneseLine":"「つ、強いんですか？」","translatedEnglishLine":"\"A-are they strong?\""},{"lineNumber":243934,"originalJapaneseLine":"「入隊条件は魔物の中でも強い者のみ、だからな。","translatedEnglishLine":"\"The requirement to join is to be among the strongest monsters."},{"lineNumber":243935,"originalJapaneseLine":"　普通の部隊よりも……","translatedEnglishLine":"So, compared to ordinary units..."},{"lineNumber":243936,"originalJapaneseLine":"「少数精鋭部隊が故に気づけば現れ、","translatedEnglishLine":"\"Because it's an elite small unit, they appear before you notice,"},{"lineNumber":243937,"originalJapaneseLine":"　またすぐに姿をくらませる連中だ。","translatedEnglishLine":"and vanish again quickly."},{"lineNumber":243938,"originalJapaneseLine":"　こいつらに何度仲間を殺されたか……」","translatedEnglishLine":"How many times have they killed my comrades...\""},{"lineNumber":243939,"originalJapaneseLine":"「がはははははははは！","translatedEnglishLine":"\"Gahahahahahaha!"},{"lineNumber":243940,"originalJapaneseLine":"　雑魚の魔物連中と何も変わらんわ！」","translatedEnglishLine":"They're no different from weak monsters!\""},{"lineNumber":243941,"originalJapaneseLine":"「いざ、尋常に勝負して","translatedEnglishLine":"\"Now, let's fight a fair battle,"},{"lineNumber":243942,"originalJapaneseLine":"　俺様の経験値となるがいい！」","translatedEnglishLine":"and become my experience points!\""},{"lineNumber":243943,"originalJapaneseLine":"「ふんっ、威勢がいいじゃねぇか。","translatedEnglishLine":"\"Hmph, you sure are spirited."},{"lineNumber":243944,"originalJapaneseLine":"　言ってやれ剣豪！」","translatedEnglishLine":"Say it, swordsman!\""},{"lineNumber":243945,"originalJapaneseLine":"「カオスマスター！　やぶれたりィ！」","translatedEnglishLine":"\"Chaos Master! Defeated!\""},{"lineNumber":243946,"originalJapaneseLine":"「な、なんだと！？」","translatedEnglishLine":"\"W-what!?\""},{"lineNumber":243947,"originalJapaneseLine":"「勝つつもりなら何故鞘を捨てる！」","translatedEnglishLine":"\"If you intend to win, why throw away your scabbard!?\""},{"lineNumber":243948,"originalJapaneseLine":"「最初からカオスの鞘なんて持っとらんわ！」","translatedEnglishLine":"\"I never had a Chaos scabbard to begin with!\""},{"lineNumber":243949,"originalJapaneseLine":"「抜き身なの危ないから","translatedEnglishLine":"\"It's dangerous to be unsheathed,"},{"lineNumber":243950,"originalJapaneseLine":"　本当は作りたいんですけどねぇ」","translatedEnglishLine":"I really want to make one though.\""},{"lineNumber":243951,"originalJapaneseLine":"「暑くて蒸れるのいやー」","translatedEnglishLine":"\"I hate it because it gets hot and sweaty—\""},{"lineNumber":243952,"originalJapaneseLine":"「……カオスさん蒸れるんですか？」","translatedEnglishLine":"\"...Chaos, do you really get all sweaty?\""},{"lineNumber":243953,"originalJapaneseLine":"「ええい、ごちゃごちゃ抜かすな！","translatedEnglishLine":"\"Enough of the useless chatter!"},{"lineNumber":243954,"originalJapaneseLine":"　緊張感がなくなるだろうが！」","translatedEnglishLine":"It's killing the tension!\""},{"lineNumber":243955,"originalJapaneseLine":"「ハッ、ハハハ！","translatedEnglishLine":"\"Ha, hahaha!"},{"lineNumber":243956,"originalJapaneseLine":"　なんだァ、こいつら！　面白い奴らだな！」","translatedEnglishLine":"What are these guys! They're interesting fellows!\""},{"lineNumber":243957,"originalJapaneseLine":"「とにかくこいつらを殺ーーす！」","translatedEnglishLine":"\"Anyway, kill these guys!\""},{"lineNumber":243958,"originalJapaneseLine":"「全員、戦闘態勢を！","translatedEnglishLine":"\"Everyone, get into combat formation!"},{"lineNumber":243959,"originalJapaneseLine":"　行きます！」","translatedEnglishLine":"Let's go!\""},{"lineNumber":243960,"originalJapaneseLine":"「……皆さん、そこまでです」","translatedEnglishLine":"\"...Everyone, that's enough.\""},{"lineNumber":243961,"originalJapaneseLine":"戦いの最中、学者は冷静に戦いを制止した。","translatedEnglishLine":"In the midst of the battle, the Scholar calmly stopped the fight."}]}}
+{
+    "id": "resp_04e8b99186d437270068f226d0bc3481949e34703396139ef1",
+    "object": "response",
+    "created_at": 1760700112,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_04e8b99186d437270068f226d13e248194939362e7b1b66c68",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":243902,\"originalJapaneseLine\":\"「いや、待て、あれはぶたか？」\",\"translatedEnglishLine\":\"\\\"No, wait, is that a pig?\\\"\"},{\"lineNumber\":243903,\"originalJapaneseLine\":\"「ぶたにしてぶたにあらず！\",\"translatedEnglishLine\":\"\\\"A pig but not just a pig!\"},{\"lineNumber\":243904,\"originalJapaneseLine\":\"　俺はぶたバンバラの突然変異体よォ！」\",\"translatedEnglishLine\":\"I am a mutant of the pig Banbara!\\\"\"},{\"lineNumber\":243905,\"originalJapaneseLine\":\"「醜いだるだるな他のと比べんな！\",\"translatedEnglishLine\":\"\\\"Don't compare me to the ugly, flabby others!\"},{\"lineNumber\":243906,\"originalJapaneseLine\":\"　この体は鋼の筋肉で包まれた\",\"translatedEnglishLine\":\"This body is wrapped in steel muscles,\"},{\"lineNumber\":243907,\"originalJapaneseLine\":\"　体脂肪率驚異の0％よ！」\",\"translatedEnglishLine\":\"with a shocking body fat percentage of 0%!\\\"\"},{\"lineNumber\":243908,\"originalJapaneseLine\":\"「……なんだこいつ」\",\"translatedEnglishLine\":\"\\\"...What is this guy?\\\"\"},{\"lineNumber\":243909,\"originalJapaneseLine\":\"「ふーん、こいつがえーと……\",\"translatedEnglishLine\":\"\\\"Hmm, this guy is uh...\"},{\"lineNumber\":243910,\"originalJapaneseLine\":\"　ランス、だっけ？\",\"translatedEnglishLine\":\"Rance, right?\"},{\"lineNumber\":243911,\"originalJapaneseLine\":\"　あんまり強くなさそー」\",\"translatedEnglishLine\":\"He doesn't seem very strong.\\\"\"},{\"lineNumber\":243912,\"originalJapaneseLine\":\"「油断禁物……で、ある」\",\"translatedEnglishLine\":\"\\\"Don't be careless... that's for sure.\\\"\"},{\"lineNumber\":243913,\"originalJapaneseLine\":\"「彼らはるろんたの突然変異体、王様と\",\"translatedEnglishLine\":\"\\\"They are mutants of Ruronta, the King and\"},{\"lineNumber\":243914,\"originalJapaneseLine\":\"　ハチ女の突然変異体、通称、\",\"translatedEnglishLine\":\"mutant of the Bee Woman, commonly known as,\"},{\"lineNumber\":243915,\"originalJapaneseLine\":\"　スズメバチ女のニードルです」\",\"translatedEnglishLine\":\"Needle the Hornet Woman.\\\"\"},{\"lineNumber\":243916,\"originalJapaneseLine\":\"「そして、私が隊の長を務める、\",\"translatedEnglishLine\":\"\\\"And I serve as the leader of the squad,\"},{\"lineNumber\":243917,\"originalJapaneseLine\":\"　アカメ……皆には学者と呼ばれています……\",\"translatedEnglishLine\":\"Akame... everyone calls me the Scholar...\"},{\"lineNumber\":243918,\"originalJapaneseLine\":\"　どうぞ、お見知りおきを」\",\"translatedEnglishLine\":\"Please, remember me.\\\"\"},{\"lineNumber\":243919,\"originalJapaneseLine\":\"「なんだなんだ？\",\"translatedEnglishLine\":\"\\\"What is this, what is this?\"},{\"lineNumber\":243920,\"originalJapaneseLine\":\"　けったいなモンスターがぞろぞろと」\",\"translatedEnglishLine\":\"A bunch of strange monsters are coming out.\\\"\"},{\"lineNumber\":243921,\"originalJapaneseLine\":\"学者と名乗ったアカメの後ろには\",\"translatedEnglishLine\":\"Behind Akame, who called herself the Scholar,\"},{\"lineNumber\":243922,\"originalJapaneseLine\":\"大量のモンスター達が並んでいた。\",\"translatedEnglishLine\":\"a large number of monsters were lined up.\"},{\"lineNumber\":243923,\"originalJapaneseLine\":\"「まさか……マエリータ隊か？」\",\"translatedEnglishLine\":\"\\\"No way... is this the Maelita Squad?\\\"\"},{\"lineNumber\":243924,\"originalJapaneseLine\":\"「おや、魔人であるサテラ様にまで\",\"translatedEnglishLine\":\"\\\"Oh my, even Lady Satella, the demon lord,\"},{\"lineNumber\":243925,\"originalJapaneseLine\":\"　名を知られているとは、光栄ですね」\",\"translatedEnglishLine\":\"knows our name? I'm honored.\\\"\"},{\"lineNumber\":243926,\"originalJapaneseLine\":\"「ふん、白々しい……\",\"translatedEnglishLine\":\"\\\"Hmph, how insincere...\"},{\"lineNumber\":243927,\"originalJapaneseLine\":\"　直接戦ったことはなくても、サテラが\",\"translatedEnglishLine\":\"Even if she hasn't fought directly,\"},{\"lineNumber\":243928,\"originalJapaneseLine\":\"　何度お前らに苦労させられたことか……」\",\"translatedEnglishLine\":\"Satella has had countless struggles because of you...\\\"\"},{\"lineNumber\":243929,\"originalJapaneseLine\":\"「サテラ、このトンチキな集団はなんだ？」\",\"translatedEnglishLine\":\"\\\"Satella, what is this crazy group?\\\"\"},{\"lineNumber\":243930,\"originalJapaneseLine\":\"「マエリータ隊……\",\"translatedEnglishLine\":\"\\\"The Maelita Squad...\"},{\"lineNumber\":243931,\"originalJapaneseLine\":\"　派閥戦争時代にケイブリス派で活躍した\",\"translatedEnglishLine\":\"They were a special unit active during the faction war era on the Kaebris side,\"},{\"lineNumber\":243932,\"originalJapaneseLine\":\"　特殊な魔物だけで編成した特別部隊だ」\",\"translatedEnglishLine\":\"a special unit composed only of unique monsters.\\\"\"},{\"lineNumber\":243933,\"originalJapaneseLine\":\"「つ、強いんですか？」\",\"translatedEnglishLine\":\"\\\"A-are they strong?\\\"\"},{\"lineNumber\":243934,\"originalJapaneseLine\":\"「入隊条件は魔物の中でも強い者のみ、だからな。\",\"translatedEnglishLine\":\"\\\"The requirement to join is to be among the strongest monsters.\"},{\"lineNumber\":243935,\"originalJapaneseLine\":\"　普通の部隊よりも……\",\"translatedEnglishLine\":\"So, compared to ordinary units...\"},{\"lineNumber\":243936,\"originalJapaneseLine\":\"「少数精鋭部隊が故に気づけば現れ、\",\"translatedEnglishLine\":\"\\\"Because it's an elite small unit, they appear before you notice,\"},{\"lineNumber\":243937,\"originalJapaneseLine\":\"　またすぐに姿をくらませる連中だ。\",\"translatedEnglishLine\":\"and vanish again quickly.\"},{\"lineNumber\":243938,\"originalJapaneseLine\":\"　こいつらに何度仲間を殺されたか……」\",\"translatedEnglishLine\":\"How many times have they killed my comrades...\\\"\"},{\"lineNumber\":243939,\"originalJapaneseLine\":\"「がはははははははは！\",\"translatedEnglishLine\":\"\\\"Gahahahahahaha!\"},{\"lineNumber\":243940,\"originalJapaneseLine\":\"　雑魚の魔物連中と何も変わらんわ！」\",\"translatedEnglishLine\":\"They're no different from weak monsters!\\\"\"},{\"lineNumber\":243941,\"originalJapaneseLine\":\"「いざ、尋常に勝負して\",\"translatedEnglishLine\":\"\\\"Now, let's fight a fair battle,\"},{\"lineNumber\":243942,\"originalJapaneseLine\":\"　俺様の経験値となるがいい！」\",\"translatedEnglishLine\":\"and become my experience points!\\\"\"},{\"lineNumber\":243943,\"originalJapaneseLine\":\"「ふんっ、威勢がいいじゃねぇか。\",\"translatedEnglishLine\":\"\\\"Hmph, you sure are spirited.\"},{\"lineNumber\":243944,\"originalJapaneseLine\":\"　言ってやれ剣豪！」\",\"translatedEnglishLine\":\"Say it, swordsman!\\\"\"},{\"lineNumber\":243945,\"originalJapaneseLine\":\"「カオスマスター！　やぶれたりィ！」\",\"translatedEnglishLine\":\"\\\"Chaos Master! Defeated!\\\"\"},{\"lineNumber\":243946,\"originalJapaneseLine\":\"「な、なんだと！？」\",\"translatedEnglishLine\":\"\\\"W-what!?\\\"\"},{\"lineNumber\":243947,\"originalJapaneseLine\":\"「勝つつもりなら何故鞘を捨てる！」\",\"translatedEnglishLine\":\"\\\"If you intend to win, why throw away your scabbard!?\\\"\"},{\"lineNumber\":243948,\"originalJapaneseLine\":\"「最初からカオスの鞘なんて持っとらんわ！」\",\"translatedEnglishLine\":\"\\\"I never had a Chaos scabbard to begin with!\\\"\"},{\"lineNumber\":243949,\"originalJapaneseLine\":\"「抜き身なの危ないから\",\"translatedEnglishLine\":\"\\\"It's dangerous to be unsheathed,\"},{\"lineNumber\":243950,\"originalJapaneseLine\":\"　本当は作りたいんですけどねぇ」\",\"translatedEnglishLine\":\"I really want to make one though.\\\"\"},{\"lineNumber\":243951,\"originalJapaneseLine\":\"「暑くて蒸れるのいやー」\",\"translatedEnglishLine\":\"\\\"I hate it because it gets hot and sweaty—\\\"\"},{\"lineNumber\":243952,\"originalJapaneseLine\":\"「……カオスさん蒸れるんですか？」\",\"translatedEnglishLine\":\"\\\"...Chaos, do you really get all sweaty?\\\"\"},{\"lineNumber\":243953,\"originalJapaneseLine\":\"「ええい、ごちゃごちゃ抜かすな！\",\"translatedEnglishLine\":\"\\\"Enough of the useless chatter!\"},{\"lineNumber\":243954,\"originalJapaneseLine\":\"　緊張感がなくなるだろうが！」\",\"translatedEnglishLine\":\"It's killing the tension!\\\"\"},{\"lineNumber\":243955,\"originalJapaneseLine\":\"「ハッ、ハハハ！\",\"translatedEnglishLine\":\"\\\"Ha, hahaha!\"},{\"lineNumber\":243956,\"originalJapaneseLine\":\"　なんだァ、こいつら！　面白い奴らだな！」\",\"translatedEnglishLine\":\"What are these guys! They're interesting fellows!\\\"\"},{\"lineNumber\":243957,\"originalJapaneseLine\":\"「とにかくこいつらを殺ーーす！」\",\"translatedEnglishLine\":\"\\\"Anyway, kill these guys!\\\"\"},{\"lineNumber\":243958,\"originalJapaneseLine\":\"「全員、戦闘態勢を！\",\"translatedEnglishLine\":\"\\\"Everyone, get into combat formation!\"},{\"lineNumber\":243959,\"originalJapaneseLine\":\"　行きます！」\",\"translatedEnglishLine\":\"Let's go!\\\"\"},{\"lineNumber\":243960,\"originalJapaneseLine\":\"「……皆さん、そこまでです」\",\"translatedEnglishLine\":\"\\\"...Everyone, that's enough.\\\"\"},{\"lineNumber\":243961,\"originalJapaneseLine\":\"戦いの最中、学者は冷静に戦いを制止した。\",\"translatedEnglishLine\":\"In the midst of the battle, the Scholar calmly stopped the fight.\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 243902,
+                                "originalJapaneseLine": "「いや、待て、あれはぶたか？」",
+                                "translatedEnglishLine": "\"No, wait, is that a pig?\""
+                            },
+                            {
+                                "lineNumber": 243903,
+                                "originalJapaneseLine": "「ぶたにしてぶたにあらず！",
+                                "translatedEnglishLine": "\"A pig but not just a pig!"
+                            },
+                            {
+                                "lineNumber": 243904,
+                                "originalJapaneseLine": "　俺はぶたバンバラの突然変異体よォ！」",
+                                "translatedEnglishLine": "I am a mutant of the pig Banbara!\""
+                            },
+                            {
+                                "lineNumber": 243905,
+                                "originalJapaneseLine": "「醜いだるだるな他のと比べんな！",
+                                "translatedEnglishLine": "\"Don't compare me to the ugly, flabby others!"
+                            },
+                            {
+                                "lineNumber": 243906,
+                                "originalJapaneseLine": "　この体は鋼の筋肉で包まれた",
+                                "translatedEnglishLine": "This body is wrapped in steel muscles,"
+                            },
+                            {
+                                "lineNumber": 243907,
+                                "originalJapaneseLine": "　体脂肪率驚異の0％よ！」",
+                                "translatedEnglishLine": "with a shocking body fat percentage of 0%!\""
+                            },
+                            {
+                                "lineNumber": 243908,
+                                "originalJapaneseLine": "「……なんだこいつ」",
+                                "translatedEnglishLine": "\"...What is this guy?\""
+                            },
+                            {
+                                "lineNumber": 243909,
+                                "originalJapaneseLine": "「ふーん、こいつがえーと……",
+                                "translatedEnglishLine": "\"Hmm, this guy is uh..."
+                            },
+                            {
+                                "lineNumber": 243910,
+                                "originalJapaneseLine": "　ランス、だっけ？",
+                                "translatedEnglishLine": "Rance, right?"
+                            },
+                            {
+                                "lineNumber": 243911,
+                                "originalJapaneseLine": "　あんまり強くなさそー」",
+                                "translatedEnglishLine": "He doesn't seem very strong.\""
+                            },
+                            {
+                                "lineNumber": 243912,
+                                "originalJapaneseLine": "「油断禁物……で、ある」",
+                                "translatedEnglishLine": "\"Don't be careless... that's for sure.\""
+                            },
+                            {
+                                "lineNumber": 243913,
+                                "originalJapaneseLine": "「彼らはるろんたの突然変異体、王様と",
+                                "translatedEnglishLine": "\"They are mutants of Ruronta, the King and"
+                            },
+                            {
+                                "lineNumber": 243914,
+                                "originalJapaneseLine": "　ハチ女の突然変異体、通称、",
+                                "translatedEnglishLine": "mutant of the Bee Woman, commonly known as,"
+                            },
+                            {
+                                "lineNumber": 243915,
+                                "originalJapaneseLine": "　スズメバチ女のニードルです」",
+                                "translatedEnglishLine": "Needle the Hornet Woman.\""
+                            },
+                            {
+                                "lineNumber": 243916,
+                                "originalJapaneseLine": "「そして、私が隊の長を務める、",
+                                "translatedEnglishLine": "\"And I serve as the leader of the squad,"
+                            },
+                            {
+                                "lineNumber": 243917,
+                                "originalJapaneseLine": "　アカメ……皆には学者と呼ばれています……",
+                                "translatedEnglishLine": "Akame... everyone calls me the Scholar..."
+                            },
+                            {
+                                "lineNumber": 243918,
+                                "originalJapaneseLine": "　どうぞ、お見知りおきを」",
+                                "translatedEnglishLine": "Please, remember me.\""
+                            },
+                            {
+                                "lineNumber": 243919,
+                                "originalJapaneseLine": "「なんだなんだ？",
+                                "translatedEnglishLine": "\"What is this, what is this?"
+                            },
+                            {
+                                "lineNumber": 243920,
+                                "originalJapaneseLine": "　けったいなモンスターがぞろぞろと」",
+                                "translatedEnglishLine": "A bunch of strange monsters are coming out.\""
+                            },
+                            {
+                                "lineNumber": 243921,
+                                "originalJapaneseLine": "学者と名乗ったアカメの後ろには",
+                                "translatedEnglishLine": "Behind Akame, who called herself the Scholar,"
+                            },
+                            {
+                                "lineNumber": 243922,
+                                "originalJapaneseLine": "大量のモンスター達が並んでいた。",
+                                "translatedEnglishLine": "a large number of monsters were lined up."
+                            },
+                            {
+                                "lineNumber": 243923,
+                                "originalJapaneseLine": "「まさか……マエリータ隊か？」",
+                                "translatedEnglishLine": "\"No way... is this the Maelita Squad?\""
+                            },
+                            {
+                                "lineNumber": 243924,
+                                "originalJapaneseLine": "「おや、魔人であるサテラ様にまで",
+                                "translatedEnglishLine": "\"Oh my, even Lady Satella, the demon lord,"
+                            },
+                            {
+                                "lineNumber": 243925,
+                                "originalJapaneseLine": "　名を知られているとは、光栄ですね」",
+                                "translatedEnglishLine": "knows our name? I'm honored.\""
+                            },
+                            {
+                                "lineNumber": 243926,
+                                "originalJapaneseLine": "「ふん、白々しい……",
+                                "translatedEnglishLine": "\"Hmph, how insincere..."
+                            },
+                            {
+                                "lineNumber": 243927,
+                                "originalJapaneseLine": "　直接戦ったことはなくても、サテラが",
+                                "translatedEnglishLine": "Even if she hasn't fought directly,"
+                            },
+                            {
+                                "lineNumber": 243928,
+                                "originalJapaneseLine": "　何度お前らに苦労させられたことか……」",
+                                "translatedEnglishLine": "Satella has had countless struggles because of you...\""
+                            },
+                            {
+                                "lineNumber": 243929,
+                                "originalJapaneseLine": "「サテラ、このトンチキな集団はなんだ？」",
+                                "translatedEnglishLine": "\"Satella, what is this crazy group?\""
+                            },
+                            {
+                                "lineNumber": 243930,
+                                "originalJapaneseLine": "「マエリータ隊……",
+                                "translatedEnglishLine": "\"The Maelita Squad..."
+                            },
+                            {
+                                "lineNumber": 243931,
+                                "originalJapaneseLine": "　派閥戦争時代にケイブリス派で活躍した",
+                                "translatedEnglishLine": "They were a special unit active during the faction war era on the Kaebris side,"
+                            },
+                            {
+                                "lineNumber": 243932,
+                                "originalJapaneseLine": "　特殊な魔物だけで編成した特別部隊だ」",
+                                "translatedEnglishLine": "a special unit composed only of unique monsters.\""
+                            },
+                            {
+                                "lineNumber": 243933,
+                                "originalJapaneseLine": "「つ、強いんですか？」",
+                                "translatedEnglishLine": "\"A-are they strong?\""
+                            },
+                            {
+                                "lineNumber": 243934,
+                                "originalJapaneseLine": "「入隊条件は魔物の中でも強い者のみ、だからな。",
+                                "translatedEnglishLine": "\"The requirement to join is to be among the strongest monsters."
+                            },
+                            {
+                                "lineNumber": 243935,
+                                "originalJapaneseLine": "　普通の部隊よりも……",
+                                "translatedEnglishLine": "So, compared to ordinary units..."
+                            },
+                            {
+                                "lineNumber": 243936,
+                                "originalJapaneseLine": "「少数精鋭部隊が故に気づけば現れ、",
+                                "translatedEnglishLine": "\"Because it's an elite small unit, they appear before you notice,"
+                            },
+                            {
+                                "lineNumber": 243937,
+                                "originalJapaneseLine": "　またすぐに姿をくらませる連中だ。",
+                                "translatedEnglishLine": "and vanish again quickly."
+                            },
+                            {
+                                "lineNumber": 243938,
+                                "originalJapaneseLine": "　こいつらに何度仲間を殺されたか……」",
+                                "translatedEnglishLine": "How many times have they killed my comrades...\""
+                            },
+                            {
+                                "lineNumber": 243939,
+                                "originalJapaneseLine": "「がはははははははは！",
+                                "translatedEnglishLine": "\"Gahahahahahaha!"
+                            },
+                            {
+                                "lineNumber": 243940,
+                                "originalJapaneseLine": "　雑魚の魔物連中と何も変わらんわ！」",
+                                "translatedEnglishLine": "They're no different from weak monsters!\""
+                            },
+                            {
+                                "lineNumber": 243941,
+                                "originalJapaneseLine": "「いざ、尋常に勝負して",
+                                "translatedEnglishLine": "\"Now, let's fight a fair battle,"
+                            },
+                            {
+                                "lineNumber": 243942,
+                                "originalJapaneseLine": "　俺様の経験値となるがいい！」",
+                                "translatedEnglishLine": "and become my experience points!\""
+                            },
+                            {
+                                "lineNumber": 243943,
+                                "originalJapaneseLine": "「ふんっ、威勢がいいじゃねぇか。",
+                                "translatedEnglishLine": "\"Hmph, you sure are spirited."
+                            },
+                            {
+                                "lineNumber": 243944,
+                                "originalJapaneseLine": "　言ってやれ剣豪！」",
+                                "translatedEnglishLine": "Say it, swordsman!\""
+                            },
+                            {
+                                "lineNumber": 243945,
+                                "originalJapaneseLine": "「カオスマスター！　やぶれたりィ！」",
+                                "translatedEnglishLine": "\"Chaos Master! Defeated!\""
+                            },
+                            {
+                                "lineNumber": 243946,
+                                "originalJapaneseLine": "「な、なんだと！？」",
+                                "translatedEnglishLine": "\"W-what!?\""
+                            },
+                            {
+                                "lineNumber": 243947,
+                                "originalJapaneseLine": "「勝つつもりなら何故鞘を捨てる！」",
+                                "translatedEnglishLine": "\"If you intend to win, why throw away your scabbard!?\""
+                            },
+                            {
+                                "lineNumber": 243948,
+                                "originalJapaneseLine": "「最初からカオスの鞘なんて持っとらんわ！」",
+                                "translatedEnglishLine": "\"I never had a Chaos scabbard to begin with!\""
+                            },
+                            {
+                                "lineNumber": 243949,
+                                "originalJapaneseLine": "「抜き身なの危ないから",
+                                "translatedEnglishLine": "\"It's dangerous to be unsheathed,"
+                            },
+                            {
+                                "lineNumber": 243950,
+                                "originalJapaneseLine": "　本当は作りたいんですけどねぇ」",
+                                "translatedEnglishLine": "I really want to make one though.\""
+                            },
+                            {
+                                "lineNumber": 243951,
+                                "originalJapaneseLine": "「暑くて蒸れるのいやー」",
+                                "translatedEnglishLine": "\"I hate it because it gets hot and sweaty—\""
+                            },
+                            {
+                                "lineNumber": 243952,
+                                "originalJapaneseLine": "「……カオスさん蒸れるんですか？」",
+                                "translatedEnglishLine": "\"...Chaos, do you really get all sweaty?\""
+                            },
+                            {
+                                "lineNumber": 243953,
+                                "originalJapaneseLine": "「ええい、ごちゃごちゃ抜かすな！",
+                                "translatedEnglishLine": "\"Enough of the useless chatter!"
+                            },
+                            {
+                                "lineNumber": 243954,
+                                "originalJapaneseLine": "　緊張感がなくなるだろうが！」",
+                                "translatedEnglishLine": "It's killing the tension!\""
+                            },
+                            {
+                                "lineNumber": 243955,
+                                "originalJapaneseLine": "「ハッ、ハハハ！",
+                                "translatedEnglishLine": "\"Ha, hahaha!"
+                            },
+                            {
+                                "lineNumber": 243956,
+                                "originalJapaneseLine": "　なんだァ、こいつら！　面白い奴らだな！」",
+                                "translatedEnglishLine": "What are these guys! They're interesting fellows!\""
+                            },
+                            {
+                                "lineNumber": 243957,
+                                "originalJapaneseLine": "「とにかくこいつらを殺ーーす！」",
+                                "translatedEnglishLine": "\"Anyway, kill these guys!\""
+                            },
+                            {
+                                "lineNumber": 243958,
+                                "originalJapaneseLine": "「全員、戦闘態勢を！",
+                                "translatedEnglishLine": "\"Everyone, get into combat formation!"
+                            },
+                            {
+                                "lineNumber": 243959,
+                                "originalJapaneseLine": "　行きます！」",
+                                "translatedEnglishLine": "Let's go!\""
+                            },
+                            {
+                                "lineNumber": 243960,
+                                "originalJapaneseLine": "「……皆さん、そこまでです」",
+                                "translatedEnglishLine": "\"...Everyone, that's enough.\""
+                            },
+                            {
+                                "lineNumber": 243961,
+                                "originalJapaneseLine": "戦いの最中、学者は冷静に戦いを制止した。",
+                                "translatedEnglishLine": "In the midst of the battle, the Scholar calmly stopped the fight."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1765,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2283,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4048
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":243902,\"originalJapaneseLine\":\"「いや、待て、あれはぶたか？」\",\"translatedEnglishLine\":\"\\\"No, wait, is that a pig?\\\"\"},{\"lineNumber\":243903,\"originalJapaneseLine\":\"「ぶたにしてぶたにあらず！\",\"translatedEnglishLine\":\"\\\"A pig but not just a pig!\"},{\"lineNumber\":243904,\"originalJapaneseLine\":\"　俺はぶたバンバラの突然変異体よォ！」\",\"translatedEnglishLine\":\"I am a mutant of the pig Banbara!\\\"\"},{\"lineNumber\":243905,\"originalJapaneseLine\":\"「醜いだるだるな他のと比べんな！\",\"translatedEnglishLine\":\"\\\"Don't compare me to the ugly, flabby others!\"},{\"lineNumber\":243906,\"originalJapaneseLine\":\"　この体は鋼の筋肉で包まれた\",\"translatedEnglishLine\":\"This body is wrapped in steel muscles,\"},{\"lineNumber\":243907,\"originalJapaneseLine\":\"　体脂肪率驚異の0％よ！」\",\"translatedEnglishLine\":\"with a shocking body fat percentage of 0%!\\\"\"},{\"lineNumber\":243908,\"originalJapaneseLine\":\"「……なんだこいつ」\",\"translatedEnglishLine\":\"\\\"...What is this guy?\\\"\"},{\"lineNumber\":243909,\"originalJapaneseLine\":\"「ふーん、こいつがえーと……\",\"translatedEnglishLine\":\"\\\"Hmm, this guy is uh...\"},{\"lineNumber\":243910,\"originalJapaneseLine\":\"　ランス、だっけ？\",\"translatedEnglishLine\":\"Rance, right?\"},{\"lineNumber\":243911,\"originalJapaneseLine\":\"　あんまり強くなさそー」\",\"translatedEnglishLine\":\"He doesn't seem very strong.\\\"\"},{\"lineNumber\":243912,\"originalJapaneseLine\":\"「油断禁物……で、ある」\",\"translatedEnglishLine\":\"\\\"Don't be careless... that's for sure.\\\"\"},{\"lineNumber\":243913,\"originalJapaneseLine\":\"「彼らはるろんたの突然変異体、王様と\",\"translatedEnglishLine\":\"\\\"They are mutants of Ruronta, the King and\"},{\"lineNumber\":243914,\"originalJapaneseLine\":\"　ハチ女の突然変異体、通称、\",\"translatedEnglishLine\":\"mutant of the Bee Woman, commonly known as,\"},{\"lineNumber\":243915,\"originalJapaneseLine\":\"　スズメバチ女のニードルです」\",\"translatedEnglishLine\":\"Needle the Hornet Woman.\\\"\"},{\"lineNumber\":243916,\"originalJapaneseLine\":\"「そして、私が隊の長を務める、\",\"translatedEnglishLine\":\"\\\"And I serve as the leader of the squad,\"},{\"lineNumber\":243917,\"originalJapaneseLine\":\"　アカメ……皆には学者と呼ばれています……\",\"translatedEnglishLine\":\"Akame... everyone calls me the Scholar...\"},{\"lineNumber\":243918,\"originalJapaneseLine\":\"　どうぞ、お見知りおきを」\",\"translatedEnglishLine\":\"Please, remember me.\\\"\"},{\"lineNumber\":243919,\"originalJapaneseLine\":\"「なんだなんだ？\",\"translatedEnglishLine\":\"\\\"What is this, what is this?\"},{\"lineNumber\":243920,\"originalJapaneseLine\":\"　けったいなモンスターがぞろぞろと」\",\"translatedEnglishLine\":\"A bunch of strange monsters are coming out.\\\"\"},{\"lineNumber\":243921,\"originalJapaneseLine\":\"学者と名乗ったアカメの後ろには\",\"translatedEnglishLine\":\"Behind Akame, who called herself the Scholar,\"},{\"lineNumber\":243922,\"originalJapaneseLine\":\"大量のモンスター達が並んでいた。\",\"translatedEnglishLine\":\"a large number of monsters were lined up.\"},{\"lineNumber\":243923,\"originalJapaneseLine\":\"「まさか……マエリータ隊か？」\",\"translatedEnglishLine\":\"\\\"No way... is this the Maelita Squad?\\\"\"},{\"lineNumber\":243924,\"originalJapaneseLine\":\"「おや、魔人であるサテラ様にまで\",\"translatedEnglishLine\":\"\\\"Oh my, even Lady Satella, the demon lord,\"},{\"lineNumber\":243925,\"originalJapaneseLine\":\"　名を知られているとは、光栄ですね」\",\"translatedEnglishLine\":\"knows our name? I'm honored.\\\"\"},{\"lineNumber\":243926,\"originalJapaneseLine\":\"「ふん、白々しい……\",\"translatedEnglishLine\":\"\\\"Hmph, how insincere...\"},{\"lineNumber\":243927,\"originalJapaneseLine\":\"　直接戦ったことはなくても、サテラが\",\"translatedEnglishLine\":\"Even if she hasn't fought directly,\"},{\"lineNumber\":243928,\"originalJapaneseLine\":\"　何度お前らに苦労させられたことか……」\",\"translatedEnglishLine\":\"Satella has had countless struggles because of you...\\\"\"},{\"lineNumber\":243929,\"originalJapaneseLine\":\"「サテラ、このトンチキな集団はなんだ？」\",\"translatedEnglishLine\":\"\\\"Satella, what is this crazy group?\\\"\"},{\"lineNumber\":243930,\"originalJapaneseLine\":\"「マエリータ隊……\",\"translatedEnglishLine\":\"\\\"The Maelita Squad...\"},{\"lineNumber\":243931,\"originalJapaneseLine\":\"　派閥戦争時代にケイブリス派で活躍した\",\"translatedEnglishLine\":\"They were a special unit active during the faction war era on the Kaebris side,\"},{\"lineNumber\":243932,\"originalJapaneseLine\":\"　特殊な魔物だけで編成した特別部隊だ」\",\"translatedEnglishLine\":\"a special unit composed only of unique monsters.\\\"\"},{\"lineNumber\":243933,\"originalJapaneseLine\":\"「つ、強いんですか？」\",\"translatedEnglishLine\":\"\\\"A-are they strong?\\\"\"},{\"lineNumber\":243934,\"originalJapaneseLine\":\"「入隊条件は魔物の中でも強い者のみ、だからな。\",\"translatedEnglishLine\":\"\\\"The requirement to join is to be among the strongest monsters.\"},{\"lineNumber\":243935,\"originalJapaneseLine\":\"　普通の部隊よりも……\",\"translatedEnglishLine\":\"So, compared to ordinary units...\"},{\"lineNumber\":243936,\"originalJapaneseLine\":\"「少数精鋭部隊が故に気づけば現れ、\",\"translatedEnglishLine\":\"\\\"Because it's an elite small unit, they appear before you notice,\"},{\"lineNumber\":243937,\"originalJapaneseLine\":\"　またすぐに姿をくらませる連中だ。\",\"translatedEnglishLine\":\"and vanish again quickly.\"},{\"lineNumber\":243938,\"originalJapaneseLine\":\"　こいつらに何度仲間を殺されたか……」\",\"translatedEnglishLine\":\"How many times have they killed my comrades...\\\"\"},{\"lineNumber\":243939,\"originalJapaneseLine\":\"「がはははははははは！\",\"translatedEnglishLine\":\"\\\"Gahahahahahaha!\"},{\"lineNumber\":243940,\"originalJapaneseLine\":\"　雑魚の魔物連中と何も変わらんわ！」\",\"translatedEnglishLine\":\"They're no different from weak monsters!\\\"\"},{\"lineNumber\":243941,\"originalJapaneseLine\":\"「いざ、尋常に勝負して\",\"translatedEnglishLine\":\"\\\"Now, let's fight a fair battle,\"},{\"lineNumber\":243942,\"originalJapaneseLine\":\"　俺様の経験値となるがいい！」\",\"translatedEnglishLine\":\"and become my experience points!\\\"\"},{\"lineNumber\":243943,\"originalJapaneseLine\":\"「ふんっ、威勢がいいじゃねぇか。\",\"translatedEnglishLine\":\"\\\"Hmph, you sure are spirited.\"},{\"lineNumber\":243944,\"originalJapaneseLine\":\"　言ってやれ剣豪！」\",\"translatedEnglishLine\":\"Say it, swordsman!\\\"\"},{\"lineNumber\":243945,\"originalJapaneseLine\":\"「カオスマスター！　やぶれたりィ！」\",\"translatedEnglishLine\":\"\\\"Chaos Master! Defeated!\\\"\"},{\"lineNumber\":243946,\"originalJapaneseLine\":\"「な、なんだと！？」\",\"translatedEnglishLine\":\"\\\"W-what!?\\\"\"},{\"lineNumber\":243947,\"originalJapaneseLine\":\"「勝つつもりなら何故鞘を捨てる！」\",\"translatedEnglishLine\":\"\\\"If you intend to win, why throw away your scabbard!?\\\"\"},{\"lineNumber\":243948,\"originalJapaneseLine\":\"「最初からカオスの鞘なんて持っとらんわ！」\",\"translatedEnglishLine\":\"\\\"I never had a Chaos scabbard to begin with!\\\"\"},{\"lineNumber\":243949,\"originalJapaneseLine\":\"「抜き身なの危ないから\",\"translatedEnglishLine\":\"\\\"It's dangerous to be unsheathed,\"},{\"lineNumber\":243950,\"originalJapaneseLine\":\"　本当は作りたいんですけどねぇ」\",\"translatedEnglishLine\":\"I really want to make one though.\\\"\"},{\"lineNumber\":243951,\"originalJapaneseLine\":\"「暑くて蒸れるのいやー」\",\"translatedEnglishLine\":\"\\\"I hate it because it gets hot and sweaty—\\\"\"},{\"lineNumber\":243952,\"originalJapaneseLine\":\"「……カオスさん蒸れるんですか？」\",\"translatedEnglishLine\":\"\\\"...Chaos, do you really get all sweaty?\\\"\"},{\"lineNumber\":243953,\"originalJapaneseLine\":\"「ええい、ごちゃごちゃ抜かすな！\",\"translatedEnglishLine\":\"\\\"Enough of the useless chatter!\"},{\"lineNumber\":243954,\"originalJapaneseLine\":\"　緊張感がなくなるだろうが！」\",\"translatedEnglishLine\":\"It's killing the tension!\\\"\"},{\"lineNumber\":243955,\"originalJapaneseLine\":\"「ハッ、ハハハ！\",\"translatedEnglishLine\":\"\\\"Ha, hahaha!\"},{\"lineNumber\":243956,\"originalJapaneseLine\":\"　なんだァ、こいつら！　面白い奴らだな！」\",\"translatedEnglishLine\":\"What are these guys! They're interesting fellows!\\\"\"},{\"lineNumber\":243957,\"originalJapaneseLine\":\"「とにかくこいつらを殺ーーす！」\",\"translatedEnglishLine\":\"\\\"Anyway, kill these guys!\\\"\"},{\"lineNumber\":243958,\"originalJapaneseLine\":\"「全員、戦闘態勢を！\",\"translatedEnglishLine\":\"\\\"Everyone, get into combat formation!\"},{\"lineNumber\":243959,\"originalJapaneseLine\":\"　行きます！」\",\"translatedEnglishLine\":\"Let's go!\\\"\"},{\"lineNumber\":243960,\"originalJapaneseLine\":\"「……皆さん、そこまでです」\",\"translatedEnglishLine\":\"\\\"...Everyone, that's enough.\\\"\"},{\"lineNumber\":243961,\"originalJapaneseLine\":\"戦いの最中、学者は冷静に戦いを制止した。\",\"translatedEnglishLine\":\"In the midst of the battle, the Scholar calmly stopped the fight.\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 243902,
+                "originalJapaneseLine": "「いや、待て、あれはぶたか？」",
+                "translatedEnglishLine": "\"No, wait, is that a pig?\""
+            },
+            {
+                "lineNumber": 243903,
+                "originalJapaneseLine": "「ぶたにしてぶたにあらず！",
+                "translatedEnglishLine": "\"A pig but not just a pig!"
+            },
+            {
+                "lineNumber": 243904,
+                "originalJapaneseLine": "　俺はぶたバンバラの突然変異体よォ！」",
+                "translatedEnglishLine": "I am a mutant of the pig Banbara!\""
+            },
+            {
+                "lineNumber": 243905,
+                "originalJapaneseLine": "「醜いだるだるな他のと比べんな！",
+                "translatedEnglishLine": "\"Don't compare me to the ugly, flabby others!"
+            },
+            {
+                "lineNumber": 243906,
+                "originalJapaneseLine": "　この体は鋼の筋肉で包まれた",
+                "translatedEnglishLine": "This body is wrapped in steel muscles,"
+            },
+            {
+                "lineNumber": 243907,
+                "originalJapaneseLine": "　体脂肪率驚異の0％よ！」",
+                "translatedEnglishLine": "with a shocking body fat percentage of 0%!\""
+            },
+            {
+                "lineNumber": 243908,
+                "originalJapaneseLine": "「……なんだこいつ」",
+                "translatedEnglishLine": "\"...What is this guy?\""
+            },
+            {
+                "lineNumber": 243909,
+                "originalJapaneseLine": "「ふーん、こいつがえーと……",
+                "translatedEnglishLine": "\"Hmm, this guy is uh..."
+            },
+            {
+                "lineNumber": 243910,
+                "originalJapaneseLine": "　ランス、だっけ？",
+                "translatedEnglishLine": "Rance, right?"
+            },
+            {
+                "lineNumber": 243911,
+                "originalJapaneseLine": "　あんまり強くなさそー」",
+                "translatedEnglishLine": "He doesn't seem very strong.\""
+            },
+            {
+                "lineNumber": 243912,
+                "originalJapaneseLine": "「油断禁物……で、ある」",
+                "translatedEnglishLine": "\"Don't be careless... that's for sure.\""
+            },
+            {
+                "lineNumber": 243913,
+                "originalJapaneseLine": "「彼らはるろんたの突然変異体、王様と",
+                "translatedEnglishLine": "\"They are mutants of Ruronta, the King and"
+            },
+            {
+                "lineNumber": 243914,
+                "originalJapaneseLine": "　ハチ女の突然変異体、通称、",
+                "translatedEnglishLine": "mutant of the Bee Woman, commonly known as,"
+            },
+            {
+                "lineNumber": 243915,
+                "originalJapaneseLine": "　スズメバチ女のニードルです」",
+                "translatedEnglishLine": "Needle the Hornet Woman.\""
+            },
+            {
+                "lineNumber": 243916,
+                "originalJapaneseLine": "「そして、私が隊の長を務める、",
+                "translatedEnglishLine": "\"And I serve as the leader of the squad,"
+            },
+            {
+                "lineNumber": 243917,
+                "originalJapaneseLine": "　アカメ……皆には学者と呼ばれています……",
+                "translatedEnglishLine": "Akame... everyone calls me the Scholar..."
+            },
+            {
+                "lineNumber": 243918,
+                "originalJapaneseLine": "　どうぞ、お見知りおきを」",
+                "translatedEnglishLine": "Please, remember me.\""
+            },
+            {
+                "lineNumber": 243919,
+                "originalJapaneseLine": "「なんだなんだ？",
+                "translatedEnglishLine": "\"What is this, what is this?"
+            },
+            {
+                "lineNumber": 243920,
+                "originalJapaneseLine": "　けったいなモンスターがぞろぞろと」",
+                "translatedEnglishLine": "A bunch of strange monsters are coming out.\""
+            },
+            {
+                "lineNumber": 243921,
+                "originalJapaneseLine": "学者と名乗ったアカメの後ろには",
+                "translatedEnglishLine": "Behind Akame, who called herself the Scholar,"
+            },
+            {
+                "lineNumber": 243922,
+                "originalJapaneseLine": "大量のモンスター達が並んでいた。",
+                "translatedEnglishLine": "a large number of monsters were lined up."
+            },
+            {
+                "lineNumber": 243923,
+                "originalJapaneseLine": "「まさか……マエリータ隊か？」",
+                "translatedEnglishLine": "\"No way... is this the Maelita Squad?\""
+            },
+            {
+                "lineNumber": 243924,
+                "originalJapaneseLine": "「おや、魔人であるサテラ様にまで",
+                "translatedEnglishLine": "\"Oh my, even Lady Satella, the demon lord,"
+            },
+            {
+                "lineNumber": 243925,
+                "originalJapaneseLine": "　名を知られているとは、光栄ですね」",
+                "translatedEnglishLine": "knows our name? I'm honored.\""
+            },
+            {
+                "lineNumber": 243926,
+                "originalJapaneseLine": "「ふん、白々しい……",
+                "translatedEnglishLine": "\"Hmph, how insincere..."
+            },
+            {
+                "lineNumber": 243927,
+                "originalJapaneseLine": "　直接戦ったことはなくても、サテラが",
+                "translatedEnglishLine": "Even if she hasn't fought directly,"
+            },
+            {
+                "lineNumber": 243928,
+                "originalJapaneseLine": "　何度お前らに苦労させられたことか……」",
+                "translatedEnglishLine": "Satella has had countless struggles because of you...\""
+            },
+            {
+                "lineNumber": 243929,
+                "originalJapaneseLine": "「サテラ、このトンチキな集団はなんだ？」",
+                "translatedEnglishLine": "\"Satella, what is this crazy group?\""
+            },
+            {
+                "lineNumber": 243930,
+                "originalJapaneseLine": "「マエリータ隊……",
+                "translatedEnglishLine": "\"The Maelita Squad..."
+            },
+            {
+                "lineNumber": 243931,
+                "originalJapaneseLine": "　派閥戦争時代にケイブリス派で活躍した",
+                "translatedEnglishLine": "They were a special unit active during the faction war era on the Kaebris side,"
+            },
+            {
+                "lineNumber": 243932,
+                "originalJapaneseLine": "　特殊な魔物だけで編成した特別部隊だ」",
+                "translatedEnglishLine": "a special unit composed only of unique monsters.\""
+            },
+            {
+                "lineNumber": 243933,
+                "originalJapaneseLine": "「つ、強いんですか？」",
+                "translatedEnglishLine": "\"A-are they strong?\""
+            },
+            {
+                "lineNumber": 243934,
+                "originalJapaneseLine": "「入隊条件は魔物の中でも強い者のみ、だからな。",
+                "translatedEnglishLine": "\"The requirement to join is to be among the strongest monsters."
+            },
+            {
+                "lineNumber": 243935,
+                "originalJapaneseLine": "　普通の部隊よりも……",
+                "translatedEnglishLine": "So, compared to ordinary units..."
+            },
+            {
+                "lineNumber": 243936,
+                "originalJapaneseLine": "「少数精鋭部隊が故に気づけば現れ、",
+                "translatedEnglishLine": "\"Because it's an elite small unit, they appear before you notice,"
+            },
+            {
+                "lineNumber": 243937,
+                "originalJapaneseLine": "　またすぐに姿をくらませる連中だ。",
+                "translatedEnglishLine": "and vanish again quickly."
+            },
+            {
+                "lineNumber": 243938,
+                "originalJapaneseLine": "　こいつらに何度仲間を殺されたか……」",
+                "translatedEnglishLine": "How many times have they killed my comrades...\""
+            },
+            {
+                "lineNumber": 243939,
+                "originalJapaneseLine": "「がはははははははは！",
+                "translatedEnglishLine": "\"Gahahahahahaha!"
+            },
+            {
+                "lineNumber": 243940,
+                "originalJapaneseLine": "　雑魚の魔物連中と何も変わらんわ！」",
+                "translatedEnglishLine": "They're no different from weak monsters!\""
+            },
+            {
+                "lineNumber": 243941,
+                "originalJapaneseLine": "「いざ、尋常に勝負して",
+                "translatedEnglishLine": "\"Now, let's fight a fair battle,"
+            },
+            {
+                "lineNumber": 243942,
+                "originalJapaneseLine": "　俺様の経験値となるがいい！」",
+                "translatedEnglishLine": "and become my experience points!\""
+            },
+            {
+                "lineNumber": 243943,
+                "originalJapaneseLine": "「ふんっ、威勢がいいじゃねぇか。",
+                "translatedEnglishLine": "\"Hmph, you sure are spirited."
+            },
+            {
+                "lineNumber": 243944,
+                "originalJapaneseLine": "　言ってやれ剣豪！」",
+                "translatedEnglishLine": "Say it, swordsman!\""
+            },
+            {
+                "lineNumber": 243945,
+                "originalJapaneseLine": "「カオスマスター！　やぶれたりィ！」",
+                "translatedEnglishLine": "\"Chaos Master! Defeated!\""
+            },
+            {
+                "lineNumber": 243946,
+                "originalJapaneseLine": "「な、なんだと！？」",
+                "translatedEnglishLine": "\"W-what!?\""
+            },
+            {
+                "lineNumber": 243947,
+                "originalJapaneseLine": "「勝つつもりなら何故鞘を捨てる！」",
+                "translatedEnglishLine": "\"If you intend to win, why throw away your scabbard!?\""
+            },
+            {
+                "lineNumber": 243948,
+                "originalJapaneseLine": "「最初からカオスの鞘なんて持っとらんわ！」",
+                "translatedEnglishLine": "\"I never had a Chaos scabbard to begin with!\""
+            },
+            {
+                "lineNumber": 243949,
+                "originalJapaneseLine": "「抜き身なの危ないから",
+                "translatedEnglishLine": "\"It's dangerous to be unsheathed,"
+            },
+            {
+                "lineNumber": 243950,
+                "originalJapaneseLine": "　本当は作りたいんですけどねぇ」",
+                "translatedEnglishLine": "I really want to make one though.\""
+            },
+            {
+                "lineNumber": 243951,
+                "originalJapaneseLine": "「暑くて蒸れるのいやー」",
+                "translatedEnglishLine": "\"I hate it because it gets hot and sweaty—\""
+            },
+            {
+                "lineNumber": 243952,
+                "originalJapaneseLine": "「……カオスさん蒸れるんですか？」",
+                "translatedEnglishLine": "\"...Chaos, do you really get all sweaty?\""
+            },
+            {
+                "lineNumber": 243953,
+                "originalJapaneseLine": "「ええい、ごちゃごちゃ抜かすな！",
+                "translatedEnglishLine": "\"Enough of the useless chatter!"
+            },
+            {
+                "lineNumber": 243954,
+                "originalJapaneseLine": "　緊張感がなくなるだろうが！」",
+                "translatedEnglishLine": "It's killing the tension!\""
+            },
+            {
+                "lineNumber": 243955,
+                "originalJapaneseLine": "「ハッ、ハハハ！",
+                "translatedEnglishLine": "\"Ha, hahaha!"
+            },
+            {
+                "lineNumber": 243956,
+                "originalJapaneseLine": "　なんだァ、こいつら！　面白い奴らだな！」",
+                "translatedEnglishLine": "What are these guys! They're interesting fellows!\""
+            },
+            {
+                "lineNumber": 243957,
+                "originalJapaneseLine": "「とにかくこいつらを殺ーーす！」",
+                "translatedEnglishLine": "\"Anyway, kill these guys!\""
+            },
+            {
+                "lineNumber": 243958,
+                "originalJapaneseLine": "「全員、戦闘態勢を！",
+                "translatedEnglishLine": "\"Everyone, get into combat formation!"
+            },
+            {
+                "lineNumber": 243959,
+                "originalJapaneseLine": "　行きます！」",
+                "translatedEnglishLine": "Let's go!\""
+            },
+            {
+                "lineNumber": 243960,
+                "originalJapaneseLine": "「……皆さん、そこまでです」",
+                "translatedEnglishLine": "\"...Everyone, that's enough.\""
+            },
+            {
+                "lineNumber": 243961,
+                "originalJapaneseLine": "戦いの最中、学者は冷静に戦いを制止した。",
+                "translatedEnglishLine": "In the midst of the battle, the Scholar calmly stopped the fight."
+            }
+        ]
+    }
+}

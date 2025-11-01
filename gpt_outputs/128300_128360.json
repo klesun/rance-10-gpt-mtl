@@ -1,1 +1,719 @@
-{"id":"resp_05f219a7d0aa18450068ef647639348190bf96cf18e4ec8345","object":"response","created_at":1760519286,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_05f219a7d0aa18450068ef647725c88190b680f8d64853eed5","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":128301,\"originalJapaneseLine\":\"「は、はい！」\",\"translatedEnglishLine\":\"\\\"Y-yes!\\\"\"},{\"lineNumber\":128302,\"originalJapaneseLine\":\"「あう……たんこぶ出来ちゃってる……\",\"translatedEnglishLine\":\"\\\"Ouch... I've got a bump...\\\"\"},{\"lineNumber\":128303,\"originalJapaneseLine\":\"　いたた……」\",\"translatedEnglishLine\":\"\\\"That hurts...\\\"\"},{\"lineNumber\":128304,\"originalJapaneseLine\":\"シィルは叩かれた頭をすりすりと撫でた。\",\"translatedEnglishLine\":\"Shiruru rubbed the head that was hit.\"},{\"lineNumber\":128305,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":128306,\"originalJapaneseLine\":\"「……えへへ」\",\"translatedEnglishLine\":\"\\\"...Hehe.\\\"\"},{\"lineNumber\":128307,\"originalJapaneseLine\":\"「こら〜、なにしてる！」\",\"translatedEnglishLine\":\"\\\"Hey, what are you doing!\\\"\"},{\"lineNumber\":128308,\"originalJapaneseLine\":\"「わわっ！　待って下さい、ランス様〜！」\",\"translatedEnglishLine\":\"\\\"Whoa! Please wait, Lord Rance!\\\"\"},{\"lineNumber\":128309,\"originalJapaneseLine\":\"「ランス様、モンスターですよ！\",\"translatedEnglishLine\":\"\\\"Lord Rance, those are monsters!\\\"\"},{\"lineNumber\":128310,\"originalJapaneseLine\":\"　助けを呼んだ方が……」\",\"translatedEnglishLine\":\"\\\"We should probably call for help...\\\"\"},{\"lineNumber\":128311,\"originalJapaneseLine\":\"「必要ない。\",\"translatedEnglishLine\":\"\\\"No need.\"},{\"lineNumber\":128312,\"originalJapaneseLine\":\"　この程度の雑魚、俺とお前で楽勝だ！」\",\"translatedEnglishLine\":\"These weaklings, you and I will easily defeat them!\\\"\"},{\"lineNumber\":128313,\"originalJapaneseLine\":\"「がはははー！　行くぞー！」\",\"translatedEnglishLine\":\"\\\"Gahahaha! Let's go!\\\"\"},{\"lineNumber\":128314,\"originalJapaneseLine\":\"「わわわ〜っ！」\",\"translatedEnglishLine\":\"\\\"Waaah!\\\"\"},{\"lineNumber\":128315,\"originalJapaneseLine\":\"「ん、なんか妙だぞ……」\",\"translatedEnglishLine\":\"\\\"Hmm, something's strange...\\\"\"},{\"lineNumber\":128316,\"originalJapaneseLine\":\"「あーっ！」\",\"translatedEnglishLine\":\"\\\"Ah!\\\"\"},{\"lineNumber\":128317,\"originalJapaneseLine\":\"「攻撃する際に必要なAPが\",\"translatedEnglishLine\":\"\\\"The AP needed to attack\"},{\"lineNumber\":128318,\"originalJapaneseLine\":\"　前より増えているではないか！」\",\"translatedEnglishLine\":\"has increased compared to before!\\\"\"},{\"lineNumber\":128319,\"originalJapaneseLine\":\"「おい、シィル！　なんだこれは！？」\",\"translatedEnglishLine\":\"\\\"Hey, Shiruru! What is this!?\\\"\"},{\"lineNumber\":128320,\"originalJapaneseLine\":\"「どうやら同じ行動を連続で使用すると、\",\"translatedEnglishLine\":\"\\\"It seems that if you use the same action repeatedly,\"},{\"lineNumber\":128321,\"originalJapaneseLine\":\"　必要APが増えてしまうようですねぇ……」\",\"translatedEnglishLine\":\"the required AP increases...\\\"\"},{\"lineNumber\":128322,\"originalJapaneseLine\":\"「むむ、そうなのか？」\",\"translatedEnglishLine\":\"\\\"Hmm, is that so?\\\"\"},{\"lineNumber\":128323,\"originalJapaneseLine\":\"「つまり、上手くローテーションを組んで、\",\"translatedEnglishLine\":\"\\\"In other words, if you cleverly rotate your actions,\"},{\"lineNumber\":128324,\"originalJapaneseLine\":\"　モンスターを攻撃した方がお得ってことだな」\",\"translatedEnglishLine\":\"it's better to attack monsters that way.\\\"\"},{\"lineNumber\":128325,\"originalJapaneseLine\":\"「はい、一度使った行動は1ターン休憩すると\",\"translatedEnglishLine\":\"\\\"Yes, once you use an action, if you rest for one turn,\"},{\"lineNumber\":128326,\"originalJapaneseLine\":\"　元に戻るみたいですよ」\",\"translatedEnglishLine\":\"it seems the AP cost returns to normal.\\\"\"},{\"lineNumber\":128327,\"originalJapaneseLine\":\"「私も上手く使って下さいね」\",\"translatedEnglishLine\":\"\\\"Please use me skillfully too.\\\"\"},{\"lineNumber\":128328,\"originalJapaneseLine\":\"「あっ！」\",\"translatedEnglishLine\":\"\\\"Ah!\\\"\"},{\"lineNumber\":128329,\"originalJapaneseLine\":\"「どうした？」\",\"translatedEnglishLine\":\"\\\"What's wrong?\\\"\"},{\"lineNumber\":128330,\"originalJapaneseLine\":\"「ランス様、今です、チャンスです！」\",\"translatedEnglishLine\":\"\\\"Lord Rance, now is the chance!\\\"\"},{\"lineNumber\":128331,\"originalJapaneseLine\":\"「見て下さい、モンスターの弱点が炎です」\",\"translatedEnglishLine\":\"\\\"Look, the monster's weakness is fire.\\\"\"},{\"lineNumber\":128332,\"originalJapaneseLine\":\"「私の攻撃属性は炎なので、\",\"translatedEnglishLine\":\"\\\"My attack element is fire,\"},{\"lineNumber\":128333,\"originalJapaneseLine\":\"　私が攻撃するとダメージボーナスがつきますよ」\",\"translatedEnglishLine\":\"so if I attack, I'll get a damage bonus.\\\"\"},{\"lineNumber\":128334,\"originalJapaneseLine\":\"「う、うむ、そうだな。\",\"translatedEnglishLine\":\"\\\"Y-yeah, that's right.\"},{\"lineNumber\":128335,\"originalJapaneseLine\":\"　分かっていたぞ、数少ないお前の出番だな」\",\"translatedEnglishLine\":\"I knew that, this is your rare moment to shine.\\\"\"},{\"lineNumber\":128336,\"originalJapaneseLine\":\"「で、俺様の属性のチャンスはいつ来るのだ？」\",\"translatedEnglishLine\":\"\\\"So, when does my attribute chance come?\\\"\"},{\"lineNumber\":128337,\"originalJapaneseLine\":\"「俺の属性マークは……\",\"translatedEnglishLine\":\"\\\"My attribute mark is...\\\"\"},{\"lineNumber\":128338,\"originalJapaneseLine\":\"　なんだこれ？」\",\"translatedEnglishLine\":\"What is this?\\\"\"},{\"lineNumber\":128339,\"originalJapaneseLine\":\"「……無属性ですね。\",\"translatedEnglishLine\":\"\\\"...It's attributeless.\"},{\"lineNumber\":128340,\"originalJapaneseLine\":\"　すごく珍しいですよ」\",\"translatedEnglishLine\":\"That's really rare.\\\"\"},{\"lineNumber\":128341,\"originalJapaneseLine\":\"「これが弱点となる敵さんは……\",\"translatedEnglishLine\":\"\\\"Enemies weak to this... um...\"},{\"lineNumber\":128342,\"originalJapaneseLine\":\"　えっと……」\",\"translatedEnglishLine\":\"Well...\\\"\"},{\"lineNumber\":128343,\"originalJapaneseLine\":\"「いるのかな……」\",\"translatedEnglishLine\":\"\\\"I wonder if there are any...\\\"\"},{\"lineNumber\":128344,\"originalJapaneseLine\":\"「なにィー！？」\",\"translatedEnglishLine\":\"\\\"What!?!\\\"\"},{\"lineNumber\":128345,\"originalJapaneseLine\":\"「ひいひい……」\",\"translatedEnglishLine\":\"\\\"Huff huff...\\\"\"},{\"lineNumber\":128346,\"originalJapaneseLine\":\"「そんな疲れるような相手でもないだろ」\",\"translatedEnglishLine\":\"\\\"They shouldn't be such tiring opponents.\\\"\"},{\"lineNumber\":128347,\"originalJapaneseLine\":\"「い、いえ、でも……\",\"translatedEnglishLine\":\"\\\"N-no, but...\"},{\"lineNumber\":128348,\"originalJapaneseLine\":\"　いつ大群が現れたりするかと思ったら……」\",\"translatedEnglishLine\":\"I'm worried about when a large group might appear...\\\"\"},{\"lineNumber\":128349,\"originalJapaneseLine\":\"「数体のモンスターなら大丈夫ですが、\",\"translatedEnglishLine\":\"\\\"A few monsters are fine,\"},{\"lineNumber\":128350,\"originalJapaneseLine\":\"　やはり二人だけでウロウロするのは\",\"translatedEnglishLine\":\"but wandering around with just the two of us\"},{\"lineNumber\":128351,\"originalJapaneseLine\":\"　危険ではないでしょうか、ランス様」\",\"translatedEnglishLine\":\"is dangerous, don't you think, Lord Rance?\\\"\"},{\"lineNumber\":128352,\"originalJapaneseLine\":\"「……それは確かに」\",\"translatedEnglishLine\":\"\\\"...That is true.\\\"\"},{\"lineNumber\":128353,\"originalJapaneseLine\":\"「ランス様ー！」\",\"translatedEnglishLine\":\"\\\"Lord Rance!\\\"\"},{\"lineNumber\":128354,\"originalJapaneseLine\":\"「この声は？」\",\"translatedEnglishLine\":\"\\\"Who's voice is that?\\\"\"},{\"lineNumber\":128355,\"originalJapaneseLine\":\"「探しましただー！\",\"translatedEnglishLine\":\"\\\"We've been looking for you!\\\"\"},{\"lineNumber\":128356,\"originalJapaneseLine\":\"　ランス様ー！」\",\"translatedEnglishLine\":\"Lord Rance!\\\"\"},{\"lineNumber\":128357,\"originalJapaneseLine\":\"「ふぎゃ！」\",\"translatedEnglishLine\":\"\\\"Fugya!\\\"\"},{\"lineNumber\":128358,\"originalJapaneseLine\":\"ランスキーックが炸裂。\",\"translatedEnglishLine\":\"Rance's kick explodes.\"},{\"lineNumber\":128359,\"originalJapaneseLine\":\"「きゃあ、大丈夫ですか！？\",\"translatedEnglishLine\":\"\\\"Kyaa, are you okay!?\\\"\"},{\"lineNumber\":128360,\"originalJapaneseLine\":\"　ロッキーさん！？」\",\"translatedEnglishLine\":\"Rocky-san!?\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":128301,"originalJapaneseLine":"「は、はい！」","translatedEnglishLine":"\"Y-yes!\""},{"lineNumber":128302,"originalJapaneseLine":"「あう……たんこぶ出来ちゃってる……","translatedEnglishLine":"\"Ouch... I've got a bump...\""},{"lineNumber":128303,"originalJapaneseLine":"　いたた……」","translatedEnglishLine":"\"That hurts...\""},{"lineNumber":128304,"originalJapaneseLine":"シィルは叩かれた頭をすりすりと撫でた。","translatedEnglishLine":"Shiruru rubbed the head that was hit."},{"lineNumber":128305,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"........\""},{"lineNumber":128306,"originalJapaneseLine":"「……えへへ」","translatedEnglishLine":"\"...Hehe.\""},{"lineNumber":128307,"originalJapaneseLine":"「こら〜、なにしてる！」","translatedEnglishLine":"\"Hey, what are you doing!\""},{"lineNumber":128308,"originalJapaneseLine":"「わわっ！　待って下さい、ランス様〜！」","translatedEnglishLine":"\"Whoa! Please wait, Lord Rance!\""},{"lineNumber":128309,"originalJapaneseLine":"「ランス様、モンスターですよ！","translatedEnglishLine":"\"Lord Rance, those are monsters!\""},{"lineNumber":128310,"originalJapaneseLine":"　助けを呼んだ方が……」","translatedEnglishLine":"\"We should probably call for help...\""},{"lineNumber":128311,"originalJapaneseLine":"「必要ない。","translatedEnglishLine":"\"No need."},{"lineNumber":128312,"originalJapaneseLine":"　この程度の雑魚、俺とお前で楽勝だ！」","translatedEnglishLine":"These weaklings, you and I will easily defeat them!\""},{"lineNumber":128313,"originalJapaneseLine":"「がはははー！　行くぞー！」","translatedEnglishLine":"\"Gahahaha! Let's go!\""},{"lineNumber":128314,"originalJapaneseLine":"「わわわ〜っ！」","translatedEnglishLine":"\"Waaah!\""},{"lineNumber":128315,"originalJapaneseLine":"「ん、なんか妙だぞ……」","translatedEnglishLine":"\"Hmm, something's strange...\""},{"lineNumber":128316,"originalJapaneseLine":"「あーっ！」","translatedEnglishLine":"\"Ah!\""},{"lineNumber":128317,"originalJapaneseLine":"「攻撃する際に必要なAPが","translatedEnglishLine":"\"The AP needed to attack"},{"lineNumber":128318,"originalJapaneseLine":"　前より増えているではないか！」","translatedEnglishLine":"has increased compared to before!\""},{"lineNumber":128319,"originalJapaneseLine":"「おい、シィル！　なんだこれは！？」","translatedEnglishLine":"\"Hey, Shiruru! What is this!?\""},{"lineNumber":128320,"originalJapaneseLine":"「どうやら同じ行動を連続で使用すると、","translatedEnglishLine":"\"It seems that if you use the same action repeatedly,"},{"lineNumber":128321,"originalJapaneseLine":"　必要APが増えてしまうようですねぇ……」","translatedEnglishLine":"the required AP increases...\""},{"lineNumber":128322,"originalJapaneseLine":"「むむ、そうなのか？」","translatedEnglishLine":"\"Hmm, is that so?\""},{"lineNumber":128323,"originalJapaneseLine":"「つまり、上手くローテーションを組んで、","translatedEnglishLine":"\"In other words, if you cleverly rotate your actions,"},{"lineNumber":128324,"originalJapaneseLine":"　モンスターを攻撃した方がお得ってことだな」","translatedEnglishLine":"it's better to attack monsters that way.\""},{"lineNumber":128325,"originalJapaneseLine":"「はい、一度使った行動は1ターン休憩すると","translatedEnglishLine":"\"Yes, once you use an action, if you rest for one turn,"},{"lineNumber":128326,"originalJapaneseLine":"　元に戻るみたいですよ」","translatedEnglishLine":"it seems the AP cost returns to normal.\""},{"lineNumber":128327,"originalJapaneseLine":"「私も上手く使って下さいね」","translatedEnglishLine":"\"Please use me skillfully too.\""},{"lineNumber":128328,"originalJapaneseLine":"「あっ！」","translatedEnglishLine":"\"Ah!\""},{"lineNumber":128329,"originalJapaneseLine":"「どうした？」","translatedEnglishLine":"\"What's wrong?\""},{"lineNumber":128330,"originalJapaneseLine":"「ランス様、今です、チャンスです！」","translatedEnglishLine":"\"Lord Rance, now is the chance!\""},{"lineNumber":128331,"originalJapaneseLine":"「見て下さい、モンスターの弱点が炎です」","translatedEnglishLine":"\"Look, the monster's weakness is fire.\""},{"lineNumber":128332,"originalJapaneseLine":"「私の攻撃属性は炎なので、","translatedEnglishLine":"\"My attack element is fire,"},{"lineNumber":128333,"originalJapaneseLine":"　私が攻撃するとダメージボーナスがつきますよ」","translatedEnglishLine":"so if I attack, I'll get a damage bonus.\""},{"lineNumber":128334,"originalJapaneseLine":"「う、うむ、そうだな。","translatedEnglishLine":"\"Y-yeah, that's right."},{"lineNumber":128335,"originalJapaneseLine":"　分かっていたぞ、数少ないお前の出番だな」","translatedEnglishLine":"I knew that, this is your rare moment to shine.\""},{"lineNumber":128336,"originalJapaneseLine":"「で、俺様の属性のチャンスはいつ来るのだ？」","translatedEnglishLine":"\"So, when does my attribute chance come?\""},{"lineNumber":128337,"originalJapaneseLine":"「俺の属性マークは……","translatedEnglishLine":"\"My attribute mark is...\""},{"lineNumber":128338,"originalJapaneseLine":"　なんだこれ？」","translatedEnglishLine":"What is this?\""},{"lineNumber":128339,"originalJapaneseLine":"「……無属性ですね。","translatedEnglishLine":"\"...It's attributeless."},{"lineNumber":128340,"originalJapaneseLine":"　すごく珍しいですよ」","translatedEnglishLine":"That's really rare.\""},{"lineNumber":128341,"originalJapaneseLine":"「これが弱点となる敵さんは……","translatedEnglishLine":"\"Enemies weak to this... um..."},{"lineNumber":128342,"originalJapaneseLine":"　えっと……」","translatedEnglishLine":"Well...\""},{"lineNumber":128343,"originalJapaneseLine":"「いるのかな……」","translatedEnglishLine":"\"I wonder if there are any...\""},{"lineNumber":128344,"originalJapaneseLine":"「なにィー！？」","translatedEnglishLine":"\"What!?!\""},{"lineNumber":128345,"originalJapaneseLine":"「ひいひい……」","translatedEnglishLine":"\"Huff huff...\""},{"lineNumber":128346,"originalJapaneseLine":"「そんな疲れるような相手でもないだろ」","translatedEnglishLine":"\"They shouldn't be such tiring opponents.\""},{"lineNumber":128347,"originalJapaneseLine":"「い、いえ、でも……","translatedEnglishLine":"\"N-no, but..."},{"lineNumber":128348,"originalJapaneseLine":"　いつ大群が現れたりするかと思ったら……」","translatedEnglishLine":"I'm worried about when a large group might appear...\""},{"lineNumber":128349,"originalJapaneseLine":"「数体のモンスターなら大丈夫ですが、","translatedEnglishLine":"\"A few monsters are fine,"},{"lineNumber":128350,"originalJapaneseLine":"　やはり二人だけでウロウロするのは","translatedEnglishLine":"but wandering around with just the two of us"},{"lineNumber":128351,"originalJapaneseLine":"　危険ではないでしょうか、ランス様」","translatedEnglishLine":"is dangerous, don't you think, Lord Rance?\""},{"lineNumber":128352,"originalJapaneseLine":"「……それは確かに」","translatedEnglishLine":"\"...That is true.\""},{"lineNumber":128353,"originalJapaneseLine":"「ランス様ー！」","translatedEnglishLine":"\"Lord Rance!\""},{"lineNumber":128354,"originalJapaneseLine":"「この声は？」","translatedEnglishLine":"\"Who's voice is that?\""},{"lineNumber":128355,"originalJapaneseLine":"「探しましただー！","translatedEnglishLine":"\"We've been looking for you!\""},{"lineNumber":128356,"originalJapaneseLine":"　ランス様ー！」","translatedEnglishLine":"Lord Rance!\""},{"lineNumber":128357,"originalJapaneseLine":"「ふぎゃ！」","translatedEnglishLine":"\"Fugya!\""},{"lineNumber":128358,"originalJapaneseLine":"ランスキーックが炸裂。","translatedEnglishLine":"Rance's kick explodes."},{"lineNumber":128359,"originalJapaneseLine":"「きゃあ、大丈夫ですか！？","translatedEnglishLine":"\"Kyaa, are you okay!?\""},{"lineNumber":128360,"originalJapaneseLine":"　ロッキーさん！？」","translatedEnglishLine":"Rocky-san!?\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1600,"input_tokens_details":{"cached_tokens":0},"output_tokens":2035,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3635},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":128301,\"originalJapaneseLine\":\"「は、はい！」\",\"translatedEnglishLine\":\"\\\"Y-yes!\\\"\"},{\"lineNumber\":128302,\"originalJapaneseLine\":\"「あう……たんこぶ出来ちゃってる……\",\"translatedEnglishLine\":\"\\\"Ouch... I've got a bump...\\\"\"},{\"lineNumber\":128303,\"originalJapaneseLine\":\"　いたた……」\",\"translatedEnglishLine\":\"\\\"That hurts...\\\"\"},{\"lineNumber\":128304,\"originalJapaneseLine\":\"シィルは叩かれた頭をすりすりと撫でた。\",\"translatedEnglishLine\":\"Shiruru rubbed the head that was hit.\"},{\"lineNumber\":128305,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":128306,\"originalJapaneseLine\":\"「……えへへ」\",\"translatedEnglishLine\":\"\\\"...Hehe.\\\"\"},{\"lineNumber\":128307,\"originalJapaneseLine\":\"「こら〜、なにしてる！」\",\"translatedEnglishLine\":\"\\\"Hey, what are you doing!\\\"\"},{\"lineNumber\":128308,\"originalJapaneseLine\":\"「わわっ！　待って下さい、ランス様〜！」\",\"translatedEnglishLine\":\"\\\"Whoa! Please wait, Lord Rance!\\\"\"},{\"lineNumber\":128309,\"originalJapaneseLine\":\"「ランス様、モンスターですよ！\",\"translatedEnglishLine\":\"\\\"Lord Rance, those are monsters!\\\"\"},{\"lineNumber\":128310,\"originalJapaneseLine\":\"　助けを呼んだ方が……」\",\"translatedEnglishLine\":\"\\\"We should probably call for help...\\\"\"},{\"lineNumber\":128311,\"originalJapaneseLine\":\"「必要ない。\",\"translatedEnglishLine\":\"\\\"No need.\"},{\"lineNumber\":128312,\"originalJapaneseLine\":\"　この程度の雑魚、俺とお前で楽勝だ！」\",\"translatedEnglishLine\":\"These weaklings, you and I will easily defeat them!\\\"\"},{\"lineNumber\":128313,\"originalJapaneseLine\":\"「がはははー！　行くぞー！」\",\"translatedEnglishLine\":\"\\\"Gahahaha! Let's go!\\\"\"},{\"lineNumber\":128314,\"originalJapaneseLine\":\"「わわわ〜っ！」\",\"translatedEnglishLine\":\"\\\"Waaah!\\\"\"},{\"lineNumber\":128315,\"originalJapaneseLine\":\"「ん、なんか妙だぞ……」\",\"translatedEnglishLine\":\"\\\"Hmm, something's strange...\\\"\"},{\"lineNumber\":128316,\"originalJapaneseLine\":\"「あーっ！」\",\"translatedEnglishLine\":\"\\\"Ah!\\\"\"},{\"lineNumber\":128317,\"originalJapaneseLine\":\"「攻撃する際に必要なAPが\",\"translatedEnglishLine\":\"\\\"The AP needed to attack\"},{\"lineNumber\":128318,\"originalJapaneseLine\":\"　前より増えているではないか！」\",\"translatedEnglishLine\":\"has increased compared to before!\\\"\"},{\"lineNumber\":128319,\"originalJapaneseLine\":\"「おい、シィル！　なんだこれは！？」\",\"translatedEnglishLine\":\"\\\"Hey, Shiruru! What is this!?\\\"\"},{\"lineNumber\":128320,\"originalJapaneseLine\":\"「どうやら同じ行動を連続で使用すると、\",\"translatedEnglishLine\":\"\\\"It seems that if you use the same action repeatedly,\"},{\"lineNumber\":128321,\"originalJapaneseLine\":\"　必要APが増えてしまうようですねぇ……」\",\"translatedEnglishLine\":\"the required AP increases...\\\"\"},{\"lineNumber\":128322,\"originalJapaneseLine\":\"「むむ、そうなのか？」\",\"translatedEnglishLine\":\"\\\"Hmm, is that so?\\\"\"},{\"lineNumber\":128323,\"originalJapaneseLine\":\"「つまり、上手くローテーションを組んで、\",\"translatedEnglishLine\":\"\\\"In other words, if you cleverly rotate your actions,\"},{\"lineNumber\":128324,\"originalJapaneseLine\":\"　モンスターを攻撃した方がお得ってことだな」\",\"translatedEnglishLine\":\"it's better to attack monsters that way.\\\"\"},{\"lineNumber\":128325,\"originalJapaneseLine\":\"「はい、一度使った行動は1ターン休憩すると\",\"translatedEnglishLine\":\"\\\"Yes, once you use an action, if you rest for one turn,\"},{\"lineNumber\":128326,\"originalJapaneseLine\":\"　元に戻るみたいですよ」\",\"translatedEnglishLine\":\"it seems the AP cost returns to normal.\\\"\"},{\"lineNumber\":128327,\"originalJapaneseLine\":\"「私も上手く使って下さいね」\",\"translatedEnglishLine\":\"\\\"Please use me skillfully too.\\\"\"},{\"lineNumber\":128328,\"originalJapaneseLine\":\"「あっ！」\",\"translatedEnglishLine\":\"\\\"Ah!\\\"\"},{\"lineNumber\":128329,\"originalJapaneseLine\":\"「どうした？」\",\"translatedEnglishLine\":\"\\\"What's wrong?\\\"\"},{\"lineNumber\":128330,\"originalJapaneseLine\":\"「ランス様、今です、チャンスです！」\",\"translatedEnglishLine\":\"\\\"Lord Rance, now is the chance!\\\"\"},{\"lineNumber\":128331,\"originalJapaneseLine\":\"「見て下さい、モンスターの弱点が炎です」\",\"translatedEnglishLine\":\"\\\"Look, the monster's weakness is fire.\\\"\"},{\"lineNumber\":128332,\"originalJapaneseLine\":\"「私の攻撃属性は炎なので、\",\"translatedEnglishLine\":\"\\\"My attack element is fire,\"},{\"lineNumber\":128333,\"originalJapaneseLine\":\"　私が攻撃するとダメージボーナスがつきますよ」\",\"translatedEnglishLine\":\"so if I attack, I'll get a damage bonus.\\\"\"},{\"lineNumber\":128334,\"originalJapaneseLine\":\"「う、うむ、そうだな。\",\"translatedEnglishLine\":\"\\\"Y-yeah, that's right.\"},{\"lineNumber\":128335,\"originalJapaneseLine\":\"　分かっていたぞ、数少ないお前の出番だな」\",\"translatedEnglishLine\":\"I knew that, this is your rare moment to shine.\\\"\"},{\"lineNumber\":128336,\"originalJapaneseLine\":\"「で、俺様の属性のチャンスはいつ来るのだ？」\",\"translatedEnglishLine\":\"\\\"So, when does my attribute chance come?\\\"\"},{\"lineNumber\":128337,\"originalJapaneseLine\":\"「俺の属性マークは……\",\"translatedEnglishLine\":\"\\\"My attribute mark is...\\\"\"},{\"lineNumber\":128338,\"originalJapaneseLine\":\"　なんだこれ？」\",\"translatedEnglishLine\":\"What is this?\\\"\"},{\"lineNumber\":128339,\"originalJapaneseLine\":\"「……無属性ですね。\",\"translatedEnglishLine\":\"\\\"...It's attributeless.\"},{\"lineNumber\":128340,\"originalJapaneseLine\":\"　すごく珍しいですよ」\",\"translatedEnglishLine\":\"That's really rare.\\\"\"},{\"lineNumber\":128341,\"originalJapaneseLine\":\"「これが弱点となる敵さんは……\",\"translatedEnglishLine\":\"\\\"Enemies weak to this... um...\"},{\"lineNumber\":128342,\"originalJapaneseLine\":\"　えっと……」\",\"translatedEnglishLine\":\"Well...\\\"\"},{\"lineNumber\":128343,\"originalJapaneseLine\":\"「いるのかな……」\",\"translatedEnglishLine\":\"\\\"I wonder if there are any...\\\"\"},{\"lineNumber\":128344,\"originalJapaneseLine\":\"「なにィー！？」\",\"translatedEnglishLine\":\"\\\"What!?!\\\"\"},{\"lineNumber\":128345,\"originalJapaneseLine\":\"「ひいひい……」\",\"translatedEnglishLine\":\"\\\"Huff huff...\\\"\"},{\"lineNumber\":128346,\"originalJapaneseLine\":\"「そんな疲れるような相手でもないだろ」\",\"translatedEnglishLine\":\"\\\"They shouldn't be such tiring opponents.\\\"\"},{\"lineNumber\":128347,\"originalJapaneseLine\":\"「い、いえ、でも……\",\"translatedEnglishLine\":\"\\\"N-no, but...\"},{\"lineNumber\":128348,\"originalJapaneseLine\":\"　いつ大群が現れたりするかと思ったら……」\",\"translatedEnglishLine\":\"I'm worried about when a large group might appear...\\\"\"},{\"lineNumber\":128349,\"originalJapaneseLine\":\"「数体のモンスターなら大丈夫ですが、\",\"translatedEnglishLine\":\"\\\"A few monsters are fine,\"},{\"lineNumber\":128350,\"originalJapaneseLine\":\"　やはり二人だけでウロウロするのは\",\"translatedEnglishLine\":\"but wandering around with just the two of us\"},{\"lineNumber\":128351,\"originalJapaneseLine\":\"　危険ではないでしょうか、ランス様」\",\"translatedEnglishLine\":\"is dangerous, don't you think, Lord Rance?\\\"\"},{\"lineNumber\":128352,\"originalJapaneseLine\":\"「……それは確かに」\",\"translatedEnglishLine\":\"\\\"...That is true.\\\"\"},{\"lineNumber\":128353,\"originalJapaneseLine\":\"「ランス様ー！」\",\"translatedEnglishLine\":\"\\\"Lord Rance!\\\"\"},{\"lineNumber\":128354,\"originalJapaneseLine\":\"「この声は？」\",\"translatedEnglishLine\":\"\\\"Who's voice is that?\\\"\"},{\"lineNumber\":128355,\"originalJapaneseLine\":\"「探しましただー！\",\"translatedEnglishLine\":\"\\\"We've been looking for you!\\\"\"},{\"lineNumber\":128356,\"originalJapaneseLine\":\"　ランス様ー！」\",\"translatedEnglishLine\":\"Lord Rance!\\\"\"},{\"lineNumber\":128357,\"originalJapaneseLine\":\"「ふぎゃ！」\",\"translatedEnglishLine\":\"\\\"Fugya!\\\"\"},{\"lineNumber\":128358,\"originalJapaneseLine\":\"ランスキーックが炸裂。\",\"translatedEnglishLine\":\"Rance's kick explodes.\"},{\"lineNumber\":128359,\"originalJapaneseLine\":\"「きゃあ、大丈夫ですか！？\",\"translatedEnglishLine\":\"\\\"Kyaa, are you okay!?\\\"\"},{\"lineNumber\":128360,\"originalJapaneseLine\":\"　ロッキーさん！？」\",\"translatedEnglishLine\":\"Rocky-san!?\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":128301,"originalJapaneseLine":"「は、はい！」","translatedEnglishLine":"\"Y-yes!\""},{"lineNumber":128302,"originalJapaneseLine":"「あう……たんこぶ出来ちゃってる……","translatedEnglishLine":"\"Ouch... I've got a bump...\""},{"lineNumber":128303,"originalJapaneseLine":"　いたた……」","translatedEnglishLine":"\"That hurts...\""},{"lineNumber":128304,"originalJapaneseLine":"シィルは叩かれた頭をすりすりと撫でた。","translatedEnglishLine":"Shiruru rubbed the head that was hit."},{"lineNumber":128305,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"........\""},{"lineNumber":128306,"originalJapaneseLine":"「……えへへ」","translatedEnglishLine":"\"...Hehe.\""},{"lineNumber":128307,"originalJapaneseLine":"「こら〜、なにしてる！」","translatedEnglishLine":"\"Hey, what are you doing!\""},{"lineNumber":128308,"originalJapaneseLine":"「わわっ！　待って下さい、ランス様〜！」","translatedEnglishLine":"\"Whoa! Please wait, Lord Rance!\""},{"lineNumber":128309,"originalJapaneseLine":"「ランス様、モンスターですよ！","translatedEnglishLine":"\"Lord Rance, those are monsters!\""},{"lineNumber":128310,"originalJapaneseLine":"　助けを呼んだ方が……」","translatedEnglishLine":"\"We should probably call for help...\""},{"lineNumber":128311,"originalJapaneseLine":"「必要ない。","translatedEnglishLine":"\"No need."},{"lineNumber":128312,"originalJapaneseLine":"　この程度の雑魚、俺とお前で楽勝だ！」","translatedEnglishLine":"These weaklings, you and I will easily defeat them!\""},{"lineNumber":128313,"originalJapaneseLine":"「がはははー！　行くぞー！」","translatedEnglishLine":"\"Gahahaha! Let's go!\""},{"lineNumber":128314,"originalJapaneseLine":"「わわわ〜っ！」","translatedEnglishLine":"\"Waaah!\""},{"lineNumber":128315,"originalJapaneseLine":"「ん、なんか妙だぞ……」","translatedEnglishLine":"\"Hmm, something's strange...\""},{"lineNumber":128316,"originalJapaneseLine":"「あーっ！」","translatedEnglishLine":"\"Ah!\""},{"lineNumber":128317,"originalJapaneseLine":"「攻撃する際に必要なAPが","translatedEnglishLine":"\"The AP needed to attack"},{"lineNumber":128318,"originalJapaneseLine":"　前より増えているではないか！」","translatedEnglishLine":"has increased compared to before!\""},{"lineNumber":128319,"originalJapaneseLine":"「おい、シィル！　なんだこれは！？」","translatedEnglishLine":"\"Hey, Shiruru! What is this!?\""},{"lineNumber":128320,"originalJapaneseLine":"「どうやら同じ行動を連続で使用すると、","translatedEnglishLine":"\"It seems that if you use the same action repeatedly,"},{"lineNumber":128321,"originalJapaneseLine":"　必要APが増えてしまうようですねぇ……」","translatedEnglishLine":"the required AP increases...\""},{"lineNumber":128322,"originalJapaneseLine":"「むむ、そうなのか？」","translatedEnglishLine":"\"Hmm, is that so?\""},{"lineNumber":128323,"originalJapaneseLine":"「つまり、上手くローテーションを組んで、","translatedEnglishLine":"\"In other words, if you cleverly rotate your actions,"},{"lineNumber":128324,"originalJapaneseLine":"　モンスターを攻撃した方がお得ってことだな」","translatedEnglishLine":"it's better to attack monsters that way.\""},{"lineNumber":128325,"originalJapaneseLine":"「はい、一度使った行動は1ターン休憩すると","translatedEnglishLine":"\"Yes, once you use an action, if you rest for one turn,"},{"lineNumber":128326,"originalJapaneseLine":"　元に戻るみたいですよ」","translatedEnglishLine":"it seems the AP cost returns to normal.\""},{"lineNumber":128327,"originalJapaneseLine":"「私も上手く使って下さいね」","translatedEnglishLine":"\"Please use me skillfully too.\""},{"lineNumber":128328,"originalJapaneseLine":"「あっ！」","translatedEnglishLine":"\"Ah!\""},{"lineNumber":128329,"originalJapaneseLine":"「どうした？」","translatedEnglishLine":"\"What's wrong?\""},{"lineNumber":128330,"originalJapaneseLine":"「ランス様、今です、チャンスです！」","translatedEnglishLine":"\"Lord Rance, now is the chance!\""},{"lineNumber":128331,"originalJapaneseLine":"「見て下さい、モンスターの弱点が炎です」","translatedEnglishLine":"\"Look, the monster's weakness is fire.\""},{"lineNumber":128332,"originalJapaneseLine":"「私の攻撃属性は炎なので、","translatedEnglishLine":"\"My attack element is fire,"},{"lineNumber":128333,"originalJapaneseLine":"　私が攻撃するとダメージボーナスがつきますよ」","translatedEnglishLine":"so if I attack, I'll get a damage bonus.\""},{"lineNumber":128334,"originalJapaneseLine":"「う、うむ、そうだな。","translatedEnglishLine":"\"Y-yeah, that's right."},{"lineNumber":128335,"originalJapaneseLine":"　分かっていたぞ、数少ないお前の出番だな」","translatedEnglishLine":"I knew that, this is your rare moment to shine.\""},{"lineNumber":128336,"originalJapaneseLine":"「で、俺様の属性のチャンスはいつ来るのだ？」","translatedEnglishLine":"\"So, when does my attribute chance come?\""},{"lineNumber":128337,"originalJapaneseLine":"「俺の属性マークは……","translatedEnglishLine":"\"My attribute mark is...\""},{"lineNumber":128338,"originalJapaneseLine":"　なんだこれ？」","translatedEnglishLine":"What is this?\""},{"lineNumber":128339,"originalJapaneseLine":"「……無属性ですね。","translatedEnglishLine":"\"...It's attributeless."},{"lineNumber":128340,"originalJapaneseLine":"　すごく珍しいですよ」","translatedEnglishLine":"That's really rare.\""},{"lineNumber":128341,"originalJapaneseLine":"「これが弱点となる敵さんは……","translatedEnglishLine":"\"Enemies weak to this... um..."},{"lineNumber":128342,"originalJapaneseLine":"　えっと……」","translatedEnglishLine":"Well...\""},{"lineNumber":128343,"originalJapaneseLine":"「いるのかな……」","translatedEnglishLine":"\"I wonder if there are any...\""},{"lineNumber":128344,"originalJapaneseLine":"「なにィー！？」","translatedEnglishLine":"\"What!?!\""},{"lineNumber":128345,"originalJapaneseLine":"「ひいひい……」","translatedEnglishLine":"\"Huff huff...\""},{"lineNumber":128346,"originalJapaneseLine":"「そんな疲れるような相手でもないだろ」","translatedEnglishLine":"\"They shouldn't be such tiring opponents.\""},{"lineNumber":128347,"originalJapaneseLine":"「い、いえ、でも……","translatedEnglishLine":"\"N-no, but..."},{"lineNumber":128348,"originalJapaneseLine":"　いつ大群が現れたりするかと思ったら……」","translatedEnglishLine":"I'm worried about when a large group might appear...\""},{"lineNumber":128349,"originalJapaneseLine":"「数体のモンスターなら大丈夫ですが、","translatedEnglishLine":"\"A few monsters are fine,"},{"lineNumber":128350,"originalJapaneseLine":"　やはり二人だけでウロウロするのは","translatedEnglishLine":"but wandering around with just the two of us"},{"lineNumber":128351,"originalJapaneseLine":"　危険ではないでしょうか、ランス様」","translatedEnglishLine":"is dangerous, don't you think, Lord Rance?\""},{"lineNumber":128352,"originalJapaneseLine":"「……それは確かに」","translatedEnglishLine":"\"...That is true.\""},{"lineNumber":128353,"originalJapaneseLine":"「ランス様ー！」","translatedEnglishLine":"\"Lord Rance!\""},{"lineNumber":128354,"originalJapaneseLine":"「この声は？」","translatedEnglishLine":"\"Who's voice is that?\""},{"lineNumber":128355,"originalJapaneseLine":"「探しましただー！","translatedEnglishLine":"\"We've been looking for you!\""},{"lineNumber":128356,"originalJapaneseLine":"　ランス様ー！」","translatedEnglishLine":"Lord Rance!\""},{"lineNumber":128357,"originalJapaneseLine":"「ふぎゃ！」","translatedEnglishLine":"\"Fugya!\""},{"lineNumber":128358,"originalJapaneseLine":"ランスキーックが炸裂。","translatedEnglishLine":"Rance's kick explodes."},{"lineNumber":128359,"originalJapaneseLine":"「きゃあ、大丈夫ですか！？","translatedEnglishLine":"\"Kyaa, are you okay!?\""},{"lineNumber":128360,"originalJapaneseLine":"　ロッキーさん！？」","translatedEnglishLine":"Rocky-san!?\""}]}}
+{
+    "id": "resp_05f219a7d0aa18450068ef647639348190bf96cf18e4ec8345",
+    "object": "response",
+    "created_at": 1760519286,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_05f219a7d0aa18450068ef647725c88190b680f8d64853eed5",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":128301,\"originalJapaneseLine\":\"「は、はい！」\",\"translatedEnglishLine\":\"\\\"Y-yes!\\\"\"},{\"lineNumber\":128302,\"originalJapaneseLine\":\"「あう……たんこぶ出来ちゃってる……\",\"translatedEnglishLine\":\"\\\"Ouch... I've got a bump...\\\"\"},{\"lineNumber\":128303,\"originalJapaneseLine\":\"　いたた……」\",\"translatedEnglishLine\":\"\\\"That hurts...\\\"\"},{\"lineNumber\":128304,\"originalJapaneseLine\":\"シィルは叩かれた頭をすりすりと撫でた。\",\"translatedEnglishLine\":\"Shiruru rubbed the head that was hit.\"},{\"lineNumber\":128305,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":128306,\"originalJapaneseLine\":\"「……えへへ」\",\"translatedEnglishLine\":\"\\\"...Hehe.\\\"\"},{\"lineNumber\":128307,\"originalJapaneseLine\":\"「こら〜、なにしてる！」\",\"translatedEnglishLine\":\"\\\"Hey, what are you doing!\\\"\"},{\"lineNumber\":128308,\"originalJapaneseLine\":\"「わわっ！　待って下さい、ランス様〜！」\",\"translatedEnglishLine\":\"\\\"Whoa! Please wait, Lord Rance!\\\"\"},{\"lineNumber\":128309,\"originalJapaneseLine\":\"「ランス様、モンスターですよ！\",\"translatedEnglishLine\":\"\\\"Lord Rance, those are monsters!\\\"\"},{\"lineNumber\":128310,\"originalJapaneseLine\":\"　助けを呼んだ方が……」\",\"translatedEnglishLine\":\"\\\"We should probably call for help...\\\"\"},{\"lineNumber\":128311,\"originalJapaneseLine\":\"「必要ない。\",\"translatedEnglishLine\":\"\\\"No need.\"},{\"lineNumber\":128312,\"originalJapaneseLine\":\"　この程度の雑魚、俺とお前で楽勝だ！」\",\"translatedEnglishLine\":\"These weaklings, you and I will easily defeat them!\\\"\"},{\"lineNumber\":128313,\"originalJapaneseLine\":\"「がはははー！　行くぞー！」\",\"translatedEnglishLine\":\"\\\"Gahahaha! Let's go!\\\"\"},{\"lineNumber\":128314,\"originalJapaneseLine\":\"「わわわ〜っ！」\",\"translatedEnglishLine\":\"\\\"Waaah!\\\"\"},{\"lineNumber\":128315,\"originalJapaneseLine\":\"「ん、なんか妙だぞ……」\",\"translatedEnglishLine\":\"\\\"Hmm, something's strange...\\\"\"},{\"lineNumber\":128316,\"originalJapaneseLine\":\"「あーっ！」\",\"translatedEnglishLine\":\"\\\"Ah!\\\"\"},{\"lineNumber\":128317,\"originalJapaneseLine\":\"「攻撃する際に必要なAPが\",\"translatedEnglishLine\":\"\\\"The AP needed to attack\"},{\"lineNumber\":128318,\"originalJapaneseLine\":\"　前より増えているではないか！」\",\"translatedEnglishLine\":\"has increased compared to before!\\\"\"},{\"lineNumber\":128319,\"originalJapaneseLine\":\"「おい、シィル！　なんだこれは！？」\",\"translatedEnglishLine\":\"\\\"Hey, Shiruru! What is this!?\\\"\"},{\"lineNumber\":128320,\"originalJapaneseLine\":\"「どうやら同じ行動を連続で使用すると、\",\"translatedEnglishLine\":\"\\\"It seems that if you use the same action repeatedly,\"},{\"lineNumber\":128321,\"originalJapaneseLine\":\"　必要APが増えてしまうようですねぇ……」\",\"translatedEnglishLine\":\"the required AP increases...\\\"\"},{\"lineNumber\":128322,\"originalJapaneseLine\":\"「むむ、そうなのか？」\",\"translatedEnglishLine\":\"\\\"Hmm, is that so?\\\"\"},{\"lineNumber\":128323,\"originalJapaneseLine\":\"「つまり、上手くローテーションを組んで、\",\"translatedEnglishLine\":\"\\\"In other words, if you cleverly rotate your actions,\"},{\"lineNumber\":128324,\"originalJapaneseLine\":\"　モンスターを攻撃した方がお得ってことだな」\",\"translatedEnglishLine\":\"it's better to attack monsters that way.\\\"\"},{\"lineNumber\":128325,\"originalJapaneseLine\":\"「はい、一度使った行動は1ターン休憩すると\",\"translatedEnglishLine\":\"\\\"Yes, once you use an action, if you rest for one turn,\"},{\"lineNumber\":128326,\"originalJapaneseLine\":\"　元に戻るみたいですよ」\",\"translatedEnglishLine\":\"it seems the AP cost returns to normal.\\\"\"},{\"lineNumber\":128327,\"originalJapaneseLine\":\"「私も上手く使って下さいね」\",\"translatedEnglishLine\":\"\\\"Please use me skillfully too.\\\"\"},{\"lineNumber\":128328,\"originalJapaneseLine\":\"「あっ！」\",\"translatedEnglishLine\":\"\\\"Ah!\\\"\"},{\"lineNumber\":128329,\"originalJapaneseLine\":\"「どうした？」\",\"translatedEnglishLine\":\"\\\"What's wrong?\\\"\"},{\"lineNumber\":128330,\"originalJapaneseLine\":\"「ランス様、今です、チャンスです！」\",\"translatedEnglishLine\":\"\\\"Lord Rance, now is the chance!\\\"\"},{\"lineNumber\":128331,\"originalJapaneseLine\":\"「見て下さい、モンスターの弱点が炎です」\",\"translatedEnglishLine\":\"\\\"Look, the monster's weakness is fire.\\\"\"},{\"lineNumber\":128332,\"originalJapaneseLine\":\"「私の攻撃属性は炎なので、\",\"translatedEnglishLine\":\"\\\"My attack element is fire,\"},{\"lineNumber\":128333,\"originalJapaneseLine\":\"　私が攻撃するとダメージボーナスがつきますよ」\",\"translatedEnglishLine\":\"so if I attack, I'll get a damage bonus.\\\"\"},{\"lineNumber\":128334,\"originalJapaneseLine\":\"「う、うむ、そうだな。\",\"translatedEnglishLine\":\"\\\"Y-yeah, that's right.\"},{\"lineNumber\":128335,\"originalJapaneseLine\":\"　分かっていたぞ、数少ないお前の出番だな」\",\"translatedEnglishLine\":\"I knew that, this is your rare moment to shine.\\\"\"},{\"lineNumber\":128336,\"originalJapaneseLine\":\"「で、俺様の属性のチャンスはいつ来るのだ？」\",\"translatedEnglishLine\":\"\\\"So, when does my attribute chance come?\\\"\"},{\"lineNumber\":128337,\"originalJapaneseLine\":\"「俺の属性マークは……\",\"translatedEnglishLine\":\"\\\"My attribute mark is...\\\"\"},{\"lineNumber\":128338,\"originalJapaneseLine\":\"　なんだこれ？」\",\"translatedEnglishLine\":\"What is this?\\\"\"},{\"lineNumber\":128339,\"originalJapaneseLine\":\"「……無属性ですね。\",\"translatedEnglishLine\":\"\\\"...It's attributeless.\"},{\"lineNumber\":128340,\"originalJapaneseLine\":\"　すごく珍しいですよ」\",\"translatedEnglishLine\":\"That's really rare.\\\"\"},{\"lineNumber\":128341,\"originalJapaneseLine\":\"「これが弱点となる敵さんは……\",\"translatedEnglishLine\":\"\\\"Enemies weak to this... um...\"},{\"lineNumber\":128342,\"originalJapaneseLine\":\"　えっと……」\",\"translatedEnglishLine\":\"Well...\\\"\"},{\"lineNumber\":128343,\"originalJapaneseLine\":\"「いるのかな……」\",\"translatedEnglishLine\":\"\\\"I wonder if there are any...\\\"\"},{\"lineNumber\":128344,\"originalJapaneseLine\":\"「なにィー！？」\",\"translatedEnglishLine\":\"\\\"What!?!\\\"\"},{\"lineNumber\":128345,\"originalJapaneseLine\":\"「ひいひい……」\",\"translatedEnglishLine\":\"\\\"Huff huff...\\\"\"},{\"lineNumber\":128346,\"originalJapaneseLine\":\"「そんな疲れるような相手でもないだろ」\",\"translatedEnglishLine\":\"\\\"They shouldn't be such tiring opponents.\\\"\"},{\"lineNumber\":128347,\"originalJapaneseLine\":\"「い、いえ、でも……\",\"translatedEnglishLine\":\"\\\"N-no, but...\"},{\"lineNumber\":128348,\"originalJapaneseLine\":\"　いつ大群が現れたりするかと思ったら……」\",\"translatedEnglishLine\":\"I'm worried about when a large group might appear...\\\"\"},{\"lineNumber\":128349,\"originalJapaneseLine\":\"「数体のモンスターなら大丈夫ですが、\",\"translatedEnglishLine\":\"\\\"A few monsters are fine,\"},{\"lineNumber\":128350,\"originalJapaneseLine\":\"　やはり二人だけでウロウロするのは\",\"translatedEnglishLine\":\"but wandering around with just the two of us\"},{\"lineNumber\":128351,\"originalJapaneseLine\":\"　危険ではないでしょうか、ランス様」\",\"translatedEnglishLine\":\"is dangerous, don't you think, Lord Rance?\\\"\"},{\"lineNumber\":128352,\"originalJapaneseLine\":\"「……それは確かに」\",\"translatedEnglishLine\":\"\\\"...That is true.\\\"\"},{\"lineNumber\":128353,\"originalJapaneseLine\":\"「ランス様ー！」\",\"translatedEnglishLine\":\"\\\"Lord Rance!\\\"\"},{\"lineNumber\":128354,\"originalJapaneseLine\":\"「この声は？」\",\"translatedEnglishLine\":\"\\\"Who's voice is that?\\\"\"},{\"lineNumber\":128355,\"originalJapaneseLine\":\"「探しましただー！\",\"translatedEnglishLine\":\"\\\"We've been looking for you!\\\"\"},{\"lineNumber\":128356,\"originalJapaneseLine\":\"　ランス様ー！」\",\"translatedEnglishLine\":\"Lord Rance!\\\"\"},{\"lineNumber\":128357,\"originalJapaneseLine\":\"「ふぎゃ！」\",\"translatedEnglishLine\":\"\\\"Fugya!\\\"\"},{\"lineNumber\":128358,\"originalJapaneseLine\":\"ランスキーックが炸裂。\",\"translatedEnglishLine\":\"Rance's kick explodes.\"},{\"lineNumber\":128359,\"originalJapaneseLine\":\"「きゃあ、大丈夫ですか！？\",\"translatedEnglishLine\":\"\\\"Kyaa, are you okay!?\\\"\"},{\"lineNumber\":128360,\"originalJapaneseLine\":\"　ロッキーさん！？」\",\"translatedEnglishLine\":\"Rocky-san!?\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 128301,
+                                "originalJapaneseLine": "「は、はい！」",
+                                "translatedEnglishLine": "\"Y-yes!\""
+                            },
+                            {
+                                "lineNumber": 128302,
+                                "originalJapaneseLine": "「あう……たんこぶ出来ちゃってる……",
+                                "translatedEnglishLine": "\"Ouch... I've got a bump...\""
+                            },
+                            {
+                                "lineNumber": 128303,
+                                "originalJapaneseLine": "　いたた……」",
+                                "translatedEnglishLine": "\"That hurts...\""
+                            },
+                            {
+                                "lineNumber": 128304,
+                                "originalJapaneseLine": "シィルは叩かれた頭をすりすりと撫でた。",
+                                "translatedEnglishLine": "Shiruru rubbed the head that was hit."
+                            },
+                            {
+                                "lineNumber": 128305,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": 128306,
+                                "originalJapaneseLine": "「……えへへ」",
+                                "translatedEnglishLine": "\"...Hehe.\""
+                            },
+                            {
+                                "lineNumber": 128307,
+                                "originalJapaneseLine": "「こら〜、なにしてる！」",
+                                "translatedEnglishLine": "\"Hey, what are you doing!\""
+                            },
+                            {
+                                "lineNumber": 128308,
+                                "originalJapaneseLine": "「わわっ！　待って下さい、ランス様〜！」",
+                                "translatedEnglishLine": "\"Whoa! Please wait, Lord Rance!\""
+                            },
+                            {
+                                "lineNumber": 128309,
+                                "originalJapaneseLine": "「ランス様、モンスターですよ！",
+                                "translatedEnglishLine": "\"Lord Rance, those are monsters!\""
+                            },
+                            {
+                                "lineNumber": 128310,
+                                "originalJapaneseLine": "　助けを呼んだ方が……」",
+                                "translatedEnglishLine": "\"We should probably call for help...\""
+                            },
+                            {
+                                "lineNumber": 128311,
+                                "originalJapaneseLine": "「必要ない。",
+                                "translatedEnglishLine": "\"No need."
+                            },
+                            {
+                                "lineNumber": 128312,
+                                "originalJapaneseLine": "　この程度の雑魚、俺とお前で楽勝だ！」",
+                                "translatedEnglishLine": "These weaklings, you and I will easily defeat them!\""
+                            },
+                            {
+                                "lineNumber": 128313,
+                                "originalJapaneseLine": "「がはははー！　行くぞー！」",
+                                "translatedEnglishLine": "\"Gahahaha! Let's go!\""
+                            },
+                            {
+                                "lineNumber": 128314,
+                                "originalJapaneseLine": "「わわわ〜っ！」",
+                                "translatedEnglishLine": "\"Waaah!\""
+                            },
+                            {
+                                "lineNumber": 128315,
+                                "originalJapaneseLine": "「ん、なんか妙だぞ……」",
+                                "translatedEnglishLine": "\"Hmm, something's strange...\""
+                            },
+                            {
+                                "lineNumber": 128316,
+                                "originalJapaneseLine": "「あーっ！」",
+                                "translatedEnglishLine": "\"Ah!\""
+                            },
+                            {
+                                "lineNumber": 128317,
+                                "originalJapaneseLine": "「攻撃する際に必要なAPが",
+                                "translatedEnglishLine": "\"The AP needed to attack"
+                            },
+                            {
+                                "lineNumber": 128318,
+                                "originalJapaneseLine": "　前より増えているではないか！」",
+                                "translatedEnglishLine": "has increased compared to before!\""
+                            },
+                            {
+                                "lineNumber": 128319,
+                                "originalJapaneseLine": "「おい、シィル！　なんだこれは！？」",
+                                "translatedEnglishLine": "\"Hey, Shiruru! What is this!?\""
+                            },
+                            {
+                                "lineNumber": 128320,
+                                "originalJapaneseLine": "「どうやら同じ行動を連続で使用すると、",
+                                "translatedEnglishLine": "\"It seems that if you use the same action repeatedly,"
+                            },
+                            {
+                                "lineNumber": 128321,
+                                "originalJapaneseLine": "　必要APが増えてしまうようですねぇ……」",
+                                "translatedEnglishLine": "the required AP increases...\""
+                            },
+                            {
+                                "lineNumber": 128322,
+                                "originalJapaneseLine": "「むむ、そうなのか？」",
+                                "translatedEnglishLine": "\"Hmm, is that so?\""
+                            },
+                            {
+                                "lineNumber": 128323,
+                                "originalJapaneseLine": "「つまり、上手くローテーションを組んで、",
+                                "translatedEnglishLine": "\"In other words, if you cleverly rotate your actions,"
+                            },
+                            {
+                                "lineNumber": 128324,
+                                "originalJapaneseLine": "　モンスターを攻撃した方がお得ってことだな」",
+                                "translatedEnglishLine": "it's better to attack monsters that way.\""
+                            },
+                            {
+                                "lineNumber": 128325,
+                                "originalJapaneseLine": "「はい、一度使った行動は1ターン休憩すると",
+                                "translatedEnglishLine": "\"Yes, once you use an action, if you rest for one turn,"
+                            },
+                            {
+                                "lineNumber": 128326,
+                                "originalJapaneseLine": "　元に戻るみたいですよ」",
+                                "translatedEnglishLine": "it seems the AP cost returns to normal.\""
+                            },
+                            {
+                                "lineNumber": 128327,
+                                "originalJapaneseLine": "「私も上手く使って下さいね」",
+                                "translatedEnglishLine": "\"Please use me skillfully too.\""
+                            },
+                            {
+                                "lineNumber": 128328,
+                                "originalJapaneseLine": "「あっ！」",
+                                "translatedEnglishLine": "\"Ah!\""
+                            },
+                            {
+                                "lineNumber": 128329,
+                                "originalJapaneseLine": "「どうした？」",
+                                "translatedEnglishLine": "\"What's wrong?\""
+                            },
+                            {
+                                "lineNumber": 128330,
+                                "originalJapaneseLine": "「ランス様、今です、チャンスです！」",
+                                "translatedEnglishLine": "\"Lord Rance, now is the chance!\""
+                            },
+                            {
+                                "lineNumber": 128331,
+                                "originalJapaneseLine": "「見て下さい、モンスターの弱点が炎です」",
+                                "translatedEnglishLine": "\"Look, the monster's weakness is fire.\""
+                            },
+                            {
+                                "lineNumber": 128332,
+                                "originalJapaneseLine": "「私の攻撃属性は炎なので、",
+                                "translatedEnglishLine": "\"My attack element is fire,"
+                            },
+                            {
+                                "lineNumber": 128333,
+                                "originalJapaneseLine": "　私が攻撃するとダメージボーナスがつきますよ」",
+                                "translatedEnglishLine": "so if I attack, I'll get a damage bonus.\""
+                            },
+                            {
+                                "lineNumber": 128334,
+                                "originalJapaneseLine": "「う、うむ、そうだな。",
+                                "translatedEnglishLine": "\"Y-yeah, that's right."
+                            },
+                            {
+                                "lineNumber": 128335,
+                                "originalJapaneseLine": "　分かっていたぞ、数少ないお前の出番だな」",
+                                "translatedEnglishLine": "I knew that, this is your rare moment to shine.\""
+                            },
+                            {
+                                "lineNumber": 128336,
+                                "originalJapaneseLine": "「で、俺様の属性のチャンスはいつ来るのだ？」",
+                                "translatedEnglishLine": "\"So, when does my attribute chance come?\""
+                            },
+                            {
+                                "lineNumber": 128337,
+                                "originalJapaneseLine": "「俺の属性マークは……",
+                                "translatedEnglishLine": "\"My attribute mark is...\""
+                            },
+                            {
+                                "lineNumber": 128338,
+                                "originalJapaneseLine": "　なんだこれ？」",
+                                "translatedEnglishLine": "What is this?\""
+                            },
+                            {
+                                "lineNumber": 128339,
+                                "originalJapaneseLine": "「……無属性ですね。",
+                                "translatedEnglishLine": "\"...It's attributeless."
+                            },
+                            {
+                                "lineNumber": 128340,
+                                "originalJapaneseLine": "　すごく珍しいですよ」",
+                                "translatedEnglishLine": "That's really rare.\""
+                            },
+                            {
+                                "lineNumber": 128341,
+                                "originalJapaneseLine": "「これが弱点となる敵さんは……",
+                                "translatedEnglishLine": "\"Enemies weak to this... um..."
+                            },
+                            {
+                                "lineNumber": 128342,
+                                "originalJapaneseLine": "　えっと……」",
+                                "translatedEnglishLine": "Well...\""
+                            },
+                            {
+                                "lineNumber": 128343,
+                                "originalJapaneseLine": "「いるのかな……」",
+                                "translatedEnglishLine": "\"I wonder if there are any...\""
+                            },
+                            {
+                                "lineNumber": 128344,
+                                "originalJapaneseLine": "「なにィー！？」",
+                                "translatedEnglishLine": "\"What!?!\""
+                            },
+                            {
+                                "lineNumber": 128345,
+                                "originalJapaneseLine": "「ひいひい……」",
+                                "translatedEnglishLine": "\"Huff huff...\""
+                            },
+                            {
+                                "lineNumber": 128346,
+                                "originalJapaneseLine": "「そんな疲れるような相手でもないだろ」",
+                                "translatedEnglishLine": "\"They shouldn't be such tiring opponents.\""
+                            },
+                            {
+                                "lineNumber": 128347,
+                                "originalJapaneseLine": "「い、いえ、でも……",
+                                "translatedEnglishLine": "\"N-no, but..."
+                            },
+                            {
+                                "lineNumber": 128348,
+                                "originalJapaneseLine": "　いつ大群が現れたりするかと思ったら……」",
+                                "translatedEnglishLine": "I'm worried about when a large group might appear...\""
+                            },
+                            {
+                                "lineNumber": 128349,
+                                "originalJapaneseLine": "「数体のモンスターなら大丈夫ですが、",
+                                "translatedEnglishLine": "\"A few monsters are fine,"
+                            },
+                            {
+                                "lineNumber": 128350,
+                                "originalJapaneseLine": "　やはり二人だけでウロウロするのは",
+                                "translatedEnglishLine": "but wandering around with just the two of us"
+                            },
+                            {
+                                "lineNumber": 128351,
+                                "originalJapaneseLine": "　危険ではないでしょうか、ランス様」",
+                                "translatedEnglishLine": "is dangerous, don't you think, Lord Rance?\""
+                            },
+                            {
+                                "lineNumber": 128352,
+                                "originalJapaneseLine": "「……それは確かに」",
+                                "translatedEnglishLine": "\"...That is true.\""
+                            },
+                            {
+                                "lineNumber": 128353,
+                                "originalJapaneseLine": "「ランス様ー！」",
+                                "translatedEnglishLine": "\"Lord Rance!\""
+                            },
+                            {
+                                "lineNumber": 128354,
+                                "originalJapaneseLine": "「この声は？」",
+                                "translatedEnglishLine": "\"Who's voice is that?\""
+                            },
+                            {
+                                "lineNumber": 128355,
+                                "originalJapaneseLine": "「探しましただー！",
+                                "translatedEnglishLine": "\"We've been looking for you!\""
+                            },
+                            {
+                                "lineNumber": 128356,
+                                "originalJapaneseLine": "　ランス様ー！」",
+                                "translatedEnglishLine": "Lord Rance!\""
+                            },
+                            {
+                                "lineNumber": 128357,
+                                "originalJapaneseLine": "「ふぎゃ！」",
+                                "translatedEnglishLine": "\"Fugya!\""
+                            },
+                            {
+                                "lineNumber": 128358,
+                                "originalJapaneseLine": "ランスキーックが炸裂。",
+                                "translatedEnglishLine": "Rance's kick explodes."
+                            },
+                            {
+                                "lineNumber": 128359,
+                                "originalJapaneseLine": "「きゃあ、大丈夫ですか！？",
+                                "translatedEnglishLine": "\"Kyaa, are you okay!?\""
+                            },
+                            {
+                                "lineNumber": 128360,
+                                "originalJapaneseLine": "　ロッキーさん！？」",
+                                "translatedEnglishLine": "Rocky-san!?\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1600,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2035,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3635
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":128301,\"originalJapaneseLine\":\"「は、はい！」\",\"translatedEnglishLine\":\"\\\"Y-yes!\\\"\"},{\"lineNumber\":128302,\"originalJapaneseLine\":\"「あう……たんこぶ出来ちゃってる……\",\"translatedEnglishLine\":\"\\\"Ouch... I've got a bump...\\\"\"},{\"lineNumber\":128303,\"originalJapaneseLine\":\"　いたた……」\",\"translatedEnglishLine\":\"\\\"That hurts...\\\"\"},{\"lineNumber\":128304,\"originalJapaneseLine\":\"シィルは叩かれた頭をすりすりと撫でた。\",\"translatedEnglishLine\":\"Shiruru rubbed the head that was hit.\"},{\"lineNumber\":128305,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":128306,\"originalJapaneseLine\":\"「……えへへ」\",\"translatedEnglishLine\":\"\\\"...Hehe.\\\"\"},{\"lineNumber\":128307,\"originalJapaneseLine\":\"「こら〜、なにしてる！」\",\"translatedEnglishLine\":\"\\\"Hey, what are you doing!\\\"\"},{\"lineNumber\":128308,\"originalJapaneseLine\":\"「わわっ！　待って下さい、ランス様〜！」\",\"translatedEnglishLine\":\"\\\"Whoa! Please wait, Lord Rance!\\\"\"},{\"lineNumber\":128309,\"originalJapaneseLine\":\"「ランス様、モンスターですよ！\",\"translatedEnglishLine\":\"\\\"Lord Rance, those are monsters!\\\"\"},{\"lineNumber\":128310,\"originalJapaneseLine\":\"　助けを呼んだ方が……」\",\"translatedEnglishLine\":\"\\\"We should probably call for help...\\\"\"},{\"lineNumber\":128311,\"originalJapaneseLine\":\"「必要ない。\",\"translatedEnglishLine\":\"\\\"No need.\"},{\"lineNumber\":128312,\"originalJapaneseLine\":\"　この程度の雑魚、俺とお前で楽勝だ！」\",\"translatedEnglishLine\":\"These weaklings, you and I will easily defeat them!\\\"\"},{\"lineNumber\":128313,\"originalJapaneseLine\":\"「がはははー！　行くぞー！」\",\"translatedEnglishLine\":\"\\\"Gahahaha! Let's go!\\\"\"},{\"lineNumber\":128314,\"originalJapaneseLine\":\"「わわわ〜っ！」\",\"translatedEnglishLine\":\"\\\"Waaah!\\\"\"},{\"lineNumber\":128315,\"originalJapaneseLine\":\"「ん、なんか妙だぞ……」\",\"translatedEnglishLine\":\"\\\"Hmm, something's strange...\\\"\"},{\"lineNumber\":128316,\"originalJapaneseLine\":\"「あーっ！」\",\"translatedEnglishLine\":\"\\\"Ah!\\\"\"},{\"lineNumber\":128317,\"originalJapaneseLine\":\"「攻撃する際に必要なAPが\",\"translatedEnglishLine\":\"\\\"The AP needed to attack\"},{\"lineNumber\":128318,\"originalJapaneseLine\":\"　前より増えているではないか！」\",\"translatedEnglishLine\":\"has increased compared to before!\\\"\"},{\"lineNumber\":128319,\"originalJapaneseLine\":\"「おい、シィル！　なんだこれは！？」\",\"translatedEnglishLine\":\"\\\"Hey, Shiruru! What is this!?\\\"\"},{\"lineNumber\":128320,\"originalJapaneseLine\":\"「どうやら同じ行動を連続で使用すると、\",\"translatedEnglishLine\":\"\\\"It seems that if you use the same action repeatedly,\"},{\"lineNumber\":128321,\"originalJapaneseLine\":\"　必要APが増えてしまうようですねぇ……」\",\"translatedEnglishLine\":\"the required AP increases...\\\"\"},{\"lineNumber\":128322,\"originalJapaneseLine\":\"「むむ、そうなのか？」\",\"translatedEnglishLine\":\"\\\"Hmm, is that so?\\\"\"},{\"lineNumber\":128323,\"originalJapaneseLine\":\"「つまり、上手くローテーションを組んで、\",\"translatedEnglishLine\":\"\\\"In other words, if you cleverly rotate your actions,\"},{\"lineNumber\":128324,\"originalJapaneseLine\":\"　モンスターを攻撃した方がお得ってことだな」\",\"translatedEnglishLine\":\"it's better to attack monsters that way.\\\"\"},{\"lineNumber\":128325,\"originalJapaneseLine\":\"「はい、一度使った行動は1ターン休憩すると\",\"translatedEnglishLine\":\"\\\"Yes, once you use an action, if you rest for one turn,\"},{\"lineNumber\":128326,\"originalJapaneseLine\":\"　元に戻るみたいですよ」\",\"translatedEnglishLine\":\"it seems the AP cost returns to normal.\\\"\"},{\"lineNumber\":128327,\"originalJapaneseLine\":\"「私も上手く使って下さいね」\",\"translatedEnglishLine\":\"\\\"Please use me skillfully too.\\\"\"},{\"lineNumber\":128328,\"originalJapaneseLine\":\"「あっ！」\",\"translatedEnglishLine\":\"\\\"Ah!\\\"\"},{\"lineNumber\":128329,\"originalJapaneseLine\":\"「どうした？」\",\"translatedEnglishLine\":\"\\\"What's wrong?\\\"\"},{\"lineNumber\":128330,\"originalJapaneseLine\":\"「ランス様、今です、チャンスです！」\",\"translatedEnglishLine\":\"\\\"Lord Rance, now is the chance!\\\"\"},{\"lineNumber\":128331,\"originalJapaneseLine\":\"「見て下さい、モンスターの弱点が炎です」\",\"translatedEnglishLine\":\"\\\"Look, the monster's weakness is fire.\\\"\"},{\"lineNumber\":128332,\"originalJapaneseLine\":\"「私の攻撃属性は炎なので、\",\"translatedEnglishLine\":\"\\\"My attack element is fire,\"},{\"lineNumber\":128333,\"originalJapaneseLine\":\"　私が攻撃するとダメージボーナスがつきますよ」\",\"translatedEnglishLine\":\"so if I attack, I'll get a damage bonus.\\\"\"},{\"lineNumber\":128334,\"originalJapaneseLine\":\"「う、うむ、そうだな。\",\"translatedEnglishLine\":\"\\\"Y-yeah, that's right.\"},{\"lineNumber\":128335,\"originalJapaneseLine\":\"　分かっていたぞ、数少ないお前の出番だな」\",\"translatedEnglishLine\":\"I knew that, this is your rare moment to shine.\\\"\"},{\"lineNumber\":128336,\"originalJapaneseLine\":\"「で、俺様の属性のチャンスはいつ来るのだ？」\",\"translatedEnglishLine\":\"\\\"So, when does my attribute chance come?\\\"\"},{\"lineNumber\":128337,\"originalJapaneseLine\":\"「俺の属性マークは……\",\"translatedEnglishLine\":\"\\\"My attribute mark is...\\\"\"},{\"lineNumber\":128338,\"originalJapaneseLine\":\"　なんだこれ？」\",\"translatedEnglishLine\":\"What is this?\\\"\"},{\"lineNumber\":128339,\"originalJapaneseLine\":\"「……無属性ですね。\",\"translatedEnglishLine\":\"\\\"...It's attributeless.\"},{\"lineNumber\":128340,\"originalJapaneseLine\":\"　すごく珍しいですよ」\",\"translatedEnglishLine\":\"That's really rare.\\\"\"},{\"lineNumber\":128341,\"originalJapaneseLine\":\"「これが弱点となる敵さんは……\",\"translatedEnglishLine\":\"\\\"Enemies weak to this... um...\"},{\"lineNumber\":128342,\"originalJapaneseLine\":\"　えっと……」\",\"translatedEnglishLine\":\"Well...\\\"\"},{\"lineNumber\":128343,\"originalJapaneseLine\":\"「いるのかな……」\",\"translatedEnglishLine\":\"\\\"I wonder if there are any...\\\"\"},{\"lineNumber\":128344,\"originalJapaneseLine\":\"「なにィー！？」\",\"translatedEnglishLine\":\"\\\"What!?!\\\"\"},{\"lineNumber\":128345,\"originalJapaneseLine\":\"「ひいひい……」\",\"translatedEnglishLine\":\"\\\"Huff huff...\\\"\"},{\"lineNumber\":128346,\"originalJapaneseLine\":\"「そんな疲れるような相手でもないだろ」\",\"translatedEnglishLine\":\"\\\"They shouldn't be such tiring opponents.\\\"\"},{\"lineNumber\":128347,\"originalJapaneseLine\":\"「い、いえ、でも……\",\"translatedEnglishLine\":\"\\\"N-no, but...\"},{\"lineNumber\":128348,\"originalJapaneseLine\":\"　いつ大群が現れたりするかと思ったら……」\",\"translatedEnglishLine\":\"I'm worried about when a large group might appear...\\\"\"},{\"lineNumber\":128349,\"originalJapaneseLine\":\"「数体のモンスターなら大丈夫ですが、\",\"translatedEnglishLine\":\"\\\"A few monsters are fine,\"},{\"lineNumber\":128350,\"originalJapaneseLine\":\"　やはり二人だけでウロウロするのは\",\"translatedEnglishLine\":\"but wandering around with just the two of us\"},{\"lineNumber\":128351,\"originalJapaneseLine\":\"　危険ではないでしょうか、ランス様」\",\"translatedEnglishLine\":\"is dangerous, don't you think, Lord Rance?\\\"\"},{\"lineNumber\":128352,\"originalJapaneseLine\":\"「……それは確かに」\",\"translatedEnglishLine\":\"\\\"...That is true.\\\"\"},{\"lineNumber\":128353,\"originalJapaneseLine\":\"「ランス様ー！」\",\"translatedEnglishLine\":\"\\\"Lord Rance!\\\"\"},{\"lineNumber\":128354,\"originalJapaneseLine\":\"「この声は？」\",\"translatedEnglishLine\":\"\\\"Who's voice is that?\\\"\"},{\"lineNumber\":128355,\"originalJapaneseLine\":\"「探しましただー！\",\"translatedEnglishLine\":\"\\\"We've been looking for you!\\\"\"},{\"lineNumber\":128356,\"originalJapaneseLine\":\"　ランス様ー！」\",\"translatedEnglishLine\":\"Lord Rance!\\\"\"},{\"lineNumber\":128357,\"originalJapaneseLine\":\"「ふぎゃ！」\",\"translatedEnglishLine\":\"\\\"Fugya!\\\"\"},{\"lineNumber\":128358,\"originalJapaneseLine\":\"ランスキーックが炸裂。\",\"translatedEnglishLine\":\"Rance's kick explodes.\"},{\"lineNumber\":128359,\"originalJapaneseLine\":\"「きゃあ、大丈夫ですか！？\",\"translatedEnglishLine\":\"\\\"Kyaa, are you okay!?\\\"\"},{\"lineNumber\":128360,\"originalJapaneseLine\":\"　ロッキーさん！？」\",\"translatedEnglishLine\":\"Rocky-san!?\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 128301,
+                "originalJapaneseLine": "「は、はい！」",
+                "translatedEnglishLine": "\"Y-yes!\""
+            },
+            {
+                "lineNumber": 128302,
+                "originalJapaneseLine": "「あう……たんこぶ出来ちゃってる……",
+                "translatedEnglishLine": "\"Ouch... I've got a bump...\""
+            },
+            {
+                "lineNumber": 128303,
+                "originalJapaneseLine": "　いたた……」",
+                "translatedEnglishLine": "\"That hurts...\""
+            },
+            {
+                "lineNumber": 128304,
+                "originalJapaneseLine": "シィルは叩かれた頭をすりすりと撫でた。",
+                "translatedEnglishLine": "Shiruru rubbed the head that was hit."
+            },
+            {
+                "lineNumber": 128305,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": 128306,
+                "originalJapaneseLine": "「……えへへ」",
+                "translatedEnglishLine": "\"...Hehe.\""
+            },
+            {
+                "lineNumber": 128307,
+                "originalJapaneseLine": "「こら〜、なにしてる！」",
+                "translatedEnglishLine": "\"Hey, what are you doing!\""
+            },
+            {
+                "lineNumber": 128308,
+                "originalJapaneseLine": "「わわっ！　待って下さい、ランス様〜！」",
+                "translatedEnglishLine": "\"Whoa! Please wait, Lord Rance!\""
+            },
+            {
+                "lineNumber": 128309,
+                "originalJapaneseLine": "「ランス様、モンスターですよ！",
+                "translatedEnglishLine": "\"Lord Rance, those are monsters!\""
+            },
+            {
+                "lineNumber": 128310,
+                "originalJapaneseLine": "　助けを呼んだ方が……」",
+                "translatedEnglishLine": "\"We should probably call for help...\""
+            },
+            {
+                "lineNumber": 128311,
+                "originalJapaneseLine": "「必要ない。",
+                "translatedEnglishLine": "\"No need."
+            },
+            {
+                "lineNumber": 128312,
+                "originalJapaneseLine": "　この程度の雑魚、俺とお前で楽勝だ！」",
+                "translatedEnglishLine": "These weaklings, you and I will easily defeat them!\""
+            },
+            {
+                "lineNumber": 128313,
+                "originalJapaneseLine": "「がはははー！　行くぞー！」",
+                "translatedEnglishLine": "\"Gahahaha! Let's go!\""
+            },
+            {
+                "lineNumber": 128314,
+                "originalJapaneseLine": "「わわわ〜っ！」",
+                "translatedEnglishLine": "\"Waaah!\""
+            },
+            {
+                "lineNumber": 128315,
+                "originalJapaneseLine": "「ん、なんか妙だぞ……」",
+                "translatedEnglishLine": "\"Hmm, something's strange...\""
+            },
+            {
+                "lineNumber": 128316,
+                "originalJapaneseLine": "「あーっ！」",
+                "translatedEnglishLine": "\"Ah!\""
+            },
+            {
+                "lineNumber": 128317,
+                "originalJapaneseLine": "「攻撃する際に必要なAPが",
+                "translatedEnglishLine": "\"The AP needed to attack"
+            },
+            {
+                "lineNumber": 128318,
+                "originalJapaneseLine": "　前より増えているではないか！」",
+                "translatedEnglishLine": "has increased compared to before!\""
+            },
+            {
+                "lineNumber": 128319,
+                "originalJapaneseLine": "「おい、シィル！　なんだこれは！？」",
+                "translatedEnglishLine": "\"Hey, Shiruru! What is this!?\""
+            },
+            {
+                "lineNumber": 128320,
+                "originalJapaneseLine": "「どうやら同じ行動を連続で使用すると、",
+                "translatedEnglishLine": "\"It seems that if you use the same action repeatedly,"
+            },
+            {
+                "lineNumber": 128321,
+                "originalJapaneseLine": "　必要APが増えてしまうようですねぇ……」",
+                "translatedEnglishLine": "the required AP increases...\""
+            },
+            {
+                "lineNumber": 128322,
+                "originalJapaneseLine": "「むむ、そうなのか？」",
+                "translatedEnglishLine": "\"Hmm, is that so?\""
+            },
+            {
+                "lineNumber": 128323,
+                "originalJapaneseLine": "「つまり、上手くローテーションを組んで、",
+                "translatedEnglishLine": "\"In other words, if you cleverly rotate your actions,"
+            },
+            {
+                "lineNumber": 128324,
+                "originalJapaneseLine": "　モンスターを攻撃した方がお得ってことだな」",
+                "translatedEnglishLine": "it's better to attack monsters that way.\""
+            },
+            {
+                "lineNumber": 128325,
+                "originalJapaneseLine": "「はい、一度使った行動は1ターン休憩すると",
+                "translatedEnglishLine": "\"Yes, once you use an action, if you rest for one turn,"
+            },
+            {
+                "lineNumber": 128326,
+                "originalJapaneseLine": "　元に戻るみたいですよ」",
+                "translatedEnglishLine": "it seems the AP cost returns to normal.\""
+            },
+            {
+                "lineNumber": 128327,
+                "originalJapaneseLine": "「私も上手く使って下さいね」",
+                "translatedEnglishLine": "\"Please use me skillfully too.\""
+            },
+            {
+                "lineNumber": 128328,
+                "originalJapaneseLine": "「あっ！」",
+                "translatedEnglishLine": "\"Ah!\""
+            },
+            {
+                "lineNumber": 128329,
+                "originalJapaneseLine": "「どうした？」",
+                "translatedEnglishLine": "\"What's wrong?\""
+            },
+            {
+                "lineNumber": 128330,
+                "originalJapaneseLine": "「ランス様、今です、チャンスです！」",
+                "translatedEnglishLine": "\"Lord Rance, now is the chance!\""
+            },
+            {
+                "lineNumber": 128331,
+                "originalJapaneseLine": "「見て下さい、モンスターの弱点が炎です」",
+                "translatedEnglishLine": "\"Look, the monster's weakness is fire.\""
+            },
+            {
+                "lineNumber": 128332,
+                "originalJapaneseLine": "「私の攻撃属性は炎なので、",
+                "translatedEnglishLine": "\"My attack element is fire,"
+            },
+            {
+                "lineNumber": 128333,
+                "originalJapaneseLine": "　私が攻撃するとダメージボーナスがつきますよ」",
+                "translatedEnglishLine": "so if I attack, I'll get a damage bonus.\""
+            },
+            {
+                "lineNumber": 128334,
+                "originalJapaneseLine": "「う、うむ、そうだな。",
+                "translatedEnglishLine": "\"Y-yeah, that's right."
+            },
+            {
+                "lineNumber": 128335,
+                "originalJapaneseLine": "　分かっていたぞ、数少ないお前の出番だな」",
+                "translatedEnglishLine": "I knew that, this is your rare moment to shine.\""
+            },
+            {
+                "lineNumber": 128336,
+                "originalJapaneseLine": "「で、俺様の属性のチャンスはいつ来るのだ？」",
+                "translatedEnglishLine": "\"So, when does my attribute chance come?\""
+            },
+            {
+                "lineNumber": 128337,
+                "originalJapaneseLine": "「俺の属性マークは……",
+                "translatedEnglishLine": "\"My attribute mark is...\""
+            },
+            {
+                "lineNumber": 128338,
+                "originalJapaneseLine": "　なんだこれ？」",
+                "translatedEnglishLine": "What is this?\""
+            },
+            {
+                "lineNumber": 128339,
+                "originalJapaneseLine": "「……無属性ですね。",
+                "translatedEnglishLine": "\"...It's attributeless."
+            },
+            {
+                "lineNumber": 128340,
+                "originalJapaneseLine": "　すごく珍しいですよ」",
+                "translatedEnglishLine": "That's really rare.\""
+            },
+            {
+                "lineNumber": 128341,
+                "originalJapaneseLine": "「これが弱点となる敵さんは……",
+                "translatedEnglishLine": "\"Enemies weak to this... um..."
+            },
+            {
+                "lineNumber": 128342,
+                "originalJapaneseLine": "　えっと……」",
+                "translatedEnglishLine": "Well...\""
+            },
+            {
+                "lineNumber": 128343,
+                "originalJapaneseLine": "「いるのかな……」",
+                "translatedEnglishLine": "\"I wonder if there are any...\""
+            },
+            {
+                "lineNumber": 128344,
+                "originalJapaneseLine": "「なにィー！？」",
+                "translatedEnglishLine": "\"What!?!\""
+            },
+            {
+                "lineNumber": 128345,
+                "originalJapaneseLine": "「ひいひい……」",
+                "translatedEnglishLine": "\"Huff huff...\""
+            },
+            {
+                "lineNumber": 128346,
+                "originalJapaneseLine": "「そんな疲れるような相手でもないだろ」",
+                "translatedEnglishLine": "\"They shouldn't be such tiring opponents.\""
+            },
+            {
+                "lineNumber": 128347,
+                "originalJapaneseLine": "「い、いえ、でも……",
+                "translatedEnglishLine": "\"N-no, but..."
+            },
+            {
+                "lineNumber": 128348,
+                "originalJapaneseLine": "　いつ大群が現れたりするかと思ったら……」",
+                "translatedEnglishLine": "I'm worried about when a large group might appear...\""
+            },
+            {
+                "lineNumber": 128349,
+                "originalJapaneseLine": "「数体のモンスターなら大丈夫ですが、",
+                "translatedEnglishLine": "\"A few monsters are fine,"
+            },
+            {
+                "lineNumber": 128350,
+                "originalJapaneseLine": "　やはり二人だけでウロウロするのは",
+                "translatedEnglishLine": "but wandering around with just the two of us"
+            },
+            {
+                "lineNumber": 128351,
+                "originalJapaneseLine": "　危険ではないでしょうか、ランス様」",
+                "translatedEnglishLine": "is dangerous, don't you think, Lord Rance?\""
+            },
+            {
+                "lineNumber": 128352,
+                "originalJapaneseLine": "「……それは確かに」",
+                "translatedEnglishLine": "\"...That is true.\""
+            },
+            {
+                "lineNumber": 128353,
+                "originalJapaneseLine": "「ランス様ー！」",
+                "translatedEnglishLine": "\"Lord Rance!\""
+            },
+            {
+                "lineNumber": 128354,
+                "originalJapaneseLine": "「この声は？」",
+                "translatedEnglishLine": "\"Who's voice is that?\""
+            },
+            {
+                "lineNumber": 128355,
+                "originalJapaneseLine": "「探しましただー！",
+                "translatedEnglishLine": "\"We've been looking for you!\""
+            },
+            {
+                "lineNumber": 128356,
+                "originalJapaneseLine": "　ランス様ー！」",
+                "translatedEnglishLine": "Lord Rance!\""
+            },
+            {
+                "lineNumber": 128357,
+                "originalJapaneseLine": "「ふぎゃ！」",
+                "translatedEnglishLine": "\"Fugya!\""
+            },
+            {
+                "lineNumber": 128358,
+                "originalJapaneseLine": "ランスキーックが炸裂。",
+                "translatedEnglishLine": "Rance's kick explodes."
+            },
+            {
+                "lineNumber": 128359,
+                "originalJapaneseLine": "「きゃあ、大丈夫ですか！？",
+                "translatedEnglishLine": "\"Kyaa, are you okay!?\""
+            },
+            {
+                "lineNumber": 128360,
+                "originalJapaneseLine": "　ロッキーさん！？」",
+                "translatedEnglishLine": "Rocky-san!?\""
+            }
+        ]
+    }
+}

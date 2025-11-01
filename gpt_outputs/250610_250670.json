@@ -1,1 +1,719 @@
-{"id":"resp_04a5f4cb0f1af1220068f2361e538081979a1204b26afe3efd","object":"response","created_at":1760704030,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_04a5f4cb0f1af1220068f2361ec28c8197912d60f2ac3b37c8","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":250552,\"originalJapaneseLine\":\"　イベントの時系列図なのです」\",\"translatedEnglishLine\":\"This is a timeline diagram of the events.\"},{\"lineNumber\":250553,\"originalJapaneseLine\":\"「箱のように表示されているのは、＜次の出来事＞です。\",\"translatedEnglishLine\":\"The boxes displayed like this represent the <Next Event>.\"},{\"lineNumber\":250554,\"originalJapaneseLine\":\"　何歩先、何メートル先、何分後、何日後、かは分かりませんが、\",\"translatedEnglishLine\":\"It’s unknown how many steps ahead, meters ahead, minutes later, or days later,\"},{\"lineNumber\":250555,\"originalJapaneseLine\":\"　進んだ先にある＜次の出来事＞となっています。」\",\"translatedEnglishLine\":\"but it shows the <Next Event> that lies ahead after progressing.\"},{\"lineNumber\":250556,\"originalJapaneseLine\":\"「こういう＜次の出来事＞の連続して集まりが\",\"translatedEnglishLine\":\"A connected series of such <Next Events>\"},{\"lineNumber\":250557,\"originalJapaneseLine\":\"　大きな物語＜クエスト＞となります。」\",\"translatedEnglishLine\":\"forms a larger story, a <Quest>.\"},{\"lineNumber\":250558,\"originalJapaneseLine\":\"「＜次の出来事＞では、いろいろなイベントが発生します。\",\"translatedEnglishLine\":\"Various events occur at each <Next Event>.\"},{\"lineNumber\":250559,\"originalJapaneseLine\":\"　戦闘の場合もあります、何かいい物を拾う時や、\",\"translatedEnglishLine\":\"Sometimes battles happen, or you might find something good,\"},{\"lineNumber\":250560,\"originalJapaneseLine\":\"　回復出来る場所とかもあります。」\",\"translatedEnglishLine\":\"and there are also places where you can recover.\"},{\"lineNumber\":250561,\"originalJapaneseLine\":\"「はにほー\",\"translatedEnglishLine\":\"Haniho~ (a cheerful greeting)\"},{\"lineNumber\":250562,\"originalJapaneseLine\":\"　説明おわり」\",\"translatedEnglishLine\":\"That’s the end of the explanation.\"},{\"lineNumber\":250563,\"originalJapaneseLine\":\"「今回は通常のＲＰＧと違う成長表現になっています\",\"translatedEnglishLine\":\"This time, the growth system is different from usual RPGs.\"},{\"lineNumber\":250564,\"originalJapaneseLine\":\"　＜Ｌｖ４２ ランス＞は、最初からＬｖ４２となっていますが\",\"translatedEnglishLine\":\"<Lv 42 Rance> starts off at level 42,\"},{\"lineNumber\":250565,\"originalJapaneseLine\":\"　Ｌｖアップする事はありません」\",\"translatedEnglishLine\":\"but you will not level up further.\"},{\"lineNumber\":250566,\"originalJapaneseLine\":\"「では、どうやって強くなっていくかというと\",\"translatedEnglishLine\":\"So, how do you become stronger?\"},{\"lineNumber\":250567,\"originalJapaneseLine\":\"　Ｌｖではなく、☆ランク（戦闘熟練度のような物）を\",\"translatedEnglishLine\":\"Instead of level, you increase your ☆ Rank (like combat proficiency).\"},{\"lineNumber\":250568,\"originalJapaneseLine\":\"　ランクアップしていく事で強くなっていきます」\",\"translatedEnglishLine\":\"By ranking up your ☆ Rank, you become stronger.\"},{\"lineNumber\":250569,\"originalJapaneseLine\":\"「また同じ＜Ｌｖ４２ ランス＞を取得すると\",\"translatedEnglishLine\":\"Also, if you obtain the same <Lv 42 Rance>\"},{\"lineNumber\":250570,\"originalJapaneseLine\":\"　重ね＋１となり強くなります」\",\"translatedEnglishLine\":\"they stack +1 and become stronger.\"},{\"lineNumber\":250571,\"originalJapaneseLine\":\"「冒険を進めていくと＜Ｌｖ４５ ランス＞＜Ｌｖ５５ ランス＞\",\"translatedEnglishLine\":\"As you progress, you can get versions like <Lv 45 Rance> and <Lv 55 Rance>.\"},{\"lineNumber\":250572,\"originalJapaneseLine\":\"　など同じキャラの別バージョンを取得出来ます。」\",\"translatedEnglishLine\":\"These are different versions of the same character.\"},{\"lineNumber\":250573,\"originalJapaneseLine\":\"「同じキャラの場合、☆ランクは共通です。\",\"translatedEnglishLine\":\"For the same character, ☆ Rank is shared.\"},{\"lineNumber\":250574,\"originalJapaneseLine\":\"　＜Ｌｖ４２ ランス＞で☆５にすると、それ以外のランスも\",\"translatedEnglishLine\":\"If <Lv 42 Rance> reaches ☆5, then the other Rances\"},{\"lineNumber\":250575,\"originalJapaneseLine\":\"　☆５になります」\",\"translatedEnglishLine\":\"also become ☆5.\"},{\"lineNumber\":250576,\"originalJapaneseLine\":\"「はにほー\",\"translatedEnglishLine\":\"Haniho~\"},{\"lineNumber\":250577,\"originalJapaneseLine\":\"　説明おわり」\",\"translatedEnglishLine\":\"End of explanation.\"},{\"lineNumber\":250578,\"originalJapaneseLine\":\"「戦果、勲章、食券\",\"translatedEnglishLine\":\"Battle Achievement, Medals, and Food Tickets\"},{\"lineNumber\":250579,\"originalJapaneseLine\":\"　それぞれ３個まで持つ事が出来る\",\"translatedEnglishLine\":\"You can hold up to three each.\"},{\"lineNumber\":250580,\"originalJapaneseLine\":\"　とても重要な物です」\",\"translatedEnglishLine\":\"They are very important items.\"},{\"lineNumber\":250581,\"originalJapaneseLine\":\"「戦果\",\"translatedEnglishLine\":\"Battle Achievement\"},{\"lineNumber\":250582,\"originalJapaneseLine\":\"　　各地域での戦闘結果に大きな影響が出ます、超重要」\",\"translatedEnglishLine\":\"Significantly affects battle results in each region—extremely important.\"},{\"lineNumber\":250583,\"originalJapaneseLine\":\"「勲章\",\"translatedEnglishLine\":\"Medals\"},{\"lineNumber\":250584,\"originalJapaneseLine\":\"　　３つ貯まると部隊ランクが上がります、超重要」\",\"translatedEnglishLine\":\"When you collect three, the unit rank increases—very important.\"},{\"lineNumber\":250585,\"originalJapaneseLine\":\"「食券\",\"translatedEnglishLine\":\"Food Tickets\"},{\"lineNumber\":250586,\"originalJapaneseLine\":\"　　キャラのイベントを見たりパワーアップに使います、超重要」\",\"translatedEnglishLine\":\"Used to view character events or power up—very important.\"},{\"lineNumber\":250587,\"originalJapaneseLine\":\"「＜難易度＞敵の総合的な強さです。\",\"translatedEnglishLine\":\"<Difficulty> represents the overall strength of the enemies.\"},{\"lineNumber\":250588,\"originalJapaneseLine\":\"　ボス等を倒すなどすると上がっていきます\",\"translatedEnglishLine\":\"It increases when you defeat bosses and so on.\"},{\"lineNumber\":250589,\"originalJapaneseLine\":\"　※　だいたい、ターン数と同じ値が標準値です」\",\"translatedEnglishLine\":\"*Generally, the standard value is about the same as the turn count.\"},{\"lineNumber\":250590,\"originalJapaneseLine\":\"「人類死亡率\",\"translatedEnglishLine\":\"Humanity Death Rate\"},{\"lineNumber\":250591,\"originalJapaneseLine\":\"　　ある意味、タイムリミットのような物となります\",\"translatedEnglishLine\":\"In a way, it's like a time limit.\"},{\"lineNumber\":250592,\"originalJapaneseLine\":\"　　被害が増大すると終末が訪れます」\",\"translatedEnglishLine\":\"If the damage increases too much, the apocalypse will come.\"},{\"lineNumber\":250593,\"originalJapaneseLine\":\"「リーザス、ヘルマン、ゼス、自由都市の戦況\",\"translatedEnglishLine\":\"The battle situation in Leazas, Helmann, Zeth, and the Free City.\"},{\"lineNumber\":250594,\"originalJapaneseLine\":\"　この４つの地域を守る事が重要となります\",\"translatedEnglishLine\":\"Protecting these four regions is important.\"},{\"lineNumber\":250595,\"originalJapaneseLine\":\"　常に味方の兵力数は確認しておきましょう」\",\"translatedEnglishLine\":\"Always keep an eye on the number of friendly troops.\"},{\"lineNumber\":250596,\"originalJapaneseLine\":\"「はにほー\",\"translatedEnglishLine\":\"Haniho~\"},{\"lineNumber\":250597,\"originalJapaneseLine\":\"　説明おわり」\",\"translatedEnglishLine\":\"That's the end of the explanation.\"},{\"lineNumber\":250598,\"originalJapaneseLine\":\"「ランス１０を\",\"translatedEnglishLine\":\"Tips for playing Rance 10\"},{\"lineNumber\":250599,\"originalJapaneseLine\":\"　より楽しくプレイする為のコツをお伝えします」\",\"translatedEnglishLine\":\"to enjoy it more.\"},{\"lineNumber\":250600,\"originalJapaneseLine\":\"「その１\",\"translatedEnglishLine\":\"Tip 1\"},{\"lineNumber\":250601,\"originalJapaneseLine\":\"　１度のプレイで全部手に入れる事は出来ません\",\"translatedEnglishLine\":\"You cannot get everything in a single playthrough.\"},{\"lineNumber\":250602,\"originalJapaneseLine\":\"　最初は、完璧は考えないのが良いです」\",\"translatedEnglishLine\":\"It’s best not to aim for perfection at first.\"},{\"lineNumber\":250603,\"originalJapaneseLine\":\"「その２　\",\"translatedEnglishLine\":\"Tip 2\"},{\"lineNumber\":250604,\"originalJapaneseLine\":\"　勝てない敵、厳しいルートは無視して進めましょう\",\"translatedEnglishLine\":\"Ignore enemies you can’t beat and difficult routes, and keep moving forward.\"},{\"lineNumber\":250605,\"originalJapaneseLine\":\"　宝箱があっても回復優先がいいですよ」\",\"translatedEnglishLine\":\"Even if there’s a treasure chest, prioritize recovery.\"},{\"lineNumber\":250606,\"originalJapaneseLine\":\"「その３\",\"translatedEnglishLine\":\"Tip 3\"},{\"lineNumber\":250607,\"originalJapaneseLine\":\"　人類滅亡になってもしかたないよ、うん\",\"translatedEnglishLine\":\"It’s okay if humanity gets wiped out, yeah.\"},{\"lineNumber\":250608,\"originalJapaneseLine\":\"　次もっとうまくやりましょう」\",\"translatedEnglishLine\":\"Do better next time.\"},{\"lineNumber\":250609,\"originalJapaneseLine\":\"「かぁーーーー」\",\"translatedEnglishLine\":\"Kaaa--- (expressive sound)\"},{\"lineNumber\":250610,\"originalJapaneseLine\":\"「このゲーム、少し難しめです\",\"translatedEnglishLine\":\"This game is a bit on the challenging side.\"},{\"lineNumber\":250611,\"originalJapaneseLine\":\"　世界がピンチになり絶望的になっても\",\"translatedEnglishLine\":\"Even if the world falls into crisis and becomes desperate.\"}]}","parsed":{"translationLines":[{"lineNumber":250552,"originalJapaneseLine":"　イベントの時系列図なのです」","translatedEnglishLine":"This is a timeline diagram of the events."},{"lineNumber":250553,"originalJapaneseLine":"「箱のように表示されているのは、＜次の出来事＞です。","translatedEnglishLine":"The boxes displayed like this represent the <Next Event>."},{"lineNumber":250554,"originalJapaneseLine":"　何歩先、何メートル先、何分後、何日後、かは分かりませんが、","translatedEnglishLine":"It’s unknown how many steps ahead, meters ahead, minutes later, or days later,"},{"lineNumber":250555,"originalJapaneseLine":"　進んだ先にある＜次の出来事＞となっています。」","translatedEnglishLine":"but it shows the <Next Event> that lies ahead after progressing."},{"lineNumber":250556,"originalJapaneseLine":"「こういう＜次の出来事＞の連続して集まりが","translatedEnglishLine":"A connected series of such <Next Events>"},{"lineNumber":250557,"originalJapaneseLine":"　大きな物語＜クエスト＞となります。」","translatedEnglishLine":"forms a larger story, a <Quest>."},{"lineNumber":250558,"originalJapaneseLine":"「＜次の出来事＞では、いろいろなイベントが発生します。","translatedEnglishLine":"Various events occur at each <Next Event>."},{"lineNumber":250559,"originalJapaneseLine":"　戦闘の場合もあります、何かいい物を拾う時や、","translatedEnglishLine":"Sometimes battles happen, or you might find something good,"},{"lineNumber":250560,"originalJapaneseLine":"　回復出来る場所とかもあります。」","translatedEnglishLine":"and there are also places where you can recover."},{"lineNumber":250561,"originalJapaneseLine":"「はにほー","translatedEnglishLine":"Haniho~ (a cheerful greeting)"},{"lineNumber":250562,"originalJapaneseLine":"　説明おわり」","translatedEnglishLine":"That’s the end of the explanation."},{"lineNumber":250563,"originalJapaneseLine":"「今回は通常のＲＰＧと違う成長表現になっています","translatedEnglishLine":"This time, the growth system is different from usual RPGs."},{"lineNumber":250564,"originalJapaneseLine":"　＜Ｌｖ４２ ランス＞は、最初からＬｖ４２となっていますが","translatedEnglishLine":"<Lv 42 Rance> starts off at level 42,"},{"lineNumber":250565,"originalJapaneseLine":"　Ｌｖアップする事はありません」","translatedEnglishLine":"but you will not level up further."},{"lineNumber":250566,"originalJapaneseLine":"「では、どうやって強くなっていくかというと","translatedEnglishLine":"So, how do you become stronger?"},{"lineNumber":250567,"originalJapaneseLine":"　Ｌｖではなく、☆ランク（戦闘熟練度のような物）を","translatedEnglishLine":"Instead of level, you increase your ☆ Rank (like combat proficiency)."},{"lineNumber":250568,"originalJapaneseLine":"　ランクアップしていく事で強くなっていきます」","translatedEnglishLine":"By ranking up your ☆ Rank, you become stronger."},{"lineNumber":250569,"originalJapaneseLine":"「また同じ＜Ｌｖ４２ ランス＞を取得すると","translatedEnglishLine":"Also, if you obtain the same <Lv 42 Rance>"},{"lineNumber":250570,"originalJapaneseLine":"　重ね＋１となり強くなります」","translatedEnglishLine":"they stack +1 and become stronger."},{"lineNumber":250571,"originalJapaneseLine":"「冒険を進めていくと＜Ｌｖ４５ ランス＞＜Ｌｖ５５ ランス＞","translatedEnglishLine":"As you progress, you can get versions like <Lv 45 Rance> and <Lv 55 Rance>."},{"lineNumber":250572,"originalJapaneseLine":"　など同じキャラの別バージョンを取得出来ます。」","translatedEnglishLine":"These are different versions of the same character."},{"lineNumber":250573,"originalJapaneseLine":"「同じキャラの場合、☆ランクは共通です。","translatedEnglishLine":"For the same character, ☆ Rank is shared."},{"lineNumber":250574,"originalJapaneseLine":"　＜Ｌｖ４２ ランス＞で☆５にすると、それ以外のランスも","translatedEnglishLine":"If <Lv 42 Rance> reaches ☆5, then the other Rances"},{"lineNumber":250575,"originalJapaneseLine":"　☆５になります」","translatedEnglishLine":"also become ☆5."},{"lineNumber":250576,"originalJapaneseLine":"「はにほー","translatedEnglishLine":"Haniho~"},{"lineNumber":250577,"originalJapaneseLine":"　説明おわり」","translatedEnglishLine":"End of explanation."},{"lineNumber":250578,"originalJapaneseLine":"「戦果、勲章、食券","translatedEnglishLine":"Battle Achievement, Medals, and Food Tickets"},{"lineNumber":250579,"originalJapaneseLine":"　それぞれ３個まで持つ事が出来る","translatedEnglishLine":"You can hold up to three each."},{"lineNumber":250580,"originalJapaneseLine":"　とても重要な物です」","translatedEnglishLine":"They are very important items."},{"lineNumber":250581,"originalJapaneseLine":"「戦果","translatedEnglishLine":"Battle Achievement"},{"lineNumber":250582,"originalJapaneseLine":"　　各地域での戦闘結果に大きな影響が出ます、超重要」","translatedEnglishLine":"Significantly affects battle results in each region—extremely important."},{"lineNumber":250583,"originalJapaneseLine":"「勲章","translatedEnglishLine":"Medals"},{"lineNumber":250584,"originalJapaneseLine":"　　３つ貯まると部隊ランクが上がります、超重要」","translatedEnglishLine":"When you collect three, the unit rank increases—very important."},{"lineNumber":250585,"originalJapaneseLine":"「食券","translatedEnglishLine":"Food Tickets"},{"lineNumber":250586,"originalJapaneseLine":"　　キャラのイベントを見たりパワーアップに使います、超重要」","translatedEnglishLine":"Used to view character events or power up—very important."},{"lineNumber":250587,"originalJapaneseLine":"「＜難易度＞敵の総合的な強さです。","translatedEnglishLine":"<Difficulty> represents the overall strength of the enemies."},{"lineNumber":250588,"originalJapaneseLine":"　ボス等を倒すなどすると上がっていきます","translatedEnglishLine":"It increases when you defeat bosses and so on."},{"lineNumber":250589,"originalJapaneseLine":"　※　だいたい、ターン数と同じ値が標準値です」","translatedEnglishLine":"*Generally, the standard value is about the same as the turn count."},{"lineNumber":250590,"originalJapaneseLine":"「人類死亡率","translatedEnglishLine":"Humanity Death Rate"},{"lineNumber":250591,"originalJapaneseLine":"　　ある意味、タイムリミットのような物となります","translatedEnglishLine":"In a way, it's like a time limit."},{"lineNumber":250592,"originalJapaneseLine":"　　被害が増大すると終末が訪れます」","translatedEnglishLine":"If the damage increases too much, the apocalypse will come."},{"lineNumber":250593,"originalJapaneseLine":"「リーザス、ヘルマン、ゼス、自由都市の戦況","translatedEnglishLine":"The battle situation in Leazas, Helmann, Zeth, and the Free City."},{"lineNumber":250594,"originalJapaneseLine":"　この４つの地域を守る事が重要となります","translatedEnglishLine":"Protecting these four regions is important."},{"lineNumber":250595,"originalJapaneseLine":"　常に味方の兵力数は確認しておきましょう」","translatedEnglishLine":"Always keep an eye on the number of friendly troops."},{"lineNumber":250596,"originalJapaneseLine":"「はにほー","translatedEnglishLine":"Haniho~"},{"lineNumber":250597,"originalJapaneseLine":"　説明おわり」","translatedEnglishLine":"That's the end of the explanation."},{"lineNumber":250598,"originalJapaneseLine":"「ランス１０を","translatedEnglishLine":"Tips for playing Rance 10"},{"lineNumber":250599,"originalJapaneseLine":"　より楽しくプレイする為のコツをお伝えします」","translatedEnglishLine":"to enjoy it more."},{"lineNumber":250600,"originalJapaneseLine":"「その１","translatedEnglishLine":"Tip 1"},{"lineNumber":250601,"originalJapaneseLine":"　１度のプレイで全部手に入れる事は出来ません","translatedEnglishLine":"You cannot get everything in a single playthrough."},{"lineNumber":250602,"originalJapaneseLine":"　最初は、完璧は考えないのが良いです」","translatedEnglishLine":"It’s best not to aim for perfection at first."},{"lineNumber":250603,"originalJapaneseLine":"「その２　","translatedEnglishLine":"Tip 2"},{"lineNumber":250604,"originalJapaneseLine":"　勝てない敵、厳しいルートは無視して進めましょう","translatedEnglishLine":"Ignore enemies you can’t beat and difficult routes, and keep moving forward."},{"lineNumber":250605,"originalJapaneseLine":"　宝箱があっても回復優先がいいですよ」","translatedEnglishLine":"Even if there’s a treasure chest, prioritize recovery."},{"lineNumber":250606,"originalJapaneseLine":"「その３","translatedEnglishLine":"Tip 3"},{"lineNumber":250607,"originalJapaneseLine":"　人類滅亡になってもしかたないよ、うん","translatedEnglishLine":"It’s okay if humanity gets wiped out, yeah."},{"lineNumber":250608,"originalJapaneseLine":"　次もっとうまくやりましょう」","translatedEnglishLine":"Do better next time."},{"lineNumber":250609,"originalJapaneseLine":"「かぁーーーー」","translatedEnglishLine":"Kaaa--- (expressive sound)"},{"lineNumber":250610,"originalJapaneseLine":"「このゲーム、少し難しめです","translatedEnglishLine":"This game is a bit on the challenging side."},{"lineNumber":250611,"originalJapaneseLine":"　世界がピンチになり絶望的になっても","translatedEnglishLine":"Even if the world falls into crisis and becomes desperate."}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1810,"input_tokens_details":{"cached_tokens":0},"output_tokens":2350,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":4160},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":250552,\"originalJapaneseLine\":\"　イベントの時系列図なのです」\",\"translatedEnglishLine\":\"This is a timeline diagram of the events.\"},{\"lineNumber\":250553,\"originalJapaneseLine\":\"「箱のように表示されているのは、＜次の出来事＞です。\",\"translatedEnglishLine\":\"The boxes displayed like this represent the <Next Event>.\"},{\"lineNumber\":250554,\"originalJapaneseLine\":\"　何歩先、何メートル先、何分後、何日後、かは分かりませんが、\",\"translatedEnglishLine\":\"It’s unknown how many steps ahead, meters ahead, minutes later, or days later,\"},{\"lineNumber\":250555,\"originalJapaneseLine\":\"　進んだ先にある＜次の出来事＞となっています。」\",\"translatedEnglishLine\":\"but it shows the <Next Event> that lies ahead after progressing.\"},{\"lineNumber\":250556,\"originalJapaneseLine\":\"「こういう＜次の出来事＞の連続して集まりが\",\"translatedEnglishLine\":\"A connected series of such <Next Events>\"},{\"lineNumber\":250557,\"originalJapaneseLine\":\"　大きな物語＜クエスト＞となります。」\",\"translatedEnglishLine\":\"forms a larger story, a <Quest>.\"},{\"lineNumber\":250558,\"originalJapaneseLine\":\"「＜次の出来事＞では、いろいろなイベントが発生します。\",\"translatedEnglishLine\":\"Various events occur at each <Next Event>.\"},{\"lineNumber\":250559,\"originalJapaneseLine\":\"　戦闘の場合もあります、何かいい物を拾う時や、\",\"translatedEnglishLine\":\"Sometimes battles happen, or you might find something good,\"},{\"lineNumber\":250560,\"originalJapaneseLine\":\"　回復出来る場所とかもあります。」\",\"translatedEnglishLine\":\"and there are also places where you can recover.\"},{\"lineNumber\":250561,\"originalJapaneseLine\":\"「はにほー\",\"translatedEnglishLine\":\"Haniho~ (a cheerful greeting)\"},{\"lineNumber\":250562,\"originalJapaneseLine\":\"　説明おわり」\",\"translatedEnglishLine\":\"That’s the end of the explanation.\"},{\"lineNumber\":250563,\"originalJapaneseLine\":\"「今回は通常のＲＰＧと違う成長表現になっています\",\"translatedEnglishLine\":\"This time, the growth system is different from usual RPGs.\"},{\"lineNumber\":250564,\"originalJapaneseLine\":\"　＜Ｌｖ４２ ランス＞は、最初からＬｖ４２となっていますが\",\"translatedEnglishLine\":\"<Lv 42 Rance> starts off at level 42,\"},{\"lineNumber\":250565,\"originalJapaneseLine\":\"　Ｌｖアップする事はありません」\",\"translatedEnglishLine\":\"but you will not level up further.\"},{\"lineNumber\":250566,\"originalJapaneseLine\":\"「では、どうやって強くなっていくかというと\",\"translatedEnglishLine\":\"So, how do you become stronger?\"},{\"lineNumber\":250567,\"originalJapaneseLine\":\"　Ｌｖではなく、☆ランク（戦闘熟練度のような物）を\",\"translatedEnglishLine\":\"Instead of level, you increase your ☆ Rank (like combat proficiency).\"},{\"lineNumber\":250568,\"originalJapaneseLine\":\"　ランクアップしていく事で強くなっていきます」\",\"translatedEnglishLine\":\"By ranking up your ☆ Rank, you become stronger.\"},{\"lineNumber\":250569,\"originalJapaneseLine\":\"「また同じ＜Ｌｖ４２ ランス＞を取得すると\",\"translatedEnglishLine\":\"Also, if you obtain the same <Lv 42 Rance>\"},{\"lineNumber\":250570,\"originalJapaneseLine\":\"　重ね＋１となり強くなります」\",\"translatedEnglishLine\":\"they stack +1 and become stronger.\"},{\"lineNumber\":250571,\"originalJapaneseLine\":\"「冒険を進めていくと＜Ｌｖ４５ ランス＞＜Ｌｖ５５ ランス＞\",\"translatedEnglishLine\":\"As you progress, you can get versions like <Lv 45 Rance> and <Lv 55 Rance>.\"},{\"lineNumber\":250572,\"originalJapaneseLine\":\"　など同じキャラの別バージョンを取得出来ます。」\",\"translatedEnglishLine\":\"These are different versions of the same character.\"},{\"lineNumber\":250573,\"originalJapaneseLine\":\"「同じキャラの場合、☆ランクは共通です。\",\"translatedEnglishLine\":\"For the same character, ☆ Rank is shared.\"},{\"lineNumber\":250574,\"originalJapaneseLine\":\"　＜Ｌｖ４２ ランス＞で☆５にすると、それ以外のランスも\",\"translatedEnglishLine\":\"If <Lv 42 Rance> reaches ☆5, then the other Rances\"},{\"lineNumber\":250575,\"originalJapaneseLine\":\"　☆５になります」\",\"translatedEnglishLine\":\"also become ☆5.\"},{\"lineNumber\":250576,\"originalJapaneseLine\":\"「はにほー\",\"translatedEnglishLine\":\"Haniho~\"},{\"lineNumber\":250577,\"originalJapaneseLine\":\"　説明おわり」\",\"translatedEnglishLine\":\"End of explanation.\"},{\"lineNumber\":250578,\"originalJapaneseLine\":\"「戦果、勲章、食券\",\"translatedEnglishLine\":\"Battle Achievement, Medals, and Food Tickets\"},{\"lineNumber\":250579,\"originalJapaneseLine\":\"　それぞれ３個まで持つ事が出来る\",\"translatedEnglishLine\":\"You can hold up to three each.\"},{\"lineNumber\":250580,\"originalJapaneseLine\":\"　とても重要な物です」\",\"translatedEnglishLine\":\"They are very important items.\"},{\"lineNumber\":250581,\"originalJapaneseLine\":\"「戦果\",\"translatedEnglishLine\":\"Battle Achievement\"},{\"lineNumber\":250582,\"originalJapaneseLine\":\"　　各地域での戦闘結果に大きな影響が出ます、超重要」\",\"translatedEnglishLine\":\"Significantly affects battle results in each region—extremely important.\"},{\"lineNumber\":250583,\"originalJapaneseLine\":\"「勲章\",\"translatedEnglishLine\":\"Medals\"},{\"lineNumber\":250584,\"originalJapaneseLine\":\"　　３つ貯まると部隊ランクが上がります、超重要」\",\"translatedEnglishLine\":\"When you collect three, the unit rank increases—very important.\"},{\"lineNumber\":250585,\"originalJapaneseLine\":\"「食券\",\"translatedEnglishLine\":\"Food Tickets\"},{\"lineNumber\":250586,\"originalJapaneseLine\":\"　　キャラのイベントを見たりパワーアップに使います、超重要」\",\"translatedEnglishLine\":\"Used to view character events or power up—very important.\"},{\"lineNumber\":250587,\"originalJapaneseLine\":\"「＜難易度＞敵の総合的な強さです。\",\"translatedEnglishLine\":\"<Difficulty> represents the overall strength of the enemies.\"},{\"lineNumber\":250588,\"originalJapaneseLine\":\"　ボス等を倒すなどすると上がっていきます\",\"translatedEnglishLine\":\"It increases when you defeat bosses and so on.\"},{\"lineNumber\":250589,\"originalJapaneseLine\":\"　※　だいたい、ターン数と同じ値が標準値です」\",\"translatedEnglishLine\":\"*Generally, the standard value is about the same as the turn count.\"},{\"lineNumber\":250590,\"originalJapaneseLine\":\"「人類死亡率\",\"translatedEnglishLine\":\"Humanity Death Rate\"},{\"lineNumber\":250591,\"originalJapaneseLine\":\"　　ある意味、タイムリミットのような物となります\",\"translatedEnglishLine\":\"In a way, it's like a time limit.\"},{\"lineNumber\":250592,\"originalJapaneseLine\":\"　　被害が増大すると終末が訪れます」\",\"translatedEnglishLine\":\"If the damage increases too much, the apocalypse will come.\"},{\"lineNumber\":250593,\"originalJapaneseLine\":\"「リーザス、ヘルマン、ゼス、自由都市の戦況\",\"translatedEnglishLine\":\"The battle situation in Leazas, Helmann, Zeth, and the Free City.\"},{\"lineNumber\":250594,\"originalJapaneseLine\":\"　この４つの地域を守る事が重要となります\",\"translatedEnglishLine\":\"Protecting these four regions is important.\"},{\"lineNumber\":250595,\"originalJapaneseLine\":\"　常に味方の兵力数は確認しておきましょう」\",\"translatedEnglishLine\":\"Always keep an eye on the number of friendly troops.\"},{\"lineNumber\":250596,\"originalJapaneseLine\":\"「はにほー\",\"translatedEnglishLine\":\"Haniho~\"},{\"lineNumber\":250597,\"originalJapaneseLine\":\"　説明おわり」\",\"translatedEnglishLine\":\"That's the end of the explanation.\"},{\"lineNumber\":250598,\"originalJapaneseLine\":\"「ランス１０を\",\"translatedEnglishLine\":\"Tips for playing Rance 10\"},{\"lineNumber\":250599,\"originalJapaneseLine\":\"　より楽しくプレイする為のコツをお伝えします」\",\"translatedEnglishLine\":\"to enjoy it more.\"},{\"lineNumber\":250600,\"originalJapaneseLine\":\"「その１\",\"translatedEnglishLine\":\"Tip 1\"},{\"lineNumber\":250601,\"originalJapaneseLine\":\"　１度のプレイで全部手に入れる事は出来ません\",\"translatedEnglishLine\":\"You cannot get everything in a single playthrough.\"},{\"lineNumber\":250602,\"originalJapaneseLine\":\"　最初は、完璧は考えないのが良いです」\",\"translatedEnglishLine\":\"It’s best not to aim for perfection at first.\"},{\"lineNumber\":250603,\"originalJapaneseLine\":\"「その２　\",\"translatedEnglishLine\":\"Tip 2\"},{\"lineNumber\":250604,\"originalJapaneseLine\":\"　勝てない敵、厳しいルートは無視して進めましょう\",\"translatedEnglishLine\":\"Ignore enemies you can’t beat and difficult routes, and keep moving forward.\"},{\"lineNumber\":250605,\"originalJapaneseLine\":\"　宝箱があっても回復優先がいいですよ」\",\"translatedEnglishLine\":\"Even if there’s a treasure chest, prioritize recovery.\"},{\"lineNumber\":250606,\"originalJapaneseLine\":\"「その３\",\"translatedEnglishLine\":\"Tip 3\"},{\"lineNumber\":250607,\"originalJapaneseLine\":\"　人類滅亡になってもしかたないよ、うん\",\"translatedEnglishLine\":\"It’s okay if humanity gets wiped out, yeah.\"},{\"lineNumber\":250608,\"originalJapaneseLine\":\"　次もっとうまくやりましょう」\",\"translatedEnglishLine\":\"Do better next time.\"},{\"lineNumber\":250609,\"originalJapaneseLine\":\"「かぁーーーー」\",\"translatedEnglishLine\":\"Kaaa--- (expressive sound)\"},{\"lineNumber\":250610,\"originalJapaneseLine\":\"「このゲーム、少し難しめです\",\"translatedEnglishLine\":\"This game is a bit on the challenging side.\"},{\"lineNumber\":250611,\"originalJapaneseLine\":\"　世界がピンチになり絶望的になっても\",\"translatedEnglishLine\":\"Even if the world falls into crisis and becomes desperate.\"}]}","output_parsed":{"translationLines":[{"lineNumber":250552,"originalJapaneseLine":"　イベントの時系列図なのです」","translatedEnglishLine":"This is a timeline diagram of the events."},{"lineNumber":250553,"originalJapaneseLine":"「箱のように表示されているのは、＜次の出来事＞です。","translatedEnglishLine":"The boxes displayed like this represent the <Next Event>."},{"lineNumber":250554,"originalJapaneseLine":"　何歩先、何メートル先、何分後、何日後、かは分かりませんが、","translatedEnglishLine":"It’s unknown how many steps ahead, meters ahead, minutes later, or days later,"},{"lineNumber":250555,"originalJapaneseLine":"　進んだ先にある＜次の出来事＞となっています。」","translatedEnglishLine":"but it shows the <Next Event> that lies ahead after progressing."},{"lineNumber":250556,"originalJapaneseLine":"「こういう＜次の出来事＞の連続して集まりが","translatedEnglishLine":"A connected series of such <Next Events>"},{"lineNumber":250557,"originalJapaneseLine":"　大きな物語＜クエスト＞となります。」","translatedEnglishLine":"forms a larger story, a <Quest>."},{"lineNumber":250558,"originalJapaneseLine":"「＜次の出来事＞では、いろいろなイベントが発生します。","translatedEnglishLine":"Various events occur at each <Next Event>."},{"lineNumber":250559,"originalJapaneseLine":"　戦闘の場合もあります、何かいい物を拾う時や、","translatedEnglishLine":"Sometimes battles happen, or you might find something good,"},{"lineNumber":250560,"originalJapaneseLine":"　回復出来る場所とかもあります。」","translatedEnglishLine":"and there are also places where you can recover."},{"lineNumber":250561,"originalJapaneseLine":"「はにほー","translatedEnglishLine":"Haniho~ (a cheerful greeting)"},{"lineNumber":250562,"originalJapaneseLine":"　説明おわり」","translatedEnglishLine":"That’s the end of the explanation."},{"lineNumber":250563,"originalJapaneseLine":"「今回は通常のＲＰＧと違う成長表現になっています","translatedEnglishLine":"This time, the growth system is different from usual RPGs."},{"lineNumber":250564,"originalJapaneseLine":"　＜Ｌｖ４２ ランス＞は、最初からＬｖ４２となっていますが","translatedEnglishLine":"<Lv 42 Rance> starts off at level 42,"},{"lineNumber":250565,"originalJapaneseLine":"　Ｌｖアップする事はありません」","translatedEnglishLine":"but you will not level up further."},{"lineNumber":250566,"originalJapaneseLine":"「では、どうやって強くなっていくかというと","translatedEnglishLine":"So, how do you become stronger?"},{"lineNumber":250567,"originalJapaneseLine":"　Ｌｖではなく、☆ランク（戦闘熟練度のような物）を","translatedEnglishLine":"Instead of level, you increase your ☆ Rank (like combat proficiency)."},{"lineNumber":250568,"originalJapaneseLine":"　ランクアップしていく事で強くなっていきます」","translatedEnglishLine":"By ranking up your ☆ Rank, you become stronger."},{"lineNumber":250569,"originalJapaneseLine":"「また同じ＜Ｌｖ４２ ランス＞を取得すると","translatedEnglishLine":"Also, if you obtain the same <Lv 42 Rance>"},{"lineNumber":250570,"originalJapaneseLine":"　重ね＋１となり強くなります」","translatedEnglishLine":"they stack +1 and become stronger."},{"lineNumber":250571,"originalJapaneseLine":"「冒険を進めていくと＜Ｌｖ４５ ランス＞＜Ｌｖ５５ ランス＞","translatedEnglishLine":"As you progress, you can get versions like <Lv 45 Rance> and <Lv 55 Rance>."},{"lineNumber":250572,"originalJapaneseLine":"　など同じキャラの別バージョンを取得出来ます。」","translatedEnglishLine":"These are different versions of the same character."},{"lineNumber":250573,"originalJapaneseLine":"「同じキャラの場合、☆ランクは共通です。","translatedEnglishLine":"For the same character, ☆ Rank is shared."},{"lineNumber":250574,"originalJapaneseLine":"　＜Ｌｖ４２ ランス＞で☆５にすると、それ以外のランスも","translatedEnglishLine":"If <Lv 42 Rance> reaches ☆5, then the other Rances"},{"lineNumber":250575,"originalJapaneseLine":"　☆５になります」","translatedEnglishLine":"also become ☆5."},{"lineNumber":250576,"originalJapaneseLine":"「はにほー","translatedEnglishLine":"Haniho~"},{"lineNumber":250577,"originalJapaneseLine":"　説明おわり」","translatedEnglishLine":"End of explanation."},{"lineNumber":250578,"originalJapaneseLine":"「戦果、勲章、食券","translatedEnglishLine":"Battle Achievement, Medals, and Food Tickets"},{"lineNumber":250579,"originalJapaneseLine":"　それぞれ３個まで持つ事が出来る","translatedEnglishLine":"You can hold up to three each."},{"lineNumber":250580,"originalJapaneseLine":"　とても重要な物です」","translatedEnglishLine":"They are very important items."},{"lineNumber":250581,"originalJapaneseLine":"「戦果","translatedEnglishLine":"Battle Achievement"},{"lineNumber":250582,"originalJapaneseLine":"　　各地域での戦闘結果に大きな影響が出ます、超重要」","translatedEnglishLine":"Significantly affects battle results in each region—extremely important."},{"lineNumber":250583,"originalJapaneseLine":"「勲章","translatedEnglishLine":"Medals"},{"lineNumber":250584,"originalJapaneseLine":"　　３つ貯まると部隊ランクが上がります、超重要」","translatedEnglishLine":"When you collect three, the unit rank increases—very important."},{"lineNumber":250585,"originalJapaneseLine":"「食券","translatedEnglishLine":"Food Tickets"},{"lineNumber":250586,"originalJapaneseLine":"　　キャラのイベントを見たりパワーアップに使います、超重要」","translatedEnglishLine":"Used to view character events or power up—very important."},{"lineNumber":250587,"originalJapaneseLine":"「＜難易度＞敵の総合的な強さです。","translatedEnglishLine":"<Difficulty> represents the overall strength of the enemies."},{"lineNumber":250588,"originalJapaneseLine":"　ボス等を倒すなどすると上がっていきます","translatedEnglishLine":"It increases when you defeat bosses and so on."},{"lineNumber":250589,"originalJapaneseLine":"　※　だいたい、ターン数と同じ値が標準値です」","translatedEnglishLine":"*Generally, the standard value is about the same as the turn count."},{"lineNumber":250590,"originalJapaneseLine":"「人類死亡率","translatedEnglishLine":"Humanity Death Rate"},{"lineNumber":250591,"originalJapaneseLine":"　　ある意味、タイムリミットのような物となります","translatedEnglishLine":"In a way, it's like a time limit."},{"lineNumber":250592,"originalJapaneseLine":"　　被害が増大すると終末が訪れます」","translatedEnglishLine":"If the damage increases too much, the apocalypse will come."},{"lineNumber":250593,"originalJapaneseLine":"「リーザス、ヘルマン、ゼス、自由都市の戦況","translatedEnglishLine":"The battle situation in Leazas, Helmann, Zeth, and the Free City."},{"lineNumber":250594,"originalJapaneseLine":"　この４つの地域を守る事が重要となります","translatedEnglishLine":"Protecting these four regions is important."},{"lineNumber":250595,"originalJapaneseLine":"　常に味方の兵力数は確認しておきましょう」","translatedEnglishLine":"Always keep an eye on the number of friendly troops."},{"lineNumber":250596,"originalJapaneseLine":"「はにほー","translatedEnglishLine":"Haniho~"},{"lineNumber":250597,"originalJapaneseLine":"　説明おわり」","translatedEnglishLine":"That's the end of the explanation."},{"lineNumber":250598,"originalJapaneseLine":"「ランス１０を","translatedEnglishLine":"Tips for playing Rance 10"},{"lineNumber":250599,"originalJapaneseLine":"　より楽しくプレイする為のコツをお伝えします」","translatedEnglishLine":"to enjoy it more."},{"lineNumber":250600,"originalJapaneseLine":"「その１","translatedEnglishLine":"Tip 1"},{"lineNumber":250601,"originalJapaneseLine":"　１度のプレイで全部手に入れる事は出来ません","translatedEnglishLine":"You cannot get everything in a single playthrough."},{"lineNumber":250602,"originalJapaneseLine":"　最初は、完璧は考えないのが良いです」","translatedEnglishLine":"It’s best not to aim for perfection at first."},{"lineNumber":250603,"originalJapaneseLine":"「その２　","translatedEnglishLine":"Tip 2"},{"lineNumber":250604,"originalJapaneseLine":"　勝てない敵、厳しいルートは無視して進めましょう","translatedEnglishLine":"Ignore enemies you can’t beat and difficult routes, and keep moving forward."},{"lineNumber":250605,"originalJapaneseLine":"　宝箱があっても回復優先がいいですよ」","translatedEnglishLine":"Even if there’s a treasure chest, prioritize recovery."},{"lineNumber":250606,"originalJapaneseLine":"「その３","translatedEnglishLine":"Tip 3"},{"lineNumber":250607,"originalJapaneseLine":"　人類滅亡になってもしかたないよ、うん","translatedEnglishLine":"It’s okay if humanity gets wiped out, yeah."},{"lineNumber":250608,"originalJapaneseLine":"　次もっとうまくやりましょう」","translatedEnglishLine":"Do better next time."},{"lineNumber":250609,"originalJapaneseLine":"「かぁーーーー」","translatedEnglishLine":"Kaaa--- (expressive sound)"},{"lineNumber":250610,"originalJapaneseLine":"「このゲーム、少し難しめです","translatedEnglishLine":"This game is a bit on the challenging side."},{"lineNumber":250611,"originalJapaneseLine":"　世界がピンチになり絶望的になっても","translatedEnglishLine":"Even if the world falls into crisis and becomes desperate."}]}}
+{
+    "id": "resp_04a5f4cb0f1af1220068f2361e538081979a1204b26afe3efd",
+    "object": "response",
+    "created_at": 1760704030,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_04a5f4cb0f1af1220068f2361ec28c8197912d60f2ac3b37c8",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":250552,\"originalJapaneseLine\":\"　イベントの時系列図なのです」\",\"translatedEnglishLine\":\"This is a timeline diagram of the events.\"},{\"lineNumber\":250553,\"originalJapaneseLine\":\"「箱のように表示されているのは、＜次の出来事＞です。\",\"translatedEnglishLine\":\"The boxes displayed like this represent the <Next Event>.\"},{\"lineNumber\":250554,\"originalJapaneseLine\":\"　何歩先、何メートル先、何分後、何日後、かは分かりませんが、\",\"translatedEnglishLine\":\"It’s unknown how many steps ahead, meters ahead, minutes later, or days later,\"},{\"lineNumber\":250555,\"originalJapaneseLine\":\"　進んだ先にある＜次の出来事＞となっています。」\",\"translatedEnglishLine\":\"but it shows the <Next Event> that lies ahead after progressing.\"},{\"lineNumber\":250556,\"originalJapaneseLine\":\"「こういう＜次の出来事＞の連続して集まりが\",\"translatedEnglishLine\":\"A connected series of such <Next Events>\"},{\"lineNumber\":250557,\"originalJapaneseLine\":\"　大きな物語＜クエスト＞となります。」\",\"translatedEnglishLine\":\"forms a larger story, a <Quest>.\"},{\"lineNumber\":250558,\"originalJapaneseLine\":\"「＜次の出来事＞では、いろいろなイベントが発生します。\",\"translatedEnglishLine\":\"Various events occur at each <Next Event>.\"},{\"lineNumber\":250559,\"originalJapaneseLine\":\"　戦闘の場合もあります、何かいい物を拾う時や、\",\"translatedEnglishLine\":\"Sometimes battles happen, or you might find something good,\"},{\"lineNumber\":250560,\"originalJapaneseLine\":\"　回復出来る場所とかもあります。」\",\"translatedEnglishLine\":\"and there are also places where you can recover.\"},{\"lineNumber\":250561,\"originalJapaneseLine\":\"「はにほー\",\"translatedEnglishLine\":\"Haniho~ (a cheerful greeting)\"},{\"lineNumber\":250562,\"originalJapaneseLine\":\"　説明おわり」\",\"translatedEnglishLine\":\"That’s the end of the explanation.\"},{\"lineNumber\":250563,\"originalJapaneseLine\":\"「今回は通常のＲＰＧと違う成長表現になっています\",\"translatedEnglishLine\":\"This time, the growth system is different from usual RPGs.\"},{\"lineNumber\":250564,\"originalJapaneseLine\":\"　＜Ｌｖ４２ ランス＞は、最初からＬｖ４２となっていますが\",\"translatedEnglishLine\":\"<Lv 42 Rance> starts off at level 42,\"},{\"lineNumber\":250565,\"originalJapaneseLine\":\"　Ｌｖアップする事はありません」\",\"translatedEnglishLine\":\"but you will not level up further.\"},{\"lineNumber\":250566,\"originalJapaneseLine\":\"「では、どうやって強くなっていくかというと\",\"translatedEnglishLine\":\"So, how do you become stronger?\"},{\"lineNumber\":250567,\"originalJapaneseLine\":\"　Ｌｖではなく、☆ランク（戦闘熟練度のような物）を\",\"translatedEnglishLine\":\"Instead of level, you increase your ☆ Rank (like combat proficiency).\"},{\"lineNumber\":250568,\"originalJapaneseLine\":\"　ランクアップしていく事で強くなっていきます」\",\"translatedEnglishLine\":\"By ranking up your ☆ Rank, you become stronger.\"},{\"lineNumber\":250569,\"originalJapaneseLine\":\"「また同じ＜Ｌｖ４２ ランス＞を取得すると\",\"translatedEnglishLine\":\"Also, if you obtain the same <Lv 42 Rance>\"},{\"lineNumber\":250570,\"originalJapaneseLine\":\"　重ね＋１となり強くなります」\",\"translatedEnglishLine\":\"they stack +1 and become stronger.\"},{\"lineNumber\":250571,\"originalJapaneseLine\":\"「冒険を進めていくと＜Ｌｖ４５ ランス＞＜Ｌｖ５５ ランス＞\",\"translatedEnglishLine\":\"As you progress, you can get versions like <Lv 45 Rance> and <Lv 55 Rance>.\"},{\"lineNumber\":250572,\"originalJapaneseLine\":\"　など同じキャラの別バージョンを取得出来ます。」\",\"translatedEnglishLine\":\"These are different versions of the same character.\"},{\"lineNumber\":250573,\"originalJapaneseLine\":\"「同じキャラの場合、☆ランクは共通です。\",\"translatedEnglishLine\":\"For the same character, ☆ Rank is shared.\"},{\"lineNumber\":250574,\"originalJapaneseLine\":\"　＜Ｌｖ４２ ランス＞で☆５にすると、それ以外のランスも\",\"translatedEnglishLine\":\"If <Lv 42 Rance> reaches ☆5, then the other Rances\"},{\"lineNumber\":250575,\"originalJapaneseLine\":\"　☆５になります」\",\"translatedEnglishLine\":\"also become ☆5.\"},{\"lineNumber\":250576,\"originalJapaneseLine\":\"「はにほー\",\"translatedEnglishLine\":\"Haniho~\"},{\"lineNumber\":250577,\"originalJapaneseLine\":\"　説明おわり」\",\"translatedEnglishLine\":\"End of explanation.\"},{\"lineNumber\":250578,\"originalJapaneseLine\":\"「戦果、勲章、食券\",\"translatedEnglishLine\":\"Battle Achievement, Medals, and Food Tickets\"},{\"lineNumber\":250579,\"originalJapaneseLine\":\"　それぞれ３個まで持つ事が出来る\",\"translatedEnglishLine\":\"You can hold up to three each.\"},{\"lineNumber\":250580,\"originalJapaneseLine\":\"　とても重要な物です」\",\"translatedEnglishLine\":\"They are very important items.\"},{\"lineNumber\":250581,\"originalJapaneseLine\":\"「戦果\",\"translatedEnglishLine\":\"Battle Achievement\"},{\"lineNumber\":250582,\"originalJapaneseLine\":\"　　各地域での戦闘結果に大きな影響が出ます、超重要」\",\"translatedEnglishLine\":\"Significantly affects battle results in each region—extremely important.\"},{\"lineNumber\":250583,\"originalJapaneseLine\":\"「勲章\",\"translatedEnglishLine\":\"Medals\"},{\"lineNumber\":250584,\"originalJapaneseLine\":\"　　３つ貯まると部隊ランクが上がります、超重要」\",\"translatedEnglishLine\":\"When you collect three, the unit rank increases—very important.\"},{\"lineNumber\":250585,\"originalJapaneseLine\":\"「食券\",\"translatedEnglishLine\":\"Food Tickets\"},{\"lineNumber\":250586,\"originalJapaneseLine\":\"　　キャラのイベントを見たりパワーアップに使います、超重要」\",\"translatedEnglishLine\":\"Used to view character events or power up—very important.\"},{\"lineNumber\":250587,\"originalJapaneseLine\":\"「＜難易度＞敵の総合的な強さです。\",\"translatedEnglishLine\":\"<Difficulty> represents the overall strength of the enemies.\"},{\"lineNumber\":250588,\"originalJapaneseLine\":\"　ボス等を倒すなどすると上がっていきます\",\"translatedEnglishLine\":\"It increases when you defeat bosses and so on.\"},{\"lineNumber\":250589,\"originalJapaneseLine\":\"　※　だいたい、ターン数と同じ値が標準値です」\",\"translatedEnglishLine\":\"*Generally, the standard value is about the same as the turn count.\"},{\"lineNumber\":250590,\"originalJapaneseLine\":\"「人類死亡率\",\"translatedEnglishLine\":\"Humanity Death Rate\"},{\"lineNumber\":250591,\"originalJapaneseLine\":\"　　ある意味、タイムリミットのような物となります\",\"translatedEnglishLine\":\"In a way, it's like a time limit.\"},{\"lineNumber\":250592,\"originalJapaneseLine\":\"　　被害が増大すると終末が訪れます」\",\"translatedEnglishLine\":\"If the damage increases too much, the apocalypse will come.\"},{\"lineNumber\":250593,\"originalJapaneseLine\":\"「リーザス、ヘルマン、ゼス、自由都市の戦況\",\"translatedEnglishLine\":\"The battle situation in Leazas, Helmann, Zeth, and the Free City.\"},{\"lineNumber\":250594,\"originalJapaneseLine\":\"　この４つの地域を守る事が重要となります\",\"translatedEnglishLine\":\"Protecting these four regions is important.\"},{\"lineNumber\":250595,\"originalJapaneseLine\":\"　常に味方の兵力数は確認しておきましょう」\",\"translatedEnglishLine\":\"Always keep an eye on the number of friendly troops.\"},{\"lineNumber\":250596,\"originalJapaneseLine\":\"「はにほー\",\"translatedEnglishLine\":\"Haniho~\"},{\"lineNumber\":250597,\"originalJapaneseLine\":\"　説明おわり」\",\"translatedEnglishLine\":\"That's the end of the explanation.\"},{\"lineNumber\":250598,\"originalJapaneseLine\":\"「ランス１０を\",\"translatedEnglishLine\":\"Tips for playing Rance 10\"},{\"lineNumber\":250599,\"originalJapaneseLine\":\"　より楽しくプレイする為のコツをお伝えします」\",\"translatedEnglishLine\":\"to enjoy it more.\"},{\"lineNumber\":250600,\"originalJapaneseLine\":\"「その１\",\"translatedEnglishLine\":\"Tip 1\"},{\"lineNumber\":250601,\"originalJapaneseLine\":\"　１度のプレイで全部手に入れる事は出来ません\",\"translatedEnglishLine\":\"You cannot get everything in a single playthrough.\"},{\"lineNumber\":250602,\"originalJapaneseLine\":\"　最初は、完璧は考えないのが良いです」\",\"translatedEnglishLine\":\"It’s best not to aim for perfection at first.\"},{\"lineNumber\":250603,\"originalJapaneseLine\":\"「その２　\",\"translatedEnglishLine\":\"Tip 2\"},{\"lineNumber\":250604,\"originalJapaneseLine\":\"　勝てない敵、厳しいルートは無視して進めましょう\",\"translatedEnglishLine\":\"Ignore enemies you can’t beat and difficult routes, and keep moving forward.\"},{\"lineNumber\":250605,\"originalJapaneseLine\":\"　宝箱があっても回復優先がいいですよ」\",\"translatedEnglishLine\":\"Even if there’s a treasure chest, prioritize recovery.\"},{\"lineNumber\":250606,\"originalJapaneseLine\":\"「その３\",\"translatedEnglishLine\":\"Tip 3\"},{\"lineNumber\":250607,\"originalJapaneseLine\":\"　人類滅亡になってもしかたないよ、うん\",\"translatedEnglishLine\":\"It’s okay if humanity gets wiped out, yeah.\"},{\"lineNumber\":250608,\"originalJapaneseLine\":\"　次もっとうまくやりましょう」\",\"translatedEnglishLine\":\"Do better next time.\"},{\"lineNumber\":250609,\"originalJapaneseLine\":\"「かぁーーーー」\",\"translatedEnglishLine\":\"Kaaa--- (expressive sound)\"},{\"lineNumber\":250610,\"originalJapaneseLine\":\"「このゲーム、少し難しめです\",\"translatedEnglishLine\":\"This game is a bit on the challenging side.\"},{\"lineNumber\":250611,\"originalJapaneseLine\":\"　世界がピンチになり絶望的になっても\",\"translatedEnglishLine\":\"Even if the world falls into crisis and becomes desperate.\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 250552,
+                                "originalJapaneseLine": "　イベントの時系列図なのです」",
+                                "translatedEnglishLine": "This is a timeline diagram of the events."
+                            },
+                            {
+                                "lineNumber": 250553,
+                                "originalJapaneseLine": "「箱のように表示されているのは、＜次の出来事＞です。",
+                                "translatedEnglishLine": "The boxes displayed like this represent the <Next Event>."
+                            },
+                            {
+                                "lineNumber": 250554,
+                                "originalJapaneseLine": "　何歩先、何メートル先、何分後、何日後、かは分かりませんが、",
+                                "translatedEnglishLine": "It’s unknown how many steps ahead, meters ahead, minutes later, or days later,"
+                            },
+                            {
+                                "lineNumber": 250555,
+                                "originalJapaneseLine": "　進んだ先にある＜次の出来事＞となっています。」",
+                                "translatedEnglishLine": "but it shows the <Next Event> that lies ahead after progressing."
+                            },
+                            {
+                                "lineNumber": 250556,
+                                "originalJapaneseLine": "「こういう＜次の出来事＞の連続して集まりが",
+                                "translatedEnglishLine": "A connected series of such <Next Events>"
+                            },
+                            {
+                                "lineNumber": 250557,
+                                "originalJapaneseLine": "　大きな物語＜クエスト＞となります。」",
+                                "translatedEnglishLine": "forms a larger story, a <Quest>."
+                            },
+                            {
+                                "lineNumber": 250558,
+                                "originalJapaneseLine": "「＜次の出来事＞では、いろいろなイベントが発生します。",
+                                "translatedEnglishLine": "Various events occur at each <Next Event>."
+                            },
+                            {
+                                "lineNumber": 250559,
+                                "originalJapaneseLine": "　戦闘の場合もあります、何かいい物を拾う時や、",
+                                "translatedEnglishLine": "Sometimes battles happen, or you might find something good,"
+                            },
+                            {
+                                "lineNumber": 250560,
+                                "originalJapaneseLine": "　回復出来る場所とかもあります。」",
+                                "translatedEnglishLine": "and there are also places where you can recover."
+                            },
+                            {
+                                "lineNumber": 250561,
+                                "originalJapaneseLine": "「はにほー",
+                                "translatedEnglishLine": "Haniho~ (a cheerful greeting)"
+                            },
+                            {
+                                "lineNumber": 250562,
+                                "originalJapaneseLine": "　説明おわり」",
+                                "translatedEnglishLine": "That’s the end of the explanation."
+                            },
+                            {
+                                "lineNumber": 250563,
+                                "originalJapaneseLine": "「今回は通常のＲＰＧと違う成長表現になっています",
+                                "translatedEnglishLine": "This time, the growth system is different from usual RPGs."
+                            },
+                            {
+                                "lineNumber": 250564,
+                                "originalJapaneseLine": "　＜Ｌｖ４２ ランス＞は、最初からＬｖ４２となっていますが",
+                                "translatedEnglishLine": "<Lv 42 Rance> starts off at level 42,"
+                            },
+                            {
+                                "lineNumber": 250565,
+                                "originalJapaneseLine": "　Ｌｖアップする事はありません」",
+                                "translatedEnglishLine": "but you will not level up further."
+                            },
+                            {
+                                "lineNumber": 250566,
+                                "originalJapaneseLine": "「では、どうやって強くなっていくかというと",
+                                "translatedEnglishLine": "So, how do you become stronger?"
+                            },
+                            {
+                                "lineNumber": 250567,
+                                "originalJapaneseLine": "　Ｌｖではなく、☆ランク（戦闘熟練度のような物）を",
+                                "translatedEnglishLine": "Instead of level, you increase your ☆ Rank (like combat proficiency)."
+                            },
+                            {
+                                "lineNumber": 250568,
+                                "originalJapaneseLine": "　ランクアップしていく事で強くなっていきます」",
+                                "translatedEnglishLine": "By ranking up your ☆ Rank, you become stronger."
+                            },
+                            {
+                                "lineNumber": 250569,
+                                "originalJapaneseLine": "「また同じ＜Ｌｖ４２ ランス＞を取得すると",
+                                "translatedEnglishLine": "Also, if you obtain the same <Lv 42 Rance>"
+                            },
+                            {
+                                "lineNumber": 250570,
+                                "originalJapaneseLine": "　重ね＋１となり強くなります」",
+                                "translatedEnglishLine": "they stack +1 and become stronger."
+                            },
+                            {
+                                "lineNumber": 250571,
+                                "originalJapaneseLine": "「冒険を進めていくと＜Ｌｖ４５ ランス＞＜Ｌｖ５５ ランス＞",
+                                "translatedEnglishLine": "As you progress, you can get versions like <Lv 45 Rance> and <Lv 55 Rance>."
+                            },
+                            {
+                                "lineNumber": 250572,
+                                "originalJapaneseLine": "　など同じキャラの別バージョンを取得出来ます。」",
+                                "translatedEnglishLine": "These are different versions of the same character."
+                            },
+                            {
+                                "lineNumber": 250573,
+                                "originalJapaneseLine": "「同じキャラの場合、☆ランクは共通です。",
+                                "translatedEnglishLine": "For the same character, ☆ Rank is shared."
+                            },
+                            {
+                                "lineNumber": 250574,
+                                "originalJapaneseLine": "　＜Ｌｖ４２ ランス＞で☆５にすると、それ以外のランスも",
+                                "translatedEnglishLine": "If <Lv 42 Rance> reaches ☆5, then the other Rances"
+                            },
+                            {
+                                "lineNumber": 250575,
+                                "originalJapaneseLine": "　☆５になります」",
+                                "translatedEnglishLine": "also become ☆5."
+                            },
+                            {
+                                "lineNumber": 250576,
+                                "originalJapaneseLine": "「はにほー",
+                                "translatedEnglishLine": "Haniho~"
+                            },
+                            {
+                                "lineNumber": 250577,
+                                "originalJapaneseLine": "　説明おわり」",
+                                "translatedEnglishLine": "End of explanation."
+                            },
+                            {
+                                "lineNumber": 250578,
+                                "originalJapaneseLine": "「戦果、勲章、食券",
+                                "translatedEnglishLine": "Battle Achievement, Medals, and Food Tickets"
+                            },
+                            {
+                                "lineNumber": 250579,
+                                "originalJapaneseLine": "　それぞれ３個まで持つ事が出来る",
+                                "translatedEnglishLine": "You can hold up to three each."
+                            },
+                            {
+                                "lineNumber": 250580,
+                                "originalJapaneseLine": "　とても重要な物です」",
+                                "translatedEnglishLine": "They are very important items."
+                            },
+                            {
+                                "lineNumber": 250581,
+                                "originalJapaneseLine": "「戦果",
+                                "translatedEnglishLine": "Battle Achievement"
+                            },
+                            {
+                                "lineNumber": 250582,
+                                "originalJapaneseLine": "　　各地域での戦闘結果に大きな影響が出ます、超重要」",
+                                "translatedEnglishLine": "Significantly affects battle results in each region—extremely important."
+                            },
+                            {
+                                "lineNumber": 250583,
+                                "originalJapaneseLine": "「勲章",
+                                "translatedEnglishLine": "Medals"
+                            },
+                            {
+                                "lineNumber": 250584,
+                                "originalJapaneseLine": "　　３つ貯まると部隊ランクが上がります、超重要」",
+                                "translatedEnglishLine": "When you collect three, the unit rank increases—very important."
+                            },
+                            {
+                                "lineNumber": 250585,
+                                "originalJapaneseLine": "「食券",
+                                "translatedEnglishLine": "Food Tickets"
+                            },
+                            {
+                                "lineNumber": 250586,
+                                "originalJapaneseLine": "　　キャラのイベントを見たりパワーアップに使います、超重要」",
+                                "translatedEnglishLine": "Used to view character events or power up—very important."
+                            },
+                            {
+                                "lineNumber": 250587,
+                                "originalJapaneseLine": "「＜難易度＞敵の総合的な強さです。",
+                                "translatedEnglishLine": "<Difficulty> represents the overall strength of the enemies."
+                            },
+                            {
+                                "lineNumber": 250588,
+                                "originalJapaneseLine": "　ボス等を倒すなどすると上がっていきます",
+                                "translatedEnglishLine": "It increases when you defeat bosses and so on."
+                            },
+                            {
+                                "lineNumber": 250589,
+                                "originalJapaneseLine": "　※　だいたい、ターン数と同じ値が標準値です」",
+                                "translatedEnglishLine": "*Generally, the standard value is about the same as the turn count."
+                            },
+                            {
+                                "lineNumber": 250590,
+                                "originalJapaneseLine": "「人類死亡率",
+                                "translatedEnglishLine": "Humanity Death Rate"
+                            },
+                            {
+                                "lineNumber": 250591,
+                                "originalJapaneseLine": "　　ある意味、タイムリミットのような物となります",
+                                "translatedEnglishLine": "In a way, it's like a time limit."
+                            },
+                            {
+                                "lineNumber": 250592,
+                                "originalJapaneseLine": "　　被害が増大すると終末が訪れます」",
+                                "translatedEnglishLine": "If the damage increases too much, the apocalypse will come."
+                            },
+                            {
+                                "lineNumber": 250593,
+                                "originalJapaneseLine": "「リーザス、ヘルマン、ゼス、自由都市の戦況",
+                                "translatedEnglishLine": "The battle situation in Leazas, Helmann, Zeth, and the Free City."
+                            },
+                            {
+                                "lineNumber": 250594,
+                                "originalJapaneseLine": "　この４つの地域を守る事が重要となります",
+                                "translatedEnglishLine": "Protecting these four regions is important."
+                            },
+                            {
+                                "lineNumber": 250595,
+                                "originalJapaneseLine": "　常に味方の兵力数は確認しておきましょう」",
+                                "translatedEnglishLine": "Always keep an eye on the number of friendly troops."
+                            },
+                            {
+                                "lineNumber": 250596,
+                                "originalJapaneseLine": "「はにほー",
+                                "translatedEnglishLine": "Haniho~"
+                            },
+                            {
+                                "lineNumber": 250597,
+                                "originalJapaneseLine": "　説明おわり」",
+                                "translatedEnglishLine": "That's the end of the explanation."
+                            },
+                            {
+                                "lineNumber": 250598,
+                                "originalJapaneseLine": "「ランス１０を",
+                                "translatedEnglishLine": "Tips for playing Rance 10"
+                            },
+                            {
+                                "lineNumber": 250599,
+                                "originalJapaneseLine": "　より楽しくプレイする為のコツをお伝えします」",
+                                "translatedEnglishLine": "to enjoy it more."
+                            },
+                            {
+                                "lineNumber": 250600,
+                                "originalJapaneseLine": "「その１",
+                                "translatedEnglishLine": "Tip 1"
+                            },
+                            {
+                                "lineNumber": 250601,
+                                "originalJapaneseLine": "　１度のプレイで全部手に入れる事は出来ません",
+                                "translatedEnglishLine": "You cannot get everything in a single playthrough."
+                            },
+                            {
+                                "lineNumber": 250602,
+                                "originalJapaneseLine": "　最初は、完璧は考えないのが良いです」",
+                                "translatedEnglishLine": "It’s best not to aim for perfection at first."
+                            },
+                            {
+                                "lineNumber": 250603,
+                                "originalJapaneseLine": "「その２　",
+                                "translatedEnglishLine": "Tip 2"
+                            },
+                            {
+                                "lineNumber": 250604,
+                                "originalJapaneseLine": "　勝てない敵、厳しいルートは無視して進めましょう",
+                                "translatedEnglishLine": "Ignore enemies you can’t beat and difficult routes, and keep moving forward."
+                            },
+                            {
+                                "lineNumber": 250605,
+                                "originalJapaneseLine": "　宝箱があっても回復優先がいいですよ」",
+                                "translatedEnglishLine": "Even if there’s a treasure chest, prioritize recovery."
+                            },
+                            {
+                                "lineNumber": 250606,
+                                "originalJapaneseLine": "「その３",
+                                "translatedEnglishLine": "Tip 3"
+                            },
+                            {
+                                "lineNumber": 250607,
+                                "originalJapaneseLine": "　人類滅亡になってもしかたないよ、うん",
+                                "translatedEnglishLine": "It’s okay if humanity gets wiped out, yeah."
+                            },
+                            {
+                                "lineNumber": 250608,
+                                "originalJapaneseLine": "　次もっとうまくやりましょう」",
+                                "translatedEnglishLine": "Do better next time."
+                            },
+                            {
+                                "lineNumber": 250609,
+                                "originalJapaneseLine": "「かぁーーーー」",
+                                "translatedEnglishLine": "Kaaa--- (expressive sound)"
+                            },
+                            {
+                                "lineNumber": 250610,
+                                "originalJapaneseLine": "「このゲーム、少し難しめです",
+                                "translatedEnglishLine": "This game is a bit on the challenging side."
+                            },
+                            {
+                                "lineNumber": 250611,
+                                "originalJapaneseLine": "　世界がピンチになり絶望的になっても",
+                                "translatedEnglishLine": "Even if the world falls into crisis and becomes desperate."
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1810,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 2350,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 4160
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":250552,\"originalJapaneseLine\":\"　イベントの時系列図なのです」\",\"translatedEnglishLine\":\"This is a timeline diagram of the events.\"},{\"lineNumber\":250553,\"originalJapaneseLine\":\"「箱のように表示されているのは、＜次の出来事＞です。\",\"translatedEnglishLine\":\"The boxes displayed like this represent the <Next Event>.\"},{\"lineNumber\":250554,\"originalJapaneseLine\":\"　何歩先、何メートル先、何分後、何日後、かは分かりませんが、\",\"translatedEnglishLine\":\"It’s unknown how many steps ahead, meters ahead, minutes later, or days later,\"},{\"lineNumber\":250555,\"originalJapaneseLine\":\"　進んだ先にある＜次の出来事＞となっています。」\",\"translatedEnglishLine\":\"but it shows the <Next Event> that lies ahead after progressing.\"},{\"lineNumber\":250556,\"originalJapaneseLine\":\"「こういう＜次の出来事＞の連続して集まりが\",\"translatedEnglishLine\":\"A connected series of such <Next Events>\"},{\"lineNumber\":250557,\"originalJapaneseLine\":\"　大きな物語＜クエスト＞となります。」\",\"translatedEnglishLine\":\"forms a larger story, a <Quest>.\"},{\"lineNumber\":250558,\"originalJapaneseLine\":\"「＜次の出来事＞では、いろいろなイベントが発生します。\",\"translatedEnglishLine\":\"Various events occur at each <Next Event>.\"},{\"lineNumber\":250559,\"originalJapaneseLine\":\"　戦闘の場合もあります、何かいい物を拾う時や、\",\"translatedEnglishLine\":\"Sometimes battles happen, or you might find something good,\"},{\"lineNumber\":250560,\"originalJapaneseLine\":\"　回復出来る場所とかもあります。」\",\"translatedEnglishLine\":\"and there are also places where you can recover.\"},{\"lineNumber\":250561,\"originalJapaneseLine\":\"「はにほー\",\"translatedEnglishLine\":\"Haniho~ (a cheerful greeting)\"},{\"lineNumber\":250562,\"originalJapaneseLine\":\"　説明おわり」\",\"translatedEnglishLine\":\"That’s the end of the explanation.\"},{\"lineNumber\":250563,\"originalJapaneseLine\":\"「今回は通常のＲＰＧと違う成長表現になっています\",\"translatedEnglishLine\":\"This time, the growth system is different from usual RPGs.\"},{\"lineNumber\":250564,\"originalJapaneseLine\":\"　＜Ｌｖ４２ ランス＞は、最初からＬｖ４２となっていますが\",\"translatedEnglishLine\":\"<Lv 42 Rance> starts off at level 42,\"},{\"lineNumber\":250565,\"originalJapaneseLine\":\"　Ｌｖアップする事はありません」\",\"translatedEnglishLine\":\"but you will not level up further.\"},{\"lineNumber\":250566,\"originalJapaneseLine\":\"「では、どうやって強くなっていくかというと\",\"translatedEnglishLine\":\"So, how do you become stronger?\"},{\"lineNumber\":250567,\"originalJapaneseLine\":\"　Ｌｖではなく、☆ランク（戦闘熟練度のような物）を\",\"translatedEnglishLine\":\"Instead of level, you increase your ☆ Rank (like combat proficiency).\"},{\"lineNumber\":250568,\"originalJapaneseLine\":\"　ランクアップしていく事で強くなっていきます」\",\"translatedEnglishLine\":\"By ranking up your ☆ Rank, you become stronger.\"},{\"lineNumber\":250569,\"originalJapaneseLine\":\"「また同じ＜Ｌｖ４２ ランス＞を取得すると\",\"translatedEnglishLine\":\"Also, if you obtain the same <Lv 42 Rance>\"},{\"lineNumber\":250570,\"originalJapaneseLine\":\"　重ね＋１となり強くなります」\",\"translatedEnglishLine\":\"they stack +1 and become stronger.\"},{\"lineNumber\":250571,\"originalJapaneseLine\":\"「冒険を進めていくと＜Ｌｖ４５ ランス＞＜Ｌｖ５５ ランス＞\",\"translatedEnglishLine\":\"As you progress, you can get versions like <Lv 45 Rance> and <Lv 55 Rance>.\"},{\"lineNumber\":250572,\"originalJapaneseLine\":\"　など同じキャラの別バージョンを取得出来ます。」\",\"translatedEnglishLine\":\"These are different versions of the same character.\"},{\"lineNumber\":250573,\"originalJapaneseLine\":\"「同じキャラの場合、☆ランクは共通です。\",\"translatedEnglishLine\":\"For the same character, ☆ Rank is shared.\"},{\"lineNumber\":250574,\"originalJapaneseLine\":\"　＜Ｌｖ４２ ランス＞で☆５にすると、それ以外のランスも\",\"translatedEnglishLine\":\"If <Lv 42 Rance> reaches ☆5, then the other Rances\"},{\"lineNumber\":250575,\"originalJapaneseLine\":\"　☆５になります」\",\"translatedEnglishLine\":\"also become ☆5.\"},{\"lineNumber\":250576,\"originalJapaneseLine\":\"「はにほー\",\"translatedEnglishLine\":\"Haniho~\"},{\"lineNumber\":250577,\"originalJapaneseLine\":\"　説明おわり」\",\"translatedEnglishLine\":\"End of explanation.\"},{\"lineNumber\":250578,\"originalJapaneseLine\":\"「戦果、勲章、食券\",\"translatedEnglishLine\":\"Battle Achievement, Medals, and Food Tickets\"},{\"lineNumber\":250579,\"originalJapaneseLine\":\"　それぞれ３個まで持つ事が出来る\",\"translatedEnglishLine\":\"You can hold up to three each.\"},{\"lineNumber\":250580,\"originalJapaneseLine\":\"　とても重要な物です」\",\"translatedEnglishLine\":\"They are very important items.\"},{\"lineNumber\":250581,\"originalJapaneseLine\":\"「戦果\",\"translatedEnglishLine\":\"Battle Achievement\"},{\"lineNumber\":250582,\"originalJapaneseLine\":\"　　各地域での戦闘結果に大きな影響が出ます、超重要」\",\"translatedEnglishLine\":\"Significantly affects battle results in each region—extremely important.\"},{\"lineNumber\":250583,\"originalJapaneseLine\":\"「勲章\",\"translatedEnglishLine\":\"Medals\"},{\"lineNumber\":250584,\"originalJapaneseLine\":\"　　３つ貯まると部隊ランクが上がります、超重要」\",\"translatedEnglishLine\":\"When you collect three, the unit rank increases—very important.\"},{\"lineNumber\":250585,\"originalJapaneseLine\":\"「食券\",\"translatedEnglishLine\":\"Food Tickets\"},{\"lineNumber\":250586,\"originalJapaneseLine\":\"　　キャラのイベントを見たりパワーアップに使います、超重要」\",\"translatedEnglishLine\":\"Used to view character events or power up—very important.\"},{\"lineNumber\":250587,\"originalJapaneseLine\":\"「＜難易度＞敵の総合的な強さです。\",\"translatedEnglishLine\":\"<Difficulty> represents the overall strength of the enemies.\"},{\"lineNumber\":250588,\"originalJapaneseLine\":\"　ボス等を倒すなどすると上がっていきます\",\"translatedEnglishLine\":\"It increases when you defeat bosses and so on.\"},{\"lineNumber\":250589,\"originalJapaneseLine\":\"　※　だいたい、ターン数と同じ値が標準値です」\",\"translatedEnglishLine\":\"*Generally, the standard value is about the same as the turn count.\"},{\"lineNumber\":250590,\"originalJapaneseLine\":\"「人類死亡率\",\"translatedEnglishLine\":\"Humanity Death Rate\"},{\"lineNumber\":250591,\"originalJapaneseLine\":\"　　ある意味、タイムリミットのような物となります\",\"translatedEnglishLine\":\"In a way, it's like a time limit.\"},{\"lineNumber\":250592,\"originalJapaneseLine\":\"　　被害が増大すると終末が訪れます」\",\"translatedEnglishLine\":\"If the damage increases too much, the apocalypse will come.\"},{\"lineNumber\":250593,\"originalJapaneseLine\":\"「リーザス、ヘルマン、ゼス、自由都市の戦況\",\"translatedEnglishLine\":\"The battle situation in Leazas, Helmann, Zeth, and the Free City.\"},{\"lineNumber\":250594,\"originalJapaneseLine\":\"　この４つの地域を守る事が重要となります\",\"translatedEnglishLine\":\"Protecting these four regions is important.\"},{\"lineNumber\":250595,\"originalJapaneseLine\":\"　常に味方の兵力数は確認しておきましょう」\",\"translatedEnglishLine\":\"Always keep an eye on the number of friendly troops.\"},{\"lineNumber\":250596,\"originalJapaneseLine\":\"「はにほー\",\"translatedEnglishLine\":\"Haniho~\"},{\"lineNumber\":250597,\"originalJapaneseLine\":\"　説明おわり」\",\"translatedEnglishLine\":\"That's the end of the explanation.\"},{\"lineNumber\":250598,\"originalJapaneseLine\":\"「ランス１０を\",\"translatedEnglishLine\":\"Tips for playing Rance 10\"},{\"lineNumber\":250599,\"originalJapaneseLine\":\"　より楽しくプレイする為のコツをお伝えします」\",\"translatedEnglishLine\":\"to enjoy it more.\"},{\"lineNumber\":250600,\"originalJapaneseLine\":\"「その１\",\"translatedEnglishLine\":\"Tip 1\"},{\"lineNumber\":250601,\"originalJapaneseLine\":\"　１度のプレイで全部手に入れる事は出来ません\",\"translatedEnglishLine\":\"You cannot get everything in a single playthrough.\"},{\"lineNumber\":250602,\"originalJapaneseLine\":\"　最初は、完璧は考えないのが良いです」\",\"translatedEnglishLine\":\"It’s best not to aim for perfection at first.\"},{\"lineNumber\":250603,\"originalJapaneseLine\":\"「その２　\",\"translatedEnglishLine\":\"Tip 2\"},{\"lineNumber\":250604,\"originalJapaneseLine\":\"　勝てない敵、厳しいルートは無視して進めましょう\",\"translatedEnglishLine\":\"Ignore enemies you can’t beat and difficult routes, and keep moving forward.\"},{\"lineNumber\":250605,\"originalJapaneseLine\":\"　宝箱があっても回復優先がいいですよ」\",\"translatedEnglishLine\":\"Even if there’s a treasure chest, prioritize recovery.\"},{\"lineNumber\":250606,\"originalJapaneseLine\":\"「その３\",\"translatedEnglishLine\":\"Tip 3\"},{\"lineNumber\":250607,\"originalJapaneseLine\":\"　人類滅亡になってもしかたないよ、うん\",\"translatedEnglishLine\":\"It’s okay if humanity gets wiped out, yeah.\"},{\"lineNumber\":250608,\"originalJapaneseLine\":\"　次もっとうまくやりましょう」\",\"translatedEnglishLine\":\"Do better next time.\"},{\"lineNumber\":250609,\"originalJapaneseLine\":\"「かぁーーーー」\",\"translatedEnglishLine\":\"Kaaa--- (expressive sound)\"},{\"lineNumber\":250610,\"originalJapaneseLine\":\"「このゲーム、少し難しめです\",\"translatedEnglishLine\":\"This game is a bit on the challenging side.\"},{\"lineNumber\":250611,\"originalJapaneseLine\":\"　世界がピンチになり絶望的になっても\",\"translatedEnglishLine\":\"Even if the world falls into crisis and becomes desperate.\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 250552,
+                "originalJapaneseLine": "　イベントの時系列図なのです」",
+                "translatedEnglishLine": "This is a timeline diagram of the events."
+            },
+            {
+                "lineNumber": 250553,
+                "originalJapaneseLine": "「箱のように表示されているのは、＜次の出来事＞です。",
+                "translatedEnglishLine": "The boxes displayed like this represent the <Next Event>."
+            },
+            {
+                "lineNumber": 250554,
+                "originalJapaneseLine": "　何歩先、何メートル先、何分後、何日後、かは分かりませんが、",
+                "translatedEnglishLine": "It’s unknown how many steps ahead, meters ahead, minutes later, or days later,"
+            },
+            {
+                "lineNumber": 250555,
+                "originalJapaneseLine": "　進んだ先にある＜次の出来事＞となっています。」",
+                "translatedEnglishLine": "but it shows the <Next Event> that lies ahead after progressing."
+            },
+            {
+                "lineNumber": 250556,
+                "originalJapaneseLine": "「こういう＜次の出来事＞の連続して集まりが",
+                "translatedEnglishLine": "A connected series of such <Next Events>"
+            },
+            {
+                "lineNumber": 250557,
+                "originalJapaneseLine": "　大きな物語＜クエスト＞となります。」",
+                "translatedEnglishLine": "forms a larger story, a <Quest>."
+            },
+            {
+                "lineNumber": 250558,
+                "originalJapaneseLine": "「＜次の出来事＞では、いろいろなイベントが発生します。",
+                "translatedEnglishLine": "Various events occur at each <Next Event>."
+            },
+            {
+                "lineNumber": 250559,
+                "originalJapaneseLine": "　戦闘の場合もあります、何かいい物を拾う時や、",
+                "translatedEnglishLine": "Sometimes battles happen, or you might find something good,"
+            },
+            {
+                "lineNumber": 250560,
+                "originalJapaneseLine": "　回復出来る場所とかもあります。」",
+                "translatedEnglishLine": "and there are also places where you can recover."
+            },
+            {
+                "lineNumber": 250561,
+                "originalJapaneseLine": "「はにほー",
+                "translatedEnglishLine": "Haniho~ (a cheerful greeting)"
+            },
+            {
+                "lineNumber": 250562,
+                "originalJapaneseLine": "　説明おわり」",
+                "translatedEnglishLine": "That’s the end of the explanation."
+            },
+            {
+                "lineNumber": 250563,
+                "originalJapaneseLine": "「今回は通常のＲＰＧと違う成長表現になっています",
+                "translatedEnglishLine": "This time, the growth system is different from usual RPGs."
+            },
+            {
+                "lineNumber": 250564,
+                "originalJapaneseLine": "　＜Ｌｖ４２ ランス＞は、最初からＬｖ４２となっていますが",
+                "translatedEnglishLine": "<Lv 42 Rance> starts off at level 42,"
+            },
+            {
+                "lineNumber": 250565,
+                "originalJapaneseLine": "　Ｌｖアップする事はありません」",
+                "translatedEnglishLine": "but you will not level up further."
+            },
+            {
+                "lineNumber": 250566,
+                "originalJapaneseLine": "「では、どうやって強くなっていくかというと",
+                "translatedEnglishLine": "So, how do you become stronger?"
+            },
+            {
+                "lineNumber": 250567,
+                "originalJapaneseLine": "　Ｌｖではなく、☆ランク（戦闘熟練度のような物）を",
+                "translatedEnglishLine": "Instead of level, you increase your ☆ Rank (like combat proficiency)."
+            },
+            {
+                "lineNumber": 250568,
+                "originalJapaneseLine": "　ランクアップしていく事で強くなっていきます」",
+                "translatedEnglishLine": "By ranking up your ☆ Rank, you become stronger."
+            },
+            {
+                "lineNumber": 250569,
+                "originalJapaneseLine": "「また同じ＜Ｌｖ４２ ランス＞を取得すると",
+                "translatedEnglishLine": "Also, if you obtain the same <Lv 42 Rance>"
+            },
+            {
+                "lineNumber": 250570,
+                "originalJapaneseLine": "　重ね＋１となり強くなります」",
+                "translatedEnglishLine": "they stack +1 and become stronger."
+            },
+            {
+                "lineNumber": 250571,
+                "originalJapaneseLine": "「冒険を進めていくと＜Ｌｖ４５ ランス＞＜Ｌｖ５５ ランス＞",
+                "translatedEnglishLine": "As you progress, you can get versions like <Lv 45 Rance> and <Lv 55 Rance>."
+            },
+            {
+                "lineNumber": 250572,
+                "originalJapaneseLine": "　など同じキャラの別バージョンを取得出来ます。」",
+                "translatedEnglishLine": "These are different versions of the same character."
+            },
+            {
+                "lineNumber": 250573,
+                "originalJapaneseLine": "「同じキャラの場合、☆ランクは共通です。",
+                "translatedEnglishLine": "For the same character, ☆ Rank is shared."
+            },
+            {
+                "lineNumber": 250574,
+                "originalJapaneseLine": "　＜Ｌｖ４２ ランス＞で☆５にすると、それ以外のランスも",
+                "translatedEnglishLine": "If <Lv 42 Rance> reaches ☆5, then the other Rances"
+            },
+            {
+                "lineNumber": 250575,
+                "originalJapaneseLine": "　☆５になります」",
+                "translatedEnglishLine": "also become ☆5."
+            },
+            {
+                "lineNumber": 250576,
+                "originalJapaneseLine": "「はにほー",
+                "translatedEnglishLine": "Haniho~"
+            },
+            {
+                "lineNumber": 250577,
+                "originalJapaneseLine": "　説明おわり」",
+                "translatedEnglishLine": "End of explanation."
+            },
+            {
+                "lineNumber": 250578,
+                "originalJapaneseLine": "「戦果、勲章、食券",
+                "translatedEnglishLine": "Battle Achievement, Medals, and Food Tickets"
+            },
+            {
+                "lineNumber": 250579,
+                "originalJapaneseLine": "　それぞれ３個まで持つ事が出来る",
+                "translatedEnglishLine": "You can hold up to three each."
+            },
+            {
+                "lineNumber": 250580,
+                "originalJapaneseLine": "　とても重要な物です」",
+                "translatedEnglishLine": "They are very important items."
+            },
+            {
+                "lineNumber": 250581,
+                "originalJapaneseLine": "「戦果",
+                "translatedEnglishLine": "Battle Achievement"
+            },
+            {
+                "lineNumber": 250582,
+                "originalJapaneseLine": "　　各地域での戦闘結果に大きな影響が出ます、超重要」",
+                "translatedEnglishLine": "Significantly affects battle results in each region—extremely important."
+            },
+            {
+                "lineNumber": 250583,
+                "originalJapaneseLine": "「勲章",
+                "translatedEnglishLine": "Medals"
+            },
+            {
+                "lineNumber": 250584,
+                "originalJapaneseLine": "　　３つ貯まると部隊ランクが上がります、超重要」",
+                "translatedEnglishLine": "When you collect three, the unit rank increases—very important."
+            },
+            {
+                "lineNumber": 250585,
+                "originalJapaneseLine": "「食券",
+                "translatedEnglishLine": "Food Tickets"
+            },
+            {
+                "lineNumber": 250586,
+                "originalJapaneseLine": "　　キャラのイベントを見たりパワーアップに使います、超重要」",
+                "translatedEnglishLine": "Used to view character events or power up—very important."
+            },
+            {
+                "lineNumber": 250587,
+                "originalJapaneseLine": "「＜難易度＞敵の総合的な強さです。",
+                "translatedEnglishLine": "<Difficulty> represents the overall strength of the enemies."
+            },
+            {
+                "lineNumber": 250588,
+                "originalJapaneseLine": "　ボス等を倒すなどすると上がっていきます",
+                "translatedEnglishLine": "It increases when you defeat bosses and so on."
+            },
+            {
+                "lineNumber": 250589,
+                "originalJapaneseLine": "　※　だいたい、ターン数と同じ値が標準値です」",
+                "translatedEnglishLine": "*Generally, the standard value is about the same as the turn count."
+            },
+            {
+                "lineNumber": 250590,
+                "originalJapaneseLine": "「人類死亡率",
+                "translatedEnglishLine": "Humanity Death Rate"
+            },
+            {
+                "lineNumber": 250591,
+                "originalJapaneseLine": "　　ある意味、タイムリミットのような物となります",
+                "translatedEnglishLine": "In a way, it's like a time limit."
+            },
+            {
+                "lineNumber": 250592,
+                "originalJapaneseLine": "　　被害が増大すると終末が訪れます」",
+                "translatedEnglishLine": "If the damage increases too much, the apocalypse will come."
+            },
+            {
+                "lineNumber": 250593,
+                "originalJapaneseLine": "「リーザス、ヘルマン、ゼス、自由都市の戦況",
+                "translatedEnglishLine": "The battle situation in Leazas, Helmann, Zeth, and the Free City."
+            },
+            {
+                "lineNumber": 250594,
+                "originalJapaneseLine": "　この４つの地域を守る事が重要となります",
+                "translatedEnglishLine": "Protecting these four regions is important."
+            },
+            {
+                "lineNumber": 250595,
+                "originalJapaneseLine": "　常に味方の兵力数は確認しておきましょう」",
+                "translatedEnglishLine": "Always keep an eye on the number of friendly troops."
+            },
+            {
+                "lineNumber": 250596,
+                "originalJapaneseLine": "「はにほー",
+                "translatedEnglishLine": "Haniho~"
+            },
+            {
+                "lineNumber": 250597,
+                "originalJapaneseLine": "　説明おわり」",
+                "translatedEnglishLine": "That's the end of the explanation."
+            },
+            {
+                "lineNumber": 250598,
+                "originalJapaneseLine": "「ランス１０を",
+                "translatedEnglishLine": "Tips for playing Rance 10"
+            },
+            {
+                "lineNumber": 250599,
+                "originalJapaneseLine": "　より楽しくプレイする為のコツをお伝えします」",
+                "translatedEnglishLine": "to enjoy it more."
+            },
+            {
+                "lineNumber": 250600,
+                "originalJapaneseLine": "「その１",
+                "translatedEnglishLine": "Tip 1"
+            },
+            {
+                "lineNumber": 250601,
+                "originalJapaneseLine": "　１度のプレイで全部手に入れる事は出来ません",
+                "translatedEnglishLine": "You cannot get everything in a single playthrough."
+            },
+            {
+                "lineNumber": 250602,
+                "originalJapaneseLine": "　最初は、完璧は考えないのが良いです」",
+                "translatedEnglishLine": "It’s best not to aim for perfection at first."
+            },
+            {
+                "lineNumber": 250603,
+                "originalJapaneseLine": "「その２　",
+                "translatedEnglishLine": "Tip 2"
+            },
+            {
+                "lineNumber": 250604,
+                "originalJapaneseLine": "　勝てない敵、厳しいルートは無視して進めましょう",
+                "translatedEnglishLine": "Ignore enemies you can’t beat and difficult routes, and keep moving forward."
+            },
+            {
+                "lineNumber": 250605,
+                "originalJapaneseLine": "　宝箱があっても回復優先がいいですよ」",
+                "translatedEnglishLine": "Even if there’s a treasure chest, prioritize recovery."
+            },
+            {
+                "lineNumber": 250606,
+                "originalJapaneseLine": "「その３",
+                "translatedEnglishLine": "Tip 3"
+            },
+            {
+                "lineNumber": 250607,
+                "originalJapaneseLine": "　人類滅亡になってもしかたないよ、うん",
+                "translatedEnglishLine": "It’s okay if humanity gets wiped out, yeah."
+            },
+            {
+                "lineNumber": 250608,
+                "originalJapaneseLine": "　次もっとうまくやりましょう」",
+                "translatedEnglishLine": "Do better next time."
+            },
+            {
+                "lineNumber": 250609,
+                "originalJapaneseLine": "「かぁーーーー」",
+                "translatedEnglishLine": "Kaaa--- (expressive sound)"
+            },
+            {
+                "lineNumber": 250610,
+                "originalJapaneseLine": "「このゲーム、少し難しめです",
+                "translatedEnglishLine": "This game is a bit on the challenging side."
+            },
+            {
+                "lineNumber": 250611,
+                "originalJapaneseLine": "　世界がピンチになり絶望的になっても",
+                "translatedEnglishLine": "Even if the world falls into crisis and becomes desperate."
+            }
+        ]
+    }
+}

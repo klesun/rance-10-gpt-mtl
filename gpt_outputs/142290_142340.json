@@ -1,1 +1,619 @@
-{"id":"resp_0af62fe8a888a99a0068f136bf2e88819790ef50682fe2ebac","object":"response","created_at":1760638655,"status":"completed","background":false,"billing":{"payer":"developer"},"error":null,"incomplete_details":null,"instructions":null,"max_output_tokens":null,"max_tool_calls":null,"model":"gpt-4.1-mini-2025-04-14","output":[{"id":"msg_0af62fe8a888a99a0068f136bf8f0c81979200b9e1584564a5","type":"message","status":"completed","content":[{"type":"output_text","annotations":[],"logprobs":[],"text":"{\"translationLines\":[{\"lineNumber\":142291,\"originalJapaneseLine\":\"テーブルの上に広げたノートと睨めっこをしていた。\",\"translatedEnglishLine\":\"I was staring intently at the notebook spread out on the table.\"},{\"lineNumber\":142292,\"originalJapaneseLine\":\"（ベラウェンの壷、10000G、\",\"translatedEnglishLine\":\"(Beraween Vase, 10,000G,\"},{\"lineNumber\":142293,\"originalJapaneseLine\":\"　スーゲルの絵画、5000G、\",\"translatedEnglishLine\":\"Sugel Painting, 5,000G,\"},{\"lineNumber\":142294,\"originalJapaneseLine\":\"　銀細工の食器セット、3000G）\",\"translatedEnglishLine\":\"Silver crafted dinnerware set, 3,000G)\"},{\"lineNumber\":142295,\"originalJapaneseLine\":\"（うーん、持ち運びが容易で\",\"translatedEnglishLine\":\"(Hmm, something easy to carry\"},{\"lineNumber\":142296,\"originalJapaneseLine\":\"　できるだけ値段が高いものをって考えると、\",\"translatedEnglishLine\":\"and thinking about something as expensive as possible,\"},{\"lineNumber\":142297,\"originalJapaneseLine\":\"　やっぱり結構限られるなぁ……）\",\"translatedEnglishLine\":\"it really is quite limited after all...)\"},{\"lineNumber\":142298,\"originalJapaneseLine\":\"（って、よく考えてみたら、\",\"translatedEnglishLine\":\"(Wait, come to think of it,\"},{\"lineNumber\":142299,\"originalJapaneseLine\":\"　お金ってまだ役に立つのかしら……）\",\"translatedEnglishLine\":\"is money still useful...?)\"},{\"lineNumber\":142300,\"originalJapaneseLine\":\"「あー、駄目駄目、やっぱこれなし」\",\"translatedEnglishLine\":\"\\\"Ah, no no, definitely not this one.\\\"\"},{\"lineNumber\":142301,\"originalJapaneseLine\":\"ペルエレは高級なソファーにだらしなく寝転がった。\",\"translatedEnglishLine\":\"Puerere flopped lazily onto the luxury sofa.\"},{\"lineNumber\":142302,\"originalJapaneseLine\":\"「ペルエレ？　これ、なぁに？」\",\"translatedEnglishLine\":\"\\\"Puerere? What's this?\\\"\"},{\"lineNumber\":142303,\"originalJapaneseLine\":\"「もしもの為の逃走計画表」\",\"translatedEnglishLine\":\"\\\"An escape plan for emergencies.\\\"\"},{\"lineNumber\":142304,\"originalJapaneseLine\":\"「？　目的地はないの？」\",\"translatedEnglishLine\":\"\\\"? You don’t have a destination?\\\"\"},{\"lineNumber\":142305,\"originalJapaneseLine\":\"「まだ未定ー」\",\"translatedEnglishLine\":\"\\\"Not decided yet—\\\"\"},{\"lineNumber\":142306,\"originalJapaneseLine\":\"「ヘルマンの田舎だって\",\"translatedEnglishLine\":\"\\\"Even Herman's countryside,\"},{\"lineNumber\":142307,\"originalJapaneseLine\":\"　魔物に侵略されてるって言うじゃない。\",\"translatedEnglishLine\":\"is said to be invaded by monsters, right?\"},{\"lineNumber\":142308,\"originalJapaneseLine\":\"　どこに逃げればいいってのよ」\",\"translatedEnglishLine\":\"Where exactly would we run to?\\\"\"},{\"lineNumber\":142309,\"originalJapaneseLine\":\"「やっぱ行くなら外国かなー……」\",\"translatedEnglishLine\":\"\\\"I guess if we go anywhere, it would have to be abroad...\\\"\"},\n\n{\"lineNumber\":142310,\"originalJapaneseLine\":\"ペルエレがごろんと寝返りを打つ。\",\"translatedEnglishLine\":\"Puerere rolled over with a flop.\"},\n\n{\"lineNumber\":142311,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":142312,\"originalJapaneseLine\":\"「……なによ、その顔は」\",\"translatedEnglishLine\":\"\\\"...What's with that face?\\\"\"},{\"lineNumber\":142313,\"originalJapaneseLine\":\"「ありがとう、まだ近くにいてくれて」\",\"translatedEnglishLine\":\"\\\"Thank you for still being here nearby.\\\"\"},{\"lineNumber\":142314,\"originalJapaneseLine\":\"「どこぞの田舎より、首都のここの方が\",\"translatedEnglishLine\":\"\\\"I just figured this place, the capital, is somewhat safer\"},{\"lineNumber\":142315,\"originalJapaneseLine\":\"　ナンボか安全って判断しただけよ」\",\"translatedEnglishLine\":\"than some random countryside.\\\"\"},{\"lineNumber\":142316,\"originalJapaneseLine\":\"「ほんの少しでもヤバくなったら、\",\"translatedEnglishLine\":\"\\\"If it gets even a little dangerous,\"},{\"lineNumber\":142317,\"originalJapaneseLine\":\"　私はトンズラするからね」\",\"translatedEnglishLine\":\"I'll bolt, okay?\\\"\"},{\"lineNumber\":142318,\"originalJapaneseLine\":\"「うん」\",\"translatedEnglishLine\":\"\\\"Yeah.\\\"\"},{\"lineNumber\":142319,\"originalJapaneseLine\":\"「あと、そのとき金目のものも持ってくからね」\",\"translatedEnglishLine\":\"\\\"Also, I'll take valuables with me then.\\\"\"},{\"lineNumber\":142320,\"originalJapaneseLine\":\"「うん」\",\"translatedEnglishLine\":\"\\\"Yeah.\\\"\"},{\"lineNumber\":142321,\"originalJapaneseLine\":\"「ふふん、ま、構わないわよね。\",\"translatedEnglishLine\":\"\\\"Heh heh, well, it's fine, isn't it?\"},{\"lineNumber\":142322,\"originalJapaneseLine\":\"　どうせ魔物のものになるんだから、さ」\",\"translatedEnglishLine\":\"They're going to become the monsters' possessions anyway.\\\"\"},{\"lineNumber\":142323,\"originalJapaneseLine\":\"「うん」\",\"translatedEnglishLine\":\"\\\"Yeah.\\\"\"},{\"lineNumber\":142324,\"originalJapaneseLine\":\"「逃げるとき、あんたも来る？」\",\"translatedEnglishLine\":\"\\\"When you run away, will you come with me?\\\"\"},{\"lineNumber\":142325,\"originalJapaneseLine\":\"「うぅん、私はここに残る」\",\"translatedEnglishLine\":\"\\\"No, I'm staying here.\\\"\"},{\"lineNumber\":142326,\"originalJapaneseLine\":\"「……言うと思った」\",\"translatedEnglishLine\":\"\\\"...I thought you'd say that.\\\"\"},{\"lineNumber\":142327,\"originalJapaneseLine\":\"「それに、きっとランス様が\",\"translatedEnglishLine\":\"\\\"Besides, surely Lord Rance\"},{\"lineNumber\":142328,\"originalJapaneseLine\":\"　どうにかしてくれる筈だから……」\",\"translatedEnglishLine\":\"will do something about it...\\\"\"},{\"lineNumber\":142329,\"originalJapaneseLine\":\"「う〜〜〜〜……」\",\"translatedEnglishLine\":\"\\\"Uuuuuu...\\\"\"},{\"lineNumber\":142330,\"originalJapaneseLine\":\"「わっ……」\",\"translatedEnglishLine\":\"\\\"Wah...\\\"\"},{\"lineNumber\":142331,\"originalJapaneseLine\":\"ペルエレはシーラの腰にしがみついた。\",\"translatedEnglishLine\":\"Puerere clung to Sheila's waist.\"},{\"lineNumber\":142332,\"originalJapaneseLine\":\"「それならあの緑の馬鹿、早く魔人倒してよぉ、\",\"translatedEnglishLine\":\"\\\"Then that green idiot better defeat the demon quickly,\"},{\"lineNumber\":142333,\"originalJapaneseLine\":\"　やだよぉ……魔物に殺されるのはやだよぉ……」\",\"translatedEnglishLine\":\"I don't want to... I don't want to be killed by monsters...\\\"\"},{\"lineNumber\":142334,\"originalJapaneseLine\":\"「ああ、でも殺されないのかなぁ……\",\"translatedEnglishLine\":\"\\\"Ah, but I wonder if I won't be killed...\"},{\"lineNumber\":142335,\"originalJapaneseLine\":\"　ほら、私顔だけはいいじゃない？\",\"translatedEnglishLine\":\"You know, at least I have a nice face, right?\"},{\"lineNumber\":142336,\"originalJapaneseLine\":\"　きっと毎日のようにレイプされるんだわ……」\",\"translatedEnglishLine\":\"Surely I'll be raped every single day...\\\"\"},{\"lineNumber\":142337,\"originalJapaneseLine\":\"「いやだよぉ……いやだよぉ……」\",\"translatedEnglishLine\":\"\\\"I don't want that... I don't want that...\\\"\"},{\"lineNumber\":142338,\"originalJapaneseLine\":\"「平気、平気。\",\"translatedEnglishLine\":\"\\\"It's okay, it's okay.\"},{\"lineNumber\":142339,\"originalJapaneseLine\":\"　いい子、いい子……」\",\"translatedEnglishLine\":\"Good girl, good girl...\\\"\"},{\"lineNumber\":142340,\"originalJapaneseLine\":\"「うう〜〜〜〜……」\",\"translatedEnglishLine\":\"\\\"Uuuu...\\\"\"}]}","parsed":{"translationLines":[{"lineNumber":142291,"originalJapaneseLine":"テーブルの上に広げたノートと睨めっこをしていた。","translatedEnglishLine":"I was staring intently at the notebook spread out on the table."},{"lineNumber":142292,"originalJapaneseLine":"（ベラウェンの壷、10000G、","translatedEnglishLine":"(Beraween Vase, 10,000G,"},{"lineNumber":142293,"originalJapaneseLine":"　スーゲルの絵画、5000G、","translatedEnglishLine":"Sugel Painting, 5,000G,"},{"lineNumber":142294,"originalJapaneseLine":"　銀細工の食器セット、3000G）","translatedEnglishLine":"Silver crafted dinnerware set, 3,000G)"},{"lineNumber":142295,"originalJapaneseLine":"（うーん、持ち運びが容易で","translatedEnglishLine":"(Hmm, something easy to carry"},{"lineNumber":142296,"originalJapaneseLine":"　できるだけ値段が高いものをって考えると、","translatedEnglishLine":"and thinking about something as expensive as possible,"},{"lineNumber":142297,"originalJapaneseLine":"　やっぱり結構限られるなぁ……）","translatedEnglishLine":"it really is quite limited after all...)"},{"lineNumber":142298,"originalJapaneseLine":"（って、よく考えてみたら、","translatedEnglishLine":"(Wait, come to think of it,"},{"lineNumber":142299,"originalJapaneseLine":"　お金ってまだ役に立つのかしら……）","translatedEnglishLine":"is money still useful...?)"},{"lineNumber":142300,"originalJapaneseLine":"「あー、駄目駄目、やっぱこれなし」","translatedEnglishLine":"\"Ah, no no, definitely not this one.\""},{"lineNumber":142301,"originalJapaneseLine":"ペルエレは高級なソファーにだらしなく寝転がった。","translatedEnglishLine":"Puerere flopped lazily onto the luxury sofa."},{"lineNumber":142302,"originalJapaneseLine":"「ペルエレ？　これ、なぁに？」","translatedEnglishLine":"\"Puerere? What's this?\""},{"lineNumber":142303,"originalJapaneseLine":"「もしもの為の逃走計画表」","translatedEnglishLine":"\"An escape plan for emergencies.\""},{"lineNumber":142304,"originalJapaneseLine":"「？　目的地はないの？」","translatedEnglishLine":"\"? You don’t have a destination?\""},{"lineNumber":142305,"originalJapaneseLine":"「まだ未定ー」","translatedEnglishLine":"\"Not decided yet—\""},{"lineNumber":142306,"originalJapaneseLine":"「ヘルマンの田舎だって","translatedEnglishLine":"\"Even Herman's countryside,"},{"lineNumber":142307,"originalJapaneseLine":"　魔物に侵略されてるって言うじゃない。","translatedEnglishLine":"is said to be invaded by monsters, right?"},{"lineNumber":142308,"originalJapaneseLine":"　どこに逃げればいいってのよ」","translatedEnglishLine":"Where exactly would we run to?\""},{"lineNumber":142309,"originalJapaneseLine":"「やっぱ行くなら外国かなー……」","translatedEnglishLine":"\"I guess if we go anywhere, it would have to be abroad...\""},{"lineNumber":142310,"originalJapaneseLine":"ペルエレがごろんと寝返りを打つ。","translatedEnglishLine":"Puerere rolled over with a flop."},{"lineNumber":142311,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"........\""},{"lineNumber":142312,"originalJapaneseLine":"「……なによ、その顔は」","translatedEnglishLine":"\"...What's with that face?\""},{"lineNumber":142313,"originalJapaneseLine":"「ありがとう、まだ近くにいてくれて」","translatedEnglishLine":"\"Thank you for still being here nearby.\""},{"lineNumber":142314,"originalJapaneseLine":"「どこぞの田舎より、首都のここの方が","translatedEnglishLine":"\"I just figured this place, the capital, is somewhat safer"},{"lineNumber":142315,"originalJapaneseLine":"　ナンボか安全って判断しただけよ」","translatedEnglishLine":"than some random countryside.\""},{"lineNumber":142316,"originalJapaneseLine":"「ほんの少しでもヤバくなったら、","translatedEnglishLine":"\"If it gets even a little dangerous,"},{"lineNumber":142317,"originalJapaneseLine":"　私はトンズラするからね」","translatedEnglishLine":"I'll bolt, okay?\""},{"lineNumber":142318,"originalJapaneseLine":"「うん」","translatedEnglishLine":"\"Yeah.\""},{"lineNumber":142319,"originalJapaneseLine":"「あと、そのとき金目のものも持ってくからね」","translatedEnglishLine":"\"Also, I'll take valuables with me then.\""},{"lineNumber":142320,"originalJapaneseLine":"「うん」","translatedEnglishLine":"\"Yeah.\""},{"lineNumber":142321,"originalJapaneseLine":"「ふふん、ま、構わないわよね。","translatedEnglishLine":"\"Heh heh, well, it's fine, isn't it?"},{"lineNumber":142322,"originalJapaneseLine":"　どうせ魔物のものになるんだから、さ」","translatedEnglishLine":"They're going to become the monsters' possessions anyway.\""},{"lineNumber":142323,"originalJapaneseLine":"「うん」","translatedEnglishLine":"\"Yeah.\""},{"lineNumber":142324,"originalJapaneseLine":"「逃げるとき、あんたも来る？」","translatedEnglishLine":"\"When you run away, will you come with me?\""},{"lineNumber":142325,"originalJapaneseLine":"「うぅん、私はここに残る」","translatedEnglishLine":"\"No, I'm staying here.\""},{"lineNumber":142326,"originalJapaneseLine":"「……言うと思った」","translatedEnglishLine":"\"...I thought you'd say that.\""},{"lineNumber":142327,"originalJapaneseLine":"「それに、きっとランス様が","translatedEnglishLine":"\"Besides, surely Lord Rance"},{"lineNumber":142328,"originalJapaneseLine":"　どうにかしてくれる筈だから……」","translatedEnglishLine":"will do something about it...\""},{"lineNumber":142329,"originalJapaneseLine":"「う〜〜〜〜……」","translatedEnglishLine":"\"Uuuuuu...\""},{"lineNumber":142330,"originalJapaneseLine":"「わっ……」","translatedEnglishLine":"\"Wah...\""},{"lineNumber":142331,"originalJapaneseLine":"ペルエレはシーラの腰にしがみついた。","translatedEnglishLine":"Puerere clung to Sheila's waist."},{"lineNumber":142332,"originalJapaneseLine":"「それならあの緑の馬鹿、早く魔人倒してよぉ、","translatedEnglishLine":"\"Then that green idiot better defeat the demon quickly,"},{"lineNumber":142333,"originalJapaneseLine":"　やだよぉ……魔物に殺されるのはやだよぉ……」","translatedEnglishLine":"I don't want to... I don't want to be killed by monsters...\""},{"lineNumber":142334,"originalJapaneseLine":"「ああ、でも殺されないのかなぁ……","translatedEnglishLine":"\"Ah, but I wonder if I won't be killed..."},{"lineNumber":142335,"originalJapaneseLine":"　ほら、私顔だけはいいじゃない？","translatedEnglishLine":"You know, at least I have a nice face, right?"},{"lineNumber":142336,"originalJapaneseLine":"　きっと毎日のようにレイプされるんだわ……」","translatedEnglishLine":"Surely I'll be raped every single day...\""},{"lineNumber":142337,"originalJapaneseLine":"「いやだよぉ……いやだよぉ……」","translatedEnglishLine":"\"I don't want that... I don't want that...\""},{"lineNumber":142338,"originalJapaneseLine":"「平気、平気。","translatedEnglishLine":"\"It's okay, it's okay."},{"lineNumber":142339,"originalJapaneseLine":"　いい子、いい子……」","translatedEnglishLine":"Good girl, good girl...\""},{"lineNumber":142340,"originalJapaneseLine":"「うう〜〜〜〜……」","translatedEnglishLine":"\"Uuuu...\""}]}}],"role":"assistant"}],"parallel_tool_calls":true,"previous_response_id":null,"prompt_cache_key":null,"reasoning":{"effort":null,"summary":null},"safety_identifier":null,"service_tier":"default","store":true,"temperature":1,"text":{"format":{"type":"json_schema","description":null,"name":"TranslationJSONOutput","schema":{"name":"Japanese lines translation to English","type":"object","additionalProperties":false,"required":["translationLines"],"properties":{"translationLines":{"type":"array","description":"Array of objects, each representing a line from the input","items":{"type":"object","additionalProperties":false,"required":["lineNumber","originalJapaneseLine","translatedEnglishLine"],"properties":{"lineNumber":{"type":"integer","description":"1-based","nullable":false},"originalJapaneseLine":{"type":"string","description":"The original line in Japanese exactly as it was in the input","nullable":false},"translatedEnglishLine":{"type":"string","description":"The original line translated to English","nullable":false}}}}}},"strict":true},"verbosity":"medium"},"tool_choice":"auto","tools":[],"top_logprobs":0,"top_p":1,"truncation":"disabled","usage":{"input_tokens":1463,"input_tokens_details":{"cached_tokens":0},"output_tokens":1853,"output_tokens_details":{"reasoning_tokens":0},"total_tokens":3316},"user":null,"metadata":{},"output_text":"{\"translationLines\":[{\"lineNumber\":142291,\"originalJapaneseLine\":\"テーブルの上に広げたノートと睨めっこをしていた。\",\"translatedEnglishLine\":\"I was staring intently at the notebook spread out on the table.\"},{\"lineNumber\":142292,\"originalJapaneseLine\":\"（ベラウェンの壷、10000G、\",\"translatedEnglishLine\":\"(Beraween Vase, 10,000G,\"},{\"lineNumber\":142293,\"originalJapaneseLine\":\"　スーゲルの絵画、5000G、\",\"translatedEnglishLine\":\"Sugel Painting, 5,000G,\"},{\"lineNumber\":142294,\"originalJapaneseLine\":\"　銀細工の食器セット、3000G）\",\"translatedEnglishLine\":\"Silver crafted dinnerware set, 3,000G)\"},{\"lineNumber\":142295,\"originalJapaneseLine\":\"（うーん、持ち運びが容易で\",\"translatedEnglishLine\":\"(Hmm, something easy to carry\"},{\"lineNumber\":142296,\"originalJapaneseLine\":\"　できるだけ値段が高いものをって考えると、\",\"translatedEnglishLine\":\"and thinking about something as expensive as possible,\"},{\"lineNumber\":142297,\"originalJapaneseLine\":\"　やっぱり結構限られるなぁ……）\",\"translatedEnglishLine\":\"it really is quite limited after all...)\"},{\"lineNumber\":142298,\"originalJapaneseLine\":\"（って、よく考えてみたら、\",\"translatedEnglishLine\":\"(Wait, come to think of it,\"},{\"lineNumber\":142299,\"originalJapaneseLine\":\"　お金ってまだ役に立つのかしら……）\",\"translatedEnglishLine\":\"is money still useful...?)\"},{\"lineNumber\":142300,\"originalJapaneseLine\":\"「あー、駄目駄目、やっぱこれなし」\",\"translatedEnglishLine\":\"\\\"Ah, no no, definitely not this one.\\\"\"},{\"lineNumber\":142301,\"originalJapaneseLine\":\"ペルエレは高級なソファーにだらしなく寝転がった。\",\"translatedEnglishLine\":\"Puerere flopped lazily onto the luxury sofa.\"},{\"lineNumber\":142302,\"originalJapaneseLine\":\"「ペルエレ？　これ、なぁに？」\",\"translatedEnglishLine\":\"\\\"Puerere? What's this?\\\"\"},{\"lineNumber\":142303,\"originalJapaneseLine\":\"「もしもの為の逃走計画表」\",\"translatedEnglishLine\":\"\\\"An escape plan for emergencies.\\\"\"},{\"lineNumber\":142304,\"originalJapaneseLine\":\"「？　目的地はないの？」\",\"translatedEnglishLine\":\"\\\"? You don’t have a destination?\\\"\"},{\"lineNumber\":142305,\"originalJapaneseLine\":\"「まだ未定ー」\",\"translatedEnglishLine\":\"\\\"Not decided yet—\\\"\"},{\"lineNumber\":142306,\"originalJapaneseLine\":\"「ヘルマンの田舎だって\",\"translatedEnglishLine\":\"\\\"Even Herman's countryside,\"},{\"lineNumber\":142307,\"originalJapaneseLine\":\"　魔物に侵略されてるって言うじゃない。\",\"translatedEnglishLine\":\"is said to be invaded by monsters, right?\"},{\"lineNumber\":142308,\"originalJapaneseLine\":\"　どこに逃げればいいってのよ」\",\"translatedEnglishLine\":\"Where exactly would we run to?\\\"\"},{\"lineNumber\":142309,\"originalJapaneseLine\":\"「やっぱ行くなら外国かなー……」\",\"translatedEnglishLine\":\"\\\"I guess if we go anywhere, it would have to be abroad...\\\"\"},\n\n{\"lineNumber\":142310,\"originalJapaneseLine\":\"ペルエレがごろんと寝返りを打つ。\",\"translatedEnglishLine\":\"Puerere rolled over with a flop.\"},\n\n{\"lineNumber\":142311,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":142312,\"originalJapaneseLine\":\"「……なによ、その顔は」\",\"translatedEnglishLine\":\"\\\"...What's with that face?\\\"\"},{\"lineNumber\":142313,\"originalJapaneseLine\":\"「ありがとう、まだ近くにいてくれて」\",\"translatedEnglishLine\":\"\\\"Thank you for still being here nearby.\\\"\"},{\"lineNumber\":142314,\"originalJapaneseLine\":\"「どこぞの田舎より、首都のここの方が\",\"translatedEnglishLine\":\"\\\"I just figured this place, the capital, is somewhat safer\"},{\"lineNumber\":142315,\"originalJapaneseLine\":\"　ナンボか安全って判断しただけよ」\",\"translatedEnglishLine\":\"than some random countryside.\\\"\"},{\"lineNumber\":142316,\"originalJapaneseLine\":\"「ほんの少しでもヤバくなったら、\",\"translatedEnglishLine\":\"\\\"If it gets even a little dangerous,\"},{\"lineNumber\":142317,\"originalJapaneseLine\":\"　私はトンズラするからね」\",\"translatedEnglishLine\":\"I'll bolt, okay?\\\"\"},{\"lineNumber\":142318,\"originalJapaneseLine\":\"「うん」\",\"translatedEnglishLine\":\"\\\"Yeah.\\\"\"},{\"lineNumber\":142319,\"originalJapaneseLine\":\"「あと、そのとき金目のものも持ってくからね」\",\"translatedEnglishLine\":\"\\\"Also, I'll take valuables with me then.\\\"\"},{\"lineNumber\":142320,\"originalJapaneseLine\":\"「うん」\",\"translatedEnglishLine\":\"\\\"Yeah.\\\"\"},{\"lineNumber\":142321,\"originalJapaneseLine\":\"「ふふん、ま、構わないわよね。\",\"translatedEnglishLine\":\"\\\"Heh heh, well, it's fine, isn't it?\"},{\"lineNumber\":142322,\"originalJapaneseLine\":\"　どうせ魔物のものになるんだから、さ」\",\"translatedEnglishLine\":\"They're going to become the monsters' possessions anyway.\\\"\"},{\"lineNumber\":142323,\"originalJapaneseLine\":\"「うん」\",\"translatedEnglishLine\":\"\\\"Yeah.\\\"\"},{\"lineNumber\":142324,\"originalJapaneseLine\":\"「逃げるとき、あんたも来る？」\",\"translatedEnglishLine\":\"\\\"When you run away, will you come with me?\\\"\"},{\"lineNumber\":142325,\"originalJapaneseLine\":\"「うぅん、私はここに残る」\",\"translatedEnglishLine\":\"\\\"No, I'm staying here.\\\"\"},{\"lineNumber\":142326,\"originalJapaneseLine\":\"「……言うと思った」\",\"translatedEnglishLine\":\"\\\"...I thought you'd say that.\\\"\"},{\"lineNumber\":142327,\"originalJapaneseLine\":\"「それに、きっとランス様が\",\"translatedEnglishLine\":\"\\\"Besides, surely Lord Rance\"},{\"lineNumber\":142328,\"originalJapaneseLine\":\"　どうにかしてくれる筈だから……」\",\"translatedEnglishLine\":\"will do something about it...\\\"\"},{\"lineNumber\":142329,\"originalJapaneseLine\":\"「う〜〜〜〜……」\",\"translatedEnglishLine\":\"\\\"Uuuuuu...\\\"\"},{\"lineNumber\":142330,\"originalJapaneseLine\":\"「わっ……」\",\"translatedEnglishLine\":\"\\\"Wah...\\\"\"},{\"lineNumber\":142331,\"originalJapaneseLine\":\"ペルエレはシーラの腰にしがみついた。\",\"translatedEnglishLine\":\"Puerere clung to Sheila's waist.\"},{\"lineNumber\":142332,\"originalJapaneseLine\":\"「それならあの緑の馬鹿、早く魔人倒してよぉ、\",\"translatedEnglishLine\":\"\\\"Then that green idiot better defeat the demon quickly,\"},{\"lineNumber\":142333,\"originalJapaneseLine\":\"　やだよぉ……魔物に殺されるのはやだよぉ……」\",\"translatedEnglishLine\":\"I don't want to... I don't want to be killed by monsters...\\\"\"},{\"lineNumber\":142334,\"originalJapaneseLine\":\"「ああ、でも殺されないのかなぁ……\",\"translatedEnglishLine\":\"\\\"Ah, but I wonder if I won't be killed...\"},{\"lineNumber\":142335,\"originalJapaneseLine\":\"　ほら、私顔だけはいいじゃない？\",\"translatedEnglishLine\":\"You know, at least I have a nice face, right?\"},{\"lineNumber\":142336,\"originalJapaneseLine\":\"　きっと毎日のようにレイプされるんだわ……」\",\"translatedEnglishLine\":\"Surely I'll be raped every single day...\\\"\"},{\"lineNumber\":142337,\"originalJapaneseLine\":\"「いやだよぉ……いやだよぉ……」\",\"translatedEnglishLine\":\"\\\"I don't want that... I don't want that...\\\"\"},{\"lineNumber\":142338,\"originalJapaneseLine\":\"「平気、平気。\",\"translatedEnglishLine\":\"\\\"It's okay, it's okay.\"},{\"lineNumber\":142339,\"originalJapaneseLine\":\"　いい子、いい子……」\",\"translatedEnglishLine\":\"Good girl, good girl...\\\"\"},{\"lineNumber\":142340,\"originalJapaneseLine\":\"「うう〜〜〜〜……」\",\"translatedEnglishLine\":\"\\\"Uuuu...\\\"\"}]}","output_parsed":{"translationLines":[{"lineNumber":142291,"originalJapaneseLine":"テーブルの上に広げたノートと睨めっこをしていた。","translatedEnglishLine":"I was staring intently at the notebook spread out on the table."},{"lineNumber":142292,"originalJapaneseLine":"（ベラウェンの壷、10000G、","translatedEnglishLine":"(Beraween Vase, 10,000G,"},{"lineNumber":142293,"originalJapaneseLine":"　スーゲルの絵画、5000G、","translatedEnglishLine":"Sugel Painting, 5,000G,"},{"lineNumber":142294,"originalJapaneseLine":"　銀細工の食器セット、3000G）","translatedEnglishLine":"Silver crafted dinnerware set, 3,000G)"},{"lineNumber":142295,"originalJapaneseLine":"（うーん、持ち運びが容易で","translatedEnglishLine":"(Hmm, something easy to carry"},{"lineNumber":142296,"originalJapaneseLine":"　できるだけ値段が高いものをって考えると、","translatedEnglishLine":"and thinking about something as expensive as possible,"},{"lineNumber":142297,"originalJapaneseLine":"　やっぱり結構限られるなぁ……）","translatedEnglishLine":"it really is quite limited after all...)"},{"lineNumber":142298,"originalJapaneseLine":"（って、よく考えてみたら、","translatedEnglishLine":"(Wait, come to think of it,"},{"lineNumber":142299,"originalJapaneseLine":"　お金ってまだ役に立つのかしら……）","translatedEnglishLine":"is money still useful...?)"},{"lineNumber":142300,"originalJapaneseLine":"「あー、駄目駄目、やっぱこれなし」","translatedEnglishLine":"\"Ah, no no, definitely not this one.\""},{"lineNumber":142301,"originalJapaneseLine":"ペルエレは高級なソファーにだらしなく寝転がった。","translatedEnglishLine":"Puerere flopped lazily onto the luxury sofa."},{"lineNumber":142302,"originalJapaneseLine":"「ペルエレ？　これ、なぁに？」","translatedEnglishLine":"\"Puerere? What's this?\""},{"lineNumber":142303,"originalJapaneseLine":"「もしもの為の逃走計画表」","translatedEnglishLine":"\"An escape plan for emergencies.\""},{"lineNumber":142304,"originalJapaneseLine":"「？　目的地はないの？」","translatedEnglishLine":"\"? You don’t have a destination?\""},{"lineNumber":142305,"originalJapaneseLine":"「まだ未定ー」","translatedEnglishLine":"\"Not decided yet—\""},{"lineNumber":142306,"originalJapaneseLine":"「ヘルマンの田舎だって","translatedEnglishLine":"\"Even Herman's countryside,"},{"lineNumber":142307,"originalJapaneseLine":"　魔物に侵略されてるって言うじゃない。","translatedEnglishLine":"is said to be invaded by monsters, right?"},{"lineNumber":142308,"originalJapaneseLine":"　どこに逃げればいいってのよ」","translatedEnglishLine":"Where exactly would we run to?\""},{"lineNumber":142309,"originalJapaneseLine":"「やっぱ行くなら外国かなー……」","translatedEnglishLine":"\"I guess if we go anywhere, it would have to be abroad...\""},{"lineNumber":142310,"originalJapaneseLine":"ペルエレがごろんと寝返りを打つ。","translatedEnglishLine":"Puerere rolled over with a flop."},{"lineNumber":142311,"originalJapaneseLine":"「…………」","translatedEnglishLine":"\"........\""},{"lineNumber":142312,"originalJapaneseLine":"「……なによ、その顔は」","translatedEnglishLine":"\"...What's with that face?\""},{"lineNumber":142313,"originalJapaneseLine":"「ありがとう、まだ近くにいてくれて」","translatedEnglishLine":"\"Thank you for still being here nearby.\""},{"lineNumber":142314,"originalJapaneseLine":"「どこぞの田舎より、首都のここの方が","translatedEnglishLine":"\"I just figured this place, the capital, is somewhat safer"},{"lineNumber":142315,"originalJapaneseLine":"　ナンボか安全って判断しただけよ」","translatedEnglishLine":"than some random countryside.\""},{"lineNumber":142316,"originalJapaneseLine":"「ほんの少しでもヤバくなったら、","translatedEnglishLine":"\"If it gets even a little dangerous,"},{"lineNumber":142317,"originalJapaneseLine":"　私はトンズラするからね」","translatedEnglishLine":"I'll bolt, okay?\""},{"lineNumber":142318,"originalJapaneseLine":"「うん」","translatedEnglishLine":"\"Yeah.\""},{"lineNumber":142319,"originalJapaneseLine":"「あと、そのとき金目のものも持ってくからね」","translatedEnglishLine":"\"Also, I'll take valuables with me then.\""},{"lineNumber":142320,"originalJapaneseLine":"「うん」","translatedEnglishLine":"\"Yeah.\""},{"lineNumber":142321,"originalJapaneseLine":"「ふふん、ま、構わないわよね。","translatedEnglishLine":"\"Heh heh, well, it's fine, isn't it?"},{"lineNumber":142322,"originalJapaneseLine":"　どうせ魔物のものになるんだから、さ」","translatedEnglishLine":"They're going to become the monsters' possessions anyway.\""},{"lineNumber":142323,"originalJapaneseLine":"「うん」","translatedEnglishLine":"\"Yeah.\""},{"lineNumber":142324,"originalJapaneseLine":"「逃げるとき、あんたも来る？」","translatedEnglishLine":"\"When you run away, will you come with me?\""},{"lineNumber":142325,"originalJapaneseLine":"「うぅん、私はここに残る」","translatedEnglishLine":"\"No, I'm staying here.\""},{"lineNumber":142326,"originalJapaneseLine":"「……言うと思った」","translatedEnglishLine":"\"...I thought you'd say that.\""},{"lineNumber":142327,"originalJapaneseLine":"「それに、きっとランス様が","translatedEnglishLine":"\"Besides, surely Lord Rance"},{"lineNumber":142328,"originalJapaneseLine":"　どうにかしてくれる筈だから……」","translatedEnglishLine":"will do something about it...\""},{"lineNumber":142329,"originalJapaneseLine":"「う〜〜〜〜……」","translatedEnglishLine":"\"Uuuuuu...\""},{"lineNumber":142330,"originalJapaneseLine":"「わっ……」","translatedEnglishLine":"\"Wah...\""},{"lineNumber":142331,"originalJapaneseLine":"ペルエレはシーラの腰にしがみついた。","translatedEnglishLine":"Puerere clung to Sheila's waist."},{"lineNumber":142332,"originalJapaneseLine":"「それならあの緑の馬鹿、早く魔人倒してよぉ、","translatedEnglishLine":"\"Then that green idiot better defeat the demon quickly,"},{"lineNumber":142333,"originalJapaneseLine":"　やだよぉ……魔物に殺されるのはやだよぉ……」","translatedEnglishLine":"I don't want to... I don't want to be killed by monsters...\""},{"lineNumber":142334,"originalJapaneseLine":"「ああ、でも殺されないのかなぁ……","translatedEnglishLine":"\"Ah, but I wonder if I won't be killed..."},{"lineNumber":142335,"originalJapaneseLine":"　ほら、私顔だけはいいじゃない？","translatedEnglishLine":"You know, at least I have a nice face, right?"},{"lineNumber":142336,"originalJapaneseLine":"　きっと毎日のようにレイプされるんだわ……」","translatedEnglishLine":"Surely I'll be raped every single day...\""},{"lineNumber":142337,"originalJapaneseLine":"「いやだよぉ……いやだよぉ……」","translatedEnglishLine":"\"I don't want that... I don't want that...\""},{"lineNumber":142338,"originalJapaneseLine":"「平気、平気。","translatedEnglishLine":"\"It's okay, it's okay."},{"lineNumber":142339,"originalJapaneseLine":"　いい子、いい子……」","translatedEnglishLine":"Good girl, good girl...\""},{"lineNumber":142340,"originalJapaneseLine":"「うう〜〜〜〜……」","translatedEnglishLine":"\"Uuuu...\""}]}}
+{
+    "id": "resp_0af62fe8a888a99a0068f136bf2e88819790ef50682fe2ebac",
+    "object": "response",
+    "created_at": 1760638655,
+    "status": "completed",
+    "background": false,
+    "billing": {
+        "payer": "developer"
+    },
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "gpt-4.1-mini-2025-04-14",
+    "output": [
+        {
+            "id": "msg_0af62fe8a888a99a0068f136bf8f0c81979200b9e1584564a5",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "logprobs": [],
+                    "text": "{\"translationLines\":[{\"lineNumber\":142291,\"originalJapaneseLine\":\"テーブルの上に広げたノートと睨めっこをしていた。\",\"translatedEnglishLine\":\"I was staring intently at the notebook spread out on the table.\"},{\"lineNumber\":142292,\"originalJapaneseLine\":\"（ベラウェンの壷、10000G、\",\"translatedEnglishLine\":\"(Beraween Vase, 10,000G,\"},{\"lineNumber\":142293,\"originalJapaneseLine\":\"　スーゲルの絵画、5000G、\",\"translatedEnglishLine\":\"Sugel Painting, 5,000G,\"},{\"lineNumber\":142294,\"originalJapaneseLine\":\"　銀細工の食器セット、3000G）\",\"translatedEnglishLine\":\"Silver crafted dinnerware set, 3,000G)\"},{\"lineNumber\":142295,\"originalJapaneseLine\":\"（うーん、持ち運びが容易で\",\"translatedEnglishLine\":\"(Hmm, something easy to carry\"},{\"lineNumber\":142296,\"originalJapaneseLine\":\"　できるだけ値段が高いものをって考えると、\",\"translatedEnglishLine\":\"and thinking about something as expensive as possible,\"},{\"lineNumber\":142297,\"originalJapaneseLine\":\"　やっぱり結構限られるなぁ……）\",\"translatedEnglishLine\":\"it really is quite limited after all...)\"},{\"lineNumber\":142298,\"originalJapaneseLine\":\"（って、よく考えてみたら、\",\"translatedEnglishLine\":\"(Wait, come to think of it,\"},{\"lineNumber\":142299,\"originalJapaneseLine\":\"　お金ってまだ役に立つのかしら……）\",\"translatedEnglishLine\":\"is money still useful...?)\"},{\"lineNumber\":142300,\"originalJapaneseLine\":\"「あー、駄目駄目、やっぱこれなし」\",\"translatedEnglishLine\":\"\\\"Ah, no no, definitely not this one.\\\"\"},{\"lineNumber\":142301,\"originalJapaneseLine\":\"ペルエレは高級なソファーにだらしなく寝転がった。\",\"translatedEnglishLine\":\"Puerere flopped lazily onto the luxury sofa.\"},{\"lineNumber\":142302,\"originalJapaneseLine\":\"「ペルエレ？　これ、なぁに？」\",\"translatedEnglishLine\":\"\\\"Puerere? What's this?\\\"\"},{\"lineNumber\":142303,\"originalJapaneseLine\":\"「もしもの為の逃走計画表」\",\"translatedEnglishLine\":\"\\\"An escape plan for emergencies.\\\"\"},{\"lineNumber\":142304,\"originalJapaneseLine\":\"「？　目的地はないの？」\",\"translatedEnglishLine\":\"\\\"? You don’t have a destination?\\\"\"},{\"lineNumber\":142305,\"originalJapaneseLine\":\"「まだ未定ー」\",\"translatedEnglishLine\":\"\\\"Not decided yet—\\\"\"},{\"lineNumber\":142306,\"originalJapaneseLine\":\"「ヘルマンの田舎だって\",\"translatedEnglishLine\":\"\\\"Even Herman's countryside,\"},{\"lineNumber\":142307,\"originalJapaneseLine\":\"　魔物に侵略されてるって言うじゃない。\",\"translatedEnglishLine\":\"is said to be invaded by monsters, right?\"},{\"lineNumber\":142308,\"originalJapaneseLine\":\"　どこに逃げればいいってのよ」\",\"translatedEnglishLine\":\"Where exactly would we run to?\\\"\"},{\"lineNumber\":142309,\"originalJapaneseLine\":\"「やっぱ行くなら外国かなー……」\",\"translatedEnglishLine\":\"\\\"I guess if we go anywhere, it would have to be abroad...\\\"\"},\n\n{\"lineNumber\":142310,\"originalJapaneseLine\":\"ペルエレがごろんと寝返りを打つ。\",\"translatedEnglishLine\":\"Puerere rolled over with a flop.\"},\n\n{\"lineNumber\":142311,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":142312,\"originalJapaneseLine\":\"「……なによ、その顔は」\",\"translatedEnglishLine\":\"\\\"...What's with that face?\\\"\"},{\"lineNumber\":142313,\"originalJapaneseLine\":\"「ありがとう、まだ近くにいてくれて」\",\"translatedEnglishLine\":\"\\\"Thank you for still being here nearby.\\\"\"},{\"lineNumber\":142314,\"originalJapaneseLine\":\"「どこぞの田舎より、首都のここの方が\",\"translatedEnglishLine\":\"\\\"I just figured this place, the capital, is somewhat safer\"},{\"lineNumber\":142315,\"originalJapaneseLine\":\"　ナンボか安全って判断しただけよ」\",\"translatedEnglishLine\":\"than some random countryside.\\\"\"},{\"lineNumber\":142316,\"originalJapaneseLine\":\"「ほんの少しでもヤバくなったら、\",\"translatedEnglishLine\":\"\\\"If it gets even a little dangerous,\"},{\"lineNumber\":142317,\"originalJapaneseLine\":\"　私はトンズラするからね」\",\"translatedEnglishLine\":\"I'll bolt, okay?\\\"\"},{\"lineNumber\":142318,\"originalJapaneseLine\":\"「うん」\",\"translatedEnglishLine\":\"\\\"Yeah.\\\"\"},{\"lineNumber\":142319,\"originalJapaneseLine\":\"「あと、そのとき金目のものも持ってくからね」\",\"translatedEnglishLine\":\"\\\"Also, I'll take valuables with me then.\\\"\"},{\"lineNumber\":142320,\"originalJapaneseLine\":\"「うん」\",\"translatedEnglishLine\":\"\\\"Yeah.\\\"\"},{\"lineNumber\":142321,\"originalJapaneseLine\":\"「ふふん、ま、構わないわよね。\",\"translatedEnglishLine\":\"\\\"Heh heh, well, it's fine, isn't it?\"},{\"lineNumber\":142322,\"originalJapaneseLine\":\"　どうせ魔物のものになるんだから、さ」\",\"translatedEnglishLine\":\"They're going to become the monsters' possessions anyway.\\\"\"},{\"lineNumber\":142323,\"originalJapaneseLine\":\"「うん」\",\"translatedEnglishLine\":\"\\\"Yeah.\\\"\"},{\"lineNumber\":142324,\"originalJapaneseLine\":\"「逃げるとき、あんたも来る？」\",\"translatedEnglishLine\":\"\\\"When you run away, will you come with me?\\\"\"},{\"lineNumber\":142325,\"originalJapaneseLine\":\"「うぅん、私はここに残る」\",\"translatedEnglishLine\":\"\\\"No, I'm staying here.\\\"\"},{\"lineNumber\":142326,\"originalJapaneseLine\":\"「……言うと思った」\",\"translatedEnglishLine\":\"\\\"...I thought you'd say that.\\\"\"},{\"lineNumber\":142327,\"originalJapaneseLine\":\"「それに、きっとランス様が\",\"translatedEnglishLine\":\"\\\"Besides, surely Lord Rance\"},{\"lineNumber\":142328,\"originalJapaneseLine\":\"　どうにかしてくれる筈だから……」\",\"translatedEnglishLine\":\"will do something about it...\\\"\"},{\"lineNumber\":142329,\"originalJapaneseLine\":\"「う〜〜〜〜……」\",\"translatedEnglishLine\":\"\\\"Uuuuuu...\\\"\"},{\"lineNumber\":142330,\"originalJapaneseLine\":\"「わっ……」\",\"translatedEnglishLine\":\"\\\"Wah...\\\"\"},{\"lineNumber\":142331,\"originalJapaneseLine\":\"ペルエレはシーラの腰にしがみついた。\",\"translatedEnglishLine\":\"Puerere clung to Sheila's waist.\"},{\"lineNumber\":142332,\"originalJapaneseLine\":\"「それならあの緑の馬鹿、早く魔人倒してよぉ、\",\"translatedEnglishLine\":\"\\\"Then that green idiot better defeat the demon quickly,\"},{\"lineNumber\":142333,\"originalJapaneseLine\":\"　やだよぉ……魔物に殺されるのはやだよぉ……」\",\"translatedEnglishLine\":\"I don't want to... I don't want to be killed by monsters...\\\"\"},{\"lineNumber\":142334,\"originalJapaneseLine\":\"「ああ、でも殺されないのかなぁ……\",\"translatedEnglishLine\":\"\\\"Ah, but I wonder if I won't be killed...\"},{\"lineNumber\":142335,\"originalJapaneseLine\":\"　ほら、私顔だけはいいじゃない？\",\"translatedEnglishLine\":\"You know, at least I have a nice face, right?\"},{\"lineNumber\":142336,\"originalJapaneseLine\":\"　きっと毎日のようにレイプされるんだわ……」\",\"translatedEnglishLine\":\"Surely I'll be raped every single day...\\\"\"},{\"lineNumber\":142337,\"originalJapaneseLine\":\"「いやだよぉ……いやだよぉ……」\",\"translatedEnglishLine\":\"\\\"I don't want that... I don't want that...\\\"\"},{\"lineNumber\":142338,\"originalJapaneseLine\":\"「平気、平気。\",\"translatedEnglishLine\":\"\\\"It's okay, it's okay.\"},{\"lineNumber\":142339,\"originalJapaneseLine\":\"　いい子、いい子……」\",\"translatedEnglishLine\":\"Good girl, good girl...\\\"\"},{\"lineNumber\":142340,\"originalJapaneseLine\":\"「うう〜〜〜〜……」\",\"translatedEnglishLine\":\"\\\"Uuuu...\\\"\"}]}",
+                    "parsed": {
+                        "translationLines": [
+                            {
+                                "lineNumber": 142291,
+                                "originalJapaneseLine": "テーブルの上に広げたノートと睨めっこをしていた。",
+                                "translatedEnglishLine": "I was staring intently at the notebook spread out on the table."
+                            },
+                            {
+                                "lineNumber": 142292,
+                                "originalJapaneseLine": "（ベラウェンの壷、10000G、",
+                                "translatedEnglishLine": "(Beraween Vase, 10,000G,"
+                            },
+                            {
+                                "lineNumber": 142293,
+                                "originalJapaneseLine": "　スーゲルの絵画、5000G、",
+                                "translatedEnglishLine": "Sugel Painting, 5,000G,"
+                            },
+                            {
+                                "lineNumber": 142294,
+                                "originalJapaneseLine": "　銀細工の食器セット、3000G）",
+                                "translatedEnglishLine": "Silver crafted dinnerware set, 3,000G)"
+                            },
+                            {
+                                "lineNumber": 142295,
+                                "originalJapaneseLine": "（うーん、持ち運びが容易で",
+                                "translatedEnglishLine": "(Hmm, something easy to carry"
+                            },
+                            {
+                                "lineNumber": 142296,
+                                "originalJapaneseLine": "　できるだけ値段が高いものをって考えると、",
+                                "translatedEnglishLine": "and thinking about something as expensive as possible,"
+                            },
+                            {
+                                "lineNumber": 142297,
+                                "originalJapaneseLine": "　やっぱり結構限られるなぁ……）",
+                                "translatedEnglishLine": "it really is quite limited after all...)"
+                            },
+                            {
+                                "lineNumber": 142298,
+                                "originalJapaneseLine": "（って、よく考えてみたら、",
+                                "translatedEnglishLine": "(Wait, come to think of it,"
+                            },
+                            {
+                                "lineNumber": 142299,
+                                "originalJapaneseLine": "　お金ってまだ役に立つのかしら……）",
+                                "translatedEnglishLine": "is money still useful...?)"
+                            },
+                            {
+                                "lineNumber": 142300,
+                                "originalJapaneseLine": "「あー、駄目駄目、やっぱこれなし」",
+                                "translatedEnglishLine": "\"Ah, no no, definitely not this one.\""
+                            },
+                            {
+                                "lineNumber": 142301,
+                                "originalJapaneseLine": "ペルエレは高級なソファーにだらしなく寝転がった。",
+                                "translatedEnglishLine": "Puerere flopped lazily onto the luxury sofa."
+                            },
+                            {
+                                "lineNumber": 142302,
+                                "originalJapaneseLine": "「ペルエレ？　これ、なぁに？」",
+                                "translatedEnglishLine": "\"Puerere? What's this?\""
+                            },
+                            {
+                                "lineNumber": 142303,
+                                "originalJapaneseLine": "「もしもの為の逃走計画表」",
+                                "translatedEnglishLine": "\"An escape plan for emergencies.\""
+                            },
+                            {
+                                "lineNumber": 142304,
+                                "originalJapaneseLine": "「？　目的地はないの？」",
+                                "translatedEnglishLine": "\"? You don’t have a destination?\""
+                            },
+                            {
+                                "lineNumber": 142305,
+                                "originalJapaneseLine": "「まだ未定ー」",
+                                "translatedEnglishLine": "\"Not decided yet—\""
+                            },
+                            {
+                                "lineNumber": 142306,
+                                "originalJapaneseLine": "「ヘルマンの田舎だって",
+                                "translatedEnglishLine": "\"Even Herman's countryside,"
+                            },
+                            {
+                                "lineNumber": 142307,
+                                "originalJapaneseLine": "　魔物に侵略されてるって言うじゃない。",
+                                "translatedEnglishLine": "is said to be invaded by monsters, right?"
+                            },
+                            {
+                                "lineNumber": 142308,
+                                "originalJapaneseLine": "　どこに逃げればいいってのよ」",
+                                "translatedEnglishLine": "Where exactly would we run to?\""
+                            },
+                            {
+                                "lineNumber": 142309,
+                                "originalJapaneseLine": "「やっぱ行くなら外国かなー……」",
+                                "translatedEnglishLine": "\"I guess if we go anywhere, it would have to be abroad...\""
+                            },
+                            {
+                                "lineNumber": 142310,
+                                "originalJapaneseLine": "ペルエレがごろんと寝返りを打つ。",
+                                "translatedEnglishLine": "Puerere rolled over with a flop."
+                            },
+                            {
+                                "lineNumber": 142311,
+                                "originalJapaneseLine": "「…………」",
+                                "translatedEnglishLine": "\"........\""
+                            },
+                            {
+                                "lineNumber": 142312,
+                                "originalJapaneseLine": "「……なによ、その顔は」",
+                                "translatedEnglishLine": "\"...What's with that face?\""
+                            },
+                            {
+                                "lineNumber": 142313,
+                                "originalJapaneseLine": "「ありがとう、まだ近くにいてくれて」",
+                                "translatedEnglishLine": "\"Thank you for still being here nearby.\""
+                            },
+                            {
+                                "lineNumber": 142314,
+                                "originalJapaneseLine": "「どこぞの田舎より、首都のここの方が",
+                                "translatedEnglishLine": "\"I just figured this place, the capital, is somewhat safer"
+                            },
+                            {
+                                "lineNumber": 142315,
+                                "originalJapaneseLine": "　ナンボか安全って判断しただけよ」",
+                                "translatedEnglishLine": "than some random countryside.\""
+                            },
+                            {
+                                "lineNumber": 142316,
+                                "originalJapaneseLine": "「ほんの少しでもヤバくなったら、",
+                                "translatedEnglishLine": "\"If it gets even a little dangerous,"
+                            },
+                            {
+                                "lineNumber": 142317,
+                                "originalJapaneseLine": "　私はトンズラするからね」",
+                                "translatedEnglishLine": "I'll bolt, okay?\""
+                            },
+                            {
+                                "lineNumber": 142318,
+                                "originalJapaneseLine": "「うん」",
+                                "translatedEnglishLine": "\"Yeah.\""
+                            },
+                            {
+                                "lineNumber": 142319,
+                                "originalJapaneseLine": "「あと、そのとき金目のものも持ってくからね」",
+                                "translatedEnglishLine": "\"Also, I'll take valuables with me then.\""
+                            },
+                            {
+                                "lineNumber": 142320,
+                                "originalJapaneseLine": "「うん」",
+                                "translatedEnglishLine": "\"Yeah.\""
+                            },
+                            {
+                                "lineNumber": 142321,
+                                "originalJapaneseLine": "「ふふん、ま、構わないわよね。",
+                                "translatedEnglishLine": "\"Heh heh, well, it's fine, isn't it?"
+                            },
+                            {
+                                "lineNumber": 142322,
+                                "originalJapaneseLine": "　どうせ魔物のものになるんだから、さ」",
+                                "translatedEnglishLine": "They're going to become the monsters' possessions anyway.\""
+                            },
+                            {
+                                "lineNumber": 142323,
+                                "originalJapaneseLine": "「うん」",
+                                "translatedEnglishLine": "\"Yeah.\""
+                            },
+                            {
+                                "lineNumber": 142324,
+                                "originalJapaneseLine": "「逃げるとき、あんたも来る？」",
+                                "translatedEnglishLine": "\"When you run away, will you come with me?\""
+                            },
+                            {
+                                "lineNumber": 142325,
+                                "originalJapaneseLine": "「うぅん、私はここに残る」",
+                                "translatedEnglishLine": "\"No, I'm staying here.\""
+                            },
+                            {
+                                "lineNumber": 142326,
+                                "originalJapaneseLine": "「……言うと思った」",
+                                "translatedEnglishLine": "\"...I thought you'd say that.\""
+                            },
+                            {
+                                "lineNumber": 142327,
+                                "originalJapaneseLine": "「それに、きっとランス様が",
+                                "translatedEnglishLine": "\"Besides, surely Lord Rance"
+                            },
+                            {
+                                "lineNumber": 142328,
+                                "originalJapaneseLine": "　どうにかしてくれる筈だから……」",
+                                "translatedEnglishLine": "will do something about it...\""
+                            },
+                            {
+                                "lineNumber": 142329,
+                                "originalJapaneseLine": "「う〜〜〜〜……」",
+                                "translatedEnglishLine": "\"Uuuuuu...\""
+                            },
+                            {
+                                "lineNumber": 142330,
+                                "originalJapaneseLine": "「わっ……」",
+                                "translatedEnglishLine": "\"Wah...\""
+                            },
+                            {
+                                "lineNumber": 142331,
+                                "originalJapaneseLine": "ペルエレはシーラの腰にしがみついた。",
+                                "translatedEnglishLine": "Puerere clung to Sheila's waist."
+                            },
+                            {
+                                "lineNumber": 142332,
+                                "originalJapaneseLine": "「それならあの緑の馬鹿、早く魔人倒してよぉ、",
+                                "translatedEnglishLine": "\"Then that green idiot better defeat the demon quickly,"
+                            },
+                            {
+                                "lineNumber": 142333,
+                                "originalJapaneseLine": "　やだよぉ……魔物に殺されるのはやだよぉ……」",
+                                "translatedEnglishLine": "I don't want to... I don't want to be killed by monsters...\""
+                            },
+                            {
+                                "lineNumber": 142334,
+                                "originalJapaneseLine": "「ああ、でも殺されないのかなぁ……",
+                                "translatedEnglishLine": "\"Ah, but I wonder if I won't be killed..."
+                            },
+                            {
+                                "lineNumber": 142335,
+                                "originalJapaneseLine": "　ほら、私顔だけはいいじゃない？",
+                                "translatedEnglishLine": "You know, at least I have a nice face, right?"
+                            },
+                            {
+                                "lineNumber": 142336,
+                                "originalJapaneseLine": "　きっと毎日のようにレイプされるんだわ……」",
+                                "translatedEnglishLine": "Surely I'll be raped every single day...\""
+                            },
+                            {
+                                "lineNumber": 142337,
+                                "originalJapaneseLine": "「いやだよぉ……いやだよぉ……」",
+                                "translatedEnglishLine": "\"I don't want that... I don't want that...\""
+                            },
+                            {
+                                "lineNumber": 142338,
+                                "originalJapaneseLine": "「平気、平気。",
+                                "translatedEnglishLine": "\"It's okay, it's okay."
+                            },
+                            {
+                                "lineNumber": 142339,
+                                "originalJapaneseLine": "　いい子、いい子……」",
+                                "translatedEnglishLine": "Good girl, good girl...\""
+                            },
+                            {
+                                "lineNumber": 142340,
+                                "originalJapaneseLine": "「うう〜〜〜〜……」",
+                                "translatedEnglishLine": "\"Uuuu...\""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": null,
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": true,
+    "temperature": 1,
+    "text": {
+        "format": {
+            "type": "json_schema",
+            "description": null,
+            "name": "TranslationJSONOutput",
+            "schema": {
+                "name": "Japanese lines translation to English",
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "translationLines"
+                ],
+                "properties": {
+                    "translationLines": {
+                        "type": "array",
+                        "description": "Array of objects, each representing a line from the input",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": false,
+                            "required": [
+                                "lineNumber",
+                                "originalJapaneseLine",
+                                "translatedEnglishLine"
+                            ],
+                            "properties": {
+                                "lineNumber": {
+                                    "type": "integer",
+                                    "description": "1-based",
+                                    "nullable": false
+                                },
+                                "originalJapaneseLine": {
+                                    "type": "string",
+                                    "description": "The original line in Japanese exactly as it was in the input",
+                                    "nullable": false
+                                },
+                                "translatedEnglishLine": {
+                                    "type": "string",
+                                    "description": "The original line translated to English",
+                                    "nullable": false
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "strict": true
+        },
+        "verbosity": "medium"
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_logprobs": 0,
+    "top_p": 1,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 1463,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 1853,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 3316
+    },
+    "user": null,
+    "metadata": {},
+    "output_text": "{\"translationLines\":[{\"lineNumber\":142291,\"originalJapaneseLine\":\"テーブルの上に広げたノートと睨めっこをしていた。\",\"translatedEnglishLine\":\"I was staring intently at the notebook spread out on the table.\"},{\"lineNumber\":142292,\"originalJapaneseLine\":\"（ベラウェンの壷、10000G、\",\"translatedEnglishLine\":\"(Beraween Vase, 10,000G,\"},{\"lineNumber\":142293,\"originalJapaneseLine\":\"　スーゲルの絵画、5000G、\",\"translatedEnglishLine\":\"Sugel Painting, 5,000G,\"},{\"lineNumber\":142294,\"originalJapaneseLine\":\"　銀細工の食器セット、3000G）\",\"translatedEnglishLine\":\"Silver crafted dinnerware set, 3,000G)\"},{\"lineNumber\":142295,\"originalJapaneseLine\":\"（うーん、持ち運びが容易で\",\"translatedEnglishLine\":\"(Hmm, something easy to carry\"},{\"lineNumber\":142296,\"originalJapaneseLine\":\"　できるだけ値段が高いものをって考えると、\",\"translatedEnglishLine\":\"and thinking about something as expensive as possible,\"},{\"lineNumber\":142297,\"originalJapaneseLine\":\"　やっぱり結構限られるなぁ……）\",\"translatedEnglishLine\":\"it really is quite limited after all...)\"},{\"lineNumber\":142298,\"originalJapaneseLine\":\"（って、よく考えてみたら、\",\"translatedEnglishLine\":\"(Wait, come to think of it,\"},{\"lineNumber\":142299,\"originalJapaneseLine\":\"　お金ってまだ役に立つのかしら……）\",\"translatedEnglishLine\":\"is money still useful...?)\"},{\"lineNumber\":142300,\"originalJapaneseLine\":\"「あー、駄目駄目、やっぱこれなし」\",\"translatedEnglishLine\":\"\\\"Ah, no no, definitely not this one.\\\"\"},{\"lineNumber\":142301,\"originalJapaneseLine\":\"ペルエレは高級なソファーにだらしなく寝転がった。\",\"translatedEnglishLine\":\"Puerere flopped lazily onto the luxury sofa.\"},{\"lineNumber\":142302,\"originalJapaneseLine\":\"「ペルエレ？　これ、なぁに？」\",\"translatedEnglishLine\":\"\\\"Puerere? What's this?\\\"\"},{\"lineNumber\":142303,\"originalJapaneseLine\":\"「もしもの為の逃走計画表」\",\"translatedEnglishLine\":\"\\\"An escape plan for emergencies.\\\"\"},{\"lineNumber\":142304,\"originalJapaneseLine\":\"「？　目的地はないの？」\",\"translatedEnglishLine\":\"\\\"? You don’t have a destination?\\\"\"},{\"lineNumber\":142305,\"originalJapaneseLine\":\"「まだ未定ー」\",\"translatedEnglishLine\":\"\\\"Not decided yet—\\\"\"},{\"lineNumber\":142306,\"originalJapaneseLine\":\"「ヘルマンの田舎だって\",\"translatedEnglishLine\":\"\\\"Even Herman's countryside,\"},{\"lineNumber\":142307,\"originalJapaneseLine\":\"　魔物に侵略されてるって言うじゃない。\",\"translatedEnglishLine\":\"is said to be invaded by monsters, right?\"},{\"lineNumber\":142308,\"originalJapaneseLine\":\"　どこに逃げればいいってのよ」\",\"translatedEnglishLine\":\"Where exactly would we run to?\\\"\"},{\"lineNumber\":142309,\"originalJapaneseLine\":\"「やっぱ行くなら外国かなー……」\",\"translatedEnglishLine\":\"\\\"I guess if we go anywhere, it would have to be abroad...\\\"\"},\n\n{\"lineNumber\":142310,\"originalJapaneseLine\":\"ペルエレがごろんと寝返りを打つ。\",\"translatedEnglishLine\":\"Puerere rolled over with a flop.\"},\n\n{\"lineNumber\":142311,\"originalJapaneseLine\":\"「…………」\",\"translatedEnglishLine\":\"\\\"........\\\"\"},{\"lineNumber\":142312,\"originalJapaneseLine\":\"「……なによ、その顔は」\",\"translatedEnglishLine\":\"\\\"...What's with that face?\\\"\"},{\"lineNumber\":142313,\"originalJapaneseLine\":\"「ありがとう、まだ近くにいてくれて」\",\"translatedEnglishLine\":\"\\\"Thank you for still being here nearby.\\\"\"},{\"lineNumber\":142314,\"originalJapaneseLine\":\"「どこぞの田舎より、首都のここの方が\",\"translatedEnglishLine\":\"\\\"I just figured this place, the capital, is somewhat safer\"},{\"lineNumber\":142315,\"originalJapaneseLine\":\"　ナンボか安全って判断しただけよ」\",\"translatedEnglishLine\":\"than some random countryside.\\\"\"},{\"lineNumber\":142316,\"originalJapaneseLine\":\"「ほんの少しでもヤバくなったら、\",\"translatedEnglishLine\":\"\\\"If it gets even a little dangerous,\"},{\"lineNumber\":142317,\"originalJapaneseLine\":\"　私はトンズラするからね」\",\"translatedEnglishLine\":\"I'll bolt, okay?\\\"\"},{\"lineNumber\":142318,\"originalJapaneseLine\":\"「うん」\",\"translatedEnglishLine\":\"\\\"Yeah.\\\"\"},{\"lineNumber\":142319,\"originalJapaneseLine\":\"「あと、そのとき金目のものも持ってくからね」\",\"translatedEnglishLine\":\"\\\"Also, I'll take valuables with me then.\\\"\"},{\"lineNumber\":142320,\"originalJapaneseLine\":\"「うん」\",\"translatedEnglishLine\":\"\\\"Yeah.\\\"\"},{\"lineNumber\":142321,\"originalJapaneseLine\":\"「ふふん、ま、構わないわよね。\",\"translatedEnglishLine\":\"\\\"Heh heh, well, it's fine, isn't it?\"},{\"lineNumber\":142322,\"originalJapaneseLine\":\"　どうせ魔物のものになるんだから、さ」\",\"translatedEnglishLine\":\"They're going to become the monsters' possessions anyway.\\\"\"},{\"lineNumber\":142323,\"originalJapaneseLine\":\"「うん」\",\"translatedEnglishLine\":\"\\\"Yeah.\\\"\"},{\"lineNumber\":142324,\"originalJapaneseLine\":\"「逃げるとき、あんたも来る？」\",\"translatedEnglishLine\":\"\\\"When you run away, will you come with me?\\\"\"},{\"lineNumber\":142325,\"originalJapaneseLine\":\"「うぅん、私はここに残る」\",\"translatedEnglishLine\":\"\\\"No, I'm staying here.\\\"\"},{\"lineNumber\":142326,\"originalJapaneseLine\":\"「……言うと思った」\",\"translatedEnglishLine\":\"\\\"...I thought you'd say that.\\\"\"},{\"lineNumber\":142327,\"originalJapaneseLine\":\"「それに、きっとランス様が\",\"translatedEnglishLine\":\"\\\"Besides, surely Lord Rance\"},{\"lineNumber\":142328,\"originalJapaneseLine\":\"　どうにかしてくれる筈だから……」\",\"translatedEnglishLine\":\"will do something about it...\\\"\"},{\"lineNumber\":142329,\"originalJapaneseLine\":\"「う〜〜〜〜……」\",\"translatedEnglishLine\":\"\\\"Uuuuuu...\\\"\"},{\"lineNumber\":142330,\"originalJapaneseLine\":\"「わっ……」\",\"translatedEnglishLine\":\"\\\"Wah...\\\"\"},{\"lineNumber\":142331,\"originalJapaneseLine\":\"ペルエレはシーラの腰にしがみついた。\",\"translatedEnglishLine\":\"Puerere clung to Sheila's waist.\"},{\"lineNumber\":142332,\"originalJapaneseLine\":\"「それならあの緑の馬鹿、早く魔人倒してよぉ、\",\"translatedEnglishLine\":\"\\\"Then that green idiot better defeat the demon quickly,\"},{\"lineNumber\":142333,\"originalJapaneseLine\":\"　やだよぉ……魔物に殺されるのはやだよぉ……」\",\"translatedEnglishLine\":\"I don't want to... I don't want to be killed by monsters...\\\"\"},{\"lineNumber\":142334,\"originalJapaneseLine\":\"「ああ、でも殺されないのかなぁ……\",\"translatedEnglishLine\":\"\\\"Ah, but I wonder if I won't be killed...\"},{\"lineNumber\":142335,\"originalJapaneseLine\":\"　ほら、私顔だけはいいじゃない？\",\"translatedEnglishLine\":\"You know, at least I have a nice face, right?\"},{\"lineNumber\":142336,\"originalJapaneseLine\":\"　きっと毎日のようにレイプされるんだわ……」\",\"translatedEnglishLine\":\"Surely I'll be raped every single day...\\\"\"},{\"lineNumber\":142337,\"originalJapaneseLine\":\"「いやだよぉ……いやだよぉ……」\",\"translatedEnglishLine\":\"\\\"I don't want that... I don't want that...\\\"\"},{\"lineNumber\":142338,\"originalJapaneseLine\":\"「平気、平気。\",\"translatedEnglishLine\":\"\\\"It's okay, it's okay.\"},{\"lineNumber\":142339,\"originalJapaneseLine\":\"　いい子、いい子……」\",\"translatedEnglishLine\":\"Good girl, good girl...\\\"\"},{\"lineNumber\":142340,\"originalJapaneseLine\":\"「うう〜〜〜〜……」\",\"translatedEnglishLine\":\"\\\"Uuuu...\\\"\"}]}",
+    "output_parsed": {
+        "translationLines": [
+            {
+                "lineNumber": 142291,
+                "originalJapaneseLine": "テーブルの上に広げたノートと睨めっこをしていた。",
+                "translatedEnglishLine": "I was staring intently at the notebook spread out on the table."
+            },
+            {
+                "lineNumber": 142292,
+                "originalJapaneseLine": "（ベラウェンの壷、10000G、",
+                "translatedEnglishLine": "(Beraween Vase, 10,000G,"
+            },
+            {
+                "lineNumber": 142293,
+                "originalJapaneseLine": "　スーゲルの絵画、5000G、",
+                "translatedEnglishLine": "Sugel Painting, 5,000G,"
+            },
+            {
+                "lineNumber": 142294,
+                "originalJapaneseLine": "　銀細工の食器セット、3000G）",
+                "translatedEnglishLine": "Silver crafted dinnerware set, 3,000G)"
+            },
+            {
+                "lineNumber": 142295,
+                "originalJapaneseLine": "（うーん、持ち運びが容易で",
+                "translatedEnglishLine": "(Hmm, something easy to carry"
+            },
+            {
+                "lineNumber": 142296,
+                "originalJapaneseLine": "　できるだけ値段が高いものをって考えると、",
+                "translatedEnglishLine": "and thinking about something as expensive as possible,"
+            },
+            {
+                "lineNumber": 142297,
+                "originalJapaneseLine": "　やっぱり結構限られるなぁ……）",
+                "translatedEnglishLine": "it really is quite limited after all...)"
+            },
+            {
+                "lineNumber": 142298,
+                "originalJapaneseLine": "（って、よく考えてみたら、",
+                "translatedEnglishLine": "(Wait, come to think of it,"
+            },
+            {
+                "lineNumber": 142299,
+                "originalJapaneseLine": "　お金ってまだ役に立つのかしら……）",
+                "translatedEnglishLine": "is money still useful...?)"
+            },
+            {
+                "lineNumber": 142300,
+                "originalJapaneseLine": "「あー、駄目駄目、やっぱこれなし」",
+                "translatedEnglishLine": "\"Ah, no no, definitely not this one.\""
+            },
+            {
+                "lineNumber": 142301,
+                "originalJapaneseLine": "ペルエレは高級なソファーにだらしなく寝転がった。",
+                "translatedEnglishLine": "Puerere flopped lazily onto the luxury sofa."
+            },
+            {
+                "lineNumber": 142302,
+                "originalJapaneseLine": "「ペルエレ？　これ、なぁに？」",
+                "translatedEnglishLine": "\"Puerere? What's this?\""
+            },
+            {
+                "lineNumber": 142303,
+                "originalJapaneseLine": "「もしもの為の逃走計画表」",
+                "translatedEnglishLine": "\"An escape plan for emergencies.\""
+            },
+            {
+                "lineNumber": 142304,
+                "originalJapaneseLine": "「？　目的地はないの？」",
+                "translatedEnglishLine": "\"? You don’t have a destination?\""
+            },
+            {
+                "lineNumber": 142305,
+                "originalJapaneseLine": "「まだ未定ー」",
+                "translatedEnglishLine": "\"Not decided yet—\""
+            },
+            {
+                "lineNumber": 142306,
+                "originalJapaneseLine": "「ヘルマンの田舎だって",
+                "translatedEnglishLine": "\"Even Herman's countryside,"
+            },
+            {
+                "lineNumber": 142307,
+                "originalJapaneseLine": "　魔物に侵略されてるって言うじゃない。",
+                "translatedEnglishLine": "is said to be invaded by monsters, right?"
+            },
+            {
+                "lineNumber": 142308,
+                "originalJapaneseLine": "　どこに逃げればいいってのよ」",
+                "translatedEnglishLine": "Where exactly would we run to?\""
+            },
+            {
+                "lineNumber": 142309,
+                "originalJapaneseLine": "「やっぱ行くなら外国かなー……」",
+                "translatedEnglishLine": "\"I guess if we go anywhere, it would have to be abroad...\""
+            },
+            {
+                "lineNumber": 142310,
+                "originalJapaneseLine": "ペルエレがごろんと寝返りを打つ。",
+                "translatedEnglishLine": "Puerere rolled over with a flop."
+            },
+            {
+                "lineNumber": 142311,
+                "originalJapaneseLine": "「…………」",
+                "translatedEnglishLine": "\"........\""
+            },
+            {
+                "lineNumber": 142312,
+                "originalJapaneseLine": "「……なによ、その顔は」",
+                "translatedEnglishLine": "\"...What's with that face?\""
+            },
+            {
+                "lineNumber": 142313,
+                "originalJapaneseLine": "「ありがとう、まだ近くにいてくれて」",
+                "translatedEnglishLine": "\"Thank you for still being here nearby.\""
+            },
+            {
+                "lineNumber": 142314,
+                "originalJapaneseLine": "「どこぞの田舎より、首都のここの方が",
+                "translatedEnglishLine": "\"I just figured this place, the capital, is somewhat safer"
+            },
+            {
+                "lineNumber": 142315,
+                "originalJapaneseLine": "　ナンボか安全って判断しただけよ」",
+                "translatedEnglishLine": "than some random countryside.\""
+            },
+            {
+                "lineNumber": 142316,
+                "originalJapaneseLine": "「ほんの少しでもヤバくなったら、",
+                "translatedEnglishLine": "\"If it gets even a little dangerous,"
+            },
+            {
+                "lineNumber": 142317,
+                "originalJapaneseLine": "　私はトンズラするからね」",
+                "translatedEnglishLine": "I'll bolt, okay?\""
+            },
+            {
+                "lineNumber": 142318,
+                "originalJapaneseLine": "「うん」",
+                "translatedEnglishLine": "\"Yeah.\""
+            },
+            {
+                "lineNumber": 142319,
+                "originalJapaneseLine": "「あと、そのとき金目のものも持ってくからね」",
+                "translatedEnglishLine": "\"Also, I'll take valuables with me then.\""
+            },
+            {
+                "lineNumber": 142320,
+                "originalJapaneseLine": "「うん」",
+                "translatedEnglishLine": "\"Yeah.\""
+            },
+            {
+                "lineNumber": 142321,
+                "originalJapaneseLine": "「ふふん、ま、構わないわよね。",
+                "translatedEnglishLine": "\"Heh heh, well, it's fine, isn't it?"
+            },
+            {
+                "lineNumber": 142322,
+                "originalJapaneseLine": "　どうせ魔物のものになるんだから、さ」",
+                "translatedEnglishLine": "They're going to become the monsters' possessions anyway.\""
+            },
+            {
+                "lineNumber": 142323,
+                "originalJapaneseLine": "「うん」",
+                "translatedEnglishLine": "\"Yeah.\""
+            },
+            {
+                "lineNumber": 142324,
+                "originalJapaneseLine": "「逃げるとき、あんたも来る？」",
+                "translatedEnglishLine": "\"When you run away, will you come with me?\""
+            },
+            {
+                "lineNumber": 142325,
+                "originalJapaneseLine": "「うぅん、私はここに残る」",
+                "translatedEnglishLine": "\"No, I'm staying here.\""
+            },
+            {
+                "lineNumber": 142326,
+                "originalJapaneseLine": "「……言うと思った」",
+                "translatedEnglishLine": "\"...I thought you'd say that.\""
+            },
+            {
+                "lineNumber": 142327,
+                "originalJapaneseLine": "「それに、きっとランス様が",
+                "translatedEnglishLine": "\"Besides, surely Lord Rance"
+            },
+            {
+                "lineNumber": 142328,
+                "originalJapaneseLine": "　どうにかしてくれる筈だから……」",
+                "translatedEnglishLine": "will do something about it...\""
+            },
+            {
+                "lineNumber": 142329,
+                "originalJapaneseLine": "「う〜〜〜〜……」",
+                "translatedEnglishLine": "\"Uuuuuu...\""
+            },
+            {
+                "lineNumber": 142330,
+                "originalJapaneseLine": "「わっ……」",
+                "translatedEnglishLine": "\"Wah...\""
+            },
+            {
+                "lineNumber": 142331,
+                "originalJapaneseLine": "ペルエレはシーラの腰にしがみついた。",
+                "translatedEnglishLine": "Puerere clung to Sheila's waist."
+            },
+            {
+                "lineNumber": 142332,
+                "originalJapaneseLine": "「それならあの緑の馬鹿、早く魔人倒してよぉ、",
+                "translatedEnglishLine": "\"Then that green idiot better defeat the demon quickly,"
+            },
+            {
+                "lineNumber": 142333,
+                "originalJapaneseLine": "　やだよぉ……魔物に殺されるのはやだよぉ……」",
+                "translatedEnglishLine": "I don't want to... I don't want to be killed by monsters...\""
+            },
+            {
+                "lineNumber": 142334,
+                "originalJapaneseLine": "「ああ、でも殺されないのかなぁ……",
+                "translatedEnglishLine": "\"Ah, but I wonder if I won't be killed..."
+            },
+            {
+                "lineNumber": 142335,
+                "originalJapaneseLine": "　ほら、私顔だけはいいじゃない？",
+                "translatedEnglishLine": "You know, at least I have a nice face, right?"
+            },
+            {
+                "lineNumber": 142336,
+                "originalJapaneseLine": "　きっと毎日のようにレイプされるんだわ……」",
+                "translatedEnglishLine": "Surely I'll be raped every single day...\""
+            },
+            {
+                "lineNumber": 142337,
+                "originalJapaneseLine": "「いやだよぉ……いやだよぉ……」",
+                "translatedEnglishLine": "\"I don't want that... I don't want that...\""
+            },
+            {
+                "lineNumber": 142338,
+                "originalJapaneseLine": "「平気、平気。",
+                "translatedEnglishLine": "\"It's okay, it's okay."
+            },
+            {
+                "lineNumber": 142339,
+                "originalJapaneseLine": "　いい子、いい子……」",
+                "translatedEnglishLine": "Good girl, good girl...\""
+            },
+            {
+                "lineNumber": 142340,
+                "originalJapaneseLine": "「うう〜〜〜〜……」",
+                "translatedEnglishLine": "\"Uuuu...\""
+            }
+        ]
+    }
+}
