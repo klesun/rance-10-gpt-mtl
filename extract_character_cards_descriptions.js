@@ -4257,7 +4257,7 @@ Not of combat, but of calligraphy.\tNot of combat, but calligraphy.
 モンスター\tMonster
 血も凍る零下３０度の氷雪世界\tAn icy world of minus 30 degrees Celsius that freezes the blood.
 チューリップも凍る\tEven tulips freeze.
-ザカリテ\tZakarite
+ザカリテ\tXacalite
 はぐれ悪魔\tStray Demon
 悪魔２\tDemon 2
 「契約の椅子」というマジックアイテムに潜むはぐれ悪魔\tA stray demon lurking inside the magic item called the 'Contract Chair'.

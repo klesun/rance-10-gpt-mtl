@@ -113,7 +113,13 @@ s[3282] = "<Target> took {255,255,0}<Damage>{} of damage！<Any>"
 ; SceneBattle@ShowDefaultDamageLog
 s[3282] = "<Target> took {255,255,0}<Damage>{} of damage！<Any>"
 
+; monster names
 s[13229] = "Round Ones"
+s[13506] = "Green Slime"
+s[13507] = "Blue Slime"
+s[13508] = "Red Slime"
+s[13477] = "Xacalite"
+
 s[4008] = "Anti-Demon Squad"
 
 ; SceneBattle@ShowMiss
@@ -174,9 +180,13 @@ s[3792] = "HP and damage values are no longer displayed"
 s[3793] = "Dies instantly when reaching zero"
 s[3794] = "Recovered AP decreases by 1"
 
-
+; Buffs
 s[12461] = "MoRale"
 s[12572] = "Meal Ticket Held"
+s[12602] = "Green Body"
+s[12603] = "Blue Body"
+s[12604] = "Red Body"
+s[12632] = "Reflective"
 
 ; HastleResult@0
 s[3905] = "<Player> got fired up and jumped out！"
