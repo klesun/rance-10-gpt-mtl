@@ -17,6 +17,8 @@ s[4159] = "HP/Skills|Refill|Yay"
 ; SaveObjectView@OnButtonBaseClick
 s[3544] = "Load this save？"
 
+s[2360] = "Do you want to quit the game？\n\n※Unsaved data will be lost."
+
 ; SceneCommonMenu@LoadSnapShot
 s[2608] = "The battle will restart from the beginning. Are you sure?"
 
@@ -155,6 +157,9 @@ s[3275] = "<Target> recovered {0,255,160}<Damage>{} HP！"
 ; SceneBattle@ShowLogPreReflection
 s[3284] = "<Target> counter-attacks！"
 
+; SceneBattle@ProcessCurse
+s[3300] = "<BadCondition> debuff was placed！"
+
 ; SceneBattle@ProcessPoisonDamage
 s[3298] = "<BadCondition> deals damage！"
 
@@ -165,20 +170,20 @@ s[3269] = "<Target> is asleep and cannot act！"
 s[3269] = "<Target> is asleep and cannot act！"
 
 ; BadCondition::GetDescFromType
-s[3781] = "Causes action failure"
-s[3782] = "Attack power decreases, making the unit more vulnerable to damage"
-s[3783] = "Takes damage every round"
+s[3781] = "Causes action failuRe"
+s[3782] = "Attack poweR decReases, making the unit moRe vulneRable to damage"
+s[3783] = "Takes damage eveRy Round"
 s[3784] = "Takes damage when the effect ends"
-s[3785] = "Accuracy decreases"
-s[3786] = "HP can no longer be recovered"
-s[3787] = "Becomes unable to act, evasion rate drops to 0, cured when taking damage"
-s[3788] = "Fire attribute damage increases"
-s[3789] = "Ice attribute damage increases"
-s[3790] = "Lightning attribute damage increases"
-s[3791] = "Attack power greatly decreases"
-s[3792] = "HP and damage values are no longer displayed"
-s[3793] = "Dies instantly when reaching zero"
-s[3794] = "Recovered AP decreases by 1"
+s[3785] = "AccuRacy decReases"
+s[3786] = "HP can no longeR be RecoveRed"
+s[3787] = "Becomes unable to act, evasion Rate dRops to 0, cuRed when taking damage"
+s[3788] = "FiRe attRibute damage incReases"
+s[3789] = "Ice attRibute damage incReases"
+s[3790] = "Lightning attRibute damage incReases"
+s[3791] = "Attack poweR gReatly decReases"
+s[3792] = "HP and damage values aRe no longeR displayed"
+s[3793] = "Dies instantly when Reaching zeRo"
+s[3794] = "RecoveRed AP decReases by 1"
 
 ; Buffs
 s[12461] = "MoRale"
@@ -186,7 +191,10 @@ s[12572] = "Meal Ticket Held"
 s[12602] = "Green Body"
 s[12603] = "Blue Body"
 s[12604] = "Red Body"
-s[12632] = "Reflective"
+s[12632] = "Reflective Gloss"
+s[12467] = "Bishamonten's Blessing"
+s[4704] = "Grandpa"
+s[4831] = "Swallowtail"
 
 ; HastleResult@0
 s[3905] = "<Player> got fired up and jumped out！"
@@ -200,6 +208,15 @@ s[12540] = "Ambush"
 
 ; SkillEffectExecuter@InnerProcess
 s[3946] = "No Effect！"
+
+; SkillEffectProcessDeleteBadCondition@Evaluate
+s[3956] = "Status ailments / Stun / Petrification have been removed!"
+
+; SkillEffectProcessPostDown@GetLog
+s[3968] = "Down after action！"
+
+; SceneBattle@OnClickDefence
+s[3278] = "Defense activated！"
 
 ; SkillEffectProcessDamageSelf@GetLog
 s[3972] = "<Target> caused a massive explosion！"
