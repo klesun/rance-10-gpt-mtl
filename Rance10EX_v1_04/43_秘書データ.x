@@ -667,7 +667,7 @@ tree 秘書データ = {
 			"＜志津香＞ If you'Re tiRed, take a pRopeR bReak.",
 			"＜志津香＞ If you'Re unsuRe, save youR pRogRess.",
 			"＜ナギ＞ Hey, what's up?\n rr＜志津香＞ Thinking about something?",
-			"＜ナギ＞ ＜志津香＞-sama, I'm boRed!\n rr＜志津香＞ Want to play woRd chain?"
+			"＜ナギ＞ Big Sis, I'm boRed!\n rr＜志津香＞ Want to play woRd chain?"
 		},
 		進む = (list) {
 			"＜ナギ＞ Boooom-baaa!!!",
