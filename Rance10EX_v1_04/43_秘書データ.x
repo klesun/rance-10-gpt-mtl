@@ -178,9 +178,9 @@ tree 秘書データ = {
 			"＜ケイブワン＞ Ugh…\n please don't poke my cheeks, woof",
 			"＜ケイブワン＞ You touch my nose-what's so fun about that, woof?",
 			"＜ケイブワン＞ Don't pat my eaRs like that, woof",
-			"＜ケイブニャン＞ I got touched, nya!?\n rr＜ケイブワン＞ …PeRveRt",
-			"＜ケイブニャン＞ PeRveRt!\n WheRe aRe you touching, nya!\n rr＜ケイブワン＞ Nyan, what's he doing, woof?",
-			"＜ケイブニャン＞ Don't touch weiRd places, nya!\n rr＜ケイブワン＞ …What aRe you doing?"
+			"＜ケイブニャン＞ I got touched, nya!?rr＜ケイブワン＞ …PeRveRt",
+			"＜ケイブニャン＞ PeRveRt!\n WheRe aRe you touching, nya!rr＜ケイブワン＞ Nyan, what's he doing, woof?",
+			"＜ケイブニャン＞ Don't touch weiRd places, nya!rr＜ケイブワン＞ …What aRe you doing?"
 		},
 		待ち会話 = (list) {
 			"＜ケイブニャン＞ I'm boRed, nya",
@@ -191,9 +191,9 @@ tree 秘書データ = {
 			"＜ケイブワン＞ Thinking too long is like Resting, as they say",
 			"＜ケイブワン＞ BoRed, woof…",
 			"＜ケイブワン＞ Shall we go soon?",
-			"＜ケイブニャン＞ What aRe you daydReaming foR, nya?\n rr＜ケイブワン＞ …Feeling sleepy?",
-			"＜ケイブニャン＞ Hey, aRen't we doing something, nya?\n rr＜ケイブワン＞ …Humans aRe lazy",
-			"＜ケイブニャン＞ Zzz…\n zzz…\n rr＜ケイブワン＞ …Too boRed,\n Nyan fell asleep"
+			"＜ケイブニャン＞ What aRe you daydReaming foR, nya?rr＜ケイブワン＞ …Feeling sleepy?",
+			"＜ケイブニャン＞ Hey, aRen't we doing something, nya?rr＜ケイブワン＞ …Humans aRe lazy",
+			"＜ケイブニャン＞ Zzz…\n zzz…rr＜ケイブワン＞ …Too boRed,\n Nyan fell asleep"
 		},
 		進む = (list) {
 			"＜ケイブニャン＞ Go go nya!",
@@ -206,39 +206,39 @@ tree 秘書データ = {
 		挨拶 = (list) {
 			"＜ケイブニャン＞ Nyan and Wan will be youR secRetaRies!\n Humans should be gRateful, nya!",
 			"＜ケイブワン＞ FoR a smaRt dog like me, being\n a secRetaRy is an easy job, woof",
-			"＜ケイブニャン＞ The Wan-Nyan duo is heRe!\n rr＜ケイブワン＞ …Why aRe we the secRetaRies again?"
+			"＜ケイブニャン＞ The Wan-Nyan duo is heRe!rr＜ケイブワン＞ …Why aRe we the secRetaRies again?"
 		},
 		クエストクリア = (list) {
-			"＜ケイブニャン＞ Yay, cleaRed, nya!\n rr＜ケイブワン＞ …Should we Really be happy?"
+			"＜ケイブニャン＞ Yay, cleaRed, nya!rr＜ケイブワン＞ …Should we Really be happy?"
 		},
 		クエストアウト = (list) {
-			"＜ケイブニャン＞ Giving up foR now, nya?\n rr＜ケイブワン＞ That's a valid choice, woof"
+			"＜ケイブニャン＞ Giving up foR now, nya?rr＜ケイブワン＞ That's a valid choice, woof"
 		},
 		ＧＡＭＥＯＶＥＲ = (list) {
-			"＜ケイブニャン＞ Yay, humans lost, nya!\n rr＜ケイブワン＞ Hehe, we did it, woof"
+			"＜ケイブニャン＞ Yay, humans lost, nya!rr＜ケイブワン＞ Hehe, we did it, woof"
 		},
 		クエスト開始 = (list) {
-			"＜ケイブニャン＞ Let's go, nya!\n rr＜ケイブワン＞ AlRight, let's move, woof",
+			"＜ケイブニャン＞ Let's go, nya!rr＜ケイブワン＞ AlRight, let's move, woof",
 			"条件＜最終決戦＞　This is the last fight, nya!\n リス様, do youR best, nya!\n R＜ケイブワン＞ Don't lose to the humans, woof!"
 		},
 		準備 = (list) {
-			"＜ケイブニャン＞ PRepaRation phase, nya!\n rr＜ケイブワン＞ PRepaRation is impoRtant, woof"
+			"＜ケイブニャン＞ PRepaRation phase, nya!rr＜ケイブワン＞ PRepaRation is impoRtant, woof"
 		},
 		作戦 = (list) {
-			"＜ケイブニャン＞ StRategy phase, nya!\n rr＜ケイブワン＞ Time foR key decisions, woof"
+			"＜ケイブニャン＞ StRategy phase, nya!rr＜ケイブワン＞ Time foR key decisions, woof"
 		},
 		拠点 = (list) {
-			"＜ケイブニャン＞ Base phase, time to Relax, nya!\n rr＜ケイブワン＞ WheRe aRe we going?",
-			"条件＜第７タ-ン＞　＜ケイブニャン＞ Happy New YeaR, nya!\n rr＜ケイブワン＞ Oh, it's New YeaR's, woof"
+			"＜ケイブニャン＞ Base phase, time to Relax, nya!rr＜ケイブワン＞ WheRe aRe we going?",
+			"条件＜第７タ-ン＞　＜ケイブニャン＞ Happy New YeaR, nya!rr＜ケイブワン＞ Oh, it's New YeaR's, woof"
 		},
 		地域 = (list) {
-			"＜ケイブニャン＞ OpeRation heRe, nya?\n rr＜ケイブワン＞ Well, fine I guess",
-			"条件＜地域奪還＞　＜ケイブニャン＞ GRR…\n those humans…\n rr＜ケイブワン＞ The demons' defeat is so sad, woof",
-			"条件＜地域危機＞　＜ケイブニャン＞ Demon aRmy, do youR best, nya!\n rr＜ケイブワン＞ Hehe, almost complete occupation",
+			"＜ケイブニャン＞ OpeRation heRe, nya?rr＜ケイブワン＞ Well, fine I guess",
+			"条件＜地域奪還＞　＜ケイブニャン＞ GRR…\n those humans…rr＜ケイブワン＞ The demons' defeat is so sad, woof",
+			"条件＜地域危機＞　＜ケイブニャン＞ Demon aRmy, do youR best, nya!rr＜ケイブワン＞ Hehe, almost complete occupation",
 			"条件＜地域滅亡＞　＜ケイブニャン＞ We did it, demon aRmy victoRy,\n nya rr＜ケイブワン＞ Hehe, good job eveRyone, woof"
 		},
 		食券 = (list) {
-			"＜ケイブニャン＞ Meal ticket phase, nya!\n rr＜ケイブワン＞ Peeking at eveRyone's lives, woof?",
+			"＜ケイブニャン＞ Meal ticket phase, nya!rr＜ケイブワン＞ Peeking at eveRyone's lives, woof?",
 			"条件＜食券３枚＞　＜ケイブニャン＞ We've got a lot of meal tickets, nya rr＜ケイブワン＞ You should use them befoRe they'Re wasted, woof"
 		},
 	},
@@ -654,8 +654,8 @@ tree 秘書データ = {
 			"＜志津香＞ Don't touch me.",
 			"＜志津香＞ H-hey!\n Don't pat my head!",
 			"＜志津香＞ H-hey...\n don't touch weiRd spots...",
-			"＜ナギ＞ Hehehe, that tickles♪ rr＜志津香＞ What...\n aRe you doing?",
-			"＜ナギ＞ Ah, you touched me!\n You peRv!\n rr＜志津香＞ Hey, stop that..."
+			"＜ナギ＞ Hehehe, that tickles♪ rr＜志津香＞ What... aRe you doing?",
+			"＜ナギ＞ Ah, you touched me!\n You peRv! rr＜志津香＞ Hey, stop that..."
 		},
 		待ち会話 = (list) {
 			"＜ナギ＞ Hey, why aRe you zoning out?",
@@ -666,8 +666,8 @@ tree 秘書データ = {
 			"＜志津香＞ ...Not going?",
 			"＜志津香＞ If you'Re tiRed, take a pRopeR bReak.",
 			"＜志津香＞ If you'Re unsuRe, save youR pRogRess.",
-			"＜ナギ＞ Hey, what's up?\n rr＜志津香＞ Thinking about something?",
-			"＜ナギ＞ Big Sis, I'm boRed!\n rr＜志津香＞ Want to play woRd chain?"
+			"＜ナギ＞ Hey, what's up? rr＜志津香＞ Thinking about something?",
+			"＜ナギ＞ Big Sis, I'm boRed! rr＜志津香＞ Want to play woRd chain?"
 		},
 		進む = (list) {
 			"＜ナギ＞ Boooom-baaa!!!",
@@ -680,42 +680,42 @@ tree 秘書データ = {
 		挨拶 = (list) {
 			"＜ナギ＞ AlRight!\n I'll do my best as secRetaRy!",
 			"＜志津香＞ SecRetaRy, huh...\n don't expect too much.",
-			"＜ナギ＞ The two of us will take caRe of you!\n rr＜志津香＞ ...Why does this feel weiRd?"
+			"＜ナギ＞ The two of us will take caRe of you!rr＜志津香＞ ...Why does this feel weiRd?"
 		},
 		クエストクリア = (list) {
-			"＜ナギ＞ Yay, cleaRed!\n rr＜志津香＞ Whew, good woRk..."
+			"＜ナギ＞ Yay, cleaRed!rr＜志津香＞ Whew, good woRk..."
 		},
 		クエストアウト = (list) {
-			"＜ナギ＞ Don't woRRy about it!\n rr＜志津香＞ We'll tRy again next time."
+			"＜ナギ＞ Don't woRRy about it!rr＜志津香＞ We'll tRy again next time."
 		},
 		ＧＡＭＥＯＶＥＲ = (list) {
-			"＜ナギ＞ Ah...\n rr＜志津香＞ So this is as faR as we go..."
+			"＜ナギ＞ Ah...rr＜志津香＞ So this is as faR as we go..."
 		},
 		クエスト開始 = (list) {
-			"＜ナギ＞ Bombaaa!\n rr＜志津香＞ Mission staRt.",
-			"条件＜最終決戦＞　＜ナギ＞ This is the final battle!\n rr＜志津香＞ ...Let's go."
+			"＜ナギ＞ Bombaaa!rr＜志津香＞ Mission staRt.",
+			"条件＜最終決戦＞　＜ナギ＞ This is the final battle!rr＜志津香＞ ...Let's go."
 		},
 		準備 = (list) {
-			"＜ナギ＞ PRepaRation phase!\n rr＜志津香＞ PRepaRation matteRs too.",
-			"条件＜第８タ-ン飛ぶ＞　＜ナギ＞ Hahaha!\n We'Re flying!\n rr＜志津香＞ You'Re still the same as eveR...",
-			"条件＜第１２タ-ン＞　＜ナギ＞ The seaaa!\n rr＜志津香＞ Hm, seems the sea appeaRed."
+			"＜ナギ＞ PRepaRation phase!rr＜志津香＞ PRepaRation matteRs too.",
+			"条件＜第８タ-ン飛ぶ＞　＜ナギ＞ Hahaha!\n We'Re flying!rr＜志津香＞ You'Re still the same as eveR...",
+			"条件＜第１２タ-ン＞　＜ナギ＞ The seaaa!rr＜志津香＞ Hm, seems the sea appeaRed."
 		},
 		作戦 = (list) {
-			"＜ナギ＞ StRategy phase!\n rr＜志津香＞ What will you do?",
-			"条件＜第８タ-ン飛ぶ＞　＜ナギ＞ Second half, staRt!\n rr＜志津香＞ ...Is that so?",
-			"条件＜第８タ-ン＞　＜ナギ＞ Sniff...\n the castle got taken...\n rr＜志津香＞ Don't sulk.",
-			"条件＜ランス城は上陸地点＞　＜ナギ＞ The final battle begins!\n rr＜志津香＞ ...So, this is the end, huh."
+			"＜ナギ＞ StRategy phase!rr＜志津香＞ What will you do?",
+			"条件＜第８タ-ン飛ぶ＞　＜ナギ＞ Second half, staRt!rr＜志津香＞ ...Is that so?",
+			"条件＜第８タ-ン＞　＜ナギ＞ Sniff...\n the castle got taken...rr＜志津香＞ Don't sulk.",
+			"条件＜ランス城は上陸地点＞　＜ナギ＞ The final battle begins!rr＜志津香＞ ...So, this is the end, huh."
 		},
 		拠点 = (list) {
-			"＜ナギ＞ Base phaaase!\n rr＜志津香＞ Make suRe to Rest pRopeRly.",
-			"条件＜第７タ-ン＞　＜ナギ＞ Happy New YeaaaR!\n rr＜志津香＞ Hm, good job gReeting pRopeRly.",
-			"条件＜第１２タ-ン上陸＞　＜ナギ＞ The MonsteR Realm!\n rr＜志津香＞ ...Who will you spend time with?"
+			"＜ナギ＞ Base phaaase!rr＜志津香＞ Make suRe to Rest pRopeRly.",
+			"条件＜第７タ-ン＞　＜ナギ＞ Happy New YeaaaR!rr＜志津香＞ Hm, good job gReeting pRopeRly.",
+			"条件＜第１２タ-ン上陸＞　＜ナギ＞ The MonsteR Realm!rr＜志津香＞ ...Who will you spend time with?"
 		},
 		地域 = (list) {
-			"＜ナギ＞ We'Re doing the mission heRe?\n rr＜志津香＞ ...Having doubts?",
-			"＜ナギ＞ Let's check the Region's status.\n rr＜志津香＞ Hmm...",
-			"条件＜地域奪還＞　＜ナギ＞ It's peaceful heRe now!\n rr＜志津香＞ Hm, good woRk.",
-			"条件＜地域滅亡＞　＜ナギ＞ ...\n rr＜志津香＞ This aRea's been taken by the demon aRmy..."
+			"＜ナギ＞ We'Re doing the mission heRe?rr＜志津香＞ ...Having doubts?",
+			"＜ナギ＞ Let's check the Region's status.rr＜志津香＞ Hmm...",
+			"条件＜地域奪還＞　＜ナギ＞ It's peaceful heRe now!rr＜志津香＞ Hm, good woRk.",
+			"条件＜地域滅亡＞　＜ナギ＞ ...rr＜志津香＞ This aRea's been taken by the demon aRmy..."
 		},
 		食券 = (list) {
 			"＜ナギ＞ Meal ticket phase!\n R＜志津香＞ Whose event will you see?",
@@ -723,11 +723,11 @@ tree 秘書データ = {
 			"条件＜子供志津香発生中＞　＜ナギ＞ Ah!\n ＜志津香＞-sama, ＜志津香＞-sama!\n You'Re heRe, Rance!\n ",
 			"条件＜リセット発生中＞　＜ナギ＞ Oh, ＜リセット＞ is heRe!\n Let's go meet heR!\n R＜志津香＞ ...You two Really get along.",
 			"条件＜ランス発生中＞　＜ナギ＞ Ah!\n ＜志津香＞-sama, ＜志津香＞-sama!\n Rance is heRe!\n R＜志津香＞ ...Why aRe you telling me that?",
-			"条件＜マリア発生中＞　＜ナギ＞ Ah, ＜マリア＞ is heRe!\n rr＜志津香＞ Shall we go see heR?",
-			"条件＜ミル発生中＞　＜ナギ＞ ＜ミル＞-neechan's heRe!\n rr＜志津香＞ ...Don't get too attached, okay?",
+			"条件＜マリア発生中＞　＜ナギ＞ Ah, ＜マリア＞ is heRe!rr＜志津香＞ Shall we go see heR?",
+			"条件＜ミル発生中＞　＜ナギ＞ ＜ミル＞-neechan's heRe!rr＜志津香＞ ...Don't get too attached, okay?",
 			"条件＜エレノア発生中＞　＜ナギ＞ Ah, ＜ラン＞ is heRe!\n R＜志津香＞ Don't tRy to make Rance and ＜ラン＞ meet, please...",
 			"条件＜子供ナギ発生中＞　＜志津香＞ ...＜ナギ＞'s heRe.\n Hm, that's all.",
-			"条件＜食券３枚＞　＜ナギ＞ Whoa, we've got thRee meal tickets!\n rr＜志津香＞ BetteR use them befoRe wasting them."
+			"条件＜食券３枚＞　＜ナギ＞ Whoa, we've got thRee meal tickets!rr＜志津香＞ BetteR use them befoRe wasting them."
 		},
 	},
 	長田君 = {
