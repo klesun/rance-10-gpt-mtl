@@ -1,5 +1,5 @@
 table クエスト情報 = {
-	{ indexed int Id, string 識別名, int 種別, string クエスト名, string 説明１, string 説明２, string 説明３, string 説明４, int 地域 = 0, int リザルト有無 = 0, int Strong　Party = 0, int Elem１ = 0, int Elem２ = 0, string 選択画像 = "", int クエストアウト可能 = 0 },
+	{ indexed int Id, string 識別名, int 種別, string クエスト名, string 説明１, string 説明２, string 説明３, string 説明４, int 地域 = 0, int リザルト有無 = 0, int 有利所属 = 0, int 有利属性１ = 0, int 有利属性２ = 0, string 選択画像 = "", int クエストアウト可能 = 0 },
     {2,"ホルスの宇宙戦艦",10,"Giant Battleship Ruins","","","","",0,0,0,1,1,"",0},
     {50,"★ハニーテスト",10,"Hanny Test","デバッグ用です","","","",0,0,0,0,0,"",0},
     {49,"アリスの館",1,"Alice’s Mansion","","","","",0,0,0,0,0,"",0},
