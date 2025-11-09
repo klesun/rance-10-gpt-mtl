@@ -427,7 +427,7 @@ const translations = `出発します\tWe're departing.
 食券はこっちに落ちている\tThe meal tickets have fallen over here.
 あっ、そっちは…\tAh, over there is...
 大勝利ですrランス様\tIt's a great victory, Lord Rance.
-ケイブニャンを拷問r(大変ルート)\tTorture Cave-Nyan (Difficult route).
+ケイブニャンを拷問r(大変ルート)\tTorture Kaybnyan (Difficult route).
 シャリエラを拷問r(順当ルート)\tTorture Shariera (Standard route).
 ついでにもう少し魔物兵をしばく\tWhile we're at it, let's beat up a few more monster soldiers.
 さっさとケイブリスを殺す\tQuickly kill the Cave Lice.
@@ -1348,7 +1348,7 @@ const translations = `出発します\tWe're departing.
 ・・・・・・・\t...........
 ・・・・・・\t......
 シャリエラを抱いている\tHolding Shaliera.
-ケイブニャンを餌付けしている\tFeeding Cave-nyan.
+ケイブニャンを餌付けしている\tFeeding Kaybnyan.
 メリムを保有していた時\tWhen Merim was held.
 −−−\t---
 ここ臭いr早く出たい\tThis place smells bad. I want to get out quickly.

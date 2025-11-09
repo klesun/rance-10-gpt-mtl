@@ -65,7 +65,7 @@ table クエスト情報 = {
     {148,"上陸地点で準備",1,"Solo: Prep Final Battle","At Demon Realm depths, landing point...","　Story Only","　Reward　　　Medal","",0,1,1,0,0,"魔物界",0},
     {151,"本番に向けて休息",1,"Solo: Rest Before Mission","What matters is next strategy phase","　Story Only","　Reward　　　Meal Ticket","",0,1,1,0,0,"ランス城",0},
     {195,"本番に向けて休息／ＪＰ",1,"Solo: Rest Before Mission","What matters is next strategy phase","　Story Only","　Reward　　　Meal Ticket","",0,1,1,0,0,"ＪＡＰＡＮ",0},
-    {152,"精鋭をスカウト",10,"Solo: Recruit Elites","Three skilled warriors for demon-slaying squad","　Story Only","　Reward　　　Meal Ticket","",0,1,1,0,0,"ランス城",0},
+    {152,"精鋭をスカウト",10,"Solo: Recruit Elites","Three skilled warriors for Fiend Slayers","　Story Only","　Reward　　　Meal Ticket","",0,1,1,0,0,"ランス城",0},
     {154,"美樹を取り返す",1,"Solo: Save the Demon King","Somehow deal with the kidnapped Demon King...","　Story Only","　Reward　　　Meal Ticket","",0,1,1,0,0,"ランス城",0},
     {155,"ＤＸの会の妨害",1,"Solo: × Op. Impossible ×","DX Society sabotage occurs","　Story Only","　Reward　　　−−−","",0,1,1,0,0,"ランス城",0},
     {166,"天満橋は渡れない／ＪＰ",1,"Solo: Scout the Continent","Cross Tenman Bridge, invade continent","　Story Only","　Reward　　　Meal Ticket","",0,1,5,0,0,"ＪＡＰＡＮ",0},

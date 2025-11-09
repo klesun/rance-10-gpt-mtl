@@ -10483,7 +10483,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "ToRtuRe Cave-Nyan (Difficult\nRoute).",
+					説明 = "ToRtuRe Kaybnyan (Difficult\nRoute).",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
