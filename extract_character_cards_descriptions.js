@@ -619,7 +619,7 @@ TOREDO MAKU\tHER TRADEMARK.
 処女を奪われた\tHis virginity was taken.
 魔物の精液と媚薬の混合液を射精する凶悪な擬似ペニス\tA vicious pseudo-penis that ejaculates a mixture of monster semen and aphrodisiac.
 で貫かれたノアが心に負った物は小さくなかったようだ\tThe injury Noah suffered to his spirit from being pierced by it was significant.
-日光\tNikko
+日光\tNikkou
 聖刀\tHoly Sword
 剣２\tSword 2
 エターナルヒーローのメンバーの一人\tOne of the members of the Eternal Hero.
