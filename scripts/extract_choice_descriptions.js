@@ -421,7 +421,7 @@ const translations = `出発します\tWe're departing.
 シャングリラに入る\tEnter Shangri-La.
 敵地侵入だr慎重に行くぞ\tWe've infiltrated enemy territory; let's proceed carefully.
 踊り子が居る所\tWhere the dancers are.
-ケイブリスが居る所\tWhere the Cave Lis are.
+ケイブリスが居る所\tWhere the Kayblis are.
 気にはなるが後回しだ\tI'm curious, but I'll deal with it later.
 回復ポイントはこっち\tThe recovery point is this way.
 食券はこっちに落ちている\tThe meal tickets have fallen over here.
@@ -430,10 +430,10 @@ const translations = `出発します\tWe're departing.
 ケイブニャンを拷問r(大変ルート)\tTorture Kaybnyan (Difficult route).
 シャリエラを拷問r(順当ルート)\tTorture Shariera (Standard route).
 ついでにもう少し魔物兵をしばく\tWhile we're at it, let's beat up a few more monster soldiers.
-さっさとケイブリスを殺す\tQuickly kill the Cave Lice.
+さっさとケイブリスを殺す\tQuickly kill the Kayblis.
 かなみを偵察に出していた\tKanami was sent out to scout.
 −−−\t---
-ケイブリスをぶっ殺すぞ\tI'm going to kill the Cave Lice.
+ケイブリスをぶっ殺すぞ\tI'm going to kill the Kayblis.
 次は本体をぶっ殺してやる\tNext, I'll kill the main boss.
 とっとと帰るか\tShould we head back quickly?
 気配はこっちー\tThe presence is this way.
@@ -1293,7 +1293,7 @@ const translations = `出発します\tWe're departing.
 ・・・・・・・\t.........
 ・・・・・・\t......
 シャリエラを抱いている\tEmbracing Shaliera.
-ケイブニャンを餌付けしている\tFeeding the Cave Nyan.
+ケイブニャンを餌付けしている\tFeeding the Kaybnyan.
 メリムを保有していた時\tWhen possessing Merim.
 −−−\t---
 ここ臭いr早く出たい\tThis place smells. I want to get out quickly.
@@ -1916,8 +1916,8 @@ Mランドへ向かうぞ\tHeading towards M Land.
 健太郎を助け起こす\tHelp Kentaro get up.
 健太郎を殺す\tKill Kentaro.
 お城に帰りましょう\tLet's go back to the castle.
-ケイブリスを討つぞ\tLet's defeat the Cave Lis.
-ケイブリスはどこだ\tWhere is the Cave Lis?
+ケイブリスを討つぞ\tLet's defeat the Kayblis.
+ケイブリスはどこだ\tWhere is the Kayblis?
 えーい、まだ戦うぞ\tHey! I'm still going to fight.
 きりが無いr撤収だ\tThis is endless. Retreat!
 よし、行くぞ\tAlright, let's go.

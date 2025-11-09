@@ -684,7 +684,7 @@ TOREDO MAKU\tHER TRADEMARK.
 踊り子２\tDancer 2
 デスココはその他の多くの人形とは異なり\tUnlike many other dolls, Death Coco
 シャリエラを閨に呼ぶ事は無かった\tnever called Shaliera to her bed.
-メディウサやケイブリスもまた、\tMedusa and Cavebris also,
+メディウサやケイブリスもまた、\tMedusa and Kayblis also,
 彼女を破壊しないよう自重したため、\trefrained from harming her,
 肌を重ねたことがあるのはランスだけである\tso Rance is the only one who has slept with her.
 クルーチェ・マフィン\tCruce Muffin
@@ -3395,13 +3395,13 @@ Not of combat, but of calligraphy.\tNot of combat, but calligraphy.
 ランスを騙すためトップレスで接待をしたことがあるが\tShe once entertained Rance topless in order to deceive him,
 貞操は守っている\tyet she has preserved her chastity.
 魔人ワーグ\tDemon Warg
-元ケイブリス派魔人\tFormer member of the Cavebris faction of demons.
+元ケイブリス派魔人\tFormer member of the Kayblis faction of demons.
 夢の中に潜り精神を操作する恐るべき魔人\tA fearsome demon who invades dreams to manipulate minds.
 魔人でありながら、戦闘力は皆無に等しい\tDespite being a demon, her combat ability is almost nonexistent.
 他者を強制的に眠らせる力は、制御が出来ず\tHer power to forcibly put others to sleep is uncontrollable,
 周囲に避けられ、孤独な日々を過ごしてきた\tcausing those around her to avoid her, and she has lived lonely days.
 魔人ワーグ\tDemon Warg
-元ケイブリス派魔人\tFormer member of the Cavebris faction of demons.
+元ケイブリス派魔人\tFormer member of the Kayblis faction of demons.
 ワーグが普段から厚着をしているのは\tWarg wears heavy clothing regularly
 催眠効果のある体臭を抑えるためである\tto suppress her body odor which has a hypnotic effect.
 全ての衣服を脱いだとき、その力は最大限に発揮される\tWhen she removes all her clothes, this power is unleashed to its fullest.
@@ -3416,12 +3416,12 @@ Not of combat, but of calligraphy.\tNot of combat, but calligraphy.
 魔人ホーネット\tDemon Hornet
 魔人筆頭\tTop demon.
 魔法２、神魔法２、剣２\tMagic 2, Divine Magic 2, Sword 2
-ホーネット派を利用するために、ケイブリスは、当面は\tTo use the Hornet faction, Cavebris has, for the time being,
+ホーネット派を利用するために、ケイブリスは、当面は\tTo use the Hornet faction, Kayblis has, for the time being,
 彼女に手をかけることはせず拘束するに留まっていた\trestrained her without harming her.
 もしも救出に遅れていたら、彼女の純潔は\tIf the rescue had been delayed, her virginity,
 その命とともに引裂かれていたことだろう\twould have been destroyed along with her life.
 魔人ガルティア\tDemon Galtia
-元ケイブリス派魔人\tFormer member of the Cavebris faction of demons.
+元ケイブリス派魔人\tFormer member of the Kayblis faction of demons.
 剣２、ムシ使い３\tSword 2, Bug Tamer 3
 魔人界一のグルメであり、常識を超えた大飯食らい\tThe greatest gourmet in the demon world and an extraordinarily voracious eater beyond common sense.
 腹の穴はストマックホールと言う異界に繋がっている\tHis stomach hole connects to another world called the Stomach Hole.
@@ -3631,25 +3631,25 @@ Not of combat, but of calligraphy.\tNot of combat, but calligraphy.
 レベル神には、担当者のレベルが一定に\tFor Level Gods, there is a strict rule that when their charge's level reaches a certain point,
 達するごとにストリップしていくという鉄の掟がある\tthey must strip gradually with each achievement.
 とりあえずミカンにはあんまり関係のない話\tAnyway, this doesn't really concern Mikan much.
-使徒ケイブニャン\tApostle Cave Nyan
-ケイブリスの使徒\tApostle of Cavebris
-ニャンはケイブリス様の１の使徒！\tNyan is Cavebris-sama's number one apostle!
-その名も最強将軍ケイブニャンにゃ！\tBy the name of the strongest general, Cave Nyan nya!
-ケイブリス様への忠誠心は誰にも負けないのにゃ\tHer loyalty to Cavebris-sama is unmatched nya.
+使徒ケイブニャン\tApostle Kaybnyan
+ケイブリスの使徒\tApostle of Kayblis
+ニャンはケイブリス様の１の使徒！\tNyan is Kayblis-sama's number one apostle!
+その名も最強将軍ケイブニャンにゃ！\tBy the name of the strongest general, Kaybnyan nya!
+ケイブリス様への忠誠心は誰にも負けないのにゃ\tHer loyalty to Kayblis-sama is unmatched nya.
 へ？ ポンコツ使徒？\tHuh? A useless apostle?
 そんなこと言う奴にはニャンの肉球殺法にゃ！\tTo anyone who says that, Nyan will unleash her paw pad death blow nya!
-使徒ケイブニャン\tApostle Cave Nyan
-ケイブリスの使徒\tApostle of Cavebris
+使徒ケイブニャン\tApostle Kaybnyan
+ケイブリスの使徒\tApostle of Kayblis
 ……こんなことして楽しいかにゃ？\t...Is doing this really fun, I wonder nya?
-使徒ケイブワン\tApostle Cave Wan
-ケイブリスの使徒\tApostle of Cavebris
-ワンはケイブリス様の１の使徒\tWan is Cavebris-sama's number one apostle.
-その名も無敵軍師のケイブワンよ\tBy the name of Invincible Strategist, Cave Wan.
-ワンのケイブリス様への愛は本物わん\tWan's love for Cavebris-sama is genuine wan.
+使徒ケイブワン\tApostle Kaybwan
+ケイブリスの使徒\tApostle of Kayblis
+ワンはケイブリス様の１の使徒\tWan is Kayblis-sama's number one apostle.
+その名も無敵軍師のケイブワンよ\tBy the name of Invincible Strategist, Kaybwan.
+ワンのケイブリス様への愛は本物わん\tWan's love for Kayblis-sama is genuine wan.
 え？ へたれ使徒？\tEh? A wimpy apostle?
 だ、誰がへたれ使徒わん！\tW-who are you calling a wimpy apostle wan!
-使徒ケイブワン\tApostle Cave Wan
-ケイブリスの使徒\tApostle of Cavebris
+使徒ケイブワン\tApostle Kaybwan
+ケイブリスの使徒\tApostle of Kayblis
 ……なんで脱がすわん？\t...Why are you stripping me wan?
 ベゼルアイ\tBezel Eye
 聖女の子モンスター\tSaint Young Girl Monster
@@ -3727,15 +3727,15 @@ Not of combat, but of calligraphy.\tNot of combat, but calligraphy.
 ハウセスナース\tHowse's Nurse
 聖女の子モンスター\tHoly maiden monster
 魔人カミーラ\tDemon Kamila
-元ケイブリス派魔人\tFormer Cavebris faction demon
+元ケイブリス派魔人\tFormer Kayblis faction demon
 ドラゴン２、魔法２\tDragon 2, Magic 2
 悠久の時を生きる最後の牝ドラゴン。永らく\tThe last female dragon living through eternal times. For a long time,
 魔人四天王一角を成し恐れられてきたが、その退廃的な\tShe was feared as one of the Four Heavenly Kings of demons, but due to her decadent
 性格から、全盛期の力は大いに損なわれている\tpersonality, her power at its peak is greatly diminished.
-自分に言い寄るケイブリスを侮蔑しているが、\tShe despises Cavebris who hit on her,
+自分に言い寄るケイブリスを侮蔑しているが、\tShe despises Kayblis who hit on her,
 それ以上にホーネットを嫌悪していた\tbut she hates Hornet even more.
 魔人カミーラ\tDemon Kamila
-元ケイブリス派魔人\tFormer Cavebris faction demon
+元ケイブリス派魔人\tFormer Kayblis faction demon
 ドラゴン２、魔法２\tDragon 2, Magic 2
 生まれて間もない頃からドラゴン王との交尾を\tFrom shortly after birth, she was forced to mate with the Dragon King.
 強制されていた。魔人となってからは美少年趣味に走り\tAfter becoming a demon, she developed a preference for beautiful boys,
@@ -4583,7 +4583,7 @@ Not of combat, but of calligraphy.\tNot of combat, but calligraphy.
 軟体系に属する肉体はあらゆる攻撃を跳ね返す\tHer soft-bodied form repels all kinds of attacks.
 夫を愛し、夫に尽くし、夫を立てる大和撫子タイプ\tShe is the Yamato Nadeshiko type who loves, serves, and honors her husband.
 氷に弱い\tShe is weak to ice.
-ケイブリス\tCavebris
+ケイブリス\tKayblis
 野良魔人\tWandering demon
 剣２、魔法１\tSword 2, Magic 1
 ＡＬ教が保管していた魔血魂を\tThe demon blood soul, which was kept by the AL cult,

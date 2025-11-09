@@ -10391,7 +10391,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					顔画像 = "ランス",
-					説明 = "WheRe the Cave Lis aRe.",
+					説明 = "WheRe the Kayblis aRe.",
 					物語 = "２５７／ケイブリスを捜す",
 					フラグ = "かなみ一時離脱＝１",
 					フラグ２ = "かなみ使用不可＝１",
@@ -10537,7 +10537,7 @@ tree クエストデータ = {
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Quickly kill the Cave Lice.",
+					説明 = "Quickly kill the Kayblis.",
 				},
 			},
 		},
@@ -25076,7 +25076,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					！条件 = "シャリエラルート",
-					説明 = "Feeding the Cave Nyan.",
+					説明 = "Feeding the Kaybnyan.",
 				},
 			},
 		},
@@ -26107,7 +26107,7 @@ tree クエストデータ = {
 				},
 				分岐右 = {
 					！条件 = "シャリエラルート",
-					説明 = "Feeding the Cave Nyan.",
+					説明 = "Feeding the Kaybnyan.",
 				},
 			},
 		},
@@ -34813,7 +34813,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "Let's defeat the Cave Lis.",
+					説明 = "Let's defeat the Kayblis.",
 				},
 			},
 		},
@@ -34833,7 +34833,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "WheRe is the Cave Lis?",
+					説明 = "WheRe is the Kayblis?",
 				},
 			},
 		},
