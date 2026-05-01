@@ -1710,21 +1710,21 @@ CANNOT BE NEGLECTED.\tGreetings must not be neglected.
 元ゼスの二級市民で自称ランスの召使い\tA former second-class citizen of Zeth and self-proclaimed servant of Lanse.
 ランスを心から尊敬している\tHe truly respects Lanse from the heart.
 子供に好かれやすく、孤児院の人気者\tHe is easily liked by children and popular at the orphanage.
-リズナ・ランフビット\tRizuna Runfbit
+リズナ・ランフビット\tRizna Runfbit
 旅人\tTraveler
 槍１、魔法１、性技２\tSpear 1, Magic 1, Sex Technique 2
 お人よしですぐに騙されてしまう女の子\tA good-natured girl who is easily deceived.
 なぜかハニーに好かれやすい\tFor some reason, she is easily liked by Honeys.
 魔法を受け付けないハニワ体質の持ち主\tShe has a Haniwa constitution that rejects magic.
 ３２年間、玄武城という異空間に閉じ込められていた\tShe was trapped in a different dimension called Genbu Castle for 32 years.
-リズナ・ランフビット\tRizuna Runfbit
+リズナ・ランフビット\tRizna Runfbit
 旅人\tTraveler
 槍１、魔法１、性技２\tSpear 1, Magic 1, Sex Technique 2
 学生時代はガンジー王の先輩。魔法学校で\tDuring her student days, she was a senior to King Gandhi at magic school.
 生徒会長を務めた成績優秀者であり魔法は得意\tShe was an excellent student, serving as student council president and excelling in magic.
 さらに玄武城ではぷちハニーの景勝から古武道を\tFurthermore, in Genbu Castle, she was taught ancient martial arts by Petite Honey Keisho.
 教え込まれており、薙刀の達人でもある\tShe was taught thoroughly and is also a master of the naginata.
-リズナ・ランフビット\tRizuna Runfbit
+リズナ・ランフビット\tRizna Runfbit
 旅人\tTraveler
 槍１、魔法１、性技２\tSpear 1, Magic 1, Sex Technique 2
 ３２年に渡る玄武城の生活で様々な男の陵辱を受けた\tDuring 32 years living in Genbu Castle, she suffered various men's assaults.
@@ -3787,43 +3787,43 @@ Not of combat, but of calligraphy.\tNot of combat, but calligraphy.
 先人たちの経験と力は\tThe experiences and strength of those before you
 余すことなくあなたに伝えられた\tHave been passed down to you without reserve
 今こそ決着の時だ\tNow is the time for the conclusion
-＜エール＞・モフス\t<Yell> Mofus
+＜エール＞・モフス\t＜エール＞ Mofus
 冒険者\tAdventurer
 神魔法２，剣１，魔法１\tDivine Magic 2, Sword 1, Magic 1
 あなたの強さはもはや、限界まで極まった\tYour strength has now reached its limit
 人の身でこれほどの力をつけた者は歴史上にも\tThere is likely no one in history
 いないと言って良いだろう\tWho has gained such power as a human being
-＜エール＞・モフス\t<Yell> Mofus
+＜エール＞・モフス\t＜エール＞ Mofus
 冒険者\tAdventurer
 神魔法２，剣１，魔法１\tDivine Magic 2, Sword 1, Magic 1
 ここからの物語の主人公はあなた自身だ\tFrom here on, you yourself are the protagonist of the story
 ＡＬ教法王クルックー・モフスの子\tChild of AL Pontiff Krucku Mofus
 魔王の子の一人として冒険の旅にでる\tSetting out on an adventure as one of the Demon King's children
-＜エール＞・モフス\t<Yell> Mofus
+＜エール＞・モフス\t＜エール＞ Mofus
 冒険者\tAdventurer
 神魔法２，剣１，魔法１\tDivine Magic 2, Sword 1, Magic 1
 先人たちの経験と力は\tThe experiences and strength of those before you
 余すことなくあなたに伝えられた\tHave been passed down to you without reserve
 今こそ決着の時だ\tNow is the time for the conclusion
-＜エール＞・モフス\t<Yell> Mofus
+＜エール＞・モフス\t＜エール＞ Mofus
 冒険者\tAdventurer
 神魔法２，剣１，魔法１\tDivine Magic 2, Sword 1, Magic 1
 あなたの強さはもはや、限界まで極まった\tYour strength has now reached its limit
 人の身でこれほどの力をつけた者は歴史上にも\tThere is likely no one in history
 いないと言って良いだろう\tWho has gained such power as a human being
-＜エール＞・モフス\t<Yell> Mofus
+＜エール＞・モフス\t＜エール＞ Mofus
 冒険者\tAdventurer
 神魔法２，剣１，魔法１\tDivine Magic 2, Sword 1, Magic 1
 ここからの物語の主人公はあなた自身だ\tFrom here on, you yourself are the protagonist of the story
 ＡＬ教法王クルックー・モフスの子\tChild of AL Pontiff Krucku Mofus
 魔王の子の一人として冒険の旅にでる\tSetting out on an adventure as one of the Demon King's children
-＜エール＞・モフス\t<Yell> Mofus
+＜エール＞・モフス\t＜エール＞ Mofus
 冒険者\tAdventurer
 神魔法２，剣１，魔法１\tDivine Magic 2, Sword 1, Magic 1
 先人たちの経験と力は\tThe experiences and strength of those before you
 余すことなくあなたに伝えられた\tHave been passed down to you without reserve
 今こそ決着の時だ\tNow is the time for the conclusion
-＜エール＞・モフス\t<Yell> Mofus
+＜エール＞・モフス\t＜エール＞ Mofus
 冒険者\tAdventurer
 神魔法２，剣１，魔法１\tDivine Magic 2, Sword 1, Magic 1
 あなたの強さはもはや、限界まで極まった\tYour strength has now reached its limit
@@ -4516,12 +4516,12 @@ Not of combat, but of calligraphy.\tNot of combat, but calligraphy.
 １級神 人類管理局\tFirst-class god, Human Management Bureau
 ＡＬ教を通じて人類を管理する１級神\tA first-class god who manages humanity through the AL religion.
 世界から殺戮と混乱が尽きぬよう人々を導く\tGuides people so that slaughter and chaos never cease in the world.
-魔人リズナ・ランフビット\tDemon Rizuna Runfbit
+魔人リズナ・ランフビット\tDemon Rizna Runfbit
 ランス派魔人\tRance faction Demon
 槍１、魔法１、性技２\tSpear 1, Magic 1, Sex Technique 2
 周囲の人間を強制的に発情させるフェロモンを放つ魔人\tA demon that emits pheromones forcibly arousing nearby humans.
 両目を開いた時その力は最大限に発揮される\tIts power is maximized when both eyes are open.
-魔人メディウサによって身体を破壊されたリズナは\tRizuna's body was destroyed by the demon Medusa,
+魔人メディウサによって身体を破壊されたリズナは\tRizna's body was destroyed by the demon Medusa,
 魔王ランスの魔人となることで命を救われた\tbut her life was saved by becoming Demon Lord Rance's demon.
 ＰＧ\tPG
 試作ロボット\tPrototype robot

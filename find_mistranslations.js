@@ -48,7 +48,7 @@ for (const chunkFile of chunkFiles) {
                     charToSentencedToCount[shortNameEng][sentenceName] = charToSentencedToCount[shortNameEng][sentenceName] ?? 0;
                     ++charToSentencedToCount[shortNameEng][sentenceName];
                 }
-                console.log("Missing name in translation: " + lineRecord.translatedEnglishLine.split(/\s+/)[0] + " | " + shortNameEng);
+                console.log("Missing name in translation: " + lineRecord.lineNumber + " - " + lineRecord.translatedEnglishLine.split(/\s+/)[0] + " | " + shortNameEng);
             }
         }
     }

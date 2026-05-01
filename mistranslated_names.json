@@ -1,12 +1,16 @@
 [
+    { "shortNameEng": "＜エール＞"     , "shortNameJpn": "＜エール＞" , "knownMistranslations": [
+        "Eiru", "Yell", "Aile", "Eile", "Ayl", "Eru", "Ale", "Aire", "Ai"
+    ] },
     { "shortNameEng": "Pi-R"     , "shortNameJpn": "パイアール" , "knownMistranslations": [
-        "Pyarr", "Paiar", "Paiar", "Paial", "Pyaar", "Pyar", "PAIAR", "Piarl", "PIAR", "Pyaru"
+        "Pyarr", "Paiar", "Paiar", "Paial", "Pyaar", "Pyar", "PAIAR", "Piarl", "PIAR", "Pyaru", "Pair",
+        "Paiyar", "Paiyr", "Pajarl", "Pial", "Pyaal", "Payarl", "Piaarl", "Piaar", "Piearl", "Paiyaru", "Payar"
     ] },
     { "shortNameEng": "Chizuko"     , "shortNameJpn": "千鶴子" , "knownMistranslations": [
 
     ] },
     { "shortNameEng": "Nikkou"     , "shortNameJpn": "日光" , "knownMistranslations": [
-        "Nikko", "Nikkō", "Hikaru", "Hikari", "Nichiko", "sunlight"
+        "Nikko", "Nikkō", "Hikaru", "Hikari", "Nichiko", "sunlight", "Sunlight", "Hikkou", "Nilkou", "Sonnenlicht", "Hinochi"
     ] },
     { "shortNameEng": "Fiend"     , "shortNameJpn": "魔人" , "knownMistranslations": [
         "Demon", "Magic"
@@ -34,7 +38,7 @@
         "Sheer","Seil","Syil","Siiru","Shieel","Siel","Syril","Schiel","Shyll","Shial","Siril","Ceal","Shel","Sieur","Shiir","Shieal","Cyll","Sheril","Siehl","Syyl"
     ] },
     { "shortNameEng": "Arlcoate"    , "shortNameJpn": "アールコート" , "knownMistranslations": [
-        "Alicecourt", "Aalcott", "Arcot", "Arcoate", "Arlcourt", "Alcourt", "Alcott", "Arlcoat",
+        "Alicecourt", "Aalcott", "Arcot", "Arcoate", "Arlcourt", "Alcourt", "Alcott", "Arlcoat","Arucorte",
         "Arcourt","Arlkort","Arcoat","Arukoato","Aarcourt","Arlkot","Arlkout","Earlcourt","Arcout","Arucourt","Arukot","Aalcourt","Arcorte","Court","Arcourt","Aarkort","Arlkaut","Arlcote","Arcourt","Arlkote","Aarcote"
     ] },
     { "shortNameEng": "Seizel"      , "shortNameJpn": "サイゼル" , "knownMistranslations": [ "Saizer", "Saizel", "Sizel","Saisel" ] },
@@ -46,12 +50,12 @@
         "Muurararuu","Moolaraloo","Muurararuu","Muurararu","Muuralaloo","Muralaloo","Muralalu","Muuraraloo","Muurara","Moolaralo","Moolaralu","Muralarou"
     ] },
     { "shortNameEng": "Crook"       , "shortNameJpn": "クルックー" , "knownMistranslations": [
-        "Kurukku", "Klucco", "Krukkuu", "Krukkū", "Kurokku", "Krukku", "Kluukoo", "Kurukoo", "Kruukoo", "Kurukū",
+        "Kurukku", "Klucco", "Krukkuu", "Krukkū", "Kurokku", "Krukku", "Kluukoo", "Kurukoo", "Kruukoo", "Kurukū", "Klu-ku", "Cluck",
         "Kurukuu","Cluckoo","Klukku","Klukkuu","Krukoo","Kukurukoo","Kuruqqoo","Klook","Kulukuu","Kuruccu","Krukkoo","Kruccu","Krukkow","Kurukuru","Kruukuu","Klugoo","Cluckoo","Kuru","Kukkuu","Kulukoo","Minikurukku","Cluckoo","Krug","Kluck","Cruccu","Kluckoo","Kruckoo","Kurukuu","Krukk","Kukku","Krukuu"
     ] },
     { "shortNameEng": "Leazas"      , "shortNameJpn": "リーザス" , "knownMistranslations": [
         "Leesas", "Lezas", "Reesas", "Leesas", "Rizas", "Riestas", "Lizas", "Liesas", "Lisas", "Leisas", "Reisas", "Riesz",
-        "Lyzas", "Riezas", "Rizath", "Reasas",
+        "Lyzas", "Riezas", "Rizath", "Reasas", "Risath",
         "Liegas","Risas","Lisath","Leithas","Riesas","Lysus","Liezas","Reesus","Reathas","Leesus","Leezas","Liesath","Rysus","Lias","Lythos","Lizard","Maunes","Rezas","Leasath","Liesz","Rizaas","Maysus","Reathas","Lizard","Risthas","Ritharos","Reath","Lizeas","Leizas","Lisath","Riesas","Lisez","Reasus","Leizass","Lias","Reazas","Lisath","Liskas","Leesus","Liezas","Liezas","Rithas","Lysas","Lysus","Lisath"
     ] },
     { "shortNameEng": "Diphteria "  , "shortNameJpn": "ジフテリア" , "knownMistranslations": [ "Jiphtheria", "Jifteria", "Diphtheria", "Jiphteria","Jifuteria","Diptheria","Gifuteria" ] },
@@ -92,7 +96,7 @@
     { "shortNameEng": "Cream"       , "shortNameJpn": "クリーム" , "knownMistranslations": [ "Kurimu" ] },
     { "shortNameEng": "Crane"       , "shortNameJpn": "クレイン" , "knownMistranslations": [ "Krein", "Kurein","Claire","Clane","Crain" ] },
     { "shortNameEng": "Kesselring"  , "shortNameJpn": "ケッセルリンク" , "knownMistranslations": [ "Kesselink", "Kessel Link", "Kesselrink", "Kessellink", "Kesselrind" ] },
-    { "shortNameEng": "Babolat"     , "shortNameJpn": "バボラ" , "knownMistranslations": [ "Babora", "Babol" ] },
+    { "shortNameEng": "Babolat"     , "shortNameJpn": "バボラ" , "knownMistranslations": [ "Babora", "Babol", "Baphomet","Babbora","Bavora","Mecababora" ] },
     { "shortNameEng": "Copandon"    , "shortNameJpn": "コパンドン" , "knownMistranslations": [ "Kopandon" ] },
     { "shortNameEng": "Cordoba"     , "shortNameJpn": "コルドバ" , "knownMistranslations": [ "Cordova" ] },
     { "shortNameEng": "Convert"     , "shortNameJpn": "コンバート" , "knownMistranslations": [] },
@@ -145,7 +149,7 @@
     { "shortNameEng": "Modern"      , "shortNameJpn": "モダン" , "knownMistranslations": [ "Modan" ] },
     { "shortNameEng": "Princess Lia", "shortNameJpn": "王女リア" , "knownMistranslations": [] },
     { "shortNameEng": "Lia"         , "shortNameJpn": "リア" , "knownMistranslations": [ "Ria", "Leah" ] },
-    { "shortNameEng": "Rizna"       , "shortNameJpn": "リズナ" , "knownMistranslations": [ "Rizuna", "Lizna","Lizzna","Lisna","Rizana","Risuna" ] },
+    { "shortNameEng": "Rizna"       , "shortNameJpn": "リズナ" , "knownMistranslations": [ "Rizna", "Lizna","Lizzna","Lisna","Rizana","Risuna" ] },
     { "shortNameEng": "Reset"       , "shortNameJpn": "リセット" , "knownMistranslations": [ "Risette" ] },
     { "shortNameEng": "Rick"        , "shortNameJpn": "リック" , "knownMistranslations": [] },
     { "shortNameEng": "Ruberan"     , "shortNameJpn": "ルーベラン" , "knownMistranslations": [ "Rubelan","Rubellan" ] },
@@ -170,7 +174,8 @@
     { "shortNameEng": "Tourin"      , "shortNameJpn": "透琳" , "knownMistranslations": [ "Tōrin", "Toulin","Tohri","Torin","Toru","Torin" ] },
     { "shortNameEng": "Nikkou"      , "shortNameJpn": "日光刀" , "knownMistranslations": [] },
     { "shortNameEng": "Kalar"       , "shortNameJpn": "カラー" , "knownMistranslations": [
-        "Kara", "Color", "Kalor", "Kala","Kalla","Cala","Kawara","Kallas","Clara","Carla","Caller","Karla","Karra","Khara","Cale","Cara","Collar","Klar","Kalah","Kar","Kal","Cara","Kala","Kali","Kale","Collar","Khala"
+        "Kara", "Color", "Kalor", "Kala","Kalla","Cala","Kawara","Kallas","Clara","Carla","Caller","Karla","Karra","Khara","Cale","Cara","Collar","Klar","Kalah","Kar","Kal","Cara","Kala","Kali","Kale","Collar","Khala",
+        "Colar", "Cola"
     ] },
     { "shortNameEng": "Hanny"       , "shortNameJpn": "ハニー" , "knownMistranslations": [ "Hanny", "honey" ] },
     { "shortNameEng": "Poppins"     , "shortNameJpn": "女ポピンズ" , "knownMistranslations": [] },
