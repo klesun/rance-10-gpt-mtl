@@ -579,7 +579,7 @@ tree 秘書データ = {
 			"Kya!?\nWh-where are you touching!?",
 			"W-wait!\nDon't touch weird places!",
 			"Kyahaha!\nN-no, not my sides!",
-			"Hm?\nAre you curious about my sister's forehead crystal?",
+			"Hm?\nAre you curious about your\n sister's forehead crystal?",
 			"Hyaah!\nDon't poke me!",
 			"Unyaa!?\nWhy are you poking me?",
 			"Geez!\nNo teasing!",
@@ -600,7 +600,7 @@ tree 秘書データ = {
 			"Let's keep moving!",
 			"Let's go, let's go!",
 			"Roger, moving forward!",
-			"I'll follow you, El-chan!",
+			"I'll follow you, ＜エール＞-chan!",
 			"Okaay, moving out!",
 			"Let's go hand in hand with big sis!"
 		},
@@ -610,8 +610,8 @@ tree 秘書データ = {
 			"Hm?\nI just need to be a secretary?\nHehe, nice to meet you!"
 		},
 		クエストクリア = (list) {
-			"Yay!\nWe did it, El-chan!",
-			"Congrats!\nHehe, you did great, El-chan.",
+			"Yay!\nWe did it, ＜エール＞-chan!",
+			"Congrats!\nHehe, you did great, ＜エール＞-chan.",
 			"Yay!\nQuest clear!"
 		},
 		クエストアウト = (list) {
@@ -622,23 +622,23 @@ tree 秘書データ = {
 		},
 		クエスト開始 = (list) {
 			"Let's do our best on this new adventure!",
-			"Alright!\nLet's go, El-chan!",
-			"Let's go, El-chan!"
+			"Alright!\nLet's go, ＜エール＞-chan!",
+			"Let's go, ＜エール＞-chan!"
 		},
 		冒険 = (list) {
 			"条件＜第１ターン＞　Fufu, a new adventure begins!ね！",
-			"条件＜第２ターン＞　Hehe, you made friends with Nagata-kun♪ That's great, El-chan♪ん♪",
-			"条件＜第３ターン＞　You had a tough time...\nlet's start fresh!-ね",
-			"条件＜第４ターン＞　Hehe, nice to meet you, let's head to Leazas where Zance-chan is!ご-",
-			"条件＜第５ターン＞　Fufu, you're already good friends with Zance-chan.だね",
-			"条件＜第６ターン＞　Rangy-chan joined us!\nThe adventure's going smoothly, El-chan.\nHmm, next is.........",
-			"条件＜第７ターン＞　Miracle-san is always so energetic.\nMix-chan joined too, let's go to Zeth next!-う",
-			"条件＜第８ターン＞　Fufu, you've gotten close with Sushi-nu-chan.\nNow, off to Helman!よ-",
-			"条件＜第９ターン＞　Finally, the last orb!\nHuh, a martial arts tournament?\nHope it's fine!ぁ？",
+			"条件＜第２ターン＞　Hehe, you made friends with\n Nagata-kun♪ That's great, ＜エール＞-chan♪ん♪",
+			"条件＜第３ターン＞　You had a tough time...\nlet's start fresh!",
+			"条件＜第４ターン＞　Hehe, nice to meet you, let's head\n to Leazas where Zance-chan is!",
+			"条件＜第５ターン＞　Fufu, you're already good\n friends with Zance-chan.",
+			"条件＜第６ターン＞　Rangy-chan joined us!\nThe adventure's going smoothly, ＜エール＞-chan.\nHmm, next is.........",
+			"条件＜第７ターン＞　Miracle-san is always so energetic.\nMix-chan joined too,\n let's go to Zeth next!",
+			"条件＜第８ターン＞　Fufu, you've gotten close with Sushi-nu-chan.\nNow, off to Helman!",
+			"条件＜第９ターン＞　Finally, the last orb!\nHuh, a martial arts tournament?\nHope it's fine!",
 			"条件＜第１０ターン＞　You've gathered all allies and orbs.........",
-			"条件＜第１１ターン＞　Things got pretty bad...\ncheer up, El-chan!てね",
-			"条件＜第１２ターン＞　Time to show the results of training!\nLet's do our best, El-chan!ゃん",
-			"条件＜第１３ターン＞　Yay!\nDad's back to normal!\nThank you, El-chan"
+			"条件＜第１１ターン＞　Things got pretty bad...\ncheer up, ＜エール＞-chan!てね",
+			"条件＜第１２ターン＞　Time to show the results of training!\nLet's do our best, ＜エール＞-chan!",
+			"条件＜第１３ターン＞　Yay!\nDad's back to normal!\nThank you, ＜エール＞-chan"
 		},
 		売店 = (list) {
 			"What should we buy?"

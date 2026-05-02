@@ -3757,31 +3757,31 @@ Not of combat, but of calligraphy.\tNot of combat, but calligraphy.
 魔王の力を失っても、しばらくの間は\tEven after losing the Demon King's power, for a while,
 強靭な肉体は保たれる。\this robust body remains intact.
 まぁ俺様はもともとこれくらい強かったはずだ\tWell, I was supposed to have been this strong all along.
-＜エール＞・モフス\t<Aile> Mofus
+＜エール＞・モフス\t＜エール＞ Mofus
 冒険者\tAdventurer
 神魔法２，剣１，魔法１\tDivine Magic 2, Sword 1, Magic 1
 ここからの物語の主人公はあなた自身だ\tFrom here, the protagonist of the story is you yourself.
 ＡＬ教法王クルックー・モフスの子\tChild of AL Church Pope Krukku Mofus.
 魔王の子の一人として冒険の旅にでる\tSetting out on an adventure as one of the Demon King's children.
-＜エール＞・モフス\t<Aile> Mofus
+＜エール＞・モフス\t＜エール＞ Mofus
 冒険者\tAdventurer
 神魔法２，剣１，魔法１\tDivine Magic 2, Sword 1, Magic 1
 先人たちの経験と力は\tThe experience and power of those before you
 余すことなくあなたに伝えられた\thave been fully passed down to you.
 今こそ決着の時だ\tNow is the time for the decisive battle.
-＜エール＞・モフス\t<Aile> Mofus
+＜エール＞・モフス\t＜エール＞ Mofus
 冒険者\tAdventurer
 神魔法２，剣１，魔法１\tDivine Magic 2, Sword 1, Magic 1
 あなたの強さはもはや、限界まで極まった\tYour strength has now reached its utmost limit.
 人の身でこれほどの力をつけた者は歴史上にも\tNo one in history has attained such power in a human body,
 いないと言って良いだろう\tit is safe to say.
-＜エール＞・モフス\t<Aile> Mofus
+＜エール＞・モフス\t＜エール＞ Mofus
 冒険者\tAdventurer
 神魔法２，剣１，魔法１\tDivine Magic 2, Sword 1, Magic 1
 ここからの物語の主人公はあなた自身だ\tFrom here, you are the protagonist of the story.
 ＡＬ教法王クルックー・モフスの子\tChild of AL Church Pope Krukku Mofus.
 魔王の子の一人として冒険の旅にでる\tSetting out on an adventure as one of the Demon King's children.
-＜エール＞・モフス\t<Aile> Mofus
+＜エール＞・モフス\t＜エール＞ Mofus
 冒険者\tAdventurer
 神魔法２，剣１，魔法１\tDivine Magic 2, Sword 1, Magic 1
 先人たちの経験と力は\tThe experiences and strength of those before you
