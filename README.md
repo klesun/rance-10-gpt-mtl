@@ -37,3 +37,9 @@ ______________________________________
 5. Run `npm run regenerate-pack` to translate some UI elements, like settings menu
 
 (there are also some image translations in `Rance10CG2_v1_04` and `Rance10Flat_v1_04` folders, but for them there is currently no simple command)
+
+--------------------------------------
+
+## To replace images from [Rance10Flat_v1_04](Rance10Flat_v1_04)
+- Copy-replace the [Rance10Flat_v1_04](Rance10Flat_v1_04) folder into the /flat/ folder extracted from `Rance10Flat.afa` in Program Files
+- Run from the game installation directory in Program Files: `c:\m\alice-tools\alice.exe ar pack .\Rance10Flat_manifest.txt`
