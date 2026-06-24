@@ -13,31 +13,6 @@
     "max_output_tokens": null,
     "max_tool_calls": null,
     "model": "gpt-4.1-mini-2025-04-14",
-    "output": [
-        {
-            "id": "msg_0c1ed840d71b77cd0068f0dc8ebecc8195aef625eb08dfbde6",
-            "type": "message",
-            "status": "completed",
-            "content": [
-                {
-                    "type": "output_text",
-                    "annotations": [],
-                    "logprobs": [],
-                    "text": "{\"translationLines\":[{\"lineNumber\":114881,\"originalJapaneseLine\":\"「それは私がというより……\",\"translatedEnglishLine\":\"\\\"It's not so much me...\\\"},{\"  }  ]  }",
-                    "parsed": {
-                        "translationLines": [
-                            {
-                                "lineNumber": 114881,
-                                "originalJapaneseLine": "「それは私がというより……",
-                                "translatedEnglishLine": "\"It's not so much me...\"},{"
-                            }
-                        ]
-                    }
-                }
-            ],
-            "role": "assistant"
-        }
-    ],
     "parallel_tool_calls": true,
     "previous_response_id": null,
     "prompt_cache_key": null,
