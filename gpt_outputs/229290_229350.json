@@ -1,16 +1,8 @@
 {
     "id": "resp_072ebeb61c0239100068f202fd23988190ad444c950f4553bf",
-    "object": "response",
     "created_at": 1760690941,
-    "status": "completed",
-    "background": false,
-    "billing": {
-        "payer": "developer"
-    },
-    "error": null,
     "incomplete_details": null,
     "instructions": null,
-    "max_output_tokens": null,
     "max_tool_calls": null,
     "model": "gpt-4.1-mini-2025-04-14",
     "parallel_tool_calls": true,
@@ -24,55 +16,6 @@
     "service_tier": "default",
     "store": true,
     "temperature": 1,
-    "text": {
-        "format": {
-            "type": "json_schema",
-            "description": null,
-            "name": "TranslationJSONOutput",
-            "schema": {
-                "name": "Japanese lines translation to English",
-                "type": "object",
-                "additionalProperties": false,
-                "required": [
-                    "translationLines"
-                ],
-                "properties": {
-                    "translationLines": {
-                        "type": "array",
-                        "description": "Array of objects, each representing a line from the input",
-                        "items": {
-                            "type": "object",
-                            "additionalProperties": false,
-                            "required": [
-                                "lineNumber",
-                                "originalJapaneseLine",
-                                "translatedEnglishLine"
-                            ],
-                            "properties": {
-                                "lineNumber": {
-                                    "type": "integer",
-                                    "description": "1-based",
-                                    "nullable": false
-                                },
-                                "originalJapaneseLine": {
-                                    "type": "string",
-                                    "description": "The original line in Japanese exactly as it was in the input",
-                                    "nullable": false
-                                },
-                                "translatedEnglishLine": {
-                                    "type": "string",
-                                    "description": "The original line translated to English",
-                                    "nullable": false
-                                }
-                            }
-                        }
-                    }
-                }
-            },
-            "strict": true
-        },
-        "verbosity": "medium"
-    },
     "tool_choice": "auto",
     "tools": [],
     "top_logprobs": 0,
@@ -89,7 +32,6 @@
         },
         "total_tokens": 4482
     },
-    "user": null,
     "metadata": {},
     "output_text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 229232,\n      \"originalJapaneseLine\": \"案内してくれていた兵士が、\",\n      \"translatedEnglishLine\": \"The soldier who had been guiding us,\"\n    },\n    {\n      \"lineNumber\": 229233,\n      \"originalJapaneseLine\": \"気さくに話しかけてきた。\",\n      \"translatedEnglishLine\": \"casually started talking.\"\n    },\n    {\n      \"lineNumber\": 229234,\n      \"originalJapaneseLine\": \"「プレジデント・シーラは、\",\n      \"translatedEnglishLine\": \"\\\"President Sheila has\"\n    },\n    {\n      \"lineNumber\": 229235,\n      \"originalJapaneseLine\": \"　以前より皆様に会えるのを\",\n      \"translatedEnglishLine\": \"been looking forward to meeting all of you\"\n    },\n    {\n      \"lineNumber\": 229236,\n      \"originalJapaneseLine\": \"　それは楽しみにしてましたから」\",\n      \"translatedEnglishLine\": \"for quite some time.\\\"\"\n    },\n    {\n      \"lineNumber\": 229237,\n      \"originalJapaneseLine\": \"「さ、大統領はこちらの部屋に」\",\n      \"translatedEnglishLine\": \"\\\"Now, the President is in this room.\\\"\"\n    },\n    {\n      \"lineNumber\": 229238,\n      \"originalJapaneseLine\": \"「うお、やべっ、ついにか！」\",\n      \"translatedEnglishLine\": \"\\\"Whoa, oh man, it's finally happening!\\\"\"\n    },\n    {\n      \"lineNumber\": 229239,\n      \"originalJapaneseLine\": \"「大統領、皆様がおつきになりました」\",\n      \"translatedEnglishLine\": \"\\\"President, everyone has arrived.\\\"\"\n    },\n    {\n      \"lineNumber\": 229240,\n      \"originalJapaneseLine\": \"兵士のノックの後、\",\n      \"translatedEnglishLine\": \"After the soldier knocked,\"\n    },\n    {\n      \"lineNumber\": 229241,\n      \"originalJapaneseLine\": \"室内から綺麗な声がこちらまで届いた。\",\n      \"translatedEnglishLine\": \"a beautiful voice came from inside the room.\"\n    },\n    {\n      \"lineNumber\": 229242,\n      \"originalJapaneseLine\": \"「分かりました、どうぞ」\",\n      \"translatedEnglishLine\": \"\\\"Understood, please come in.\\\"\"\n    },\n    {\n      \"lineNumber\": 229243,\n      \"originalJapaneseLine\": \"「はい。\",\n      \"translatedEnglishLine\": \"\\\"Yes.\"\n    },\n    {\n      \"lineNumber\": 229244,\n      \"originalJapaneseLine\": \"　失礼します」\",\n      \"translatedEnglishLine\": \"Excuse us.\\\"\"\n    },\n    {\n      \"lineNumber\": 229245,\n      \"originalJapaneseLine\": \"あなた達は少し緊張しながら、\",\n      \"translatedEnglishLine\": \"You felt a little nervous as\"\n    },\n    {\n      \"lineNumber\": 229246,\n      \"originalJapaneseLine\": \"ゆっくりと大統領執務室への扉を開けた。\",\n      \"translatedEnglishLine\": \"you slowly opened the door to the President's office.\"\n    },\n    {\n      \"lineNumber\": 229247,\n      \"originalJapaneseLine\": \"「あっ……」\",\n      \"translatedEnglishLine\": \"\\\"Ah...\\\"\"\n    },\n    {\n      \"lineNumber\": 229248,\n      \"originalJapaneseLine\": \"室内にいた女性があなた達に振り返る。\",\n      \"translatedEnglishLine\": \"The woman inside turned to look at you.\"\n    },\n    {\n      \"lineNumber\": 229249,\n      \"originalJapaneseLine\": \"（うおっ、綺麗な人だなぁ）\",\n      \"translatedEnglishLine\": \"(Wow, she's beautiful.)\"\n    },\n    {\n      \"lineNumber\": 229250,\n      \"originalJapaneseLine\": \"陽光を浴びてたなびく金髪が\",\n      \"translatedEnglishLine\": \"Her blonde hair fluttering in the sunlight\"\n    },\n    {\n      \"lineNumber\": 229251,\n      \"originalJapaneseLine\": \"キラキラと光を反射させていた。\",\n      \"translatedEnglishLine\": \"sparkled and reflected the light.\"\n    },\n    {\n      \"lineNumber\": 229252,\n      \"originalJapaneseLine\": \"「ああっ、みんな、いらっしゃい」\",\n      \"translatedEnglishLine\": \"\\\"Ah, everyone, welcome!\\\"\"\n    },\n    {\n      \"lineNumber\": 229253,\n      \"originalJapaneseLine\": \"「あ、あれ？」\",\n      \"translatedEnglishLine\": \"\\\"Huh, huh?\\\"\"\n    },\n    {\n      \"lineNumber\": 229254,\n      \"originalJapaneseLine\": \"「さあさあ、長旅で疲れたでしょう？\",\n      \"translatedEnglishLine\": \"\\\"Come, come, you must be tired from the long journey?\"\n    },\n    {\n      \"lineNumber\": 229255,\n      \"originalJapaneseLine\": \"　早く座って、座って。\",\n      \"translatedEnglishLine\": \"Please sit down quickly, sit down.\"\n    },\n    {\n      \"lineNumber\": 229256,\n      \"originalJapaneseLine\": \"　今お茶淹れますからね」\",\n      \"translatedEnglishLine\": \"I'll make some tea right now.\\\"\"\n    },\n    {\n      \"lineNumber\": 229257,\n      \"originalJapaneseLine\": \"テーブルの上にはシーラ大統領が用意したらしき、\",\n      \"translatedEnglishLine\": \"On the table were tea and light snacks that President Sheila seemed to have prepared.\"\n    },\n    {\n      \"lineNumber\": 229258,\n      \"originalJapaneseLine\": \"お茶と軽食がズラリと並べられていた。\",\n      \"translatedEnglishLine\": \"They were neatly laid out in a row.\"\n    },\n    {\n      \"lineNumber\": 229259,\n      \"originalJapaneseLine\": \"「あ、あの、シーラ様……\",\n      \"translatedEnglishLine\": \"\\\"Ah, um, Lady Sheila...\"\n    },\n    {\n      \"lineNumber\": 229260,\n      \"originalJapaneseLine\": \"　そういうことは私が……」\",\n      \"translatedEnglishLine\": \"I should be the one to do those things...\\\"\"\n    },\n    {\n      \"lineNumber\": 229261,\n      \"originalJapaneseLine\": \"「ううん、いいの、いいの。\",\n      \"translatedEnglishLine\": \"\\\"No, it's okay, it's okay.\"\n    },\n    {\n      \"lineNumber\": 229262,\n      \"originalJapaneseLine\": \"　私がしたいんだから、任せて、ね？」\",\n      \"translatedEnglishLine\": \"I want to do it, so leave it to me, okay?\\\"\"\n    },\n    {\n      \"lineNumber\": 229263,\n      \"originalJapaneseLine\": \"「あ、ああ、もう……」\",\n      \"translatedEnglishLine\": \"\\\"Ah, ah, geez...\\\"\"\n    },\n    {\n      \"lineNumber\": 229264,\n      \"originalJapaneseLine\": \"メイドが止めようとするのを制して、\",\n      \"translatedEnglishLine\": \"Stopping the maid who tried to intervene,\"\n    },\n    {\n      \"lineNumber\": 229265,\n      \"originalJapaneseLine\": \"大統領はうきうきしながら、\",\n      \"translatedEnglishLine\": \"the President cheerfully\"\n    },\n    {\n      \"lineNumber\": 229266,\n      \"originalJapaneseLine\": \"いそいそとお茶を淹れていた。\",\n      \"translatedEnglishLine\": \"hurriedly brewed the tea.\"\n    },\n    {\n      \"lineNumber\": 229267,\n      \"originalJapaneseLine\": \"「ほらほら、みんなどうしたの？\",\n      \"translatedEnglishLine\": \"\\\"Now, now, what's wrong everyone?\"\n    },\n    {\n      \"lineNumber\": 229268,\n      \"originalJapaneseLine\": \"　遠慮なんてしなくていいんですからね」\",\n      \"translatedEnglishLine\": \"You don't have to be so reserved.\\\"\"\n    },\n    {\n      \"lineNumber\": 229269,\n      \"originalJapaneseLine\": \"「……友達ん家の\",\n      \"translatedEnglishLine\": \"\\\"...She's like a super friendly mom at a friend's house.\"\n    },\n    {\n      \"lineNumber\": 229270,\n      \"originalJapaneseLine\": \"　めっちゃ気さくなお母さんみたいな人だ」\",\n      \"translatedEnglishLine\": \"\"\n    },\n    {\n      \"lineNumber\": 229271,\n      \"originalJapaneseLine\": \"「ふふふ、だから言ったでしょー？」\",\n      \"translatedEnglishLine\": \"\\\"Hehe, didn't I tell you so?\\\"\"\n    },\n    {\n      \"lineNumber\": 229272,\n      \"originalJapaneseLine\": \"「変わんねーな、この人も……」\",\n      \"translatedEnglishLine\": \"\\\"This person hasn't changed at all...\\\"\"\n    },\n    {\n      \"lineNumber\": 229273,\n      \"originalJapaneseLine\": \"「それじゃあ、改めて……」\",\n      \"translatedEnglishLine\": \"\\\"Well then, once again...\\\"\"\n    },\n    {\n      \"lineNumber\": 229274,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 229275,\n      \"originalJapaneseLine\": \"「ふふ……\",\n      \"translatedEnglishLine\": \"\\\"Hehe...\"\n    },\n    {\n      \"lineNumber\": 229276,\n      \"originalJapaneseLine\": \"　みんな、いらっしゃい」\",\n      \"translatedEnglishLine\": \"Welcome, everyone.\\\"\"\n    },\n    {\n      \"lineNumber\": 229277,\n      \"originalJapaneseLine\": \"穏やかな微笑みをたたえて、\",\n      \"translatedEnglishLine\": \"With a gentle smile,\"\n    },\n    {\n      \"lineNumber\": 229278,\n      \"originalJapaneseLine\": \"大統領、シーラ・ヘルマンはあなた達を迎えた。\",\n      \"translatedEnglishLine\": \"President Sheila Herman greeted you.\"\n    },\n    {\n      \"lineNumber\": 229279,\n      \"originalJapaneseLine\": \"あなた達は執務室にある、\",\n      \"translatedEnglishLine\": \"You sat on the large sofa in the office,\"\n    },\n    {\n      \"lineNumber\": 229280,\n      \"originalJapaneseLine\": \"大きなソファに座りながら、\",\n      \"translatedEnglishLine\": \"\"\n    },\n    {\n      \"lineNumber\": 229281,\n      \"originalJapaneseLine\": \"大統領手ずから淹れてくれたお茶を飲んでいた。\",\n      \"translatedEnglishLine\": \"drinking the tea personally brewed by the President.\"\n    },\n    {\n      \"lineNumber\": 229282,\n      \"originalJapaneseLine\": \"「ふふ、それにしても、\",\n      \"translatedEnglishLine\": \"\\\"Hehe, even so,\"\n    },\n    {\n      \"lineNumber\": 229283,\n      \"originalJapaneseLine\": \"　皆さん元気そうで安心した」\",\n      \"translatedEnglishLine\": \"I'm relieved to see you all looking well.\\\"\"\n    },\n    {\n      \"lineNumber\": 229284,\n      \"originalJapaneseLine\": \"「それに、こんな大きく、立派になって……」\",\n      \"translatedEnglishLine\": \"\\\"And you've all grown so big and splendid...\\\"\"\n    },\n    {\n      \"lineNumber\": 229285,\n      \"originalJapaneseLine\": \"「っ……\",\n      \"translatedEnglishLine\": \"\\\"...\\\"\"\n    },\n    {\n      \"lineNumber\": 229286,\n      \"originalJapaneseLine\": \"　本当に、みんな大きくなりましたね」\",\n      \"translatedEnglishLine\": \"You really have all grown up.\\\"\"\n    },\n    {\n      \"lineNumber\": 229287,\n      \"originalJapaneseLine\": \"じわり。\",\n      \"translatedEnglishLine\": \"*Slowly.*\"\n    },\n    {\n      \"lineNumber\": 229288,\n      \"originalJapaneseLine\": \"シーラの瞳に涙が浮かぶ。\",\n      \"translatedEnglishLine\": \"Tears welled up in Sheila's eyes.\"\n    },\n    {\n      \"lineNumber\": 229289,\n      \"originalJapaneseLine\": \"「本当に……よく頑張って……」\",\n      \"translatedEnglishLine\": \"\\\"Truly... you've done so well...\\\"\"\n    },\n    {\n      \"lineNumber\": 229290,\n      \"originalJapaneseLine\": \"「やめろ……うっとうしい」\",\n      \"translatedEnglishLine\": \"\\\"Stop it... It's annoying.\\\"\"\n    },\n    {\n      \"lineNumber\": 229291,\n      \"originalJapaneseLine\": \"「あ、うん、ごめんね。\",\n      \"translatedEnglishLine\": \"\\\"Ah, yeah, sorry.\\\"\"\n    }\n  ]\n}",
     "output_parsed": {

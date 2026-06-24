@@ -1,16 +1,8 @@
 {
     "id": "resp_0135e9e8ef3ab4d00068f16dc032108195a2ef7714b90286a1",
-    "object": "response",
     "created_at": 1760652736,
-    "status": "completed",
-    "background": false,
-    "billing": {
-        "payer": "developer"
-    },
-    "error": null,
     "incomplete_details": null,
     "instructions": null,
-    "max_output_tokens": null,
     "max_tool_calls": null,
     "model": "gpt-4.1-mini-2025-04-14",
     "parallel_tool_calls": true,
@@ -24,55 +16,6 @@
     "service_tier": "default",
     "store": true,
     "temperature": 1,
-    "text": {
-        "format": {
-            "type": "json_schema",
-            "description": null,
-            "name": "TranslationJSONOutput",
-            "schema": {
-                "name": "Japanese lines translation to English",
-                "type": "object",
-                "additionalProperties": false,
-                "required": [
-                    "translationLines"
-                ],
-                "properties": {
-                    "translationLines": {
-                        "type": "array",
-                        "description": "Array of objects, each representing a line from the input",
-                        "items": {
-                            "type": "object",
-                            "additionalProperties": false,
-                            "required": [
-                                "lineNumber",
-                                "originalJapaneseLine",
-                                "translatedEnglishLine"
-                            ],
-                            "properties": {
-                                "lineNumber": {
-                                    "type": "integer",
-                                    "description": "1-based",
-                                    "nullable": false
-                                },
-                                "originalJapaneseLine": {
-                                    "type": "string",
-                                    "description": "The original line in Japanese exactly as it was in the input",
-                                    "nullable": false
-                                },
-                                "translatedEnglishLine": {
-                                    "type": "string",
-                                    "description": "The original line translated to English",
-                                    "nullable": false
-                                }
-                            }
-                        }
-                    }
-                }
-            },
-            "strict": true
-        },
-        "verbosity": "medium"
-    },
     "tool_choice": "auto",
     "tools": [],
     "top_logprobs": 0,
@@ -89,7 +32,6 @@
         },
         "total_tokens": 3827
     },
-    "user": null,
     "metadata": {},
     "output_parsed": {
         "translationLines": [

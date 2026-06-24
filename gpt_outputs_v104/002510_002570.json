@@ -1,16 +1,8 @@
 {
     "id": "resp_02f8dfa17759f7000068ffea3731cc8194b211482a8da8b49a",
-    "object": "response",
     "created_at": 1761602103,
-    "status": "completed",
-    "background": false,
-    "billing": {
-        "payer": "developer"
-    },
-    "error": null,
     "incomplete_details": null,
     "instructions": null,
-    "max_output_tokens": null,
     "max_tool_calls": null,
     "model": "gpt-4.1-mini-2025-04-14",
     "parallel_tool_calls": true,
@@ -24,55 +16,6 @@
     "service_tier": "default",
     "store": true,
     "temperature": 1,
-    "text": {
-        "format": {
-            "type": "json_schema",
-            "description": null,
-            "name": "TranslationJSONOutput",
-            "schema": {
-                "name": "Japanese lines translation to English",
-                "type": "object",
-                "additionalProperties": false,
-                "required": [
-                    "translationLines"
-                ],
-                "properties": {
-                    "translationLines": {
-                        "type": "array",
-                        "description": "Array of objects, each representing a line from the input",
-                        "items": {
-                            "type": "object",
-                            "additionalProperties": false,
-                            "required": [
-                                "lineNumber",
-                                "originalJapaneseLine",
-                                "translatedEnglishLine"
-                            ],
-                            "properties": {
-                                "lineNumber": {
-                                    "type": "integer",
-                                    "description": "1-based",
-                                    "nullable": false
-                                },
-                                "originalJapaneseLine": {
-                                    "type": "string",
-                                    "description": "The original line in Japanese exactly as it was in the input",
-                                    "nullable": false
-                                },
-                                "translatedEnglishLine": {
-                                    "type": "string",
-                                    "description": "The original line translated to English",
-                                    "nullable": false
-                                }
-                            }
-                        }
-                    }
-                }
-            },
-            "strict": true
-        },
-        "verbosity": "medium"
-    },
     "tool_choice": "auto",
     "tools": [],
     "top_logprobs": 0,
@@ -89,7 +32,6 @@
         },
         "total_tokens": 4600
     },
-    "user": null,
     "metadata": {},
     "output_text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 267144,\n      \"originalJapaneseLine\": \"　効果は抜群って奴だな」\",\n      \"translatedEnglishLine\": \"\\\"The effect is outstanding.\\\"\"\n    },\n    {\n      \"lineNumber\": 267145,\n      \"originalJapaneseLine\": \"「あんた……\",\n      \"translatedEnglishLine\": \"\\\"You...\\\"\"\n    },\n    {\n      \"lineNumber\": 267146,\n      \"originalJapaneseLine\": \"　いったい何を飲ませ、たぁ……！？\\\"\",\n      \"translatedEnglishLine\": \"\\\"Just what did you make me drink...?!\\\"\"\n    },\n    {\n      \"lineNumber\": 267147,\n      \"originalJapaneseLine\": \"「ミルの作った強力媚薬」\",\n      \"translatedEnglishLine\": \"\\\"A powerful aphrodisiac made by Mill.\\\"\"\n    },\n    {\n      \"lineNumber\": 267148,\n      \"originalJapaneseLine\": \"「なっ！？」\",\n      \"translatedEnglishLine\": \"\\\"What!?\\\"\"\n    },\n    {\n      \"lineNumber\": 267149,\n      \"originalJapaneseLine\": \"「眠っているデカントでも、\",\n      \"translatedEnglishLine\": \"\\\"Even a sleeping Decant would...\\\"\"\n    },\n    {\n      \"lineNumber\": 267150,\n      \"originalJapaneseLine\": \"　ギンギンになる優れものとか……」\",\n      \"translatedEnglishLine\": \"\\\"...stiffen up thoroughly with this excellent stuff...\\\"\"\n    },\n    {\n      \"lineNumber\": 267151,\n      \"originalJapaneseLine\": \"「がははは！\",\n      \"translatedEnglishLine\": \"\\\"Gahahaha!\\\"\"\n    },\n    {\n      \"lineNumber\": 267152,\n      \"originalJapaneseLine\": \"　薬師、薬に溺れるとはこのことだ！」\",\n      \"translatedEnglishLine\": \"\\\"A healer drowning in medicine — this is what it means!\\\"\"\n    },\n    {\n      \"lineNumber\": 267153,\n      \"originalJapaneseLine\": \"「そんな、言葉は……ない！」\",\n      \"translatedEnglishLine\": \"\\\"There are no words for that...!\\\"\"\n    },\n    {\n      \"lineNumber\": 267154,\n      \"originalJapaneseLine\": \"「ほーれほーれ、どうだ？\",\n      \"translatedEnglishLine\": \"\\\"Here, here, how is it?\\\"\"\n    },\n    {\n      \"lineNumber\": 267155,\n      \"originalJapaneseLine\": \"　どんどん辛くなってきたのではないか？」\",\n      \"translatedEnglishLine\": \"\\\"Isn't it getting harder and harder for you?\\\"\"\n    },\n    {\n      \"lineNumber\": 267156,\n      \"originalJapaneseLine\": \"「くっ……！」\",\n      \"translatedEnglishLine\": \"\\\"Ugh...!\\\"\"\n    },\n    {\n      \"lineNumber\": 267157,\n      \"originalJapaneseLine\": \"ランスの言う通り、\",\n      \"translatedEnglishLine\": \"As Rance said,\"\n    },\n    {\n      \"lineNumber\": 267158,\n      \"originalJapaneseLine\": \"プリマの体は徐々に熱を上げ、\",\n      \"translatedEnglishLine\": \"Prima's body gradually heated up,\"\n    },\n    {\n      \"lineNumber\": 267159,\n      \"originalJapaneseLine\": \"肌はじっとりと汗ばんできていた。\",\n      \"translatedEnglishLine\": \"and her skin became damp with sweat.\"\n    },\n    {\n      \"lineNumber\": 267160,\n      \"originalJapaneseLine\": \"「ふざけんな！\",\n      \"translatedEnglishLine\": \"\\\"Don't mess with me!\\\"\"\n    },\n    {\n      \"lineNumber\": 267161,\n      \"originalJapaneseLine\": \"　そんな薬なんかで、\",\n      \"translatedEnglishLine\": \"\\\"With a drug like that,\\\"\"\n    },\n    {\n      \"lineNumber\": 267162,\n      \"originalJapaneseLine\": \"　どうにかされてたまるか！」\",\n      \"translatedEnglishLine\": \"\\\"I won't be controlled!\\\"\"\n    },\n    {\n      \"lineNumber\": 267163,\n      \"originalJapaneseLine\": \"「そーれ、ついーっと」\",\n      \"translatedEnglishLine\": \"\\\"There, a little tease.\\\"\"\n    },\n    {\n      \"lineNumber\": 267164,\n      \"originalJapaneseLine\": \"「ふにゃあっ！」\",\n      \"translatedEnglishLine\": \"\\\"Fnyaa!\\\"\"\n    },\n    {\n      \"lineNumber\": 267165,\n      \"originalJapaneseLine\": \"脇腹を撫でられただけで、\",\n      \"translatedEnglishLine\": \"Just by having her side stroked,\"\n    },\n    {\n      \"lineNumber\": 267166,\n      \"originalJapaneseLine\": \"プリマはビクンと身を震わせて、甘い声を上げた。\",\n      \"translatedEnglishLine\": \"Prima trembled suddenly and let out a sweet voice.\"\n    },\n    {\n      \"lineNumber\": 267167,\n      \"originalJapaneseLine\": \"「おお、すごい効果」\",\n      \"translatedEnglishLine\": \"\\\"Oh, incredible effect.\\\"\"\n    },\n    {\n      \"lineNumber\": 267168,\n      \"originalJapaneseLine\": \"「ぐへへへ、もうふにゃふにゃではないか。\",\n      \"translatedEnglishLine\": \"\\\"Guhahaha, no more floppiness now.\\\"\"\n    },\n    {\n      \"lineNumber\": 267169,\n      \"originalJapaneseLine\": \"　それそれ、素直になってしまえ」\",\n      \"translatedEnglishLine\": \"\\\"That's it, just be honest now.\\\"\"\n    },\n    {\n      \"lineNumber\": 267170,\n      \"originalJapaneseLine\": \"「くっ、最っ低だ！\",\n      \"translatedEnglishLine\": \"\\\"Ugh, you’re the worst!\\\"\"\n    },\n    {\n      \"lineNumber\": 267171,\n      \"originalJapaneseLine\": \"　あんた、本当に最低だ！」\",\n      \"translatedEnglishLine\": \"\\\"You really are the lowest!\\\"\"\n    },\n    {\n      \"lineNumber\": 267172,\n      \"originalJapaneseLine\": \"「最高の間違いではないのか？\",\n      \"translatedEnglishLine\": \"\\\"Isn't it the best mistake?\\\"\"\n    },\n    {\n      \"lineNumber\": 267173,\n      \"originalJapaneseLine\": \"　ほーれ、こんな気持ち良さそうではないか」\",\n      \"translatedEnglishLine\": \"\\\"See, doesn't it feel this good?\\\"\"\n    },\n    {\n      \"lineNumber\": 267174,\n      \"originalJapaneseLine\": \"「あっ、ああっ！」\",\n      \"translatedEnglishLine\": \"\\\"Ah, ahh!\\\"\"\n    },\n    {\n      \"lineNumber\": 267175,\n      \"originalJapaneseLine\": \"プリマは抵抗すら出来ず、\",\n      \"translatedEnglishLine\": \"Prima couldn't even resist,\"\n    },\n    {\n      \"lineNumber\": 267176,\n      \"originalJapaneseLine\": \"されるがままで豊満な胸を揉まれた。\",\n      \"translatedEnglishLine\": \"and her ample breasts were fondled as she was.\"\n    },\n    {\n      \"lineNumber\": 267177,\n      \"originalJapaneseLine\": \"「さー、邪魔な服は脱ぎ脱ぎするのだー」\",\n      \"translatedEnglishLine\": \"\\\"Come on, take off those troublesome clothes!\\\"\"\n    },\n    {\n      \"lineNumber\": 267178,\n      \"originalJapaneseLine\": \"「あ、ああっ！\",\n      \"translatedEnglishLine\": \"\\\"Ah, ahh!\\\"\"\n    },\n    {\n      \"lineNumber\": 267179,\n      \"originalJapaneseLine\": \"　こ、こんな……」\",\n      \"translatedEnglishLine\": \"\\\"Th-this kind of...\\\"\"\n    },\n    {\n      \"lineNumber\": 267180,\n      \"originalJapaneseLine\": \"「ぐふふ、すっかり出来上がったな……\",\n      \"translatedEnglishLine\": \"\\\"Gufufu, you're completely done for now...\\\"\"\n    },\n    {\n      \"lineNumber\": 267181,\n      \"originalJapaneseLine\": \"　さてさて、それではたーっぷりと\",\n      \"translatedEnglishLine\": \"\\\"Well then, let's enjoy thoroughly...\\\"\"\n    },\n    {\n      \"lineNumber\": 267182,\n      \"originalJapaneseLine\": \"　楽しませてもらおうか……」\",\n      \"translatedEnglishLine\": \"\\\"I'll be having lots of fun...\\\"\"\n    },\n    {\n      \"lineNumber\": 267183,\n      \"originalJapaneseLine\": \"「ひっ……！」\",\n      \"translatedEnglishLine\": \"\\\"Hic...!\\\"\"\n    },\n    {\n      \"lineNumber\": 267184,\n      \"originalJapaneseLine\": \"「って、こら待てやーーーーーッ！」\",\n      \"translatedEnglishLine\": \"\\\"Hey, wait a mi-iiinute!\\\"\"\n    },\n    {\n      \"lineNumber\": 267185,\n      \"originalJapaneseLine\": \"「ぎゃーーーーーーーっ！？\",\n      \"translatedEnglishLine\": \"\\\"Gyaaaaaah!?\\\"\"\n    },\n    {\n      \"lineNumber\": 267186,\n      \"originalJapaneseLine\": \"「って、メガデス！？\",\n      \"translatedEnglishLine\": \"\\\"Wait, Megadeath!?\\\"\"\n    },\n    {\n      \"lineNumber\": 267187,\n      \"originalJapaneseLine\": \"「なーに、勝手に私のもんに\",\n      \"translatedEnglishLine\": \"\\\"What, you’re touching what's mine without permission.\\\"\"\n    },\n    {\n      \"lineNumber\": 267188,\n      \"originalJapaneseLine\": \"　手ぇ出してんだっつーの」\",\n      \"translatedEnglishLine\": \"\\\"Don't go laying your hands on it!\\\"\"\n    },\n    {\n      \"lineNumber\": 267189,\n      \"originalJapaneseLine\": \"「いや、あんたのもんじゃないけど！？\",\n      \"translatedEnglishLine\": \"\\\"No, it’s not yours though!?\\\"\"\n    },\n    {\n      \"lineNumber\": 267190,\n      \"originalJapaneseLine\": \"「とにかく、人のもんに手出し無用！\",\n      \"translatedEnglishLine\": \"\\\"In any case, hands off other people’s stuff!\\\"\"\n    },\n    {\n      \"lineNumber\": 267191,\n      \"originalJapaneseLine\": \"　ああん！？　分かったか！？\\\"\",\n      \"translatedEnglishLine\": \"\\\"Huh!? Got that!?\\\"\"\n    },\n    {\n      \"lineNumber\": 267192,\n      \"originalJapaneseLine\": \"「…………」\",\n      \"translatedEnglishLine\": \"\\\"........\\\"\"\n    },\n    {\n      \"lineNumber\": 267193,\n      \"originalJapaneseLine\": \"「3Pならオーケ？」\",\n      \"translatedEnglishLine\": \"\\\"Is a threesome okay?\\\"\"\n    },\n    {\n      \"lineNumber\": 267194,\n      \"originalJapaneseLine\": \"「それならオーケー」\",\n      \"translatedEnglishLine\": \"\\\"If that’s the case, then it’s okay.\\\"\"\n    },\n    {\n      \"lineNumber\": 267195,\n      \"originalJapaneseLine\": \"「なにも！　何一つとして！\",\n      \"translatedEnglishLine\": \"\\\"Nothing! Not a single thing!\\\"\"\n    },\n    {\n      \"lineNumber\": 267196,\n      \"originalJapaneseLine\": \"　オッケーじゃなーーーい！」\",\n      \"translatedEnglishLine\": \"\\\"Is okay!!!\\\"\"\n    },\n    {\n      \"lineNumber\": 267197,\n      \"originalJapaneseLine\": \"「まーまー、プリマだって\",\n      \"translatedEnglishLine\": \"\\\"Now now, Prima was a little\\\"\"\n    },\n    {\n      \"lineNumber\": 267198,\n      \"originalJapaneseLine\": \"　ちょっと期待してた癖にー、\",\n      \"translatedEnglishLine\": \"\\\"expecting it a bit anyway,\\\"\"\n    },\n    {\n      \"lineNumber\": 267199,\n      \"originalJapaneseLine\": \"　相変わらず素直じゃないなー。\",\n      \"translatedEnglishLine\": \"\\\"but you’re still not straightforward as usual.\\\"\"\n    },\n    {\n      \"lineNumber\": 267200,\n      \"originalJapaneseLine\": \"いそいそ」\",\n      \"translatedEnglishLine\": \"\\\"(busily)\\\"\"\n    },\n    {\n      \"lineNumber\": 267201,\n      \"originalJapaneseLine\": \"「服を脱ぐなー！」\",\n      \"translatedEnglishLine\": \"\\\"Don’t take your clothes off!\\\"\"\n    },\n    {\n      \"lineNumber\": 267202,\n      \"originalJapaneseLine\": \"「気にしない気にしなーい。\",\n      \"translatedEnglishLine\": \"\\\"Don’t worry, don’t worry.\\\"\"\n    },\n    {\n      \"lineNumber\": 267203,\n      \"originalJapaneseLine\": \"　そーれ、プリマおっぱいにダーイブ☆」\",\n      \"translatedEnglishLine\": \"\\\"There! Diving into Prima’s breasts☆\\\"\"\n    }\n  ]\n}",
     "output_parsed": {

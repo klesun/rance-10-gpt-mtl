@@ -1,16 +1,8 @@
 {
     "id": "resp_0d3f9032d49fc2ec0068f1a2867a948197b5d78b7875f7b658",
-    "object": "response",
     "created_at": 1760666246,
-    "status": "completed",
-    "background": false,
-    "billing": {
-        "payer": "developer"
-    },
-    "error": null,
     "incomplete_details": null,
     "instructions": null,
-    "max_output_tokens": null,
     "max_tool_calls": null,
     "model": "gpt-4.1-mini-2025-04-14",
     "parallel_tool_calls": true,
@@ -24,55 +16,6 @@
     "service_tier": "default",
     "store": true,
     "temperature": 1,
-    "text": {
-        "format": {
-            "type": "json_schema",
-            "description": null,
-            "name": "TranslationJSONOutput",
-            "schema": {
-                "name": "Japanese lines translation to English",
-                "type": "object",
-                "additionalProperties": false,
-                "required": [
-                    "translationLines"
-                ],
-                "properties": {
-                    "translationLines": {
-                        "type": "array",
-                        "description": "Array of objects, each representing a line from the input",
-                        "items": {
-                            "type": "object",
-                            "additionalProperties": false,
-                            "required": [
-                                "lineNumber",
-                                "originalJapaneseLine",
-                                "translatedEnglishLine"
-                            ],
-                            "properties": {
-                                "lineNumber": {
-                                    "type": "integer",
-                                    "description": "1-based",
-                                    "nullable": false
-                                },
-                                "originalJapaneseLine": {
-                                    "type": "string",
-                                    "description": "The original line in Japanese exactly as it was in the input",
-                                    "nullable": false
-                                },
-                                "translatedEnglishLine": {
-                                    "type": "string",
-                                    "description": "The original line translated to English",
-                                    "nullable": false
-                                }
-                            }
-                        }
-                    }
-                }
-            },
-            "strict": true
-        },
-        "verbosity": "medium"
-    },
     "tool_choice": "auto",
     "tools": [],
     "top_logprobs": 0,
@@ -89,7 +32,6 @@
         },
         "total_tokens": 4461
     },
-    "user": null,
     "metadata": {},
     "output_text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 187972,\n      \"originalJapaneseLine\": \"　分かりやすく言え」\",\n      \"translatedEnglishLine\": \"\\\"Say it in a way that's easy to understand.\\\"\"\n    },\n    {\n      \"lineNumber\": 187973,\n      \"originalJapaneseLine\": \"「素晴らしくも大がかりな\",\n      \"translatedEnglishLine\": \"\\\"It's a wonderful and elaborate\"\n    },\n    {\n      \"lineNumber\": 187974,\n      \"originalJapaneseLine\": \"　封印技術が使われてるなあ」\",\n      \"translatedEnglishLine\": \"sealing technique being used here.\\\"\"\n    },\n    {\n      \"lineNumber\": 187975,\n      \"originalJapaneseLine\": \"「ん、最初からそう言え」\",\n      \"translatedEnglishLine\": \"\\\"Hmm, you should have said so from the start.\\\"\"\n    },\n    {\n      \"lineNumber\": 187976,\n      \"originalJapaneseLine\": \"「それよりカミーラだが……\",\n      \"translatedEnglishLine\": \"\\\"More importantly, about Camilla...\\\"\"\n    },\n    {\n      \"lineNumber\": 187977,\n      \"originalJapaneseLine\": \"　お前、本気でアレと、その……\",\n      \"translatedEnglishLine\": \"You, are you seriously going to do that and, uh...\"\n    },\n    {\n      \"lineNumber\": 187978,\n      \"originalJapaneseLine\": \"　せ、せ……\",\n      \"translatedEnglishLine\": \"Se, se...\"\n    },\n    {\n      \"lineNumber\": 187979,\n      \"originalJapaneseLine\": \"「セックスか？\",\n      \"translatedEnglishLine\": \"\\\"Sex?\\\"\"\n    },\n    {\n      \"lineNumber\": 187980,\n      \"originalJapaneseLine\": \"　おう、するつもりだぞ」\",\n      \"translatedEnglishLine\": \"Yeah, I intend to.\\\"\"\n    },\n    {\n      \"lineNumber\": 187981,\n      \"originalJapaneseLine\": \"「こ、この、不埒な……！」\",\n      \"translatedEnglishLine\": \"\\\"Y-You shameless...!\\\"\"\n    },\n    {\n      \"lineNumber\": 187982,\n      \"originalJapaneseLine\": \"「それより殺そう、\",\n      \"translatedEnglishLine\": \"\\\"More importantly, let's kill her,\"\n    },\n    {\n      \"lineNumber\": 187983,\n      \"originalJapaneseLine\": \"　すぐに殺そう、\",\n      \"translatedEnglishLine\": \"kill her immediately,\"\n    },\n    {\n      \"lineNumber\": 187984,\n      \"originalJapaneseLine\": \"　さっさと殺そう」\",\n      \"translatedEnglishLine\": \"quickly kill her.\\\"\"\n    },\n    {\n      \"lineNumber\": 187985,\n      \"originalJapaneseLine\": \"「あれは……危険な女だ」\",\n      \"translatedEnglishLine\": \"\\\"That woman... is dangerous.\\\"\"\n    },\n    {\n      \"lineNumber\": 187986,\n      \"originalJapaneseLine\": \"「がははは、可愛い女ではないか！\",\n      \"translatedEnglishLine\": \"\\\"Gahaha, isn't she a cute woman!\"\n    },\n    {\n      \"lineNumber\": 187987,\n      \"originalJapaneseLine\": \"　殺すなんてもったいない！」\",\n      \"translatedEnglishLine\": \"It would be a waste to kill her!\\\"\"\n    },\n    {\n      \"lineNumber\": 187988,\n      \"originalJapaneseLine\": \"「うう……ランス様、\",\n      \"translatedEnglishLine\": \"\\\"Uu... Lord Rance,\"\n    },\n    {\n      \"lineNumber\": 187989,\n      \"originalJapaneseLine\": \"　やっぱり会いに行くのは危険では……」\",\n      \"translatedEnglishLine\": \"isn’t it dangerous to go meet her after all...?\\\"\"\n    },\n    {\n      \"lineNumber\": 187990,\n      \"originalJapaneseLine\": \"「おらもあのカミーラは怖いだす……\",\n      \"translatedEnglishLine\": \"\\\"I'm also scared of that Camilla...\"\n    },\n    {\n      \"lineNumber\": 187991,\n      \"originalJapaneseLine\": \"　出来れば二度と近づきたくは……」\",\n      \"translatedEnglishLine\": \"I’d rather not get near her again if I can help it...\\\"\"\n    },\n    {\n      \"lineNumber\": 187992,\n      \"originalJapaneseLine\": \"「ぐふふ、会ったらまずは何をするかなー……」\",\n      \"translatedEnglishLine\": \"\\\"Gufufu, I wonder what I'll do first when I meet her...\\\"\"\n    },\n    {\n      \"lineNumber\": 187993,\n      \"originalJapaneseLine\": \"「うう……聞いてくれてないだす……」\",\n      \"translatedEnglishLine\": \"\\\"Uu... you’re not listening to me...\\\"\"\n    },\n    {\n      \"lineNumber\": 187994,\n      \"originalJapaneseLine\": \"「ですが……\",\n      \"translatedEnglishLine\": \"\\\"But...\\\"\"\n    },\n    {\n      \"lineNumber\": 187995,\n      \"originalJapaneseLine\": \"「ここは魔法大国ゼスが作った最大級の封印施設。\",\n      \"translatedEnglishLine\": \"\\\"This is the largest sealing facility built by the great magical nation Zeth.\"\n    },\n    {\n      \"lineNumber\": 187996,\n      \"originalJapaneseLine\": \"　魔人カミーラのもとに行くだけでも\",\n      \"translatedEnglishLine\": \"Just going to the demon Camilla’s place\"\n    },\n    {\n      \"lineNumber\": 187997,\n      \"originalJapaneseLine\": \"　大変ですよ……」\",\n      \"translatedEnglishLine\": \"is difficult...\\\"\"\n    },\n    {\n      \"lineNumber\": 187998,\n      \"originalJapaneseLine\": \"「がははは、俺様なら楽勝だ！\",\n      \"translatedEnglishLine\": \"\\\"Gahaha, if it’s me, it’s a piece of cake!\"\n    },\n    {\n      \"lineNumber\": 187999,\n      \"originalJapaneseLine\": \"　カミーラと会う為ならこの程度！」\",\n      \"translatedEnglishLine\": \"If it’s to meet Camilla, this much is nothing!\\\"\"\n    },\n    {\n      \"lineNumber\": 188000,\n      \"originalJapaneseLine\": \"「よし、行くぞ！」\",\n      \"translatedEnglishLine\": \"\\\"Alright, let’s go!\\\"\"\n    },\n    {\n      \"lineNumber\": 188001,\n      \"originalJapaneseLine\": \"　\",\n      \"translatedEnglishLine\": \"\"\n    },\n    {\n      \"lineNumber\": 188002,\n      \"originalJapaneseLine\": \"　　＜ビーーーーー！　ビーーーーー！＞\",\n      \"translatedEnglishLine\": \"<Beeeeeeep! Beeeeeeep!>\"\n    },\n    {\n      \"lineNumber\": 188003,\n      \"originalJapaneseLine\": \"「うおっ、警報！？」\",\n      \"translatedEnglishLine\": \"\\\"Whoa, an alarm!?\\\"\"\n    },\n    {\n      \"lineNumber\": 188004,\n      \"originalJapaneseLine\": \"「侵入者アリ！　侵入者アリ！\",\n      \"translatedEnglishLine\": \"\\\"Intruder alert! Intruder alert!\"\n    },\n    {\n      \"lineNumber\": 188005,\n      \"originalJapaneseLine\": \"　警備班は至急向かって下さい！」\",\n      \"translatedEnglishLine\": \"Security teams, please respond immediately!\\\"\"\n    },\n    {\n      \"lineNumber\": 188006,\n      \"originalJapaneseLine\": \"「……俺達のことか？」\",\n      \"translatedEnglishLine\": \"\\\"...Is that about us?\\\"\"\n    },\n    {\n      \"lineNumber\": 188007,\n      \"originalJapaneseLine\": \"「いえ、そんな筈はありません」\",\n      \"translatedEnglishLine\": \"\\\"No, that can’t be.\\\"\"\n    },\n    {\n      \"lineNumber\": 188008,\n      \"originalJapaneseLine\": \"千鶴子は既に情報魔法を駆使して、\",\n      \"translatedEnglishLine\": \"Chizuko was already using her information magic,\"\n    },\n    {\n      \"lineNumber\": 188009,\n      \"originalJapaneseLine\": \"本部と連絡を取っていた。\",\n      \"translatedEnglishLine\": \"and had communicated with headquarters.\"\n    },\n    {\n      \"lineNumber\": 188010,\n      \"originalJapaneseLine\": \"「警報の理由が分かりました……」\",\n      \"translatedEnglishLine\": \"\\\"I’ve found out the reason for the alarm...\\\"\"\n    },\n    {\n      \"lineNumber\": 188011,\n      \"originalJapaneseLine\": \"「魔軍です」\",\n      \"translatedEnglishLine\": \"\\\"It’s the demon army.\\\"\"\n    },\n    {\n      \"lineNumber\": 188012,\n      \"originalJapaneseLine\": \"「なんですって！？」\",\n      \"translatedEnglishLine\": \"\\\"What!?\\\"\"\n    },\n    {\n      \"lineNumber\": 188013,\n      \"originalJapaneseLine\": \"「魔軍が別の場所より、\",\n      \"translatedEnglishLine\": \"\\\"The demon army, from another location,\"\n    },\n    {\n      \"lineNumber\": 188014,\n      \"originalJapaneseLine\": \"　この永久牢ブロックに侵入を……\",\n      \"translatedEnglishLine\": \"is invading this permanent prison block...\"\n    },\n    {\n      \"lineNumber\": 188015,\n      \"originalJapaneseLine\": \"　まず、間違いなく目的は――」\",\n      \"translatedEnglishLine\": \"Their goal is undoubtedly—\\\"\"\n    },\n    {\n      \"lineNumber\": 188016,\n      \"originalJapaneseLine\": \"「カミーラ、か」\",\n      \"translatedEnglishLine\": \"\\\"Camilla, huh.\\\"\"\n    },\n    {\n      \"lineNumber\": 188017,\n      \"originalJapaneseLine\": \"「くっ、まさかこの中がバレるなんて……！」\",\n      \"translatedEnglishLine\": \"\\\"Damn it, I can’t believe they found out what’s inside here...!\\\"\"\n    },\n    {\n      \"lineNumber\": 188018,\n      \"originalJapaneseLine\": \"「お前ら急ぐぞ！　こっからは競争だ！」\",\n      \"translatedEnglishLine\": \"\\\"You guys, hurry up! From here on it’s a race!\\\"\"\n    },\n    {\n      \"lineNumber\": 188019,\n      \"originalJapaneseLine\": \"…………\",\n      \"translatedEnglishLine\": \"............\"\n    },\n    {\n      \"lineNumber\": 188020,\n      \"originalJapaneseLine\": \"……\",\n      \"translatedEnglishLine\": \"...\"\n    },\n    {\n      \"lineNumber\": 188021,\n      \"originalJapaneseLine\": \"永久地下牢、ランス達がいる場所とは\",\n      \"translatedEnglishLine\": \"At the permanent underground prison, separate from where Rance and the others are,\"\n    },\n    {\n      \"lineNumber\": 188022,\n      \"originalJapaneseLine\": \"別の地点では150名からなる、\",\n      \"translatedEnglishLine\": \"from another point, a 150-member elite demon army\"\n    },\n    {\n      \"lineNumber\": 188023,\n      \"originalJapaneseLine\": \"魔軍の精鋭部隊が奥を目指し進む。\",\n      \"translatedEnglishLine\": \"advanced toward the depths.\"\n    },\n    {\n      \"lineNumber\": 188024,\n      \"originalJapaneseLine\": \"その先頭を歩く集団が\",\n      \"translatedEnglishLine\": \"The group walking at the front\"\n    },\n    {\n      \"lineNumber\": 188025,\n      \"originalJapaneseLine\": \"元気いっぱいに歌っていた。\",\n      \"translatedEnglishLine\": \"was singing energetically.\"\n    },\n    {\n      \"lineNumber\": 188026,\n      \"originalJapaneseLine\": \"「ワーーーンワンワンワン♪」\",\n      \"translatedEnglishLine\": \"\\\"Waan waan waan waan♪\\\"\"\n    },\n    {\n      \"lineNumber\": 188027,\n      \"originalJapaneseLine\": \"「わんわんわん（合いの手）」\",\n      \"translatedEnglishLine\": \"\\\"Wan wan wan (call and response)\\\"\"\n    },\n    {\n      \"lineNumber\": 188028,\n      \"originalJapaneseLine\": \"「ワンのワンのワンワワン♪\",\n      \"translatedEnglishLine\": \"\\\"Wan no wan no wan wawan♪\"\n    },\n    {\n      \"lineNumber\": 188029,\n      \"originalJapaneseLine\": \"　ワーーーーン、ワンワン♪」\",\n      \"translatedEnglishLine\": \"Waaaan, wan wan♪\\\"\"\n    },\n    {\n      \"lineNumber\": 188030,\n      \"originalJapaneseLine\": \"「わんわんわん（合いの手）」\",\n      \"translatedEnglishLine\": \"\\\"Wan wan wan (call and response)\\\"\"\n    },\n    {\n      \"lineNumber\": 188031,\n      \"originalJapaneseLine\": \"「…………はあ」\",\n      \"translatedEnglishLine\": \"\\\"...Haa.\\\"\"\n    }\n  ]\n}",
     "output_parsed": {

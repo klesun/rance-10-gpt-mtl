@@ -1,16 +1,8 @@
 {
     "id": "resp_06201aeab7ef94660068f25062f39881959fd1b007818dcaf0",
-    "object": "response",
     "created_at": 1760710754,
-    "status": "completed",
-    "background": false,
-    "billing": {
-        "payer": "developer"
-    },
-    "error": null,
     "incomplete_details": null,
     "instructions": null,
-    "max_output_tokens": null,
     "max_tool_calls": null,
     "model": "gpt-4.1-mini-2025-04-14",
     "parallel_tool_calls": true,
@@ -24,55 +16,6 @@
     "service_tier": "default",
     "store": true,
     "temperature": 1,
-    "text": {
-        "format": {
-            "type": "json_schema",
-            "description": null,
-            "name": "TranslationJSONOutput",
-            "schema": {
-                "name": "Japanese lines translation to English",
-                "type": "object",
-                "additionalProperties": false,
-                "required": [
-                    "translationLines"
-                ],
-                "properties": {
-                    "translationLines": {
-                        "type": "array",
-                        "description": "Array of objects, each representing a line from the input",
-                        "items": {
-                            "type": "object",
-                            "additionalProperties": false,
-                            "required": [
-                                "lineNumber",
-                                "originalJapaneseLine",
-                                "translatedEnglishLine"
-                            ],
-                            "properties": {
-                                "lineNumber": {
-                                    "type": "integer",
-                                    "description": "1-based",
-                                    "nullable": false
-                                },
-                                "originalJapaneseLine": {
-                                    "type": "string",
-                                    "description": "The original line in Japanese exactly as it was in the input",
-                                    "nullable": false
-                                },
-                                "translatedEnglishLine": {
-                                    "type": "string",
-                                    "description": "The original line translated to English",
-                                    "nullable": false
-                                }
-                            }
-                        }
-                    }
-                }
-            },
-            "strict": true
-        },
-        "verbosity": "medium"
-    },
     "tool_choice": "auto",
     "tools": [],
     "top_logprobs": 0,
@@ -89,7 +32,6 @@
         },
         "total_tokens": 5196
     },
-    "user": null,
     "metadata": {},
     "output_text": "{\n  \"translationLines\": [\n    {\n      \"lineNumber\": 260152,\n      \"originalJapaneseLine\": \"最近の状勢を見ると何か大きな変化があったと思われる\",\n      \"translatedEnglishLine\": \"Looking at the recent situation, it seems there has been some major change.\"\n    },\n    {\n      \"lineNumber\": 260153,\n      \"originalJapaneseLine\": \"神がいなくなったりしているのだろ。それに勇者もルール通りに承継されずに\",\n      \"translatedEnglishLine\": \"Gods have disappeared or something. Also, the hero didn’t succeed according to the rules.\"\n    },\n    {\n      \"lineNumber\": 260154,\n      \"originalJapaneseLine\": \"あのアホがゾンビになっていたそうだしな。\",\n      \"translatedEnglishLine\": \"I heard that idiot has become a zombie.\"\n    },\n    {\n      \"lineNumber\": 260155,\n      \"originalJapaneseLine\": \"魔王も何か変化があるだろう。\",\n      \"translatedEnglishLine\": \"There must be some changes with the Demon King as well.\"\n    },\n    {\n      \"lineNumber\": 260156,\n      \"originalJapaneseLine\": \"もしかしたらある日、突然　魔王でなくなるかもしれないぞ、がはは\",\n      \"translatedEnglishLine\": \"Maybe one day, suddenly, he might stop being the Demon King, haha!\"\n    },\n    {\n      \"lineNumber\": 260157,\n      \"originalJapaneseLine\": \"いや、それはあまりにも楽観視しすぎだ。\",\n      \"translatedEnglishLine\": \"No, that’s way too optimistic.\"\n    },\n    {\n      \"lineNumber\": 260158,\n      \"originalJapaneseLine\": \"だが、それくらい前向きに行動していく方がよいとホーネットとか\",\n      \"translatedEnglishLine\": \"But Hornet and others say it’s better to act with that much positivity.\"\n    },\n    {\n      \"lineNumber\": 260159,\n      \"originalJapaneseLine\": \"誰かが学者に報告、ランスへの報告ではない\",\n      \"translatedEnglishLine\": \"Someone reported to the scholars, but it was not a report to Rance.\"\n    },\n    {\n      \"lineNumber\": 260160,\n      \"originalJapaneseLine\": \"　大怪獣クエルプランがヘルマン南部に現た\",\n      \"translatedEnglishLine\": \"A giant monster Quelplan appeared in the southern part of Herman.\"\n    },\n    {\n      \"lineNumber\": 260161,\n      \"originalJapaneseLine\": \"　そうか、一応監視を続けるように\",\n      \"translatedEnglishLine\": \"I see. Be sure to continue monitoring it.\"\n    },\n    {\n      \"lineNumber\": 260162,\n      \"originalJapaneseLine\": \"それをちらっと聞いていたランスは\",\n      \"translatedEnglishLine\": \"Rance, who overheard that a bit,\"\n    },\n    {\n      \"lineNumber\": 260163,\n      \"originalJapaneseLine\": \"まて、暇だから退治する事にするぞ\",\n      \"translatedEnglishLine\": \"Wait, I’m bored so I’ll go and exterminate it.\"\n    },\n    {\n      \"lineNumber\": 260164,\n      \"originalJapaneseLine\": \"　\",\n      \"translatedEnglishLine\": \"\"\n    },\n    {\n      \"lineNumber\": 260165,\n      \"originalJapaneseLine\": \"誰かが言う\",\n      \"translatedEnglishLine\": \"Someone says,\"\n    },\n    {\n      \"lineNumber\": 260166,\n      \"originalJapaneseLine\": \"それは必要ない\",\n      \"translatedEnglishLine\": \"That’s unnecessary.\"\n    },\n    {\n      \"lineNumber\": 260167,\n      \"originalJapaneseLine\": \"大怪獣クエルプランは、すぐに消えます。放置で問題無い\",\n      \"translatedEnglishLine\": \"The giant monster Quelplan will disappear soon. Leaving it alone is no problem.\"\n    },\n    {\n      \"lineNumber\": 260168,\n      \"originalJapaneseLine\": \"そしてとんでもなく危険な存在です。\",\n      \"translatedEnglishLine\": \"And it’s an extremely dangerous existence.\"\n    },\n    {\n      \"lineNumber\": 260169,\n      \"originalJapaneseLine\": \"暴走した神と言われて居ます。魔王様でも危険です。\",\n      \"translatedEnglishLine\": \"It is said to be a rampaging god. Even the Demon King is in danger.\"\n    },\n    {\n      \"lineNumber\": 260170,\n      \"originalJapaneseLine\": \"リセットも補足\",\n      \"translatedEnglishLine\": \"Reset also added,\"\n    },\n    {\n      \"lineNumber\": 260171,\n      \"originalJapaneseLine\": \"　自分達も飲み込まれて危ない目に会いました\",\n      \"translatedEnglishLine\": \"We ourselves were swallowed and faced danger.\"\n    },\n    {\n      \"lineNumber\": 260172,\n      \"originalJapaneseLine\": \"　みんな吸収されて消滅してしまう所でした\",\n      \"translatedEnglishLine\": \"Everyone was about to be absorbed and disappear.\"\n    },\n    {\n      \"lineNumber\": 260173,\n      \"originalJapaneseLine\": \"　ダークランス兄さんが長年かけて育てた宝剣グラムも吸収されたし\",\n      \"translatedEnglishLine\": \"The treasured sword Gram, which Dark Rance brother nurtured for many years, was also absorbed.\"\n    },\n    {\n      \"lineNumber\": 260174,\n      \"originalJapaneseLine\": \"　私達もいくつかの力を失いました\",\n      \"translatedEnglishLine\": \"We also lost some of our powers.\"\n    },\n    {\n      \"lineNumber\": 260175,\n      \"originalJapaneseLine\": \"とにかく、せっかくランスが元に戻ったのだし、シィルさんも一緒なんだし\",\n      \"translatedEnglishLine\": \"Anyway, since Rance has finally returned and Shial is with him,\"\n    },\n    {\n      \"lineNumber\": 260176,\n      \"originalJapaneseLine\": \"あぶない事をわざわざする必要はないと\",\n      \"translatedEnglishLine\": \"There’s no need to do dangerous things intentionally.\"\n    },\n    {\n      \"lineNumber\": 260177,\n      \"originalJapaneseLine\": \"　\",\n      \"translatedEnglishLine\": \"\"\n    },\n    {\n      \"lineNumber\": 260178,\n      \"originalJapaneseLine\": \"いーや、俺様は魔王だ。この世界の支配者だ。\",\n      \"translatedEnglishLine\": \"Nope, I am the Demon King. I am the ruler of this world.\"\n    },\n    {\n      \"lineNumber\": 260179,\n      \"originalJapaneseLine\": \"神も俺様を恐れていなくなったのに違いない\",\n      \"translatedEnglishLine\": \"The gods must have disappeared out of fear of me.\"\n    },\n    {\n      \"lineNumber\": 260180,\n      \"originalJapaneseLine\": \"全知全能の存在が俺様なのだ。\",\n      \"translatedEnglishLine\": \"I am the omniscient and omnipotent being.\"\n    },\n    {\n      \"lineNumber\": 260181,\n      \"originalJapaneseLine\": \"そしてこの世界で唯一、好き勝手傍若無人をしても許されるのが俺様だ\",\n      \"translatedEnglishLine\": \"And I alone am allowed to behave arbitrarily and arrogantly in this world.\"\n    },\n    {\n      \"lineNumber\": 260182,\n      \"originalJapaneseLine\": \"犯すも奪うも殺すも俺だけの権利だ\",\n      \"translatedEnglishLine\": \"To violate, steal, and kill are my exclusive rights.\"\n    },\n    {\n      \"lineNumber\": 260183,\n      \"originalJapaneseLine\": \"よって、勝手にあばれまわる大怪獣クエルプランは退治だー\",\n      \"translatedEnglishLine\": \"Therefore, I’ll exterminate the giant monster Quelplan that’s rampaging on its own!\"\n    },\n    {\n      \"lineNumber\": 260184,\n      \"originalJapaneseLine\": \"今からいくぞ、シィルそしてガキどもついてこい！\",\n      \"translatedEnglishLine\": \"I’m going now! Shial, and kids, come with me!\"\n    },\n    {\n      \"lineNumber\": 260185,\n      \"originalJapaneseLine\": \"背景　ヘルマン\",\n      \"translatedEnglishLine\": \"Background: Herman\"\n    },\n    {\n      \"lineNumber\": 260186,\n      \"originalJapaneseLine\": \"ランスとその子供達はヘルマンに到着した\",\n      \"translatedEnglishLine\": \"Rance and his children arrived at Herman.\"\n    },\n    {\n      \"lineNumber\": 260187,\n      \"originalJapaneseLine\": \"で、大怪獣はどこだ。\",\n      \"translatedEnglishLine\": \"So, where’s the giant monster?\"\n    },\n    {\n      \"lineNumber\": 260188,\n      \"originalJapaneseLine\": \"ダークランスが一人、じっと１カ所を見ている\",\n      \"translatedEnglishLine\": \"Dark Rance is standing alone, staring intently at one spot.\"\n    },\n    {\n      \"lineNumber\": 260189,\n      \"originalJapaneseLine\": \"見つけたのか\",\n      \"translatedEnglishLine\": \"Have you found it?\"\n    },\n    {\n      \"lineNumber\": 260190,\n      \"originalJapaneseLine\": \"いや、あれは・・\",\n      \"translatedEnglishLine\": \"No, that is...\"\n    },\n    {\n      \"lineNumber\": 260191,\n      \"originalJapaneseLine\": \"　\",\n      \"translatedEnglishLine\": \"\"\n    },\n    {\n      \"lineNumber\": 260192,\n      \"originalJapaneseLine\": \"現れたのは　ネプラカス爺体\",\n      \"translatedEnglishLine\": \"The one who appeared was Grandpa Neplax.\"\n    },\n    {\n      \"lineNumber\": 260193,\n      \"originalJapaneseLine\": \"ダークランスに対して怨みを持っている\",\n      \"translatedEnglishLine\": \"He harbors resentment against Dark Rance.\"\n    },\n    {\n      \"lineNumber\": 260194,\n      \"originalJapaneseLine\": \"何度も何度も邪魔をしてくれたな、ハーフの分際で、悪魔の裏切り者め\",\n      \"translatedEnglishLine\": \"You kept interfering over and over, for a half-breed, you devil's traitor.\"\n    },\n    {\n      \"lineNumber\": 260195,\n      \"originalJapaneseLine\": \"だが、自慢の宝剣グラムもクエルプランに吸われ弱体化したな\",\n      \"translatedEnglishLine\": \"But even your prized treasure sword Gram was absorbed by Quelplan and weakened.\"\n    },\n    {\n      \"lineNumber\": 260196,\n      \"originalJapaneseLine\": \"今日こそは殺してやるぞ。\",\n      \"translatedEnglishLine\": \"Today, I’ll kill you for sure.\"\n    },\n    {\n      \"lineNumber\": 260197,\n      \"originalJapaneseLine\": \"ランス「ん、なんだ、この爺、知り合いか？」\",\n      \"translatedEnglishLine\": \"Rance: 'Hmm, who is this old man? Do I know him?'\"\n    },\n    {\n      \"lineNumber\": 260198,\n      \"originalJapaneseLine\": \"ダークランス「第１階級魔神ネプラカス、悪魔による世界征服をたくらむ奴だ」\",\n      \"translatedEnglishLine\": \"Dark Rance: 'First class demon god Neplax, a fellow scheming to conquer the world through demons.'\"\n    },\n    {\n      \"lineNumber\": 260199,\n      \"originalJapaneseLine\": \"ランス「ほう、ここにも俺様の世界を侵食しようとするバカがいるのか、蹴散らしてくれる」\",\n      \"translatedEnglishLine\": \"Rance: 'Oh, so there’s an idiot here trying to invade my world. I’ll scatter him.'\"\n    },\n    {\n      \"lineNumber\": 260200,\n      \"originalJapaneseLine\": \"な、魔王ランスだと・・\",\n      \"translatedEnglishLine\": \"W-wait, it’s Demon King Rance...\"\n    },\n    {\n      \"lineNumber\": 260201,\n      \"originalJapaneseLine\": \"＞戦闘\",\n      \"translatedEnglishLine\": \">Battle\"\n    },\n    {\n      \"lineNumber\": 260202,\n      \"originalJapaneseLine\": \"ちっ・・どこかに消えやがったか。\",\n      \"translatedEnglishLine\": \"Tch... Has it disappeared somewhere?\"\n    },\n    {\n      \"lineNumber\": 260203,\n      \"originalJapaneseLine\": \"かなり傷を与えたから、しばらくはでてこないだろう\",\n      \"translatedEnglishLine\": \"I dealt considerable damage, so it probably won’t show up for a while.\"\n    },\n    {\n      \"lineNumber\": 260204,\n      \"originalJapaneseLine\": \"ネプラカスを撃破した\",\n      \"translatedEnglishLine\": \"Neplax has been defeated.\"\n    },\n    {\n      \"lineNumber\": 260205,\n      \"originalJapaneseLine\": \"　\",\n      \"translatedEnglishLine\": \"\"\n    },\n    {\n      \"lineNumber\": 260206,\n      \"originalJapaneseLine\": \"（ＣＧ：クエルプラン遭遇）\",\n      \"translatedEnglishLine\": \"(CG: Encounter with Quelplan)\"\n    },\n    {\n      \"lineNumber\": 260207,\n      \"originalJapaneseLine\": \"さて、あれが大怪獣クエルプランだな。うむ、でかいな。\",\n      \"translatedEnglishLine\": \"Now then, that is the giant monster Quelplan. Hmm, it’s huge.\"\n    },\n    {\n      \"lineNumber\": 260208,\n      \"originalJapaneseLine\": \"ん・・クエルプラン・・んんん、どこかで聞いた事のある名だな。\",\n      \"translatedEnglishLine\": \"Hmm... Quelplan... hmmm, that’s a name I’ve heard somewhere.\"\n    },\n    {\n      \"lineNumber\": 260209,\n      \"originalJapaneseLine\": \"それはそうでしょ、世界最大の厄災として有名な大怪獣ですから\",\n      \"translatedEnglishLine\": \"That’s right, it’s a giant monster famous as the greatest calamity in the world.\"\n    },\n    {\n      \"lineNumber\": 260210,\n      \"originalJapaneseLine\": \"いや、そうじゃなくて、もっと前に・・俺が人間だった頃・・\",\n      \"translatedEnglishLine\": \"No, not that. Earlier... back when I was human...\"\n    },\n    {\n      \"lineNumber\": 260211,\n      \"originalJapaneseLine\": \"・・・\",\n      \"translatedEnglishLine\": \"...\"\n    }\n  ]\n}",
     "output_parsed": {
