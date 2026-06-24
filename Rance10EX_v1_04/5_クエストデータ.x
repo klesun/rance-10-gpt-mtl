@@ -33862,7 +33862,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Take a break with Sheila.",
+					説明 = "Take a break with Sill.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
@@ -33986,7 +33986,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "Take a break with Sheila.",
+					説明 = "Take a break with Sill.",
 				},
 				分岐右 = {
 					顔画像 = "ランス",
