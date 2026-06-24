@@ -1,26 +1,15 @@
 {
     "id": "resp_0ffb51b30ae992410068ffef799d248195b9970f7ca49eeafd",
     "created_at": 1761603449,
-    "incomplete_details": null,
-    "instructions": null,
-    "max_tool_calls": null,
     "model": "gpt-4.1-mini-2025-04-14",
-    "parallel_tool_calls": true,
     "previous_response_id": null,
     "prompt_cache_key": null,
-    "reasoning": {
-        "effort": null,
-        "summary": null
-    },
-    "safety_identifier": null,
     "service_tier": "default",
     "store": true,
     "temperature": 1,
     "tool_choice": "auto",
-    "tools": [],
     "top_logprobs": 0,
     "top_p": 1,
-    "truncation": "disabled",
     "usage": {
         "input_tokens": 555,
         "input_tokens_details": {
@@ -32,8 +21,6 @@
         },
         "total_tokens": 1057
     },
-    "metadata": {},
-    "output_text": "{\"translationLines\":[{\"lineNumber\":1,\"originalJapaneseLine\":\"　このいいこと言ってる風の\",\"translatedEnglishLine\":\"This person who sounds like they're saying something wise\"},{\"lineNumber\":2,\"originalJapaneseLine\":\"　下半身のない人」\",\"translatedEnglishLine\":\"is someone without a lower body.\"},{\"lineNumber\":3,\"originalJapaneseLine\":\"「ふふふ……」\",\"translatedEnglishLine\":\"\\\"Hehehe...\\\"\"},{\"lineNumber\":4,\"originalJapaneseLine\":\"「君、下半身治らんのか？」\",\"translatedEnglishLine\":\"\\\"Hey, won't your lower body heal?\\\"\"},{\"lineNumber\":5,\"originalJapaneseLine\":\"「ちょっと時間かかりそうねぇ」\",\"translatedEnglishLine\":\"\\\"It seems like it'll take a little time.\\\"\"},{\"lineNumber\":6,\"originalJapaneseLine\":\"世界の片隅で起きた、\",\"translatedEnglishLine\":\"In a corner of the world,\"},{\"lineNumber\":7,\"originalJapaneseLine\":\"世界の危機であるラ・バスワルド事件。\",\"translatedEnglishLine\":\"the La Baswald Incident, a global crisis.\"},{\"lineNumber\":8,\"originalJapaneseLine\":\"その結末は、完全汚染人間以外の\",\"translatedEnglishLine\":\"Its outcome was, aside from the fully contaminated humans,\"},{\"lineNumber\":9,\"originalJapaneseLine\":\"被害者を出すことなく、\",\"translatedEnglishLine\":\"without causing any casualties,\"},{\"lineNumber\":10,\"originalJapaneseLine\":\"多くの者の耳目に触れることもなく終結した。\",\"translatedEnglishLine\":\"and it ended without attracting much attention from many.\"},{\"lineNumber\":11,\"originalJapaneseLine\":\"そして、ハウゼルとサイゼルは、\",\"translatedEnglishLine\":\"And then, Hauser and Saizel\"},{\"lineNumber\":12,\"originalJapaneseLine\":\"これ以後、ラ・バスワルドになることはなく――\",\"translatedEnglishLine\":\"would no longer become La Baswald from that point on—\"},{\"lineNumber\":13,\"originalJapaneseLine\":\"破壊した町の修繕に\",\"translatedEnglishLine\":\"instead, faced the difficulty of repairing the destroyed town.\"},{\"lineNumber\":14,\"originalJapaneseLine\":\"苦労することとなるのであった。\",\"translatedEnglishLine\":\"They had to struggle with that.\"}]}",
     "output_parsed": {
         "translationLines": [
             {
