@@ -847,22 +847,22 @@ TOREDO MAKU\tHER TRADEMARK.
 さらにその最前で、リーザス軍２０万を背に帯びて\tAt the very front of that, wielding the retractable magic sword Bai Road with 200,000 Lisas troops behind them,
 伸縮する魔法剣バイ・ロードを打ち振るい、\tswinging the expanding and contracting magic sword Bai Road,
 赤い死神が戦場を切り裂く\tthe Red Reaper tears through the battlefield.
-メナド・シセイ\tMenado Shisei
+メナド・シセイ\tMenad Shisei
 リーザス第３軍（赤の軍）副将\tLisas 3rd Army (Red Army) Vice Commander
 剣１、裁縫１\tSword 1, Sewing 1
 正義感が強い女の子で、人々を守るために軍に入った\tA girl with a strong sense of justice who joined the army to protect people.
 リーザス城の門番から始まり、赤の軍に編入されると\tStarting as a gatekeeper at Lisas Castle, she was transferred to the Red Army,
 みるみる武功を積み重ね、副将にまで駆け上がった\tquickly accumulating military achievements and rising to the rank of vice commander.
 かなみとはプライベートでもお友達\tShe is also friends with Kanami in private.
-メナド・シセイ\tMenado Shisei
+メナド・シセイ\tMenad Shisei
 リーザス第３軍（赤の軍）副将\tLisas 3rd Army (Red Army) Vice Commander
 剣１、裁縫１\tSword 1, Sewing 1
 リアが王として即位する戴冠式の日。王家と険悪関係に\tOn the day of Ria's coronation as king. Some Lisas nobles who had a hostile relationship with the royal family
 あった一部のリーザス貴族がクーデータを起こした\tstarted a coup d'état.
-メナドは情報を察知したかなみと協力してこれを阻止\tMenado, cooperating with Kanami who sensed the information, stopped it.
+メナドは情報を察知したかなみと協力してこれを阻止\tMenad, cooperating with Kanami who sensed the information, stopped it.
 首謀者を討ち取る獅子奮迅の働きを見せた。\tShe showed lion-like fierce efforts by defeating the ringleader.
-この武功によりメナドは赤の軍副将となった。\tDue to this military achievement, Menado became the vice commander of the Red Army.
-メナド・シセイ\tMenado Shisei
+この武功によりメナドは赤の軍副将となった。\tDue to this military achievement, Menad became the vice commander of the Red Army.
+メナド・シセイ\tMenad Shisei
 リーザス第３軍（赤の軍）副将\tLisas 3rd Army (Red Army) Vice Commander
 剣１、裁縫１\tSword 1, Sewing 1
 門番時代にランスに出会い、抱かれている\tShe met Rance during her gatekeeper days and has been embraced by him.
