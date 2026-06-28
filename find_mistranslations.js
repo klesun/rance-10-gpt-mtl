@@ -48,7 +48,13 @@ for (const chunkFile of chunkFiles) {
                     charToSentencedToCount[shortNameEng][sentenceName] = charToSentencedToCount[shortNameEng][sentenceName] ?? 0;
                     ++charToSentencedToCount[shortNameEng][sentenceName];
                 }
-                if (shortNameEng !== 'Kou' && shortNameEng !== 'Lia' && shortNameEng !== 'Rance' && sentenceNames.length > 0 && shortNameEng !== "Sioux") {
+                if (shortNameEng !== 'Kou' &&
+                    shortNameEng !== 'Lia' &&
+                    shortNameEng !== 'Rance' &&
+                    shortNameEng !== 'Ms. Crook' &&
+                    sentenceNames.length > 0 &&
+                    shortNameEng !== "Sioux"
+                ) {
                     console.log("Missing name in translation: " + lineRecord.lineNumber + " - " + shortNameEng + " | " + sentenceNames.join(",") + " | " + lineRecord.translatedEnglishLine);
                 }
             }
