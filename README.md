@@ -43,3 +43,10 @@ ______________________________________
 ## To replace images from [Rance10Flat_v1_04](Rance10Flat_v1_04)
 - Copy-replace the [Rance10Flat_v1_04](Rance10Flat_v1_04) folder into the /flat/ folder extracted from `Rance10Flat.afa` in Program Files
 - Run from the game installation directory in Program Files: `c:\m\alice-tools\alice.exe ar pack .\Rance10Flat_manifest.txt`
+
+## To replace images from [Rance10CG2_v1_04](Rance10CG2_v1_04)
+- Change the extension of the translated image from .ajp.png to just .png
+- Update [Rance10CG2_manifest.txt](Rance10CG2_manifest.txt) - change the extension of this image entry there from .ajp to .png
+- Copy-replace new images to [CG2-raw](CG2-raw)
+- Run `c:\m\alice-tools\alice.exe ar pack .\Rance10CG2_manifest.txt`
+- After that, if there were no errors, when you next start the game, the images should be updated

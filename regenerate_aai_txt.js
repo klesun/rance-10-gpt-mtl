@@ -86,13 +86,11 @@ const normalizeNames = (lineRecord) => {
         if (sentence.includes(shortNameEng)) {
             continue;
         }
-        for (const mistranslation of nameRecord.knownMistranslations) {
+        for (const mistranslation of [...nameRecord.knownMistranslations].sort((a,b) => b.length - a.length)) {
             const beforeUpdate = sentence;
             sentence = sentence.replaceAll(mistranslation, shortNameEng);
             if (beforeUpdate !== sentence) {
-                if (lineRecord.lineNumber === 130051) {
-                    console.log("Replace: ", beforeUpdate, mistranslation, sentence);
-                }
+                break;
             }
         }
     }

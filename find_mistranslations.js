@@ -19,7 +19,7 @@ const chunkFiles = chunkFileNames
     .sort((a,b) => a.startLineNumber - b.startLineNumber);
 
 const getSentenceNames = (sentence) => {
-    const matches = sentence.matchAll(/[^^.!?] ([A-Z]\w+(?:\s+[A-Z]\w+)*)/g);
+    const matches = sentence.matchAll(/[^^.!?] ?([A-Z][\w-]+(?:\s+[A-Z][\w-]+)*)/g);
     return [...matches].map(m => m[1])
 };
 
@@ -35,7 +35,7 @@ for (const chunkFile of chunkFiles) {
             }
             const sentence = lineRecord.translatedEnglishLine;
             const shortNameEng = nameRecord.shortNameEng;
-            if (sentence.includes(shortNameEng)) {
+            if (sentence.includes(shortNameEng) || shortNameEng === "Hanny" && sentence.toLowerCase().includes("hannies")) {
                 continue;
             }
             const alreadyRecorded = nameRecord.knownMistranslations.some(mistranslation => {
@@ -48,7 +48,15 @@ for (const chunkFile of chunkFiles) {
                     charToSentencedToCount[shortNameEng][sentenceName] = charToSentencedToCount[shortNameEng][sentenceName] ?? 0;
                     ++charToSentencedToCount[shortNameEng][sentenceName];
                 }
-                console.log("Missing name in translation: " + lineRecord.lineNumber + " - " + lineRecord.translatedEnglishLine + " | " + shortNameEng);
+                if (shortNameEng !== 'Kou' &&
+                    shortNameEng !== 'Lia' &&
+                    shortNameEng !== 'Rance' &&
+                    shortNameEng !== 'Ms. Crook' &&
+                    sentenceNames.length > 0 &&
+                    shortNameEng !== "Sioux"
+                ) {
+                    console.log("Missing name in translation: " + lineRecord.lineNumber + " - " + shortNameEng + " | " + sentenceNames.join(",") + " | " + lineRecord.translatedEnglishLine);
+                }
             }
         }
     }

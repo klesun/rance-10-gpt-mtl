@@ -368,7 +368,7 @@ TOREDO MAKU\tHER TRADEMARK.
 鎚１\tHammer 1
 元盗賊団のボス。ランスと出会うまで\tFormer leader of a band of thieves. Until meeting Lance,
 女扱いされない人生に荒みグレていた\tShe lived a rough life, never treated like a woman.
-法王クルックーと友達になった縁から、彼女の\tAs a result of becoming friends with Pope Kurukku,
+法王クルックーと友達になった縁から、彼女の\tAs a result of becoming friends with Pope Crook,
 お忍びの冒険では護衛としてよくお供をしている\tShe often accompanies her as a bodyguard on secret adventures.
 アルカネーゼ・ライズ\tArkanese Rise
 ランスの舎弟 法王の護衛\tLance's subordinate and the Pope's bodyguard.
@@ -485,7 +485,7 @@ TOREDO MAKU\tHER TRADEMARK.
 ようこそ まよえるこひつじよ\tWelcome, wandering lamb.
 ほんじつはきょうかいに どんなごようですか？\tWhat brings you to the church today?
 なかまをいきかえらせてほしいのですか？むりです\tDo you want me to revive your companions? That's impossible.
-クルックー・モフス\tKurukkuu Mofusu
+クルックー・モフス\tCrooku Mofusu
 ＡＬ教法王\tAL Church Pope
 神魔法３、冒険１\tDivine Magic 3, Adventure 1
 司教の時代から、男に、魅力的に見えなくする\tSince his time as a bishop, he has made himself unattractive to men.
