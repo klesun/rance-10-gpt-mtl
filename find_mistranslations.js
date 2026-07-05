@@ -50,6 +50,9 @@ for (const chunkFile of chunkFiles) {
                 }
                 if (shortNameEng !== 'Kou' &&
                     shortNameEng !== 'Lia' &&
+                    shortNameEng !== 'Lei' &&
+                    shortNameEng !== 'Am' &&
+                    shortNameEng !== 'Root' &&
                     shortNameEng !== 'Rance' &&
                     shortNameEng !== 'Ms. Crook' &&
                     sentenceNames.length > 0 &&
