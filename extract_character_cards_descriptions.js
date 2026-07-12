@@ -675,14 +675,14 @@ TOREDO MAKU\tHER TRADEMARK.
 シャリエラ\tShaliera
 ホムンクルス\tHomunculus
 踊り子２\tDancer 2
-悪魔バンオペタがデスココの願いにもとづき\tThe demon Vanopeta, following Death Coco’s wish,
+悪魔バンオペタがデスココの願いにもとづき\tThe demon Vanopeta, following Descoco’s wish,
 生み出したホムンクルスの一人\tcreated her as one of the homunculi.
 その中で唯一、彼女のみが\tAmong them, only she
 自我と魂を持つ「完成品」であった\twas the "completed product" possessing self-awareness and a soul.
 シャリエラ\tShaliera
 ホムンクルス\tHomunculus
 踊り子２\tDancer 2
-デスココはその他の多くの人形とは異なり\tUnlike many other dolls, Death Coco
+デスココはその他の多くの人形とは異なり\tUnlike many other dolls, Descoco
 シャリエラを閨に呼ぶ事は無かった\tnever called Shaliera to her bed.
 メディウサやケイブリスもまた、\tMedusa and Kayblis also,
 彼女を破壊しないよう自重したため、\trefrained from harming her,
