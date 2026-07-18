@@ -61,8 +61,8 @@ Purpose: fixing gender pronoun errors in `/gpt_outputs/` and `/gpt_outputs_v104/
 | Apostle Juno | 使徒 ジュノー | Male | RX |
 | Apostle Kaen Shoshi | 使徒 火炎書士 | ? | RX |
 | Apostle Kanayo | 使徒 加奈代 | Female | RX |
-| Apostle Kaybnyan |  | Female | RX |
-| Apostle Kaybwan |  | Female | RX |
+| Apostle Kaybnyan | ケイブニャン | Female | RX |
+| Apostle Kaybwan | ケイブワン | Female | RX |
 | Apostle Lilim | 使徒 リリム | Female | RX |
 | Apostle Paleloa | 使徒 パレロア | Female | RX |
 | Apostle Sapphire | 使徒 サファイア | Female | RX |
@@ -100,7 +100,7 @@ Purpose: fixing gender pronoun errors in `/gpt_outputs/` and `/gpt_outputs_v104/
 | Chaka Cadmium |  | ? | RX |
 | Chaos | カオス | Male | R01 RX |
 | Chisa Gode | チサ・ゴード | Female | RQ |
-| Chizuko Yamada / Yamada Chizuko |  | Female | RVI RX |
+| Chizuko Yamada / Yamada Chizuko | 山田 千鶴子 | Female | RVI RX |
 | Chochoman Public | チョチョマン・パブリック | Male | RX |
 | Colin Coccolin | コリン・コッコリン | Female | RQ |
 | Convert Tax | コンバート・タックス | Male | RX |
@@ -254,7 +254,7 @@ Purpose: fixing gender pronoun errors in `/gpt_outputs/` and `/gpt_outputs_v104/
 | Nay Wrong | ネイ ヲロング | Female | RQ |
 | Necai Sys | ネカイ・シス | Female | R5D |
 | Nelson Server | ネルソン・サーバー | Male | RX |
-| Nero Chapet VII |  | Male | RIII |
+| Nero Chapet VII | ネロ・チャペット7世 | Male | RIII |
 | Nikkou / Holy Katana Nikkou | 日光 | Female | SR RX |
 | Nimitz Leak | ニミッツ リーク | Female | RX |
 | Noah Sailing | ノア・セーリング | Female | RX |
