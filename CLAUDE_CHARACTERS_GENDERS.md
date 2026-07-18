@@ -48,6 +48,9 @@ After each context compression event, the first thing you must do is read this f
 | Not reading this file after context compaction | CLAUDE.md is loaded in context automatically — there is no excuse for skipping the mandatory startup reads. | After every compaction: read this file and all memory files BEFORE editing anything. |
 | Not recording user corrections and commands in this file | User explicitly said to record corrections here so they are not forgotten. | Add every user correction and command to this Past Mistakes table immediately. |
 | Describing edits by listing what changed, without saying why | User: "don't comment on what you do, comment why you do that." Stating the reason (wrong pronoun, name standard, etc.) is what matters — the diff already shows what changed. | Always explain the reason for a change, not just the before/after. |
+| Splitting a line by leaving the second line without a subject ("took out a single sheet of paper.") | English needs a subject in each standalone sentence. The first attempt "Maris, from a drawer stuffed with documents," / "took out..." has no subject on line 2. | When splitting across two lines, ensure each line is grammatically self-contained OR the second line is a clear continuation with a conjunction like "and". |
+| Adding movement/action that isn't in the Japanese ("Maris went to a drawer...") | マリスは書類が詰まった引き出しから、 says nothing about walking or going anywhere — just "from a drawer". Adding verbs not in the source is mistranslation. | Only translate what is actually in the Japanese. Don't infer implied actions. |
+| Attempting to split merged sentences across two lines | User: "don't mess with splitting sentences, you suck at it." Every attempt has produced awkward or wrong English. | Do NOT split sentences. If GPT merged two Japanese lines into one English line and left the second empty, leave it as-is. Only fix pronouns, name spellings, and clear logical/content errors. |
 
 ---
 
