@@ -67,6 +67,9 @@ After each context compression event, the first thing you must do is read this f
 | **Warg** | Harsh name — **FEMALE** |
 | **Mi Lordring** | Bishop of AL Church — **MALE** |
 | **Chochoman Public** | Zeth Four Lord — **MALE** |
+| **LeMay** | Monster Army General, named after historical figure — **MALE** (wiki confirmed). GPT may write "Lady LeMay" — fix to "Lord LeMay". |
+| **Kola** (Cola) | Male, but a big reveal at line ~21996 — use "Kola" or "the angel" before the reveal to avoid exposing gender. After reveal: he/him. |
+| **Yutin Fulz** | Copandon's secretary — **Hermaphrodite** (wiki: "Sex Hermaphrodite"). Use they/them or avoid gendered pronouns. |
 
 ---
 
@@ -93,6 +96,7 @@ After each context compression event, the first thing you must do is read this f
 | Andelmille | アンデルミィル | Female | RQ |
 | Anise Sawatari | アニス・沢渡 | Female | RX |
 | Anokia Moemoe Slin | アノキア・モエモエ・スリン | Female | RQ |
+| Aoi | あおい | Female | RX |
 | Apostle Alcarria | 使徒 アルカリア | Female | RX |
 | Apostle Atlanta | 使徒 アトランタ | Female | RX |
 | Apostle Aurora | 使徒 オーロラ | Female | RX |
@@ -101,7 +105,7 @@ After each context compression event, the first thing you must do is read this f
 | Apostle Garnet | 使徒 ガーネット | Female | RX |
 | Apostle Gigai | 使徒 戯骸 | Male | RX |
 | Apostle Juno | 使徒 ジュノー | Male | RX |
-| Apostle Kaen Shoshi | 使徒 火炎書士 | ? | RX |
+| Apostle Kaen Shoshi | 使徒 火炎書士 | Female | RX |
 | Apostle Kanayo | 使徒 加奈代 | Female | RX |
 | Apostle Kaybnyan | ケイブニャン | Female | RX |
 | Apostle Kaybwan | ケイブワン | Female | RX |
@@ -124,19 +128,23 @@ After each context compression event, the first thing you must do is read this f
 | Athena 2.0 | あてな2号 | Female | RX |
 | Babolat | バボラ | Male | RVI RX |
 | Barres Province | バレス・プロヴァンス | Male | RIII RX |
+| Battling Centers | バッティング・センターズ | Male | RX |
 | Bashou Matio |  | Male | SR |
 | Bernard Seramite | バーナード・セラミテ | Male | RX |
 | Bintan Destra | ビンタン・デストラー | ? | RIII |
 | Bird Lithfie | バード・リスフィ | Male | RQ RX |
 | Biscuitta Berns / Biscuitta Burns | ビスケッタ・ベルンズ | Female | RX |
+| Black Swan | ブラックスワン | Female | RIX |
 | Bitch Golch | ビッチ・ゴルチ | Male | RQ |
 | Bobza Flanders | ボブザ・フランダース | Male | RQ |
 | British | ブリティシュ | Male | RX |
 | Caesar | シーザー | Male | RX |
+| Café Artful | カフェ・アートフル | Female | RX |
 | Caloria Cricket | カロリア・クリケット | Female | RX |
 | Camilla | カミーラ | Female | RVI RX |
 | Captain Vanilla | キャプテン バニラ | Female | SR |
 | Carolie Mate / Calory Mate | キャロリ・メイト | Female | RX |
+| Cecil Carna | セシル・カーナ | Female | RX |
 | Cessna Benville | セスナ・ベンビール | Female | RQ |
 | Cetina Favo | セティナ・ファーボ | Female | R5D |
 | Chaka Cadmium |  | ? | RX |
@@ -189,6 +197,7 @@ After each context compression event, the first thing you must do is read this f
 | Hara Aki | 原 阿樹 | Female | SR |
 | Hara Shouji | 原 昌示 | Female | SR |
 | Haurein Province | ハウレーン・プロヴァンス | Female | RX |
+| Hecate | ヘケート | Female | RQ RX |
 | Heidi Pankrau | ハイジ・パンクラウ | Female | RX |
 | Henderson Dauntless | ヘンダーソン・ドーントレス | Male | RQ |
 | Hibachi | 火鉢 | ? | SR |
@@ -237,6 +246,7 @@ After each context compression event, the first thing you must do is read this f
 | Kite | カイト | Male | RQ |
 | Klean Bew | クリン・ビゥ | Female | RX |
 | Kobayakawa Chinu | 小早川 ちぬ | Female | SR RX |
+| Kola (Cola) | コーラ | Male | RX |
 | Kousaka Yoshikage | 高坂 義風 | Male | SR |
 | Koushuuin Hazuki | 甲州院 葉月 | Female | SR |
 | Krutche Muffin | クルーチェ・マフィン | Female | RX |
@@ -248,6 +258,7 @@ After each context compression event, the first thing you must do is read this f
 | La Vaswald | ラ・バスワルド | Female | RX |
 | Lark Pikespeak | ラーク・パイクスピーク | Male | RQ |
 | Launea |  | ? | RX |
+| LeMay | ルメイ | Male | RX |
 | Lei | レイ | Male | RX |
 | Leila Grecni | レイラ・グレクニー | Female | R01 RX |
 | Lelyukov Berkov | レリューコフ・バーコフ | Male | RIX |
@@ -265,8 +276,10 @@ After each context compression event, the first thing you must do is read this f
 | Makutsudou Nobuhiko | 魔窟堂 野武彦 | ? | SR |
 | Maria Custard | マリア・カスタード | Female | RIII RX |
 | Maris Amaryllis | マリス・アマリリス | Female | RX |
+| Martina Curry | マルチナ・カレー | Female | RX |
 | Mary Ann | メアリー・アン | Female | RX |
 | Masou Shizuka / Shizuka Masou | 魔想 志津香 | Female | RIII RX |
+| Masuzoe | ますぞゑ | Male | RX |
 | Matilda Mateuri | マチルダ・マテウリ | Female | SR |
 | Medusa | メディウサ | Female | RVI RX |
 | Megadeath Moromi | メガデス・モロミ | Female | SR RX |
@@ -318,6 +331,8 @@ After each context compression event, the first thing you must do is read this f
 | Ouka Toki | 凰火 朱鷺 | ? | SR |
 | Pamela Helman | パメラ・ヘルマン | Female | RIII RIX |
 | Papaya Server | パパイア・サーバー | Female | RX |
+| Papdimus Scirsabun (Papademas Shirusven) | — | Male | RX |
+| Parsley Rig Zeth | パセリ・リグ・ゼス | Female | RX |
 | Pastel Kalar | パステル・カラー | Female | RX |
 | Patricia Bacon |  | Female | RX |
 | Patton Misnarge / Patton Helman | パットン・ミスナルジ | Male | RIII RIX RX |
@@ -326,6 +341,7 @@ After each context compression event, the first thing you must do is read this f
 | Pi-R | パイアール | Male | RX |
 | Pigu Geliciam | ピグ・ギリシアム | Female | RX |
 | Pitten Chao | ピッテン・チャオ | Male | RX |
+| Pizarro | — | ? | RX |
 | Pluepet | プルーペット | Male | RX |
 | Poron Chao | ポロン・チャオ | Male | RX |
 | Potauf Tokrev | ポートフ・トカレフ | Male | RIX |
@@ -372,7 +388,7 @@ After each context compression event, the first thing you must do is read this f
 | Senhime / Tokugawa Sen | 徳川千 | Female | SR RX |
 | Sepia Landstarr | セピア・ランドスター | Male | RQ |
 | Seyadatara | セヤダタラ | Female | RQ |
-| Shariela | シャリエラ | Female | RX |
+| Shariela Aries | シャリエラ・アリエス | Female | RX |
 | Sheila Helman | シーラ・ヘルマン | Female | RIX RX |
 | Shichisei | 七星 | Male | SR |
 | Shibata Katsuie | 柴田 勝家 | Male | SR |
@@ -417,15 +433,17 @@ After each context compression event, the first thing you must do is read this f
 | Yamada Chizuko / Chizuko Yamada | 山田 千鶴子 | Female | RVI RX |
 | Yamanaka Kojika | 山中 子鹿 | Female | SR |
 | Yamamoto Isoroku | 山本 五十六 | Female | SR RX |
-| Yamisagi | 闇鷺 | Female | RX |
+| Yamisagi / Dark Heron | 闇鷺 | Female | RX |
 | Yoshikawa Machiko | 芳川 真知子 | Female | SR |
 | Yoshikawa Kyouko | 芳川 今日子 | ? | SR |
 | Youko | 洋子 | Female | SR |
 | Yuki Del | ユキ・デル | Female | RIV |
 | Yukichi | 諭吉 | Male | RX |
 | Yulang Mirage | ユラン・ミラージユ | Female | RQ |
+| Yutin Fulz | ユーティン・フルズ | Hermaphrodite | RX |
 | Yuzuhara Yuzumi | 柚原 柚美 | Female | SR RX |
 | Yvette Cheria | イベット・チェリア | Female | RQ |
+| Zedong | ツォトン | Male | RX |
 | Zima Bakasko | ジーマ・バカスコ | Female | RQ |
 | Zulki Crown | ズルキ・クラウン | Male | RX |
 
