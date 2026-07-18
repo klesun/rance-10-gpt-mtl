@@ -44,6 +44,10 @@ After each context compression event, the first thing you must do is read this f
 | Added/changed spacing within lines | User: "why are you butchering spaces?" | Same — no formatting changes, only content. |
 | Fixing pronoun without consulting this file | Led to wrong Galtia fix. User: "use the fucking REFERENCE FILE." | Read this file before every pronoun change. |
 | Inferring character gender from translation context | This file is the source of truth. Never "learn" genders from the text — only correct text based on this file. | Trust the reference, not the narrative. |
+| "Fixing" a two-line split by rewriting both lines into an unnatural form | User: "don't butcher the lines." Split fixes must sound natural — if the result is awkward, leave the original as-is. | Only split lines when the result reads naturally. When in doubt, leave the original GPT translation. |
+| Not reading this file after context compaction | CLAUDE.md is loaded in context automatically — there is no excuse for skipping the mandatory startup reads. | After every compaction: read this file and all memory files BEFORE editing anything. |
+| Not recording user corrections and commands in this file | User explicitly said to record corrections here so they are not forgotten. | Add every user correction and command to this Past Mistakes table immediately. |
+| Describing edits by listing what changed, without saying why | User: "don't comment on what you do, comment why you do that." Stating the reason (wrong pronoun, name standard, etc.) is what matters — the diff already shows what changed. | Always explain the reason for a change, not just the before/after. |
 
 ---
 
