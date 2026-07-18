@@ -5,6 +5,48 @@ Purpose: fixing gender pronoun errors in `/gpt_outputs/` and `/gpt_outputs_v104/
 
 ---
 
+## ⚠ OPERATIONAL RULES — READ THIS FIRST AFTER EVERY COMPRESSION
+
+**1. NO SCRIPTS, NO SOFTWARE.**
+The user explicitly forbade any automation: "YOU ARE NOT ALLOWED TO WRITE ANY SCRIPTS", "DON'T USE ANY SOFTWARE". Use only the Read and Edit tools directly on each JSON file.
+
+**2. READ MANUALLY, WITH CONTEXT.**
+Each line is a continuation of the story from the previous line. You must keep that context to correctly identify pronoun errors (who is speaking, who is being spoken about).
+
+**3. PRIMARY GOAL = PRONOUN ERRORS.**
+Fix gender pronouns (he/she, him/her, his/hers) and also person/speaker mixups (you/me, she/you) when clearly wrong. Always check this reference file before fixing any pronoun.
+
+**4. SECONDARY GOAL = WRONG CHARACTER NAME SPELLINGS.**
+GPT sometimes mistranslates names. Fix these when spotted: e.g. "Kular" → "Kalar", "Lance" → "Rance", "Kululuku" → "Crook". Name spelling standard = VNDB / MiraHeze wiki.
+
+**5. DO NOT REFORMAT LINES.**
+Do not remove or add leading spaces, do not change punctuation or formatting. Only fix the translation content. "I asked you to correct the translation, not to reformat lines."
+
+**6. DO NOT STOP.**
+Process every file in `gpt_outputs/` sequentially, then every file in `gpt_outputs_v104/`. Do not wait for user confirmation between files.
+
+**7. UPDATE THIS FILE.**
+After significant progress, update the Task Progress section. This file is the source of truth for character genders — do NOT infer genders from translation context. Only update the character list if the user explicitly tells you a character's gender.
+
+**8. READ THIS FILE AFTER EVERY COMPRESSION.**
+After each context compression event, the first thing you must do is read this file to restore your operational context.
+
+---
+
+## ⚠ PAST MISTAKES — DO NOT REPEAT
+
+| What I did wrong | Why it was wrong | Rule |
+|---|---|---|
+| Changed Galtia "his belly" → "her belly" based on context alone | Galtia is MALE per reference. Context made him seem female. | Always check this file before touching any pronoun. |
+| Changed "Root Ari" → "Root Ali" | VNDB/MiraHeze standard is "Root Ari". Never alter name spelling without checking VNDB. | Name standard = VNDB/MiraHeze. |
+| Changed "Crook" → "Krukk" | "Crook Mofus" IS the VNDB name for クルックー. It was already correct. | Don't "fix" names that are already at VNDB standard. |
+| Removed leading spaces from translation lines | User: "I asked you to correct the translation, not to reformat lines." | Never touch formatting — only fix translation content. |
+| Added/changed spacing within lines | User: "why are you butchering spaces?" | Same — no formatting changes, only content. |
+| Fixing pronoun without consulting this file | Led to wrong Galtia fix. User: "use the fucking REFERENCE FILE." | Read this file before every pronoun change. |
+| Inferring character gender from translation context | This file is the source of truth. Never "learn" genders from the text — only correct text based on this file. | Trust the reference, not the narrative. |
+
+---
+
 ## ⚠ Special Cases
 
 | Character | Note |
@@ -399,4 +441,11 @@ Purpose: fixing gender pronoun errors in `/gpt_outputs/` and `/gpt_outputs_v104/
 ## Task Progress
 - [x] Build character gender reference
 - [ ] Scan gpt_outputs/ for gender errors and fix
+  - General review (names, pronouns, some reformatting — user later said no reformatting) done through ~007020
+  - Pronoun-focused review done through ~008220 (008220_008280.json was mid-read when interrupted)
+  - Pronoun-focused review done through 009000 (009000_009060.json is next)
+  - Key fixes made: Lucy (7038-39), Arcy (7242), Arlcoate (7823), Galtia (7886), Lei (8066-8082), Pi-R (8378, 8391), Willis (8913, 8922, 8931)
+  - Reverted: Galtia "his belly" wrongly changed to "her belly" (7707) — reverted
+  - Reverted: "Crook" wrongly changed to "Krukk" in 006720_006780.json line 6764 — reverted
+  - Reverted: "Root Ari" wrongly changed to "Root Ali" — reverted
 - [ ] Scan gpt_outputs_v104/ for gender errors and fix
