@@ -34,41 +34,91 @@ After each context compression event: (1) read this file; (2) read back everythi
 **9. DO NOT REMOVE TRANSLATOR'S NOTES.**
 Translator's notes in brackets — e.g., `[slang implying getting a bit aroused or flustered]` — must be preserved exactly as-is. User: "don't remove such notes, they have value." Never delete, replace, or move them.
 
+**10. WHEN NARRATING A FIX, STATE THE REASON — NOT THE ACTION.**
+Before each edit, write one sentence explaining WHY the change is needed (e.g. "Hornet is Female per reference", "GPT hallucinated 'Hawzell' for Hawzel", "Peruele is Female per character list"). Do NOT write what the diff already shows (e.g. "Changing X → Y"). The user: "don't comment on what you do, comment why you do that."
+
+**11. ONLY CHANGE `translatedEnglishLine` VALUES — NEVER TOUCH FILE STRUCTURE.**
+The only permitted change to any gpt_outputs JSON file is the text content of a `translatedEnglishLine` value. Never alter file encoding, line endings, indentation, field order, or any other structural aspect of the file. Specifically: **never use PowerShell `WriteAllText`, `Set-Content`, `Out-File`, or any other tool that rewrites the whole file** — this writes UTF-8 WITH BOM and corrupts the file format. The **Edit tool is the only permitted way to change file content**. If the Edit tool cannot match a string (e.g. due to special characters), leave that line alone — do NOT use any workaround that touches file structure.
+
+**12. ALWAYS CHECK THIS FILE BEFORE FIXING ANY PRONOUN.**
+Never fix a pronoun based on translation context alone. This file is the source of truth for character genders. User: "use the fucking REFERENCE FILE." If a character is not in this list, do not change their pronoun.
+
+**13. NAME STANDARD = VNDB / MiraHeze. NEVER ALTER A NAME THAT IS ALREADY CORRECT.**
+Do not change name spellings without checking VNDB. Do not "fix" names already at VNDB standard. Also check `mistranslated_names.json` when fixing name spellings — e.g. "Jiphtheria" is itself wrong; the correct form is "Diphteria".
+
+**14. DO NOT SPLIT SENTENCES ACROSS TWO LINES.**
+User: "don't mess with splitting sentences, you suck at it." If GPT merged two Japanese lines into one English translation and left the second line empty, leave it as-is. Do NOT split or redistribute content between lines.
+
+**15. WRITE EVERY USER COMMAND INTO THIS FILE IMMEDIATELY.**
+User: "I told you to write all commands I give you into the reference file." Add every instruction or correction here before continuing with any other work.
+
+**16. EXPLAIN EACH CHANGE INDIVIDUALLY — ONE SENTENCE PER EDIT.**
+User: "leave the explanation of the change for each individual change line." Do not batch multiple change explanations into one sentence. Write the reason immediately before each Edit call.
+
+**17. VALIDATE JSON AFTER EVERY EDIT.**
+User: "use json validation software to validate json file validity after your changes to every file." Run PowerShell `[System.IO.File]::ReadAllText($f, [System.Text.Encoding]::UTF8) | ConvertFrom-Json` after every Edit. Must use explicit UTF-8 encoding — default `Get-Content` garbles Japanese. If validation fails, fix immediately before moving on.
+
+**18. ONLY FIX UNAMBIGUOUS ERRORS — NEVER CHALLENGE PHRASING CHOICES.**
+User: "your goal is to fix UNAMBIGUOUS LOGICAL MISTAKES, not challenge vaguity of phrasing choices in the original translation." Only fix: wrong pronoun for a known character, wrong character name spelling. Never flag or alter phrasing that is merely suboptimal.
+
+**19. DO NOT USE SOFTWARE TO INVESTIGATE PAST CHANGES.**
+User: "don't fucking use ANY software". To check what you changed in a file, read the `.jsonl` transcript. Never run git diff, git log, git show, grep, or any other tool for this purpose.
+
+**20. CHECK KANA CAREFULLY — ヴ (V) ≠ ビ (B).**
+ヴィッチ = "Vitch" (derived from "witch"); ビッチ = "bitch". Always check the Japanese kana before assuming a romanization. Also: do not replace `...` with `---`.
+
+**21. DO NOT TREAT COMMON JAPANESE LOANWORDS AS CHARACTER NAMES.**
+マジック in context means "magic" (the concept), not the character "Magic the Gandhi". Only capitalize when the character is actually being addressed or named.
+
+**22. PRONOUN CHECK IS PRIMARY — DO NOT DO SEPARATE NAME-SWEEP PASSES.**
+User: "your main goal is the pronouns check — you were not supposed to do any extra actions specifically for name spelling corrections." Fix a name only when noticed incidentally during contextual reading. Never do a standalone replace_all name-correction pass.
+
+**23. GUARANTEE CONTEXTUAL REVIEW OF EVERY FILE.**
+Every file must be fully Read before any edits. A replace_all without a prior contextual Read does not count as a review. If you cannot confirm a file was properly reviewed, re-read it.
+
+**24. DO NOT ASK THE USER QUESTIONS ANSWERABLE FROM THE FILES.**
+User: "don't ask me such question, you have all the means necessary to answer it yourself." Check this file, the JSONL transcript, and the JSON files first. Only ask if genuinely impossible to determine otherwise.
+
+**25. FIX GPT MISSPELLINGS OF KNOWN NAMES WHEN SPOTTED.**
+- "Seel" / "Shiru" → "Sill" (シィル = Sill Plain)
+- シーラ = "Sheila" (not "Seel", "Shiela", "Shiru", or confused with Sill)
+- "Kaybliss" → "Kayblis"; "Howzel"/"Hauzel"/"Hawzell" → "Hawzel"
+- Always check the character list in this file for the correct spelling.
+
+**26. INCLUDE FULL CURLY-QUOTE PAIR IN EDIT TOOL STRINGS.**
+When editing inside a curly-quoted dialogue string (`"…"`), the old_string must include the closing `"` (U+201D) and the new_string must replicate it. Verify both opening `"` and closing `"` are present after the edit.
+
 ---
 
-## ⚠ PAST MISTAKES — DO NOT REPEAT
+## ⚠ PAST MISTAKES — HISTORICAL LOG
 
-| What I did wrong | Why it was wrong | Rule |
-|---|---|---|
-| Changed Galtia "his belly" → "her belly" based on context alone | Galtia is MALE per reference. Context made him seem female. | Always check this file before touching any pronoun. |
-| Changed "Root Ari" → "Root Ali" | VNDB/MiraHeze standard is "Root Ari". Never alter name spelling without checking VNDB. | Name standard = VNDB/MiraHeze. |
-| Changed "Crook" → "Krukk" | "Crook Mofus" IS the VNDB name for クルックー. It was already correct. | Don't "fix" names that are already at VNDB standard. |
-| Removed leading spaces from translation lines | User: "I asked you to correct the translation, not to reformat lines." | Never touch formatting — only fix translation content. |
-| Added/changed spacing within lines | User: "why are you butchering spaces?" | Same — no formatting changes, only content. |
-| Fixing pronoun without consulting this file | Led to wrong Galtia fix. User: "use the fucking REFERENCE FILE." | Read this file before every pronoun change. |
-| Inferring character gender from translation context | This file is the source of truth. Never "learn" genders from the text — only correct text based on this file. | Trust the reference, not the narrative. |
-| "Fixing" a two-line split by rewriting both lines into an unnatural form | User: "don't butcher the lines." Split fixes must sound natural — if the result is awkward, leave the original as-is. | Only split lines when the result reads naturally. When in doubt, leave the original GPT translation. |
-| Not reading this file after context compaction | CLAUDE.md is loaded in context automatically — there is no excuse for skipping the mandatory startup reads. | After every compaction: read this file and all memory files BEFORE editing anything. |
-| Not recording user corrections and commands in this file | User explicitly said to record corrections here so they are not forgotten. | Add every user correction and command to this Past Mistakes table immediately. |
-| Describing edits by listing what changed, without saying why | User: "don't comment on what you do, comment why you do that." Stating the reason (wrong pronoun, name standard, etc.) is what matters — the diff already shows what changed. | Always explain the reason for a change, not just the before/after. |
-| Splitting a line by leaving the second line without a subject ("took out a single sheet of paper.") | English needs a subject in each standalone sentence. The first attempt "Maris, from a drawer stuffed with documents," / "took out..." has no subject on line 2. | When splitting across two lines, ensure each line is grammatically self-contained OR the second line is a clear continuation with a conjunction like "and". |
-| Adding movement/action that isn't in the Japanese ("Maris went to a drawer...") | マリスは書類が詰まった引き出しから、 says nothing about walking or going anywhere — just "from a drawer". Adding verbs not in the source is mistranslation. | Only translate what is actually in the Japanese. Don't infer implied actions. |
-| Attempting to split merged sentences across two lines | User: "don't mess with splitting sentences, you suck at it." Every attempt has produced awkward or wrong English. | Do NOT split sentences. If GPT merged two Japanese lines into one English line and left the second empty, leave it as-is. Only fix pronouns, name spellings, and clear logical/content errors. |
-| Changed "Jiphteria"/"Jifuteria"/"Diptheria" to "Jiphtheria" for ジフテリア | "Jiphtheria" is itself a mistranslation per mistranslated_names.json. The correct spelling is "Diphteria". | Always check mistranslated_names.json when fixing name spellings. |
-| Used git / grep / any software tool to investigate what change I made to a file | User: "don't fucking use ANY software". To see what I changed, look at the Edit tool's old_string/new_string in my own conversation logs (the .jsonl transcript). Reading internal .jsonl files is allowed. | When the user asks what change I made, check the conversation transcript — do NOT run git diff, git log, git show, grep, or any other tool. |
-| Made changes to file structure (encoding, line endings, whitespace, file layout) | Only translation content should ever change. Any tool or workaround that rewrites the file as a whole (e.g. PowerShell Set-Content) risks corrupting structure. User had to manually fix it. | Only fix the text inside `translatedEnglishLine` values. If the Edit tool can't match a string, leave the line alone — do not use any workaround that touches file structure. |
-| Identified マジック as a reference to "Magic the Gandhi" and changed "magic" → "Magic" | マジック is just the Japanese loanword for "magic" (the concept). The GPT translation "when it comes to magic" was correct. I invented a problem and introduced a wrong capitalization. | Do not treat common Japanese loanwords as character name references. Only capitalize "Magic" if the character Magic the Gandhi is actually being addressed or referenced. |
-| Did not immediately write user commands/instructions into the reference file | User: "I told you to write all commands I give you into the reference file." Every instruction or correction the user gives must be added here right away. | Write every user command to this Past Mistakes table immediately when given. |
-| In Edit tool, old_string omitted the closing curly quote of a dialogue line, so replacement dropped it — corrupting the file | When editing inside a curly-quoted dialogue string like `"Besides,...,"`, the old_string must include the closing `"` (U+201D) and the new_string must replicate it. After editing a dialogue line, visually verify both opening `"` and closing `"` are still present. | Always include the full curly-quote pair in old_string/new_string when editing dialogue lines. |
-| After every compaction, did not re-read what the user wrote in the compressed session | User: "after every compacting you must read everything I wrote to you and take all these words to the heart." The compaction summary misses specific corrections. | After compaction: read this file AND trace back user messages in the session for any corrections not yet recorded here. |
-| Removed translator's notes in brackets (e.g., `[slang implying getting a bit aroused or flustered]`) | User: "don't remove such notes, they have value." They are part of the translation and carry context. | Never delete, replace, or move translator's notes in brackets. Preserve them exactly as-is. |
-| Did not write user instructions into the reference file immediately when given | User explicitly said to record every command here right away. Moving on to edits first causes instructions to be lost. | Every user instruction or command must be added to this table before continuing with any other work. |
-| Bundled explanations for multiple changes into one sentence before making edits | User: "leave the explanation of the change for each individual change line." Batching explanations makes it hard to follow what was changed and why. | When making edits, explain each change individually — one sentence per change, written right before or alongside that specific edit. |
-| GPT wrote "Seel" / "Shiru" for シィル (Sill Plain) | シィル romanizes to "Sill", not "Seel" or "Shiru". Sill Plain is already in the character list. | Always fix GPT's "Seel" or "Shiru" to "Sill" when referring to シィル. |
-| Asked the user a question that could have been answered by reading the files or conversation logs | User: "don't ask me such question, you have all the means necessary to answer it yourself." Asking avoidable questions wastes the user's time. | Before asking the user anything, check whether the answer is in this file, the JSONL transcript, or any of the JSON files. Only ask if genuinely impossible to determine otherwise. |
-| Confused ヴィッチ (Vitch) with ビッチ (bitch) — changed GPT's `"...Vitch (witch)"` to `"---Bitch"`, also wrongly changed `...` to `---` | ヴ is the V-sound, ビ is the B-sound. They are different kana. "Vitch" (ヴィッチ) is a character/nickname derived from "witch", NOT the English profanity "bitch" (ビッチ). Also introduced wrong punctuation `---` instead of `...`. | Always check the Japanese original kana before assuming a romanization. ヴ = V, ビ = B. Do not replace `...` with `---`. |
-| Did not validate JSON after editing a file | Edits can silently corrupt JSON structure (mismatched quotes, trailing commas, etc.). User: "use json validation software to validate json file validity after your changes to every file." | After every Edit to a gpt_outputs JSON file, run PowerShell `[System.IO.File]::ReadAllText($f, [System.Text.Encoding]::UTF8) | ConvertFrom-Json` to verify the file parses correctly (must use explicit UTF-8 — default Get-Content garbles Japanese). If it fails, fix immediately before moving to the next file. |
-| Challenged phrasing choices or vague wording in translations | User: "your goal is to fix UNAMBIGUOUS LOGICAL MISTAKES, not challenge vaguity of phrasing choices in the original translation." The JSON files are meant to be FIXED, not used as a standard to question. | Only fix things that are clear errors per CLAUDE_CHARACTERS_GENDERS.md — wrong pronoun for a known character, wrong character name spelling. Never flag or alter phrasing that is merely suboptimal or differently expressed. |
+| What I did wrong | Why it was wrong |
+|---|---|
+| Changed Galtia "his belly" → "her belly" based on context alone | Galtia is MALE per reference. Context made him seem female. |
+| Changed "Root Ari" → "Root Ali" | VNDB/MiraHeze standard is "Root Ari". |
+| Changed "Crook" → "Krukk" | "Crook Mofus" IS the VNDB name for クルックー. It was already correct. |
+| Removed leading spaces / changed spacing in translation lines | User: "I asked you to correct the translation, not to reformat lines." / "why are you butchering spaces?" |
+| Fixed pronoun without consulting this file | Led to wrong Galtia fix. |
+| Inferred character gender from translation context | This file is the source of truth — never learn genders from the text. |
+| Rewrote a two-line split into unnatural English | User: "don't butcher the lines." |
+| Did not read this file after context compaction | No excuse for skipping mandatory startup reads. |
+| Described edits by what changed, not why | User: "don't comment on what you do, comment why you do that." |
+| Split a line leaving second line without a subject | English needs a subject; result was grammatically broken. |
+| Added movement/action not in the Japanese | マリスは書類が詰まった引き出しから says nothing about going anywhere. Only translate what is in the source. |
+| Changed "Jiphteria" → "Jiphtheria" | "Jiphtheria" is wrong; correct is "Diphteria" per mistranslated_names.json. |
+| Used git / grep to investigate past changes | User: "don't fucking use ANY software". |
+| Rewrote whole file using PowerShell Set-Content | Corrupted file encoding. Only the Edit tool is permitted. |
+| Treated マジック as the character "Magic the Gandhi" | マジック is the Japanese loanword for the concept "magic". |
+| Did not write user instructions into this file immediately | Instructions got lost. Must be recorded before continuing any edits. |
+| Omitted closing curly quote in Edit tool old_string | Dropped the `"` from dialogue lines, corrupting the file. |
+| Did not re-read user messages after compaction | Compaction summary missed specific corrections. |
+| Removed translator's notes in brackets | User: "don't remove such notes, they have value." |
+| Bundled multiple change explanations into one sentence | User: "leave the explanation of the change for each individual change line." |
+| Confused ヴィッチ (Vitch) with ビッチ (bitch) | ヴ = V, ビ = B. Also introduced wrong `---` instead of `...`. |
+| Did not validate JSON after editing | Edits can silently corrupt JSON structure. |
+| Challenged phrasing choices in translations | User: "fix UNAMBIGUOUS LOGICAL MISTAKES, not challenge vaguity of phrasing choices." |
+| Did systematic replace_all name-spelling sweeps | Pronoun check was not performed on those files as a result. |
+| Claimed contextual review when files were only pattern-swept | Must guarantee every file was actually Read with context. |
 
 ---
 
@@ -279,7 +329,7 @@ Translator's notes in brackets — e.g., `[slang implying getting a bit aroused 
 | Kurohime | 黒姫 | Female | SR |
 | Kurusu Miki | 来水 美樹 | Female | SR RX |
 | La Hawzel | ラ・ハウゼル | Female | RX |
-| La Saizel | ラ・サイゼル | Female | RX |
+| La Seizel | ラ・サイゼル | Female | RX |
 | La Vaswald | ラ・バスワルド | Female | RX |
 | Lark Pikespeak | ラーク・パイクスピーク | Male | RQ |
 | Launea |  | ? | RX |
