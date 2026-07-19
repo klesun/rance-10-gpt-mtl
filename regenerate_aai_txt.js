@@ -1,6 +1,6 @@
 import * as fs from "fs/promises";
 import {replaceUnicode, wrapAt} from "./modules/TextNormalization.js";
-
+import {normalizeNames} from "./modules/NameNormalizer.js";
 
 const v100AinJson = await fs.readFile("./Rance10.v1.00.ain.json", "utf-8");
 const v100AinData = JSON.parse(v100AinJson);
@@ -71,32 +71,6 @@ const allLineRecordsV100 = await readTranslations(ROOT_FOLDER_PATH_V1_00);
 const allLineRecordsV104 = await readTranslations(ROOT_FOLDER_PATH_V1_04);
 
 const LONGEST_LINE = "“More importantly, what we should discuss now is how the other";
-
-// language=file-reference
-const mistranslated_names_str = await fs.readFile("./mistranslated_names.json", "utf-8");
-const mistranslated_names = JSON.parse(mistranslated_names_str);
-mistranslated_names.forEach(char => char.knownMistranslations.sort((a,b) => b.length - a.length));
-
-const normalizeNames = (lineRecord) => {
-    let sentence = lineRecord.translatedEnglishLine;
-    for (const nameRecord of mistranslated_names) {
-        if (!lineRecord.originalJapaneseLine.includes(nameRecord.shortNameJpn)) {
-            continue;
-        }
-        const shortNameEng = nameRecord.shortNameEng;
-        if (sentence.includes(shortNameEng)) {
-            continue;
-        }
-        for (const mistranslation of [...nameRecord.knownMistranslations].sort((a,b) => b.length - a.length)) {
-            const beforeUpdate = sentence;
-            sentence = sentence.replaceAll(mistranslation, shortNameEng);
-            if (beforeUpdate !== sentence) {
-                break;
-            }
-        }
-    }
-    return sentence;
-};
 
 const output = allLineRecordsV100
     .flatMap(lr => {
