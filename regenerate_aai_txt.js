@@ -58,6 +58,7 @@ const readTranslations = async (folderPath) => {
     const allLineRecords = [];
 
     for (const chunkFile of chunkFiles) {
+        console.log('Reading ' + chunkFile.fileName);
         const json = await fs.readFile(folderPath + "/" + chunkFile.fileName, "utf-8");
         const data = JSON.parse(json);
         allLineRecords.push(...data.output_parsed.translationLines);

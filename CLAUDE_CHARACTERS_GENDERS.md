@@ -28,8 +28,8 @@ Process every file in `gpt_outputs/` sequentially, then every file in `gpt_outpu
 **7. UPDATE THIS FILE.**
 After significant progress, update the Task Progress section. This file is the source of truth for character genders — do NOT infer genders from translation context. Only update the character list if the user explicitly tells you a character's gender.
 
-**8. READ THIS FILE AFTER EVERY COMPRESSION.**
-After each context compression event, the first thing you must do is read this file to restore your operational context.
+**8. READ THIS FILE AND ALL USER MESSAGES AFTER EVERY COMPRESSION.**
+After each context compression event: (1) read this file; (2) read back everything the user wrote in the compressed portion — their corrections, commands, and feedback — and internalize them. If you find user instructions not yet recorded here, add them to the Past Mistakes table immediately. The compaction summary may miss specific corrections the user gave you mid-session.
 
 ---
 
@@ -51,6 +51,11 @@ After each context compression event, the first thing you must do is read this f
 | Splitting a line by leaving the second line without a subject ("took out a single sheet of paper.") | English needs a subject in each standalone sentence. The first attempt "Maris, from a drawer stuffed with documents," / "took out..." has no subject on line 2. | When splitting across two lines, ensure each line is grammatically self-contained OR the second line is a clear continuation with a conjunction like "and". |
 | Adding movement/action that isn't in the Japanese ("Maris went to a drawer...") | マリスは書類が詰まった引き出しから、 says nothing about walking or going anywhere — just "from a drawer". Adding verbs not in the source is mistranslation. | Only translate what is actually in the Japanese. Don't infer implied actions. |
 | Attempting to split merged sentences across two lines | User: "don't mess with splitting sentences, you suck at it." Every attempt has produced awkward or wrong English. | Do NOT split sentences. If GPT merged two Japanese lines into one English line and left the second empty, leave it as-is. Only fix pronouns, name spellings, and clear logical/content errors. |
+| Changed "Jiphteria"/"Jifuteria"/"Diptheria" to "Jiphtheria" for ジフテリア | "Jiphtheria" is itself a mistranslation per mistranslated_names.json. The correct spelling is "Diphteria". | Always check mistranslated_names.json when fixing name spellings. |
+| Used git / grep / any software tool to investigate what change I made to a file | User: "don't fucking use ANY software". To see what I changed, look at the Edit tool's old_string/new_string in my own conversation logs (the .jsonl transcript). Reading internal .jsonl files is allowed. | When the user asks what change I made, check the conversation transcript — do NOT run git diff, git log, git show, grep, or any other tool. |
+| Made changes to file structure (encoding, line endings, whitespace, file layout) | Only translation content should ever change. Any tool or workaround that rewrites the file as a whole (e.g. PowerShell Set-Content) risks corrupting structure. User had to manually fix it. | Only fix the text inside `translatedEnglishLine` values. If the Edit tool can't match a string, leave the line alone — do not use any workaround that touches file structure. |
+| Identified マジック as a reference to "Magic the Gandhi" and changed "magic" → "Magic" | マジック is just the Japanese loanword for "magic" (the concept). The GPT translation "when it comes to magic" was correct. I invented a problem and introduced a wrong capitalization. | Do not treat common Japanese loanwords as character name references. Only capitalize "Magic" if the character Magic the Gandhi is actually being addressed or referenced. |
+| Did not immediately write user commands/instructions into the reference file | User: "I told you to write all commands I give you into the reference file." Every instruction or correction the user gives must be added here right away. | Write every user command to this Past Mistakes table immediately when given. |
 
 ---
 
