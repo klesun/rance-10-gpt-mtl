@@ -27,7 +27,13 @@ const charToSentencedToCount = {};
 
 for (const chunkFile of chunkFiles) {
     const json = await fs.readFile(ROOT_FOLDER_PATH + "/" + chunkFile.fileName, "utf-8");
-    const data = JSON.parse(json);
+    let data;
+    try {
+        data = JSON.parse(json);
+    } catch (error) {
+        error.message += " - while reading " + chunkFile.fileName;
+        throw error;
+    }
     for (const lineRecord of data.output_parsed.translationLines) {
         for (const nameRecord of mistranslated_names) {
             if (!lineRecord.originalJapaneseLine.includes(nameRecord.shortNameJpn)) {
