@@ -59,7 +59,13 @@ const readTranslations = async (folderPath) => {
 
     for (const chunkFile of chunkFiles) {
         const json = await fs.readFile(folderPath + "/" + chunkFile.fileName, "utf-8");
-        const data = JSON.parse(json);
+        let data;
+        try {
+            data = JSON.parse(json);
+        } catch (error) {
+            error.message += 'At file ' + chunkFile.fileName;
+            throw error;
+        }
         allLineRecords.push(...data.output_parsed.translationLines);
     }
 

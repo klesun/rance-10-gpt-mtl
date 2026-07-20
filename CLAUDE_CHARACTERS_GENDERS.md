@@ -88,6 +88,9 @@ User: "don't ask me such question, you have all the means necessary to answer it
 **26. INCLUDE FULL CURLY-QUOTE PAIR IN EDIT TOOL STRINGS.**
 When editing inside a curly-quoted dialogue string (`"…"`), the old_string must include the closing `"` (U+201D) and the new_string must replicate it. Verify both opening `"` and closing `"` are present after the edit.
 
+**27. DO NOT COMMIT WITHOUT EXPLICIT USER AUTHORIZATION.**
+Never run `git commit` on your own initiative. Make all file edits freely, but do not commit until the user explicitly says to.
+
 ---
 
 ## ⚠ PAST MISTAKES — HISTORICAL LOG
@@ -128,7 +131,7 @@ When editing inside a curly-quoted dialogue string (`"…"`), the old_string mus
 |---|---|
 | **Uesugi Kenshin** | Historical male — **FEMALE** in Rance universe. Biggest GPT error source. |
 | **Lexington** | Referred to as **MALE** throughout — use **he/him/his** and **Lord Lexington**. |
-| **Kesselring** | Originally male (Kalar), undergoes sex change — female after the change |
+| **Kesselring** | **MALE** for the vast majority of the story. Use **he/him/his** and **Lord Kesselring** throughout. A sex change occurs late but do not change pronouns unless you are certain the scene is post-change. |
 | **RedEye** | Genderless — avoid gendered pronouns |
 | **Hanny** (generic) | Both sexes exist in the Hanny race |
 | **Magic the Gandhi** | Name doesn't signal gender — **FEMALE** |
