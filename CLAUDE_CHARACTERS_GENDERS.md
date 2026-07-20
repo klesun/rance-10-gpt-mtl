@@ -127,7 +127,7 @@ When editing inside a curly-quoted dialogue string (`"…"`), the old_string mus
 | Character | Note |
 |---|---|
 | **Uesugi Kenshin** | Historical male — **FEMALE** in Rance universe. Biggest GPT error source. |
-| **Lexington** | The current "Lexington" is actually Nimitz (Female human girl) whose consciousness survived consuming Lexington's Magic Blood Soul. The original Lexington was a male demon, but the current entity is female. Use **she/her** throughout. Note: narration/dialogue in ~163xxx files that were fixed to he/him should be reverted. |
+| **Lexington** | Referred to as **MALE** throughout — use **he/him/his** and **Lord Lexington**. |
 | **Kesselring** | Originally male (Kalar), undergoes sex change — female after the change |
 | **RedEye** | Genderless — avoid gendered pronouns |
 | **Hanny** (generic) | Both sexes exist in the Hanny race |
@@ -338,7 +338,7 @@ When editing inside a curly-quoted dialogue string (`"…"`), the old_string mus
 | Leila Grecni | レイラ・グレクニー | Female | R01 RX |
 | Lelyukov Berkov | レリューコフ・バーコフ | Male | RIX |
 | Leopard Maara | レオパルド マーラ | Female | SR |
-| Lexington (Nimitz) | **Female** (Nimitz, human girl, survived the Fiend soul merger) | RX |
+| Lexington | **Male** | RX |
 | Lia Parapara Leazas | リア・パラパラ・リーザス | Female | R01 RX |
 | Lil Avenger | 復讐ちゃん | Female | RQ |
 | Lola Indus | ローラ・インダス | Female | RQ |
