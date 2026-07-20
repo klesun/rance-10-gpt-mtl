@@ -532,13 +532,45 @@ When editing inside a curly-quoted dialogue string (`"…"`), the old_string mus
 ---
 
 ## Task Progress
+
+**LAST STOPPED: 2026-07-20. Resume from `gpt_outputs/166410_166470.json`.**
+
 - [x] Build character gender reference
-- [ ] Scan gpt_outputs/ for gender errors and fix
-  - General review (names, pronouns, some reformatting — user later said no reformatting) done through ~007020
-  - Pronoun-focused review done through ~008220 (008220_008280.json was mid-read when interrupted)
-  - Pronoun-focused review done through 009000 (009000_009060.json is next)
-  - Key fixes made: Lucy (7038-39), Arcy (7242), Arlcoate (7823), Galtia (7886), Lei (8066-8082), Pi-R (8378, 8391), Willis (8913, 8922, 8931)
-  - Reverted: Galtia "his belly" wrongly changed to "her belly" (7707) — reverted
-  - Reverted: "Crook" wrongly changed to "Krukk" in 006720_006780.json line 6764 — reverted
-  - Reverted: "Root Ari" wrongly changed to "Root Ali" — reverted
-- [ ] Scan gpt_outputs_v104/ for gender errors and fix
+- [ ] Scan gpt_outputs/ for gender errors and fix (4805 total files)
+  - **~3166 files sequentially reviewed** (up to 166470_166530.json — NOT inclusive, stop here)
+  - **Next file to read: `gpt_outputs/166410_166470.json`** (was mid-read, not yet edited)
+  - Within that file, lines 166380 and 166382 have Kanami using "her/she" for Lexington — must be fixed to "him/he" (Lexington = Male)
+  - Previous sessions covered 000000–158880 (see commit history for details)
+  - This session covered 158880–166410 sequentially, plus bulk honorific fixes (see below)
+
+  **BULK FIXES APPLIED this session (NOT sequential — may have missed pronoun errors in swept files):**
+  - Lord Hawzel → Lady Hawzel (all gpt_outputs/)
+  - Lord Seizel → Lady Seizel (all gpt_outputs/)
+  - Lord Hornet → Lady Hornet (all gpt_outputs/)
+  - Lord Kenshin → Lady Kenshin (15 files, 123xxx–253xxx range)
+  - Lord Kaybwan/Kaybnyan → Lady (19+ files, 135xxx–248xxx range)
+  - Lord Reset → Lady Reset (10 files, 112xxx–229xxx range)
+  - Lord Maris → Lady Maris (2 files)
+  - Lord Lia → Lady Lia (3 files)
+  - Lord Urza → Lady Urza (1 file)
+  - Lord Warg → Lady Warg (3 files)
+  - Lord Kiku → Lady Kiku (2 files)
+  - Lord Rizna → Lady Rizna (1 file)
+  - Lord Kiratoki → Lady Kiratoki (1 file)
+  - Lord Satella → Lady Satella (1 file)
+  - Lord Gandhi → reverted back to Lord Gandhi (see GANDHI NOTE below)
+  - Lord Lexington → Lord Lexington (kept as male throughout, see LEXINGTON NOTE below)
+
+  **IMPORTANT NOTES:**
+  - **GANDHI**: Two characters share the surname Gandhi: Magic the Gandhi (Female) and Ragnarokarc Super Gandhi (Male). Both are rulers of Zeth. **CANNOT do bulk replace.** Must read each file in context to identify which Gandhi is present before changing any honorific.
+  - **LEXINGTON**: User explicitly confirmed Lexington must be referred to as **MALE** throughout (he/him/his, Lord Lexington), even though the in-game entity is Nimitz (female human) impersonating him. Do not change to she/her.
+  - Files swept with bulk replace may still have individual pronoun errors — the sequential review will catch these when reached.
+  - Files 158880–166410 were both sequentially reviewed AND had bulk fixes. The sequential review is the authoritative pass.
+
+  **Key early fixes (sessions before this one):**
+  - Lucy (7038-39), Arcy (7242), Arlcoate (7823), Galtia (7886), Lei (8066-8082), Pi-R (8378, 8391), Willis (8913, 8922, 8931)
+  - Reverted: Galtia "his belly"→"her belly" (wrong), "Crook"→"Krukk" (wrong), "Root Ari"→"Root Ali" (wrong)
+
+- [ ] Scan gpt_outputs_v104/ for gender errors and fix (85 total files)
+  - Reviewed key files; 003290_003350.json fixed (Lady Hawzel), 004550_004610.json fixed (Housel→Hawzel, Hornet guy→Hornet)
+  - Remaining files likely need sequential review — low priority vs gpt_outputs/
