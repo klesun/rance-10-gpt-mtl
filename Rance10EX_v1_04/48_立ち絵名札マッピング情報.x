@@ -330,4 +330,5 @@ table 立ち絵名札マッピング情報 = {
 	{ "モロミ／", "Megadeath Moromi" },
 	{ "セスナ／", "Cessna Benville" },
 	{ "プリマ／", "Prima Hononoman" }
+	{ "ストロガノフ", "Stroganoff" },
 };
