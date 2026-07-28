@@ -562,7 +562,7 @@ table 立ち絵名札マッピング情報 = {
 	{ "The mysterious girl", "The mysterious girl" },
 	{ "ブリティシュ／", "British" },
 	{ "エリザベート・デス／", "Elizabeth Death" },
-	{ "泥姫バイランローズ／", "Mud Princess Vailanrose" },
+	{ "泥姫バイランローズ／", "Mud Princess Bryanrose" },
 	{ "Former Kayblis Faction Demon", "Former Kayblis Faction Demon" },
 	{ "アリス／", "Alice" },
 	{ "ネプラカス爺／", "Elder Neplacus" },
@@ -992,4 +992,5 @@ table 立ち絵名札マッピング情報 = {
 	{ "モンスター？／", "Monster?" },
 	{ "傭兵隊長／", "Mercenary Captain" },
 	{ "ＣＩＴＹ／", "CITY" },
+	{ "野良わんわん/", "Stray Dog" },
 };
