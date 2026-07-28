@@ -127,7 +127,7 @@ table 立ち絵名札マッピング情報 = {
 	{ "ビビッド／", "Vivid Kalar" },
 	{ "ビビッド幽霊／", "Vivid Kalar" },
 	{ "ヒューバート／", "Hubert Lipton" },
-	{ "ビヨンホウ／", "Biyonhou Osman" },
+	{ "ビヨンホウ／", "Villenhowe Osman" },
 	{ "ファーレン／", "Varen" },
 	{ "フル／", "Full Kalar" },
 	{ "フル幽霊／", "Full Kalar" },
