@@ -44,8 +44,10 @@ const getTextWidth = (text) => {
         .reduce((a,b) => a + b, 0);
 };
 
+const WRAP_SAFETY_MARGIN = 0.9;
+
 const wrap = (text, maxLengthRef) => {
-    const maxWidth = getTextWidth(maxLengthRef);
+    const maxWidth = getTextWidth(maxLengthRef) * WRAP_SAFETY_MARGIN;
     const words = text.split(/\s+/);
     const wrappedLines = [""];
     let widthUsed = 0;
@@ -68,7 +70,7 @@ export const wrapAt = (text, maxLengthRef) => {
     if (text.includes("\n")) {
         return text; // already wrapped
     }
-    if (getTextWidth(text) <= getTextWidth(maxLengthRef)) {
+    if (getTextWidth(text) <= getTextWidth(maxLengthRef) * WRAP_SAFETY_MARGIN) {
         return text;
     }
     return wrap(text, maxLengthRef);
