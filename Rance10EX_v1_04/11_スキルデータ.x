@@ -62,7 +62,7 @@ table スキルデータ = {
     { 1948,"Prosthetic Arm",1,3,"",2,100,1,100,4,3,0,0,"",0,1,"Attack (1x)\r3 attacks\rAP accumulation" },
     { 1064,"Consecutive Fire",1,2,"",1,100,1,100,4,2,0,0,"",0,1,"Attack (Ranged) (1x)\r2-hit combo\rAP accumulation" },
     { 1477,"Shortbow",1,2,"",2,100,1,50,4,5,0,0,"",0,0,"Attack (Ranged) (0.5x)\r5 attacks" },
-    { 1048,"Hanging Sword",1,3,"",2,100,1,100,4,4,0,0,"",1,1,"Attack (1x)\r3 attacks" },
+    { 1048,"Hanging Sword",1,3,"",2,100,1,100,4,4,0,0,"",1,1,"Attack (1x)\r3 attacks\nAP accumulation" },
     { 1331,"Magic Ball",1,2,"",1,100,1,10,4,6,0,0,"",0,1,"Attack (Ranged) (0.1x)\r6 attacks\rAP accumulation" },
     { 1928,"Wild Dance",1,3,"",3,100,25,50,4,2,0,0,"",0,0,"Attack (1x)\r2 attacks\r▼Weakness 50%" },
     { 1776,"Energetic Attack",1,3,"",1,100,4,2,0,0,0,0,"コンボ３以上",0,0,"Attack (1x)\r2 attacks\rCondition: Combo >=3" },
