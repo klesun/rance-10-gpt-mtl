@@ -35,11 +35,11 @@ is so the user can see the reread is genuinely happening each time, not just cla
 2. Chat narration for a fix states just the file + line numbers, not the full mechanism —
    `Files_Check.md` is the authoritative detailed (but terse-format) record; don't explain the
    same fix twice.
-3. `Files_Check.md` log entries are batched and flushed every ~10 files instead of one Edit per
+3. `Files_Check.md` log entries are batched and flushed every ~100 files instead of one Edit per
    file, to cut per-write tool-call overhead. This only delays *logging* — every fix is still
    applied to its `gpt_outputs/*.json` file immediately upon being found, file by file, with the
    same full read + full methodology reread + line-by-line check as always. Flush immediately
-   (don't wait for 10) at natural stopping points: overlap-file pairs, end of session, or if
+   (don't wait for 100) at natural stopping points: overlap-file pairs, end of session, or if
    asked to pause.
 4. Edit calls match on the minimal unique snippet — usually just the `translatedEnglishLine`
    value(s) being changed — instead of the full surrounding JSON block (lineNumber, both keys,
@@ -412,9 +412,6 @@ VERDICT: [CLEAN / X ERRORS FOUND]
 - Better to flag and let user dismiss than to miss real errors
 
 ### Pace Requirements:
-- **5 files per checkpoint** (not 50)
-- **15-20 minutes per file minimum**
-- Update progress after every 5 files
 - Do not rush through files to build momentum
 
 ### Example of Proper "Clean" Declaration:
@@ -450,8 +447,6 @@ VERDICT: [CLEAN / X ERRORS FOUND]
    - MEDIUM: Found potential issues OR mixed checking quality
    - LOW: Quick scan only OR uncertain coverage
    - Never report HIGH without evidence of systematic work
-
-5. **5-file checkpoint hard stop:** After every 5 files, STOP and report actual numbers (time spent, lines checked, error types verified) before continuing to next checkpoint.
 
 ## Next Session Instructions
 
