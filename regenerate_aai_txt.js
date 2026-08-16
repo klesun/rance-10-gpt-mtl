@@ -201,7 +201,11 @@ const output = allLineRecords
         text = wrapAt(text, LONGEST_LINE);
         return [`m[${lr.lineNumber}] = ${JSON.stringify(text)}`];
     })
-    .join("\n") + cherryPicksTxt + "\n";
+    // The cherry-picks are a file of their own and start on a line of their
+    // own. Without the break they land on the end of the last assignment --
+    // m[269677] = "..."; note: "r" character is apparently interpreted... --
+    // which has only ever worked because the line they open with is a comment.
+    .join("\n") + "\n" + cherryPicksTxt + "\n";
 
 await fs.writeFile(regeneratedTxt(variant), output, "utf-8");
 
