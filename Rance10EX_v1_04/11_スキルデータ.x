@@ -396,7 +396,7 @@ table スキルデータ = {
     { 1667,"Flank Shot 2",1,2,"支援排除",2,100,1,80,4,2,61,2,"",0,0,"Attack (Ranged) (0.8x)\r2 attacks\rRemove 2 enemy buffs" },
     { 2064,"Flank Shot 2＋",1,2,"支援排除",2,100,1,100,4,2,61,2,"",0,0,"Attack (Ranged) (1x)\rDouble Attack\rRemove 2 enemy buffs" },
     { 1110,"Flank Lightning",1,4,"支援排除",1,100,1,50,61,1,6,3,"",0,0,"Magic (0.5x)\rRemove 1 enemy buff" },
-    { 2029,"Flank Lightning 2",1,4,"支援排除",1,100,1,100,61,1,6,3,"",0,0,"Magic (1x)\rRemove 1 enemy buff" },
+    { 2029,"Flank Lightning+",1,4,"支援排除",1,100,1,100,61,1,6,3,"",0,0,"Magic (1x)\rRemove 1 enemy buff" },
     { 1618,"Pure Arrow",1,2,"支援排除",2,100,1,150,69,1,61,1,"",0,0,"Attack (Range) (1.5x)\rRemove 1 debuff\rRemove 1 enemy buff" },
     { 1952,"Support EM Field",1,4,"支援排除",2,100,1,100,61,2,34,50,"",0,0,"Magic (1x)\rRemove 2 enemy buffs\r▼Electroshock 50%" },
     { 1144,"Clausen's Hand",1,3,"クラウゼンの手",2,100,1,10,69,1,62,10,"",0,0,"Attack (0.1x)\rRemove 1 debuff\rRemove 1 enemy buff" },
