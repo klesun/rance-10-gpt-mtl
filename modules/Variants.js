@@ -63,6 +63,19 @@ export const variantPatch = (name) => path.join(variantDir(name), "dialogue.ain.
 export const hasPatch = (name) => fs.existsSync(variantPatch(name));
 
 /**
+ * For the scripts that read or write the chunk files themselves, which have
+ * nothing to work with in a variant that arrived as a finished patch. Naming
+ * the reason beats the ENOENT they would otherwise die of.
+ */
+export const corpusDir = (name) => {
+    if (hasPatch(name)) {
+        throw new Error(`The "${name}" translation variant is a finished patch, ${variantPatch(name)},`
+            + ` rather than a corpus of chunk files. This script works on the chunks.`);
+    }
+    return variantDir(name);
+};
+
+/**
  * One patch file per variant rather than one regenerated.ain.txt: switching
  * variants should not leave you looking at the other one's text, and a failed
  * generation should not pass off a stale file as the build you asked for.

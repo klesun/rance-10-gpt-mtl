@@ -1,11 +1,11 @@
 import { promises as fs } from "fs";
 import * as path from "path";
 import {translateNextChunk} from "./modules/OpenAiTranslator.js";
-import {variantDir, variantName} from "./modules/Variants.js";
+import {corpusDir, variantName} from "./modules/Variants.js";
 
 // Freshly translated chunks belong to the variant being worked on, the same
 // one --variant selects for a build.
-const OUTPUT_DIR = path.join(variantDir(variantName()), "gpt_outputs_v104");
+const OUTPUT_DIR = path.join(corpusDir(variantName()), "gpt_outputs_v104");
 
 // language=file-reference
 const inputJson = await fs.readFile("./unmapped.ain.json", "utf8");
