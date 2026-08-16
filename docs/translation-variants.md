@@ -6,7 +6,10 @@ builds whichever one you ask for:
 | Variant | What it is |
 |---|---|
 | `gpt` | the default, the translation this repository has always shipped |
-| `grok` | imported from [the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork), translated with Grok |
+| `grok` | the same translation reworked in [the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork), through the Grok and Gemini chats its tooling drives |
+
+Each folder under `variants/` carries a README saying where its text came from
+and what has been done to it since.
 
 ```
 npm run regenerate-ain                # the variant .env names, or gpt
