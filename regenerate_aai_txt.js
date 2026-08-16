@@ -1,6 +1,29 @@
+/**
+ * Render one dialogue variant into the ain.txt patch alice-tools applies.
+ *
+ * Which variant is the only thing this takes from the command line; see
+ * modules/Variants.js. Everything else here -- the line mapping between the
+ * two game versions, the cherry-picked system strings, the wrapping -- is the
+ * same whichever translation is being built.
+ */
 import * as fs from "fs/promises";
+import * as path from "path";
 import {replaceUnicode, wrapAt} from "./modules/TextNormalization.js";
-import {normalizeNames} from "./modules/NameNormalizer.js";
+import {createNameNormalizer} from "./modules/NameNormalizer.js";
+import {regeneratedTxt, variantDir, variantName} from "./modules/Variants.js";
+
+// Naming a variant that is not there is a typo to fix, not a stack trace to
+// read -- the same courtesy scripts/ain.js gets from AliceTools' run().
+let variant;
+try {
+    variant = variantName();
+} catch (error) {
+    console.error(error.message);
+    process.exit(1);
+}
+
+const variantRoot = variantDir(variant);
+const normalizeNames = await createNameNormalizer(variantRoot);
 
 const v100AinJson = await fs.readFile("./Rance10.v1.00.ain.json", "utf-8");
 const v100AinData = JSON.parse(v100AinJson);
@@ -39,8 +62,8 @@ const [v100ToV104, unmapped] = mapLineNumbers(v100AinData, v104AinData);
 
 await fs.writeFile("unmapped.ain.json", JSON.stringify(unmapped, null, 4), "utf-8");
 
-const ROOT_FOLDER_PATH_V1_00 = "./gpt_outputs";
-const ROOT_FOLDER_PATH_V1_04 = "./gpt_outputs_v104";
+const ROOT_FOLDER_PATH_V1_00 = path.join(variantRoot, "gpt_outputs");
+const ROOT_FOLDER_PATH_V1_04 = path.join(variantRoot, "gpt_outputs_v104");
 
 const readTranslations = async (folderPath) => {
     const chunkFileNames = await fs.readdir(folderPath);
@@ -98,4 +121,6 @@ const output = allLineRecordsV100
     })
     .join("\n") + cherryPicksTxt + "\n";
 
-await fs.writeFile("regenerated.ain.txt", output, "utf-8");
+await fs.writeFile(regeneratedTxt(variant), output, "utf-8");
+
+console.log(`Rendered the "${variant}" dialogue variant into ${regeneratedTxt(variant)}`);

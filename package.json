@@ -1,7 +1,7 @@
 {
     "type": "module",
     "scripts": {
-        "regenerate-ain": "node regenerate_aai_txt.js && node scripts/alice.js ain edit -t regenerated.ain.txt --jaf card_names.jaf -o {game}/Rance10.ain ./Rance10.v1.04.ain",
+        "regenerate-ain": "node scripts/ain.js",
         "regenerate-card-names": "node generate_card_names.js",
         "regenerate-ex": "node scripts/alice.js ex build -o {game}/Rance10EX.ex Rance10EX_v1_04/main.x",
         "regenerate-pack": "node scripts/pack.js"

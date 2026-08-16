@@ -1,10 +1,14 @@
 import * as fs from "fs/promises";
+import * as path from "path";
+import {readNameTable} from "./modules/NameNormalizer.js";
+import {variantDir, variantName} from "./modules/Variants.js";
 
-// language=file-reference
-const mistranslated_names_str = await fs.readFile("./mistranslated_names.json", "utf-8");
-const mistranslated_names = JSON.parse(mistranslated_names_str);
+// Reported against the same table and corpus a build of this variant would
+// use, so what it finds is what the build would leave misspelled.
+const VARIANT_ROOT = variantDir(variantName());
+const mistranslated_names = await readNameTable(VARIANT_ROOT);
 
-const ROOT_FOLDER_PATH = "./gpt_outputs";
+const ROOT_FOLDER_PATH = path.join(VARIANT_ROOT, "gpt_outputs");
 
 const chunkFileNames = await fs.readdir(ROOT_FOLDER_PATH);
 const chunkFiles = chunkFileNames

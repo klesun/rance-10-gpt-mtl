@@ -1,31 +1,8 @@
 /**
- * Where alice-tools and the game live on *this* machine.
- *
- * These paths used to sit in package.json, so every checkout carried whoever
- * committed last -- and changing them for yourself meant a permanently dirty
- * working tree you had to remember not to commit. They come from .env instead,
- * which is gitignored; .env.example lists the keys.
+ * Running alice-tools with the paths from .env.
  */
 import {spawnSync} from "child_process";
-import * as path from "path";
-import {fileURLToPath} from "url";
-
-const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-
-try {
-    process.loadEnvFile(path.join(ROOT, ".env"));
-} catch {
-    // No .env is fine -- the values may just as well come from the real
-    // environment, and a missing one is reported per key below anyway.
-}
-
-const required = (name) => {
-    const value = process.env[name];
-    if (!value) {
-        throw new Error(`${name} is not set. Copy .env.example to .env and fill in your own paths.`);
-    }
-    return value;
-};
+import {required} from "./Env.js";
 
 /** The game directory the build writes into. */
 export const gameDir = () => required("GAME_DIR");
