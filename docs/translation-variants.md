@@ -9,13 +9,21 @@ builds whichever one you ask for:
 | `grok` | imported from [the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork), translated with Grok |
 
 ```
-npm run regenerate-ain                      # the variant .env names, or gpt
-npm run regenerate-ain -- --variant=grok    # this one, just this once
+npm run regenerate-ain                # the variant .env names, or gpt
+node scripts/ain.js --variant=grok    # this one, just this once
 ```
 
 `TRANSLATION_VARIANT` in `.env` sets the one you build most; the flag overrides
 it. The game directory holds a single `Rance10.ain`, so a build installs one
-variant and switching means running the build again.
+variant and switching means running the build again. Whichever way you choose,
+the build says which variant it rendered before it writes anything — worth a
+glance, because there is one way to get this wrong quietly:
+
+`npm run regenerate-ain -- --variant=grok` is the npm spelling and it works in
+cmd.exe and in bash, but **PowerShell eats the bare `--`**, so npm never sees
+the flag and you get the default variant with no complaint. In PowerShell,
+call `node scripts/ain.js --variant=grok` — or quote it, `npm run
+regenerate-ain '--' --variant=grok`.
 
 ## What a variant is
 
