@@ -1,0 +1,35 @@
+# The English for the races on the enemy status panel. Hand-written; this is the
+# file to edit.
+#
+# Columns: the Japanese <TAB> the English.
+#
+# The Japanese is copied from race_names.v1.04.tsv, which scripts/extract_race_names.js
+# writes -- padding spaces and all, since that is what the game's own function
+# returns. A race left out here stays Japanese in game.
+#
+# These become a .jaf that overrides 表示種族 rather than twenty translated
+# strings, because six of these words are also keys or names somewhere else.
+# modules/RaceNames.js lists which and why.
+#
+# The ranks follow the dialogue: 魔人 is a Fiend, 魔王 a Demon King, 使徒 an
+# Apostle, 亜人 a Demi-human. 魔物兵 is the Monster Soldier of
+# enemy_info_glossary.tsv.
+ハニー　	Honey
+植物　　	Plant
+霊体　　	Spirit
+ムシ　　	Insect
+亜人　　	Demi-human
+天使悪魔	Angel/Devil
+古代種　	Ancient
+生成物　	Generated Creature
+魔法生物	Magical Creature
+モンスター	Monster
+女の子モンスター	Gal Monster
+魔物兵	Monster Soldier
+人類	Human
+機械	Machine
+サイバー	Cyber
+魔人	Fiend
+使徒	Apostle
+魔王	Demon King
+宇宙人　	Alien

@@ -9,8 +9,12 @@
  * follows `--` to the *end* of the chain, so --variant would reach alice-tools
  * rather than the generator that needs it. One entry point reads it once.
  */
+import * as fs from "fs/promises";
+import * as path from "path";
 import {spawnSync} from "child_process";
 import {alice, run} from "../modules/AliceTools.js";
+import {ROOT} from "../modules/Env.js";
+import {RACE_JAF, renderRaceNamesJaf} from "../modules/RaceNames.js";
 import {regeneratedTxt, variantName} from "../modules/Variants.js";
 
 /**
@@ -26,16 +30,37 @@ const node = (args) => {
     return result.status ?? 1;
 };
 
-run(() => {
+/**
+ * The race names are a patch to a function rather than to a string, so they
+ * arrive as a second .jaf, and that one is generated -- from
+ * race_name_glossary.tsv, by modules/RaceNames.js. Written here rather than by
+ * the dialogue generator because it is not dialogue and does not vary by
+ * variant; alice-tools takes as many --jaf as it is given.
+ */
+const renderRaceNames = async () => {
+    const rendered = await renderRaceNamesJaf();
+    await fs.writeFile(RACE_JAF, rendered.text, "utf-8");
+    console.log(`Translated ${rendered.report}`);
+    for (const english of rendered.overlong) {
+        console.warn(`  too wide for the enemy status panel: ${JSON.stringify(english)}`);
+    }
+    for (const japanese of rendered.stale) {
+        console.warn(`  the game has no race called ${JSON.stringify(japanese)}`);
+    }
+};
+
+run(async () => {
     const variant = variantName();
     const rendered = node(["regenerate_aai_txt.js", `--variant=${variant}`]);
     if (rendered !== 0) {
         return rendered;
     }
+    await renderRaceNames();
     return alice([
         "ain", "edit",
         "-t", regeneratedTxt(variant),
         "--jaf", "card_names.jaf",
+        "--jaf", path.relative(ROOT, RACE_JAF),
         "-o", "{game}/Rance10.ain",
         "./Rance10.v1.04.ain",
     ]);

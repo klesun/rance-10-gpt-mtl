@@ -328,26 +328,37 @@ s[12203] = "Apostle Raunea"
 s[12209] = "Apostle Samezan"
 
 ; Displayed race
+;
+; 表示種族 is what the status panel calls these, and the build overrides that
+; function from race_name_glossary.tsv now -- which is how モンスター and 人類
+; below finally get to be English without being translated. So the words nothing
+; but 表示種族 pushes are commented out: the panel no longer reads them and
+; nothing else ever did. Left here rather than deleted, because they are the
+; record of which ones were safe.
+;
+; The three still live are pushed somewhere else as well: 女の子モンスター is a
+; speaker's nameplate, 魔物兵 and 魔法生物 are enemies' own names. The glossary
+; spells those the same way on purpose.
 
 ;DO NOT CHANGE! it breaks all monster cards, showing them as black rectangles
 ;s[4018] = "モンスター"
 
 s[7658] = "Gal Monster"
 ;s[11295] = "ハニー　"
-s[11296] = "Plant　　"
-s[11297] = "Spirit　　"
-s[11298] = "Insect　　"
-s[11299] = "Ancient　"
+;s[11296] = "Plant　　"
+;s[11297] = "Spirit　　"
+;s[11298] = "Insect　　"
+;s[11299] = "Ancient　"
 ;s[2519] = "Human"
-s[11300] = "Demi-human"
-s[11301] = "Alien"
-s[11305] = "Apostle"
+;s[11300] = "Demi-human"
+;s[11301] = "Alien"
+;s[11305] = "Apostle"
 s[6368] = "Monster Soldiers"
-s[11306] = "Machine"
-s[11307] = "Cyber"
-s[11308] = "Generated Creature"
+;s[11306] = "Machine"
+;s[11307] = "Cyber"
+;s[11308] = "Generated Creature"
 s[11309] = "Magical Creature"
-s[11304] = "Fiend"
+;s[11304] = "Fiend"
 
 s[4008] = "Fiend Slayers"
 
