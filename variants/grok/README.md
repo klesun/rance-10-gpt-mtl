@@ -1,41 +1,67 @@
 # The `grok` dialogue translation
 
-Imported from https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork, a fork
-of this repository, at commit e8863f4 of its `card-name-localization` branch.
-Build it with `node scripts/ain.js --variant=grok`; see
+A second translation of the whole script, made in
+[the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork) by putting
+the Japanese through Grok five hundred lines at a time and pasting the English
+back. Build it with `node scripts/ain.js --variant=grok`; see
 [docs/translation-variants.md](../../docs/translation-variants.md) for the rest
 of the selection.
 
-## What it actually is
+## Why it is one file
 
-Not a second machine translation: the response metadata is the same run that
-produced [the gpt variant](../gpt/README.md) -- the same 4890 chunks, the same
-line numbers, the same models and the same October 2025 dates. What the fork
-did was rework the English on top of it, through the Grok and Gemini chats its
-own tooling drives, which is where the name comes from.
+There is no corpus under it. The fork translated straight into the finished
+patch -- the file alice-tools applies, `m[<line>] = "<text>"` against the v1.04
+numbering -- and never kept the chunks, so `dialogue.ain.txt` here is that file,
+copied unchanged. It is 269299 lines, which is the script.
 
-The reworking is broad rather than deep: 4362 of the 4890 chunks carry at least
-one line worded differently, some 26000 lines in all, of which around 2200 are
-a rewritten sentence and the rest a name spelled another way. The fork also
-merges and splits lines more freely, so a line can be empty here and carry the
-whole sentence one line up.
+It is its own translation, not the `gpt` one edited. Of the lines both variants
+render, 251687 differ and 17924 come out word for word the same, which is about
+what two independent machine translations of the same short lines will collide
+on. Against the fork's own untranslated dump, 252022 lines differ.
 
-Which is to say the coverage is not complete. Going over the whole script was
-the intent, but a passage the rework never reached simply stays as the gpt
-translation left it, and that is most of them: nine lines in ten read word for
-word the same, and 528 chunks are identical end to end. So dialogue that reads
-exactly like the default variant is not something gone wrong with the import --
-it is dialogue that never got a pass of its own.
+## What used to be in this folder
 
-## What changed on the way in
+A corpus, described by its README as this repository's own text reworked through
+Grok and Gemini chats. That was wrong twice over. The two folders were a copy of
+this repository's `gpt` corpus as of commit 9ec77de -- the git trees match ours
+byte for byte, and the fork has no commit of its own touching either -- so the
+variant was the default translation under a second name, and the differences the
+old README counted were this repository's own later edits to `gpt`.
 
-The fork stores whole raw API responses, 250 MB of which the build reads five
-fields, so they were pruned to the shape the `gpt` corpus uses -- 64 MB. Every
-one of the 275312 lines was read back and compared against the fork's copy
-afterwards; nothing else was touched.
+## What the build does to it
 
-Names are the one thing this variant does not get to keep. The corpus writes
-Rance as "Lance", Sanakia as "Sarnakia" and Pi-R as "Piarl", and the shared
-`mistranslated_names.json` turns all three back at build time -- the card
-plates and the EX data are shared between variants and spell them the first
-way, so a build that kept the fork's spelling would contradict its own cards.
+Nothing that is not done to every variant, plus two things this text asks for.
+
+Its line breaks are dropped and redone. They are where the fork's build decided
+to wrap, against a font and a margin this repository does not share, and about
+ten thousand of its lines carried a break wide enough for our message window to
+clip -- so the text is re-wrapped like any other. The full-width space that
+opens a quarter of the lines is not a break but an indent, sitting the
+continuation of a quote under the 「 that opened it, and wrapping keeps it.
+
+It also names 318 lines fewer than the game has, and a line no variant names
+stays Japanese in the game. Nearly all of them are one run, m[21708] to
+m[22007] -- a scene of three hundred lines the translation simply never reached
+-- so those come from the `gpt` variant underneath. Nothing else does.
+
+Names need almost no repair: this translation already spells Rance and Sanakia
+the way the cards do. What it does leave half-done is a name the fork's chunking
+cut in two, `ケイブリス` arriving as "Caveリス" in some fifty lines and `リス様` as
+"Lordリス" in a handful; `mistranslated_names.json` here turns those into Kayblis
+and Lord Lis, and that is all this variant asks the shared table to change.
+
+## Where it is rough
+
+It keeps the Japanese punctuation, 「」 on 183008 lines, which reads as a
+deliberate choice rather than a leftover -- the `gpt` variant uses quotation
+marks instead.
+
+Around sixty lines still hold kana or kanji after the build normalises what it
+can. Half of those are `・` used as a separator, "M・M・Rune", which the `gpt`
+text does too; the rest are a word the translation walked past, `幻獣` for a
+phantom beast being the one that recurs. One line, m[145787], is untranslated
+outright.
+
+1796 lines come out empty, and mostly that is deliberate: where a sentence is
+split over two lines in the Japanese, this translation tends to put all of it on
+the first and leave the second blank, which is 1459 of them.

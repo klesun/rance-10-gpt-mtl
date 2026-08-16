@@ -6,7 +6,7 @@ builds whichever one you ask for:
 | Variant | What it is |
 |---|---|
 | `gpt` | the default, the translation this repository has always shipped |
-| `grok` | the same translation reworked in [the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork), through the Grok and Gemini chats its tooling drives |
+| `grok` | a second translation of the whole script, made in [the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork) by putting the Japanese through Grok |
 
 Each folder under `variants/` carries a README saying where its text came from
 and what has been done to it since.
@@ -30,13 +30,31 @@ regenerate-ain '--' --variant=grok`.
 
 ## What a variant is
 
-A directory under `variants/`, holding nothing but data:
+A directory under `variants/`, holding nothing but data, in one of two shapes.
+A corpus, which is what a translation run through the API leaves behind:
 
 ```
 variants/gpt/gpt_outputs/           the v1.00 translation, one JSON per chunk of lines
 variants/gpt/gpt_outputs_v104/      the same for lines v1.04 added
 variants/gpt/mistranslated_names.json   optional, see below
 ```
+
+Or a finished patch, which is what a translation done by hand in a chat window
+leaves behind -- there was never a corpus, only the file being pasted into:
+
+```
+variants/grok/dialogue.ain.txt      m[<line>] = "<text>", the v1.04 numbering already
+variants/grok/mistranslated_names.json   optional, the same as above
+```
+
+`dialogue.ain.txt` decides which it is: if the file is there the two folders are
+not read, and neither is the v1.00 to v1.04 mapping, because a patch is written
+against the numbering the game already uses. Two things follow from a patch
+naming only the lines it has an opinion about. A line it skips would play in
+Japanese, so the default variant is rendered underneath and shows through the
+gaps -- the build says how many lines that was. And its own line breaks are
+dropped and re-wrapped here, since they were measured against whatever window
+the other build had in mind.
 
 Everything else is shared and stays at the repository root, because it is not
 what the two translations disagree about:
@@ -52,9 +70,10 @@ what the two translations disagree about:
   are not dialogue at all.
 
 So there is one pipeline, not one per variant. Adding a third translation is
-adding a folder with the two corpora in it — the format is what
-`a02_translate_via_gpt.js` writes, an object with `output_parsed.translationLines`
-holding `{lineNumber, originalJapaneseLine, translatedEnglishLine}`.
+adding a folder: either a `dialogue.ain.txt`, or the two corpora in the format
+`a02_translate_via_gpt.js` writes, an object with
+`output_parsed.translationLines` holding
+`{lineNumber, originalJapaneseLine, translatedEnglishLine}`.
 
 ## Names are shared, unless a variant insists
 
@@ -63,15 +82,16 @@ pass: where the Japanese names a character and the English does not spell them
 the canonical way, the known misspelling is replaced. The same file names the
 characters on the card plates through `generate_card_names.js`, so it has to be
 shared — a variant that renamed people in its dialogue alone would contradict
-the cards its own build installs. So the `grok` corpus, which writes Rance as
-"Lance" and Sanakia as "Sarnakia", builds with the same names `gpt` does; what
-the two differ in is the wording.
+the cards its own build installs. Two translations of the same script get a name
+wrong in different ways, and the table has to know both spellings; what the two
+are allowed to differ in is the wording.
 
 If a variant does need its own answer, put a `mistranslated_names.json` next to
-its corpora with just the entries it disagrees about. It is layered over the
+its text with just the entries it disagrees about. It is layered over the
 shared table by Japanese name: the canonical spelling is taken from the
 variant, and the known misspellings of both are merged, so a variant never has
-to restate the whole list.
+to restate the whole list. `grok` uses it for the two names its own chunking cut
+in half, which are its misspellings and nobody else's.
 
 ## Build products
 
