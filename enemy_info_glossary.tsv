@@ -1,0 +1,256 @@
+# The English for the enemy status lines -- the four hints under an enemy's
+# stats in battle. Hand-written; this is the file to edit.
+#
+# Columns: the Japanese <TAB> the English.
+#
+# Keyed by the Japanese rather than by string slot, because the slot numbers
+# belong to one build of one version of the game and the text does not, and
+# because a line the game reuses is then translated once rather than once per
+# enemy. scripts/extract_enemy_info.js writes the Japanese side, in
+# enemy_info_lines.v1.04.tsv; a line left out here stays Japanese in game.
+#
+# The panel fits about twenty full-width characters per line and does not wrap,
+# so the build measures each of these and says which ones overhang.
+#
+# Terms follow the ones already in Rance10EX_v1_04: 異常 is a Debuff, 支援 a
+# Buff, 遠隔 Ranged, コンボ a Combo, 大技 a Special Move. 敵 in these lines is
+# the enemy the panel is describing, so it reads as "it"; 自軍 is your side.
+混乱状態	Confused
+4ラウンド以降→逃亡有り	Round 4 on → may flee
+1ラウンド　力溜め	Round 1: charges up
+3.6.9ラウンド　大技	Rounds 3, 6, 9: Special Move
+3.6.9 ケイブワンの大技	Rounds 3, 6, 9: Kaybwan's Special Move
+ケイブニャンの大技　有り？	Kaybnyan has a Special Move? Maybe?
+自軍.燃え→大技	Allies Burning → Special Move
+敵.燃え→異常除去	Burning → cleanses its Debuffs
+7ラウンド　回復	Round 7: heals
+ライバル戦	Rival battle
+重装甲　装甲破壊等で除去可	Heavy Armor: Armor Break removes it
+4.9.14ラウンド　バリア展開	Rounds 4, 9, 14: raises a Barrier
+5.10.15.20 大技	Rounds 5, 10, 15, 20: Special Move
+魔法耐性有り	Has Magic Resistance
+ラウンドが進むと攻撃回数ＵＰ	Attacks more often as rounds pass
+4.8.12ラウンド　大技、体質再生	Rounds 4, 8, 12: Special Move, Regen
+自軍が回復→敵も回復	You heal → it heals too
+敵.凍え→止まる	Frozen → it stops
+自軍が回復→敵も自爆	You heal → it self-destructs
+腐っています	It is rotting
+重装甲(物理.魔法)を交互に貼る	Alternates Heavy Armor (phys./magic)
+3.6.8.10ラウンド 大技	Rounds 3, 6, 8, 10: Special Move
+6ラウンド後　死ぬ	Dies after round 6
+魔法は効かない	Immune to Magic
+全裸　→　ヤバイ	Fully naked → trouble
+はにほー	Haniho!
+攻撃　→　反射攻撃	Attack → Attack Reflect
+3.6.10ラウンド　大技	Rounds 3, 6, 10: Special Move
+3.10ラウンド　大技	Rounds 3, 10: Special Move
+飛行、回避　発生	Gains Flight and Evasion
+HP50%以下→逃亡有り	HP 50% or less → may flee
+敵.異常２→逃亡有り	2 Debuffs on it → may flee
+1.5.10.15ラウンド　大技	Rounds 1, 5, 10, 15: Special Move
+自軍.恐怖→怒濤の攻撃	Allies in Fear → furious attacks
+自軍.毒→雄叫び	Allies Poisoned → war cry
+自軍.魔法→鬼の鏡	Allies cast Magic → Demon Mirror
+自軍.恐怖→大技	Allies in Fear → Special Move
+1ラウンド　間引き攻撃	Round 1: thinning attack
+歌声　ＡＰ全消滅	Its song wipes out all AP
+ゲート発動→敗北	The Gate opens → you lose
+ゲート　魔法ブレイク等で除去可	Gate: Magic Break removes it
+一定間隔で水面下に潜る	Dives underwater at intervals
+回復行動多い	Heals often
+6ラウンドに大回復	Round 6: big heal
+敵HP50%以下　連続攻撃有り	HP 50% or less: chain attacks
+攻撃、遠隔攻撃が効きにくい	Resists Attack and Ranged
+呪い攻撃	Curse attacks
+敵.異常→除去行動	Debuffed → cleanses it
+自軍.感電→連続雷撃攻撃	Allies Shocked → chain lightning
+自軍.燃え→連続炎攻撃	Allies Burning → chain fire attacks
+自軍.凍え→連続氷攻撃	Allies Frozen → chain ice attacks
+魔鉄匠の末裔には逆らえない	Cannot defy the Magic Smith's heir
+魔法に弱い	Weak to Magic
+6.9.ラウンドに大技	Rounds 6, 9: Special Move
+6.9.12.15ラウンドに大技	Rounds 6, 9, 12, 15: Special Move
+自身の支援無し→支援多数発生	No Buffs on it → gains a great many
+敵.異常２→異常除去	2 Debuffs on it → cleanses them
+1.2.3ラウンド　ラッシュ	Rounds 1, 2, 3: rush
+　その後、疲れる	　then it tires out
+放水でＡＰを消す	Its water jet wipes out AP
+自己回復力を持つ	Can heal itself
+敵HP50%以下でさらに強化	HP 50% or less: grows stronger
+重装甲　装甲破壊系の技で除去可能	Heavy Armor: removed by Armor Break
+敵異常あり→行動が鈍くなる	Debuffed → acts slower
+敵異常なし→行動が活発	No Debuffs → acts faster
+暗闇発生時→闇の援軍	On Darkness → Dark reinforcements
+3.6.9ラウンド　暗闇発生	Rounds 3, 6, 9: brings Darkness
+自軍コンボ数に反応して攻撃	Attacks in answer to your Combo count
+　コンボ数多めは危険	　a high Combo is dangerous
+　コンボ数少なめ危険	　a low Combo is dangerous
+敵HP30%以下で自己修復	HP 30% or less: repairs itself
+2ラウンド目　アクセラレーター	Round 2: Accelerator
+6ラウンド目　大技	Round 6: Special Move
+増殖して支援を発生する	Multiplies and gains Buffs
+増えると致命的なバグになる	Left to multiply, it becomes a fatal bug
+5.10ラウンド　大技	Rounds 5, 10: Special Move
+ＡＩが完成すると大技	Its AI completes → Special Move
+敵.異常→ＡＩ混乱有り	Debuffed → its AI may go haywire
+3.6.9ラウンド　毒針、混乱	Rounds 3, 6, 9: Poison Needle, Confuse
+小さいのが無数にいます	Countless little ones
+　安定装置ゆえ無くなると暴走	　a stabiliser: kill it and they rampage
+　特定以上のダメージを１度に	　Takes no damage unless a single hit
+　与えないと被害を受けない	　clears a certain threshold
+3.6.12ラウンド　大技	Rounds 3, 6, 12: Special Move
+自軍.攻撃→攻撃反射発動	Allies Attack → Attack Reflect
+自軍.遠隔→遠隔反射発動	Allies Ranged → Ranged Reflect
+自軍.魔法→魔法反射発動	Allies Magic → Magic Reflect
+4.8.12.16ラウンド　ＰＧ製造	Rounds 4, 8, 12, 16: builds PGs
+戦えない製造装置	A factory; it cannot fight
+5.10.15.20　大技	Rounds 5, 10, 15, 20: Special Move
+敵異常３→除去	3 Debuffs on it → cleanses them
+熱狂状態→攻撃ラッシュ	Frenzied → attack rush
+すら	Slaa
+　すら	　Slaa
+　　すら	　　Slaa
+とにかく倒せ	Just beat it
+敵HP50%以下→逃げる	HP 50% or less → flees
+必ずアイテムを落とす	Always drops an item
+5.10.ラウンド　大技	Rounds 5, 10: Special Move
+15ラウンド以降　たまに大技	Round 15 on: the odd Special Move
+★挑戦ボス★	★Challenge Boss★
+5ラウンドまでラッシュ	Rushes until round 5
+以降、故障	after that it breaks down
+自軍.支援あり→３行動	Allies Buffed → 3 actions
+自軍.支援なし→２行動	Allies unbuffed → 2 actions
+敵HP100%以下　大技	HP 100% or less: Special Move
+敵HP75%以下　大技	HP 75% or less: Special Move
+敵HP50%以下　大技	HP 50% or less: Special Move
+敵HP25%以下　大技	HP 25% or less: Special Move
+異常をかけまくってくる	Throws Debuffs around
+回復をよくする	Heals a lot
+5.10.15ラウンド　大技	Rounds 5, 10, 15: Special Move
+3.5.10ラウンド　大技	Rounds 3, 5, 10: Special Move
+5.10.15ラウンド　即死予告	Rounds 5, 10, 15: Death Sentence
+自軍.異常３→満足	Allies with 3 Debuffs → satisfied
+魔法を喰らうと怒る	Hit by Magic → it gets angry
+4ラウンド　大技	Round 4: Special Move
+ランスが捕獲→混乱	Rance captures it → Confusion
+自軍.燃え→ＦＬ	Allies Burning → FL
+自軍.凍え→ＳＬ	Allies Frozen → SL
+自軍.感電→大雷撃	Allies Shocked → Great Lightning
+1.4ラウンド　大技	Rounds 1, 4: Special Move
+★引き分け推奨★	★A draw is recommended★
+4.9.20ラウンド　大技	Rounds 4, 9, 20: Special Move
+　リズナの魔抵体質で対応	　answer it with Rizna's Magic Resist
+美樹が居なくなると鬼神化	Miki gone → it turns berserk
+美樹の応援回復は１回のみ	Miki's cheer heals only once
+ランスアタックには対抗する	It stands up to Rance Attack
+怒りでもう止められない	Its rage cannot be stopped now
+★フルスペック★	★Full Specs★
+敵異常３→除去行動	3 Debuffs on it → cleanses them
+自軍.支援３→除去行動	Allies with 3 Buffs → strips them
+☆魔封印結界により弱体化☆	☆Weakened by the Magic Seal☆
+12.20ラウンド　大技	Rounds 12, 20: Special Move
+※洞窟内にて行動制限※	※Movement limited inside the cave※
+3.6.9.12ラウンド 大技	Rounds 3, 6, 9, 12: Special Move
+何もしてこないが	It does nothing at all,
+しばらくすると立ち去る	and after a while it walks away
+知性覚醒が進むと危険	Dangerous as its mind awakens
+覚醒させないように殴って倒す	Beat it down before it awakens
+4ラウンド以降、腹吸い込み開始	Round 4 on: starts swallowing
+10ラウンド　３使徒呼び出し	Round 10: calls the 3 Apostles
+香姫がいると腹吸い込みしない	It will not swallow while Kouhime is in
+15.20.25ラウンド　大技	Rounds 15, 20, 25: Special Move
+サメザン居ない→３使徒呼び出し	No Samezan → calls the 3 Apostles
+※香姫に夢中※	※Smitten with Kouhime※
+3の倍数ラウンド、回復技	Every 3rd round: a healing skill
+カロリアが居ると確率で躊躇	May hesitate while Caloria is in
+回避力高いので注意	Careful: high Evasion
+自軍.ＡＰ３以上で連続攻撃	Allies at 3+ AP → chain attacks
+雷雲が育つと雷神雷光	Its thundercloud grows → Thunder Flash
+自身の異常2以上で異常除去	2+ Debuffs on it → cleanses them
+※カオスにより深傷※	※Deeply wounded by Chaos※
+5の倍数ラウンド　大技	Every 5th round: Special Move
+敵ＨＰ10%以下　大技	HP 10% or less: Special Move
+5.8ラウンド　大技	Rounds 5, 8: Special Move
+敵HP75%以下→回復	HP 75% or less → heals
+アモルの消滅→ミスト化	Amor's Darkness gone → turns to Mist
+ミスト化　大技当たらない	As Mist, Special Moves miss it
+8ラウンド以降　動き低下	Round 8 on: slows down
+15ラウンド以降　動き低下	Round 15 on: slows down
+20ラウンド以降　動き低下	Round 20 on: slows down
+※昼間にて弱体化※	※Weakened by daylight※
+3.8.15.22ラウンド　大技	Rounds 3, 8, 15, 22: Special Move
+自軍.恐怖無し→狂気の歌	No Fear on allies → Song of Madness
+自軍.恐怖無し→狂気の声	No Fear on allies → Voice of Madness
+敵HP75%以下　　　隙が出来る	HP 75% or less: it opens up
+15ラウンド以降 隙が出来る	Round 15 on: it opens up
+ランスを助けろ	Save Rance
+※ランス復活※	※Rance is back※
+2.6ラウンド　大技	Rounds 2, 6: Special Move
+5.15.25.35ラウンド　支援	Rounds 5, 15, 25, 35: Buffs itself
+敵支援2以下　支援	2 Buffs or fewer: Buffs itself
+5.15ラウンド　大技	Rounds 5, 15: Special Move
+10.20.40ラウンド　大技	Rounds 10, 20, 40: Special Move
+４つの行動タイプに変化	Shifts between 4 kinds of behaviour
+！！	!!
+魔法は効かないことはない	Magic is not useless here
+差し押さえをしてくる	It seizes your belongings
+満載の食べ物	A mountain of food
+制限時間内に食べ尽くせ	Eat it all before time runs out
+自然は倒せない	Nature cannot be beaten
+嵐が過ぎ去るまで耐えよう	Endure until the storm passes
+事件の真相は・・・	The truth of the case is...
+調べて、推測して、謎を解こう	Look, reason, and solve it
+5ラウンド　大技	Round 5: Special Move
+10ラウンド　大技＋回復	Round 10: Special Move + heal
+敵HP50%以下　渾身有り	HP 50% or less: All-Out attack
+どんどん作ってくる	It keeps building more
+敵HP60%以下　引き分け	HP 60% or less: a draw
+6.12ラウンド　触手増える	Rounds 6, 12: more tentacles
+攻撃、遠隔　効きにくい	Resists Attack and Ranged
+石化されるが・・	You will be petrified, but...
+　粘れば・・・	　hold out and...
+敵HP50%以下　特殊技	HP 50% or less: special skill
+敵HP10%以下　特殊技	HP 10% or less: special skill
+1.2ラウンド　呪いの準備	Rounds 1, 2: preparing a curse
+3ラウンド　呪いで即死	Round 3: the curse kills outright
+8.15ラウンド　大技	Rounds 8, 15: Special Move
+3.9.10ラウンド　勇者斬り	Rounds 3, 9, 10: Hero Slash
+15.25ラウンド　勇者斬り	Rounds 15, 25: Hero Slash
+　それぞれ発動条件あり	　each with its own trigger
+魔法が効かない	Magic does not work
+5.10.15ラウンド　ハニー応援	Rounds 5, 10, 15: Honey cheer
+6.13.20　魔力球配置	Rounds 6, 13, 20: places Mana Orbs
+27.34　　魔力球配置	Rounds 27, 34: places Mana Orbs
+コンボ4以上→大技返し	Combo 4+ → Special Move counter
+勝利方法	How to win
+　隙を見てクラウゼンの手を	　grab Clausen's hand when he is open
+異常があると動きが鈍い	Debuffed → it moves sluggishly
+健康体の時ほど強い	The healthier it is, the stronger
+敵HP50%以下→完全回復 1回	HP 50% or less → full heal, once
+寒波、凍え状態にする	Its cold wave inflicts Frozen
+魔物兵．小数型	Monster Soldier: Small Group
+3.6.9ラウンド　援軍	Rounds 3, 6, 9: Reinforcements
+魔法型	Magic Type
+魔物兵．大軍型	Monster Soldier: Horde
+魔物兵．軍師型	Monster Soldier: Strategist
+6.9ラウンド　大技	Rounds 6, 9: Special Move
+作戦多発	Tactics, and plenty of them
+魔物兵．攻撃型	Monster Soldier: Attack
+魔物兵　魔法型	Monster Soldier: Magic
+魔物兵．突撃型	Monster Soldier: Assault
+1.2.3ラウンド　大技	Rounds 1, 2, 3: Special Move
+魔物兵．防御型	Monster Soldier: Defense
+5ラウンド　軍師、土嚢	Round 5: Strategist, Sandbags
+魔物兵．飛行型	Monster Soldier: Flying
+飛行喪失→逃亡有り	Loses Flight → may flee
+3.5.10.20ラウンド　援軍	Rounds 3, 5, 10, 20: Reinforcements
+敵異常２→解除行動	2 Debuffs on it → cleanses them
+モンスター.基本型	Monster: Basic
+モンスター.回復型	Monster: Healer
+1ラウンド　回復	Round 1: heals
+3.6ラウンド　防御	Rounds 3, 6: guards
+モンスター.突撃型	Monster: Assault
+モンスター.大技型	Monster: Special Move
+モンスター.魔法型	Monster: Magic
+モンスター.大軍型	Monster: Horde
+基本攻撃型	Basic Attack Type

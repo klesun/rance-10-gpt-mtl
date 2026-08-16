@@ -9,6 +9,7 @@
 import * as fs from "fs/promises";
 import * as path from "path";
 import {replaceUnicode, wrapAt} from "./modules/TextNormalization.js";
+import {renderEnemyInfo} from "./modules/EnemyInfo.js";
 import {createNameNormalizer} from "./modules/NameNormalizer.js";
 import {DEFAULT_VARIANT, hasPatch, regeneratedTxt, variantDir, variantName, variantPatch} from "./modules/Variants.js";
 
@@ -32,6 +33,11 @@ const v104AinJson = await fs.readFile("./Rance10.v1.04.ain.json", "utf-8");
 const v104AinData = JSON.parse(v104AinJson);
 
 const cherryPicksTxt = await fs.readFile("./system_cherry_picks.v1.04.ain.txt", "utf-8");
+
+// Generated rather than cherry-picked: which string slots these are was found
+// in the code by scripts/extract_enemy_info.js, and the English is keyed by the
+// Japanese in enemy_info_glossary.tsv. See modules/EnemyInfo.js.
+const enemyInfo = await renderEnemyInfo();
 
 const mapLineNumbers = (v100AinData, v104AinData) => {
     let v100Offset = 0;
@@ -205,9 +211,19 @@ const output = allLineRecords
     // own. Without the break they land on the end of the last assignment --
     // m[269677] = "..."; note: "r" character is apparently interpreted... --
     // which has only ever worked because the line they open with is a comment.
-    .join("\n") + "\n" + cherryPicksTxt + "\n";
+    .join("\n") + "\n" + cherryPicksTxt + "\n" + enemyInfo.text + "\n";
 
 await fs.writeFile(regeneratedTxt(variant), output, "utf-8");
 
 console.log(`Rendered the "${variant}" dialogue variant into ${regeneratedTxt(variant)}`
     + (howItWasBuilt ? ` -- ${howItWasBuilt}` : ""));
+console.log(`Translated ${enemyInfo.report}`);
+// Worth saying out loud, not worth stopping for: the panel does not wrap, so an
+// overlong line runs off it rather than folding, and a glossary entry the game
+// no longer has is text nothing will ever show.
+for (const english of enemyInfo.overlong) {
+    console.warn(`  too wide for the enemy status panel: ${JSON.stringify(english)}`);
+}
+for (const japanese of enemyInfo.stale) {
+    console.warn(`  no enemy status line says ${JSON.stringify(japanese)} any more`);
+}

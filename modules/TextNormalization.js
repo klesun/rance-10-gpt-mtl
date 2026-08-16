@@ -42,7 +42,7 @@ const getCharWidth = (char) => {
     return width;
 };
 
-const getTextWidth = (text) => {
+export const getTextWidth = (text) => {
     return text.split("")
         .map(getCharWidth)
         .reduce((a,b) => a + b, 0);

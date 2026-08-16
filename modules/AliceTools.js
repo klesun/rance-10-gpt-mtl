@@ -30,10 +30,14 @@ export const alice = (args, exe = required("ALICE_EXE")) => {
 /**
  * Run an entry point, reporting a misconfigured .env as a plain message. A
  * missing path is the reader's problem to fix, not a stack trace to read.
+ *
+ * Awaited, so that an entry point which reads files can be async and still get
+ * the same treatment -- an unawaited body would assign a promise to exitCode
+ * and let its rejection past the catch as an unhandled one.
  */
-export const run = (body) => {
+export const run = async (body) => {
     try {
-        process.exitCode = body();
+        process.exitCode = await body();
     } catch (error) {
         console.error(error.message);
         process.exitCode = 1;
