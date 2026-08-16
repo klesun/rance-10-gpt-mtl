@@ -35,7 +35,7 @@ ______________________________________
 3. Copy `.env.example` to `.env` and put your own paths in it: `GAME_DIR` is the game folder the build writes into, `ALICE_EXE` is your [alice-tools](https://github.com/nunuhara/alice-tools) binary. `.env` is gitignored, so these stay yours
 4. Run `npm run regenerate-ain` to replace your `%GAME_DIR%\Rance10.ain` with translated version (if the game sits under `C:\Program Files`, you will likely need to either open terminal as administrator for that or change the access of that folder to "Full Access" for "Everyone" group)
 5. Run `npm run regenerate-ex` to do same for the `Rance10EX.ex` file that translates skill descriptions, character descriptions, quests, etc...
-6. Run `npm run regenerate-pack` to translate some UI elements, like settings menu
+6. Run `npm run regenerate-pack` to translate some UI elements, like settings menu — **currently broken**, see the note at the top of [scripts/pack.js](scripts/pack.js); the archive it builds is already translated in the released patch, so this only matters if you edit `Rance10Pact_v1_04`
 
 (there are also some image translations in `Rance10CG2_v1_04` and `Rance10Flat_v1_04` folders, but for them there is currently no simple command)
 
