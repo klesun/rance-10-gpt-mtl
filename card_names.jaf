@@ -1,0 +1,50 @@
+/*
+ * English character names and card labels.
+ *
+ * Two strings in the カードデータ table look like labels but are save keys:
+ * a card's Id addresses its per-card state, and 識別名 is the node name in the
+ * 識別名情報 ex-tree under which rank and event flags are stored. Translating
+ * either one in the data table detaches the game from its own saved state --
+ * every rank reads back as zero while the display still looks correct.
+ *
+ * So the data table keeps its Japanese, and the two display accessors read an
+ * English string out of the ex-tree instead. The raw value is passed as the
+ * EX_String default, so a missing or empty entry reproduces the unpatched
+ * behaviour exactly: the worst case is a Japanese name, never a crash. That
+ * also lets this file be built and tested independently of the data.
+ *
+ * See docs/card-name-localization.md for the full write-up.
+ */
+
+/*
+ * Name shown in the combat log. super() returns 識別名, except for the chapter
+ * 2 protagonist where the original getter substitutes the player-chosen name.
+ * Wrapping the original instead of reimplementing it keeps that branch intact.
+ *
+ * The full name is the right register here -- it comes from カード情報's
+ * フルネーム, which the translation already provides in English.
+ */
+override string Character@Name::get(void)
+{
+	string name = super();
+	return EX_String("識別名情報." + name + ".英名", name, 0);
+}
+
+/*
+ * Label drawn on the card plate. super() returns the card Id, or the
+ * player-chosen name for the ＜エール＞ cards. Those are absent from カード英名
+ * and fall through to the default, which is what the original returned.
+ *
+ * Patching the accessor covers all five render sites at once:
+ * CardConstructProcessCacheFront@CreateName, CardConstructorFrontCard::Create
+ * (twice) and the two back-face constructors.
+ *
+ * The label needs the *short* name plus a translated affix, not the full name:
+ * the plate clips text centred without scaling it, so "Naked Crook Mofus"
+ * would lose both its head and its tail.
+ */
+override string PlayerCard@ViewName::get(void)
+{
+	string id = super();
+	return EX_String("識別名情報.カード英名." + id + ".英名", id, 0);
+}

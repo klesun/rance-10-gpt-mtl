@@ -1,0 +1,680 @@
+# Short English names for the characters and items that appear in card Ids.
+#
+# Columns: japanese <TAB> english <TAB> number of cards using the name.
+# The third column is informational; generate_card_names.js reads the first two.
+#
+# These are the *short* names the card plate needs, not the full names -- the
+# plate clips text centred, so "Naked Crook Mofus" would lose both its head and
+# its tail. Full names come from カード情報 instead and are used in the combat log.
+#
+# mistranslated_names.json overrides the english column wherever the two
+# disagree, so card labels spell names the same way the dialogue does. See the
+# exception list in generate_card_names.js for the handful of entries where the
+# override is refused because it would erase a distinction between cards.
+エール２	El 2	60
+ランス	Rance	19
+リセット２	Reset 2	12
+子供志津香	Young Shizuka	11
+ザンス２	Zance 2	10
+乱義２	Rangi 2	10
+スシヌ２	Sushinu 2	9
+志津香２	Shizuka 2	9
+ナギ２	Nagi 2	9
+深根２	Tone 2	9
+ピグ	Pigu	8
+ウズメ２	Uzume 2	8
+元就２	Motonari 2	8
+シィル	Sill	7
+ミックス２	Mix 2	7
+レリコフ２	Lelikov 2	7
+ミラクル	Miracle	6
+ダークランス２	Dark Rance 2	6
+チルディ	Tilde	5
+かなみ	Kanami	5
+シーラ	Sheila	5
+マジック	Magic	5
+クルックー	Crook	5
+パステル	Pastel	5
+長田君２	Nagata-kun 2	5
+あてな２号	Athena 2.0	4
+サーナキア	Sanakia	4
+リア	Lia	4
+ジュリア	Julia	4
+コパンドン	Copandon	4
+マリア	Maria	4
+ロードリング	Lordring	4
+セル	Sel	4
+香姫	Kouhime	4
+謙信	Kenshin	4
+千姫	Senhime	4
+美樹	Miki	4
+ウィリス	Willis	4
+アギレダ	Agireda	4
+ビスケッタ	Biscuitta	3
+ロナ	Rona	3
+タマ	Tama	3
+クレイン	Crane	3
+カフェ	Cafe	3
+アルカネーゼ	Alkanese	3
+キャロリ	Calory	3
+カロリア	Caloria	3
+アームズ	Arms	3
+マリス	Maris	3
+アールコート	Arlcoate	3
+スー	Sioux	3
+メナド	Menad	3
+レイラ	Leila	3
+メルフェイス	Melfeis	3
+ペルエレ	Peruele	3
+クリーム	Cream	3
+アミトス	Amitos	3
+フレイア	Freya	3
+アナセル	Anasel	3
+パットン	Patton	3
+ウルザ	Urza	3
+千鶴子	Chizuko	3
+アニス	Anise	3
+リズナ	Rizna	3
+ウスピラ	Uspira	3
+エレナ	Elena	3
+セスナ	Cessna	3
+子供ナギ	Young Nagi	3
+香澄	Kasumi	3
+エレノア	Eleanor	3
+ミル	Mill	3
+サチコ	Sachiko	3
+アム	Am	3
+てる	Teru	3
+ちぬ	Chinu	3
+五十六	Isoroku	3
+鈴女	Suzume	3
+リセット	Reset	3
+イージス	Aegis	3
+フル	Full	3
+ビビッド	Vivid	3
+モダン	Modern	3
+シャリエラ	Shariela	3
+サテラ	Satella	3
+フェリス	Feliss	3
+ドッス２	Doss 2	3
+ワッス２	Wass 2	3
+松下姫２	Princess Panasonic 2	3
+ニミッツ	Nimitz	3
+シルキィ	Silky	3
+クリン	Klean	2
+ハイジ	Heidi	2
+魔剣 カオス	Demon Sword Chaos	2
+量産型あてな２号	Mass-Produced Athena 2.0	2
+キバ子	Kibako	2
+アタゴ	Atago	2
+ノア	Noah	2
+日光	Nikkou	2
+ルート	Root	2
+クルーチェ	Krutche	2
+バレス	Barres	2
+ハウレーン	Haurein	2
+リック	Rick	2
+あおい	Aoi	2
+イベット	Yvette	2
+ヒューバート	Hubert	2
+ロレックス	Rolex	2
+闇鷺	Dark Heron	2
+ルーベラン	Ruberan	2
+メリム	Merim	2
+イオ	Io	2
+透琳	Tourin	2
+ガンジー	Gandhi	2
+カオル	Kaoru	2
+ウィチタ	Wichita	2
+アレックス	Alex	2
+サイアス	Saias	2
+カバッハーン	Kabachahn	2
+パパイア	Papaya	2
+パセリ	Parsley	2
+エロピチャ	Eropicha	2
+花屋エレナ	Florist Elena	2
+マルチナ	Martina	2
+キムチ	Kimchi	2
+ソルトアン	Sultan	2
+プリマ	Prima	2
+メガデス	Megadeath	2
+ユーティン	Yutin	2
+セシル	Cecil	2
+メアリー	Mary	2
+ヌヌハラ	Nunuhara	2
+カチューシャ	Katyusha	2
+少女カチューシャ	Maiden Katyusha	2
+オノハ	Onoha	2
+きく	Kiku	2
+愛	Ai	2
+勝子	Katsuko	2
+虎子	Torako	2
+柚美	Yuzumi	2
+お町	Omachi	2
+ノワール	Noir	2
+野菊	Nogiku	2
+折女	Orime	2
+紀伊	Kii	2
+乳久里	Chikuri	2
+サクラ	Sakura	2
+ハンティ	Hunty	2
+アカシロ	Akashiro	2
+ハウゼル	Hawzel	2
+サイゼル	Saizel	2
+火炎書士	Flame Scrivener	2
+ユキちゃん	Yuki-chan	2
+アトランタ	Atlanta	2
+オーロラ	Aurora	2
+ワーグ	Warg	2
+ホーネット	Hornet	2
+女ケッセルリンク	Female Kesselring	2
+パレロア	Paleloa	2
+バーバラ	Barbara	2
+ファーレン	Varen	2
+シャロン	Sharon	2
+エルシール	Elsill	2
+加奈代	Kanayo	2
+リリム	Lilim	2
+アルカリア	Alcarria	2
+ミカン	Mikan	2
+ケイブニャン	Kaybnyan	2
+ケイブワン	Kaybwan	2
+ベゼルアイ大	Bezeleye (Large)	2
+ハウセスナース大	Housesnurse (Large)	2
+ウェンリーナー大	Wenlina (Large)	2
+セラクロラス大	Serachrolas (Large)	2
+ランス２	Rance 2	2
+伝説の武具亜人	Legendary Arms: Demi-Humans	2
+伝説の武具モンスター	Legendary Arms: Monsters	2
+伝説の武具ＪＡＰＡＮ	Legendary Arms: JAPAN	2
+伝説の武具自由都市	Legendary Arms: Free Cities	2
+伝説の武具ゼス	Legendary Arms: Zeth	2
+伝説の武具ヘルマン	Legendary Arms: Helman	2
+伝説の武具リーザス	Legendary Arms: Leazas	2
+伝説の武具その他	Legendary Arms: Others	2
+伝説の武具主人公	Legendary Arms: Protagonist	2
+伝説の武具神魔	Legendary Arms: Gods & Demons	2
+カミーラ	Camilla	2
+コーラ	Cola	2
+ヌーク７７	Nook77	2
+バスワルド	Vaswald	2
+テオマン	Theoman	2
+テストアイテム	Test Item	1
+テストキャラ	Test Character	1
+将軍内に居た女１	Monster General's Girl 1	1
+将軍内に居た女２	Monster General's Girl 2	1
+将軍内に居た女３	Monster General's Girl 3	1
+将軍内に居た女４	Monster General's Girl 4	1
+将軍内に居た女５	Monster General's Girl 5	1
+将軍内に居た女６	Monster General's Girl 6	1
+将軍内に居た女７	Monster General's Girl 7	1
+将軍内に居た女８	Monster General's Girl 8	1
+将軍内に居た女９	Monster General's Girl 9	1
+将軍内に居た女１０	Monster General's Girl 10	1
+将軍内に居た女１１	Monster General's Girl 11	1
+将軍内に居た女１２	Monster General's Girl 12	1
+クゥ	Qu	1
+究極うさぎ鍋	Ultimate Rabbit Pot	1
+シルキィメダル	Silky Medallion	1
+ハウゼルメダル	Hawzel Medallion	1
+レキシントンメダル	Lexington Medallion	1
+バボラメダル	Babolat Medallion	1
+ケッセルリンクメダル	Kesselring Medallion	1
+ガルティアメダル	Galtia Medallion	1
+メディウサメダル	Medusa Medallion	1
+レイメダル	Lei Medallion	1
+パイアールメダル	Pi-R Medallion	1
+ワーグメダル	Warg Medallion	1
+ケイブリスメダル	Kayblis Medallion	1
+ますぞえメダル	Masuzoe Medallion	1
+かわぞえメダル	Kawazoe Medallion	1
+ヨシフメダル	Joseph Medallion	1
+ルメイメダル	LeMay Medallion	1
+ツォトンメダル	Zedong Medallion	1
+ピサロメダル	Pizarro Medallion	1
+ジャハルッカスの爪	Jhahlckas Claw	1
+バンオペタの証Ｂ	Ban Opeta's License B	1
+バンオペタの証Ａ	Ban Opeta's License A	1
+宝剣イングランド	Treasured Sword England	1
+鏡餅	Mirror Mochi	1
+ＣＩＴＹの看板	CITY Billboard	1
+海の思い出	Memories of the Sea	1
+高級巻き尺	High-Grade Tape Measure	1
+ひまわり型黄金像	Sunflower Golden Statue	1
+ひょうたん型黄金像	Gourd Golden Statue	1
+盆栽型黄金像	Bonsai Golden Statue	1
+言わ猿型黄金像	Speak-No-Evil Monkey Golden Statue	1
+ＫＤ挑戦権	KD Challenge Ticket	1
+ヒラミレモン	Hirami Lemons	1
+男の友情	Male Friendship	1
+上級天使のブラ	High-Class Angel's Bra	1
+緑の瓶	Green Bottle	1
+タロコンソード	Talcom Sword	1
+タロコン機関	Talcom Engine	1
+鋼鉄黒飴貝	Blacksteel Shell	1
+エリザベート	Elizabeth	1
+へケート	Hecette	1
+フロストバイン	Frostvine	1
+ミステリア	Mysteria	1
+ウルンセルの刃	Urunsel Blade	1
+世界純金ベアー	Pure Gold Bear	1
+シィルの杖	Sill's Wand	1
+ウニセフの旗	Flag of UNICEF	1
+聖書	Holy Book	1
+高級うし車	Luxurious Cow Carriage	1
+精鋭荷駄隊	Elite Logistics Corps	1
+部隊司令部	Force Command	1
+コルドバ	Cordoba	1
+キンケード	Kinkaid	1
+エクス	Ex	1
+チャカ	Chaka	1
+オーギル	Ogier	1
+リーザス聖剣	Leazas Holy Sword	1
+ペルシオン	Prussian	1
+タツノオトシドコロ	Seahorses	1
+調教バイブル	Training Bible	1
+リーザスの旗	Flag of Leazas	1
+王家の歴史書	Royal Family History Book	1
+オルオレ	Oruore	1
+トルストイ	Tolstoy	1
+サムソン	Samson	1
+デストラー	Destora	1
+ヘルマン石壁	Helman Stone Wall	1
+ストロンガー	Stronger	1
+真・守り神様	True Guardian Deity	1
+ヘルマンの旗	Flag of Helman	1
+ザナゲスサーガー	Zanageth Saga	1
+ネルソン	Nelson	1
+ロッキー	Rocky	1
+チョチョマン	Chochoman	1
+ブラックロータス	Black Lotus	1
+マジックウール	Magic Wool	1
+コメットさん	Comet-san	1
+愛フォーン９	Ai Horn 9	1
+ゼスの旗	Flag of Zeth	1
+中級魔導書	Guide to Intermediate Magic	1
+篠田源五郎	Shinoda Gengorou	1
+ピッテン	Pitten	1
+ポロン	Poron	1
+パパデマス	Papademas	1
+パトリシア	Patricia	1
+ビヨンホウ	Villenhowe	1
+ペスポ	Pespo	1
+ドエススキー	Doessky	1
+バーナード	Bernard	1
+シルバレル	Silbarrel	1
+アマデス	Amades	1
+イアン	Ian	1
+ＢＳ	BS	1
+恐怖の槍	Spear of Terror	1
+３段ロケットエンジン	Three-stage Rocket Engine	1
+チューリップ兵	Tulip Corps	1
+チューリップ２号	Tulip Mk.2	1
+チューリップ３号Ｈ	Tulip Mk.3 H	1
+アスカのパンツ	Asuka's Panties	1
+自由の旗	Free Cities Flag	1
+独立宣言書	Declaration of Independence	1
+法王のアリス像	Pope's ALICE Statuette	1
+司教のアリス像	Bishop's ALICE Statuette	1
+司祭のアリス像	Priest's ALICE Statuette	1
+３Ｇ	3G	1
+義景	Yoshikage	1
+早雲	Souun	1
+政宗	Masamune	1
+黒部	Kurobe	1
+帝ハチマキ	Emperor's Hachimaki	1
+ドラゴン手袋	Dragon Gloves	1
+新品もじゃ人形	Brand New Moja Doll	1
+オロチの牙	Orochi's Fang	1
+妖怪宝具	Youkai Treasure	1
+日の丸	Flag of JAPAN	1
+日本昔話	Old Japanese Tales	1
+三菱王	King Mitsubishi	1
+満鉄王	King Mantetsu	1
+日立姫	Princess Hitachi	1
+東芝王子	Prince Toshiba	1
+キャンテル	Cantel	1
+ゼータ	Zeta	1
+シグマ	Sigma	1
+プルーペット	Pluepet	1
+メガッス	Megas	1
+メガワス	Megawas	1
+メガフォース	Megaforce	1
+テラ	Terra	1
+アスベスト	Asbestos	1
+仏陀	Buddha	1
+中元避け茶漬け	Chuugenzake Chazuke	1
+カラー国旗	Kalar Flag	1
+チワワの飼い方	How to Care for a Chihuahua	1
+ドラゴンの加護	Draconic Protection	1
+カラーの秘宝	Kalar Treasure	1
+材料Ａ	Material A	1
+材料Ｂ	Material B	1
+材料Ｃ	Material C	1
+きゃんきゃん	Can Can	1
+幸福きゃんきゃん	Lucky Can Can	1
+９７チハ	97 Chi-ha	1
+ラルカット	Ralcat	1
+メイドさん	Maid-san	1
+フローズン	Frozen	1
+マジスコ	Magisko	1
+バルキリー	Valkyrie	1
+神風	Kamikaze	1
+ハチ女	Bee Girl	1
+はいからちゃん	Haikara-chan	1
+シャチ子	Shachiko	1
+ガルバン	Girl Ban	1
+めぽら	Mepora	1
+上野花子	Ueno Hanako	1
+ミイラン	Myiran	1
+鉄腕ラブル	Mighty-armed Rabble	1
+男装女	Crossdresser	1
+体育スター	Athletic Star	1
+手裏剣使い	Shuriken User	1
+ラカン	Rakan	1
+王様	King	1
+学者	Scholar	1
+マッスル	Muscle	1
+ニードル	Needle	1
+アパッチ	Apache	1
+剣豪	Kengo	1
+ハニ子	Haniko	1
+ハニーキング	Hanny King	1
+グリーンハニー	Green Hanny	1
+ブルーハニー	Blue Hanny	1
+レッドハニー	Red Hanny	1
+拷問戦士	Torture Warrior	1
+イカマン	Squidman	1
+メイジマン	Mage Man	1
+ヤンキー	Yankee	1
+ポリマン	Polyman	1
+スカイ目玉	Sky Eyeball	1
+ダイコン役者	Daikon Actor	1
+さけび男	Scream Guy	1
+アイロンヘッド	Ironhead	1
+オッズ	Oz	1
+サイクロナイト	Cycloknight	1
+ノーススラッグ	North Slug	1
+ナイトホラー	Night Horror	1
+ラブミーテンダー	Love Me Tender	1
+ポリザウルス	Polysaurus	1
+マグボール	Magball	1
+ぬぼぼ	Nubobo	1
+フライング甘食	Flying Sweets	1
+おかゆフィーバー	Okayu Fever	1
+首狩りマサオ	Headhunter Masao	1
+ストーンＧ	Stone G	1
+魔物兵１号	1st Monster Corps	1
+魔物兵２号	2nd Monster Corps	1
+魔物兵３号	3rd Monster Corps	1
+魔物兵４号	4th Monster Corps	1
+命の次世代魔物	Next-Gen Monster of Life	1
+大地の次世代魔物	Next-Gen Monster of Earth	1
+時の次世代魔物	Next-Gen Monster of Time	1
+力の次世代魔物	Next-Gen Monster of Strength	1
+非売品ゲーモッチ	Not-for-Sale Gemotchi	1
+衝撃のあるベルト	Belt with Impact	1
+赤色の円柱	Red Cylinder	1
+青色の円柱	Blue Cylinder	1
+命の卵	Egg of Life	1
+大地の卵	Egg of Earth	1
+時の卵	Egg of Time	1
+力の卵	Egg of Strength	1
+マエリータ隊	Maereeta Squad	1
+全魔物大百科	Monster Encyclopedia	1
+タイニリーチＡ	Tiny Leech A	1
+タイニリーチＢ	Tiny Leech B	1
+タイニリーチＣ	Tiny Leech C	1
+タイニリーチＤ	Tiny Leech D	1
+タイニリーチＥ	Tiny Leech E	1
+機々械々	Kigikaigai	1
+ルーシー	Lucy	1
+アーシー	Arcy	1
+マーシー	Mercy	1
+健太郎	Kentarou	1
+シーザー	Caesar	1
+ジュノー	Juno	1
+ガルティア	Galtia	1
+ラウネア	Launea	1
+タルゴ	Thalgo	1
+サメザン	Samezan	1
+レイ	Lei	1
+パイアールロボ	Pi-R Robot	1
+ベゼルアイ小	Bezeleye (Small)	1
+ハウセスナース小	Housesnurse (Small)	1
+ウェンリーナー小	Wenlina (Small)	1
+セラクロラス小	Serachrolas (Small)	1
+日光刀	Nikkou Blade	1
+耐性宝冠アレル	Crown of Resistance Alelu	1
+父	Father	1
+母	Mother	1
+少女	Girl	1
+Lv20 戦士	Lv20 Warrior	1
+Lv25 戦士	Lv25 Warrior	1
+Lv30 戦士	Lv30 Warrior	1
+Lv35 戦士	Lv35 Warrior	1
+Lv40 戦士	Lv40 Warrior	1
+Lv66 戦士	Lv66 Warrior	1
+Lv20 弓兵	Lv20 Archer	1
+Lv25 弓兵	Lv25 Archer	1
+Lv30 弓兵	Lv30 Archer	1
+Lv35 弓兵	Lv35 Archer	1
+Lv40 弓兵	Lv40 Archer	1
+Lv66 弓兵	Lv66 Archer	1
+Lv20 魔法使い	Lv20 Wizard	1
+Lv25 魔法使い	Lv25 Wizard	1
+Lv30 魔法使い	Lv30 Wizard	1
+Lv35 魔法使い	Lv35 Wizard	1
+Lv40 魔法使い	Lv40 Wizard	1
+Lv66 魔法使い	Lv66 Wizard	1
+Lv25 警備兵	Lv25 Guardsman	1
+Lv30 警備兵	Lv30 Guardsman	1
+Lv33 警備兵	Lv33 Guardsman	1
+Lv35 警備兵	Lv35 Guardsman	1
+Lv40 警備兵	Lv40 Guardsman	1
+Lv25 ランス城騎士	Lv25 Rance Castle Knight	1
+Lv30 ランス城騎士	Lv30 Rance Castle Knight	1
+Lv33 ランス城騎士	Lv33 Rance Castle Knight	1
+Lv35 ランス城騎士	Lv35 Rance Castle Knight	1
+Lv40 ランス城騎士	Lv40 Rance Castle Knight	1
+Lv30 テンプルナイト	Lv30 Templar Knight	1
+Lv33 テンプルナイト	Lv33 Templar Knight	1
+Lv35 テンプルナイト	Lv35 Templar Knight	1
+Lv40 テンプルナイト	Lv40 Templar Knight	1
+Lv45 テンプルナイト	Lv45 Templar Knight	1
+Lv40 リーザス赤騎士	Lv40 Leazas Red Knight	1
+Lv40 リーザス白騎士	Lv40 Leazas White Knight	1
+Lv40 リーザス青騎士	Lv40 Leazas Blue Knight	1
+Lv40 リーザス黒騎士	Lv40 Leazas Black Knight	1
+Lv50 リーザス黒騎士	Lv50 Leazas Black Knight	1
+Lv30 リーザス赤兵	Lv30 Leazas Red Corps	1
+Lv30 リーザス黒兵	Lv30 Leazas Black Corps	1
+Lv30 リーザス青兵	Lv30 Leazas Blue Corps	1
+Lv30 リーザス白兵	Lv30 Leazas White Corps	1
+Lv40 リーザス白兵	Lv40 Leazas White Corps	1
+Lv10 親衛隊	Lv10 Royal Guard	1
+Lv25 親衛隊	Lv25 Royal Guard	1
+Lv30 親衛隊	Lv30 Royal Guard	1
+Lv35 親衛隊	Lv35 Royal Guard	1
+Lv40 親衛隊	Lv40 Royal Guard	1
+Lv30 ヘルマン騎士	Lv30 Helman Knight	1
+Lv33 ヘルマン騎士	Lv33 Helman Knight	1
+Lv35 ヘルマン騎士	Lv35 Helman Knight	1
+Lv40 ヘルマン騎士	Lv40 Helman Knight	1
+Lv45 ヘルマン騎士	Lv45 Helman Knight	1
+Lv30 魔物使い	Lv30 Monster Trainer	1
+Lv33 魔物使い	Lv33 Monster Trainer	1
+Lv35 魔物使い	Lv35 Monster Trainer	1
+Lv40 魔物使い	Lv40 Monster Trainer	1
+Lv45 魔物使い	Lv45 Monster Trainer	1
+Lv35 ゼス女魔法兵	Lv35 Zeth Female Wizard Corps	1
+Lv36 ゼス女魔法兵	Lv36 Zeth Female Wizard Corps	1
+Lv37 ゼス女魔法兵	Lv37 Zeth Female Wizard Corps	1
+Lv38 ゼス女魔法兵	Lv38 Zeth Female Wizard Corps	1
+Lv39 ゼス女魔法兵	Lv39 Zeth Female Wizard Corps	1
+Lv35 ゼス男魔法兵	Lv35 Zeth Male Wizard Corps	1
+Lv36 ゼス男魔法兵	Lv36 Zeth Male Wizard Corps	1
+Lv37 ゼス男魔法兵	Lv37 Zeth Male Wizard Corps	1
+Lv38 ゼス男魔法兵	Lv38 Zeth Male Wizard Corps	1
+Lv39 ゼス男魔法兵	Lv39 Zeth Male Wizard Corps	1
+Lv30 男武士	Lv30 Male Samurai	1
+Lv33 男武士	Lv33 Male Samurai	1
+Lv35 男武士	Lv35 Male Samurai	1
+Lv40 男武士	Lv40 Male Samurai	1
+Lv45 男武士	Lv45 Male Samurai	1
+Lv30 女武士	Lv30 Female Samurai	1
+Lv33 女武士	Lv33 Female Samurai	1
+Lv35 女武士	Lv35 Female Samurai	1
+Lv40 女武士	Lv40 Female Samurai	1
+Lv45 女武士	Lv45 Female Samurai	1
+Lv30 巫女	Lv30 Miko	1
+Lv33 巫女	Lv33 Miko	1
+Lv35 巫女	Lv35 Miko	1
+Lv40 巫女	Lv40 Miko	1
+Lv45 巫女	Lv45 Miko	1
+Lv30 カラー	Lv30 Kalar	1
+Lv33 カラー	Lv33 Kalar	1
+Lv35 カラー	Lv35 Kalar	1
+Lv40 カラー	Lv40 Kalar	1
+Lv45 カラー	Lv45 Kalar	1
+Lv30 ポピンズ	Lv30 Poppins	1
+Lv33 ポピンズ	Lv33 Poppins	1
+Lv35 ポピンズ	Lv35 Poppins	1
+Lv40 ポピンズ	Lv40 Poppins	1
+Lv45 ポピンズ	Lv45 Poppins	1
+闘将Ａ	Tousho A	1	?
+闘将Ｂ	Tousho B	1	?
+闘将Ｃ	Tousho C	1	?
+大野喜郎さん	Ohno Yoshiro-san	1
+長堀橋貞夫君	Nagahoribashi Sadao-kun	1
+東大寺久美	Todaiji Kumi	1
+ランス３	Rance 3	1
+ロッキー２	Rocky 2	1
+ヒーロー２	Hero 2	1
+アームズ２	Arms 2	1
+神官ソード	Priest Sword	1
+神官冒険服	Priest Adventure Garb	1
+法王の加護	Pope's Blessing	1
+信じる心	Believing Heart	1
+医学全集	Complete Works of Medicine	1
+トー家の家紋	Tou Family Crest	1
+かなみ忍法帳	Kanami Ninja Book	1
+イカス服	Squid Clothes	1
+巫女服	Shrine Maiden Garb	1
+深根の鈴	Tone's Bell	1
+グラム	Gram	1
+マフラー	Muffler	1
+従者の鎧	Servant's Armor	1
+料理道具一式	Complete Set of Cooking Utensils	1
+守護神パセリ	Guardian Spirit Parsley	1
+勇気のペン	Pen of Courage	1
+昭和の鉄骨	Showa Steel Beam	1
+叔父のグローブ	Uncle's Gloves	1
+ヒーローの卵片	Hero's Eggshell	1
+重い棍棒	Heavy Club	1
+バイロード	Byroad	1
+リーザス鎧	Leazas Armor	1
+クリスタルロッド	Crystal Rod	1
+獣化の技術	Beastification Technique	1
+短刀山本丸	Yamamoto Tanto	1
+ラバウルの弓	Rabaul's Bow	1
+厳島神社	Itsukushima Shrine	1
+携帯ご先祖様	Ancestor Straps	1
+父のプレゼント	Father's Present	1
+洗濯機	Washing Machine	1
+冷蔵庫	Refrigerator	1
+珍しい貝１	Rare Shell 1	1
+珍しい貝２	Rare Shell 2	1
+珍しい貝３	Rare Shell 3	1
+珍しい貝４	Rare Shell 4	1
+魔力の杯	Chalice of Magic	1
+青巫女絵巻	Blue Shrine Maiden Plaque	1
+ルンルンバ	Roomroomba	1
+掴み鷲	Grasping Eagle	1
+楽馬	Equine Progress	1
+ブロブロッサム	Bloblossom	1
+ゴーストパイプ	Ghost Pipe	1
+道楽師マスク	Rambunctious Mask	1
+ゴールドライター	Golden Lighter	1
+鐘のなる木	Bell Lucky Tree	1
+長髪まねき猫	Long-haired Manekineko	1
+初夢宝船	New Year's Dream Treasure Ship	1
+トンでもない奴	No Way Dude	1
+フェアリーランタン	Fairy Lantern	1
+スッポン天帝	Turtle Emperor	1
+茶釜の精	Teapot Spirit	1
+火のオーブ	Fire Orb	1
+水のオーブ	Water Orb	1
+土のオーブ	Earth Orb	1
+金のオーブ	Metal Orb	1
+木のオーブ	Wood Orb	1
+アスカ	Asuka	1
+ジャロ	Jaro	1
+ブリティシュ	British	1
+リア２	Lia 2	1
+コンバート	Convert	1
+バード	Bird	1
+ホ・ラガ	Ho-Raga	1
+よーぜふ	Yozefu	1	?
+シーラ２	Sheila 2	1
+タイガー将軍	Tiger General	1
+ランスＪｒ	Rance Jr.	1
+冬将軍１８１２	Winter General 1812	1
+冬将軍１９４２	Winter General 1942	1
+ザカリテ	Xacalite	1
+瀕死の子１	Dying Child 1	1	?
+瀕死の子２	Dying Child 2	1	?
+マジック２	Magic 2	1
+ＹＯＲＡ	YORA	1
+ニーナ	Nina	1
+アレキサンダー	Alexander	1
+シュリ	Shuri	1
+マリア２	Maria 2	1
+バファムーン	Baphamoon	1
+エロヤック	Eroyakku	1
+船長	Ship Captain	1
+すず	Suzu	1
+ＫＤ	KD	1
+ジャハルッカス	Jhahlckas	1
+アスタコ	ASTACO	1
+アリス	Alice	1
+闇アリス	Dark Alice	1
+肉片 ルート	Meat Chunk Root	1
+戯骸	Gigai	1	?
+リクチェル	Richelle	1
+ＤＤ	DD	1
+ゲイマルク	Geimark	1
+かわぞえ	Kawazoe	1
+ますぞえ	Masuzoe	1
+ジーク	Sieg	1	?
+バボラ	Babolat	1
+ラッシー	Lassie	1
+レッドアイ	RedEye	1
+リズナ２	Rizna 2	1
+ＰＧ	PG	1
+ストロガノフ	Stroganoff	1
+モドカタ	Modokata	1
+ツォトン	Zedong	1
+ルメイ	LeMay	1
+ピサロ	Pizarro	1
+ヨシフ	Joseph	1
+バイランローズ	Byranrose	1
+ケイブリス２	Kayblis 2	1
+トッポス	Toppos	1
+クエルプラン	Quelplan	1
+ＡＬＩＣＥ	ALICE	1
+ネプラカス	Nepracus	1	?
+擬態／食券	Mimicry / Meal Ticket	1
+擬態／勲章	Mimicry / Medal	1
+擬態／戦果	Mimicry / War Results	1
+擬態／友情	Mimicry / Friendship	1
+擬態／金塊	Mimicry / Gold Bullion	1
+擬態／闘将軍団	Mimicry / Tousho Corps	1
+擬態／ハニー軍団	Mimicry / Hanny Corps	1
+擬態／ポピンズ軍団	Mimicry / Poppins Corps	1
+擬態／残党軍団	Mimicry / Remnant Corps	1
+擬態／ＥＸＰＵＰ	Mimicry / EXP UP	1
+擬態／アイテムＵＰ	Mimicry / Item UP	1
+ＤＢアイテム１	DB Item 1	1
+ＤＢアイテム２	DB Item 2	1
+ＤＢアイテム３	DB Item 3	1
