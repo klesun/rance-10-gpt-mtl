@@ -1,12 +1,13 @@
 # Keeping more than one translation of the dialogue
 
-The repository carries two English translations of the game's dialogue and
-builds whichever one you ask for:
+The repository carries two English translations of the game's dialogue, in
+three folders, and builds whichever one you ask for:
 
 | Variant | What it is |
 |---|---|
 | `gpt` | the default, the translation this repository has always shipped |
 | `grok` | a second translation of the whole script, made in [the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork) by putting the Japanese through Grok |
+| `grok-edit` | the same Grok text as a corpus rather than one file, which is the copy of it being edited |
 
 Each folder under `variants/` carries a README saying where its text came from
 and what has been done to it since.
@@ -56,8 +57,18 @@ gaps -- the build says how many lines that was. And its own line breaks are
 dropped and re-wrapped here, since they were measured against whatever window
 the other build had in mind.
 
+The shape is not a property of the translation, only of how it arrived, and a
+patch can be moved into the other one. That is what `grok-edit` is: the `gpt`
+corpus with the grok text written over it, line number for line number, so the
+Grok translation can be corrected the way this repository has always corrected
+`gpt` -- a chunk file at a time, with the Japanese next to the English and
+`find_mistranslations.js` able to read it. Its own README says what the move
+cost, which is nine lines out of 269617 rendering differently. The import it
+was made from stays as it arrived; the two folders are the same text twice on
+purpose.
+
 Everything else is shared and stays at the repository root, because it is not
-what the two translations disagree about:
+what the translations disagree about:
 
 - `Rance10.v1.00.ain.json` and `Rance10.v1.04.ain.json` map a line number in
   the older dump onto the same line in the current game;
@@ -94,7 +105,8 @@ its text with just the entries it disagrees about. It is layered over the
 shared table by Japanese name: the canonical spelling is taken from the
 variant, and the known misspellings of both are merged, so a variant never has
 to restate the whole list. `grok` uses it for the two names its own chunking cut
-in half, which are its misspellings and nobody else's.
+in half, which are its misspellings and nobody else's, and `grok-edit` carries
+the same file because it is the same text.
 
 ## Build products
 
