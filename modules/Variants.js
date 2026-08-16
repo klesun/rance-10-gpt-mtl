@@ -1,12 +1,12 @@
 /**
  * Which translation of the dialogue to build.
  *
- * A variant is data, not code: a directory under variants/ holding the two
- * translation corpora and, if it insists on spelling a name its own way, a
- * mistranslated_names.json layered over the shared one. Everything else -- the
- * v1.00 to v1.04 line mapping, the cherry-picked system strings, the wrapping
- * and the name repairs -- is the same whichever variant is selected, so adding
- * a translation is adding a folder.
+ * A variant is data, not code: a directory under variants/ holding the text --
+ * either the two translation corpora or a finished dialogue.ain.txt -- and, if
+ * it insists on spelling a name its own way, a mistranslated_names.json layered
+ * over the shared one. Everything else -- the cherry-picked system strings, the
+ * wrapping and the name repairs -- is the same whichever variant is selected,
+ * so adding a translation is adding a folder.
  *
  * The game directory holds one Rance10.ain, so a build installs one variant;
  * switching is re-running the build with a different name.
@@ -16,7 +16,7 @@ import * as path from "path";
 import {ROOT} from "./Env.js";
 
 const VARIANTS_DIR = path.join(ROOT, "variants");
-const DEFAULT_VARIANT = "gpt";
+export const DEFAULT_VARIANT = "gpt";
 
 export const listVariants = () => fs.readdirSync(VARIANTS_DIR, {withFileTypes: true})
     .filter(entry => entry.isDirectory())
@@ -50,6 +50,17 @@ export const variantName = () => {
 };
 
 export const variantDir = (name) => path.join(VARIANTS_DIR, name);
+
+/**
+ * A translation does not have to arrive as a corpus of chunks. One that was
+ * written straight into the file alice-tools applies -- m[<line>] = "<text>",
+ * the v1.04 line numbers already -- is a variant too, and this is where the
+ * build looks for it. If the file is there it is the variant's text and the
+ * two chunk folders are not read; the rest of the pipeline does not change.
+ */
+export const variantPatch = (name) => path.join(variantDir(name), "dialogue.ain.txt");
+
+export const hasPatch = (name) => fs.existsSync(variantPatch(name));
 
 /**
  * One patch file per variant rather than one regenerated.ain.txt: switching

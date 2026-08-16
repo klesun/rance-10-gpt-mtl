@@ -17,6 +17,10 @@ export const replaceUnicode = text => {
         .replace(/―/g, "-")
         .replace(/ー/g, "~")
         .replace(/–/g, "-")
+        // Not the numeral: a translation that leaves a dash in Japanese reaches
+        // for whichever character looked like one, and 一 is the one that keeps
+        // turning up mid-sentence -- "As Carolly walked一".
+        .replace(/一/g, "-")
         .replace(/ズ/g, "")
         ;
 };
@@ -46,11 +50,12 @@ const getTextWidth = (text) => {
 
 const WRAP_SAFETY_MARGIN = 0.9;
 
-const wrap = (text, maxLengthRef) => {
+const wrap = (text, maxLengthRef, keepIndent) => {
     const maxWidth = getTextWidth(maxLengthRef) * WRAP_SAFETY_MARGIN;
-    const words = text.split(/\s+/);
+    const indent = keepIndent ? text.match(/^　*/)[0] : "";
+    const words = text.slice(indent.length).split(/\s+/);
     const wrappedLines = [""];
-    let widthUsed = 0;
+    let widthUsed = getTextWidth(indent);
     for (const word of words) {
         let space = wrappedLines[wrappedLines.length - 1] !== "" ? " " : "";
         const spaceWidth = getTextWidth(space);
@@ -63,15 +68,26 @@ const wrap = (text, maxLengthRef) => {
             widthUsed = wordWidth;
         }
     }
+    wrappedLines[0] = indent + wrappedLines[0];
     return wrappedLines.join("\n");
 };
 
-export const wrapAt = (text, maxLengthRef) => {
+/**
+ * keepIndent is for a translation that opens a line with a full-width space to
+ * sit the continuation of a quote under the bracket that opened it -- the grok
+ * variant does that on a quarter of its lines. Wrapping splits on whitespace,
+ * so without this the indent is dropped on exactly the long lines that get
+ * wrapped, and those lines alone start flush against the window edge while
+ * their neighbours are indented. It is off by default because a translation
+ * that does not use the convention has nothing to keep: a leading space of its
+ * own is spacing, and holding on to it would only widen the first line.
+ */
+export const wrapAt = (text, maxLengthRef, {keepIndent = false} = {}) => {
     if (text.includes("\n")) {
         return text; // already wrapped
     }
     if (getTextWidth(text) <= getTextWidth(maxLengthRef) * WRAP_SAFETY_MARGIN) {
         return text;
     }
-    return wrap(text, maxLengthRef);
+    return wrap(text, maxLengthRef, keepIndent);
 };

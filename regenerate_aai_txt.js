@@ -10,7 +10,7 @@ import * as fs from "fs/promises";
 import * as path from "path";
 import {replaceUnicode, wrapAt} from "./modules/TextNormalization.js";
 import {createNameNormalizer} from "./modules/NameNormalizer.js";
-import {regeneratedTxt, variantDir, variantName} from "./modules/Variants.js";
+import {DEFAULT_VARIANT, hasPatch, regeneratedTxt, variantDir, variantName, variantPatch} from "./modules/Variants.js";
 
 // Naming a variant that is not there is a typo to fix, not a stack trace to
 // read -- the same courtesy scripts/ain.js gets from AliceTools' run().
@@ -62,9 +62,6 @@ const [v100ToV104, unmapped] = mapLineNumbers(v100AinData, v104AinData);
 
 await fs.writeFile("unmapped.ain.json", JSON.stringify(unmapped, null, 4), "utf-8");
 
-const ROOT_FOLDER_PATH_V1_00 = path.join(variantRoot, "gpt_outputs");
-const ROOT_FOLDER_PATH_V1_04 = path.join(variantRoot, "gpt_outputs_v104");
-
 const readTranslations = async (folderPath) => {
     const chunkFileNames = await fs.readdir(folderPath);
     const chunkFiles = chunkFileNames
@@ -95,32 +92,122 @@ const readTranslations = async (folderPath) => {
     return allLineRecords;
 };
 
-const allLineRecordsV100 = await readTranslations(ROOT_FOLDER_PATH_V1_00);
-const allLineRecordsV104 = await readTranslations(ROOT_FOLDER_PATH_V1_04);
+/**
+ * A corpus is written against the v1.00 line numbers, plus a second folder for
+ * the lines v1.04 added, so reading one is also moving it onto the numbering
+ * the game being patched uses.
+ */
+const readCorpus = async (root) => {
+    const allLineRecordsV100 = await readTranslations(path.join(root, "gpt_outputs"));
+    const allLineRecordsV104 = await readTranslations(path.join(root, "gpt_outputs_v104"));
+    return allLineRecordsV100
+        .flatMap(lr => {
+            const v104LineNumber = v100ToV104.get(+lr.lineNumber);
+            if (!v104LineNumber) {
+                return [];
+            } else {
+                return { ...lr, lineNumber: v104LineNumber };
+            }
+        })
+        .concat(allLineRecordsV104);
+};
+
+const japaneseByLineNumber = new Map(v104AinData.map(rec => [+rec.lineNumber, rec.originalJapaneseLine]));
+
+/**
+ * alice-tools escapes an ain.txt the way JSON does, except that it also lets a
+ * lone backslash through -- there is one "「--No,\」" in the grok patch. An
+ * escape nothing recognises gives up the backslash and keeps the character
+ * rather than failing a whole build over one line.
+ */
+const unescapePatch = (body) => body.replaceAll(/\\(.)/g, (_, char) =>
+    char === "n" ? "\n" : char === "t" ? "\t" : char === "r" ? "\r" : char);
+
+/**
+ * A variant written as a finished patch. Its numbers are the game's already,
+ * so nothing is mapped; what it does need is the Japanese each number stands
+ * for, which the name repairs read to decide whether a line names a character.
+ *
+ * The line breaks in it are dropped on the way in. They are where the fork's
+ * own build decided to wrap, measured against a font and a margin this
+ * repository does not share, and leaving them would keep the ones that
+ * overshoot our message window -- so the text goes through the same wrapping
+ * every other line does.
+ */
+const readPatch = async (filePath) => {
+    const text = await fs.readFile(filePath, "utf-8");
+    const records = new Map();
+    let undescribed = 0;
+    for (const line of text.split(/\r?\n/)) {
+        const match = line.match(/^m\[(\d+)]\s*=\s*"(.*)"$/);
+        if (!match) {
+            continue;
+        }
+        const lineNumber = Number(match[1]);
+        // The dumps here hold the dialogue rather than every message the game
+        // has -- there is a line in the grok patch they do not describe, and
+        // the game does have that slot. So the line goes through with nothing
+        // to say what it translates, which only costs it the name repairs, and
+        // alice-tools stays the one that decides a slot does not exist.
+        const originalJapaneseLine = japaneseByLineNumber.get(lineNumber);
+        if (originalJapaneseLine === undefined) {
+            ++undescribed;
+        }
+        records.set(lineNumber, {
+            lineNumber,
+            originalJapaneseLine: originalJapaneseLine ?? "",
+            translatedEnglishLine: unescapePatch(match[2]).replaceAll(/ *\n */g, " "),
+        });
+    }
+    return [records, undescribed];
+};
+
+/**
+ * A patch names the lines it has an opinion about and no others, and a line it
+ * skips would play in Japanese -- the grok patch misses a scene of 300 lines
+ * that way. So the default variant is rendered underneath it and shows through
+ * the gaps; its own README says which lines those are.
+ */
+const readVariant = async (name) => {
+    if (!hasPatch(name)) {
+        return [await readCorpus(variantDir(name)), ""];
+    }
+    const [patched, undescribed] = await readPatch(variantPatch(name));
+    const beneath = name === DEFAULT_VARIANT ? [] : await readCorpus(variantDir(DEFAULT_VARIANT));
+    const lineRecords = new Map(beneath.map(lr => [+lr.lineNumber, lr]));
+    const filledIn = [...lineRecords.keys()].filter(lineNumber => !patched.has(lineNumber)).length;
+    for (const [lineNumber, lineRecord] of patched) {
+        lineRecords.set(lineNumber, lineRecord);
+    }
+    return [
+        [...lineRecords.values()].sort((a, b) => +a.lineNumber - +b.lineNumber),
+        `${patched.size} lines of its own`
+        + (filledIn ? `, ${filledIn} left to "${DEFAULT_VARIANT}"` : "")
+        + (undescribed ? `, ${undescribed} the v1.04 dump does not describe` : ""),
+    ];
+};
+
+const [allLineRecords, howItWasBuilt] = await readVariant(variant);
 
 const LONGEST_LINE = "“More importantly, what we should discuss now is how the other";
 
-const output = allLineRecordsV100
-    .flatMap(lr => {
-        const v104LineNumber = v100ToV104.get(+lr.lineNumber);
-        if (!v104LineNumber) {
-            return [];
-        } else {
-            return { ...lr, lineNumber: v104LineNumber };
-        }
-    })
-    .concat(allLineRecordsV104)
+// The patch variants are the ones that kept the Japanese punctuation, and with
+// it the full-width space that indents the continuation of a quote.
+const keepIndent = hasPatch(variant);
+
+const output = allLineRecords
     .flatMap(lr => {
         let text = normalizeNames(lr);
         text = replaceUnicode(text);
         // if (text.match(/[^\x00-\x7F♪☆○Σ]/)) {
         //     throw new Error("Got unicode characters, please remove: " + text + " at " + lr.lineNumber);
         // }
-        text = wrapAt(text, LONGEST_LINE);
+        text = wrapAt(text, LONGEST_LINE, {keepIndent});
         return [`m[${lr.lineNumber}] = ${JSON.stringify(text)}`];
     })
     .join("\n") + cherryPicksTxt + "\n";
 
 await fs.writeFile(regeneratedTxt(variant), output, "utf-8");
 
-console.log(`Rendered the "${variant}" dialogue variant into ${regeneratedTxt(variant)}`);
+console.log(`Rendered the "${variant}" dialogue variant into ${regeneratedTxt(variant)}`
+    + (howItWasBuilt ? ` -- ${howItWasBuilt}` : ""));
