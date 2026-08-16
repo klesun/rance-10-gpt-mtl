@@ -37,7 +37,8 @@ to wrap, against a font and a margin this repository does not share, and about
 ten thousand of its lines carried a break wide enough for our message window to
 clip -- so the text is re-wrapped like any other. The full-width space that
 opens a quarter of the lines is not a break but an indent, sitting the
-continuation of a quote under the 「 that opened it, and wrapping keeps it.
+continuation of a quote under the 「 that opened it; wrapping keeps that, here
+and in every variant, which is a rule this text is simply the first to lean on.
 
 It also names 318 lines fewer than the game has, and a line no variant names
 stays Japanese in the game. Nearly all of them are one run, m[21708] to

@@ -50,9 +50,15 @@ const getTextWidth = (text) => {
 
 const WRAP_SAFETY_MARGIN = 0.9;
 
-const wrap = (text, maxLengthRef, keepIndent) => {
+const wrap = (text, maxLengthRef) => {
     const maxWidth = getTextWidth(maxLengthRef) * WRAP_SAFETY_MARGIN;
-    const indent = keepIndent ? text.match(/^　*/)[0] : "";
+    // A line that opens with a full-width space keeps it. That space is an
+    // indent rather than a gap between words -- it sits the continuation of a
+    // quote under the bracket that opened it -- and splitting on whitespace
+    // would drop it on exactly the long lines that get wrapped, leaving those
+    // alone flush against the window edge while their neighbours are indented.
+    // An ASCII space in the same place is not that, and stays spacing.
+    const indent = text.match(/^　*/)[0];
     const words = text.slice(indent.length).split(/\s+/);
     const wrappedLines = [""];
     let widthUsed = getTextWidth(indent);
@@ -72,22 +78,12 @@ const wrap = (text, maxLengthRef, keepIndent) => {
     return wrappedLines.join("\n");
 };
 
-/**
- * keepIndent is for a translation that opens a line with a full-width space to
- * sit the continuation of a quote under the bracket that opened it -- the grok
- * variant does that on a quarter of its lines. Wrapping splits on whitespace,
- * so without this the indent is dropped on exactly the long lines that get
- * wrapped, and those lines alone start flush against the window edge while
- * their neighbours are indented. It is off by default because a translation
- * that does not use the convention has nothing to keep: a leading space of its
- * own is spacing, and holding on to it would only widen the first line.
- */
-export const wrapAt = (text, maxLengthRef, {keepIndent = false} = {}) => {
+export const wrapAt = (text, maxLengthRef) => {
     if (text.includes("\n")) {
         return text; // already wrapped
     }
     if (getTextWidth(text) <= getTextWidth(maxLengthRef) * WRAP_SAFETY_MARGIN) {
         return text;
     }
-    return wrap(text, maxLengthRef, keepIndent);
+    return wrap(text, maxLengthRef);
 };

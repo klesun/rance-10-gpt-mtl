@@ -65,7 +65,10 @@ what the two translations disagree about:
   hand-fixed and appended last so it wins over everything;
 - `modules/TextNormalization.js` decides where lines wrap, and it is not a
   matter of taste: the wrap budget carries a safety margin because text that
-  overshoots is clipped by the message window rather than wrapped;
+  overshoots is clipped by the message window rather than wrapped. A line that
+  opens with a full-width space keeps it through the wrap, since that is an
+  indent sitting the continuation of a quote under the 「 that opened it and not
+  a gap between words;
 - `card_names.jaf`, `Rance10EX_v1_04`, `Rance10Pact_v1_04` and the image folders
   are not dialogue at all.
 

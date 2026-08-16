@@ -191,10 +191,6 @@ const [allLineRecords, howItWasBuilt] = await readVariant(variant);
 
 const LONGEST_LINE = "“More importantly, what we should discuss now is how the other";
 
-// The patch variants are the ones that kept the Japanese punctuation, and with
-// it the full-width space that indents the continuation of a quote.
-const keepIndent = hasPatch(variant);
-
 const output = allLineRecords
     .flatMap(lr => {
         let text = normalizeNames(lr);
@@ -202,7 +198,7 @@ const output = allLineRecords
         // if (text.match(/[^\x00-\x7F♪☆○Σ]/)) {
         //     throw new Error("Got unicode characters, please remove: " + text + " at " + lr.lineNumber);
         // }
-        text = wrapAt(text, LONGEST_LINE, {keepIndent});
+        text = wrapAt(text, LONGEST_LINE);
         return [`m[${lr.lineNumber}] = ${JSON.stringify(text)}`];
     })
     .join("\n") + cherryPicksTxt + "\n";
