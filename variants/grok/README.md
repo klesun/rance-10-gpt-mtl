@@ -20,6 +20,13 @@ a rewritten sentence and the rest a name spelled another way. The fork also
 merges and splits lines more freely, so a line can be empty here and carry the
 whole sentence one line up.
 
+Which is to say the coverage is not complete. Going over the whole script was
+the intent, but a passage the rework never reached simply stays as the gpt
+translation left it, and that is most of them: nine lines in ten read word for
+word the same, and 528 chunks are identical end to end. So dialogue that reads
+exactly like the default variant is not something gone wrong with the import --
+it is dialogue that never got a pass of its own.
+
 ## What changed on the way in
 
 The fork stores whole raw API responses, 250 MB of which the build reads five
