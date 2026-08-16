@@ -28,9 +28,11 @@
  * the function says the words in English while every string keeps its Japanese,
  * and nothing that compares text notices. This renders that override.
  *
- * The same shape and the same argument cover 表示規模 and 表示地域, the scale
- * and the region, whenever those are wanted: both are int-to-word display
- * functions of the same kind.
+ * 表示規模 and 表示地域 sit beside it in the dump and are written the same way,
+ * and neither is worth this treatment: 表示規模 has no callers at all -- the
+ * scale beside BOSS is two literals EnemyInformationView@SetParam writes itself
+ * -- and 表示地域's one caller puts its result in a debug log. docs/race-names.md
+ * has the details.
  */
 import * as fs from "fs/promises";
 import * as path from "path";

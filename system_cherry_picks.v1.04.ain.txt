@@ -76,7 +76,11 @@ s[2527] = "\r"
 ; SkillDescriptionView@0
 ;s[3309] = "Game/Battle/SkillDescriptionView"
 s[3251] = "Race：%s"
+; The scale beside BOSS on the enemy status panel. Not 表示規模, which looks like
+; it and is dead code -- EnemyInformationView@SetParam writes one of these two
+; into ScaleText itself, and nothing else pushes either of them.
 s[3255] = "Small Size"
+s[3256] = "Large Size"
 s[13013] = "Flying Monsters"
 s[12684] = "Keep Distance"
 s[5999] = "Monster Captain"

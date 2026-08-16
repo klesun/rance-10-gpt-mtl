@@ -95,8 +95,23 @@ and names anything that overhangs. Nothing does at present; the longest is
 
 ## The rest of the panel
 
-`表示規模` — the scale beside BOSS, `小数`/`部隊`/`大軍` — and `表示地域`, the
-region, are int-to-word display functions of exactly this shape. Whenever they
-are wanted, they are another glossary and another override; the scan in
-`scripts/extract_race_names.js` takes the function to read as an argument, so it
-is the same scan.
+`表示種族` has two neighbours in the dump, `表示規模` and `表示地域`, written in
+the same shape and sitting a few lines away, and they look like the same job
+again. They are not, and it is worth writing down why so that nobody re-derives
+it:
+
+`表示規模` — `小数`/`部隊`/`大軍` — **has no callers at all.** It is dead code.
+The scale beside BOSS is written by `EnemyInformationView@SetParam` itself, out
+of two literals of its own, `小規模部隊` and `大規模部隊`, which nothing else
+pushes; they are ordinary cherry-picks in
+`system_cherry_picks.v1.04.ain.txt`. Overriding `表示規模` would compile, apply,
+and change nothing on screen.
+
+`表示地域` has exactly one caller, `Ｔ武将計算`, which puts its result into
+`LOG_TADA` — a debug log, next to `　Ｔ武将計算　` and `　フラグ＝`. No player
+sees it.
+
+So the panel is finished without either of them. If a third one of these ever is
+worth doing, the scan in `scripts/extract_race_names.js` takes the function to
+read as an argument, so it would be the same scan and another glossary — but
+check the callers first.
