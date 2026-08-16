@@ -37,7 +37,7 @@ ______________________________________
 5. Run `npm run regenerate-ex` to do same for the `Rance10EX.ex` file that translates skill descriptions, character descriptions, quests, etc...
 6. Run `npm run regenerate-pack` to translate some UI elements, like settings menu (the archive it builds is already translated in the released patch, so this only matters if you edit `Rance10Pact_v1_04`)
 
-The dialogue can be translated more than once, and `npm run regenerate-ain` builds whichever translation you ask for: the folders under `variants/` are the translations, `gpt` is the default, and `npm run regenerate-ain -- --variant=<name>` (or `TRANSLATION_VARIANT` in `.env`) picks another. Only the dialogue differs — the UI text, the card names and the images are the same either way. See [docs/translation-variants.md](docs/translation-variants.md) for what a variant is made of and how to add one.
+There is more than one translation of the dialogue in here. `npm run regenerate-ain` builds the `gpt` one, the translation this repository has always shipped; `npm run regenerate-ain -- --variant=grok` builds the one imported from [the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork), and `TRANSLATION_VARIANT` in `.env` changes which one you get without the flag. Only the dialogue differs — the UI text, the card names and the images are the same either way. See [docs/translation-variants.md](docs/translation-variants.md) for what a variant is made of and how to add one.
 
 (there are also some image translations in `Rance10CG2_v1_04` and `Rance10Flat_v1_04` folders, but for them there is currently no simple command)
 

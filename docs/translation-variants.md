@@ -1,12 +1,16 @@
 # Keeping more than one translation of the dialogue
 
-The dialogue can be translated more than once, and the build takes whichever
-translation you ask for. `variants/` holds them; `gpt` is the default, the
-translation this repository has always shipped.
+The repository carries two English translations of the game's dialogue and
+builds whichever one you ask for:
+
+| Variant | What it is |
+|---|---|
+| `gpt` | the default, the translation this repository has always shipped |
+| `grok` | imported from [the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork), translated with Grok |
 
 ```
 npm run regenerate-ain                      # the variant .env names, or gpt
-npm run regenerate-ain -- --variant=<name>  # another one, just this once
+npm run regenerate-ain -- --variant=grok    # this one, just this once
 ```
 
 `TRANSLATION_VARIANT` in `.env` sets the one you build most; the flag overrides
@@ -48,9 +52,9 @@ pass: where the Japanese names a character and the English does not spell them
 the canonical way, the known misspelling is replaced. The same file names the
 characters on the card plates through `generate_card_names.js`, so it has to be
 shared — a variant that renamed people in its dialogue alone would contradict
-the cards its own build installs. A translation that spells a name its own way
-therefore builds with the shared spelling; what a variant gets to differ in is
-the wording.
+the cards its own build installs. So the `grok` corpus, which writes Rance as
+"Lance" and Sanakia as "Sarnakia", builds with the same names `gpt` does; what
+the two differ in is the wording.
 
 If a variant does need its own answer, put a `mistranslated_names.json` next to
 its corpora with just the entries it disagrees about. It is layered over the
