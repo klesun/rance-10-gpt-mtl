@@ -83,7 +83,10 @@ function actually returns.
 
 The ranks follow the dialogue rather than being invented here: 魔人 is a Fiend,
 魔王 a Demon King, 使徒 an Apostle, 亜人 a Demi-human. 魔物兵 is the Monster
-Soldier that `enemy_info_glossary.tsv` already calls it.
+Soldier that `enemy_info_glossary.tsv` already calls it. And `ハニー` is a
+**Hanny** — it went in as "Honey" first, which is what
+`mistranslated_names.json` is for and why the build now checks these glossaries
+against it.
 
 ## Width
 

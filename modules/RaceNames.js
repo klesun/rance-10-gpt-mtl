@@ -37,6 +37,7 @@
 import * as fs from "fs/promises";
 import * as path from "path";
 import {ROOT} from "./Env.js";
+import {createNameChecker} from "./NameNormalizer.js";
 import {getTextWidth} from "./TextNormalization.js";
 
 export const RACE_FUNCTION = "表示種族";
@@ -92,10 +93,12 @@ export const readRaceGlossary = async () => {
 export const renderRaceNamesJaf = async () => {
     const races = await readRaceNames();
     const glossary = await readRaceGlossary();
+    const checkNames = await createNameChecker();
     const budget = getTextWidth(PANEL_LINE) * HINT_FONT / RACE_FONT;
 
     const cases = [];
     const overlong = [];
+    const misnamed = [];
     let untranslated = 0;
     for (const {number, japanese} of races) {
         const english = glossary.get(japanese);
@@ -106,6 +109,7 @@ export const renderRaceNamesJaf = async () => {
         if (getTextWidth(LABEL + english) > budget) {
             overlong.push(english);
         }
+        misnamed.push(...checkNames(japanese, english));
         cases.push([`\tif (aa == ${number}) return ${JSON.stringify(english)};`, japanese.trim()]);
     }
     // The Japanese each line answers to, in a column, so that reading the
@@ -140,8 +144,10 @@ export const renderRaceNamesJaf = async () => {
         report: `${body.length} of ${races.length} races`
             + (untranslated ? `, ${untranslated} still Japanese` : "")
             + (overlong.length ? `, ${overlong.length} too wide for the panel` : "")
+            + (misnamed.length ? `, ${misnamed.length} spelling a name their own way` : "")
             + (stale.length ? `, ${stale.length} glossary entries the game no longer has` : ""),
         overlong,
+        misnamed,
         stale,
     };
 };

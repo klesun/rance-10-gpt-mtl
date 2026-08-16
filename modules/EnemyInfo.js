@@ -17,6 +17,7 @@
 import * as fs from "fs/promises";
 import * as path from "path";
 import {ROOT} from "./Env.js";
+import {createNameChecker} from "./NameNormalizer.js";
 import {getTextWidth} from "./TextNormalization.js";
 
 export const ENEMY_INFO_GLOBALS = ["◆敵情報１", "◆敵情報２", "◆敵情報３", "◆敵情報４"];
@@ -88,10 +89,12 @@ export const readEnemyInfoGlossary = async () => {
 export const renderEnemyInfo = async () => {
     const lines = await readEnemyInfoLines();
     const glossary = await readEnemyInfoGlossary();
+    const checkNames = await createNameChecker();
     const budget = getTextWidth(LONGEST_LINE);
 
     const output = [];
     const overlong = [];
+    const misnamed = [];
     let untranslated = 0;
     for (const {slot, japanese} of lines) {
         const english = glossary.get(japanese);
@@ -102,6 +105,7 @@ export const renderEnemyInfo = async () => {
         if (getTextWidth(english) > budget) {
             overlong.push(english);
         }
+        misnamed.push(...checkNames(japanese, english));
         output.push(`s[${slot}] = ${JSON.stringify(english)}`);
     }
 
@@ -113,8 +117,10 @@ export const renderEnemyInfo = async () => {
         report: `${output.length} of ${lines.length} enemy status lines`
             + (untranslated ? `, ${untranslated} still Japanese` : "")
             + (overlong.length ? `, ${overlong.length} too wide for the panel` : "")
+            + (misnamed.length ? `, ${misnamed.length} spelling a name their own way` : "")
             + (stale.length ? `, ${stale.length} glossary entries the game no longer has` : ""),
         overlong,
+        misnamed,
         stale,
     };
 };

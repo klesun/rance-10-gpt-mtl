@@ -44,6 +44,9 @@ const renderRaceNames = async () => {
     for (const english of rendered.overlong) {
         console.warn(`  too wide for the enemy status panel: ${JSON.stringify(english)}`);
     }
+    for (const complaint of rendered.misnamed) {
+        console.warn(`  ${complaint}`);
+    }
     for (const japanese of rendered.stale) {
         console.warn(`  the game has no race called ${JSON.stringify(japanese)}`);
     }

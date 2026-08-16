@@ -224,6 +224,9 @@ console.log(`Translated ${enemyInfo.report}`);
 for (const english of enemyInfo.overlong) {
     console.warn(`  too wide for the enemy status panel: ${JSON.stringify(english)}`);
 }
+for (const complaint of enemyInfo.misnamed) {
+    console.warn(`  ${complaint}`);
+}
 for (const japanese of enemyInfo.stale) {
     console.warn(`  no enemy status line says ${JSON.stringify(japanese)} any more`);
 }

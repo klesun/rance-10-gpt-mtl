@@ -114,6 +114,13 @@ Untranslated lines are left out of the patch rather than blanked, so the panel
 shows the Japanese, which is what it showed before any of this existed. To
 translate one, put it in the glossary; there is nothing else to update.
 
+Names are checked against `mistranslated_names.json` as the glossary is
+rendered, and the build says so when a line names somebody and the English does
+not spell them the way the rest of the patch does. That check exists because
+`ハニー` went in as "Honey" here and as a race, and the repair pass in
+`modules/NameNormalizer.js` could not help: it swaps a *known* misspelling for
+the right one, and "Honey" was a new one — the table lists "honey".
+
 The terms follow the ones already in `Rance10EX_v1_04`, so that a hint here and
 a card description read the same way: 異常 is a Debuff, 支援 a Buff, 遠隔
 Ranged, コンボ a Combo, 大技 a Special Move. One thing to know while reading the
