@@ -83,7 +83,7 @@ the translations disagree about:
   opens with a full-width space keeps it through the wrap, since that is an
   indent sitting the continuation of a quote under the 「 that opened it and not
   a gap between words;
-- `patches/card_names.jaf`, `Rance10EX_v1_04`, `Rance10Pact_v1_04` and the image folders
+- `patches/card_names.jaf`, `archives/Rance10EX_v1_04`, `archives/Rance10Pact_v1_04` and the image folders
   are not dialogue at all.
 
 So there is one pipeline, not one per variant. Adding a third translation is

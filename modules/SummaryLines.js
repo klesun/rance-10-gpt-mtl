@@ -1,7 +1,7 @@
 /**
  * The synopsis lines -- the rows あらすじモード prints for one event.
  *
- * They live in Rance10EX_v1_04/37_あらすじデータ.x as a tree of one node per
+ * They live in archives/Rance10EX_v1_04/37_あらすじデータ.x as a tree of one node per
  * event, each node holding numbered fields:
  *
  *     ２２１／２／ラングバウ到着 = {
@@ -33,7 +33,7 @@ import {createNameChecker} from "./NameNormalizer.js";
 import {getTextWidth} from "./TextNormalization.js";
 
 /** The game's own table. Written into by the build, never by hand. */
-export const SUMMARY_DATA = path.join(ROOT, "Rance10EX_v1_04", "37_あらすじデータ.x");
+export const SUMMARY_DATA = path.join(ROOT, "archives", "Rance10EX_v1_04", "37_あらすじデータ.x");
 
 /** The English for it. Hand-written; this is the file to edit. */
 export const SUMMARY_GLOSSARY = path.join(ROOT, "glossaries", "summary_glossary.tsv");
@@ -50,7 +50,7 @@ export const REPLY_FILE = path.join(ROOT, "local", "summary_reply.txt");
 
 /**
  * What one row fits: the placeholder the layout carries for TextDesc in
- * Rance10Pact_v1_04/Game/Adv/SceneSummary.pactex.x, which is seven lines of
+ * archives/Rance10Pact_v1_04/Game/Adv/SceneSummary.pactex.x, which is seven lines of
  * twenty full-width characters.
  *
  * The designers left the same measure in the data itself -- field ００ of most
@@ -138,7 +138,7 @@ const HEADER = [
     "# Columns: the Japanese <TAB> the English.",
     "#",
     "# The Japanese column is filled in by scripts/extract_summary_lines.js, which",
-    "# reads Rance10EX_v1_04/37_あらすじデータ.x and keeps whatever English is",
+    "# reads archives/Rance10EX_v1_04/37_あらすじデータ.x and keeps whatever English is",
     "# already here. A line left blank stays Japanese in game.",
     "#",
     "# Keyed by the Japanese rather than by event, because the same phrase serves",

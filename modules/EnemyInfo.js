@@ -27,7 +27,7 @@ export const ENEMY_INFO_GLOSSARY = path.join(ROOT, "glossaries", "enemy_info_glo
 
 /**
  * What the panel fits on one line: the placeholder text the layout carries for
- * it, in Rance10Pact_v1_04/Game/Battle/EnemyInformationView.pactex.x, which is
+ * it, in archives/Rance10Pact_v1_04/Game/Battle/EnemyInformationView.pactex.x, which is
  * four lines of twenty full-width characters. The four lines are separate
  * globals, so nothing wraps between them -- an overlong line runs off the
  * panel rather than folding onto the next one, which is why this is checked

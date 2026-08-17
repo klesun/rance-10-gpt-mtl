@@ -4,7 +4,7 @@
  *
  *   npm run regenerate-ex
  *
- * Everything in Rance10EX_v1_04 is translated in the file itself and needs no
+ * Everything in archives/Rance10EX_v1_04 is translated in the file itself and needs no
  * step before the build. The synopsis table is the exception: its English lives
  * in glossaries/summary_glossary.tsv, keyed by the Japanese, so it has to be written in on
  * the way past.
@@ -23,7 +23,7 @@ import {alice, run} from "../modules/AliceTools.js";
 import {ROOT} from "../modules/Env.js";
 import {SUMMARY_DATA, renderSummaryTable} from "../modules/SummaryLines.js";
 
-const EX_DIR = path.join(ROOT, "Rance10EX_v1_04");
+const EX_DIR = path.join(ROOT, "archives", "Rance10EX_v1_04");
 
 run(async () => {
     const rendered = await renderSummaryTable();

@@ -18,7 +18,12 @@ these is edited by hand:
 | `glossaries/` | the English, keyed by the Japanese — the tables below, and the two the enemy panel and the synopsis screen read |
 | `patches/` | what alice-tools is handed directly: the cherry-picked system strings, and `card_names.jaf` |
 | `variants/` | one folder per translation of the dialogue |
+| `archives/` | one folder per game archive we patch — `Rance10EX.ex`, and the three `.afa` — plus the manifests that pack two of them |
 | `scripts/`, `modules/` | every entry point, and the code behind them |
+
+`archives/` is the game's own data with our edits over it, which is why it is
+not under `game/`: those four trees are written into, and `game/` is the copy
+nothing touches.
 
 Everything a build writes goes to `build/`, which is gitignored whole and safe
 to delete: the rendered patch, the generated `race_names.jaf`, the `pactex`
@@ -144,7 +149,7 @@ says what a variant is and how the `--variant` flag gets eaten by PowerShell.
 ## Panel and layout widths are in the `.pactex`
 
 Text does not wrap by itself. When translating something that has to fit,
-find the part in `Rance10Pact_v1_04/` and read the placeholder the layout
+find the part in `archives/Rance10Pact_v1_04/` and read the placeholder the layout
 carries for it — that is the designer's own statement of the width. Measure
 against it with `getTextWidth` from `modules/TextNormalization.js` and warn
 rather than truncate.

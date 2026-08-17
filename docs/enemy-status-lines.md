@@ -98,7 +98,7 @@ nowhere to write it twice.
 ## Width
 
 The panel is `Desc` in
-`Rance10Pact_v1_04/Game/Battle/EnemyInformationView.pactex.x`, and the
+`archives/Rance10Pact_v1_04/Game/Battle/EnemyInformationView.pactex.x`, and the
 placeholder text the layout carries for it is four lines of twenty full-width
 characters. The four lines are separate globals, so nothing wraps between them:
 a line too long for the panel runs off it rather than folding onto the next.
@@ -121,7 +121,7 @@ not spell them the way the rest of the patch does. That check exists because
 `modules/NameNormalizer.js` could not help: it swaps a *known* misspelling for
 the right one, and "Honey" was a new one — the table lists "honey".
 
-The terms follow the ones already in `Rance10EX_v1_04`, so that a hint here and
+The terms follow the ones already in `archives/Rance10EX_v1_04`, so that a hint here and
 a card description read the same way: 異常 is a Debuff, 支援 a Buff, 遠隔
 Ranged, コンボ a Combo, 大技 a Special Move. One thing to know while reading the
 Japanese: 敵 in these lines is the enemy the panel is describing, not the enemy

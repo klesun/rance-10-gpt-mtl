@@ -5,7 +5,7 @@
  *   node scripts/extract_summary_lines.js
  *
  * Rarely run -- a new game version, or a hand edit to
- * Rance10EX_v1_04/37_あらすじデータ.x -- which is why it is not in
+ * archives/Rance10EX_v1_04/37_あらすじデータ.x -- which is why it is not in
  * package.json, the way scripts/parse_ain_txt.js is not. Running it after
  * hand-editing the glossary is harmless and reports what is wrong with it.
  *

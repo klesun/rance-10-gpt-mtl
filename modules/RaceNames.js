@@ -57,7 +57,7 @@ export const RACE_JAF = path.join(BUILD, "race_names.jaf");
  * It has the width of the panel to itself, the same as the four hint lines
  * lower down, and the placeholder the layout carries for those --
  * twenty full-width characters, in
- * Rance10Pact_v1_04/Game/Battle/EnemyInformationView.pactex.x -- is that width
+ * archives/Rance10Pact_v1_04/Game/Battle/EnemyInformationView.pactex.x -- is that width
  * written down. But the race is set in 36 where the hints are set in 26, so the
  * same width buys fewer characters, and the label is printed in front of it.
  */

@@ -19,7 +19,7 @@
  * Adding leaves inside a node is safe; the only new name is the カード英名
  * sibling, which nothing enumerates.
  *
- * Rewrites Rance10EX_v1_04/41_識別名情報.x in place and is idempotent: anything
+ * Rewrites archives/Rance10EX_v1_04/41_識別名情報.x in place and is idempotent: anything
  * a previous run added is stripped before the new content goes in, and the
  * script asserts that stripping its own output reproduces the stripped input.
  *
@@ -32,7 +32,7 @@ import * as path from "path";
 import {width} from "../modules/EastAsianWidth.js";
 import {ROOT} from "../modules/Env.js";
 
-const EX_DIR = path.join(ROOT, "Rance10EX_v1_04");
+const EX_DIR = path.join(ROOT, "archives", "Rance10EX_v1_04");
 const GLOSSARY_PATH = path.join(ROOT, "glossaries", "card_name_glossary.tsv");
 const DIALOGUE_NAMES_PATH = path.join(ROOT, "glossaries", "mistranslated_names.json");
 

@@ -11,7 +11,7 @@ npm run regenerate-ex          # builds them into Rance10EX.ex
 
 ## Where the text is
 
-`Rance10EX_v1_04/37_あらすじデータ.x`, a tree of one node per event:
+`archives/Rance10EX_v1_04/37_あらすじデータ.x`, a tree of one node per event:
 
 ```
 ２２１／２／ラングバウ到着 = {
@@ -34,7 +34,7 @@ and formats `あらすじデータ.<node>.%02D` with `i + 1`, so `０１` throug
 are read and `００` is not. Every `００` in the file holds the same thing --
 `｜−−−−−−−−｜−−−−−−−−−｜`, with its marks at 1, 10 and 20. It is the width ruler
 the designers worked against, and it agrees with the placeholder the layout
-carries for `TextDesc` in `Rance10Pact_v1_04/Game/Adv/SceneSummary.pactex.x`:
+carries for `TextDesc` in `archives/Rance10Pact_v1_04/Game/Adv/SceneSummary.pactex.x`:
 seven lines of twenty full-width characters, about 280 pixels by
 `getTextWidth`, roughly 38 latin letters. Nothing wraps -- each field is its own
 row -- so an overlong line runs off the panel rather than folding onto the next,
@@ -49,7 +49,7 @@ remembering to.
 
 That key is also why **the build never writes English into the table**.
 `renderSummaryTable` in `modules/SummaryLines.js` returns the rendered text and
-`scripts/ex.js` copies the whole `Rance10EX_v1_04` tree to a temporary
+`scripts/ex.js` copies the whole `archives/Rance10EX_v1_04` tree to a temporary
 directory, drops the rendered table in, and builds from the copy. Writing in
 place would work exactly once: the second run would find no Japanese to look up
 and quietly produce a table with no English in it. Seven megabytes of text is a
