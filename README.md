@@ -56,8 +56,58 @@ The four hint lines under an enemy's stats in battle are English too, from `enem
 - Run from the game installation directory in Program Files: `c:\m\alice-tools\alice.exe ar pack .\Rance10Flat_manifest.txt`
 
 ## To replace images from [Rance10CG2_v1_04](Rance10CG2_v1_04)
-- Change the extension of the translated image from .ajp.png to just .png
-- Update [Rance10CG2_manifest.txt](Rance10CG2_manifest.txt) - change the extension of this image entry there from .ajp to .png
-- Copy-replace new images to [CG2-raw](CG2-raw)
-- Run `c:\m\alice-tools\alice.exe ar pack .\Rance10CG2_manifest.txt`
-- After that, if there were no errors, when you next start the game, the images should be updated
+
+`ar pack` does not patch an archive in place — it rebuilds the whole thing out of the 4243 entries
+[Rance10CG2_manifest.txt](Rance10CG2_manifest.txt) lists. So the source directory it reads, `CG2-raw`, has to hold
+every one of those files and not just the ones you changed. It is not in the repository (it is half a gigabyte of the
+game's own assets, and it is gitignored); you make it by extracting the game's `Rance10CG2.afa`.
+
+Use alice-tools **0.13.0** throughout. 0.9.1 answers `Invalid manifest type` to an `#ALICEPACK` manifest, so
+`ALICE_EXE_PACK` — which exists because `#BATCHPACK` needs the newer build — is the right binary here too.
+
+1. **Back up `Rance10CG2.afa` first.** `ar pack` creates and truncates its destination *before* it reads the first
+   source file, so anything that goes wrong afterwards leaves you with a 0-byte archive and no game images at all.
+2. Extract the original, from the repository root:
+
+       alice ar extract --raw -o CG2-raw "%GAME_DIR%\Rance10CG2.afa"
+
+   `--raw` matters: without it alice re-encodes every `.ajp` as a `.png`, and then no entry in the manifest matches
+   what is on disk. Expect this to stop early — see below — and check that `CG2-raw` really ends up with 4243 files.
+3. Copy [Rance10CG2_v1_04](Rance10CG2_v1_04) over `CG2-raw`, then rename `イベ／地図／セキガハラ.ajp.png` to
+   `イベ／地図／セキガハラ.png`. It is the one translated image whose name still carries the original extension; the
+   manifest spells it without.
+4. Copy the manifest **into `CG2-raw`** and change its second line to your own game directory. That line is the
+   destination, quoted C-style, so every backslash in it is doubled:
+
+       "E:\\some\\path\\Rance10CG2.afa"
+
+   It has to live inside `CG2-raw` because 0.13.0 prints `Unrecognized manifest option: '--src-dir=CG2-raw'` and
+   resolves every source path relative to *the manifest's own directory*. Running it from elsewhere fails on the very
+   first entry with `can't determine size of file` — and, per step 1, only after it has already blanked the destination.
+5. Pack into a scratch directory rather than straight over the game's copy:
+
+       alice ar pack CG2-raw\pack.manifest.txt
+
+6. Verify the result before installing it, the same way the `.ain` build is verified against the built file:
+
+       alice ar list built.afa
+
+   You want 4243 entries, and a diff against the same listing of the original archive should show changes only in the
+   images you translated, each one `.ajp` becoming `.png`. Then copy the built archive over the game's and start the
+   game.
+
+### The extraction stops on a file name Windows will not accept
+
+`シス／数字／１６ドット用?.ajp` and its 18-dot twin have a **literal `?`** in the name — that is how they ship, which
+you can confirm by inflating the archive's zlib-compressed `INFO` table and reading the CP932 bytes: `∞` is stored as
+`81 87` where these two are stored as `3f`. Legal inside an archive, illegal in a Windows path, so `fopen` fails with
+`Invalid argument` — and alice does not skip the entry and carry on, it **abandons the rest of the archive**. In v1.04
+the 16-dot one is index 4197, so you lose it and the 45 entries after it, 46 in all.
+
+Extract those by index, giving each one its name from the manifest so alice never has to convert the stored one:
+
+    alice ar extract --raw -i 4197 -o "CG2-raw/シス／数字／１６ドット用〜.ajp" "%GAME_DIR%\Rance10CG2.afa"
+
+Archive index *N* is manifest line *N+3*. The manifest writes `〜` (U+301C) where the archive has `?`, which is what
+makes the file writable; packing converts it back to `3f`, so the rebuilt archive matches the original byte for byte at
+those names. Do not "fix" the manifest to say `?` — you would only get a file you cannot create.
