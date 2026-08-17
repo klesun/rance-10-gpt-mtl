@@ -205,6 +205,59 @@ export const writeSummaryGlossary = async (lines, glossary) => {
     return {translated, overlong, misnamed, stale};
 };
 
+/**
+ * The game's table with the English written into it, as text to build from.
+ *
+ * Returned rather than written back over 37_あらすじデータ.x, and that is the
+ * whole design: the glossary is keyed by the Japanese, so a table that had its
+ * Japanese replaced would match nothing on the next build. Writing in place
+ * would work exactly once, and the second run would quietly produce a table
+ * with no English in it at all. scripts/ex.js builds from a copy instead, and
+ * the file under version control stays as the game shipped it.
+ *
+ * Field ００ is left alone with everything else the loop does not read -- see
+ * DISPLAYED_FIELD -- so the width ruler the designers worked against stays
+ * where the next person to measure a line will find it.
+ */
+export const renderSummaryTable = async () => {
+    const source = await fs.readFile(SUMMARY_DATA, "utf-8");
+    const glossary = await readSummaryGlossary();
+    const budget = getTextWidth(LONGEST_LINE);
+
+    const overlong = [];
+    let translated = 0;
+    let untranslated = 0;
+    // Line ends are left to the replacement: $ sits before the \r of a CRLF
+    // file, so the endings this file arrives with are the endings it leaves
+    // with, whatever the checkout did to them.
+    const text = source.replace(/^(\t\t)(\S+)( = ")([^"]*)(",)$/gm,
+        (line, indent, field, between, japanese, tail) => {
+            if (!DISPLAYED_FIELD.test(toAscii(field)) || !japanese) {
+                return line;
+            }
+            const english = glossary.get(japanese);
+            if (!english) {
+                if (JAPANESE.test(japanese)) {
+                    ++untranslated;
+                }
+                return line;
+            }
+            ++translated;
+            if (getTextWidth(english) > budget) {
+                overlong.push(`${japanese} -> ${english}`);
+            }
+            return indent + field + between + english + tail;
+        });
+
+    return {
+        text,
+        overlong,
+        report: `${translated} synopsis fields`
+            + (untranslated ? `, ${untranslated} still Japanese` : "")
+            + (overlong.length ? `, ${overlong.length} too wide for the panel` : ""),
+    };
+};
+
 /** What writeSummaryGlossary found, as lines to print. */
 export const reportSummaryGlossary = ({translated, overlong, misnamed, stale}, lines) => {
     const report = [`${translated} of ${lines.length} phrases have English`
