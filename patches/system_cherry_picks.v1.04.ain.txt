@@ -61,18 +61,14 @@ s[3026] = "The squad can't be empty."
 
 ; AssistantMessageView@SetText
 s[2527] = "\r"
-s[2527] = "\r"
 
 ;s[2614] = "擬態カード情報.%s.説明"
-s[2527] = "\r"
 
 ;s[2616] = "シス／カード／スキル／%s"
-s[2527] = "\r"
 
 ;s[3072] = "シス／キャラ詳細／スキル／%s"
 ;s[3073] = "SkillName"
 ;s[2565] = "Desc"
-s[2527] = "\r"
 
 ; SkillDescriptionView@0
 ;s[3309] = "Game/Battle/SkillDescriptionView"
@@ -87,12 +83,10 @@ s[12684] = "Keep Distance"
 s[5999] = "Monster Captain"
 ;s[2673] = "Name"
 ;s[2565] = "Desc"
-s[2527] = "\r"
 
 ;s[2604] = "Icon"
 ;s[3313] = "RoundBase"
 ;s[2565] = "Desc"
-s[2527] = "\r"
 
 ; DON'T CHANGE! Breaks icons in War Status Report screen
 ;s[5767] = "Monster General"
@@ -193,18 +187,14 @@ s[13251] = "Bandit Group"
 ;s[3336] = "Game/Battle/BadCondition/BadConditionDescView"
 ;s[3250] = "Type"
 ;s[2565] = "Desc"
-s[2527] = "\r"
 
 ; LargeSkillButton@<lambda : LargeSkillButton@InitParts()(126, 50)>
 ;s[2459] = "Button"
 ;s[2565] = "Desc"
-s[2527] = "\r"
 
 ; AegisEffect@Name::get
-s[2527] = "\r"
 
 ; AegisEffect@Name::get
-s[2527] = "\r"
 
 ; StringHelper::Split
 s[3717] = "\r|"
@@ -247,7 +237,6 @@ s[12594] = "Ancient Body"
 
 ; BattleInfoView@GetProcessTypeString
 s[3355] = "Advance"
-s[3355] = "Advance"
 
 s[3636] = "View"
 
@@ -270,7 +259,6 @@ s[3958] = "<Enemy>'s action was interrupted！"
 s[3282] = "<Target> took {255,255,0}<Damage>{} of damage！<Any>"
 
 ; SceneBattle@ShowDefaultDamageLog
-s[3282] = "<Target> took {255,255,0}<Damage>{} of damage！<Any>"
 
 ; monster names
 s[13229] = "Round Ones"
@@ -396,7 +384,6 @@ s[3971] = "AP of <Any> Recovered！"
 s[3275] = "<Target> recovered {0,255,160}<Damage>{} HP！"
 
 ; SceneBattle@RecoverHp
-s[3275] = "<Target> recovered {0,255,160}<Damage>{} HP！"
 
 ; SceneBattle@ShowLogPreReflection
 s[3284] = "<Target> counter-attacks！"
@@ -411,7 +398,6 @@ s[3298] = "<BadCondition> deals damage！"
 s[3269] = "<Target> is asleep and cannot act！"
 
 ; SceneBattle@ProcessPostPlayerTurn
-s[3269] = "<Target> is asleep and cannot act！"
 
 ; BadCondition::GetDescFromType
 s[3781] = "Causes action failure"
@@ -510,15 +496,10 @@ s[3890] = "Unknown Effect"
 
 ; DamageInformation@GuardReasonText::get
 s[3891] = "Limit Break"
-s[3892] = "Element Nullification"
 s[3893] = "Demon's Invincible Barrier"
 s[174]  = "Unknown"
-
-; DamageInformation@GuardReasonText::get
-s[3891] = "Limit Break"
-s[3892] = "Element Nullification"
-s[3893] = "Demon's Invincible Barrier"
-s[174]  = "Unknown"
+; s[3892] 属性無効 is this reason too, translated under
+; SkillEffectProcessDamageSelf@GetLog below, which pushes the same slot.
 
 ; SkillEffectExecuter@InnerProcess
 s[3946] = "No Effect！"
@@ -539,8 +520,6 @@ s[3892] = "Attribute nullified"
 
 ; SceneBattle@IsEnemySkillActionFailed
 s[3292] = "<Enemy>'s <Skill> interrupted！"
-s[3292] = "<Enemy>'s <Skill> interrupted！"
-s[3888] = "Combo Effect"
 s[3291] = "<BadCondition> stunned the <Player>！"
 s[3963] = "<BadCondition> prevented Recovery！"
 s[3272] = "<Enemy> was defeated！"
@@ -645,8 +624,6 @@ s[15005] = "The human army is pushing back against the demon army.\nVictories co
 s[15006] = "Large-scale Reinforcements arrive from Japan.\r"
 s[15007] = "Downing morale and a lack of troops puts the entire army in danger of collapse.\r"
 s[15008] = "※ Military losses Reduced due to CP effect.\r"
-s[15008] = "※ Military losses Reduced due to CP effect.\r"
-s[15008] = "※ Military losses Reduced due to CP effect.\r"
 s[15009] = "Damage increases due to the machinations of the hero Teoman.\r"
 s[15014] = "The Remnants of Hornet's monsters have joined (50,000)\r"
 s[15015] = "The Poppins tribe has joined (50,000)\r"
@@ -665,7 +642,6 @@ s[15027] = "No sightings of the demon Lexington yet.\r"
 s[15028] = "General Rick's elite troops successfully launch a night attack.\r"
 s[15029] = "The nobles of the outlying Regions have Risen up against Queen Lea.\r"
 s[15030] = "Rumors are spreading that Julia has been confessed to by a common soldier.\r"
-s[15031] = "The demon Babolat has crushed several towns.\r"
 s[15032] = "The fortress at the back of the gate has fallen, and General Tolstoy has died.\r"
 s[15033] = "President Sheila's workload has doubled.\r"
 s[15034] = "President Sheila continues to work all night.\r"
@@ -673,7 +649,6 @@ s[15035] = "Peruele will act as the president's double for a few days.\r"
 s[15036] = "Many Sheila supporters have volunteered.\r"
 s[15031] = "The demon Babolat crushed several towns.\r"
 s[15037] = "Kenshin Uesugi defeats the demon general.\r"
-s[15038] = "Many soldiers are suffering from Chupa disease.\r"
 s[15038] = "Many soldiers are suffering from Chupa disease.\r"
 s[15039] = "Freya's Dark Wings defeat the demon commander.\r"
 s[15040] = "A bumper potato harvest, good news for the first time in a while.\r"
@@ -694,7 +669,6 @@ s[14983] = "[Demon Defeat in Leazas] Defeated Demon Silky.\nThe demon army fell 
 s[14984] = "[Demon Defeat in Leazas] Defeated Demon Hausel.\nThe demon army fell into chaos and Retreated.\n"
 s[14985] = "[Demon Defeat in Leazas] Defeated multiple fiends.\nThe demon army fell into chaos and Retreated.\n"
 s[14986] = "[Demon Defeat in Leazas 2] Defeated Demon Lexington.\nThe demon army fell into chaos and Retreated.\n"
-s[14987] = "[Unusual Incident Solved] Defeated Demon Warg.\nThe demon army fell into chaos and Retreated.\n"
 s[14988] = "[Herman's Demon Defeat] Defeat the Demon Babola.\nThe Demon Army is thrown into chaos and Retreats.\n"
 s[14989] = "[Herman's Demon Defeat] Defeat multiple fiends.\nThe Demon Army is thrown into chaos and Retreats.\n"
 s[14990] = "[Herman's Demon Defeat 2] Defeat the Demon Kesselring.\nThe Demon Army is thrown into chaos and Retreats.\n"
@@ -702,19 +676,13 @@ s[14987] = "[Unusual Incident Solved] Defeat the Demon Warg.\nThe Demon Army is 
 s[14991] = "[Zeth's Demon Defeat] Defeat the Demon Galtia.\nThe Demon Army is thrown into chaos and Retreats.\n"
 s[14992] = "[Zeth's Demon Defeat] Defeat multiple fiends.\nThe Demon Army is thrown into chaos and Retreats.\n"
 s[14993] = "[Demon Extermination in Zess 2] Defeat the Demon Medusa.\nThe Demon Army falls into chaos and Retreats.\n"
-s[14987] = "[Unusual Incident Solved] Defeat the Demon Warg.\nThe Demon Army falls into chaos and Retreats.\n"
 s[14994] = "[Demon Extermination in the Free City] Win the Great Battle in Sekigahara.\nDefeat the Demon Ray.\nThe Demon Army falls into chaos and Retreats.\n"
 s[14995] = "[Demon Extermination in the Free City] Win the Great Battle in Sekigahara.\nDefeat multiple fiends.\nThe Demon Army falls into chaos and Retreats.\n"
 s[14996] = "[Demon Extermination in the Free City 2] Defeat the Demon Pyar.\nThe Demon Army falls into chaos and Retreats.\n"
-s[14987] = "[Unusual Incident Solved] The Demon Warg is defeated.\nThe Demon Army is thrown into chaos and Retreats.\n"
 s[14997] = "[Support Operation] Commander Rance joins the team.\nThe morale of the entire army Rises, overwhelming the Demon Army.\n"
 s[15010] = "[Operation Conscription] Tens of thousands of volunteers gathered\n"
 s[15011] = "[Operation Ranger] Difficulty -1 Completed\n"
 s[15012] = "[Operation Healer] 50,000 soldiers Returned to the front lines\n"
-s[15013] = "[Operation Guard] +1 Combat Score Completed\n"
-s[15013] = "[Operation Guard] +1 Combat Score Completed\n"
-s[15013] = "[Operation Guard] +1 Combat Score Completed\n"
-s[15013] = "[Operation Guard] +1 Combat Score Completed\n"
 s[15013] = "[Operation Guard] +1 Combat Score Completed\n"
 
 s[15048] = "The demon army steals food, causing food shortages across the country.\n"
@@ -927,7 +895,6 @@ s[10858] = "Apostle of Hornet"
 s[10859] = "Demon Ruling the Monster Realm"
 s[10860] = "Apostle of Kayblis"
 s[10862] = "Kayblis Faction Demon"
-s[10722] = "Kesselring’s Apostle Maid"
 s[10192] = "Kesselring’s Maid"
 s[10872] = "Red Eye Magical Monster Soldier"
 s[10873] = "Kayblis Faction Demon (Parasite in Monster)"
@@ -980,7 +947,6 @@ s[10953] = "Former Bandit"
 s[10954] = "Former Servant of Rance"
 s[10955] = "Combat Unit Captain of Rance Corps"
 s[10957] = "Boss of Rance Corps, Self-Proclaimed Demon Lord’s Son"
-s[8332] = "Man Who Pretended to Be Demon Lord’s Son"
 s[10960] = "Apostle of Xavier"
 s[10961] = "Monster Hunter, Treasure Hunter, Demon Slayer"
 s[10963] = "Demon Created for Amusement by Demon Lord Rance"
@@ -999,7 +965,6 @@ s[10988] = "Girlfriend of Demon Ray"
 s[10990] = "Strongest Martial Artist"
 s[10992] = "Demon Who Has Become Weak Again?"
 s[10994] = "Security Guard"
-s[10910] = "Son of Felis (Father = Rance)"
 
 
 ; FriendPanel@Name::get
@@ -1024,20 +989,15 @@ s[8114] = "Even when sleeping?"
 s[8128] = "I think we can win if we try our best"
 s[8129] = "Zans is stronger"
 s[8137] = "Did something happen?"
-s[8138] = "Pat her head"
 s[8140] = "Doodle on their face"
 s[8141] = "Cover them with a blanket"
 s[8150] = "Let's go on a date"
 s[8151] = "Let me pat your head"
-s[8166] = "Dating is fun, isn't it?"
-s[8167] = "Sightseeing is fun, isn't it?"
 s[8168] = "I was a little nervous"
 s[8180] = "That was fun. Let's do it again"
 s[8181] = "It's not fun"
 s[8186] = "Want to try it too, Relicov?"
 s[8187] = "You'll do it with someone wonderful someday, Relicov."
-s[8210] = "Why do you fight?"
-s[8211] = "Why are you pursuing Neplacass?"
 
 ; Part 2 / Start
 s[8213] = "Mother's Voice"
@@ -1482,7 +1442,6 @@ s[8970] = "Drink, drink, drink, drink, drink, drink, drink."
 s[8971] = "I had a good impression."
 s[8972] = "I had a very bad impression."
 s[8973] = "...I'll put an arrow into his head."
-s[8975] = "Maybe."
 s[8975] = "Not really."
 
 ; 604 / Talent Limit
@@ -1790,7 +1749,6 @@ s[9210] = "I'm surprised."
 s[9211] = "I understand."
 ; Might cause crashes, need to test
 s[3220] = "Osada-kun"
-s[3198] = "Sushinu"
 
 ; 607 / Love Story 2
 s[9213] = "Good morning"
@@ -2192,7 +2150,6 @@ s[8380] = "I don't care."
 s[8387] = "The voice of a violent monster"
 s[8390] = "Needle"
 s[8391] = "King"
-s[8231] = "Take a step forward"
 s[8394] = "Retreat for now"
 
 ; 610 / Demon DD / Before Battle
