@@ -7,6 +7,7 @@
  *   node scripts/summary_chunk.js 80            # ...or as many as you say
  *   node scripts/summary_chunk.js --from=2000   # start at that row instead
  *   node scripts/summary_chunk.js --clip        # and put it on the clipboard
+ *   node scripts/summary_chunk.js --context     # for translating here, not in a chat
  *
  * A file rather than stdout, overwritten every run, because the obvious way to
  * pipe it on Windows -- `node scripts/summary_chunk.js | clip` -- turns every
@@ -115,6 +116,25 @@ const prompt = [
     "",
     ...pending.map(({number, japanese}) => `${number}\t${japanese}`),
 ].join("\n");
+
+/**
+ * Translating here rather than in a chat wants the opposite of a prompt: no
+ * preamble, and the event each phrase belongs to, which is the only context a
+ * caption has. ４１／リーザス自力解放４ is what tells you that 「しかし、これを
+ * リックが仕留める」 is Rick killing the general two rows above and not some
+ * other Rick doing something else.
+ *
+ * Straight to stdout, since the file exists to get UTF-8 past a Windows pipe
+ * and nothing is being pasted anywhere in this mode.
+ */
+if (args.includes("--context")) {
+    console.log(pending.map(({number, japanese, nodes}) =>
+        `${number}\t${nodes[0]}\t${japanese}`).join("\n"));
+    console.error(`Rows ${pending[0].number} to ${pending[pending.length - 1].number}`
+        + ` of ${lines.length}, ${pending.length} phrases.`
+        + ` Write the English to ${path.relative(ROOT, REPLY_FILE)} and merge it.`);
+    process.exit(0);
+}
 
 await fs.mkdir(path.dirname(CHUNK_FILE), {recursive: true});
 await fs.writeFile(CHUNK_FILE, prompt + "\n", "utf-8");
