@@ -4,7 +4,8 @@
 ; The enemy status lines -- the four hints under an enemy's stats in battle --
 ; used to be picked out one at a time here, which left the same line translated
 ; twice in two styles and, once, twice with two different meanings. They live in
-; enemy_info_glossary.tsv now and the build appends them after this file.
+; glossaries/enemy_info_glossary.tsv now and the build appends them after this
+; file.
 
 ; QuestMapParamAccessor@GetDesc
 s[4223] = "Advance"
