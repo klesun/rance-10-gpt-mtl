@@ -106,8 +106,10 @@ If a variant does need its own answer, put a `mistranslated_names.json` next to
 its text with just the entries it disagrees about. It is layered over the
 shared table by Japanese name: the canonical spelling is taken from the
 variant, and the known misspellings of both are merged, so a variant never has
-to restate the whole list. `grok` uses it for the two names the chunking of its
-own translation run cut in half, which are its misspellings and nobody else's.
+to restate the whole list. Nothing uses it at the moment. `grok` did, for the
+two names its own translation run chopped in half, until those were written out
+of its records: a defect in the text belongs in the text, and the overlay was
+holding the place only for as long as that text was a patch nobody could edit.
 
 ## Build products
 

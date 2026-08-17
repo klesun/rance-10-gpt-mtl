@@ -69,10 +69,17 @@ indent, sitting the continuation of a quote under the 「 that opened it, and th
 wrapping keeps it -- here and in every variant, which is a rule this text is
 simply the first to lean on.
 
-`mistranslated_names.json` carries the two names the fork's chunking cut in
-half, `ケイブリス` arriving as "Caveリス" in some fifty lines and `リス様` as
-"Lordリス" in a handful. That is all this variant asks the shared table to
-change; every other name it already spells the way the cards do.
+Two names the fork's chunking cut in half are repaired in the records
+themselves: 49 lines had `ケイブリス` as "Caveリス", six had `リス様` as "Lordリス"
+or a bare "リス" -- katakana in the middle of an English sentence, both of them.
+While this text was a patch they could only be swapped at build time, by a
+`mistranslated_names.json` in this folder layered over the shared name table.
+A corpus is somewhere to write the answer down instead, so the file is gone and
+the folder now asks the shared table for nothing. One of the 49 is m[182204],
+which no build-time repair could have reached: it read "Lord Caveリスの body"
+and the Japanese naming him is the line before it, which is the echo drift
+described below. Every other name this translation already spells the way the
+cards do.
 
 ## The 62 records that were not there
 
@@ -105,8 +112,8 @@ sixty.
 It is what the model sent back rather than the line from the dump, and the two
 drifted apart in 5886 of the 275312 records, usually by a line. That costs
 nothing except the name repairs, which fire when the Japanese beside a line
-names a character the English spells wrong -- so nine lines out of 269617 come
-out differently here than they did from the patch this folder was built from.
+names a character the English spells wrong -- so nine lines out of 269617 get a
+different repair here than they got from the patch this folder was built from.
 
 Where the echo names somebody the dump line does not, a repair fires that the
 patch build never made: m[34206] and m[50505] "demon army" to "Monster Army",
@@ -118,8 +125,8 @@ four, and that was the whole cost of the move.
 
 ## It is grok's text, not a better one
 
-Nothing here has been corrected yet, and the translation is rough in three ways
-worth knowing before editing it.
+The half-cut names above are the only thing corrected here so far, and the
+translation is rough in three ways worth knowing before editing it.
 
 It keeps the Japanese punctuation, 「」 on 183008 lines, which reads as a
 deliberate choice rather than a leftover -- the `gpt` variant uses quotation
