@@ -313,7 +313,7 @@ last one renders exactly like no entry at all, so nothing else would notice.
 `regenerate-ain` gained one flag and nothing else:
 
 ```
-alice ain edit -t regenerated.ain.txt --jaf card_names.jaf -o <game>/Rance10.ain Rance10.v1.04.ain
+alice ain edit -t regenerated.ain.txt --jaf card_names.jaf -o <game>/Rance10.ain game/ain/Rance10.v1.04.ain
 ```
 
 Order inside that command does not matter, because the two edits are

@@ -5,6 +5,12 @@ An English patch for Rance 10. The game's text lives in `Rance10.ain`,
 here and hands it to [alice-tools](https://github.com/nunuhara/alice-tools).
 `README.md` has the commands, `docs/` has the write-ups.
 
+`game/ain/` holds the game's own `Rance10.v1.04.ain` and the dumps taken from
+it. Nothing in there is edited by hand and no build writes to it; reach those
+files through `modules/AinFiles.js` rather than by spelling the path, so the
+next game version is one edit. Everything hand-written — the cherry-picks, the
+glossaries, the variants — stays at the root, however similar the name looks.
+
 ```
 npm run regenerate-ain          # the main build: dialogue + system text + the .jaf patches
 npm run regenerate-ex           # skill and character descriptions
@@ -50,7 +56,7 @@ been in `system_cherry_picks.v1.04.ain.txt` for years.
 Before translating an `s[N]`, find out what else pushes it:
 
 ```
-alice ain dump -C --no-macros -o code.jam Rance10.v1.04.ain   # operands are slot numbers
+alice ain dump -C --no-macros -o code.jam game/ain/Rance10.v1.04.ain   # operands are slot numbers
 ```
 
 then look for every `S_PUSH 0x<slot>` and read what surrounds it.

@@ -70,8 +70,8 @@ purpose.
 Everything else is shared and stays at the repository root, because it is not
 what the translations disagree about:
 
-- `Rance10.v1.00.ain.json` and `Rance10.v1.04.ain.json` map a line number in
-  the older dump onto the same line in the current game;
+- `game/ain/Rance10.v1.00.ain.json` and `game/ain/Rance10.v1.04.ain.json` map a
+  line number in the older dump onto the same line in the current game;
 - `system_cherry_picks.v1.04.ain.txt` is menu and UI text (`s[...]` entries),
   hand-fixed and appended last so it wins over everything;
 - `modules/TextNormalization.js` decides where lines wrap, and it is not a

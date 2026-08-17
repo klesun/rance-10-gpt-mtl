@@ -19,13 +19,11 @@ import * as os from "os";
 import * as path from "path";
 import * as readline from "readline";
 import {createReadStream} from "fs";
+import {AIN, AIN_TXT} from "../modules/AinFiles.js";
 import {alice, run} from "../modules/AliceTools.js";
 import {ROOT} from "../modules/Env.js";
 import {readAinStrings} from "../modules/EnemyInfo.js";
 import {RACE_FUNCTION, RACE_NAMES} from "../modules/RaceNames.js";
-
-const AIN = path.join(ROOT, "Rance10.v1.04.ain");
-const AIN_TXT = path.join(ROOT, "Rance10.v1.04.ain.txt");
 
 /**
  * The int-to-slot pairs in one function of the code dump.

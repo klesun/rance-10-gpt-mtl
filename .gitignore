@@ -4,6 +4,10 @@
 /pactex/
 /CG2-raw/
 /regenerated*.ain.txt
+# Code dumps of game/ain/Rance10.v1.04.ain -- 78 MB apiece and 4 seconds to make
+# again, so they belong beside it on disk but not in the history.
+/game/ain/*.jam
+/game/ain/*.code
 /race_names.jaf
 /unmapped.ain.json
 /package-lock.json

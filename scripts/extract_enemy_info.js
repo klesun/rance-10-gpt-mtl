@@ -30,12 +30,10 @@ import * as os from "os";
 import * as path from "path";
 import * as readline from "readline";
 import {createReadStream} from "fs";
+import {AIN, AIN_TXT} from "../modules/AinFiles.js";
 import {alice, run} from "../modules/AliceTools.js";
 import {ROOT} from "../modules/Env.js";
 import {ENEMY_INFO_GLOBALS, ENEMY_INFO_LINES, readAinStrings} from "../modules/EnemyInfo.js";
-
-const AIN = path.join(ROOT, "Rance10.v1.04.ain");
-const AIN_TXT = path.join(ROOT, "Rance10.v1.04.ain.txt");
 
 /**
  * Which globals ◆敵情報１..４ are, rather than the four numbers they happen to

@@ -12,6 +12,7 @@
 import * as fs from "fs/promises";
 import * as path from "path";
 import {spawnSync} from "child_process";
+import {AIN} from "../modules/AinFiles.js";
 import {alice, run} from "../modules/AliceTools.js";
 import {ROOT} from "../modules/Env.js";
 import {RACE_JAF, renderRaceNamesJaf} from "../modules/RaceNames.js";
@@ -65,6 +66,6 @@ run(async () => {
         "--jaf", "card_names.jaf",
         "--jaf", path.relative(ROOT, RACE_JAF),
         "-o", "{game}/Rance10.ain",
-        "./Rance10.v1.04.ain",
+        path.relative(ROOT, AIN),
     ]);
 });

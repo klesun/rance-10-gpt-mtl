@@ -8,6 +8,7 @@
  */
 import * as fs from "fs/promises";
 import * as path from "path";
+import {AIN_JSON, AIN_V100_JSON} from "./modules/AinFiles.js";
 import {replaceUnicode, wrapAt} from "./modules/TextNormalization.js";
 import {renderEnemyInfo} from "./modules/EnemyInfo.js";
 import {createNameNormalizer} from "./modules/NameNormalizer.js";
@@ -26,10 +27,10 @@ try {
 const variantRoot = variantDir(variant);
 const normalizeNames = await createNameNormalizer(variantRoot);
 
-const v100AinJson = await fs.readFile("./Rance10.v1.00.ain.json", "utf-8");
+const v100AinJson = await fs.readFile(AIN_V100_JSON, "utf-8");
 const v100AinData = JSON.parse(v100AinJson);
 
-const v104AinJson = await fs.readFile("./Rance10.v1.04.ain.json", "utf-8");
+const v104AinJson = await fs.readFile(AIN_JSON, "utf-8");
 const v104AinData = JSON.parse(v104AinJson);
 
 const cherryPicksTxt = await fs.readFile("./system_cherry_picks.v1.04.ain.txt", "utf-8");
