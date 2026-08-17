@@ -70,29 +70,20 @@ export const readNameTable = async (variantDir) => {
 const KATAKANA = /[゠-ヿ]/;
 
 /**
- * The same table read as a check rather than a repair, for the hand-written
- * glossaries -- enemy_info_glossary.tsv, race_name_glossary.tsv -- which the
- * repair pass above cannot help with.
- *
- * It cannot because it swaps a *known* misspelling for the right one, and what
- * a person writing a glossary produces is a plausible new one: ハニー came out
- * as "Honey", which is not the listed "honey" and so would have gone through
- * untouched and unmentioned. Absence of the canonical spelling is the signal
- * worth having, and there are few enough entries to say it out loud and let
- * somebody decide.
+ * Which of the table's characters a Japanese line names.
  *
  * A katakana name only counts when it is not part of a longer run of katakana.
  * Without that, リア is in バリア, レイ is in ブレイク and フル is in
  * フルスペック, and three complaints out of five are noise -- which is how a
  * warning stops being read.
  *
- * The shared table only: these files are not dialogue, and a variant's
- * overrides are its dialogue's business.
+ * The shared table only: the files this serves are not dialogue, and a
+ * variant's overrides are its dialogue's business.
  */
-export const createNameChecker = async () => {
+export const createNameFinder = async () => {
     const table = (await readSharedNameTable()).filter(record => record.shortNameJpn.length >= 2);
 
-    const names = (japanese) => table.filter(record => {
+    return (japanese) => table.filter(record => {
         const name = record.shortNameJpn;
         for (let at = japanese.indexOf(name); at >= 0; at = japanese.indexOf(name, at + 1)) {
             const before = japanese[at - 1];
@@ -105,6 +96,22 @@ export const createNameChecker = async () => {
         }
         return false;
     });
+};
+
+/**
+ * The same table read as a check rather than a repair, for the hand-written
+ * glossaries -- enemy_info_glossary.tsv, race_name_glossary.tsv,
+ * summary_glossary.tsv -- which the repair pass above cannot help with.
+ *
+ * It cannot because it swaps a *known* misspelling for the right one, and what
+ * a person writing a glossary produces is a plausible new one: ハニー came out
+ * as "Honey", which is not the listed "honey" and so would have gone through
+ * untouched and unmentioned. Absence of the canonical spelling is the signal
+ * worth having, and there are few enough entries to say it out loud and let
+ * somebody decide.
+ */
+export const createNameChecker = async () => {
+    const names = await createNameFinder();
 
     return (japanese, english) => names(japanese)
         .filter(record => !english.toLowerCase().includes(record.shortNameEng.toLowerCase()))
