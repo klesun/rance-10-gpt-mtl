@@ -36,7 +36,7 @@
  */
 import * as fs from "fs/promises";
 import * as path from "path";
-import {ROOT} from "./Env.js";
+import {BUILD, ROOT} from "./Env.js";
 import {createNameChecker} from "./NameNormalizer.js";
 import {getTextWidth} from "./TextNormalization.js";
 
@@ -45,8 +45,11 @@ export const RACE_FUNCTION = "表示種族";
 export const RACE_NAMES = path.join(ROOT, "race_names.v1.04.tsv");
 export const RACE_GLOSSARY = path.join(ROOT, "glossaries", "race_name_glossary.tsv");
 
-/** Generated, so gitignored, and written next to the patch the build applies. */
-export const RACE_JAF = path.join(ROOT, "race_names.jaf");
+/**
+ * Generated, so it goes to build/ beside the patch it is applied with, rather
+ * than to patches/ beside the hand-written card_names.jaf.
+ */
+export const RACE_JAF = path.join(BUILD, "race_names.jaf");
 
 /**
  * What the race line fits.

@@ -1,6 +1,6 @@
 import * as fs from "fs/promises";
 import * as path from "path";
-import {ROOT} from "../modules/Env.js";
+import {BUILD, ensureBuild} from "../modules/Env.js";
 import {readNameTable} from "../modules/NameNormalizer.js";
 import {corpusDir, variantName} from "../modules/Variants.js";
 
@@ -98,4 +98,5 @@ charEntries.forEach(entry => entry[1] = getSortedMistranslations(entry[1]))
 // output above is the same thing filtered down to what is worth reading. Not
 // read by anything; it is here to be looked at when deciding what belongs in
 // glossaries/mistranslated_names.json.
-await fs.writeFile(path.join(ROOT, "mistranslation_candidates.json"), JSON.stringify(charEntries), "utf-8");
+ensureBuild();
+await fs.writeFile(path.join(BUILD, "mistranslation_candidates.json"), JSON.stringify(charEntries), "utf-8");

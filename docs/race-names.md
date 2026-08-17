@@ -5,14 +5,14 @@ cherry-picked string like any other; the word after it is not, and this is why.
 
 ```
 npm run regenerate-race-names   # only after the .ain changes
-npm run regenerate-ain          # the build; generates race_names.jaf and applies it
+npm run regenerate-ain          # the build; generates build/race_names.jaf and applies it
 ```
 
 | File | What it is |
 |---|---|
 | `race_names.v1.04.tsv` | which number is which race — generated |
 | `glossaries/race_name_glossary.tsv` | the English, keyed by the Japanese — hand-written |
-| `race_names.jaf` | the override the build compiles — generated, gitignored |
+| `build/race_names.jaf` | the override the build compiles — generated, gitignored |
 
 ## Why not translate the nineteen strings
 

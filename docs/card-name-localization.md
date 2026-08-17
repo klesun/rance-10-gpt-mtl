@@ -169,7 +169,7 @@ of this patch did. Both routes are worse:
   Translation collapses distinct Japanese strings into identical English ones —
   a dozen different lines all become "Thank you." — so roughly 164 call sites
   come back pointing at a shared index. The strings still render correctly, but
-  `s[8489]` no longer addresses what `regenerated.ain.txt` thinks it does, and
+  `s[8489]` no longer addresses what `build/regenerated.<variant>.ain.txt` thinks it does, and
   the next text edit writes to the wrong places.
 
 `--jaf` has neither problem. It appends: three new strings at the end of the
@@ -313,7 +313,7 @@ last one renders exactly like no entry at all, so nothing else would notice.
 `regenerate-ain` gained one flag and nothing else:
 
 ```
-alice ain edit -t regenerated.ain.txt --jaf patches/card_names.jaf -o <game>/Rance10.ain game/ain/Rance10.v1.04.ain
+alice ain edit -t build/regenerated.gpt.ain.txt --jaf patches/card_names.jaf -o <game>/Rance10.ain game/ain/Rance10.v1.04.ain
 ```
 
 Order inside that command does not matter, because the two edits are

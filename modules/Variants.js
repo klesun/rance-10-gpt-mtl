@@ -13,7 +13,7 @@
  */
 import * as fs from "fs";
 import * as path from "path";
-import {ROOT} from "./Env.js";
+import {BUILD, ROOT} from "./Env.js";
 
 const VARIANTS_DIR = path.join(ROOT, "variants");
 export const DEFAULT_VARIANT = "gpt";
@@ -85,4 +85,4 @@ export const corpusDir = (name) => {
  * one caller that needs it relative -- alice-tools, which is handed the game's
  * own .ain the same way -- says so with path.relative.
  */
-export const regeneratedTxt = (name) => path.join(ROOT, `regenerated.${name}.ain.txt`);
+export const regeneratedTxt = (name) => path.join(BUILD, `regenerated.${name}.ain.txt`);

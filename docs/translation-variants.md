@@ -114,7 +114,8 @@ holding the place only for as long as that text was a patch nobody could edit.
 
 ## Build products
 
-`regenerated.<variant>.ain.txt` and `unmapped.ain.json` are generated and
-gitignored. The patch file is named per variant on purpose — switching
+`build/regenerated.<variant>.ain.txt` and `build/unmapped.ain.json` are
+generated, and `build/` is gitignored whole. The patch file is named per
+variant on purpose — switching
 variants should not leave you reading the other one's text, and a generation
 that fails should not pass off a stale file as the build you asked for.

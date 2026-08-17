@@ -1,16 +1,13 @@
 /.idea/
 /.env
-/Rance10Pact_manifest.local.txt
-/pactex/
+# Everything a build writes: the rendered patch, the generated .jaf, the pactex
+# staging directory, the reports. See BUILD in modules/Env.js.
+/build/
 /CG2-raw/
-/regenerated*.ain.txt
 # Code dumps of game/ain/Rance10.v1.04.ain -- 78 MB apiece and 4 seconds to make
 # again, so they belong beside it on disk but not in the history.
 /game/ain/*.jam
 /game/ain/*.code
-/race_names.jaf
-/unmapped.ain.json
-/mistranslation_candidates.json
 /package-lock.json
 /node_modules/
 /local/

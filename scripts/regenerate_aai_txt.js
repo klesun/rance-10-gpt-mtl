@@ -9,7 +9,7 @@
 import * as fs from "fs/promises";
 import * as path from "path";
 import {AIN_JSON, AIN_V100_JSON} from "../modules/AinFiles.js";
-import {ROOT} from "../modules/Env.js";
+import {BUILD, ensureBuild, ROOT} from "../modules/Env.js";
 import {replaceUnicode, wrapAt} from "../modules/TextNormalization.js";
 import {renderEnemyInfo} from "../modules/EnemyInfo.js";
 import {createNameNormalizer} from "../modules/NameNormalizer.js";
@@ -22,7 +22,9 @@ const CHERRY_PICKS = path.join(ROOT, "patches", "system_cherry_picks.v1.04.ain.t
  * The v1.04 lines no corpus covers, for scripts/translate_chunks.js to feed on.
  * A by-product of the mapping below rather than something this is asked for.
  */
-const UNMAPPED = path.join(ROOT, "unmapped.ain.json");
+const UNMAPPED = path.join(BUILD, "unmapped.ain.json");
+
+ensureBuild();
 
 // Naming a variant that is not there is a typo to fix, not a stack trace to
 // read -- the same courtesy scripts/ain.js gets from AliceTools' run().

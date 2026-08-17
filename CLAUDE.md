@@ -20,6 +20,12 @@ these is edited by hand:
 | `variants/` | one folder per translation of the dialogue |
 | `scripts/`, `modules/` | every entry point, and the code behind them |
 
+Everything a build writes goes to `build/`, which is gitignored whole and safe
+to delete: the rendered patch, the generated `race_names.jaf`, the `pactex`
+staging directory, the reports. Write there through `BUILD` in
+`modules/Env.js`, and call `ensureBuild()` first — a fresh checkout has no such
+directory, and neither `fs.writeFile` nor alice-tools will make one.
+
 A path is a constant in a module — `SUMMARY_GLOSSARY`, `RACE_GLOSSARY`, `AIN` —
 so moving a file again is one edit rather than a grep. Nothing reads a path
 relative to the working directory: scripts run from anywhere, and the two
@@ -81,7 +87,7 @@ copy its shape rather than inventing one.
 
 **If the string is shared but the thing displaying it is display-only, patch the
 function instead of the string.** That is what `patches/card_names.jaf` does for card
-names and what the generated `race_names.jaf` does for races: the strings keep
+names and what the generated `build/race_names.jaf` does for races: the strings keep
 their Japanese, so nothing that compares text notices, and `super()` gives a
 fallback that can only ever produce the original Japanese. See
 `docs/race-names.md`.
