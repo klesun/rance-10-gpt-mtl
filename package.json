@@ -2,7 +2,7 @@
     "type": "module",
     "scripts": {
         "regenerate-ain": "node scripts/ain.js",
-        "regenerate-card-names": "node generate_card_names.js",
+        "regenerate-card-names": "node scripts/generate_card_names.js",
         "regenerate-enemy-info": "node scripts/extract_enemy_info.js",
         "regenerate-race-names": "node scripts/extract_race_names.js",
         "regenerate-ex": "node scripts/ex.js",

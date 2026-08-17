@@ -1,7 +1,7 @@
 # Short English names for the characters and items that appear in card Ids.
 #
 # Columns: japanese <TAB> english <TAB> number of cards using the name.
-# The third column is informational; generate_card_names.js reads the first two.
+# The third column is informational; scripts/generate_card_names.js reads the first two.
 #
 # These are the *short* names the card plate needs, not the full names -- the
 # plate clips text centred, so "Naked Crook Mofus" would lose both its head and
@@ -9,7 +9,7 @@
 #
 # mistranslated_names.json overrides the english column wherever the two
 # disagree, so card labels spell names the same way the dialogue does. See the
-# exception list in generate_card_names.js for the handful of entries where the
+# exception list in scripts/generate_card_names.js for the handful of entries where the
 # override is refused because it would erase a distinction between cards.
 エール２	El 2	60
 ランス	Rance	19

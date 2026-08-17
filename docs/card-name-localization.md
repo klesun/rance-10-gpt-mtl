@@ -243,7 +243,7 @@ Both sources track the translation for free. The short names cannot: they are
 keyed off the Japanese `識別名`, which is why
 [`card_name_glossary.tsv`](../card_name_glossary.tsv) exists. To keep a plate
 spelling a name the way the script does, `mistranslated_names.json` — the map
-`regenerate_aai_txt.js` already uses to normalise dialogue — overrides the
+`scripts/regenerate_aai_txt.js` already uses to normalise dialogue — overrides the
 glossary's english column wherever the two disagree.
 
 Not blindly, though. That map is written for **prose**, where a character is

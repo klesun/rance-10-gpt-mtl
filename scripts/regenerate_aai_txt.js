@@ -8,11 +8,21 @@
  */
 import * as fs from "fs/promises";
 import * as path from "path";
-import {AIN_JSON, AIN_V100_JSON} from "./modules/AinFiles.js";
-import {replaceUnicode, wrapAt} from "./modules/TextNormalization.js";
-import {renderEnemyInfo} from "./modules/EnemyInfo.js";
-import {createNameNormalizer} from "./modules/NameNormalizer.js";
-import {DEFAULT_VARIANT, hasPatch, regeneratedTxt, variantDir, variantName, variantPatch} from "./modules/Variants.js";
+import {AIN_JSON, AIN_V100_JSON} from "../modules/AinFiles.js";
+import {ROOT} from "../modules/Env.js";
+import {replaceUnicode, wrapAt} from "../modules/TextNormalization.js";
+import {renderEnemyInfo} from "../modules/EnemyInfo.js";
+import {createNameNormalizer} from "../modules/NameNormalizer.js";
+import {DEFAULT_VARIANT, hasPatch, regeneratedTxt, variantDir, variantName, variantPatch} from "../modules/Variants.js";
+
+/** The system strings translated by hand, appended to the rendered dialogue. */
+const CHERRY_PICKS = path.join(ROOT, "system_cherry_picks.v1.04.ain.txt");
+
+/**
+ * The v1.04 lines no corpus covers, for scripts/translate_chunks.js to feed on.
+ * A by-product of the mapping below rather than something this is asked for.
+ */
+const UNMAPPED = path.join(ROOT, "unmapped.ain.json");
 
 // Naming a variant that is not there is a typo to fix, not a stack trace to
 // read -- the same courtesy scripts/ain.js gets from AliceTools' run().
@@ -33,7 +43,7 @@ const v100AinData = JSON.parse(v100AinJson);
 const v104AinJson = await fs.readFile(AIN_JSON, "utf-8");
 const v104AinData = JSON.parse(v104AinJson);
 
-const cherryPicksTxt = await fs.readFile("./system_cherry_picks.v1.04.ain.txt", "utf-8");
+const cherryPicksTxt = await fs.readFile(CHERRY_PICKS, "utf-8");
 
 // Generated rather than cherry-picked: which string slots these are was found
 // in the code by scripts/extract_enemy_info.js, and the English is keyed by the
@@ -67,7 +77,7 @@ const mapLineNumbers = (v100AinData, v104AinData) => {
 
 const [v100ToV104, unmapped] = mapLineNumbers(v100AinData, v104AinData);
 
-await fs.writeFile("unmapped.ain.json", JSON.stringify(unmapped, null, 4), "utf-8");
+await fs.writeFile(UNMAPPED, JSON.stringify(unmapped, null, 4), "utf-8");
 
 const readTranslations = async (folderPath) => {
     const chunkFileNames = await fs.readdir(folderPath);
@@ -219,7 +229,7 @@ const output = allLineRecords
 
 await fs.writeFile(regeneratedTxt(variant), output, "utf-8");
 
-console.log(`Rendered the "${variant}" dialogue variant into ${regeneratedTxt(variant)}`
+console.log(`Rendered the "${variant}" dialogue variant into ${path.relative(ROOT, regeneratedTxt(variant))}`
     + (howItWasBuilt ? ` -- ${howItWasBuilt}` : ""));
 console.log(`Translated ${enemyInfo.report}`);
 // Worth saying out loud, not worth stopping for: the panel does not wrap, so an

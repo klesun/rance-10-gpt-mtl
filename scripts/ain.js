@@ -55,14 +55,14 @@ const renderRaceNames = async () => {
 
 run(async () => {
     const variant = variantName();
-    const rendered = node(["regenerate_aai_txt.js", `--variant=${variant}`]);
+    const rendered = node([path.join(import.meta.dirname, "regenerate_aai_txt.js"), `--variant=${variant}`]);
     if (rendered !== 0) {
         return rendered;
     }
     await renderRaceNames();
     return alice([
         "ain", "edit",
-        "-t", regeneratedTxt(variant),
+        "-t", path.relative(ROOT, regeneratedTxt(variant)),
         "--jaf", "card_names.jaf",
         "--jaf", path.relative(ROOT, RACE_JAF),
         "-o", "{game}/Rance10.ain",

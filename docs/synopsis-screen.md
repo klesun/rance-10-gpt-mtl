@@ -82,7 +82,7 @@ panel, and rows where the English does not spell a name the way
 wide cannot hold `Agireda Kosabusshi Zonna Abona` and says `Agireda`. What it is
 for is the other kind of hit: a *different* spelling of the same name. Where the
 canonical name does not fit, the card's short form is the right fallback --
-`generate_card_names.js` refuses `Masamune` -> `Dokuganryuu Masamune` as a wrap
+`scripts/generate_card_names.js` refuses `Masamune` -> `Dokuganryuu Masamune` as a wrap
 rather than a respelling, so the short form is a spelling the game itself
 displays.
 

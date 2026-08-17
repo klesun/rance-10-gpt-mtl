@@ -24,15 +24,17 @@
  * script asserts that stripping its own output reproduces the stripped input.
  *
  * Usage:
- *   node generate_card_names.js              # rewrite the tree
- *   node generate_card_names.js --dry-run    # report only
+ *   npm run regenerate-card-names                     # rewrite the tree
+ *   node scripts/generate_card_names.js --dry-run     # report only
  */
 import * as fs from "fs/promises";
-import {width} from "./modules/EastAsianWidth.js";
+import * as path from "path";
+import {width} from "../modules/EastAsianWidth.js";
+import {ROOT} from "../modules/Env.js";
 
-const EX_DIR = "Rance10EX_v1_04";
-const GLOSSARY_PATH = "card_name_glossary.tsv";
-const DIALOGUE_NAMES_PATH = "mistranslated_names.json";
+const EX_DIR = path.join(ROOT, "Rance10EX_v1_04");
+const GLOSSARY_PATH = path.join(ROOT, "card_name_glossary.tsv");
+const DIALOGUE_NAMES_PATH = path.join(ROOT, "mistranslated_names.json");
 
 /**
  * The plate clips text centred and does not scale it, so an overlong label
@@ -640,11 +642,11 @@ const main = async () => {
     console.log(`カード情報   : ${fullNames.size} nodes with フルネーム (${infoEncoding})`);
     console.log(`名札マッピング: ${plates.size} characters (${plateEncoding})`);
     console.log(`glossary     : ${base.size} names, ${alias.size} aliases`);
-    console.log(`  respelled from ${DIALOGUE_NAMES_PATH}: ${overrides.length}`);
+    console.log(`  respelled from ${path.basename(DIALOGUE_NAMES_PATH)}: ${overrides.length}`);
     for (const {ja, from, to} of overrides) {
         console.log(`    ${ja}: ${JSON.stringify(from)} -> ${JSON.stringify(to)}`);
     }
-    console.log(`  kept short against ${DIALOGUE_NAMES_PATH}: ${refused.length}`);
+    console.log(`  kept short against ${path.basename(DIALOGUE_NAMES_PATH)}: ${refused.length}`);
     for (const {ja, kept, wrapped} of refused) {
         console.log(`    ${ja}: ${JSON.stringify(kept)} (not ${JSON.stringify(wrapped)})`);
     }

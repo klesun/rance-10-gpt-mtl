@@ -16,7 +16,7 @@
  * So this dumps the code section, walks it for that shape, and writes the
  * slots it found to enemy_info_lines.v1.04.tsv. That file is the input to the
  * build, which means the search runs when the .ain changes rather than on
- * every build -- the same arrangement generate_card_names.js has.
+ * every build -- the same arrangement scripts/generate_card_names.js has.
  *
  * A string slot is shared by every site pushing that text, so translating one
  * that is also a key or an id elsewhere would break the lookup rather than the

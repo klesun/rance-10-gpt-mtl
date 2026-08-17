@@ -11,7 +11,7 @@ variants are selected and what they are allowed to differ in.
 the build maps onto the same lines in v1.04; `gpt_outputs_v104/` covers the
 lines v1.04 added, which have no v1.00 counterpart to map from. That is why
 there are two: not two passes over the same text, but two numbering schemes.
-`a02_translate_via_gpt.js` writes the second folder, feeding on the
+`scripts/translate_chunks.js` writes the second folder, feeding on the
 `unmapped.ain.json` the generator leaves behind.
 
 A file is one API response, kept for its `output_parsed.translationLines` and

@@ -31,7 +31,7 @@ export const AIN_TXT = path.join(AIN_DIR, "Rance10.v1.04.ain.txt");
 export const AIN_JSON = path.join(AIN_DIR, "Rance10.v1.04.ain.json");
 
 /**
- * The same two for v1.00, which regenerate_aai_txt.js maps line numbers from --
+ * The same two for v1.00, which scripts/regenerate_aai_txt.js maps line numbers from --
  * the translation was made against that version and the numbering moved.
  *
  * There is no Rance10.v1.00.ain here: only its dumps were ever committed, so

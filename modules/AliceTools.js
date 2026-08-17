@@ -2,7 +2,7 @@
  * Running alice-tools with the paths from .env.
  */
 import {spawnSync} from "child_process";
-import {required} from "./Env.js";
+import {required, ROOT} from "./Env.js";
 
 /** The game directory the build writes into. */
 export const gameDir = () => required("GAME_DIR");
@@ -14,10 +14,15 @@ export const gameDir = () => required("GAME_DIR");
  * to be quoted, and cmd.exe strips the quotes off a command line that *begins*
  * with one -- which is how "E:\Modding games\..." ends up being run as
  * "E:\Modding". Passing an argv array sidesteps the question entirely.
+ *
+ * From the repository root, whatever directory the build was started from.
+ * Several arguments are paths relative to it -- a manifest, the patch, the .jaf
+ * overrides -- and alice-tools resolves them against its own working directory,
+ * so this is what lets the entry points be run from anywhere.
  */
 export const alice = (args, exe = required("ALICE_EXE")) => {
     const expanded = args.map(arg => arg.replaceAll("{game}", gameDir()));
-    const result = spawnSync(exe, expanded, {stdio: "inherit"});
+    const result = spawnSync(exe, expanded, {stdio: "inherit", cwd: ROOT});
     if (result.error?.code === "ENOENT") {
         throw new Error(`alice-tools is not at ${exe} -- check ALICE_EXE in .env`);
     }

@@ -4,7 +4,7 @@
  * mistranslated_names.json is not translation text but a repair pass run at
  * build time: where the Japanese line names a character and the English does
  * not spell them the canonical way, a known misspelling is swapped out. The
- * table is shared by every variant on purpose -- generate_card_names.js reads
+ * table is shared by every variant on purpose -- scripts/generate_card_names.js reads
  * the same file for the card plates, so a variant that renamed people in its
  * dialogue alone would disagree with the cards its own build installs.
  *

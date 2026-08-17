@@ -1,14 +1,16 @@
 import { promises as fs } from "fs";
 import * as path from "path";
-import {translateNextChunk} from "./modules/OpenAiTranslator.js";
-import {corpusDir, variantName} from "./modules/Variants.js";
+import {ROOT} from "../modules/Env.js";
+import {translateNextChunk} from "../modules/OpenAiTranslator.js";
+import {corpusDir, variantName} from "../modules/Variants.js";
 
 // Freshly translated chunks belong to the variant being worked on, the same
 // one --variant selects for a build.
 const OUTPUT_DIR = path.join(corpusDir(variantName()), "gpt_outputs_v104");
 
-// language=file-reference
-const inputJson = await fs.readFile("./unmapped.ain.json", "utf8");
+// Left behind by scripts/regenerate_aai_txt.js: the v1.04 lines no corpus
+// covers. Run that first, or this translates whatever it wrote last time.
+const inputJson = await fs.readFile(path.join(ROOT, "unmapped.ain.json"), "utf8");
 const inputMessages = JSON.parse(inputJson);
 
 let chunkStart = 0;

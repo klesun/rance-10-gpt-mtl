@@ -79,5 +79,10 @@ export const corpusDir = (name) => {
  * One patch file per variant rather than one regenerated.ain.txt: switching
  * variants should not leave you looking at the other one's text, and a failed
  * generation should not pass off a stale file as the build you asked for.
+ *
+ * Absolute, like every other path a module hands out, so that which directory
+ * the build was started from is not one of the things that can go wrong. The
+ * one caller that needs it relative -- alice-tools, which is handed the game's
+ * own .ain the same way -- says so with path.relative.
  */
-export const regeneratedTxt = (name) => `regenerated.${name}.ain.txt`;
+export const regeneratedTxt = (name) => path.join(ROOT, `regenerated.${name}.ain.txt`);

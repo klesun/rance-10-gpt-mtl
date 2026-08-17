@@ -21,17 +21,22 @@
  * is for.
  */
 import * as fs from "fs";
+import * as path from "path";
 import {alice, gameDir, run} from "../modules/AliceTools.js";
+import {ROOT} from "../modules/Env.js";
 
 const TEMPLATE = "Rance10Pact_manifest.txt";
 const RENDERED = "Rance10Pact_manifest.local.txt";
 const STAGING = "pactex";
 
 run(() => {
-    const template = fs.readFileSync(TEMPLATE, "utf-8");
+    const template = fs.readFileSync(path.join(ROOT, TEMPLATE), "utf-8");
     // The manifest quotes its path C-style, so every backslash in it is doubled.
     const rendered = template.replaceAll("{game}", gameDir().replaceAll("\\", "\\\\"));
-    fs.writeFileSync(RENDERED, rendered, "utf-8");
-    fs.mkdirSync(STAGING, {recursive: true});
+    fs.writeFileSync(path.join(ROOT, RENDERED), rendered, "utf-8");
+    fs.mkdirSync(path.join(ROOT, STAGING), {recursive: true});
+    // The manifest names its sources relative to itself, so alice-tools is
+    // given the name rather than the path, and reads it from ROOT like the
+    // rest -- see modules/AliceTools.js.
     return alice(["ar", "pack", RENDERED], process.env.ALICE_EXE_PACK || undefined);
 });

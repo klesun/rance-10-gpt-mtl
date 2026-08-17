@@ -1,5 +1,5 @@
 /**
- * Turn the m[] lines of the ain.txt dump into the JSON regenerate_aai_txt.js
+ * Turn the m[] lines of the ain.txt dump into the JSON scripts/regenerate_aai_txt.js
  * reads.
  *
  *   node scripts/parse_ain_txt.js

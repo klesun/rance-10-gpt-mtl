@@ -65,7 +65,8 @@ patch can be moved into the other one. That is what happened to `grok`: what
 the folder holds is the `gpt` corpus with the grok text written over it, line
 number for line number, so the Grok translation can be corrected the way this
 repository has always corrected `gpt` -- a chunk file at a time, with the
-Japanese next to the English and `find_mistranslations.js` able to read it. Its
+Japanese next to the English and `scripts/find_mistranslations.js` able to read
+it. Its
 README says what the move cost, which is nine lines out of 269617 rendering
 differently from the patch it was made from.
 
@@ -87,7 +88,7 @@ what the translations disagree about:
 
 So there is one pipeline, not one per variant. Adding a third translation is
 adding a folder: either a `dialogue.ain.txt`, or the two corpora in the format
-`a02_translate_via_gpt.js` writes, an object with
+`scripts/translate_chunks.js` writes, an object with
 `output_parsed.translationLines` holding
 `{lineNumber, originalJapaneseLine, translatedEnglishLine}`.
 
@@ -96,7 +97,8 @@ adding a folder: either a `dialogue.ain.txt`, or the two corpora in the format
 `mistranslated_names.json` at the root is not translation text. It is a repair
 pass: where the Japanese names a character and the English does not spell them
 the canonical way, the known misspelling is replaced. The same file names the
-characters on the card plates through `generate_card_names.js`, so it has to be
+characters on the card plates through `scripts/generate_card_names.js`, so it
+has to be
 shared — a variant that renamed people in its dialogue alone would contradict
 the cards its own build installs. Two translations of the same script get a name
 wrong in different ways, and the table has to know both spellings; what the two
