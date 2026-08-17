@@ -30,6 +30,15 @@ whole lines -- and `git log -- variants/gpt` is where that work is. Editing a
 chunk file in place is the normal way to fix a line; nothing regenerates these
 folders.
 
+One stretch of that work wrote itself down: a line-by-line sweep of
+`gpt_outputs_v104/` over twelve sessions in July 2026, logged file by file in
+[coherence-sweep-log.md](coherence-sweep-log.md). The method it settled on, and
+the error types it kept finding, are in
+[docs/coherence-sweep.md](../../docs/coherence-sweep.md). Neither is a live
+process -- both are a record of one pass, and the pass did not finish: the log
+runs to `004730_004790.json`, 42 of the 85 files in that folder, and the log of
+the sweep over `gpt_outputs/` was never committed at all.
+
 Character names get repaired once more at build time from the shared
 `mistranslated_names.json` at the repository root, so a misspelling that
 appears throughout is better fixed there than chunk by chunk.

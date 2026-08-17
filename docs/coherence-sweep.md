@@ -2,6 +2,26 @@
 
 **Last Updated:** 2026-07-30 (Session 12 continuation - self-audit coverage-gap correction)
 
+> **What this is, and what has moved since.** Twelve sessions of reading the
+> translated dialogue line by line by hand, written down as they went and kept
+> as they were written -- the value here is the taxonomy of errors it arrived at
+> and the ways it caught itself claiming work it had not done, both of which
+> outlast the run that produced them. Four things it names are no longer where
+> it says:
+>
+> - `gpt_outputs/` is `variants/gpt/gpt_outputs/` now, and its sibling
+>   `gpt_outputs_v104/` alongside it. See [translation-variants.md](translation-variants.md).
+> - `Files_Check.md`, the running log this file tells the next session to resume
+>   from, was never committed. The one log that survives covers the v104 half of
+>   the corpus and is `variants/gpt/coherence-sweep-log.md`.
+> - `Title_Consistency_Fixes.md` was never committed either. Names are settled in
+>   `mistranslated_names.json` and `card_name_glossary.tsv`, and the build reports
+>   what disagrees with them.
+> - The "Task type 1 in CLAUDE.md" it cites is from a CLAUDE.md since rewritten.
+>
+> The counts near the end ("~166 files in gpt_outputs/") were wrong even then:
+> the folder holds 4805.
+
 ## SESSION 12 CONTINUATION: self-audit coverage gap (read this first)
 
 **Problem found:** the SESSION 12 self-audit checkpoint requirement was being followed literally but
@@ -24,7 +44,7 @@ only ever tests the part of the file least likely to have drifted out of fresh a
 
 **Reporting requirement (user-requested, binding):** Before checking each `gpt_outputs/*.json`
 file, actually call Read on this file (not from memory/recall) and say so visibly in the
-response — e.g. "Reread COHERENCE_SWEEP_METHODOLOGY.md, now checking `NNNNNN_NNNNNN.json`." This
+response — e.g. "Reread docs/coherence-sweep.md, now checking `NNNNNN_NNNNNN.json`." This
 is so the user can see the reread is genuinely happening each time, not just claimed.
 
 **Token-usage optimizations (user-approved, process-only — do not affect QA depth):**
@@ -95,7 +115,7 @@ ritual had become a formality that produced no fresh engagement with the checkli
   `Self-audit @ file 55: re-verified X.json — found 1 miss, fixed; Y.json held up`. This creates
   a durable, inspectable trail the user can check at their own convenience instead of needing to
   supervise the run in real time.
-- **Rereading `COHERENCE_SWEEP_METHODOLOGY.md` is necessary but not sufficient.** Keep doing it
+- **Rereading `docs/coherence-sweep.md` is necessary but not sufficient.** Keep doing it
   and stating so per the binding reporting requirement below, but do not treat it as the
   mechanism that renews vigilance — the per-file evidence citation and the self-audit above are
   what actually do that.
