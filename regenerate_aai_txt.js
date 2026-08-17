@@ -123,9 +123,10 @@ const japaneseByLineNumber = new Map(v104AinData.map(rec => [+rec.lineNumber, re
 
 /**
  * alice-tools escapes an ain.txt the way JSON does, except that it also lets a
- * lone backslash through -- there is one "「--No,\」" in the grok patch. An
- * escape nothing recognises gives up the backslash and keeps the character
- * rather than failing a whole build over one line.
+ * lone backslash through -- there was one "「--No,\」" in the patch the grok
+ * variant was imported from. An escape nothing recognises gives up the
+ * backslash and keeps the character rather than failing a whole build over one
+ * line.
  */
 const unescapePatch = (body) => body.replaceAll(/\\(.)/g, (_, char) =>
     char === "n" ? "\n" : char === "t" ? "\t" : char === "r" ? "\r" : char);
@@ -152,10 +153,11 @@ const readPatch = async (filePath) => {
         }
         const lineNumber = Number(match[1]);
         // The dumps here hold the dialogue rather than every message the game
-        // has -- there is a line in the grok patch they do not describe, and
-        // the game does have that slot. So the line goes through with nothing
-        // to say what it translates, which only costs it the name repairs, and
-        // alice-tools stays the one that decides a slot does not exist.
+        // has -- there was a line in the imported grok patch they do not
+        // describe, and the game does have that slot. So the line goes through
+        // with nothing to say what it translates, which only costs it the name
+        // repairs, and alice-tools stays the one that decides a slot does not
+        // exist.
         const originalJapaneseLine = japaneseByLineNumber.get(lineNumber);
         if (originalJapaneseLine === undefined) {
             ++undescribed;
@@ -171,9 +173,10 @@ const readPatch = async (filePath) => {
 
 /**
  * A patch names the lines it has an opinion about and no others, and a line it
- * skips would play in Japanese -- the grok patch misses a scene of 300 lines
- * that way. So the default variant is rendered underneath it and shows through
- * the gaps; its own README says which lines those are.
+ * skips would play in Japanese -- the patch the grok variant was imported from
+ * missed a scene of 300 lines that way. So the default variant is rendered
+ * underneath it and shows through the gaps; the variant's own README says which
+ * lines those are.
  */
 const readVariant = async (name) => {
     if (!hasPatch(name)) {

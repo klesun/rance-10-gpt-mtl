@@ -116,7 +116,7 @@ for the one command is enough — `GAME_DIR=/tmp/whatever node scripts/ain.js` i
 bash, `$env:GAME_DIR = "C:\tmp\whatever"; node scripts/ain.js` in PowerShell,
 which has no inline prefix form. Worth the extra step: the game directory holds
 one `Rance10.ain`, and installing the default variant over somebody's
-`grok-edit` silently switches the whole script. `docs/translation-variants.md`
+`grok` silently switches the whole script. `docs/translation-variants.md`
 says what a variant is and how the `--variant` flag gets eaten by PowerShell.
 
 ## Panel and layout widths are in the `.pactex`

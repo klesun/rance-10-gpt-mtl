@@ -1,13 +1,12 @@
 # Keeping more than one translation of the dialogue
 
-The repository carries two English translations of the game's dialogue, in
-three folders, and builds whichever one you ask for:
+The repository carries two English translations of the game's dialogue, a
+folder each, and builds whichever one you ask for:
 
 | Variant | What it is |
 |---|---|
 | `gpt` | the default, the translation this repository has always shipped |
 | `grok` | a second translation of the whole script, made in [the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork) by putting the Japanese through Grok |
-| `grok-edit` | the same Grok text as a corpus rather than one file, which is the copy of it being edited |
 
 Each folder under `variants/` carries a README saying where its text came from
 and what has been done to it since.
@@ -44,9 +43,13 @@ Or a finished patch, which is what a translation done by hand in a chat window
 leaves behind -- there was never a corpus, only the file being pasted into:
 
 ```
-variants/grok/dialogue.ain.txt      m[<line>] = "<text>", the v1.04 numbering already
-variants/grok/mistranslated_names.json   optional, the same as above
+variants/<name>/dialogue.ain.txt      m[<line>] = "<text>", the v1.04 numbering already
+variants/<name>/mistranslated_names.json   optional, the same as above
 ```
+
+Nothing here is in that shape at the moment -- `grok` arrived that way and was
+moved into a corpus -- but the build still reads it, and it is the cheaper way
+to bring a translation in.
 
 `dialogue.ain.txt` decides which it is: if the file is there the two folders are
 not read, and neither is the v1.00 to v1.04 mapping, because a patch is written
@@ -58,14 +61,13 @@ dropped and re-wrapped here, since they were measured against whatever window
 the other build had in mind.
 
 The shape is not a property of the translation, only of how it arrived, and a
-patch can be moved into the other one. That is what `grok-edit` is: the `gpt`
-corpus with the grok text written over it, line number for line number, so the
-Grok translation can be corrected the way this repository has always corrected
-`gpt` -- a chunk file at a time, with the Japanese next to the English and
-`find_mistranslations.js` able to read it. Its own README says what the move
-cost, which is nine lines out of 269617 rendering differently. The import it
-was made from stays as it arrived; the two folders are the same text twice on
-purpose.
+patch can be moved into the other one. That is what happened to `grok`: what
+the folder holds is the `gpt` corpus with the grok text written over it, line
+number for line number, so the Grok translation can be corrected the way this
+repository has always corrected `gpt` -- a chunk file at a time, with the
+Japanese next to the English and `find_mistranslations.js` able to read it. Its
+README says what the move cost, which is nine lines out of 269617 rendering
+differently from the patch it was made from.
 
 Everything else is shared and stays at the repository root, because it is not
 what the translations disagree about:
@@ -104,9 +106,8 @@ If a variant does need its own answer, put a `mistranslated_names.json` next to
 its text with just the entries it disagrees about. It is layered over the
 shared table by Japanese name: the canonical spelling is taken from the
 variant, and the known misspellings of both are merged, so a variant never has
-to restate the whole list. `grok` uses it for the two names its own chunking cut
-in half, which are its misspellings and nobody else's, and `grok-edit` carries
-the same file because it is the same text.
+to restate the whole list. `grok` uses it for the two names the chunking of its
+own translation run cut in half, which are its misspellings and nobody else's.
 
 ## Build products
 
