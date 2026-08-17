@@ -5,7 +5,7 @@
 # Columns: string slot <TAB> the Japanese, JSON-quoted <TAB> how many enemies use it.
 # ◆敵情報１, ◆敵情報２, ◆敵情報３, ◆敵情報４ = globals 356, 357, 358, 359.
 # 6 more slots are assigned here and used elsewhere too, so translating
-# them would change something other than this panel. They are left out: s[0] = undefined, s[12400] = "デセラレーター", s[12708] = "制限装甲", s[12668] = "炎無効", s[12670] = "氷無効", s[2686] = "　".
+# them would change something other than this panel. They are left out: s[0] = "", s[12400] = "デセラレーター", s[12708] = "制限装甲", s[12668] = "炎無効", s[12670] = "氷無効", s[2686] = "　".
 13018	"混乱状態"	1
 13019	"4ラウンド以降→逃亡有り"	1
 13032	"1ラウンド　力溜め"	1
