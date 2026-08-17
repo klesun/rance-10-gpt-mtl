@@ -40,5 +40,5 @@ runs to `004730_004790.json`, 42 of the 85 files in that folder, and the log of
 the sweep over `gpt_outputs/` was never committed at all.
 
 Character names get repaired once more at build time from the shared
-`mistranslated_names.json` at the repository root, so a misspelling that
-appears throughout is better fixed there than chunk by chunk.
+`glossaries/mistranslated_names.json`, so a misspelling that appears throughout
+is better fixed there than chunk by chunk.

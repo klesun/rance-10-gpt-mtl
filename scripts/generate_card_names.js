@@ -1,7 +1,7 @@
 /**
  * Fill 識別名情報 with the English names the display accessors read.
  *
- * card_names.jaf points Character@Name::get at 識別名情報.<識別名>.英名 and
+ * patches/card_names.jaf points Character@Name::get at 識別名情報.<識別名>.英名 and
  * PlayerCard@ViewName::get at 識別名情報.カード英名.<Id>.英名. This builds both.
  *
  *   英名 inside each existing node   the character's *full* name, for the
@@ -33,8 +33,8 @@ import {width} from "../modules/EastAsianWidth.js";
 import {ROOT} from "../modules/Env.js";
 
 const EX_DIR = path.join(ROOT, "Rance10EX_v1_04");
-const GLOSSARY_PATH = path.join(ROOT, "card_name_glossary.tsv");
-const DIALOGUE_NAMES_PATH = path.join(ROOT, "mistranslated_names.json");
+const GLOSSARY_PATH = path.join(ROOT, "glossaries", "card_name_glossary.tsv");
+const DIALOGUE_NAMES_PATH = path.join(ROOT, "glossaries", "mistranslated_names.json");
 
 /**
  * The plate clips text centred and does not scale it, so an overlong label
@@ -45,7 +45,7 @@ const DIALOGUE_NAMES_PATH = path.join(ROOT, "mistranslated_names.json");
 const MAX_WIDTH = 22;
 
 /**
- * mistranslated_names.json is how the dialogue spells a character, and a plate
+ * glossaries/mistranslated_names.json is how the dialogue spells a character, and a plate
  * should read the way the text does -- but only when the disagreement is about
  * *spelling*. That map is written for prose, where a character is introduced by
  * their full name, so a good half of it carries a surname or an honorific the

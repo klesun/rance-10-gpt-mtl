@@ -3,8 +3,8 @@
  *
  * game/ain/ holds what nobody edits by hand: Rance10.v1.04.ain exactly as it
  * ships, and what alice-tools makes of it. Everything written rather than
- * generated -- system_cherry_picks.v1.04.ain.txt, the glossaries, the variants
- * -- stays in the repository root, however similar the name looks.
+ * generated -- the cherry-picked system strings, the glossaries, the variants --
+ * is under patches/, glossaries/ and variants/, however similar the name looks.
  *
  * Not to be confused with GAME_DIR, which modules/AliceTools.js expands {game}
  * to: that is the installed game a build writes into, this is the copy under

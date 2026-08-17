@@ -6,7 +6,7 @@
  *
  * Everything in Rance10EX_v1_04 is translated in the file itself and needs no
  * step before the build. The synopsis table is the exception: its English lives
- * in summary_glossary.tsv, keyed by the Japanese, so it has to be written in on
+ * in glossaries/summary_glossary.tsv, keyed by the Japanese, so it has to be written in on
  * the way past.
  *
  * On the way past and not into the file, because the key is the Japanese. A

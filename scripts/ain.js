@@ -34,7 +34,7 @@ const node = (args) => {
 /**
  * The race names are a patch to a function rather than to a string, so they
  * arrive as a second .jaf, and that one is generated -- from
- * race_name_glossary.tsv, by modules/RaceNames.js. Written here rather than by
+ * glossaries/race_name_glossary.tsv, by modules/RaceNames.js. Written here rather than by
  * the dialogue generator because it is not dialogue and does not vary by
  * variant; alice-tools takes as many --jaf as it is given.
  */
@@ -63,7 +63,7 @@ run(async () => {
     return alice([
         "ain", "edit",
         "-t", path.relative(ROOT, regeneratedTxt(variant)),
-        "--jaf", "card_names.jaf",
+        "--jaf", "patches/card_names.jaf",
         "--jaf", path.relative(ROOT, RACE_JAF),
         "-o", "{game}/Rance10.ain",
         path.relative(ROOT, AIN),

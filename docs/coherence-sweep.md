@@ -15,7 +15,7 @@
 >   from, was never committed. The one log that survives covers the v104 half of
 >   the corpus and is `variants/gpt/coherence-sweep-log.md`.
 > - `Title_Consistency_Fixes.md` was never committed either. Names are settled in
->   `mistranslated_names.json` and `card_name_glossary.tsv`, and the build reports
+>   `glossaries/mistranslated_names.json` and `glossaries/card_name_glossary.tsv`, and the build reports
 >   what disagrees with them.
 > - The "Task type 1 in CLAUDE.md" it cites is from a CLAUDE.md since rewritten.
 >

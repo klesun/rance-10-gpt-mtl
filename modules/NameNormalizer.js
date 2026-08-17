@@ -1,7 +1,7 @@
 /**
  * Repairing how the translation spells character names.
  *
- * mistranslated_names.json is not translation text but a repair pass run at
+ * glossaries/mistranslated_names.json is not translation text but a repair pass run at
  * build time: where the Japanese line names a character and the English does
  * not spell them the canonical way, a known misspelling is swapped out. The
  * table is shared by every variant on purpose -- scripts/generate_card_names.js reads
@@ -56,7 +56,7 @@ const layer = (shared, overrides) => {
     return [...layered, ...overrides.filter(record => !alreadyNamed.has(record.shortNameJpn))];
 };
 
-export const readSharedNameTable = async () => readTable(path.join(ROOT, "mistranslated_names.json"));
+export const readSharedNameTable = async () => readTable(path.join(ROOT, "glossaries", "mistranslated_names.json"));
 
 export const readNameTable = async (variantDir) => {
     const table = layer(
@@ -100,8 +100,8 @@ export const createNameFinder = async () => {
 
 /**
  * The same table read as a check rather than a repair, for the hand-written
- * glossaries -- enemy_info_glossary.tsv, race_name_glossary.tsv,
- * summary_glossary.tsv -- which the repair pass above cannot help with.
+ * glossaries -- glossaries/enemy_info_glossary.tsv, glossaries/race_name_glossary.tsv,
+ * glossaries/summary_glossary.tsv -- which the repair pass above cannot help with.
  *
  * It cannot because it swaps a *known* misspelling for the right one, and what
  * a person writing a glossary produces is a plausible new one: ハニー came out

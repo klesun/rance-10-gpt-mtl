@@ -8,8 +8,24 @@ here and hands it to [alice-tools](https://github.com/nunuhara/alice-tools).
 `game/ain/` holds the game's own `Rance10.v1.04.ain` and the dumps taken from
 it. Nothing in there is edited by hand and no build writes to it; reach those
 files through `modules/AinFiles.js` rather than by spelling the path, so the
-next game version is one edit. Everything hand-written — the cherry-picks, the
-glossaries, the variants — stays at the root, however similar the name looks.
+next game version is one edit.
+
+What is written rather than dumped is sorted by what it is, and every one of
+these is edited by hand:
+
+| Folder | Holds |
+|---|---|
+| `glossaries/` | the English, keyed by the Japanese — the tables below, and the two the enemy panel and the synopsis screen read |
+| `patches/` | what alice-tools is handed directly: the cherry-picked system strings, and `card_names.jaf` |
+| `variants/` | one folder per translation of the dialogue |
+| `scripts/`, `modules/` | every entry point, and the code behind them |
+
+A path is a constant in a module — `SUMMARY_GLOSSARY`, `RACE_GLOSSARY`, `AIN` —
+so moving a file again is one edit rather than a grep. Nothing reads a path
+relative to the working directory: scripts run from anywhere, and the two
+version-stamped tables the build extracts from the `.ain`
+(`enemy_info_lines.v1.04.tsv`, `race_names.v1.04.tsv`) are still at the root
+because they are neither hand-written nor the game's own.
 
 ```
 npm run regenerate-ain          # the main build: dialogue + system text + the .jaf patches
@@ -27,13 +43,13 @@ faction — look it up:
 
 | File | Holds |
 |---|---|
-| `mistranslated_names.json` | the canonical spelling, plus the wrong ones seen before |
-| `card_name_glossary.tsv` | the same for everything that appears in a card Id |
-| `CLAUDE_CHARACTERS_GENDERS.md` | who is which gender, for pronouns |
+| `glossaries/mistranslated_names.json` | the canonical spelling, plus the wrong ones seen before |
+| `glossaries/card_name_glossary.tsv` | the same for everything that appears in a card Id |
+| `glossaries/character_genders.md` | who is which gender, for pronouns |
 
 `ハニー` is a **Hanny**, not a Honey, and `ハニ子` is **Haniko**. Both went in as
 "Honey" anyway — as a race, as an enemy status line, and twice in
-`system_cherry_picks.v1.04.ain.txt` — while all three tables above had said
+`patches/system_cherry_picks.v1.04.ain.txt` — while all three tables above had said
 otherwise the whole time. The repair pass in `modules/NameNormalizer.js` did not
 catch it, because that pass swaps a *known* misspelling for the right one and a
 fresh plausible spelling is not on the list.
@@ -41,7 +57,7 @@ fresh plausible spelling is not on the list.
 So `createNameChecker` in the same module reads the table the other way round —
 it reports where the Japanese names somebody and the English does not spell them
 the canonical way — and both hand-written glossaries go through it as the build
-renders them. It does **not** run over `system_cherry_picks.v1.04.ain.txt`,
+renders them. It does **not** run over `patches/system_cherry_picks.v1.04.ain.txt`,
 which has around 205 lines it would complain about (`魔軍` as "demon army" where
 the table says Monster Army, `魔人` as "Demon" where it says Fiend). Those are a
 separate job.
@@ -51,7 +67,7 @@ separate job.
 `s[4018]` is the race `モンスター`, and it is also what
 `Party::OrganizationIdFromString` runs `String.Contains` against. Translating it
 turns every monster card into a black rectangle — the note recording that has
-been in `system_cherry_picks.v1.04.ain.txt` for years.
+been in `patches/system_cherry_picks.v1.04.ain.txt` for years.
 
 Before translating an `s[N]`, find out what else pushes it:
 
@@ -64,7 +80,7 @@ then look for every `S_PUSH 0x<slot>` and read what surrounds it.
 copy its shape rather than inventing one.
 
 **If the string is shared but the thing displaying it is display-only, patch the
-function instead of the string.** That is what `card_names.jaf` does for card
+function instead of the string.** That is what `patches/card_names.jaf` does for card
 names and what the generated `race_names.jaf` does for races: the strings keep
 their Japanese, so nothing that compares text notices, and `super()` gives a
 fallback that can only ever produce the original Japanese. See

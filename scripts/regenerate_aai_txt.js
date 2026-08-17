@@ -16,7 +16,7 @@ import {createNameNormalizer} from "../modules/NameNormalizer.js";
 import {DEFAULT_VARIANT, hasPatch, regeneratedTxt, variantDir, variantName, variantPatch} from "../modules/Variants.js";
 
 /** The system strings translated by hand, appended to the rendered dialogue. */
-const CHERRY_PICKS = path.join(ROOT, "system_cherry_picks.v1.04.ain.txt");
+const CHERRY_PICKS = path.join(ROOT, "patches", "system_cherry_picks.v1.04.ain.txt");
 
 /**
  * The v1.04 lines no corpus covers, for scripts/translate_chunks.js to feed on.
@@ -47,7 +47,7 @@ const cherryPicksTxt = await fs.readFile(CHERRY_PICKS, "utf-8");
 
 // Generated rather than cherry-picked: which string slots these are was found
 // in the code by scripts/extract_enemy_info.js, and the English is keyed by the
-// Japanese in enemy_info_glossary.tsv. See modules/EnemyInfo.js.
+// Japanese in glossaries/enemy_info_glossary.tsv. See modules/EnemyInfo.js.
 const enemyInfo = await renderEnemyInfo();
 
 const mapLineNumbers = (v100AinData, v104AinData) => {

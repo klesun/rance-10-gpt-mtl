@@ -97,5 +97,5 @@ charEntries.forEach(entry => entry[1] = getSortedMistranslations(entry[1]))
 // Every spelling this found, per character, commonest first -- the console
 // output above is the same thing filtered down to what is worth reading. Not
 // read by anything; it is here to be looked at when deciding what belongs in
-// mistranslated_names.json.
+// glossaries/mistranslated_names.json.
 await fs.writeFile(path.join(ROOT, "mistranslation_candidates.json"), JSON.stringify(charEntries), "utf-8");

@@ -70,12 +70,12 @@ it. Its
 README says what the move cost, which is nine lines out of 269617 rendering
 differently from the patch it was made from.
 
-Everything else is shared and stays at the repository root, because it is not
-what the translations disagree about:
+Everything else is shared and lives outside `variants/`, because it is not what
+the translations disagree about:
 
 - `game/ain/Rance10.v1.00.ain.json` and `game/ain/Rance10.v1.04.ain.json` map a
   line number in the older dump onto the same line in the current game;
-- `system_cherry_picks.v1.04.ain.txt` is menu and UI text (`s[...]` entries),
+- `patches/system_cherry_picks.v1.04.ain.txt` is menu and UI text (`s[...]` entries),
   hand-fixed and appended last so it wins over everything;
 - `modules/TextNormalization.js` decides where lines wrap, and it is not a
   matter of taste: the wrap budget carries a safety margin because text that
@@ -83,7 +83,7 @@ what the translations disagree about:
   opens with a full-width space keeps it through the wrap, since that is an
   indent sitting the continuation of a quote under the 「 that opened it and not
   a gap between words;
-- `card_names.jaf`, `Rance10EX_v1_04`, `Rance10Pact_v1_04` and the image folders
+- `patches/card_names.jaf`, `Rance10EX_v1_04`, `Rance10Pact_v1_04` and the image folders
   are not dialogue at all.
 
 So there is one pipeline, not one per variant. Adding a third translation is
@@ -94,12 +94,11 @@ adding a folder: either a `dialogue.ain.txt`, or the two corpora in the format
 
 ## Names are shared, unless a variant insists
 
-`mistranslated_names.json` at the root is not translation text. It is a repair
+`glossaries/mistranslated_names.json` is not translation text. It is a repair
 pass: where the Japanese names a character and the English does not spell them
 the canonical way, the known misspelling is replaced. The same file names the
 characters on the card plates through `scripts/generate_card_names.js`, so it
-has to be
-shared — a variant that renamed people in its dialogue alone would contradict
+has to be shared — a variant that renamed people in its dialogue alone would contradict
 the cards its own build installs. Two translations of the same script get a name
 wrong in different ways, and the table has to know both spellings; what the two
 are allowed to differ in is the wording.

@@ -11,7 +11,7 @@ npm run regenerate-ain          # the build; generates race_names.jaf and applie
 | File | What it is |
 |---|---|
 | `race_names.v1.04.tsv` | which number is which race — generated |
-| `race_name_glossary.tsv` | the English, keyed by the Japanese — hand-written |
+| `glossaries/race_name_glossary.tsv` | the English, keyed by the Japanese — hand-written |
 | `race_names.jaf` | the override the build compiles — generated, gitignored |
 
 ## Why not translate the nineteen strings
@@ -29,7 +29,7 @@ shared by every site pushing that text, so translating one changes all of them:
 | `魔法生物` | an enemy's own `▲名前` | display |
 | `−−−−` | `表示地域`'s blank as well as this one's | display |
 
-`system_cherry_picks.v1.04.ain.txt` has carried a `DO NOT CHANGE` on
+`patches/system_cherry_picks.v1.04.ain.txt` has carried a `DO NOT CHANGE` on
 `モンスター` for years, with the symptom written next to it: every monster card
 turns into a black rectangle. That is the first row of the table, found the hard
 way.
@@ -59,10 +59,10 @@ override string 表示種族(int aa)
 ```
 
 `super()` is the original function, so a race missing from the glossary comes
-back in Japanese — the same fallback `card_names.jaf` gets from `EX_String`'s
+back in Japanese — the same fallback `patches/card_names.jaf` gets from `EX_String`'s
 default, and for the same reason: the worst case should be a Japanese word, not
 a crash. alice-tools takes as many `--jaf` as it is given, so this is a second
-one alongside `card_names.jaf` rather than an addition to it.
+one alongside `patches/card_names.jaf` rather than an addition to it.
 
 The compiler has no `switch`, so the override is the chain of compares the
 game's own function is written as.
@@ -75,7 +75,7 @@ approach `scripts/extract_enemy_info.js` takes, and for the same reason. There
 are nineteen, running 1 to 21 with 7 and 8 unused; anything else falls through
 to `−−−−`.
 
-The English is `race_name_glossary.tsv`, keyed by the Japanese, so re-running
+The English is `glossaries/race_name_glossary.tsv`, keyed by the Japanese, so re-running
 the extraction against another version renumbers the generated file and leaves
 the glossary alone. Note that the Japanese keys carry the padding spaces the
 game pads them to — `"ハニー　"`, `"植物　　"` — because that is what the
@@ -83,9 +83,9 @@ function actually returns.
 
 The ranks follow the dialogue rather than being invented here: 魔人 is a Fiend,
 魔王 a Demon King, 使徒 an Apostle, 亜人 a Demi-human. 魔物兵 is the Monster
-Soldier that `enemy_info_glossary.tsv` already calls it. And `ハニー` is a
+Soldier that `glossaries/enemy_info_glossary.tsv` already calls it. And `ハニー` is a
 **Hanny** — it went in as "Honey" first, which is what
-`mistranslated_names.json` is for and why the build now checks these glossaries
+`glossaries/mistranslated_names.json` is for and why the build now checks these glossaries
 against it.
 
 ## Width
@@ -107,7 +107,7 @@ it:
 The scale beside BOSS is written by `EnemyInformationView@SetParam` itself, out
 of two literals of its own, `小規模部隊` and `大規模部隊`, which nothing else
 pushes; they are ordinary cherry-picks in
-`system_cherry_picks.v1.04.ain.txt`. Overriding `表示規模` would compile, apply,
+`patches/system_cherry_picks.v1.04.ain.txt`. Overriding `表示規模` would compile, apply,
 and change nothing on screen.
 
 `表示地域` has exactly one caller, `Ｔ武将計算`, which puts its result into

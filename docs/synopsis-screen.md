@@ -42,7 +42,7 @@ which is why the width is checked rather than fixed up.
 
 ## The English lives in a glossary, not in the table
 
-`summary_glossary.tsv`, keyed by the Japanese, two columns. The table's 6414
+`glossaries/summary_glossary.tsv`, keyed by the Japanese, two columns. The table's 6414
 filled fields are 4465 distinct phrases -- `戦闘開始` alone opens 85 events --
 so keying by phrase translates each one once by construction rather than by
 remembering to.
@@ -77,7 +77,7 @@ again.
 
 `summary_merge.js` reports two things worth acting on: rows too wide for the
 panel, and rows where the English does not spell a name the way
-`mistranslated_names.json` does. The second report is noisy by design -- around
+`glossaries/mistranslated_names.json` does. The second report is noisy by design -- around
 308 of the 4458 rows trip it, nearly all because a caption twenty characters
 wide cannot hold `Agireda Kosabusshi Zonna Abona` and says `Agireda`. What it is
 for is the other kind of hit: a *different* spelling of the same name. Where the
@@ -102,10 +102,10 @@ are written down here, where the next row can be checked against them rather
 than deciding them a second time.
 
 Names of people are **not** in this list. They come from
-`mistranslated_names.json` and `card_name_glossary.tsv`, and `summary_merge.js`
+`glossaries/mistranslated_names.json` and `glossaries/card_name_glossary.tsv`, and `summary_merge.js`
 reports a row that spells one some other way.
 
-Every term below is what `summary_glossary.tsv` holds today. Where the
+Every term below is what `glossaries/summary_glossary.tsv` holds today. Where the
 canonical form did not fit twenty characters the row carries a short one --
 `聖櫃` is "the Ark" in four rows out of five, `闘神大会` "Fighting God tourney"
 -- so a term reading back shortened is the panel's width, not a disagreement.
@@ -168,7 +168,7 @@ the Sunset, あてな２号 Athena 2.0, ＩＰボディ IP body, ノートンガ
 ultimate fortune box, ガールズショー the Girls Show, 幸福タイム Happy Time,
 宝箱だんご chest dango, ゴールデンハニー Golden Hanny, リターンデーモン Return
 Demon, ホフホフ Hofhoph, 幸福きゃんきゃん Lucky Can Can -- that last one from
-`card_name_glossary.tsv`, because the dialogue has it as both Happy Kyankyan and
+`glossaries/card_name_glossary.tsv`, because the dialogue has it as both Happy Kyankyan and
 Happiness Kyankyan and the card is the spelling the game itself displays.
 
 The glossary ends in an unbroken run of 144 `◯◯裸イベント` rows, one per

@@ -1,6 +1,6 @@
 /**
  * Read a chat's answer to scripts/summary_chunk.js back into
- * summary_glossary.tsv.
+ * glossaries/summary_glossary.tsv.
  *
  *   node scripts/summary_merge.js                    # local/summary_reply.txt
  *   node scripts/summary_merge.js somewhere/else.txt

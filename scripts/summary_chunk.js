@@ -17,7 +17,7 @@
  * through PowerShell's Set-Clipboard, which is handed text rather than bytes and
  * so cannot get the encoding wrong.
  *
- * The numbers are positions in summary_glossary.tsv, and they are what makes
+ * The numbers are positions in glossaries/summary_glossary.tsv, and they are what makes
  * the round trip safe. Answering with the English alone would be a few hundred
  * tokens cheaper per batch and would silently shift every later line the moment
  * the model dropped one; with the numbers, a dropped or refused line is a gap

@@ -119,7 +119,7 @@ that name is chosen by the player at runtime.
 ## The patch shape
 
 Wrap each accessor in an `override` that reads the tree and falls back to what
-the original returned. That is the whole of [`card_names.jaf`](../card_names.jaf):
+the original returned. That is the whole of [`patches/card_names.jaf`](../card_names.jaf):
 
 ```
 override string PlayerCard@ViewName::get(void)
@@ -241,8 +241,8 @@ placeholder values (`ｘｘｘ`) and joke ones (digit strings).
 
 Both sources track the translation for free. The short names cannot: they are
 keyed off the Japanese `識別名`, which is why
-[`card_name_glossary.tsv`](../card_name_glossary.tsv) exists. To keep a plate
-spelling a name the way the script does, `mistranslated_names.json` — the map
+[`glossaries/card_name_glossary.tsv`](../card_name_glossary.tsv) exists. To keep a plate
+spelling a name the way the script does, `glossaries/mistranslated_names.json` — the map
 `scripts/regenerate_aai_txt.js` already uses to normalise dialogue — overrides the
 glossary's english column wherever the two disagree.
 
@@ -300,8 +300,8 @@ npm run regenerate-ain          # build Rance10.ain, which carries the patch
 ```
 
 The first step is only needed when its inputs change — `8_カードデータ.x`,
-`9_カード情報.x`, `48_立ち絵名札マッピング情報.x`, `card_name_glossary.tsv` or
-`mistranslated_names.json`. Its output is committed like every other translated
+`9_カード情報.x`, `48_立ち絵名札マッピング情報.x`, `glossaries/card_name_glossary.tsv` or
+`glossaries/mistranslated_names.json`. Its output is committed like every other translated
 `.x` file, so a plain build does not need it. Pass `--dry-run` to see the report
 without writing.
 
@@ -313,7 +313,7 @@ last one renders exactly like no entry at all, so nothing else would notice.
 `regenerate-ain` gained one flag and nothing else:
 
 ```
-alice ain edit -t regenerated.ain.txt --jaf card_names.jaf -o <game>/Rance10.ain game/ain/Rance10.v1.04.ain
+alice ain edit -t regenerated.ain.txt --jaf patches/card_names.jaf -o <game>/Rance10.ain game/ain/Rance10.v1.04.ain
 ```
 
 Order inside that command does not matter, because the two edits are

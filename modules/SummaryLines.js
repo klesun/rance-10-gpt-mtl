@@ -20,7 +20,7 @@
  * do (see modules/EnemyInfo.js):
  *
  *   37_あらすじデータ.x    the game's own table, which the English is written into
- *   summary_glossary.tsv   the English, written against the Japanese
+ *   glossaries/summary_glossary.tsv   the English, written against the Japanese
  *
  * Keyed by the Japanese rather than by node and field: 6414 filled fields are
  * 4465 distinct phrases, "戦闘開始" alone appearing 85 times, and a phrase the
@@ -36,7 +36,7 @@ import {getTextWidth} from "./TextNormalization.js";
 export const SUMMARY_DATA = path.join(ROOT, "Rance10EX_v1_04", "37_あらすじデータ.x");
 
 /** The English for it. Hand-written; this is the file to edit. */
-export const SUMMARY_GLOSSARY = path.join(ROOT, "summary_glossary.tsv");
+export const SUMMARY_GLOSSARY = path.join(ROOT, "glossaries", "summary_glossary.tsv");
 
 /**
  * The two scratch files a batch passes through: the prompt scripts/summary_chunk.js

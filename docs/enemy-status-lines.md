@@ -13,7 +13,7 @@ npm run regenerate-ain          # the build; reads the two files below
 | File | What it is |
 |---|---|
 | `enemy_info_lines.v1.04.tsv` | which string slots hold the lines — generated |
-| `enemy_info_glossary.tsv` | the English, keyed by the Japanese — hand-written |
+| `glossaries/enemy_info_glossary.tsv` | the English, keyed by the Japanese — hand-written |
 
 ## Why they need finding rather than translating
 
@@ -69,7 +69,7 @@ are buff names, and buff names are quoted back as text in the condition strings
 the battle AI is written in — `敵支援＜d熱狂＞` — so renaming one is a thing to
 do deliberately, with the conditions, rather than as a side effect of
 translating a hint. (`s[12668]` and `s[12670]` are translated by
-`system_cherry_picks.v1.04.ain.txt` anyway, from before any of this; that is not
+`patches/system_cherry_picks.v1.04.ain.txt` anyway, from before any of this; that is not
 an endorsement, it is where they already were.)
 
 The check is in the scan rather than in a list, so it keeps being made about
@@ -77,7 +77,7 @@ whatever a later version of the game adds.
 
 ## Why the English is keyed by the Japanese
 
-`enemy_info_glossary.tsv` is `japanese <TAB> english`, and the slot numbers
+`glossaries/enemy_info_glossary.tsv` is `japanese <TAB> english`, and the slot numbers
 appear only in the generated file. Two reasons.
 
 The numbers belong to one build of one version; the text does not. Re-running
@@ -114,7 +114,7 @@ Untranslated lines are left out of the patch rather than blanked, so the panel
 shows the Japanese, which is what it showed before any of this existed. To
 translate one, put it in the glossary; there is nothing else to update.
 
-Names are checked against `mistranslated_names.json` as the glossary is
+Names are checked against `glossaries/mistranslated_names.json` as the glossary is
 rendered, and the build says so when a line names somebody and the English does
 not spell them the way the rest of the patch does. That check exists because
 `ハニー` went in as "Honey" here and as a race, and the repair pass in

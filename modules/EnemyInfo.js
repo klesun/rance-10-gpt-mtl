@@ -7,7 +7,7 @@
  *
  *   enemy_info_lines.v1.04.tsv   which slots they are, found in the code by
  *                                scripts/extract_enemy_info.js
- *   enemy_info_glossary.tsv      the English, written against the Japanese
+ *   glossaries/enemy_info_glossary.tsv      the English, written against the Japanese
  *
  * Keying the English by the Japanese rather than by slot number is what keeps
  * the two apart: the numbers belong to one build of one version of the game,
@@ -23,7 +23,7 @@ import {getTextWidth} from "./TextNormalization.js";
 export const ENEMY_INFO_GLOBALS = ["◆敵情報１", "◆敵情報２", "◆敵情報３", "◆敵情報４"];
 
 export const ENEMY_INFO_LINES = path.join(ROOT, "enemy_info_lines.v1.04.tsv");
-export const ENEMY_INFO_GLOSSARY = path.join(ROOT, "enemy_info_glossary.tsv");
+export const ENEMY_INFO_GLOSSARY = path.join(ROOT, "glossaries", "enemy_info_glossary.tsv");
 
 /**
  * What the panel fits on one line: the placeholder text the layout carries for

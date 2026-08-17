@@ -11,7 +11,8 @@
  *
  * This is for translating anything the dialogue has already named: places,
  * ranks, operations, the words a caption has to agree with. The name tables
- * settle characters (mistranslated_names.json, card_name_glossary.tsv); this
+ * settle characters (glossaries/mistranslated_names.json,
+ * glossaries/card_name_glossary.tsv); this
  * settles everything else, and settles it against what a player has already
  * read rather than against a fresh guess. 滅号作戦 is Operation Extermination
  * here, 永久牢 the Eternal Prison, 番裏の砦 Fort Banura -- none of which is

@@ -1,6 +1,6 @@
 /**
  * Collect the phrases あらすじモード still shows in Japanese into
- * summary_glossary.tsv, for somebody to write the English against.
+ * glossaries/summary_glossary.tsv, for somebody to write the English against.
  *
  *   node scripts/extract_summary_lines.js
  *
