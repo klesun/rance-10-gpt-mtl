@@ -1,14 +1,20 @@
 /**
- * Print the next batch of untranslated synopsis lines as a prompt to paste into
- * a chat, numbered so scripts/summary_merge.js can read the answer back.
+ * Write the next batch of untranslated synopsis lines to local/summary_chunk.txt
+ * as a prompt to paste into a chat, numbered so scripts/summary_merge.js can
+ * read the answer back.
  *
  *   node scripts/summary_chunk.js               # the next 150 still in Japanese
- *   node scripts/summary_chunk.js 80           # ...or as many as you say
+ *   node scripts/summary_chunk.js 80            # ...or as many as you say
  *   node scripts/summary_chunk.js --from=2000   # start at that row instead
+ *   node scripts/summary_chunk.js --clip        # and put it on the clipboard
  *
- * On Windows, `node scripts/summary_chunk.js 80 | clip` puts it straight on the
- * clipboard: the prompt goes to stdout and the "rows N to M" note to stderr, so
- * piping does not carry the note along.
+ * A file rather than stdout, overwritten every run, because the obvious way to
+ * pipe it on Windows -- `node scripts/summary_chunk.js | clip` -- turns every
+ * Japanese character into a question mark. clip.exe reads its input as the
+ * console code page unless it is UTF-16, and nothing about a pipe tells it the
+ * bytes are UTF-8. The file is UTF-8 like everything else here, and --clip goes
+ * through PowerShell's Set-Clipboard, which is handed text rather than bytes and
+ * so cannot get the encoding wrong.
  *
  * The numbers are positions in summary_glossary.tsv, and they are what makes
  * the round trip safe. Answering with the English alone would be a few hundred
@@ -23,8 +29,12 @@
  * spelled is a name it will spell its own way. Only the ones this batch
  * mentions, to keep the prompt short.
  */
+import * as fs from "fs/promises";
+import * as path from "path";
+import {spawnSync} from "child_process";
+import {ROOT} from "../modules/Env.js";
 import {createNameFinder} from "../modules/NameNormalizer.js";
-import {readSummaryGlossary, readSummaryLines} from "../modules/SummaryLines.js";
+import {CHUNK_FILE, REPLY_FILE, readSummaryGlossary, readSummaryLines} from "../modules/SummaryLines.js";
 
 /**
  * A count, however it was written: --size=80, --size 80, or a bare 80, since
@@ -106,7 +116,32 @@ const prompt = [
     ...pending.map(({number, japanese}) => `${number}\t${japanese}`),
 ].join("\n");
 
-console.log(prompt);
-console.error(`Rows ${pending[0].number} to ${pending[pending.length - 1].number}`
-    + ` of ${lines.length}, ${pending.length} phrases.`
-    + " Save the reply to a file and run: node scripts/summary_merge.js <file>");
+await fs.mkdir(path.dirname(CHUNK_FILE), {recursive: true});
+await fs.writeFile(CHUNK_FILE, prompt + "\n", "utf-8");
+
+/**
+ * Set-Clipboard rather than clip.exe, and -Encoding utf8 rather than trusting
+ * the default: Windows PowerShell 5.1 reads a file as the ANSI code page unless
+ * told otherwise, which is the same question marks by another route.
+ */
+const copyToClipboard = () => {
+    const result = spawnSync("powershell", [
+        "-NoProfile",
+        "-Command",
+        `Get-Content -Raw -Encoding utf8 -LiteralPath '${CHUNK_FILE}' | Set-Clipboard`,
+    ], {stdio: ["ignore", "ignore", "inherit"]});
+    if (result.error || result.status !== 0) {
+        console.log(`  could not reach the clipboard (${result.error?.message ?? `exit ${result.status}`})`
+            + " -- the file is written either way");
+        return false;
+    }
+    return true;
+};
+
+const copied = args.includes("--clip") && copyToClipboard();
+
+console.log(`Rows ${pending[0].number} to ${pending[pending.length - 1].number}`
+    + ` of ${lines.length}, ${pending.length} phrases`
+    + ` -> ${path.relative(ROOT, CHUNK_FILE)}${copied ? " and the clipboard" : ""}`);
+console.log(`Save the reply to ${path.relative(ROOT, REPLY_FILE)}`
+    + " and run: node scripts/summary_merge.js");

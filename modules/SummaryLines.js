@@ -39,6 +39,16 @@ export const SUMMARY_DATA = path.join(ROOT, "Rance10EX_v1_04", "37_あらすじ�
 export const SUMMARY_GLOSSARY = path.join(ROOT, "summary_glossary.tsv");
 
 /**
+ * The two scratch files a batch passes through: the prompt scripts/summary_chunk.js
+ * writes, and the reply scripts/summary_merge.js reads back if given no path.
+ *
+ * In local/, which is gitignored, because a batch in flight is nobody else's
+ * business and the glossary is where the result belongs.
+ */
+export const CHUNK_FILE = path.join(ROOT, "local", "summary_chunk.txt");
+export const REPLY_FILE = path.join(ROOT, "local", "summary_reply.txt");
+
+/**
  * What one row fits: the placeholder the layout carries for TextDesc in
  * Rance10Pact_v1_04/Game/Adv/SceneSummary.pactex.x, which is seven lines of
  * twenty full-width characters.

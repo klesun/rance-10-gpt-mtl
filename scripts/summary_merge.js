@@ -2,9 +2,15 @@
  * Read a chat's answer to scripts/summary_chunk.js back into
  * summary_glossary.tsv.
  *
- *   node scripts/summary_merge.js local/reply.txt
- *   node scripts/summary_merge.js local/reply.txt --force
- *   node scripts/summary_chunk.js | ... | node scripts/summary_merge.js
+ *   node scripts/summary_merge.js                    # local/summary_reply.txt
+ *   node scripts/summary_merge.js somewhere/else.txt
+ *   node scripts/summary_merge.js --force            # overwrite what is there
+ *   ... | node scripts/summary_merge.js -            # stdin, if you want it
+ *
+ * Whatever the editor saved it as: a UTF-16 or UTF-8 file from Notepad carries
+ * a byte order mark, and reading one as UTF-8 without looking would turn the
+ * whole reply into a single unplaceable line, or leave an invisible character
+ * in front of the first number.
  *
  * Takes the reply exactly as it comes -- code fence, stray "Here you go:",
  * "12. " instead of "12<TAB>", the Japanese echoed back before the English --
@@ -16,7 +22,10 @@
  * line costs that line and nothing after it.
  */
 import * as fs from "fs/promises";
+import * as path from "path";
+import {ROOT} from "../modules/Env.js";
 import {
+    REPLY_FILE,
     readSummaryGlossary,
     readSummaryLines,
     reportSummaryGlossary,
@@ -30,12 +39,36 @@ const readStdin = async () => {
     for await (const chunk of process.stdin) {
         chunks.push(chunk);
     }
-    return Buffer.concat(chunks).toString("utf-8");
+    return Buffer.concat(chunks);
+};
+
+/** Whichever of the three encodings a Windows editor decided on. */
+const decode = (bytes) => {
+    if (bytes[0] === 0xff && bytes[1] === 0xfe) {
+        return bytes.subarray(2).toString("utf16le");
+    }
+    if (bytes[0] === 0xfe && bytes[1] === 0xff) {
+        return bytes.subarray(2).swap16().toString("utf16le");
+    }
+    const text = bytes.toString("utf-8");
+    return text.startsWith("﻿") ? text.slice(1) : text;
 };
 
 const force = process.argv.includes("--force");
-const file = process.argv.slice(2).find(arg => !arg.startsWith("--"));
-const reply = file ? await fs.readFile(file, "utf-8") : await readStdin();
+const given = process.argv.slice(2).find(arg => !arg.startsWith("--"));
+// A path, "-" for stdin, or -- with neither -- the file summary_chunk.js told
+// you to save the reply to. Defaulting to stdin instead would mean a run with
+// no arguments sitting there reading a terminal nobody is going to type into,
+// on whichever console reports itself as a pipe.
+const file = !given ? REPLY_FILE : given === "-" ? null : given;
+const reply = decode(file ? await fs.readFile(file).catch(error => {
+    if (error.code !== "ENOENT") {
+        throw error;
+    }
+    console.error(`No reply at ${path.relative(ROOT, path.resolve(file))}.`
+        + " Save the chat's answer there, or pass the path to it.");
+    process.exit(1);
+}) : await readStdin());
 
 const lines = await readSummaryLines();
 const glossary = await readSummaryGlossary();
