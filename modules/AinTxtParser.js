@@ -23,7 +23,12 @@ export default function parseAin(ainTxt) {
     const unparsed = [];
     const parsed = [];
 
-    const lines = ainTxt.split("\n");
+    // Split on either ending, because which one a dump has is not a property of
+    // the dump: alice-tools writes LF, and a checkout with core.autocrlf=true --
+    // the Windows default -- hands the committed one back as CRLF. Splitting on
+    // "\n" alone left every line with a trailing \r that the $ below cannot get
+    // past, so nothing matched at all and the caller wrote an empty result.
+    const lines = ainTxt.split(/\r?\n/);
     for (const line of lines) {
         if (!line.trim()) {
             continue;
