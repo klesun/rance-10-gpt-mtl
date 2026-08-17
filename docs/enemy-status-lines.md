@@ -12,7 +12,7 @@ npm run regenerate-ain          # the build; reads the two files below
 
 | File | What it is |
 |---|---|
-| `enemy_info_lines.v1.04.tsv` | which string slots hold the lines — generated |
+| `game/extracted/enemy_info_lines.v1.04.tsv` | which string slots hold the lines — generated |
 | `glossaries/enemy_info_glossary.tsv` | the English, keyed by the Japanese — hand-written |
 
 ## Why they need finding rather than translating

@@ -7,7 +7,7 @@
 # belong to one build of one version of the game and the text does not, and
 # because a line the game reuses is then translated once rather than once per
 # enemy. scripts/extract_enemy_info.js writes the Japanese side, in
-# enemy_info_lines.v1.04.tsv; a line left out here stays Japanese in game.
+# game/extracted/enemy_info_lines.v1.04.tsv; a line left out here stays Japanese in game.
 #
 # The panel fits about twenty full-width characters per line and does not wrap,
 # so the build measures each of these and says which ones overhang.

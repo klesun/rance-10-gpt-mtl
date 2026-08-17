@@ -2,9 +2,12 @@
  * The game's own .ain and the dumps taken from it.
  *
  * game/ain/ holds what nobody edits by hand: Rance10.v1.04.ain exactly as it
- * ships, and what alice-tools makes of it. Everything written rather than
- * generated -- the cherry-picked system strings, the glossaries, the variants --
- * is under patches/, glossaries/ and variants/, however similar the name looks.
+ * ships, and what alice-tools makes of it. game/extracted/ beside it holds the
+ * two tables a build reads back out of that .ain and commits, which are equally
+ * nobody's to edit -- modules/EnemyInfo.js and modules/RaceNames.js name those,
+ * since each is read by one thing. Everything written rather than generated --
+ * the cherry-picked system strings, the glossaries, the variants -- is under
+ * patches/, glossaries/ and variants/, however similar the name looks.
  *
  * Not to be confused with GAME_DIR, which modules/AliceTools.js expands {game}
  * to: that is the installed game a build writes into, this is the copy under

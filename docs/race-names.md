@@ -10,7 +10,7 @@ npm run regenerate-ain          # the build; generates build/race_names.jaf and 
 
 | File | What it is |
 |---|---|
-| `race_names.v1.04.tsv` | which number is which race — generated |
+| `game/extracted/race_names.v1.04.tsv` | which number is which race — generated |
 | `glossaries/race_name_glossary.tsv` | the English, keyed by the Japanese — hand-written |
 | `build/race_names.jaf` | the override the build compiles — generated, gitignored |
 

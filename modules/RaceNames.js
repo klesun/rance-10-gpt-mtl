@@ -42,7 +42,7 @@ import {getTextWidth} from "./TextNormalization.js";
 
 export const RACE_FUNCTION = "表示種族";
 
-export const RACE_NAMES = path.join(ROOT, "race_names.v1.04.tsv");
+export const RACE_NAMES = path.join(ROOT, "game", "extracted", "race_names.v1.04.tsv");
 export const RACE_GLOSSARY = path.join(ROOT, "glossaries", "race_name_glossary.tsv");
 
 /**

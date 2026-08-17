@@ -14,7 +14,7 @@
  *     PUSHGLOBALPAGE / PUSH <◆敵情報N> / REF / S_PUSH <string> / S_ASSIGN
  *
  * So this dumps the code section, walks it for that shape, and writes the
- * slots it found to enemy_info_lines.v1.04.tsv. That file is the input to the
+ * slots it found to game/extracted/enemy_info_lines.v1.04.tsv. That file is the input to the
  * build, which means the search runs when the .ain changes rather than on
  * every build -- the same arrangement scripts/generate_card_names.js has.
  *

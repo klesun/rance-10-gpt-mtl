@@ -5,7 +5,8 @@
  * assigning to its string slot, and the same slot serves every enemy pushing
  * that text. Two files hold this between them:
  *
- *   enemy_info_lines.v1.04.tsv   which slots they are, found in the code by
+ *   game/extracted/enemy_info_lines.v1.04.tsv
+ *                                which slots they are, found in the code by
  *                                scripts/extract_enemy_info.js
  *   glossaries/enemy_info_glossary.tsv      the English, written against the Japanese
  *
@@ -22,7 +23,7 @@ import {getTextWidth} from "./TextNormalization.js";
 
 export const ENEMY_INFO_GLOBALS = ["◆敵情報１", "◆敵情報２", "◆敵情報３", "◆敵情報４"];
 
-export const ENEMY_INFO_LINES = path.join(ROOT, "enemy_info_lines.v1.04.tsv");
+export const ENEMY_INFO_LINES = path.join(ROOT, "game", "extracted", "enemy_info_lines.v1.04.tsv");
 export const ENEMY_INFO_GLOSSARY = path.join(ROOT, "glossaries", "enemy_info_glossary.tsv");
 
 /**
