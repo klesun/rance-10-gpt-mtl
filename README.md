@@ -7,22 +7,20 @@ So, apparently, with [alice-tools](https://github.com/nunuhara/alice-tools) it's
 
 And, as we all know, nowadays ChatGPT is a thing so it should be rather easy to translate the game with rather fine quality.
 
-I'll put here the scripts and their output.
-
 Youtube recordings of the walkthrough with this English patch:
 https://www.youtube.com/playlist?list=PL_mejOc9nYCLg6V_FI9ISiafdjH2CW2Mv
 
 You can obtain the game copy here: (please, support the developer!)
 https://www.dlsite.com/pro/work/=/product_id/VJ011759.html
 
-Alternative link:
-magnet:?xt=urn:btih:56a41b8aca7f2753ad58f96d69def852ddf7dd41&dn=Rance%2010&xl=4262760435
+## Examples
 
 Before:
+
 <img width="1186" height="834" alt="image" src="https://github.com/user-attachments/assets/53ffc48b-1b7c-469f-a79a-b31c248846a2" />
 
-
 After:
+
 <img width="1109" height="844" alt="image" src="https://github.com/user-attachments/assets/5233c5d3-83e8-4e20-807d-a0cbef5e5c81" />
 
 
@@ -39,7 +37,7 @@ ______________________________________
 
 There is more than one translation of the dialogue in here. `npm run regenerate-ain` builds the `gpt` one, the translation this repository has always shipped; `node scripts/ain.js --variant=grok` builds a second translation of the whole script, made in [the fork](https://github.com/IdOnThAvEaUsE69/rance-10-gpt-mtl-fork) by putting the Japanese through Grok, and `TRANSLATION_VARIANT` in `.env` changes which one you get by default. (The npm spelling of the flag, `npm run regenerate-ain -- --variant=grok`, works in cmd.exe and bash but not in PowerShell, which eats the bare `--` and quietly builds the default instead.) Only the dialogue differs — the UI text, the card names and the images are the same either way. See [docs/translation-variants.md](docs/translation-variants.md) for what a variant is made of and how to add one.
 
-(there are also some image translations in `archives/Rance10CG2_v1_04` and `archives/Rance10Flat_v1_04` folders, but for them there is currently no simple command)
+The images are English too, in `archives/Rance10Flat_v1_04` and `archives/Rance10CG2_v1_04`, and they are the one thing here with no command. `ar pack` rebuilds an archive out of every entry it holds rather than patching the one file you changed, so packing either of those needs the game's own copy of the thousands of images nobody translated — half a gigabyte the repository cannot carry. See [docs/image-archives.md](docs/image-archives.md) for how each is packed, and what a mistake costs you.
 
 Character names and card labels are English too, but they cannot simply be translated in the data: a character's `識別名` and a card's `Id` double as the keys your save file stores rank and event progress under, so translating them makes every rank read back as zero. Instead `patches/card_names.jaf` patches the two display accessors to look the English text up in the `識別名情報` tree, keeping the keys Japanese. `npm run regenerate-ain` applies it, and nothing extra is needed to build.
 
@@ -56,65 +54,4 @@ text. See [docs/synopsis-screen.md](docs/synopsis-screen.md).
 
 The four hint lines under an enemy's stats in battle are English too, from `glossaries/enemy_info_glossary.tsv`. They are string literals rather than dialogue, and they sit in the dump among every enemy's internal code name, so which ones they are is found in the code rather than by reading: `npm run regenerate-enemy-info` does that and writes `game/extracted/enemy_info_lines.v1.04.tsv`, which is committed and only needs re-running after the `.ain` changes. `npm run regenerate-ain` applies them. See [docs/enemy-status-lines.md](docs/enemy-status-lines.md).
 
---------------------------------------
-
-## To replace images from [archives/Rance10Flat_v1_04](archives/Rance10Flat_v1_04)
-- Copy-replace the [archives/Rance10Flat_v1_04](archives/Rance10Flat_v1_04) folder into the /flat/ folder extracted from `Rance10Flat.afa` in Program Files
-- Run from the game installation directory in Program Files: `c:\m\alice-tools\alice.exe ar pack .\Rance10Flat_manifest.txt`
-
-## To replace images from [archives/Rance10CG2_v1_04](archives/Rance10CG2_v1_04)
-
-`ar pack` does not patch an archive in place — it rebuilds the whole thing out of the 4243 entries
-[archives/Rance10CG2_manifest.txt](archives/Rance10CG2_manifest.txt) lists. So the source directory it reads, `CG2-raw`, has to hold
-every one of those files and not just the ones you changed. It is not in the repository (it is half a gigabyte of the
-game's own assets, and it is gitignored); you make it by extracting the game's `Rance10CG2.afa`.
-
-Use alice-tools **0.13.0** throughout. 0.9.1 answers `Invalid manifest type` to an `#ALICEPACK` manifest, so
-`ALICE_EXE_PACK` — which exists because `#BATCHPACK` needs the newer build — is the right binary here too.
-
-1. **Back up `Rance10CG2.afa` first.** `ar pack` creates and truncates its destination *before* it reads the first
-   source file, so anything that goes wrong afterwards leaves you with a 0-byte archive and no game images at all.
-2. Extract the original, from the repository root:
-
-       alice ar extract --raw -o CG2-raw "%GAME_DIR%\Rance10CG2.afa"
-
-   `--raw` matters: without it alice re-encodes every `.ajp` as a `.png`, and then no entry in the manifest matches
-   what is on disk. Expect this to stop early — see below — and check that `CG2-raw` really ends up with 4243 files.
-3. Copy [archives/Rance10CG2_v1_04](archives/Rance10CG2_v1_04) over `CG2-raw`, then rename `イベ／地図／セキガハラ.ajp.png` to
-   `イベ／地図／セキガハラ.png`. It is the one translated image whose name still carries the original extension; the
-   manifest spells it without.
-4. Copy `archives/Rance10CG2_manifest.txt` **into `CG2-raw`** and change its second line to your own game directory. That line is the
-   destination, quoted C-style, so every backslash in it is doubled:
-
-       "E:\\some\\path\\Rance10CG2.afa"
-
-   It has to live inside `CG2-raw` because 0.13.0 prints `Unrecognized manifest option: '--src-dir=CG2-raw'` and
-   resolves every source path relative to *the manifest's own directory*. Running it from elsewhere fails on the very
-   first entry with `can't determine size of file` — and, per step 1, only after it has already blanked the destination.
-5. Pack into a scratch directory rather than straight over the game's copy:
-
-       alice ar pack CG2-raw\pack.manifest.txt
-
-6. Verify the result before installing it, the same way the `.ain` build is verified against the built file:
-
-       alice ar list built.afa
-
-   You want 4243 entries, and a diff against the same listing of the original archive should show changes only in the
-   images you translated, each one `.ajp` becoming `.png`. Then copy the built archive over the game's and start the
-   game.
-
-### The extraction stops on a file name Windows will not accept
-
-`シス／数字／１６ドット用?.ajp` and its 18-dot twin have a **literal `?`** in the name — that is how they ship, which
-you can confirm by inflating the archive's zlib-compressed `INFO` table and reading the CP932 bytes: `∞` is stored as
-`81 87` where these two are stored as `3f`. Legal inside an archive, illegal in a Windows path, so `fopen` fails with
-`Invalid argument` — and alice does not skip the entry and carry on, it **abandons the rest of the archive**. In v1.04
-the 16-dot one is index 4197, so you lose it and the 45 entries after it, 46 in all.
-
-Extract those by index, giving each one its name from the manifest so alice never has to convert the stored one:
-
-    alice ar extract --raw -i 4197 -o "CG2-raw/シス／数字／１６ドット用〜.ajp" "%GAME_DIR%\Rance10CG2.afa"
-
-Archive index *N* is manifest line *N+3*. The manifest writes `〜` (U+301C) where the archive has `?`, which is what
-makes the file writable; packing converts it back to `3f`, so the rebuilt archive matches the original byte for byte at
-those names. Do not "fix" the manifest to say `?` — you would only get a file you cannot create.
+The rest of `docs/` is the write-ups those paragraphs link to, plus [docs/coherence-sweep.md](docs/coherence-sweep.md) — twelve sessions of reading the translated dialogue line by line by hand, kept for the taxonomy of errors it arrived at rather than as instructions to follow.
