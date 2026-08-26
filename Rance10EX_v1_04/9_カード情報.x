@@ -10558,7 +10558,7 @@ tree カード情報 = {
 	},
 	ストロンガー = {
 		説明１ = "A powerful bow found in",
-		説明２ = "Margrid's Labyrinth",
+		説明２ = "Malgrid's Labyrinth",
 		説明３ = "It sparks electricity",
 	},
 	真・守り神様 = {
