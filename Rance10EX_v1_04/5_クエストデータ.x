@@ -4376,7 +4376,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "エール",
-					説明 = "Greeting to Princess Kaori.",
+					説明 = "Greeting to Princess Kou.",
 					物語 = "６０５／選択／香姫に会いに",
 				},
 				分岐前 = {
@@ -33526,7 +33526,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "What was I doing? Oh right,\nthe dumplings...",
+					説明 = "What was I doing? Oh right,\nthe dangos...",
 				},
 			},
 		},
@@ -33580,11 +33580,11 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐左 = {
 					顔画像 = "ランス",
-					説明 = "That way smells like\ndumplings!",
+					説明 = "That way smells like\ndangos!",
 				},
 				分岐前 = {
 					顔画像 = "ランス",
-					説明 = "This way seems dumpling-y!",
+					説明 = "This way seems dango-y!",
 				},
 			},
 		},
@@ -33628,7 +33628,7 @@ tree クエストデータ = {
 			選択分岐 = {
 				分岐前 = {
 					顔画像 = "ピグ",
-					説明 = "It's about time to find them,\ndumplings, dumplings.",
+					説明 = "It's about time to find them,\ndangos, dangos.",
 				},
 			},
 		},

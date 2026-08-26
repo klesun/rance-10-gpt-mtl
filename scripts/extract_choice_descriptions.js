@@ -113,7 +113,7 @@ const translations = `出発します\tWe're departing.
 まずは城内の鬼をr制圧しなくてはいけない\tFirst, we must suppress the demons inside the castle.
 片付いたか\tIs it cleaned up?
 よろしくお願いします\tPlease take care of it.
-香姫に挨拶\tGreeting to Princess Kaori.
+香姫に挨拶\tGreeting to Princess Kou.
 急ぎ死国へ向かう\tHurry and head to the country of death.
 わくわく\tExcited.
 深根が居る\tFukane is here.
@@ -1848,15 +1848,15 @@ Mランドへ向かうぞ\tHeading towards M Land.
 あれ、どっち行ったの！？\tHuh, which way did it go?!
 逃がすかーーーーー！！\tI won't let you escape!!!
 闘将かrま、こき使ってやろう\tA battle commander, huh? Well, I'll put you to work.
-なにやってたっけ？rおおそうだ、だんごを…\tWhat was I doing? Oh right, the dumplings...
+なにやってたっけ？rおおそうだ、だんごを…\tWhat was I doing? Oh right, the dangos...
 何か動いた！　あっちだ！\tSomething moved! Over there!
 静けさが怪しい…こっちか？\tThe silence is suspicious... Could it be this way?
 お宝の気配が…さては！\tThe presence of treasure... Could it be!
 ふわー　鬼ごっこつよーい！\tWow, tag is really strong!
-あっちがだんごくさい！\tThat way smells like dumplings!
-こっちがだんごっぽい！\tThis way seems dumpling-y!
+あっちがだんごくさい！\tThat way smells like dangos!
+こっちがだんごっぽい！\tThis way seems dango-y!
 む…もうこんな時間か\tHmm... Is it already this late?
-そろそろ見つけたいねrだんご　だんご\tIt's about time to find them, dumplings, dumplings.
+そろそろ見つけたいねrだんご　だんご\tIt's about time to find them, dangos, dangos.
 お、見覚えのある扉が……\tOh, a door that looks familiar...
 言う事きかんならブッ壊す！\tIf it doesn't obey me, I'll smash it!
 追え追えーー！\tChase it, chase it!

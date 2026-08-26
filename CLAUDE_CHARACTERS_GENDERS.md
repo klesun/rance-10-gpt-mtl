@@ -147,7 +147,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | **Chochoman Public** | Zeth Four Lord — **MALE** |
 | **LeMay** | Monster Army General, named after historical figure — **MALE** (wiki confirmed). GPT may write "Lady LeMay" — fix to "Lord LeMay". |
 | **Kola** (Cola) | Male, but a big reveal at line ~21996 — use "Kola" or "the angel" before the reveal to avoid exposing gender. After reveal: he/him. |
-| **Yutin Fulz** | Copandon's secretary — **Hermaphrodite** (wiki: "Sex Hermaphrodite"). Use they/them or avoid gendered pronouns. |
+| **Yutin Fulz** | Copandon's secretary — **Hermaphrodite** (wiki: "Sex Hermaphrodite"). Source JP consistently frames her as female (called ふたなり娘, "futanari girl"), and existing GPT translations use "she/her" throughout — use **she/her** to match established practice and source characterization, not they/them. |
 | **Amades Kakades** | User-confirmed **MALE**. |
 | **Doss (Doessky)** | User-confirmed **MALE**. |
 | **Samezan** | User-confirmed **FEMALE**. |
@@ -257,6 +257,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Dolhan Cricket | ドルハン・クリケット | Male | RQ |
 | Don Doessky | ドン・ドエススキー | Male | RX |
 | Doss | ドッス | Male | RX |
+| El | エール | Male | RX |
 | Eleanor Ran | エレノア・ラン | Female | RIII RX |
 | Elena Flower | エレナ・フラワー | Female | RX |
 | Elena L.R. | エレナ・エルアール | Female | RIV |
@@ -428,7 +429,7 @@ Never run `git commit` on your own initiative. Make all file edits freely, but d
 | Omachi | お町 | Female | SR RX |
 | Onoha Mespos | オノハ・メスポス | Female | RX |
 | Orime | 折女 | Female | SR RX |
-| Oruore the 3rd | オルオレ・ザ・サード | Male | RX |
+| Oluore the 3rd | オルオレ・ザ・サード | Male | RX |
 | Ouka Toki | 凰火 朱鷺 | Female | SR |
 | Pamela Helman | パメラ・ヘルマン | Female | RIII RIX |
 | Papaya Server | パパイア・サーバー | Female | RX |

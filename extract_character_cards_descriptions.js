@@ -2152,29 +2152,29 @@ AMONG THEM, RESET IS HER BEST FRIEND.\tAMONG THEM, RESET IS HER BEST FRIEND.
 １２３４５６７８９０１２３４５６７８９０１２３４５６\t12345678901234567890123456
 １２３４５６７８９０１２３４５６７８９０１２３４５６\t12345678901234567890123456
 １２３４５６７８９０１２３４５６７８９０１２３４５６\t12345678901234567890123456
-織田香\tOda Kaori
+織田香\tOda Kou
 ＪＡＰＡＮ国主 織田家当主\tRuler of JAPAN, Head of the Oda family
 護身術２、ガード１、軍師１、毒１\tSelf-defense 2, Guard 1, Strategist 1, Poison 1
 ランスの力で統一されたＪＡＰＡＮの平和が絶えぬよう、\tTo ensure the peace of JAPAN unified by Rance's power remains eternal,
 ランス、そして亡き兄信長に代わって\tShe dutifully serves as ruler in place of Rance and her late brother Nobunaga.
 国主を務める健気な少女\tA brave girl who serves as the ruler.
-団子作りが趣味だができる団子は何故か殺人兵器に\tHer hobby is making dumplings, but for some reason, the dumplings she makes become lethal weapons.
-織田香\tOda Kaori
+団子作りが趣味だができる団子は何故か殺人兵器に\tHer hobby is making dangos, but for some reason, the dangos she makes become lethal weapons.
+織田香\tOda Kou
 ＪＡＰＡＮ国主 織田家当主\tRuler of JAPAN, Head of the Oda family
 護身術２、ガード１、軍師１、毒１\tSelf-defense 2, Guard 1, Strategist 1, Poison 1
-数年前から香姫はＪＡＰＡＮ一美しい姫として大陸でも\tFor several years, Kaori-hime has been known on the continent as the most beautiful princess in JAPAN.
-有名な存在であった。それは主に香姫の兄信長が、\tShe was a famous figure. This was mainly because Kaori-hime's brother Nobunaga,
+数年前から香姫はＪＡＰＡＮ一美しい姫として大陸でも\tFor several years, Kou-hime has been known on the continent as the most beautiful princess in JAPAN.
+有名な存在であった。それは主に香姫の兄信長が、\tShe was a famous figure. This was mainly because Kou-hime's brother Nobunaga,
 妹バカすぎて周囲にそのように宣伝しまくったからである\twas so doting on his sister that he kept promoting her like that to those around him.
 噂を期待してＪＡＰＡＮに来たランスは\tLance, who came to JAPAN with great expectations from the rumors,
-まだまだ未成熟な香姫を見てとてもがっかりした\twas very disappointed to see that Kaori-hime was still very immature.
-織田香\tOda Kaori
+まだまだ未成熟な香姫を見てとてもがっかりした\twas very disappointed to see that Kou-hime was still very immature.
+織田香\tOda Kou
 ＪＡＰＡＮ国主 織田家当主\tRuler of JAPAN, head of the Oda family
 護身術２、ガード１、軍師１、毒１\tSelf-defense 2, Guard 1, Strategist 1, Poison 1
 守られるだけの存在ではいられないと心に決めた時から\tSince she decided in her heart that she would not just be someone to be protected,
 彼女に眠る力は少しずつ開花していった\tthe power sleeping within her gradually began to blossom.
 様々な武将を師と仰ぎめきめきと力をつけているが\tShe has been looking up to various warlords as her teachers and rapidly gaining strength,
 その潜在能力が完全に目覚めるのはもう少し先である\tbut her latent potential will fully awaken a little further down the road.
-織田香\tOda Kaori
+織田香\tOda Kou
 ＪＡＰＡＮ国主 織田家当主\tRuler of JAPAN, head of the Oda family
 護身術２、ガード１、軍師１、毒１\tSelf-defense 2, Guard 1, Strategist 1, Poison 1
 魔人ザビエル一派の罠にかかり、同世代の子供達に\tShe fell into a trap set by the demon Xavier faction and was gang-raped by children of the same age,
@@ -2185,7 +2185,7 @@ AMONG THEM, RESET IS HER BEST FRIEND.\tAMONG THEM, RESET IS HER BEST FRIEND.
 織田家家老\tOda family chief retainer
 栄養士ＬＶ３\tNutritionist Lv3
 代々織田家に仕えてきた電波の妖怪\tA radio wave monster who has served the Oda family for generations.
-生まれたときから面倒を見てきた香姫を\tShe has been taking care of Kaori-hime since she was born,
+生まれたときから面倒を見てきた香姫を\tShe has been taking care of Kou-hime since she was born,
 何よりも大切に思っている\tand considers her more important than anything else.
 毛利てる\tMouri Teru
 毛利家当主\tHead of the Mouri family
@@ -3850,21 +3850,21 @@ Not of combat, but of calligraphy.\tNot of combat, but calligraphy.
 自由を愛し、カエルが苦手なその娘は\tLoving freedom and afraid of frogs, that girl
 ほんのわずかな期間、ランスの友として冒険し\tadventured as Rance's friend for just a short time,
 充実な日々を過ごして、この世を去ったという。\tspent fulfilling days, and then passed away from this world.
-ミックス・トー\tMix To
+ミックス・トー\tMix Tou
 医者\tDoctor
 医術２、魔法２、料理１、政治１、剣１、盗賊１\tMedical Skill 2, Magic 2, Cooking 1, Politics 1, Sword 1, Thief 1
 ミラクルとランスの間に生まれた子供\tA child born between Miracle and Rance.
 覇道を好む母への反発と神異変によって\tDue to rebellion against his mother who favors conquest,
 神魔法が失われつつあることから\tand the divine calamity causing lost divine magic,
 人々を救う医学の道を志した\the aspired to the path of medicine to save people.
-ミックス・トー\tMix To
+ミックス・トー\tMix Tou
 医者\tDoctor
 医術２、魔法２、料理１、政治１、剣１、盗賊１\tMedical Skill 2, Magic 2, Cooking 1, Politics 1, Sword 1, Thief 1
 体も小さく正面戦闘は得意ではない\tSmall in body and not good at frontal combat.
 しかし、人に興味のなさそうな態度の反面\tHowever, despite seeming uninterested in people,
 こまごまと周囲の人間の状態に気を配れる\the carefully monitors the conditions of those around him.
 広い視野を持ち、優れたサポート能力を発揮する\tWith a broad perspective, he demonstrates excellent support abilities.
-ミックス・トー\tMix To
+ミックス・トー\tMix Tou
 医者\tDoctor
 医術２、魔法２、料理１、政治１、剣１、盗賊１\tMedical Skill 2, Magic 2, Cooking 1, Politics 1, Sword 1, Thief 1
 ミックスにとって医学は、研究のための研究ではなく\tFor Mix, medicine is not research for the sake of research,
@@ -4032,7 +4032,7 @@ Not of combat, but of calligraphy.\tNot of combat, but calligraphy.
 山本乱義\tRangiku Yamamoto
 ＪＡＰＡＮ国主\tJAPAN Lord
 弓２、政治１\tBow 2, Politics 1
-一時は三種の神器を揃えた香姫がＪＡＰＡＮの帝と\tFor a time, Princess Kaori, possessing the Three Sacred Treasures, became the Emperor of JAPAN,
+一時は三種の神器を揃えた香姫がＪＡＰＡＮの帝と\tFor a time, Princess Kou, possessing the Three Sacred Treasures, became the Emperor of JAPAN,
 なっていたが神異変を境にその力も消えてしまった\tbut after the divine upheaval, that power vanished.
 もとより大陸制覇の野望を持つ乱義にとっては\tFor Rangiku, who harbors ambitions to conquer the continent,
 さしたる問題ではなかったようだ\tit did not seem to pose a significant problem.
