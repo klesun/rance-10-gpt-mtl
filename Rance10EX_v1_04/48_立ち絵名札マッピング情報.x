@@ -994,7 +994,6 @@ table 立ち絵名札マッピング情報 = {
 	{ "傭兵隊長／", "Mercenary Captain" },
 	{ "ＣＩＴＹ／", "CITY" },
 	{ "野良わんわん/", "Stray Dog" },
-<<<<<<< HEAD
 	{ "魔物兵達", "Monster Soldiers" },
 	{ "女性の声", "Female voice" },
 	{ "魔物隊長ラカン", "Monster Captain Lakan" },
@@ -1048,10 +1047,8 @@ table 立ち絵名札マッピング情報 = {
 	{ "連合軍参謀", "Allied Chiefs of Staff" },
 	{ "野良わんわん", "Stray Dog" },
 	{ "連合軍小隊長", "Allied Platoon Leader" },
-	{ "メイド", "Maid" },
 	{ "皆の声", "Everyone's voices" },
 	{ "闇郭公", "Dark Cuckoo" },
-	{ "女性の声", "Female voice" },
 	{ "リーザス砲兵部隊員", "Leazas Artillery Unit" },
 	{ "野太い声", "Deep Voice" },
 	{ "チョーロー", "Choro" }
